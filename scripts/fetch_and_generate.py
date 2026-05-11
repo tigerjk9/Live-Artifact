@@ -22,6 +22,8 @@ from dateutil import parser as dateutil_parser
 # 설정
 # ---------------------------------------------------------------------------
 
+BASE_URL = "https://tigerjk9.github.io/Live-Artifact"
+
 TOKEN = os.environ.get("NEWS_TOKEN", "")
 HEADERS = (
     {
@@ -707,8 +709,9 @@ def backfill_archives(
             print(f"[SKIP] {target_str}: 데이터 없음", file=sys.stderr)
             continue
 
+        canonical = f"{BASE_URL}/archive/{target_str}.html"
         with open(archive_path, "w", encoding="utf-8") as f:
-            f.write(fixup_archive_paths(html))
+            f.write(fixup_archive_paths(html).replace("{{PAGE_CANONICAL}}", canonical))
         created += 1
         print(f"[BACKFILL] {target_str}.html ({total}건)", file=sys.stderr)
 
@@ -798,15 +801,16 @@ def main() -> None:
     html, total = render_date_html(today, template, date_nav, last_updated_iso, last_updated_kr)
     print(f"[OK] 오늘({today}): 총 {total}건", file=sys.stderr)
 
-    # 6. archive/{today}.html 저장 (경로 보정 적용)
+    # 6. archive/{today}.html 저장 (경로 보정 + canonical 적용)
     archive_path = os.path.join(archive_dir, f"{today}.html")
+    archive_canonical = f"{BASE_URL}/archive/{today}.html"
     with open(archive_path, "w", encoding="utf-8") as f:
-        f.write(fixup_archive_paths(html))
+        f.write(fixup_archive_paths(html).replace("{{PAGE_CANONICAL}}", archive_canonical))
     print(f"[OK] 아카이브 저장: {archive_path}", file=sys.stderr)
 
-    # 7. index.html 갱신 (root 경로 그대로)
+    # 7. index.html 갱신 (root canonical)
     with open(output_path, "w", encoding="utf-8") as f:
-        f.write(html)
+        f.write(html.replace("{{PAGE_CANONICAL}}", BASE_URL + "/"))
     print(f"[OK] index.html 갱신: {output_path}", file=sys.stderr)
 
     # 8. dates.json 업데이트 (archive_dir 스캔)

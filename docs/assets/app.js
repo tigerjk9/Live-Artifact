@@ -437,4 +437,15 @@
     });
   }
 
+  /* ============================================================
+     11. Service Worker 등록 (PWA 오프라인 지원)
+     ============================================================ */
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', function () {
+      var isArchive = window.location.pathname.indexOf('/archive/') !== -1;
+      navigator.serviceWorker.register(isArchive ? '../sw.js' : 'sw.js')
+        .catch(function (e) { console.warn('[SW] 등록 실패:', e); });
+    });
+  }
+
 })();

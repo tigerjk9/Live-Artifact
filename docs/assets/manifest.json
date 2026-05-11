@@ -1,0 +1,19 @@
+{
+  "name": "Daily Intelligence",
+  "short_name": "DI",
+  "description": "교육 뉴스, AI 논문, AI 기술 뉴스 일일 브리핑",
+  "start_url": "/Live-Artifact/",
+  "scope": "/Live-Artifact/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f7f7fa",
+  "theme_color": "#131a2a",
+  "icons": [
+    {
+      "src": "facilitator.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
