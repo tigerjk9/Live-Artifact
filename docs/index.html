@@ -4,10 +4,10 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Daily Intelligence — 2026년 05월 11일</title>
-  <meta name="description" content="교육 뉴스, AI 논문, AI 기술 뉴스를 한눈에 — Daily Intelligence">
+  <meta name="description" content="교육 뉴스, AI 논문, AI 기술 뉴스 일일 브리핑 — Daily Intelligence">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600&family=Noto+Serif+KR:wght@400;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
@@ -15,34 +15,33 @@
   <header class="site-header">
     <div class="header-inner">
       <div class="brand">
-        <span class="brand-icon" aria-hidden="true">📡</span>
-        <h1 class="brand-name">Daily Intelligence</h1>
+        <span class="brand-signal" aria-hidden="true"></span>
+        <span class="brand-name">Daily Intelligence</span>
       </div>
-      <div class="header-meta">
-        <span class="current-date" aria-label="오늘 날짜">2026년 05월 11일</span>
-        <button class="theme-toggle" aria-label="다크모드 전환" title="다크모드 전환">🌙</button>
+      <div class="header-right">
+        <time class="header-date">2026년 05월 11일</time>
+        <button class="theme-toggle" aria-label="테마 전환" title="라이트/다크 전환">
+          <span class="theme-icon">◐</span>
+        </button>
       </div>
     </div>
   </header>
 
   <nav class="date-nav" aria-label="날짜 선택">
-    <div class="date-nav-inner">
-      <a class="date-pill today active"
+    <a class="date-pill today active"
    href="index.html"
    aria-current="page">
   오늘 (5/11)
 </a>
-    </div>
   </nav>
 
   <main class="news-grid" id="main-content">
-    <section class="news-column" data-category="edu" aria-labelledby="col-edu">
-      <h2 class="column-title" id="col-edu">
-        <span class="col-icon" aria-hidden="true">📚</span>
-        교육 뉴스
-      </h2>
-      <div class="cards" role="list">
-        <article class="news-card" role="listitem">
+
+    <section class="news-col" data-cat="edu" aria-labelledby="col-edu-label">
+      <div class="col-header">
+        <span class="col-label" id="col-edu-label">교육 뉴스</span>
+      </div>
+      <div class="col-items" role="list"><article class="news-card" role="listitem">
   <div class="card-meta">
     <span class="card-source">아시아투데이</span>
     <span class="card-meta-sep" aria-hidden="true">·</span>
@@ -221,17 +220,14 @@
       읽기 &rarr;
     </a>
   </div>
-</article>
-      </div>
+</article></div>
     </section>
 
-    <section class="news-column" data-category="paper" aria-labelledby="col-paper">
-      <h2 class="column-title" id="col-paper">
-        <span class="col-icon" aria-hidden="true">🔬</span>
-        AI 논문
-      </h2>
-      <div class="cards" role="list">
-        <article class="news-card" role="listitem">
+    <section class="news-col" data-cat="paper" aria-labelledby="col-paper-label">
+      <div class="col-header">
+        <span class="col-label" id="col-paper-label">AI 논문</span>
+      </div>
+      <div class="col-items" role="list"><article class="news-card" role="listitem">
   <div class="card-meta">
     <span class="card-source">openalex</span>
     <span class="card-meta-sep" aria-hidden="true">·</span>
@@ -365,17 +361,14 @@
       논문 보기 &rarr;
     </a>
   </div>
-</article>
-      </div>
+</article></div>
     </section>
 
-    <section class="news-column" data-category="tech" aria-labelledby="col-tech">
-      <h2 class="column-title" id="col-tech">
-        <span class="col-icon" aria-hidden="true">🤖</span>
-        AI 기술
-      </h2>
-      <div class="cards" role="list">
-        <article class="news-card" role="listitem">
+    <section class="news-col" data-cat="tech" aria-labelledby="col-tech-label">
+      <div class="col-header">
+        <span class="col-label" id="col-tech-label">AI 기술</span>
+      </div>
+      <div class="col-items" role="list"><article class="news-card" role="listitem">
   <div class="card-meta">
     <span class="card-source">AI Times</span>
     <span class="card-meta-sep" aria-hidden="true">·</span>
@@ -554,13 +547,13 @@
       읽기 &rarr;
     </a>
   </div>
-</article>
-      </div>
+</article></div>
     </section>
+
   </main>
 
   <footer class="site-footer">
-    <span class="footer-updated">Last updated: <time datetime="2026-05-11T15:20:53Z">2026-05-11T15:20:53Z</time></span>
+    <span class="footer-updated">갱신 <time datetime="2026-05-11T15:34:05Z">2026-05-11T15:34:05Z</time></span>
     <a class="footer-link" href="https://github.com/tigerjk9" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
   </footer>
 
