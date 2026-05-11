@@ -205,26 +205,59 @@ def escape_html(text: str) -> str:
 def strip_html(text: str) -> str:
     """HTML 태그/엔티티/잘린 태그를 모두 제거하고 공백 정리한다.
 
-    원천이 RSS feed 등에서 가져온 경우 다음 케이스를 모두 처리:
+    다중 인코딩 케이스를 포함하여 모두 처리:
       - 정상 태그: <a href=...>...</a>
       - 잘린 태그: <img width="..." src="https://..."  (닫는 > 없음)
-      - HTML 엔티티: &lt;a&gt; → <a>
-      - 연속 공백/줄바꿈
+      - 단일 인코딩 엔티티: &lt;a&gt; → <a>
+      - 이중 인코딩 엔티티: &amp;lt;img → &lt;img → <img
+      - 미디어 태그(img/figure/picture/video): 내용 전체 제거
     """
     if not text:
         return ""
-    # 1) 엔티티 디코드
-    t = html.unescape(text)
-    # 2) 정상 태그 제거 (가장 일반적인 경우)
-    t = re.sub(r"<[^>]*>", "", t)
-    # 3) 잘린 태그 제거: < 뒤에 닫는 > 가 없는 부분 (다음 < 또는 끝까지)
-    t = re.sub(r"<[^<]*$", "", t)
-    t = re.sub(r"<[^<]*?(?=<)", "", t)
-    # 4) 잔여 단독 < 또는 > 제거
+    # 1) 이중 인코딩 대응: 두 번 unescape (안전함 — 단일 인코딩에도 멱등)
+    t = html.unescape(html.unescape(text))
+    # 2) 미디어 태그 선행 제거 (img/figure/picture/video — 내용 없는 태그)
+    t = re.sub(r"<(?:img|figure|picture|video|source|iframe)\b[^>]*>", "", t, flags=re.IGNORECASE | re.DOTALL)
+    # 3) 정상 태그 제거 (멀티라인 포함)
+    t = re.sub(r"<[^>]*>", "", t, flags=re.DOTALL)
+    # 4) 잘린 태그 제거
+    t = re.sub(r"<\w[^<]*$", "", t)          # 끝까지 닫히지 않은 태그
+    t = re.sub(r"<\w[^<]*?(?=<)", "", t)     # 다음 < 전에 닫히지 않은 태그
+    t = re.sub(r"<\w[^>]*", "", t)           # 기타 미완성 태그
+    # 5) 잔여 < > 제거
     t = t.replace("<", " ").replace(">", " ")
-    # 5) 공백 정리
+    # 6) 공백 정리
     t = re.sub(r"\s+", " ", t).strip()
     return t
+
+
+def fix_html_artifacts_in_archives(archive_dir: str) -> int:
+    """기존 아카이브 HTML에서 잘못 렌더된 HTML 아티팩트를 제거한다.
+
+    이중 인코딩 버그로 entry-desc에 &lt;img...&gt; 텍스트가 삽입된 경우를 정리.
+    Returns: 수정된 파일 수
+    """
+    artifact_desc = re.compile(
+        r'<p class="entry-desc">\s*&lt;(?:img|figure|picture|video)[^<]*?</p>',
+        re.DOTALL,
+    )
+    fixed = 0
+    for fname in os.listdir(archive_dir):
+        if not fname.endswith(".html"):
+            continue
+        fpath = os.path.join(archive_dir, fname)
+        try:
+            with open(fpath, encoding="utf-8") as f:
+                content = f.read()
+            cleaned = artifact_desc.sub("", content)
+            if cleaned != content:
+                with open(fpath, "w", encoding="utf-8") as f:
+                    f.write(cleaned)
+                fixed += 1
+                print(f"[FIX] HTML 아티팩트 제거: {fname}", file=sys.stderr)
+        except Exception as exc:
+            print(f"[WARN] 아카이브 정리 실패 {fname}: {exc}", file=sys.stderr)
+    return fixed
 
 
 def normalize_title(title: str) -> str:
@@ -790,6 +823,7 @@ def main() -> None:
 
     # 2.5. 기존 archive 파일들의 자산 경로 일괄 보정 (구버전 잔재 정리)
     fix_existing_archive_paths(archive_dir)
+    fix_html_artifacts_in_archives(archive_dir)
 
     # 3. 백필: archive_dir에 없는 과거 27일치 페치
     backfill_archives(today, archive_dir, template, last_updated_iso, last_updated_kr)
