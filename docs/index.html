@@ -11,6 +11,8 @@
 </head>
 <body data-filter="all">
 
+  <a class="skip-link" href="#main-content">본문으로 건너뛰기</a>
+
   <header class="site-header">
     <div class="header-inner">
       <div class="brand">
@@ -144,6 +146,20 @@
 </a>
     </div>
   </nav>
+
+  <div class="search-bar-wrap" role="search" aria-label="기사 검색">
+    <div class="search-bar-inner">
+      <svg class="search-icon" aria-hidden="true" width="15" height="15" viewBox="0 0 15 15" fill="none">
+        <circle cx="6.5" cy="6.5" r="5.25" stroke="currentColor" stroke-width="1.4"/>
+        <path d="M10.5 10.5L13.5 13.5" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/>
+      </svg>
+      <input type="search" id="di-search" class="search-input"
+             placeholder="제목, 요약, 출처 검색… (단축키: /)"
+             aria-label="기사 검색" autocomplete="off" spellcheck="false">
+      <span class="search-count-badge" aria-live="polite" aria-atomic="true" hidden></span>
+      <button class="search-clear" type="button" aria-label="검색어 지우기" hidden>✕</button>
+    </div>
+  </div>
 
   <nav class="cat-filter" aria-label="카테고리 필터">
     <div class="cat-filter-inner">
@@ -407,6 +423,8 @@
       <a class="footer-link" href="https://github.com/tigerjk9" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
     </div>
   </footer>
+
+  <div class="toast-container" aria-live="polite" aria-atomic="true" aria-relevant="additions"></div>
 
   <script src="assets/app.js"></script>
 </body>

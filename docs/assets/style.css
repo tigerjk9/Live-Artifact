@@ -628,3 +628,160 @@ h1, h2, h3 { font-weight: 600; }
   html { scroll-behavior: auto; }
 }
 :focus-visible { outline: 2px solid var(--c-paper); outline-offset: 2px; border-radius: 2px; }
+
+/* ── Skip link ───────────────────────────────── */
+.skip-link {
+  position: fixed;
+  top: -100%;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 300;
+  padding: 10px 22px;
+  background: var(--hd-bg);
+  color: var(--hd-tx);
+  font: 700 var(--t-md)/1 var(--font);
+  border-radius: 0 0 10px 10px;
+  white-space: nowrap;
+  transition: top 0.15s;
+  text-decoration: none;
+}
+.skip-link:focus-visible { top: 0; outline: none; }
+
+/* ── Search bar ──────────────────────────────── */
+.search-bar-wrap {
+  background: var(--surf);
+  border-bottom: 1px solid var(--rule);
+  position: sticky;
+  top: 92px;
+  z-index: 87;
+  min-height: 44px;
+}
+.search-bar-inner {
+  max-width: 1320px;
+  margin: 0 auto;
+  padding: 9px 24px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.search-icon { flex-shrink: 0; color: var(--tx-mute); }
+
+.search-input {
+  flex: 1;
+  min-width: 0;
+  border: none;
+  background: transparent;
+  font: 400 var(--t-md)/1 var(--font);
+  color: var(--tx-1);
+  outline: none;
+  padding: 3px 0;
+}
+.search-input::placeholder { color: var(--tx-mute); }
+.search-input::-webkit-search-cancel-button { display: none; }
+
+.search-count-badge {
+  font: 600 var(--t-xs)/1 var(--font);
+  font-variant-numeric: tabular-nums;
+  color: var(--tx-3);
+  white-space: nowrap;
+  padding: 3px 8px;
+  background: var(--rule);
+  border-radius: 99px;
+}
+.search-count-badge[hidden] { display: none; }
+
+.search-clear {
+  padding: 3px 7px;
+  border-radius: 4px;
+  font-size: var(--t-sm);
+  line-height: 1;
+  color: var(--tx-3);
+  transition: background 0.1s, color 0.1s;
+}
+.search-clear:hover { background: var(--rule); color: var(--tx-1); }
+.search-clear[hidden] { display: none; }
+
+/* ── Cat-filter: shift down for search bar (mobile) ── */
+@media (max-width: 1140px) {
+  .cat-filter { top: 136px; }  /* 92px (date-nav bottom) + 44px (search bar) */
+  .search-bar-inner { padding: 9px 16px; }
+}
+
+/* ── Hide entry when search/kw filter is active ─ */
+.entry--hidden-search,
+.entry--hidden-kw { display: none; }
+
+/* ── Read tracking ───────────────────────────── */
+.entry--read { opacity: 0.45; transition: opacity 0.2s; }
+.entry--read:hover { opacity: 0.72; }
+.entry--read .entry-num { position: relative; }
+.entry--read .entry-num::after {
+  content: '✓';
+  position: absolute;
+  bottom: -9px;
+  left: 0;
+  font-size: 0.6em;
+  line-height: 1;
+  opacity: 0.7;
+}
+
+/* ── Keyword badge: clickable + active state ─── */
+.entry-kw { cursor: pointer; user-select: none; transition: box-shadow 0.12s; }
+.entry-kw:hover { opacity: 0.8; }
+.entry-kw.kw-active { box-shadow: 0 0 0 2px currentColor; }
+
+/* ── Loading indicator (date-nav) ────────────── */
+.nav-loading {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font: 400 var(--t-xs)/1 var(--font);
+  color: var(--tx-mute);
+  padding: 5px 0;
+}
+.nav-spinner {
+  width: 12px; height: 12px;
+  border: 1.5px solid var(--rule-2);
+  border-top-color: var(--tx-3);
+  border-radius: 50%;
+  animation: spin 0.65s linear infinite;
+  flex-shrink: 0;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+
+/* ── Toast ───────────────────────────────────── */
+.toast-container {
+  position: fixed;
+  bottom: 24px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 400;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  pointer-events: none;
+}
+.toast {
+  background: var(--hd-bg);
+  color: var(--hd-tx);
+  padding: 10px 18px;
+  border-radius: 8px;
+  font: 500 var(--t-sm)/1.4 var(--font);
+  box-shadow: 0 6px 24px -4px oklch(0% 0 0 / 0.28);
+  pointer-events: auto;
+  max-width: min(380px, calc(100vw - 32px));
+  text-align: center;
+  animation: toast-in 0.22s cubic-bezier(0.16,1,0.3,1) both;
+}
+.toast--error { background: oklch(36% 0.16 25); color: oklch(96% 0.01 25); }
+.toast--info  { background: oklch(22% 0.028 252); color: var(--hd-tx); }
+.toast--out   { animation: toast-out 0.25s ease forwards; }
+
+@keyframes toast-in  { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+@keyframes toast-out { from { opacity: 1; transform: none; } to { opacity: 0; transform: translateY(-8px); } }
+
+@media (prefers-reduced-motion: reduce) {
+  .nav-spinner { animation: none; }
+  .toast, .toast--out { animation: none; }
+}
