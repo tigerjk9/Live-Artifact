@@ -54,13 +54,71 @@
       });
     }
 
-    // --- 2-2. 날짜 pill active 처리 ---
-    activateDatePill();
+    // --- 2-2. 날짜 네비 동적 빌드 (dates.json 페치) ---
+    loadDateNav();
 
     // --- 2-3. 카테고리 필터 칩 ---
     initCategoryFilter();
 
   });
+
+  /* ----------------------------------------------------------
+     2-2. 날짜 네비 동적 로드:
+        dates.json을 페치하여 .date-nav-inner를 다시 렌더링한다.
+        archive 페이지에서는 ../assets/dates.json, 루트에서는 assets/dates.json
+     ---------------------------------------------------------- */
+  function loadDateNav() {
+    var navInner = document.querySelector('.date-nav-inner');
+    if (!navInner) return;
+
+    var pathname = window.location.pathname;
+    var isArchive = pathname.indexOf('/archive/') !== -1;
+    var jsonPath = (isArchive ? '../' : '') + 'assets/dates.json';
+
+    fetch(jsonPath, { cache: 'no-cache' })
+      .then(function (r) { return r.ok ? r.json() : Promise.reject(new Error('HTTP ' + r.status)); })
+      .then(function (data) {
+        var dates = (data && data.available_dates) || [];
+        var latest = (data && data.latest) || '';
+        if (!dates.length) {
+          activateDatePill();  // 페치 실패 시에도 정적 fallback 활성화
+          return;
+        }
+        renderDatePills(navInner, dates, latest, isArchive);
+        activateDatePill();
+      })
+      .catch(function (err) {
+        console.warn('[date-nav] dates.json 로드 실패:', err);
+        activateDatePill();  // 정적 fallback 사용
+      });
+  }
+
+  function renderDatePills(navInner, dates, latest, isArchive) {
+    // 최신순(내림차순)으로 정렬
+    var sorted = dates.slice().sort().reverse();
+
+    var html = sorted.map(function (d) {
+      var parts = d.split('-');                // ['2026','05','11']
+      var month = parseInt(parts[1], 10);
+      var day = parseInt(parts[2], 10);
+      var dd = day < 10 ? '0' + day : '' + day;
+
+      var isToday = (d === latest);
+      var href;
+      if (isToday) {
+        href = isArchive ? '../index.html' : 'index.html';
+      } else {
+        href = (isArchive ? '' : 'archive/') + d + '.html';
+      }
+      var cls = 'date-pill' + (isToday ? ' today' : '');
+      var label = isToday
+        ? ('오늘 ' + month + '/' + dd)
+        : (month + '/' + dd);
+      return '<a class="' + cls + '" href="' + href + '" data-date="' + d + '">' + label + '</a>';
+    }).join('');
+
+    navInner.innerHTML = html;
+  }
 
   /* ----------------------------------------------------------
      2-3. 카테고리 필터: 칩 클릭 시 body[data-filter] 토글

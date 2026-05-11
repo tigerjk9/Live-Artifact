@@ -396,42 +396,138 @@ def build_date_nav(today: str, archive_dir: str) -> str:
 
 
 # ---------------------------------------------------------------------------
-# dates.json 관리
+# dates.json 관리 (archive_dir 스캔 기반)
 # ---------------------------------------------------------------------------
 
 
-def update_dates_json(today: str, docs_dir: str) -> None:
-    """docs/assets/dates.json에 오늘 날짜를 추가하고 28일 초과 항목을 제거한다."""
+def update_dates_json(today: str, docs_dir: str, archive_dir: str) -> None:
+    """archive_dir를 스캔하여 모든 아카이브 날짜 + 오늘을 dates.json에 기록한다."""
     json_path = os.path.join(docs_dir, "assets", "dates.json")
 
-    # 기존 파일 로드 (없으면 초기화)
-    existing: dict = {"available_dates": [], "latest": ""}
-    if os.path.isfile(json_path):
-        try:
-            with open(json_path, encoding="utf-8") as f:
-                existing = json.load(f)
-        except (json.JSONDecodeError, OSError) as exc:
-            print(f"[WARN] dates.json 로드 실패, 초기화: {exc}", file=sys.stderr)
+    dates: list[str] = []
+    if os.path.isdir(archive_dir):
+        for fname in os.listdir(archive_dir):
+            if not fname.endswith(".html"):
+                continue
+            stem = fname[:-5]
+            try:
+                datetime.strptime(stem, "%Y-%m-%d")
+                dates.append(stem)
+            except ValueError:
+                continue
 
-    dates: list[str] = existing.get("available_dates", [])
-
-    # 오늘 날짜 추가 (중복 방지)
+    # 오늘은 항상 포함 (index.html은 archive에 없을 수도 있음)
     if today not in dates:
         dates.append(today)
 
-    # 정렬 후 28일 초과 항목 제거
     dates = sorted(set(dates))
+
+    # 28일 초과 제거
     cutoff_dt = datetime.strptime(today, "%Y-%m-%d").date() - timedelta(days=KEEP_DAYS)
     dates = [d for d in dates if datetime.strptime(d, "%Y-%m-%d").date() > cutoff_dt]
 
-    latest = dates[-1] if dates else ""
-    result = {"available_dates": dates, "latest": latest}
+    result = {"available_dates": dates, "latest": today}
 
     os.makedirs(os.path.dirname(json_path), exist_ok=True)
     with open(json_path, "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
 
-    print(f"[OK] dates.json 업데이트: {len(dates)}개 날짜, latest={latest}", file=sys.stderr)
+    print(f"[OK] dates.json: {len(dates)}개 날짜, latest={today}", file=sys.stderr)
+
+
+# ---------------------------------------------------------------------------
+# 단일 날짜 렌더링 (백필/오늘 공용)
+# ---------------------------------------------------------------------------
+
+
+def render_date_html(
+    target_date: str,
+    template: str,
+    date_nav: str,
+    last_updated_iso: str,
+    last_updated_kr: str,
+) -> tuple[str, int]:
+    """target_date의 3개 소스를 페치하여 HTML 문자열과 총 아이템 수를 반환한다.
+
+    아이템이 0개여도 HTML은 반환한다 (호출자가 저장 여부 판단).
+    """
+    cards: dict[str, str] = {}
+    counts: dict[str, int] = {}
+    for key, cfg in SOURCES.items():
+        try:
+            items = fetch_today_source(key, cfg, target_date)
+            counts[key] = len(items)
+            cards[key] = render_section_body(items, cfg, key)
+        except Exception as exc:
+            print(f"[ERROR] {key} {target_date}: {exc}", file=sys.stderr)
+            counts[key] = 0
+            label = cfg.get("label", "데이터")
+            cards[key] = f'<p class="col-empty">이 날짜의 {label} 데이터가 없습니다.</p>'
+
+    total = sum(counts.values())
+
+    dt_obj = datetime.strptime(target_date, "%Y-%m-%d")
+    current_date_kr = f"{dt_obj.year}년 {dt_obj.month}월 {dt_obj.day}일"
+
+    html = (
+        template
+        .replace("{{CURRENT_DATE}}", current_date_kr)
+        .replace("{{EDU_NEWS_CARDS}}", cards["edu-news"])
+        .replace("{{AI_PAPER_CARDS}}", cards["ai-paper"])
+        .replace("{{AI_TECH_CARDS}}", cards["ai-tech"])
+        .replace("{{EDU_NEWS_COUNT}}", f"{counts['edu-news']}건")
+        .replace("{{AI_PAPER_COUNT}}", f"{counts['ai-paper']}건")
+        .replace("{{AI_TECH_COUNT}}", f"{counts['ai-tech']}건")
+        .replace("{{DATE_NAV}}", date_nav)
+        .replace("{{LAST_UPDATED_ISO}}", last_updated_iso)
+        .replace("{{LAST_UPDATED_KR}}", last_updated_kr)
+    )
+    return html, total
+
+
+# ---------------------------------------------------------------------------
+# 백필: 과거 27일치 아카이브 자동 생성
+# ---------------------------------------------------------------------------
+
+
+def backfill_archives(
+    today: str,
+    archive_dir: str,
+    template: str,
+    last_updated_iso: str,
+    last_updated_kr: str,
+) -> int:
+    """archive_dir에 없는 과거 27일치 날짜를 페치하여 HTML을 생성한다.
+
+    date_nav는 빈 문자열 — JS가 페이지 로드 시 dates.json 기반으로 채운다.
+    반환: 새로 생성된 아카이브 개수.
+    """
+    today_dt = datetime.strptime(today, "%Y-%m-%d").date()
+    created = 0
+    for delta in range(1, KEEP_DAYS):
+        target_dt = today_dt - timedelta(days=delta)
+        target_str = target_dt.strftime("%Y-%m-%d")
+        archive_path = os.path.join(archive_dir, f"{target_str}.html")
+        if os.path.isfile(archive_path):
+            continue
+
+        html, total = render_date_html(
+            target_str, template, "", last_updated_iso, last_updated_kr
+        )
+        if total == 0:
+            print(f"[SKIP] {target_str}: 데이터 없음", file=sys.stderr)
+            continue
+
+        with open(archive_path, "w", encoding="utf-8") as f:
+            f.write(html)
+        created += 1
+        print(f"[BACKFILL] {target_str}.html ({total}건)", file=sys.stderr)
+
+    if created:
+        print(f"[OK] 백필 완료: {created}개 아카이브 신규 생성", file=sys.stderr)
+    else:
+        print("[OK] 백필 필요 없음 (전부 존재 또는 데이터 없음)", file=sys.stderr)
+    return created
 
 
 # ---------------------------------------------------------------------------
@@ -471,85 +567,60 @@ def cleanup_archive(archive_dir: str, keep_days: int = KEEP_DAYS) -> None:
 
 
 def main() -> None:
-    today = date.today().isoformat()  # "2026-05-11"
+    from datetime import timezone
 
-    # 경로 계산 (스크립트 위치 기준 상위 디렉토리가 레포 루트)
+    today = date.today().isoformat()
+
+    # 경로 계산
     script_dir = os.path.dirname(os.path.abspath(__file__))
     repo_root = os.path.dirname(script_dir)
     docs_dir = os.path.join(repo_root, "docs")
     archive_dir = os.path.join(docs_dir, "archive")
     template_path = os.path.join(docs_dir, "_template.html")
-    output_path   = os.path.join(docs_dir, "index.html")
+    output_path = os.path.join(docs_dir, "index.html")
 
     print(f"[START] {today} 뉴스 생성 시작", file=sys.stderr)
 
-    # 1. 템플릿 로드 (_template.html → 플레이스홀더 원본)
+    # 1. 템플릿 로드
     if not os.path.isfile(template_path):
         print(f"[ERROR] 템플릿 없음: {template_path}", file=sys.stderr)
         sys.exit(1)
-
     with open(template_path, encoding="utf-8") as f:
         template = f.read()
 
-    # 2. 3개 소스 페치 (독립 try-except — 하나 실패해도 나머지 진행)
-    cards: dict[str, str] = {}
-    counts: dict[str, int] = {}
-    for key, cfg in SOURCES.items():
-        try:
-            items = fetch_today_source(key, cfg, today)
-            counts[key] = len(items)
-            cards[key] = render_section_body(items, cfg, key)
-        except Exception as exc:
-            print(f"[ERROR] {key} 처리 실패: {exc}", file=sys.stderr)
-            label = cfg.get("label", "데이터")
-            counts[key] = 0
-            cards[key] = (
-                f'<p class="col-empty">이 날짜의 {label} 데이터가 없습니다.</p>'
-            )
-
-    # 3. 날짜 네비게이션 생성
     os.makedirs(archive_dir, exist_ok=True)
-    date_nav = build_date_nav(today, archive_dir)
 
-    # 4. 플레이스홀더 치환
-    today_dt = datetime.strptime(today, "%Y-%m-%d")
-    current_date_kr = f"{today_dt.year}년 {today_dt.month}월 {today_dt.day}일"
-
-    from datetime import timezone, timedelta
+    # 2. KST 갱신 시각
     KST = timezone(timedelta(hours=9))
     now_kst = datetime.now(tz=KST)
     last_updated_iso = now_kst.strftime("%Y-%m-%dT%H:%M:%S+09:00")
     last_updated_kr = f"{now_kst.year}년 {now_kst.month}월 {now_kst.day}일 {now_kst.strftime('%H:%M')} KST"
 
-    html = (
-        template
-        .replace("{{CURRENT_DATE}}", current_date_kr)
-        .replace("{{EDU_NEWS_CARDS}}", cards["edu-news"])
-        .replace("{{AI_PAPER_CARDS}}", cards["ai-paper"])
-        .replace("{{AI_TECH_CARDS}}", cards["ai-tech"])
-        .replace("{{EDU_NEWS_COUNT}}", f"{counts['edu-news']}건")
-        .replace("{{AI_PAPER_COUNT}}", f"{counts['ai-paper']}건")
-        .replace("{{AI_TECH_COUNT}}", f"{counts['ai-tech']}건")
-        .replace("{{DATE_NAV}}", date_nav)
-        .replace("{{LAST_UPDATED_ISO}}", last_updated_iso)
-        .replace("{{LAST_UPDATED_KR}}", last_updated_kr)
-    )
+    # 3. 백필: archive_dir에 없는 과거 27일치 페치
+    backfill_archives(today, archive_dir, template, last_updated_iso, last_updated_kr)
 
-    # 5. docs/archive/{today}.html 저장
+    # 4. 날짜 네비게이션 (정적 fallback — JS가 dates.json 기반으로 덮어씀)
+    date_nav = build_date_nav(today, archive_dir)
+
+    # 5. 오늘 렌더링
+    html, total = render_date_html(today, template, date_nav, last_updated_iso, last_updated_kr)
+    print(f"[OK] 오늘({today}): 총 {total}건", file=sys.stderr)
+
+    # 6. archive/{today}.html 저장
     archive_path = os.path.join(archive_dir, f"{today}.html")
     with open(archive_path, "w", encoding="utf-8") as f:
         f.write(html)
     print(f"[OK] 아카이브 저장: {archive_path}", file=sys.stderr)
 
-    # 6. docs/index.html 갱신 (템플릿은 _template.html로 보존)
+    # 7. index.html 갱신
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(html)
     print(f"[OK] index.html 갱신: {output_path}", file=sys.stderr)
 
-    # 7. dates.json 업데이트
-    update_dates_json(today, docs_dir)
+    # 8. dates.json 업데이트 (archive_dir 스캔)
+    update_dates_json(today, docs_dir, archive_dir)
 
-    # 8. 28일 초과 아카이브 삭제
+    # 9. 28일 초과 아카이브 삭제
     cleanup_archive(archive_dir)
 
     print(f"[DONE] {today} 완료", file=sys.stderr)
