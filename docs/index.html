@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="ko" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daily Intelligence — {{CURRENT_DATE}}</title>
+  <meta name="description" content="교육 뉴스, AI 논문, AI 기술 뉴스를 한눈에 — Daily Intelligence">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="brand">
+        <span class="brand-icon" aria-hidden="true">📡</span>
+        <h1 class="brand-name">Daily Intelligence</h1>
+      </div>
+      <div class="header-meta">
+        <span class="current-date" aria-label="오늘 날짜">{{CURRENT_DATE}}</span>
+        <button class="theme-toggle" aria-label="다크모드 전환" title="다크모드 전환">🌙</button>
+      </div>
+    </div>
+  </header>
+
+  <nav class="date-nav" aria-label="날짜 선택">
+    <div class="date-nav-inner">
+      {{DATE_NAV}}
+    </div>
+  </nav>
+
+  <main class="news-grid" id="main-content">
+    <section class="news-column" data-category="edu" aria-labelledby="col-edu">
+      <h2 class="column-title" id="col-edu">
+        <span class="col-icon" aria-hidden="true">📚</span>
+        교육 뉴스
+      </h2>
+      <div class="cards" role="list">
+        {{EDU_NEWS_CARDS}}
+      </div>
+    </section>
+
+    <section class="news-column" data-category="paper" aria-labelledby="col-paper">
+      <h2 class="column-title" id="col-paper">
+        <span class="col-icon" aria-hidden="true">🔬</span>
+        AI 논문
+      </h2>
+      <div class="cards" role="list">
+        {{AI_PAPER_CARDS}}
+      </div>
+    </section>
+
+    <section class="news-column" data-category="tech" aria-labelledby="col-tech">
+      <h2 class="column-title" id="col-tech">
+        <span class="col-icon" aria-hidden="true">🤖</span>
+        AI 기술
+      </h2>
+      <div class="cards" role="list">
+        {{AI_TECH_CARDS}}
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <span class="footer-updated">Last updated: <time datetime="{{LAST_UPDATED}}">{{LAST_UPDATED}}</time></span>
+    <a class="footer-link" href="https://github.com/tigerjk9" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
+  </footer>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>
