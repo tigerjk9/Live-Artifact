@@ -884,7 +884,11 @@ def render_date_html(
     total = sum(counts.values())
 
     dt_obj = datetime.strptime(target_date, "%Y-%m-%d")
-    current_date_kr = f"{dt_obj.year}년 {dt_obj.month}월 {dt_obj.day}일"
+    _WEEKDAYS = ['월', '화', '수', '목', '금', '토', '일']
+    current_date_kr = (
+        f"{dt_obj.year}년 {dt_obj.month}월 {dt_obj.day}일"
+        f" {_WEEKDAYS[dt_obj.weekday()]}요일"
+    )
 
     html = (
         template

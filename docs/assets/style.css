@@ -185,10 +185,26 @@ h1, h2, h3 { font-weight: 600; }
 .header-right { display: flex; align-items: center; gap: 14px; flex-shrink: 0; }
 
 .header-date {
-  font: 500 var(--t-xs)/1 var(--font);
+  font: 600 var(--t-sm)/1 var(--font);
   font-variant-numeric: tabular-nums;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.02em;
+  color: var(--hd-tx);
+}
+.header-time-sep {
+  font: 400 var(--t-xs)/1 var(--font);
   color: var(--hd-tx2);
+  margin: 0 5px;
+}
+.header-time-sep::before { content: '·'; }
+.header-live-time {
+  font: 500 var(--t-sm)/1 var(--font);
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.04em;
+  color: var(--hd-tx2);
+}
+@media (max-width: 600px) {
+  .header-date { font-size: var(--t-xs); letter-spacing: 0; }
+  .header-live-time { font-size: var(--t-xs); }
 }
 
 .theme-toggle {

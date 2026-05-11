@@ -467,6 +467,38 @@
   })();
 
   /* ============================================================
+     13. 헤더 현재 시각 (KST) — 실시간 표시
+     ============================================================ */
+  (function () {
+    var hd = document.querySelector('.header-date');
+    if (!hd) return;
+
+    var sep = document.createElement('span');
+    sep.className = 'header-time-sep';
+    sep.setAttribute('aria-hidden', 'true');
+
+    var clock = document.createElement('span');
+    clock.className = 'header-live-time';
+    clock.setAttribute('aria-label', '현재 시각');
+
+    hd.parentNode.insertBefore(sep, hd.nextSibling);
+    hd.parentNode.insertBefore(clock, sep.nextSibling);
+
+    function tick() {
+      var now = new Date();
+      var hhmm = now.toLocaleString('ko-KR', {
+        timeZone: 'Asia/Seoul',
+        hour: '2-digit',
+        minute: '2-digit',
+        hour12: false
+      });
+      clock.textContent = hhmm;
+    }
+    tick();
+    setInterval(tick, 30000);
+  })();
+
+  /* ============================================================
      11. Service Worker 등록 (PWA 오프라인 지원)
      ============================================================ */
   if ('serviceWorker' in navigator) {
