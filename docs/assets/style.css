@@ -528,18 +528,99 @@ h1, h2, h3 { font-weight: 600; }
 .site-footer {
   max-width: 1320px;
   margin: 0 auto;
-  padding: 18px 24px 28px;
+  padding: 36px 24px 32px;
   border-top: 1px solid var(--rule);
   display: flex;
-  flex-wrap: wrap;
-  gap: 12px;
-  justify-content: space-between;
+  flex-direction: column;
+  gap: 22px;
   align-items: center;
   font: 400 var(--t-xs)/1.4 var(--font);
   color: var(--tx-3);
 }
-.footer-link { color: var(--tx-3); font-weight: 600; transition: color 0.12s; }
+
+/* Profile card — 닷커넥터(김진관) */
+.profile-card {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  padding: 22px 28px 18px;
+  min-width: 240px;
+  background: var(--hd-bg);     /* deep navy in both modes — 일관성 */
+  border-radius: 14px;
+  color: var(--hd-tx);
+  transition: transform 0.25s var(--ease, cubic-bezier(0.16,1,0.3,1)),
+              box-shadow 0.25s ease;
+  box-shadow: 0 1px 0 oklch(0% 0 0 / 0.04);
+}
+.profile-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px -10px oklch(0% 0 0 / 0.25);
+}
+
+.profile-photo {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid oklch(100% 0 0 / 0.08);
+  background: var(--hd-bg);
+  margin-bottom: 4px;
+}
+
+.profile-name {
+  font: 700 0.9375rem/1.2 var(--font);
+  letter-spacing: -0.005em;
+  color: var(--c-tech);
+}
+.profile-name-sub {
+  font-weight: 500;
+  color: var(--c-tech);
+  opacity: 0.85;
+  margin-left: 2px;
+}
+
+.profile-bio {
+  font: 400 var(--t-sm)/1.4 var(--font);
+  color: oklch(78% 0.012 240);
+  margin-top: 2px;
+  text-align: center;
+}
+
+.profile-link-hint {
+  font: 500 var(--t-2xs)/1 var(--font);
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.05em;
+  color: oklch(58% 0.018 240);
+  margin-top: 6px;
+}
+
+/* Footer meta row */
+.footer-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 18px;
+  justify-content: center;
+  align-items: center;
+  font: 400 var(--t-xs)/1.4 var(--font);
+  color: var(--tx-3);
+}
+.footer-updated {
+  font-variant-numeric: tabular-nums;
+}
+.footer-link {
+  color: var(--tx-3);
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  transition: color 0.12s;
+}
 .footer-link:hover { color: var(--tx-1); }
+
+@media (max-width: 600px) {
+  .site-footer { padding: 28px 16px 28px; gap: 18px; }
+  .profile-card { padding: 18px 22px 14px; min-width: auto; width: 100%; max-width: 340px; }
+  .profile-photo { width: 56px; height: 56px; }
+}
 
 /* ── A11y ────────────────────────────────────── */
 @media (prefers-reduced-motion: reduce) {
