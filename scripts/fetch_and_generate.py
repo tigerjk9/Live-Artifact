@@ -8,6 +8,7 @@ docs/archive/{today}.html을 생성한다. 28일 초과 아카이브는 자동 �
 from __future__ import annotations
 
 import base64
+import html
 import json
 import os
 import re
@@ -37,6 +38,8 @@ SOURCES: dict[str, dict] = {
         "label": "교육 뉴스",
         "data_dir": "news",
         "file_template": "education_news_{YYYYMMDD}.json",
+        # newsletter 파일에 AI 요약 없음 (제목+링크만)
+        "ai_summary_file": None,
         "url_field": "link",
         "title_field": "title",
         "summary_field": "summary",
@@ -49,6 +52,8 @@ SOURCES: dict[str, dict] = {
         "label": "AI 교육 논문",
         "data_dir": "papers",
         "file_template": "ai_edu_papers_{YYYYMMDD}.json",
+        # 일반 .txt 파일에 한국어 AI 요약이 항목별로 있음
+        "ai_summary_file": "ai_edu_papers_{YYYYMMDD}.txt",
         "url_field": "link",
         "title_field": "title",
         "summary_field": "summary",
@@ -63,6 +68,8 @@ SOURCES: dict[str, dict] = {
         "label": "AI 기술 뉴스",
         "data_dir": "news",
         "file_template": "ai_tech_news_{YYYYMMDD}.json",
+        # newsletter.txt에 항목별 한국어 AI 요약 있음
+        "ai_summary_file": "ai_tech_news_{YYYYMMDD}_newsletter.txt",
         "url_field": "link",
         "title_field": "title",
         "summary_field": "summary",
@@ -193,6 +200,122 @@ def escape_html(text: str) -> str:
     )
 
 
+def strip_html(text: str) -> str:
+    """HTML 태그/엔티티/잘린 태그를 모두 제거하고 공백 정리한다.
+
+    원천이 RSS feed 등에서 가져온 경우 다음 케이스를 모두 처리:
+      - 정상 태그: <a href=...>...</a>
+      - 잘린 태그: <img width="..." src="https://..."  (닫는 > 없음)
+      - HTML 엔티티: &lt;a&gt; → <a>
+      - 연속 공백/줄바꿈
+    """
+    if not text:
+        return ""
+    # 1) 엔티티 디코드
+    t = html.unescape(text)
+    # 2) 정상 태그 제거 (가장 일반적인 경우)
+    t = re.sub(r"<[^>]*>", "", t)
+    # 3) 잘린 태그 제거: < 뒤에 닫는 > 가 없는 부분 (다음 < 또는 끝까지)
+    t = re.sub(r"<[^<]*$", "", t)
+    t = re.sub(r"<[^<]*?(?=<)", "", t)
+    # 4) 잔여 단독 < 또는 > 제거
+    t = t.replace("<", " ").replace(">", " ")
+    # 5) 공백 정리
+    t = re.sub(r"\s+", " ", t).strip()
+    return t
+
+
+def normalize_title(title: str) -> str:
+    """제목 매칭용 정규화: 공백 압축 + 끝 ' - 매체명' 제거 + 소문자."""
+    if not title:
+        return ""
+    t = re.sub(r"\s+", " ", title).strip()
+    t = re.sub(r"\s+-\s+[^-]{2,30}\s*$", "", t).strip()
+    return t.lower()
+
+
+def parse_ai_summary_txt(text: str) -> dict[str, str]:
+    """newsletter/요약 .txt 파일을 파싱하여 {normalized_title: ai_summary} 반환.
+
+    지원 포맷 두 가지:
+
+    Format A (ai-tech newsletter):
+      1. 제목
+         AI 요약 (들여쓰기 한 줄, 한국어)
+         https://...
+
+    Format B (ai-paper):
+      1. 제목
+         - AI 요약 (들여쓰기 + 하이픈)
+         - [논문 보기](URL)
+    """
+    if not text:
+        return {}
+    result: dict[str, str] = {}
+
+    # 번호 항목으로 분할 (각 블록 시작이 'N. ')
+    blocks = re.split(r"(?m)^(?=\d{1,2}\.\s+)", text)
+    for blk in blocks:
+        m = re.match(r"^(\d{1,2})\.\s+(.+?)(?:\n|$)", blk)
+        if not m:
+            continue
+        title = m.group(2).strip()
+        rest = blk[m.end():]
+
+        summary_lines: list[str] = []
+        for line in rest.split("\n"):
+            ln = line.strip()
+            if not ln:
+                continue
+            # 종료 조건: 푸터/섹션 구분자 만나면 이 항목의 요약 수집 중단
+            if (
+                ln.startswith("──") or ln.startswith("━━") or ln.startswith("==")
+                or ln.startswith("# ") or ln.startswith("☕")
+                or "한 줄 요약" in ln or "한줄요약" in ln
+                or re.match(r"^[\s─-╿─━═#]+$", ln)
+            ):
+                break
+            # URL 라인 스킵
+            if ln.startswith("http://") or ln.startswith("https://"):
+                continue
+            # 마크다운 링크 라인 스킵: [...] (...)
+            if re.match(r"^-?\s*\[.+?\]\(.+?\)\s*$", ln):
+                continue
+            # 하이픈 prefix 제거 (Format B)
+            if ln.startswith("- "):
+                ln = ln[2:].strip()
+            elif ln.startswith("-"):
+                ln = ln[1:].strip()
+            if not ln:
+                continue
+            summary_lines.append(ln)
+
+        if summary_lines:
+            result[normalize_title(title)] = " ".join(summary_lines)
+
+    return result
+
+
+def fetch_ai_summaries(key: str, cfg: dict, target_date: str) -> dict[str, str]:
+    """소스의 AI 요약 .txt 파일을 페치하여 {title: summary} 매핑 반환.
+
+    cfg["ai_summary_file"]가 None이면 빈 dict.
+    """
+    pattern = cfg.get("ai_summary_file")
+    if not pattern:
+        return {}
+    yyyymmdd = target_date.replace("-", "")
+    filename = pattern.replace("{YYYYMMDD}", yyyymmdd)
+    path = f"{cfg['data_dir']}/{target_date}/{filename}"
+    raw = fetch_file(cfg["repo"], path)
+    if raw is None:
+        return {}
+    summaries = parse_ai_summary_txt(raw)
+    if summaries:
+        print(f"[OK] {key}: AI 요약 {len(summaries)}건 파싱", file=sys.stderr)
+    return summaries
+
+
 def clean_title(title: str, source: str) -> str:
     """제목 끝의 ' - 매체명' 중복 접미사를 제거한다.
 
@@ -245,13 +368,19 @@ def render_entry(item: dict, cfg: dict, source_key: str, index: int) -> str:
     source_raw = str(item.get(cfg.get("source_field", ""), "")).strip()
     date_raw = str(item.get(cfg.get("date_field", "date"), "")).strip()
     keyword = str(item.get(cfg.get("keyword_field", "keyword"), "")).strip()
-    summary_raw = str(item.get(cfg.get("summary_field", "summary"), "")).strip()
+
+    # 요약 우선순위: ai_summary (newsletter.txt에서 머지된 한국어 요약)
+    # → 그게 없으면 JSON 'summary' 필드 (Press_rss인 경우 HTML 포함 가능)
+    ai_summary = str(item.get("ai_summary", "")).strip()
+    json_summary = str(item.get(cfg.get("summary_field", "summary"), "")).strip()
+    summary_raw = ai_summary if ai_summary else json_summary
 
     title_clean = clean_title(raw_title, source_raw)
     title = escape_html(title_clean) if title_clean else "제목 없음"
     source = escape_html(source_raw)
     date_fmt = format_date(date_raw)
-    clean_sum = re.sub(r"<[^>]+>", "", summary_raw).strip() if summary_raw else ""
+    # strip_html 강화: 잘린 태그/엔티티/HTML 모두 처리
+    clean_sum = strip_html(summary_raw)
 
     # meta 컴포지션
     meta_parts: list[str] = []
@@ -333,22 +462,46 @@ def render_cards(items: list[dict], cfg: dict, source_key: str) -> str:
 
 
 def fetch_today_source(key: str, cfg: dict, today: str) -> list[dict]:
-    """오늘 날짜 파일을 페치하고 파싱하여 아이템 목록을 반환한다.
+    """오늘 날짜 JSON을 페치하고, 가능하면 AI 요약 .txt도 머지한다.
 
-    실패 시 빈 리스트를 반환한다 (독립 장애 처리).
+    각 아이템에 'ai_summary' 키가 추가될 수 있다 (제목 매칭 성공 시).
+    실패 시 빈 리스트 반환.
     """
     yyyymmdd = today.replace("-", "")
     filename = cfg["file_template"].replace("{YYYYMMDD}", yyyymmdd)
     path = f"{cfg['data_dir']}/{today}/{filename}"
     raw = fetch_file(cfg["repo"], path)
     if raw is None:
-        print(
-            f"[WARN] {key}: {today} 파일 없음 ({path})",
-            file=sys.stderr,
-        )
+        print(f"[WARN] {key}: {today} 파일 없음 ({path})", file=sys.stderr)
         return []
     items = parse_items(raw)
     print(f"[OK] {key}: {len(items)}건 로드", file=sys.stderr)
+
+    # AI 요약 머지 (있는 소스만)
+    ai_summaries = fetch_ai_summaries(key, cfg, today)
+    if ai_summaries:
+        matched = 0
+        # 제목 기반 매칭 — 정규화 후 정확/접두 매칭 시도
+        norm_to_summary = ai_summaries
+        norm_keys = list(norm_to_summary.keys())
+        for item in items:
+            t = normalize_title(str(item.get(cfg["title_field"], "")))
+            if not t:
+                continue
+            # 1) 정확 매칭
+            if t in norm_to_summary:
+                item["ai_summary"] = norm_to_summary[t]
+                matched += 1
+                continue
+            # 2) 접두 매칭 (제목 앞 20자 일치)
+            t_prefix = t[:20]
+            for k in norm_keys:
+                if k.startswith(t_prefix) or t.startswith(k[:20]):
+                    item["ai_summary"] = norm_to_summary[k]
+                    matched += 1
+                    break
+        print(f"[OK] {key}: AI 요약 매칭 {matched}/{len(items)}건", file=sys.stderr)
+
     return items
 
 
