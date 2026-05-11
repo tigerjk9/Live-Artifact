@@ -44,22 +44,76 @@
 }
 
 [data-theme="dark"] {
-  --bg      : oklch(13%  0.020 252);
-  --surf    : oklch(13%  0.020 252);
-  --rule    : oklch(22%  0.028 252);
-  --rule-2  : oklch(30%  0.032 252);
-  --tx-1    : oklch(94%  0.008 245);
-  --tx-2    : oklch(68%  0.014 240);
-  --tx-3    : oklch(48%  0.018 240);
-  --tx-mute : oklch(35%  0.020 245);
-  --c-edu-s : oklch(22%  0.05 155);
-  --c-pap-s : oklch(22%  0.05 246);
-  --c-tec-s : oklch(22%  0.06  38);
-  --hd-bg   : oklch(10%  0.025 252);
-  --hd-tx   : oklch(94%  0.008 245);
-  --hd-tx2  : oklch(50%  0.018 240);
-  --hd-rule : oklch(18%  0.032 252);
+  /* Base — slightly warmer, less pure black */
+  --bg      : oklch(16%  0.020 252);
+  --surf    : oklch(18%  0.022 252);
+  --rule    : oklch(28%  0.025 252);
+  --rule-2  : oklch(38%  0.028 252);
+
+  /* Text — significantly brighter for WCAG AA on dark bg */
+  --tx-1    : oklch(96%  0.006 245);   /* near-white, primary */
+  --tx-2    : oklch(80%  0.012 240);   /* high contrast secondary */
+  --tx-3    : oklch(66%  0.016 240);   /* readable tertiary */
+  --tx-mute : oklch(52%  0.018 245);   /* numbered ordinals */
+
+  /* Category accents — brighter chroma+L for dark bg visibility */
+  --c-edu   : oklch(72%  0.16  155);
+  --c-paper : oklch(74%  0.15  235);
+  --c-tech  : oklch(78%  0.17   45);
+  --c-edu-s : oklch(26%  0.06 155);
+  --c-pap-s : oklch(26%  0.06 235);
+  --c-tec-s : oklch(26%  0.07  45);
+
+  /* Masthead */
+  --hd-bg   : oklch(11%  0.025 252);
+  --hd-tx   : oklch(96%  0.006 245);
+  --hd-tx2  : oklch(68%  0.014 240);
+  --hd-rule : oklch(22%  0.030 252);
 }
+
+/* 다크모드 카테고리 배지: 배경/텍스트 컨트라스트 강화 */
+[data-theme="dark"] .col[data-cat="edu"]   .entry-kw { background: var(--c-edu-s); color: oklch(82% 0.13 155); }
+[data-theme="dark"] .col[data-cat="paper"] .entry-kw { background: var(--c-pap-s); color: oklch(82% 0.13 235); }
+[data-theme="dark"] .col[data-cat="tech"]  .entry-kw { background: var(--c-tec-s); color: oklch(85% 0.15  45); }
+
+/* 다크모드 호버 underline은 본 카테고리 색 사용 (이미 var 참조) */
+
+/* 다크모드 칩 active 상태: 어두운 배경에서 활성칩이 더 두드러지게 */
+[data-theme="dark"] .cat-chip {
+  border-color: var(--rule-2);
+  color: var(--tx-2);
+}
+[data-theme="dark"] .cat-chip:hover {
+  background: oklch(24% 0.025 252);
+  color: var(--tx-1);
+}
+[data-theme="dark"] .cat-chip.active {
+  background: oklch(94% 0.008 245);
+  color: oklch(15% 0.020 252);
+  border-color: oklch(94% 0.008 245);
+}
+[data-theme="dark"] .cat-chip.active::before { background: oklch(15% 0.020 252); }
+
+/* 다크모드 날짜 pill active: 더 밝은 배경 */
+[data-theme="dark"] .date-pill.active {
+  background: oklch(94% 0.008 245);
+  color: oklch(15% 0.020 252);
+}
+[data-theme="dark"] .date-pill:hover { background: oklch(26% 0.025 252); color: var(--tx-1); }
+
+/* 다크모드 PDF 버튼 */
+[data-theme="dark"] .entry-pdf {
+  border-color: var(--rule-2);
+  color: var(--tx-2);
+}
+[data-theme="dark"] .entry-pdf:hover {
+  border-color: var(--c-paper);
+  color: var(--c-paper);
+  background: var(--c-pap-s);
+}
+
+/* 다크모드 brand-signal pulse 색상 보정 */
+[data-theme="dark"] .brand-signal { background: var(--c-tech); }
 
 /* ── Reset ───────────────────────────────────── */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }

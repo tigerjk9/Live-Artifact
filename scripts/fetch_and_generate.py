@@ -593,6 +593,42 @@ def update_dates_json(today: str, docs_dir: str, archive_dir: str) -> None:
 # ---------------------------------------------------------------------------
 
 
+def fixup_archive_paths(html: str) -> str:
+    """archive/ 하위 HTML에서 자산 경로를 ../assets/ 로 보정한다.
+
+    템플릿은 root(docs/index.html) 기준 상대경로 'assets/' 를 사용하므로,
+    archive/YYYY-MM-DD.html에 그대로 저장하면 'docs/archive/assets/' 로
+    잘못 해석된다. 이 함수가 그것을 보정.
+    """
+    return (
+        html
+        .replace('href="assets/', 'href="../assets/')
+        .replace('src="assets/', 'src="../assets/')
+    )
+
+
+def fix_existing_archive_paths(archive_dir: str) -> int:
+    """기존 archive/*.html 파일의 자산 경로를 일괄 보정. 이미 보정된 파일은 스킵."""
+    if not os.path.isdir(archive_dir):
+        return 0
+    fixed = 0
+    for fname in os.listdir(archive_dir):
+        if not fname.endswith(".html"):
+            continue
+        path = os.path.join(archive_dir, fname)
+        with open(path, encoding="utf-8") as f:
+            content = f.read()
+        if 'href="assets/' not in content and 'src="assets/' not in content:
+            continue
+        new_content = fixup_archive_paths(content)
+        with open(path, "w", encoding="utf-8") as f:
+            f.write(new_content)
+        fixed += 1
+    if fixed:
+        print(f"[OK] 기존 아카이브 경로 보정: {fixed}개 파일", file=sys.stderr)
+    return fixed
+
+
 def render_date_html(
     target_date: str,
     template: str,
@@ -672,7 +708,7 @@ def backfill_archives(
             continue
 
         with open(archive_path, "w", encoding="utf-8") as f:
-            f.write(html)
+            f.write(fixup_archive_paths(html))
         created += 1
         print(f"[BACKFILL] {target_str}.html ({total}건)", file=sys.stderr)
 
@@ -749,6 +785,9 @@ def main() -> None:
     last_updated_iso = now_kst.strftime("%Y-%m-%dT%H:%M:%S+09:00")
     last_updated_kr = f"{now_kst.year}년 {now_kst.month}월 {now_kst.day}일 {now_kst.strftime('%H:%M')} KST"
 
+    # 2.5. 기존 archive 파일들의 자산 경로 일괄 보정 (구버전 잔재 정리)
+    fix_existing_archive_paths(archive_dir)
+
     # 3. 백필: archive_dir에 없는 과거 27일치 페치
     backfill_archives(today, archive_dir, template, last_updated_iso, last_updated_kr)
 
@@ -759,13 +798,13 @@ def main() -> None:
     html, total = render_date_html(today, template, date_nav, last_updated_iso, last_updated_kr)
     print(f"[OK] 오늘({today}): 총 {total}건", file=sys.stderr)
 
-    # 6. archive/{today}.html 저장
+    # 6. archive/{today}.html 저장 (경로 보정 적용)
     archive_path = os.path.join(archive_dir, f"{today}.html")
     with open(archive_path, "w", encoding="utf-8") as f:
-        f.write(html)
+        f.write(fixup_archive_paths(html))
     print(f"[OK] 아카이브 저장: {archive_path}", file=sys.stderr)
 
-    # 7. index.html 갱신
+    # 7. index.html 갱신 (root 경로 그대로)
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(html)
     print(f"[OK] index.html 갱신: {output_path}", file=sys.stderr)
