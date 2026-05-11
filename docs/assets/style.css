@@ -795,3 +795,39 @@ h1, h2, h3 { font-weight: 600; }
   margin-left: auto;
 }
 .footer-totop:hover { color: var(--tx-1); }
+
+/* ── Mobile optimisation ─────────────────────────── */
+
+/* Prevent double-tap zoom on tap targets */
+.cat-chip, .date-pill, .theme-toggle, .entry-kw,
+.search-clear, .footer-link, .footer-totop {
+  touch-action: manipulation;
+}
+
+@media (max-width: 600px) {
+  /* iOS auto-zoom fires when focused input font-size < 16px */
+  .search-input { font-size: 1rem; }
+
+  /* Sticky stack: mobile header ≈ 51px (padding 12px vs 14px, font 16px vs 17px) */
+  .date-nav        { top: 51px; }
+  .search-bar-wrap { top: 87px; }
+  .cat-filter      { top: 131px; }
+
+  /* Touch targets — 44px Apple HIG minimum */
+  .cat-chip  { padding: 8px 14px; min-height: 36px; }
+  .date-pill { padding: 7px 10px; }
+  .theme-toggle {
+    min-width: 36px;
+    min-height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  /* Tighter entry rhythm on small screens */
+  .entry { padding: 12px 0; }
+
+  /* Footer */
+  .footer-totop { margin-left: 0; }
+  .footer-meta  { gap: 12px; }
+}
