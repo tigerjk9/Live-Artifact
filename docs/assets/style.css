@@ -33,6 +33,11 @@
 
   --font : 'Pretendard Variable', 'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', system-ui, sans-serif;
 
+  /* Sticky layout heights */
+  --header-h  : 56px;
+  --date-nav-h: 36px;
+  --search-h  : 44px;
+
   /* Type ramp */
   --t-2xs : 0.625rem;   /* 10 — micro caps */
   --t-xs  : 0.6875rem;  /* 11 — meta */
@@ -225,7 +230,7 @@ h1, h2, h3 { font-weight: 600; }
   overflow-x: auto;
   scrollbar-width: none;
   position: sticky;
-  top: 56px;
+  top: var(--header-h);
   z-index: 90;
 }
 .date-nav::-webkit-scrollbar { display: none; }
@@ -259,7 +264,7 @@ h1, h2, h3 { font-weight: 600; }
   background: var(--surf);
   border-bottom: 1px solid var(--rule);
   position: sticky;
-  top: 92px;
+  top: calc(var(--header-h) + var(--date-nav-h));
   z-index: 85;
 }
 .cat-filter-inner {
@@ -668,9 +673,9 @@ h1, h2, h3 { font-weight: 600; }
   background: var(--surf);
   border-bottom: 1px solid var(--rule);
   position: sticky;
-  top: 92px;
+  top: calc(var(--header-h) + var(--date-nav-h));
   z-index: 87;
-  min-height: 44px;
+  min-height: var(--search-h);
 }
 .search-bar-inner {
   max-width: 1320px;
@@ -717,9 +722,9 @@ h1, h2, h3 { font-weight: 600; }
 .search-clear:hover { background: var(--rule); color: var(--tx-1); }
 .search-clear[hidden] { display: none; }
 
-/* ── Cat-filter: shift down for search bar (mobile) ── */
+/* ── Cat-filter: shift down for search bar (≤1140px) ── */
 @media (max-width: 1140px) {
-  .cat-filter { top: 136px; }  /* 92px (date-nav bottom) + 44px (search bar) */
+  .cat-filter { top: calc(var(--header-h) + var(--date-nav-h) + var(--search-h)); }
   .search-bar-inner { padding: 9px 16px; }
 }
 
@@ -825,9 +830,7 @@ h1, h2, h3 { font-weight: 600; }
   .search-input { font-size: 1rem; }
 
   /* Sticky stack: mobile header ≈ 51px (padding 12px vs 14px, font 16px vs 17px) */
-  .date-nav        { top: 51px; }
-  .search-bar-wrap { top: 87px; }
-  .cat-filter      { top: 131px; }
+  :root { --header-h: 51px; }
 
   /* Touch targets — 44px Apple HIG minimum */
   .cat-chip  { padding: 8px 14px; min-height: 36px; }

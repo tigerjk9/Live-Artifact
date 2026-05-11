@@ -31,6 +31,8 @@
 | 키보드 단축키 | `j`/`k` 탐색, `/` 검색, `0–3` 카테고리, `Esc` 해제 |
 | PWA | Service Worker 오프라인 지원 |
 | SEO | canonical · Open Graph · Twitter Card · JSON-LD 자동 생성 |
+| 헤더 날짜+요일 | 브리핑 날짜에 요일 표시 + 실시간 KST 시각 (30s 갱신) |
+| 모바일 최적화 | iOS 입력 자동줌 방지 · 44px 터치 타겟 · sticky 스택 재계산 |
 
 ## 아키텍처
 

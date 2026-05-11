@@ -1,5 +1,5 @@
 /**
- * Daily Intelligence — app.js  (v5)
+ * Daily Intelligence — app.js  (v6)
  * 1. 다크모드: 시스템 prefers-color-scheme 우선, localStorage 오버라이드
  * 2. 날짜 nav — 로딩 스피너 + 오류 토스트
  * 3. 카테고리 필터 칩

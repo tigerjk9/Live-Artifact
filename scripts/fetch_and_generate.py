@@ -1015,6 +1015,9 @@ def main() -> None:
     # 2. KST 갱신 시각
     KST = timezone(timedelta(hours=9))
     now_kst = datetime.now(tz=KST)
+    # GitHub Actions cron은 UTC 01:00 = KST 10:00 실행이므로 스케줄 시각으로 고정
+    if os.environ.get("GITHUB_ACTIONS"):
+        now_kst = now_kst.replace(hour=10, minute=0, second=0, microsecond=0)
     last_updated_iso = now_kst.strftime("%Y-%m-%dT%H:%M:%S+09:00")
     last_updated_kr = f"{now_kst.year}년 {now_kst.month}월 {now_kst.day}일 {now_kst.strftime('%H:%M')} KST"
 
