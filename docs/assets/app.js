@@ -57,7 +57,36 @@
     // --- 2-2. 날짜 pill active 처리 ---
     activateDatePill();
 
+    // --- 2-3. 카테고리 필터 칩 ---
+    initCategoryFilter();
+
   });
+
+  /* ----------------------------------------------------------
+     2-3. 카테고리 필터: 칩 클릭 시 body[data-filter] 토글
+     CSS가 ≤1140px에서 비매칭 컬럼을 숨김 처리
+     ---------------------------------------------------------- */
+  function initCategoryFilter() {
+    var chips = document.querySelectorAll('.cat-chip');
+    if (!chips.length) return;
+
+    // 초기 상태: 전체
+    document.body.setAttribute('data-filter', 'all');
+
+    chips.forEach(function (chip) {
+      chip.addEventListener('click', function () {
+        var filter = chip.getAttribute('data-filter') || 'all';
+        document.body.setAttribute('data-filter', filter);
+        chips.forEach(function (c) { c.classList.remove('active'); });
+        chip.classList.add('active');
+        // 모바일에서 필터 변경 시 본문 최상단으로 살짝 스크롤
+        var grid = document.getElementById('main-content');
+        if (grid && window.innerWidth <= 1140) {
+          grid.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+      });
+    });
+  }
 
   /* ----------------------------------------------------------
      3. 날짜 pill: 현재 URL 기반 active 설정

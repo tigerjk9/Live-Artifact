@@ -178,31 +178,87 @@ a { color: var(--link); text-decoration: none; }
 .date-pill:hover  { background: var(--bdr); color: var(--tx2); }
 .date-pill.active { background: var(--tx1); color: var(--surf); font-weight: 600; }
 
+/* ── Category Filter (≤1140px 전용) ──────────── */
+.cat-filter {
+  display: none;
+  background: var(--surf);
+  border-bottom: 1px solid var(--bdr);
+  position: sticky;
+  top: 84px;       /* header 50 + date-nav ~34 */
+  z-index: 85;
+}
+.cat-filter-inner {
+  display: flex;
+  gap: 4px;
+  padding: 8px 16px;
+  max-width: 1440px;
+  margin: 0 auto;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+.cat-filter-inner::-webkit-scrollbar { display: none; }
+
+.cat-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 12px;
+  border-radius: 999px;
+  background: transparent;
+  border: 1px solid var(--bdr-mid);
+  color: var(--tx2);
+  font: 600 var(--s2)/1 var(--font);
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background .12s, color .12s, border-color .12s;
+}
+.cat-chip:hover { background: var(--bdr); color: var(--tx1); }
+.cat-chip::before {
+  content: '';
+  width: 6px; height: 6px;
+  border-radius: 50%;
+  background: var(--tx3);
+  flex-shrink: 0;
+}
+.cat-chip[data-filter="all"]::before   { display: none; }
+.cat-chip[data-filter="edu"]::before   { background: var(--c-edu); }
+.cat-chip[data-filter="paper"]::before { background: var(--c-paper); }
+.cat-chip[data-filter="tech"]::before  { background: var(--c-tech); }
+
+.cat-chip.active {
+  background: var(--tx1);
+  color: var(--surf);
+  border-color: var(--tx1);
+}
+.cat-chip.active::before { background: var(--surf); }
+
+@media (max-width: 1140px) {
+  .cat-filter { display: block; }
+}
+
 /* ── Grid ────────────────────────────────────── */
 /*
    열 너비 균등 보장:
-   1. .news-grid 는 수평 패딩 없음 (max-width 컨테이너만 담당)
-   2. .news-col 은 모두 동일한 padding: 0 24px
-   3. first/last child 패딩 오버라이드 없음 → 1fr 너비 동일
-   구분선은 border-right (마지막 열 제외)
+   1. minmax(0, 1fr): content가 길어도 컬럼이 늘어나지 않음 (CRITICAL)
+   2. .news-col 에 min-width: 0 + overflow: hidden 으로 한 번 더 안전장치
+   3. 모든 열 동일 padding, first/last child 오버라이드 없음
 */
 .news-grid {
   max-width: 1440px;
   margin: 0 auto;
   padding: 20px 0 48px;
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
-@media (max-width: 860px) {
+/* ≤1140px: 단일 컬럼 + 칩 필터로 카테고리 선택 */
+@media (max-width: 1140px) {
   .news-grid { grid-template-columns: 1fr; padding: 16px 0 32px; }
-}
-@media (min-width: 861px) and (max-width: 1140px) {
-  .news-grid { grid-template-columns: repeat(2, 1fr); }
 }
 
 /* ── Column ──────────────────────────────────── */
 .news-col {
+  min-width: 0;              /* CRITICAL: content overflow 차단 */
   padding: 0 24px;           /* 모든 열 동일 패딩 */
   border-right: 1px solid var(--bdr);
   animation: col-in .35s var(--ease) both;
@@ -218,7 +274,7 @@ a { color: var(--link); text-decoration: none; }
   to   { opacity: 1; transform: translateY(0); }
 }
 
-@media (max-width: 860px) {
+@media (max-width: 1140px) {
   .news-col {
     padding: 0 16px;
     border-right: none;
@@ -227,6 +283,18 @@ a { color: var(--link); text-decoration: none; }
     margin-bottom: 8px;
   }
   .news-col:last-child { border-bottom: none; }
+}
+
+/* ── 칩 필터 → 컬럼 표시/숨김 (≤1140px 전용) ─── */
+@media (max-width: 1140px) {
+  body[data-filter="edu"]   .news-col[data-cat="paper"],
+  body[data-filter="edu"]   .news-col[data-cat="tech"],
+  body[data-filter="paper"] .news-col[data-cat="edu"],
+  body[data-filter="paper"] .news-col[data-cat="tech"],
+  body[data-filter="tech"]  .news-col[data-cat="edu"],
+  body[data-filter="tech"]  .news-col[data-cat="paper"] {
+    display: none;
+  }
 }
 
 /* ── Column Header ───────────────────────────── */
@@ -296,33 +364,38 @@ a { color: var(--link); text-decoration: none; }
 [data-cat="paper"] .card-kw { background: var(--c-pap-s); color: var(--c-paper); }
 [data-cat="tech"]  .card-kw { background: var(--c-tec-s); color: var(--c-tech); }
 
-/* title */
+/* title — 2줄 고정 (균일한 카드 높이) */
 .card-title {
-  font: 600 var(--s0)/1.5 var(--font);
+  font: 600 var(--s0)/1.45 var(--font);
   color: var(--tx1);
   display: -webkit-box;
-  -webkit-line-clamp: 3;
+  -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
+  overflow-wrap: anywhere;  /* 긴 영문/URL 토큰이 컬럼 밀어내는 것 방지 */
 }
 .card-title a { color: inherit; transition: color .12s; }
 .card-title a:hover { color: var(--link); }
 
-/* authors */
+/* authors — 1줄 고정 */
 .card-by {
   font: 400 var(--s3)/1.4 var(--font);
   color: var(--tx3);
   font-style: italic;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
-/* summary */
+/* summary — 2줄 고정 */
 .card-desc {
-  font: 400 var(--s2)/1.65 var(--font);
+  font: 400 var(--s2)/1.6 var(--font);
   color: var(--tx2);
   display: -webkit-box;
-  -webkit-line-clamp: 3;
+  -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
+  overflow-wrap: anywhere;
 }
 
 /* footer */
