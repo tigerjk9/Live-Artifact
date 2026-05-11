@@ -26,7 +26,9 @@
   </header>
 
   <nav class="date-nav" aria-label="날짜 선택">
-    {{DATE_NAV}}
+    <div class="date-nav-inner">
+      {{DATE_NAV}}
+    </div>
   </nav>
 
   <main class="news-grid" id="main-content">
@@ -55,7 +57,7 @@
   </main>
 
   <footer class="site-footer">
-    <span class="footer-updated">갱신 <time datetime="{{LAST_UPDATED}}">{{LAST_UPDATED}}</time></span>
+    <span class="footer-updated">갱신 <time datetime="{{LAST_UPDATED_ISO}}">{{LAST_UPDATED_KR}}</time></span>
     <a class="footer-link" href="https://github.com/tigerjk9" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
   </footer>
 

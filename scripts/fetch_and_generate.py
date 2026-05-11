@@ -473,8 +473,14 @@ def main() -> None:
     date_nav = build_date_nav(today, archive_dir)
 
     # 4. 플레이스홀더 치환
-    current_date_kr = datetime.strptime(today, "%Y-%m-%d").strftime("%Y년 %m월 %d일")
-    last_updated = datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
+    today_dt = datetime.strptime(today, "%Y-%m-%d")
+    current_date_kr = f"{today_dt.year}년 {today_dt.month}월 {today_dt.day}일"
+
+    from datetime import timezone, timedelta
+    KST = timezone(timedelta(hours=9))
+    now_kst = datetime.now(tz=KST)
+    last_updated_iso = now_kst.strftime("%Y-%m-%dT%H:%M:%S+09:00")
+    last_updated_kr = f"{now_kst.year}년 {now_kst.month}월 {now_kst.day}일 {now_kst.strftime('%H:%M')} KST"
 
     html = (
         template
@@ -483,7 +489,8 @@ def main() -> None:
         .replace("{{AI_PAPER_CARDS}}", cards["ai-paper"])
         .replace("{{AI_TECH_CARDS}}", cards["ai-tech"])
         .replace("{{DATE_NAV}}", date_nav)
-        .replace("{{LAST_UPDATED}}", last_updated)
+        .replace("{{LAST_UPDATED_ISO}}", last_updated_iso)
+        .replace("{{LAST_UPDATED_KR}}", last_updated_kr)
     )
 
     # 5. docs/archive/{today}.html 저장
