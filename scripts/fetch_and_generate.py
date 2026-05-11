@@ -5,6 +5,8 @@
 docs/archive/{today}.html을 생성한다. 28일 초과 아카이브는 자동 삭제.
 """
 
+from __future__ import annotations
+
 import base64
 import json
 import os
@@ -191,102 +193,138 @@ def escape_html(text: str) -> str:
     )
 
 
-# ---------------------------------------------------------------------------
-# HTML 카드 렌더링
-# ---------------------------------------------------------------------------
+def clean_title(title: str, source: str) -> str:
+    """제목 끝의 ' - 매체명' 중복 접미사를 제거한다.
 
-
-def render_card(item: dict, cfg: dict, source_key: str) -> str:
-    """모든 소스에 대해 동일한 HTML 구조를 가진 카드를 반환한다.
-
-    CSS 클래스 매핑:
-      .card-src   — 출처
-      .sep        — 구분점
-      .card-dt    — 날짜
-      .card-kw    — 키워드 배지
-      .card-title — 제목 (a 태그 포함)
-      .card-by    — 저자 (논문 전용)
-      .card-desc  — 요약
-      .card-foot  — 하단 링크 영역
-      .card-link  — 읽기 링크
-      .card-pdf   — PDF 링크 (논문 전용)
+    Google News RSS는 제목 끝에 ' - 매체명' 형식을 붙이는데,
+    source 필드가 별도로 있으므로 중복이다.
     """
-    title = escape_html(str(item.get(cfg["title_field"], "제목 없음")))
-    url = str(item.get(cfg["url_field"], "#")).strip()
-    source = escape_html(str(item.get(cfg.get("source_field", ""), "")).strip())
+    if not title:
+        return ""
+    t = title.strip()
+    if source:
+        suffix = f" - {source}"
+        if t.endswith(suffix):
+            t = t[: -len(suffix)].strip()
+    # 일반 패턴: 끝부분의 ' - XXX' 형태 (XXX가 짧을 때)
+    m = re.search(r"\s+-\s+([^\-]{2,20})\s*$", t)
+    if m:
+        t = t[: m.start()].strip()
+    return t
+
+
+# ---------------------------------------------------------------------------
+# HTML 엔트리 렌더링 (Editorial Brief)
+# ---------------------------------------------------------------------------
+
+
+def render_entry(item: dict, cfg: dict, source_key: str, index: int) -> str:
+    """단일 뉴스/논문 엔트리 HTML을 반환한다 (Editorial Brief 구조).
+
+    HTML 구조:
+      <li class="entry">
+        <span class="entry-num">01</span>
+        <div class="entry-body">
+          <div class="entry-meta">
+            <span class="entry-src">출처</span>
+            <span class="entry-sep">·</span>
+            <span class="entry-dt">날짜</span>
+            <span class="entry-kw">키워드</span>
+          </div>
+          <h3 class="entry-title"><a>제목</a></h3>
+          <p class="entry-by">저자</p>    <!-- 논문 전용 -->
+          <p class="entry-desc">요약</p>
+          <div class="entry-actions">     <!-- 논문 PDF만 -->
+            <a class="entry-pdf">PDF</a>
+          </div>
+        </div>
+      </li>
+    """
+    raw_title = str(item.get(cfg["title_field"], "제목 없음"))
+    url = str(item.get(cfg["url_field"], "#")).strip() or "#"
+    source_raw = str(item.get(cfg.get("source_field", ""), "")).strip()
     date_raw = str(item.get(cfg.get("date_field", "date"), "")).strip()
     keyword = str(item.get(cfg.get("keyword_field", "keyword"), "")).strip()
     summary_raw = str(item.get(cfg.get("summary_field", "summary"), "")).strip()
 
+    title_clean = clean_title(raw_title, source_raw)
+    title = escape_html(title_clean) if title_clean else "제목 없음"
+    source = escape_html(source_raw)
     date_fmt = format_date(date_raw)
     clean_sum = re.sub(r"<[^>]+>", "", summary_raw).strip() if summary_raw else ""
 
-    # meta: 출처 · 날짜
-    sep_html = '    <span class="sep" aria-hidden="true">·</span>\n' if source and date_fmt else ""
-    src_html = f'    <span class="card-src">{source}</span>\n' if source else ""
-    dt_html = f'    <span class="card-dt">{date_fmt}</span>\n' if date_fmt else ""
-
-    # keyword 배지 — 'press_rss'는 의미 없는 내부 태그이므로 제외
-    kw_html = ""
+    # meta 컴포지션
+    meta_parts: list[str] = []
+    if source:
+        meta_parts.append(f'<span class="entry-src">{source}</span>')
+    if source and date_fmt:
+        meta_parts.append('<span class="entry-sep" aria-hidden="true">·</span>')
+    if date_fmt:
+        meta_parts.append(f'<span class="entry-dt">{date_fmt}</span>')
     if keyword and keyword not in ("press_rss", "None", ""):
-        kw_html = f'    <span class="card-kw">{escape_html(keyword)}</span>\n'
+        meta_parts.append(f'<span class="entry-kw">{escape_html(keyword)}</span>')
 
-    # 저자 (논문 전용)
+    meta_html = (
+        f'      <div class="entry-meta">{"".join(meta_parts)}</div>\n'
+        if meta_parts
+        else ""
+    )
+
+    # 저자 (논문)
     by_html = ""
     if source_key == "ai-paper":
         authors_raw = str(item.get(cfg.get("authors_field", "authors"), "")).strip()
         authors_fmt = escape_html(format_authors(authors_raw))
         if authors_fmt:
-            by_html = f'  <p class="card-by">{authors_fmt}</p>\n'
+            by_html = f'      <p class="entry-by">{authors_fmt}</p>\n'
 
     # 요약
     desc_html = ""
     if clean_sum:
-        desc_html = f'  <p class="card-desc">{escape_html(clean_sum)}</p>\n'
+        desc_html = f'      <p class="entry-desc">{escape_html(clean_sum)}</p>\n'
 
-    # 하단 링크
-    read_label = "논문 보기 &rarr;" if source_key == "ai-paper" else "읽기 &rarr;"
-    read_html = (
-        f'    <a class="card-link" href="{url}" target="_blank" rel="noopener noreferrer">'
-        f"{read_label}</a>\n"
-    )
-
-    pdf_html = ""
+    # PDF 링크 (논문 전용)
+    actions_html = ""
     if source_key == "ai-paper":
         pdf_link = str(item.get(cfg.get("pdf_field", "pdf_link"), "")).strip()
         if pdf_link and pdf_link not in ("#", "None", ""):
-            pdf_html = (
-                f'    <a class="card-pdf" href="{pdf_link}" target="_blank" rel="noopener noreferrer">'
-                f"PDF &darr;</a>\n"
+            actions_html = (
+                '      <div class="entry-actions">\n'
+                f'        <a class="entry-pdf" href="{pdf_link}" '
+                f'target="_blank" rel="noopener noreferrer">PDF &darr;</a>\n'
+                "      </div>\n"
             )
 
     return (
-        f'<article class="news-card" role="listitem">\n'
-        f'  <div class="card-meta">\n'
-        f"{src_html}"
-        f"{sep_html}"
-        f"{dt_html}"
-        f"{kw_html}"
-        f"  </div>\n"
-        f'  <h3 class="card-title">'
+        f'    <li class="entry">\n'
+        f'      <span class="entry-num" aria-hidden="true">{index:02d}</span>\n'
+        f'      <div class="entry-body">\n'
+        f"{meta_html}"
+        f'        <h3 class="entry-title">'
         f'<a href="{url}" target="_blank" rel="noopener noreferrer">{title}</a>'
         f"</h3>\n"
         f"{by_html}"
         f"{desc_html}"
-        f'  <div class="card-foot">\n'
-        f"{read_html}"
-        f"{pdf_html}"
-        f"  </div>\n"
-        f"</article>"
+        f"{actions_html}"
+        f"      </div>\n"
+        f"    </li>"
     )
 
 
-def render_cards(items: list[dict], cfg: dict, source_key: str) -> str:
-    """카드 목록 HTML 블록을 반환한다. 비어있으면 빈 상태 카드를 반환한다."""
+def render_section_body(items: list[dict], cfg: dict, source_key: str) -> str:
+    """섹션 본문 (ol.col-list 또는 col-empty)을 반환한다."""
     if not items:
         label = cfg.get("label", "데이터")
-        return f'<p class="card-empty">이 날짜의 {label} 데이터가 없습니다.</p>'
-    return "\n".join(render_card(item, cfg, source_key) for item in items)
+        return f'<p class="col-empty">이 날짜의 {label} 데이터가 없습니다.</p>'
+    entries = "\n".join(
+        render_entry(item, cfg, source_key, idx + 1) for idx, item in enumerate(items)
+    )
+    return f'<ol class="col-list">\n{entries}\n  </ol>'
+
+
+# 하위 호환 — 기존 main()에서 render_cards 호출
+def render_cards(items: list[dict], cfg: dict, source_key: str) -> str:
+    return render_section_body(items, cfg, source_key)
 
 
 # ---------------------------------------------------------------------------
@@ -455,17 +493,18 @@ def main() -> None:
 
     # 2. 3개 소스 페치 (독립 try-except — 하나 실패해도 나머지 진행)
     cards: dict[str, str] = {}
+    counts: dict[str, int] = {}
     for key, cfg in SOURCES.items():
         try:
             items = fetch_today_source(key, cfg, today)
-            cards[key] = render_cards(items, cfg, key)
+            counts[key] = len(items)
+            cards[key] = render_section_body(items, cfg, key)
         except Exception as exc:
             print(f"[ERROR] {key} 처리 실패: {exc}", file=sys.stderr)
             label = cfg.get("label", "데이터")
+            counts[key] = 0
             cards[key] = (
-                f'<div class="cards-empty" role="status">\n'
-                f"  이 날짜의 {label} 데이터가 없습니다.\n"
-                f"</div>"
+                f'<p class="col-empty">이 날짜의 {label} 데이터가 없습니다.</p>'
             )
 
     # 3. 날짜 네비게이션 생성
@@ -488,6 +527,9 @@ def main() -> None:
         .replace("{{EDU_NEWS_CARDS}}", cards["edu-news"])
         .replace("{{AI_PAPER_CARDS}}", cards["ai-paper"])
         .replace("{{AI_TECH_CARDS}}", cards["ai-tech"])
+        .replace("{{EDU_NEWS_COUNT}}", f"{counts['edu-news']}건")
+        .replace("{{AI_PAPER_COUNT}}", f"{counts['ai-paper']}건")
+        .replace("{{AI_TECH_COUNT}}", f"{counts['ai-tech']}건")
         .replace("{{DATE_NAV}}", date_nav)
         .replace("{{LAST_UPDATED_ISO}}", last_updated_iso)
         .replace("{{LAST_UPDATED_KR}}", last_updated_kr)

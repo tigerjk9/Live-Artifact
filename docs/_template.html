@@ -5,16 +5,18 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Daily Intelligence — {{CURRENT_DATE}}</title>
   <meta name="description" content="교육 뉴스, AI 논문, AI 기술 뉴스 일일 브리핑 — Daily Intelligence">
-  <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/npm/pretendard@1.3.9/dist/web/static/pretendard.css">
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+  <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/npm/pretendard@1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css">
   <link rel="stylesheet" href="assets/style.css">
 </head>
-<body>
+<body data-filter="all">
 
   <header class="site-header">
     <div class="header-inner">
       <div class="brand">
         <span class="brand-signal" aria-hidden="true"></span>
         <span class="brand-name">Daily Intelligence</span>
+        <span class="brand-tag" aria-hidden="true">EDU · PAPERS · TECH</span>
       </div>
       <div class="header-right">
         <time class="header-date">{{CURRENT_DATE}}</time>
@@ -42,25 +44,28 @@
 
   <main class="news-grid" id="main-content">
 
-    <section class="news-col" data-cat="edu" aria-labelledby="col-edu-label">
-      <div class="col-header">
-        <span class="col-label" id="col-edu-label">교육 뉴스</span>
-      </div>
-      <div class="col-items" role="list">{{EDU_NEWS_CARDS}}</div>
+    <section class="col" data-cat="edu" aria-labelledby="col-edu-title">
+      <header class="col-head">
+        <h2 class="col-title" id="col-edu-title">교육 뉴스</h2>
+        <span class="col-count">{{EDU_NEWS_COUNT}}</span>
+      </header>
+      {{EDU_NEWS_CARDS}}
     </section>
 
-    <section class="news-col" data-cat="paper" aria-labelledby="col-paper-label">
-      <div class="col-header">
-        <span class="col-label" id="col-paper-label">AI 논문</span>
-      </div>
-      <div class="col-items" role="list">{{AI_PAPER_CARDS}}</div>
+    <section class="col" data-cat="paper" aria-labelledby="col-paper-title">
+      <header class="col-head">
+        <h2 class="col-title" id="col-paper-title">AI 논문</h2>
+        <span class="col-count">{{AI_PAPER_COUNT}}</span>
+      </header>
+      {{AI_PAPER_CARDS}}
     </section>
 
-    <section class="news-col" data-cat="tech" aria-labelledby="col-tech-label">
-      <div class="col-header">
-        <span class="col-label" id="col-tech-label">AI 기술</span>
-      </div>
-      <div class="col-items" role="list">{{AI_TECH_CARDS}}</div>
+    <section class="col" data-cat="tech" aria-labelledby="col-tech-title">
+      <header class="col-head">
+        <h2 class="col-title" id="col-tech-title">AI 기술</h2>
+        <span class="col-count">{{AI_TECH_COUNT}}</span>
+      </header>
+      {{AI_TECH_CARDS}}
     </section>
 
   </main>
