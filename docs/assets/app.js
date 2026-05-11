@@ -18,7 +18,8 @@
     document.documentElement.setAttribute('data-theme', theme);
     var btn = document.querySelector('.theme-toggle');
     if (btn) {
-      btn.textContent = theme === 'dark' ? '☀️' : '🌙';
+      var icon = btn.querySelector('.theme-icon');
+      if (icon) icon.textContent = theme === 'dark' ? '○' : '◐';
       btn.setAttribute('aria-label', theme === 'dark' ? '라이트모드 전환' : '다크모드 전환');
     }
   }
@@ -35,9 +36,10 @@
     // --- 2-1. 다크모드 버튼 ---
     var themeBtn = document.querySelector('.theme-toggle');
     if (themeBtn) {
-      // 버튼 텍스트 초기화 (DOMContentLoaded 시점 재설정)
+      // 버튼 아이콘 초기화 (DOMContentLoaded 시점 재설정)
       var current = document.documentElement.getAttribute('data-theme') || 'light';
-      themeBtn.textContent = current === 'dark' ? '☀️' : '🌙';
+      var icon = themeBtn.querySelector('.theme-icon');
+      if (icon) icon.textContent = current === 'dark' ? '○' : '◐';
       themeBtn.setAttribute('aria-label', current === 'dark' ? '라이트모드 전환' : '다크모드 전환');
 
       themeBtn.addEventListener('click', function () {

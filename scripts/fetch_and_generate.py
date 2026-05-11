@@ -271,9 +271,11 @@ def render_paper_card(item: dict, cfg: dict) -> str:
 
     summary_html = ""
     if summary_raw:
-        summary_html = (
-            f'  <p class="card-summary">{escape_html(summary_raw)}</p>\n'
-        )
+        clean_summary = re.sub(r"<[^>]+>", "", summary_raw).strip()
+        if clean_summary:
+            summary_html = (
+                f'  <p class="card-summary">{escape_html(clean_summary)}</p>\n'
+            )
 
     authors_html = ""
     if authors_formatted:
@@ -493,11 +495,12 @@ def main() -> None:
     repo_root = os.path.dirname(script_dir)
     docs_dir = os.path.join(repo_root, "docs")
     archive_dir = os.path.join(docs_dir, "archive")
-    template_path = os.path.join(docs_dir, "index.html")
+    template_path = os.path.join(docs_dir, "_template.html")
+    output_path   = os.path.join(docs_dir, "index.html")
 
     print(f"[START] {today} 뉴스 생성 시작", file=sys.stderr)
 
-    # 1. 템플릿 로드
+    # 1. 템플릿 로드 (_template.html → 플레이스홀더 원본)
     if not os.path.isfile(template_path):
         print(f"[ERROR] 템플릿 없음: {template_path}", file=sys.stderr)
         sys.exit(1)
@@ -544,10 +547,10 @@ def main() -> None:
         f.write(html)
     print(f"[OK] 아카이브 저장: {archive_path}", file=sys.stderr)
 
-    # 6. docs/index.html 갱신
-    with open(template_path, "w", encoding="utf-8") as f:
+    # 6. docs/index.html 갱신 (템플릿은 _template.html로 보존)
+    with open(output_path, "w", encoding="utf-8") as f:
         f.write(html)
-    print(f"[OK] index.html 갱신: {template_path}", file=sys.stderr)
+    print(f"[OK] index.html 갱신: {output_path}", file=sys.stderr)
 
     # 7. dates.json 업데이트
     update_dates_json(today, docs_dir)
