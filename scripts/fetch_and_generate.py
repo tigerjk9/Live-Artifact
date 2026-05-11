@@ -196,151 +196,96 @@ def escape_html(text: str) -> str:
 # ---------------------------------------------------------------------------
 
 
-def render_news_card(item: dict, cfg: dict) -> str:
-    """교육 뉴스 / AI 기술 뉴스 공통 카드 HTML을 반환한다."""
+def render_card(item: dict, cfg: dict, source_key: str) -> str:
+    """모든 소스에 대해 동일한 HTML 구조를 가진 카드를 반환한다.
+
+    CSS 클래스 매핑:
+      .card-src   — 출처
+      .sep        — 구분점
+      .card-dt    — 날짜
+      .card-kw    — 키워드 배지
+      .card-title — 제목 (a 태그 포함)
+      .card-by    — 저자 (논문 전용)
+      .card-desc  — 요약
+      .card-foot  — 하단 링크 영역
+      .card-link  — 읽기 링크
+      .card-pdf   — PDF 링크 (논문 전용)
+    """
     title = escape_html(str(item.get(cfg["title_field"], "제목 없음")))
-    url = str(item.get(cfg["url_field"], "#"))
-    summary_raw = str(item.get(cfg.get("summary_field", "summary"), "")).strip()
+    url = str(item.get(cfg["url_field"], "#")).strip()
     source = escape_html(str(item.get(cfg.get("source_field", ""), "")).strip())
     date_raw = str(item.get(cfg.get("date_field", "date"), "")).strip()
     keyword = str(item.get(cfg.get("keyword_field", "keyword"), "")).strip()
-
-    date_formatted = format_date(date_raw)
-
-    # keyword가 'press_rss'인 경우 키워드 태그 미출력
-    keyword_html = ""
-    if keyword and keyword != "press_rss":
-        keyword_html = f'    <span class="card-keyword">{escape_html(keyword)}</span>\n'
-
-    # summary가 빈 문자열이면 요소 전체 생략
-    summary_html = ""
-    if summary_raw:
-        # press_rss summary에 HTML 태그가 포함될 수 있으므로 태그 제거
-        clean_summary = re.sub(r"<[^>]+>", "", summary_raw).strip()
-        if clean_summary:
-            summary_html = (
-                f'  <p class="card-summary">{escape_html(clean_summary)}</p>\n'
-            )
-
-    meta_sep = (
-        '    <span class="card-meta-sep" aria-hidden="true">·</span>\n'
-        if source and date_formatted
-        else ""
-    )
-
-    return (
-        f'<article class="news-card" role="listitem">\n'
-        f'  <div class="card-meta">\n'
-        f'    <span class="card-source">{source}</span>\n'
-        f"{meta_sep}"
-        f'    <span class="card-date">{date_formatted}</span>\n'
-        f"{keyword_html}"
-        f"  </div>\n"
-        f'  <h3 class="card-title">{title}</h3>\n'
-        f"{summary_html}"
-        f'  <div class="card-footer">\n'
-        f'    <a class="card-read-btn"\n'
-        f'       href="{url}"\n'
-        f'       target="_blank"\n'
-        f'       rel="noopener noreferrer"\n'
-        f'       aria-label="{title} 읽기">\n'
-        f"      읽기 &rarr;\n"
-        f"    </a>\n"
-        f"  </div>\n"
-        f"</article>"
-    )
-
-
-def render_paper_card(item: dict, cfg: dict) -> str:
-    """AI 논문 카드 HTML을 반환한다."""
-    title = escape_html(str(item.get(cfg["title_field"], "제목 없음")))
-    url = str(item.get(cfg["url_field"], "#"))
     summary_raw = str(item.get(cfg.get("summary_field", "summary"), "")).strip()
-    source = escape_html(str(item.get(cfg.get("source_field", "source"), "")).strip())
-    published = escape_html(str(item.get(cfg.get("date_field", "published"), "")).strip())
-    keyword = str(item.get(cfg.get("keyword_field", "keyword"), "")).strip()
-    authors_raw = str(item.get(cfg.get("authors_field", "authors"), "")).strip()
-    pdf_link = str(item.get(cfg.get("pdf_field", "pdf_link"), "")).strip()
 
-    authors_formatted = escape_html(format_authors(authors_raw))
-    keyword_html = ""
-    if keyword:
-        keyword_html = (
-            f'    <span class="card-keyword">{escape_html(keyword)}</span>\n'
-        )
+    date_fmt = format_date(date_raw)
+    clean_sum = re.sub(r"<[^>]+>", "", summary_raw).strip() if summary_raw else ""
 
-    summary_html = ""
-    if summary_raw:
-        clean_summary = re.sub(r"<[^>]+>", "", summary_raw).strip()
-        if clean_summary:
-            summary_html = (
-                f'  <p class="card-summary">{escape_html(clean_summary)}</p>\n'
-            )
+    # meta: 출처 · 날짜
+    sep_html = '    <span class="sep" aria-hidden="true">·</span>\n' if source and date_fmt else ""
+    src_html = f'    <span class="card-src">{source}</span>\n' if source else ""
+    dt_html = f'    <span class="card-dt">{date_fmt}</span>\n' if date_fmt else ""
 
-    authors_html = ""
-    if authors_formatted:
-        authors_html = f'  <p class="card-authors">{authors_formatted}</p>\n'
+    # keyword 배지 — 'press_rss'는 의미 없는 내부 태그이므로 제외
+    kw_html = ""
+    if keyword and keyword not in ("press_rss", "None", ""):
+        kw_html = f'    <span class="card-kw">{escape_html(keyword)}</span>\n'
 
-    # pdf_link가 있을 때만 PDF 버튼 출력
-    pdf_btn_html = ""
-    if pdf_link and pdf_link not in ("#", "None", ""):
-        pdf_btn_html = (
-            f'    <a class="card-pdf-btn"\n'
-            f'       href="{pdf_link}"\n'
-            f'       target="_blank"\n'
-            f'       rel="noopener noreferrer"\n'
-            f'       aria-label="{title} PDF">\n'
-            f"      PDF &darr;\n"
-            f"    </a>\n"
-        )
+    # 저자 (논문 전용)
+    by_html = ""
+    if source_key == "ai-paper":
+        authors_raw = str(item.get(cfg.get("authors_field", "authors"), "")).strip()
+        authors_fmt = escape_html(format_authors(authors_raw))
+        if authors_fmt:
+            by_html = f'  <p class="card-by">{authors_fmt}</p>\n'
 
-    meta_sep = (
-        '    <span class="card-meta-sep" aria-hidden="true">·</span>\n'
-        if source and published
-        else ""
+    # 요약
+    desc_html = ""
+    if clean_sum:
+        desc_html = f'  <p class="card-desc">{escape_html(clean_sum)}</p>\n'
+
+    # 하단 링크
+    read_label = "논문 보기 &rarr;" if source_key == "ai-paper" else "읽기 &rarr;"
+    read_html = (
+        f'    <a class="card-link" href="{url}" target="_blank" rel="noopener noreferrer">'
+        f"{read_label}</a>\n"
     )
+
+    pdf_html = ""
+    if source_key == "ai-paper":
+        pdf_link = str(item.get(cfg.get("pdf_field", "pdf_link"), "")).strip()
+        if pdf_link and pdf_link not in ("#", "None", ""):
+            pdf_html = (
+                f'    <a class="card-pdf" href="{pdf_link}" target="_blank" rel="noopener noreferrer">'
+                f"PDF &darr;</a>\n"
+            )
 
     return (
         f'<article class="news-card" role="listitem">\n'
         f'  <div class="card-meta">\n'
-        f'    <span class="card-source">{source}</span>\n'
-        f"{meta_sep}"
-        f'    <span class="card-date">{published}</span>\n'
-        f"{keyword_html}"
+        f"{src_html}"
+        f"{sep_html}"
+        f"{dt_html}"
+        f"{kw_html}"
         f"  </div>\n"
-        f'  <h3 class="card-title">{title}</h3>\n'
-        f"{authors_html}"
-        f"{summary_html}"
-        f'  <div class="card-footer">\n'
-        f"{pdf_btn_html}"
-        f'    <a class="card-read-btn"\n'
-        f'       href="{url}"\n'
-        f'       target="_blank"\n'
-        f'       rel="noopener noreferrer"\n'
-        f'       aria-label="{title} 논문 보기">\n'
-        f"      논문 보기 &rarr;\n"
-        f"    </a>\n"
+        f'  <h3 class="card-title">'
+        f'<a href="{url}" target="_blank" rel="noopener noreferrer">{title}</a>'
+        f"</h3>\n"
+        f"{by_html}"
+        f"{desc_html}"
+        f'  <div class="card-foot">\n'
+        f"{read_html}"
+        f"{pdf_html}"
         f"  </div>\n"
         f"</article>"
     )
-
-
-def render_card(item: dict, cfg: dict, source_key: str) -> str:
-    """소스 키에 따라 적절한 카드 렌더러를 선택한다."""
-    if source_key == "ai-paper":
-        return render_paper_card(item, cfg)
-    return render_news_card(item, cfg)
 
 
 def render_cards(items: list[dict], cfg: dict, source_key: str) -> str:
     """카드 목록 HTML 블록을 반환한다. 비어있으면 빈 상태 카드를 반환한다."""
     if not items:
         label = cfg.get("label", "데이터")
-        return (
-            f'<div class="cards-empty" role="status">\n'
-            f"  이 날짜의 {label} 데이터가 없습니다.\n"
-            f"</div>"
-        )
+        return f'<p class="card-empty">이 날짜의 {label} 데이터가 없습니다.</p>'
     return "\n".join(render_card(item, cfg, source_key) for item in items)
 
 
