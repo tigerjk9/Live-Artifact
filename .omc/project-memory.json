@@ -1,0 +1,194 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1778508834554,
+  "projectRoot": "C:\\Users\\windo\\Desktop\\03_코딩·개발\\Github Desktop\\Live Artifact",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": {
+      "defaultBranch": "main",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {},
+  "hotPaths": [
+    {
+      "path": "scripts\\fetch_and_generate.py",
+      "accessCount": 61,
+      "lastAccessed": 1778523729560,
+      "type": "file"
+    },
+    {
+      "path": "docs\\assets\\style.css",
+      "accessCount": 44,
+      "lastAccessed": 1778523793914,
+      "type": "file"
+    },
+    {
+      "path": "docs\\_template.html",
+      "accessCount": 23,
+      "lastAccessed": 1778523861648,
+      "type": "file"
+    },
+    {
+      "path": "docs\\assets\\app.js",
+      "accessCount": 17,
+      "lastAccessed": 1778523722798,
+      "type": "file"
+    },
+    {
+      "path": "docs\\index.html",
+      "accessCount": 15,
+      "lastAccessed": 1778519439098,
+      "type": "file"
+    },
+    {
+      "path": "_workspace\\01_schema_contract.json",
+      "accessCount": 4,
+      "lastAccessed": 1778511437655,
+      "type": "file"
+    },
+    {
+      "path": "",
+      "accessCount": 4,
+      "lastAccessed": 1778522932598,
+      "type": "directory"
+    },
+    {
+      "path": "README.md",
+      "accessCount": 4,
+      "lastAccessed": 1778523721340,
+      "type": "file"
+    },
+    {
+      "path": ".claude\\skills\\live-artifact-setup\\references\\data-access-patterns.md",
+      "accessCount": 2,
+      "lastAccessed": 1778510299212,
+      "type": "file"
+    },
+    {
+      "path": ".claude\\agents\\live-schema-explorer.md",
+      "accessCount": 2,
+      "lastAccessed": 1778510299369,
+      "type": "file"
+    },
+    {
+      "path": ".claude\\skills\\live-artifact-setup\\references\\site-design-spec.md",
+      "accessCount": 2,
+      "lastAccessed": 1778510299437,
+      "type": "file"
+    },
+    {
+      "path": ".claude\\agents\\live-site-designer.md",
+      "accessCount": 2,
+      "lastAccessed": 1778510309992,
+      "type": "file"
+    },
+    {
+      "path": ".claude\\agents\\live-qa-validator.md",
+      "accessCount": 2,
+      "lastAccessed": 1778510313990,
+      "type": "file"
+    },
+    {
+      "path": "_workspace\\02_html_template.html",
+      "accessCount": 2,
+      "lastAccessed": 1778511077697,
+      "type": "file"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "accessCount": 2,
+      "lastAccessed": 1778522895961,
+      "type": "file"
+    },
+    {
+      "path": ".claude\\skills\\live-artifact-setup\\SKILL.md",
+      "accessCount": 1,
+      "lastAccessed": 1778509956452,
+      "type": "file"
+    },
+    {
+      "path": ".claude\\skills\\live-artifact-setup",
+      "accessCount": 1,
+      "lastAccessed": 1778510287848,
+      "type": "directory"
+    },
+    {
+      "path": "docs\\assets\\dates.json",
+      "accessCount": 1,
+      "lastAccessed": 1778511115702,
+      "type": "file"
+    },
+    {
+      "path": "scripts\\setup_secrets.md",
+      "accessCount": 1,
+      "lastAccessed": 1778511130774,
+      "type": "file"
+    },
+    {
+      "path": "_workspace\\06_qa_report.md",
+      "accessCount": 1,
+      "lastAccessed": 1778511465368,
+      "type": "file"
+    },
+    {
+      "path": "docs\\assets\\manifest.json",
+      "accessCount": 1,
+      "lastAccessed": 1778518439138,
+      "type": "file"
+    },
+    {
+      "path": "docs\\sw.js",
+      "accessCount": 1,
+      "lastAccessed": 1778518447759,
+      "type": "file"
+    },
+    {
+      "path": "docs",
+      "accessCount": 1,
+      "lastAccessed": 1778521978514,
+      "type": "directory"
+    },
+    {
+      "path": "_patch_og.py",
+      "accessCount": 1,
+      "lastAccessed": 1778522433219,
+      "type": "file"
+    },
+    {
+      "path": "_patch_weekday.py",
+      "accessCount": 1,
+      "lastAccessed": 1778523808090,
+      "type": "file"
+    },
+    {
+      "path": "_compress_og.py",
+      "accessCount": 1,
+      "lastAccessed": 1778523811477,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}

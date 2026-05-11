@@ -1,0 +1,156 @@
+<!--
+=============================================================
+  _workspace/02_html_template.html
+  플레이스홀더 명세 — workflow-builder 참조용
+  작성: live-site-designer
+=============================================================
+
+[플레이스홀더 목록]
+
+  {{CURRENT_DATE}}
+    - 형식: YYYY년 MM월 DD일  (예: 2026년 05월 11일)
+    - 위치: <title>, .current-date, date-nav의 오늘 pill
+
+  {{EDU_NEWS_CARDS}}
+    - 위치: [data-category="edu"] .cards 내부
+    - 데이터 소스: education_news_YYYYMMDD.json
+    - 사용 필드: title, link, press, date(RFC 2822), summary(빈 문자열 허용), keyword
+    - 카드 HTML 구조: 아래 [카드 템플릿 — 교육 뉴스] 참조
+
+  {{AI_PAPER_CARDS}}
+    - 위치: [data-category="paper"] .cards 내부
+    - 데이터 소스: ai_edu_papers_YYYYMMDD.json
+    - 사용 필드: title, link, pdf_link(optional), authors, published(YYYY-MM-DD), summary(영문), source, keyword
+    - 카드 HTML 구조: 아래 [카드 템플릿 — AI 논문] 참조
+
+  {{AI_TECH_CARDS}}
+    - 위치: [data-category="tech"] .cards 내부
+    - 데이터 소스: ai_tech_news_YYYYMMDD.json
+    - 사용 필드: title, link, press, date(RFC 2822 또는 YYYY-MM-DD HH:MM:SS 혼재), summary(빈 문자열 허용), keyword
+    - 카드 HTML 구조: 아래 [카드 템플릿 — AI 기술] 참조
+
+  {{DATE_NAV}}
+    - 위치: .date-nav-inner 내부
+    - 형식: date-pill 링크 목록 (최근 28일, 오늘부터 역순)
+    - 카드 HTML 구조: 아래 [날짜 네비게이션 템플릿] 참조
+
+  {{LAST_UPDATED}}
+    - 형식: ISO 8601 UTC  (예: 2026-05-11T09:00:00Z)
+    - 위치: <time datetime="..."> 및 텍스트 노드 양쪽에 동일하게 삽입
+=============================================================
+-->
+
+<!--
+=============================================================
+  [카드 템플릿 — 교육 뉴스 / AI 기술 뉴스]
+  (edu-news 와 ai-tech 공통 구조)
+=============================================================
+<article class="news-card" role="listitem">
+  <div class="card-meta">
+    <span class="card-source">{press}</span>
+    <span class="card-meta-sep" aria-hidden="true">·</span>
+    <span class="card-date">{date_formatted}</span>
+    <!-- keyword가 'press_rss'가 아닐 경우에만 표시 -->
+    <span class="card-keyword">{keyword}</span>
+  </div>
+  <h3 class="card-title">{title}</h3>
+  <!-- summary가 빈 문자열이면 이 요소 전체 생략 -->
+  <p class="card-summary">{summary}</p>
+  <div class="card-footer">
+    <a class="card-read-btn"
+       href="{link}"
+       target="_blank"
+       rel="noopener noreferrer"
+       aria-label="{title} 읽기">
+      읽기 →
+    </a>
+  </div>
+</article>
+
+[날짜 파싱 주의사항 — edu-news / ai-tech]
+  - RFC 2822 예: "Sun, 10 May 2026 06:50:35 GMT" → "5월 10일" 으로 표시
+  - YYYY-MM-DD HH:MM:SS 예: "2026-05-09 18:31:15" → "5월 9일" 으로 표시
+  - 두 형식 모두 파싱 처리 필요
+=============================================================
+-->
+
+<!--
+=============================================================
+  [카드 템플릿 — AI 논문]
+=============================================================
+<article class="news-card" role="listitem">
+  <div class="card-meta">
+    <span class="card-source">{source}</span>
+    <span class="card-meta-sep" aria-hidden="true">·</span>
+    <span class="card-date">{published}</span>
+    <span class="card-keyword">{keyword}</span>
+  </div>
+  <h3 class="card-title">{title}</h3>
+  <!-- authors: 쉼표 구분 문자열, 너무 길면 앞 2명 + "외 N명" -->
+  <p class="card-authors">{authors_formatted}</p>
+  <!-- summary: 영문 초록, 3줄 클램프 CSS 적용됨 -->
+  <p class="card-summary">{summary}</p>
+  <div class="card-footer">
+    <!-- pdf_link가 있을 때만 PDF 버튼 출력 -->
+    <a class="card-pdf-btn"
+       href="{pdf_link}"
+       target="_blank"
+       rel="noopener noreferrer"
+       aria-label="{title} PDF">
+      PDF ↓
+    </a>
+    <a class="card-read-btn"
+       href="{link}"
+       target="_blank"
+       rel="noopener noreferrer"
+       aria-label="{title} 논문 보기">
+      논문 보기 →
+    </a>
+  </div>
+</article>
+
+[필드 처리 주의사항]
+  - pdf_link: optional. openalex 출처에만 존재. 없으면 PDF 버튼 생략
+  - authors: string (쉼표 구분). 50자 초과 시 "A, B 외 N명" 으로 줄임
+  - summary: 항상 영문 전문 포함, CSS -webkit-line-clamp: 3 으로 3줄 제한
+  - published: "YYYY-MM-DD" 형식으로 일관적 → 그대로 표시 가능
+=============================================================
+-->
+
+<!--
+=============================================================
+  [날짜 네비게이션 템플릿]
+  docs/assets/dates.json 또는 Python 스크립트에서 직접 생성
+=============================================================
+
+  오늘 (index.html):
+  <a class="date-pill today active"
+     href="index.html"
+     aria-current="page">
+    오늘 (MM/DD)
+  </a>
+
+  과거 날짜 (archive/YYYY-MM-DD.html):
+  <a class="date-pill"
+     href="archive/YYYY-MM-DD.html">
+    MM/DD
+  </a>
+
+[생성 규칙]
+  - 오늘부터 최대 28일 역순으로 나열 (왼쪽이 최신)
+  - 데이터가 없는 날짜는 pill을 생성하지 않음 (또는 disabled 스타일 추가)
+  - 오늘 pill은 항상 맨 왼쪽, active + today 클래스 모두 적용
+  - href 경로: index.html(오늘), archive/YYYY-MM-DD.html(과거)
+=============================================================
+-->
+
+<!--
+=============================================================
+  [빈 상태 카드 템플릿]
+  해당 날짜에 데이터가 없을 때 표시
+=============================================================
+<div class="cards-empty" role="status">
+  이 날짜의 {category} 데이터가 없습니다.
+</div>
+=============================================================
+-->

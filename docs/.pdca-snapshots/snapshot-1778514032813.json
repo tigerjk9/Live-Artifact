@@ -1,0 +1,95 @@
+{
+  "timestamp": "2026-05-11T15:40:32.806Z",
+  "reason": "compaction",
+  "status": {
+    "version": "2.0",
+    "lastUpdated": "2026-05-11T15:33:11.805Z",
+    "activeFeatures": [
+      "assets",
+      "scripts"
+    ],
+    "primaryFeature": "assets",
+    "features": {
+      "assets": {
+        "phase": "do",
+        "phaseNumber": 3,
+        "matchRate": null,
+        "iterationCount": 0,
+        "requirements": [],
+        "documents": {},
+        "timestamps": {
+          "started": "2026-05-11T14:48:51.983Z",
+          "lastUpdated": "2026-05-11T15:32:33.225Z"
+        },
+        "lastFile": "C:\\Users\\windo\\Desktop\\03_코딩·개발\\Github Desktop\\Live Artifact\\docs\\assets\\app.js"
+      },
+      "scripts": {
+        "phase": "do",
+        "phaseNumber": 3,
+        "matchRate": null,
+        "iterationCount": 0,
+        "requirements": [],
+        "documents": {},
+        "timestamps": {
+          "started": "2026-05-11T14:53:29.236Z",
+          "lastUpdated": "2026-05-11T15:33:11.804Z"
+        },
+        "lastFile": "C:\\Users\\windo\\Desktop\\03_코딩·개발\\Github Desktop\\Live Artifact\\scripts\\fetch_and_generate.py"
+      }
+    },
+    "pipeline": {
+      "currentPhase": 1,
+      "level": "Dynamic",
+      "phaseHistory": []
+    },
+    "session": {
+      "startedAt": "2026-05-11T14:48:51.982Z",
+      "onboardingCompleted": false,
+      "lastActivity": "2026-05-11T15:33:11.805Z"
+    },
+    "history": [
+      {
+        "timestamp": "2026-05-11T14:48:51.983Z",
+        "feature": "assets",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-05-11T14:53:29.236Z",
+        "feature": "scripts",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-05-11T15:32:24.521Z",
+        "feature": "assets",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-05-11T15:32:33.225Z",
+        "feature": "assets",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-05-11T15:32:54.666Z",
+        "feature": "scripts",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-05-11T15:33:03.549Z",
+        "feature": "scripts",
+        "phase": "do",
+        "action": "updated"
+      },
+      {
+        "timestamp": "2026-05-11T15:33:11.804Z",
+        "feature": "scripts",
+        "phase": "do",
+        "action": "updated"
+      }
+    ]
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "generated_at": "2026-05-11T00:00:00+09:00",
+  "status": "ok",
+  "repos": {
+    "edu-news": {
+      "repo": "tigerjk9/Auto-Edu-news-Collector",
+      "label": "교육 뉴스",
+      "icon": "📚",
+      "color": "#4CAF50",
+      "data_dir": "news",
+      "file_pattern": "news/{YYYY-MM-DD}/education_news_{YYYYMMDD}.json",
+      "root_type": "array",
+      "items_key": null,
+      "fields": [
+        { "name": "title", "type": "string", "required": true, "description": "뉴스 제목 (언론사명 포함된 경우 있음)" },
+        { "name": "link", "type": "string", "required": true, "description": "뉴스 원문 URL (Google News RSS URL 또는 직접 링크)" },
+        { "name": "press", "type": "string", "required": true, "description": "언론사명" },
+        { "name": "date", "type": "string", "required": true, "description": "발행일시 (RFC 2822 형식: 'Sun, 10 May 2026 06:50:35 GMT')" },
+        { "name": "summary", "type": "string", "required": false, "description": "뉴스 요약 (빈 문자열인 경우 다수)" },
+        { "name": "keyword", "type": "string", "required": true, "description": "수집 키워드 (예: '에이전틱AI', '교육혁신', 'press_rss')" },
+        { "name": "relevance_score", "type": "number", "required": true, "description": "관련성 점수 (정수)" }
+      ],
+      "items_per_file": 10,
+      "format_notes": "summary 필드가 빈 문자열('')인 항목 다수. press_rss 키워드 항목은 summary에 HTML이 포함되기도 함. 날짜는 RFC 2822 형식.",
+      "sample": {
+        "title": "[칼럼] '사고 치는' AI 에이전트, 인간은 책임을 질 준비가 되었나 - 아시아투데이",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43ajNl...",
+        "press": "아시아투데이",
+        "date": "Sun, 10 May 2026 06:50:35 GMT",
+        "summary": "",
+        "keyword": "에이전틱AI",
+        "relevance_score": 8
+      }
+    },
+    "ai-paper": {
+      "repo": "tigerjk9/Auto-AI-Edu-Paper-Curator",
+      "label": "AI 교육 논문",
+      "icon": "📄",
+      "color": "#2196F3",
+      "data_dir": "papers",
+      "file_pattern": "papers/{YYYY-MM-DD}/ai_edu_papers_{YYYYMMDD}.json",
+      "root_type": "array",
+      "items_key": null,
+      "fields": [
+        { "name": "title", "type": "string", "required": true, "description": "논문 제목 (영문)" },
+        { "name": "summary", "type": "string", "required": true, "description": "논문 초록 (영문, 상세 내용 포함)" },
+        { "name": "published", "type": "string", "required": true, "description": "발행일 (YYYY-MM-DD 형식)" },
+        { "name": "link", "type": "string", "required": true, "description": "논문 원문 URL (DOI 또는 SemanticScholar 링크)" },
+        { "name": "pdf_link", "type": "string", "required": false, "description": "PDF 직접 링크 (없을 수 있음, openalex 출처에서 주로 존재)" },
+        { "name": "authors", "type": "string", "required": true, "description": "저자명 (쉼표 구분 문자열)" },
+        { "name": "source", "type": "string", "required": true, "description": "수집 출처 ('openalex' | 'semantic_scholar' | 'eric' 등)" },
+        { "name": "keyword", "type": "string", "required": true, "description": "수집 키워드 (예: 'educational game', 'Connectivism')" },
+        { "name": "relevance_score", "type": "number", "required": true, "description": "관련성 점수 (정수)" }
+      ],
+      "items_per_file": 5,
+      "format_notes": "pdf_link 필드는 openalex 출처에서만 존재하며 semantic_scholar 출처에는 없음. published는 'YYYY-MM-DD' 형식으로 일관적. summary는 항상 영문 전문 포함.",
+      "schema_versions": [
+        {
+          "version": "v1_without_pdf_link",
+          "observed_in": "2026-04-01",
+          "fields": ["title", "summary", "published", "link", "authors", "source", "keyword", "relevance_score"]
+        },
+        {
+          "version": "v2_with_pdf_link",
+          "observed_in": "2026-05-11",
+          "fields": ["title", "summary", "published", "link", "pdf_link", "authors", "source", "keyword", "relevance_score"]
+        }
+      ],
+      "sample": {
+        "title": "Understanding the Challenges and Factors Contributing to Learning Pace Differences in Mathematics Among Grade Seven Students at Osmeña Colleges",
+        "summary": "This study investigated the factors affecting mathematics learning pace among Grade 7 students...",
+        "published": "2026-05-08",
+        "link": "https://doi.org/10.65339/ijsair.v2.i2.384",
+        "pdf_link": "https://ijsair.com/index.php/ijsair/article/download/454/451",
+        "authors": "Dennis Atenas",
+        "source": "openalex",
+        "keyword": "educational game",
+        "relevance_score": 12
+      }
+    },
+    "ai-tech": {
+      "repo": "tigerjk9/Auto-AI-Tech-news-Collector",
+      "label": "AI 기술 뉴스",
+      "icon": "🤖",
+      "color": "#FF5722",
+      "data_dir": "news",
+      "file_pattern": "news/{YYYY-MM-DD}/ai_tech_news_{YYYYMMDD}.json",
+      "root_type": "array",
+      "items_key": null,
+      "fields": [
+        { "name": "title", "type": "string", "required": true, "description": "뉴스 제목 (국문 또는 영문 혼재)" },
+        { "name": "link", "type": "string", "required": true, "description": "뉴스 원문 URL (직접 링크 또는 Google News RSS URL)" },
+        { "name": "press", "type": "string", "required": true, "description": "언론사명 (국문/영문 혼재: 'AI Times', '바이라인네트워크' 등)" },
+        { "name": "date", "type": "string", "required": true, "description": "발행일시 (직접 링크: 'YYYY-MM-DD HH:MM:SS', RSS: RFC 2822 형식 혼재)" },
+        { "name": "summary", "type": "string", "required": false, "description": "뉴스 요약 (직접 수집 기사는 국문 요약 포함, RSS는 빈 문자열)" },
+        { "name": "keyword", "type": "string", "required": true, "description": "수집 키워드 (예: 'press_rss', '오픈AI', 'Anthropic')" },
+        { "name": "weight", "type": "number", "required": false, "description": "가중치 점수 (press_rss 키워드 항목에만 존재, 예: 2.5)" },
+        { "name": "relevance_score", "type": "number", "required": true, "description": "관련성 점수 (정수, edu-news보다 높은 범위: 30~60+)" }
+      ],
+      "items_per_file": 10,
+      "format_notes": "date 형식이 두 가지 혼재: press_rss 출처는 RFC 2822('Sun, 10 May 2026 ...'), 직접 수집은 'YYYY-MM-DD HH:MM:SS'. weight 필드는 press_rss 키워드 항목에서만 존재. relevance_score 범위가 edu-news보다 높음(30~60+). 국문/영문 기사 혼재.",
+      "sample": {
+        "title": "사카나 AI, 거대 모델 지휘하는 '7B 지휘자' 공개…\"오케스트레이션 완전 자동화\"",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=210290",
+        "press": "AI Times",
+        "date": "2026-05-09 18:31:15",
+        "summary": "사카나 AI가 다양한 대형언어모델(LLM) 풀(pool)을 자동으로 조율하는 강화 학습(RL) 기반 소형 언어모델을 공개했다.",
+        "keyword": "press_rss",
+        "weight": 2.5,
+        "relevance_score": 52
+      }
+    }
+  },
+  "date_range": {
+    "oldest_found": "2025-11-12",
+    "latest_found": "2026-05-11"
+  },
+  "common_file_types": [
+    { "ext": ".json", "description": "구조화된 뉴스/논문 데이터 (주 데이터 파일)" },
+    { "ext": ".txt", "description": "텍스트 포맷 요약본" },
+    { "ext": "_newsletter.txt", "description": "뉴스레터 형식 포맷 (edu-news, ai-tech에만 존재)" }
+  ],
+  "notes": "1) ai-paper의 pdf_link 필드는 openalex 출처에서만 존재하며 semantic_scholar 출처에는 없음. 후속 에이전트는 이 필드를 optional로 처리해야 함. 2) ai-tech의 date 필드는 두 가지 형식이 혼재함(RFC 2822 vs YYYY-MM-DD HH:MM:SS). 파싱 시 양쪽 형식 모두 처리 필요. 3) edu-news와 ai-tech의 summary 필드는 빈 문자열('')이 매우 많음. 4) ai-tech의 weight 필드는 일부 항목에만 존재(press_rss 키워드). 5) 모든 레포에서 날짜별 서브디렉토리 구조 사용(news/YYYY-MM-DD/ 또는 papers/YYYY-MM-DD/). 6) 데이터 수집 범위: 2025-11-12 ~ 2026-05-11 (약 6개월)."
+}
