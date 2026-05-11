@@ -438,6 +438,35 @@
   }
 
   /* ============================================================
+     12. 아카이브 개선 — 최신 뉴스 링크 + 상단 이동 버튼
+     ============================================================ */
+  (function () {
+    var isArchivePage = window.location.pathname.indexOf('/archive/') !== -1;
+    var footerMeta    = document.querySelector('.footer-meta');
+    if (!footerMeta) return;
+
+    if (isArchivePage) {
+      var homeLink       = document.createElement('a');
+      homeLink.className = 'footer-link';
+      homeLink.href      = '../';
+      homeLink.setAttribute('aria-label', '최신 뉴스 페이지로 이동');
+      homeLink.textContent = '← 최신 뉴스';
+      footerMeta.insertBefore(homeLink, footerMeta.firstChild);
+    }
+
+    var totop       = document.createElement('a');
+    totop.className = 'footer-totop';
+    totop.href      = '#';
+    totop.setAttribute('aria-label', '페이지 상단으로 이동');
+    totop.textContent = '↑ 상단';
+    footerMeta.appendChild(totop);
+    totop.addEventListener('click', function (e) {
+      e.preventDefault();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  })();
+
+  /* ============================================================
      11. Service Worker 등록 (PWA 오프라인 지원)
      ============================================================ */
   if ('serviceWorker' in navigator) {

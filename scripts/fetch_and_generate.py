@@ -14,6 +14,7 @@ import os
 import re
 import sys
 from datetime import date, datetime, timedelta
+from difflib import SequenceMatcher
 
 import requests
 from dateutil import parser as dateutil_parser
@@ -530,11 +531,24 @@ def fetch_today_source(key: str, cfg: dict, today: str) -> list[dict]:
                 continue
             # 2) 접두 매칭 (제목 앞 20자 일치)
             t_prefix = t[:20]
+            found = False
             for k in norm_keys:
                 if k.startswith(t_prefix) or t.startswith(k[:20]):
                     item["ai_summary"] = norm_to_summary[k]
                     matched += 1
+                    found = True
                     break
+            if found:
+                continue
+            # 3) 유사도 매칭 — 논문 제목처럼 긴 문자열 대응 (임계값 0.72)
+            best_r, best_k = 0.0, None
+            for k in norm_keys:
+                r = SequenceMatcher(None, t, k, autojunk=False).ratio()
+                if r > best_r:
+                    best_r, best_k = r, k
+            if best_r >= 0.72 and best_k:
+                item["ai_summary"] = norm_to_summary[best_k]
+                matched += 1
         print(f"[OK] {key}: AI 요약 매칭 {matched}/{len(items)}건", file=sys.stderr)
 
     return items
@@ -662,6 +676,185 @@ def fix_existing_archive_paths(archive_dir: str) -> int:
     if fixed:
         print(f"[OK] 기존 아카이브 경로 보정: {fixed}개 파일", file=sys.stderr)
     return fixed
+
+
+def upgrade_archives_to_v2(
+    archive_dir: str, last_updated_iso: str, last_updated_kr: str
+) -> int:
+    """기존 archive/*.html을 v2 템플릿 수준으로 일괄 업그레이드한다.
+
+    패치 항목 (이미 적용된 항목은 마커 체크로 스킵 — 멱등적):
+    1. <head>: canonical, manifest, theme-color, OG, Twitter, JSON-LD
+    2. <body> 직후: skip-link
+    3. date-nav 직후: 검색바
+    4. brand-tag 텍스트 업데이트
+    5. footer: profile-card가 없으면 전체 교체
+    6. </body> 직전: toast-container
+
+    반환: 실제 수정된 파일 수
+    """
+    if not os.path.isdir(archive_dir):
+        return 0
+
+    SEARCH_BAR = (
+        '  <div class="search-bar-wrap" role="search" aria-label="기사 검색">\n'
+        '    <div class="search-bar-inner">\n'
+        '      <svg class="search-icon" aria-hidden="true" width="15" height="15"'
+        ' viewBox="0 0 15 15" fill="none">\n'
+        '        <circle cx="6.5" cy="6.5" r="5.25" stroke="currentColor" stroke-width="1.4"/>\n'
+        '        <path d="M10.5 10.5L13.5 13.5" stroke="currentColor"'
+        ' stroke-width="1.4" stroke-linecap="round"/>\n'
+        '      </svg>\n'
+        '      <input type="search" id="di-search" class="search-input"\n'
+        '             placeholder="제목, 요약, 출처 검색… (단축키: /)"\n'
+        '             aria-label="기사 검색" autocomplete="off" spellcheck="false">\n'
+        '      <span class="search-count-badge" aria-live="polite"'
+        ' aria-atomic="true" hidden></span>\n'
+        '      <button class="search-clear" type="button"'
+        ' aria-label="검색어 지우기" hidden>✕</button>\n'
+        '    </div>\n'
+        '  </div>'
+    )
+
+    upgraded = 0
+    for fname in sorted(os.listdir(archive_dir)):
+        if not fname.endswith(".html"):
+            continue
+        date_str = fname[:-5]
+        try:
+            dt = datetime.strptime(date_str, "%Y-%m-%d")
+        except ValueError:
+            continue
+
+        fpath = os.path.join(archive_dir, fname)
+        try:
+            with open(fpath, encoding="utf-8") as f:
+                content = f.read()
+        except Exception as exc:
+            print(f"[WARN] 업그레이드 읽기 실패 {fname}: {exc}", file=sys.stderr)
+            continue
+
+        original = content
+        date_kr = f"{dt.year}년 {dt.month}월 {dt.day}일"
+        canonical_url = f"{BASE_URL}/archive/{date_str}.html"
+
+        # 1. <head> 보강 (manifest 유무로 체크)
+        if 'rel="manifest"' not in content:
+            head_block = (
+                f'  <link rel="canonical" href="{canonical_url}">\n'
+                f'  <link rel="manifest" href="../assets/manifest.json">\n'
+                f'  <meta name="theme-color" content="#131a2a">\n'
+                f'  <!-- Open Graph -->\n'
+                f'  <meta property="og:type" content="website">\n'
+                f'  <meta property="og:title" content="Daily Intelligence — {date_kr}">\n'
+                f'  <meta property="og:description"'
+                f' content="교육 뉴스, AI 논문, AI 기술 뉴스 일일 브리핑 — 닷커넥터 김진관">\n'
+                f'  <meta property="og:url" content="{canonical_url}">\n'
+                f'  <meta property="og:image" content="{BASE_URL}/assets/facilitator.png">\n'
+                f'  <meta property="og:locale" content="ko_KR">\n'
+                f'  <!-- Twitter Card -->\n'
+                f'  <meta name="twitter:card" content="summary">\n'
+                f'  <meta name="twitter:title" content="Daily Intelligence — {date_kr}">\n'
+                f'  <meta name="twitter:description"'
+                f' content="교육 뉴스, AI 논문, AI 기술 뉴스 일일 브리핑">\n'
+                f'  <meta name="twitter:image" content="{BASE_URL}/assets/facilitator.png">\n'
+                f'  <!-- JSON-LD -->\n'
+                f'  <script type="application/ld+json">\n'
+                f'  {{\n'
+                f'    "@context": "https://schema.org",\n'
+                f'    "@type": "WebPage",\n'
+                f'    "name": "Daily Intelligence — {date_kr}",\n'
+                f'    "description": "교육 뉴스, AI 논문, AI 기술 뉴스 일일 브리핑",\n'
+                f'    "url": "{canonical_url}",\n'
+                f'    "inLanguage": "ko",\n'
+                f'    "publisher": {{\n'
+                f'      "@type": "Person",\n'
+                f'      "name": "닷커넥터 김진관",\n'
+                f'      "url": "https://litt.ly/dot_connector"\n'
+                f'    }},\n'
+                f'    "dateModified": "{last_updated_iso}"\n'
+                f'  }}\n'
+                f'  </script>'
+            )
+            content = content.replace("</head>", head_block + "\n</head>", 1)
+
+        # 2. skip-link
+        if 'class="skip-link"' not in content:
+            content = re.sub(
+                r'(<body[^>]*>)',
+                r'\1\n\n  <a class="skip-link" href="#main-content">본문으로 건너뛰기</a>',
+                content,
+                count=1,
+            )
+
+        # 3. 검색바 — 첫 번째 </nav>(date-nav) 직후 삽입
+        if 'class="search-bar-wrap"' not in content:
+            idx = content.find('</nav>')
+            if idx != -1:
+                ins = idx + len('</nav>')
+                content = content[:ins] + '\n\n' + SEARCH_BAR + '\n' + content[ins:]
+
+        # 4. brand-tag 텍스트
+        content = content.replace(
+            ">EDU · PAPERS · TECH<",
+            ">EDU · PAPERS · TECH 뉴스 일일 브리핑<",
+        )
+
+        # 5. footer 교체 (profile-card 없는 구버전)
+        if 'class="profile-card"' not in content:
+            new_footer = (
+                '  <footer class="site-footer">\n'
+                '    <a class="profile-card" href="https://litt.ly/dot_connector"'
+                ' target="_blank" rel="noopener noreferrer"'
+                ' aria-label="닷커넥터 김진관의 링크 페이지로 이동">\n'
+                '      <img class="profile-photo" src="../assets/facilitator.png"'
+                ' alt="닷커넥터 김진관" width="64" height="64" loading="lazy">\n'
+                '      <span class="profile-name">닷커넥터'
+                '<span class="profile-name-sub">(김진관)</span></span>\n'
+                '      <span class="profile-bio">배움, 나눔, 성장을 추구하는 연결주의자</span>\n'
+                '      <span class="profile-link-hint">litt.ly/dot_connector ↗</span>\n'
+                '    </a>\n'
+                '    <div class="footer-meta">\n'
+                f'      <span class="footer-updated">갱신'
+                f' <time datetime="{last_updated_iso}">{last_updated_kr}</time></span>\n'
+                '      <a class="footer-link" href="https://github.com/tigerjk9"'
+                ' target="_blank" rel="noopener noreferrer">GitHub ↗</a>\n'
+                '    </div>\n'
+                '  </footer>'
+            )
+            content = re.sub(
+                r'<footer class="site-footer">.*?</footer>',
+                new_footer,
+                content,
+                flags=re.DOTALL,
+            )
+
+        # 6. toast-container
+        if 'toast-container' not in content:
+            content = content.replace(
+                '<script src="../assets/app.js">',
+                '  <div class="toast-container" aria-live="polite" aria-atomic="true"'
+                ' aria-relevant="additions"></div>\n\n  <script src="../assets/app.js">',
+                1,
+            )
+
+        if content != original:
+            try:
+                with open(fpath, "w", encoding="utf-8") as f:
+                    f.write(content)
+                upgraded += 1
+                print(f"[UPGRADE] {fname}", file=sys.stderr)
+            except Exception as exc:
+                print(f"[WARN] 업그레이드 저장 실패 {fname}: {exc}", file=sys.stderr)
+
+    if upgraded:
+        print(f"[OK] 아카이브 v2 업그레이드: {upgraded}개 파일", file=sys.stderr)
+    return upgraded
+
+
+# ---------------------------------------------------------------------------
+# 단일 날짜 렌더링 (백필/오늘 공용)
+# ---------------------------------------------------------------------------
 
 
 def render_date_html(
@@ -824,6 +1017,7 @@ def main() -> None:
     # 2.5. 기존 archive 파일들의 자산 경로 일괄 보정 (구버전 잔재 정리)
     fix_existing_archive_paths(archive_dir)
     fix_html_artifacts_in_archives(archive_dir)
+    upgrade_archives_to_v2(archive_dir, last_updated_iso, last_updated_kr)
 
     # 3. 백필: archive_dir에 없는 과거 27일치 페치
     backfill_archives(today, archive_dir, template, last_updated_iso, last_updated_kr)

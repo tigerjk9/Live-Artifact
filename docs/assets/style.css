@@ -785,3 +785,13 @@ h1, h2, h3 { font-weight: 600; }
   .nav-spinner { animation: none; }
   .toast, .toast--out { animation: none; }
 }
+
+/* ── Footer extras ───────────────────────────────── */
+.footer-totop {
+  text-decoration: none;
+  font: 400 var(--t-xs)/1 var(--font);
+  color: var(--tx-mute);
+  transition: color 0.15s;
+  margin-left: auto;
+}
+.footer-totop:hover { color: var(--tx-1); }
