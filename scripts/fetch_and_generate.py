@@ -496,17 +496,16 @@ def item_description_text(item: dict, cfg: dict) -> str:
 
 
 def filter_described(items: list[dict], cfg: dict, source_key: str) -> list[dict]:
-    """설명이 있는 기사만 반환. 논문은 필터링하지 않음(항상 AI 요약 보장).
+    """설명이 있는 기사만 반환.
 
-    설명 기준: 20자 이상의 의미있는 텍스트.
-    필터 후 0건이면 원본 전체를 반환 (빈 섹션 방지).
+    - ai-paper : 필터 없음 — 항상 AI 요약 보장
+    - edu-news : 필터 없음 — newsletter AI 요약 세팅 완료, 과도기 기사도 제목만으로 표시
+    - ai-tech  : 설명(20자+) 없는 기사 제외, 전부 없으면 원본 유지
     """
-    if source_key == "ai-paper":
+    if source_key in ("ai-paper", "edu-news"):
         return items
     described = [it for it in items if len(item_description_text(it, cfg)) >= 20]
-    if not described:
-        return items  # 전부 없으면 원본 유지
-    return described
+    return described if described else items
 
 
 def render_section_body(items: list[dict], cfg: dict, source_key: str) -> str:
