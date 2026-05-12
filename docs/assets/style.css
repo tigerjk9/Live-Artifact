@@ -285,7 +285,7 @@ h1, h2, h3 { font-weight: 600; }
   .archive-action-btn { font-size: var(--t-2xs); padding: 5px 9px; }
 }
 
-.theme-toggle, .share-btn {
+.theme-toggle {
   border: 1px solid var(--hd-rule);
   color: var(--hd-tx2);
   width: 30px; height: 30px;
@@ -294,8 +294,7 @@ h1, h2, h3 { font-weight: 600; }
   font-size: 13px;
   transition: border-color 0.15s, color 0.15s;
 }
-.theme-toggle:hover, .share-btn:hover { border-color: oklch(45% 0.04 250); color: var(--hd-tx); }
-.share-btn:active { transform: scale(0.92); }
+.theme-toggle:hover { border-color: oklch(45% 0.04 250); color: var(--hd-tx); }
 
 /* ── Date Nav ────────────────────────────────── */
 .date-nav {

@@ -79,7 +79,6 @@
     initKeywordFilter();
     initReadTracking();
     initKeyboardShortcuts();
-    initShareButton();
   });
 
   /* ============================================================
@@ -450,47 +449,8 @@
   }
 
   /* ============================================================
-     11-b. 공유 버튼 — 영구 아카이브 URL + Web Share API
+     11-b. 공유 URL 생성
      ============================================================ */
-  function initShareButton() {
-    var headerRight = document.querySelector('.header-right');
-    if (!headerRight) return;
-
-    var btn = document.createElement('button');
-    btn.className = 'share-btn';
-    btn.type      = 'button';
-    btn.setAttribute('aria-label', '이 날의 기사 링크 공유');
-    btn.setAttribute('title', '링크 공유 / 복사');
-    btn.innerHTML =
-      '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" ' +
-      'stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" ' +
-      'aria-hidden="true">' +
-      '<path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"/>' +
-      '<polyline points="16 6 12 2 8 6"/>' +
-      '<line x1="12" y1="2" x2="12" y2="15"/>' +
-      '</svg>';
-
-    var themeBtn = headerRight.querySelector('.theme-toggle');
-    if (themeBtn) headerRight.insertBefore(btn, themeBtn);
-    else headerRight.appendChild(btn);
-
-    btn.addEventListener('click', function () {
-      var url   = getShareUrl();
-      var label = pageDateLabel();
-      var title = 'Daily Intelligence' + (label ? ' — ' + label : '');
-      var text  = '교육 뉴스 · AI 논문 · AI 기술 일일 브리핑';
-
-      if (navigator.share) {
-        navigator.share({ title: title, text: text, url: url }).catch(function () {});
-      } else {
-        copyToClipboard(url, function (ok) {
-          showToast(ok ? '링크가 복사되었습니다' : '복사 실패 — 직접 복사해 주세요: ' + url,
-                    ok ? 'info' : 'error');
-        });
-      }
-    });
-  }
-
   function getShareUrl() {
     var isArchive = window.location.pathname.indexOf('/archive/') !== -1;
     if (isArchive) return window.location.href; // 이미 영구 URL
@@ -499,12 +459,6 @@
     var base = window.location.pathname.replace(/(?:index\.html)?$/, '');
     if (base[base.length - 1] !== '/') base += '/';
     return window.location.origin + base + 'archive/' + pageDate + '.html';
-  }
-
-  function pageDateLabel() {
-    if (!pageDate) return '';
-    var p = pageDate.split('-');
-    return parseInt(p[0], 10) + '년 ' + parseInt(p[1], 10) + '월 ' + parseInt(p[2], 10) + '일';
   }
 
   function copyToClipboard(text, cb) {
