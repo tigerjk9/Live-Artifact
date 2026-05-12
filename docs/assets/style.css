@@ -212,40 +212,77 @@ h1, h2, h3 { font-weight: 600; }
   .header-live-time { font-size: var(--t-xs); }
 }
 
-/* ── Archive Date Banner ──────────────────────── */
+/* ── Date Action Banner ───────────────────────── */
 .archive-date-banner {
   background: oklch(95% 0.028 62);
   border-top: 3px solid oklch(60% 0.18 50);
   border-bottom: 1px solid oklch(87% 0.07 62);
-  padding: 14px 24px;
+  padding: 12px 24px;
   display: flex;
-  align-items: baseline;
-  justify-content: center;
-  gap: 6px;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
 }
 [data-theme="dark"] .archive-date-banner {
   background: oklch(21% 0.04 50);
   border-top-color: oklch(68% 0.17 50);
   border-bottom-color: oklch(30% 0.06 50);
 }
+.archive-date-info {
+  display: flex;
+  align-items: baseline;
+  gap: 5px;
+  flex-shrink: 0;
+}
 .archive-date-label {
   font: 700 var(--t-xl)/1 var(--font);
   color: oklch(38% 0.16 50);
   letter-spacing: 0.01em;
 }
-[data-theme="dark"] .archive-date-label {
-  color: oklch(82% 0.14 50);
-}
+[data-theme="dark"] .archive-date-label { color: oklch(82% 0.14 50); }
 .archive-date-sub {
   font: 500 var(--t-md)/1 var(--font);
   color: oklch(54% 0.10 50);
 }
-[data-theme="dark"] .archive-date-sub {
-  color: oklch(64% 0.10 50);
+[data-theme="dark"] .archive-date-sub { color: oklch(64% 0.10 50); }
+
+.archive-date-actions { display: flex; gap: 8px; flex-shrink: 0; }
+
+.archive-action-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 5px 11px;
+  border: 1px solid oklch(72% 0.12 50);
+  border-radius: 6px;
+  background: oklch(99% 0.01 62);
+  color: oklch(38% 0.16 50);
+  font: 500 var(--t-sm)/1 var(--font);
+  cursor: pointer;
+  transition: background 0.12s, border-color 0.12s, color 0.12s;
+  white-space: nowrap;
+}
+.archive-action-btn:hover {
+  background: oklch(60% 0.18 50);
+  border-color: oklch(60% 0.18 50);
+  color: #fff;
+}
+.archive-action-btn:active { transform: scale(0.95); }
+[data-theme="dark"] .archive-action-btn {
+  background: oklch(26% 0.05 50);
+  border-color: oklch(44% 0.10 50);
+  color: oklch(82% 0.14 50);
+}
+[data-theme="dark"] .archive-action-btn:hover {
+  background: oklch(68% 0.17 50);
+  border-color: oklch(68% 0.17 50);
+  color: #fff;
 }
 @media (max-width: 600px) {
   .archive-date-label { font-size: var(--t-lg); }
   .archive-date-sub   { font-size: var(--t-sm); }
+  .archive-action-btn { font-size: var(--t-2xs); padding: 5px 9px; }
 }
 
 .theme-toggle, .share-btn {

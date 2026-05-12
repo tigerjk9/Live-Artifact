@@ -128,7 +128,16 @@
       return '<a class="' + cls + '" href="' + href + '" data-date="' + d + '">' + label + '</a>';
     }).join('');
     navInner.innerHTML = html;
-    if (!isArchive && latest) pageDate = latest; // index 페이지: 공유 URL용 날짜 기록
+    if (!isArchive && latest) {
+      pageDate = latest;
+      // index 페이지: 날짜 액션 바 삽입
+      var lp  = latest.split('-');
+      var lY  = parseInt(lp[0], 10), lM = parseInt(lp[1], 10), lD = parseInt(lp[2], 10);
+      var lDt = new Date(lY, lM - 1, lD);
+      var lWd = ['일요일', '월요일', '화요일', '수요일', '목요일', '금요일', '토요일'];
+      var lLabel = lY + '년 ' + lM + '월 ' + lD + '일 ' + lWd[lDt.getDay()];
+      injectDateActionBar(latest, lLabel, getShareUrl());
+    }
   }
 
   /* ============================================================
@@ -516,6 +525,103 @@
   }
 
   /* ============================================================
+     11-c. 날짜 액션 바 — 링크 복사 / HTML 저장
+     ============================================================ */
+  function injectDateActionBar(dateStr, dateLabel, shareUrl) {
+    if (document.querySelector('.archive-date-banner')) return; // 중복 방지
+    var banner = document.createElement('div');
+    banner.className = 'archive-date-banner';
+    banner.setAttribute('role', 'status');
+
+    var infoEl = document.createElement('div');
+    infoEl.className = 'archive-date-info';
+    infoEl.innerHTML =
+      '<span class="archive-date-label">' + dateLabel + '</span>' +
+      '<span class="archive-date-sub">의 기사</span>';
+
+    var actEl = document.createElement('div');
+    actEl.className = 'archive-date-actions';
+
+    var copyBtn = document.createElement('button');
+    copyBtn.className = 'archive-action-btn';
+    copyBtn.type = 'button';
+    copyBtn.innerHTML =
+      '<svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" ' +
+      'stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">' +
+      '<path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/>' +
+      '<path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>' +
+      ' 링크 복사';
+    copyBtn.addEventListener('click', function () {
+      copyToClipboard(shareUrl, function (ok) {
+        showToast(ok ? '링크가 복사되었습니다' : '복사 실패', ok ? 'info' : 'error');
+      });
+    });
+
+    var dlBtn = document.createElement('button');
+    dlBtn.className = 'archive-action-btn';
+    dlBtn.type = 'button';
+    dlBtn.innerHTML =
+      '<svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" ' +
+      'stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">' +
+      '<path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>' +
+      '<polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>' +
+      ' HTML 저장';
+    dlBtn.addEventListener('click', function () { downloadPageHTML(dateStr); });
+
+    actEl.appendChild(copyBtn);
+    actEl.appendChild(dlBtn);
+    banner.appendChild(infoEl);
+    banner.appendChild(actEl);
+
+    var grid = document.getElementById('main-content');
+    if (grid) grid.parentNode.insertBefore(banner, grid);
+  }
+
+  function downloadPageHTML(dateStr) {
+    var isArchive = window.location.pathname.indexOf('/archive/') !== -1;
+    var cssPath   = (isArchive ? '../' : '') + 'assets/style.css';
+    // 자산 절대 베이스 URL — https://host/path/to/root/
+    var assetBase = window.location.href
+      .replace(/\/archive\/[^/?#]*$/, '/')
+      .replace(/\/index\.html([?#].*)?$/, '/')
+      .replace(/([^/])$/, '$1/');
+
+    showToast('HTML 파일 준비 중…', 'info');
+
+    fetch(cssPath)
+      .then(function (r) { return r.ok ? r.text() : Promise.reject(new Error('CSS ' + r.status)); })
+      .then(function (css) {
+        var src = document.documentElement.outerHTML;
+
+        var out = src
+          // CSS 링크 → 인라인 <style>
+          .replace(/<link[^>]+style\.css[^>]*>/,
+            '<style>\n' + css + '\n</style>')
+          // 상대 자산 경로 → 절대 URL
+          .replace(/src="\.\.\/assets\//g,  'src="'  + assetBase + 'assets/')
+          .replace(/src="assets\//g,        'src="'  + assetBase + 'assets/')
+          .replace(/href="\.\.\/assets\//g, 'href="' + assetBase + 'assets/')
+          .replace(/href="assets\//g,       'href="' + assetBase + 'assets/')
+          // 외부 script 태그 제거 (app.js 등 — 오프라인에서 불필요)
+          .replace(/<script\s+src="[^"]*"[^>]*><\/script>/gi, '');
+
+        var blob = new Blob([out], { type: 'text/html;charset=utf-8' });
+        var burl = URL.createObjectURL(blob);
+        var a    = document.createElement('a');
+        a.href     = burl;
+        a.download = 'DI-' + dateStr + '.html';
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        setTimeout(function () { URL.revokeObjectURL(burl); }, 5000);
+      })
+      .catch(function (err) {
+        console.warn('[DL]', err);
+        showToast('HTML 생성 실패 — 나중에 다시 시도해 주세요', 'error');
+      });
+  }
+
+  /* ============================================================
      12. 아카이브 개선 — 최신 뉴스 링크 + 상단 이동 버튼
      ============================================================ */
   (function () {
@@ -571,13 +677,14 @@
     }
 
     function tick() {
-      var t  = kstNow();
-      var y  = t.getUTCFullYear();
-      var mo = t.getUTCMonth() + 1;
-      var d  = t.getUTCDate();
-      var hh = t.getUTCHours();
-      var mm = t.getUTCMinutes();
-      hd.textContent = y + '년 ' + mo + '월 ' + d + '일';
+      var t   = kstNow();
+      var y   = t.getUTCFullYear();
+      var mo  = t.getUTCMonth() + 1;
+      var d   = t.getUTCDate();
+      var hh  = t.getUTCHours();
+      var mm  = t.getUTCMinutes();
+      var wd  = ['일', '월', '화', '수', '목', '금', '토'][t.getUTCDay()];
+      hd.textContent = y + '년 ' + mo + '월 ' + d + '일 (' + wd + ')';
       clock.textContent = (hh < 10 ? '0' : '') + hh + ':' + (mm < 10 ? '0' : '') + mm;
     }
     tick();
@@ -593,19 +700,10 @@
     var month = parseInt(parts[1], 10);
     var day   = parseInt(parts[2], 10);
     var dObj  = new Date(year, month - 1, day);
-    var days  = ['일요일', '월요일', '화요일', '수요일', '목요일', '금요일', '토요일'];
-    pageDate = urlMatch[1]; // 아카이브 페이지: 공유 URL용 날짜 기록
-    var dateLabel = year + '년 ' + month + '월 ' + day + '일 ' + days[dObj.getDay()];
-
-    var banner = document.createElement('div');
-    banner.className = 'archive-date-banner';
-    banner.setAttribute('role', 'status');
-    banner.innerHTML =
-      '<span class="archive-date-label">' + dateLabel + '</span>' +
-      '<span class="archive-date-sub">의 기사</span>';
-
-    var grid = document.getElementById('main-content');
-    if (grid) grid.parentNode.insertBefore(banner, grid);
+    var wdays = ['일요일', '월요일', '화요일', '수요일', '목요일', '금요일', '토요일'];
+    pageDate = urlMatch[1];
+    var dateLabel = year + '년 ' + month + '월 ' + day + '일 ' + wdays[dObj.getDay()];
+    injectDateActionBar(urlMatch[1], dateLabel, window.location.href);
   })();
 
   /* ============================================================
