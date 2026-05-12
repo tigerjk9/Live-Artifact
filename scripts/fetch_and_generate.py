@@ -417,6 +417,9 @@ def render_entry(item: dict, cfg: dict, source_key: str, index: int) -> str:
     date_fmt = format_date(date_raw)
     # strip_html 강화: 잘린 태그/엔티티/HTML 모두 처리
     clean_sum = strip_html(summary_raw)
+    # RSS 피드 전문 유입 방지: 250자 초과 시 말줄임
+    if len(clean_sum) > 250:
+        clean_sum = clean_sum[:250].rsplit(' ', 1)[0] + '…'
 
     # meta 컴포지션
     meta_parts: list[str] = []
