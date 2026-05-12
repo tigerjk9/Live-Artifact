@@ -1028,7 +1028,9 @@ def cleanup_archive(archive_dir: str, keep_days: int = KEEP_DAYS) -> None:
 def main() -> None:
     from datetime import timezone
 
-    today = date.today().isoformat()
+    KST = timezone(timedelta(hours=9))
+    now_kst = datetime.now(tz=KST)
+    today = now_kst.date().isoformat()
 
     # 경로 계산
     script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -1038,7 +1040,7 @@ def main() -> None:
     template_path = os.path.join(docs_dir, "_template.html")
     output_path = os.path.join(docs_dir, "index.html")
 
-    print(f"[START] {today} 뉴스 생성 시작", file=sys.stderr)
+    print(f"[START] {today} 뉴스 생성 시작 (KST)", file=sys.stderr)
 
     # 1. 템플릿 로드
     if not os.path.isfile(template_path):
@@ -1050,11 +1052,6 @@ def main() -> None:
     os.makedirs(archive_dir, exist_ok=True)
 
     # 2. KST 갱신 시각
-    KST = timezone(timedelta(hours=9))
-    now_kst = datetime.now(tz=KST)
-    # GitHub Actions cron은 UTC 01:00 = KST 10:00 실행이므로 스케줄 시각으로 고정
-    if os.environ.get("GITHUB_ACTIONS"):
-        now_kst = now_kst.replace(hour=10, minute=0, second=0, microsecond=0)
     last_updated_iso = now_kst.strftime("%Y-%m-%dT%H:%M:%S+09:00")
     last_updated_kr = f"{now_kst.year}년 {now_kst.month}월 {now_kst.day}일 {now_kst.strftime('%H:%M')} KST"
 
