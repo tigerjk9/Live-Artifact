@@ -483,6 +483,33 @@ def render_entry(item: dict, cfg: dict, source_key: str, index: int) -> str:
     )
 
 
+def item_description_text(item: dict, cfg: dict) -> str:
+    """아이템의 최종 설명 텍스트를 반환 (없으면 빈 문자열).
+
+    render_entry와 동일한 우선순위: ai_summary → json summary → strip_html → attribution 제거
+    """
+    ai_sum = str(item.get("ai_summary", "")).strip()
+    json_sum = str(item.get(cfg.get("summary_field", "summary"), "")).strip()
+    raw = ai_sum if ai_sum else json_sum
+    text = strip_html(raw)
+    text = re.sub(r'^\s*\[[^\]]{2,30}\]\s*', '', text)
+    return text
+
+
+def filter_described(items: list[dict], cfg: dict, source_key: str) -> list[dict]:
+    """설명이 있는 기사만 반환. 논문은 필터링하지 않음(항상 AI 요약 보장).
+
+    설명 기준: 20자 이상의 의미있는 텍스트.
+    필터 후 0건이면 원본 전체를 반환 (빈 섹션 방지).
+    """
+    if source_key == "ai-paper":
+        return items
+    described = [it for it in items if len(item_description_text(it, cfg)) >= 20]
+    if not described:
+        return items  # 전부 없으면 원본 유지
+    return described
+
+
 def render_section_body(items: list[dict], cfg: dict, source_key: str) -> str:
     """섹션 본문 (ol.col-list 또는 col-empty)을 반환한다."""
     if not items:
@@ -880,6 +907,11 @@ def render_date_html(
     for key, cfg in SOURCES.items():
         try:
             items = fetch_today_source(key, cfg, target_date)
+            before = len(items)
+            items = filter_described(items, cfg, key)
+            after = len(items)
+            if after < before:
+                print(f"[INFO] {key}: 설명 없는 기사 {before - after}건 제외 → {after}건 표시", file=sys.stderr)
             counts[key] = len(items)
             cards[key] = render_section_body(items, cfg, key)
         except Exception as exc:
