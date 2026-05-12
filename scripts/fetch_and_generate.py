@@ -41,8 +41,7 @@ SOURCES: dict[str, dict] = {
         "label": "교육 뉴스",
         "data_dir": "news",
         "file_template": "education_news_{YYYYMMDD}.json",
-        # newsletter 파일에 AI 요약 없음 (제목+링크만)
-        "ai_summary_file": None,
+        "ai_summary_file": "education_news_{YYYYMMDD}_newsletter.txt",
         "url_field": "link",
         "title_field": "title",
         "summary_field": "summary",
