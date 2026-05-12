@@ -42,7 +42,8 @@ GitHub Actions  ──── 매일 10:00 KST ────►  fetch_and_generat
                     ┌───────────────────────────────┤
                     │                               │                               │
          Auto-Edu-news-Collector      Auto-AI-Edu-Paper-Curator      Auto-AI-Tech-news-Collector
-         (교육 뉴스 JSON)              (AI 논문 JSON + 한국어 TXT)      (AI 기술 뉴스 JSON + 한국어 TXT)
+         (교육 뉴스 JSON                (AI 논문 JSON                  (AI 기술 뉴스 JSON
+          + Gemini 요약 TXT)             + 한국어 요약 TXT)              + Gemini 요약 TXT)
                     │                               │                               │
                     └───────────────────────────────┘
                                         │
