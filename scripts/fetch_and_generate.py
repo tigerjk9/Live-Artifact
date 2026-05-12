@@ -406,9 +406,10 @@ def render_entry(item: dict, cfg: dict, source_key: str, index: int) -> str:
     keyword = str(item.get(cfg.get("keyword_field", "keyword"), "")).strip()
 
     # 요약 우선순위: ai_summary (newsletter.txt에서 머지된 한국어 요약)
-    # → 그게 없으면 JSON 'summary' 필드 (Press_rss인 경우 HTML 포함 가능)
+    # → 그게 없으면 JSON 'summary' 필드 (영문 초록/RSS 본문)
     ai_summary = str(item.get("ai_summary", "")).strip()
     json_summary = str(item.get(cfg.get("summary_field", "summary"), "")).strip()
+    used_ai_summary = bool(ai_summary)
     summary_raw = ai_summary if ai_summary else json_summary
 
     title_clean = clean_title(raw_title, source_raw)
@@ -417,8 +418,8 @@ def render_entry(item: dict, cfg: dict, source_key: str, index: int) -> str:
     date_fmt = format_date(date_raw)
     # strip_html 강화: 잘린 태그/엔티티/HTML 모두 처리
     clean_sum = strip_html(summary_raw)
-    # RSS 피드 전문 유입 방지: 250자 초과 시 말줄임
-    if len(clean_sum) > 250:
+    # 한국어 AI 요약은 전문 표시, 영문 원본(초록/RSS 본문)은 250자로 제한
+    if not used_ai_summary and len(clean_sum) > 250:
         clean_sum = clean_sum[:250].rsplit(' ', 1)[0] + '…'
 
     # meta 컴포지션
