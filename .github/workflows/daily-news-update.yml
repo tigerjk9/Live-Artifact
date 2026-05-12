@@ -2,7 +2,9 @@ name: Daily News Update
 
 on:
   schedule:
-    - cron: '0 1 * * *'   # 01:00 UTC = 10:00 KST
+    - cron: '30 0 * * *'   # 09:30 KST 1차 시도
+    - cron: '0 1 * * *'    # 10:00 KST 2차 시도
+    - cron: '30 1 * * *'   # 10:30 KST 3차 시도
   workflow_dispatch:        # 수동 실행 허용
 
 permissions:
@@ -18,24 +20,42 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Check if today already updated
+        id: check
+        run: |
+          TODAY=$(TZ=Asia/Seoul date +%Y-%m-%d)
+          ARCHIVE="docs/archive/${TODAY}.html"
+          echo "today=${TODAY}" >> $GITHUB_OUTPUT
+          if [ -f "$ARCHIVE" ] && grep -q 'class="entry"' "$ARCHIVE"; then
+            echo "skip=true" >> $GITHUB_OUTPUT
+            echo "[SKIP] ${TODAY} 아카이브 이미 완료 — 이후 단계 건너뜀"
+          else
+            echo "skip=false" >> $GITHUB_OUTPUT
+            echo "[RUN] ${TODAY} 데이터 생성 시작"
+          fi
+
       - name: Set up Python 3.11
+        if: steps.check.outputs.skip != 'true'
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
       - name: Install dependencies
+        if: steps.check.outputs.skip != 'true'
         run: pip install requests python-dateutil
 
       - name: Fetch news and generate HTML
+        if: steps.check.outputs.skip != 'true'
         env:
           NEWS_TOKEN: ${{ secrets.NEWS_GITHUB_TOKEN }}
         run: python scripts/fetch_and_generate.py
 
       - name: Commit and push
+        if: steps.check.outputs.skip != 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add docs/
           git diff --staged --quiet || \
-            git commit -m "chore: daily news update $(date +%Y-%m-%d)"
+            git commit -m "chore: daily news update $(TZ=Asia/Seoul date +%Y-%m-%d)"
           git push

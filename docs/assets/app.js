@@ -565,23 +565,23 @@
     hd.parentNode.insertBefore(sep, hd.nextSibling);
     hd.parentNode.insertBefore(clock, sep.nextSibling);
 
+    function kstNow() {
+      // 시스템 타임존에 무관하게 항상 UTC+9(KST) 반환
+      return new Date(Date.now() + 9 * 3600000);
+    }
+
     function tick() {
-      var now = new Date();
-      hd.textContent = now.toLocaleString('ko-KR', {
-        timeZone: 'Asia/Seoul',
-        year: 'numeric',
-        month: 'long',
-        day: 'numeric'
-      });
-      clock.textContent = now.toLocaleString('ko-KR', {
-        timeZone: 'Asia/Seoul',
-        hour: '2-digit',
-        minute: '2-digit',
-        hour12: false
-      });
+      var t  = kstNow();
+      var y  = t.getUTCFullYear();
+      var mo = t.getUTCMonth() + 1;
+      var d  = t.getUTCDate();
+      var hh = t.getUTCHours();
+      var mm = t.getUTCMinutes();
+      hd.textContent = y + '년 ' + mo + '월 ' + d + '일';
+      clock.textContent = (hh < 10 ? '0' : '') + hh + ':' + (mm < 10 ? '0' : '') + mm;
     }
     tick();
-    setInterval(tick, 30000);
+    setInterval(tick, 1000);
 
     // 아카이브: 열람 중인 날짜 배너
     if (!isArchive) return;
