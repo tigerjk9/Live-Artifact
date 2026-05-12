@@ -609,7 +609,9 @@
         var burl = URL.createObjectURL(blob);
         var a    = document.createElement('a');
         a.href     = burl;
-        a.download = 'DI-' + dateStr + '.html';
+        var dp = dateStr.split('-');
+        var fname = 'Daily_Intelligence_' + dp[0] + '년' + parseInt(dp[1],10) + '월' + parseInt(dp[2],10) + '일.html';
+        a.download = fname;
         document.body.appendChild(a);
         a.click();
         document.body.removeChild(a);
