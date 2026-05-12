@@ -16,6 +16,7 @@
   var READ_KEY    = 'di-read';
   var searchTimer = null;
   var activeKw    = null;   // 현재 활성 키워드 필터 (null = 없음)
+  var pageDate    = null;   // 현재 페이지의 콘텐츠 날짜 (YYYY-MM-DD, 공유 URL용)
 
   /* ============================================================
      1. 다크모드 — 초기화 (DOM 파싱 전 즉시 실행)
@@ -78,6 +79,7 @@
     initKeywordFilter();
     initReadTracking();
     initKeyboardShortcuts();
+    initShareButton();
   });
 
   /* ============================================================
@@ -126,6 +128,7 @@
       return '<a class="' + cls + '" href="' + href + '" data-date="' + d + '">' + label + '</a>';
     }).join('');
     navInner.innerHTML = html;
+    if (!isArchive && latest) pageDate = latest; // index 페이지: 공유 URL용 날짜 기록
   }
 
   /* ============================================================
@@ -438,6 +441,81 @@
   }
 
   /* ============================================================
+     11-b. 공유 버튼 — 영구 아카이브 URL + Web Share API
+     ============================================================ */
+  function initShareButton() {
+    var headerRight = document.querySelector('.header-right');
+    if (!headerRight) return;
+
+    var btn = document.createElement('button');
+    btn.className = 'share-btn';
+    btn.type      = 'button';
+    btn.setAttribute('aria-label', '이 날의 기사 링크 공유');
+    btn.setAttribute('title', '링크 공유 / 복사');
+    btn.innerHTML =
+      '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" ' +
+      'stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" ' +
+      'aria-hidden="true">' +
+      '<path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"/>' +
+      '<polyline points="16 6 12 2 8 6"/>' +
+      '<line x1="12" y1="2" x2="12" y2="15"/>' +
+      '</svg>';
+
+    var themeBtn = headerRight.querySelector('.theme-toggle');
+    if (themeBtn) headerRight.insertBefore(btn, themeBtn);
+    else headerRight.appendChild(btn);
+
+    btn.addEventListener('click', function () {
+      var url   = getShareUrl();
+      var label = pageDateLabel();
+      var title = 'Daily Intelligence' + (label ? ' — ' + label : '');
+      var text  = '교육 뉴스 · AI 논문 · AI 기술 일일 브리핑';
+
+      if (navigator.share) {
+        navigator.share({ title: title, text: text, url: url }).catch(function () {});
+      } else {
+        copyToClipboard(url, function (ok) {
+          showToast(ok ? '링크가 복사되었습니다' : '복사 실패 — 직접 복사해 주세요: ' + url,
+                    ok ? 'info' : 'error');
+        });
+      }
+    });
+  }
+
+  function getShareUrl() {
+    var isArchive = window.location.pathname.indexOf('/archive/') !== -1;
+    if (isArchive) return window.location.href; // 이미 영구 URL
+    if (!pageDate)  return window.location.href; // dates.json 미로드 시 fallback
+    // index.html → 날짜별 아카이브 영구 URL
+    var base = window.location.pathname.replace(/(?:index\.html)?$/, '');
+    if (base[base.length - 1] !== '/') base += '/';
+    return window.location.origin + base + 'archive/' + pageDate + '.html';
+  }
+
+  function pageDateLabel() {
+    if (!pageDate) return '';
+    var p = pageDate.split('-');
+    return parseInt(p[0], 10) + '년 ' + parseInt(p[1], 10) + '월 ' + parseInt(p[2], 10) + '일';
+  }
+
+  function copyToClipboard(text, cb) {
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(text).then(function () { cb(true); }).catch(function () { cb(false); });
+    } else {
+      try {
+        var ta = document.createElement('textarea');
+        ta.value = text;
+        ta.style.cssText = 'position:fixed;opacity:0;top:0;left:0';
+        document.body.appendChild(ta);
+        ta.select();
+        document.execCommand('copy');
+        document.body.removeChild(ta);
+        cb(true);
+      } catch (e) { cb(false); }
+    }
+  }
+
+  /* ============================================================
      12. 아카이브 개선 — 최신 뉴스 링크 + 상단 이동 버튼
      ============================================================ */
   (function () {
@@ -467,11 +545,14 @@
   })();
 
   /* ============================================================
-     13. 헤더 현재 시각 (KST) — 실시간 표시
+     13. 헤더 현재 시각 (KST) — 항상 현재 날짜/시간 표시
+         아카이브 페이지: 열람 중인 날짜 배너 삽입
      ============================================================ */
   (function () {
     var hd = document.querySelector('.header-date');
     if (!hd) return;
+
+    var isArchive = window.location.pathname.indexOf('/archive/') !== -1;
 
     var sep = document.createElement('span');
     sep.className = 'header-time-sep';
@@ -486,16 +567,45 @@
 
     function tick() {
       var now = new Date();
-      var hhmm = now.toLocaleString('ko-KR', {
+      hd.textContent = now.toLocaleString('ko-KR', {
+        timeZone: 'Asia/Seoul',
+        year: 'numeric',
+        month: 'long',
+        day: 'numeric'
+      });
+      clock.textContent = now.toLocaleString('ko-KR', {
         timeZone: 'Asia/Seoul',
         hour: '2-digit',
         minute: '2-digit',
         hour12: false
       });
-      clock.textContent = hhmm;
     }
     tick();
     setInterval(tick, 30000);
+
+    // 아카이브: 열람 중인 날짜 배너
+    if (!isArchive) return;
+    var urlMatch = window.location.pathname.match(/(\d{4}-\d{2}-\d{2})\.html/);
+    if (!urlMatch) return;
+
+    var parts = urlMatch[1].split('-');
+    var year  = parseInt(parts[0], 10);
+    var month = parseInt(parts[1], 10);
+    var day   = parseInt(parts[2], 10);
+    var dObj  = new Date(year, month - 1, day);
+    var days  = ['일요일', '월요일', '화요일', '수요일', '목요일', '금요일', '토요일'];
+    pageDate = urlMatch[1]; // 아카이브 페이지: 공유 URL용 날짜 기록
+    var dateLabel = year + '년 ' + month + '월 ' + day + '일 ' + days[dObj.getDay()];
+
+    var banner = document.createElement('div');
+    banner.className = 'archive-date-banner';
+    banner.setAttribute('role', 'status');
+    banner.innerHTML =
+      '<span class="archive-date-label">' + dateLabel + '</span>' +
+      '<span class="archive-date-sub">의 기사</span>';
+
+    var grid = document.getElementById('main-content');
+    if (grid) grid.parentNode.insertBefore(banner, grid);
   })();
 
   /* ============================================================

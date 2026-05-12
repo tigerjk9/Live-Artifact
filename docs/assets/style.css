@@ -212,7 +212,43 @@ h1, h2, h3 { font-weight: 600; }
   .header-live-time { font-size: var(--t-xs); }
 }
 
-.theme-toggle {
+/* ── Archive Date Banner ──────────────────────── */
+.archive-date-banner {
+  background: oklch(95% 0.028 62);
+  border-top: 3px solid oklch(60% 0.18 50);
+  border-bottom: 1px solid oklch(87% 0.07 62);
+  padding: 14px 24px;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  gap: 6px;
+}
+[data-theme="dark"] .archive-date-banner {
+  background: oklch(21% 0.04 50);
+  border-top-color: oklch(68% 0.17 50);
+  border-bottom-color: oklch(30% 0.06 50);
+}
+.archive-date-label {
+  font: 700 var(--t-xl)/1 var(--font);
+  color: oklch(38% 0.16 50);
+  letter-spacing: 0.01em;
+}
+[data-theme="dark"] .archive-date-label {
+  color: oklch(82% 0.14 50);
+}
+.archive-date-sub {
+  font: 500 var(--t-md)/1 var(--font);
+  color: oklch(54% 0.10 50);
+}
+[data-theme="dark"] .archive-date-sub {
+  color: oklch(64% 0.10 50);
+}
+@media (max-width: 600px) {
+  .archive-date-label { font-size: var(--t-lg); }
+  .archive-date-sub   { font-size: var(--t-sm); }
+}
+
+.theme-toggle, .share-btn {
   border: 1px solid var(--hd-rule);
   color: var(--hd-tx2);
   width: 30px; height: 30px;
@@ -221,7 +257,8 @@ h1, h2, h3 { font-weight: 600; }
   font-size: 13px;
   transition: border-color 0.15s, color 0.15s;
 }
-.theme-toggle:hover { border-color: oklch(45% 0.04 250); color: var(--hd-tx); }
+.theme-toggle:hover, .share-btn:hover { border-color: oklch(45% 0.04 250); color: var(--hd-tx); }
+.share-btn:active { transform: scale(0.92); }
 
 /* ── Date Nav ────────────────────────────────── */
 .date-nav {
