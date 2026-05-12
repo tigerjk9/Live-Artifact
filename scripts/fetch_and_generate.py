@@ -418,6 +418,8 @@ def render_entry(item: dict, cfg: dict, source_key: str, index: int) -> str:
     date_fmt = format_date(date_raw)
     # strip_html 강화: 잘린 태그/엔티티/HTML 모두 처리
     clean_sum = strip_html(summary_raw)
+    # 뉴스 기사 서두의 '[매체=기자이름 기자]' 형태 attribution 제거
+    clean_sum = re.sub(r'^\s*\[[^\]]{2,30}\]\s*', '', clean_sum)
     # 한국어 AI 요약은 전문 표시, 영문 원본(초록/RSS 본문)은 250자로 제한
     if not used_ai_summary and len(clean_sum) > 250:
         clean_sum = clean_sum[:250].rsplit(' ', 1)[0] + '…'
@@ -430,7 +432,8 @@ def render_entry(item: dict, cfg: dict, source_key: str, index: int) -> str:
         meta_parts.append('<span class="entry-sep" aria-hidden="true">·</span>')
     if date_fmt:
         meta_parts.append(f'<span class="entry-dt">{date_fmt}</span>')
-    if keyword and keyword not in ("press_rss", "None", ""):
+    # 키워드 배지: 15자 초과(긴 영문 학술 용어 등)는 표시 안 함
+    if keyword and keyword not in ("press_rss", "None", "") and len(keyword) <= 15:
         meta_parts.append(f'<span class="entry-kw">{escape_html(keyword)}</span>')
 
     meta_html = (

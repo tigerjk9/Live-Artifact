@@ -503,12 +503,12 @@ h1, h2, h3 { font-weight: 600; }
   font-size: 0.625rem;
 }
 .entry-kw {
-  margin-left: auto;
   padding: 2px 6px;
   border-radius: 2px;
   font: 700 var(--t-2xs)/1 var(--font);
   letter-spacing: 0.06em;
   text-transform: uppercase;
+  white-space: nowrap;
 }
 .col[data-cat="edu"]   .entry-kw { background: var(--c-edu-s); color: var(--c-edu); }
 .col[data-cat="paper"] .entry-kw { background: var(--c-pap-s); color: var(--c-paper); }
