@@ -999,7 +999,9 @@ def cleanup_archive(archive_dir: str, keep_days: int = KEEP_DAYS) -> None:
     if not os.path.isdir(archive_dir):
         return
 
-    today_dt = date.today()
+    from datetime import timezone
+    KST = timezone(timedelta(hours=9))
+    today_dt = datetime.now(tz=KST).date()
     cutoff_dt = today_dt - timedelta(days=keep_days)
     deleted = 0
 
