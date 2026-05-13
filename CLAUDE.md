@@ -26,7 +26,9 @@ GitHub Actions (cron: 10:00 KST)
 ```
 Live-Artifact/
 ├── .github/workflows/
-│   └── daily-news-update.yml     # cron 3회(09:30/10:00/10:30 KST) + workflow_dispatch
+│   ├── daily-news-update.yml     # cron 3회(09:30/10:00/10:30 KST) + workflow_dispatch
+│   ├── watchdog.yml              # 11:00 KST — 오늘 아카이브 없으면 직접 실행 (복구)
+│   └── keepalive.yml             # 일요일 00:00 KST — 빈 커밋으로 스케줄러 활성 유지
 ├── docs/
 │   ├── index.html                # 오늘 브리핑 (자동 갱신)
 │   ├── _template.html            # HTML 생성 템플릿

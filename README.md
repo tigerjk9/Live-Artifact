@@ -21,7 +21,7 @@
 
 | 기능 | 설명 |
 |------|------|
-| 매일 자동 갱신 | GitHub Actions 스케줄러 — KST 10:00 |
+| 매일 자동 갱신 | GitHub Actions 스케줄러 — KST 10:00 (watchdog 11:00 백업) |
 | 28일 아카이브 | 날짜 네비게이션으로 과거 브리핑 열람 |
 | 실시간 검색 | 제목·요약·출처 통합 검색, 300ms debounce |
 | 카테고리 필터 | 교육 / 논문 / 기술 / 전체 즉시 전환 |
@@ -83,7 +83,9 @@ cd Live-Artifact
 ```
 Live-Artifact/
 ├── .github/workflows/
-│   └── daily-news-update.yml     # Cron: 0 1 * * * (KST 10:00)
+│   ├── daily-news-update.yml     # Cron: 09:30/10:00/10:30 KST + workflow_dispatch
+│   ├── watchdog.yml              # Cron: 11:00 KST — 미갱신 시 자동 복구
+│   └── keepalive.yml             # Cron: 일요일 00:00 KST — 스케줄러 활성 유지
 ├── docs/
 │   ├── index.html                # 오늘 브리핑 (자동 갱신)
 │   ├── _template.html            # HTML 생성 템플릿
