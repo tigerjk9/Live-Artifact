@@ -2,7 +2,7 @@ name: Keep Alive
 
 on:
   schedule:
-    - cron: '0 15 * * 1'  # 매주 월요일 00:00 KST — 스케줄러 활성 유지
+    - cron: '0 15 * * 0'  # 매주 일요일 00:00 KST — 스케줄러 활성 유지
   workflow_dispatch:
 
 permissions:
