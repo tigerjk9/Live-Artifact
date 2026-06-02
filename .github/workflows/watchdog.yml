@@ -23,12 +23,12 @@ jobs:
           TODAY=$(TZ=Asia/Seoul date +%Y-%m-%d)
           ARCHIVE="docs/archive/${TODAY}.html"
           echo "today=${TODAY}" >> $GITHUB_OUTPUT
-          if [ -f "$ARCHIVE" ] && grep -q 'class="entry"' "$ARCHIVE"; then
+          if [ -f "$ARCHIVE" ] && grep -q 'class="entry"' "$ARCHIVE" && ! grep -q 'col-count">0건' "$ARCHIVE"; then
             echo "skip=true" >> $GITHUB_OUTPUT
-            echo "[OK] ${TODAY} 이미 갱신됨 — watchdog 종료"
+            echo "[OK] ${TODAY} 이미 갱신됨 (전체 섹션 데이터 있음) — watchdog 종료"
           else
             echo "skip=false" >> $GITHUB_OUTPUT
-            echo "[WATCHDOG] ${TODAY} 갱신 없음 — 복구 실행"
+            echo "[WATCHDOG] ${TODAY} 갱신 없음 또는 미완성 — 복구 실행"
           fi
 
       - name: Set up Python 3.11

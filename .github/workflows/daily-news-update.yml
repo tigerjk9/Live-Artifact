@@ -26,9 +26,9 @@ jobs:
           TODAY=$(TZ=Asia/Seoul date +%Y-%m-%d)
           ARCHIVE="docs/archive/${TODAY}.html"
           echo "today=${TODAY}" >> $GITHUB_OUTPUT
-          if [ -f "$ARCHIVE" ] && grep -q 'class="entry"' "$ARCHIVE"; then
+          if [ -f "$ARCHIVE" ] && grep -q 'class="entry"' "$ARCHIVE" && ! grep -q 'col-count">0건' "$ARCHIVE"; then
             echo "skip=true" >> $GITHUB_OUTPUT
-            echo "[SKIP] ${TODAY} 아카이브 이미 완료 — 이후 단계 건너뜀"
+            echo "[SKIP] ${TODAY} 아카이브 이미 완료 (전체 섹션 데이터 있음) — 이후 단계 건너뜀"
           else
             echo "skip=false" >> $GITHUB_OUTPUT
             echo "[RUN] ${TODAY} 데이터 생성 시작"
