@@ -50,6 +50,21 @@ jobs:
           NEWS_TOKEN: ${{ secrets.NEWS_GITHUB_TOKEN }}
         run: python scripts/fetch_and_generate.py
 
+      - name: Validate article counts
+        if: steps.check.outputs.skip != 'true'
+        run: |
+          TODAY=${{ steps.check.outputs.today }}
+          ARCHIVE="docs/archive/${TODAY}.html"
+          if [ -f "$ARCHIVE" ]; then
+            EDU=$(grep -o 'col-count">[^<]*건' "$ARCHIVE" | sed -n '1p' | grep -o '[0-9]*')
+            PAPER=$(grep -o 'col-count">[^<]*건' "$ARCHIVE" | sed -n '2p' | grep -o '[0-9]*')
+            TECH=$(grep -o 'col-count">[^<]*건' "$ARCHIVE" | sed -n '3p' | grep -o '[0-9]*')
+            echo "[RESULT] 교육뉴스=${EDU}건 / AI논문=${PAPER}건 / AI기술=${TECH}건"
+            if [ "${EDU:-0}" -eq 0 ] || [ "${PAPER:-0}" -eq 0 ] || [ "${TECH:-0}" -eq 0 ]; then
+              echo "::warning::섹션 중 0건이 있습니다 — 다음 실행에서 재시도됩니다 (교육=${EDU} 논문=${PAPER} 기술=${TECH})"
+            fi
+          fi
+
       - name: Commit and push
         if: steps.check.outputs.skip != 'true'
         run: |
