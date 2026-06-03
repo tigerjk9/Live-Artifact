@@ -99,4 +99,29 @@ today = now_kst.date().isoformat()  # date.today() 사용 금지
 |------|--------|------|
 | Live-Artifact | `NEWS_GITHUB_TOKEN` | 소스 레포 read 권한 PAT |
 | Auto-Edu-news-Collector | `GEMINI_API_KEY` | Gemini 요약 생성 |
+| Auto-AI-Edu-Paper-Curator | `GEMINI_API_KEY` | Gemini 요약 생성 |
 | Auto-AI-Tech-news-Collector | `GEMINI_API_KEY` | Gemini 요약 생성 |
+
+## 트러블슈팅 — Gemini 요약 의존성
+
+한국어 AI 요약은 본 레포가 아니라 **3개 소스 수집기**가 생성한다. 세 레포 모두
+`gemini_summarizer.py` + `config.json`의 `"model"`에 Gemini 모델명을 둔다(config.json이 권위 소스).
+
+**증상 → 원인:** 요약이 영문(논문 `[원문 초록]`)이거나 누락되면 → 수집기의 Gemini 호출 실패.
+가장 흔한 원인은 **모델 폐기**(예: 2026-06-02 `gemini-2.0-flash` 404 "no longer available").
+세 레포가 같은 모델명을 쓰므로 한꺼번에 망가진다. 2차로 `filter_described`가 설명 없는
+ai-tech 기사를 잘라 건수가 급감한다.
+
+**진단:** 수집기 Actions 로그에서 `404 ... no longer available` 확인, 실행 시간 급증(재시도)도 단서.
+소스 `.txt`/newsletter 파일을 `gh api`로 직접 받아 한국어 여부 확인.
+
+**복구:** 세 레포 `config.json`의 `"model"`을 살아있는 모델로 교체. 2026-06-03부터
+`GeminiSummarizer._resolve_model()` 폴백이 있어 모델 폐기 시 `list_models()`로 자동 대체된다.
+
+**소스 수정 후 오늘자 강제 갱신** (본 레포 워크플로우는 당일 아카이브가 이미 있으면 skip):
+```bash
+# 오늘 아카이브 삭제 → workflow_dispatch 하면 재생성됨
+gh api --method DELETE repos/tigerjk9/Live-Artifact/contents/docs/archive/$(TZ=Asia/Seoul date +%F).html \
+  -f message="regenerate" -f sha="<file-sha>" -f branch=main
+gh workflow run "Daily News Update" --repo tigerjk9/Live-Artifact
+```
