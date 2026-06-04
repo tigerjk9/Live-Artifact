@@ -58,7 +58,13 @@ URL·구분선 라인은 스킵, 나머지 들여쓰기 라인은 모두 합쳐 
 
 ### `filter_described(items, cfg, source_key)`
 - `ai-paper`, `edu-news`: 필터 없음 (항상 전체 표시)
-- `ai-tech`: 설명 20자 미만 기사 제외 (전부 없으면 원본 유지)
+- `ai-tech`: Gemini AI 요약이 1건 이상 매칭됐을 때만 설명 20자+ 필터 적용.
+  매칭 0건(newsletter 미생성·Gemini 실패)이면 전체 수집 아이템 반환.
+
+### `fetch_source_with_fallback(key, cfg, today, max_fallback=3)`
+오늘 데이터가 없으면 최대 3일 이전 날짜를 재시도. `(items, fallback_date_or_None)` 반환.
+`render_date_html(use_fallback=True)` 시 활성화 (오늘 렌더링에만 적용, 백필은 제외).
+폴백 사용 시 섹션 카운트에 날짜 표시 예: `5건 (6/3)`.
 
 ### `render_entry()` 요약 로직
 - `ai_summary`(AI 생성) 있으면 전문 표시

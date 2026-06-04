@@ -500,9 +500,14 @@ def filter_described(items: list[dict], cfg: dict, source_key: str) -> list[dict
 
     - ai-paper : 필터 없음 — 항상 AI 요약 보장
     - edu-news : 필터 없음 — newsletter AI 요약 세팅 완료, 과도기 기사도 제목만으로 표시
-    - ai-tech  : 설명(20자+) 없는 기사 제외, 전부 없으면 원본 유지
+    - ai-tech  : Gemini AI 요약이 1건 이상 매칭됐을 때만 설명 20자+ 필터 적용.
+                 매칭 0건(newsletter 미생성·Gemini 실패)이면 전체 수집 아이템을 그대로 반환.
     """
     if source_key in ("ai-paper", "edu-news"):
+        return items
+    # Gemini 요약이 하나라도 매칭됐으면 품질 필터 적용, 없으면 전체 표시
+    has_ai_summary = any(item.get("ai_summary") for item in items)
+    if not has_ai_summary:
         return items
     described = [it for it in items if len(item_description_text(it, cfg)) >= 20]
     return described if described else items
@@ -584,6 +589,29 @@ def fetch_today_source(key: str, cfg: dict, today: str) -> list[dict]:
         print(f"[OK] {key}: AI 요약 매칭 {matched}/{len(items)}건", file=sys.stderr)
 
     return items
+
+
+def fetch_source_with_fallback(
+    key: str, cfg: dict, today: str, max_fallback: int = 3
+) -> tuple[list[dict], str | None]:
+    """오늘 데이터를 페치하고, 없으면 최대 max_fallback일 이전까지 재시도한다.
+
+    반환: (items, fallback_date_or_None)
+      - 오늘 데이터가 있으면: (items, None)
+      - 폴백 사용 시:        (items, "YYYY-MM-DD")
+      - 모두 없으면:         ([], None)
+    """
+    items = fetch_today_source(key, cfg, today)
+    if items:
+        return items, None
+    today_dt = datetime.strptime(today, "%Y-%m-%d").date()
+    for d in range(1, max_fallback + 1):
+        prev = (today_dt - timedelta(days=d)).isoformat()
+        items = fetch_today_source(key, cfg, prev)
+        if items:
+            print(f"[FALLBACK] {key}: {today} 데이터 없음 → {prev} 폴백", file=sys.stderr)
+            return items, prev
+    return [], None
 
 
 # ---------------------------------------------------------------------------
@@ -895,26 +923,38 @@ def render_date_html(
     date_nav: str,
     last_updated_iso: str,
     last_updated_kr: str,
+    use_fallback: bool = False,
 ) -> tuple[str, int]:
     """target_date의 3개 소스를 페치하여 HTML 문자열과 총 아이템 수를 반환한다.
 
+    use_fallback=True: 오늘 데이터 없는 소스는 최대 3일 이전 데이터로 폴백.
     아이템이 0개여도 HTML은 반환한다 (호출자가 저장 여부 판단).
     """
     cards: dict[str, str] = {}
     counts: dict[str, int] = {}
+    count_labels: dict[str, str] = {}
     for key, cfg in SOURCES.items():
         try:
-            items = fetch_today_source(key, cfg, target_date)
+            if use_fallback:
+                items, fallback_date = fetch_source_with_fallback(key, cfg, target_date)
+            else:
+                items, fallback_date = fetch_today_source(key, cfg, target_date), None
             before = len(items)
             items = filter_described(items, cfg, key)
             after = len(items)
             if after < before:
                 print(f"[INFO] {key}: 설명 없는 기사 {before - after}건 제외 → {after}건 표시", file=sys.stderr)
             counts[key] = len(items)
+            if fallback_date:
+                fb_dt = datetime.strptime(fallback_date, "%Y-%m-%d")
+                count_labels[key] = f"{len(items)}건 ({fb_dt.month}/{fb_dt.day})"
+            else:
+                count_labels[key] = f"{len(items)}건"
             cards[key] = render_section_body(items, cfg, key)
         except Exception as exc:
             print(f"[ERROR] {key} {target_date}: {exc}", file=sys.stderr)
             counts[key] = 0
+            count_labels[key] = "0건"
             label = cfg.get("label", "데이터")
             cards[key] = f'<p class="col-empty">이 날짜의 {label} 데이터가 없습니다.</p>'
 
@@ -933,9 +973,9 @@ def render_date_html(
         .replace("{{EDU_NEWS_CARDS}}", cards["edu-news"])
         .replace("{{AI_PAPER_CARDS}}", cards["ai-paper"])
         .replace("{{AI_TECH_CARDS}}", cards["ai-tech"])
-        .replace("{{EDU_NEWS_COUNT}}", f"{counts['edu-news']}건")
-        .replace("{{AI_PAPER_COUNT}}", f"{counts['ai-paper']}건")
-        .replace("{{AI_TECH_COUNT}}", f"{counts['ai-tech']}건")
+        .replace("{{EDU_NEWS_COUNT}}", count_labels["edu-news"])
+        .replace("{{AI_PAPER_COUNT}}", count_labels["ai-paper"])
+        .replace("{{AI_TECH_COUNT}}", count_labels["ai-tech"])
         .replace("{{DATE_NAV}}", date_nav)
         .replace("{{LAST_UPDATED_ISO}}", last_updated_iso)
         .replace("{{LAST_UPDATED_KR}}", last_updated_kr)
@@ -1068,8 +1108,8 @@ def main() -> None:
     # 4. 날짜 네비게이션 (정적 fallback — JS가 dates.json 기반으로 덮어씀)
     date_nav = build_date_nav(today, archive_dir)
 
-    # 5. 오늘 렌더링
-    html, total = render_date_html(today, template, date_nav, last_updated_iso, last_updated_kr)
+    # 5. 오늘 렌더링 (소스 미수집 시 최근 데이터 폴백)
+    html, total = render_date_html(today, template, date_nav, last_updated_iso, last_updated_kr, use_fallback=True)
     print(f"[OK] 오늘({today}): 총 {total}건", file=sys.stderr)
 
     # 6. archive/{today}.html 저장 (경로 보정 + canonical 적용)
