@@ -131,3 +131,21 @@ gh api --method DELETE repos/tigerjk9/Live-Artifact/contents/docs/archive/$(TZ=A
   -f message="regenerate" -f sha="<file-sha>" -f branch=main
 gh workflow run "Daily News Update" --repo tigerjk9/Live-Artifact
 ```
+
+### 추가 함정 — 소스 레포 로컬 수집 (요약 누락의 또 다른 원인)
+
+카드 설명이 비는 증상은 모델 폐기뿐 아니라 **로컬 수집**으로도 발생한다. 소스 수집기를
+**이 PC에서 직접 실행하면 `GEMINI_API_KEY`가 없어** 요약 없는 데이터가 당일 디렉터리를
+덮어쓴다(news_collector.py는 `news/{today}/`를 조건 없이 덮어씀). 정작 시크릿을 가진
+Actions 수집기가 그날 cron 드롭으로 안 돌면 빈 요약이 그대로 남는다.
+
+**구분법** — 소스 레포 커밋 author/메시지로 판별:
+- Actions: `github-actions[bot]` / `📰 자동 뉴스 수집 ...` (요약 정상)
+- 로컬:    `Dot_Connector` / `[Auto] 뉴스 수집 - ...` (요약 누락 위험)
+
+**복구:** 소스 수집기를 Actions로 재실행 → 본 레포 아카이브 삭제 후 재생성(위 절차).
+```bash
+gh workflow run "Daily News Collection" --repo tigerjk9/Auto-AI-Tech-news-Collector
+```
+**예방:** 소스 수집기를 로컬에서 키 없이 돌리지 말 것. `filter_described`가 요약 매칭
+0건이면 필터를 꺼 건수는 안 잘리지만, 카드는 제목만 남는다.
