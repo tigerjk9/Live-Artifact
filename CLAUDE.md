@@ -149,3 +149,20 @@ gh workflow run "Daily News Collection" --repo tigerjk9/Auto-AI-Tech-news-Collec
 ```
 **예방:** 소스 수집기를 로컬에서 키 없이 돌리지 말 것. `filter_described`가 요약 매칭
 0건이면 필터를 꺼 건수는 안 잘리지만, 카드는 제목만 남는다.
+
+## 트러블슈팅 — Pages 배포 실패 (레포는 최신인데 사이트가 옛날)
+
+커밋·푸시가 성공해도 **Pages 배포는 별도 워크플로우**(pages-build-deployment)라
+그것만 조용히 실패할 수 있다. 2026-07-03 장애: deploy 잡이 GitHub 측 일시 장애
+("Deployment failed, try again later")로 실패 후 빌드 상태가 `building`으로 고착,
+이후 실행들은 레포 아카이브만 보고 skip → 사이트가 전날 상태로 방치.
+
+**진단/복구:**
+```bash
+gh api repos/tigerjk9/Live-Artifact/pages/builds/latest   # errored, 커밋≠HEAD, 10분+ building이면 고착
+gh api -X POST repos/tigerjk9/Live-Artifact/pages/builds  # 재빌드 요청 (즉효)
+```
+
+**자동화:** daily-news-update.yml·watchdog.yml 마지막의 `Verify Pages deployment`
+단계(`if: always()`)가 최신 커밋 배포를 최대 10분 폴링하고, 실패/고착 시 재빌드를
+1회 자동 요청한다 (`pages: write` 권한 필요).
