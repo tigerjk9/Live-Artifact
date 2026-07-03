@@ -9,6 +9,7 @@ on:
 
 permissions:
   contents: write
+  pages: write
 
 jobs:
   update:
@@ -74,3 +75,32 @@ jobs:
           git diff --staged --quiet || \
             git commit -m "chore: daily news update $(TZ=Asia/Seoul date +%Y-%m-%d)"
           git push
+
+      # Pages 배포가 일시 장애로 실패/멈춤(building 고착)해도 레포 상태만 보는 skip 로직은
+      # 재배포를 못 하므로, 최신 커밋이 실제 배포됐는지 확인하고 아니면 재빌드를 요청한다.
+      - name: Verify Pages deployment
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          HEAD_SHA=$(git rev-parse HEAD)
+          REBUILD_REQUESTED=false
+          for i in $(seq 1 20); do
+            BUILD=$(gh api "repos/${GITHUB_REPOSITORY}/pages/builds/latest" 2>/dev/null || echo '{}')
+            STATUS=$(echo "$BUILD" | jq -r '.status // "unknown"')
+            BUILT_SHA=$(echo "$BUILD" | jq -r '.commit // ""')
+            echo "[$i/20] pages build: status=${STATUS} commit=${BUILT_SHA:0:7} (HEAD=${HEAD_SHA:0:7})"
+            if [ "$STATUS" = "built" ] && [ "$BUILT_SHA" = "$HEAD_SHA" ]; then
+              echo "[OK] Pages가 최신 커밋으로 배포됨"
+              exit 0
+            fi
+            # errored는 즉시, 오래된 building/stale built는 2.5분 대기 후 1회만 재빌드 요청
+            if [ "$REBUILD_REQUESTED" = "false" ] && { [ "$STATUS" = "errored" ] || [ "$i" -ge 5 ]; }; then
+              echo "[RETRY] Pages 재빌드 요청 (status=${STATUS})"
+              gh api -X POST "repos/${GITHUB_REPOSITORY}/pages/builds" >/dev/null 2>&1 || true
+              REBUILD_REQUESTED=true
+            fi
+            sleep 30
+          done
+          echo "::error::Pages 배포가 10분 내 완료되지 않음 — Settings → Pages 수동 확인 필요"
+          exit 1
