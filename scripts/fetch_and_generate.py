@@ -83,6 +83,10 @@ SOURCES: dict[str, dict] = {
 
 KEEP_DAYS = 28
 
+# 한국어 AI 요약이 이 비율 미만이면 "미완성"으로 보고 페이지에 안내를 띄우며,
+# 워크플로우 skip 게이트도 통과시키지 않는다 (이후 cron이 재시도하도록).
+AI_COVERAGE_MIN_PCT = 60
+
 # ---------------------------------------------------------------------------
 # GitHub API 유틸리티
 # ---------------------------------------------------------------------------
@@ -493,6 +497,20 @@ def item_description_text(item: dict, cfg: dict) -> str:
     text = strip_html(raw)
     text = re.sub(r'^\s*\[[^\]]{2,30}\]\s*', '', text)
     return text
+
+
+_HANGUL_RE = re.compile(r"[가-힣]")
+
+
+def has_korean_summary(item: dict, cfg: dict) -> bool:
+    """카드에 실을 만한 한국어 요약이 있으면 True.
+
+    Gemini 요약이 죽었을 때 나타나는 두 증상을 모두 잡는다:
+      - 요약 자체가 없음 — newsletter가 `N. 제목` + URL만 담고 생성됨
+      - 영문 원문만 남음 — 논문의 `[원문 초록]` 폴백, RSS 영문 본문
+    """
+    text = item_description_text(item, cfg)
+    return len(text) >= 20 and bool(_HANGUL_RE.search(text))
 
 
 def filter_described(items: list[dict], cfg: dict, source_key: str) -> list[dict]:
@@ -924,14 +942,16 @@ def render_date_html(
     last_updated_iso: str,
     last_updated_kr: str,
     use_fallback: bool = False,
-) -> tuple[str, int]:
-    """target_date의 3개 소스를 페치하여 HTML 문자열과 총 아이템 수를 반환한다.
+) -> tuple[str, int, int]:
+    """target_date의 3개 소스를 페치하여 (HTML, 총 아이템 수, 한국어 요약 건수)를 반환한다.
 
     use_fallback=True: 오늘 데이터 없는 소스는 최대 3일 이전 데이터로 폴백.
     아이템이 0개여도 HTML은 반환한다 (호출자가 저장 여부 판단).
     """
     cards: dict[str, str] = {}
     counts: dict[str, int] = {}
+    covered: dict[str, int] = {}       # 안내 배너용 — 표시된 카드 기준
+    fresh_covered: dict[str, int] = {} # 게이트용 — 폴백 섹션은 0으로 친다
     count_labels: dict[str, str] = {}
     for key, cfg in SOURCES.items():
         try:
@@ -945,6 +965,17 @@ def render_date_html(
             if after < before:
                 print(f"[INFO] {key}: 설명 없는 기사 {before - after}건 제외 → {after}건 표시", file=sys.stderr)
             counts[key] = len(items)
+            covered[key] = sum(1 for it in items if has_korean_summary(it, cfg))
+            # 폴백 섹션은 '오늘 요약이 확보됐다'는 근거가 못 된다. 어제 데이터는
+            # 요약이 온전하므로 그대로 세면 커버리지가 부풀어, 재시도 게이트가
+            # 꺼지고 묵은 데이터가 그대로 굳는다.
+            fresh_covered[key] = 0 if fallback_date else covered[key]
+            if covered[key] < counts[key]:
+                print(
+                    f"[WARN] {key}: 한국어 AI 요약 {covered[key]}/{counts[key]}건 "
+                    f"— 수집기 Gemini 호출 실패 가능성",
+                    file=sys.stderr,
+                )
             if fallback_date:
                 fb_dt = datetime.strptime(fallback_date, "%Y-%m-%d")
                 count_labels[key] = f"{len(items)}건 ({fb_dt.month}/{fb_dt.day})"
@@ -954,11 +985,29 @@ def render_date_html(
         except Exception as exc:
             print(f"[ERROR] {key} {target_date}: {exc}", file=sys.stderr)
             counts[key] = 0
+            covered[key] = 0
+            fresh_covered[key] = 0
             count_labels[key] = "0건"
             label = cfg.get("label", "데이터")
             cards[key] = f'<p class="col-empty">이 날짜의 {label} 데이터가 없습니다.</p>'
 
     total = sum(counts.values())
+    total_covered = sum(covered.values())
+    # meta/게이트에 쓰는 값 — 폴백 섹션 제외. 이 수치가 낮으면 이후 cron이 재시도한다.
+    total_fresh = sum(fresh_covered.values())
+    coverage_pct = round(total_covered * 100 / total) if total else 0
+
+    # 요약 커버리지가 낮으면 카드가 제목만 남아 페이지가 고장난 것처럼 보인다.
+    # 원인(수집기 Gemini 실패)을 독자에게 명시해 오해를 막는다.
+    notice_html = ""
+    if total and coverage_pct < AI_COVERAGE_MIN_PCT:
+        notice_html = (
+            '  <div class="brief-notice" role="status">\n'
+            '    <span class="brief-notice-icon" aria-hidden="true">⚠</span>\n'
+            "    <span>AI 요약 생성이 일시 중단되어 일부 항목은 제목·링크만 표시됩니다"
+            f" (요약 {total_covered}/{total}건). 원문 링크는 정상 동작합니다.</span>\n"
+            "  </div>\n"
+        )
 
     dt_obj = datetime.strptime(target_date, "%Y-%m-%d")
     _WEEKDAYS = ['월', '화', '수', '목', '금', '토', '일']
@@ -979,8 +1028,13 @@ def render_date_html(
         .replace("{{DATE_NAV}}", date_nav)
         .replace("{{LAST_UPDATED_ISO}}", last_updated_iso)
         .replace("{{LAST_UPDATED_KR}}", last_updated_kr)
+        .replace("{{BRIEF_NOTICE}}", notice_html)
+        .replace(
+            "{{AI_COVERAGE_META}}",
+            f'<meta name="ai-summary-coverage" content="{total_fresh}/{total}">',
+        )
     )
-    return html, total
+    return html, total, total_fresh
 
 
 # ---------------------------------------------------------------------------
@@ -1009,7 +1063,7 @@ def backfill_archives(
         if os.path.isfile(archive_path):
             continue
 
-        html, total = render_date_html(
+        html, total, _covered = render_date_html(
             target_str, template, "", last_updated_iso, last_updated_kr
         )
         if total == 0:
@@ -1027,6 +1081,24 @@ def backfill_archives(
     else:
         print("[OK] 백필 필요 없음 (전부 존재 또는 데이터 없음)", file=sys.stderr)
     return created
+
+
+def read_archive_coverage(archive_path: str) -> tuple[int, int] | None:
+    """기존 아카이브 HTML에서 (한국어 요약 건수, 총 건수)를 읽는다.
+
+    meta 태그가 없는 구버전 아카이브면 None (판단 불가 → 재생성 허용).
+    """
+    if not os.path.isfile(archive_path):
+        return None
+    try:
+        with open(archive_path, encoding="utf-8") as f:
+            head = f.read(4096)
+    except OSError:
+        return None
+    m = re.search(
+        r'name="ai-summary-coverage"\s+content="(\d+)/(\d+)"', head
+    )
+    return (int(m.group(1)), int(m.group(2))) if m else None
 
 
 # ---------------------------------------------------------------------------
@@ -1109,12 +1181,27 @@ def main() -> None:
     date_nav = build_date_nav(today, archive_dir)
 
     # 5. 오늘 렌더링 (소스 미수집 시 최근 데이터 폴백)
-    html, total = render_date_html(today, template, date_nav, last_updated_iso, last_updated_kr, use_fallback=True)
-    print(f"[OK] 오늘({today}): 총 {total}건", file=sys.stderr)
+    html, total, covered = render_date_html(today, template, date_nav, last_updated_iso, last_updated_kr, use_fallback=True)
+    pct = round(covered * 100 / total) if total else 0
+    print(f"[OK] 오늘({today}): 총 {total}건 / 한국어 요약 {covered}건 ({pct}%)", file=sys.stderr)
 
     # 6. archive/{today}.html 저장 (경로 보정 + canonical 적용)
     archive_path = os.path.join(archive_dir, f"{today}.html")
     archive_canonical = f"{BASE_URL}/archive/{today}.html"
+
+    # 요약 커버리지가 낮으면 이후 cron이 계속 재시도하므로, 그 재시도가
+    # 더 좋은 기존 결과를 덮어쓰지 않도록 막는다 (수집기가 하루 중 퇴보할 수 있음).
+    prev = read_archive_coverage(archive_path)
+    if prev and prev > (covered, total):
+        print(
+            f"[KEEP] 기존 아카이브가 더 완전함 (요약 {prev[0]}/{prev[1]}건 "
+            f"> {covered}/{total}건) — 덮어쓰기 생략",
+            file=sys.stderr,
+        )
+        update_dates_json(today, docs_dir, archive_dir)
+        cleanup_archive(archive_dir)
+        print(f"[DONE] {today} 완료 (기존 유지)", file=sys.stderr)
+        return
     with open(archive_path, "w", encoding="utf-8") as f:
         f.write(fixup_archive_paths(html).replace("{{PAGE_CANONICAL}}", archive_canonical))
     print(f"[OK] 아카이브 저장: {archive_path}", file=sys.stderr)

@@ -27,12 +27,20 @@ jobs:
           TODAY=$(TZ=Asia/Seoul date +%Y-%m-%d)
           ARCHIVE="docs/archive/${TODAY}.html"
           echo "today=${TODAY}" >> $GITHUB_OUTPUT
-          if [ -f "$ARCHIVE" ] && grep -q 'class="entry"' "$ARCHIVE" && ! grep -q 'col-count">0건' "$ARCHIVE"; then
+          # 건수만 보면 안 된다: 수집기 Gemini가 죽으면 건수는 정상인데 카드가
+          # 제목만 남는다. 그 상태로 skip하면 하루 종일 그대로 고착되므로,
+          # 한국어 AI 요약 커버리지도 함께 게이트에 넣어 이후 cron이 재시도하게 한다.
+          COV=$(grep -o 'name="ai-summary-coverage" content="[0-9]*/[0-9]*"' "$ARCHIVE" 2>/dev/null | head -1 | grep -o '[0-9]*/[0-9]*')
+          PCT=0
+          if [ -n "$COV" ] && [ "${COV#*/}" -gt 0 ]; then
+            PCT=$(( ${COV%/*} * 100 / ${COV#*/} ))
+          fi
+          if [ -f "$ARCHIVE" ] && grep -q 'class="entry"' "$ARCHIVE" && ! grep -q 'col-count">0건' "$ARCHIVE" && [ "$PCT" -ge 60 ]; then
             echo "skip=true" >> $GITHUB_OUTPUT
-            echo "[SKIP] ${TODAY} 아카이브 이미 완료 (전체 섹션 데이터 있음) — 이후 단계 건너뜀"
+            echo "[SKIP] ${TODAY} 아카이브 이미 완료 (AI 요약 ${COV:-?} = ${PCT}%) — 이후 단계 건너뜀"
           else
             echo "skip=false" >> $GITHUB_OUTPUT
-            echo "[RUN] ${TODAY} 데이터 생성 시작"
+            echo "[RUN] ${TODAY} 데이터 생성 시작 (기존 AI 요약 ${COV:-없음} = ${PCT}%)"
           fi
 
       - name: Set up Python 3.11
@@ -63,6 +71,14 @@ jobs:
             echo "[RESULT] 교육뉴스=${EDU}건 / AI논문=${PAPER}건 / AI기술=${TECH}건"
             if [ "${EDU:-0}" -eq 0 ] || [ "${PAPER:-0}" -eq 0 ] || [ "${TECH:-0}" -eq 0 ]; then
               echo "::warning::섹션 중 0건이 있습니다 — 다음 실행에서 재시도됩니다 (교육=${EDU} 논문=${PAPER} 기술=${TECH})"
+            fi
+            COV=$(grep -o 'name="ai-summary-coverage" content="[0-9]*/[0-9]*"' "$ARCHIVE" | head -1 | grep -o '[0-9]*/[0-9]*')
+            if [ -n "$COV" ] && [ "${COV#*/}" -gt 0 ]; then
+              PCT=$(( ${COV%/*} * 100 / ${COV#*/} ))
+              echo "[RESULT] 한국어 AI 요약 커버리지=${COV} (${PCT}%)"
+              if [ "$PCT" -lt 60 ]; then
+                echo "::warning::AI 요약 커버리지 ${PCT}% — 소스 수집기의 Gemini 호출을 확인하세요 (스펜드 캡/쿼터/모델 폐기). 3개 수집기 Actions 로그에서 429·404를 검색하세요."
+              fi
             fi
           fi
 

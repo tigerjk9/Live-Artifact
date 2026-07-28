@@ -114,15 +114,38 @@ today = now_kst.date().isoformat()  # date.today() 사용 금지
 `gemini_summarizer.py` + `config.json`의 `"model"`에 Gemini 모델명을 둔다(config.json이 권위 소스).
 
 **증상 → 원인:** 요약이 영문(논문 `[원문 초록]`)이거나 누락되면 → 수집기의 Gemini 호출 실패.
-가장 흔한 원인은 **모델 폐기**(예: 2026-06-02 `gemini-2.0-flash` 404 "no longer available").
-세 레포가 같은 모델명을 쓰므로 한꺼번에 망가진다. 2차로 `filter_described`가 설명 없는
-ai-tech 기사를 잘라 건수가 급감한다.
+세 레포가 같은 키·모델을 쓰므로 한꺼번에 망가진다. 2차로 `filter_described`가 설명 없는
+ai-tech 기사를 잘라 건수가 급감한다. 원인은 로그의 HTTP 코드로 갈린다:
+
+| 코드 | 원인 | 복구 |
+|------|------|------|
+| 404 `no longer available` | **모델 폐기** (2026-06-02 `gemini-2.0-flash`) | 세 레포 `config.json`의 `"model"` 교체 (2026-06-03부터 `_resolve_model()` 폴백 자동 대체) |
+| 429 `exceeded its monthly spending cap` | **AI Studio 월 지출 한도 초과** (2026-07-28) | https://ai.studio/spend 에서 캡 상향 — 아니면 익월 1일 자동 리셋까지 요약 없음 |
+| 429 `RESOURCE_EXHAUSTED` / quota | 분당·일일 쿼터 | 대기 후 재시도 |
 
 **진단:** 수집기 Actions 로그에서 `404 ... no longer available` 확인, 실행 시간 급증(재시도)도 단서.
 소스 `.txt`/newsletter 파일을 `gh api`로 직접 받아 한국어 여부 확인.
 
 **복구:** 세 레포 `config.json`의 `"model"`을 살아있는 모델로 교체. 2026-06-03부터
 `GeminiSummarizer._resolve_model()` 폴백이 있어 모델 폐기 시 `list_models()`로 자동 대체된다.
+
+### 요약 커버리지 게이트 (2026-07-28 도입)
+
+건수만 보는 skip 게이트는 이 장애를 못 잡는다 — Gemini가 죽어도 **건수는 정상**이고
+카드만 제목으로 비기 때문이다. 그래서 첫 실행이 요약 없는 아카이브를 만들면 이후
+cron이 전부 skip해 하루 종일 고착됐다. 이를 막기 위해:
+
+- `has_korean_summary()` — 설명이 20자 이상이고 한글이 포함돼야 "요약 있음"으로 친다.
+  논문의 영문 `[원문 초록]` 폴백도 이 기준에서 걸러진다.
+- 생성 HTML `<head>`에 `<meta name="ai-summary-coverage" content="{요약}/{전체}">` 기록.
+- 두 워크플로우의 skip 게이트가 **건수 + 커버리지 60% 이상**을 함께 요구 →
+  요약이 깨진 날은 이후 cron·watchdog이 계속 재시도한다 (수집기 복구 시 자동 반영).
+- 커버리지가 낮으면 페이지 상단에 `.brief-notice` 안내 배너 표시 (제목만 있는 카드가
+  고장으로 보이지 않도록).
+- **폴백 섹션은 커버리지 0으로 집계** — 어제 데이터는 요약이 온전하므로 그대로 세면
+  커버리지가 부풀어 게이트가 꺼지고 묵은 데이터가 굳는다.
+- `main()`의 재생성 가드: 기존 아카이브가 더 완전하면(`read_archive_coverage()` 비교)
+  덮어쓰지 않는다 — 재시도가 하루 중 퇴보한 수집 결과로 좋은 페이지를 지우지 못하게.
 
 **소스 수정 후 오늘자 강제 갱신** (본 레포 워크플로우는 당일 아카이브가 이미 있으면 skip):
 ```bash

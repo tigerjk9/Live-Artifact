@@ -5,7 +5,7 @@
 */
 'use strict';
 
-var CACHE = 'di-v3';
+var CACHE = 'di-v4';
 var BASE  = self.registration.scope; // "https://tigerjk9.github.io/Live-Artifact/"
 
 var PRECACHE = [
