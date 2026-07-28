@@ -147,9 +147,20 @@ cron이 전부 skip해 하루 종일 고착됐다. 이를 막기 위해:
 - `main()`의 재생성 가드: 기존 아카이브가 더 완전하면(`read_archive_coverage()` 비교)
   덮어쓰지 않는다 — 재시도가 하루 중 퇴보한 수집 결과로 좋은 페이지를 지우지 못하게.
 
-**소스 수정 후 오늘자 강제 갱신** (본 레포 워크플로우는 당일 아카이브가 이미 있으면 skip):
+**소스 수정 후 오늘자 강제 갱신** — 요약 장애면 아카이브를 지울 필요가 없다.
+커버리지 게이트가 미완성 아카이브(60% 미만)를 스스로 재시도하므로 수집기만 되살리면 된다:
 ```bash
-# 오늘 아카이브 삭제 → workflow_dispatch 하면 재생성됨
+gh workflow run "Daily News Collection" --repo tigerjk9/Auto-Edu-news-Collector
+gh workflow run "Daily Paper Collection" --repo tigerjk9/Auto-AI-Edu-Paper-Curator
+gh workflow run "Daily News Collection" --repo tigerjk9/Auto-AI-Tech-news-Collector
+# 수집기 완료 후 (cron을 기다려도 되고 즉시 돌려도 된다)
+gh workflow run "Daily News Update" --repo tigerjk9/Live-Artifact
+```
+2026-07-28 실제 복구 경로 — 캡 상향 → 수집기 3개 재실행 → 본 레포 dispatch에서
+`[RUN] ... (기존 AI 요약 4/25 = 16%)`로 게이트 통과 → 25/25(100%) 재생성.
+
+커버리지가 **정상(60%+)인데도** 강제로 다시 만들어야 하면 그때만 아카이브를 지운다:
+```bash
 gh api --method DELETE repos/tigerjk9/Live-Artifact/contents/docs/archive/$(TZ=Asia/Seoul date +%F).html \
   -f message="regenerate" -f sha="<file-sha>" -f branch=main
 gh workflow run "Daily News Update" --repo tigerjk9/Live-Artifact
