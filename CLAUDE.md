@@ -166,6 +166,30 @@ gh api --method DELETE repos/tigerjk9/Live-Artifact/contents/docs/archive/$(TZ=A
 gh workflow run "Daily News Update" --repo tigerjk9/Live-Artifact
 ```
 
+### 워크플로우 게이트의 `bash -e` 함정 (2026-07-29~31 전면 중단)
+
+**증상:** 소스 수집기 3개는 전부 정상인데 본 레포 Actions만 매 실행 `failure`,
+아카이브가 하루도 안 생김. 실패 스텝은 `Check if today already updated`,
+로그에는 스크립트 본문만 에코되고 `Process completed with exit code 1`.
+
+**원인:** Actions의 `run:`은 `bash -e`로 돈다. 커버리지 게이트가 쓰는
+```bash
+COV=$(grep -o '...' "$ARCHIVE" | head -1 | grep -o '[0-9]*/[0-9]*')
+```
+에서 **grep은 매칭 0건이면 exit 1**이고, 이 종료 코드가 그대로 할당문의 종료 코드가 돼
+`-e`가 스텝을 즉사시킨다. 하필 매칭이 0건인 상황이 **"오늘 아카이브가 아직 없다"**
+= 반드시 생성해야 하는 날이라, 게이트가 판정을 내리기도 전에 죽고 이후 생성·커밋
+단계가 전부 `skip != 'true'` 조건에서 스킵된다. 아카이브가 영영 안 생기니
+다음 실행도 똑같이 죽는 **영구 고착**. 2026-07-28 커버리지 게이트 도입 당일은
+아카이브가 이미 있어 통과했고, 다음날부터 터졌다.
+
+**교훈:** 파이프라인 마지막이 `grep`인 명령 치환을 `bash -e` 스텝에서 변수에 대입하지 말 것.
+전부 `|| true`로 막았다 (두 워크플로우의 게이트 + `Validate article counts`의 건수 추출 4곳).
+검증은 반드시 `bash -e script.sh`로 — `bash script.sh`는 셔뱅의 `-e`를 무시해서 재현이 안 된다.
+
+**설계 원칙:** skip 게이트는 **불리언 계산 전용**이며 실행을 실패시키면 안 된다.
+판정이 불가능하면 `skip=false`(=작업 수행)로 폴백하는 것이 안전한 방향이다.
+
 ### 추가 함정 — 소스 레포 로컬 수집 (요약 누락의 또 다른 원인)
 
 카드 설명이 비는 증상은 모델 폐기뿐 아니라 **로컬 수집**으로도 발생한다. 소스 수집기를

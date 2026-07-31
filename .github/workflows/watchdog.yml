@@ -25,7 +25,9 @@ jobs:
           ARCHIVE="docs/archive/${TODAY}.html"
           echo "today=${TODAY}" >> $GITHUB_OUTPUT
           # daily-news-update.yml과 동일한 게이트 — 건수 + 한국어 AI 요약 커버리지
-          COV=$(grep -o 'name="ai-summary-coverage" content="[0-9]*/[0-9]*"' "$ARCHIVE" 2>/dev/null | head -1 | grep -o '[0-9]*/[0-9]*')
+          # `|| true` 필수 — daily-news-update.yml의 동일 주석 참고.
+          # 매칭 0건(아카이브 없음)이면 grep exit 1 → bash -e로 스텝이 죽어 복구가 안 된다.
+          COV=$(grep -o 'name="ai-summary-coverage" content="[0-9]*/[0-9]*"' "$ARCHIVE" 2>/dev/null | head -1 | grep -o '[0-9]*/[0-9]*' || true)
           PCT=0
           if [ -n "$COV" ] && [ "${COV#*/}" -gt 0 ]; then
             PCT=$(( ${COV%/*} * 100 / ${COV#*/} ))

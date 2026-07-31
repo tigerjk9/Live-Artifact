@@ -30,7 +30,10 @@ jobs:
           # 건수만 보면 안 된다: 수집기 Gemini가 죽으면 건수는 정상인데 카드가
           # 제목만 남는다. 그 상태로 skip하면 하루 종일 그대로 고착되므로,
           # 한국어 AI 요약 커버리지도 함께 게이트에 넣어 이후 cron이 재시도하게 한다.
-          COV=$(grep -o 'name="ai-summary-coverage" content="[0-9]*/[0-9]*"' "$ARCHIVE" 2>/dev/null | head -1 | grep -o '[0-9]*/[0-9]*')
+          # `|| true` 필수: grep은 매칭 0건이면 exit 1이고 이 스텝은 bash -e로 돈다.
+          # 아카이브가 아직 없는 날(=반드시 생성해야 하는 날)이 바로 그 경우라,
+          # 없으면 스텝이 죽고 이후 생성 단계가 전부 skip돼 영구 고착된다.
+          COV=$(grep -o 'name="ai-summary-coverage" content="[0-9]*/[0-9]*"' "$ARCHIVE" 2>/dev/null | head -1 | grep -o '[0-9]*/[0-9]*' || true)
           PCT=0
           if [ -n "$COV" ] && [ "${COV#*/}" -gt 0 ]; then
             PCT=$(( ${COV%/*} * 100 / ${COV#*/} ))
@@ -64,15 +67,17 @@ jobs:
         run: |
           TODAY=${{ steps.check.outputs.today }}
           ARCHIVE="docs/archive/${TODAY}.html"
+          # 리포트 전용 단계 — grep 매칭 0건으로 bash -e가 죽어서 커밋 성공한 실행을
+          # failure로 뒤집지 않도록 모든 추출에 `|| true`를 건다.
           if [ -f "$ARCHIVE" ]; then
-            EDU=$(grep -o 'col-count">[^<]*건' "$ARCHIVE" | sed -n '1p' | grep -o '[0-9]*')
-            PAPER=$(grep -o 'col-count">[^<]*건' "$ARCHIVE" | sed -n '2p' | grep -o '[0-9]*')
-            TECH=$(grep -o 'col-count">[^<]*건' "$ARCHIVE" | sed -n '3p' | grep -o '[0-9]*')
+            EDU=$(grep -o 'col-count">[^<]*건' "$ARCHIVE" | sed -n '1p' | grep -o '[0-9]*' || true)
+            PAPER=$(grep -o 'col-count">[^<]*건' "$ARCHIVE" | sed -n '2p' | grep -o '[0-9]*' || true)
+            TECH=$(grep -o 'col-count">[^<]*건' "$ARCHIVE" | sed -n '3p' | grep -o '[0-9]*' || true)
             echo "[RESULT] 교육뉴스=${EDU}건 / AI논문=${PAPER}건 / AI기술=${TECH}건"
             if [ "${EDU:-0}" -eq 0 ] || [ "${PAPER:-0}" -eq 0 ] || [ "${TECH:-0}" -eq 0 ]; then
               echo "::warning::섹션 중 0건이 있습니다 — 다음 실행에서 재시도됩니다 (교육=${EDU} 논문=${PAPER} 기술=${TECH})"
             fi
-            COV=$(grep -o 'name="ai-summary-coverage" content="[0-9]*/[0-9]*"' "$ARCHIVE" | head -1 | grep -o '[0-9]*/[0-9]*')
+            COV=$(grep -o 'name="ai-summary-coverage" content="[0-9]*/[0-9]*"' "$ARCHIVE" | head -1 | grep -o '[0-9]*/[0-9]*' || true)
             if [ -n "$COV" ] && [ "${COV#*/}" -gt 0 ]; then
               PCT=$(( ${COV%/*} * 100 / ${COV#*/} ))
               echo "[RESULT] 한국어 AI 요약 커버리지=${COV} (${PCT}%)"
