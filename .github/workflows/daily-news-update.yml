@@ -1,10 +1,16 @@
 name: Daily News Update
 
 on:
+  # 시각 선정 근거 (2026-07-31 조정):
+  #  1) 소스 수집기보다 늦게 — edu/paper는 ~00:15 UTC, ai-tech는 ~01:10 UTC에 끝난다.
+  #     이전 스케줄(00:30 UTC)은 ai-tech보다 먼저라, 큐 지연이 없었다면 기술 뉴스가
+  #     어제 데이터로 폴백됐을 것이다. 1차를 01:17 UTC로 늦춰 순서를 보장한다.
+  #  2) 정각·30분 회피 — GitHub 무료 러너의 cron 큐는 :00/:30에 가장 혼잡하다.
+  #     (본 레포는 7월 내내 3~4시간 지연됨. 지연 자체는 GitHub 측 사정이라 보장 불가.)
   schedule:
-    - cron: '30 0 * * *'   # 09:30 KST 1차 시도
-    - cron: '0 1 * * *'    # 10:00 KST 2차 시도
-    - cron: '30 1 * * *'   # 10:30 KST 3차 시도
+    - cron: '37 1 * * *'   # 10:37 KST 1차 시도
+    - cron: '13 2 * * *'   # 11:13 KST 2차 시도
+    - cron: '49 2 * * *'   # 11:49 KST 3차 시도
   workflow_dispatch:        # 수동 실행 허용
 
 permissions:
@@ -42,12 +48,18 @@ jobs:
           if [ -n "$COV" ] && [ "${COV#*/}" -gt 0 ]; then
             PCT=$(( ${COV%/*} * 100 / ${COV#*/} ))
           fi
-          if [ -f "$ARCHIVE" ] && grep -q 'class="entry"' "$ARCHIVE" && ! grep -q 'col-count">0건' "$ARCHIVE" && [ "$PCT" -ge 60 ]; then
+          # 폴백 섹션(어제 데이터)이 하나라도 있으면 커버리지와 무관하게 재시도한다.
+          # 커버리지만으로는 못 막는다: ai-tech(10건)만 폴백되면 fresh 15/25 = 정확히 60%라
+          # `-ge 60` 게이트를 아슬아슬하게 통과해 묵은 기술 뉴스가 하루 종일 굳는다.
+          # 폴백 섹션은 건수 라벨이 `10건 (7/30)` 형태라 괄호로 판별한다.
+          FALLBACK=no
+          grep -q 'col-count">[^<]*(' "$ARCHIVE" 2>/dev/null && FALLBACK=yes
+          if [ -f "$ARCHIVE" ] && grep -q 'class="entry"' "$ARCHIVE" && ! grep -q 'col-count">0건' "$ARCHIVE" && [ "$PCT" -ge 60 ] && [ "$FALLBACK" = "no" ]; then
             echo "skip=true" >> $GITHUB_OUTPUT
             echo "[SKIP] ${TODAY} 아카이브 이미 완료 (AI 요약 ${COV:-?} = ${PCT}%) — 이후 단계 건너뜀"
           else
             echo "skip=false" >> $GITHUB_OUTPUT
-            echo "[RUN] ${TODAY} 데이터 생성 시작 (기존 AI 요약 ${COV:-없음} = ${PCT}%)"
+            echo "[RUN] ${TODAY} 데이터 생성 시작 (기존 AI 요약 ${COV:-없음} = ${PCT}%, 폴백 섹션=${FALLBACK})"
           fi
 
       - name: Set up Python 3.11

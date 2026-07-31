@@ -26,8 +26,8 @@ GitHub Actions (cron: 10:00 KST)
 ```
 Live-Artifact/
 ├── .github/workflows/
-│   ├── daily-news-update.yml     # cron 3회(09:30/10:00/10:30 KST) + workflow_dispatch
-│   ├── watchdog.yml              # 11:00 KST — 오늘 아카이브 없으면 직접 실행 (복구)
+│   ├── daily-news-update.yml     # cron 3회(10:37/11:13/11:49 KST) + workflow_dispatch
+│   ├── watchdog.yml              # 12:29 KST — 오늘 아카이브 없으면 직접 실행 (복구)
 │   └── keepalive.yml             # 일요일 00:00 KST — 빈 커밋으로 스케줄러 활성 유지
 ├── docs/
 │   ├── index.html                # 오늘 브리핑 (자동 갱신)
@@ -165,6 +165,29 @@ gh api --method DELETE repos/tigerjk9/Live-Artifact/contents/docs/archive/$(TZ=A
   -f message="regenerate" -f sha="<file-sha>" -f branch=main
 gh workflow run "Daily News Update" --repo tigerjk9/Live-Artifact
 ```
+
+### 스케줄 설계 근거 (2026-07-31 조정)
+
+소스 수집기 cron은 23:20 UTC(edu·paper) / 23:40 UTC(ai-tech)이고, 실제 데이터 커밋은
+**edu·paper ~00:18 UTC, ai-tech ~01:17 UTC**에 떨어진다(관측 최악값). 본 레포의 이전
+1차 cron은 00:30 UTC라 **ai-tech보다 먼저** 돌 수 있었다 — 지금은 GitHub cron 큐 지연
+(7월 내내 매일 3~4시간)에 가려져 있었을 뿐이다. 그래서 1차를 01:37 UTC(10:37 KST)로
+늦추고, 큐가 가장 혼잡한 정각·30분을 피해 분을 배치했다(지연 자체는 GitHub 사정이라 보장 불가).
+
+### 폴백 섹션 = 60% 경계 함정 (커버리지만으로는 못 막는다)
+
+`ai-tech`(10건)만 폴백되고 edu(10)·paper(5)가 정상이면 fresh 커버리지가
+**15/25 = 정확히 60%** — `-ge 60` 게이트를 아슬아슬하게 통과해 **묵은 기술 뉴스가
+하루 종일 굳는다**. 섹션 건수(10/5/10)가 하필 경계에 딱 걸린다.
+
+그래서 두 워크플로우 게이트에 **폴백 섹션 검사**를 추가했다. 폴백 섹션은 건수 라벨이
+`10건 (7/30)` 형태이므로 괄호로 판별한다:
+```bash
+FALLBACK=no
+grep -q 'col-count">[^<]*(' "$ARCHIVE" 2>/dev/null && FALLBACK=yes
+# ... && [ "$PCT" -ge 60 ] && [ "$FALLBACK" = "no" ]
+```
+폴백이 하나라도 있으면 커버리지와 무관하게 재시도한다.
 
 ### 워크플로우 게이트의 `bash -e` 함정 (2026-07-29~31 전면 중단)
 
