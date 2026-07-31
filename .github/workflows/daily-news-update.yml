@@ -21,8 +21,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # 이 스텝은 불리언 계산 전용이며 실행을 막아서는 안 된다. 어떤 이유로든 죽으면
+      # skip 출력이 비어 `skip != 'true'`가 참이 되므로 생성 단계가 그대로 진행된다
+      # (판정 불가 → 작업 수행 쪽으로 폴백). 2026-07-29~31 전면 중단 재발 방지.
       - name: Check if today already updated
         id: check
+        continue-on-error: true
         run: |
           TODAY=$(TZ=Asia/Seoul date +%Y-%m-%d)
           ARCHIVE="docs/archive/${TODAY}.html"
@@ -65,7 +69,9 @@ jobs:
       - name: Validate article counts
         if: steps.check.outputs.skip != 'true'
         run: |
-          TODAY=${{ steps.check.outputs.today }}
+          # check 스텝이 죽었으면 출력이 비므로 여기서 다시 계산한다.
+          TODAY="${{ steps.check.outputs.today }}"
+          [ -n "$TODAY" ] || TODAY=$(TZ=Asia/Seoul date +%Y-%m-%d)
           ARCHIVE="docs/archive/${TODAY}.html"
           # 리포트 전용 단계 — grep 매칭 0건으로 bash -e가 죽어서 커밋 성공한 실행을
           # failure로 뒤집지 않도록 모든 추출에 `|| true`를 건다.

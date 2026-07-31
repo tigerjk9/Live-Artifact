@@ -18,8 +18,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # 판정 불가 시 복구를 막지 않도록 — daily-news-update.yml의 동일 주석 참고.
       - name: Check if today already updated
         id: check
+        continue-on-error: true
         run: |
           TODAY=$(TZ=Asia/Seoul date +%Y-%m-%d)
           ARCHIVE="docs/archive/${TODAY}.html"
