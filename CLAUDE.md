@@ -102,7 +102,9 @@ python scripts/fetch_and_generate.py                  # 오늘(폴백 허용) + 
       enrich      Gemini 주제 보정+논문 한국어 제목   summaries  요약 없는 항목 제목 기반 요약 (2026-03~04 공백)
       weekly-backfill  끝난 모든 주 다이제스트     og-all  OG 전부 재렌더     rebuild  아카이브 전부 재렌더
 ```
-유지보수 작업은 영향 범위의 아카이브·OG·색인·피드·index.html을 함께 다시 만든다. Gemini가 필요한 작업(enrich·summaries·weekly-backfill)은
+유지보수 작업은 영향 범위의 아카이브·OG·색인·피드·index.html을 함께 다시 만든다.
+**Maintenance는 한 번에 하나씩 띄운다** — 일일·유지보수 워크플로우가 같은 concurrency 그룹(`live-artifact-write`)이라
+실행 중 1개 + 대기 1개만 유지되고, 대기 중에 또 띄우면 먼저 대기하던 실행이 `cancelled`된다 (2026-11-02 summaries 실행이 이렇게 취소됨). Gemini가 필요한 작업(enrich·summaries·weekly-backfill)은
 키가 있는 Actions(`maintenance.yml`)에서 돌린다 — 로컬에는 키가 없다.
 
 ### main() 흐름
