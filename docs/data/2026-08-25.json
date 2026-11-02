@@ -75,7 +75,7 @@
     "source": "피앤피뉴스",
     "published": "2026-08-24",
     "keyword": "에듀테크",
-    "topic": "classroom",
+    "topic": "policy",
     "kind": null,
     "entities": [],
     "summary": "2026 에듀플러스위크 AI 미래교육 국제포럼에서 세계 AI 교육정책의 현주소를 다룰 예정입니다.",
@@ -405,7 +405,8 @@
     "entities": [],
     "summary": "기업 AI 활용이 보조 단계를 넘어 실제 실행으로 확장되면서, AI 솔루션의 고도화와 산업 전반의 생산성 혁신이 가속화될 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-08-23"
    }
   ]
  },

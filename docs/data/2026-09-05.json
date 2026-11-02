@@ -137,7 +137,7 @@
     "source": "한국시사경제",
     "published": "2026-09-04",
     "keyword": "교육정책",
-    "topic": "global",
+    "topic": "policy",
     "kind": null,
     "entities": [
      "울산시교육청"
@@ -330,7 +330,8 @@
      "LG",
      "NVIDIA",
      "Google",
-     "Amazon"
+     "Amazon",
+     "Microsoft"
     ],
     "summary": "LG 스파크에 글로벌 빅테크 기업들이 참여함으로써, LG가 AI 기술 생태계의 주요 허브로 부상하며 산업 전반의 기술 융합과 협력 가속화를 이끌 것입니다.",
     "implication": "",
@@ -350,7 +351,8 @@
     ],
     "summary": "비기술 산업의 AI 거버넌스 및 스케일링 사례는 AI 기술의 전방위적 확산과 책임 있는 기업 도입 모델 구축의 중요성을 보여줄 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-09-02"
    },
    {
     "n": 7,
@@ -401,7 +403,8 @@
     ],
     "summary": "생성형 AI는 작업 시간을 획기적으로 단축하여 전 산업의 업무 효율을 극대화하고 생산성 혁신을 가속화할 핵심 동력입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-09-03"
    },
    {
     "n": 10,
@@ -417,7 +420,8 @@
     ],
     "summary": "AI는 비판적 사고와 결합할 때 인간 역량을 증강시키는 핵심 도구로 자리매김하며 AI 산업의 새로운 발전 방향을 제시할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-09-04"
    }
   ]
  },

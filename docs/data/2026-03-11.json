@@ -251,9 +251,11 @@
     "source": "AI Times",
     "published": "2026-03-10",
     "keyword": "",
-    "topic": "agent_dev",
+    "topic": "industry",
     "kind": null,
-    "entities": [],
+    "entities": [
+     "GPU·데이터센터"
+    ],
     "summary": "오토리서치는 AI가 스스로 실험하며 모델을 개선하는 자율 ML 연구 시대를 앞당겨, AI 개발 생산성 혁신을 가속화할 것입니다.",
     "implication": "",
     "ai": true
@@ -319,7 +321,9 @@
     "keyword": "",
     "topic": "model",
     "kind": null,
-    "entities": [],
+    "entities": [
+     "LLM"
+    ],
     "summary": "LLM의 발전은 익명성을 심각하게 위협하며, 데이터 보안 및 프라이버시 강화 기술 개발의 시급성을 보여줍니다.",
     "implication": "",
     "ai": true
@@ -333,7 +337,10 @@
     "keyword": "AI모델",
     "topic": "model",
     "kind": null,
-    "entities": [],
+    "entities": [
+     "Meta",
+     "Alibaba"
+    ],
     "summary": "Llama와 Qwen의 유사성 증가는 AI 모델 발전 방향의 수렴을 가속화하여, 특정 구조와 기능이 효율적인 지능 형태로 자리 잡을 가능성을 시사합니다.",
     "implication": "",
     "ai": true

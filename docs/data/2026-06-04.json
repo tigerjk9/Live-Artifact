@@ -17,7 +17,8 @@
     ],
     "summary": "AI 에이전트의 시대에 비즈니스 인텔리전스(BI)는 사라지는 것이 아니라 더욱 발전하며 진화할 것이라는 내용입니다.",
     "implication": "AI 시대에 학생들이 새로운 기술이 기존 역량을 대체하기보다 진화시키는 도구임을 이해하도록 지도할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-06-03"
    },
    {
     "n": 2,
@@ -125,12 +126,13 @@
     "source": "기호일보",
     "published": "2026-06-03",
     "keyword": "교육정책",
-    "topic": "classroom",
+    "topic": "policy",
     "kind": null,
     "entities": [],
     "summary": "경기도 국민안전체험관과 수원대가 안전문화 확산 및 교육정책 교류를 위해 협력합니다.",
     "implication": "이 협력으로 경기도 국민안전체험관의 체험형 안전교육 프로그램을 수업에 적극 활용할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-06-03"
    },
    {
     "n": 9,
@@ -161,7 +163,8 @@
     ],
     "summary": "경기도교육청특수교육원이 학교로 찾아가는 행동중재 연수를 운영합니다.",
     "implication": "학교 현장에서 학생 행동 지도에 필요한 맞춤형 연수를 직접 받을 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-06-03"
    }
   ],
   "paper": [
@@ -269,7 +272,8 @@
     ],
     "summary": "AI 오용 방어 기술 개발은 AI 신뢰성 확보의 필수 요소이며, 이는 전체 AI 산업 생태계 성장의 핵심 동력이 될 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-06-03"
    },
    {
     "n": 2,
@@ -287,7 +291,8 @@
     ],
     "summary": "Anthropic의 1조 달러 평가는 AI 산업의 경쟁 심화와 차별화된 AI 모델의 막대한 성장 잠재력을 보여줄 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-06-01"
    },
    {
     "n": 3,
@@ -320,7 +325,8 @@
     ],
     "summary": "엔비디아의 가상 세계는 AI 개발 및 시뮬레이션의 핵심 인프라로, 전 산업 분야의 AI 기술 발전과 적용을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-06-03"
    },
    {
     "n": 5,
@@ -415,7 +421,7 @@
     "source": "네이트",
     "published": "2026-06-03",
     "keyword": "GPT",
-    "topic": "product",
+    "topic": "model",
     "kind": null,
     "entities": [
      "OpenAI",

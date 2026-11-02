@@ -70,14 +70,15 @@
     "source": "아시아뉴스통신",
     "published": "2026-08-07",
     "keyword": "생성형AI교육",
-    "topic": "ai_digital",
+    "topic": "policy",
     "kind": null,
     "entities": [
      "전북교육청"
     ],
     "summary": "전북교육청은 인공지능을 활용하여 전국 교육정책 동향을 신속하게 파악합니다.",
     "implication": "교육청의 AI 정책 분석으로 최신 교육 동향 정보를 더 빠르게 파악하여 수업에 활용할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-08-07"
    },
    {
     "n": 6,
@@ -255,7 +256,7 @@
     "source": "AI Times",
     "published": "2026-08-08",
     "keyword": "",
-    "topic": "product",
+    "topic": "model",
     "kind": null,
     "entities": [
      "ChatGPT",
@@ -411,7 +412,8 @@
     ],
     "summary": "GPT-5.6의 가격 대비 성능 향상은 AI 기술의 대중화를 이끌어 산업 전반의 혁신을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-08-05"
    }
   ]
  },

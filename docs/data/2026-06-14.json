@@ -295,7 +295,8 @@
     ],
     "summary": "GPT-5.5의 역대급 벤치마크 1위는 OpenAI의 기술 리더십을 재확인하며 AI 기술 생태계 전반의 성능 상향 평준화를 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-06-13"
    },
    {
     "n": 4,
@@ -363,7 +364,8 @@
     ],
     "summary": "Google AI Studio를 활용한 'vibe coded' 퀴즈는 AI 개발 플랫폼이 미래 지향적 사용자 경험 콘텐츠 제작의 핵심 도구로 부상하고 있음을 시사합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-06-13"
    },
    {
     "n": 8,

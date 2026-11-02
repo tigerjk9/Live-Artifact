@@ -24,7 +24,7 @@
     "source": "동아일보",
     "published": "2026-04-01",
     "keyword": "AI교육",
-    "topic": "higher_ed",
+    "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
     "summary": "",
@@ -98,7 +98,7 @@
     "source": "truthdaily.co.kr",
     "published": "2026-04-01",
     "keyword": "교육혁신",
-    "topic": "classroom",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "경기도교육청"
@@ -114,7 +114,7 @@
     "source": "gosiweek.com",
     "published": "2026-04-01",
     "keyword": "디지털교육",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "KERIS"
@@ -378,7 +378,7 @@
     "source": "v.daum.net",
     "published": "2026-04-01",
     "keyword": "GPT",
-    "topic": "industry",
+    "topic": "model",
     "kind": null,
     "entities": [
      "ChatGPT"

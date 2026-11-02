@@ -1,0 +1,387 @@
+{
+ "key": "2025-W49",
+ "label": "2025년 12월 1일 ~ 7일",
+ "dates": [
+  "2025-12-01",
+  "2025-12-02",
+  "2025-12-03",
+  "2025-12-04",
+  "2025-12-05",
+  "2025-12-06",
+  "2025-12-07"
+ ],
+ "days_present": 7,
+ "counts": {
+  "edu": 68,
+  "paper": 25,
+  "tech": 50
+ },
+ "total": 143,
+ "prev_total": 137,
+ "top_entities": [
+  {
+   "name": "개인화 학습",
+   "kind": "tech",
+   "n": 14,
+   "delta": 5
+  },
+  {
+   "name": "경기도교육청",
+   "kind": "edu_org",
+   "n": 11,
+   "delta": 2
+  },
+  {
+   "name": "LLM",
+   "kind": "tech",
+   "n": 10,
+   "delta": 2
+  },
+  {
+   "name": "ChatGPT",
+   "kind": "model",
+   "n": 9,
+   "delta": -11
+  },
+  {
+   "name": "OpenAI",
+   "kind": "org",
+   "n": 8,
+   "delta": 2
+  },
+  {
+   "name": "AI 안전·규제",
+   "kind": "tech",
+   "n": 7,
+   "delta": 2
+  },
+  {
+   "name": "Anthropic",
+   "kind": "org",
+   "n": 7,
+   "delta": 5
+  },
+  {
+   "name": "에이전트",
+   "kind": "tech",
+   "n": 7,
+   "delta": 1
+  },
+  {
+   "name": "교육부",
+   "kind": "edu_org",
+   "n": 6,
+   "delta": -7
+  },
+  {
+   "name": "Gemini",
+   "kind": "model",
+   "n": 6,
+   "delta": 0
+  },
+  {
+   "name": "코딩 AI",
+   "kind": "tech",
+   "n": 4,
+   "delta": 1
+  },
+  {
+   "name": "Google",
+   "kind": "org",
+   "n": 4,
+   "delta": -5
+  }
+ ],
+ "rising": [
+  {
+   "name": "개인화 학습",
+   "kind": "tech",
+   "n": 14,
+   "delta": 5
+  },
+  {
+   "name": "Anthropic",
+   "kind": "org",
+   "n": 7,
+   "delta": 5
+  }
+ ],
+ "topic_share": {
+  "edu": [
+   {
+    "id": "ai_digital",
+    "label": "AI·디지털교육",
+    "n": 28,
+    "pct": 41,
+    "delta": 0
+   },
+   {
+    "id": "classroom",
+    "label": "수업·교육과정",
+    "n": 11,
+    "pct": 16,
+    "delta": -3
+   },
+   {
+    "id": "policy",
+    "label": "정책·행정",
+    "n": 11,
+    "pct": 16,
+    "delta": -8
+   },
+   {
+    "id": "global",
+    "label": "해외·연구",
+    "n": 8,
+    "pct": 12,
+    "delta": 12
+   },
+   {
+    "id": "student_care",
+    "label": "학생·돌봄·안전",
+    "n": 4,
+    "pct": 6,
+    "delta": 6
+   },
+   {
+    "id": "higher_ed",
+    "label": "대학·입시·평생",
+    "n": 4,
+    "pct": 6,
+    "delta": 0
+   },
+   {
+    "id": "teacher",
+    "label": "교사·교권",
+    "n": 2,
+    "pct": 3,
+    "delta": -7
+   }
+  ],
+  "paper": [
+   {
+    "id": "personalized",
+    "label": "개인화·학습분석",
+    "n": 8,
+    "pct": 32,
+    "delta": 20
+   },
+   {
+    "id": "design_curric",
+    "label": "교수설계·교육과정",
+    "n": 5,
+    "pct": 20,
+    "delta": -16
+   },
+   {
+    "id": "assessment",
+    "label": "평가·피드백",
+    "n": 4,
+    "pct": 16,
+    "delta": 12
+   },
+   {
+    "id": "genai_tutor",
+    "label": "생성형 AI·튜터",
+    "n": 3,
+    "pct": 12,
+    "delta": -16
+   },
+   {
+    "id": "stem_ct",
+    "label": "컴퓨팅·STEM",
+    "n": 2,
+    "pct": 8,
+    "delta": -4
+   },
+   {
+    "id": "learning_sci",
+    "label": "학습과학·인지",
+    "n": 1,
+    "pct": 4,
+    "delta": 4
+   },
+   {
+    "id": "literacy_ethics",
+    "label": "AI 리터러시·윤리",
+    "n": 1,
+    "pct": 4,
+    "delta": 4
+   },
+   {
+    "id": "teacher_pd",
+    "label": "교사 전문성",
+    "n": 1,
+    "pct": 4,
+    "delta": 0
+   }
+  ],
+  "tech": [
+   {
+    "id": "model",
+    "label": "모델·연구",
+    "n": 17,
+    "pct": 34,
+    "delta": -5
+   },
+   {
+    "id": "industry",
+    "label": "산업·투자·인프라",
+    "n": 10,
+    "pct": 20,
+    "delta": 2
+   },
+   {
+    "id": "agent_dev",
+    "label": "에이전트·개발도구",
+    "n": 7,
+    "pct": 14,
+    "delta": 7
+   },
+   {
+    "id": "policy_safety",
+    "label": "정책·윤리·안전",
+    "n": 5,
+    "pct": 10,
+    "delta": 1
+   },
+   {
+    "id": "product",
+    "label": "제품·서비스",
+    "n": 5,
+    "pct": 10,
+    "delta": -6
+   },
+   {
+    "id": "usecase",
+    "label": "활용·사례",
+    "n": 3,
+    "pct": 6,
+    "delta": 1
+   },
+   {
+    "id": "edu_ai",
+    "label": "교육 AI",
+    "n": 3,
+    "pct": 6,
+    "delta": -1
+   }
+  ]
+ },
+ "daily": [
+  {
+   "d": "2025-12-01",
+   "n": 25,
+   "head": "AI 활용 및 부정행위 방지, 미래 교육 시스템 구축, 뇌과학 기반 학습법 도입 등 교육 혁신을 통해 미래 인재 양성을 위한 긍정적인 변화가 가속화되고 있다.",
+   "src": "note"
+  },
+  {
+   "d": "2025-12-02",
+   "n": 25,
+   "head": "AI와 뇌과학에 대한 관심이 높아지는 가운데, 교육 현장에서는 개방형 교육과정, 디지털 전환, 인문학적 소양 함양 등을 통해 미래 인재 육성을 위한 혁신적인 변화를 적극적으로 모색하고 있다.",
+   "src": "note"
+  },
+  {
+   "d": "2025-12-03",
+   "n": 25,
+   "head": "AI 시대, 디지털 기반 교육 환경 조성과 미래 교육 ODA 확대 속에 고교학점제 및 유아교육 공공성 강화 논의가 활발하며, 프롬프트 리터러시 교육의 중요성이 부각되는 등 교육 혁신을 위한 다각적인 노력이 이루어지고 있다.",
+   "src": "note"
+  },
+  {
+   "d": "2025-12-04",
+   "n": 25,
+   "head": "인공지능(AI)과 뇌과학을 융합하여 교육 혁신을 모색하고, 예술치료 및 잠재력 중심 교육을 통해 미래 사회에 필요한 역량을 키우는 긍정적인 변화가 교육 현장에서 가속화되고 있다.",
+   "src": "note"
+  },
+  {
+   "d": "2025-12-05",
+   "n": 25,
+   "head": "AI 시대에 발맞춰 인재 양성을 강조하고, 디지털 교육과 에듀테크를 적극적으로 도입하여 미래 교육 모델을 구축하려는 움직임이 활발하게 진행 중이다.",
+   "src": "note"
+  },
+  {
+   "d": "2025-12-06",
+   "n": 10,
+   "head": "AI 기술을 교육에 적극적으로 도입하고, 미래 교육 혁신을 위한 대학들의 노력이 가속화되는 가운데, 융합적 사고와 특수 교육 지원 강화의 중요성이 부각되며 교육의 미래를 향한 변화가 빠르게 진행되고 있다.",
+   "src": "note"
+  },
+  {
+   "d": "2025-12-07",
+   "n": 10,
+   "head": "AI 기반 맞춤형 교육, IB 교육과정 도입, 에듀테크 활용, 글로벌 교육 교류 확대 등 교육 혁신을 통해 미래 사회를 준비하는 움직임이 활발하게 나타나고 있다.",
+   "src": "note"
+  }
+ ],
+ "picks": {
+  "edu": [
+   {
+    "d": "2025-12-05",
+    "n": 6,
+    "t": "경기교육청, AI·에듀테크 앞세운 디지털교육 전국 최고 입증",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yMGtRZmo0MjAzSUlxNk9OWl9wX1NFUC1TVEthc01iSmhKZzExdDRYRnhheV9GZlNCNDNJRlBtTHlCMDFvWURtYWhBNXNQMjNJTzMtbVd1UUk0ZW13UG80VQ?oc=5",
+    "src": "네이트"
+   },
+   {
+    "d": "2025-12-07",
+    "n": 2,
+    "t": "경기도교육청-에코힐링팜, AI 기반 맞춤형 건강증진 프로그램 '호평'",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qazhXcUw0WDBucFlGWC14ZVFBbzdDMFA5Qm52LUtRTFdfRVc3NDJKVndCTGpWNjlyVHNDZ2tvMUNIN3VGc29rUFc4UlNIdWJyZ29KUE5TSWdjUQ?oc=5",
+    "src": "데일리엔뉴스"
+   },
+   {
+    "d": "2025-12-01",
+    "n": 9,
+    "t": "‘고교학점제’의 성공을 기원하며",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmVFVkTUJVMnhjTEtYeWdGZGt3R2dhVVdRbXlnQ1RQbnl4THRHMnZlTGlzSm45czJrdFFSa04xTno3VXRKZ18xVGxHcndGVldiYUIwYUMwYUE1VjVPZHBWWHFQY08yYlktM0Fn0gFvQVVfeXFMTW0yN2c4bk9mcUdZX1pqODZweXVBQU1GUm5JUFZPWGhmc2dNWDUycVFtbmsySHl1MWVwTmREdjYzOTFXUVowY1l3WkZhcUJ1RUJBa1l5aUg0V2IxWWxfam9LN3RuLUFyeTdqV01LTnJJ?oc=5",
+    "src": "교육언론[창]"
+   }
+  ],
+  "paper": [
+   {
+    "d": "2025-12-03",
+    "n": 5,
+    "t": "Tracing Mathematical Proficiency Through Problem-Solving Processes",
+    "url": "http://arxiv.org/abs/2512.00311v1",
+    "src": ""
+   },
+   {
+    "d": "2025-12-02",
+    "n": 1,
+    "t": "A hybrid teaching factory model towards personalized education 4.0",
+    "url": "https://www.semanticscholar.org/paper/706796ba1abfe24796f4031129f4a7ddec4025ca",
+    "src": "semantic_scholar"
+   },
+   {
+    "d": "2025-12-02",
+    "n": 2,
+    "t": "Using an adaptive learning tool to improve student performance and satisfaction in online and face-to-face education for a more personalized approach",
+    "url": "https://www.semanticscholar.org/paper/0937113c16be93e9414e9a5e8b698e06b36f293a",
+    "src": "semantic_scholar"
+   }
+  ],
+  "tech": [
+   {
+    "d": "2025-12-03",
+    "n": 7,
+    "t": "[구글, '당신을 더 잘 아는 AI'로 검색의 미래를 그리다. 개인화된 Gemini AI, 혁신과 감시의 경계에 서다] AI가 개인 데이터를 학습할수록, 유용한 서비스와 침해적 감시의 경계가 모호해질 가능성",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBQV2UtV1BjQUhoODR5Snk0dWRlblFoeEw4bnEtMTZzbGZMNGZpTi1CdkEzSVl1dmFBdUpxTDZBZ0E?oc=5",
+    "src": "AI넷"
+   },
+   {
+    "d": "2025-12-01",
+    "n": 7,
+    "t": "GPT-5 generates the \"most impressive LLM output\" yet, says OpenAI researcher",
+    "url": "https://the-decoder.com/gpt-5-generates-the-most-impressive-llm-output-yet-says-openai-researcher/",
+    "src": "The Decoder"
+   },
+   {
+    "d": "2025-12-03",
+    "n": 9,
+    "t": "구글 '제미나이3'에 챗GPT 아성 흔들…알트만 CEO, 전 직원에게 '코드 레드' 선언",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVRzJNbDF2cHNyTkI1aDhDY2ZUckdEUFN6WDc3TmFrZ0tUNmdxWTNxMW1BY29HSHUzckV0RWRsaVJRa1Y5dXJNUnctelp3NjJqLXQxcFBoaWh3VENJbDFRcTUxNi02cUNTbVB4QVBn0gFyQVVfeXFMTmF5clJDeGdhajE5Y3Jsd2h5dm5pLTczc3VZX2Y3UUxlVnVyR1JqdVVYOXJXRWJUbExQb2xJSGU0N2VxMWNVbGdhZkprT1RlNENkTHA3YmRPYWxsdDdtMUNVNDJIQmJHSEs1RVNhLVZLV2lR?oc=5",
+    "src": "AI포스트"
+   }
+  ]
+ },
+ "generated_at": "2026-11-02T13:16:18+09:00"
+}

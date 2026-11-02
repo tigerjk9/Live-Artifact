@@ -9,7 +9,7 @@ GitHub Actions + GitHub Pages만으로 운영되는 AI·교육 일일 뉴스 포
 ## 아키텍처
 
 ```
-GitHub Actions (cron: 10:37/11:13/11:49 KST, watchdog 12:29)
+GitHub Actions (cron: 10:37/11:13/11:49 KST, watchdog 12:29, maintenance 수동)
     └─ scripts/fetch_and_generate.py
             ├─ tigerjk9/Auto-Edu-news-Collector     → education_news_{YYYYMMDD}.json + _newsletter.txt
             ├─ tigerjk9/Auto-AI-Edu-Paper-Curator   → ai_edu_papers_{YYYYMMDD}.json + .txt
@@ -19,8 +19,9 @@ GitHub Actions (cron: 10:37/11:13/11:49 KST, watchdog 12:29)
             docs/data/index.json           ← 날짜별 집계 (흐름·아카이브 페이지 재료)
             docs/data/search.json          ← 전 기간 제목 색인
                     ↓ insights.compute_board / render_board (+ synthesis.synthesize, 선택)
-            docs/index.html (오늘) · docs/archive/YYYY-MM-DD.html (영구)
-            docs/archive/index.html · docs/trends.html (정적 셸 — JS가 data/*.json 로드)
+            docs/index.html (오늘) · docs/archive/YYYY-MM-DD.html (영구) · docs/og/YYYY-MM-DD.jpg
+            docs/archive/index.html · docs/trends.html · docs/entity.html (정적 셸 — JS가 data/*.json 로드)
+            docs/weekly/*.html (weekly.py) · docs/feed.xml · docs/feed.json (feeds.py)
 ```
 
 ## 파일 구조
@@ -30,25 +31,43 @@ Live-Artifact/
 ├── .github/workflows/
 │   ├── daily-news-update.yml     # cron 3회 + workflow_dispatch (env: NEWS_TOKEN, GEMINI_API_KEY)
 │   ├── watchdog.yml              # 12:29 KST — 오늘 아카이브 없거나 미완성이면 직접 실행
+│   ├── maintenance.yml           # 수동 — enrich/summaries/weekly-backfill/mark-dups/reclassify/og-all/rebuild
+│   ├── ci.yml                    # push/PR — pytest
 │   └── keepalive.yml             # 일요일 00:00 KST — 빈 커밋으로 스케줄러 활성 유지
 ├── docs/
 │   ├── index.html                # 오늘 브리핑 (자동 갱신)
 │   ├── trends.html               # 흐름 페이지 (정적 셸 + trends.js)
+│   ├── entity.html               # 주체 페이지 (정적 셸 + entity.js, ?e=이름)
+│   ├── weekly/                   # 주간 다이제스트 (index.html + YYYY-Www.html, weekly.py가 생성)
+│   ├── og/                       # 날짜별 OG 이미지 JPEG (render_og.py)
+│   ├── feed.xml · feed.json      # RSS 2.0 · JSON Feed (최근 30일)
 │   ├── _template.html            # 일일 페이지 템플릿
-│   ├── sw.js                     # Service Worker (cache: di-v6)
+│   ├── _weekly_template.html     # 주간 페이지 템플릿
+│   ├── _og_template.html         # OG 카드 템플릿
+│   ├── sw.js                     # Service Worker (cache: di-v7)
 │   ├── archive/index.html        # 전체 아카이브 (정적 셸 + archive.js)
 │   ├── archive/YYYY-MM-DD.html   # 날짜별 페이지 — 레코드에서 재생성 가능
 │   ├── data/                     # ★ 원천 데이터 계층
+│   │   ├── YYYY-MM-DD.json · index.json · health.json
+│   │   ├── search/YYYY-MM.json   # 월별 검색 색인 (제목+요약) + index.json
+│   │   ├── entities.json · entity/{slug}.json
+│   │   └── weekly/YYYY-Www.json
 │   └── assets/
 │       ├── style.css             # Front Page v5 — 토큰(종이·잉크·섹션색) + 컴포넌트, 단일 파일
 │       ├── app.js                # 공통 + 일일 페이지 (v7)
-│       ├── archive.js · trends.js
+│       ├── archive.js · trends.js · entity.js
 │       ├── manifest.json · dates.json · facilitator.png · og-image.jpg
 └── scripts/
     ├── fetch_and_generate.py     # 진입점: 페치·파싱·레코드 빌드·렌더·CLI
     ├── taxonomy.py               # 주제 규칙(TOPICS) · 주체 사전(ENTITIES) · BRIDGES
-    ├── insights.py               # load/save_day · build_index/search · compute_board · render_board
-    └── synthesis.py              # Gemini REST 종합 (GEMINI_API_KEY 있을 때만)
+    ├── insights.py               # load/save_day · build_index/search/entity_index · compute_board · render_board
+    ├── synthesis.py              # Gemini 종합 (헤드라인·흐름 3개·교실 제안)
+    ├── enrich.py                 # Gemini 항목 보강 (주제 보정·논문 한국어 제목·요약 백필)
+    ├── weekly.py                 # 주간 다이제스트 데이터·Gemini 주간 종합·렌더
+    ├── feeds.py                  # feed.xml / feed.json
+    ├── render_og.py              # OG 이미지 (Playwright)
+    └── healthcheck.py            # 운영 경보 판정 → data/health.json, 종료코드 2면 이슈
+tests/                            # pytest (ci.yml)
 ```
 
 ## 데이터 계약 — `docs/data/YYYY-MM-DD.json`
@@ -60,10 +79,13 @@ Live-Artifact/
  "notes": {"edu": "수집기 한 줄 요약"},        // 구포맷 뉴스레터(2025-11~2026-03)에서 수확
  "synthesis": {"headline","threads","classroom","model","items_hash"}}   // Gemini (선택)
 item = {n, title, url, source, published(YYYY-MM-DD), keyword, topic, kind, entities[],
-        summary, implication, ai(bool), [authors, pdf]}
+        summary, implication, ai(bool), [authors, pdf],
+        선택: dup_of(전날 지면 날짜), title_ko, topic_src="ai"+topic_rule, summary_src="ai-backfill"}
+record 선택 키: enrich {hash, model, topics, title_ko, summaries}
 ```
 - `topic`은 `taxonomy.classify(section, title, summary)` — 섹션별 id (`policy`, `genai_tutor`, `industry` …). 라벨은 `topic_label()`.
 - `ai`는 한국어 요약 20자 이상 여부 → 커버리지 게이트의 분자. 폴백 섹션은 `record_ai_count(fresh_only=True)`에서 0으로 센다.
+- `dup_of`가 있는 항목은 지면에 "M/D 실림" 표시로 남되 `index_entry`·`compute_board`·주체 색인·주간 집계에서 빠진다 (`insights.is_dup`).
 - `index.json`의 `days[]` 항목: `{d, n{edu,paper,tech}, ai, fb[], topics{sec:{topic:n}}, ents{name:n}(상위 20), kinds, srcs{"sec:출처":n}, head, head_src}`.
 
 ## fetch_and_generate.py 핵심 구조
@@ -75,14 +97,22 @@ python scripts/fetch_and_generate.py                  # 오늘(폴백 허용) + 
   --backfill-all       소스 레포 디렉터리 목록 기준 전 기간 누락 레코드 복구 (오늘 제외)
   --rebuild-archives   data/ 전체를 현재 템플릿으로 다시 렌더 (템플릿·CSS 구조 바꾼 날)
   --no-fetch           기존 레코드로 렌더만    --no-synthesis  Gemini 생략
+  --task NAME [--from D --to D]   유지보수 (오늘 생성 대신; maintenance.yml이 호출)
+      mark-dups   전날 중복 표시            reclassify  규칙만 다시 적용 (재페치 없음, Gemini 주제는 유지)
+      enrich      Gemini 주제 보정+논문 한국어 제목   summaries  요약 없는 항목 제목 기반 요약 (2026-03~04 공백)
+      weekly-backfill  끝난 모든 주 다이제스트     og-all  OG 전부 재렌더     rebuild  아카이브 전부 재렌더
 ```
+유지보수 작업은 영향 범위의 아카이브·OG·색인·피드·index.html을 함께 다시 만든다. Gemini가 필요한 작업(enrich·summaries·weekly-backfill)은
+키가 있는 Actions(`maintenance.yml`)에서 돌린다 — 로컬에는 키가 없다.
 
 ### main() 흐름
 1. `--backfill-all` → `all_source_dates()` ∖ data → `build_day_record(d, use_fallback=False)` 저장 (0건이면 저장 안 함)
 2. 최근 7일 중 레코드 없는 날 보강 (소스 커밋이 늦게 떨어진 날을 다음 날이 메운다)
 3. 대상 날짜: 새 레코드 vs 기존 레코드를 `(fresh ai 수, total)`로 비교 → **더 완전한 쪽 유지**. 세 소스 모두 0건이면 기존 유지 또는 exit 0
-4. 오늘이면 `synthesize()` (키 없으면 None, items_hash 같으면 재호출 안 함)
-5. `build_index` · `build_search` → 대상 날짜 아카이브 렌더 → latest면 index.html → dates.json(전체 날짜)
+3.5. `mark_duplicates()` — 직전 3일 레코드와 URL(`canon_url`)·정규화 제목 비교 → `dup_of`
+4. 오늘이면 `synthesize()` + `enrich_record()` (키 없으면 no-op, 해시 같으면 재호출 안 함)
+5. `build_index` · `build_search`(월별) · `build_entity_index` → `render_og.py --date`(Playwright 없으면 건너뜀) →
+   대상 날짜 아카이브 렌더 → latest면 index.html → dates.json → `build_feeds` → `build_weekly`(가장 최근에 끝난 주)
 
 ### 요약 TXT 파싱 (`parse_ai_summary_txt` → `({norm_title: {summary, implication}}, note)`)
 - **Format A** (2026-04~ 뉴스): `N. 제목` / `   요약` / `   → 시사점`(교육만) / `   URL`
@@ -115,19 +145,32 @@ python scripts/fetch_and_generate.py                  # 오늘(폴백 허용) + 
 | 사이트 메뉴 (오늘·아카이브·흐름), 모바일 2행 + `--header-h` 실측 | app.js `markSiteNav()` `syncHeaderHeight()` |
 | 날짜 네비 (최근 14일 + 전체 아카이브, 과거 열람일 고정) | app.js `renderDatePills()` |
 | 전체 아카이브 (월별 카드, 전 기간 검색 `?q=`) | archive.js (`data/index.json`, `data/search.json` 지연 로드) |
-| 흐름 (기간 비교 차트, 라이브러리 없음) | trends.js (`data/index.json`) |
+| 흐름 (기간 비교 차트, 라이브러리 없음) | trends.js (`data/index.json`) — 주체 이름은 주체 페이지로 링크 |
+| 주체 페이지 (월별 언급·주제·동시 등장·전체 목록, `?e=`) | entity.js (`data/entities.json`, `data/entity/*.json`) |
+| 주간 다이제스트 (끝난 주 집계 + Gemini 주간 종합) | weekly.py → `docs/weekly/` |
+| OG 이미지 (헤드라인·흐름 3개·건수·주체) | render_og.py + `_og_template.html` → `docs/og/*.jpg`, 없으면 og-image.jpg 폴백 |
+| RSS / JSON Feed | feeds.py → `feed.xml`, `feed.json` |
+| 전 기간 검색 (제목+요약, 월별 색인 지연 로드) | archive.js (`data/search/*.json`) |
 | 다크모드 · 검색 · 카테고리 · 키워드 · 읽음 · 단축키 · 공유 바 · 시계 · PWA | app.js (기존) |
 
 ## 주요 결정 사항
 
 - **데이터는 지우지 않는다.** `docs/data/*.json`이 원천, HTML은 파생물. 과거 아카이브도 `--rebuild-archives`로 현행 템플릿을 따라간다 (v2의 "백필 안 함" 원칙 폐기)
-- **SW 캐시 버전**: `di-v6` — CSS/JS 변경 시 버전 올려야 클라이언트 강제 갱신
-- **분류는 규칙 기반**(LLM 불필요). 규칙 추가는 `taxonomy.TOPICS`/`ENTITIES`에 패턴 한 줄. 바꾼 뒤 `--rebuild-archives`는 선택이지만 index.json은 레코드의 `topic`을 그대로 쓰므로 **과거 레코드의 재분류가 필요하면 레코드를 지우고 백필**해야 한다
+- **SW 캐시 버전**: `di-v7` — CSS/JS 변경 시 버전 올려야 클라이언트 강제 갱신
+- **분류는 규칙 기반이 바닥, Gemini가 보정.** 규칙 추가는 `taxonomy.TOPICS`/`ENTITIES`에 패턴 한 줄 → `--task reclassify`로 재페치 없이 과거 전체에 적용 (Gemini가 고른 `topic_src: ai`는 유지, 규칙 결과는 `topic_rule`에). 패턴의 `\b`는 컴파일 때 ASCII 경계로 바뀐다 — 한글 조사가 붙은 영문 토큰 때문. 라벨 회귀 세트는 `tests/test_taxonomy.py`
+- **중복은 지우지 않고 표시한다.** 같은 기사가 이틀 실리면 둘째 날에 `dup_of` — 지면 구조(10/5/10)와 게이트 건수는 유지, 집계만 제외
+- **OG 이미지는 파생물.** Playwright 설치 실패·렌더 실패 시 페이지는 기본 `og-image.jpg`로 폴백하고 작업은 계속된다. JPEG 품질 80, 장당 약 25KB
 - **Gemini 종합은 선택**. 없으면 결정적 헤드라인("오늘 25건 · 가장 많이 등장한 주체 …")로 대체. 모델은 수집기와 같은 `gemini-2.5-flash`(`GEMINI_MODEL`로 변경), REST 직접 호출
   - Gemini 2.5는 **생각(thinking) 토큰이 `maxOutputTokens`를 잠식**한다. 2026-11-02 첫 실행에서 한도 1200으로 JSON이 잘려 `[SYN] 응답 파싱 실패`.
     지금은 한도 4096 + `thinkingConfig.thinkingBudget: 0` + 느슨한 JSON 파싱(`_parse_json_loose`). 실패 로그에 응답 앞 160자가 남는다
 - 교육 뉴스 설명: Gemini 요약이 없어도 전체 표시 (필터 안 함)
 - `docs/assets/og-image.png`(6.4MB)는 어디서도 참조하지 않는다 (og는 .jpg 사용)
+
+## 운영 경보 (healthcheck.py, 2026-11-02)
+
+일일 워크플로우 마지막의 `Health check` 단계가 `docs/data/health.json`을 쓰고, 아래 중 하나면 `ops-alert` 라벨 이슈를 연다(열린 게 있으면 댓글):
+커버리지 60% 미만 이틀 연속 · `GEMINI_API_KEY`가 있는데 종합이 사흘 연속 없음 · 폴백 섹션 이틀 연속.
+조건이 해소되면 이슈는 사람이 닫는다. 단계 자체는 `continue-on-error`라 실행을 실패시키지 않는다.
 
 ## 디자인 — 신문 1면 (v3.1, 2026-11-02)
 
@@ -152,6 +195,8 @@ python scripts/fetch_and_generate.py                  # 오늘(폴백 허용) + 
 - 로컬 개발: `pip install requests python-dateutil`, `NEWS_TOKEN=$(gh auth token)`; `cd docs && python -m http.server 8765`
 - 큰 파일 쓰기: 이 환경의 Bash heredoc은 `'#'` 등이 든 긴 본문에서 깨진다 — Write 도구로 쓰고 Bash는 짧은 명령에만
 - 시각 확인: Chrome 확장이 없으면 `playwright`(파이썬) 헤드리스 스크린샷으로 대체 가능
+- 테스트: `pip install -r requirements.txt -r requirements-dev.txt && pytest -q` (네트워크 불필요, 0.5초). 파서·분류·렌더를 고치면 먼저 돌린다
+- 이 PC는 TLS 가로채기 때문에 `curl`/`requests`로 github.io에 직접 못 붙는다 — 라이브 확인은 Playwright(Chromium)로
 
 ## 트러블슈팅 — Gemini 요약 의존성
 

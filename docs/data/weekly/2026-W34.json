@@ -1,0 +1,405 @@
+{
+ "key": "2026-W34",
+ "label": "2026년 8월 17일 ~ 23일",
+ "dates": [
+  "2026-08-17",
+  "2026-08-18",
+  "2026-08-19",
+  "2026-08-20",
+  "2026-08-21",
+  "2026-08-22",
+  "2026-08-23"
+ ],
+ "days_present": 7,
+ "counts": {
+  "edu": 70,
+  "paper": 35,
+  "tech": 50
+ },
+ "total": 155,
+ "prev_total": 166,
+ "top_entities": [
+  {
+   "name": "ChatGPT",
+   "kind": "model",
+   "n": 21,
+   "delta": -2
+  },
+  {
+   "name": "OpenAI",
+   "kind": "org",
+   "n": 18,
+   "delta": 4
+  },
+  {
+   "name": "생성형 AI",
+   "kind": "tech",
+   "n": 12,
+   "delta": 0
+  },
+  {
+   "name": "에이전트",
+   "kind": "tech",
+   "n": 10,
+   "delta": -5
+  },
+  {
+   "name": "Anthropic",
+   "kind": "org",
+   "n": 6,
+   "delta": 1
+  },
+  {
+   "name": "교육 예산",
+   "kind": "issue",
+   "n": 6,
+   "delta": 5
+  },
+  {
+   "name": "개인화 학습",
+   "kind": "tech",
+   "n": 5,
+   "delta": -3
+  },
+  {
+   "name": "AI 안전·규제",
+   "kind": "tech",
+   "n": 5,
+   "delta": 4
+  },
+  {
+   "name": "NVIDIA",
+   "kind": "org",
+   "n": 5,
+   "delta": -1
+  },
+  {
+   "name": "울산시교육청",
+   "kind": "edu_org",
+   "n": 4,
+   "delta": 3
+  },
+  {
+   "name": "Amazon",
+   "kind": "org",
+   "n": 4,
+   "delta": 2
+  },
+  {
+   "name": "Claude",
+   "kind": "model",
+   "n": 4,
+   "delta": -4
+  }
+ ],
+ "rising": [
+  {
+   "name": "교육 예산",
+   "kind": "issue",
+   "n": 6,
+   "delta": 5
+  },
+  {
+   "name": "OpenAI",
+   "kind": "org",
+   "n": 18,
+   "delta": 4
+  },
+  {
+   "name": "AI 안전·규제",
+   "kind": "tech",
+   "n": 5,
+   "delta": 4
+  },
+  {
+   "name": "울산시교육청",
+   "kind": "edu_org",
+   "n": 4,
+   "delta": 3
+  },
+  {
+   "name": "대구시교육청",
+   "kind": "edu_org",
+   "n": 3,
+   "delta": 3
+  }
+ ],
+ "topic_share": {
+  "edu": [
+   {
+    "id": "policy",
+    "label": "정책·행정",
+    "n": 29,
+    "pct": 41,
+    "delta": 3
+   },
+   {
+    "id": "ai_digital",
+    "label": "AI·디지털교육",
+    "n": 22,
+    "pct": 31,
+    "delta": -7
+   },
+   {
+    "id": "classroom",
+    "label": "수업·교육과정",
+    "n": 7,
+    "pct": 10,
+    "delta": -6
+   },
+   {
+    "id": "teacher",
+    "label": "교사·교권",
+    "n": 5,
+    "pct": 7,
+    "delta": 1
+   },
+   {
+    "id": "higher_ed",
+    "label": "대학·입시·평생",
+    "n": 4,
+    "pct": 6,
+    "delta": 3
+   },
+   {
+    "id": "student_care",
+    "label": "학생·돌봄·안전",
+    "n": 2,
+    "pct": 3,
+    "delta": 3
+   },
+   {
+    "id": "global",
+    "label": "해외·연구",
+    "n": 1,
+    "pct": 1,
+    "delta": 1
+   }
+  ],
+  "paper": [
+   {
+    "id": "teacher_pd",
+    "label": "교사 전문성",
+    "n": 10,
+    "pct": 29,
+    "delta": 0
+   },
+   {
+    "id": "language",
+    "label": "언어·문해",
+    "n": 6,
+    "pct": 17,
+    "delta": -6
+   },
+   {
+    "id": "literacy_ethics",
+    "label": "AI 리터러시·윤리",
+    "n": 6,
+    "pct": 17,
+    "delta": 14
+   },
+   {
+    "id": "design_curric",
+    "label": "교수설계·교육과정",
+    "n": 4,
+    "pct": 11,
+    "delta": 2
+   },
+   {
+    "id": "personalized",
+    "label": "개인화·학습분석",
+    "n": 4,
+    "pct": 11,
+    "delta": 5
+   },
+   {
+    "id": "inclusion_sel",
+    "label": "포용·정서·웰빙",
+    "n": 2,
+    "pct": 6,
+    "delta": 0
+   },
+   {
+    "id": "assessment",
+    "label": "평가·피드백",
+    "n": 2,
+    "pct": 6,
+    "delta": -3
+   },
+   {
+    "id": "stem_ct",
+    "label": "컴퓨팅·STEM",
+    "n": 1,
+    "pct": 3,
+    "delta": -6
+   }
+  ],
+  "tech": [
+   {
+    "id": "industry",
+    "label": "산업·투자·인프라",
+    "n": 16,
+    "pct": 32,
+    "delta": 14
+   },
+   {
+    "id": "model",
+    "label": "모델·연구",
+    "n": 15,
+    "pct": 30,
+    "delta": -7
+   },
+   {
+    "id": "product",
+    "label": "제품·서비스",
+    "n": 8,
+    "pct": 16,
+    "delta": -7
+   },
+   {
+    "id": "agent_dev",
+    "label": "에이전트·개발도구",
+    "n": 4,
+    "pct": 8,
+    "delta": 0
+   },
+   {
+    "id": "edu_ai",
+    "label": "교육 AI",
+    "n": 3,
+    "pct": 6,
+    "delta": 1
+   },
+   {
+    "id": "usecase",
+    "label": "활용·사례",
+    "n": 3,
+    "pct": 6,
+    "delta": 1
+   },
+   {
+    "id": "policy_safety",
+    "label": "정책·윤리·안전",
+    "n": 1,
+    "pct": 2,
+    "delta": -3
+   }
+  ]
+ },
+ "daily": [
+  {
+   "d": "2026-08-17",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-08-18",
+   "n": 15,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-08-19",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-08-20",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-08-21",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-08-22",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-08-23",
+   "n": 25,
+   "head": "",
+   "src": ""
+  }
+ ],
+ "picks": {
+  "edu": [
+   {
+    "d": "2026-08-20",
+    "n": 2,
+    "t": "생성형 AI와 빅데이터가 바꾸는 중국어 학습… ‘맞춤형 에듀테크’ 시대 개막",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5EVTRrZ3F5ZFVESTR2NEZmVlRGVEN0ajBjUmpVOExVa1RPc2I1dDhEcjNHdm9rTW5NVlNiVkgxWDVzTlRHVVoySw?oc=5",
+    "src": "얼리어답터뉴스"
+   },
+   {
+    "d": "2026-08-17",
+    "n": 4,
+    "t": "경북교육청, 2026 생성형 AI 및 학교교육 저작권 역량강화 연수 실시 > 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KbUk0dzZGV0d6T1hIWEtyc0tpcFdOblFZQ3JhdUs2VVBOTUFDQ01fT0k0Y1JXS0VyaW5xY1AyeW93M21yNGRGRDFuaG84VHJ6cXF3eVNBTU0yUUx0QlB2R0FsVUg2X1Y1X1ZMRWplR18?oc=5",
+    "src": "더코리아"
+   },
+   {
+    "d": "2026-08-22",
+    "n": 1,
+    "t": "[AI칼럼] AI보다 먼저 배워야 할 것 - 50·60대를 위한 생성형 AI 리터러시",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBfaUdMTnVwbTZoSm1rOG9HcFVGY3lHdXRyU2ozTDQ4cllMa2VULWdrUFcwazJobWxFMXYza0dZWUx0OEQ4TGFLM3pR?oc=5",
+    "src": "뉴스N연합"
+   }
+  ],
+  "paper": [
+   {
+    "d": "2026-08-20",
+    "n": 3,
+    "t": "Secondary School Teachers' Experiences of Using Chatgpt to Support Learners with Special Educational Needs: A Qualitative Inquiry",
+    "url": "https://doi.org/10.58806/ijsshmr.2026.v5i8n12",
+    "src": "openalex"
+   },
+   {
+    "d": "2026-08-18",
+    "n": 5,
+    "t": "The Paradox of Managed Autonomy: Response to ‘Agentic Online Learning: How University Staff Make Their Work Matter’ (McDonald et al. 2026)",
+    "url": "https://doi.org/10.1007/s42438-026-00689-7",
+    "src": "openalex"
+   },
+   {
+    "d": "2026-08-17",
+    "n": 3,
+    "t": "PEMANFAATAN KECERDASAN ARTIFISIAL (KA) DALAM PEMBELAJARAN IPAS UNTUK MENINGKATKAN KUALITAS PEMBELAJARAN DIKELAS V SD NEGERI 2 LATIHAN SPG AMBON",
+    "url": "https://doi.org/10.51878/edutech.v6i3.11591",
+    "src": "openalex"
+   }
+  ],
+  "tech": [
+   {
+    "d": "2026-08-21",
+    "n": 7,
+    "t": "코딩 넘어 연구·취재까지…오픈AI, ‘챗GPT 워크’로 에이전트 영역 확장",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OZ2hxeEpIekRpY3A5SHdXMDFiOThHLTlXXzB1NENEUFpFcUdQVk1wQjZULUZ1MFhVQm5VenRnQVpZeVJmMmlWZDcxc1RHSi1tZ2F0cFUwMXBSN3BocGZ0SUVMRFBtQkxI?oc=5",
+    "src": "테크월드"
+   },
+   {
+    "d": "2026-08-22",
+    "n": 8,
+    "t": "[\"질문만 하던 시대는 갔다\"… 오픈AI, '챗GPT 워크'로 기업 지식 업무 공략 본격화] 코딩 에이전트 '코덱스' 기반으로 자료 조사부터 보고서 작성까지… 출시 두 달 만에 합산 사용자 1,000만 돌파",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBfU2RTb3JBRGJHT2VsOEN4d2t4VTZKdUx3UF9FRTNqM2ZpRjl2bXIzSjIxaTQxdXhMcWpXTmlRLTg?oc=5",
+    "src": "AI넷"
+   },
+   {
+    "d": "2026-08-22",
+    "n": 1,
+    "t": "오픈AI, 맥용 챗GPT에 '애플 메시지' 플러그인 탑재...\"아이메시지 읽고 답장까지\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214219",
+    "src": "AI Times"
+   }
+  ]
+ },
+ "generated_at": "2026-11-02T13:16:18+09:00"
+}

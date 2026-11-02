@@ -269,7 +269,7 @@
     "source": "AI Times",
     "published": "2026-06-23",
     "keyword": "",
-    "topic": "product",
+    "topic": "model",
     "kind": null,
     "entities": [
      "ChatGPT"
@@ -347,7 +347,8 @@
     ],
     "summary": "삼성전자의 사내 생성형 AI 도입은 AI 기술이 기업의 핵심 생산성 도구로 자리매김하며 산업 전반의 AI 도입을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-06-22"
    },
    {
     "n": 7,
@@ -361,7 +362,8 @@
     "entities": [],
     "summary": "준자율 AI가 의약화학 난제를 해결하며, AI가 복잡한 과학 R&D를 가속화하고 최적화하는 핵심 동력으로 부상할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-06-20"
    },
    {
     "n": 8,
@@ -378,7 +380,8 @@
     ],
     "summary": "Google AI Studio를 활용한 개인화된 콘텐츠 제작은 AI 개발의 대중화를 촉진하며 다양한 산업 분야의 혁신을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-06-20"
    },
    {
     "n": 9,
@@ -395,7 +398,8 @@
     ],
     "summary": "AI 인프라 선두 기업과 응용 서비스 기업의 긴밀한 협력으로 AI 기술의 산업 전반 확산과 생태계 성장이 가속화될 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-06-22"
    },
    {
     "n": 10,

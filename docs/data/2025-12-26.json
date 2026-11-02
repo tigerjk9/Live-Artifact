@@ -187,7 +187,8 @@
     "implication": "",
     "ai": true,
     "authors": "Blake Williford, Matthew Runyon 외 1명",
-    "pdf": ""
+    "pdf": "",
+    "dup_of": "2025-12-23"
    },
    {
     "n": 3,
@@ -235,7 +236,9 @@
     "keyword": "pedagogy",
     "topic": "stem_ct",
     "kind": null,
-    "entities": [],
+    "entities": [
+     "LLM"
+    ],
     "summary": "본 논문은 컴퓨터 과학 교육에서 AI 기술, 특히 LLM의 활용 가능성과 과도한 의존, 인지 능력 약화, 접근성 불균형 등의 잠재적 문제점을 지적하며, 교육기관이 AI를 교육적으로 검증하고 통합하여 교육자와 학습자 모두에게 필요한 기술을 제공해야 함을 강조합니다.",
     "implication": "",
     "ai": true,
@@ -377,7 +380,9 @@
     "keyword": "인공지능",
     "topic": "model",
     "kind": null,
-    "entities": [],
+    "entities": [
+     "수능·대입"
+    ],
     "summary": "단국대의 AI 인재 양성 투자는 AI 기술 경쟁력 강화와 산업 혁신에 기여할 핵심 동력이 될 것입니다.",
     "implication": "",
     "ai": true

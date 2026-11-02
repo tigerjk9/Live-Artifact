@@ -123,7 +123,7 @@
     "source": "글로벌이코노믹",
     "published": "2026-05-11",
     "keyword": "교육혁신",
-    "topic": "global",
+    "topic": "policy",
     "kind": null,
     "entities": [
      "경기도교육청"
@@ -139,7 +139,7 @@
     "source": "뉴스밴드",
     "published": "2026-05-12",
     "keyword": "교육혁신",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [],
     "summary": "충남대 출신 법조인 10명이 성광진 후보를 AI시대에 적합한 교육감으로 지지하며 공개 지지 선언을 했습니다.",
@@ -330,9 +330,9 @@
     "topic": "model",
     "kind": null,
     "entities": [
+     "OpenAI",
      "ChatGPT",
      "Anthropic",
-     "OpenAI",
      "AI 안전·규제"
     ],
     "summary": "EU의 오픈AI 사이버 접근 논의는 AI 규제 강화와 기술 주도권 확보 경쟁 심화를 의미하며, 유럽 AI 생태계에 큰 영향을 줄 것입니다.",
@@ -379,7 +379,7 @@
     "source": "AI Times",
     "published": "2026-05-11",
     "keyword": "",
-    "topic": "product",
+    "topic": "model",
     "kind": null,
     "entities": [
      "ChatGPT"

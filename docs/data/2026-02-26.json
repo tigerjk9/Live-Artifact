@@ -121,7 +121,7 @@
     "source": "연합뉴스 한민족센터",
     "published": "2026-02-25",
     "keyword": "교육혁신",
-    "topic": "higher_ed",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [],
     "summary": "AI 시대에 예비 대학생들은 변화하는 사회 요구에 발맞춰 AI 활용 능력을 키우는 교육이 필수적입니다.",
@@ -316,7 +316,7 @@
     "source": "tokenpost.kr",
     "published": "2026-02-25",
     "keyword": "API",
-    "topic": "product",
+    "topic": "agent_dev",
     "kind": null,
     "entities": [
      "OpenAI"

@@ -100,7 +100,7 @@
     "source": "DWBNEWS",
     "published": "2026-07-27",
     "keyword": "교육정책",
-    "topic": "classroom",
+    "topic": "policy",
     "kind": null,
     "entities": [],
     "summary": "제주 중·고교 학생들이 직접 교육정책을 발굴하고 제안합니다.",
@@ -114,7 +114,7 @@
     "source": "경인방송 뉴스",
     "published": "2026-07-27",
     "keyword": "교육정책",
-    "topic": "teacher",
+    "topic": "policy",
     "kind": null,
     "entities": [
      "인천시교육청",
@@ -131,7 +131,7 @@
     "source": "뉴스핌",
     "published": "2026-07-27",
     "keyword": "교육정책",
-    "topic": "ai_digital",
+    "topic": "policy",
     "kind": null,
     "entities": [],
     "summary": "서울 위(Wee) 센터가 아바타를 활용한 메타버스 상담 프로그램을 운영합니다.",
@@ -310,7 +310,8 @@
     ],
     "summary": "Anthropic Opus 5의 성과는 AI 기술 경쟁을 심화시키고, 실질적 지능 지표를 향한 산업의 방향을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-07-27"
    },
    {
     "n": 5,
@@ -327,7 +328,8 @@
     ],
     "summary": "OpenAI의 웨어러블 시장 진출은 AI가 물리적 세계와 통합되어 사용자 일상에 상시적으로 자리 잡으며, AI 생태계의 새로운 확장 국면을 열 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-07-27"
    },
    {
     "n": 6,
@@ -344,7 +346,8 @@
     ],
     "summary": "Google AI Studio를 활용한 'vibe coded' 콘텐츠는 AI 플랫폼이 창의적이고 개인화된 사용자 경험을 대중화할 것임을 시사합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-07-26"
    },
    {
     "n": 7,

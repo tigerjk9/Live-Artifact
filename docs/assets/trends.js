@@ -170,7 +170,7 @@
     var max = rows[0].n || 1;
     host.innerHTML = rows.map(function (r, i) {
       var d = r.isNew && prev.length ? '<span class="delta up">new</span>' : delta(r.n, r.n - r.d, '');
-      return '<li><span class="rank-i">' + (i + 1) + '</span><span class="rank-name">' + esc(r.name) + '</span>' +
+      return '<li><span class="rank-i">' + (i + 1) + '</span><a class="rank-name" href="entity.html?e=' + encodeURIComponent(r.name) + '">' + esc(r.name) + '</a>' +
         '<span class="rank-bar"><i style="width:' + Math.round(r.n * 100 / max) + '%"></i></span>' +
         '<span class="rank-n">' + r.n + '</span><span class="rank-d">' + d + '</span></li>';
     }).join('');
@@ -196,7 +196,7 @@
         var v = weeks[k][name] || 0;
         return '<i style="height:' + (v ? Math.max(8, Math.round(v * 100 / max)) : 3) + '%" title="' + fmt(k) + ' 주 ' + v + '건"></i>';
       }).join('');
-      return '<li><span class="tl-name">' + esc(name) + '</span><span class="spark spark-lg" role="img" aria-label="' + esc(name) + ' 주간 언급">' + bars + '</span><b class="spark-total">' + totals[name] + '</b></li>';
+      return '<li><a class="tl-name" href="entity.html?e=' + encodeURIComponent(name) + '">' + esc(name) + '</a><span class="spark spark-lg" role="img" aria-label="' + esc(name) + ' 주간 언급">' + bars + '</span><b class="spark-total">' + totals[name] + '</b></li>';
     }).join('');
   }
 

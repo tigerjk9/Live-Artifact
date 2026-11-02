@@ -257,9 +257,10 @@
     "source": "AI Times",
     "published": "2026-08-27",
     "keyword": "",
-    "topic": "product",
+    "topic": "model",
     "kind": null,
     "entities": [
+     "OpenAI",
      "ChatGPT"
     ],
     "summary": "오픈AI가 챗GPT를 '일하는 AI'로 전환하는 것은 AI의 실제 업무 적용을 가속화하여 산업 전반의 생산성 혁신을 주도할 것입니다.",
@@ -313,7 +314,8 @@
     ],
     "summary": "AI 챗봇의 악용 사례는 AI 기술 생태계에 강력한 윤리적 책임과 보안 강화 압력으로 작용할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-08-26"
    },
    {
     "n": 5,
@@ -325,7 +327,8 @@
     "topic": "industry",
     "kind": null,
     "entities": [
-     "ChatGPT"
+     "ChatGPT",
+     "OpenAI"
     ],
     "summary": "대중의 AI 제품 인지도가 높아질수록 핵심 기술을 보유한 비상장 AI 기업에 대한 관심과 투자 생태계의 중요성이 더욱 커질 것입니다.",
     "implication": "",

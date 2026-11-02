@@ -322,7 +322,8 @@
     ],
     "summary": "Anthropic의 학생 데이터 미학습 약속은 AI 산업이 민감 분야 확대를 위해 데이터 윤리 및 신뢰 확보가 핵심 경쟁력이 될 것임을 보여줍니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-07-15"
    },
    {
     "n": 6,
@@ -339,7 +340,8 @@
     ],
     "summary": "이 사례는 Google AI Studio를 통한 AI 개발 진입 장벽을 낮춰, 개인화된 AI 서비스 확산과 생태계 성장을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-07-14"
    },
    {
     "n": 7,
@@ -396,7 +398,7 @@
     "source": "아웃소싱타임스",
     "published": "2026-07-15",
     "keyword": "GPT",
-    "topic": "product",
+    "topic": "model",
     "kind": null,
     "entities": [
      "ChatGPT"

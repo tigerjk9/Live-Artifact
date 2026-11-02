@@ -1,0 +1,418 @@
+{
+ "key": "2026-W39",
+ "label": "2026년 9월 21일 ~ 27일",
+ "dates": [
+  "2026-09-21",
+  "2026-09-22",
+  "2026-09-23",
+  "2026-09-24",
+  "2026-09-25",
+  "2026-09-26",
+  "2026-09-27"
+ ],
+ "days_present": 7,
+ "counts": {
+  "edu": 62,
+  "paper": 35,
+  "tech": 63
+ },
+ "total": 160,
+ "prev_total": 164,
+ "top_entities": [
+  {
+   "name": "에이전트",
+   "kind": "tech",
+   "n": 25,
+   "delta": 17
+  },
+  {
+   "name": "ChatGPT",
+   "kind": "model",
+   "n": 22,
+   "delta": 9
+  },
+  {
+   "name": "OpenAI",
+   "kind": "org",
+   "n": 15,
+   "delta": -7
+  },
+  {
+   "name": "Anthropic",
+   "kind": "org",
+   "n": 9,
+   "delta": 0
+  },
+  {
+   "name": "교육부",
+   "kind": "edu_org",
+   "n": 8,
+   "delta": 1
+  },
+  {
+   "name": "개인화 학습",
+   "kind": "tech",
+   "n": 8,
+   "delta": -2
+  },
+  {
+   "name": "Claude",
+   "kind": "model",
+   "n": 8,
+   "delta": 0
+  },
+  {
+   "name": "생성형 AI",
+   "kind": "tech",
+   "n": 6,
+   "delta": 2
+  },
+  {
+   "name": "LLM",
+   "kind": "tech",
+   "n": 6,
+   "delta": 4
+  },
+  {
+   "name": "벤치마크",
+   "kind": "tech",
+   "n": 5,
+   "delta": 5
+  },
+  {
+   "name": "인천시교육청",
+   "kind": "edu_org",
+   "n": 4,
+   "delta": -1
+  },
+  {
+   "name": "AI 안전·규제",
+   "kind": "tech",
+   "n": 4,
+   "delta": 3
+  }
+ ],
+ "rising": [
+  {
+   "name": "에이전트",
+   "kind": "tech",
+   "n": 25,
+   "delta": 17
+  },
+  {
+   "name": "ChatGPT",
+   "kind": "model",
+   "n": 22,
+   "delta": 9
+  },
+  {
+   "name": "벤치마크",
+   "kind": "tech",
+   "n": 5,
+   "delta": 5
+  },
+  {
+   "name": "LLM",
+   "kind": "tech",
+   "n": 6,
+   "delta": 4
+  },
+  {
+   "name": "AI 안전·규제",
+   "kind": "tech",
+   "n": 4,
+   "delta": 3
+  },
+  {
+   "name": "GPU·데이터센터",
+   "kind": "tech",
+   "n": 4,
+   "delta": 3
+  }
+ ],
+ "topic_share": {
+  "edu": [
+   {
+    "id": "ai_digital",
+    "label": "AI·디지털교육",
+    "n": 31,
+    "pct": 50,
+    "delta": 33
+   },
+   {
+    "id": "policy",
+    "label": "정책·행정",
+    "n": 18,
+    "pct": 29,
+    "delta": -29
+   },
+   {
+    "id": "classroom",
+    "label": "수업·교육과정",
+    "n": 9,
+    "pct": 15,
+    "delta": -4
+   },
+   {
+    "id": "higher_ed",
+    "label": "대학·입시·평생",
+    "n": 2,
+    "pct": 3,
+    "delta": 3
+   },
+   {
+    "id": "student_care",
+    "label": "학생·돌봄·안전",
+    "n": 1,
+    "pct": 2,
+    "delta": 1
+   },
+   {
+    "id": "teacher",
+    "label": "교사·교권",
+    "n": 1,
+    "pct": 2,
+    "delta": -1
+   }
+  ],
+  "paper": [
+   {
+    "id": "design_curric",
+    "label": "교수설계·교육과정",
+    "n": 7,
+    "pct": 20,
+    "delta": 6
+   },
+   {
+    "id": "teacher_pd",
+    "label": "교사 전문성",
+    "n": 6,
+    "pct": 17,
+    "delta": -6
+   },
+   {
+    "id": "literacy_ethics",
+    "label": "AI 리터러시·윤리",
+    "n": 6,
+    "pct": 17,
+    "delta": 14
+   },
+   {
+    "id": "language",
+    "label": "언어·문해",
+    "n": 5,
+    "pct": 14,
+    "delta": 0
+   },
+   {
+    "id": "learning_sci",
+    "label": "학습과학·인지",
+    "n": 4,
+    "pct": 11,
+    "delta": 5
+   },
+   {
+    "id": "genai_tutor",
+    "label": "생성형 AI·튜터",
+    "n": 2,
+    "pct": 6,
+    "delta": 0
+   },
+   {
+    "id": "personalized",
+    "label": "개인화·학습분석",
+    "n": 2,
+    "pct": 6,
+    "delta": -11
+   },
+   {
+    "id": "inclusion_sel",
+    "label": "포용·정서·웰빙",
+    "n": 1,
+    "pct": 3,
+    "delta": -3
+   },
+   {
+    "id": "stem_ct",
+    "label": "컴퓨팅·STEM",
+    "n": 1,
+    "pct": 3,
+    "delta": 0
+   },
+   {
+    "id": "assessment",
+    "label": "평가·피드백",
+    "n": 1,
+    "pct": 3,
+    "delta": -6
+   }
+  ],
+  "tech": [
+   {
+    "id": "model",
+    "label": "모델·연구",
+    "n": 30,
+    "pct": 48,
+    "delta": 13
+   },
+   {
+    "id": "industry",
+    "label": "산업·투자·인프라",
+    "n": 11,
+    "pct": 17,
+    "delta": 0
+   },
+   {
+    "id": "agent_dev",
+    "label": "에이전트·개발도구",
+    "n": 7,
+    "pct": 11,
+    "delta": 1
+   },
+   {
+    "id": "policy_safety",
+    "label": "정책·윤리·안전",
+    "n": 7,
+    "pct": 11,
+    "delta": -7
+   },
+   {
+    "id": "product",
+    "label": "제품·서비스",
+    "n": 6,
+    "pct": 10,
+    "delta": -3
+   },
+   {
+    "id": "edu_ai",
+    "label": "교육 AI",
+    "n": 1,
+    "pct": 2,
+    "delta": -1
+   },
+   {
+    "id": "usecase",
+    "label": "활용·사례",
+    "n": 1,
+    "pct": 2,
+    "delta": -1
+   }
+  ]
+ },
+ "daily": [
+  {
+   "d": "2026-09-21",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-09-22",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-09-23",
+   "n": 18,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-09-24",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-09-25",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-09-26",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-09-27",
+   "n": 25,
+   "head": "",
+   "src": ""
+  }
+ ],
+ "picks": {
+  "edu": [
+   {
+    "d": "2026-09-25",
+    "n": 4,
+    "t": "딥시크, AI 에이전트 '학습 비용 절감 핵심 인프라' DSec 공개",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HYXhoclY5Wkh5ZlA2X0JXVzVvVGdGTEFBV3Y2RFNWSGM0X3FldFptMEwxUklUVWp4RlFuZGJ0Wm02ZU9VWkcxRlI1dV9ZTXVFNERFZTI3TnFUWHZlR09ZRXltczFvT1pKQ0E?oc=5",
+    "src": "AI타임스"
+   },
+   {
+    "d": "2026-09-21",
+    "n": 10,
+    "t": "[금융소비자보호 우수콘텐츠 대상] 하나은행, 초등생 용돈교육부터 어르신 챗GPT까지…생애주기 7개 과정 운영",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB0NkZpR3ZZRzBIY213ZDladFFkZjcxTy1tT0pwRURYY05rc3ZfUzAtWUVEVDN0azNnZ3U1c1dEejY4QlAxaWEwalF4VEl1Z0Z1N2prS1ZuZnluaDJGRUoyWFFKTU04aDcyREFGSHBka0xtY2c?oc=5",
+    "src": "소비자가 만드는 신문"
+   },
+   {
+    "d": "2026-09-25",
+    "n": 10,
+    "t": "BNP Paribas와 Google Cloud, 5년 기간의 에이전트 AI 파트너십 체결",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaEdrRm9YbnF2eE50cXQyQXJTUldoM1RIQ2FEQzd3VWdyMmZGNDVHQnQ1ZE4yeEtWZDNyNmctTnlpWk5keTkySVZPM1BNcnVXdExlRGRHT0JYUEJ2VTAwa0YwZEdEZDFkTVBVZWpldkxweWhGcmZzUzQ2YzM1YW53bDFKLXRaNVMxcHo0eTZXZnFIQQ?oc=5",
+    "src": "Unite.AI"
+   }
+  ],
+  "paper": [
+   {
+    "d": "2026-09-21",
+    "n": 2,
+    "t": "DataCanvas-EDU: An Agentic Framework for Instructor-Guided Synthetic Data Generation in Business Analytics Education",
+    "url": "http://arxiv.org/abs/2609.19617v1",
+    "src": ""
+   },
+   {
+    "d": "2026-09-21",
+    "n": 5,
+    "t": "Using ChatGPT for Science Learning: A Study on Pre-service Teachers' Lesson Planning",
+    "url": "https://www.semanticscholar.org/paper/7223eb86633616cecf484006cad2584655fed90b",
+    "src": "semantic_scholar"
+   },
+   {
+    "d": "2026-09-22",
+    "n": 2,
+    "t": "Embracing the Future of Artificial Intelligence in the Classroom: The Relevance of AI Literacy, Prompt Engineering, and Critical Thinking in Modern Education",
+    "url": "http://dx.doi.org/10.1186/s41239-024-00448-3",
+    "src": "eric"
+   }
+  ],
+  "tech": [
+   {
+    "d": "2026-09-27",
+    "n": 3,
+    "t": "[기업家] 오픈AI ③ㅣ 챗GPT 이미지 유출·AI 에이전트 무단 해킹 논란…신모델 출시 속 안전성 검증 강화",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96ZVZMV0UzTEF3dXZEZU41U2Rna0JpdVJKRnpyVXJhVnE2aVNxWC1rLTZnZ20tZGlIWXNUTEk2SGJHalQyS0VnZlVWOERuTVllOVJxcUp6bnhJVnpoejhnc0RoWnlERGZq?oc=5",
+    "src": "CBC뉴스"
+   },
+   {
+    "d": "2026-09-25",
+    "n": 1,
+    "t": "오픈AI, '챗GPT 음성'에 에이전트 결합...\"말 한마디로 앱 조작·업무 처리\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215635",
+    "src": "AI Times"
+   },
+   {
+    "d": "2026-09-26",
+    "n": 10,
+    "t": "챗GPT에 올린 이미지 새나갔다…오픈AI 에이전트, 53장 무단 유출",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QS2hSaFh3RzZ2TEpCZDRXVUFic3NYRlV2T0pycVNheW56Q3lORGEzNlVzWGt6V3FkbE5MNzBDTkdzejFUVW1WM0xiWlBJcFE?oc=5",
+    "src": "v.daum.net"
+   }
+  ]
+ },
+ "generated_at": "2026-11-02T13:16:18+09:00"
+}

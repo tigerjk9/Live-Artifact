@@ -1,0 +1,411 @@
+{
+ "key": "2026-W28",
+ "label": "2026년 7월 6일 ~ 12일",
+ "dates": [
+  "2026-07-06",
+  "2026-07-07",
+  "2026-07-08",
+  "2026-07-09",
+  "2026-07-10",
+  "2026-07-11",
+  "2026-07-12"
+ ],
+ "days_present": 7,
+ "counts": {
+  "edu": 69,
+  "paper": 35,
+  "tech": 60
+ },
+ "total": 164,
+ "prev_total": 147,
+ "top_entities": [
+  {
+   "name": "ChatGPT",
+   "kind": "model",
+   "n": 20,
+   "delta": 5
+  },
+  {
+   "name": "OpenAI",
+   "kind": "org",
+   "n": 18,
+   "delta": 6
+  },
+  {
+   "name": "에이전트",
+   "kind": "tech",
+   "n": 11,
+   "delta": 5
+  },
+  {
+   "name": "생성형 AI",
+   "kind": "tech",
+   "n": 9,
+   "delta": 2
+  },
+  {
+   "name": "개인화 학습",
+   "kind": "tech",
+   "n": 8,
+   "delta": 5
+  },
+  {
+   "name": "코딩 AI",
+   "kind": "tech",
+   "n": 8,
+   "delta": 4
+  },
+  {
+   "name": "대전시교육청",
+   "kind": "edu_org",
+   "n": 6,
+   "delta": 0
+  },
+  {
+   "name": "Anthropic",
+   "kind": "org",
+   "n": 5,
+   "delta": -2
+  },
+  {
+   "name": "경기도교육청",
+   "kind": "edu_org",
+   "n": 4,
+   "delta": -3
+  },
+  {
+   "name": "충남교육청",
+   "kind": "edu_org",
+   "n": 4,
+   "delta": 2
+  },
+  {
+   "name": "부산시교육청",
+   "kind": "edu_org",
+   "n": 4,
+   "delta": 2
+  },
+  {
+   "name": "IB",
+   "kind": "issue",
+   "n": 4,
+   "delta": 3
+  }
+ ],
+ "rising": [
+  {
+   "name": "OpenAI",
+   "kind": "org",
+   "n": 18,
+   "delta": 6
+  },
+  {
+   "name": "ChatGPT",
+   "kind": "model",
+   "n": 20,
+   "delta": 5
+  },
+  {
+   "name": "에이전트",
+   "kind": "tech",
+   "n": 11,
+   "delta": 5
+  },
+  {
+   "name": "개인화 학습",
+   "kind": "tech",
+   "n": 8,
+   "delta": 5
+  },
+  {
+   "name": "코딩 AI",
+   "kind": "tech",
+   "n": 8,
+   "delta": 4
+  },
+  {
+   "name": "IB",
+   "kind": "issue",
+   "n": 4,
+   "delta": 3
+  }
+ ],
+ "topic_share": {
+  "edu": [
+   {
+    "id": "policy",
+    "label": "정책·행정",
+    "n": 26,
+    "pct": 38,
+    "delta": -16
+   },
+   {
+    "id": "ai_digital",
+    "label": "AI·디지털교육",
+    "n": 19,
+    "pct": 28,
+    "delta": 14
+   },
+   {
+    "id": "classroom",
+    "label": "수업·교육과정",
+    "n": 14,
+    "pct": 20,
+    "delta": -5
+   },
+   {
+    "id": "teacher",
+    "label": "교사·교권",
+    "n": 6,
+    "pct": 9,
+    "delta": 7
+   },
+   {
+    "id": "student_care",
+    "label": "학생·돌봄·안전",
+    "n": 3,
+    "pct": 4,
+    "delta": 2
+   },
+   {
+    "id": "global",
+    "label": "해외·연구",
+    "n": 1,
+    "pct": 1,
+    "delta": -1
+   }
+  ],
+  "paper": [
+   {
+    "id": "design_curric",
+    "label": "교수설계·교육과정",
+    "n": 10,
+    "pct": 29,
+    "delta": 9
+   },
+   {
+    "id": "teacher_pd",
+    "label": "교사 전문성",
+    "n": 7,
+    "pct": 20,
+    "delta": -3
+   },
+   {
+    "id": "stem_ct",
+    "label": "컴퓨팅·STEM",
+    "n": 5,
+    "pct": 14,
+    "delta": 3
+   },
+   {
+    "id": "personalized",
+    "label": "개인화·학습분석",
+    "n": 4,
+    "pct": 11,
+    "delta": 5
+   },
+   {
+    "id": "literacy_ethics",
+    "label": "AI 리터러시·윤리",
+    "n": 3,
+    "pct": 9,
+    "delta": 6
+   },
+   {
+    "id": "learning_sci",
+    "label": "학습과학·인지",
+    "n": 2,
+    "pct": 6,
+    "delta": -3
+   },
+   {
+    "id": "assessment",
+    "label": "평가·피드백",
+    "n": 1,
+    "pct": 3,
+    "delta": -3
+   },
+   {
+    "id": "language",
+    "label": "언어·문해",
+    "n": 1,
+    "pct": 3,
+    "delta": -6
+   },
+   {
+    "id": "genai_tutor",
+    "label": "생성형 AI·튜터",
+    "n": 1,
+    "pct": 3,
+    "delta": -3
+   },
+   {
+    "id": "inclusion_sel",
+    "label": "포용·정서·웰빙",
+    "n": 1,
+    "pct": 3,
+    "delta": -6
+   }
+  ],
+  "tech": [
+   {
+    "id": "model",
+    "label": "모델·연구",
+    "n": 22,
+    "pct": 37,
+    "delta": -10
+   },
+   {
+    "id": "agent_dev",
+    "label": "에이전트·개발도구",
+    "n": 14,
+    "pct": 23,
+    "delta": 9
+   },
+   {
+    "id": "industry",
+    "label": "산업·투자·인프라",
+    "n": 12,
+    "pct": 20,
+    "delta": 0
+   },
+   {
+    "id": "product",
+    "label": "제품·서비스",
+    "n": 7,
+    "pct": 12,
+    "delta": 2
+   },
+   {
+    "id": "policy_safety",
+    "label": "정책·윤리·안전",
+    "n": 4,
+    "pct": 7,
+    "delta": 3
+   },
+   {
+    "id": "edu_ai",
+    "label": "교육 AI",
+    "n": 1,
+    "pct": 2,
+    "delta": -2
+   }
+  ]
+ },
+ "daily": [
+  {
+   "d": "2026-07-06",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-07-07",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-07-08",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-07-09",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-07-10",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-07-11",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-07-12",
+   "n": 25,
+   "head": "",
+   "src": ""
+  }
+ ],
+ "picks": {
+  "edu": [
+   {
+    "d": "2026-07-09",
+    "n": 4,
+    "t": "개인정보 보호·생성형 AI 활용·저작권 교육까지…대전시교육청, AI·디지털 윤리교육 본격 운영",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85VEpfOUdqblVsMXk5M181Y1owSEYzNmtxZHQyeHowdUw0SE5jMTVQQ0dudlk1R2t1bGxLQXJaQjItRW9WS1hZZERtX1ZDc3Nub1M4aTZ1VjZKWXNWZWRLRFdwQ3lqeVlGdXgwY1VDaFY?oc=5",
+    "src": "한국강사신문"
+   },
+   {
+    "d": "2026-07-12",
+    "n": 1,
+    "t": "충북교육청, 생성형 AI 기반 업무비서 서비스 제공 : 네이버 블로그",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdklzaEdjWUpXX1d4djdaY0QwQ2gtMXpVc1FpWHcwY2VFMWpTOHpXcDYtTlZsUDhqaFo4d2t5eEdrTzdtOEt5aVNuNkFya0IzaldkcE1ObER5TFdObFVlLW9hNUcwVWk4SFo0LVJDWGVJejVsc0oyYjBzV0VmMTNCa0JOUVNFNlRUYjBkMjhZaw?oc=5",
+    "src": "Naver Blog"
+   },
+   {
+    "d": "2026-07-06",
+    "n": 10,
+    "t": "[AI 자동화 도구 경쟁 본격화…기업 워크플로우 혁신의 핵심 인프라로 부상] 노코드 자동화, 개발자 중심 워크플로우, RPA(로봇 프로세스 자동화), 엔터프라이즈 오케스트레이션, AI 에이전트 등은 각각 적용 영역과 목적이 명확히 구분",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE50Q2xhd0lZM3NTc1BGeENLZHo4bWJrT0JZWE5uNUh2Vl9rWXdRMWNTbktHUEQyWm9GRjhZWmlpZHE?oc=5",
+    "src": "AI넷"
+   }
+  ],
+  "paper": [
+   {
+    "d": "2026-07-10",
+    "n": 4,
+    "t": "Enhancing vocational students’ professional competencies through AI agent-supported human–AI collaborative learning",
+    "url": "https://www.semanticscholar.org/paper/de32774501ba834977dab775ab44ebc3c87a6dfb",
+    "src": "semantic_scholar"
+   },
+   {
+    "d": "2026-07-12",
+    "n": 5,
+    "t": "Between Panic and Hype: Disclose and Defend Pedagogy for AI Writing in Political Science Classrooms in the Global South",
+    "url": "https://doi.org/10.1017/s1049096526102261",
+    "src": "openalex"
+   },
+   {
+    "d": "2026-07-07",
+    "n": 2,
+    "t": "“&lt;b&gt;Leveraging AI to drive adaptive learning for sustainable educational reforms&lt;/b&gt;”&lt;b&gt;&lt;sup&gt; &lt;/sup&gt;&lt;/b&gt;",
+    "url": "https://doi.org/10.66635/ch2gq119",
+    "src": "openalex"
+   }
+  ],
+  "tech": [
+   {
+    "d": "2026-07-10",
+    "n": 6,
+    "t": "오픈AI, 몇 시간 업무도 척척…기업용 에이전트 ‘ChatGPT 워크’ 공개│Global Money Club",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KUDZJMzJaY0FKU181d3hTM2UwWkpSZnJvS2Jlb0lKaExuSGw0ZkdUSjNJLW5EM2gzc2VJbThXRHdZWDlfdE5CZXhJVW5fbnpfQTd4bFhBdG11aXM?oc=5",
+    "src": "중앙일보"
+   },
+   {
+    "d": "2026-07-10",
+    "n": 2,
+    "t": "오픈AI 강력한 \"GPT-5.6\" 3종 공개, 코딩 벤치마크 80점 신기록 경신",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMX2NsX1ZDeTl4QTdFSlo3cnc0a0VET1RPX0pfaXpZM2NodWVDZW1rOU5haGR5Ml8tNXpjVFdINkhCcndJX0hSb1VtNzJBTEt1TjViV0RKOUZIZ2hsTmFYQ0FIMHhzUmJFWUJqMXd4OW8?oc=5",
+    "src": "디지털포커스"
+   },
+   {
+    "d": "2026-07-08",
+    "n": 3,
+    "t": "오픈AI 코딩 도구 코덱스에 최상위 모델 'GPT-5.6 솔 울트라' 들어간다...코덱스 개발 총괄 티보 소티오 X에서 확인...한 이용자의 \"GPT-5.6 상위 모델을 코덱스에 넣어라\" 제안에 짧은 답변으로 화답",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE52MGJSOUZOc0hXOXBtSnBrSkg3LUJxNlVrQlVySy0wOHhSRTJOUTEzMEJyZXhvTmNYaE01ZVlJSHc?oc=5",
+    "src": "한국정보기술진흥원"
+   }
+  ]
+ },
+ "generated_at": "2026-11-02T13:16:18+09:00"
+}

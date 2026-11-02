@@ -68,7 +68,7 @@
     "source": "더코리아",
     "published": "2026-06-06",
     "keyword": "교육정책",
-    "topic": "classroom",
+    "topic": "policy",
     "kind": null,
     "entities": [],
     "summary": "태백교육이 학부모와 함께 현장 중심의 미래 교육정책을 논의하는 토론회를 열었습니다.",
@@ -389,7 +389,8 @@
     ],
     "summary": "AI가 고객 요구사항을 코드로 자동 생성하여 소프트웨어 개발 생산성을 극대화하고, AI 기반 개발 생태계를 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-06-04"
    },
    {
     "n": 10,

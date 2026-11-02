@@ -30,6 +30,11 @@ TOPICS: dict[str, list[tuple[str, str, list[str]]]] = {
             r"챗GPT", r"ChatGPT", r"소프트웨어", r"코딩", r"정보교육", r"메타버스", r"로봇",
             r"\bSW\b", r"스마트", r"온라인", r"플랫폼", r"데이터", r"튜터",
         ]),
+        ("global", "해외·연구", [
+            r"\bOECD\b", r"유네스코", r"\bUNESCO\b", r"해외", r"국제", r"글로벌", r"보고서",
+            r"연구소", r"미국", r"일본", r"싱가포르", r"핀란드", r"중국", r"영국", r"독일",
+            r"프랑스", r"베트남", r"호주", r"북한", r"北",
+        ]),
         ("teacher", "교사·교권", [
             r"교사(?!용)", r"교원", r"연수", r"교권", r"교직", r"전문적\s?학습\s?공동체", r"노조",
             r"교총", r"업무\s?경감", r"교장", r"교감", r"담임", r"교무",
@@ -40,13 +45,8 @@ TOPICS: dict[str, list[tuple[str, str, list[str]]]] = {
             r"체육", r"건강", r"심리", r"유치원", r"어린이집",
         ]),
         ("higher_ed", "대학·입시·평생", [
-            r"대학(?!원생)", r"수능", r"입시", r"대입", r"평생\s?교육", r"직업\s?교육", r"취업",
+            r"대학(?!원생)", r"대학교", r"사범대", r"수능", r"입시", r"대입", r"평생\s?교육", r"직업\s?교육", r"취업",
             r"정시", r"수시", r"학과", r"캠퍼스", r"전문대", r"학위",
-        ]),
-        ("global", "해외·연구", [
-            r"\bOECD\b", r"유네스코", r"\bUNESCO\b", r"해외", r"국제", r"글로벌", r"보고서",
-            r"연구소", r"미국", r"일본", r"싱가포르", r"핀란드", r"중국", r"영국", r"독일",
-            r"프랑스", r"베트남", r"호주", r"북한", r"北",
         ]),
         ("classroom", "수업·교육과정", [
             r"수업", r"교실", r"교육\s?과정", r"탐구", r"프로젝트", r"평가", r"\bIB\b", r"고교\s?학점제",
@@ -54,7 +54,7 @@ TOPICS: dict[str, list[tuple[str, str, list[str]]]] = {
             r"과학\s?교육", r"수학\s?교육", r"영어\s?교육", r"놀이", r"창의",
         ]),
         ("policy", "정책·행정", [
-            r"교육부", r"교육청", r"교육감", r"국회", r"국감", r"국정\s?감사", r"의회", r"의원",
+            r"교육\s?정책", r"교육부", r"교육청", r"교육감", r"국회", r"국감", r"국정\s?감사", r"의회", r"의원",
             r"예산", r"조례", r"정책", r"계획", r"방안", r"발표", r"감사", r"선거", r"협의회",
             r"시행", r"법안", r"개편", r"추진", r"행정", r"공약", r"타운홀", r"시도", r"지자체",
             r"시장", r"군수", r"구청",
@@ -69,6 +69,8 @@ TOPICS: dict[str, list[tuple[str, str, list[str]]]] = {
         ("policy_safety", "정책·윤리·안전", [
             r"규제", r"정책", r"법(?:안|원|률)", r"윤리", r"안전", r"저작권", r"보안", r"취약점",
             r"개인\s?정보", r"소송", r"정부", r"규범", r"편향", r"딥페이크", r"위험", r"경고",
+            r"의회", r"청문회", r"선서", r"국회", r"당국", r"공정위", r"법원", r"반독점", r"제재",
+            r"(?i)\bhearing", r"(?i)\bcouncil", r"(?i)\bsenate", r"(?i)\bcongress", r"(?i)\bantitrust", r"(?i)\bgovern",
             r"(?i)\bsafety\b", r"(?i)\bregulat", r"(?i)\bpolicy\b", r"(?i)\bcopyright", r"(?i)\bsecurity",
             r"(?i)\bprivacy", r"(?i)\blawsuit", r"(?i)\bethic",
         ]),
@@ -182,8 +184,17 @@ TOPICS: dict[str, list[tuple[str, str, list[str]]]] = {
 
 TOPIC_FALLBACK = {"edu": "policy", "tech": "model", "paper": "design_curric"}
 
+# 파이썬의 \b는 한글도 단어 문자로 보므로 "오픈AI가"·"읽걷쓰AI"에서 영문 토큰 경계를 못 잡는다.
+# 영문·숫자만 단어 문자로 치는 경계로 바꿔 컴파일한다.
+_ASCII_B = r"(?:(?<![A-Za-z0-9])|(?![A-Za-z0-9]))"
+
+
+def _ascii_boundary(pattern: str) -> str:
+    return pattern.replace(r"\b", _ASCII_B)
+
+
 _TOPIC_RE: dict[str, list[tuple[str, list[re.Pattern]]]] = {
-    sec: [(tid, [re.compile(p) for p in pats]) for tid, _label, pats in rules]
+    sec: [(tid, [re.compile(_ascii_boundary(p)) for p in pats]) for tid, _label, pats in rules]
     for sec, rules in TOPICS.items()
 }
 _TOPIC_LABEL: dict[str, dict[str, str]] = {
@@ -342,9 +353,9 @@ def _compile_entity(cs: str, ci: str) -> re.Pattern:
     """대소문자 구분 패턴(cs)과 영문 무시 패턴(ci)을 하나의 정규식으로 합친다."""
     combined = []
     if cs:
-        combined.append("(?:" + cs + ")")
+        combined.append("(?:" + _ascii_boundary(cs) + ")")
     if ci:
-        combined.append("(?i:" + ci + ")")
+        combined.append("(?i:" + _ascii_boundary(ci) + ")")
     return re.compile("|".join(combined))
 
 

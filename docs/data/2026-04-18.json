@@ -41,7 +41,7 @@
     "source": "로이슈",
     "published": "2026-04-17",
     "keyword": "생성형AI교육",
-    "topic": "teacher",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "인천시교육청"
@@ -60,7 +60,8 @@
     "topic": "classroom",
     "kind": null,
     "entities": [
-     "대전시교육청"
+     "대전시교육청",
+     "IB"
     ],
     "summary": "",
     "implication": "",
@@ -153,7 +154,7 @@
     "source": "파주에서신문",
     "published": "2026-04-17",
     "keyword": "교육정책",
-    "topic": "ai_digital",
+    "topic": "policy",
     "kind": null,
     "entities": [],
     "summary": "",
@@ -317,7 +318,8 @@
     ],
     "summary": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
     "implication": "",
-    "ai": false
+    "ai": false,
+    "dup_of": "2026-04-15"
    },
    {
     "n": 5,
@@ -334,7 +336,8 @@
     ],
     "summary": "엔비디아의 오픈소스 양자 AI 모델 공개는 양자 컴퓨팅과 AI 융합 연구를 가속화하고, 관련 기술 혁신 및 산업 발전에 기여할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-04-17"
    },
    {
     "n": 6,
@@ -362,7 +365,8 @@
     "topic": "industry",
     "kind": null,
     "entities": [
-     "Anthropic"
+     "Anthropic",
+     "OpenAI"
     ],
     "summary": "앤트로픽의 런던 사무소 확장은 유럽 AI 시장 선점을 위한 오픈AI와의 경쟁 심화와 동시에, 유럽을 미래 AI 기술 허브로 육성하려는 움직임을 가속화할 것입니다.",
     "implication": "",
@@ -400,7 +404,8 @@
     ],
     "summary": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
     "implication": "",
-    "ai": false
+    "ai": false,
+    "dup_of": "2026-04-17"
    }
   ]
  },

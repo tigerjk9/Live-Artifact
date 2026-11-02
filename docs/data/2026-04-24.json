@@ -109,7 +109,8 @@
     "entities": [],
     "summary": "",
     "implication": "",
-    "ai": false
+    "ai": false,
+    "dup_of": "2026-04-23"
    },
    {
     "n": 8,
@@ -299,7 +300,8 @@
     ],
     "summary": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
     "implication": "",
-    "ai": false
+    "ai": false,
+    "dup_of": "2026-04-21"
    },
    {
     "n": 4,
@@ -314,7 +316,8 @@
      "Alibaba",
      "코딩 AI",
      "에이전트",
-     "오픈소스"
+     "오픈소스",
+     "Apple"
     ],
     "summary": "알리바바가 코딩 에이전트 작업에서 최고 수준을 기록한 매개변수 270억개의 경량 모델을 공개했다.알리바바는 22일(현지시간) 새로운 오픈소스 AI 모델 ‘큐원3.6-27B(Qwen3.6-27B)’를 공개했다. 전문가 혼합(MoE) 방식이 아닌, 큐원3.6 시리즈 최초의 완전 밀집(Dense) 구조 모델이다.특히, 자율형 코딩(agentic coding) 분",
     "implication": "",
@@ -361,7 +364,9 @@
     "keyword": "",
     "topic": "industry",
     "kind": null,
-    "entities": [],
+    "entities": [
+     "코딩 AI"
+    ],
     "summary": "스페이스X와 커서의 협력은 데이터 확보 경쟁을 심화시켜 AI 모델 개발의 격차를 확대할 것입니다.",
     "implication": "",
     "ai": true

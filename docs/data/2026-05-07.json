@@ -340,7 +340,7 @@
     "source": "AI Times",
     "published": "2026-05-07",
     "keyword": "",
-    "topic": "product",
+    "topic": "model",
     "kind": null,
     "entities": [
      "ChatGPT",
@@ -364,7 +364,8 @@
     ],
     "summary": "OpenAI의 FedRAMP Moderate 획득은 공공 부문에서 AI 기술 도입을 가속화하고, 정부 및 관련 산업에 새로운 성장 기회를 제공할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-05-04"
    },
    {
     "n": 8,
@@ -414,7 +415,8 @@
     ],
     "summary": "ChatGPT 광고 도입은 AI 챗봇 플랫폼의 수익화 모델을 확장하고, 관련 광고 기술 시장 성장을 촉진할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-05-06"
    }
   ]
  },

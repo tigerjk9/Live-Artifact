@@ -11,12 +11,14 @@
   <link rel="canonical" href="{{PAGE_CANONICAL}}">
   {{AI_COVERAGE_META}}
   <link rel="manifest" href="{{ROOT}}assets/manifest.json">
+  <link rel="alternate" type="application/rss+xml" title="Daily Intelligence" href="{{ROOT}}feed.xml">
+  <link rel="alternate" type="application/feed+json" title="Daily Intelligence (JSON)" href="{{ROOT}}feed.json">
   <!-- Open Graph -->
   <meta property="og:type" content="website">
   <meta property="og:title" content="Daily Intelligence — {{CURRENT_DATE}}">
   <meta property="og:description" content="교육 뉴스, AI 논문, AI 기술 뉴스 일일 브리핑 — 닷커넥터 김진관">
   <meta property="og:url" content="{{PAGE_CANONICAL}}">
-  <meta property="og:image" content="https://tigerjk9.github.io/Live-Artifact/assets/og-image.jpg">
+  <meta property="og:image" content="{{OG_IMAGE}}">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
   <meta property="og:image:alt" content="Daily Intelligence — EDU · PAPERS · TECH 뉴스 일일 브리핑">
@@ -25,7 +27,7 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Daily Intelligence — {{CURRENT_DATE}}">
   <meta name="twitter:description" content="교육 뉴스, AI 논문, AI 기술 뉴스 일일 브리핑">
-  <meta name="twitter:image" content="https://tigerjk9.github.io/Live-Artifact/assets/og-image.jpg">
+  <meta name="twitter:image" content="{{OG_IMAGE}}">
   <!-- JSON-LD -->
   <script type="application/ld+json">
   {
@@ -75,6 +77,7 @@
       </div>
       <nav class="site-nav" aria-label="사이트 메뉴">
         <a class="site-nav-link" href="{{ROOT}}index.html" data-nav="daily">오늘</a>
+        <a class="site-nav-link" href="{{ROOT}}weekly/" data-nav="weekly">주간</a>
         <a class="site-nav-link" href="{{ROOT}}archive/" data-nav="archive">아카이브</a>
         <a class="site-nav-link" href="{{ROOT}}trends.html" data-nav="trends">흐름</a>
       </nav>
@@ -155,7 +158,9 @@
     </a>
     <div class="footer-meta">
       <a class="footer-link" href="{{ROOT}}archive/">전체 아카이브</a>
+      <a class="footer-link" href="{{ROOT}}weekly/">주간</a>
       <a class="footer-link" href="{{ROOT}}trends.html">흐름 보기</a>
+      <a class="footer-link" href="{{ROOT}}feed.xml">RSS</a>
       <span class="footer-updated">갱신 <time datetime="{{LAST_UPDATED_ISO}}">{{LAST_UPDATED_KR}}</time></span>
       <a class="footer-link" href="https://github.com/tigerjk9/Live-Artifact" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
     </div>

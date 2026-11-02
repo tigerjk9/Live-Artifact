@@ -5,7 +5,7 @@
 */
 'use strict';
 
-var CACHE = 'di-v6';
+var CACHE = 'di-v7';
 var BASE  = self.registration.scope; // "https://tigerjk9.github.io/Live-Artifact/"
 
 var PRECACHE = [
@@ -17,6 +17,7 @@ var PRECACHE = [
   BASE + 'assets/facilitator.png',
   BASE + 'assets/archive.js',
   BASE + 'assets/trends.js',
+  BASE + 'assets/entity.js',
 ];
 
 /* ── Install: 정적 자산 선캐시 ─────────────────── */

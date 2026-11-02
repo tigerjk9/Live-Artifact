@@ -287,7 +287,8 @@
     "topic": "model",
     "kind": null,
     "entities": [
-     "Alibaba"
+     "Alibaba",
+     "LLM"
     ],
     "summary": "알리바바의 뉴립스 최고 논문상 수상은 LLM의 효율성을 높이는 어텐션 기술 혁신을 가속화하여 AI 모델 성능 향상과 산업 적용 확대에 기여할 것입니다.",
     "implication": "",

@@ -101,7 +101,8 @@
     "entities": [],
     "summary": "",
     "implication": "",
-    "ai": false
+    "ai": false,
+    "dup_of": "2026-03-23"
    },
    {
     "n": 8,
@@ -140,7 +141,7 @@
     "source": "경기일보",
     "published": "2026-03-24",
     "keyword": "인공지능교육",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "인천시교육청"
@@ -353,7 +354,8 @@
     ],
     "summary": "OpenAI API의 프롬프트 캐싱 기술은 AI 애플리케이션의 효율성을 높여 비용 절감 및 성능 향상에 기여할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-03-23"
    },
    {
     "n": 8,
@@ -365,7 +367,8 @@
     "topic": "industry",
     "kind": null,
     "entities": [
-     "ChatGPT"
+     "ChatGPT",
+     "OpenAI"
     ],
     "summary": "오픈AI의 IPO 성공 여부는 기술 경쟁 심화와 규제 불확실성 속에서 지속 가능한 혁신 역량 확보에 달려있습니다.",
     "implication": "",

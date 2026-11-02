@@ -104,7 +104,7 @@
     "source": "더에듀",
     "published": "2026-08-18",
     "keyword": "교육정책",
-    "topic": "higher_ed",
+    "topic": "policy",
     "kind": null,
     "entities": [
      "수능·대입"
@@ -253,6 +253,7 @@
     "topic": "industry",
     "kind": null,
     "entities": [
+     "Amazon",
      "에이전트"
     ],
     "summary": "클라우드 서비스 파트너가 AWS와 함께 기업용 AI 에이전트를 개발함은 AI 기술 생태계가 특정 비즈니스 영역으로 더욱 확장되고 있음을 보여줍니다.",
@@ -306,7 +307,8 @@
     ],
     "summary": "GPT-5.6 Sol의 14배 빠른 속도는 AI 서비스 비용 효율성을 획기적으로 개선하고 실시간 응용 분야를 확대하여 산업 전반의 혁신을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-08-16"
    },
    {
     "n": 5,
@@ -396,7 +398,7 @@
     "source": "AI넷",
     "published": "2026-08-18",
     "keyword": "GPT",
-    "topic": "product",
+    "topic": "model",
     "kind": null,
     "entities": [
      "ChatGPT",

@@ -253,7 +253,9 @@
     "keyword": "",
     "topic": "agent_dev",
     "kind": null,
-    "entities": [],
+    "entities": [
+     "Apple"
+    ],
     "summary": "한국딥러닝의 시리즈A 투자 유치는 AI 문서 자동화 시장 성장 가능성을 보여주며, 공공 및 기업 업무 효율성 증대에 기여할 것으로 기대됩니다.",
     "implication": "",
     "ai": true
@@ -389,7 +391,8 @@
     ],
     "summary": "AI 모델 성능이 상향 평준화되면서, OpenAI, Anthropic, Google 간 경쟁 심화 및 차별화 전략 모색이 중요해질 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-01-07"
    },
    {
     "n": 10,

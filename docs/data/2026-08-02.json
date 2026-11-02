@@ -91,7 +91,7 @@
     "source": "biztribune.co.kr",
     "published": "2026-08-01",
     "keyword": "AI교육",
-    "topic": "global",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [],
     "summary": "한화생명은 AI 시대 정보과학 인재 양성을 위해 국제정보올림피아드를 후원한다.",
@@ -263,7 +263,8 @@
     ],
     "summary": "딥시크 API 출시는 AI 에이전트의 성능을 향상시켜 자율적이고 복합적인 AI 솔루션 개발을 촉진할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-08-01"
    },
    {
     "n": 2,
@@ -366,7 +367,8 @@
     ],
     "summary": "Google AI Studio를 활용한 '바이브 코딩' 퀴즈는 AI가 개인화된 감성 콘텐츠 창작을 가속화하고 개발자 도구의 접근성을 높이는 방향으로 진화할 것임을 시사합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-07-30"
    },
    {
     "n": 8,
@@ -380,7 +382,8 @@
     "entities": [],
     "summary": "AI가 인간의 업무 영역을 확장함에 따라, AI 기술 생태계는 인간-AI 협업 및 증강 솔루션 개발에 주력할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-07-31"
    },
    {
     "n": 9,
@@ -413,7 +416,8 @@
     ],
     "summary": "단 두 가지 설정 변경으로 ARC-AGI-3 벤치마크 점수가 3배 상승한 것은 AGI 개발에서 효율적인 시스템 최적화의 중요성을 보여줍니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-08-01"
    }
   ]
  },

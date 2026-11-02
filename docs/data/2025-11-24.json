@@ -10,7 +10,7 @@
     "source": "네이트",
     "published": "2025-11-23",
     "keyword": "인공지능교육",
-    "topic": "student_care",
+    "topic": "ai_digital",
     "kind": "opinion",
     "entities": [
      "개인화 학습"
@@ -42,7 +42,9 @@
     "keyword": "뇌과학",
     "topic": "classroom",
     "kind": "interview",
-    "entities": [],
+    "entities": [
+     "Apple"
+    ],
     "summary": "신한은행의 인터뷰 시리즈는 미래 사회 변화에 대한 통찰을 제공하여 교육계가 변화에 발맞춘 교육과정 개발 및 인재 양성에 힘써야 함을 시사합니다.",
     "implication": "",
     "ai": true
@@ -150,7 +152,9 @@
     "keyword": "교육혁신",
     "topic": "classroom",
     "kind": null,
-    "entities": [],
+    "entities": [
+     "IB"
+    ],
     "summary": "충남형 IB학교 운영 사례 공유는 교사 간 협력적 수업 및 평가 문화 확산을 통해 공교육 혁신에 기여할 수 있다는 점을 시사합니다.",
     "implication": "",
     "ai": true

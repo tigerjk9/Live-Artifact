@@ -120,7 +120,7 @@
     "source": "교육플러스",
     "published": "2026-09-09",
     "keyword": "교육정책",
-    "topic": "global",
+    "topic": "policy",
     "kind": null,
     "entities": [],
     "summary": "정미라 교육정책디자인연구소 공동소장이 국교위 비상임위원으로 위촉되었습니다.",
@@ -301,7 +301,7 @@
     "source": "위키트리",
     "published": "2026-09-09",
     "keyword": "GPT",
-    "topic": "product",
+    "topic": "model",
     "kind": null,
     "entities": [
      "OpenAI",
@@ -337,7 +337,8 @@
     "topic": "industry",
     "kind": null,
     "entities": [
-     "Anthropic"
+     "Anthropic",
+     "Amazon"
     ],
     "summary": "Anthropic이 최첨단 AI를 기업 인프라로 제공하는 것은 AI 기술 생태계가 클라우드 컴퓨팅처럼 표준화되고 보편화될 것임을 시사합니다.",
     "implication": "",

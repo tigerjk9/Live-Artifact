@@ -103,7 +103,7 @@
     "source": "더에듀",
     "published": "2026-10-12",
     "keyword": "교육정책",
-    "topic": "teacher",
+    "topic": "policy",
     "kind": null,
     "entities": [],
     "summary": "충남 교사들이 교육활동 보호와 교육정책 전환을 촉구했습니다.",
@@ -260,7 +260,8 @@
     ],
     "summary": "엔비디아는 오픈소스 AI 기업 인수를 통해 하드웨어 넘어 소프트웨어 생태계까지 장악하며 AI 스택 전반의 주도권을 강화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-10-11"
    },
    {
     "n": 2,
@@ -288,7 +289,8 @@
     "entities": [],
     "summary": "AI 데이터 투자가 보편화됨에 따라, AI 산업은 단순한 준비를 넘어 실질적인 비즈니스 가치 창출 역량으로 경쟁의 초점이 이동할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-10-11"
    },
    {
     "n": 4,
@@ -323,7 +325,8 @@
     ],
     "summary": "AI는 자본 시장처럼 전문성이 높은 분야에서 인간의 역량을 효과적으로 확장하는 핵심 수단으로 부상, AI 기술의 산업별 심층 적용을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-10-09"
    },
    {
     "n": 6,
@@ -340,7 +343,8 @@
     ],
     "summary": "MS의 디시전-1은 AI가 자율적 의사결정을 통해 실제 행동으로 이어지는 '능동적 AI' 생태계의 전환점이 될 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-10-11"
    },
    {
     "n": 7,
@@ -372,6 +376,7 @@
     "kind": null,
     "entities": [
      "NVIDIA",
+     "GPU·데이터센터",
      "OpenAI",
      "ChatGPT"
     ],
@@ -391,7 +396,8 @@
     "entities": [],
     "summary": "AI 기술은 유통업계의 핵심 비즈니스 혁신을 이끌며 관련 산업 생태계 확장을 촉진할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-10-10"
    },
    {
     "n": 10,
@@ -407,7 +413,8 @@
     ],
     "summary": "AI의 예측 과제 내 숨겨진 함정 취약점은 AI 기술의 신뢰성 및 논리적 추론 능력 강화가 필수적임을 강조합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-10-10"
    }
   ]
  },

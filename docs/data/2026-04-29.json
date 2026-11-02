@@ -258,7 +258,9 @@
     "kind": null,
     "entities": [
      "DeepSeek",
-     "ChatGPT"
+     "ChatGPT",
+     "Apple",
+     "OpenAI"
     ],
     "summary": "딥시크가 AI 모델 가격을 대폭 인하했다. 특히 최신 모델 'V4' 시리즈는 일부 기준에서 오픈AI의 'GPT-5.5'에 비해 최대 97% 저렴한 수준으로 책정, AI 업계 전반에 가격 경쟁 격화를 예고했다. 딥시크는 27일(현지시간) API 이용자들을 대상으로 ‘입력 캐시 히트(input cache hits)’ 비용을 기존의 10분의 1 수준으로 낮추고,",
     "implication": "",

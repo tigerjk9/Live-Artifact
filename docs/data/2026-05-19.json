@@ -55,7 +55,7 @@
     "source": "경북신문",
     "published": "2026-05-18",
     "keyword": "교육정책",
-    "topic": "classroom",
+    "topic": "policy",
     "kind": null,
     "entities": [
      "경북교육청",
@@ -326,7 +326,7 @@
     "source": "대학저널",
     "published": "2026-05-18",
     "keyword": "GPT",
-    "topic": "agent_dev",
+    "topic": "model",
     "kind": null,
     "entities": [
      "ChatGPT",

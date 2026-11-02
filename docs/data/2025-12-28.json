@@ -82,7 +82,8 @@
     ],
     "summary": "김지철 교육감의 발언은 미래 교육이 학생 존엄성을 바탕으로 기초학력, 인성, AI 역량 함양을 균형 있게 추구해야 함을 강조하는 것으로 보입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2025-12-27"
    },
    {
     "n": 6,
@@ -91,7 +92,7 @@
     "source": "네이트",
     "published": "2025-12-27",
     "keyword": "AI교육",
-    "topic": "classroom",
+    "topic": "ai_digital",
     "kind": "interview",
     "entities": [
      "부산시교육청"

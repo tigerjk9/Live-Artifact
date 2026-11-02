@@ -1,0 +1,72 @@
+name: Maintenance
+
+# 데이터 계층 유지보수 — 키가 필요한 백필을 Actions에서 돌린다.
+#   enrich          주제 보정 + 논문 한국어 제목 (Gemini, 하루 1회 호출) — 범위 지정 권장 (예: 30일씩)
+#   summaries       한국어 요약 없는 항목에 제목 기반 요약 보강 (Gemini) — 2026-03~04 공백용
+#   weekly-backfill 끝난 모든 주의 주간 다이제스트 (Gemini 주당 1회)
+#   mark-dups       전날 지면 중복 표시 (키 불필요)
+#   og-all          OG 이미지 전부 다시 렌더 (Playwright)
+#   rebuild         아카이브 HTML 전부 재렌더 (템플릿 변경 후)
+on:
+  workflow_dispatch:
+    inputs:
+      task:
+        description: "작업"
+        type: choice
+        required: true
+        options: [enrich, summaries, weekly-backfill, mark-dups, og-all, rebuild]
+      date_from:
+        description: "범위 시작 YYYY-MM-DD (enrich/summaries/mark-dups; 비우면 처음부터)"
+        type: string
+        default: ""
+      date_to:
+        description: "범위 끝 YYYY-MM-DD (비우면 오늘)"
+        type: string
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: live-artifact-write
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Run task
+        env:
+          NEWS_TOKEN: ${{ secrets.NEWS_GITHUB_TOKEN }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          ARGS="--task ${{ inputs.task }}"
+          [ -n "${{ inputs.date_from }}" ] && ARGS="$ARGS --from ${{ inputs.date_from }}"
+          [ -n "${{ inputs.date_to }}" ] && ARGS="$ARGS --to ${{ inputs.date_to }}"
+          echo "python scripts/fetch_and_generate.py $ARGS"
+          python scripts/fetch_and_generate.py $ARGS
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/
+          if git diff --staged --quiet; then
+            echo "변경 없음"
+            exit 0
+          fi
+          git commit -m "chore(maintenance): ${{ inputs.task }} ${{ inputs.date_from }}${{ inputs.date_from && '~' || '' }}${{ inputs.date_to }}"
+          git pull --rebase origin main
+          git push

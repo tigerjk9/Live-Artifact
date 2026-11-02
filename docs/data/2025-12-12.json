@@ -70,7 +70,7 @@
     "source": "시사포커스",
     "published": "2025-12-11",
     "keyword": "인공지능교육",
-    "topic": "classroom",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "경북교육청",
@@ -338,7 +338,7 @@
     "source": "네이트",
     "published": "2025-12-11",
     "keyword": "GPT",
-    "topic": "product",
+    "topic": "model",
     "kind": null,
     "entities": [
      "Google",

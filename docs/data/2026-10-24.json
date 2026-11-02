@@ -59,7 +59,7 @@
     "source": "데일리안",
     "published": "2026-10-23",
     "keyword": "인공지능교육",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "인천시교육청"
@@ -75,7 +75,7 @@
     "source": "녹색경제신문",
     "published": "2026-10-23",
     "keyword": "인공지능교육",
-    "topic": "global",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "교육부"
@@ -346,7 +346,8 @@
     ],
     "summary": "AI 생태계는 사용자 신뢰와 관련성을 기반으로 한 광고 모델이 차세대 수익화 표준이 될 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-10-23"
    },
    {
     "n": 7,

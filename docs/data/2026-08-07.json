@@ -26,9 +26,10 @@
     "source": "자연치유일보",
     "published": "2026-08-06",
     "keyword": "과정중심평가",
-    "topic": "higher_ed",
+    "topic": "classroom",
     "kind": null,
     "entities": [
+     "IB",
      "수능·대입"
     ],
     "summary": "한국IB교육학회는 국교위의 대입 서·논술형·절대평가 공론화 추진을 환영했습니다.",
@@ -152,7 +153,7 @@
     "source": "울산제일일보",
     "published": "2026-08-06",
     "keyword": "교육정책",
-    "topic": "global",
+    "topic": "policy",
     "kind": null,
     "entities": [
      "울산시교육청"
@@ -375,7 +376,8 @@
     ],
     "summary": "GPT-5.6은 AI 모델의 가격 대비 성능을 혁신하여 AI 기술의 대중화와 상업적 활용을 가속하고 시장 경쟁을 심화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-08-04"
    },
    {
     "n": 9,

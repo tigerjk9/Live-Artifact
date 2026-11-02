@@ -45,7 +45,8 @@
     ],
     "summary": "중동 분쟁으로 촉발된 국제 유가 급등이 싱가포르 교육 현장에도 직접적인 영향을 미치고 있다. 각국 정부가 학교 현장의 운영 부담 완화를 위한 대응에 나선 가운데, 싱가포르에서는 교외 활동 버스요금 인상까지 검토 대상으로 떠오르며 교육비 구조 전반에 변화가 예고되고 있다.17일 Channel News Asia 보도에 따르면, 싱가포",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-04-20"
    },
    {
     "n": 4,
@@ -342,6 +343,7 @@
     "topic": "agent_dev",
     "kind": null,
     "entities": [
+     "SK",
      "에이전트"
     ],
     "summary": "SK브로드밴드의 AI 에이전트 랩 운영은 통신 서비스 AX 혁신을 가속화하고, AI 기술 내재화 및 서비스 경쟁력 강화에 기여할 것입니다.",
@@ -365,7 +367,8 @@
     ],
     "summary": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
     "implication": "",
-    "ai": false
+    "ai": false,
+    "dup_of": "2026-04-18"
    },
    {
     "n": 8,
@@ -382,7 +385,8 @@
     ],
     "summary": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
     "implication": "",
-    "ai": false
+    "ai": false,
+    "dup_of": "2026-04-18"
    },
    {
     "n": 9,

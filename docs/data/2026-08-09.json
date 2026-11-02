@@ -79,7 +79,8 @@
     ],
     "summary": "대전시교육청이 명달호 교장을 교육국장으로, 김옥세 교장을 교육정책과장으로 발령했습니다.",
     "implication": "교육정책과장 발령 소식을 계기로 학생들과 앞으로의 교육 방향에 대해 토론할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-08-08"
    },
    {
     "n": 6,
@@ -137,7 +138,7 @@
     "source": "대학지성 In&Out",
     "published": "2026-08-08",
     "keyword": "인공지능교육",
-    "topic": "classroom",
+    "topic": "policy",
     "kind": null,
     "entities": [
      "국회"
@@ -327,7 +328,7 @@
     "source": "구글 뉴스 AI",
     "published": "2026-08-08",
     "keyword": "",
-    "topic": "product",
+    "topic": "model",
     "kind": null,
     "entities": [
      "OpenAI",

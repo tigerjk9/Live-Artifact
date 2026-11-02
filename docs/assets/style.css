@@ -1244,3 +1244,83 @@ body[data-page="trends"]  .search-bar-wrap { top: var(--header-h); }
 .head-txt .src-ai { font: 700 var(--t-2xs)/1 var(--font); padding: 1px 5px; border: 1px solid var(--c-paper); color: var(--c-paper); margin-left: 8px; vertical-align: 2px; letter-spacing: 0.06em; }
 .tr-empty { padding: 20px 0; color: var(--tx-mute); font: 400 var(--t-sm)/1.5 var(--font-ko); }
 .head-list li.tr-empty, .rank-list li.tr-empty, .tl-list li.tr-empty { display: block; }
+
+/* ═══════════════════════════════════════════════════════════
+   v6 — 주체 페이지 · 주간 다이제스트 · 중복 표시 · 한국어 제목 병기
+   ═══════════════════════════════════════════════════════════ */
+.page-kicker { font: 700 var(--t-2xs)/1 var(--font); letter-spacing: 0.14em; text-transform: uppercase; color: var(--tx-3); margin-bottom: 10px; }
+.page-kicker a { color: inherit; }
+.page-kicker a:hover { color: var(--ink); text-decoration: underline; }
+
+/* 주체 칩 옆 1년 흐름 링크 */
+.ent-list li { display: inline-flex; align-items: stretch; }
+.ent-link {
+  display: inline-flex; align-items: center;
+  padding: 0 6px;
+  border: 1px solid var(--rule-2); border-left: none;
+  font: 600 var(--t-xs)/1 var(--font-en);
+  color: var(--tx-3);
+  transition: background 0.12s, color 0.12s;
+}
+.ent-link:hover { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+
+/* 기사: 전날 실림 · 한국어 제목 병기 · 요약 보강 */
+.entry-dup { font: 600 var(--t-2xs)/1 var(--font); letter-spacing: 0.04em; color: var(--tx-mute); border: 1px dashed var(--rule-2); padding: 1px 5px; white-space: nowrap; }
+.entry--dup .entry-title { color: var(--tx-2); }
+.entry--dup .entry-num { opacity: 0.45; }
+.entry-title-orig { font: 400 var(--t-xs)/1.4 var(--font); color: var(--tx-3); font-style: italic; overflow-wrap: anywhere; margin-top: -1px; }
+.entry-kind-ai { border-bottom-style: dotted; }
+
+/* 검색 결과 요약 스니펫 */
+.arch-result-main { min-width: 0; display: flex; flex-direction: column; gap: 2px; }
+.arch-result-snip { font: 400 var(--t-xs)/1.5 var(--font); color: var(--tx-3); overflow-wrap: anywhere; }
+.arch-result-snip mark { background: var(--c-tec-s); color: inherit; padding: 0 1px; }
+
+/* 주체 페이지 */
+.ent-group { margin-top: 30px; }
+.ent-group .arch-month-title { padding-bottom: 8px; border-bottom: 2px solid var(--ink); margin-bottom: 10px; }
+.ent-chart { height: 110px; }
+.ent-chart .vol-col { background: none; }
+.ent-chart .b-ink { background: var(--ink); }
+.ent-chart .vol-col:hover .b-ink { background: var(--c-tech); }
+.ent-items { margin-top: 28px; border-top: 3px solid var(--ink); padding-top: 14px; }
+.ent-items .arch-more { margin-top: 16px; }
+a.rank-name:hover, a.tl-name:hover { text-decoration: underline; text-underline-offset: 3px; }
+.tr-card.span-2 + .tr-grid { margin-top: 24px; }
+body[data-page="entity"] .tr-card.span-2 { margin-bottom: 0; }
+
+/* 주간 다이제스트 */
+.wk-syn { margin: 6px 0 22px; }
+.wk-kicker { display: flex; align-items: center; gap: 10px; font: 700 var(--t-xs)/1 var(--font); letter-spacing: 0.14em; text-transform: uppercase; color: var(--tx-2); }
+.wk-kicker::before { content: ''; width: 10px; height: 10px; background: var(--ink); }
+.wk-headline { margin-top: 12px; font: 700 clamp(1.5rem, 3vw, 2.5rem)/1.25 var(--font-ko); letter-spacing: -0.018em; max-width: 26em; text-wrap: balance; }
+.wk-threads { margin-top: 18px; border-top: 1px solid var(--rule); padding-top: 16px; }
+.wk-stats { padding: 14px 0; border-top: 3px solid var(--ink); border-bottom: 1px solid var(--rule); justify-content: flex-start; gap: 8px 40px; }
+.wk-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 24px 32px; margin-top: 22px; }
+.wk-cell { min-width: 0; border-top: 1px solid var(--ink); padding-top: 12px; }
+.wk-cell.span-2 { grid-column: 1 / -1; }
+.wk-cell .trend-deltas { margin-top: 12px; }
+.wk-picks { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0 24px; }
+.wk-pick-col h4 { font: 800 var(--t-sm)/1 var(--font-ko); padding: 8px 10px; color: var(--bg); background: var(--ink); margin-bottom: 4px; }
+.wk-pick-col[data-cat="edu"] h4 { background: var(--c-edu); }
+.wk-pick-col[data-cat="paper"] h4 { background: var(--c-paper); }
+.wk-pick-col[data-cat="tech"] h4 { background: var(--c-tech); }
+[data-theme="dark"] .wk-pick-col h4 { color: oklch(14% 0.012 60); }
+.wk-pick-col .entry { grid-template-columns: 34px minmax(0, 1fr); padding: 12px 0; }
+.wk-pick-col .entry-num { font-size: 1.5rem; }
+.wk-pick-col[data-cat="edu"] .entry-num { color: var(--c-edu); }
+.wk-pick-col[data-cat="paper"] .entry-num { color: var(--c-paper); }
+.wk-pick-col[data-cat="tech"] .entry-num { color: var(--c-tech); }
+.wk-pick-col .entry-title { font-size: var(--t-lg); -webkit-line-clamp: 3; }
+.wk-list { border-top: 3px solid var(--ink); }
+.wk-item a { display: grid; grid-template-columns: 90px minmax(0, 1.2fr) minmax(0, 2fr) auto; gap: 8px 18px; align-items: baseline; padding: 14px 0; border-bottom: 1px solid var(--rule); transition: background 0.12s; }
+.wk-item a:hover { background: var(--paper-2); }
+.wk-item-key { font: 500 var(--t-md)/1 var(--font-en); letter-spacing: 0.04em; color: var(--tx-3); }
+.wk-item-label { font: 700 var(--t-lg)/1.3 var(--font-ko); color: var(--ink); }
+.wk-item-head { font: 400 var(--t-md)/1.5 var(--font); color: var(--tx-2); overflow-wrap: anywhere; }
+.wk-item-n { font: 500 var(--t-xs)/1 var(--font-en); color: var(--tx-mute); white-space: nowrap; }
+@media (max-width: 900px) {
+  .wk-grid { grid-template-columns: 1fr; }
+  .wk-picks { grid-template-columns: 1fr; }
+  .wk-item a { grid-template-columns: 1fr; gap: 4px; }
+}

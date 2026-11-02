@@ -297,7 +297,8 @@
     "topic": "model",
     "kind": null,
     "entities": [
-     "Alibaba"
+     "Alibaba",
+     "GPU·데이터센터"
     ],
     "summary": "알리바바의 플래시QLA는 고성능 AI 모델 개발 경쟁 심화 속에서 맞춤형 하드웨어-소프트웨어 최적화 중요성을 부각할 것입니다.",
     "implication": "",
@@ -396,10 +397,11 @@
     "source": "kmjournal.net",
     "published": "2026-05-05",
     "keyword": "GPT",
-    "topic": "product",
+    "topic": "model",
     "kind": null,
     "entities": [
-     "ChatGPT"
+     "ChatGPT",
+     "OpenAI"
     ],
     "summary": "챗GPT 점유율 하락에도 오픈AI의 속도 유지는 AI 기술 경쟁 심화 속에서 선두 유지를 위한 불가피한 전략임을 시사합니다.",
     "implication": "",

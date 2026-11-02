@@ -89,6 +89,7 @@
     "topic": "ai_digital",
     "kind": null,
     "entities": [
+     "Apple",
      "개인화 학습"
     ],
     "summary": "에듀테크 트루밸류의 투자 유치는 맞춤형 교육 콘텐츠에 대한 시장의 요구를 반영하며, 에듀테크 경쟁 심화와 교육 방식 혁신을 가속화할 것입니다.",
@@ -304,7 +305,7 @@
     "source": "AI Times",
     "published": "2025-11-24",
     "keyword": "",
-    "topic": "model",
+    "topic": "industry",
     "kind": null,
     "entities": [
      "GPU·데이터센터"
@@ -328,7 +329,8 @@
     ],
     "summary": "OpenAI의 GPT-4o API 지원 종료는 개발자들의 모델 의존성을 낮추고 기술 변화에 대한 적응력을 높이는 계기가 될 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2025-11-24"
    },
    {
     "n": 6,
@@ -383,7 +385,8 @@
     ],
     "summary": "Gemini 3 Pro와 GPT-5 조차 복잡한 과학 연구 수준의 물리 문제 해결에 실패하며, AI가 실제 과학 발전에 기여하기에는 아직 한계가 있다는 것을 보여줍니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2025-11-24"
    },
    {
     "n": 9,

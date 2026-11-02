@@ -10,7 +10,7 @@
     "source": "수원일보",
     "published": "2026-08-04",
     "keyword": "AI교육",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
     "summary": "수원일보 사설은 AI 시대에 안민석 교육감의 ‘경기 LAS 문예체 교육’에 주목하고 있음을 보도합니다.",
@@ -24,7 +24,7 @@
     "source": "구글 뉴스",
     "published": "2026-08-03",
     "keyword": "",
-    "topic": "classroom",
+    "topic": "ai_digital",
     "kind": "interview",
     "entities": [
      "대전시교육청",
@@ -334,7 +334,8 @@
     ],
     "summary": "GPT-5.6이 가격-성능의 한계를 넓힘으로써 AI 기술의 대중화와 산업 전반의 효율성 및 혁신을 크게 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-08-02"
    },
    {
     "n": 7,
@@ -350,7 +351,8 @@
     ],
     "summary": "OpenClaw와 Ollama를 활용한 에이전트 AI 발전은 완전 자율적이고 확장 가능한 AI 에이전트 시스템 시대를 앞당길 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-08-04"
    },
    {
     "n": 8,
@@ -364,7 +366,8 @@
     "entities": [],
     "summary": "AI는 인간의 업무 역량과 영역을 확장하는 핵심 동력으로 작용하며, AI-인간 협업 솔루션 시장이 크게 성장할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-08-02"
    },
    {
     "n": 9,

@@ -1,0 +1,404 @@
+{
+ "key": "2026-W08",
+ "label": "2026년 2월 16일 ~ 22일",
+ "dates": [
+  "2026-02-16",
+  "2026-02-17",
+  "2026-02-18",
+  "2026-02-19",
+  "2026-02-20",
+  "2026-02-21",
+  "2026-02-22"
+ ],
+ "days_present": 7,
+ "counts": {
+  "edu": 70,
+  "paper": 15,
+  "tech": 30
+ },
+ "total": 115,
+ "prev_total": 126,
+ "top_entities": [
+  {
+   "name": "경기도교육청",
+   "kind": "edu_org",
+   "n": 10,
+   "delta": -3
+  },
+  {
+   "name": "교육감 선거",
+   "kind": "issue",
+   "n": 9,
+   "delta": 3
+  },
+  {
+   "name": "Google",
+   "kind": "org",
+   "n": 9,
+   "delta": 6
+  },
+  {
+   "name": "개인화 학습",
+   "kind": "tech",
+   "n": 8,
+   "delta": -4
+  },
+  {
+   "name": "AI 안전·규제",
+   "kind": "tech",
+   "n": 8,
+   "delta": 6
+  },
+  {
+   "name": "Gemini",
+   "kind": "model",
+   "n": 6,
+   "delta": 5
+  },
+  {
+   "name": "교육부",
+   "kind": "edu_org",
+   "n": 5,
+   "delta": 0
+  },
+  {
+   "name": "IB",
+   "kind": "issue",
+   "n": 5,
+   "delta": 4
+  },
+  {
+   "name": "LLM",
+   "kind": "tech",
+   "n": 4,
+   "delta": 3
+  },
+  {
+   "name": "ChatGPT",
+   "kind": "model",
+   "n": 4,
+   "delta": -8
+  },
+  {
+   "name": "대전시교육청",
+   "kind": "edu_org",
+   "n": 3,
+   "delta": 3
+  },
+  {
+   "name": "수능·대입",
+   "kind": "issue",
+   "n": 3,
+   "delta": 1
+  }
+ ],
+ "rising": [
+  {
+   "name": "Google",
+   "kind": "org",
+   "n": 9,
+   "delta": 6
+  },
+  {
+   "name": "AI 안전·규제",
+   "kind": "tech",
+   "n": 8,
+   "delta": 6
+  },
+  {
+   "name": "Gemini",
+   "kind": "model",
+   "n": 6,
+   "delta": 5
+  },
+  {
+   "name": "IB",
+   "kind": "issue",
+   "n": 5,
+   "delta": 4
+  },
+  {
+   "name": "교육감 선거",
+   "kind": "issue",
+   "n": 9,
+   "delta": 3
+  },
+  {
+   "name": "LLM",
+   "kind": "tech",
+   "n": 4,
+   "delta": 3
+  }
+ ],
+ "topic_share": {
+  "edu": [
+   {
+    "id": "policy",
+    "label": "정책·행정",
+    "n": 22,
+    "pct": 31,
+    "delta": 3
+   },
+   {
+    "id": "ai_digital",
+    "label": "AI·디지털교육",
+    "n": 16,
+    "pct": 23,
+    "delta": -11
+   },
+   {
+    "id": "classroom",
+    "label": "수업·교육과정",
+    "n": 13,
+    "pct": 19,
+    "delta": 3
+   },
+   {
+    "id": "higher_ed",
+    "label": "대학·입시·평생",
+    "n": 9,
+    "pct": 13,
+    "delta": 7
+   },
+   {
+    "id": "teacher",
+    "label": "교사·교권",
+    "n": 6,
+    "pct": 9,
+    "delta": -3
+   },
+   {
+    "id": "student_care",
+    "label": "학생·돌봄·안전",
+    "n": 3,
+    "pct": 4,
+    "delta": 3
+   },
+   {
+    "id": "global",
+    "label": "해외·연구",
+    "n": 1,
+    "pct": 1,
+    "delta": -2
+   }
+  ],
+  "paper": [
+   {
+    "id": "design_curric",
+    "label": "교수설계·교육과정",
+    "n": 4,
+    "pct": 27,
+    "delta": 22
+   },
+   {
+    "id": "genai_tutor",
+    "label": "생성형 AI·튜터",
+    "n": 4,
+    "pct": 27,
+    "delta": 6
+   },
+   {
+    "id": "literacy_ethics",
+    "label": "AI 리터러시·윤리",
+    "n": 2,
+    "pct": 13,
+    "delta": -8
+   },
+   {
+    "id": "personalized",
+    "label": "개인화·학습분석",
+    "n": 2,
+    "pct": 13,
+    "delta": -8
+   },
+   {
+    "id": "inclusion_sel",
+    "label": "포용·정서·웰빙",
+    "n": 1,
+    "pct": 7,
+    "delta": 7
+   },
+   {
+    "id": "stem_ct",
+    "label": "컴퓨팅·STEM",
+    "n": 1,
+    "pct": 7,
+    "delta": 7
+   },
+   {
+    "id": "teacher_pd",
+    "label": "교사 전문성",
+    "n": 1,
+    "pct": 7,
+    "delta": -14
+   }
+  ],
+  "tech": [
+   {
+    "id": "model",
+    "label": "모델·연구",
+    "n": 15,
+    "pct": 50,
+    "delta": 4
+   },
+   {
+    "id": "product",
+    "label": "제품·서비스",
+    "n": 5,
+    "pct": 17,
+    "delta": -4
+   },
+   {
+    "id": "policy_safety",
+    "label": "정책·윤리·안전",
+    "n": 4,
+    "pct": 13,
+    "delta": 8
+   },
+   {
+    "id": "industry",
+    "label": "산업·투자·인프라",
+    "n": 2,
+    "pct": 7,
+    "delta": -11
+   },
+   {
+    "id": "edu_ai",
+    "label": "교육 AI",
+    "n": 2,
+    "pct": 7,
+    "delta": 4
+   },
+   {
+    "id": "usecase",
+    "label": "활용·사례",
+    "n": 1,
+    "pct": 3,
+    "delta": 0
+   },
+   {
+    "id": "agent_dev",
+    "label": "에이전트·개발도구",
+    "n": 1,
+    "pct": 3,
+    "delta": -2
+   }
+  ]
+ },
+ "daily": [
+  {
+   "d": "2026-02-16",
+   "n": 10,
+   "head": "AI 기술 융합과 사회정서 학습 강화, 고교학점제 도입, 교원 역량 개발 및 교육 격차 해소를 통해 교육 혁신을 가속화하며 미래 교육으로 나아가는 움직임이 활발",
+   "src": "note"
+  },
+  {
+   "d": "2026-02-17",
+   "n": 10,
+   "head": "AI 기술 도입 및 활용 확대, 교육감 선거를 통한 미래 교육 비전 제시, 학령인구 감소에 따른 교육 환경 변화 등 교육 현장은 AI 기반 맞춤형 교육과 미래 교육 시스템 구축을 향해 빠르게 변화하고 있습니다.",
+   "src": "note"
+  },
+  {
+   "d": "2026-02-18",
+   "n": 10,
+   "head": "AI 기술 발전과 더불어 IB 교육 확산, 에듀테크 강화, AI 플랫폼 도입 등 교육 혁신이 가속화되며 미래 교육을 위한 긍정적인 변화가 활발하게 이루어지고 있습니다.",
+   "src": "note"
+  },
+  {
+   "d": "2026-02-19",
+   "n": 25,
+   "head": "AI 기술을 교육과정에 통합하고, 디지털 격차 해소 및 교원 역량 강화를 통해 고교학점제 안착과 학습권 보장을 추구하며 미래 교육으로 나아가는 긍정적인 변화가 가속화되고 있다.",
+   "src": "note"
+  },
+  {
+   "d": "2026-02-20",
+   "n": 28,
+   "head": "AI 융합 교육 심화, 뇌과학 기반 학습 연구 확산, 유학생 유치 후 정착 지원 강화 등 교육 혁신을 통해 미래 인재 양성에 박차를 가하는 중!",
+   "src": "note"
+  },
+  {
+   "d": "2026-02-21",
+   "n": 25,
+   "head": "AI 리터러시 역량 강화와 인간 중심 교육의 가치 재정립을 통해 교육 혁신을 가속화하고, 미래 사회에 필요한 창의적 인재 양성에 집중하는 긍정적인 변화가 기대된다.",
+   "src": "note"
+  },
+  {
+   "d": "2026-02-22",
+   "n": 10,
+   "head": "AI 시대의 정보 판단 역량 강화, 교직 사회 혁신, 미래 교육 비전 제시, 뇌과학 기반 학습 전략, 교육감 선거 경쟁 심화 등 다양한 변화 속에서 교육 혁신을 향한 노력이 가속화되고 있습니다.",
+   "src": "note"
+  }
+ ],
+ "picks": {
+  "edu": [
+   {
+    "d": "2026-02-17",
+    "n": 5,
+    "t": "\"AI 는 필수\" 외치는 경기교육감 후보들…구상 물었더니",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXTE9BcFVTaHh1WDlCMzFnSzlYckRHb3NXQnFlVGlreS1RbUh3YUdyd3YtOV96M1FqRFRxQVBwZ1I4WklTU2ZkOXdZeUNWVmJFTWc?oc=5",
+    "src": "노컷뉴스"
+   },
+   {
+    "d": "2026-02-16",
+    "n": 9,
+    "t": "교육부, '고교학점제·2028 대입' 개편안 확정··· 입시 전략 전면 재편 불가피",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xMWVhaXlJV25KdjIxQjhwTWJQMUVyZXJHbmpocjRzWnh5TFNndHZjZGYwcVdRYnJMaDhfdlNCRVlzUmJhT3lGVXdUUC13RzUxR0dyb1VzN21ueWtmRnpqZ1VucmQwZw?oc=5",
+    "src": "교육을 비추다"
+   },
+   {
+    "d": "2026-02-20",
+    "n": 12,
+    "t": "경기도교육청, ‘하이러닝’ 맞춤형 연수로 새 학기 디지털 교육 준비 완료 > 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FalJGM3lCd0ZRTTlOVHBjSi14cGJEU2s0R1N1cTNwNTB0RGN4UFlvdkl2ZkZmTVNvSXdCZlh5dWx1REllZnRwanYzS3lZWVNyRGxmam5GcUhnSFFVcFB1aGxVWTVMUXp2QTNVaC1MbnE?oc=5",
+    "src": "더코리아"
+   }
+  ],
+  "paper": [
+   {
+    "d": "2026-02-21",
+    "n": 3,
+    "t": "Educational Design Principles of Using AI Chatbot That Supports Self-Regulated Learning in Education: Goal Setting, Feedback, and Personalization",
+    "url": "https://www.semanticscholar.org/paper/c889cdd52db3ec7a8f8270ce80e010d2725aede2",
+    "src": "semantic_scholar"
+   },
+   {
+    "d": "2026-02-19",
+    "n": 2,
+    "t": "Educational technology: Exploring the convergence of technology and pedagogy through mobility, interactivity, AI, and learning tools",
+    "url": "https://www.semanticscholar.org/paper/2f6f13732a3710db88a4fc4b95dd52f75c096404",
+    "src": "semantic_scholar"
+   },
+   {
+    "d": "2026-02-20",
+    "n": 4,
+    "t": "The Importance of Autonomous, Self-Regulated Learning in Primary Initial Teacher Training",
+    "url": "https://www.semanticscholar.org/paper/3f3c66d1e3f3b290f50eacb3deb906e784514509",
+    "src": "semantic_scholar"
+   }
+  ],
+  "tech": [
+   {
+    "d": "2026-02-21",
+    "n": 5,
+    "t": "Google Unveils Gemini 3.1 Pro, Doubling AI Reasoning Power in Bid to Outpace OpenAI",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qdnJYeGhWdndHUWMwcFlfekdyeDhlRjROTnEwcTFubWZ0cTBvN3B6bWRqcFV5MmlkempUWUJfUlZLc1NMU2VtTUluU3N3eURCSVJFcDM2UFptOE9ab1lzTjgwZjhUa2x4NkE?oc=5",
+    "src": "kmjournal.net"
+   },
+   {
+    "d": "2026-02-20",
+    "n": 4,
+    "t": "구글의 Gemini 3.1 Pro, AI 벤치마크 성능 혁신 주도",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1reS1wTkpVcTZObS1kSnFNdW5pUjRHaW0xal90dWtBUjhtTWM2NTVZSVMzNHFFUHVsRHFGMDc4c3dySEVHQTNhWDBGSi1hRXJlX2hj0gFYQVVfeXFMTnZKTk9ZWHJyYWZ4MkY5cXJXZG5mVDQySEhsOENDdkJITHh0NHdrOFpqdUhlN096UVZidEh5cUVWUDQtUFVkZWU1aDR2QVdsc3hXUldabmxjNw?oc=5",
+    "src": "tokenpost.kr"
+   },
+   {
+    "d": "2026-02-19",
+    "n": 4,
+    "t": "구글 AI 음악 생성기 Lyria 3, Gemini에 탑재돼 30초 트랙 제작 가능",
+    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE52WkFxRTNXcG5qc05oeVRNVFZMNEZLdWFYVHFmRUdFSXpIZ2pmSlRaRDJjY2R0WThJVnNpdG1zNA?oc=5",
+    "src": "월간 믹싱"
+   }
+  ]
+ },
+ "generated_at": "2026-11-02T13:16:18+09:00"
+}

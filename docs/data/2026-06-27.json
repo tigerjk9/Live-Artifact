@@ -88,7 +88,7 @@
     "source": "한국강사신문",
     "published": "2026-06-26",
     "keyword": "AI활용수업",
-    "topic": "classroom",
+    "topic": "higher_ed",
     "kind": null,
     "entities": [],
     "summary": "경상국립대학교가 AI 활용 교수법 성과를 공개하며 AX 기반 수업혁신 모델을 제시했습니다.",
@@ -132,7 +132,7 @@
     "source": "충청헤럴드",
     "published": "2026-06-26",
     "keyword": "교육정책",
-    "topic": "classroom",
+    "topic": "policy",
     "kind": null,
     "entities": [],
     "summary": "교육정책의 근간이 되는 초기 단계를 재검토합니다.",
@@ -146,7 +146,7 @@
     "source": "아시아뉴스통신",
     "published": "2026-06-26",
     "keyword": "교육정책",
-    "topic": "global",
+    "topic": "policy",
     "kind": null,
     "entities": [
      "대전시교육청"
@@ -320,7 +320,7 @@
     "source": "AI Times",
     "published": "2026-06-26",
     "keyword": "",
-    "topic": "agent_dev",
+    "topic": "industry",
     "kind": null,
     "entities": [
      "오픈소스"
@@ -395,7 +395,8 @@
     ],
     "summary": "삼성전자의 챗GPT 및 코덱스 사내 도입은 기업의 AI 활용 표준을 제시하며 전 산업군의 생성형 AI 도입을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-06-24"
    },
    {
     "n": 10,
@@ -409,7 +410,8 @@
     "entities": [],
     "summary": "AI 화학자의 등장은 고난도 연구개발 분야에서 AI의 자율적인 기여 가능성을 입증하여, AI 기술 생태계의 전문화 및 산업 전반의 효율성 증대를 가속할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-06-24"
    }
   ]
  },

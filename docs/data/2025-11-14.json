@@ -91,7 +91,8 @@
     ],
     "summary": "서울시교육감의 교육실습 현장 방문은 교권 존중과 행복한 배움 환경 조성에 대한 의지를 보여주는 긍정적인 신호입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2025-11-13"
    },
    {
     "n": 7,
@@ -107,7 +108,8 @@
     ],
     "summary": "교육부 1급 인사 전면 교체는 새로운 교육 정책 방향을 예고하며, 현장과의 소통 및 정책 실행의 효율성을 높이는 데 주력해야 할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2025-11-13"
    },
    {
     "n": 8,
@@ -123,7 +125,8 @@
     ],
     "summary": "교사의 정당한 교육 활동이 무분별한 아동학대 신고로 위축되지 않도록 대통령을 비롯한 사회적 차원의 교권 보호 시스템 구축이 시급합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2025-11-13"
    },
    {
     "n": 9,
@@ -132,12 +135,13 @@
     "source": "에듀프레스",
     "published": "2025-11-10",
     "keyword": "",
-    "topic": "teacher",
+    "topic": "policy",
     "kind": null,
     "entities": [],
     "summary": "교사 리더십 함양을 통해 교사의 주체성을 회복하고 학교 신뢰를 구축하는 것이 공교육 위기 극복의 핵심 과제입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2025-11-13"
    },
    {
     "n": 10,
@@ -369,7 +373,8 @@
     ],
     "summary": "앤트로픽의 대규모 데이터센터 투자는 AI 경쟁 심화 속에서 데이터 주권 확보와 AI 모델 성능 향상을 위한 필연적인 전략입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2025-11-13"
    },
    {
     "n": 9,
@@ -378,7 +383,7 @@
     "source": "abcn.kr",
     "published": "2025-11-13",
     "keyword": "GPT",
-    "topic": "product",
+    "topic": "model",
     "kind": null,
     "entities": [
      "ChatGPT",

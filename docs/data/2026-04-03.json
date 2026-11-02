@@ -130,7 +130,7 @@
     "source": "ibrandnews.com",
     "published": "2026-04-02",
     "keyword": "AI디지털도구",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [],
     "summary": "",
@@ -256,6 +256,7 @@
     "kind": null,
     "entities": [
      "업스테이지",
+     "LLM",
      "에이전트"
     ],
     "summary": "업스테이지 스튜디오 출시는 기업들이 자체 LLM과 API를 활용해 문서 처리 자동화를 구축하도록 지원, AI 기술 활용 확산에 기여할 것입니다.",
@@ -292,7 +293,8 @@
     ],
     "summary": "OpenAI의 결정은 AI 안전성과 윤리적 가이드라인 준수에 대한 압박 속에서, 특정 사용 사례 제한을 통해 책임감 있는 AI 개발 방향을 모색하는 움직임으로 해석됩니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-03-31"
    },
    {
     "n": 4,
@@ -412,7 +414,8 @@
     ],
     "summary": "금융권에서 초개인화된 고객 경험을 제공하기 위한 AI 에이전트 도입 경쟁이 더욱 심화될 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-04-02"
    }
   ]
  },

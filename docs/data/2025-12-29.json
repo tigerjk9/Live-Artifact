@@ -96,14 +96,15 @@
     "source": "MSN",
     "published": "2025-12-28",
     "keyword": "AI교육",
-    "topic": "classroom",
+    "topic": "ai_digital",
     "kind": "interview",
     "entities": [
      "부산시교육청"
     ],
     "summary": "AI 시대에 발맞춰 사람 중심 미래 교육을 강조하는 부산교육감의 비전은 기술 변화 속에서도 교육의 본질을 잃지 않아야 함을 시사합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2025-12-28"
    },
    {
     "n": 8,
@@ -119,7 +120,8 @@
     ],
     "summary": "박종훈 교육감의 혁신교육 12년은 미래 교육의 중요한 기준점을 제시하며, 지속 가능한 교육 모델 구축에 대한 심도 깊은 논의를 촉발할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2025-12-28"
    },
    {
     "n": 9,

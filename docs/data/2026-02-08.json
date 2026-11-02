@@ -29,7 +29,8 @@
     "entities": [],
     "summary": "교사의 직업적 소명감 약화는 교원 수급 정책과 교사 양성 과정 전반에 대한 재검토 필요성을 시사합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-02-07"
    },
    {
     "n": 3,
@@ -84,7 +85,7 @@
     "source": "굿모닝충청",
     "published": "2026-02-07",
     "keyword": "교육혁신",
-    "topic": "teacher",
+    "topic": "higher_ed",
     "kind": null,
     "entities": [],
     "summary": "국립공주대 사범대학의 교원양성 역량진단 5회 연속 A등급은, 교원 양성 시스템의 질적 우수성을 입증하며 타 대학의 벤치마킹 모델이 될 수 있음을 시사합니다.",
@@ -145,7 +146,7 @@
     "source": "뉴스통",
     "published": "2026-02-07",
     "keyword": "인공지능교육",
-    "topic": "higher_ed",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "LG",

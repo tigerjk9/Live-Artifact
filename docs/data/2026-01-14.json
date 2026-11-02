@@ -80,7 +80,7 @@
     "source": "gukjenews.com",
     "published": "2026-01-13",
     "keyword": "AI교육",
-    "topic": "classroom",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "경남교육청"
@@ -143,7 +143,7 @@
     "source": "로컬투데이",
     "published": "2026-01-13",
     "keyword": "AI교육",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "세종시교육청"
@@ -266,7 +266,8 @@
     "kind": null,
     "entities": [
      "에이전트",
-     "추론 모델"
+     "추론 모델",
+     "LLM"
     ],
     "summary": "미로싱커 1.5 공개는 소규모 모델의 혁신적인 추론 능력으로 LLM의 효율성과 활용 가능성을 높이는 중요한 진전입니다.",
     "implication": "",

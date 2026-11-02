@@ -108,7 +108,7 @@
     "source": "중도일보",
     "published": "2026-09-07",
     "keyword": "인공지능교육",
-    "topic": "global",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [],
     "summary": "일본 교육계 인사 23명이 부산을 방문하여 AI 교육 현장을 참관할 예정입니다.",
@@ -122,7 +122,7 @@
     "source": "imaeil.com",
     "published": "2026-09-07",
     "keyword": "AI교육",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [],
     "summary": "부산시의회가 AI 교육 격차 문제에 대해 처음으로 현장 확인을 실시했다.",
@@ -409,7 +409,8 @@
     ],
     "summary": "법률 회사처럼 비기술 기업이 AI를 거버넌스하며 스케일링하는 성공 사례는 AI 기술 생태계가 책임감 있는 전사적 확산 중심으로 전환될 것임을 시사합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-09-05"
    }
   ]
  },

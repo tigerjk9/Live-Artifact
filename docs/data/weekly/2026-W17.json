@@ -1,0 +1,380 @@
+{
+ "key": "2026-W17",
+ "label": "2026년 4월 20일 ~ 26일",
+ "dates": [
+  "2026-04-20",
+  "2026-04-21",
+  "2026-04-22",
+  "2026-04-23",
+  "2026-04-24",
+  "2026-04-25",
+  "2026-04-26"
+ ],
+ "days_present": 7,
+ "counts": {
+  "edu": 67,
+  "paper": 35,
+  "tech": 51
+ },
+ "total": 153,
+ "prev_total": 166,
+ "top_entities": [
+  {
+   "name": "ChatGPT",
+   "kind": "model",
+   "n": 18,
+   "delta": 7
+  },
+  {
+   "name": "경기도교육청",
+   "kind": "edu_org",
+   "n": 17,
+   "delta": 11
+  },
+  {
+   "name": "에이전트",
+   "kind": "tech",
+   "n": 15,
+   "delta": 0
+  },
+  {
+   "name": "OpenAI",
+   "kind": "org",
+   "n": 12,
+   "delta": -3
+  },
+  {
+   "name": "오픈소스",
+   "kind": "tech",
+   "n": 8,
+   "delta": 1
+  },
+  {
+   "name": "생성형 AI",
+   "kind": "tech",
+   "n": 6,
+   "delta": -5
+  },
+  {
+   "name": "Google",
+   "kind": "org",
+   "n": 6,
+   "delta": 0
+  },
+  {
+   "name": "코딩 AI",
+   "kind": "tech",
+   "n": 5,
+   "delta": 0
+  },
+  {
+   "name": "Claude",
+   "kind": "model",
+   "n": 5,
+   "delta": -1
+  },
+  {
+   "name": "Anthropic",
+   "kind": "org",
+   "n": 5,
+   "delta": -2
+  },
+  {
+   "name": "교사 연수",
+   "kind": "issue",
+   "n": 5,
+   "delta": 0
+  },
+  {
+   "name": "NVIDIA",
+   "kind": "org",
+   "n": 4,
+   "delta": 2
+  }
+ ],
+ "rising": [
+  {
+   "name": "경기도교육청",
+   "kind": "edu_org",
+   "n": 17,
+   "delta": 11
+  },
+  {
+   "name": "ChatGPT",
+   "kind": "model",
+   "n": 18,
+   "delta": 7
+  }
+ ],
+ "topic_share": {
+  "edu": [
+   {
+    "id": "policy",
+    "label": "정책·행정",
+    "n": 29,
+    "pct": 43,
+    "delta": 10
+   },
+   {
+    "id": "ai_digital",
+    "label": "AI·디지털교육",
+    "n": 17,
+    "pct": 25,
+    "delta": -15
+   },
+   {
+    "id": "classroom",
+    "label": "수업·교육과정",
+    "n": 8,
+    "pct": 12,
+    "delta": -3
+   },
+   {
+    "id": "teacher",
+    "label": "교사·교권",
+    "n": 7,
+    "pct": 10,
+    "delta": 0
+   },
+   {
+    "id": "student_care",
+    "label": "학생·돌봄·안전",
+    "n": 5,
+    "pct": 7,
+    "delta": 6
+   },
+   {
+    "id": "global",
+    "label": "해외·연구",
+    "n": 1,
+    "pct": 1,
+    "delta": 1
+   }
+  ],
+  "paper": [
+   {
+    "id": "design_curric",
+    "label": "교수설계·교육과정",
+    "n": 9,
+    "pct": 26,
+    "delta": 15
+   },
+   {
+    "id": "learning_sci",
+    "label": "학습과학·인지",
+    "n": 5,
+    "pct": 14,
+    "delta": 8
+   },
+   {
+    "id": "personalized",
+    "label": "개인화·학습분석",
+    "n": 5,
+    "pct": 14,
+    "delta": 8
+   },
+   {
+    "id": "teacher_pd",
+    "label": "교사 전문성",
+    "n": 5,
+    "pct": 14,
+    "delta": -23
+   },
+   {
+    "id": "genai_tutor",
+    "label": "생성형 AI·튜터",
+    "n": 4,
+    "pct": 11,
+    "delta": 0
+   },
+   {
+    "id": "assessment",
+    "label": "평가·피드백",
+    "n": 4,
+    "pct": 11,
+    "delta": 0
+   },
+   {
+    "id": "literacy_ethics",
+    "label": "AI 리터러시·윤리",
+    "n": 2,
+    "pct": 6,
+    "delta": 6
+   },
+   {
+    "id": "stem_ct",
+    "label": "컴퓨팅·STEM",
+    "n": 1,
+    "pct": 3,
+    "delta": -8
+   }
+  ],
+  "tech": [
+   {
+    "id": "model",
+    "label": "모델·연구",
+    "n": 18,
+    "pct": 35,
+    "delta": 8
+   },
+   {
+    "id": "product",
+    "label": "제품·서비스",
+    "n": 11,
+    "pct": 22,
+    "delta": -1
+   },
+   {
+    "id": "agent_dev",
+    "label": "에이전트·개발도구",
+    "n": 10,
+    "pct": 20,
+    "delta": -2
+   },
+   {
+    "id": "industry",
+    "label": "산업·투자·인프라",
+    "n": 8,
+    "pct": 16,
+    "delta": 2
+   },
+   {
+    "id": "usecase",
+    "label": "활용·사례",
+    "n": 2,
+    "pct": 4,
+    "delta": 2
+   },
+   {
+    "id": "edu_ai",
+    "label": "교육 AI",
+    "n": 1,
+    "pct": 2,
+    "delta": -1
+   },
+   {
+    "id": "policy_safety",
+    "label": "정책·윤리·안전",
+    "n": 1,
+    "pct": 2,
+    "delta": -7
+   }
+  ]
+ },
+ "daily": [
+  {
+   "d": "2026-04-20",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-04-21",
+   "n": 24,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-04-22",
+   "n": 23,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-04-23",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-04-24",
+   "n": 23,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-04-25",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-04-26",
+   "n": 25,
+   "head": "",
+   "src": ""
+  }
+ ],
+ "picks": {
+  "edu": [
+   {
+    "d": "2026-04-20",
+    "n": 4,
+    "t": "경기도교육청, 학교 현장 담은 '우물현답' 첫 편 동탄중 사례 공개",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1rM2JFZFFRa1l1VlFQT2RsMUU3RnlCZWdUbzFtNTBINEo0VzJTSEhHRi1vZFQ3TzR3Q2dMUV9ETndHTEhUZS1xczczRFliQQ?oc=5",
+    "src": "전자신문"
+   },
+   {
+    "d": "2026-04-21",
+    "n": 8,
+    "t": "경기도교육청, 학교현장 영상콘텐츠 '우물현답' 공개",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5UYlFCWDlCSDBDZWFfalVSaG01WmxsNlROZ094V002eFJtNTJnQk95a2VRMmVWQ3htQUR2WVFiNkJ6QzlTamtIWEczSU44LWZPQk03M1VPQWk0M2lmNWpRdURISXlaMFdZdkhUT2d3?oc=5",
+    "src": "전국매일신문"
+   },
+   {
+    "d": "2026-04-21",
+    "n": 9,
+    "t": "이애형·경기의회, 경기도교육청 조원 청사의 새 출발 응원 경기미래교육 중심지로의 도약, 소통·혁신의 공간 역할",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TNnd6ZTZ5eEJ5OGpZSWY0ZzhFRmJHY2tERnVabHNzdWx5bWx0WjlpTXIwNFZ2QS1LQnJBeWNpUUk3ODdXcGd0emFGUkxwbVFnb3Z5ZWVzblAwcDZRUDU4VUpSQUVxYTFkb0NvTG9n?oc=5",
+    "src": "오토투데이"
+   }
+  ],
+  "paper": [
+   {
+    "d": "2026-04-22",
+    "n": 1,
+    "t": "Agentic Education: Using Claude Code to Teach Claude Code",
+    "url": "http://arxiv.org/abs/2604.17460v1",
+    "src": ""
+   },
+   {
+    "d": "2026-04-20",
+    "n": 4,
+    "t": "Tracing Prompt-Level Trajectories to Understand Student Learning with AI in Programming Education",
+    "url": "http://arxiv.org/abs/2604.10400v1",
+    "src": ""
+   },
+   {
+    "d": "2026-04-21",
+    "n": 4,
+    "t": "CODE-GEN: A Human-in-the-Loop RAG-Based Agentic AI System for Multiple-Choice Question Generation",
+    "url": "http://arxiv.org/abs/2604.03926v1",
+    "src": ""
+   }
+  ],
+  "tech": [
+   {
+    "d": "2026-04-24",
+    "n": 1,
+    "t": "오픈AI, 에이전트 능력서 '미소스' 꺾은 GPT-5.5 출시...세계 1위 탈환",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=209681",
+    "src": "AI Times"
+   },
+   {
+    "d": "2026-04-23",
+    "n": 2,
+    "t": "오픈AI, 챗GPT에 24시간 작동 에이전트 기능 '에르메스' 테스트 중",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=209616",
+    "src": "AI Times"
+   },
+   {
+    "d": "2026-04-23",
+    "n": 9,
+    "t": "OpenAI launches workspace agents that turn ChatGPT from a chatbot into a team automation platform",
+    "url": "https://the-decoder.com/openai-launches-workspace-agents-that-turn-chatgpt-from-a-chatbot-into-a-team-automation-platform/",
+    "src": "The Decoder"
+   }
+  ]
+ },
+ "generated_at": "2026-11-02T13:16:18+09:00"
+}

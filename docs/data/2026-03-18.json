@@ -17,7 +17,8 @@
     ],
     "summary": "교육부가 오는 5월부터 교원 1만 명을 대상으로 AI 역량 강화 연수를 추진한다고 한다. 디지털 대전환이라는 거창한 명분 아래 교사의 전문성을 높이겠다는 취지에는 십분 공감한다.하지만 수십 년간 학교 현장을 지켜온 필자의 눈에 이번 정책은 ‘속도’와 ‘수치’라는 행정적 성과에 매몰되어, 교육의 본질과 현장성이라는 가장 소중한 가치를 놓치고 있는 것으로 보인",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-03-17"
    },
    {
     "n": 2,
@@ -45,7 +46,8 @@
     "entities": [],
     "summary": "불가(佛家)에는 ‘시절인연(時節因緣)’이라는 말이 있다. 이는 모든 만남에는 적절한 시기와 운명적인 기회가 있다는 뜻이다.매년 봄 새로운 아이들을 맞이하고 겨울이면 작별을 고하는 교사들에게, 교실은 1년이라는 한정된 시간 동안 가장 찬란한 시절인연을 맺는 공간이라고 할 수 있다.아이들에게도 이러한 ‘학창’시절의 인연은 특히 각별하다. 삶의 윤곽을 그리는 시",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-03-17"
    },
    {
     "n": 4,
@@ -130,7 +132,7 @@
     "source": "농수축산신문",
     "published": "2026-03-17",
     "keyword": "인공지능교육",
-    "topic": "student_care",
+    "topic": "policy",
     "kind": null,
     "entities": [
      "세종시교육청"
@@ -292,7 +294,7 @@
     "source": "AI Times",
     "published": "2026-03-18",
     "keyword": "",
-    "topic": "agent_dev",
+    "topic": "industry",
     "kind": null,
     "entities": [
      "OpenAI",
@@ -374,7 +376,7 @@
     "source": "AI Times",
     "published": "2026-03-17",
     "keyword": "",
-    "topic": "model",
+    "topic": "policy_safety",
     "kind": null,
     "entities": [
      "xAI",

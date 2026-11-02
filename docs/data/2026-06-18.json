@@ -38,7 +38,7 @@
     "source": "포인트데일리",
     "published": "2026-06-17",
     "keyword": "인공지능교육",
-    "topic": "student_care",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "인천시교육청"
@@ -247,7 +247,7 @@
     "source": "AI Times",
     "published": "2026-06-17",
     "keyword": "",
-    "topic": "product",
+    "topic": "model",
     "kind": null,
     "entities": [
      "ChatGPT"
@@ -369,7 +369,8 @@
     ],
     "summary": "Google AI Studio를 활용한 'vibe coded' 퀴즈는 AI 개발 도구가 창의적이고 개인화된 사용자 경험을 대중화할 것임을 시사합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-06-17"
    },
    {
     "n": 9,

@@ -33,7 +33,8 @@
     ],
     "summary": "경기 안민석 교육감이 제도적·구조적 벽을 허무는 '벽깨기 교육정책'을 본격적으로 추진합니다.",
     "implication": "벽 허물기 정책은 융합 수업이나 학생 주도 프로젝트를 시도해 볼 기회가 될 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-08-29"
    },
    {
     "n": 3,
@@ -72,7 +73,7 @@
     "source": "브릿지경제",
     "published": "2026-08-29",
     "keyword": "디지털교육",
-    "topic": "classroom",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "충북교육청"
@@ -289,8 +290,8 @@
     "entities": [
      "Anthropic",
      "OpenAI",
-     "Claude",
-     "코딩 AI"
+     "코딩 AI",
+     "Claude"
     ],
     "summary": "OpenAI의 이탈로 Anthropic이 AI 코딩 도구 시장에서 입지를 강화하며, AI 기술 생태계의 경쟁 구도 변화를 심화시키는 계기가 될 것입니다.",
     "implication": "",
@@ -394,7 +395,8 @@
     ],
     "summary": "AI는 비판적 사고 훈련과 통합되어 인간의 인지 능력 증진을 위한 AI 기술 개발 및 교육 시장의 성장을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-08-28"
    },
    {
     "n": 10,
@@ -408,7 +410,8 @@
     "entities": [],
     "summary": "AI는 '학습의 연속성' 패러다임을 주도하여 AI 기반 교육 시장을 혁신하고 산업 전반의 인력 역량 강화를 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-08-27"
    }
   ]
  },

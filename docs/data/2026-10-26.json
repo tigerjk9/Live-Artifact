@@ -10,7 +10,7 @@
     "source": "충청매일",
     "published": "2026-10-25",
     "keyword": "교육정책",
-    "topic": "classroom",
+    "topic": "policy",
     "kind": null,
     "entities": [
      "대전시교육청",
@@ -92,7 +92,9 @@
     "topic": "ai_digital",
     "kind": null,
     "entities": [
-     "교육부"
+     "교육부",
+     "사교육",
+     "LG"
     ],
     "summary": "LG가 교육부터 대학원까지 AI 인재를 양성하는 직행 코스를 운영합니다.",
     "implication": "LG의 AI 인재 양성 사례를 통해 학생들이 미래 진로를 구체적으로 탐색할 수 있습니다.",
@@ -105,7 +107,7 @@
     "source": "CNB뉴스",
     "published": "2026-10-25",
     "keyword": "AI교육",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "인천시교육청",
@@ -122,7 +124,7 @@
     "source": "KPI뉴스",
     "published": "2026-10-25",
     "keyword": "AI교육",
-    "topic": "teacher",
+    "topic": "global",
     "kind": null,
     "entities": [
      "경기도교육청",
@@ -349,7 +351,8 @@
     ],
     "summary": "피차이의 첨단 AI 컴퓨팅 우선 투입 방침은 단기적 매출보다 AI 기술 주도권 확보를 최우선하며, AI 생태계의 경쟁 심화와 기술 혁신 가속화를 초래할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-10-25"
    },
    {
     "n": 7,
@@ -365,7 +368,8 @@
     ],
     "summary": "10억 사용자 규모로 확장하는 AI 서비스는 막대한 스토리지 인프라 구축 역량이 AI 산업의 핵심 경쟁력임을 보여줄 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-10-24"
    },
    {
     "n": 8,
@@ -418,7 +422,8 @@
     ],
     "summary": "우버의 전 직원 챗GPT 도입은 생성형 AI가 기업의 핵심 생산성 도구로 자리매김하며 전 산업 분야에 걸쳐 AI 기술 도입을 가속화할 주요 전환점이 될 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-10-23"
    }
   ]
  },

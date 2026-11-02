@@ -281,7 +281,8 @@
     ],
     "summary": "Cloudflare의 Agent Cloud가 OpenAI와 결합하여 에이전트 워크플로우를 지원함으로써, 기업들은 더욱 쉽게 AI 기반 자동화 서비스를 구축하고 활용할 수 있게 될 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-04-15"
    },
    {
     "n": 3,

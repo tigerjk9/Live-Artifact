@@ -373,6 +373,7 @@
     "entities": [
      "삼성",
      "LG",
+     "SK",
      "OpenAI"
     ],
     "summary": "국내 SI 기업들의 오픈AI 협력 경쟁 심화는 기업 맞춤형 AI 솔루션 시장 확대와 동시에 기술 경쟁력 확보를 가속화할 것입니다.",
@@ -386,7 +387,7 @@
     "source": "디지털투데이",
     "published": "2026-05-16",
     "keyword": "오픈AI",
-    "topic": "product",
+    "topic": "model",
     "kind": null,
     "entities": [
      "OpenAI",

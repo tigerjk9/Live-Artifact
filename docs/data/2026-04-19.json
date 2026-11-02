@@ -33,7 +33,8 @@
     ],
     "summary": "",
     "implication": "",
-    "ai": false
+    "ai": false,
+    "dup_of": "2026-04-16"
    },
    {
     "n": 3,
@@ -42,7 +43,7 @@
     "source": "환경감시일보",
     "published": "2026-04-18",
     "keyword": "AI디지털도구",
-    "topic": "classroom",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "경기도교육청",
@@ -287,7 +288,8 @@
     ],
     "summary": "어도비의 에이전트형 AI 도입은 창작 도구의 지능화 경쟁을 심화시키고 사용자 경험 혁신을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-04-18"
    },
    {
     "n": 3,
@@ -353,6 +355,7 @@
     "entities": [
      "NVIDIA",
      "OpenAI",
+     "Amazon",
      "GPU·데이터센터"
     ],
     "summary": "세레브라스의 IPO 재도전은 엔비디아 GPU 의존도를 낮추고 AI 반도체 경쟁 심화 및 기술 생태계 확장을 가속화할 것입니다.",

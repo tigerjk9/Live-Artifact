@@ -26,7 +26,7 @@
     "source": "v.daum.net",
     "published": "2026-07-30",
     "keyword": "인공지능교육",
-    "topic": "teacher",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "교육부"
@@ -304,7 +304,7 @@
     "source": "AI Times",
     "published": "2026-07-31",
     "keyword": "",
-    "topic": "product",
+    "topic": "model",
     "kind": null,
     "entities": [
      "ChatGPT"
@@ -342,7 +342,8 @@
     "entities": [],
     "summary": "AI는 인간 업무의 확장 및 재정의를 통해 AI 기술 생태계의 새로운 시장과 성장 동력을 창출할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-07-28"
    },
    {
     "n": 7,

@@ -131,7 +131,7 @@
     "source": "KBS 뉴스",
     "published": "2026-03-06",
     "keyword": "AI교육",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "국회"
@@ -147,7 +147,7 @@
     "source": "OhmyNews",
     "published": "2026-03-06",
     "keyword": "AI교육",
-    "topic": "higher_ed",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "수능·대입"
@@ -354,6 +354,7 @@
     "topic": "policy_safety",
     "kind": null,
     "entities": [
+     "OpenAI",
      "ChatGPT"
     ],
     "summary": "챗GPT의 법률 자문 논란은 AI 서비스의 책임 범위와 규제 필요성을 시사하며, AI 산업 발전에 중요한 법적 선례를 만들 수 있습니다.",
@@ -367,7 +368,7 @@
     "source": "Benzinga",
     "published": "2026-03-06",
     "keyword": "오픈AI",
-    "topic": "product",
+    "topic": "model",
     "kind": null,
     "entities": [
      "ChatGPT",

@@ -65,7 +65,8 @@
     ],
     "summary": "경북교육청이 IB 교육과정 전문 연구팀을 운영하여 미래 교육 정책 연구를 강화합니다.",
     "implication": "IB 교육과정 연구 결과를 바탕으로 학생 주도 학습 및 탐구 중심 활동을 수업에 적용해 볼 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-05-19"
    },
    {
     "n": 5,
@@ -74,7 +75,7 @@
     "source": "전북미래교육신문",
     "published": "2026-05-19",
     "keyword": "교육정책",
-    "topic": "teacher",
+    "topic": "policy",
     "kind": null,
     "entities": [
      "교육부"
@@ -414,7 +415,8 @@
     ],
     "summary": "Cursor의 Composer 2.5는 비용 효율적인 AI 모델 개발 경쟁을 심화시켜, AI 기술의 대중화를 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-05-19"
    }
   ]
  },

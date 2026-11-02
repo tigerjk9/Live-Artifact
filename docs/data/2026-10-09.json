@@ -115,7 +115,8 @@
     ],
     "summary": "부산교육청은 10월 교육정책 아카데미에서 이주배경학생 정책에 중점을 둡니다.",
     "implication": "교육청의 이주배경학생 관련 정책 논의를 통해 수업 내 다문화 학생 지원 방안을 모색할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-10-08"
    },
    {
     "n": 8,
@@ -131,7 +132,8 @@
     ],
     "summary": "충북도의회 교육위원회가 사립학교 현장의 목소리를 듣는 활동을 진행했습니다.",
     "implication": "도의회에서 사립학교 현장 목소리를 들었으니, 교육 환경 개선의 기회가 될 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-10-08"
    },
    {
     "n": 9,
@@ -299,7 +301,8 @@
     ],
     "summary": "OpenAI를 활용한 자본 시장 전문성 강화는 범용 AI가 인간 전문 지식을 확장하며 고부가가치 산업 응용 분야로 확산될 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-10-06"
    },
    {
     "n": 4,
@@ -358,7 +361,7 @@
     "source": "VOI.ID",
     "published": "2026-10-08",
     "keyword": "구글",
-    "topic": "industry",
+    "topic": "policy_safety",
     "kind": null,
     "entities": [
      "Amazon",
@@ -394,8 +397,8 @@
     "kind": null,
     "entities": [
      "ChatGPT",
-     "Oracle",
-     "코딩 AI"
+     "코딩 AI",
+     "Oracle"
     ],
     "summary": "ChatGPT와 Codex 같은 AI 도구는 기업의 업무 효율을 극대화하여 생산성과 경쟁력 향상에 핵심 동력이 될 것입니다.",
     "implication": "",

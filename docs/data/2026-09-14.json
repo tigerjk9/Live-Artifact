@@ -257,7 +257,9 @@
     "keyword": "",
     "topic": "usecase",
     "kind": null,
-    "entities": [],
+    "entities": [
+     "OpenAI"
+    ],
     "summary": "오픈AI의 아스트라 활용법은 AI가 복잡한 태스크를 더욱 자율적으로 처리하고 명확한 결과물을 도출하여, AI 모델의 실제 산업 적용성과 활용도를 극대화할 것입니다.",
     "implication": "",
     "ai": true
@@ -321,7 +323,8 @@
     ],
     "summary": "ChatGPT 10억 사용자 규모는 AI 서비스의 지속 가능성을 위해 데이터 인프라 및 비용 효율성 혁신을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-09-12"
    },
    {
     "n": 6,
@@ -403,7 +406,8 @@
     ],
     "summary": "GPT-6 Astra는 AI 기술의 새로운 시대를 열며, 산업 전반의 혁신을 촉진하고 생태계 재편을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-09-13"
    }
   ]
  },

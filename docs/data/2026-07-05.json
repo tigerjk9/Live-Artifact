@@ -174,7 +174,8 @@
     ],
     "summary": "Microsoft의 AI 슈퍼 앱 경쟁 참여는 AI 서비스 통합과 플랫폼 주도권 경쟁을 심화시킬 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-07-04"
    },
    {
     "n": 3,
@@ -244,7 +245,8 @@
     ],
     "summary": "GPT-5.6 Sol의 등장은 AI 기술 발전의 가속화를 예고하며, 산업 전반에 걸쳐 혁신과 경쟁을 심화시킬 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-07-02"
    },
    {
     "n": 7,
@@ -263,7 +265,8 @@
     ],
     "summary": "주요 기업의 생성형 AI 도입은 전 산업의 AI 활용 확산과 기업 AI 시장 성장을 촉진할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-07-02"
    },
    {
     "n": 8,
@@ -277,7 +280,8 @@
     "entities": [],
     "summary": "의약 화학 난제를 해결한 자율형 AI는 전문 분야에서 AI의 실질적 가치를 입증하며, 산업 전반의 자율 연구를 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-07-03"
    },
    {
     "n": 9,

@@ -117,7 +117,8 @@
     ],
     "summary": "",
     "implication": "",
-    "ai": false
+    "ai": false,
+    "dup_of": "2026-02-28"
    },
    {
     "n": 9,
@@ -380,7 +381,7 @@
     "source": "경향신문",
     "published": "2026-03-01",
     "keyword": "Anthropic",
-    "topic": "model",
+    "topic": "policy_safety",
     "kind": null,
     "entities": [
      "Anthropic",
@@ -404,7 +405,8 @@
     ],
     "summary": "서울시교육청의 AI·에듀테크 가이드라인은 공교육 시장의 AI 기술 수요를 촉진하고 관련 산업 발전에 긍정적 영향을 줄 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-02-27"
    }
   ]
  },

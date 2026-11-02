@@ -304,7 +304,8 @@
     ],
     "summary": "OpenAI 기반 AI가 창의적 캠페인 기획부터 실행까지 통합 지원하며, AI가 특정 산업의 핵심 업무를 자동화하는 트렌드를 강화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-10-15"
    },
    {
     "n": 5,
@@ -318,7 +319,8 @@
     "entities": [
      "Anthropic",
      "Claude",
-     "코딩 AI"
+     "코딩 AI",
+     "LLM"
     ],
     "summary": "Anthropic의 Claude 코드 리뷰 출시는 AI가 소프트웨어 개발 전 과정에 깊이 관여하며 LLM의 전문화 경쟁을 가속화할 것입니다.",
     "implication": "",

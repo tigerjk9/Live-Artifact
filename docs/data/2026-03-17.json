@@ -52,7 +52,7 @@
     "source": "경상일보",
     "published": "2026-03-16",
     "keyword": "AI교육",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
     "summary": "",
@@ -108,7 +108,7 @@
     "source": "충청뉴스",
     "published": "2026-03-16",
     "keyword": "에듀테크",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "충남교육청",

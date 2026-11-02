@@ -72,7 +72,7 @@
     "source": "디지털투데이",
     "published": "2026-05-08",
     "keyword": "AI디지털도구",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "GPU·데이터센터"
@@ -415,7 +415,8 @@
     ],
     "summary": "ChatGPT 광고 도입 실험은 AI 챗봇 수익화 모델을 본격적으로 시험하며, 향후 AI 서비스 시장 경쟁 심화 및 광고 기반 수익 모델 확산을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-05-08"
    }
   ]
  },

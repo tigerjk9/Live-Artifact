@@ -98,7 +98,9 @@
     "keyword": "",
     "topic": "policy",
     "kind": null,
-    "entities": [],
+    "entities": [
+     "IB"
+    ],
     "summary": "교육 정책이 선거 전략에 이용되면서 혁신학교와 IB학교 같은 특정 모델에 대한 맹목적인 추종보다는 교육 본질에 대한 깊이 있는 고민이 필요합니다.",
     "implication": "",
     "ai": true
@@ -251,7 +253,8 @@
     "topic": "model",
     "kind": null,
     "entities": [
-     "수능·대입"
+     "수능·대입",
+     "LLM"
     ],
     "summary": "국산 LLM의 성능 부족은 AI 기술 자립을 위한 투자 확대와 더불어, 실질적인 기술 경쟁력 강화를 위한 전략 수정이 시급함을 시사합니다.",
     "implication": "",

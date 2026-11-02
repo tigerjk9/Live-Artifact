@@ -10,7 +10,7 @@
     "source": "경상일보",
     "published": "2026-03-02",
     "keyword": "AI디지털도구",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
     "summary": "",
@@ -71,7 +71,8 @@
     "entities": [],
     "summary": "몇 해 전 필리핀을 여행하던 중, 16세기 말 지어진 한 성당의 고즈넉한 복도에서 발걸음을 멈춘 적이 있다. 벽면에 붙은 낡은 안내문 한 장 때문이었다. 이곳은 필리핀 최초의 정규 학교가 시작된 공간이며, 당시 학생들은 ‘3R’s’를 배웠다고 적혀 있었다. Reading(읽기), Writing(쓰기), Arithmetic(산수), 그리고 Religion(종",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-03-02"
    },
    {
     "n": 6,

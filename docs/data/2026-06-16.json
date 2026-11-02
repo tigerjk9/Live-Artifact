@@ -72,7 +72,7 @@
     "source": "대전인터넷신문",
     "published": "2026-06-15",
     "keyword": "교육정책",
-    "topic": "classroom",
+    "topic": "policy",
     "kind": null,
     "entities": [
      "세종시교육청"
@@ -88,7 +88,7 @@
     "source": "경기신문",
     "published": "2026-06-15",
     "keyword": "인공지능교육",
-    "topic": "teacher",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "교권"
@@ -329,7 +329,8 @@
     ],
     "summary": "BBVA가 OpenAI AI를 은행업 핵심에 통합하는 것은 주요 산업군의 AI 도입 가속화와 생성 AI의 핵심 비즈니스 기능 활용 보편화를 예고하는 사례입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-06-14"
    },
    {
     "n": 6,

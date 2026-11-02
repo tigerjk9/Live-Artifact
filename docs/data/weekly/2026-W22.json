@@ -1,0 +1,418 @@
+{
+ "key": "2026-W22",
+ "label": "2026년 5월 25일 ~ 31일",
+ "dates": [
+  "2026-05-25",
+  "2026-05-26",
+  "2026-05-27",
+  "2026-05-28",
+  "2026-05-29",
+  "2026-05-30",
+  "2026-05-31"
+ ],
+ "days_present": 7,
+ "counts": {
+  "edu": 67,
+  "paper": 35,
+  "tech": 55
+ },
+ "total": 157,
+ "prev_total": 169,
+ "top_entities": [
+  {
+   "name": "ChatGPT",
+   "kind": "model",
+   "n": 20,
+   "delta": 6
+  },
+  {
+   "name": "개인화 학습",
+   "kind": "tech",
+   "n": 15,
+   "delta": 1
+  },
+  {
+   "name": "OpenAI",
+   "kind": "org",
+   "n": 12,
+   "delta": -10
+  },
+  {
+   "name": "Google",
+   "kind": "org",
+   "n": 12,
+   "delta": -6
+  },
+  {
+   "name": "생성형 AI",
+   "kind": "tech",
+   "n": 10,
+   "delta": -3
+  },
+  {
+   "name": "교육감 선거",
+   "kind": "issue",
+   "n": 9,
+   "delta": 3
+  },
+  {
+   "name": "교육부",
+   "kind": "edu_org",
+   "n": 9,
+   "delta": -3
+  },
+  {
+   "name": "에이전트",
+   "kind": "tech",
+   "n": 9,
+   "delta": -4
+  },
+  {
+   "name": "Claude",
+   "kind": "model",
+   "n": 9,
+   "delta": 3
+  },
+  {
+   "name": "충북교육청",
+   "kind": "edu_org",
+   "n": 7,
+   "delta": 6
+  },
+  {
+   "name": "경기도교육청",
+   "kind": "edu_org",
+   "n": 5,
+   "delta": 5
+  },
+  {
+   "name": "Apple",
+   "kind": "org",
+   "n": 5,
+   "delta": 3
+  }
+ ],
+ "rising": [
+  {
+   "name": "ChatGPT",
+   "kind": "model",
+   "n": 20,
+   "delta": 6
+  },
+  {
+   "name": "충북교육청",
+   "kind": "edu_org",
+   "n": 7,
+   "delta": 6
+  },
+  {
+   "name": "경기도교육청",
+   "kind": "edu_org",
+   "n": 5,
+   "delta": 5
+  },
+  {
+   "name": "수능·대입",
+   "kind": "issue",
+   "n": 4,
+   "delta": 4
+  },
+  {
+   "name": "교육감 선거",
+   "kind": "issue",
+   "n": 9,
+   "delta": 3
+  },
+  {
+   "name": "Claude",
+   "kind": "model",
+   "n": 9,
+   "delta": 3
+  }
+ ],
+ "topic_share": {
+  "edu": [
+   {
+    "id": "policy",
+    "label": "정책·행정",
+    "n": 34,
+    "pct": 51,
+    "delta": 21
+   },
+   {
+    "id": "ai_digital",
+    "label": "AI·디지털교육",
+    "n": 18,
+    "pct": 27,
+    "delta": -11
+   },
+   {
+    "id": "classroom",
+    "label": "수업·교육과정",
+    "n": 9,
+    "pct": 13,
+    "delta": -9
+   },
+   {
+    "id": "teacher",
+    "label": "교사·교권",
+    "n": 3,
+    "pct": 4,
+    "delta": -3
+   },
+   {
+    "id": "higher_ed",
+    "label": "대학·입시·평생",
+    "n": 2,
+    "pct": 3,
+    "delta": 2
+   },
+   {
+    "id": "global",
+    "label": "해외·연구",
+    "n": 1,
+    "pct": 1,
+    "delta": 1
+   }
+  ],
+  "paper": [
+   {
+    "id": "teacher_pd",
+    "label": "교사 전문성",
+    "n": 7,
+    "pct": 20,
+    "delta": 9
+   },
+   {
+    "id": "personalized",
+    "label": "개인화·학습분석",
+    "n": 5,
+    "pct": 14,
+    "delta": 8
+   },
+   {
+    "id": "stem_ct",
+    "label": "컴퓨팅·STEM",
+    "n": 5,
+    "pct": 14,
+    "delta": 3
+   },
+   {
+    "id": "design_curric",
+    "label": "교수설계·교육과정",
+    "n": 5,
+    "pct": 14,
+    "delta": -9
+   },
+   {
+    "id": "genai_tutor",
+    "label": "생성형 AI·튜터",
+    "n": 3,
+    "pct": 9,
+    "delta": -8
+   },
+   {
+    "id": "learning_sci",
+    "label": "학습과학·인지",
+    "n": 3,
+    "pct": 9,
+    "delta": 3
+   },
+   {
+    "id": "literacy_ethics",
+    "label": "AI 리터러시·윤리",
+    "n": 3,
+    "pct": 9,
+    "delta": 6
+   },
+   {
+    "id": "assessment",
+    "label": "평가·피드백",
+    "n": 2,
+    "pct": 6,
+    "delta": -5
+   },
+   {
+    "id": "inclusion_sel",
+    "label": "포용·정서·웰빙",
+    "n": 1,
+    "pct": 3,
+    "delta": -6
+   },
+   {
+    "id": "language",
+    "label": "언어·문해",
+    "n": 1,
+    "pct": 3,
+    "delta": 0
+   }
+  ],
+  "tech": [
+   {
+    "id": "model",
+    "label": "모델·연구",
+    "n": 19,
+    "pct": 35,
+    "delta": 9
+   },
+   {
+    "id": "industry",
+    "label": "산업·투자·인프라",
+    "n": 11,
+    "pct": 20,
+    "delta": -6
+   },
+   {
+    "id": "product",
+    "label": "제품·서비스",
+    "n": 11,
+    "pct": 20,
+    "delta": 2
+   },
+   {
+    "id": "agent_dev",
+    "label": "에이전트·개발도구",
+    "n": 7,
+    "pct": 13,
+    "delta": -1
+   },
+   {
+    "id": "policy_safety",
+    "label": "정책·윤리·안전",
+    "n": 3,
+    "pct": 5,
+    "delta": -1
+   },
+   {
+    "id": "usecase",
+    "label": "활용·사례",
+    "n": 3,
+    "pct": 5,
+    "delta": -1
+   },
+   {
+    "id": "edu_ai",
+    "label": "교육 AI",
+    "n": 1,
+    "pct": 2,
+    "delta": -1
+   }
+  ]
+ },
+ "daily": [
+  {
+   "d": "2026-05-25",
+   "n": 24,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-05-26",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-05-27",
+   "n": 24,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-05-28",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-05-29",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-05-30",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-05-31",
+   "n": 24,
+   "head": "",
+   "src": ""
+  }
+ ],
+ "picks": {
+  "edu": [
+   {
+    "d": "2026-05-25",
+    "n": 4,
+    "t": "[서울교육감 8파전] ① 사교육비 경감·AI·교권회복 내세워 '구애'",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uMkpmNm1hR1BCNGQ2eUdXbl9RVWtiNndMTFNJX3FpLWNTLXlqN0VnLU5RY1RHWDIwYW44QWhvODVITTNRZml3X0NEUmxfamlLeVBF?oc=5",
+    "src": "네이트"
+   },
+   {
+    "d": "2026-05-27",
+    "n": 3,
+    "t": "한국외대, ‘고교교육 기여대학’ S등급…대입 공정성 강화 성과",
+    "url": "https://news.unn.net/news/articleView.html?idxno=592856",
+    "src": "한국대학신문"
+   },
+   {
+    "d": "2026-05-28",
+    "n": 5,
+    "t": "생성형 AI를 전 교육과정에 적용",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRlNZQVJpWUY0T0QyYmJXSzFDSEdBUld2SjRWbGFXUEV4STg0ajRUbXJpQS1aLXJraG9FUzhVMFhaNmh5NmlCVW1yMlZyNU0wU0FzcDFVX1pFc0gxdmZvRHY1X056Qks3N09zYzdYbUpWTWloNkZDVGw1Rkkwb0NDSkZpeVVuZi1STTNJQVpB?oc=5",
+    "src": "조선일보"
+   }
+  ],
+  "paper": [
+   {
+    "d": "2026-05-26",
+    "n": 5,
+    "t": "There Are Multiple Paths to Personalized Education, and They Should Be Combined",
+    "url": "https://www.semanticscholar.org/paper/96a0908ef4a1b5605c210e1f7c0a3923c316376e",
+    "src": "semantic_scholar"
+   },
+   {
+    "d": "2026-05-27",
+    "n": 2,
+    "t": "AI-Powered Educational Games and Simulations",
+    "url": "http://doi.org/10.4018/979-8-3373-0035-1",
+    "src": "eric"
+   },
+   {
+    "d": "2026-05-27",
+    "n": 3,
+    "t": "Designing AI-Powered Learning: Adult Learners' Expectations for Curriculum and Human-AI Interaction",
+    "url": "http://dx.doi.org/10.1007/s11423-025-10549-z",
+    "src": "eric"
+   }
+  ],
+  "tech": [
+   {
+    "d": "2026-05-29",
+    "n": 1,
+    "t": "Anthropic, Claude Opus 4.8 출시. OpenAI의 GPT 5.5 및 Google의 Gemini 3.1 Pro 능가",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTm5ub1dIUUJ1Z1AyT0FWUno3SXZGcWpFVWFRTlB5TTFUOXRtd21HZUx2cFRJR3lTelFhYnlQNUJOcjVhYURMeUNRVHdmVFlVdlFpWTFCWV8tOGxQUDRocUVRZTd0eXFlS0pSMzhfZHFFTU5CYk10OTNjMGp1aWxiWUoxT1RycEh4WUZZTVRHXzIzT040NHIwR2liYjhlbXVKWFhadllKU2dUZjJWNWk0WHZHWGI2bTB3UzdnZmN5Qkl5Tk15?oc=5",
+    "src": "TradingKey"
+   },
+   {
+    "d": "2026-05-27",
+    "n": 6,
+    "t": "삼성전자, ‘제미나이·챗GPT·클로드’ 외부 생성형 AI 공식 도입…‘삼성 가우스’와 투트랙 전략 추진",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PVTdfYWtPZEdDZ0p0R2p4ejZibFphMVM4TUN5aXZwYjNaNjdHMk9TN0tqNjU0UHQ4MF8yQVJFdWJQbE1EckhKQ3dpRUppdDJlQjZXc3hhR3lXSmlpOU9WUE1hV25hclk?oc=5",
+    "src": "인공지능신문"
+   },
+   {
+    "d": "2026-05-30",
+    "n": 7,
+    "t": "\"챗봇은 끝났다\"…오픈AI, 챗GPT 엔터프라이즈 `실행형 에이전트`로 재정의",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBhcUtRMmFCd1Qyc3hZOWNlamlIMjQ5c0xhc081b3pLVVRZaER3bXBma1Y2QXBzemJWX0pEQ3JlbW4tLW0wdW92YkNqLUxleEZRbmFBaF94VGxYMTZNOG9oM05wR1k?oc=5",
+    "src": "디지털데일리"
+   }
+  ]
+ },
+ "generated_at": "2026-11-02T13:16:18+09:00"
+}

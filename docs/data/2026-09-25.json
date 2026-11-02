@@ -77,7 +77,7 @@
     "source": "Chosunbiz",
     "published": "2026-09-25",
     "keyword": "에이전틱AI",
-    "topic": "classroom",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [],
     "summary": "퀄컴은 사용자가 말하기 전에 상황을 파악하여 작동하는 '에이전틱 AI폰' 개발을 구상하고 있습니다.",
@@ -287,7 +287,8 @@
     ],
     "summary": "생성형 AI가 고객 서비스의 핵심 문제 해결사로 부상하며, 기업의 AI 기반 자동화 전환을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-09-24"
    },
    {
     "n": 3,

@@ -92,7 +92,8 @@
     ],
     "summary": "경기도교육청의 국제교류협력 네트워크 가동은 학생들에게 글로벌 역량 강화 기회를 제공하고, 교사에게는 국제적인 교육 경험을 확대하는 중요한 발판이 될 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-02-09"
    },
    {
     "n": 7,
@@ -118,7 +119,7 @@
     "source": "경기도민일보 미디어",
     "published": "2026-02-09",
     "keyword": "AI교육",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "인천시교육청"

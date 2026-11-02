@@ -17,7 +17,8 @@
     ],
     "summary": "생성형 AI의 교육적 효과는 결국 교사의 역량 강화와 학생의 비판적 사고 능력 함양에 달려 있다는 점을 시사합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2025-12-31"
    },
    {
     "n": 2,
@@ -140,7 +141,7 @@
     "source": "시사종합신문",
     "published": "2025-12-31",
     "keyword": "AI교육",
-    "topic": "classroom",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "전남교육청"

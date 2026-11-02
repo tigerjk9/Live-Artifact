@@ -24,7 +24,7 @@
     "source": "뉴스스페이스",
     "published": "2026-01-29",
     "keyword": "뇌과학",
-    "topic": "global",
+    "topic": "ai_digital",
     "kind": "opinion",
     "entities": [
      "개인화 학습"
@@ -45,7 +45,8 @@
     "entities": [],
     "summary": "독서 골든타임 강조는 AI 시대에 필요한 질문하는 능력을 키우는 민주시민 교육의 중요한 출발점이 될 수 있습니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-01-29"
    },
    {
     "n": 4,
@@ -188,7 +189,8 @@
     "implication": "",
     "ai": true,
     "authors": "Yatao Li",
-    "pdf": ""
+    "pdf": "",
+    "dup_of": "2026-01-27"
    },
    {
     "n": 3,
@@ -319,8 +321,8 @@
     "topic": "industry",
     "kind": null,
     "entities": [
-     "로봇·휴머노이드",
-     "xAI"
+     "xAI",
+     "로봇·휴머노이드"
     ],
     "summary": "테슬라의 xAI 투자는 그룹 차원의 AI 역량 집중을 통해 자율주행 및 로봇 기술 경쟁력 강화에 나서는 행보로 보입니다.",
     "implication": "",
@@ -384,7 +386,8 @@
     "entities": [],
     "summary": "AI 모델의 취약점을 악용한 사이버 공격은 AI 기술 신뢰도 하락과 규제 강화로 이어져 산업 발전을 저해할 수 있다는 점을 시사합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-01-29"
    },
    {
     "n": 10,

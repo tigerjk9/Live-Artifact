@@ -26,7 +26,7 @@
     "source": "뉴스프리존",
     "published": "2026-09-08",
     "keyword": "인공지능교육",
-    "topic": "teacher",
+    "topic": "policy",
     "kind": null,
     "entities": [],
     "summary": "인천 교원들이 학교 현장의 고민을 직접 교육정책으로 연결시켰습니다.",
@@ -134,7 +134,7 @@
     "source": "OhmyNews",
     "published": "2026-09-08",
     "keyword": "교육정책",
-    "topic": "classroom",
+    "topic": "policy",
     "kind": null,
     "entities": [],
     "summary": "세종 학부모들이 교육정책의 예측 가능성 부족에 대해 문제를 제기했습니다.",
@@ -358,7 +358,8 @@
     ],
     "summary": "ChatGPT의 트래픽 점유율 회복은 AI 시장 내 선두 플랫폼의 강력한 지배력 공고화와 후발 주자의 경쟁 심화를 시사합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-09-08"
    },
    {
     "n": 8,

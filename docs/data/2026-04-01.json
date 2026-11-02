@@ -87,7 +87,8 @@
     "entities": [],
     "summary": "",
     "implication": "",
-    "ai": false
+    "ai": false,
+    "dup_of": "2026-03-29"
    },
    {
     "n": 7,
@@ -408,7 +409,8 @@
     ],
     "summary": "숙명여대와 구글 클라우드의 협력은 여성 AI 인재 양성을 촉진하고, 나아가 국내 AI 기술 생태계의 다양성 확대에 기여할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-03-31"
    }
   ]
  },

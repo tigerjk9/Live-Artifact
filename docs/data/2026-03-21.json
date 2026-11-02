@@ -126,9 +126,11 @@
     "source": "공뉴스",
     "published": "2026-03-20",
     "keyword": "교육혁신",
-    "topic": "teacher",
+    "topic": "classroom",
     "kind": null,
-    "entities": [],
+    "entities": [
+     "IB"
+    ],
     "summary": "",
     "implication": "",
     "ai": false
@@ -145,7 +147,8 @@
     "entities": [],
     "summary": "",
     "implication": "",
-    "ai": false
+    "ai": false,
+    "dup_of": "2026-03-20"
    }
   ],
   "paper": [
@@ -383,7 +386,7 @@
     "source": "AI타임스",
     "published": "2026-03-20",
     "keyword": "GPT",
-    "topic": "product",
+    "topic": "model",
     "kind": null,
     "entities": [
      "Google",

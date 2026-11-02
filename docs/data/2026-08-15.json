@@ -61,7 +61,7 @@
     "source": "타임뉴스",
     "published": "2026-08-14",
     "keyword": "AI교육",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "대전시교육청"
@@ -109,7 +109,9 @@
     "keyword": "교육정책",
     "topic": "policy",
     "kind": null,
-    "entities": [],
+    "entities": [
+     "국회"
+    ],
     "summary": "최정훈 전남광주시의회 교육위원장은 학부모의 의견이 교육정책 변화에 영향을 미친다고 밝혔습니다.",
     "implication": "학부모의 다양한 의견을 경청하여 학생 주도 수업 활동에 효과적으로 반영할 수 있습니다.",
     "ai": true
@@ -347,7 +349,8 @@
     ],
     "summary": "AI가 단순 챗봇을 넘어 실제 업무 혁신에 활용되며, 자동화 플랫폼이 AI 도입을 가속화하는 핵심 동력이 될 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-08-12"
    },
    {
     "n": 7,

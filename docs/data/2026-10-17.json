@@ -107,7 +107,7 @@
     "source": "소셜밸류",
     "published": "2026-10-16",
     "keyword": "교육정책",
-    "topic": "student_care",
+    "topic": "policy",
     "kind": null,
     "entities": [],
     "summary": "한국어린이집총연합회는 원내대표들과 보육·교육정책을 협의했습니다.",
@@ -121,7 +121,7 @@
     "source": "브런치",
     "published": "2026-10-16",
     "keyword": "교육정책",
-    "topic": "ai_digital",
+    "topic": "policy",
     "kind": null,
     "entities": [],
     "summary": "AI 혁명이 교육정책의 발전 속도를 앞지르고 있음을 다루는 내용입니다.",
@@ -308,6 +308,7 @@
     "kind": null,
     "entities": [
      "Amazon",
+     "Apple",
      "개인화 학습"
     ],
     "summary": "아마존 웨어러블 AI는 일상 대화 기반 초개인화 AI 시장을 개척하며 프라이버시 이슈와 함께 AI의 생활 밀착도 심화를 가속화할 것입니다.",
@@ -377,7 +378,8 @@
     ],
     "summary": "OpenAI 등 초거대 AI 기반으로 마케팅 캠페인 같은 특정 산업 전문 솔루션이 확산되며 AI 생태계가 심화될 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-10-15"
    },
    {
     "n": 9,

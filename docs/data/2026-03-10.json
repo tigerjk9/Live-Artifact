@@ -108,7 +108,7 @@
     "source": "뉴데일리 충청세종",
     "published": "2026-03-09",
     "keyword": "디지털교육",
-    "topic": "student_care",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "대전시교육청"
@@ -281,7 +281,8 @@
     "kind": null,
     "entities": [
      "벤치마크",
-     "ChatGPT"
+     "ChatGPT",
+     "OpenAI"
     ],
     "summary": "오픈AI의 GPT-5.4 출시는 성능 지표 외에 속도와 효율성을 중시하며, AI 모델 개발 경쟁이 더욱 치열해질 것임을 시사합니다.",
     "implication": "",

@@ -374,7 +374,8 @@
     ],
     "summary": "GPT-5.6 Sol은 AI 기술의 한계를 재정의하며 산업 전반의 혁신과 경쟁 구도를 급변시킬 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-06-29"
    },
    {
     "n": 9,
@@ -386,6 +387,7 @@
     "topic": "model",
     "kind": null,
     "entities": [
+     "GPU·데이터센터",
      "LG",
      "온디바이스 AI"
     ],

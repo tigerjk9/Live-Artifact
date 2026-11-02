@@ -40,7 +40,7 @@
     "source": "교육플러스",
     "published": "2026-08-13",
     "keyword": "디지털교육",
-    "topic": "ai_digital",
+    "topic": "policy",
     "kind": null,
     "entities": [
      "경기도교육청"
@@ -90,7 +90,7 @@
     "source": "v.daum.net",
     "published": "2026-08-13",
     "keyword": "교육현장",
-    "topic": "policy",
+    "topic": "classroom",
     "kind": null,
     "entities": [
      "IB"

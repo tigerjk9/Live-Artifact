@@ -263,6 +263,7 @@
     "topic": "agent_dev",
     "kind": null,
     "entities": [
+     "KT",
      "에이전트"
     ],
     "summary": "아이엔소프트와 KT의 협력은 기업 AX 전환을 가속화하고 AI 에이전트 생태계 확장에 기여할 것으로 기대됩니다.",
@@ -280,7 +281,8 @@
     "kind": null,
     "entities": [
      "OpenAI",
-     "ChatGPT"
+     "ChatGPT",
+     "코딩 AI"
     ],
     "summary": "GPT-5.2-Codex는 소프트웨어 개발 자동화와 사이버 보안 수준을 동시에 향상시켜 AI 개발 경쟁 심화 및 관련 시장 성장을 가속화할 것입니다.",
     "implication": "",
@@ -372,7 +374,7 @@
     "source": "브랜드뉴스",
     "published": "2025-12-22",
     "keyword": "GPT",
-    "topic": "product",
+    "topic": "model",
     "kind": null,
     "entities": [
      "ChatGPT",
@@ -390,7 +392,7 @@
     "source": "동아사이언스",
     "published": "2025-12-22",
     "keyword": "GPT",
-    "topic": "policy_safety",
+    "topic": "model",
     "kind": null,
     "entities": [
      "ChatGPT",

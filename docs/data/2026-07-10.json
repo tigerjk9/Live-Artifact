@@ -27,7 +27,7 @@
     "source": "v.daum.net",
     "published": "2026-07-09",
     "keyword": "인공지능교육",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "제주교육청"
@@ -260,7 +260,8 @@
     "topic": "model",
     "kind": null,
     "entities": [
-     "ChatGPT"
+     "ChatGPT",
+     "Apple"
     ],
     "summary": "신규 모델들의 등장으로 AI 기술 경쟁이 격화되며 기존 강자들의 지배적 위치가 빠르게 재편될 것입니다.",
     "implication": "",

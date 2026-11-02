@@ -87,7 +87,7 @@
     "source": "네이트",
     "published": "2026-02-05",
     "keyword": "뇌과학",
-    "topic": "higher_ed",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [],
     "summary": "국립중앙과학관의 시니어 과학문화대학 운영은 고령층의 과학적 소양 함양과 평생학습 활성화에 기여하는 긍정적인 시도입니다.",
@@ -101,7 +101,7 @@
     "source": "뉴시스",
     "published": "2026-02-05",
     "keyword": "인공지능교육",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "서울시교육청"
@@ -134,7 +134,7 @@
     "source": "위키트리",
     "published": "2026-02-05",
     "keyword": "AI디지털도구",
-    "topic": "teacher",
+    "topic": "higher_ed",
     "kind": null,
     "entities": [],
     "summary": "전남대 사범대학의 교원양성 평가 최상위 등급 획득은 지방 사범대학의 경쟁력 강화와 교육 혁신 노력이 결실을 맺은 긍정적인 신호탄입니다.",
@@ -313,6 +313,7 @@
      "벤치마크",
      "ChatGPT",
      "Gemini",
+     "OpenAI",
      "Google"
     ],
     "summary": "앤트로픽의 클로드 오퍼스 4.6 공개는 AI 모델 성능 경쟁 심화를 예고하며, 특정 분야에서는 오픈AI와 구글의 경쟁 모델을 능가할 수 있음을 시사합니다.",

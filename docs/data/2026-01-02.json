@@ -147,7 +147,7 @@
     "source": "eduplusnews.com",
     "published": "2026-01-01",
     "keyword": "디지털교육",
-    "topic": "ai_digital",
+    "topic": "policy",
     "kind": null,
     "entities": [
      "고교학점제"
@@ -313,7 +313,8 @@
     ],
     "summary": "GPT-4o를 활용한 날씨 데이터 파이프라인 구축 가이드는 AI 기반 데이터 분석 및 시각화 역량을 강화하여 다양한 산업 분야의 의사 결정을 효율적으로 지원할 수 있음을 보여줍니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2025-12-30"
    },
    {
     "n": 5,

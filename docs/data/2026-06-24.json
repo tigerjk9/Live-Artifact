@@ -31,7 +31,8 @@
     "entities": [],
     "summary": "AI 혁명 시대의 승자는 제도와 교육 혁신을 미리 준비한 사회가 될 것입니다.",
     "implication": "우리 학생들이 AI 시대를 이끌 역량을 기를 수 있도록 문제 해결력과 창의적 사고를 강화하는 수업을 진행할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-06-23"
    },
    {
     "n": 3,
@@ -364,7 +365,8 @@
     ],
     "summary": "삼성전자의 사내 AI 도입은 LLM 기반 AI의 기업 활용 범용화를 촉진하고, 전 산업의 AI 전환을 가속화하는 중요한 전환점이 될 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-06-22"
    },
    {
     "n": 8,
@@ -378,7 +380,8 @@
     "entities": [],
     "summary": "자율 AI가 의약 화학 난제를 해결하며, AI 주도 과학 연구 시대를 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-06-21"
    },
    {
     "n": 9,
@@ -411,7 +414,8 @@
     ],
     "summary": "Google AI Studio에서 'vibe coded' 퀴즈를 선보인 것은 AI가 주관적 경험 및 감성 콘텐츠 생성 도구로 확장됨을 시사합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-06-21"
    }
   ]
  },

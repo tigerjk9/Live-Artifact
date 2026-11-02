@@ -124,7 +124,7 @@
     "source": "디지털데일리",
     "published": "2026-11-01",
     "keyword": "디지털교육",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "LG",
@@ -388,7 +388,8 @@
     ],
     "summary": "오피니언: OpenAI의 Oracle 파트너십 확장은 AI 모델 운영을 위한 고성능 컴퓨팅 수요 증대와 클라우드 인프라 시장 경쟁 심화를 예고합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-10-30"
    },
    {
     "n": 9,

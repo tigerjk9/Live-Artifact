@@ -299,7 +299,8 @@
     ],
     "summary": "GPT-5.6 Sol의 14배 속도 향상은 실시간 AI 서비스 보편화와 AI 응용 범위의 획기적 확장을 이끌 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-08-17"
    },
    {
     "n": 4,
@@ -313,7 +314,8 @@
     "entities": [],
     "summary": "AI 기술의 실제 사용 행태를 파악하는 것이 향후 제품 개발 및 시장 확장의 핵심 과제가 될 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-08-19"
    },
    {
     "n": 5,

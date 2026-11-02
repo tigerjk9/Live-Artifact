@@ -421,7 +421,8 @@
     ],
     "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
     "implication": "",
-    "ai": false
+    "ai": false,
+    "dup_of": "2026-05-11"
    }
   ]
  },

@@ -1,0 +1,412 @@
+{
+ "key": "2026-W04",
+ "label": "2026년 1월 19일 ~ 25일",
+ "dates": [
+  "2026-01-19",
+  "2026-01-20",
+  "2026-01-21",
+  "2026-01-22",
+  "2026-01-23",
+  "2026-01-24",
+  "2026-01-25"
+ ],
+ "days_present": 7,
+ "counts": {
+  "edu": 69,
+  "paper": 30,
+  "tech": 58
+ },
+ "total": 157,
+ "prev_total": 143,
+ "top_entities": [
+  {
+   "name": "개인화 학습",
+   "kind": "tech",
+   "n": 17,
+   "delta": 4
+  },
+  {
+   "name": "ChatGPT",
+   "kind": "model",
+   "n": 14,
+   "delta": 5
+  },
+  {
+   "name": "Google",
+   "kind": "org",
+   "n": 12,
+   "delta": 5
+  },
+  {
+   "name": "교사 연수",
+   "kind": "issue",
+   "n": 9,
+   "delta": 7
+  },
+  {
+   "name": "OpenAI",
+   "kind": "org",
+   "n": 7,
+   "delta": -1
+  },
+  {
+   "name": "교육감 선거",
+   "kind": "issue",
+   "n": 6,
+   "delta": 2
+  },
+  {
+   "name": "교육부",
+   "kind": "edu_org",
+   "n": 6,
+   "delta": 0
+  },
+  {
+   "name": "경기도교육청",
+   "kind": "edu_org",
+   "n": 6,
+   "delta": 1
+  },
+  {
+   "name": "생성형 AI",
+   "kind": "tech",
+   "n": 6,
+   "delta": -1
+  },
+  {
+   "name": "AI 안전·규제",
+   "kind": "tech",
+   "n": 6,
+   "delta": 2
+  },
+  {
+   "name": "LLM",
+   "kind": "tech",
+   "n": 6,
+   "delta": -1
+  },
+  {
+   "name": "인천시교육청",
+   "kind": "edu_org",
+   "n": 4,
+   "delta": 2
+  }
+ ],
+ "rising": [
+  {
+   "name": "교사 연수",
+   "kind": "issue",
+   "n": 9,
+   "delta": 7
+  },
+  {
+   "name": "ChatGPT",
+   "kind": "model",
+   "n": 14,
+   "delta": 5
+  },
+  {
+   "name": "Google",
+   "kind": "org",
+   "n": 12,
+   "delta": 5
+  },
+  {
+   "name": "개인화 학습",
+   "kind": "tech",
+   "n": 17,
+   "delta": 4
+  },
+  {
+   "name": "충북교육청",
+   "kind": "edu_org",
+   "n": 3,
+   "delta": 3
+  }
+ ],
+ "topic_share": {
+  "edu": [
+   {
+    "id": "policy",
+    "label": "정책·행정",
+    "n": 34,
+    "pct": 49,
+    "delta": 14
+   },
+   {
+    "id": "ai_digital",
+    "label": "AI·디지털교육",
+    "n": 15,
+    "pct": 22,
+    "delta": -6
+   },
+   {
+    "id": "teacher",
+    "label": "교사·교권",
+    "n": 6,
+    "pct": 9,
+    "delta": 6
+   },
+   {
+    "id": "student_care",
+    "label": "학생·돌봄·안전",
+    "n": 5,
+    "pct": 7,
+    "delta": 3
+   },
+   {
+    "id": "classroom",
+    "label": "수업·교육과정",
+    "n": 5,
+    "pct": 7,
+    "delta": -16
+   },
+   {
+    "id": "global",
+    "label": "해외·연구",
+    "n": 2,
+    "pct": 3,
+    "delta": 2
+   },
+   {
+    "id": "higher_ed",
+    "label": "대학·입시·평생",
+    "n": 2,
+    "pct": 3,
+    "delta": -3
+   }
+  ],
+  "paper": [
+   {
+    "id": "teacher_pd",
+    "label": "교사 전문성",
+    "n": 8,
+    "pct": 27,
+    "delta": 7
+   },
+   {
+    "id": "assessment",
+    "label": "평가·피드백",
+    "n": 6,
+    "pct": 20,
+    "delta": 12
+   },
+   {
+    "id": "design_curric",
+    "label": "교수설계·교육과정",
+    "n": 5,
+    "pct": 17,
+    "delta": 1
+   },
+   {
+    "id": "personalized",
+    "label": "개인화·학습분석",
+    "n": 4,
+    "pct": 13,
+    "delta": -3
+   },
+   {
+    "id": "learning_sci",
+    "label": "학습과학·인지",
+    "n": 2,
+    "pct": 7,
+    "delta": -1
+   },
+   {
+    "id": "literacy_ethics",
+    "label": "AI 리터러시·윤리",
+    "n": 2,
+    "pct": 7,
+    "delta": 3
+   },
+   {
+    "id": "stem_ct",
+    "label": "컴퓨팅·STEM",
+    "n": 1,
+    "pct": 3,
+    "delta": -5
+   },
+   {
+    "id": "genai_tutor",
+    "label": "생성형 AI·튜터",
+    "n": 1,
+    "pct": 3,
+    "delta": -5
+   },
+   {
+    "id": "language",
+    "label": "언어·문해",
+    "n": 1,
+    "pct": 3,
+    "delta": -5
+   }
+  ],
+  "tech": [
+   {
+    "id": "model",
+    "label": "모델·연구",
+    "n": 19,
+    "pct": 33,
+    "delta": -8
+   },
+   {
+    "id": "product",
+    "label": "제품·서비스",
+    "n": 11,
+    "pct": 19,
+    "delta": 5
+   },
+   {
+    "id": "edu_ai",
+    "label": "교육 AI",
+    "n": 9,
+    "pct": 16,
+    "delta": 10
+   },
+   {
+    "id": "industry",
+    "label": "산업·투자·인프라",
+    "n": 7,
+    "pct": 12,
+    "delta": 0
+   },
+   {
+    "id": "agent_dev",
+    "label": "에이전트·개발도구",
+    "n": 5,
+    "pct": 9,
+    "delta": -7
+   },
+   {
+    "id": "usecase",
+    "label": "활용·사례",
+    "n": 4,
+    "pct": 7,
+    "delta": 5
+   },
+   {
+    "id": "policy_safety",
+    "label": "정책·윤리·안전",
+    "n": 3,
+    "pct": 5,
+    "delta": -3
+   }
+  ]
+ },
+ "daily": [
+  {
+   "d": "2026-01-19",
+   "n": 25,
+   "head": "AI 시대, 디지털 교육 협력 강화 및 혁신적인 교육 정책 확산 노력과 함께, 교육감 선거 및 교육 혁신에 대한 다양한 논의가 이루어지며, 공교육 혁신을 통해 글로벌 교육 경쟁력 강화에 힘쓰는 긍정적인 변화가 교육 현장에서 활발하게 진행 중이다.",
+   "src": "note"
+  },
+  {
+   "d": "2026-01-20",
+   "n": 25,
+   "head": "AI와 에듀테크를 활용한 미래 교육 혁신을 위해 교사 역량 강화 및 스마트 교육 환경 구축에 힘쓰며, 학생들의 건강과 균형 잡힌 성장을 위한 다각적인 노력이 이루어지고 있습니다.",
+   "src": "note"
+  },
+  {
+   "d": "2026-01-21",
+   "n": 25,
+   "head": "AI 시대에 발맞춰 교육 혁신 전략이 모색되는 가운데, 뇌과학 연구를 통해 학생들의 심리적 안정과 학습 능력 향상을 돕고, 교사의 능동적인 변화를 촉구하며, 교육의 본질에 더욱 집중하려는 긍정적인 움직임이 나타나고 있다 🚀.",
+   "src": "note"
+  },
+  {
+   "d": "2026-01-22",
+   "n": 25,
+   "head": "AI 기술과 뇌과학 연구를 융합하여 학생들의 사회정서 함양 및 학업 능력 향상을 꾀하고, 미래 교육 혁신을 주도하려는 움직임이 활발하게 나타나고 있다.",
+   "src": "note"
+  },
+  {
+   "d": "2026-01-23",
+   "n": 25,
+   "head": "AI 교육 격차 해소, 맞춤 교육 강화, 교육 혁신을 위한 투자 확대 등, 교육 현장이 미래를 향해 발 빠르게 변화하며 혁신적인 발전을 추구하고 있습니다!",
+   "src": "note"
+  },
+  {
+   "d": "2026-01-24",
+   "n": 25,
+   "head": "AI 시대에 발맞춰 에듀테크 투자와 교육 플랫폼 도입이 활발해지고, 기후 위기 대응 교육과 소외 계층을 위한 교육 기회 확대 노력이 이루어지는 가운데, 교육청의 정책 변화와 미래 교육 방향 모색이 활발하게 진행되며 긍정적인 발전을 가속화하고 있다.",
+   "src": "note"
+  },
+  {
+   "d": "2026-01-25",
+   "n": 10,
+   "head": "지역 교육 혁신, AI 튜터 경쟁, 교육감 선거 등 다양한 움직임 속에서 교육의 질 향상과 미래 교육으로의 전환을 위한 노력이 활발하게 이루어지고 있습니다.",
+   "src": "note"
+  }
+ ],
+ "picks": {
+  "edu": [
+   {
+    "d": "2026-01-20",
+    "n": 8,
+    "t": "충북도교육청, AI·디지털 수업 혁신 확산",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ULWpldmg0M2MtczEtNVlSNlZsTlVudEJpN1Z0dzVkRjZpUk42ejYwbnU3TjVDWmJYeEhJdHMwR2E5SDlxT3Awbmk5OVEtSTl0X3ZRU1MzZkdFVlFMTEhoS2Fn?oc=5",
+    "src": "충북일보"
+   },
+   {
+    "d": "2026-01-24",
+    "n": 5,
+    "t": "아이스크림에듀, 전남특수교육학회 국제세미나 참여",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtMkcxYWlGX0xpZFVQNHVsX1JyczRFbG13QWhNWnFMRTBqTDN0MzVUNlBQbmlJN1pMNDZfMVlMUU5jdVBvRGFrQ0ZOY0RzaWprZk10NUMxblU1anlFekRpSHJWeThPWmNCR2JJ0gFvQVVfeXFMUGNjNGp0cFpMVU9FVTNfZ3hVaVBLbXNaaERRNElROXZRVUZpb0NIMzR6YUg4V0xQNGFaYUpkM2YtOFZsbmlONkU3Z0xrWEFCYmZaOEdhRHNsTW9ubmJESF9kOU5FWk5seGE3eklUWVZn?oc=5",
+    "src": "한스경제"
+   },
+   {
+    "d": "2026-01-24",
+    "n": 8,
+    "t": "[울산교육청] 2025학년도 초등·중학 학력 인정 문해교육 과정 이수, 86세 최고령자 포함 152명 학력 인정",
+    "url": "https://www.lecturernews.com/news/articleView.html?idxno=195433",
+    "src": "한국강사신문"
+   }
+  ],
+  "paper": [
+   {
+    "d": "2026-01-20",
+    "n": 5,
+    "t": "Teaching Plan Generation and Evaluation With GPT-4: Unleashing the Potential of LLM in Instructional Design",
+    "url": "https://www.semanticscholar.org/paper/0c12d7e60dc407a91d66e6e24797263d15af0777",
+    "src": "semantic_scholar"
+   },
+   {
+    "d": "2026-01-21",
+    "n": 5,
+    "t": "The Influence of Affective Feedback Adaptive Learning System on Learning Engagement and Self-Directed Learning",
+    "url": "https://www.semanticscholar.org/paper/567219f90cae6ad3ffa1fe8e24b24c74e75a05a2",
+    "src": "semantic_scholar"
+   },
+   {
+    "d": "2026-01-23",
+    "n": 3,
+    "t": "Artificial Intelligence in Personalized Education: Enhancing Learning Outcomes Through Adaptive Technologies and Data-Driven Insights",
+    "url": "https://www.semanticscholar.org/paper/5e49f5859b9ff39af30b0a3882f7b5795aed1794",
+    "src": "semantic_scholar"
+   }
+  ],
+  "tech": [
+   {
+    "d": "2026-01-24",
+    "n": 7,
+    "t": "구글, 제미나이로 '미국판 수능' SAT 무료 모의고사 서비스",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205866",
+    "src": "AI Times"
+   },
+   {
+    "d": "2026-01-19",
+    "n": 2,
+    "t": "OpenAI Unveils Standalone ChatGPT Translate, Taking Direct Aim at Google Translate",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkcGg3NWlXLUZSMU1RUkhQSkpodHR5MXJ3Q04wR3diT3Q3UTB2UUNRN3dkdE9xUWM0Ty1nNVJiSFBBQXJoZ2diMTJacWFZeGFrNld2cDlocnVYdnQyUzJtU2Z3VW5VcHVKVHc?oc=5",
+    "src": "kmjournal.net"
+   },
+   {
+    "d": "2026-01-23",
+    "n": 6,
+    "t": "구글이 완전히 밀렸다—제미니는 ChatGPT의 AI OS 장악에서 살아남을 수 있을까?",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVjBhVkExV1FYdWROWUUxWXdXTjVuVGlZakFtSWJucFlScDRUMmItSFBva2h2YXVjMFFRcy1QS1pQMExhcF9vMWk3TWRZeTVQQVVRT1g5N2EyUzlMX2dGTHdlanNPX3drdFREbkk0Z3h6cFVpSlhveGxZMXJza2Z5eWN0bW5Sd21KMW5kZVY2OGZqelhaNlBIZVFoc2l4R1I3eEdUaF9XZVlEV1ZV?oc=5",
+    "src": "Smartkarma"
+   }
+  ]
+ },
+ "generated_at": "2026-11-02T13:16:18+09:00"
+}

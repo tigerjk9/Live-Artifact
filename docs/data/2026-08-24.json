@@ -101,6 +101,7 @@
     "topic": "ai_digital",
     "kind": null,
     "entities": [
+     "GPU·데이터센터",
      "에이전트"
     ],
     "summary": "AI 생태계 내 NPU부터 AI 에이전트까지 다양한 분야에서 경쟁이 치열합니다.",
@@ -353,9 +354,9 @@
     "topic": "model",
     "kind": null,
     "entities": [
+     "LLM",
      "NVIDIA",
-     "에이전트",
-     "LLM"
+     "에이전트"
     ],
     "summary": "엔비디아가 LLM '하네스'를 통한 장기 에이전트 가능성을 입증하며, AI 산업의 핵심 경쟁력이 모델 자체보다 시스템 통합 및 활용 능력으로 전환될 것입니다.",
     "implication": "",
@@ -375,7 +376,8 @@
     ],
     "summary": "GPT-5.6 빌더 가이드는 개발자들의 고급 AI 활용을 촉진하여 AI 기술의 실질적 적용과 산업 생태계 성장을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-08-21"
    },
    {
     "n": 9,
@@ -391,7 +393,8 @@
     ],
     "summary": "ChatGPT의 광고 도입은 AI 서비스의 새로운 핵심 수익 모델을 제시하여 산업 생태계 확장을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-08-23"
    },
    {
     "n": 10,

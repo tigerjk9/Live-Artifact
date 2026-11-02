@@ -297,7 +297,8 @@
     ],
     "summary": "OpenAI의 GPT-4o API 지원 종료는 특정 모델 의존성을 낮추고 지속 가능한 AI 서비스 개발 전략을 수립해야 함을 시사합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2025-11-24"
    },
    {
     "n": 4,

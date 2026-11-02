@@ -347,7 +347,8 @@
     ],
     "summary": "Google AI Studio를 활용한 감성 코딩은 AI 개발의 대중화와 창의적 응용 분야 확장을 촉진할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-07-26"
    },
    {
     "n": 7,
@@ -361,7 +362,8 @@
     "entities": [],
     "summary": "AI가 인간의 업무 영역을 확장시키면서, AI 기술 생태계는 단순 자동화를 넘어 인간의 잠재력을 극대화하는 협업형 AI 솔루션 개발에 주력할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-07-28"
    },
    {
     "n": 8,

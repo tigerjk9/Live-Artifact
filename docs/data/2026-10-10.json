@@ -10,7 +10,7 @@
     "source": "한국NGO신문",
     "published": "2026-10-09",
     "keyword": "교육정책",
-    "topic": "teacher",
+    "topic": "policy",
     "kind": null,
     "entities": [],
     "summary": "학부모들이 “교사 반발만으로 교육정책 뒤집나”라며 국교위에 관련 자료 공개를 촉구했습니다.",
@@ -56,7 +56,7 @@
     "source": "베이비타임즈",
     "published": "2026-10-09",
     "keyword": "AI교육",
-    "topic": "classroom",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [],
     "summary": "안민석 교육감은 AI 시대에 필요한 교육을 공교육이 책임지고 실행하겠다고 밝혔습니다.",
@@ -287,7 +287,8 @@
     ],
     "summary": "구글의 기업용 제미나이 에이전트 출시는 복수 AI 모델을 통합 활용하는 플랫폼 전략이 AI 산업의 핵심 경쟁 우위가 될 것임을 시사합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-10-09"
    },
    {
     "n": 3,
@@ -320,7 +321,8 @@
     ],
     "summary": "OpenAI를 활용한 자본 시장 전문성 확장은 AI가 고도로 전문화된 산업에서 인간의 역량을 증강하고 확장하는 핵심 도구가 될 것임을 시사합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-10-07"
    },
    {
     "n": 5,
@@ -349,7 +351,8 @@
     "topic": "model",
     "kind": null,
     "entities": [
-     "ChatGPT"
+     "ChatGPT",
+     "LLM"
     ],
     "summary": "GPT-5-mini 기반 AI 판다는 LLM의 소형화와 물리적 제품 접목을 통해 AI의 일상화를 가속화하며 새로운 시장을 창출할 것입니다.",
     "implication": "",
@@ -367,7 +370,8 @@
     "entities": [],
     "summary": "알버트슨즈의 내부 혁신은 AI가 유통 산업의 운영 및 비즈니스 모델 전반을 재정의하며 필수적인 AI 기술 생태계 수요를 촉진할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-10-07"
    },
    {
     "n": 8,
@@ -381,7 +385,8 @@
     "entities": [],
     "summary": "예측 과제 속 함정에 드러난 AI의 한계는, AI 기술 신뢰성 확보를 위한 비판적 사고력 및 견고함 강화가 필수적임을 강조합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-10-07"
    },
    {
     "n": 9,

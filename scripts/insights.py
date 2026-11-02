@@ -22,7 +22,9 @@ from __future__ import annotations
 
 import json
 import os
+import re
 from collections import Counter, defaultdict
+from urllib.parse import quote
 from datetime import datetime, timedelta, timezone
 
 from taxonomy import (
@@ -94,6 +96,11 @@ def list_dates(data_dir: str) -> list[str]:
     return sorted(out)
 
 
+def is_dup(item: dict) -> bool:
+    """전날 지면에 이미 실린 항목 (fetch_and_generate.mark_duplicates가 dup_of를 붙인다)."""
+    return bool(item.get("dup_of"))
+
+
 def record_total(record: dict) -> int:
     return sum(len(record["sections"].get(s, [])) for s in SECTIONS)
 
@@ -119,12 +126,15 @@ def index_entry(record: dict) -> dict:
     kinds: Counter = Counter()
     srcs: Counter = Counter()
     counts: dict[str, int] = {}
+    dups = 0
     for s in SECTIONS:
         items = record["sections"].get(s, [])
         counts[s] = len(items)
-        tc: Counter = Counter(it.get("topic", "other") for it in items)
+        fresh = [it for it in items if not is_dup(it)]
+        dups += len(items) - len(fresh)
+        tc: Counter = Counter(it.get("topic", "other") for it in fresh)
         topics[s] = dict(tc)
-        for it in items:
+        for it in fresh:
             for e in it.get("entities", []):
                 ents[e] += 1
             if it.get("kind"):
@@ -140,6 +150,7 @@ def index_entry(record: dict) -> dict:
         "ents": dict(ents.most_common(INDEX_TOP_ENTITIES)),
         "kinds": dict(kinds),
         "srcs": dict(srcs.most_common(12)),
+        "dups": dups,
     }
     syn = record.get("synthesis") or {}
     notes = record.get("notes") or {}
@@ -172,6 +183,8 @@ def build_index(data_dir: str, write: bool = True) -> dict:
 
 
 def build_search(data_dir: str, write: bool = True) -> list[dict]:
+    """월별 검색 색인 docs/data/search/YYYY-MM.json (제목·출처·주제·요약 앞 160자) + index.json."""
+    by_month: dict[str, list[dict]] = defaultdict(list)
     rows: list[dict] = []
     for d in list_dates(data_dir):
         rec = load_day(data_dir, d)
@@ -179,14 +192,87 @@ def build_search(data_dir: str, write: bool = True) -> list[dict]:
             continue
         for s in SECTIONS:
             for it in rec["sections"].get(s, []):
-                rows.append({
-                    "d": d, "s": s, "n": it["n"], "t": it["title"],
+                row = {
+                    "d": d, "s": s, "n": it["n"], "t": it.get("title_ko") or it["title"],
                     "src": it.get("source", ""), "tp": it.get("topic", ""),
-                })
+                    "sm": (it.get("summary") or "")[:160],
+                }
+                if it.get("title_ko"):
+                    row["t2"] = it["title"]
+                rows.append(row)
+                by_month[d[:7]].append(row)
     if write:
-        with open(os.path.join(data_dir, "search.json"), "w", encoding="utf-8") as f:
-            json.dump(rows, f, ensure_ascii=False, separators=(",", ":"))
+        sdir = os.path.join(data_dir, "search")
+        os.makedirs(sdir, exist_ok=True)
+        for m, lst in by_month.items():
+            with open(os.path.join(sdir, f"{m}.json"), "w", encoding="utf-8") as f:
+                json.dump(lst, f, ensure_ascii=False, separators=(",", ":"))
+        with open(os.path.join(sdir, "index.json"), "w", encoding="utf-8") as f:
+            json.dump({"months": [{"m": m, "n": len(by_month[m])} for m in sorted(by_month)], "total": len(rows)},
+                      f, ensure_ascii=False)
+        legacy = os.path.join(data_dir, "search.json")
+        if os.path.isfile(legacy):
+            os.remove(legacy)
     return rows
+
+
+def slugify(name: str) -> str:
+    return re.sub(r"[^0-9A-Za-z가-힣]+", "_", name).strip("_") or "x"
+
+
+def build_entity_index(data_dir: str, min_mentions: int = 3) -> int:
+    """docs/data/entities.json (목록·월별 추이) + docs/data/entity/{slug}.json (주체별 전체 등장)."""
+    from taxonomy import entity_kind
+
+    ents: dict[str, dict] = {}
+    for d in list_dates(data_dir):
+        rec = load_day(data_dir, d)
+        if not rec:
+            continue
+        for s in SECTIONS:
+            for it in rec["sections"].get(s, []):
+                if is_dup(it):
+                    continue
+                names = it.get("entities", [])
+                for e in names:
+                    ent = ents.setdefault(e, {"items": [], "co": Counter(), "topics": defaultdict(Counter)})
+                    ent["items"].append({
+                        "d": d, "s": s, "n": it["n"], "t": it.get("title_ko") or it["title"], "tp": it.get("topic", ""),
+                    })
+                    ent["topics"][s][it.get("topic", "")] += 1
+                    for other in names:
+                        if other != e:
+                            ent["co"][other] += 1
+    edir = os.path.join(data_dir, "entity")
+    os.makedirs(edir, exist_ok=True)
+    listing = []
+    written = 0
+    for name, ent in ents.items():
+        items = ent["items"]
+        if len(items) < min_mentions:
+            continue
+        months: Counter = Counter(it["d"][:7] for it in items)
+        by_sec: Counter = Counter(it["s"] for it in items)
+        slug = slugify(name)
+        listing.append({
+            "name": name, "slug": slug, "kind": entity_kind(name), "n": len(items),
+            "first": items[0]["d"], "last": items[-1]["d"],
+            "sec": dict(by_sec), "months": dict(sorted(months.items())),
+        })
+        with open(os.path.join(edir, f"{slug}.json"), "w", encoding="utf-8") as f:
+            json.dump({
+                "name": name, "kind": entity_kind(name), "n": len(items),
+                "co": dict(ent["co"].most_common(12)),
+                "topics": {s: dict(c) for s, c in ent["topics"].items()},
+                "items": list(reversed(items)),
+            }, f, ensure_ascii=False, separators=(",", ":"))
+        written += 1
+    listing.sort(key=lambda x: -x["n"])
+    with open(os.path.join(data_dir, "entities.json"), "w", encoding="utf-8") as f:
+        json.dump({"min_mentions": min_mentions, "entities": listing,
+                   "topic_labels": {s: {t: topic_label(s, t) for t in topic_ids(s)} for s in SECTIONS}},
+                  f, ensure_ascii=False, separators=(",", ":"))
+    return written
 
 
 # ---------------------------------------------------------------------------
@@ -219,8 +305,12 @@ def compute_board(record: dict, index_days: list[dict]) -> dict:
 
     # 2) 오늘의 주체
     ent_sec: dict[str, dict[str, list[int]]] = defaultdict(lambda: defaultdict(list))
+    dups = 0
     for s in SECTIONS:
         for it in secs.get(s, []):
+            if is_dup(it):
+                dups += 1
+                continue
             for e in it.get("entities", []):
                 ent_sec[e][s].append(it["n"])
     entities = sorted(
@@ -293,6 +383,7 @@ def compute_board(record: dict, index_days: list[dict]) -> dict:
         "ai": ai,
         "fallback": fallback,
         "kinds": dict(kinds),
+        "dups": dups,
         "topics": topics,
         "entities": entities[:10],
         "links": links[:6],
@@ -349,7 +440,7 @@ def _sec_dots(sections: dict[str, list[int]]) -> str:
     )
 
 
-def render_board(board: dict) -> str:
+def render_board(board: dict, root: str = "") -> str:
     if not board["total"]:
         return ""
     b = board
@@ -426,9 +517,13 @@ def render_board(board: dict) -> str:
             h.append(f'              <span class="topic-chip topic-chip-rest">외 {len(rows) - 4}개 주제 {rest}건</span>')
         h.append('            </div>')
         h.append('          </div>')
+    foot = []
     if b["kinds"]:
-        kinds_txt = " · ".join(f"{KIND_LABEL.get(k, k)} {v}" for k, v in b["kinds"].items())
-        h.append(f'          <p class="cell-foot">형식: {esc(kinds_txt)}</p>')
+        foot.append("형식: " + " · ".join(f"{KIND_LABEL.get(k, k)} {v}" for k, v in b["kinds"].items()))
+    if b.get("dups"):
+        foot.append(f"전날 지면과 겹치는 {b['dups']}건은 주체·흐름 집계에서 제외")
+    if foot:
+        h.append(f'          <p class="cell-foot">{esc(" · ".join(foot))}</p>')
     h.append('        </div>')
 
     # 오늘의 주체
@@ -440,7 +535,8 @@ def render_board(board: dict) -> str:
             h.append(
                 f'            <li><button type="button" class="ent-chip kind-{e["kind"]}" data-ent-filter="{esc(e["name"])}">'
                 f'<span class="ent-name">{esc(e["name"])}</span><b class="ent-n">{e["n"]}</b>'
-                f'<span class="ent-dots">{_sec_dots(e["sections"])}</span></button></li>'
+                f'<span class="ent-dots">{_sec_dots(e["sections"])}</span></button>'
+                f'<a class="ent-link" href="{root}entity.html?e={quote(e["name"])}" title="{esc(e["name"])} 1년 흐름" aria-label="{esc(e["name"])} 주체 페이지">&#8599;</a></li>'
             )
         h.append('          </ul>')
     else:

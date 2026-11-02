@@ -124,7 +124,7 @@
     "source": "한국강사신문",
     "published": "2026-02-19",
     "keyword": "AI디지털교육",
-    "topic": "teacher",
+    "topic": "higher_ed",
     "kind": null,
     "entities": [
      "교육부"
@@ -413,7 +413,7 @@
     "source": "AI포스트",
     "published": "2026-02-19",
     "keyword": "구글",
-    "topic": "product",
+    "topic": "model",
     "kind": null,
     "entities": [
      "Google",

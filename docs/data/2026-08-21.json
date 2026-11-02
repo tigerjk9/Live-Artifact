@@ -135,7 +135,7 @@
     "source": "에듀프레스",
     "published": "2026-08-20",
     "keyword": "교육정책",
-    "topic": "teacher",
+    "topic": "policy",
     "kind": null,
     "entities": [],
     "summary": "이일권 교장은 교육의 기본이 중요함을 강조하며, 교육정책의 핵심은 '티처 퍼스트'라고 밝혔습니다.",
@@ -321,7 +321,8 @@
     "entities": [],
     "summary": "AI의 실제 활용 방식에 대한 이해 부족은 AI 기술 생태계의 발전 방향 설정과 제품 전략 수립에 중대한 걸림돌이 될 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-08-19"
    },
    {
     "n": 6,

@@ -40,7 +40,7 @@
     "source": "MSN",
     "published": "2025-11-22",
     "keyword": "AI교육",
-    "topic": "teacher",
+    "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
     "summary": "교사 조롱 AI 영상은 교육 철학 부재를 드러내며, 교사의 권위 실추와 교육 현장의 혼란을 심화시킬 수 있다는 점에서 우려스럽습니다.",
@@ -54,7 +54,7 @@
     "source": "비즈월드",
     "published": "2025-11-22",
     "keyword": "디지털교육",
-    "topic": "classroom",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "경기도교육청"

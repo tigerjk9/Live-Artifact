@@ -10,7 +10,7 @@
     "source": "eanews.kr",
     "published": "2026-09-15",
     "keyword": "에듀테크",
-    "topic": "ai_digital",
+    "topic": "policy",
     "kind": null,
     "entities": [],
     "summary": "2026 에듀테크 정책 세미나를 통해 K-EdTech 거버넌스 원년에 예상되는 과제를 다룬다.",
@@ -341,7 +341,8 @@
     ],
     "summary": "10억 ChatGPT 사용자 지원 스토리지 확장은 AI 대중화에 필수적인 인프라 산업의 폭발적 성장을 견인할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-09-13"
    },
    {
     "n": 7,

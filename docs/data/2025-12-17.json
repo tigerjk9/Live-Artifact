@@ -15,7 +15,8 @@
     "entities": [],
     "summary": "이재명 정부가 교육개혁에 소극적인 모습은 교육계의 기대와 달리, 시스템 개선을 위한 실질적인 변화를 늦추고 있다는 우려를 낳습니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2025-12-16"
    },
    {
     "n": 2,
@@ -413,7 +414,7 @@
     "source": "intn.co.kr",
     "published": "2025-12-16",
     "keyword": "GPT",
-    "topic": "policy_safety",
+    "topic": "model",
     "kind": null,
     "entities": [
      "ChatGPT",

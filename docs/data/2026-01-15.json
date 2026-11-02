@@ -68,7 +68,7 @@
     "source": "포인트경제",
     "published": "2026-01-14",
     "keyword": "디지털교육",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [],
     "summary": "경남 AI 교육 발전을 위한 논의는 학교 현장의 AI 교육 도입 및 적용에 긍정적인 영향을 미칠 것으로 기대됩니다.",
@@ -122,7 +122,8 @@
     ],
     "summary": "도성훈 교육감의 신년 인터뷰는 학생 맞춤형 교육 강화 및 교육 격차 해소에 대한 의지를 보여주며, 이는 긍정적 변화를 기대하게 합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-01-14"
    },
    {
     "n": 9,
@@ -252,7 +253,8 @@
     "topic": "model",
     "kind": null,
     "entities": [
-     "Google"
+     "Google",
+     "LLM"
     ],
     "summary": "구글의 연구는 LLM의 효율적인 활용 가능성을 제시하며, 프롬프트 엔지니어링의 중요성을 강조하여 관련 기술 및 시장 발전에 기여할 것입니다.",
     "implication": "",
@@ -303,7 +305,8 @@
     "topic": "model",
     "kind": null,
     "entities": [
-     "Alibaba"
+     "Alibaba",
+     "LLM"
     ],
     "summary": "알리바바의 새로운 학습법은 LLM의 자체적인 기억 관리 능력을 향상시켜 AI 성능 개선 및 활용 범위 확장에 기여할 것입니다.",
     "implication": "",

@@ -1,0 +1,404 @@
+{
+ "key": "2026-W35",
+ "label": "2026년 8월 24일 ~ 30일",
+ "dates": [
+  "2026-08-24",
+  "2026-08-25",
+  "2026-08-26",
+  "2026-08-27",
+  "2026-08-28",
+  "2026-08-29",
+  "2026-08-30"
+ ],
+ "days_present": 7,
+ "counts": {
+  "edu": 66,
+  "paper": 35,
+  "tech": 64
+ },
+ "total": 165,
+ "prev_total": 155,
+ "top_entities": [
+  {
+   "name": "ChatGPT",
+   "kind": "model",
+   "n": 20,
+   "delta": -1
+  },
+  {
+   "name": "에이전트",
+   "kind": "tech",
+   "n": 15,
+   "delta": 5
+  },
+  {
+   "name": "OpenAI",
+   "kind": "org",
+   "n": 15,
+   "delta": -3
+  },
+  {
+   "name": "NVIDIA",
+   "kind": "org",
+   "n": 12,
+   "delta": 7
+  },
+  {
+   "name": "생성형 AI",
+   "kind": "tech",
+   "n": 9,
+   "delta": -3
+  },
+  {
+   "name": "개인화 학습",
+   "kind": "tech",
+   "n": 8,
+   "delta": 3
+  },
+  {
+   "name": "로봇·휴머노이드",
+   "kind": "tech",
+   "n": 8,
+   "delta": 7
+  },
+  {
+   "name": "GPU·데이터센터",
+   "kind": "tech",
+   "n": 7,
+   "delta": 3
+  },
+  {
+   "name": "Google",
+   "kind": "org",
+   "n": 7,
+   "delta": 4
+  },
+  {
+   "name": "SK",
+   "kind": "org",
+   "n": 6,
+   "delta": 6
+  },
+  {
+   "name": "경기도교육청",
+   "kind": "edu_org",
+   "n": 6,
+   "delta": 4
+  },
+  {
+   "name": "Claude",
+   "kind": "model",
+   "n": 6,
+   "delta": 2
+  }
+ ],
+ "rising": [
+  {
+   "name": "NVIDIA",
+   "kind": "org",
+   "n": 12,
+   "delta": 7
+  },
+  {
+   "name": "로봇·휴머노이드",
+   "kind": "tech",
+   "n": 8,
+   "delta": 7
+  },
+  {
+   "name": "SK",
+   "kind": "org",
+   "n": 6,
+   "delta": 6
+  },
+  {
+   "name": "Gemini",
+   "kind": "model",
+   "n": 6,
+   "delta": 6
+  },
+  {
+   "name": "에이전트",
+   "kind": "tech",
+   "n": 15,
+   "delta": 5
+  },
+  {
+   "name": "Google",
+   "kind": "org",
+   "n": 7,
+   "delta": 4
+  }
+ ],
+ "topic_share": {
+  "edu": [
+   {
+    "id": "policy",
+    "label": "정책·행정",
+    "n": 25,
+    "pct": 38,
+    "delta": -3
+   },
+   {
+    "id": "ai_digital",
+    "label": "AI·디지털교육",
+    "n": 21,
+    "pct": 32,
+    "delta": 1
+   },
+   {
+    "id": "classroom",
+    "label": "수업·교육과정",
+    "n": 15,
+    "pct": 23,
+    "delta": 13
+   },
+   {
+    "id": "teacher",
+    "label": "교사·교권",
+    "n": 4,
+    "pct": 6,
+    "delta": -1
+   },
+   {
+    "id": "higher_ed",
+    "label": "대학·입시·평생",
+    "n": 1,
+    "pct": 2,
+    "delta": -4
+   }
+  ],
+  "paper": [
+   {
+    "id": "design_curric",
+    "label": "교수설계·교육과정",
+    "n": 9,
+    "pct": 26,
+    "delta": 15
+   },
+   {
+    "id": "teacher_pd",
+    "label": "교사 전문성",
+    "n": 5,
+    "pct": 14,
+    "delta": -15
+   },
+   {
+    "id": "inclusion_sel",
+    "label": "포용·정서·웰빙",
+    "n": 4,
+    "pct": 11,
+    "delta": 5
+   },
+   {
+    "id": "personalized",
+    "label": "개인화·학습분석",
+    "n": 3,
+    "pct": 9,
+    "delta": -2
+   },
+   {
+    "id": "stem_ct",
+    "label": "컴퓨팅·STEM",
+    "n": 3,
+    "pct": 9,
+    "delta": 6
+   },
+   {
+    "id": "genai_tutor",
+    "label": "생성형 AI·튜터",
+    "n": 3,
+    "pct": 9,
+    "delta": 9
+   },
+   {
+    "id": "language",
+    "label": "언어·문해",
+    "n": 3,
+    "pct": 9,
+    "delta": -8
+   },
+   {
+    "id": "literacy_ethics",
+    "label": "AI 리터러시·윤리",
+    "n": 3,
+    "pct": 9,
+    "delta": -8
+   },
+   {
+    "id": "assessment",
+    "label": "평가·피드백",
+    "n": 2,
+    "pct": 6,
+    "delta": 0
+   }
+  ],
+  "tech": [
+   {
+    "id": "model",
+    "label": "모델·연구",
+    "n": 27,
+    "pct": 42,
+    "delta": 12
+   },
+   {
+    "id": "industry",
+    "label": "산업·투자·인프라",
+    "n": 16,
+    "pct": 25,
+    "delta": -7
+   },
+   {
+    "id": "agent_dev",
+    "label": "에이전트·개발도구",
+    "n": 10,
+    "pct": 16,
+    "delta": 8
+   },
+   {
+    "id": "product",
+    "label": "제품·서비스",
+    "n": 5,
+    "pct": 8,
+    "delta": -8
+   },
+   {
+    "id": "policy_safety",
+    "label": "정책·윤리·안전",
+    "n": 3,
+    "pct": 5,
+    "delta": 3
+   },
+   {
+    "id": "edu_ai",
+    "label": "교육 AI",
+    "n": 2,
+    "pct": 3,
+    "delta": -3
+   },
+   {
+    "id": "usecase",
+    "label": "활용·사례",
+    "n": 1,
+    "pct": 2,
+    "delta": -4
+   }
+  ]
+ },
+ "daily": [
+  {
+   "d": "2026-08-24",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-08-25",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-08-26",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-08-27",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-08-28",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-08-29",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-08-30",
+   "n": 25,
+   "head": "",
+   "src": ""
+  }
+ ],
+ "picks": {
+  "edu": [
+   {
+    "d": "2026-08-24",
+    "n": 7,
+    "t": "국산 NPU부터 AI 에이전트까지… AI 생태계 경쟁 ‘치열’",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BSjhEdTE3aVBvOFZvcWFELU9sTTRLLWNOMHFaVld4OGN4Q1Z0ODJEa2oyOEZrc0dUdWVqV3RLT1A3OWRiRkI2ajNTYzNETUYzLWptdWRXa1F6MFUtSE5ZUk1qWG5EMHhuWEE?oc=5",
+    "src": "천지일보"
+   },
+   {
+    "d": "2026-08-24",
+    "n": 8,
+    "t": "AI 에이전트 자격증명 남용 막는다...업무 실행할 때만 권한 부여",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKcjloanBhUEprNGx3azNROWdRV3QySXF4NHBTM1VGUTVabFJ0Qm9xMjdhekdubUNJTnVibzBESGY0TUF2dGRZYjE2QWl2S2paUWVJQW40T05jWlc4NzhhYzZkNWZfcl9hSEE?oc=5",
+    "src": "지티티코리아"
+   },
+   {
+    "d": "2026-08-24",
+    "n": 9,
+    "t": "암호화폐의 다음 10억 사용자는 AI 에이전트일 가능성이 높으며, 이들은 스테이블코인으로 결제하고 있습니다",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaWJkZWlaaVVUVkctd0I2REp0Ni1IZWxJbHhPaVZHdTRrTHNzdWZQbEd4YkpXMFZnVWZFUnhHSy10bTNDbjI4TEdvSW12VE9nN20xNzlEdmR5Um9JdGdSSHJESW9jbnR3UXRPZ2NSV3paQ2szd1U3N0RHNkF3em1EWjliTjZTbDBhUmhiTzNTNksyVnRVSnE1a1RxYnEySEF6MWMyMTBQb21JUEI1YUp6QmhzWXF2RUxBN01JRDJvMWhmdjc4djJDQU1R?oc=5",
+    "src": "CoinDesk"
+   }
+  ],
+  "paper": [
+   {
+    "d": "2026-08-27",
+    "n": 1,
+    "t": "An Explainable and Personalized Generative AI Framework for Adaptive Learning, Intelligent Tutoring, and Student Performance Prediction",
+    "url": "https://doi.org/10.48175/ijarsct-25093",
+    "src": "openalex"
+   },
+   {
+    "d": "2026-08-24",
+    "n": 2,
+    "t": "Design and Evaluation of an Intelligent Adaptive Learning System Using Generative Artificial Intelligence",
+    "url": "https://doi.org/10.3991/ijim.v20i16.62678",
+    "src": "openalex"
+   },
+   {
+    "d": "2026-08-27",
+    "n": 2,
+    "t": "The impact of generative artificial intelligence on language teaching and learning",
+    "url": "https://doi.org/10.1007/s11135-026-03068-3",
+    "src": "openalex"
+   }
+  ],
+  "tech": [
+   {
+    "d": "2026-08-26",
+    "n": 1,
+    "t": "\"비용 82% 절감\"…오픈AI-AWS, 코딩 에이전트 '키로'에 GPT-5.6 탑재",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9EQ1ltOVJPQmpjT1NYOVlxdnhGMEs0UFZfV0JyYW16U1BiWF9vQkF1WnZ4bEI3Nm93dW9ZMjJEb2thLUVDZUJTOUt2eDNPSGRZcnMtZzdtX05tVkZsRmZvcjlkdWtrM1lEUTJ5MFpR0gFyQVVfeXFMUHVrdXdsbklhOGhiWXY4cXpCQzBTbWpPQ2kwVkMzbThBRGI4S3lweTZDTDJBaDRoeDRaWV91Q1ZCS2xxN25QS1NQZHhwTkV4aUIyZ1Ntakw2M0Y4ZTZUT0x6NURlZ3RRX0h5c1l3clV4U1ln?oc=5",
+    "src": "AI포스트"
+   },
+   {
+    "d": "2026-08-28",
+    "n": 4,
+    "t": "[NVIDIA, Hugging Face 인수 확정… 129억 달러 규모] 엔비디아가 허깅 페이스에 주목한 배경에는 AI 칩 시장 지배력 유지라는 절박한 과제가 자리한다. 현재 오픈AI, 구글, 아마존, 앤스로픽 등 주요 폐쇄형 AI",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBJck1hc2hMVzFqai01bmpKZDZrUDRHUTc3aVg2c1ZrN2c4V2hNWldJLVlaMjBiLXB6RGVIWEtMc2k?oc=5",
+    "src": "AI넷"
+   },
+   {
+    "d": "2026-08-29",
+    "n": 1,
+    "t": "\"일회성 대화도 저장 가능\"...오픈AI, 챗GPT 임시 채팅 기능 강화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214569",
+    "src": "AI Times"
+   }
+  ]
+ },
+ "generated_at": "2026-11-02T13:16:18+09:00"
+}

@@ -15,7 +15,8 @@
     "entities": [],
     "summary": "세계적 교육 의제로 떠오른 사회정서교육을 학교 현장에 안착시키려면 교과 연계와 교사의 사회정서역량 강화가 필요하다.",
     "implication": "학생 지도 시 자신의 감정을 성찰하고 존중과 자기조절을 먼저 실천하여 교육의 설득력을 높일 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-07-29"
    },
    {
     "n": 2,
@@ -105,7 +106,7 @@
     "source": "뉴스프리존",
     "published": "2026-07-29",
     "keyword": "디지털교육",
-    "topic": "ai_digital",
+    "topic": "policy",
     "kind": null,
     "entities": [
      "경남교육청"
@@ -346,6 +347,7 @@
     "topic": "policy_safety",
     "kind": null,
     "entities": [
+     "OpenAI",
      "Anthropic",
      "AI 안전·규제"
     ],
@@ -419,7 +421,8 @@
     ],
     "summary": "Google AI Studio를 활용한 'vibe coded' 퀴즈는 AI 개발 도구의 접근성을 높여, 개인화된 인터랙티브 콘텐츠 제작의 대중화를 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-07-27"
    }
   ]
  },

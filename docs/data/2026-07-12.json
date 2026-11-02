@@ -28,7 +28,7 @@
     "source": "교육플러스",
     "published": "2026-07-11",
     "keyword": "",
-    "topic": "teacher",
+    "topic": "global",
     "kind": null,
     "entities": [
      "교육부"
@@ -358,6 +358,7 @@
     "kind": null,
     "entities": [
      "xAI",
+     "코딩 AI",
      "OpenAI",
      "Anthropic"
     ],
@@ -409,7 +410,8 @@
     ],
     "summary": "ChatGPT의 확산은 AI 기술이 일상과 산업에 깊숙이 통합되어 전반적인 AI 생태계의 성장을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-07-11"
    }
   ]
  },

@@ -1,5 +1,28 @@
 # Changelog
 
+## v3.2 — 2026-11-02 · 데이터 품질 · 주체 페이지 · 주간 · OG · 피드 · 운영 안전
+
+### 데이터 품질
+- **전날 지면 중복 표시** — URL·정규화 제목으로 직전 3일과 비교해 `dup_of`를 붙인다. 지면에는 "M/D 실림"으로 남고 주체·흐름 집계에서는 빠진다 (`--task mark-dups`, 전 기간 542건)
+- **Gemini 항목 보강** (`scripts/enrich.py`, 하루 1회) — 규칙 분류 보정(`topic_src: ai`), 논문 한국어 제목(`title_ko`, 원제 병기), 요약 없는 항목 제목 기반 요약(`summary_src: ai-backfill`)
+- **분류 규칙 보정** — 영문 토큰 경계를 ASCII 기준으로(`오픈AI가`·`읽걷쓰AI`도 매칭), 교육정책·사범대·의회/청문회 패턴, 해외·연구 우선순위. 라벨 32개 회귀 테스트
+- 재페치 없이 규칙만 다시 적용하는 `--task reclassify`
+
+### 새 화면·배포물
+- **주체 페이지** `/entity.html?e=OpenAI` — 월별 언급, 주제 분포, 함께 등장한 주체, 전체 등장 목록. 보드 칩·흐름 랭킹에서 연결 (`data/entities.json`, `data/entity/*.json`)
+- **주간 다이제스트** `/weekly/` — ISO 주 단위 집계 + Gemini 주간 종합(선택). 월요일 실행이 지난주를 만들고 `weekly-backfill`이 과거 전체를 만든다
+- **날짜별 OG 이미지** `og/YYYY-MM-DD.jpg` — Playwright로 1200×630 카드(헤드라인·흐름 3개·건수·주체). 공유 링크 미리보기가 그날 지면이 된다
+- **RSS 2.0 · JSON Feed** `feed.xml` / `feed.json` — 최근 30일, 하루 한 항목
+- **요약 본문 검색** — 월별 색인 `data/search/YYYY-MM.json`에 요약 앞 160자 포함, 제목에 없으면 스니펫 표시
+
+### 운영
+- `tests/` pytest 64개 (파서 3포맷·JSON 복구·분류 회귀·파이프라인·렌더 마커·주간) + `ci.yml`
+- `scripts/healthcheck.py` + 일일 워크플로우 경보 단계 — 커버리지 이틀 연속 60% 미만 / 종합 사흘 연속 없음 / 폴백 이틀 연속이면 `ops-alert` 이슈
+- `maintenance.yml` — enrich · summaries · weekly-backfill · mark-dups · reclassify · og-all · rebuild 를 Actions에서 범위 지정 실행
+- 일일·유지보수 워크플로우 `git pull --rebase` 후 push, 동시 실행 그룹 `live-artifact-write`
+- 수집기 3곳에 push 전 rebase + 키 없을 때 당일 데이터 보호 가드 PR
+- 정리: `og-image.png`(6.4MB) · `_workspace/` · `.pdca-*` 삭제, `requirements.txt` 도입
+
 ## v3.1 — 2026-11-02 · 신문 1면 디자인
 
 - 방향: 종이 바탕 + 잉크 괘선 + 세리프 디스플레이. 박스·그림자·둥근 모서리를 걷어내고 선과 크기 대비로 위계를 만든다 (`.impeccable.md`)

@@ -268,6 +268,7 @@
     "topic": "industry",
     "kind": null,
     "entities": [
+     "Apple",
      "GPU·데이터센터"
     ],
     "summary": "하크의 AI 전용 장치 개발 및 대규모 투자 유치는 특정 목적에 최적화된 AI 반도체 시장 경쟁을 심화시키고, AI 기술 혁신을 가속화할 것입니다.",
@@ -306,7 +307,8 @@
     ],
     "summary": "Anthropic의 NSA 공급 지속은 AI 기술 기업의 안보 민감 정보 접근과 정부 계약 관련 윤리적 논쟁을 심화시킬 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-05-25"
    },
    {
     "n": 4,
@@ -340,7 +342,8 @@
     ],
     "summary": "Deepseek의 파격적인 가격 정책은 AI 모델 시장 경쟁 심화를 촉발하고, 특히 오픈소스 기반 모델의 영향력을 확대할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-05-24"
    },
    {
     "n": 6,
@@ -386,7 +389,8 @@
     "topic": "industry",
     "kind": null,
     "entities": [
-     "ChatGPT"
+     "ChatGPT",
+     "OpenAI"
     ],
     "summary": "오픈AI의 IPO딜레마는 AI 기술 성장 둔화 및 수익성 확보의 어려움이 업계 전반의 투자 심리 위축을 야기할 수 있다는 점을 시사합니다.",
     "implication": "",

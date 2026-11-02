@@ -1,0 +1,383 @@
+{
+ "key": "2026-W09",
+ "label": "2026년 2월 23일 ~ 3월 1일",
+ "dates": [
+  "2026-02-23",
+  "2026-02-24",
+  "2026-02-25",
+  "2026-02-26",
+  "2026-02-27",
+  "2026-02-28",
+  "2026-03-01"
+ ],
+ "days_present": 7,
+ "counts": {
+  "edu": 65,
+  "paper": 25,
+  "tech": 49
+ },
+ "total": 139,
+ "prev_total": 115,
+ "top_entities": [
+  {
+   "name": "Anthropic",
+   "kind": "org",
+   "n": 13,
+   "delta": 10
+  },
+  {
+   "name": "개인화 학습",
+   "kind": "tech",
+   "n": 10,
+   "delta": 2
+  },
+  {
+   "name": "교육감 선거",
+   "kind": "issue",
+   "n": 8,
+   "delta": -1
+  },
+  {
+   "name": "Claude",
+   "kind": "model",
+   "n": 8,
+   "delta": 7
+  },
+  {
+   "name": "Google",
+   "kind": "org",
+   "n": 8,
+   "delta": -1
+  },
+  {
+   "name": "대전시교육청",
+   "kind": "edu_org",
+   "n": 7,
+   "delta": 4
+  },
+  {
+   "name": "ChatGPT",
+   "kind": "model",
+   "n": 6,
+   "delta": 2
+  },
+  {
+   "name": "OpenAI",
+   "kind": "org",
+   "n": 6,
+   "delta": 4
+  },
+  {
+   "name": "코딩 AI",
+   "kind": "tech",
+   "n": 5,
+   "delta": 5
+  },
+  {
+   "name": "교육부",
+   "kind": "edu_org",
+   "n": 5,
+   "delta": 0
+  },
+  {
+   "name": "경기도교육청",
+   "kind": "edu_org",
+   "n": 5,
+   "delta": -5
+  },
+  {
+   "name": "서울시교육청",
+   "kind": "edu_org",
+   "n": 5,
+   "delta": 2
+  }
+ ],
+ "rising": [
+  {
+   "name": "Anthropic",
+   "kind": "org",
+   "n": 13,
+   "delta": 10
+  },
+  {
+   "name": "Claude",
+   "kind": "model",
+   "n": 8,
+   "delta": 7
+  },
+  {
+   "name": "코딩 AI",
+   "kind": "tech",
+   "n": 5,
+   "delta": 5
+  },
+  {
+   "name": "대전시교육청",
+   "kind": "edu_org",
+   "n": 7,
+   "delta": 4
+  },
+  {
+   "name": "OpenAI",
+   "kind": "org",
+   "n": 6,
+   "delta": 4
+  },
+  {
+   "name": "인천시교육청",
+   "kind": "edu_org",
+   "n": 3,
+   "delta": 3
+  }
+ ],
+ "topic_share": {
+  "edu": [
+   {
+    "id": "policy",
+    "label": "정책·행정",
+    "n": 31,
+    "pct": 48,
+    "delta": 17
+   },
+   {
+    "id": "ai_digital",
+    "label": "AI·디지털교육",
+    "n": 25,
+    "pct": 38,
+    "delta": 15
+   },
+   {
+    "id": "classroom",
+    "label": "수업·교육과정",
+    "n": 4,
+    "pct": 6,
+    "delta": -13
+   },
+   {
+    "id": "student_care",
+    "label": "학생·돌봄·안전",
+    "n": 3,
+    "pct": 5,
+    "delta": 1
+   },
+   {
+    "id": "teacher",
+    "label": "교사·교권",
+    "n": 2,
+    "pct": 3,
+    "delta": -6
+   }
+  ],
+  "paper": [
+   {
+    "id": "teacher_pd",
+    "label": "교사 전문성",
+    "n": 6,
+    "pct": 24,
+    "delta": 17
+   },
+   {
+    "id": "personalized",
+    "label": "개인화·학습분석",
+    "n": 4,
+    "pct": 16,
+    "delta": 3
+   },
+   {
+    "id": "design_curric",
+    "label": "교수설계·교육과정",
+    "n": 4,
+    "pct": 16,
+    "delta": -11
+   },
+   {
+    "id": "learning_sci",
+    "label": "학습과학·인지",
+    "n": 4,
+    "pct": 16,
+    "delta": 16
+   },
+   {
+    "id": "inclusion_sel",
+    "label": "포용·정서·웰빙",
+    "n": 2,
+    "pct": 8,
+    "delta": 1
+   },
+   {
+    "id": "stem_ct",
+    "label": "컴퓨팅·STEM",
+    "n": 2,
+    "pct": 8,
+    "delta": 1
+   },
+   {
+    "id": "genai_tutor",
+    "label": "생성형 AI·튜터",
+    "n": 2,
+    "pct": 8,
+    "delta": -19
+   },
+   {
+    "id": "language",
+    "label": "언어·문해",
+    "n": 1,
+    "pct": 4,
+    "delta": 4
+   }
+  ],
+  "tech": [
+   {
+    "id": "model",
+    "label": "모델·연구",
+    "n": 22,
+    "pct": 45,
+    "delta": -5
+   },
+   {
+    "id": "edu_ai",
+    "label": "교육 AI",
+    "n": 9,
+    "pct": 18,
+    "delta": 11
+   },
+   {
+    "id": "policy_safety",
+    "label": "정책·윤리·안전",
+    "n": 9,
+    "pct": 18,
+    "delta": 5
+   },
+   {
+    "id": "agent_dev",
+    "label": "에이전트·개발도구",
+    "n": 6,
+    "pct": 12,
+    "delta": 9
+   },
+   {
+    "id": "industry",
+    "label": "산업·투자·인프라",
+    "n": 3,
+    "pct": 6,
+    "delta": -1
+   }
+  ]
+ },
+ "daily": [
+  {
+   "d": "2026-02-23",
+   "n": 6,
+   "head": "인간 존엄성을 중심으로 AI, 디지털 전환, K-헤리티지 융합 등 교육 혁신과 평생학습을 통해 미래 교육의 지평을 넓히는 긍정적인 변화가 가속화되고 있다.",
+   "src": "note"
+  },
+  {
+   "d": "2026-02-24",
+   "n": 25,
+   "head": "AI 기술을 교육에 적극적으로 활용하고, 지역 교육 혁신과 안전 강화, 디지털 교육 확대를 통해 미래 교육으로 나아가는 🚀 움직임이 활발하게 진행되고 있습니다.",
+   "src": "note"
+  },
+  {
+   "d": "2026-02-25",
+   "n": 25,
+   "head": "인공지능 기반 교육 도입과 디지털 전환이 가속화되는 가운데, 이공계 육성 및 인성 교육 혁신에 대한 요구가 높아지고 있으며, 교육의 질 관리 및 미래 인재 양성을 위한 노력이 다각도로 이루어지고 있다.",
+   "src": "note"
+  },
+  {
+   "d": "2026-02-26",
+   "n": 25,
+   "head": "AI 기반 교육 혁신과 창의력 중심 교육, 안전 및 공정성 강화가 핵심적인 교육 트렌드로 부상하며 미래 교육을 향한 긍정적인 변화가 가속화되고 있습니다.",
+   "src": "note"
+  },
+  {
+   "d": "2026-02-27",
+   "n": 25,
+   "head": "AI 기술을 교육에 적극 도입하고, 미래 사회에 필요한 역량을 키우기 위한 교육과정 혁신 및 인프라 구축이 전국적으로 활발하게 추진되며, 특히 대전광역시가 선도적인 역할을 하고 있습니다.",
+   "src": "note"
+  },
+  {
+   "d": "2026-02-28",
+   "n": 10,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-03-01",
+   "n": 25,
+   "head": "",
+   "src": ""
+  }
+ ],
+ "picks": {
+  "edu": [
+   {
+    "d": "2026-02-24",
+    "n": 3,
+    "t": "IBM 주가 25년 만에 최대 폭락…앤트로픽 '클로드 코드' 발표 영향",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Wb2d4MUZYTlUxM2h3V1VtRFdWYUV6SERBa1pqNkVlYjNfRWoybk1xZFFzWjJsQ0RLMzl3Y05SOXBpZ1RkMTAtSlBLUnYxZEZYcElJ?oc=5",
+    "src": "네이트"
+   },
+   {
+    "d": "2026-02-27",
+    "n": 9,
+    "t": "\"미래사회 이끌 인재 키운다\"…대전시교육청, 2026년도 교육정책 발표",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFTm8ya0FTNWphckstOFVHWnpUUng3M0k2RVlLNzBqeGlCV1I4YjFYWExrSHc1czVCOG9RcHh5WXo3a1BPNUhPaFB3V3NpTmNNWXk4Tk03cjVfUGNZ?oc=5",
+    "src": "뉴스핌"
+   },
+   {
+    "d": "2026-02-27",
+    "n": 10,
+    "t": "‘미래형 교실 혁신’ 대전교육청, 전국 최초 ‘특수학교 파견학급’ 신설…디지털 교육도 앞장서",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jczBkcURWdVJZQS1JNmpwS1VJMHVpM0dZUDU2NjdvQjZudHZ0bUtpTFBuU0JtOEtFVXd4V2VmZGFZYlM0WmYwZlAxVmZpMzBRQjV6WlF4bWRWQ3FFY291UVZJQUtwQlRXdFppdDl1NNIBc0FVX3lxTE43OG9lWjNfTmVIUkFuNUlUYWJZMnRZcTdPQnc5d1lScXZFaVF2b21rYllsZ2c1VHVtcnlFM1F5Z1lucTZuWXpGOW1XSkdkV3JzWm4tSUpZWW13MFRRYjFfb2JaeDNtVEFKbS1GNnY5UVN2YzQ?oc=5",
+    "src": "대전투데이"
+   }
+  ],
+  "paper": [
+   {
+    "d": "2026-02-24",
+    "n": 1,
+    "t": "Integrating deep learning techniques for personalized learning pathways in higher education",
+    "url": "https://www.semanticscholar.org/paper/f88969e4af591c1374ee912f8bf65a8b9e38d1e4",
+    "src": "semantic_scholar"
+   },
+   {
+    "d": "2026-02-24",
+    "n": 4,
+    "t": "Bridging MOOCs, Smart Teaching, and AI: A Decade of Evolution Toward a Unified Pedagogy",
+    "url": "http://arxiv.org/abs/2507.14266v1",
+    "src": ""
+   },
+   {
+    "d": "2026-03-01",
+    "n": 1,
+    "t": "Artificial Intelligence-Enabled Intelligent Assistant for Personalized and Adaptive Learning in Higher Education",
+    "url": "https://www.semanticscholar.org/paper/f80e7b5baa6adf0cd5dddb5ba973fed9d8a216cf",
+    "src": "semantic_scholar"
+   }
+  ],
+  "tech": [
+   {
+    "d": "2026-02-25",
+    "n": 9,
+    "t": "Google, OpenAI, and Anthropic are all bracing for Deepseek's next big release",
+    "url": "https://the-decoder.com/google-openai-and-anthropic-are-all-bracing-for-deepseeks-next-big-release/",
+    "src": "The Decoder"
+   },
+   {
+    "d": "2026-03-01",
+    "n": 4,
+    "t": "Google Deepmind and OpenAI employees demand Anthropic-style red lines on Pentagon surveillance and autonomous weapons",
+    "url": "https://the-decoder.com/google-deepmind-and-openai-employees-demand-anthropic-style-red-lines-on-pentagon-surveillance-and-autonomous-weapons/",
+    "src": "The Decoder"
+   },
+   {
+    "d": "2026-02-25",
+    "n": 5,
+    "t": "앤트로픽 \"딥시크·미니맥스·문샷이 '클로드' 불법 증류로 성능 향상\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207136",
+    "src": "AI Times"
+   }
+  ]
+ },
+ "generated_at": "2026-11-02T13:16:18+09:00"
+}

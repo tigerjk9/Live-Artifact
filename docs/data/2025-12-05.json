@@ -15,7 +15,8 @@
     "entities": [],
     "summary": "헌법 교육 강화를 통해 사회 갈등 해소와 민주주의 가치 함양을 학교 교육의 중요한 목표로 삼아야 합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2025-12-04"
    },
    {
     "n": 2,
@@ -133,7 +134,7 @@
     "source": "위클리오늘",
     "published": "2025-12-04",
     "keyword": "AI교육",
-    "topic": "classroom",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [],
     "summary": "경기미래교육자치포럼의 AI교육 모델 탐색은 지역 특성을 반영한 맞춤형 AI 교육 확산의 중요한 토대가 될 것입니다.",

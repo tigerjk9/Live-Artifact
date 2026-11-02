@@ -10,7 +10,7 @@
     "source": "파이낸셜뉴스",
     "published": "2026-07-16",
     "keyword": "에이전틱AI",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
     "summary": "에이전틱AI 기술의 주도권과 통제에 대한 의문을 제기하는 기고문입니다.",
@@ -59,7 +59,8 @@
     "entities": [],
     "summary": "에듀테크 체험판조차 운영위 문턱에 막혀 학교 현장 도입이 어렵다.",
     "implication": "공식 절차 없이 웹에서 바로 활용할 수 있는 에듀테크를 수업에 우선적으로 적용할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-07-16"
    },
    {
     "n": 5,
@@ -68,7 +69,7 @@
     "source": "뉴스티앤티",
     "published": "2026-07-16",
     "keyword": "디지털교육",
-    "topic": "ai_digital",
+    "topic": "policy",
     "kind": null,
     "entities": [
      "대전시교육청"
@@ -117,7 +118,8 @@
     "entities": [],
     "summary": "농촌학교 폐교 및 민사고급 학교 300개 설립 주장은 현실적 문제와 지방소멸 가속화를 간과한다는 반론이다.",
     "implication": "학생들의 다양한 학습 속도와 지역적 특성을 고려하여 개별화된 교육 기회를 제공할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-07-16"
    },
    {
     "n": 9,
@@ -282,7 +284,8 @@
     ],
     "summary": "마이크로소프트 365 코파일럿에 GPT-5.6이 적용되면서, 최신 AI 모델의 기업 생산성 도구 통합이 가속화될 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-07-16"
    },
    {
     "n": 4,
@@ -400,7 +403,8 @@
     ],
     "summary": "GPT-Red처럼 AI를 활용해 AI 모델 안전을 강화하는 접근 방식은 AI 보안 생태계의 고도화와 관련 산업의 성장을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-07-16"
    }
   ]
  },

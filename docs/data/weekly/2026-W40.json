@@ -1,0 +1,418 @@
+{
+ "key": "2026-W40",
+ "label": "2026년 9월 28일 ~ 10월 4일",
+ "dates": [
+  "2026-09-28",
+  "2026-09-29",
+  "2026-09-30",
+  "2026-10-01",
+  "2026-10-02",
+  "2026-10-03",
+  "2026-10-04"
+ ],
+ "days_present": 7,
+ "counts": {
+  "edu": 69,
+  "paper": 35,
+  "tech": 60
+ },
+ "total": 164,
+ "prev_total": 160,
+ "top_entities": [
+  {
+   "name": "OpenAI",
+   "kind": "org",
+   "n": 18,
+   "delta": 3
+  },
+  {
+   "name": "에이전트",
+   "kind": "tech",
+   "n": 15,
+   "delta": -10
+  },
+  {
+   "name": "ChatGPT",
+   "kind": "model",
+   "n": 12,
+   "delta": -10
+  },
+  {
+   "name": "NVIDIA",
+   "kind": "org",
+   "n": 10,
+   "delta": 6
+  },
+  {
+   "name": "경기도교육청",
+   "kind": "edu_org",
+   "n": 8,
+   "delta": 4
+  },
+  {
+   "name": "Google",
+   "kind": "org",
+   "n": 8,
+   "delta": 4
+  },
+  {
+   "name": "교사 연수",
+   "kind": "issue",
+   "n": 8,
+   "delta": 5
+  },
+  {
+   "name": "교육부",
+   "kind": "edu_org",
+   "n": 7,
+   "delta": -1
+  },
+  {
+   "name": "생성형 AI",
+   "kind": "tech",
+   "n": 7,
+   "delta": 1
+  },
+  {
+   "name": "Anthropic",
+   "kind": "org",
+   "n": 7,
+   "delta": -2
+  },
+  {
+   "name": "대전시교육청",
+   "kind": "edu_org",
+   "n": 5,
+   "delta": 3
+  },
+  {
+   "name": "인천시교육청",
+   "kind": "edu_org",
+   "n": 5,
+   "delta": 1
+  }
+ ],
+ "rising": [
+  {
+   "name": "NVIDIA",
+   "kind": "org",
+   "n": 10,
+   "delta": 6
+  },
+  {
+   "name": "교사 연수",
+   "kind": "issue",
+   "n": 8,
+   "delta": 5
+  },
+  {
+   "name": "경기도교육청",
+   "kind": "edu_org",
+   "n": 8,
+   "delta": 4
+  },
+  {
+   "name": "Google",
+   "kind": "org",
+   "n": 8,
+   "delta": 4
+  },
+  {
+   "name": "OpenAI",
+   "kind": "org",
+   "n": 18,
+   "delta": 3
+  },
+  {
+   "name": "대전시교육청",
+   "kind": "edu_org",
+   "n": 5,
+   "delta": 3
+  }
+ ],
+ "topic_share": {
+  "edu": [
+   {
+    "id": "policy",
+    "label": "정책·행정",
+    "n": 31,
+    "pct": 45,
+    "delta": 16
+   },
+   {
+    "id": "ai_digital",
+    "label": "AI·디지털교육",
+    "n": 21,
+    "pct": 30,
+    "delta": -20
+   },
+   {
+    "id": "classroom",
+    "label": "수업·교육과정",
+    "n": 10,
+    "pct": 14,
+    "delta": -1
+   },
+   {
+    "id": "teacher",
+    "label": "교사·교권",
+    "n": 4,
+    "pct": 6,
+    "delta": 4
+   },
+   {
+    "id": "global",
+    "label": "해외·연구",
+    "n": 2,
+    "pct": 3,
+    "delta": 3
+   },
+   {
+    "id": "student_care",
+    "label": "학생·돌봄·안전",
+    "n": 1,
+    "pct": 1,
+    "delta": -1
+   }
+  ],
+  "paper": [
+   {
+    "id": "teacher_pd",
+    "label": "교사 전문성",
+    "n": 12,
+    "pct": 34,
+    "delta": 17
+   },
+   {
+    "id": "design_curric",
+    "label": "교수설계·교육과정",
+    "n": 9,
+    "pct": 26,
+    "delta": 6
+   },
+   {
+    "id": "language",
+    "label": "언어·문해",
+    "n": 3,
+    "pct": 9,
+    "delta": -5
+   },
+   {
+    "id": "literacy_ethics",
+    "label": "AI 리터러시·윤리",
+    "n": 2,
+    "pct": 6,
+    "delta": -11
+   },
+   {
+    "id": "personalized",
+    "label": "개인화·학습분석",
+    "n": 2,
+    "pct": 6,
+    "delta": 0
+   },
+   {
+    "id": "learning_sci",
+    "label": "학습과학·인지",
+    "n": 2,
+    "pct": 6,
+    "delta": -5
+   },
+   {
+    "id": "assessment",
+    "label": "평가·피드백",
+    "n": 2,
+    "pct": 6,
+    "delta": 3
+   },
+   {
+    "id": "genai_tutor",
+    "label": "생성형 AI·튜터",
+    "n": 1,
+    "pct": 3,
+    "delta": -3
+   },
+   {
+    "id": "inclusion_sel",
+    "label": "포용·정서·웰빙",
+    "n": 1,
+    "pct": 3,
+    "delta": 0
+   },
+   {
+    "id": "stem_ct",
+    "label": "컴퓨팅·STEM",
+    "n": 1,
+    "pct": 3,
+    "delta": 0
+   }
+  ],
+  "tech": [
+   {
+    "id": "model",
+    "label": "모델·연구",
+    "n": 21,
+    "pct": 35,
+    "delta": -13
+   },
+   {
+    "id": "agent_dev",
+    "label": "에이전트·개발도구",
+    "n": 12,
+    "pct": 20,
+    "delta": 9
+   },
+   {
+    "id": "industry",
+    "label": "산업·투자·인프라",
+    "n": 11,
+    "pct": 18,
+    "delta": 1
+   },
+   {
+    "id": "product",
+    "label": "제품·서비스",
+    "n": 8,
+    "pct": 13,
+    "delta": 3
+   },
+   {
+    "id": "policy_safety",
+    "label": "정책·윤리·안전",
+    "n": 4,
+    "pct": 7,
+    "delta": -4
+   },
+   {
+    "id": "usecase",
+    "label": "활용·사례",
+    "n": 3,
+    "pct": 5,
+    "delta": 3
+   },
+   {
+    "id": "edu_ai",
+    "label": "교육 AI",
+    "n": 1,
+    "pct": 2,
+    "delta": 0
+   }
+  ]
+ },
+ "daily": [
+  {
+   "d": "2026-09-28",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-09-29",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-09-30",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-10-01",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-10-02",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-10-03",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-10-04",
+   "n": 25,
+   "head": "",
+   "src": ""
+  }
+ ],
+ "picks": {
+  "edu": [
+   {
+    "d": "2026-10-04",
+    "n": 1,
+    "t": "[2026년 무료로 배우는 생성형 AI…구글부터 엔비디아까지 10개 강좌] 기초 AI 개념부터 대형 언어 모델(LLM), AI 에이전트까지 아우르는 무료 온라인 강좌를 내놓고 있다.",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5hQjc4Ty1OVFNEQUdJalNPQUVjTk1mT0JhUlVBTXowdjZKY0RyQXhOcUhFY0pCTk5TcmJpZ0ZiVVA?oc=5",
+    "src": "AI넷"
+   },
+   {
+    "d": "2026-09-28",
+    "n": 2,
+    "t": "[에이전틱 AI 맵 2026] 미소정보기술, AI 에이전트 개발부터 운영까지 ‘액틱’으로 통합",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zSVdVaHV5Z3Z5T2lJVzk0SE9TSXBpNnZPWUVuc1RTVzV1ZTA3RTFPT1ZaVDJtVWsyYXF4Rkw0UWt0ZjZtTDdLWXRSY3FKRDh3QnlpWGhkVnYtel8yZzZEbUFVWnViTVY3R0tsbWw5blBnT2dw0gF0QVVfeXFMTXNJV1VodXlndnlPaUlXOTRIT1NJcGk2dk9ZRW5zVFNXNXVlMDdFMU9PVlpUMm1VazJhcXhGTDRRa3RmNm1MN0tZdFJjcUpEOHdCeWlYaGRWdi16XzJnNkRtQVVadWJNVjdHS2xtbDluUGdPZ3A?oc=5",
+    "src": "IT조선"
+   },
+   {
+    "d": "2026-10-01",
+    "n": 3,
+    "t": "[에이전틱 AI 맵 2026] 유비씨, 디지털 트윈에 AI 에이전트 결합…제조 현장 자율화 추진",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iT3k0UXoxTHMwODRjdy1QZjYzUXBTbGZRUDRyY0pDeHdsdGRhN2k0T1EtRVlOMWlqZ1pOWUlCZTBZbDdSaGFpSFZfcUM5cmJvQXZEenlPYkRzeEF3Y0dFUjdnU1ZEbkxLY0o4bVVGMHhXeXJL0gF0QVVfeXFMTmJPeTRRejFMczA4NGN3LVBmNjNRcFNsZlFQNHJjSkN4d2x0ZGE3aTRPUS1FWU4xaWpnWk5ZSUJlMFlsN1JoYWlIVl9xQzlyYm9BdkR6eU9iRHN4QXdjR0VSN2dTVkRuTEtjSjhtVUYweFd5cks?oc=5",
+    "src": "IT조선"
+   }
+  ],
+  "paper": [
+   {
+    "d": "2026-09-30",
+    "n": 2,
+    "t": "The Importance of Autonomous, Self-Regulated Learning in Primary Initial Teacher Training",
+    "url": "https://www.semanticscholar.org/paper/3f3c66d1e3f3b290f50eacb3deb906e784514509",
+    "src": "semantic_scholar"
+   },
+   {
+    "d": "2026-09-30",
+    "n": 1,
+    "t": "Korean in-Service Teachers’ Perceptions of Implementing Artificial Intelligence (AI) Education for Teaching in Schools and Their AI Teacher Training Programs",
+    "url": "https://www.semanticscholar.org/paper/fdf9ba8511868a73e03d4c8197f31a4cf6bdd66f",
+    "src": "semantic_scholar"
+   },
+   {
+    "d": "2026-09-30",
+    "n": 4,
+    "t": "Active methodologies and curricular sustainability in teacher training",
+    "url": "https://www.semanticscholar.org/paper/2d462861e9acba0d95ce98d65cc5447469ab9ba6",
+    "src": "semantic_scholar"
+   }
+  ],
+  "tech": [
+   {
+    "d": "2026-09-28",
+    "n": 3,
+    "t": "[2026년 최고의 AI 에이전트 프레임워크… LangGraph부터 Google ADK까지 총정리] 현재 주요 옵션으로는 LangGraph, CrewAI, OpenAI Agents SDK, Microsoft Agent Framework, Google ADK, LlamaIndex, Pydantic AI, Mastra, AG2가",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9YSDJ0dWx0ay16VzFxSE81dG5lY2NXcGJaRkphb0JjaldCM1VFRUVkNGI5ZEdCR1JpRmJtRHVDMzc?oc=5",
+    "src": "AI넷"
+   },
+   {
+    "d": "2026-10-04",
+    "n": 4,
+    "t": "[2026년 무료로 배우는 생성형 AI…구글부터 엔비디아까지 10개 강좌] 기초 AI 개념부터 대형 언어 모델(LLM), AI 에이전트까지 아우르는 무료 온라인 강좌를 내놓고 있다.",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5hQjc4Ty1OVFNEQUdJalNPQUVjTk1mT0JhUlVBTXowdjZKY0RyQXhOcUhFY0pCTk5TcmJpZ0ZiVVA?oc=5",
+    "src": "AI넷"
+   },
+   {
+    "d": "2026-10-02",
+    "n": 3,
+    "t": "[GPT-6 Sol, Luna, Opus 5.5] 첨단 AI 시장을 무한 가격 경쟁으로 몰아넣어. Anthropic은 Claude Opus 5.5를 출시, 약 90분 후… OpenAI는 GPT-6 Sol과 Luna를 출시",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFB1Z3RjQlhpUHhCM0J3UnhoRlpncmlBcTNyLUIwaXE2RHNBQlNod0xwUERGYk0zZzhjMjAzNlFxYi0?oc=5",
+    "src": "AI넷"
+   }
+  ]
+ },
+ "generated_at": "2026-11-02T13:16:18+09:00"
+}

@@ -42,7 +42,7 @@
     "source": "네이트",
     "published": "2026-05-27",
     "keyword": "디지털교육",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "충북교육청"
@@ -74,7 +74,7 @@
     "source": "조선일보",
     "published": "2026-05-27",
     "keyword": "생성형AI교육",
-    "topic": "classroom",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "생성형 AI",
@@ -122,7 +122,7 @@
     "source": "충청미디어",
     "published": "2026-05-27",
     "keyword": "교육현장",
-    "topic": "teacher",
+    "topic": "policy",
     "kind": null,
     "entities": [
      "충북교육청"
@@ -338,7 +338,8 @@
     ],
     "summary": "OpenAI와 몰타의 협력은 AI 기술의 공공 서비스 통합 및 접근성 확대를 가속화하는 선례를 만들고, 정부 주도 AI 도입 모델 확산에 기여할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-05-27"
    },
    {
     "n": 6,
@@ -369,7 +370,8 @@
     ],
     "summary": "AI가 인간 고유 영역으로 여겨지던 수학 난제 해결에 기여함으로써, 향후 AI의 연구 개발 혁신 가능성을 극적으로 보여주는 사례입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-05-27"
    },
    {
     "n": 8,

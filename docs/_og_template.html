@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght,SOFT,WONK@0,9..144,300..900,0..100,0..1;1,9..144,300..900,0..100,0..1&family=Hahmlet:wght@300..900&display=block">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretendard@1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { width: 1200px; height: 630px; overflow: hidden; }
+  body {
+    background: oklch(97.5% 0.009 85);
+    color: oklch(17% 0.02 50);
+    font-family: 'Pretendard Variable', Pretendard, sans-serif;
+    padding: 38px 56px 34px;
+    display: flex; flex-direction: column;
+    position: relative;
+  }
+  .top { display: flex; justify-content: space-between; align-items: baseline; padding-bottom: 12px; border-bottom: 2px solid currentColor; font: 600 17px/1 'Pretendard Variable', sans-serif; letter-spacing: 0.06em; }
+  .top .issue { font: 500 17px/1 'Fraunces', serif; letter-spacing: 0.1em; }
+  .name { margin: 18px 0 0; font: 900 56px/0.95 'Fraunces', serif; font-variation-settings: 'opsz' 144, 'SOFT' 50, 'WONK' 1; letter-spacing: -0.03em; }
+  .name em { font-style: italic; font-weight: 500; }
+  .mid { flex: 1; display: flex; flex-direction: column; justify-content: center; padding: 10px 0 14px; }
+  .kicker { display: flex; align-items: center; gap: 12px; font: 700 15px/1 'Pretendard Variable', sans-serif; letter-spacing: 0.16em; text-transform: uppercase; color: oklch(38% 0.018 50); }
+  .kicker::before { content: ''; width: 12px; height: 12px; background: currentColor; }
+  .kicker .tag { font: 600 12px/1 'Pretendard Variable', sans-serif; letter-spacing: 0.08em; padding: 5px 8px; border: 1.5px solid oklch(72% 0.014 65); color: oklch(54% 0.015 55); }
+  .head { margin-top: 14px; font: 700 50px/1.24 'Hahmlet', serif; letter-spacing: -0.02em; max-width: 1080px;
+          display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; text-wrap: balance; }
+  .head.long { font-size: 40px; }
+  .threads { display: flex; gap: 26px; margin-top: 24px; }
+  .th { flex: 1; min-width: 0; padding: 2px 0 2px 14px; border-left: 4px solid oklch(17% 0.02 50); font: 600 21px/1.3 'Hahmlet', serif; letter-spacing: -0.01em;
+        display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .th.edu { border-color: oklch(44% 0.13 152); } .th.paper { border-color: oklch(39% 0.14 252); } .th.tech { border-color: oklch(54% 0.19 36); }
+  .bottom { display: flex; justify-content: space-between; align-items: flex-end; gap: 24px; padding-top: 16px; border-top: 1px solid oklch(72% 0.014 65); }
+  .counts { display: flex; gap: 26px; font: 600 19px/1 'Pretendard Variable', sans-serif; }
+  .cnt { display: inline-flex; align-items: center; gap: 9px; }
+  .cnt i { width: 14px; height: 14px; display: inline-block; }
+  .cnt b { font: 600 24px/1 'Fraunces', serif; margin-left: 2px; }
+  .cnt-edu i { background: oklch(44% 0.13 152); } .cnt-paper i { background: oklch(39% 0.14 252); } .cnt-tech i { background: oklch(54% 0.19 36); }
+  .chips { display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 8px; max-width: 640px; }
+  .chip { display: inline-flex; align-items: center; gap: 8px; padding: 8px 12px; border: 1.5px solid oklch(72% 0.014 65); font: 600 16px/1 'Pretendard Variable', sans-serif; white-space: nowrap; }
+  .chip b { font: 600 15px/1 'Fraunces', serif; color: oklch(54% 0.015 55); }
+  .rule { position: absolute; left: 56px; right: 56px; bottom: 24px; height: 3px; border-top: 1px solid currentColor; border-bottom: 1px solid currentColor; }
+</style>
+</head>
+<body>
+  <div class="top"><span>{{DATE_KR}}</span><span class="issue">No. {{ISSUE_NO}}</span><span>EDU · PAPERS · TECH</span></div>
+  <div class="name">Daily <em>Intelligence</em></div>
+  <div class="mid">
+    <div class="kicker">오늘의 흐름 <span class="tag">{{TAG}}</span></div>
+    <div class="head {{HEAD_CLASS}}">{{HEADLINE}}</div>
+    {{THREADS}}
+  </div>
+  <div class="bottom">
+    <div class="counts">{{COUNTS}}</div>
+    <div class="chips">{{CHIPS}}</div>
+  </div>
+  <div class="rule"></div>
+</body>
+</html>

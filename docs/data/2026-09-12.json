@@ -95,7 +95,8 @@
     ],
     "summary": "",
     "implication": "",
-    "ai": false
+    "ai": false,
+    "dup_of": "2026-09-11"
    },
    {
     "n": 7,
@@ -305,7 +306,7 @@
     "source": "Samsung Magazine",
     "published": "2026-09-11",
     "keyword": "Anthropic",
-    "topic": "model",
+    "topic": "policy_safety",
     "kind": null,
     "entities": [
      "OpenAI",

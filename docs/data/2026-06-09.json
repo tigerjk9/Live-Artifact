@@ -54,7 +54,7 @@
     "source": "충청뉴스라인",
     "published": "2026-06-08",
     "keyword": "인공지능교육",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "충북교육청"
@@ -86,7 +86,7 @@
     "source": "DailyNK",
     "published": "2026-06-08",
     "keyword": "교육현장",
-    "topic": "teacher",
+    "topic": "global",
     "kind": null,
     "entities": [],
     "summary": "",
@@ -268,7 +268,7 @@
     "source": "Amazon Web Services (AWS)",
     "published": "2026-06-08",
     "keyword": "API",
-    "topic": "model",
+    "topic": "agent_dev",
     "kind": null,
     "entities": [
      "Anthropic",
@@ -290,6 +290,7 @@
     "kind": null,
     "entities": [
      "코딩 AI",
+     "OpenAI",
      "Anthropic"
     ],
     "summary": "AI 개발에서 가장 널리 사용되는 프레임워크 중 하나를 개발한 회사인 파이던틱(Pydantic)의 사무엘 콜빈 CEO는 5일(현지시간) 비즈니스 인사이더와의 인터뷰를 통해 '코딩 의도 데이터베이스(Databases of coding intent)'라는 개념을 소개했습니다.이 회사는 오픈AI나 앤트로픽과 같은 AI 기업과 협력하고 있는데, 이를 통해 첨단 A",
@@ -329,7 +330,8 @@
     ],
     "summary": "",
     "implication": "",
-    "ai": false
+    "ai": false,
+    "dup_of": "2026-06-08"
    },
    {
     "n": 6,
@@ -345,7 +347,8 @@
     ],
     "summary": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announceme",
     "implication": "",
-    "ai": false
+    "ai": false,
+    "dup_of": "2026-06-08"
    },
    {
     "n": 7,

@@ -1,0 +1,385 @@
+{
+ "key": "2026-W01",
+ "label": "2025년 12월 29일 ~ 1월 4일",
+ "dates": [
+  "2025-12-29",
+  "2025-12-30",
+  "2025-12-31",
+  "2026-01-01",
+  "2026-01-02",
+  "2026-01-03",
+  "2026-01-04"
+ ],
+ "days_present": 7,
+ "counts": {
+  "edu": 67,
+  "paper": 20,
+  "tech": 35
+ },
+ "total": 122,
+ "prev_total": 122,
+ "top_entities": [
+  {
+   "name": "ChatGPT",
+   "kind": "model",
+   "n": 9,
+   "delta": -5
+  },
+  {
+   "name": "개인화 학습",
+   "kind": "tech",
+   "n": 7,
+   "delta": -1
+  },
+  {
+   "name": "교육부",
+   "kind": "edu_org",
+   "n": 4,
+   "delta": -6
+  },
+  {
+   "name": "Gemini",
+   "kind": "model",
+   "n": 4,
+   "delta": 0
+  },
+  {
+   "name": "생성형 AI",
+   "kind": "tech",
+   "n": 4,
+   "delta": -1
+  },
+  {
+   "name": "경북교육청",
+   "kind": "edu_org",
+   "n": 3,
+   "delta": 3
+  },
+  {
+   "name": "교사 연수",
+   "kind": "issue",
+   "n": 3,
+   "delta": 1
+  },
+  {
+   "name": "OpenAI",
+   "kind": "org",
+   "n": 3,
+   "delta": -3
+  },
+  {
+   "name": "전북교육청",
+   "kind": "edu_org",
+   "n": 3,
+   "delta": 3
+  },
+  {
+   "name": "교육감 선거",
+   "kind": "issue",
+   "n": 3,
+   "delta": -2
+  },
+  {
+   "name": "IB",
+   "kind": "issue",
+   "n": 3,
+   "delta": 2
+  },
+  {
+   "name": "AI 리터러시",
+   "kind": "tech",
+   "n": 3,
+   "delta": 3
+  }
+ ],
+ "rising": [
+  {
+   "name": "경북교육청",
+   "kind": "edu_org",
+   "n": 3,
+   "delta": 3
+  },
+  {
+   "name": "전북교육청",
+   "kind": "edu_org",
+   "n": 3,
+   "delta": 3
+  },
+  {
+   "name": "AI 리터러시",
+   "kind": "tech",
+   "n": 3,
+   "delta": 3
+  },
+  {
+   "name": "전남교육청",
+   "kind": "edu_org",
+   "n": 3,
+   "delta": 3
+  }
+ ],
+ "topic_share": {
+  "edu": [
+   {
+    "id": "policy",
+    "label": "정책·행정",
+    "n": 35,
+    "pct": 52,
+    "delta": 11
+   },
+   {
+    "id": "ai_digital",
+    "label": "AI·디지털교육",
+    "n": 16,
+    "pct": 24,
+    "delta": -2
+   },
+   {
+    "id": "classroom",
+    "label": "수업·교육과정",
+    "n": 14,
+    "pct": 21,
+    "delta": -1
+   },
+   {
+    "id": "teacher",
+    "label": "교사·교권",
+    "n": 1,
+    "pct": 1,
+    "delta": -3
+   },
+   {
+    "id": "student_care",
+    "label": "학생·돌봄·안전",
+    "n": 1,
+    "pct": 1,
+    "delta": -2
+   }
+  ],
+  "paper": [
+   {
+    "id": "personalized",
+    "label": "개인화·학습분석",
+    "n": 5,
+    "pct": 25,
+    "delta": 19
+   },
+   {
+    "id": "stem_ct",
+    "label": "컴퓨팅·STEM",
+    "n": 3,
+    "pct": 15,
+    "delta": -10
+   },
+   {
+    "id": "teacher_pd",
+    "label": "교사 전문성",
+    "n": 3,
+    "pct": 15,
+    "delta": 15
+   },
+   {
+    "id": "literacy_ethics",
+    "label": "AI 리터러시·윤리",
+    "n": 3,
+    "pct": 15,
+    "delta": 9
+   },
+   {
+    "id": "design_curric",
+    "label": "교수설계·교육과정",
+    "n": 2,
+    "pct": 10,
+    "delta": -34
+   },
+   {
+    "id": "genai_tutor",
+    "label": "생성형 AI·튜터",
+    "n": 2,
+    "pct": 10,
+    "delta": -2
+   },
+   {
+    "id": "assessment",
+    "label": "평가·피드백",
+    "n": 1,
+    "pct": 5,
+    "delta": 5
+   },
+   {
+    "id": "inclusion_sel",
+    "label": "포용·정서·웰빙",
+    "n": 1,
+    "pct": 5,
+    "delta": -1
+   }
+  ],
+  "tech": [
+   {
+    "id": "model",
+    "label": "모델·연구",
+    "n": 14,
+    "pct": 40,
+    "delta": 16
+   },
+   {
+    "id": "industry",
+    "label": "산업·투자·인프라",
+    "n": 5,
+    "pct": 14,
+    "delta": 3
+   },
+   {
+    "id": "policy_safety",
+    "label": "정책·윤리·안전",
+    "n": 4,
+    "pct": 11,
+    "delta": 0
+   },
+   {
+    "id": "product",
+    "label": "제품·서비스",
+    "n": 4,
+    "pct": 11,
+    "delta": -7
+   },
+   {
+    "id": "agent_dev",
+    "label": "에이전트·개발도구",
+    "n": 4,
+    "pct": 11,
+    "delta": 6
+   },
+   {
+    "id": "usecase",
+    "label": "활용·사례",
+    "n": 2,
+    "pct": 6,
+    "delta": -5
+   },
+   {
+    "id": "edu_ai",
+    "label": "교육 AI",
+    "n": 2,
+    "pct": 6,
+    "delta": -15
+   }
+  ]
+ },
+ "daily": [
+  {
+   "d": "2025-12-29",
+   "n": 25,
+   "head": "AI 시대, 미래 인재 육성을 위한 교육 혁신과 기술 안보 강화, AI 활용 교육 확대 등 대한민국 교육계가 🚀 과학기술 강국을 향한 미래 교육으로 빠르게 전환하고 있습니다.",
+   "src": "note"
+  },
+  {
+   "d": "2025-12-30",
+   "n": 25,
+   "head": "교육계는 AI 전담 조직 신설 및 디지털 교육 정책 재검토 논의와 함께, AI 보편 교육 강조, 에듀테크 활용 및 디지털 교육 경쟁력 강화 등 미래 교육으로의 혁신을 가속화하며, 교육감 선거를 통해 새로운 변화를 모색하고 있습니다.",
+   "src": "note"
+  },
+  {
+   "d": "2025-12-31",
+   "n": 25,
+   "head": "AI 기술과 뇌과학 이해를 바탕으로, 자기 주도적 학습과 미래 역량을 키우는 교육으로의 긍정적인 전환이 기대된다 🚀.",
+   "src": "note"
+  },
+  {
+   "d": "2026-01-01",
+   "n": 10,
+   "head": "AI 시대에 필요한 역량과 윤리적 고민을 바탕으로, 미래 교육은 인간 중심 가치를 강화하며 혁신을 지속하고 개인별 맞춤 교육을 확대하는 방향으로 나아갈 것이다.",
+   "src": "note"
+  },
+  {
+   "d": "2026-01-02",
+   "n": 25,
+   "head": "AI 시대 속 교육 혁신과 미래 교육을 향한 움직임이 활발하며, 고교학점제와 지역 연계 강화, 교육청의 효율화 노력 등을 통해 지속 가능한 교육 환경 구축을 모색하고 있다.",
+   "src": "note"
+  },
+  {
+   "d": "2026-01-03",
+   "n": 10,
+   "head": "AI·에듀테크 활용, 미래 교육 환경 조성, 자율형 학교 확대 등 교육 혁신을 통해 학생 중심의 미래 교육으로 발 빠르게 전환하는 움직임이 활발하게 이루어지고 있습니다.",
+   "src": "note"
+  },
+  {
+   "d": "2026-01-04",
+   "n": 10,
+   "head": "미래 교육은 AI 전환과 뇌과학 기반 학습, 우주 탐사 등 융합 교육을 통해 교육 격차 해소 및 혁신을 추구하며 더욱 발전🚀하고 있습니다.",
+   "src": "note"
+  }
+ ],
+ "picks": {
+  "edu": [
+   {
+    "d": "2025-12-31",
+    "n": 2,
+    "t": "[전문가 기고] 생성형 AI 성과, 결국 ‘사람’이 좌우한다",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxZHJxU2NHaDZUWEZPNGE0ZGxYVmRXRW00RF9KVWlfa1ZycnZ6WHJBQjRjTWlLVHRHRHhVbEpEZW9XeGVjVTlqOFU2Y0EzaTFoUzdxS0MtbGpfenRiRG1BeVZaaEpLRTg?oc=5",
+    "src": "아이티데일리"
+   },
+   {
+    "d": "2025-12-30",
+    "n": 4,
+    "t": "이남호 전 전북대총장, 전북교육감 출마 선언",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPc3VCSldlei1vcTNQZ0YzQ3RtMkR6VlF5Z2JKb2hlbDJuYTFKUXdJSWEzbnZnRlpRckc2Y3RfSzB2bnctYXlUMXBwSENZRVVrejJtV0RLSk1QOWFoMmd4U0FycFZqRGJDRWlTbzZmOHN5alAtV3p1cDcyVnY5RG1xU1hfTQ?oc=5",
+    "src": "주간해피데이"
+   },
+   {
+    "d": "2026-01-04",
+    "n": 9,
+    "t": "민주진보 경기교육감후보 적합도 안민석 15.3%·성기선 13.7%..1·2위 각축",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4ydGZXdEJ0Q1RoTUtuSHQ4bzJNZC1PRTRPWVZvRWRjWlNKNmJwejhtS0NOd092aTlKMmVNMWt1c09WSkpkWTF6b3hZWmxrRXhHODdEcHhXUDczbFlfNnVXMHI1a3I0eV81WXIxVS10MNIBb0FVX3lxTE4ydGZXdEJ0Q1RoTUtuSHQ4bzJNZC1PRTRPWVZvRWRjWlNKNmJwejhtS0NOd092aTlKMmVNMWt1c09WSkpkWTF6b3hZWmxrRXhHODdEcHhXUDczbFlfNnVXMHI1a3I0eV81WXIxVS10MA?oc=5",
+    "src": "교육언론[창]"
+   }
+  ],
+  "paper": [
+   {
+    "d": "2025-12-31",
+    "n": 2,
+    "t": "Enhancing mathematics education for students with special educational needs through generative AI: A case study in Greece",
+    "url": "https://www.semanticscholar.org/paper/c5176feb286e0e266032f5277c20d0ded1837bf3",
+    "src": "semantic_scholar"
+   },
+   {
+    "d": "2026-01-02",
+    "n": 1,
+    "t": "Empowering Education with Generative Artificial Intelligence Tools: Approach with an Instructional Design Matrix",
+    "url": "https://www.semanticscholar.org/paper/2eeff0f534d303581bc1199671600fbd04a2d01c",
+    "src": "semantic_scholar"
+   },
+   {
+    "d": "2025-12-29",
+    "n": 1,
+    "t": "Bridging MOOCs, Smart Teaching, and AI: A Decade of Evolution Toward a Unified Pedagogy",
+    "url": "http://arxiv.org/abs/2507.14266v1",
+    "src": ""
+   }
+  ],
+  "tech": [
+   {
+    "d": "2026-01-02",
+    "n": 1,
+    "t": "2026년 AI 주요 이슈를 챗GPT·제미나이에 물어 봤더니",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205219",
+    "src": "AI Times"
+   },
+   {
+    "d": "2025-12-29",
+    "n": 4,
+    "t": "ChatGPT의 시장 점유율이 Gemini의 격차 축소로 68%로 떨어졌습니다.",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV0FMYl82S2lnNDVnRFQ2bFFkQzZDR1FsT1MzeUM0aWkxS1FrN3FoTVNGZUMxSVJPei14RU9BV3hFZ3R6ZzZFdGF1RzNFSDFNMDFKU0kxbldUMzNYTWFuc3l1cWxSbDMySGFmdTgydDk4djZ1ZTJPZUhiNjZCVVZKWlVrNHlFYVN1T2l0TmRUcWZMU2xfeVE?oc=5",
+    "src": "Unite.AI"
+   },
+   {
+    "d": "2025-12-30",
+    "n": 10,
+    "t": "챗GPT부터 제미나이까지…초보자 AI 선택 가이드",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xZVFaaGdmVXFEN2cyQWtaOVF5ejk3MGtnajM2Rl81T3BuZ0ZBZGtQWF9qdnpvbjJEZkRiY3VJZ1lhdWd4LTBqYkFKTXJFYmlseGdCQVhOYnZPVzV4MHBBbGdubjczQzZKNlc3a1BOVlFHZE0?oc=5",
+    "src": "디지털투데이"
+   }
+  ]
+ },
+ "generated_at": "2026-11-02T13:16:18+09:00"
+}

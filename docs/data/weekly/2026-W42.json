@@ -1,0 +1,393 @@
+{
+ "key": "2026-W42",
+ "label": "2026년 10월 12일 ~ 18일",
+ "dates": [
+  "2026-10-12",
+  "2026-10-13",
+  "2026-10-14",
+  "2026-10-15",
+  "2026-10-16",
+  "2026-10-17",
+  "2026-10-18"
+ ],
+ "days_present": 7,
+ "counts": {
+  "edu": 64,
+  "paper": 35,
+  "tech": 57
+ },
+ "total": 156,
+ "prev_total": 151,
+ "top_entities": [
+  {
+   "name": "에이전트",
+   "kind": "tech",
+   "n": 16,
+   "delta": 6
+  },
+  {
+   "name": "OpenAI",
+   "kind": "org",
+   "n": 14,
+   "delta": 2
+  },
+  {
+   "name": "Anthropic",
+   "kind": "org",
+   "n": 11,
+   "delta": 1
+  },
+  {
+   "name": "ChatGPT",
+   "kind": "model",
+   "n": 9,
+   "delta": -2
+  },
+  {
+   "name": "개인화 학습",
+   "kind": "tech",
+   "n": 6,
+   "delta": -8
+  },
+  {
+   "name": "Claude",
+   "kind": "model",
+   "n": 6,
+   "delta": -3
+  },
+  {
+   "name": "LLM",
+   "kind": "tech",
+   "n": 6,
+   "delta": 2
+  },
+  {
+   "name": "NVIDIA",
+   "kind": "org",
+   "n": 5,
+   "delta": 0
+  },
+  {
+   "name": "코딩 AI",
+   "kind": "tech",
+   "n": 5,
+   "delta": 4
+  },
+  {
+   "name": "생성형 AI",
+   "kind": "tech",
+   "n": 5,
+   "delta": -4
+  },
+  {
+   "name": "Google",
+   "kind": "org",
+   "n": 5,
+   "delta": -3
+  },
+  {
+   "name": "Microsoft",
+   "kind": "org",
+   "n": 4,
+   "delta": 1
+  }
+ ],
+ "rising": [
+  {
+   "name": "에이전트",
+   "kind": "tech",
+   "n": 16,
+   "delta": 6
+  },
+  {
+   "name": "코딩 AI",
+   "kind": "tech",
+   "n": 5,
+   "delta": 4
+  },
+  {
+   "name": "교권",
+   "kind": "issue",
+   "n": 3,
+   "delta": 3
+  }
+ ],
+ "topic_share": {
+  "edu": [
+   {
+    "id": "policy",
+    "label": "정책·행정",
+    "n": 34,
+    "pct": 53,
+    "delta": 5
+   },
+   {
+    "id": "classroom",
+    "label": "수업·교육과정",
+    "n": 11,
+    "pct": 17,
+    "delta": 0
+   },
+   {
+    "id": "ai_digital",
+    "label": "AI·디지털교육",
+    "n": 11,
+    "pct": 17,
+    "delta": -6
+   },
+   {
+    "id": "teacher",
+    "label": "교사·교권",
+    "n": 5,
+    "pct": 8,
+    "delta": 2
+   },
+   {
+    "id": "student_care",
+    "label": "학생·돌봄·안전",
+    "n": 3,
+    "pct": 5,
+    "delta": 2
+   }
+  ],
+  "paper": [
+   {
+    "id": "teacher_pd",
+    "label": "교사 전문성",
+    "n": 9,
+    "pct": 26,
+    "delta": 9
+   },
+   {
+    "id": "language",
+    "label": "언어·문해",
+    "n": 5,
+    "pct": 14,
+    "delta": 3
+   },
+   {
+    "id": "assessment",
+    "label": "평가·피드백",
+    "n": 4,
+    "pct": 11,
+    "delta": 2
+   },
+   {
+    "id": "inclusion_sel",
+    "label": "포용·정서·웰빙",
+    "n": 3,
+    "pct": 9,
+    "delta": 9
+   },
+   {
+    "id": "personalized",
+    "label": "개인화·학습분석",
+    "n": 3,
+    "pct": 9,
+    "delta": -8
+   },
+   {
+    "id": "design_curric",
+    "label": "교수설계·교육과정",
+    "n": 3,
+    "pct": 9,
+    "delta": -20
+   },
+   {
+    "id": "literacy_ethics",
+    "label": "AI 리터러시·윤리",
+    "n": 3,
+    "pct": 9,
+    "delta": 9
+   },
+   {
+    "id": "genai_tutor",
+    "label": "생성형 AI·튜터",
+    "n": 2,
+    "pct": 6,
+    "delta": -5
+   },
+   {
+    "id": "stem_ct",
+    "label": "컴퓨팅·STEM",
+    "n": 2,
+    "pct": 6,
+    "delta": 3
+   },
+   {
+    "id": "learning_sci",
+    "label": "학습과학·인지",
+    "n": 1,
+    "pct": 3,
+    "delta": 0
+   }
+  ],
+  "tech": [
+   {
+    "id": "model",
+    "label": "모델·연구",
+    "n": 25,
+    "pct": 44,
+    "delta": 13
+   },
+   {
+    "id": "agent_dev",
+    "label": "에이전트·개발도구",
+    "n": 8,
+    "pct": 14,
+    "delta": -2
+   },
+   {
+    "id": "product",
+    "label": "제품·서비스",
+    "n": 7,
+    "pct": 12,
+    "delta": -2
+   },
+   {
+    "id": "industry",
+    "label": "산업·투자·인프라",
+    "n": 7,
+    "pct": 12,
+    "delta": -8
+   },
+   {
+    "id": "policy_safety",
+    "label": "정책·윤리·안전",
+    "n": 6,
+    "pct": 11,
+    "delta": 1
+   },
+   {
+    "id": "usecase",
+    "label": "활용·사례",
+    "n": 3,
+    "pct": 5,
+    "delta": -1
+   },
+   {
+    "id": "edu_ai",
+    "label": "교육 AI",
+    "n": 1,
+    "pct": 2,
+    "delta": -2
+   }
+  ]
+ },
+ "daily": [
+  {
+   "d": "2026-10-12",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-10-13",
+   "n": 21,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-10-14",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-10-15",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-10-16",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-10-17",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-10-18",
+   "n": 25,
+   "head": "",
+   "src": ""
+  }
+ ],
+ "picks": {
+  "edu": [
+   {
+    "d": "2026-10-14",
+    "n": 5,
+    "t": "[심층분석] 삼성전기, 사내 생성형 AI를 업무 실행 도구로…‘1인 1AI 에이전트’ 실험 본격화",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPMjBnYVB2RXg2TVdsZmRndXgyM0NPUU9PcXpSRm9EZzY2NGk3bUFjZnpXdU8tU20yVVNkaTVaMzJFbXZPUkhkSkJzYzlHVHhITEowaEk3djBPNmlqbFFFeEszamhIUGdzTlE?oc=5",
+    "src": "뉴스밸류"
+   },
+   {
+    "d": "2026-10-18",
+    "n": 6,
+    "t": "EU, 연구현장 생성형 AI 지침 대폭 개정…에이전트·동료평가까지 규율",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10eHoxYTNNN0pkcGxUZzNJUmVXTlBka1U5LXRqNDN3Z2NWNnpVODhiSVFjQloyTWVfTWZmQWVyM0NvZnRTMHlHd0JseXZnQWFSOThOVklnSVduMUhCcVE?oc=5",
+    "src": "데일리환경"
+   },
+   {
+    "d": "2026-10-18",
+    "n": 8,
+    "t": "엔비디아 젠슨 황 CEO “엔비디아는 윈도우 계기로 설립, 이제 AI 에이전트가 윈도우에 도입”",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54djBsczhBRGNITWt1QUJlYi1MMFdlMEdmZzIzdTd2dG9uaG51eFlGR1ZmZF9pazlhQ1UyY09paGpBZHgySmdfZ2dsbWozZUptQ1RGdGNCX005RUozOW5BdklUNFZ0SHVkM1lSdzRn?oc=5",
+    "src": "elec4"
+   }
+  ],
+  "paper": [
+   {
+    "d": "2026-10-12",
+    "n": 2,
+    "t": "AI Agent-Based Intelligent Learning System for Personalize Education, Student Performance Prediction and Adaptive Content Generation",
+    "url": "https://www.semanticscholar.org/paper/7edbcd83e9239ef7e2221f3d595b58cc12389dd0",
+    "src": "semantic_scholar"
+   },
+   {
+    "d": "2026-10-15",
+    "n": 2,
+    "t": "Generative AI in Education: Perspectives Through an Academic Lens",
+    "url": "https://www.semanticscholar.org/paper/32da19bec4898eaab80c6a4d82f51de8b99ab941",
+    "src": "semantic_scholar"
+   },
+   {
+    "d": "2026-10-16",
+    "n": 3,
+    "t": "DEVELOPING AN AI-ASSISTED ANIMATED ENGLISH ALPHABET SONG PROTOTYPE FOR INDONESIAN PRIMARY SCHOOL EFL LEARNERS",
+    "url": "https://www.semanticscholar.org/paper/c16ce463ccc5379a0e45251e5d088ff89f2f8bae",
+    "src": "semantic_scholar"
+   }
+  ],
+  "tech": [
+   {
+    "d": "2026-10-12",
+    "n": 4,
+    "t": "[런다운AI] OpenAI에서 해고된 연구원들이 '변화하는 노선'을 지적했다. 로완의 코너: 모든 개인 맞춤형 AI 에이전트를 테스트해 봤다. Claude를 사용하여 지저분한 Excel 보고서를 정리하자. Anthropic은 클로드에 대한 학대나 가혹 행위를 금지.",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE44aldSbGxxbnlZRi1CcG1NQlhIXzExV3pNcmxFUXE4Tjdqa2t1MVlZNHU4dFRfemNLcWt6VFBHbHM?oc=5",
+    "src": "AI넷"
+   },
+   {
+    "d": "2026-10-15",
+    "n": 6,
+    "t": "EU AI법 집행: 무단 AI 에이전트 사건으로 OpenAI와 Anthropic 첫 사건 직면",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOVVCN29QZGpYaEJMNTktaTcweFpnY21UZFpfbGJHNHR6V2J1Z2cyQVJCTWdMcHdPOXl0a0dWN2VETVc3M2F2TmwxbEVJa21NeHMtbU02ak9jYmljNkpVOTV2Y1JRQW1WajREcDRfRktGWXhMLXYyQ19wUG8xaE5IVnYwQkZfM05SWGVtSURxd0FyVlY2ZjMwRWxTN1ZXeGhmNjBR?oc=5",
+    "src": "IndexBox"
+   },
+   {
+    "d": "2026-10-14",
+    "n": 6,
+    "t": "Workday와 Anthropic, Claude를 Sana HR 및 재무 에이전트와 연결",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNY1EyR2EyNW1JU0E5Tk5OOThFTFNvVUxmRmhmWHozYVFqLTFBaVV1UEMxSnJramRkajdfSTRpQXQtU2djZG5ySXoxVHNpYkJfSEV0TGNWdWsybnFPUFpFaEU3WG1meU9YTldDV2c1Umk1TDUtNWplMUxWRFVCQVgwRGdJT2tVblRYVGhWQU9jWGJUOW16VHc?oc=5",
+    "src": "Unite.AI"
+   }
+  ]
+ },
+ "generated_at": "2026-11-02T13:16:18+09:00"
+}

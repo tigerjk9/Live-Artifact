@@ -26,7 +26,7 @@
     "source": "투데이 부산",
     "published": "2026-09-18",
     "keyword": "AI교육",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "교육부"
@@ -309,7 +309,8 @@
     ],
     "summary": "샘 알트먼의 속도조절론 언급에도 불구하고 신제품 예고와 기존 모델 종료는 AI 생태계가 전략적 방향 전환 속에서 혁신 속도를 유지할 것임을 시사합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-09-18"
    },
    {
     "n": 5,
@@ -342,7 +343,8 @@
     ],
     "summary": "AI 대중화는 방대한 데이터 스토리지 인프라의 급속한 발전과 효율적인 운영을 AI 산업의 핵심 과제로 부상시킬 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-09-16"
    },
    {
     "n": 7,

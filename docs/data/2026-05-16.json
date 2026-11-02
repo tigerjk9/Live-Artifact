@@ -40,7 +40,7 @@
     "source": "뉴스워커",
     "published": "2026-05-15",
     "keyword": "디지털교육",
-    "topic": "teacher",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "광주시교육청"
@@ -327,7 +327,8 @@
     ],
     "summary": "GPT-5.5와 GPT-5.5-Cyber는 사이버 보안 영역에서 AI 기반 접근 권한 관리 및 위협 탐지 자동화를 가속화하여 보안 효율성을 크게 향상시킬 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-05-14"
    },
    {
     "n": 6,
@@ -373,11 +374,13 @@
     "source": "재외동포신문",
     "published": "2026-05-15",
     "keyword": "GPT",
-    "topic": "product",
+    "topic": "model",
     "kind": null,
     "entities": [
      "ChatGPT",
      "삼성",
+     "LG",
+     "SK",
      "OpenAI"
     ],
     "summary": "국내 대기업들의 오픈AI 협력은 기업용 AI 시장 경쟁을 심화시키고, AI 기술의 산업 전반 확산을 가속화할 것입니다.",
@@ -391,7 +394,7 @@
     "source": "와이드경제",
     "published": "2026-05-15",
     "keyword": "GPT",
-    "topic": "product",
+    "topic": "model",
     "kind": null,
     "entities": [
      "ChatGPT",
@@ -412,8 +415,8 @@
     "topic": "model",
     "kind": null,
     "entities": [
-     "Claude",
      "Amazon",
+     "Claude",
      "Anthropic"
     ],
     "summary": "AWS의 Claude Platform 제공은 기업들이 AWS 환경 내에서 Anthropic의 강력한 AI 모델을 쉽게 활용하게 함으로써 AI 도입을 가속화하고 관련 시장 경쟁을 심화시킬 것입니다.",

@@ -120,7 +120,7 @@
     "source": "전국매일신문",
     "published": "2026-02-18",
     "keyword": "AI교육",
-    "topic": "global",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "경기도교육청"
@@ -261,7 +261,9 @@
     "keyword": "",
     "topic": "model",
     "kind": null,
-    "entities": [],
+    "entities": [
+     "LLM"
+    ],
     "summary": "마이크로GPT는 LLM의 접근성을 높여 AI 교육 및 연구를 가속화하고, 경량화된 AI 모델 개발에 기여할 가능성이 높습니다.",
     "implication": "",
     "ai": true
@@ -402,7 +404,7 @@
     "source": "경향신문",
     "published": "2026-02-18",
     "keyword": "GPT",
-    "topic": "policy_safety",
+    "topic": "model",
     "kind": null,
     "entities": [],
     "summary": "AI 기술 발전과 함께 사회적 책임에 대한 요구가 높아짐에 따라, 기업들은 지속 가능한 AI 생태계를 위해 윤리적 기준 준수 및 투명성 확보에 더욱 힘써야 할 것입니다.",

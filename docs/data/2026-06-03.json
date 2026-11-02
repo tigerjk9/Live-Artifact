@@ -59,7 +59,7 @@
     "source": "기호일보",
     "published": "2026-06-03",
     "keyword": "교육정책",
-    "topic": "student_care",
+    "topic": "policy",
     "kind": null,
     "entities": [],
     "summary": "경기도 국민안전체험관과 수원대가 안전문화 확산 및 교육정책 교류를 위해 협력합니다.",
@@ -73,7 +73,7 @@
     "source": "더코리아",
     "published": "2026-06-03",
     "keyword": "교육정책",
-    "topic": "global",
+    "topic": "policy",
     "kind": null,
     "entities": [
      "대전시교육청"
@@ -337,7 +337,8 @@
     ],
     "summary": "GPT-5.5를 활용한 오픈소스 구축은 AI가 개발 생산성을 극대화하여 AI 기술 생태계를 빠르게 혁신할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-05-31"
    },
    {
     "n": 6,

@@ -1,0 +1,418 @@
+{
+ "key": "2026-W18",
+ "label": "2026년 4월 27일 ~ 5월 3일",
+ "dates": [
+  "2026-04-27",
+  "2026-04-28",
+  "2026-04-29",
+  "2026-04-30",
+  "2026-05-01",
+  "2026-05-02",
+  "2026-05-03"
+ ],
+ "days_present": 7,
+ "counts": {
+  "edu": 69,
+  "paper": 35,
+  "tech": 46
+ },
+ "total": 150,
+ "prev_total": 153,
+ "top_entities": [
+  {
+   "name": "OpenAI",
+   "kind": "org",
+   "n": 14,
+   "delta": 2
+  },
+  {
+   "name": "ChatGPT",
+   "kind": "model",
+   "n": 14,
+   "delta": -4
+  },
+  {
+   "name": "에이전트",
+   "kind": "tech",
+   "n": 14,
+   "delta": -1
+  },
+  {
+   "name": "생성형 AI",
+   "kind": "tech",
+   "n": 13,
+   "delta": 7
+  },
+  {
+   "name": "경기도교육청",
+   "kind": "edu_org",
+   "n": 11,
+   "delta": -6
+  },
+  {
+   "name": "Google",
+   "kind": "org",
+   "n": 9,
+   "delta": 3
+  },
+  {
+   "name": "코딩 AI",
+   "kind": "tech",
+   "n": 7,
+   "delta": 2
+  },
+  {
+   "name": "교육부",
+   "kind": "edu_org",
+   "n": 6,
+   "delta": 3
+  },
+  {
+   "name": "개인화 학습",
+   "kind": "tech",
+   "n": 6,
+   "delta": 5
+  },
+  {
+   "name": "교사 연수",
+   "kind": "issue",
+   "n": 5,
+   "delta": 0
+  },
+  {
+   "name": "대전시교육청",
+   "kind": "edu_org",
+   "n": 5,
+   "delta": 4
+  },
+  {
+   "name": "충북교육청",
+   "kind": "edu_org",
+   "n": 5,
+   "delta": 3
+  }
+ ],
+ "rising": [
+  {
+   "name": "생성형 AI",
+   "kind": "tech",
+   "n": 13,
+   "delta": 7
+  },
+  {
+   "name": "개인화 학습",
+   "kind": "tech",
+   "n": 6,
+   "delta": 5
+  },
+  {
+   "name": "대전시교육청",
+   "kind": "edu_org",
+   "n": 5,
+   "delta": 4
+  },
+  {
+   "name": "AI 리터러시",
+   "kind": "tech",
+   "n": 4,
+   "delta": 4
+  },
+  {
+   "name": "Google",
+   "kind": "org",
+   "n": 9,
+   "delta": 3
+  },
+  {
+   "name": "교육부",
+   "kind": "edu_org",
+   "n": 6,
+   "delta": 3
+  }
+ ],
+ "topic_share": {
+  "edu": [
+   {
+    "id": "ai_digital",
+    "label": "AI·디지털교육",
+    "n": 24,
+    "pct": 35,
+    "delta": 10
+   },
+   {
+    "id": "policy",
+    "label": "정책·행정",
+    "n": 24,
+    "pct": 35,
+    "delta": -8
+   },
+   {
+    "id": "classroom",
+    "label": "수업·교육과정",
+    "n": 12,
+    "pct": 17,
+    "delta": 5
+   },
+   {
+    "id": "teacher",
+    "label": "교사·교권",
+    "n": 7,
+    "pct": 10,
+    "delta": 0
+   },
+   {
+    "id": "global",
+    "label": "해외·연구",
+    "n": 1,
+    "pct": 1,
+    "delta": 0
+   },
+   {
+    "id": "student_care",
+    "label": "학생·돌봄·안전",
+    "n": 1,
+    "pct": 1,
+    "delta": -6
+   }
+  ],
+  "paper": [
+   {
+    "id": "teacher_pd",
+    "label": "교사 전문성",
+    "n": 9,
+    "pct": 26,
+    "delta": 12
+   },
+   {
+    "id": "genai_tutor",
+    "label": "생성형 AI·튜터",
+    "n": 5,
+    "pct": 14,
+    "delta": 3
+   },
+   {
+    "id": "literacy_ethics",
+    "label": "AI 리터러시·윤리",
+    "n": 5,
+    "pct": 14,
+    "delta": 8
+   },
+   {
+    "id": "personalized",
+    "label": "개인화·학습분석",
+    "n": 3,
+    "pct": 9,
+    "delta": -5
+   },
+   {
+    "id": "stem_ct",
+    "label": "컴퓨팅·STEM",
+    "n": 3,
+    "pct": 9,
+    "delta": 6
+   },
+   {
+    "id": "design_curric",
+    "label": "교수설계·교육과정",
+    "n": 3,
+    "pct": 9,
+    "delta": -17
+   },
+   {
+    "id": "language",
+    "label": "언어·문해",
+    "n": 2,
+    "pct": 6,
+    "delta": 6
+   },
+   {
+    "id": "learning_sci",
+    "label": "학습과학·인지",
+    "n": 2,
+    "pct": 6,
+    "delta": -8
+   },
+   {
+    "id": "inclusion_sel",
+    "label": "포용·정서·웰빙",
+    "n": 2,
+    "pct": 6,
+    "delta": 6
+   },
+   {
+    "id": "assessment",
+    "label": "평가·피드백",
+    "n": 1,
+    "pct": 3,
+    "delta": -8
+   }
+  ],
+  "tech": [
+   {
+    "id": "model",
+    "label": "모델·연구",
+    "n": 12,
+    "pct": 26,
+    "delta": -9
+   },
+   {
+    "id": "agent_dev",
+    "label": "에이전트·개발도구",
+    "n": 12,
+    "pct": 26,
+    "delta": 6
+   },
+   {
+    "id": "industry",
+    "label": "산업·투자·인프라",
+    "n": 11,
+    "pct": 24,
+    "delta": 8
+   },
+   {
+    "id": "product",
+    "label": "제품·서비스",
+    "n": 6,
+    "pct": 13,
+    "delta": -9
+   },
+   {
+    "id": "edu_ai",
+    "label": "교육 AI",
+    "n": 2,
+    "pct": 4,
+    "delta": 2
+   },
+   {
+    "id": "policy_safety",
+    "label": "정책·윤리·안전",
+    "n": 2,
+    "pct": 4,
+    "delta": 2
+   },
+   {
+    "id": "usecase",
+    "label": "활용·사례",
+    "n": 1,
+    "pct": 2,
+    "delta": -2
+   }
+  ]
+ },
+ "daily": [
+  {
+   "d": "2026-04-27",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-04-28",
+   "n": 22,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-04-29",
+   "n": 22,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-04-30",
+   "n": 22,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-05-01",
+   "n": 23,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-05-02",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-05-03",
+   "n": 25,
+   "head": "",
+   "src": ""
+  }
+ ],
+ "picks": {
+  "edu": [
+   {
+    "d": "2026-04-29",
+    "n": 6,
+    "t": "HyperFrames, HTML로 비디오를 만드는 AI 에이전트 프레임워크...AI 코딩 도구와 네이티브 통합으로 영상 제작 자동화",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE0zY2ZOYnpGUzYweVcwRkVrRWRDUGFObHYwMDNUNldJNXlTT3Q1a3ZIMlZnSFhDYjA1YWdXSzhoQW0?oc=5",
+    "src": "한국정보기술진흥원"
+   },
+   {
+    "d": "2026-04-27",
+    "n": 10,
+    "t": "경기도교육청미래과학교육원, 부모·자녀가 함께하는 'AI·코딩 체험' 운영",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03TFJRcEtScVd0QTNKZnA1bTlmX3U5dkNCcktPUHEzOEV5dEZkQTN2ajFUUTZNcE0xVFE5TUlUcTJzVDBvMGdqNnFBOXVSVmFtZ2g2N2VieWpiWmU3Z056TnFab0xCMmhjRFdSbW9WbGlyb01ER1VzWQ?oc=5",
+    "src": "네이트"
+   },
+   {
+    "d": "2026-05-01",
+    "n": 10,
+    "t": "북촌초, ‘생성형 AI와 함께하는 학부모 디지털 리터러시 교육’ 실시",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PVXRpRUh1d0hxRUlEZkNQc3djSHc0YUFpbDB1dS1Tc0dWSWx2U1ZHVnRTVFBpRjJqSDNrT2NkM2NWeVZ0aHFrc3FkWnZJTUI4Ry1TSkloRHRVb2J5V1Z0UC11dFlReEkx?oc=5",
+    "src": "DWBNEWS"
+   }
+  ],
+  "paper": [
+   {
+    "d": "2026-05-03",
+    "n": 5,
+    "t": "A Dialogic Approach to Transform Teaching, Learning &amp; Assessment with Generative AI in Secondary Education: A Proof of Concept",
+    "url": "http://dx.doi.org/10.1080/1554480X.2024.2379774",
+    "src": "eric"
+   },
+   {
+    "d": "2026-04-30",
+    "n": 1,
+    "t": "Can Generative Artificial Intelligence Be a Good Teaching Assistant?--An Empirical Analysis Based on Generative AI-Assisted Teaching",
+    "url": "http://dx.doi.org/10.1111/jcal.70027",
+    "src": "eric"
+   },
+   {
+    "d": "2026-04-27",
+    "n": 2,
+    "t": "Generative AI and multimodal data for educational feedback: Insights from embodied math learning",
+    "url": "https://www.semanticscholar.org/paper/1dd87647e63b88b6f3ddb8d3115104eec028c0ee",
+    "src": "semantic_scholar"
+   }
+  ],
+  "tech": [
+   {
+    "d": "2026-04-28",
+    "n": 2,
+    "t": "오픈AI, 'GPT-5.5'로 반격 카드 꺼냈다…앤트로픽과 에이전트 주도권 싸움 2라운드",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyMWlaVkNUM20wRGtVRXladWRqZV9Hb0xIRVVVVmFmX1AyMWZYdjdjYmVPTnB3WS1ibkQzZVFvbERmVkkwYWY2MW1Lazl0NkpZcEZfTURNZ0Mtc2tCRGQ4bk50cWM4QW8?oc=5",
+    "src": "데일리팝"
+   },
+   {
+    "d": "2026-04-27",
+    "n": 2,
+    "t": "오픈AI의 GPT-5.5, NVIDIA 인프라 위에서 Codex를 이끌다 — NVIDIA는 이미 현장에서 활용 중",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tS3ZVenFwcUtScGhaRTdNNWVTUHhyMWdnVXhTVWZkWHZLVTRaWEdiYzhyVjZOaV9qd2VLOG1zVXR6M1o4UC1EZFBKZmdhcmFBLUFBX1I5M3M0Y0NuRUVubnF5c2ppSWRKV0NMT0wwZXI?oc=5",
+    "src": "NVIDIA Blog Korea"
+   },
+   {
+    "d": "2026-05-01",
+    "n": 5,
+    "t": "OpenAI models, Codex, and Managed Agents come to AWS",
+    "url": "https://openai.com/index/openai-on-aws",
+    "src": "OpenAI Blog"
+   }
+  ]
+ },
+ "generated_at": "2026-11-02T13:16:18+09:00"
+}

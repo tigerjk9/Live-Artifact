@@ -89,7 +89,7 @@
     "source": "충청헤럴드",
     "published": "2026-04-21",
     "keyword": "교육정책",
-    "topic": "global",
+    "topic": "policy",
     "kind": null,
     "entities": [
      "대전시교육청"
@@ -383,7 +383,8 @@
     ],
     "summary": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
     "implication": "",
-    "ai": false
+    "ai": false,
+    "dup_of": "2026-04-20"
    }
   ]
  },

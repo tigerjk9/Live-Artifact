@@ -56,7 +56,7 @@
     "source": "경인일보",
     "published": "2026-09-26",
     "keyword": "에듀테크",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "Apple",
@@ -258,7 +258,8 @@
     ],
     "summary": "Ringg의 사례는 OpenAI 기반 AI 에이전트가 고객 응대에서 높은 자율성을 증명하며, AI 기술의 상업적 활용과 산업 전반의 디지털 전환을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-09-24"
    },
    {
     "n": 2,

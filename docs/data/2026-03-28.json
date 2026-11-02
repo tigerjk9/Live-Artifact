@@ -29,7 +29,8 @@
     "entities": [],
     "summary": "",
     "implication": "",
-    "ai": false
+    "ai": false,
+    "dup_of": "2026-03-25"
    },
    {
     "n": 3,
@@ -43,7 +44,8 @@
     "entities": [],
     "summary": "",
     "implication": "",
-    "ai": false
+    "ai": false,
+    "dup_of": "2026-03-26"
    },
    {
     "n": 4,
@@ -373,7 +375,8 @@
     ],
     "summary": "OpenAI API의 프롬프트 캐싱은 AI 애플리케이션 성능 향상 및 비용 절감을 통해 AI 서비스 대중화에 기여할 수 있습니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-03-25"
    },
    {
     "n": 9,
@@ -388,7 +391,8 @@
      "Google",
      "Amazon",
      "Anthropic",
-     "ChatGPT"
+     "ChatGPT",
+     "OpenAI"
     ],
     "summary": "앤스로픽의 IPO 추진은 AI 경쟁 심화를 예고하며, 구글과 아마존의 지원을 등에 업고 오픈AI의 시장 지배력에 균열을 낼 잠재력을 보여줍니다.",
     "implication": "",

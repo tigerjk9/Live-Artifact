@@ -54,7 +54,7 @@
     "source": "더코리아",
     "published": "2026-09-17",
     "keyword": "교육정책",
-    "topic": "classroom",
+    "topic": "policy",
     "kind": null,
     "entities": [
      "충남교육청"
@@ -380,7 +380,8 @@
     ],
     "summary": "10억 사용자 AI 서비스 시대에 접어들며, 대규모 데이터 스토리지 인프라는 AI 산업 성장의 핵심 동력이자 기술 발전의 필수 요소가 될 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-09-15"
    },
    {
     "n": 9,

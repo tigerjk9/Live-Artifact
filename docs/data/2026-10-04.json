@@ -46,7 +46,7 @@
     "source": "중도일보",
     "published": "2026-10-03",
     "keyword": "AI교육",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [],
     "summary": "부산 사상구가 AI교육혁신센터 설립과 폐교 활용을 교육청에 건의했습니다.",
@@ -60,7 +60,7 @@
     "source": "gukjenews.com",
     "published": "2026-10-04",
     "keyword": "교육혁신",
-    "topic": "classroom",
+    "topic": "policy",
     "kind": null,
     "entities": [],
     "summary": "최순자 씨는 포천 교육정책 정담회에서 체계적 교육체계 정비의 필요성을 강조했습니다.",
@@ -279,7 +279,8 @@
     ],
     "summary": "AI가 자본 시장처럼 고도로 전문화된 분야의 핵심 역량 확장을 주도하며, 광범위한 산업의 AI 전환을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-10-03"
    },
    {
     "n": 3,
@@ -330,7 +331,8 @@
     "entities": [],
     "summary": "대형 유통업체의 내부 혁신은 운영 효율화 AI 솔루션 수요를 높여, AI 기술 생태계의 산업 전반 확장을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-10-02"
    },
    {
     "n": 6,
@@ -396,7 +398,8 @@
     "entities": [],
     "summary": "DevDay 2026은 AI 기술의 플랫폼 고도화와 산업별 맞춤형 솔루션 확산을 통해 AI 생태계를 재편할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-10-01"
    },
    {
     "n": 10,

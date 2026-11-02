@@ -158,7 +158,8 @@
     "entities": [],
     "summary": "부울경 전문대 교수학습 성과 공유는 지역 전문대학의 교육 혁신 노력과 우수 사례 확산을 통해 전문 교육의 질적 향상을 도모하는 계기가 될 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2025-11-26"
    }
   ],
   "paper": [
@@ -400,7 +401,8 @@
     ],
     "summary": "Anthropic의 Claude Opus 4.5는 가격 경쟁력과 향상된 성능으로 AI 모델 시장 경쟁 심화를 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2025-11-26"
    },
    {
     "n": 10,

@@ -152,7 +152,7 @@
     "source": "대전투데이",
     "published": "2026-04-19",
     "keyword": "AI교육",
-    "topic": "global",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "생성형 AI"
@@ -278,7 +278,8 @@
     ],
     "summary": "오픈AI 임원진의 연쇄 사임은 조직 내부 불안정성을 시사하며, 향후 AI 기술 개발 방향 및 상업화 전략에 불확실성을 증폭시킬 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-04-19"
    },
    {
     "n": 3,
@@ -325,7 +326,8 @@
     ],
     "summary": "클라우드플레어의 에이전트 클라우드가 OpenAI를 통해 기업의 자율 워크플로우를 지원함으로써, AI 에이전트 기술의 산업 적용 확산 및 클라우드 기반 AI 서비스 경쟁 심화를 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-04-17"
    },
    {
     "n": 6,
@@ -356,7 +358,8 @@
     "entities": [],
     "summary": "AI 기반 사이버 방어 생태계 가속화는 관련 기술 투자 및 협력 확대를 촉진하여 AI 보안 산업 성장을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-04-17"
    },
    {
     "n": 8,
@@ -404,7 +407,8 @@
     ],
     "summary": "ChatGPT를 활용한 브레인스토밍은 아이디어 발상 효율성을 높여 AI 기반 협업 도구 시장의 성장을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-04-19"
    }
   ]
  },

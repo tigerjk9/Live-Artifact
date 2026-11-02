@@ -1,0 +1,392 @@
+{
+ "key": "2026-W41",
+ "label": "2026년 10월 5일 ~ 11일",
+ "dates": [
+  "2026-10-05",
+  "2026-10-06",
+  "2026-10-07",
+  "2026-10-08",
+  "2026-10-09",
+  "2026-10-10",
+  "2026-10-11"
+ ],
+ "days_present": 7,
+ "counts": {
+  "edu": 65,
+  "paper": 35,
+  "tech": 51
+ },
+ "total": 151,
+ "prev_total": 164,
+ "top_entities": [
+  {
+   "name": "개인화 학습",
+   "kind": "tech",
+   "n": 14,
+   "delta": 11
+  },
+  {
+   "name": "OpenAI",
+   "kind": "org",
+   "n": 12,
+   "delta": -6
+  },
+  {
+   "name": "ChatGPT",
+   "kind": "model",
+   "n": 11,
+   "delta": -1
+  },
+  {
+   "name": "에이전트",
+   "kind": "tech",
+   "n": 10,
+   "delta": -5
+  },
+  {
+   "name": "Anthropic",
+   "kind": "org",
+   "n": 10,
+   "delta": 3
+  },
+  {
+   "name": "생성형 AI",
+   "kind": "tech",
+   "n": 9,
+   "delta": 2
+  },
+  {
+   "name": "경기도교육청",
+   "kind": "edu_org",
+   "n": 9,
+   "delta": 1
+  },
+  {
+   "name": "Claude",
+   "kind": "model",
+   "n": 9,
+   "delta": 5
+  },
+  {
+   "name": "Google",
+   "kind": "org",
+   "n": 8,
+   "delta": 0
+  },
+  {
+   "name": "NVIDIA",
+   "kind": "org",
+   "n": 5,
+   "delta": -5
+  },
+  {
+   "name": "국회",
+   "kind": "edu_org",
+   "n": 4,
+   "delta": 4
+  },
+  {
+   "name": "교사 연수",
+   "kind": "issue",
+   "n": 4,
+   "delta": -4
+  }
+ ],
+ "rising": [
+  {
+   "name": "개인화 학습",
+   "kind": "tech",
+   "n": 14,
+   "delta": 11
+  },
+  {
+   "name": "Claude",
+   "kind": "model",
+   "n": 9,
+   "delta": 5
+  },
+  {
+   "name": "국회",
+   "kind": "edu_org",
+   "n": 4,
+   "delta": 4
+  },
+  {
+   "name": "Anthropic",
+   "kind": "org",
+   "n": 10,
+   "delta": 3
+  }
+ ],
+ "topic_share": {
+  "edu": [
+   {
+    "id": "policy",
+    "label": "정책·행정",
+    "n": 31,
+    "pct": 48,
+    "delta": 3
+   },
+   {
+    "id": "ai_digital",
+    "label": "AI·디지털교육",
+    "n": 15,
+    "pct": 23,
+    "delta": -7
+   },
+   {
+    "id": "classroom",
+    "label": "수업·교육과정",
+    "n": 11,
+    "pct": 17,
+    "delta": 3
+   },
+   {
+    "id": "teacher",
+    "label": "교사·교권",
+    "n": 4,
+    "pct": 6,
+    "delta": 0
+   },
+   {
+    "id": "student_care",
+    "label": "학생·돌봄·안전",
+    "n": 2,
+    "pct": 3,
+    "delta": 2
+   },
+   {
+    "id": "higher_ed",
+    "label": "대학·입시·평생",
+    "n": 2,
+    "pct": 3,
+    "delta": 3
+   }
+  ],
+  "paper": [
+   {
+    "id": "design_curric",
+    "label": "교수설계·교육과정",
+    "n": 10,
+    "pct": 29,
+    "delta": 3
+   },
+   {
+    "id": "personalized",
+    "label": "개인화·학습분석",
+    "n": 6,
+    "pct": 17,
+    "delta": 11
+   },
+   {
+    "id": "teacher_pd",
+    "label": "교사 전문성",
+    "n": 6,
+    "pct": 17,
+    "delta": -17
+   },
+   {
+    "id": "language",
+    "label": "언어·문해",
+    "n": 4,
+    "pct": 11,
+    "delta": 2
+   },
+   {
+    "id": "genai_tutor",
+    "label": "생성형 AI·튜터",
+    "n": 4,
+    "pct": 11,
+    "delta": 8
+   },
+   {
+    "id": "assessment",
+    "label": "평가·피드백",
+    "n": 3,
+    "pct": 9,
+    "delta": 3
+   },
+   {
+    "id": "learning_sci",
+    "label": "학습과학·인지",
+    "n": 1,
+    "pct": 3,
+    "delta": -3
+   },
+   {
+    "id": "stem_ct",
+    "label": "컴퓨팅·STEM",
+    "n": 1,
+    "pct": 3,
+    "delta": 0
+   }
+  ],
+  "tech": [
+   {
+    "id": "model",
+    "label": "모델·연구",
+    "n": 16,
+    "pct": 31,
+    "delta": -4
+   },
+   {
+    "id": "industry",
+    "label": "산업·투자·인프라",
+    "n": 10,
+    "pct": 20,
+    "delta": 2
+   },
+   {
+    "id": "agent_dev",
+    "label": "에이전트·개발도구",
+    "n": 8,
+    "pct": 16,
+    "delta": -4
+   },
+   {
+    "id": "product",
+    "label": "제품·서비스",
+    "n": 7,
+    "pct": 14,
+    "delta": 1
+   },
+   {
+    "id": "policy_safety",
+    "label": "정책·윤리·안전",
+    "n": 5,
+    "pct": 10,
+    "delta": 3
+   },
+   {
+    "id": "usecase",
+    "label": "활용·사례",
+    "n": 3,
+    "pct": 6,
+    "delta": 1
+   },
+   {
+    "id": "edu_ai",
+    "label": "교육 AI",
+    "n": 2,
+    "pct": 4,
+    "delta": 2
+   }
+  ]
+ },
+ "daily": [
+  {
+   "d": "2026-10-05",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-10-06",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-10-07",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-10-08",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-10-09",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-10-10",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-10-11",
+   "n": 25,
+   "head": "",
+   "src": ""
+  }
+ ],
+ "picks": {
+  "edu": [
+   {
+    "d": "2026-10-11",
+    "n": 2,
+    "t": "안민석 경기도교육감, 김포 교육현장 찾아 해법 모색…“지역 맞춤형 교육환경 조성”",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Zby00dWVGaENyZ0pvNjVwYmI0VEhuQmRFQkN4LUpadFVLRkkxZHp5UHJxMTVTY0ZacXYydXdONTNwNUxueW1fTEVVOHpfVjA1bUx3d1hCTHBRcWUzSk1IX3l1T2MwY05ESDBaaDF3?oc=5",
+    "src": "투어코리아"
+   },
+   {
+    "d": "2026-10-11",
+    "n": 5,
+    "t": "[Anthropic, AI 에이전트 통제 실패 인정…\"내부 평가 전면 인터넷 차단\"] 모델들이 허점을 찾거나 제한을 회피하면 보상을 받을 것이라고 믿게 된 것이라고 밝혔다. 이를 '보상 해킹(reward hacking)'",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBtXzl3SnhIT21ZTVI1RU82RlpXNHVOZjRKYkpibWhpejhIWkI0SWh0ZlNvb2ZER1ljMy1mNlZiOGI?oc=5",
+    "src": "AI넷"
+   },
+   {
+    "d": "2026-10-06",
+    "n": 7,
+    "t": "금융권 해킹 급증…스틸리언 \"웹수트로 AI 에이전트 공격 차단\"",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45SmJURzVxT0xockgwTEh6QnZlSG9XZHVYSl9fNG5KUGxnTVBjTGFOU053T2hBQjRoZWhlaUd2NzdVaE5Od3pqc25lQklLd0JJdHN6cTI0VWUwVGtZMVFlaXU3YUU?oc=5",
+    "src": "디지털데일리"
+   }
+  ],
+  "paper": [
+   {
+    "d": "2026-10-08",
+    "n": 4,
+    "t": "A systematic review of artificial intelligence in mathematics education: The emergence of 4IR",
+    "url": "https://www.semanticscholar.org/paper/50e8628d661b0ff7302e58d4ff1c456ef61ca147",
+    "src": "semantic_scholar"
+   },
+   {
+    "d": "2026-10-05",
+    "n": 4,
+    "t": "Artificial Intelligence-Enabled Intelligent Assistant for Personalized and Adaptive Learning in Higher Education",
+    "url": "https://www.semanticscholar.org/paper/f80e7b5baa6adf0cd5dddb5ba973fed9d8a216cf",
+    "src": "semantic_scholar"
+   },
+   {
+    "d": "2026-10-07",
+    "n": 1,
+    "t": "Impact of generative AI on Teaching and Learning Processes",
+    "url": "https://doi.org/10.17148/iarjset.2026.131017",
+    "src": "openalex"
+   }
+  ],
+  "tech": [
+   {
+    "d": "2026-10-09",
+    "n": 1,
+    "t": "OpenAI가 GPT-6의 유료화를 해제하고 모든 ChatGPT 사용자에게 모델을 제공하여 더욱 인터랙티브한 채팅 경험을 제공. Anthropic의 Claude Opus 5.5와 새로운 Haiku 5.5가 경쟁 구도를 더욱 고조",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE8xMEtBcWhDTEk5SUpKWG84S3hpWkxIeU9kQWxDV2J3SVJjMlRscWVHekJ3bHJyaVRjbk91V1phTVc?oc=5",
+    "src": "AI넷"
+   },
+   {
+    "d": "2026-10-06",
+    "n": 6,
+    "t": "NYC 시의회 청문회, Anthropic, OpenAI, Google, Meta에게 선서 요구",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYzQtUzlwQmM5OUJtWU5RQm9ybW9iN3dFblctY19qdHJDQ3hYWGhNVHJRVEFMREF0THBDTVJsQTVZUXIxVjJlMm1sMTFxMEVaVWw4Wkx4YVNiRDZMeGxHX3Q5cXVuSUlGQ01nOTFNUy1pU2VVSWEzaHkwcXR6MElXa0h2M2VSWVBDS21BTGNtMWlWQlU?oc=5",
+    "src": "Unite.AI"
+   },
+   {
+    "d": "2026-10-09",
+    "n": 2,
+    "t": "구글, 기업용 '제미나이 에이전트' 출시…'아르곤'·'클로드' 동시 탑재",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216096",
+    "src": "AI Times"
+   }
+  ]
+ },
+ "generated_at": "2026-11-02T13:16:18+09:00"
+}

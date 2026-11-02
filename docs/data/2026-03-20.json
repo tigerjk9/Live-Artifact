@@ -13,7 +13,8 @@
     "topic": "ai_digital",
     "kind": "opinion",
     "entities": [
-     "코딩 AI"
+     "코딩 AI",
+     "사교육"
     ],
     "summary": "",
     "implication": "",
@@ -68,7 +69,7 @@
     "source": "브랜드경제신문",
     "published": "2026-03-19",
     "keyword": "뇌과학",
-    "topic": "higher_ed",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [],
     "summary": "",
@@ -309,7 +310,7 @@
     "source": "Investing.com 한국어",
     "published": "2026-03-19",
     "keyword": "GPT",
-    "topic": "product",
+    "topic": "model",
     "kind": null,
     "entities": [
      "Google",

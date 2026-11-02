@@ -157,7 +157,7 @@
     "source": "제주의소리",
     "published": "2026-05-20",
     "keyword": "교육정책",
-    "topic": "teacher",
+    "topic": "policy",
     "kind": null,
     "entities": [
      "교원단체",
@@ -366,7 +366,8 @@
     "topic": "usecase",
     "kind": null,
     "entities": [
-     "카카오"
+     "카카오",
+     "LG"
     ],
     "summary": "카카오모빌리티와 LG이노텍의 협력은 자율주행 데이터 확보 및 활용 경쟁 심화 속에서, 데이터 파이프라인 구축의 중요성을 부각하며 관련 기술 생태계 성장을 가속화할 것입니다.",
     "implication": "",

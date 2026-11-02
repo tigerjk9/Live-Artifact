@@ -71,7 +71,7 @@
     "source": "뉴스충청인",
     "published": "2026-10-20",
     "keyword": "교육정책",
-    "topic": "classroom",
+    "topic": "policy",
     "kind": null,
     "entities": [
      "대전시교육청",
@@ -88,7 +88,7 @@
     "source": "더코리아",
     "published": "2026-10-19",
     "keyword": "교육정책",
-    "topic": "classroom",
+    "topic": "policy",
     "kind": null,
     "entities": [
      "충남교육청"
@@ -360,7 +360,8 @@
     ],
     "summary": "생성형 AI의 마케팅 캠페인 적용은 창의 산업 내 콘텐츠 제작 및 자동화 효율을 극대화할 것임을 시사합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-10-17"
    },
    {
     "n": 8,
@@ -369,7 +370,7 @@
     "source": "데브타임즈",
     "published": "2026-10-19",
     "keyword": "GPT",
-    "topic": "agent_dev",
+    "topic": "model",
     "kind": null,
     "entities": [
      "생성형 AI",

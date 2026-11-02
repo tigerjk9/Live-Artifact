@@ -86,7 +86,7 @@
     "source": "전국시민의소리",
     "published": "2026-07-26",
     "keyword": "교육정책",
-    "topic": "higher_ed",
+    "topic": "policy",
     "kind": "feature",
     "entities": [],
     "summary": "미국 교육 정책이 대학을 국가 전략의 중심에 두어 강대국이 된 이유를 설명한다.",
@@ -341,7 +341,8 @@
     ],
     "summary": "구글 AI 스튜디오로 'vibe'를 코딩한 퀴즈는 AI가 감성적 상호작용 콘텐츠를 손쉽게 구현하는 시대의 도래를 시사합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-07-24"
    },
    {
     "n": 7,
@@ -373,7 +374,8 @@
     "entities": [],
     "summary": "국내 AI 산업은 단순 추격을 넘어 산업 전반의 전략적 AI 전환(AX)을 통해 독자적 경쟁력을 확보해야 할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-07-26"
    },
    {
     "n": 9,
@@ -407,7 +409,8 @@
     ],
     "summary": "ChatGPT의 중소기업 프로그램은 AI 기술이 특정 시장에 맞춰 세분화되고 대중화되며, 산업 전반의 생산성 혁신을 가속화할 중요한 전환점입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-07-24"
    }
   ]
  },

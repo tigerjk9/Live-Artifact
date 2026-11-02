@@ -81,7 +81,8 @@
     "entities": [],
     "summary": "오태완 의령군수와 권순기 교육감이 첫 만남에서 의령 미래교육 협력 강화를 논의했습니다.",
     "implication": "학생들은 군수와 교육감의 협력으로 다양한 미래교육 프로그램에 참여할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-08-03"
    },
    {
     "n": 6,
@@ -90,7 +91,7 @@
     "source": "한국교육신문",
     "published": "2026-08-05",
     "keyword": "교육정책",
-    "topic": "teacher",
+    "topic": "policy",
     "kind": null,
     "entities": [],
     "summary": "교육정책 논의 시 현장 교사들이 체감할 수 있는 대안을 우선시해야 한다는 내용입니다.",
@@ -277,7 +278,9 @@
     "keyword": "",
     "topic": "industry",
     "kind": null,
-    "entities": [],
+    "entities": [
+     "OpenAI"
+    ],
     "summary": "2년 전 붕괴 예측을 깨고 오픈AI가 AI 생태계의 핵심 주역으로 자리매김한 것은, 급변하는 기술 시장에서 선도 기업의 지배력 강화 추세를 시사합니다.",
     "implication": "",
     "ai": true
@@ -413,7 +416,8 @@
     ],
     "summary": "GPT-5.6의 가격 대비 성능 향상은 AI 기술의 대중화와 산업 전반의 효율성 증대를 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-08-03"
    }
   ]
  },

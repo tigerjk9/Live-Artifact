@@ -47,7 +47,8 @@
     ],
     "summary": "경북인재개발원은 금년 하반기 생성형 AI 교육을 확대하고 강화합니다.",
     "implication": "생성형 AI 교육 확대 흐름에 맞춰 학생들이 AI 도구를 활용하는 방법을 수업에서 탐색해 볼 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-09-27"
    },
    {
     "n": 4,
@@ -56,7 +57,7 @@
     "source": "전북교육신문",
     "published": "2026-09-27",
     "keyword": "교육정책",
-    "topic": "global",
+    "topic": "policy",
     "kind": null,
     "entities": [],
     "summary": "전북미래교육정책연구소가 2027년 교육정책연구 과제 제안을 접수합니다.",
@@ -102,10 +103,11 @@
     "source": "경상매일신문",
     "published": "2026-09-27",
     "keyword": "교육정책",
-    "topic": "classroom",
+    "topic": "global",
     "kind": null,
     "entities": [
-     "경기도교육청"
+     "경기도교육청",
+     "OECD"
     ],
     "summary": "경기도교육청이 OECD와 미래교육을 논의하며 '경기교육대전환'을 위한 국제 협력을 강화한다.",
     "implication": "OECD와 논의된 미래 교육의 핵심 가치를 수업 활동에 자연스럽게 접목할 수 있습니다.",
@@ -328,7 +330,8 @@
     ],
     "summary": "콜로서스 2 GPU의 대규모 증설은 AI 추론 성능 경쟁을 심화하고 하드웨어 생태계 다변화를 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-09-27"
    },
    {
     "n": 6,
@@ -376,7 +379,8 @@
     ],
     "summary": "ChatGPT 광고의 글로벌 확장은 AI 기술의 상업화 및 대중화를 가속화하며, 다국어 및 지역 맞춤형 AI 서비스 개발을 촉진할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-09-27"
    },
    {
     "n": 9,
@@ -409,7 +413,8 @@
     ],
     "summary": "고도화된 AI 모델이 기업의 비용 효율성과 서비스 정확성을 획기적으로 개선하며 산업 전반의 AI 활용을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-09-27"
    }
   ]
  },

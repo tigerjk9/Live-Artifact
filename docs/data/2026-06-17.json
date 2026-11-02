@@ -73,7 +73,7 @@
     "source": "네이트",
     "published": "2026-06-16",
     "keyword": "인공지능교육",
-    "topic": "teacher",
+    "topic": "policy",
     "kind": null,
     "entities": [
      "특수교육"
@@ -137,7 +137,7 @@
     "source": "뉴스프리존",
     "published": "2026-06-16",
     "keyword": "교육정책",
-    "topic": "classroom",
+    "topic": "policy",
     "kind": null,
     "entities": [
      "인천시교육청"
@@ -349,7 +349,8 @@
     ],
     "summary": "Google AI Studio를 통한 창의적·대화형 AI 콘텐츠 제작은 AI 기술의 대중화와 활용 범위 확대를 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-06-14"
    },
    {
     "n": 7,
@@ -365,7 +366,8 @@
     ],
     "summary": "BBVA의 OpenAI 핵심 도입은 금융권을 필두로 AI가 전 산업의 핵심 경쟁력이자 필수 인프라로 자리매김할 것을 보여줍니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-06-14"
    },
    {
     "n": 8,
@@ -378,7 +380,8 @@
     "kind": null,
     "entities": [
      "Google",
-     "NVIDIA"
+     "NVIDIA",
+     "Amazon"
     ],
     "summary": "글로벌 빅테크 기업의 직접 참여 인재 양성은 국내 AI 생태계의 실질적 기술 경쟁력을 높일 것입니다.",
     "implication": "",

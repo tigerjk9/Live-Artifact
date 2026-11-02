@@ -24,10 +24,11 @@
     "source": "서울경제",
     "published": "2025-12-08",
     "keyword": "AI교육",
-    "topic": "classroom",
+    "topic": "ai_digital",
     "kind": "opinion",
     "entities": [
-     "사교육"
+     "사교육",
+     "OECD"
     ],
     "summary": "과도한 사교육 의존은 학생들의 자기 주도적 학습 능력과 창의적 문제 해결 역량을 저해하여 미래 사회에 필요한 AI 역량 강화에 걸림돌이 될 수 있다는 점을 시사합니다.",
     "implication": "",
@@ -47,7 +48,8 @@
     ],
     "summary": "학교폭력 피해 학생들에게 학교가 지옥이 되지 않도록, 예방 중심의 적극적인 개입과 공감 능력 향상 교육이 시급합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2025-12-08"
    },
    {
     "n": 4,

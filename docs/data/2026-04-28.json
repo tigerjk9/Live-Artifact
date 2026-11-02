@@ -155,7 +155,7 @@
     "source": "뉴스핌",
     "published": "2026-04-27",
     "keyword": "교육정책",
-    "topic": "classroom",
+    "topic": "policy",
     "kind": null,
     "entities": [
      "사교육"
@@ -349,7 +349,7 @@
     "source": "AI Times",
     "published": "2026-04-27",
     "keyword": "",
-    "topic": "model",
+    "topic": "industry",
     "kind": null,
     "entities": [
      "Moonshot",

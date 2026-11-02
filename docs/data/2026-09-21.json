@@ -75,7 +75,8 @@
     "entities": [],
     "summary": "제주에서 배우는 글로벌 교육이 학교 현장의 변화를 가져온다.",
     "implication": "제주 지역의 글로벌 교육 사례를 찾아 수업에 접목할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-09-19"
    },
    {
     "n": 6,
@@ -84,7 +85,7 @@
     "source": "구글 뉴스",
     "published": "2026-09-20",
     "keyword": "",
-    "topic": "higher_ed",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [],
     "summary": "대학이 산업 맞춤형 AI 인재 양성 교육 방안을 논의하고 있습니다.",
@@ -165,9 +166,11 @@
     "source": "",
     "published": "2026-09-17",
     "keyword": "K-12 education",
-    "topic": "teacher_pd",
+    "topic": "genai_tutor",
     "kind": null,
-    "entities": [],
+    "entities": [
+     "LLM"
+    ],
     "summary": "집단 교실 AI 지원 연구를 위해 1,492개 교사 작성 사례 데이터셋 Edustories는 LLM이 교사 개입 성공 예측에서 인간 전문가보다 부족하지만 AI의 교사 보조 잠재력을 강조합니다.",
     "implication": "",
     "ai": true,
@@ -307,7 +310,8 @@
     ],
     "summary": "10억 사용자 규모 AI 서비스는 데이터 스토리지와 인프라 효율성의 핵심 중요성을 부각하며, 관련 기술 및 산업 혁신을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-09-18"
    },
    {
     "n": 5,
@@ -387,7 +391,8 @@
     "entities": [],
     "summary": "고령층의 AI 활용 증진은 AI 기술의 대중화를 가속화하고, 사용자 친화적 솔루션 개발을 촉진하여 새로운 시장을 창출할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-09-20"
    },
    {
     "n": 10,
@@ -399,7 +404,8 @@
     "topic": "model",
     "kind": null,
     "entities": [
-     "삼성"
+     "삼성",
+     "LG"
     ],
     "summary": "대기업 전문연구요원 재개는 핵심 AI 인재 확보를 통해 국내 AI 기술 개발을 가속화하고 산업 경쟁력을 높일 것입니다.",
     "implication": "",

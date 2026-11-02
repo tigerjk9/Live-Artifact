@@ -126,9 +126,16 @@
   function loadSearch() {
     if (searchRows) return Promise.resolve(searchRows);
     if (!searchLoading) {
-      searchLoading = fetch(ROOT + 'data/search.json', { cache: 'no-cache' })
+      // 월별 색인(data/search/YYYY-MM.json, 제목+요약) 전부를 한 번에 — 첫 검색 때만
+      searchLoading = fetch(ROOT + 'data/search/index.json', { cache: 'no-cache' })
         .then(function (r) { return r.ok ? r.json() : Promise.reject(new Error('HTTP ' + r.status)); })
-        .then(function (rows) { searchRows = rows; return rows; });
+        .then(function (idx) {
+          return Promise.all((idx.months || []).map(function (m) {
+            return fetch(ROOT + 'data/search/' + m.m + '.json', { cache: 'no-cache' })
+              .then(function (r) { return r.ok ? r.json() : []; });
+          }));
+        })
+        .then(function (parts) { searchRows = [].concat.apply([], parts); return searchRows; });
     }
     return searchLoading;
   }
@@ -156,7 +163,7 @@
     loadSearch().then(function (rows) {
       var terms = q.toLowerCase().split(/\s+/).filter(Boolean);
       var hits = rows.filter(function (r) {
-        var text = (r.t + ' ' + (r.src || '')).toLowerCase();
+        var text = (r.t + ' ' + (r.t2 || '') + ' ' + (r.src || '') + ' ' + (r.sm || '')).toLowerCase();
         return terms.every(function (t) { return text.indexOf(t) !== -1; });
       });
       hits.sort(function (a, b) { return a.d < b.d ? 1 : a.d > b.d ? -1 : a.s < b.s ? -1 : 1; });
@@ -188,8 +195,10 @@
         var dt = new Date(parseInt(p[0], 10), parseInt(p[1], 10) - 1, parseInt(p[2], 10));
         html += '<h3 class="arch-result-day"><a href="' + r.d + '.html">' + p[0] + '년 ' + parseInt(p[1], 10) + '월 ' + parseInt(p[2], 10) + '일 (' + WD[dt.getDay()] + ')</a></h3>';
       }
+      var titleHit = terms.every(function (t) { return (r.t + ' ' + (r.t2 || '')).toLowerCase().indexOf(t) !== -1; });
+      var snippet = (!titleHit && r.sm) ? '<span class="arch-result-snip">' + highlight(r.sm, terms) + '</span>' : '';
       html += '<div class="arch-result"><i class="dot dot-' + r.s + '" title="' + SEC_SHORT[r.s] + '"></i>' +
-        '<a class="arch-result-title" href="' + r.d + '.html#' + r.s + '-' + r.n + '">' + highlight(r.t, terms) + '</a>' +
+        '<span class="arch-result-main"><a class="arch-result-title" href="' + r.d + '.html#' + r.s + '-' + r.n + '">' + highlight(r.t, terms) + '</a>' + snippet + '</span>' +
         '<span class="arch-result-src">' + esc(r.src || SEC_SHORT[r.s]) + '</span></div>';
     });
     if (shown.length > MAX_RESULTS) html += '<p class="arch-more">상위 ' + MAX_RESULTS + '건만 표시 — 검색어를 더 구체적으로 입력해 주세요.</p>';

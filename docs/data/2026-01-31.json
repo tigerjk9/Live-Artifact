@@ -40,7 +40,7 @@
     "source": "광양뉴스",
     "published": "2026-01-30",
     "keyword": "AI교육",
-    "topic": "classroom",
+    "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
     "summary": "AI 시대에는 학생 스스로 질문하고 탐구하는 능력을 키워, 주도적인 학습자로 성장시키는 교육 패러다임 전환이 중요합니다.",
@@ -98,7 +98,7 @@
     "source": "MSN",
     "published": "2026-01-30",
     "keyword": "에듀테크",
-    "topic": "student_care",
+    "topic": "global",
     "kind": null,
     "entities": [
      "특수교육",

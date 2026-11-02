@@ -1,0 +1,392 @@
+{
+ "key": "2026-W25",
+ "label": "2026년 6월 15일 ~ 21일",
+ "dates": [
+  "2026-06-15",
+  "2026-06-16",
+  "2026-06-17",
+  "2026-06-18",
+  "2026-06-19",
+  "2026-06-20",
+  "2026-06-21"
+ ],
+ "days_present": 7,
+ "counts": {
+  "edu": 68,
+  "paper": 35,
+  "tech": 54
+ },
+ "total": 157,
+ "prev_total": 163,
+ "top_entities": [
+  {
+   "name": "에이전트",
+   "kind": "tech",
+   "n": 15,
+   "delta": 3
+  },
+  {
+   "name": "ChatGPT",
+   "kind": "model",
+   "n": 14,
+   "delta": -2
+  },
+  {
+   "name": "OpenAI",
+   "kind": "org",
+   "n": 13,
+   "delta": -5
+  },
+  {
+   "name": "교육부",
+   "kind": "edu_org",
+   "n": 10,
+   "delta": 1
+  },
+  {
+   "name": "Google",
+   "kind": "org",
+   "n": 8,
+   "delta": -1
+  },
+  {
+   "name": "GPU·데이터센터",
+   "kind": "tech",
+   "n": 7,
+   "delta": -1
+  },
+  {
+   "name": "생성형 AI",
+   "kind": "tech",
+   "n": 6,
+   "delta": -5
+  },
+  {
+   "name": "벤치마크",
+   "kind": "tech",
+   "n": 6,
+   "delta": 5
+  },
+  {
+   "name": "NVIDIA",
+   "kind": "org",
+   "n": 5,
+   "delta": -4
+  },
+  {
+   "name": "Anthropic",
+   "kind": "org",
+   "n": 5,
+   "delta": -5
+  },
+  {
+   "name": "대전시교육청",
+   "kind": "edu_org",
+   "n": 5,
+   "delta": 3
+  },
+  {
+   "name": "코딩 AI",
+   "kind": "tech",
+   "n": 4,
+   "delta": -4
+  }
+ ],
+ "rising": [
+  {
+   "name": "벤치마크",
+   "kind": "tech",
+   "n": 6,
+   "delta": 5
+  },
+  {
+   "name": "에이전트",
+   "kind": "tech",
+   "n": 15,
+   "delta": 3
+  },
+  {
+   "name": "대전시교육청",
+   "kind": "edu_org",
+   "n": 5,
+   "delta": 3
+  },
+  {
+   "name": "온디바이스 AI",
+   "kind": "tech",
+   "n": 3,
+   "delta": 3
+  }
+ ],
+ "topic_share": {
+  "edu": [
+   {
+    "id": "policy",
+    "label": "정책·행정",
+    "n": 32,
+    "pct": 47,
+    "delta": 10
+   },
+   {
+    "id": "ai_digital",
+    "label": "AI·디지털교육",
+    "n": 19,
+    "pct": 28,
+    "delta": 5
+   },
+   {
+    "id": "classroom",
+    "label": "수업·교육과정",
+    "n": 11,
+    "pct": 16,
+    "delta": -7
+   },
+   {
+    "id": "teacher",
+    "label": "교사·교권",
+    "n": 4,
+    "pct": 6,
+    "delta": -7
+   },
+   {
+    "id": "higher_ed",
+    "label": "대학·입시·평생",
+    "n": 1,
+    "pct": 1,
+    "delta": 0
+   },
+   {
+    "id": "student_care",
+    "label": "학생·돌봄·안전",
+    "n": 1,
+    "pct": 1,
+    "delta": 1
+   }
+  ],
+  "paper": [
+   {
+    "id": "teacher_pd",
+    "label": "교사 전문성",
+    "n": 10,
+    "pct": 29,
+    "delta": 15
+   },
+   {
+    "id": "design_curric",
+    "label": "교수설계·교육과정",
+    "n": 7,
+    "pct": 20,
+    "delta": -3
+   },
+   {
+    "id": "assessment",
+    "label": "평가·피드백",
+    "n": 4,
+    "pct": 11,
+    "delta": 5
+   },
+   {
+    "id": "literacy_ethics",
+    "label": "AI 리터러시·윤리",
+    "n": 4,
+    "pct": 11,
+    "delta": 5
+   },
+   {
+    "id": "personalized",
+    "label": "개인화·학습분석",
+    "n": 3,
+    "pct": 9,
+    "delta": 0
+   },
+   {
+    "id": "stem_ct",
+    "label": "컴퓨팅·STEM",
+    "n": 3,
+    "pct": 9,
+    "delta": 3
+   },
+   {
+    "id": "language",
+    "label": "언어·문해",
+    "n": 3,
+    "pct": 9,
+    "delta": -2
+   },
+   {
+    "id": "inclusion_sel",
+    "label": "포용·정서·웰빙",
+    "n": 1,
+    "pct": 3,
+    "delta": 0
+   }
+  ],
+  "tech": [
+   {
+    "id": "model",
+    "label": "모델·연구",
+    "n": 18,
+    "pct": 33,
+    "delta": 7
+   },
+   {
+    "id": "product",
+    "label": "제품·서비스",
+    "n": 13,
+    "pct": 24,
+    "delta": 12
+   },
+   {
+    "id": "industry",
+    "label": "산업·투자·인프라",
+    "n": 9,
+    "pct": 17,
+    "delta": -9
+   },
+   {
+    "id": "agent_dev",
+    "label": "에이전트·개발도구",
+    "n": 9,
+    "pct": 17,
+    "delta": -9
+   },
+   {
+    "id": "policy_safety",
+    "label": "정책·윤리·안전",
+    "n": 2,
+    "pct": 4,
+    "delta": -1
+   },
+   {
+    "id": "usecase",
+    "label": "활용·사례",
+    "n": 2,
+    "pct": 4,
+    "delta": 1
+   },
+   {
+    "id": "edu_ai",
+    "label": "교육 AI",
+    "n": 1,
+    "pct": 2,
+    "delta": 0
+   }
+  ]
+ },
+ "daily": [
+  {
+   "d": "2026-06-15",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-06-16",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-06-17",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-06-18",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-06-19",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-06-20",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-06-21",
+   "n": 25,
+   "head": "",
+   "src": ""
+  }
+ ],
+ "picks": {
+  "edu": [
+   {
+    "d": "2026-06-16",
+    "n": 1,
+    "t": "[기고]AI 에이전트 경제와 기업 경영혁신",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBST0JEU3ZmU3MtWnRQRTd6NDRzbktMUnlRTnRRRmlNN3B6NTF0bllVc1VwSGt3WmRjVUxtWmt2d29rYXpkdDgtb3VGOW0wZw?oc=5",
+    "src": "전자신문"
+   },
+   {
+    "d": "2026-06-19",
+    "n": 6,
+    "t": "IBK기업은행, 직원이 만든 AI 에이전트로 업무혁신 본격화",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOY0lOQng4dF9vSEIzLTJZbkdRWnptRFNiVnUtYjBfYU1NOEFybDVkemUzWlF3bF9ZME1oV0JMeUJkekFRN2x1UGU5ZEJKR3lEVDEybUtEeEluMU4wZXVPRGRFaWRZYmJI?oc=5",
+    "src": "테크월드"
+   },
+   {
+    "d": "2026-06-15",
+    "n": 4,
+    "t": "교육부 '교육혁신선도지역' 추진…세종시 참여 준비 속 읍면학교 변화 주목",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBEaVNydHR3aWUzMjIycTJDd2VYd3Q4ZXdDeGE1QWZMb3Vpb1lVWDNlZkJ1OFl3TWVDUXBZWWxiX3JDZ1hnaGlHdmthRWY?oc=5",
+    "src": "대전인터넷신문"
+   }
+  ],
+  "paper": [
+   {
+    "d": "2026-06-19",
+    "n": 1,
+    "t": "INNOVATIVE MONITORING MECHANISMS IN EDUCATION: THE ROLE OF ARTIFICIAL INTELLIGENCE, LEARNING ANALYTICS, AND BIG DATA IN ENHANCING EDUCATIONAL QUALITY",
+    "url": "https://doi.org/10.70286/eoss-15.06.2026.015.451-459",
+    "src": "openalex"
+   },
+   {
+    "d": "2026-06-17",
+    "n": 1,
+    "t": "Application of a virtual simulation experiment system in teaching pain diagnostics and therapeutics in the digital-intelligent era",
+    "url": "https://doi.org/10.61189/355565lnuowp",
+    "src": "openalex"
+   },
+   {
+    "d": "2026-06-15",
+    "n": 1,
+    "t": "A DIGITAL ADAPTIVE TEXTBOOK FOR SECONDARY BIOLOGY EDUCATION: DEVELOPMENT AND TESTING",
+    "url": "https://doi.org/10.20319/pijtel.2026.101.2029",
+    "src": "openalex"
+   }
+  ],
+  "tech": [
+   {
+    "d": "2026-06-20",
+    "n": 10,
+    "t": "PRC-linked influence operations are targeting AI debates in the US",
+    "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+    "src": "OpenAI Blog"
+   },
+   {
+    "d": "2026-06-16",
+    "n": 2,
+    "t": "카카오톡에 ChatGPT 탑재… 메신저가 AI 에이전트 플랫폼으로 진화",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqRlUxeklpd3BMSEw5SVFzeG9COXFsYy1mRnZGZ0l6ZGVYaFZRU2ZaYTduUUNsM3EyQzd4X3NjQ2tPQzNvOWIyRzQwY1lYNENITmxMZWI2clg4d2FFeXJ6cVRjTQ?oc=5",
+    "src": "더테크"
+   },
+   {
+    "d": "2026-06-18",
+    "n": 3,
+    "t": "구형 모델로 차세대 모델 점검…오픈AI, GPT-5.6 출시 전 AI 위험 예측 기법 공개",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMMTBPRDJKUjMteWFBVF9WdkZVWElEdUNTV0xPd0h2LWpyVVBmS3IzRHRtQi04dDlHcDdtMDlVTzVNZTY4UHg3MUctai1RSVRQcTFWRmtJN3U0VG5GQzRrSzFaMEFPSEFsSEhuUEdtYkhXNDA?oc=5",
+    "src": "디지털투데이"
+   }
+  ]
+ },
+ "generated_at": "2026-11-02T13:16:18+09:00"
+}

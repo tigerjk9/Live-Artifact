@@ -280,7 +280,7 @@
     "source": "AI Times",
     "published": "2026-08-21",
     "keyword": "",
-    "topic": "product",
+    "topic": "model",
     "kind": null,
     "entities": [
      "ChatGPT"
@@ -335,6 +335,7 @@
     "topic": "agent_dev",
     "kind": null,
     "entities": [
+     "OpenAI",
      "에이전트"
     ],
     "summary": "오픈AI의 ‘컴퓨터 유즈’ 자신감은 AI가 디지털 환경에서 직접 행동하는 에이전트 시대를 열어, AI 생태계의 패러다임을 바꿀 것입니다.",
@@ -369,7 +370,8 @@
     ],
     "summary": "GPT-5.6의 빌더 가이드는 차세대 AI 모델의 산업 적용을 가속화하며 개발 생태계의 혁신을 촉진할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-08-21"
    },
    {
     "n": 8,

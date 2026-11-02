@@ -28,7 +28,9 @@
     "keyword": "교육현장",
     "topic": "classroom",
     "kind": null,
-    "entities": [],
+    "entities": [
+     "IB"
+    ],
     "summary": "고의숙 교육감이 표선 IB학교 경청투어를 시작하며 제주형 IB교육 성과를 도내 전역으로 확산할 계획입니다.",
     "implication": "IB교육 확산에 발맞춰 우리 반 수업에 탐구 중심 학습과 비판적 사고 활동을 접목할 수 있습니다.",
     "ai": true
@@ -150,7 +152,7 @@
     "source": "v.daum.net",
     "published": "2026-06-27",
     "keyword": "교육정책",
-    "topic": "teacher",
+    "topic": "policy",
     "kind": null,
     "entities": [
      "교권"
@@ -313,7 +315,8 @@
     ],
     "summary": "삼성전자의 생성형 AI 사내 도입은 기업 업무 혁신을 위한 AI 기술의 전면적 도입과 산업 전반의 생산성 향상을 가속화하는 중대한 전환점입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-06-25"
    },
    {
     "n": 5,
@@ -327,7 +330,8 @@
     "entities": [],
     "summary": "AI의 자율적 연구 역량이 의약화학 등 복잡한 과학 R&D 효율을 극대화하여 산업 적용 범위가 확대될 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-06-26"
    },
    {
     "n": 6,

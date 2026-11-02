@@ -262,10 +262,10 @@
     "topic": "agent_dev",
     "kind": null,
     "entities": [
+     "GPU·데이터센터",
      "코딩 AI",
      "에이전트",
-     "오픈소스",
-     "GPU·데이터센터"
+     "오픈소스"
     ],
     "summary": "단일 GPU 기반 오픈소스 코딩 에이전트의 출시는 AI 개발 대중화와 생산성 혁신을 가속화할 것입니다.",
     "implication": "",
@@ -331,7 +331,7 @@
     "source": "디지털투데이",
     "published": "2026-06-11",
     "keyword": "오픈AI",
-    "topic": "product",
+    "topic": "model",
     "kind": null,
     "entities": [
      "OpenAI",
@@ -388,6 +388,7 @@
     "topic": "product",
     "kind": null,
     "entities": [
+     "LG",
      "OpenAI",
      "ChatGPT"
     ],

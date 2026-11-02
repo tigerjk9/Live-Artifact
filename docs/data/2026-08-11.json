@@ -38,7 +38,7 @@
     "source": "테크M",
     "published": "2026-08-10",
     "keyword": "AI디지털도구",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "네이버",
@@ -345,7 +345,8 @@
     ],
     "summary": "오픈AI의 한국 기업 협력은 엔비디아 독점 구도를 완화하고 AI 핵심 기술 생태계에서 한국 기업의 역할 증대 및 경쟁 심화를 가져올 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-08-10"
    },
    {
     "n": 7,

@@ -68,7 +68,7 @@
     "source": "중앙일보",
     "published": "2026-03-18",
     "keyword": "인공지능교육",
-    "topic": "classroom",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [],
     "summary": "",
@@ -114,7 +114,7 @@
     "source": "미래세종일보",
     "published": "2026-03-18",
     "keyword": "교육혁신",
-    "topic": "student_care",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "교육감 선거",
@@ -354,7 +354,8 @@
     ],
     "summary": "ChatGPT의 Excel 통합과 금융 데이터 연동은 AI가 규제 환경의 금융 분석 효율성을 극적으로 향상시키는 중요한 진전입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-03-16"
    },
    {
     "n": 8,
@@ -380,7 +381,7 @@
     "source": "지티티코리아",
     "published": "2026-03-18",
     "keyword": "GPT",
-    "topic": "usecase",
+    "topic": "model",
     "kind": null,
     "entities": [
      "ChatGPT",
@@ -400,6 +401,7 @@
     "topic": "policy_safety",
     "kind": null,
     "entities": [
+     "OpenAI",
      "ChatGPT",
      "저작권·소송"
     ],

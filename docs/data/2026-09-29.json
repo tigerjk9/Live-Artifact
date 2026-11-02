@@ -56,7 +56,7 @@
     "source": "핀포인트뉴스",
     "published": "2026-09-28",
     "keyword": "AI활용수업",
-    "topic": "classroom",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "서울시교육청"
@@ -86,7 +86,7 @@
     "source": "한국교육신문",
     "published": "2026-09-28",
     "keyword": "에듀테크",
-    "topic": "classroom",
+    "topic": "policy",
     "kind": null,
     "entities": [
      "평가원",
@@ -321,7 +321,8 @@
     ],
     "summary": "OpenAI 기반 AI 에이전트의 높은 고객 응대율은 AI의 실질적 비즈니스 가치를 입증하며 기업의 AI 도입 및 자동화 시장 확대를 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-09-26"
    },
    {
     "n": 6,
@@ -354,7 +355,8 @@
     "entities": [
      "Anthropic",
      "NVIDIA",
-     "Claude"
+     "Claude",
+     "에이전트"
     ],
     "summary": "Anthropic의 NVIDIA OpenShell 제어 기능 추가는 AI 모델이 컴퓨팅 인프라를 직접 관리하며 AI 시스템의 자율성과 효율성을 극대화할 것입니다.",
     "implication": "",
@@ -403,6 +405,7 @@
     "topic": "industry",
     "kind": null,
     "entities": [
+     "GPU·데이터센터",
      "NVIDIA"
     ],
     "summary": "AI 시대 핵심 자원인 GPU의 엄청난 가치와 품귀 현상이 범죄 표적이 될 정도로 심화되고 있어, AI 산업의 안정적인 성장과 공급망 보안이 더욱 중요해질 것입니다.",

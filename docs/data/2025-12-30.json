@@ -10,7 +10,7 @@
     "source": "더퍼블릭",
     "published": "2025-12-29",
     "keyword": "AI디지털교육",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "교육부"
@@ -310,7 +310,8 @@
     ],
     "summary": "GPT-4o를 활용한 날씨 ETL 파이프라인 구축 가이드는 AI 기반 데이터 분석 및 시각화의 접근성을 높여 관련 산업 혁신을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2025-12-29"
    },
    {
     "n": 5,
@@ -368,7 +369,8 @@
     ],
     "summary": "AI의 설득력이 고도화됨에 따라 사회적 영향력에 대한 윤리적 가이드라인과 안전장치 마련이 시급하다는 것을 시사합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2025-12-29"
    },
    {
     "n": 9,

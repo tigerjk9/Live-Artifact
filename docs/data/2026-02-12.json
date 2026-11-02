@@ -40,12 +40,13 @@
     "source": "구글 뉴스",
     "published": "2026-02-10",
     "keyword": "",
-    "topic": "classroom",
+    "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
     "summary": "AI 시대에는 정답 암기식 교육에서 벗어나 문제 해결 능력 함양을 위해 학교 수업 방식을 문제 상황 제시 중심으로 전환해야 합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-02-11"
    },
    {
     "n": 4,
@@ -86,7 +87,7 @@
     "source": "한국강사신문",
     "published": "2026-02-11",
     "keyword": "디지털교육",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "인천시교육청"
@@ -153,7 +154,7 @@
     "source": "경기일보",
     "published": "2026-02-11",
     "keyword": "인공지능교육",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "인천시교육청"
@@ -218,7 +219,8 @@
     "implication": "",
     "ai": true,
     "authors": "Lei Zhang, Hui Zhang 외 1명",
-    "pdf": ""
+    "pdf": "",
+    "dup_of": "2026-02-10"
    },
    {
     "n": 4,
@@ -301,7 +303,7 @@
     "source": "AI Times",
     "published": "2026-02-11",
     "keyword": "",
-    "topic": "product",
+    "topic": "policy_safety",
     "kind": null,
     "entities": [
      "AI 검색",

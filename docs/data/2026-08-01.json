@@ -331,7 +331,8 @@
     ],
     "summary": "Google AI Studio를 통한 'vibe coded' 퀴즈는 AI 개발 도구의 대중화와 창의적인 응용 가능성을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-07-29"
    },
    {
     "n": 6,
@@ -345,7 +346,8 @@
     "entities": [],
     "summary": "AI가 인간의 업무와 역량을 확장함에 따라, AI 기술 생태계는 증강 및 협업 솔루션에 대한 새로운 수요를 창출하며 성장할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-07-29"
    },
    {
     "n": 7,
@@ -377,7 +379,8 @@
     ],
     "summary": "ChatGPT의 학술 연구 활용은 AI가 지식 창출의 핵심 엔진으로 부상하며 AI 기술 생태계의 고도화와 산업 전반의 혁신을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-07-31"
    },
    {
     "n": 9,
@@ -393,7 +396,8 @@
     ],
     "summary": "중소기업용 ChatGPT 출시는 AI 기술의 실질적 대중화를 이끌고 관련 산업 생태계 내 경쟁을 심화시킬 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-07-31"
    },
    {
     "n": 10,

@@ -12,10 +12,13 @@
     "keyword": "에이전틱AI",
     "topic": "ai_digital",
     "kind": "opinion",
-    "entities": [],
+    "entities": [
+     "GPU·데이터센터"
+    ],
     "summary": "",
     "implication": "",
-    "ai": false
+    "ai": false,
+    "dup_of": "2026-06-19"
    },
    {
     "n": 2,
@@ -40,7 +43,7 @@
     "source": "아시아뉴스통신",
     "published": "2026-06-19",
     "keyword": "교육정책",
-    "topic": "global",
+    "topic": "policy",
     "kind": null,
     "entities": [
      "대전시교육청"
@@ -328,7 +331,8 @@
     ],
     "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
     "implication": "",
-    "ai": false
+    "ai": false,
+    "dup_of": "2026-06-18"
    },
    {
     "n": 6,
@@ -344,7 +348,8 @@
     ],
     "summary": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announceme",
     "implication": "",
-    "ai": false
+    "ai": false,
+    "dup_of": "2026-06-17"
    },
    {
     "n": 7,
@@ -361,7 +366,8 @@
     ],
     "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
     "implication": "",
-    "ai": false
+    "ai": false,
+    "dup_of": "2026-06-17"
    },
    {
     "n": 8,

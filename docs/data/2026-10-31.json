@@ -44,7 +44,7 @@
     "source": "베리타스알파",
     "published": "2026-10-30",
     "keyword": "교육혁신",
-    "topic": "higher_ed",
+    "topic": "policy",
     "kind": null,
     "entities": [
      "사교육"
@@ -76,7 +76,7 @@
     "source": "데일리안",
     "published": "2026-10-30",
     "keyword": "인공지능교육",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "인천시교육청"
@@ -267,7 +267,8 @@
     ],
     "summary": "오픈AI는 기업용 AI 시장 지배력을 강화하며, AI 기술의 비즈니스 핵심 기능 통합을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-10-30"
    },
    {
     "n": 2,
@@ -301,7 +302,8 @@
     ],
     "summary": "OpenAI와 Oracle의 협력은 AI 모델 및 앱의 기업용 확장을 위한 클라우드 인프라 경쟁을 심화하며, AI 생태계의 다각화를 촉진할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-10-28"
    },
    {
     "n": 4,
@@ -331,6 +333,7 @@
     "topic": "industry",
     "kind": null,
     "entities": [
+     "OpenAI",
      "ChatGPT"
     ],
     "summary": "텍사스주의 제소는 AI 기술 생태계에 미성년자 보호를 위한 엄격한 규제와 기업의 책임 강화를 촉발할 것입니다.",
@@ -349,6 +352,7 @@
     "entities": [
      "Google",
      "Gemini",
+     "OpenAI",
      "ChatGPT"
     ],
     "summary": "거대 기업들의 신규 AI 모델 봇물은 기술 혁신 경쟁을 심화시키고 AI 산업 생태계 전반의 급격한 재편을 가속화할 것입니다.",

@@ -1,0 +1,418 @@
+{
+ "key": "2026-W24",
+ "label": "2026년 6월 8일 ~ 14일",
+ "dates": [
+  "2026-06-08",
+  "2026-06-09",
+  "2026-06-10",
+  "2026-06-11",
+  "2026-06-12",
+  "2026-06-13",
+  "2026-06-14"
+ ],
+ "days_present": 7,
+ "counts": {
+  "edu": 70,
+  "paper": 35,
+  "tech": 58
+ },
+ "total": 163,
+ "prev_total": 160,
+ "top_entities": [
+  {
+   "name": "OpenAI",
+   "kind": "org",
+   "n": 18,
+   "delta": 3
+  },
+  {
+   "name": "ChatGPT",
+   "kind": "model",
+   "n": 16,
+   "delta": 0
+  },
+  {
+   "name": "에이전트",
+   "kind": "tech",
+   "n": 12,
+   "delta": 0
+  },
+  {
+   "name": "생성형 AI",
+   "kind": "tech",
+   "n": 11,
+   "delta": 2
+  },
+  {
+   "name": "Anthropic",
+   "kind": "org",
+   "n": 10,
+   "delta": 4
+  },
+  {
+   "name": "Google",
+   "kind": "org",
+   "n": 9,
+   "delta": 0
+  },
+  {
+   "name": "NVIDIA",
+   "kind": "org",
+   "n": 9,
+   "delta": -5
+  },
+  {
+   "name": "교육부",
+   "kind": "edu_org",
+   "n": 9,
+   "delta": 5
+  },
+  {
+   "name": "GPU·데이터센터",
+   "kind": "tech",
+   "n": 8,
+   "delta": 5
+  },
+  {
+   "name": "코딩 AI",
+   "kind": "tech",
+   "n": 8,
+   "delta": 3
+  },
+  {
+   "name": "Claude",
+   "kind": "model",
+   "n": 7,
+   "delta": 2
+  },
+  {
+   "name": "삼성",
+   "kind": "org",
+   "n": 7,
+   "delta": 1
+  }
+ ],
+ "rising": [
+  {
+   "name": "교육부",
+   "kind": "edu_org",
+   "n": 9,
+   "delta": 5
+  },
+  {
+   "name": "GPU·데이터센터",
+   "kind": "tech",
+   "n": 8,
+   "delta": 5
+  },
+  {
+   "name": "IB",
+   "kind": "issue",
+   "n": 5,
+   "delta": 5
+  },
+  {
+   "name": "Anthropic",
+   "kind": "org",
+   "n": 10,
+   "delta": 4
+  },
+  {
+   "name": "카카오",
+   "kind": "org",
+   "n": 4,
+   "delta": 4
+  },
+  {
+   "name": "OpenAI",
+   "kind": "org",
+   "n": 18,
+   "delta": 3
+  }
+ ],
+ "topic_share": {
+  "edu": [
+   {
+    "id": "policy",
+    "label": "정책·행정",
+    "n": 26,
+    "pct": 37,
+    "delta": -6
+   },
+   {
+    "id": "ai_digital",
+    "label": "AI·디지털교육",
+    "n": 16,
+    "pct": 23,
+    "delta": -3
+   },
+   {
+    "id": "classroom",
+    "label": "수업·교육과정",
+    "n": 16,
+    "pct": 23,
+    "delta": 6
+   },
+   {
+    "id": "teacher",
+    "label": "교사·교권",
+    "n": 9,
+    "pct": 13,
+    "delta": 2
+   },
+   {
+    "id": "global",
+    "label": "해외·연구",
+    "n": 2,
+    "pct": 3,
+    "delta": 3
+   },
+   {
+    "id": "higher_ed",
+    "label": "대학·입시·평생",
+    "n": 1,
+    "pct": 1,
+    "delta": -1
+   }
+  ],
+  "paper": [
+   {
+    "id": "design_curric",
+    "label": "교수설계·교육과정",
+    "n": 8,
+    "pct": 23,
+    "delta": 14
+   },
+   {
+    "id": "genai_tutor",
+    "label": "생성형 AI·튜터",
+    "n": 6,
+    "pct": 17,
+    "delta": 8
+   },
+   {
+    "id": "teacher_pd",
+    "label": "교사 전문성",
+    "n": 5,
+    "pct": 14,
+    "delta": -6
+   },
+   {
+    "id": "language",
+    "label": "언어·문해",
+    "n": 4,
+    "pct": 11,
+    "delta": 5
+   },
+   {
+    "id": "personalized",
+    "label": "개인화·학습분석",
+    "n": 3,
+    "pct": 9,
+    "delta": -5
+   },
+   {
+    "id": "stem_ct",
+    "label": "컴퓨팅·STEM",
+    "n": 2,
+    "pct": 6,
+    "delta": -5
+   },
+   {
+    "id": "learning_sci",
+    "label": "학습과학·인지",
+    "n": 2,
+    "pct": 6,
+    "delta": -3
+   },
+   {
+    "id": "literacy_ethics",
+    "label": "AI 리터러시·윤리",
+    "n": 2,
+    "pct": 6,
+    "delta": -5
+   },
+   {
+    "id": "assessment",
+    "label": "평가·피드백",
+    "n": 2,
+    "pct": 6,
+    "delta": -3
+   },
+   {
+    "id": "inclusion_sel",
+    "label": "포용·정서·웰빙",
+    "n": 1,
+    "pct": 3,
+    "delta": 0
+   }
+  ],
+  "tech": [
+   {
+    "id": "model",
+    "label": "모델·연구",
+    "n": 15,
+    "pct": 26,
+    "delta": -1
+   },
+   {
+    "id": "industry",
+    "label": "산업·투자·인프라",
+    "n": 15,
+    "pct": 26,
+    "delta": 4
+   },
+   {
+    "id": "agent_dev",
+    "label": "에이전트·개발도구",
+    "n": 15,
+    "pct": 26,
+    "delta": 9
+   },
+   {
+    "id": "product",
+    "label": "제품·서비스",
+    "n": 7,
+    "pct": 12,
+    "delta": -10
+   },
+   {
+    "id": "policy_safety",
+    "label": "정책·윤리·안전",
+    "n": 3,
+    "pct": 5,
+    "delta": -3
+   },
+   {
+    "id": "usecase",
+    "label": "활용·사례",
+    "n": 2,
+    "pct": 3,
+    "delta": -2
+   },
+   {
+    "id": "edu_ai",
+    "label": "교육 AI",
+    "n": 1,
+    "pct": 2,
+    "delta": 2
+   }
+  ]
+ },
+ "daily": [
+  {
+   "d": "2026-06-08",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-06-09",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-06-10",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-06-11",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-06-12",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-06-13",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-06-14",
+   "n": 25,
+   "head": "",
+   "src": ""
+  }
+ ],
+ "picks": {
+  "edu": [
+   {
+    "d": "2026-06-12",
+    "n": 2,
+    "t": "“AI가 쓴 학생부 안 된다”…전남교육청, 생성형 AI 생활기록부 활용 차단 나서",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HQkY0VFUtLURVSW1GUk82RjEwbU52N2hBOU5GeDF6Z244RGdNVUVpcUhuN09KYTZadGE3R1g3dVhXTDc5c2YtWC05MzFTS3Zka1JuNU9FTWRKUQ?oc=5",
+    "src": "브릿지경제"
+   },
+   {
+    "d": "2026-06-11",
+    "n": 2,
+    "t": "대전시교육청, 학생 작가 공모전 개편…생성형 AI 부문 신설",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wSUZPa3hmZm50YVF5bk5mVEwwREdYN3JEX3BsdE5DSVcxQXFYYkpNM2lIaERRTTZ1ZXktUmVySEIxcUxfT1RZRHhRdF9TREJfb2NybQ?oc=5",
+    "src": "타임뉴스"
+   },
+   {
+    "d": "2026-06-10",
+    "n": 3,
+    "t": "[기고] AI 에이전트가 거래하는 시대, 블록체인은 언제 필요한가?",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2S1NzZjhNaGZtTlVQZ0p1ekpCb1NDanVOLWZzeGlfeFI1bFBSUGdlQl9zN2VlXzhSb0xacjJ0anAtVFM3R3VHUFppcjZfZktvb3lJ?oc=5",
+    "src": "네이트"
+   }
+  ],
+  "paper": [
+   {
+    "d": "2026-06-13",
+    "n": 3,
+    "t": "Gamification and Generative Artificial Intelligence in the Teaching of Philosophy, Mathematics, and Portuguese: A Report on an Interdisciplinary Experiment in a Full-Time High School Program.",
+    "url": "https://doi.org/10.22533/at.ed.515721226100610",
+    "src": "openalex"
+   },
+   {
+    "d": "2026-06-09",
+    "n": 2,
+    "t": "Integrating ChatGPT into Blended Learning Environments: A Transformative Approach to AI-Driven Education",
+    "url": "https://doi.org/10.21275/sr26531140342",
+    "src": "openalex"
+   },
+   {
+    "d": "2026-06-10",
+    "n": 2,
+    "t": "DREAN Teach Me: An Intelligent Tutoring System with NLP and Adaptive Feedback for Elementary School Students",
+    "url": "https://doi.org/10.48084/etasr.16487",
+    "src": "openalex"
+   }
+  ],
+  "tech": [
+   {
+    "d": "2026-06-09",
+    "n": 8,
+    "t": "오픈AI, 코딩툴‧AI 에이전트 탑재한 챗GPT 슈퍼앱 계획중",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xQ3pTX0dwNE9XZmhGY2ZBMFp0MmU1NmF1QVF0aHFCRWswdmNPanNzUXRvVmQ0d29TaDZQa2hUcVRuLUdzYXVBZEVXQ0w2bzhkY2dXeDVCRUotVjAzZ3c?oc=5",
+    "src": "스타트업레시피"
+   },
+   {
+    "d": "2026-06-08",
+    "n": 7,
+    "t": "OpenAI says \"chat is dead\" and plans to rebuild ChatGPT as a full-blown agent app",
+    "url": "https://the-decoder.com/openai-says-chat-is-dead-and-plans-to-rebuild-chatgpt-as-a-full-blown-agent-app/",
+    "src": "The Decoder"
+   },
+   {
+    "d": "2026-06-10",
+    "n": 6,
+    "t": "생성AI 시동걸었던 오픈AI, ‘챗GPT 버린다?’",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mTkhrb0R0Q2pGX0hBS0lhTjItZTBjb19OMkJLdEExWERJUU5zQVR2VlROa0FCZUxYWFdTVGNWTGVEZFRoOVJGTVFZZHBUVlI2bUl3UnMzLWJvTkloTDdrRDlESUJhU3RJZ1kyT3dpbEg?oc=5",
+    "src": "애플경제"
+   }
+  ]
+ },
+ "generated_at": "2026-11-02T13:16:18+09:00"
+}

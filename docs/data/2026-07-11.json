@@ -26,7 +26,7 @@
     "source": "브레이크뉴스",
     "published": "2026-07-10",
     "keyword": "AI교육",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "경남교육청"
@@ -108,7 +108,7 @@
     "source": "아산데일리",
     "published": "2026-07-10",
     "keyword": "교육정책",
-    "topic": "student_care",
+    "topic": "policy",
     "kind": null,
     "entities": [],
     "summary": "충남 학생인권 한마당을 통해 학생들의 목소리가 교육정책과 연결되는 기회가 마련되었습니다.",
@@ -264,6 +264,7 @@
     "kind": null,
     "entities": [
      "Apple",
+     "OpenAI",
      "저작권·소송"
     ],
     "summary": "애플의 AI 하드웨어 영업비밀 침해 소송은 AI 기술 생태계 내 지식재산권 보호와 경쟁 구도 재편을 가속화할 것입니다.",
@@ -302,7 +303,8 @@
     ],
     "summary": "최신 AI 모델의 엔터프라이즈 솔루션 빠른 적용은 AI 기술의 상용화 가속과 지속적인 성능 업그레이드 경쟁을 심화시킬 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-07-10"
    },
    {
     "n": 4,

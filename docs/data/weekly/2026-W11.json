@@ -1,0 +1,404 @@
+{
+ "key": "2026-W11",
+ "label": "2026년 3월 9일 ~ 15일",
+ "dates": [
+  "2026-03-09",
+  "2026-03-10",
+  "2026-03-11",
+  "2026-03-12",
+  "2026-03-13",
+  "2026-03-14",
+  "2026-03-15"
+ ],
+ "days_present": 7,
+ "counts": {
+  "edu": 68,
+  "paper": 25,
+  "tech": 50
+ },
+ "total": 143,
+ "prev_total": 96,
+ "top_entities": [
+  {
+   "name": "ChatGPT",
+   "kind": "model",
+   "n": 12,
+   "delta": 3
+  },
+  {
+   "name": "교육감 선거",
+   "kind": "issue",
+   "n": 10,
+   "delta": 0
+  },
+  {
+   "name": "에이전트",
+   "kind": "tech",
+   "n": 10,
+   "delta": 9
+  },
+  {
+   "name": "OpenAI",
+   "kind": "org",
+   "n": 10,
+   "delta": 2
+  },
+  {
+   "name": "경기도교육청",
+   "kind": "edu_org",
+   "n": 9,
+   "delta": 1
+  },
+  {
+   "name": "Anthropic",
+   "kind": "org",
+   "n": 7,
+   "delta": 1
+  },
+  {
+   "name": "교사 연수",
+   "kind": "issue",
+   "n": 5,
+   "delta": 5
+  },
+  {
+   "name": "xAI",
+   "kind": "org",
+   "n": 5,
+   "delta": 4
+  },
+  {
+   "name": "충남교육청",
+   "kind": "edu_org",
+   "n": 4,
+   "delta": 0
+  },
+  {
+   "name": "교육부",
+   "kind": "edu_org",
+   "n": 4,
+   "delta": -3
+  },
+  {
+   "name": "생성형 AI",
+   "kind": "tech",
+   "n": 4,
+   "delta": 2
+  },
+  {
+   "name": "오픈소스",
+   "kind": "tech",
+   "n": 4,
+   "delta": 3
+  }
+ ],
+ "rising": [
+  {
+   "name": "에이전트",
+   "kind": "tech",
+   "n": 10,
+   "delta": 9
+  },
+  {
+   "name": "교사 연수",
+   "kind": "issue",
+   "n": 5,
+   "delta": 5
+  },
+  {
+   "name": "xAI",
+   "kind": "org",
+   "n": 5,
+   "delta": 4
+  },
+  {
+   "name": "대전시교육청",
+   "kind": "edu_org",
+   "n": 4,
+   "delta": 4
+  },
+  {
+   "name": "로봇·휴머노이드",
+   "kind": "tech",
+   "n": 4,
+   "delta": 4
+  },
+  {
+   "name": "ChatGPT",
+   "kind": "model",
+   "n": 12,
+   "delta": 3
+  }
+ ],
+ "topic_share": {
+  "edu": [
+   {
+    "id": "policy",
+    "label": "정책·행정",
+    "n": 32,
+    "pct": 47,
+    "delta": 18
+   },
+   {
+    "id": "ai_digital",
+    "label": "AI·디지털교육",
+    "n": 22,
+    "pct": 32,
+    "delta": -12
+   },
+   {
+    "id": "classroom",
+    "label": "수업·교육과정",
+    "n": 6,
+    "pct": 9,
+    "delta": 1
+   },
+   {
+    "id": "higher_ed",
+    "label": "대학·입시·평생",
+    "n": 3,
+    "pct": 4,
+    "delta": -5
+   },
+   {
+    "id": "student_care",
+    "label": "학생·돌봄·안전",
+    "n": 3,
+    "pct": 4,
+    "delta": -2
+   },
+   {
+    "id": "teacher",
+    "label": "교사·교권",
+    "n": 2,
+    "pct": 3,
+    "delta": 0
+   }
+  ],
+  "paper": [
+   {
+    "id": "teacher_pd",
+    "label": "교사 전문성",
+    "n": 7,
+    "pct": 28,
+    "delta": 18
+   },
+   {
+    "id": "genai_tutor",
+    "label": "생성형 AI·튜터",
+    "n": 5,
+    "pct": 20,
+    "delta": 20
+   },
+   {
+    "id": "design_curric",
+    "label": "교수설계·교육과정",
+    "n": 4,
+    "pct": 16,
+    "delta": -24
+   },
+   {
+    "id": "personalized",
+    "label": "개인화·학습분석",
+    "n": 4,
+    "pct": 16,
+    "delta": -24
+   },
+   {
+    "id": "literacy_ethics",
+    "label": "AI 리터러시·윤리",
+    "n": 2,
+    "pct": 8,
+    "delta": 8
+   },
+   {
+    "id": "inclusion_sel",
+    "label": "포용·정서·웰빙",
+    "n": 1,
+    "pct": 4,
+    "delta": 4
+   },
+   {
+    "id": "learning_sci",
+    "label": "학습과학·인지",
+    "n": 1,
+    "pct": 4,
+    "delta": 4
+   },
+   {
+    "id": "stem_ct",
+    "label": "컴퓨팅·STEM",
+    "n": 1,
+    "pct": 4,
+    "delta": 4
+   }
+  ],
+  "tech": [
+   {
+    "id": "product",
+    "label": "제품·서비스",
+    "n": 11,
+    "pct": 22,
+    "delta": 2
+   },
+   {
+    "id": "model",
+    "label": "모델·연구",
+    "n": 10,
+    "pct": 20,
+    "delta": 5
+   },
+   {
+    "id": "agent_dev",
+    "label": "에이전트·개발도구",
+    "n": 9,
+    "pct": 18,
+    "delta": 8
+   },
+   {
+    "id": "industry",
+    "label": "산업·투자·인프라",
+    "n": 9,
+    "pct": 18,
+    "delta": -7
+   },
+   {
+    "id": "policy_safety",
+    "label": "정책·윤리·안전",
+    "n": 6,
+    "pct": 12,
+    "delta": -8
+   },
+   {
+    "id": "edu_ai",
+    "label": "교육 AI",
+    "n": 3,
+    "pct": 6,
+    "delta": -4
+   },
+   {
+    "id": "usecase",
+    "label": "활용·사례",
+    "n": 2,
+    "pct": 4,
+    "delta": 4
+   }
+  ]
+ },
+ "daily": [
+  {
+   "d": "2026-03-09",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-03-10",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-03-11",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-03-12",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-03-13",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-03-14",
+   "n": 10,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-03-15",
+   "n": 10,
+   "head": "",
+   "src": ""
+  }
+ ],
+ "picks": {
+  "edu": [
+   {
+    "d": "2026-03-12",
+    "n": 5,
+    "t": "박효진 경기교육감 예비후보 ”AI 주도하는 학생 역량 강화“",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yX2VCaUNVaTFZNzJ3aUEwdkV6akVXY1kwdEUySEVFTDk5SlRfMjEyQWdzaVhfV1hsZ1Uxd3NqNjVTT2FMVkNfci1OTUJLcHNaM0RucjgtRXFDX1p5dllkUW5aRUJJQ0k?oc=5",
+    "src": "교육플러스"
+   },
+   {
+    "d": "2026-03-09",
+    "n": 4,
+    "t": "이명수 출마 예고에 충남교육감 선거판 '술렁'",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rMEN3dXlUS29XcmFfczNnNTYzdWpheEtfakdkR3pfUFRUamgyNjJjel9rTEpBSEhWU20tdWFvdFpoc3QxejdveHBxVGV5TEt0cUttWEFpRVJreURaZ1k4Uk1VVHBWMjBNWTZxUXp2dUktZw?oc=5",
+    "src": "굿모닝충청"
+   },
+   {
+    "d": "2026-03-15",
+    "n": 2,
+    "t": "[홍산로-오피니언] 오준영 전북교총 회장, 전북교육감선거 예비후보자 토론회 총평",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5REYxVFM3bDRWdWxKWW5yRERWUUhSa2NraEpVV19vTGdrR0NzNWtMVHFoZXluVEgxUGZPTzlyS2tRNHUzb3ZWZU1CMS1hREp5TERuT2lNMHI5Z1ZJWE1N?oc=5",
+    "src": "전북미래교육신문"
+   }
+  ],
+  "paper": [
+   {
+    "d": "2026-03-09",
+    "n": 2,
+    "t": "From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents",
+    "url": "http://arxiv.org/abs/2409.03512v1",
+    "src": ""
+   },
+   {
+    "d": "2026-03-13",
+    "n": 3,
+    "t": "The Importance of Autonomous, Self-Regulated Learning in Primary Initial Teacher Training",
+    "url": "https://www.semanticscholar.org/paper/3f3c66d1e3f3b290f50eacb3deb906e784514509",
+    "src": "semantic_scholar"
+   },
+   {
+    "d": "2026-03-10",
+    "n": 5,
+    "t": "Knowledge-Based Design Requirements for Generative Social Robots in Higher Education",
+    "url": "http://arxiv.org/abs/2602.12873v3",
+    "src": ""
+   }
+  ],
+  "tech": [
+   {
+    "d": "2026-03-09",
+    "n": 6,
+    "t": "OpenAI offers open-source maintainers six months of free ChatGPT Pro and Codex access",
+    "url": "https://the-decoder.com/openai-offers-open-source-maintainers-six-months-of-free-chatgpt-pro-and-codex-access/",
+    "src": "The Decoder"
+   },
+   {
+    "d": "2026-03-09",
+    "n": 2,
+    "t": "오픈AI, 챗GPT '성인 모드' 출시 또 연기",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207679",
+    "src": "AI Times"
+   },
+   {
+    "d": "2026-03-09",
+    "n": 1,
+    "t": "오픈AI, 코딩 에이전트 관리 프레임워크 ‘심포니’ 공개…“개발자는 관리만”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207683",
+    "src": "AI Times"
+   }
+  ]
+ },
+ "generated_at": "2026-11-02T13:16:18+09:00"
+}

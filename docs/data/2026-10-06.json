@@ -10,12 +10,13 @@
     "source": "한국대학신문",
     "published": "2026-10-05",
     "keyword": "",
-    "topic": "classroom",
+    "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
     "summary": "AI를 통한 쉬운 지식 획득은 인지적 부채를 유발하지만, 학습자 주도로 AI를 활용하면 뇌 활성도를 높일 수 있습니다.",
     "implication": "학습자가 먼저 스스로 생각하고 과제를 수행한 후 AI를 활용하도록 유도하여 깊이 있는 학습을 촉진할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-10-05"
    },
    {
     "n": 2,
@@ -268,7 +269,8 @@
     "kind": null,
     "entities": [
      "ChatGPT",
-     "OpenAI"
+     "OpenAI",
+     "LLM"
     ],
     "summary": "오픈AI의 가상 착용 도입은 LLM이 정보 제공을 넘어 직접적인 커머스 플랫폼으로 진화하며, AI 기술의 산업 활용 범위와 수익 모델 확장을 가속화할 것입니다.",
     "implication": "",
@@ -321,7 +323,8 @@
     ],
     "summary": "OpenAI를 통한 자본 시장 전문성 강화는 AI가 복잡한 산업 도메인 전문가의 역량을 증폭시키는 핵심 도구임을 보여줍니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-10-03"
    },
    {
     "n": 6,
@@ -335,7 +338,8 @@
     "entities": [
      "Anthropic",
      "OpenAI",
-     "Google"
+     "Google",
+     "Meta"
     ],
     "summary": "NYC 시의회의 주요 AI 기업 선서 요구는 AI 산업에 대한 정부 감독 강화와 규제 도입의 신호탄이 될 것입니다.",
     "implication": "",
@@ -367,7 +371,8 @@
     "entities": [],
     "summary": "Albertsons의 내부 주도 유통 혁신은 AI 기반 운영 최적화 솔루션 수요를 증대시키며 AI 기술 산업 생태계 성장을 촉진할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-10-03"
    },
    {
     "n": 9,

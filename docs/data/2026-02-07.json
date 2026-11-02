@@ -54,14 +54,15 @@
     "source": "구글 뉴스",
     "published": "2026-02-05",
     "keyword": "",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "서울시교육청"
     ],
     "summary": "서울시교육청과 서울시립대의 협력은 고교생들에게 실질적인 AI 교육 기회를 제공하여 미래 사회에 필요한 핵심 역량 함양에 기여할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-02-06"
    },
    {
     "n": 5,

@@ -89,7 +89,7 @@
     "source": "MSN",
     "published": "2026-02-14",
     "keyword": "디지털교육",
-    "topic": "teacher",
+    "topic": "higher_ed",
     "kind": null,
     "entities": [
      "교육부"
@@ -105,7 +105,7 @@
     "source": "한국강사신문",
     "published": "2026-02-14",
     "keyword": "에듀테크",
-    "topic": "teacher",
+    "topic": "higher_ed",
     "kind": null,
     "entities": [
      "서울시교육청",

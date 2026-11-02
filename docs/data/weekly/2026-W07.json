@@ -1,0 +1,398 @@
+{
+ "key": "2026-W07",
+ "label": "2026년 2월 9일 ~ 15일",
+ "dates": [
+  "2026-02-09",
+  "2026-02-10",
+  "2026-02-11",
+  "2026-02-12",
+  "2026-02-13",
+  "2026-02-14",
+  "2026-02-15"
+ ],
+ "days_present": 7,
+ "counts": {
+  "edu": 68,
+  "paper": 19,
+  "tech": 39
+ },
+ "total": 126,
+ "prev_total": 112,
+ "top_entities": [
+  {
+   "name": "경기도교육청",
+   "kind": "edu_org",
+   "n": 13,
+   "delta": 7
+  },
+  {
+   "name": "개인화 학습",
+   "kind": "tech",
+   "n": 12,
+   "delta": 1
+  },
+  {
+   "name": "ChatGPT",
+   "kind": "model",
+   "n": 12,
+   "delta": -2
+  },
+  {
+   "name": "OpenAI",
+   "kind": "org",
+   "n": 9,
+   "delta": 0
+  },
+  {
+   "name": "서울시교육청",
+   "kind": "edu_org",
+   "n": 8,
+   "delta": 5
+  },
+  {
+   "name": "생성형 AI",
+   "kind": "tech",
+   "n": 8,
+   "delta": 2
+  },
+  {
+   "name": "인천시교육청",
+   "kind": "edu_org",
+   "n": 6,
+   "delta": 4
+  },
+  {
+   "name": "교육감 선거",
+   "kind": "issue",
+   "n": 6,
+   "delta": -4
+  },
+  {
+   "name": "교육부",
+   "kind": "edu_org",
+   "n": 5,
+   "delta": -3
+  },
+  {
+   "name": "교사 연수",
+   "kind": "issue",
+   "n": 5,
+   "delta": 4
+  },
+  {
+   "name": "에이전트",
+   "kind": "tech",
+   "n": 4,
+   "delta": -1
+  },
+  {
+   "name": "Anthropic",
+   "kind": "org",
+   "n": 4,
+   "delta": -1
+  }
+ ],
+ "rising": [
+  {
+   "name": "경기도교육청",
+   "kind": "edu_org",
+   "n": 13,
+   "delta": 7
+  },
+  {
+   "name": "서울시교육청",
+   "kind": "edu_org",
+   "n": 8,
+   "delta": 5
+  },
+  {
+   "name": "인천시교육청",
+   "kind": "edu_org",
+   "n": 6,
+   "delta": 4
+  },
+  {
+   "name": "교사 연수",
+   "kind": "issue",
+   "n": 5,
+   "delta": 4
+  },
+  {
+   "name": "전북교육청",
+   "kind": "edu_org",
+   "n": 3,
+   "delta": 3
+  }
+ ],
+ "topic_share": {
+  "edu": [
+   {
+    "id": "ai_digital",
+    "label": "AI·디지털교육",
+    "n": 23,
+    "pct": 34,
+    "delta": -3
+   },
+   {
+    "id": "policy",
+    "label": "정책·행정",
+    "n": 19,
+    "pct": 28,
+    "delta": -12
+   },
+   {
+    "id": "classroom",
+    "label": "수업·교육과정",
+    "n": 11,
+    "pct": 16,
+    "delta": 7
+   },
+   {
+    "id": "teacher",
+    "label": "교사·교권",
+    "n": 8,
+    "pct": 12,
+    "delta": 8
+   },
+   {
+    "id": "higher_ed",
+    "label": "대학·입시·평생",
+    "n": 4,
+    "pct": 6,
+    "delta": -3
+   },
+   {
+    "id": "global",
+    "label": "해외·연구",
+    "n": 2,
+    "pct": 3,
+    "delta": 2
+   },
+   {
+    "id": "student_care",
+    "label": "학생·돌봄·안전",
+    "n": 1,
+    "pct": 1,
+    "delta": 1
+   }
+  ],
+  "paper": [
+   {
+    "id": "teacher_pd",
+    "label": "교사 전문성",
+    "n": 4,
+    "pct": 21,
+    "delta": 8
+   },
+   {
+    "id": "genai_tutor",
+    "label": "생성형 AI·튜터",
+    "n": 4,
+    "pct": 21,
+    "delta": -6
+   },
+   {
+    "id": "personalized",
+    "label": "개인화·학습분석",
+    "n": 4,
+    "pct": 21,
+    "delta": -6
+   },
+   {
+    "id": "literacy_ethics",
+    "label": "AI 리터러시·윤리",
+    "n": 4,
+    "pct": 21,
+    "delta": 14
+   },
+   {
+    "id": "language",
+    "label": "언어·문해",
+    "n": 1,
+    "pct": 5,
+    "delta": 5
+   },
+   {
+    "id": "learning_sci",
+    "label": "학습과학·인지",
+    "n": 1,
+    "pct": 5,
+    "delta": -2
+   },
+   {
+    "id": "design_curric",
+    "label": "교수설계·교육과정",
+    "n": 1,
+    "pct": 5,
+    "delta": -8
+   }
+  ],
+  "tech": [
+   {
+    "id": "model",
+    "label": "모델·연구",
+    "n": 18,
+    "pct": 46,
+    "delta": 5
+   },
+   {
+    "id": "product",
+    "label": "제품·서비스",
+    "n": 8,
+    "pct": 21,
+    "delta": 0
+   },
+   {
+    "id": "industry",
+    "label": "산업·투자·인프라",
+    "n": 7,
+    "pct": 18,
+    "delta": 1
+   },
+   {
+    "id": "agent_dev",
+    "label": "에이전트·개발도구",
+    "n": 2,
+    "pct": 5,
+    "delta": -2
+   },
+   {
+    "id": "policy_safety",
+    "label": "정책·윤리·안전",
+    "n": 2,
+    "pct": 5,
+    "delta": 2
+   },
+   {
+    "id": "usecase",
+    "label": "활용·사례",
+    "n": 1,
+    "pct": 3,
+    "delta": 3
+   },
+   {
+    "id": "edu_ai",
+    "label": "교육 AI",
+    "n": 1,
+    "pct": 3,
+    "delta": -7
+   }
+  ]
+ },
+ "daily": [
+  {
+   "d": "2026-02-09",
+   "n": 25,
+   "head": "AI 시대에 발맞춰 교육은 기술과 결합하여 개인 맞춤형 학습을 강화하고, 민주시민 교육, 국제 교류, 탄소 중립 실천 등 미래 사회를 위한 역량 함양과 책임감 있는 시민 양성에 집중하며 발전하고 있습니다.",
+   "src": "note"
+  },
+  {
+   "d": "2026-02-10",
+   "n": 25,
+   "head": "AI 융합 교육 확대, 교원 양성 혁신 노력, 국제 교류 활성화, 체험 중심 교육 강화 등 미래 교육을 향한 다각적인 변화와 혁신이 교육 현장에서 활발하게 추진되고 있습니다.",
+   "src": "note"
+  },
+  {
+   "d": "2026-02-11",
+   "n": 10,
+   "head": "AI, 뇌과학, 디지털 교육, 인문학 융합, 혁신학교 등 다양한 시도를 통해 미래 교육으로의 혁신을 가속화하며 학생들의 잠재력을 극대화하는 긍정적인 변화가 기대된다.",
+   "src": "note"
+  },
+  {
+   "d": "2026-02-12",
+   "n": 25,
+   "head": "AI 기술을 활용한 교육 혁신과 디지털 역량 강화가 교육 현장의 주요 트렌드로 자리 잡고 있으며, 뇌과학 기반 교육, AI 융합 교육 센터 확대, 에이전틱 AI 도입 논의 등 미래 교육을 위한 다각적인 시도가 활발하게 이루어지고 있습니다.",
+   "src": "note"
+  },
+  {
+   "d": "2026-02-13",
+   "n": 25,
+   "head": "AI 기술 융합, 디지털 교육 확산, 교원 역량 강화, 교육 재정 안정 확보 등 교육 혁신을 위한 다각적인 노력이 활발하게 이루어지고 있으며, 미래 교육으로의 전환을 가속화하고 있습니다.",
+   "src": "note"
+  },
+  {
+   "d": "2026-02-14",
+   "n": 10,
+   "head": "AI 교육 강화, 교원 역량 강화, 교육 자치 확대, 독서 장려 등 다양한 노력을 통해 교육 혁신을 가속화하며 미래 교육으로 나아가는 긍정적인 움직임이 활발하게 나타나고 있습니다.",
+   "src": "note"
+  },
+  {
+   "d": "2026-02-15",
+   "n": 10,
+   "head": "AI 기술 도입과 디지털 역량 강화, 교사 연수 확대 등을 통해 교육 현장이 미래를 향해 빠르게 변화하고 있으며, 개인 맞춤형 교육과 교사의 전문성 향상에 집중하는 긍정적인 움직임이 활발하다.",
+   "src": "note"
+  }
+ ],
+ "picks": {
+  "edu": [
+   {
+    "d": "2026-02-11",
+    "n": 7,
+    "t": "경기도교육청, 596개교에 디지털튜터 본격 운영",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95ZWpHQk40dEEtYXNoT0ItckNGcDRzWHR6Zi1jbmkyQThORUppbnM5d3dpeV9UWUhhZDcxZkE1TUFhOGJ5eHE4RzJULUNOQ2dwOFFxLUZvMFhwd3BaOE45RVo3cDhOa29vQ2c?oc=5",
+    "src": "비즈월드"
+   },
+   {
+    "d": "2026-02-13",
+    "n": 9,
+    "t": "안민석 경기교육감 예비후보, “AI 로봇 동행은 퍼포먼스 아닌 교육 전환 선언”",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10aGkxRjU1RlVHeUR6cE80VjVBc0tCUVJwWXo3cWpqRVRYcENiLWpYMnE4OWFGZFJLRG9YdnRPc2tYNEhnWHJmX3AxcTBkZXRZbkwxTGMzU2FpaFE?oc=5",
+    "src": "교육연합신문"
+   },
+   {
+    "d": "2026-02-11",
+    "n": 4,
+    "t": "서울교육청, 첨단 뇌과학 체험하는 교육 환경 조성한다",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1zbUVmd05yYXhLUUQzWGd5bU5NYUVCaWExT1lHQXR0algzcnJyUk9zRzhlTlpHSFBZM0s3Yk5EajFlcU5XVTZRNlF1ZmFVclUtOXdwT2piNWJqSEVxdnRGRFBVbnJiM29kUWw2dnM1VUVnMnVXMEpwTtIBeEFVX3lxTE1zbUVmd05yYXhLUUQzWGd5bU5NYUVCaWExT1lHQXR0algzcnJyUk9zRzhlTlpHSFBZM0s3Yk5EajFlcU5XVTZRNlF1ZmFVclUtOXdwT2piNWJqSEVxdnRGRFBVbnJiM29kUWw2dnM1VUVnMnVXMEpwTg?oc=5",
+    "src": "뉴시스"
+   }
+  ],
+  "paper": [
+   {
+    "d": "2026-02-12",
+    "n": 1,
+    "t": "Ethical and regulatory challenges of Generative AI in education: a systematic review",
+    "url": "https://www.semanticscholar.org/paper/4f612a9fc54b8c03e2820a99d05a9e4e923f281a",
+    "src": "semantic_scholar"
+   },
+   {
+    "d": "2026-02-10",
+    "n": 3,
+    "t": "Education in the Era of Generative Artificial Intelligence (AI): Understanding the Potential Benefits of ChatGPT in Promoting Teaching and Learning",
+    "url": "https://www.semanticscholar.org/paper/7b6a8c6d44e0f77bf930484e438d77b7465a69fb",
+    "src": "semantic_scholar"
+   },
+   {
+    "d": "2026-02-10",
+    "n": 1,
+    "t": "Harnessing AI for Education 4.0: Drivers of Personalized Learning",
+    "url": "https://www.semanticscholar.org/paper/cd985d179529293509a81ab2d853806d4c51d37a",
+    "src": "semantic_scholar"
+   }
+  ],
+  "tech": [
+   {
+    "d": "2026-02-12",
+    "n": 2,
+    "t": "“클링AI, 한달 만에 국내 이용자 42만명 증가…챗GPT에 맞먹는 수준”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=206761",
+    "src": "AI Times"
+   },
+   {
+    "d": "2026-02-10",
+    "n": 2,
+    "t": "OpenAI says ChatGPT is growing again, plans new model this week",
+    "url": "https://the-decoder.com/openai-says-chatgpt-is-growing-again-plans-new-model-this-week/",
+    "src": "The Decoder"
+   },
+   {
+    "d": "2026-02-12",
+    "n": 4,
+    "t": "OpenAI says ChatGPT update improves response style and quality",
+    "url": "https://the-decoder.com/openai-says-chatgpt-update-improves-response-style-and-quality/",
+    "src": "The Decoder"
+   }
+  ]
+ },
+ "generated_at": "2026-11-02T13:16:18+09:00"
+}

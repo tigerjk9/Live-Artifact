@@ -355,7 +355,7 @@
     "source": "한국경제",
     "published": "2026-04-15",
     "keyword": "오픈AI",
-    "topic": "industry",
+    "topic": "model",
     "kind": null,
     "entities": [
      "Claude",
@@ -377,6 +377,7 @@
     "topic": "product",
     "kind": null,
     "entities": [
+     "OpenAI",
      "ChatGPT",
      "개인화 학습"
     ],

@@ -13,6 +13,7 @@
     "topic": "higher_ed",
     "kind": "opinion",
     "entities": [
+     "LG",
      "교육부",
      "사교육"
     ],
@@ -27,7 +28,7 @@
     "source": "한국AI부동산신문",
     "published": "2026-03-13",
     "keyword": "인공지능교육",
-    "topic": "student_care",
+    "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
     "summary": "",
@@ -55,7 +56,7 @@
     "source": "한국대학신문",
     "published": "2026-03-13",
     "keyword": "",
-    "topic": "higher_ed",
+    "topic": "policy",
     "kind": "opinion",
     "entities": [],
     "summary": "요즘 대학가에서 가장 자주 들리는 말은 ‘대학생태계의 위기’다. 이재명 정부의 대표적 고등교육 정책인 ‘서울대 10개 만들기’가 본격 추진되면서 대학사회 곳곳에서 긴장감이 높아지고 있다. 지역거점국립대를 육성해 수도권 집중을 완화하겠다는 정책 취지에는 일정한 공감대가 형성돼 있지만, 정책이 실제로 작동하는 방식에 대해서는 우려의 목소리도 적지 않다.서울대",
@@ -127,7 +128,7 @@
     "source": "코리아플러스",
     "published": "2026-03-13",
     "keyword": "AI교육",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "세종시교육청"

@@ -27,7 +27,7 @@
     "source": "홍주포커스",
     "published": "2026-07-24",
     "keyword": "AI교육",
-    "topic": "teacher",
+    "topic": "policy",
     "kind": null,
     "entities": [],
     "summary": "AI 교육 확대 및 해외연수 운영 개선 등 교육정책 보완이 주문되었습니다.",
@@ -87,7 +87,7 @@
     "source": "브릿지경제",
     "published": "2026-07-24",
     "keyword": "AI교육",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "국회"
@@ -273,7 +273,7 @@
     "source": "AI Times",
     "published": "2026-07-24",
     "keyword": "",
-    "topic": "product",
+    "topic": "model",
     "kind": null,
     "entities": [
      "OpenAI",

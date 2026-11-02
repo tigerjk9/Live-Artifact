@@ -354,7 +354,8 @@
     ],
     "summary": "AI 서비스의 성공적인 대규모 확산은 클라우드 스토리지 등 인프라 기술 시장의 폭발적 성장을 견인할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-09-19"
    },
    {
     "n": 8,
@@ -395,8 +396,8 @@
     "kind": null,
     "entities": [
      "LG",
-     "NVIDIA",
-     "Microsoft"
+     "Microsoft",
+     "NVIDIA"
     ],
     "summary": "LG의 MS AI 협력 강화 및 엔비디아 규격 냉각장치 승인은 AI 산업 생태계 전반의 수직적 통합과 인프라 고도화를 가속화할 것입니다.",
     "implication": "",

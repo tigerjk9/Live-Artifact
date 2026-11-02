@@ -58,7 +58,7 @@
     "source": "(노원뉴스) 나우온",
     "published": "2026-05-22",
     "keyword": "AI교육",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "생성형 AI"
@@ -319,7 +319,8 @@
     ],
     "summary": "구글의 llms.txt 검사는 AI 에이전트의 웹 접근 통제 표준을 제시하여 웹 콘텐츠 저작권 및 AI 학습 데이터 활용에 대한 새로운 논의를 촉발할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-05-22"
    },
    {
     "n": 5,
@@ -353,7 +354,8 @@
     ],
     "summary": "OpenAI와 몰타의 협력은 ChatGPT Plus 접근성 확대를 통해 AI 기술의 공공 서비스 적용 가능성을 보여주고, 다른 국가들의 유사한 협력을 촉진할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-05-22"
    },
    {
     "n": 7,

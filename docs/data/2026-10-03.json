@@ -302,7 +302,7 @@
     "source": "AI Times",
     "published": "2026-10-03",
     "keyword": "",
-    "topic": "product",
+    "topic": "model",
     "kind": null,
     "entities": [
      "OpenAI",
@@ -341,7 +341,8 @@
     "entities": [],
     "summary": "알버트슨의 내부 주도 소매 혁신은 AI가 기업의 핵심 운영에 깊이 통합되어 산업 전반의 디지털 전환을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-10-02"
    },
    {
     "n": 7,

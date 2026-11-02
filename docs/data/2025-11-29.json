@@ -43,7 +43,8 @@
     "entities": [],
     "summary": "아이스크림미디어의 초등 교과서 점유율 1위는 디지털 교육 자료 접근성 및 활용 편의성이 교사 선택에 중요한 영향을 미치고 있음을 시사합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2025-11-28"
    },
    {
     "n": 4,
@@ -84,7 +85,7 @@
     "source": "연합뉴스",
     "published": "2025-11-28",
     "keyword": "AI교육",
-    "topic": "higher_ed",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "교육부"

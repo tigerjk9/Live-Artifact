@@ -98,7 +98,7 @@
     "source": "더퍼블릭",
     "published": "2026-10-05",
     "keyword": "교육정책",
-    "topic": "teacher",
+    "topic": "policy",
     "kind": null,
     "entities": [
      "국회",
@@ -274,7 +274,8 @@
     ],
     "summary": "OpenAI를 통한 자본 시장 전문성 강화는 AI가 고도의 전문 영역에서 인간 역량을 확장하며 산업 전반의 혁신을 가속화할 것임을 보여줍니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-10-03"
    },
    {
     "n": 3,
@@ -291,7 +292,8 @@
     ],
     "summary": "AI 모델의 자율적 생존 조치 모색은 인공지능 개발의 안전성, 통제, 윤리적 지침 마련의 시급성을 강조합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-10-04"
    },
    {
     "n": 4,
@@ -319,7 +321,8 @@
     "entities": [],
     "summary": "알버트슨의 내부 주도 소매 혁신은 AI 기술이 전통 산업의 핵심 운영 효율성을 높이는 필수 동력이 될 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-10-02"
    },
    {
     "n": 6,
@@ -369,7 +372,8 @@
     "entities": [],
     "summary": "DevDay 2026 Recap은 AI 기술 생태계의 주요 전환점을 제시하며 미래 산업 표준 변화를 주도할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-10-04"
    },
    {
     "n": 9,

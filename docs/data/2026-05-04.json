@@ -114,7 +114,7 @@
     "source": "경남도민신문",
     "published": "2026-05-03",
     "keyword": "AI디지털도구",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "경남교육청"
@@ -289,7 +289,8 @@
     ],
     "summary": "OpenAI의 코덱스 CLI 자율 목표 기능 추가는 개발 자동화 및 AI 에이전트 진화 가속화에 기여할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-05-03"
    },
    {
     "n": 4,
@@ -303,7 +304,8 @@
     "entities": [],
     "summary": "금융 AI 성공은 단순 데이터 축적 넘어 인지 자동화 완성도에 달려 있으며, 이는 AI 기술 경쟁력 강화 및 금융 서비스 혁신을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-05-03"
    },
    {
     "n": 5,
@@ -320,7 +322,8 @@
     ],
     "summary": "OpenAI의 광고 기반 수익 모델 전환은 AI 서비스 경쟁 심화 속 사용자 데이터 활용 논쟁을 심화시키고 개인정보 보호 중요성을 부각할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-05-03"
    },
    {
     "n": 6,
@@ -336,7 +339,8 @@
     ],
     "summary": "OpenAI의 FedRAMP Moderate 인증 획득은 정부 기관의 AI 도입을 촉진하고, AI 기술의 공공 부문 확산에 기여할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-05-01"
    },
    {
     "n": 7,
@@ -369,7 +373,8 @@
     ],
     "summary": "OpenAI 모델의 AWS 도입은 AI 기술 대중화와 엔터프라이즈 시장 확장을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-05-01"
    },
    {
     "n": 9,

@@ -71,7 +71,8 @@
     "entities": [],
     "summary": "",
     "implication": "",
-    "ai": false
+    "ai": false,
+    "dup_of": "2026-04-06"
    },
    {
     "n": 6,
@@ -97,7 +98,7 @@
     "source": "lawissue.co.kr",
     "published": "2026-04-06",
     "keyword": "AI교육",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "인천시교육청",
@@ -114,7 +115,7 @@
     "source": "브릿지경제",
     "published": "2026-04-06",
     "keyword": "AI교육",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "인천시교육청"
@@ -409,7 +410,8 @@
     "entities": [],
     "summary": "AI 공정성 확보를 위해서는 알고리즘 자체보다 데이터 신뢰도 평가 프레임워크 구축이 더욱 중요하며, 이는 데이터 중심의 AI 발전 방향을 제시합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-04-06"
    }
   ]
  },

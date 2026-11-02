@@ -27,7 +27,8 @@
     "topic": "classroom",
     "kind": "opinion",
     "entities": [
-     "경기도교육청"
+     "경기도교육청",
+     "IB"
     ],
     "summary": "",
     "implication": "",
@@ -344,7 +345,7 @@
     "source": "애플경제",
     "published": "2026-06-09",
     "keyword": "GPT",
-    "topic": "product",
+    "topic": "model",
     "kind": null,
     "entities": [
      "생성형 AI",
@@ -369,7 +370,8 @@
     ],
     "summary": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announceme",
     "implication": "",
-    "ai": false
+    "ai": false,
+    "dup_of": "2026-06-08"
    },
    {
     "n": 8,

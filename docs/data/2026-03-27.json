@@ -99,7 +99,8 @@
     "entities": [],
     "summary": "",
     "implication": "",
-    "ai": false
+    "ai": false,
+    "dup_of": "2026-03-26"
    },
    {
     "n": 8,
@@ -339,7 +340,7 @@
     "source": "뉴데일리 경제",
     "published": "2026-03-26",
     "keyword": "GPT",
-    "topic": "product",
+    "topic": "model",
     "kind": null,
     "entities": [
      "ChatGPT",

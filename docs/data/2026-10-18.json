@@ -285,7 +285,7 @@
     "source": "AI Times",
     "published": "2026-10-18",
     "keyword": "",
-    "topic": "product",
+    "topic": "agent_dev",
     "kind": null,
     "entities": [
      "DeepSeek",
@@ -342,7 +342,8 @@
     ],
     "summary": "오픈AI와 같은 기반 AI 기술을 활용한 특정 산업(마케팅, 크리에이티브) 전문 AI 서비스의 확산이 가속화될 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-10-15"
    },
    {
     "n": 7,
@@ -358,7 +359,8 @@
     ],
     "summary": "AI가 단순 정보 제공을 넘어 실제 상업 서비스의 발견 및 거래를 위한 통합 플랫폼으로 진화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-10-15"
    },
    {
     "n": 8,

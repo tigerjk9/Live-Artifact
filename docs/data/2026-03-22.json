@@ -137,7 +137,7 @@
     "source": "gukjenews.com",
     "published": "2026-03-21",
     "keyword": "AI디지털교육",
-    "topic": "classroom",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "인천시교육청"
@@ -179,7 +179,8 @@
     "implication": "",
     "ai": true,
     "authors": "Lena Ivannova Ruiz-Rojas, Patricia Acosta-Vargas 외 1명",
-    "pdf": ""
+    "pdf": "",
+    "dup_of": "2026-03-20"
    },
    {
     "n": 2,

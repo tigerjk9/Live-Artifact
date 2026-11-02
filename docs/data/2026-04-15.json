@@ -41,7 +41,7 @@
     "source": "더쎈뉴스",
     "published": "2026-04-14",
     "keyword": "인공지능교육",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "Microsoft"
@@ -92,7 +92,10 @@
     "keyword": "",
     "topic": "classroom",
     "kind": null,
-    "entities": [],
+    "entities": [
+     "Apple",
+     "사교육"
+    ],
     "summary": "고등 수학 전문 교육기업 씨에스엠17이 2022 개정 교육과정에 맞춘 고난도 유형서 ‘시험직전R 미적분1’을 새롭게 선보였다.이번 교재는 ‘시험직전R 공통수학1’, ‘시험직전R 공통수학2’, ‘시험직전R 대수’에 이은 시리즈의 네 번째 도서로, 대치동 학원가에서 상위권 학생들에게 전수되는 풀이 전략과 고난도 필수 유형을 체계적으",
     "implication": "",
     "ai": true
@@ -109,7 +112,8 @@
     "entities": [],
     "summary": "",
     "implication": "",
-    "ai": false
+    "ai": false,
+    "dup_of": "2026-04-14"
    },
    {
     "n": 8,
@@ -123,7 +127,8 @@
     "entities": [],
     "summary": "",
     "implication": "",
-    "ai": false
+    "ai": false,
+    "dup_of": "2026-04-14"
    },
    {
     "n": 9,

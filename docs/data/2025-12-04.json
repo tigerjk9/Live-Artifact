@@ -40,7 +40,7 @@
     "source": "경상일보",
     "published": "2025-12-03",
     "keyword": "AI교육",
-    "topic": "higher_ed",
+    "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
     "summary": "AI 시대에는 폴리텍대학이 잠재력 발견 중심 교육을 통해 개인의 역량 강화와 사회 수요에 부응하는 핵심 역할을 수행해야 합니다.",
@@ -87,7 +87,8 @@
     "entities": [],
     "summary": "뇌과학과 예술의 융합은 창의적 사고력 증진 및 융합 인재 양성에 기여할 수 있다는 점에서 교육적 가능성이 큽니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2025-12-03"
    },
    {
     "n": 7,
@@ -129,7 +130,7 @@
     "source": "구글 뉴스",
     "published": "2025-12-03",
     "keyword": "",
-    "topic": "classroom",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [],
     "summary": "이권재 오산시의 AI 교육 강화는 미래 교육의 방향성을 제시하며, 지역 사회 기반의 혁신적인 교육 모델 구축 가능성을 시사합니다.",

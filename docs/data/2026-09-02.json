@@ -93,7 +93,8 @@
     "entities": [],
     "summary": "교사들의 수업혁신 노력이 실제 교실의 변화로 이어진다는 내용입니다.",
     "implication": "새로운 수업 방식을 시도하면 학생들의 참여와 교실의 긍정적 변화를 이끌 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-09-01"
    },
    {
     "n": 7,
@@ -257,7 +258,7 @@
     "source": "AI Times",
     "published": "2026-09-01",
     "keyword": "",
-    "topic": "product",
+    "topic": "model",
     "kind": "opinion",
     "entities": [
      "OpenAI",
@@ -278,6 +279,7 @@
     "kind": null,
     "entities": [
      "ChatGPT",
+     "xAI",
      "생성형 AI",
      "Anthropic"
     ],
@@ -347,7 +349,8 @@
     ],
     "summary": "OpenAI의 매출 성장은 AI 모델의 상업적 성공 가능성을 입증하며, 기업 AI 시장의 본격적인 확대를 예고합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-09-01"
    },
    {
     "n": 7,

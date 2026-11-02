@@ -229,7 +229,7 @@
     "source": "openalex",
     "published": "2026-05-07",
     "keyword": "",
-    "topic": "stem_ct",
+    "topic": "genai_tutor",
     "kind": null,
     "entities": [
      "코딩 AI",
@@ -326,7 +326,8 @@
     ],
     "summary": "xAI의 커서 인수는 인력 및 기술 흡수를 통해 AI 경쟁력 강화에 집중하고, 스페이스X와의 시너지 효과를 창출하여 AI 기술 혁신을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-05-09"
    },
    {
     "n": 6,
@@ -357,7 +358,8 @@
     "entities": [],
     "summary": "AI 조기 교육에 대한 긍정적 묘사는 미래 AI 인재 확보 경쟁 심화와 교육 시장 확대를 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-05-09"
    },
    {
     "n": 8,
@@ -373,7 +375,8 @@
     ],
     "summary": "ChatGPT 광고 도입 실험은 AI 챗봇 수익화 모델을 구체화하고, 검색 광고 시장 경쟁 심화를 야기할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-05-08"
    },
    {
     "n": 9,

@@ -26,12 +26,13 @@
     "source": "더코리아",
     "published": "2026-06-06",
     "keyword": "교육정책",
-    "topic": "classroom",
+    "topic": "policy",
     "kind": null,
     "entities": [],
     "summary": "태백교육은 학부모와 함께 현장 중심 미래 교육정책 토론회를 개최했습니다.",
     "implication": "학부모와 함께 현장 중심 활동을 구성하여 학생들의 미래 역량을 함양할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-06-06"
    },
    {
     "n": 3,
@@ -369,7 +370,8 @@
     ],
     "summary": "전통 금융 대기업 MUFG의 AI 네이티브 전환은 AI가 전 산업의 핵심 경쟁력으로 자리 잡는 변혁을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-06-06"
    },
    {
     "n": 8,

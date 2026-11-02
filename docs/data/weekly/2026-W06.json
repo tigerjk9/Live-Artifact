@@ -1,0 +1,390 @@
+{
+ "key": "2026-W06",
+ "label": "2026년 2월 2일 ~ 8일",
+ "dates": [
+  "2026-02-02",
+  "2026-02-03",
+  "2026-02-04",
+  "2026-02-05",
+  "2026-02-06",
+  "2026-02-07",
+  "2026-02-08"
+ ],
+ "days_present": 7,
+ "counts": {
+  "edu": 68,
+  "paper": 15,
+  "tech": 29
+ },
+ "total": 112,
+ "prev_total": 125,
+ "top_entities": [
+  {
+   "name": "ChatGPT",
+   "kind": "model",
+   "n": 14,
+   "delta": 4
+  },
+  {
+   "name": "개인화 학습",
+   "kind": "tech",
+   "n": 11,
+   "delta": -4
+  },
+  {
+   "name": "교육감 선거",
+   "kind": "issue",
+   "n": 10,
+   "delta": 9
+  },
+  {
+   "name": "OpenAI",
+   "kind": "org",
+   "n": 9,
+   "delta": -2
+  },
+  {
+   "name": "교육부",
+   "kind": "edu_org",
+   "n": 8,
+   "delta": 3
+  },
+  {
+   "name": "경기도교육청",
+   "kind": "edu_org",
+   "n": 6,
+   "delta": 1
+  },
+  {
+   "name": "생성형 AI",
+   "kind": "tech",
+   "n": 6,
+   "delta": 4
+  },
+  {
+   "name": "에이전트",
+   "kind": "tech",
+   "n": 5,
+   "delta": 3
+  },
+  {
+   "name": "벤치마크",
+   "kind": "tech",
+   "n": 5,
+   "delta": 5
+  },
+  {
+   "name": "Anthropic",
+   "kind": "org",
+   "n": 5,
+   "delta": 1
+  },
+  {
+   "name": "Google",
+   "kind": "org",
+   "n": 5,
+   "delta": -5
+  },
+  {
+   "name": "Claude",
+   "kind": "model",
+   "n": 4,
+   "delta": 2
+  }
+ ],
+ "rising": [
+  {
+   "name": "교육감 선거",
+   "kind": "issue",
+   "n": 10,
+   "delta": 9
+  },
+  {
+   "name": "벤치마크",
+   "kind": "tech",
+   "n": 5,
+   "delta": 5
+  },
+  {
+   "name": "ChatGPT",
+   "kind": "model",
+   "n": 14,
+   "delta": 4
+  },
+  {
+   "name": "생성형 AI",
+   "kind": "tech",
+   "n": 6,
+   "delta": 4
+  },
+  {
+   "name": "교육부",
+   "kind": "edu_org",
+   "n": 8,
+   "delta": 3
+  },
+  {
+   "name": "에이전트",
+   "kind": "tech",
+   "n": 5,
+   "delta": 3
+  }
+ ],
+ "topic_share": {
+  "edu": [
+   {
+    "id": "policy",
+    "label": "정책·행정",
+    "n": 27,
+    "pct": 40,
+    "delta": 11
+   },
+   {
+    "id": "ai_digital",
+    "label": "AI·디지털교육",
+    "n": 25,
+    "pct": 37,
+    "delta": 8
+   },
+   {
+    "id": "classroom",
+    "label": "수업·교육과정",
+    "n": 6,
+    "pct": 9,
+    "delta": -6
+   },
+   {
+    "id": "higher_ed",
+    "label": "대학·입시·평생",
+    "n": 6,
+    "pct": 9,
+    "delta": 5
+   },
+   {
+    "id": "teacher",
+    "label": "교사·교권",
+    "n": 3,
+    "pct": 4,
+    "delta": -9
+   },
+   {
+    "id": "global",
+    "label": "해외·연구",
+    "n": 1,
+    "pct": 1,
+    "delta": -3
+   }
+  ],
+  "paper": [
+   {
+    "id": "genai_tutor",
+    "label": "생성형 AI·튜터",
+    "n": 4,
+    "pct": 27,
+    "delta": 21
+   },
+   {
+    "id": "personalized",
+    "label": "개인화·학습분석",
+    "n": 4,
+    "pct": 27,
+    "delta": 5
+   },
+   {
+    "id": "design_curric",
+    "label": "교수설계·교육과정",
+    "n": 2,
+    "pct": 13,
+    "delta": -4
+   },
+   {
+    "id": "teacher_pd",
+    "label": "교사 전문성",
+    "n": 2,
+    "pct": 13,
+    "delta": -9
+   },
+   {
+    "id": "assessment",
+    "label": "평가·피드백",
+    "n": 1,
+    "pct": 7,
+    "delta": 7
+   },
+   {
+    "id": "literacy_ethics",
+    "label": "AI 리터러시·윤리",
+    "n": 1,
+    "pct": 7,
+    "delta": 1
+   },
+   {
+    "id": "learning_sci",
+    "label": "학습과학·인지",
+    "n": 1,
+    "pct": 7,
+    "delta": -4
+   }
+  ],
+  "tech": [
+   {
+    "id": "model",
+    "label": "모델·연구",
+    "n": 12,
+    "pct": 41,
+    "delta": 3
+   },
+   {
+    "id": "product",
+    "label": "제품·서비스",
+    "n": 6,
+    "pct": 21,
+    "delta": 11
+   },
+   {
+    "id": "industry",
+    "label": "산업·투자·인프라",
+    "n": 5,
+    "pct": 17,
+    "delta": -1
+   },
+   {
+    "id": "edu_ai",
+    "label": "교육 AI",
+    "n": 3,
+    "pct": 10,
+    "delta": 0
+   },
+   {
+    "id": "agent_dev",
+    "label": "에이전트·개발도구",
+    "n": 2,
+    "pct": 7,
+    "delta": -3
+   },
+   {
+    "id": "policy_safety",
+    "label": "정책·윤리·안전",
+    "n": 1,
+    "pct": 3,
+    "delta": -5
+   }
+  ]
+ },
+ "daily": [
+  {
+   "d": "2026-02-02",
+   "n": 10,
+   "head": "AI 시대에 발맞춰 교육 시스템 안전 강화, 맞춤형 진학 지도 확대, 원격 교육 역량 인정 촉구 등 미래 교육을 위한 다각적인 노력이 활발하게 이루어지고 있으며, 교육 정책 및 리더십 변화에 대한 논의도 활발하게 진행되고 있다.",
+   "src": "note"
+  },
+  {
+   "d": "2026-02-03",
+   "n": 10,
+   "head": "AI가 교육 현장의 현재이자 미래로 자리매김하며, 디지털 교육 확대와 더불어 인간적인 가치 창출을 지향하는 방향으로 나아가고 있다.",
+   "src": "note"
+  },
+  {
+   "d": "2026-02-04",
+   "n": 25,
+   "head": "AI 기술이 교육 현장에 빠르게 스며들면서, 디지털 인재 양성과 AI 역량 강화 교육이 미래 교육의 필수적인 요소로 자리 잡고 있으며, 교육 시스템 전반의 혁신을 가속화하고 있습니다.",
+   "src": "note"
+  },
+  {
+   "d": "2026-02-05",
+   "n": 25,
+   "head": "AI 리터러시 함양, 디지털 전환 체계 구축, 뇌과학 기반 학습 등 AI 시대를 맞아 교육 혁신과 디지털 역량 강화를 위한 다각적인 노력이 교육 현장에서 활발하게 추진되고 있습니다.",
+   "src": "note"
+  },
+  {
+   "d": "2026-02-06",
+   "n": 25,
+   "head": "AI 리터러시 강화, 디지털 신원 활용, 대학 자율성 확대 등 교육 혁신을 위한 다각적인 시도가 이루어지는 가운데, 미래 교육 비전 제시와 교원 양성 강화 노력이 활발하게 전개되고 있습니다.",
+   "src": "note"
+  },
+  {
+   "d": "2026-02-07",
+   "n": 10,
+   "head": "AI, 에듀테크, 뇌과학 등 첨단 기술을 교육에 적극적으로 융합하고, 교사 역량 강화와 교육 혁신을 통해 미래 교육으로 나아가려는 긍정적인 움직임이 활발하게 나타나고 있다.",
+   "src": "note"
+  },
+  {
+   "d": "2026-02-08",
+   "n": 10,
+   "head": "미래 교육은 AI 맞춤형 학습 플랫폼, 글로컬 교육, 혁신적인 탐구학습, 국제 교류 등 다양한 시도를 통해 더욱 발전하고 있으며, 교원 양성 역량 강화에도 힘쓰는 긍정적인 방향으로 나아가고 있습니다.",
+   "src": "note"
+  }
+ ],
+ "picks": {
+  "edu": [
+   {
+    "d": "2026-02-04",
+    "n": 5,
+    "t": "유은혜 경기도교육감 후보, 교육부에 AI교육·지방자치 등 7대 과제 제시",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9oWTZCSDVuUVhITjFRaGJSUmRTRTRvNUtxLTRCZFRPd1ZCT3dJRVVEOVVwQ0M5SFVtdFRQbG5TSkc4UVJWZTdFb1VzbHJoZw?oc=5",
+    "src": "전자신문"
+   },
+   {
+    "d": "2026-02-02",
+    "n": 9,
+    "t": "박효진·성기선·안민석·유은혜, 경기도교육감 단일화 경쟁 시동",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuQWxKLWxKSHM1SU51WXJCQVk5MHBHemZwSWpvOWZHZGM0UWNvRmpGaEZmQWpWSmx4OEpObUFUQ3drcE9ZZmRPYmFPNk0weHM?oc=5",
+    "src": "v.daum.net"
+   },
+   {
+    "d": "2026-02-05",
+    "n": 8,
+    "t": "경기교육혁신연대 \"민주진보 교육감 후보 단일화\"…예비후보 4명 등록",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Ic2p6LWJpTUR0TEx5YVJUM3BYWlRQRlZFR3otR3lUQ0x3TXc2MERldXhJbUZnVjVnNC1nWWtKdmlhNFBRZkU3QlliQWJGWmlLVHdfeW13?oc=5",
+    "src": "뉴스1"
+   }
+  ],
+  "paper": [
+   {
+    "d": "2026-02-06",
+    "n": 1,
+    "t": "Integrating AI and Learning Analytics for Data-Driven Pedagogical Decisions and Personalized Interventions in Education",
+    "url": "https://www.semanticscholar.org/paper/6454af73dd2e3f05a1ec9fb111383a7103f34a8b",
+    "src": "semantic_scholar"
+   },
+   {
+    "d": "2026-02-04",
+    "n": 3,
+    "t": "Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use",
+    "url": "http://arxiv.org/abs/2602.00447v1",
+    "src": ""
+   },
+   {
+    "d": "2026-02-04",
+    "n": 2,
+    "t": "FACET: Multi-Agent AI Supporting Teachers in Scaling Differentiated Learning for Diverse Students",
+    "url": "http://arxiv.org/abs/2601.22788v1",
+    "src": ""
+   }
+  ],
+  "tech": [
+   {
+    "d": "2026-02-06",
+    "n": 4,
+    "t": "[빅테크칼럼] 앤트로픽, 더 강력해진 AI '클로드 오퍼스4.6' 공개…벤치마크서도 챗GPT·제미나이 능가",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfam82QkZPWHJHSDNtX3ZjR2ViYnRFUEVVMzY0NFE2djZvMFVlNEFJQ0dHX3FhZGMzdDRxTS1EM29HWWtEN2pxdEs0a0Y4ejB0ZUFJV0t5UzE1SGNic2tZbQ?oc=5",
+    "src": "뉴스스페이스"
+   },
+   {
+    "d": "2026-02-05",
+    "n": 2,
+    "t": "Anthropic pledges to keep Claude ad-free while OpenAI moves forward with ChatGPT advertising",
+    "url": "https://the-decoder.com/anthropic-pledges-to-keep-claude-ad-free-while-openai-moves-forward-with-chatgpt-advertising/",
+    "src": "The Decoder"
+   },
+   {
+    "d": "2026-02-06",
+    "n": 3,
+    "t": "OpenAI, 차세대 에이전트형 코딩 모델 ‘GPT-5.3-코덱스’ 공개",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZdGJ1ZVR4WGRVT3hPSUZNY3NOMGs2VmtDTC1MREhZU1F6NmxnMUdNbVg1WXFUMmJsY29SYXp4Q1V4cXRLSzR4Wk9QNXU0WjFnbUwzcElIaUxsek9TdEhKcnR2QQ?oc=5",
+    "src": "e4ds news"
+   }
+  ]
+ },
+ "generated_at": "2026-11-02T13:16:18+09:00"
+}

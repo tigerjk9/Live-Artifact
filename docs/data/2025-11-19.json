@@ -114,7 +114,7 @@
     "source": "한국AI부동산신문",
     "published": "2025-11-18",
     "keyword": "교육혁신",
-    "topic": "classroom",
+    "topic": "policy",
     "kind": null,
     "entities": [],
     "summary": "역대 정부의 교육정책 실패 사례를 반면교사 삼아, 교육 현장과의 소통 및 지속 가능한 정책 설계가 중요합니다.",
@@ -201,7 +201,8 @@
     "implication": "",
     "ai": true,
     "authors": "['Ricardo D. Matheus', 'Elmer M. Gennaro' 외 1명",
-    "pdf": "http://arxiv.org/pdf/2510.08261v1"
+    "pdf": "http://arxiv.org/pdf/2510.08261v1",
+    "dup_of": "2025-11-17"
    },
    {
     "n": 4,
@@ -219,7 +220,8 @@
     "implication": "",
     "ai": true,
     "authors": "['Griffin Pitts', 'Anurata Prabha Hridi' 외 1명",
-    "pdf": "http://arxiv.org/pdf/2510.03719v1"
+    "pdf": "http://arxiv.org/pdf/2510.03719v1",
+    "dup_of": "2025-11-17"
    },
    {
     "n": 5,
@@ -235,7 +237,8 @@
     "implication": "",
     "ai": true,
     "authors": "['Li Siyan', 'Zhen Xu' 외 4명",
-    "pdf": "http://arxiv.org/pdf/2509.17961v1"
+    "pdf": "http://arxiv.org/pdf/2509.17961v1",
+    "dup_of": "2025-11-17"
    }
   ],
   "tech": [
@@ -325,7 +328,7 @@
     "source": "헤럴드경제",
     "published": "2025-11-19",
     "keyword": "구글",
-    "topic": "product",
+    "topic": "model",
     "kind": null,
     "entities": [
      "ChatGPT",
@@ -377,6 +380,7 @@
     "kind": null,
     "entities": [
      "xAI",
+     "OpenAI",
      "Google"
     ],
     "summary": "xAI의 Grok 4.1 출시와 API 미제공은 오픈AI와 구글 중심의 AI 시장 경쟁 심화 속에서 폐쇄형 모델 전략을 강화하는 움직임으로 보입니다.",

@@ -40,7 +40,7 @@
     "source": "usline.kr",
     "published": "2026-02-12",
     "keyword": "AI디지털교육",
-    "topic": "teacher",
+    "topic": "higher_ed",
     "kind": null,
     "entities": [
      "교육부"
@@ -419,7 +419,8 @@
     ],
     "summary": "대구대학교의 전교생 대상 최신 AI 무상 제공은 AI 활용 교육 확산과 잠재적 AI 인재 양성에 긍정적 영향을 줄 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-02-12"
    }
   ]
  },

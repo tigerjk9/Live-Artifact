@@ -354,11 +354,13 @@
     "topic": "product",
     "kind": null,
     "entities": [
-     "ChatGPT"
+     "ChatGPT",
+     "OpenAI"
     ],
     "summary": "미라 무라티의 부상은 오픈AI를 넘어 AI 기술 경쟁 심화와 산업 지형 재편을 가속화하는 핵심 변수입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-01-05"
    },
    {
     "n": 6,

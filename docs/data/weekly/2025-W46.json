@@ -1,0 +1,392 @@
+{
+ "key": "2025-W46",
+ "label": "2025년 11월 10일 ~ 16일",
+ "dates": [
+  "2025-11-10",
+  "2025-11-11",
+  "2025-11-12",
+  "2025-11-13",
+  "2025-11-14",
+  "2025-11-15",
+  "2025-11-16"
+ ],
+ "days_present": 5,
+ "counts": {
+  "edu": 42,
+  "paper": 15,
+  "tech": 26
+ },
+ "total": 83,
+ "prev_total": 0,
+ "top_entities": [
+  {
+   "name": "개인화 학습",
+   "kind": "tech",
+   "n": 13,
+   "delta": 13
+  },
+  {
+   "name": "ChatGPT",
+   "kind": "model",
+   "n": 11,
+   "delta": 11
+  },
+  {
+   "name": "Google",
+   "kind": "org",
+   "n": 6,
+   "delta": 6
+  },
+  {
+   "name": "경기도교육청",
+   "kind": "edu_org",
+   "n": 5,
+   "delta": 5
+  },
+  {
+   "name": "OpenAI",
+   "kind": "org",
+   "n": 5,
+   "delta": 5
+  },
+  {
+   "name": "LLM",
+   "kind": "tech",
+   "n": 4,
+   "delta": 4
+  },
+  {
+   "name": "에이전트",
+   "kind": "tech",
+   "n": 4,
+   "delta": 4
+  },
+  {
+   "name": "교육부",
+   "kind": "edu_org",
+   "n": 3,
+   "delta": 3
+  },
+  {
+   "name": "AI 리터러시",
+   "kind": "tech",
+   "n": 2,
+   "delta": 2
+  },
+  {
+   "name": "AI 안전·규제",
+   "kind": "tech",
+   "n": 2,
+   "delta": 2
+  },
+  {
+   "name": "인천시교육청",
+   "kind": "edu_org",
+   "n": 2,
+   "delta": 2
+  },
+  {
+   "name": "벤치마크",
+   "kind": "tech",
+   "n": 2,
+   "delta": 2
+  }
+ ],
+ "rising": [
+  {
+   "name": "개인화 학습",
+   "kind": "tech",
+   "n": 13,
+   "delta": 13
+  },
+  {
+   "name": "ChatGPT",
+   "kind": "model",
+   "n": 11,
+   "delta": 11
+  },
+  {
+   "name": "Google",
+   "kind": "org",
+   "n": 6,
+   "delta": 6
+  },
+  {
+   "name": "경기도교육청",
+   "kind": "edu_org",
+   "n": 5,
+   "delta": 5
+  },
+  {
+   "name": "OpenAI",
+   "kind": "org",
+   "n": 5,
+   "delta": 5
+  },
+  {
+   "name": "LLM",
+   "kind": "tech",
+   "n": 4,
+   "delta": 4
+  }
+ ],
+ "topic_share": {
+  "edu": [
+   {
+    "id": "ai_digital",
+    "label": "AI·디지털교육",
+    "n": 21,
+    "pct": 50,
+    "delta": null
+   },
+   {
+    "id": "policy",
+    "label": "정책·행정",
+    "n": 9,
+    "pct": 21,
+    "delta": null
+   },
+   {
+    "id": "classroom",
+    "label": "수업·교육과정",
+    "n": 6,
+    "pct": 14,
+    "delta": null
+   },
+   {
+    "id": "teacher",
+    "label": "교사·교권",
+    "n": 2,
+    "pct": 5,
+    "delta": null
+   },
+   {
+    "id": "higher_ed",
+    "label": "대학·입시·평생",
+    "n": 2,
+    "pct": 5,
+    "delta": null
+   },
+   {
+    "id": "student_care",
+    "label": "학생·돌봄·안전",
+    "n": 1,
+    "pct": 2,
+    "delta": null
+   },
+   {
+    "id": "global",
+    "label": "해외·연구",
+    "n": 1,
+    "pct": 2,
+    "delta": null
+   }
+  ],
+  "paper": [
+   {
+    "id": "assessment",
+    "label": "평가·피드백",
+    "n": 3,
+    "pct": 20,
+    "delta": null
+   },
+   {
+    "id": "stem_ct",
+    "label": "컴퓨팅·STEM",
+    "n": 3,
+    "pct": 20,
+    "delta": null
+   },
+   {
+    "id": "genai_tutor",
+    "label": "생성형 AI·튜터",
+    "n": 3,
+    "pct": 20,
+    "delta": null
+   },
+   {
+    "id": "personalized",
+    "label": "개인화·학습분석",
+    "n": 2,
+    "pct": 13,
+    "delta": null
+   },
+   {
+    "id": "design_curric",
+    "label": "교수설계·교육과정",
+    "n": 2,
+    "pct": 13,
+    "delta": null
+   },
+   {
+    "id": "learning_sci",
+    "label": "학습과학·인지",
+    "n": 1,
+    "pct": 7,
+    "delta": null
+   },
+   {
+    "id": "teacher_pd",
+    "label": "교사 전문성",
+    "n": 1,
+    "pct": 7,
+    "delta": null
+   }
+  ],
+  "tech": [
+   {
+    "id": "model",
+    "label": "모델·연구",
+    "n": 7,
+    "pct": 27,
+    "delta": null
+   },
+   {
+    "id": "industry",
+    "label": "산업·투자·인프라",
+    "n": 6,
+    "pct": 23,
+    "delta": null
+   },
+   {
+    "id": "agent_dev",
+    "label": "에이전트·개발도구",
+    "n": 5,
+    "pct": 19,
+    "delta": null
+   },
+   {
+    "id": "product",
+    "label": "제품·서비스",
+    "n": 4,
+    "pct": 15,
+    "delta": null
+   },
+   {
+    "id": "policy_safety",
+    "label": "정책·윤리·안전",
+    "n": 2,
+    "pct": 8,
+    "delta": null
+   },
+   {
+    "id": "usecase",
+    "label": "활용·사례",
+    "n": 1,
+    "pct": 4,
+    "delta": null
+   },
+   {
+    "id": "edu_ai",
+    "label": "교육 AI",
+    "n": 1,
+    "pct": 4,
+    "delta": null
+   }
+  ]
+ },
+ "daily": [
+  {
+   "d": "2025-11-12",
+   "n": 10,
+   "head": "AI 기술이 교육 혁신, 맞춤형 학습, 그리고 공정한 평가 방식을 모색하며 교육 현장의 미래를 🚀 긍정적으로 변화시키고 있습니다.",
+   "src": "note"
+  },
+  {
+   "d": "2025-11-13",
+   "n": 25,
+   "head": "AI와 뇌과학에 대한 관심이 높아지는 가운데, 에듀테크를 활용한 교육 혁신과 교사들의 행복한 배움을 위한 노력이 활발히 이루어지고 있으며, 교사 리더십 강화와 아동학대 문제 해결을 통해 더욱 발전된 교육 환경을 조성하고자 한다.",
+   "src": "note"
+  },
+  {
+   "d": "2025-11-14",
+   "n": 25,
+   "head": "AI 기술 발전과 함께 K-edu의 세계화, 에듀테크 맞춤형 컨설팅 확대, 교사 리더십 강화, AI 인재 육성 패스트트랙 신설 등 교육 혁신을 통해 미래 시대에 발맞춘 인재 양성에 박차를 가하고 교사의 행복한 배움을 지원하며 교육 현장의 긍정적인 변화를 모색하고 있습니",
+   "src": "note"
+  },
+  {
+   "d": "2025-11-15",
+   "n": 25,
+   "head": "AI 기술이 교육 혁신을 주도하며, 뇌과학 융합, 맞춤형 학습 모델 개발, 공교육 패러다임 전환 등 미래 교육을 위한 다각적인 노력이 활발히 이루어지고 있다.",
+   "src": "note"
+  },
+  {
+   "d": "2025-11-16",
+   "n": 10,
+   "head": "AI 활용에 대한 논의와 교사의 역할 변화 속에서, 미래 교육 혁신을 위한 다양한 시도와 정책들이 교육 현장의 긍정적인 변화를 이끌고 있으며, 교육 주체들의 소통과 협력을 통해 더욱 발전된 미래 교육으로 나아갈 전망이다.",
+   "src": "note"
+  }
+ ],
+ "picks": {
+  "edu": [
+   {
+    "d": "2025-11-15",
+    "n": 5,
+    "t": "[영상]공직사회 AI 대전환, 교육부터 바뀐다",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsNTRIemUtUktRSTBUd1BwWEhLLUNCSl9fdnBkdDl6X01XcWJfSDdIaFgwekRaaWNnS2Iya09WMXBlWDN6d3RFZy1PZTh6SWF6N05B?oc=5",
+    "src": "네이트"
+   },
+   {
+    "d": "2025-11-12",
+    "n": 1,
+    "t": "KT, 교원대와 손잡고 AI 기반 교육혁신 나선다",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yRHBod1VVTzlyZFN6VDFVbmdVTHgzcmZsS1NodE1UVUNCcmxWdVhvcjNhX3d5ZnYxS1JCbGFxaWNHQjF4TlZ1Vno5ZHdKb2djaWc?oc=5",
+    "src": "더나은미래"
+   },
+   {
+    "d": "2025-11-12",
+    "n": 5,
+    "t": "[2025 충북에듀테크 콘펙스] 악어에듀, AI 보조교사 '아케오' 공개한다",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43cFhQZmM2bmU1ZTNnVVRvRTdhNDVieTFOa1lxZWppTFZ2THBoOFpwWkJncXlmTmlydnMxUGVxY2I5Nldocl83amhzTzEyR2dXREx3WWNnS0tabnc?oc=5",
+    "src": "더에듀"
+   }
+  ],
+  "paper": [
+   {
+    "d": "2025-11-15",
+    "n": 3,
+    "t": "Perspectives and potential issues in using artificial intelligence for computer science education",
+    "url": "http://arxiv.org/abs/2509.13730v1",
+    "src": ""
+   },
+   {
+    "d": "2025-11-13",
+    "n": 3,
+    "t": "Dialogic Pedagogy for Large Language Models: Aligning Conversational AI with Proven Theories of Learning",
+    "url": "http://arxiv.org/abs/2506.19484v1",
+    "src": ""
+   },
+   {
+    "d": "2025-11-14",
+    "n": 3,
+    "t": "Yixue Adaptive Learning System and Its Promise on Improving Student Learning",
+    "url": "https://www.semanticscholar.org/paper/affa2b88be5bebf620a6f183e53f9d48a2aee32d",
+    "src": "semantic_scholar"
+   }
+  ],
+  "tech": [
+   {
+    "d": "2025-11-14",
+    "n": 2,
+    "t": "OpenAI launches GPT-5.1 API with improved coding capabilities and new developer features",
+    "url": "https://the-decoder.com/openai-launches-gpt-5-1-api-with-improved-coding-capabilities-and-new-developer-features/",
+    "src": "The Decoder"
+   },
+   {
+    "d": "2025-11-13",
+    "n": 3,
+    "t": "OpenAI reboots ChatGPT experience with GPT-5.1 after mixed reviews of GPT-5",
+    "url": "https://venturebeat.com/ai/openai-reboots-chatgpt-experience-with-gpt-5-1-after-mixed-reviews-of-gpt-5",
+    "src": "VentureBeat AI"
+   },
+   {
+    "d": "2025-11-14",
+    "n": 3,
+    "t": "GPT-5.1 전격 공개… ‘대화형 인공지능의 재미’ 되살린 OpenAI의 반전 업데이트",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5BajNZV1hyWDEtS05NQ1RuZm0zQUxkb3pJSkFRM2VvTG80UkpKWlBGMk1oMjVSNDRPQWgwSVBkYXpjazBNOWdNcGhLRU4?oc=5",
+    "src": "한국AI부동산신문"
+   }
+  ]
+ },
+ "generated_at": "2026-11-02T13:16:18+09:00"
+}

@@ -112,7 +112,8 @@
     ],
     "summary": "인천광역시교육청의 AI 융합교육 연수는 교사들의 AI 활용 역량 강화 및 미래 교육 혁신에 기여할 것으로 기대됩니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2025-12-23"
    },
    {
     "n": 8,
@@ -182,7 +183,8 @@
     "implication": "",
     "ai": true,
     "authors": "['Lucia Happe', 'Dominik Fuchß' 외 3명",
-    "pdf": "http://arxiv.org/pdf/2512.11882v1"
+    "pdf": "http://arxiv.org/pdf/2512.11882v1",
+    "dup_of": "2025-12-23"
    },
    {
     "n": 2,
@@ -198,7 +200,8 @@
     "implication": "",
     "ai": true,
     "authors": "Jiayi Li",
-    "pdf": ""
+    "pdf": "",
+    "dup_of": "2025-12-23"
    },
    {
     "n": 3,
@@ -234,7 +237,8 @@
     "implication": "",
     "ai": true,
     "authors": "['Shaouna Shoaib Lodhi', 'Shoaib Lodhi']",
-    "pdf": "http://arxiv.org/pdf/2510.19196v1"
+    "pdf": "http://arxiv.org/pdf/2510.19196v1",
+    "dup_of": "2025-12-23"
    },
    {
     "n": 5,
@@ -299,6 +303,7 @@
     "topic": "policy_safety",
     "kind": null,
     "entities": [
+     "xAI",
      "저작권·소송"
     ],
     "summary": "이번 소송은 AI 학습 데이터 저작권 침해에 대한 중요한 선례를 만들고, 향후 AI 기술 개발 및 콘텐츠 산업 전반에 상당한 영향을 미칠 것입니다.",
@@ -382,7 +387,8 @@
     ],
     "summary": "구글 클라우드의 제미나이 3 모델 통합은 생성형 AI 플랫폼 경쟁 심화와 애니펜의 콘텐츠 제작 혁신을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2025-12-23"
    },
    {
     "n": 9,

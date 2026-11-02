@@ -15,7 +15,8 @@
     "entities": [],
     "summary": "이해찬식 교육 개혁은 이상적인 목표에도 불구하고, 충분한 준비와 현장과의 소통 부족으로 교육 현장에 혼란을 야기할 수 있다는 교훈을 줍니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-01-28"
    },
    {
     "n": 2,
@@ -66,7 +67,7 @@
     "source": "더페어",
     "published": "2026-01-28",
     "keyword": "미래기술",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
     "summary": "AI와 블록체인 기반 금융의 발전은 교육 현장에서 학생들에게 진정성 있는 소통과 공감 능력 함양의 중요성을 강조해야 함을 시사합니다.",
@@ -346,7 +347,8 @@
     "topic": "model",
     "kind": null,
     "entities": [
-     "OpenAI"
+     "OpenAI",
+     "LLM"
     ],
     "summary": "OpenAI의 Prism은 과학 연구에 LLM을 통합하여 생산성을 높이고, 폐쇄적인 AI 모델의 과학 분야 확장 가능성을 보여주는 사례입니다.",
     "implication": "",
@@ -364,7 +366,8 @@
     "entities": [
      "에이전트",
      "Anthropic",
-     "Claude"
+     "Claude",
+     "Meta"
     ],
     "summary": "Airtable의 슈퍼에이전트 출시는 AI 에이전트 시장 경쟁 심화와 함께, 로우코드 플랫폼의 AI 통합 가속화를 의미합니다.",
     "implication": "",

@@ -1,0 +1,418 @@
+{
+ "key": "2026-W38",
+ "label": "2026년 9월 14일 ~ 20일",
+ "dates": [
+  "2026-09-14",
+  "2026-09-15",
+  "2026-09-16",
+  "2026-09-17",
+  "2026-09-18",
+  "2026-09-19",
+  "2026-09-20"
+ ],
+ "days_present": 7,
+ "counts": {
+  "edu": 69,
+  "paper": 35,
+  "tech": 60
+ },
+ "total": 164,
+ "prev_total": 165,
+ "top_entities": [
+  {
+   "name": "OpenAI",
+   "kind": "org",
+   "n": 22,
+   "delta": -6
+  },
+  {
+   "name": "경기도교육청",
+   "kind": "edu_org",
+   "n": 15,
+   "delta": 8
+  },
+  {
+   "name": "ChatGPT",
+   "kind": "model",
+   "n": 13,
+   "delta": -5
+  },
+  {
+   "name": "개인화 학습",
+   "kind": "tech",
+   "n": 10,
+   "delta": 4
+  },
+  {
+   "name": "Anthropic",
+   "kind": "org",
+   "n": 9,
+   "delta": -3
+  },
+  {
+   "name": "에이전트",
+   "kind": "tech",
+   "n": 8,
+   "delta": -5
+  },
+  {
+   "name": "Claude",
+   "kind": "model",
+   "n": 8,
+   "delta": 5
+  },
+  {
+   "name": "Google",
+   "kind": "org",
+   "n": 8,
+   "delta": 3
+  },
+  {
+   "name": "교육부",
+   "kind": "edu_org",
+   "n": 7,
+   "delta": 5
+  },
+  {
+   "name": "충남교육청",
+   "kind": "edu_org",
+   "n": 5,
+   "delta": 5
+  },
+  {
+   "name": "Gemini",
+   "kind": "model",
+   "n": 5,
+   "delta": 4
+  },
+  {
+   "name": "인천시교육청",
+   "kind": "edu_org",
+   "n": 5,
+   "delta": -3
+  }
+ ],
+ "rising": [
+  {
+   "name": "경기도교육청",
+   "kind": "edu_org",
+   "n": 15,
+   "delta": 8
+  },
+  {
+   "name": "Claude",
+   "kind": "model",
+   "n": 8,
+   "delta": 5
+  },
+  {
+   "name": "교육부",
+   "kind": "edu_org",
+   "n": 7,
+   "delta": 5
+  },
+  {
+   "name": "충남교육청",
+   "kind": "edu_org",
+   "n": 5,
+   "delta": 5
+  },
+  {
+   "name": "개인화 학습",
+   "kind": "tech",
+   "n": 10,
+   "delta": 4
+  },
+  {
+   "name": "Gemini",
+   "kind": "model",
+   "n": 5,
+   "delta": 4
+  }
+ ],
+ "topic_share": {
+  "edu": [
+   {
+    "id": "policy",
+    "label": "정책·행정",
+    "n": 40,
+    "pct": 58,
+    "delta": 10
+   },
+   {
+    "id": "classroom",
+    "label": "수업·교육과정",
+    "n": 13,
+    "pct": 19,
+    "delta": 0
+   },
+   {
+    "id": "ai_digital",
+    "label": "AI·디지털교육",
+    "n": 12,
+    "pct": 17,
+    "delta": -8
+   },
+   {
+    "id": "teacher",
+    "label": "교사·교권",
+    "n": 2,
+    "pct": 3,
+    "delta": -1
+   },
+   {
+    "id": "student_care",
+    "label": "학생·돌봄·안전",
+    "n": 1,
+    "pct": 1,
+    "delta": 0
+   },
+   {
+    "id": "global",
+    "label": "해외·연구",
+    "n": 1,
+    "pct": 1,
+    "delta": -2
+   }
+  ],
+  "paper": [
+   {
+    "id": "teacher_pd",
+    "label": "교사 전문성",
+    "n": 8,
+    "pct": 23,
+    "delta": 9
+   },
+   {
+    "id": "personalized",
+    "label": "개인화·학습분석",
+    "n": 6,
+    "pct": 17,
+    "delta": 8
+   },
+   {
+    "id": "language",
+    "label": "언어·문해",
+    "n": 5,
+    "pct": 14,
+    "delta": 3
+   },
+   {
+    "id": "design_curric",
+    "label": "교수설계·교육과정",
+    "n": 5,
+    "pct": 14,
+    "delta": -6
+   },
+   {
+    "id": "assessment",
+    "label": "평가·피드백",
+    "n": 3,
+    "pct": 9,
+    "delta": 3
+   },
+   {
+    "id": "learning_sci",
+    "label": "학습과학·인지",
+    "n": 2,
+    "pct": 6,
+    "delta": 0
+   },
+   {
+    "id": "genai_tutor",
+    "label": "생성형 AI·튜터",
+    "n": 2,
+    "pct": 6,
+    "delta": -17
+   },
+   {
+    "id": "inclusion_sel",
+    "label": "포용·정서·웰빙",
+    "n": 2,
+    "pct": 6,
+    "delta": 0
+   },
+   {
+    "id": "stem_ct",
+    "label": "컴퓨팅·STEM",
+    "n": 1,
+    "pct": 3,
+    "delta": 0
+   },
+   {
+    "id": "literacy_ethics",
+    "label": "AI 리터러시·윤리",
+    "n": 1,
+    "pct": 3,
+    "delta": 0
+   }
+  ],
+  "tech": [
+   {
+    "id": "model",
+    "label": "모델·연구",
+    "n": 21,
+    "pct": 35,
+    "delta": 15
+   },
+   {
+    "id": "policy_safety",
+    "label": "정책·윤리·안전",
+    "n": 11,
+    "pct": 18,
+    "delta": -2
+   },
+   {
+    "id": "industry",
+    "label": "산업·투자·인프라",
+    "n": 10,
+    "pct": 17,
+    "delta": -4
+   },
+   {
+    "id": "product",
+    "label": "제품·서비스",
+    "n": 8,
+    "pct": 13,
+    "delta": 2
+   },
+   {
+    "id": "agent_dev",
+    "label": "에이전트·개발도구",
+    "n": 6,
+    "pct": 10,
+    "delta": -15
+   },
+   {
+    "id": "usecase",
+    "label": "활용·사례",
+    "n": 2,
+    "pct": 3,
+    "delta": 1
+   },
+   {
+    "id": "edu_ai",
+    "label": "교육 AI",
+    "n": 2,
+    "pct": 3,
+    "delta": 1
+   }
+  ]
+ },
+ "daily": [
+  {
+   "d": "2026-09-14",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-09-15",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-09-16",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-09-17",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-09-18",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-09-19",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-09-20",
+   "n": 25,
+   "head": "",
+   "src": ""
+  }
+ ],
+ "picks": {
+  "edu": [
+   {
+    "d": "2026-09-14",
+    "n": 2,
+    "t": "[경기도교육청] 안민석 교육감, 여야 대표 만나 경기교육 현안 국회 협조 요청",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5N0ZEc3dBWnVJcDVFS045WV9ORzN5S2ptNU9tckxaZmNsRE8wZV8xWXZQMlI4UENxRFFlajYwUHdaaFBTcVhnTTJvV2tJaXZsLXpsVEVPVVlWSkhzNG9QT3pqd0VlRU43WUlZ0gFvQVVfeXFMTWxXWE1iVkFyRG9peW1EUmpZVmZ1RHJzcVRFRUtnUzVVUXhJZXdEQ2pXZEIzVERsMGdzOTJWc2s3dUpTV1FxVEszZFptVFlZZEhHOG00eFZKN0xkanVaLUVUYUZmeUk3OU5sU3N6Y2dF?oc=5",
+    "src": "서울시정일보"
+   },
+   {
+    "d": "2026-09-16",
+    "n": 4,
+    "t": "입시 부담 속 독서·예술·스포츠 일상화…경기도교육청, 오남고 RAS교육 현장 점검",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4SHJUNGo4M2NwRVJlM3BBbDB5MUhpZGxfU21BVUN3Ml80UjIzekxxa3RkNTVHNVFZOFhka3BOSjVqOEtocnp2bE1PN1R5SEZNckN6eFdROC0yR0xXNjluMHhUMWhCaWZpX0s1M0Vqd25QOHc?oc=5",
+    "src": "오늘경제"
+   },
+   {
+    "d": "2026-09-19",
+    "n": 8,
+    "t": "[교육정책 브리핑] 경기도교육청, 교권보호국 감독관이 현실로 ‘조례 통과’",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1EcGk5a3RxWGVQVHhocDlyUjM1Um5JMmRZTFg1eWk0akRwWl82clZZanVSMk9ycTZRcFFjbmw1Wi1rOFVYXy1zMHVNX2FLeG5MRld4ck1uLVRDanF2c0RHeA?oc=5",
+    "src": "NSP통신"
+   }
+  ],
+  "paper": [
+   {
+    "d": "2026-09-19",
+    "n": 5,
+    "t": "Exploring the impact of generative AI-facilitated personalized learning on EFL students’ speaking and writing skills",
+    "url": "https://doi.org/10.1057/s41599-026-09088-6",
+    "src": "openalex"
+   },
+   {
+    "d": "2026-09-20",
+    "n": 3,
+    "t": "Generative AI Driving the Paradigm Shift in Smart Education: Technology Layering, Application Scenarios, and Collaborative Governance",
+    "url": "https://doi.org/10.70267/aitia.2026498504",
+    "src": "openalex"
+   },
+   {
+    "d": "2026-09-17",
+    "n": 4,
+    "t": "Professional competency of Technical-Vocational-Livelihood teachers in suburban senior high schools: Perspectives of teachers and school heads",
+    "url": "https://doi.org/10.63498/injelps105",
+    "src": "openalex"
+   }
+  ],
+  "tech": [
+   {
+    "d": "2026-09-16",
+    "n": 3,
+    "t": "Google launches Gemini 3.8 Live to take on OpenAI's GPT-Live-1 at a fraction of the cost",
+    "url": "https://the-decoder.com/google-launches-gemini-3-8-live-to-take-on-openais-gpt-live-1-at-a-fraction-of-the-cost/",
+    "src": "The Decoder"
+   },
+   {
+    "d": "2026-09-18",
+    "n": 3,
+    "t": "찰스 3세 국왕, 덤프리스 하우스에서 OpenAI·Anthropic·Google DeepMind·Nvidia와 AI 정상회동",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOTNLcTFmNDhreEdIT054c2ROUDV0Wkc1T0VjRXZBSjJNRGFnaDZwREhnSlVDbURFWFV1a3M3SWpWVXUyYXoxMnBpMVEyU09jSmhQYjlvYWxUbVNIOGZ3dVh0dmo0OVgwRGd4TGlRNklMVDV6N3JlRWhSUTJYb0Z4WDh4d3BtVzNyVFU0aVBnZFYwMEpqYUtFZWk2RWs5R3JBNGk3SjdaUlJqMTQ3ZTk0YmVEdEhOVTg?oc=5",
+    "src": "IndexBox"
+   },
+   {
+    "d": "2026-09-19",
+    "n": 7,
+    "t": "Claude, 며칠 만에 OpenAI 내부에 침투—책임을 묻는 시선은 Anthropic으로",
+    "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPR3BIYmdyb2p0SjhrWXVHOTVabENjSzlnSFBjLW02RE9IREFPV283U1JxRTEyNkpTSjU2RW12NHk2dEpyQ0JBV3FDZV8yaUhTZnBUV2MxLURkUzMwX2g1RmdfUm5GOGlOaVVvSnpJcTg1WHpQd3lEc0ZPQlpKb0p4RTFwakRFbmZraWVkWUFlUUhfRnMwWmRGQUh4QXVzSXVTay1mWW8wRGdaRFhFNWxmMlBaNV9mejVtQnFXSGJYLXhlSlVvN1F1YkZucW04bnBUQkpySEJ4NHRhYlZFcUhKakFnRDI0alp4dEwtbmVHNUhvWjEwNU4tLXd1a2xNc1dOWEJpOWFoT0EyTzJwbkxUUXJYdXdibHVMZnBNUFJZWmptcHFCeWpIQnBQbDBveVFaVkFRal9MWTdfOE1mWEV0MmdPVkRua1F1dWxXWG9VZm9wc0lvaWc?oc=5",
+    "src": "Martin Cid Magazine"
+   }
+  ]
+ },
+ "generated_at": "2026-11-02T13:16:18+09:00"
+}

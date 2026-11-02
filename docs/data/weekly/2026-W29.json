@@ -1,0 +1,380 @@
+{
+ "key": "2026-W29",
+ "label": "2026년 7월 13일 ~ 19일",
+ "dates": [
+  "2026-07-13",
+  "2026-07-14",
+  "2026-07-15",
+  "2026-07-16",
+  "2026-07-17",
+  "2026-07-18",
+  "2026-07-19"
+ ],
+ "days_present": 7,
+ "counts": {
+  "edu": 62,
+  "paper": 35,
+  "tech": 56
+ },
+ "total": 153,
+ "prev_total": 164,
+ "top_entities": [
+  {
+   "name": "ChatGPT",
+   "kind": "model",
+   "n": 25,
+   "delta": 5
+  },
+  {
+   "name": "OpenAI",
+   "kind": "org",
+   "n": 15,
+   "delta": -3
+  },
+  {
+   "name": "대전시교육청",
+   "kind": "edu_org",
+   "n": 8,
+   "delta": 2
+  },
+  {
+   "name": "생성형 AI",
+   "kind": "tech",
+   "n": 7,
+   "delta": -2
+  },
+  {
+   "name": "충남교육청",
+   "kind": "edu_org",
+   "n": 6,
+   "delta": 2
+  },
+  {
+   "name": "개인화 학습",
+   "kind": "tech",
+   "n": 5,
+   "delta": -3
+  },
+  {
+   "name": "충북교육청",
+   "kind": "edu_org",
+   "n": 5,
+   "delta": 1
+  },
+  {
+   "name": "Anthropic",
+   "kind": "org",
+   "n": 5,
+   "delta": 0
+  },
+  {
+   "name": "Claude",
+   "kind": "model",
+   "n": 5,
+   "delta": 2
+  },
+  {
+   "name": "xAI",
+   "kind": "org",
+   "n": 4,
+   "delta": 2
+  },
+  {
+   "name": "AI 안전·규제",
+   "kind": "tech",
+   "n": 4,
+   "delta": 3
+  },
+  {
+   "name": "에이전트",
+   "kind": "tech",
+   "n": 4,
+   "delta": -7
+  }
+ ],
+ "rising": [
+  {
+   "name": "ChatGPT",
+   "kind": "model",
+   "n": 25,
+   "delta": 5
+  },
+  {
+   "name": "AI 안전·규제",
+   "kind": "tech",
+   "n": 4,
+   "delta": 3
+  }
+ ],
+ "topic_share": {
+  "edu": [
+   {
+    "id": "policy",
+    "label": "정책·행정",
+    "n": 30,
+    "pct": 48,
+    "delta": 10
+   },
+   {
+    "id": "ai_digital",
+    "label": "AI·디지털교육",
+    "n": 15,
+    "pct": 24,
+    "delta": -4
+   },
+   {
+    "id": "classroom",
+    "label": "수업·교육과정",
+    "n": 12,
+    "pct": 19,
+    "delta": -1
+   },
+   {
+    "id": "student_care",
+    "label": "학생·돌봄·안전",
+    "n": 3,
+    "pct": 5,
+    "delta": 1
+   },
+   {
+    "id": "teacher",
+    "label": "교사·교권",
+    "n": 2,
+    "pct": 3,
+    "delta": -6
+   }
+  ],
+  "paper": [
+   {
+    "id": "teacher_pd",
+    "label": "교사 전문성",
+    "n": 10,
+    "pct": 29,
+    "delta": 9
+   },
+   {
+    "id": "language",
+    "label": "언어·문해",
+    "n": 7,
+    "pct": 20,
+    "delta": 17
+   },
+   {
+    "id": "literacy_ethics",
+    "label": "AI 리터러시·윤리",
+    "n": 3,
+    "pct": 9,
+    "delta": 0
+   },
+   {
+    "id": "learning_sci",
+    "label": "학습과학·인지",
+    "n": 3,
+    "pct": 9,
+    "delta": 3
+   },
+   {
+    "id": "stem_ct",
+    "label": "컴퓨팅·STEM",
+    "n": 3,
+    "pct": 9,
+    "delta": -5
+   },
+   {
+    "id": "design_curric",
+    "label": "교수설계·교육과정",
+    "n": 3,
+    "pct": 9,
+    "delta": -20
+   },
+   {
+    "id": "genai_tutor",
+    "label": "생성형 AI·튜터",
+    "n": 2,
+    "pct": 6,
+    "delta": 3
+   },
+   {
+    "id": "personalized",
+    "label": "개인화·학습분석",
+    "n": 2,
+    "pct": 6,
+    "delta": -5
+   },
+   {
+    "id": "inclusion_sel",
+    "label": "포용·정서·웰빙",
+    "n": 2,
+    "pct": 6,
+    "delta": 3
+   }
+  ],
+  "tech": [
+   {
+    "id": "model",
+    "label": "모델·연구",
+    "n": 24,
+    "pct": 43,
+    "delta": 6
+   },
+   {
+    "id": "policy_safety",
+    "label": "정책·윤리·안전",
+    "n": 9,
+    "pct": 16,
+    "delta": 9
+   },
+   {
+    "id": "product",
+    "label": "제품·서비스",
+    "n": 9,
+    "pct": 16,
+    "delta": 4
+   },
+   {
+    "id": "industry",
+    "label": "산업·투자·인프라",
+    "n": 4,
+    "pct": 7,
+    "delta": -13
+   },
+   {
+    "id": "agent_dev",
+    "label": "에이전트·개발도구",
+    "n": 4,
+    "pct": 7,
+    "delta": -16
+   },
+   {
+    "id": "usecase",
+    "label": "활용·사례",
+    "n": 3,
+    "pct": 5,
+    "delta": 5
+   },
+   {
+    "id": "edu_ai",
+    "label": "교육 AI",
+    "n": 3,
+    "pct": 5,
+    "delta": 3
+   }
+  ]
+ },
+ "daily": [
+  {
+   "d": "2026-07-13",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-07-14",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-07-15",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-07-16",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-07-17",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-07-18",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-07-19",
+   "n": 25,
+   "head": "",
+   "src": ""
+  }
+ ],
+ "picks": {
+  "edu": [
+   {
+    "d": "2026-07-18",
+    "n": 10,
+    "t": "대전교육과학연구원, 생성형 AI 접목한 연구학교 보고서 작성 역량 강화 나서",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45RFAxaXIxVDJpZGl2TVo2VVdiM0dkWW56VnAzUEJWYkQ5R1BCTVVhRU1JM0NLMWZYOUIwMHlNMVFZWmRyMkpXWVR2T0wzdmZwOVM1cDMxbWhKT3VEZHBLT1E0bEl4eVdkZERQMmRQNEg?oc=5",
+    "src": "한국강사신문"
+   },
+   {
+    "d": "2026-07-15",
+    "n": 2,
+    "t": "대전시교육청, IB 연구회 중간 점검…교실수업 혁신 현장 확산 속도",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKVUp3UHZJbHF5bWRJeEY4QUhKMURhc19IYnoxZjFGZ2I2SG9jRDM3ckZjbWktYlRaR2g2UTdKclRBS0JVQzY2eUFZNy1mMjA?oc=5",
+    "src": "v.daum.net"
+   },
+   {
+    "d": "2026-07-15",
+    "n": 4,
+    "t": "충북교육청, 에듀테크 시대 미래 교사의 길을 열다",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53WTJlNVFFbl91UDdGNXpzQW4zZmpJeDZXRVdoT1gwVnFXS1BCczBMWnU5Ym0zZzkxX3E2MGFFVUx3NFhjdE8wUldQMHI1OGhUdXB2YmNhQmZIQQ?oc=5",
+    "src": "브릿지경제"
+   }
+  ],
+  "paper": [
+   {
+    "d": "2026-07-19",
+    "n": 4,
+    "t": "Understanding Pre-Service Vocational Teachers’ Perceptions of GenAI Using ChatGPT Through the Lens of Perceived Benefit",
+    "url": "https://doi.org/10.1007/s10758-026-10016-5",
+    "src": "openalex"
+   },
+   {
+    "d": "2026-07-13",
+    "n": 1,
+    "t": "Experiences of Science Teachers Regarding the Effects of Generative Artificial Intelligence Use on Education and Teaching Processes",
+    "url": "https://doi.org/10.59455/qietp.59",
+    "src": "openalex"
+   },
+   {
+    "d": "2026-07-19",
+    "n": 5,
+    "t": "The 3D4E strategic approach: Can GAI improve visual thinking skills in STEM high schools?",
+    "url": "https://doi.org/10.1007/s10639-026-14093-y",
+    "src": "openalex"
+   }
+  ],
+  "tech": [
+   {
+    "d": "2026-07-16",
+    "n": 4,
+    "t": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+    "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+    "src": "MIT Technology Review"
+   },
+   {
+    "d": "2026-07-14",
+    "n": 1,
+    "t": "Anthropic extends free Fable 5 access for subscribers as OpenAI's GPT-5.6 Sol heats up the pricing war",
+    "url": "https://the-decoder.com/anthropic-extends-free-fable-5-access-for-subscribers-as-openais-gpt-5-6-sol-heats-up-the-pricing-war/",
+    "src": "The Decoder"
+   },
+   {
+    "d": "2026-07-13",
+    "n": 1,
+    "t": "오픈AI \"상용 모델 'GPT-5.6 솔 울트라'로 50년 수학 난제 증명 생성\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212668",
+    "src": "AI Times"
+   }
+  ]
+ },
+ "generated_at": "2026-11-02T13:16:18+09:00"
+}

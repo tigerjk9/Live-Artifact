@@ -116,7 +116,7 @@
     "source": "스페셜타임스",
     "published": "2026-06-21",
     "keyword": "AI교육",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "충남교육청"
@@ -257,7 +257,8 @@
     "entities": [],
     "summary": "AI의 신뢰도와 효율성을 획기적으로 높여 다양한 산업 분야의 AI 도입과 확장을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-06-20"
    },
    {
     "n": 2,
@@ -290,7 +291,8 @@
     ],
     "summary": "삼성전자의 'AI 모듈러 홈' 출시는 AI 기술이 주거 공간 및 건설 분야와 융합되어 AI 생태계의 물리적 확장과 새로운 시장 창출을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-06-20"
    },
    {
     "n": 4,
@@ -338,7 +340,8 @@
     ],
     "summary": "노벨상 수상자 AI 연구원의 앤스로픽 이적은 AI 인재 유치 경쟁의 심화와 이를 통한 산업 경쟁 구도 변화를 의미합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-06-20"
    },
    {
     "n": 7,
@@ -352,7 +355,8 @@
     "entities": [],
     "summary": "AI 화학자의 자율적 발전은 의약 화학을 넘어 과학 R&D 효율을 극대화하여 AI의 산업 적용 범위를 확장할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-06-18"
    },
    {
     "n": 8,
@@ -368,7 +372,8 @@
     ],
     "summary": "Google AI Studio는 AI 개발의 대중화와 혁신적인 AI 서비스 구현을 가속화하며 구글 AI 생태계 확장의 핵심 동력이 될 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-06-18"
    },
    {
     "n": 9,
@@ -401,7 +406,8 @@
     ],
     "summary": "생성형 AI가 은행 핵심에 도입된 것은 AI가 금융을 넘어 전 산업의 핵심 동력으로 자리매김할 것임을 보여줍니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-06-20"
    }
   ]
  },

@@ -124,7 +124,7 @@
     "source": "뉴시스",
     "published": "2026-10-20",
     "keyword": "인공지능교육",
-    "topic": "classroom",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "충남교육청",
@@ -351,7 +351,8 @@
     ],
     "summary": "OpenAI 기반 AI가 마케팅 캠페인 자동화를 넘어 창의 산업 전반의 생산성 혁신을 가속화하며 AI 응용 서비스 확대를 견인할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-10-18"
    },
    {
     "n": 7,
@@ -384,7 +385,8 @@
     "kind": null,
     "entities": [
      "Google",
-     "NVIDIA"
+     "NVIDIA",
+     "LLM"
     ],
     "summary": "주요 빅테크 기업들이 llm-d 1.0을 통해 AI 추론 비용 효율성을 극대화하여 LLM의 산업 전반 확산과 실용화를 가속화할 전략적 전환점이 될 것입니다.",
     "implication": "",

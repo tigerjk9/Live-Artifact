@@ -298,7 +298,9 @@
     "keyword": "",
     "topic": "industry",
     "kind": null,
-    "entities": [],
+    "entities": [
+     "EBS"
+    ],
     "summary": "코리아교육그룹과 EBS미디어의 협력은 AI 교육 콘텐츠 시장 확대와 공교육 분야 AI 기술 적용 가속화에 기여할 것으로 예상됩니다.",
     "implication": "",
     "ai": true

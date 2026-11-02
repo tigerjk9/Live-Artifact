@@ -118,7 +118,7 @@
     "source": "피앤피뉴스",
     "published": "2026-09-29",
     "keyword": "AI활용수업",
-    "topic": "teacher",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [],
     "summary": "서울 모든 학교에 AI 활용 수업자료 제작 시 교사의 최종 판단을 강조하는 수업설계 가이드북이 배포됩니다.",
@@ -296,7 +296,8 @@
     ],
     "summary": "AI 에이전트가 고객 서비스의 상당 부분을 자동 해결하며 기업 생산성 혁신과 AI 기술의 실질적 산업 적용을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-09-27"
    },
    {
     "n": 4,

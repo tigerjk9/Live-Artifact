@@ -10,7 +10,7 @@
     "source": "cio.com",
     "published": "2026-06-25",
     "keyword": "에이전틱AI",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": "opinion",
     "entities": [
      "Amazon"
@@ -34,7 +34,8 @@
     ],
     "summary": "서이초 사건 이후 교권 보호 법안 실효성 부족 지적이 이어지자, 경기 교육감은 교사 보호를 위한 '경기형 교권보호국' 신설을 논의 중이다.",
     "implication": "교사 개인이 아닌 기관이 교육활동 보호를 책임지는 시스템 논의가 시작되었으니, 어려운 상황 발생 시 교육기관에 적극적인 지원을 요구할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-06-25"
    },
    {
     "n": 3,
@@ -152,7 +153,7 @@
     "source": "뉴시스",
     "published": "2026-06-25",
     "keyword": "교육정책",
-    "topic": "classroom",
+    "topic": "policy",
     "kind": null,
     "entities": [],
     "summary": "김경범 위원장이 교육정책에 대해 설명하는 내용입니다.",
@@ -345,7 +346,8 @@
     ],
     "summary": "삼성의 LLM 활용은 AI 기술이 기업 핵심 도구로 보편화되며 엔터프라이즈 AI 시장의 성장을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-06-23"
    },
    {
     "n": 7,
@@ -359,7 +361,8 @@
     "entities": [],
     "summary": "자율 AI 화학자의 등장은 의약화학 등 복잡한 과학 R&D 분야에서 AI의 발견 역량을 극대화하며 산업 혁신을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-06-23"
    },
    {
     "n": 8,
@@ -376,7 +379,8 @@
     ],
     "summary": "Google AI Studio를 활용한 '분위기 코딩'은 AI가 정성적 감성을 다루는 새로운 지평을 열어 개발자 생태계 확장을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-06-23"
    },
    {
     "n": 9,
@@ -391,7 +395,8 @@
      "GPU·데이터센터",
      "NVIDIA",
      "Google",
-     "Amazon"
+     "Amazon",
+     "OpenAI"
     ],
     "summary": "엔비디아 독점 완화 및 경쟁 심화로 AI 칩 생태계가 다변화되고 전반적인 AI 기술 혁신이 가속화될 것입니다.",
     "implication": "",

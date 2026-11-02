@@ -1,0 +1,411 @@
+{
+ "key": "2025-W47",
+ "label": "2025년 11월 17일 ~ 23일",
+ "dates": [
+  "2025-11-17",
+  "2025-11-18",
+  "2025-11-19",
+  "2025-11-20",
+  "2025-11-21",
+  "2025-11-22",
+  "2025-11-23"
+ ],
+ "days_present": 7,
+ "counts": {
+  "edu": 61,
+  "paper": 20,
+  "tech": 49
+ },
+ "total": 130,
+ "prev_total": 83,
+ "top_entities": [
+  {
+   "name": "ChatGPT",
+   "kind": "model",
+   "n": 18,
+   "delta": 7
+  },
+  {
+   "name": "LLM",
+   "kind": "tech",
+   "n": 13,
+   "delta": 9
+  },
+  {
+   "name": "Google",
+   "kind": "org",
+   "n": 10,
+   "delta": 4
+  },
+  {
+   "name": "개인화 학습",
+   "kind": "tech",
+   "n": 9,
+   "delta": -4
+  },
+  {
+   "name": "OpenAI",
+   "kind": "org",
+   "n": 7,
+   "delta": 2
+  },
+  {
+   "name": "경기도교육청",
+   "kind": "edu_org",
+   "n": 7,
+   "delta": 2
+  },
+  {
+   "name": "Gemini",
+   "kind": "model",
+   "n": 6,
+   "delta": 4
+  },
+  {
+   "name": "수능·대입",
+   "kind": "issue",
+   "n": 4,
+   "delta": 4
+  },
+  {
+   "name": "Anthropic",
+   "kind": "org",
+   "n": 4,
+   "delta": 2
+  },
+  {
+   "name": "AI 튜터",
+   "kind": "tech",
+   "n": 4,
+   "delta": 3
+  },
+  {
+   "name": "대전시교육청",
+   "kind": "edu_org",
+   "n": 4,
+   "delta": 4
+  },
+  {
+   "name": "교육부",
+   "kind": "edu_org",
+   "n": 3,
+   "delta": 0
+  }
+ ],
+ "rising": [
+  {
+   "name": "LLM",
+   "kind": "tech",
+   "n": 13,
+   "delta": 9
+  },
+  {
+   "name": "ChatGPT",
+   "kind": "model",
+   "n": 18,
+   "delta": 7
+  },
+  {
+   "name": "Google",
+   "kind": "org",
+   "n": 10,
+   "delta": 4
+  },
+  {
+   "name": "Gemini",
+   "kind": "model",
+   "n": 6,
+   "delta": 4
+  },
+  {
+   "name": "수능·대입",
+   "kind": "issue",
+   "n": 4,
+   "delta": 4
+  },
+  {
+   "name": "대전시교육청",
+   "kind": "edu_org",
+   "n": 4,
+   "delta": 4
+  }
+ ],
+ "topic_share": {
+  "edu": [
+   {
+    "id": "ai_digital",
+    "label": "AI·디지털교육",
+    "n": 20,
+    "pct": 33,
+    "delta": -17
+   },
+   {
+    "id": "policy",
+    "label": "정책·행정",
+    "n": 18,
+    "pct": 30,
+    "delta": 9
+   },
+   {
+    "id": "classroom",
+    "label": "수업·교육과정",
+    "n": 10,
+    "pct": 16,
+    "delta": 2
+   },
+   {
+    "id": "student_care",
+    "label": "학생·돌봄·안전",
+    "n": 4,
+    "pct": 7,
+    "delta": 5
+   },
+   {
+    "id": "teacher",
+    "label": "교사·교권",
+    "n": 4,
+    "pct": 7,
+    "delta": 2
+   },
+   {
+    "id": "global",
+    "label": "해외·연구",
+    "n": 3,
+    "pct": 5,
+    "delta": 3
+   },
+   {
+    "id": "higher_ed",
+    "label": "대학·입시·평생",
+    "n": 2,
+    "pct": 3,
+    "delta": -2
+   }
+  ],
+  "paper": [
+   {
+    "id": "genai_tutor",
+    "label": "생성형 AI·튜터",
+    "n": 6,
+    "pct": 30,
+    "delta": 10
+   },
+   {
+    "id": "stem_ct",
+    "label": "컴퓨팅·STEM",
+    "n": 5,
+    "pct": 25,
+    "delta": 5
+   },
+   {
+    "id": "assessment",
+    "label": "평가·피드백",
+    "n": 3,
+    "pct": 15,
+    "delta": -5
+   },
+   {
+    "id": "literacy_ethics",
+    "label": "AI 리터러시·윤리",
+    "n": 2,
+    "pct": 10,
+    "delta": 10
+   },
+   {
+    "id": "learning_sci",
+    "label": "학습과학·인지",
+    "n": 1,
+    "pct": 5,
+    "delta": -2
+   },
+   {
+    "id": "personalized",
+    "label": "개인화·학습분석",
+    "n": 1,
+    "pct": 5,
+    "delta": -8
+   },
+   {
+    "id": "teacher_pd",
+    "label": "교사 전문성",
+    "n": 1,
+    "pct": 5,
+    "delta": -2
+   },
+   {
+    "id": "design_curric",
+    "label": "교수설계·교육과정",
+    "n": 1,
+    "pct": 5,
+    "delta": -8
+   }
+  ],
+  "tech": [
+   {
+    "id": "model",
+    "label": "모델·연구",
+    "n": 23,
+    "pct": 47,
+    "delta": 20
+   },
+   {
+    "id": "industry",
+    "label": "산업·투자·인프라",
+    "n": 11,
+    "pct": 22,
+    "delta": -1
+   },
+   {
+    "id": "edu_ai",
+    "label": "교육 AI",
+    "n": 4,
+    "pct": 8,
+    "delta": 4
+   },
+   {
+    "id": "policy_safety",
+    "label": "정책·윤리·안전",
+    "n": 3,
+    "pct": 6,
+    "delta": -2
+   },
+   {
+    "id": "agent_dev",
+    "label": "에이전트·개발도구",
+    "n": 3,
+    "pct": 6,
+    "delta": -13
+   },
+   {
+    "id": "product",
+    "label": "제품·서비스",
+    "n": 3,
+    "pct": 6,
+    "delta": -9
+   },
+   {
+    "id": "usecase",
+    "label": "활용·사례",
+    "n": 2,
+    "pct": 4,
+    "delta": 0
+   }
+  ]
+ },
+ "daily": [
+  {
+   "d": "2025-11-17",
+   "n": 25,
+   "head": "지역 혁신, 미래 교육, 교사 역량 강화, 새로운 교육 콘텐츠 도입 등 교육 전반의 혁신을 통해 미래 교육을 선도하려는 움직임이 활발하게 나타나고 있습니다.",
+   "src": "note"
+  },
+  {
+   "d": "2025-11-18",
+   "n": 25,
+   "head": "AI 기술이 교육과 뇌과학 융합, 인재 양성, 공무원 교육 의무화 등 다양한 분야에 적극적으로 도입되며 미래 교육의 혁신을 가속화하는 동시에, 교사의 역할 재정립에 대한 논의도 함께 이루어지는 추세입니다.",
+   "src": "note"
+  },
+  {
+   "d": "2025-11-19",
+   "n": 25,
+   "head": "AI 시대에 발맞춰 융합 인재 양성, 미래 교육 혁신, 지역 인재 육성 등 교육 전반에 걸쳐 긍정적인 변화와 발전이 활발하게 추진되고 있으며, 학부모 참여 확대 및 다양한 교육 방식 도입을 통해 더욱 발전된 교육 환경을 조성하고 있습니다.",
+   "src": "note"
+  },
+  {
+   "d": "2025-11-20",
+   "n": 25,
+   "head": "AI 시대에 발맞춰 교육계는 교사의 역할 재정립, AI·에듀테크 활용 확대, 그리고 미래 교육 정책 구체화를 통해 혁신적인 변화를 적극적으로 추진하며 발전하고 있습니다.",
+   "src": "note"
+  },
+  {
+   "d": "2025-11-21",
+   "n": 25,
+   "head": "AI 교육 확대, 미래 모빌리티 및 뇌과학 융합, 교육 혁신 모델 개발 등 교육 현장이 다각도로 발전하며 미래를 향해 나아가고 있습니다.",
+   "src": "note"
+  },
+  {
+   "d": "2025-11-22",
+   "n": 10,
+   "head": "AI 기술과 에듀테크를 활용한 맞춤형 교육과정 개발, 교사 지원 강화, 디지털 격차 해소 노력과 더불어, 약학교육 혁신 및 사이버대 규제 개선 등 교육 전반의 발전을 위한 다각적인 시도가 이루어지고 있으며, 교사의 교육 활동 보호를 통해 더욱 발전된 교육 환경을 구축하",
+   "src": "note"
+  },
+  {
+   "d": "2025-11-23",
+   "n": 10,
+   "head": "AI 시대, 교사의 디지털 역량 강화와 창의적 수업 혁신을 통해 학생 개개인의 잠재력을 키우는 미래 교육으로 빠르게 전환 중🚀.",
+   "src": "note"
+  }
+ ],
+ "picks": {
+  "edu": [
+   {
+    "d": "2025-11-21",
+    "n": 3,
+    "t": "인천시교육청, “AI로 교육의 판을 바꾼다”",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VVDNSazZwbzVLOG9EWnBiY2R0R3BwaFR3X2xOb3V5azB6bVFja3NCZjZZS016bjZ6MTVXbmNtbEVuY2dndnpCZXJEd2p5a3BsY0g4ZEh0U1VKcUdxaGhFcmNHTVJUOXhVX09WMEtWMXl3aXFi0gF0QVVfeXFMT1VUM1JrNnBvNUs4b0RacGJjZHRHcHBoVHdfbE5vdXlrMHptUWNrc0JmNllLTXpuNnoxNVduY21sRW5jZ2d2ekJlckR3anlrcGxjSDhkSHRTVUpxR3FoaEVyY0dNUlQ5eFVfT1YwS1YxeXdpcWI?oc=5",
+    "src": "이뉴스투데이"
+   },
+   {
+    "d": "2025-11-22",
+    "n": 4,
+    "t": "교육기술(Edu-tech)을 활용한 학생 맞춤형 교육과정 운영, 고교학점제 도입 기반을 강화하다.",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcW9nYUNlQjZubGpIeVdkcTFLemwyTmprWEpuRW9FWk5jRnRIcnBIRzFfM1h1YnQ4YjZOdlhSdW1kNUZ5OFdXMGJEQzYtcmItc0RoSnExbm5xYUpMUHQ4MEdPY21OakpsR3VDaUZTQnJnV3ZSYWoxR2FMdXlmLXRWVXh1dW0?oc=5",
+    "src": "서울Pn"
+   },
+   {
+    "d": "2025-11-18",
+    "n": 5,
+    "t": "유원대 시니어 대상 '뉴로피드백 기반 뇌파검사' 실시",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoeUdNcEtUbTA5M21EWkwtVlcyMzhJSUJiVUU1OHB3Y29YeGcxdnhzeHg2aTNIM2xXT2pORUFVUUtVMzg5UUJhdUZiOHVOTEtwOE9Zbm9VVTg2ZHhrbXc4bXA4N2dpZmRiejdR?oc=5",
+    "src": "베리타스알파"
+   }
+  ],
+  "paper": [
+   {
+    "d": "2025-11-18",
+    "n": 1,
+    "t": "LLM-as-a-Grader: Practical Insights from Large Language Model for Short-Answer and Report Evaluation",
+    "url": "http://arxiv.org/abs/2511.10819v1",
+    "src": ""
+   },
+   {
+    "d": "2025-11-21",
+    "n": 1,
+    "t": "Teaching According to Students' Aptitude: Personalized Mathematics Tutoring via Persona-, Memory-, and Forgetting-Aware LLMs",
+    "url": "http://arxiv.org/abs/2511.15163v1",
+    "src": ""
+   },
+   {
+    "d": "2025-11-17",
+    "n": 2,
+    "t": "Personalized and Constructive Feedback for Computer Science Students Using the Large Language Model (LLM)",
+    "url": "http://arxiv.org/abs/2510.11556v1",
+    "src": ""
+   }
+  ],
+  "tech": [
+   {
+    "d": "2025-11-17",
+    "n": 5,
+    "t": "OpenAI publishes prompting guide for GPT-5.1",
+    "url": "https://the-decoder.com/openai-publishes-prompting-guide-for-gpt-5-1/",
+    "src": "The Decoder"
+   },
+   {
+    "d": "2025-11-20",
+    "n": 7,
+    "t": "구글, 차세대 AI '제미나이3' 공개...GPT-5 능가한 '추론형 AI' 시대 선언",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YUGM1OVYtQVVka0pQQ3J4bTBoZF9ma2RWdjNOV2R2bXlwbkotS0g0U2wyZFFCSVkyamNJcHJ1cFJndFBkc09zX3B4V1dZVldCSHpEanF4cmNWR2d4SHU3ZQ?oc=5",
+    "src": "KBC광주방송"
+   },
+   {
+    "d": "2025-11-19",
+    "n": 3,
+    "t": "[AI 뉴스] GPT-5.1 넘어섰나?” 구글 제미나이 3 전격 공개",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DS2NyelFPTUV1Y2U0c0ZKR0JVemNCY2JNZEw1WEJiTHRlWmdXRlRzeXBwRl9vb3RMaFJkTnNpMVBuWVBvalM4aE1LV0NlUURTdTg4TlNMWXhNbV9UUmFIdDh5OWpDWHg4Tm9ESDJ1OHdQdw?oc=5",
+    "src": "아웃소싱타임스"
+   }
+  ]
+ },
+ "generated_at": "2026-11-02T13:16:18+09:00"
+}

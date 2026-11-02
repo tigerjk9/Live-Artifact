@@ -27,7 +27,7 @@
     "source": "www.cctoday.co.kr",
     "published": "2026-10-06",
     "keyword": "인공지능교육",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "세종시교육청"
@@ -143,7 +143,8 @@
     "entities": [],
     "summary": "최순자 의원이 포천시 교육정책의 주요 사업들을 점검했습니다.",
     "implication": "지역 의원의 교육정책 점검 소식을 통해 학생들이 지역사회 교육 현안에 관심을 갖도록 유도할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-10-05"
    },
    {
     "n": 10,
@@ -152,7 +153,7 @@
     "source": "한국교육신문",
     "published": "2026-10-07",
     "keyword": "교육정책",
-    "topic": "global",
+    "topic": "policy",
     "kind": null,
     "entities": [],
     "summary": "1993~2002년 최초 문민대통령 시기, 한국 교육정책은 규제에서 자율·경쟁 중심으로 국제화·정보화 시대를 열었습니다.",
@@ -276,7 +277,8 @@
     ],
     "summary": "AI는 고도의 전문성을 요구하는 금융 등 산업에서 인간의 전문성 활용 및 사업 확장의 핵심 동력이 될 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-10-04"
    },
    {
     "n": 3,
@@ -354,7 +356,8 @@
     "entities": [],
     "summary": "알버트슨즈의 소매업 혁신은 AI 기술이 유통 산업의 핵심 운영에 깊이 통합되어 전반적인 효율성과 고객 경험을 향상시키는 데 필수적인 역할을 할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-10-04"
    },
    {
     "n": 8,

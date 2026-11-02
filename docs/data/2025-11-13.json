@@ -38,7 +38,7 @@
     "source": "충청헤럴드",
     "published": "2025-11-13",
     "keyword": "뇌과학",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [],
     "summary": "AI와 뇌과학 융합 교육은 학생과 학부모에게 미래 사회 핵심 역량을 함양하는 데 중요한 기회를 제공할 것입니다.",
@@ -145,7 +145,7 @@
     "source": "에듀프레스",
     "published": "2025-11-10",
     "keyword": "",
-    "topic": "teacher",
+    "topic": "policy",
     "kind": null,
     "entities": [],
     "summary": "교사 리더십 함양을 통해 교사들이 교육 주체성을 회복하고 학교 신뢰를 재건하는 것이 시급합니다.",
@@ -410,7 +410,8 @@
     "entities": [],
     "summary": "대학 비대면 시험의 AI 활용 논란은 에듀테크 업계에 평가 방식 혁신을 요구하며, AI 기반 교육 서비스의 신뢰성과 공정성 확보가 중요해지는 시점입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2025-11-12"
    }
   ]
  },

@@ -76,7 +76,8 @@
     ],
     "summary": "충북교육청은 교육혁신선도지역 공모에 대응하기 위한 준비를 본격적으로 시작했습니다.",
     "implication": "교육혁신선도지역이 되면 수업에 활용 가능한 새로운 교육 프로그램과 자료가 많아질 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-07-23"
    },
    {
     "n": 6,
@@ -99,7 +100,7 @@
     "source": "충청매일",
     "published": "2026-07-23",
     "keyword": "교육정책",
-    "topic": "classroom",
+    "topic": "policy",
     "kind": null,
     "entities": [],
     "summary": "교육정책이 창조적인 해결책을 제시하는 주체로서의 역할을 수행할 예정입니다.",
@@ -113,7 +114,7 @@
     "source": "eduplusnews.com",
     "published": "2026-07-23",
     "keyword": "교육정책",
-    "topic": "ai_digital",
+    "topic": "policy",
     "kind": null,
     "entities": [],
     "summary": "우리 아이 교육정책이 앞으로 검증된 데이터를 기반으로 수립됩니다.",
@@ -127,7 +128,7 @@
     "source": "더쎈뉴스",
     "published": "2026-07-23",
     "keyword": "교육정책",
-    "topic": "classroom",
+    "topic": "policy",
     "kind": null,
     "entities": [],
     "summary": "한국교육정책연구원은 전문가와 교사들을 총동원하여 현장 중심 미래 교육 모델을 제안했습니다.",
@@ -284,7 +285,8 @@
     ],
     "summary": "Google AI Studio를 활용한 퀴즈 제작은 AI 개발 플랫폼의 대중화와 생태계 확장을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-07-22"
    },
    {
     "n": 4,
@@ -363,7 +365,8 @@
     "topic": "industry",
     "kind": null,
     "entities": [
-     "NVIDIA"
+     "NVIDIA",
+     "사교육"
     ],
     "summary": "엔비디아의 막대한 투자는 한국 AI 연구 역량을 강화하고 글로벌 생태계 선도 기반을 마련할 것입니다.",
     "implication": "",

@@ -330,7 +330,8 @@
     ],
     "summary": "OpenAI의 FedRAMP Moderate 인증 획득은 정부기관의 AI 도입을 가속화하여 공공 서비스 혁신과 AI 기술 생태계 확장에 기여할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-05-04"
    },
    {
     "n": 6,

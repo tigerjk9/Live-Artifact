@@ -10,7 +10,7 @@
     "source": "한국대학신문",
     "published": "2026-04-24",
     "keyword": "교육정책",
-    "topic": "higher_ed",
+    "topic": "policy",
     "kind": "opinion",
     "entities": [],
     "summary": "",
@@ -290,7 +290,8 @@
     ],
     "summary": "OpenAI와 Hyatt의 협력은 AI 기술이 특정 산업 내부의 인력 역량 강화에 기여하며, 산업 전반의 AI 도입 확산을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-04-23"
    },
    {
     "n": 4,

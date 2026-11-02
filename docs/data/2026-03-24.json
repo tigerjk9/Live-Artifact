@@ -24,12 +24,13 @@
     "source": "한국미디어창업뉴스",
     "published": "2026-03-23",
     "keyword": "디지털전환",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
     "summary": "",
     "implication": "",
-    "ai": false
+    "ai": false,
+    "dup_of": "2026-03-23"
    },
    {
     "n": 3,
@@ -101,7 +102,7 @@
     "source": "뉴스세상",
     "published": "2026-03-23",
     "keyword": "인공지능교육",
-    "topic": "teacher",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "세종시교육청"
@@ -177,7 +178,8 @@
     "implication": "",
     "ai": true,
     "authors": "R. Alur, Richard Baraniuk 외 1명",
-    "pdf": ""
+    "pdf": "",
+    "dup_of": "2026-03-21"
    },
    {
     "n": 2,
@@ -195,7 +197,8 @@
     "implication": "",
     "ai": true,
     "authors": "D. Mourtzis, N. Panopoulos 외 1명",
-    "pdf": ""
+    "pdf": "",
+    "dup_of": "2026-03-21"
    },
    {
     "n": 3,
@@ -213,7 +216,8 @@
     "implication": "",
     "ai": true,
     "authors": "Fawad Naseer, Muhammad Nasir Khan 외 1명",
-    "pdf": ""
+    "pdf": "",
+    "dup_of": "2026-03-21"
    },
    {
     "n": 4,
@@ -222,7 +226,7 @@
     "source": "semantic_scholar",
     "published": "2020-06-01",
     "keyword": "",
-    "topic": "assessment",
+    "topic": "inclusion_sel",
     "kind": null,
     "entities": [],
     "summary": "본 논문은 관계 중심 학습 환경, 교수법, 형성 평가를 통해 SEL을 지속적으로 통합하는 개념 모델을 제시하고, 이는 학생들의 개인적 성장과 사회성 발달을 평가하여 궁극적으로 정서적으로 강하고 유연한 개인을 육성하는 데 기여합니다.",
@@ -339,7 +343,7 @@
     "source": "인공지능신문",
     "published": "2026-03-23",
     "keyword": "생성AI",
-    "topic": "product",
+    "topic": "agent_dev",
     "kind": null,
     "entities": [
      "Microsoft"

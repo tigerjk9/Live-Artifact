@@ -1,0 +1,411 @@
+{
+ "key": "2025-W50",
+ "label": "2025년 12월 8일 ~ 14일",
+ "dates": [
+  "2025-12-08",
+  "2025-12-09",
+  "2025-12-10",
+  "2025-12-11",
+  "2025-12-12",
+  "2025-12-13",
+  "2025-12-14"
+ ],
+ "days_present": 7,
+ "counts": {
+  "edu": 68,
+  "paper": 30,
+  "tech": 60
+ },
+ "total": 158,
+ "prev_total": 143,
+ "top_entities": [
+  {
+   "name": "개인화 학습",
+   "kind": "tech",
+   "n": 17,
+   "delta": 3
+  },
+  {
+   "name": "Google",
+   "kind": "org",
+   "n": 16,
+   "delta": 12
+  },
+  {
+   "name": "Gemini",
+   "kind": "model",
+   "n": 12,
+   "delta": 6
+  },
+  {
+   "name": "ChatGPT",
+   "kind": "model",
+   "n": 12,
+   "delta": 3
+  },
+  {
+   "name": "교육부",
+   "kind": "edu_org",
+   "n": 9,
+   "delta": 3
+  },
+  {
+   "name": "OpenAI",
+   "kind": "org",
+   "n": 8,
+   "delta": 0
+  },
+  {
+   "name": "경기도교육청",
+   "kind": "edu_org",
+   "n": 7,
+   "delta": -4
+  },
+  {
+   "name": "LLM",
+   "kind": "tech",
+   "n": 6,
+   "delta": -4
+  },
+  {
+   "name": "교사 연수",
+   "kind": "issue",
+   "n": 5,
+   "delta": 5
+  },
+  {
+   "name": "생성형 AI",
+   "kind": "tech",
+   "n": 5,
+   "delta": 2
+  },
+  {
+   "name": "인천시교육청",
+   "kind": "edu_org",
+   "n": 5,
+   "delta": 2
+  },
+  {
+   "name": "AI 안전·규제",
+   "kind": "tech",
+   "n": 4,
+   "delta": -3
+  }
+ ],
+ "rising": [
+  {
+   "name": "Google",
+   "kind": "org",
+   "n": 16,
+   "delta": 12
+  },
+  {
+   "name": "Gemini",
+   "kind": "model",
+   "n": 12,
+   "delta": 6
+  },
+  {
+   "name": "교사 연수",
+   "kind": "issue",
+   "n": 5,
+   "delta": 5
+  },
+  {
+   "name": "개인화 학습",
+   "kind": "tech",
+   "n": 17,
+   "delta": 3
+  },
+  {
+   "name": "ChatGPT",
+   "kind": "model",
+   "n": 12,
+   "delta": 3
+  },
+  {
+   "name": "교육부",
+   "kind": "edu_org",
+   "n": 9,
+   "delta": 3
+  }
+ ],
+ "topic_share": {
+  "edu": [
+   {
+    "id": "ai_digital",
+    "label": "AI·디지털교육",
+    "n": 30,
+    "pct": 44,
+    "delta": 3
+   },
+   {
+    "id": "policy",
+    "label": "정책·행정",
+    "n": 15,
+    "pct": 22,
+    "delta": 6
+   },
+   {
+    "id": "classroom",
+    "label": "수업·교육과정",
+    "n": 10,
+    "pct": 15,
+    "delta": -1
+   },
+   {
+    "id": "student_care",
+    "label": "학생·돌봄·안전",
+    "n": 7,
+    "pct": 10,
+    "delta": 4
+   },
+   {
+    "id": "teacher",
+    "label": "교사·교권",
+    "n": 4,
+    "pct": 6,
+    "delta": 3
+   },
+   {
+    "id": "higher_ed",
+    "label": "대학·입시·평생",
+    "n": 2,
+    "pct": 3,
+    "delta": -3
+   }
+  ],
+  "paper": [
+   {
+    "id": "personalized",
+    "label": "개인화·학습분석",
+    "n": 7,
+    "pct": 23,
+    "delta": -9
+   },
+   {
+    "id": "teacher_pd",
+    "label": "교사 전문성",
+    "n": 5,
+    "pct": 17,
+    "delta": 13
+   },
+   {
+    "id": "design_curric",
+    "label": "교수설계·교육과정",
+    "n": 4,
+    "pct": 13,
+    "delta": -7
+   },
+   {
+    "id": "learning_sci",
+    "label": "학습과학·인지",
+    "n": 3,
+    "pct": 10,
+    "delta": 6
+   },
+   {
+    "id": "stem_ct",
+    "label": "컴퓨팅·STEM",
+    "n": 3,
+    "pct": 10,
+    "delta": 2
+   },
+   {
+    "id": "literacy_ethics",
+    "label": "AI 리터러시·윤리",
+    "n": 2,
+    "pct": 7,
+    "delta": 3
+   },
+   {
+    "id": "language",
+    "label": "언어·문해",
+    "n": 2,
+    "pct": 7,
+    "delta": 7
+   },
+   {
+    "id": "assessment",
+    "label": "평가·피드백",
+    "n": 2,
+    "pct": 7,
+    "delta": -9
+   },
+   {
+    "id": "genai_tutor",
+    "label": "생성형 AI·튜터",
+    "n": 2,
+    "pct": 7,
+    "delta": -5
+   }
+  ],
+  "tech": [
+   {
+    "id": "model",
+    "label": "모델·연구",
+    "n": 24,
+    "pct": 40,
+    "delta": 6
+   },
+   {
+    "id": "usecase",
+    "label": "활용·사례",
+    "n": 9,
+    "pct": 15,
+    "delta": 9
+   },
+   {
+    "id": "edu_ai",
+    "label": "교육 AI",
+    "n": 7,
+    "pct": 12,
+    "delta": 6
+   },
+   {
+    "id": "product",
+    "label": "제품·서비스",
+    "n": 7,
+    "pct": 12,
+    "delta": 2
+   },
+   {
+    "id": "agent_dev",
+    "label": "에이전트·개발도구",
+    "n": 5,
+    "pct": 8,
+    "delta": -6
+   },
+   {
+    "id": "industry",
+    "label": "산업·투자·인프라",
+    "n": 5,
+    "pct": 8,
+    "delta": -12
+   },
+   {
+    "id": "policy_safety",
+    "label": "정책·윤리·안전",
+    "n": 3,
+    "pct": 5,
+    "delta": -5
+   }
+  ]
+ },
+ "daily": [
+  {
+   "d": "2025-12-08",
+   "n": 25,
+   "head": "AI 활용 교육 혁신, 인성 교육 강화, 학교폭력 및 유해 환경 예방, 그리고 교원 주도 평가 시스템 구축을 통해 미래 교육으로 나아가는 긍정적인 변화가 교육 현장에서 활발하게 진행 중이다.",
+   "src": "note"
+  },
+  {
+   "d": "2025-12-09",
+   "n": 25,
+   "head": "AI 시대에 발맞춰 교육 혁신, 교사의 역할 재정립, 학생 역량 강화, 학교폭력 예방, 국제 협력 확대 등 다각적인 노력을 통해 미래 교육을 위한 긍정적인 변화가 가속화되고 있습니다.",
+   "src": "note"
+  },
+  {
+   "d": "2025-12-10",
+   "n": 25,
+   "head": "AI 교육 확산과 더불어 뇌과학 기반 학습법 연구 및 전통적인 교육 방식의 가치 재조명을 통해 교육 혁신을 꾀하고, 지역 소멸 위기를 극복하려는 긍정적인 움직임이 활발하다.",
+   "src": "note"
+  },
+  {
+   "d": "2025-12-11",
+   "n": 25,
+   "head": "AI 시대, 교육은 사교육 의존에서 벗어나 교사의 성찰과 역량 강화를 통해 디지털 전환을 주도하며, AI 기술을 활용한 맞춤형 미래 교육으로 나아가는 🚀.",
+   "src": "note"
+  },
+  {
+   "d": "2025-12-12",
+   "n": 25,
+   "head": "AI와 에듀테크가 영양 교육부터 한국어 교육 혁신, 미래 교육 방향 설정까지 교육 전반에 걸쳐 긍정적인 변화를 이끌고 있으며, 동시에 윤리 및 문해력 교육 강화, 지역 간 균형 성장, 유아 식습관 개선 등 다각적인 노력을 통해 미래 교육의 질적 성장을 추구하고 있습니다",
+   "src": "note"
+  },
+  {
+   "d": "2025-12-13",
+   "n": 25,
+   "head": "AI 기술과 뇌과학 기반 학습법이 교육 혁신을 주도하고, 교육 불평등 해소 및 AI 인재 양성에 힘쓰며 미래 교육을 향해 나아가는 긍정적인 변화가 돋보입니다.",
+   "src": "note"
+  },
+  {
+   "d": "2025-12-14",
+   "n": 10,
+   "head": "AI 기술을 활용한 미래 교육으로의 전환이 가속화되는 가운데, 디지털 격차 해소, 문해력 강화, 서논술형 평가 확대 등 교육 전반의 혁신을 통해 잠재력을 극대화하려는 움직임이 활발하게 이루어지고 있다.",
+   "src": "note"
+  }
+ ],
+ "picks": {
+  "edu": [
+   {
+    "d": "2025-12-14",
+    "n": 4,
+    "t": "교육부, 인공지능(AI) 시대의 미래교육,한국과 경제협력개발기구(OECD)가 함께 그린다",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZRlF4cnljaWU1MEd0V0NfbTItZjBaNHBiU3cxZ0FCNWFYSkFuQ1FteXVGcmdyX3J2cmMwbTB4ZlBrSXpZRnRGamdEVGZSRDlzcnRLbUU1a0JkLTN0MVpya2lLRQ?oc=5",
+    "src": "대한민국교육신문"
+   },
+   {
+    "d": "2025-12-13",
+    "n": 7,
+    "t": "교육부 'K교육 AI' 내년 공개···李 \"기본도구로 쓰게 해야\"",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kRElmMVp4aHBUVGtaNWhUeXpMUGpZeVdyQkRaSGVhejdzUzJ5M0JGakZ4M1hUQzlYQXpJbXpyelJ5cUEzVm16cDEzMENHdHNwRWlv?oc=5",
+    "src": "네이트"
+   },
+   {
+    "d": "2025-12-11",
+    "n": 9,
+    "t": "전남교육청, 인공지능‧에듀테크 기반 미래교육 방향 모색",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BQUpsYXJ1TmQtVEJzdzlIRzE2dkI4eDhNV01wTlhsbjYtb19hcmFhYWdxZWxlNGNZbGJDdVZDV2dIanY2bzVRc2xTVXFQRDhUaFFSUzMwTUhVY3Q2VlVGS19mOEZLdE5V?oc=5",
+    "src": "목포타임즈"
+   }
+  ],
+  "paper": [
+   {
+    "d": "2025-12-13",
+    "n": 1,
+    "t": "Decoding Student Minds: Leveraging Conversational Agents for Psychological and Learning Analysis",
+    "url": "http://arxiv.org/abs/2512.10441v1",
+    "src": ""
+   },
+   {
+    "d": "2025-12-11",
+    "n": 3,
+    "t": "Uncovering Students' Inquiry Patterns in GenAI-Supported Clinical Practice: An Integration of Epistemic Network Analysis and Sequential Pattern Mining",
+    "url": "http://arxiv.org/abs/2512.06018v1",
+    "src": ""
+   },
+   {
+    "d": "2025-12-12",
+    "n": 4,
+    "t": "Artificial Intelligence in Personalized Education: Enhancing Learning Outcomes Through Adaptive Technologies and Data-Driven Insights",
+    "url": "https://www.semanticscholar.org/paper/5e49f5859b9ff39af30b0a3882f7b5795aed1794",
+    "src": "semantic_scholar"
+   }
+  ],
+  "tech": [
+   {
+    "d": "2025-12-09",
+    "n": 3,
+    "t": "[AI넷] [12월 4일 AI뉴스 모음] DeepSeek의 새로운 모델, GPT-5, Gemini-3 Pro와 경쟁 런웨이, 4.5 릴리스로 비디오 리더보드 1위 차지 Pomelli로 브랜드 마케팅 캠페인을 만들어보자. 구글 진전 이후 OpenAI의 '코드 레드' Amazon, re:Invent에서 AI 에이전트, 모델, 칩 공",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBNcV84Ym42bW9kVTJRazRxZFBXSFdKZ1liWDJoUzloUEhSbzJCSVVEdlBYbXFLWGpkN1VDNE9XUjQ?oc=5",
+    "src": "AI넷"
+   },
+   {
+    "d": "2025-12-12",
+    "n": 2,
+    "t": "OpenAI, 구글의 Gemini 3와 경쟁하기 위해 GPT-5.2 공개 By Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81OHdJZFZjbnR3RFRrYllTQUo0b1lwa3BYMmwzcHlIOEZVT2liUTBWSFdPUjNHa2c4ODRTQ2UzYm5QbzlJdnBhZWxFUnBoODd6Z1VNeGdBd0I0dXJBbWdQc3VycEwybWxtdDMzWm9LdUM?oc=5",
+    "src": "Investing.com 한국어"
+   },
+   {
+    "d": "2025-12-13",
+    "n": 3,
+    "t": "GPT-5.2 lands to top Google's Gemini 3 in the AI benchmark game just four weeks after GPT-5.1",
+    "url": "https://the-decoder.com/gpt-5-2-lands-to-top-googles-gemini-3-in-the-ai-benchmark-game-just-four-weeks-after-gpt-5-1/",
+    "src": "The Decoder"
+   }
+  ]
+ },
+ "generated_at": "2026-11-02T13:16:18+09:00"
+}

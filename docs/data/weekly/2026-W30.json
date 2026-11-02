@@ -1,0 +1,390 @@
+{
+ "key": "2026-W30",
+ "label": "2026년 7월 20일 ~ 26일",
+ "dates": [
+  "2026-07-20",
+  "2026-07-21",
+  "2026-07-22",
+  "2026-07-23",
+  "2026-07-24",
+  "2026-07-25",
+  "2026-07-26"
+ ],
+ "days_present": 7,
+ "counts": {
+  "edu": 66,
+  "paper": 35,
+  "tech": 55
+ },
+ "total": 156,
+ "prev_total": 153,
+ "top_entities": [
+  {
+   "name": "ChatGPT",
+   "kind": "model",
+   "n": 23,
+   "delta": -2
+  },
+  {
+   "name": "OpenAI",
+   "kind": "org",
+   "n": 13,
+   "delta": -2
+  },
+  {
+   "name": "NVIDIA",
+   "kind": "org",
+   "n": 12,
+   "delta": 10
+  },
+  {
+   "name": "Anthropic",
+   "kind": "org",
+   "n": 10,
+   "delta": 5
+  },
+  {
+   "name": "개인화 학습",
+   "kind": "tech",
+   "n": 8,
+   "delta": 3
+  },
+  {
+   "name": "에이전트",
+   "kind": "tech",
+   "n": 8,
+   "delta": 4
+  },
+  {
+   "name": "Claude",
+   "kind": "model",
+   "n": 7,
+   "delta": 2
+  },
+  {
+   "name": "생성형 AI",
+   "kind": "tech",
+   "n": 6,
+   "delta": -1
+  },
+  {
+   "name": "충북교육청",
+   "kind": "edu_org",
+   "n": 6,
+   "delta": 1
+  },
+  {
+   "name": "인천시교육청",
+   "kind": "edu_org",
+   "n": 5,
+   "delta": 2
+  },
+  {
+   "name": "GPU·데이터센터",
+   "kind": "tech",
+   "n": 4,
+   "delta": 3
+  },
+  {
+   "name": "교육부",
+   "kind": "edu_org",
+   "n": 4,
+   "delta": 1
+  }
+ ],
+ "rising": [
+  {
+   "name": "NVIDIA",
+   "kind": "org",
+   "n": 12,
+   "delta": 10
+  },
+  {
+   "name": "Anthropic",
+   "kind": "org",
+   "n": 10,
+   "delta": 5
+  },
+  {
+   "name": "에이전트",
+   "kind": "tech",
+   "n": 8,
+   "delta": 4
+  },
+  {
+   "name": "코딩 AI",
+   "kind": "tech",
+   "n": 4,
+   "delta": 4
+  },
+  {
+   "name": "개인화 학습",
+   "kind": "tech",
+   "n": 8,
+   "delta": 3
+  },
+  {
+   "name": "GPU·데이터센터",
+   "kind": "tech",
+   "n": 4,
+   "delta": 3
+  }
+ ],
+ "topic_share": {
+  "edu": [
+   {
+    "id": "policy",
+    "label": "정책·행정",
+    "n": 38,
+    "pct": 58,
+    "delta": 10
+   },
+   {
+    "id": "ai_digital",
+    "label": "AI·디지털교육",
+    "n": 12,
+    "pct": 18,
+    "delta": -6
+   },
+   {
+    "id": "classroom",
+    "label": "수업·교육과정",
+    "n": 10,
+    "pct": 15,
+    "delta": -4
+   },
+   {
+    "id": "teacher",
+    "label": "교사·교권",
+    "n": 5,
+    "pct": 8,
+    "delta": 5
+   },
+   {
+    "id": "global",
+    "label": "해외·연구",
+    "n": 1,
+    "pct": 2,
+    "delta": 2
+   }
+  ],
+  "paper": [
+   {
+    "id": "teacher_pd",
+    "label": "교사 전문성",
+    "n": 7,
+    "pct": 20,
+    "delta": -9
+   },
+   {
+    "id": "stem_ct",
+    "label": "컴퓨팅·STEM",
+    "n": 6,
+    "pct": 17,
+    "delta": 8
+   },
+   {
+    "id": "assessment",
+    "label": "평가·피드백",
+    "n": 5,
+    "pct": 14,
+    "delta": 14
+   },
+   {
+    "id": "personalized",
+    "label": "개인화·학습분석",
+    "n": 4,
+    "pct": 11,
+    "delta": 5
+   },
+   {
+    "id": "language",
+    "label": "언어·문해",
+    "n": 4,
+    "pct": 11,
+    "delta": -9
+   },
+   {
+    "id": "design_curric",
+    "label": "교수설계·교육과정",
+    "n": 4,
+    "pct": 11,
+    "delta": 2
+   },
+   {
+    "id": "inclusion_sel",
+    "label": "포용·정서·웰빙",
+    "n": 3,
+    "pct": 9,
+    "delta": 3
+   },
+   {
+    "id": "learning_sci",
+    "label": "학습과학·인지",
+    "n": 2,
+    "pct": 6,
+    "delta": -3
+   }
+  ],
+  "tech": [
+   {
+    "id": "model",
+    "label": "모델·연구",
+    "n": 26,
+    "pct": 47,
+    "delta": 4
+   },
+   {
+    "id": "industry",
+    "label": "산업·투자·인프라",
+    "n": 11,
+    "pct": 20,
+    "delta": 13
+   },
+   {
+    "id": "agent_dev",
+    "label": "에이전트·개발도구",
+    "n": 7,
+    "pct": 13,
+    "delta": 6
+   },
+   {
+    "id": "product",
+    "label": "제품·서비스",
+    "n": 7,
+    "pct": 13,
+    "delta": -3
+   },
+   {
+    "id": "policy_safety",
+    "label": "정책·윤리·안전",
+    "n": 3,
+    "pct": 5,
+    "delta": -11
+   },
+   {
+    "id": "edu_ai",
+    "label": "교육 AI",
+    "n": 1,
+    "pct": 2,
+    "delta": -3
+   }
+  ]
+ },
+ "daily": [
+  {
+   "d": "2026-07-20",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-07-21",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-07-22",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-07-23",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-07-24",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-07-25",
+   "n": 25,
+   "head": "",
+   "src": ""
+  },
+  {
+   "d": "2026-07-26",
+   "n": 25,
+   "head": "",
+   "src": ""
+  }
+ ],
+ "picks": {
+  "edu": [
+   {
+    "d": "2026-07-26",
+    "n": 6,
+    "t": "엔비디아, AI 에이전트로 수백만 명이 사용하는 크리에이티브 도구 확장",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51aWtQcGo5YVRhZGFPTFl6cVpLdXJPV3E5R29wXzd0bHFoazZYRDJ4d1BodUsyd2JTcjZRMFhrZDZOcUFVRE9KN2lfZlhIMGEtSWpnamxnZ1ZRQ2xydG5VYkV0enoyNHBPZEgw?oc=5",
+    "src": "미디어픽"
+   },
+   {
+    "d": "2026-07-22",
+    "n": 9,
+    "t": "도구에서 파트너로...WAIC에서 빛난 'AI 에이전트' 기술 -Xinhua",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Jd1R5eVhoQlNQSUc2OUdzb21RRHkyLThhUUFRLTEzWVJTYzFOZXRmUmlHTmxWZTlWZ2NLU194TkZ3U0F6UkZMZXE4c1lNdFJEZFN4dl9BSmJQNmJ4UUJUeG9kUlc3MlZBaWY4VWptZzR4YjUw?oc=5",
+    "src": "신화망"
+   },
+   {
+    "d": "2026-07-23",
+    "n": 7,
+    "t": "충북교육청, 교육혁신선도지역 공모 대응 본격화 : 네이버 블로그",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLXpBVlc3WXhUajN4TlhKTUNGbWdnRGRTTkhtdUN3bU5jR3NBYURmU3dNVF91NWJBYzg5enlCNEZkOVU4MER0Q3ZTTW5kaWRBbVp4RHl0WXBhN0FsdjdPTTd1Wl96QnhPeVRvd0taZ2lRTTNPVVU1SXMtMmtkbUZwTmg3RndZNjBpdDB2SzJEOA?oc=5",
+    "src": "Naver Blog"
+   }
+  ],
+  "paper": [
+   {
+    "d": "2026-07-25",
+    "n": 3,
+    "t": "Research on Teaching Strategies for High School English Writing Instruction Assisted by Generative Artificial Intelligence",
+    "url": "https://doi.org/10.63313/esw.9157",
+    "src": "openalex"
+   },
+   {
+    "d": "2026-07-20",
+    "n": 1,
+    "t": "Personalized learning with educational recommender systems, ontology networks, and educator-in-the-loop",
+    "url": "https://doi.org/10.24215/18509959.43.e1",
+    "src": "openalex"
+   },
+   {
+    "d": "2026-07-20",
+    "n": 5,
+    "t": "Adaptive AI-Powered Educational Games for Improving Communication Skills Among Engineering Students",
+    "url": "https://doi.org/10.38124/ijisrt/26jul073",
+    "src": "openalex"
+   }
+  ],
+  "tech": [
+   {
+    "d": "2026-07-25",
+    "n": 3,
+    "t": "새로운 중국 AI GLM-5.2, 모든 ChatGPT 모델을 제치고 Anthropic의 Claude Fable에만 근소한 차이",
+    "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNLXZBb3BLUlRkbGJKNTZWcWJaajF5TmN3amxaaVNPeWlOd1RnSm14ZzdXclF2bEk2cWxhdmtTVU01RVNtSHFZN3BjRzhtRzgyRXh3MVhlYVVubGNLdGJUR0djTHN3dVlPNG93N2luOXJqWEtBNEZ1MnBxU1NvNHZQWWJWU3cyaUlsUi1ldE5zZm05QWttbW9FX3djZGZaXzVyZ2sxUTlwcWVNYUZ3UzhZZ2ZrMzZGZjdESGZpbFlJU2V6XzNYNFp0cllGdVppMUhBbU9UeHVqQTBpUGVGWjhMNVpqOUdMWGMtNC1yaVZjZ0V6V3poQ1FTRlBCYkNybF95cEg3aVVDQkZ6SXYwQTJHLUxBSzRFZ3UwZlJ4RlZYNFhaRV93aDhpX1NpWmFFR0wwNU9tVlU5eGlsNERzUTNkXzNZc2pKeUJsNG13?oc=5",
+    "src": "Yellow.com"
+   },
+   {
+    "d": "2026-07-26",
+    "n": 4,
+    "t": "전 세계에서 OpenAI의 ChatGPT, API 및 Codex에 영향을 미치는 대규모 중단 발생",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9fU2ExakNaSjNYZnFSV0p0dy16bm5ZaW5CUjBOTGxCQTIzRXlHckx0ajhlS1ByeWE1d1ljT01fMElhM2JMS3BlNEptcjdQZ1pfOGlTSU40dkhteXZUX2JiS0Ffb1hMSFVpTjFwY3dtUGltQnQ4dktwWEgwSTVNUQ?oc=5",
+    "src": "Unite.AI"
+   },
+   {
+    "d": "2026-07-23",
+    "n": 4,
+    "t": "[외신 에스프레소] 스스로 해킹을 시작한 오픈AI 미공개 모델 'GPT-5.6'의 실체",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1SC1HY3NIcm1OdzNLeTc2LXZYV2hsVlhrVGltT09RcnF5REdxMVRycHZEY18zbVBhTTd5RzNhZWdSemgxOGx2Znp6UGN1aUNOLVJKa3dnNDlIdw?oc=5",
+    "src": "한국경제"
+   }
+  ]
+ },
+ "generated_at": "2026-11-02T13:16:18+09:00"
+}

@@ -21,6 +21,11 @@ on:
 permissions:
   contents: write
   pages: write
+  issues: write
+
+concurrency:
+  group: live-artifact-write
+  cancel-in-progress: false
 
 jobs:
   update:
@@ -78,7 +83,10 @@ jobs:
 
       - name: Install dependencies
         if: steps.check.outputs.skip != 'true'
-        run: pip install requests python-dateutil
+        run: |
+          pip install -r requirements.txt
+          # OG 이미지 렌더용 — 실패해도 페이지는 기본 이미지로 폴백하므로 작업을 막지 않는다
+          python -m playwright install --with-deps chromium || echo "::warning::playwright 설치 실패 — OG 이미지 생략"
 
       - name: Fetch news and generate HTML
         if: steps.check.outputs.skip != 'true'
@@ -123,7 +131,33 @@ jobs:
           git add docs/
           git diff --staged --quiet || \
             git commit -m "chore: daily news update $(TZ=Asia/Seoul date +%Y-%m-%d)"
+          git pull --rebase origin main
           git push
+
+      # 운영 경보 — 커버리지 이틀 연속 60% 미만 / 종합 사흘 연속 없음 / 폴백 이틀 연속이면 이슈를 연다(열린 게 있으면 댓글).
+      - name: Health check
+        if: always()
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          set +e
+          OUT=$(python scripts/healthcheck.py 2>&1); CODE=$?
+          echo "$OUT"
+          if [ "$CODE" -eq 2 ]; then
+            REASONS=$(echo "$OUT" | grep '^::warning::' | sed 's/^::warning:://' | sed 's/^/- /')
+            BODY=$(printf '자동 점검(%s)에서 경보 조건이 감지되었습니다.\n\n%s\n\n판단 기준과 복구 절차는 CLAUDE.md의 트러블슈팅을 보세요. 조건이 해소되면 이 이슈를 닫아 주세요.\n\n실행: %s/%s/actions/runs/%s' \
+              "$(TZ=Asia/Seoul date '+%Y-%m-%d %H:%M KST')" "$REASONS" "$GITHUB_SERVER_URL" "$GITHUB_REPOSITORY" "$GITHUB_RUN_ID")
+            EXISTING=$(gh issue list --label ops-alert --state open --json number --jq '.[0].number' 2>/dev/null || true)
+            if [ -n "$EXISTING" ]; then
+              gh issue comment "$EXISTING" --body "$BODY" && echo "[ALERT] 기존 이슈 #$EXISTING 에 댓글"
+            else
+              gh label create ops-alert --color D93F0B --description "자동 운영 경보" 2>/dev/null || true
+              gh issue create --title "[운영 경보] $(TZ=Asia/Seoul date +%Y-%m-%d) 지면 상태 점검 필요" --label ops-alert --body "$BODY" && echo "[ALERT] 이슈 생성"
+            fi
+          fi
+          exit 0
 
       # Pages 배포가 일시 장애로 실패/멈춤(building 고착)해도 레포 상태만 보는 skip 로직은
       # 재배포를 못 하므로, 최신 커밋이 실제 배포됐는지 확인하고 아니면 재빌드를 요청한다.

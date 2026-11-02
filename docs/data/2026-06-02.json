@@ -29,7 +29,8 @@
     "entities": [],
     "summary": "",
     "implication": "",
-    "ai": false
+    "ai": false,
+    "dup_of": "2026-06-01"
    },
    {
     "n": 3,
@@ -54,7 +55,7 @@
     "source": "뉴스워커",
     "published": "2026-06-01",
     "keyword": "AI디지털도구",
-    "topic": "teacher",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "전남교육청"
@@ -100,7 +101,7 @@
     "source": "호남교육신문",
     "published": "2026-06-01",
     "keyword": "AI교육",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "전남교육청"
@@ -392,7 +393,8 @@
     ],
     "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
     "implication": "",
-    "ai": false
+    "ai": false,
+    "dup_of": "2026-05-31"
    },
    {
     "n": 9,

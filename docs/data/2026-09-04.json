@@ -363,7 +363,8 @@
     ],
     "summary": "ChatGPT와 같은 생성형 AI는 기존 업무 방식의 한계를 넘어 압도적인 생산성 향상을 가능하게 하여 산업 혁신을 주도할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-09-03"
    },
    {
     "n": 8,
@@ -372,7 +373,7 @@
     "source": "OpenAI Blog",
     "published": "2026-08-27",
     "keyword": "",
-    "topic": "product",
+    "topic": "model",
     "kind": null,
     "entities": [
      "ChatGPT"

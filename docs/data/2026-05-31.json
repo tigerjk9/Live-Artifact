@@ -34,7 +34,8 @@
     ],
     "summary": "AI시대 교육 및 입시 방향과 교권 강화, 정치기본권에 대한 이견 등 교육감 공약의 주요 내용을 다룬 기사입니다.",
     "implication": "AI시대에 맞춰 교육과정을 재구성하고 학생들의 비판적 사고 능력 함양을 위한 수업 방식을 고민해볼 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-05-30"
    },
    {
     "n": 3,
@@ -153,7 +154,7 @@
     "source": "브릿지경제",
     "published": "2026-05-30",
     "keyword": "AI교육",
-    "topic": "student_care",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "충북교육청"
@@ -304,7 +305,8 @@
     ],
     "summary": "Warp의 오픈소스 개발 투자는 GPT-5.5와 결합하여 AI 기반 개발 도구 생태계를 확장하고 생산성을 혁신할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "dup_of": "2026-05-28"
    },
    {
     "n": 4,
@@ -383,7 +385,8 @@
     "topic": "model",
     "kind": null,
     "entities": [
-     "ChatGPT"
+     "ChatGPT",
+     "OpenAI"
     ],
     "summary": "GPT-4.5 퇴출은 오픈AI가 기술 혁신과 모델 최적화를 가속화하며, AI 모델 교체 주기가 더욱 빨라질 것임을 시사합니다.",
     "implication": "",

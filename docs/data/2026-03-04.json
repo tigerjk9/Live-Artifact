@@ -100,7 +100,7 @@
     "source": "경기종합뉴스",
     "published": "2026-03-04",
     "keyword": "에듀테크",
-    "topic": "classroom",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "개인화 학습"
@@ -317,8 +317,8 @@
     "topic": "industry",
     "kind": null,
     "entities": [
-     "NVIDIA",
-     "GPU·데이터센터"
+     "GPU·데이터센터",
+     "NVIDIA"
     ],
     "summary": "화웨이의 AI 컴퓨팅 클러스터는 엔비디아 독점 체제를 흔들 잠재력을 보여주며 AI 반도체 시장 경쟁 심화를 예고합니다.",
     "implication": "",
