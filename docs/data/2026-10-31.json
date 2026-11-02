@@ -10,7 +10,7 @@
     "source": "교육플러스",
     "published": "2026-10-30",
     "keyword": "생성형AI교육",
-    "topic": "classroom",
+    "topic": "ai_digital",
     "kind": "opinion",
     "entities": [
      "에이전트",
@@ -18,7 +18,9 @@
     ],
     "summary": "AI 에이전트 시대에 접어들며, 아이들의 독서 교육 방향을 고민하는 글입니다.",
     "implication": "AI 에이전트가 제공하는 정보를 비판적으로 독해하고 활용하는 수업 활동을 구상할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
    },
    {
     "n": 2,
@@ -27,7 +29,7 @@
     "source": "더팩트",
     "published": "2026-10-30",
     "keyword": "AI교육",
-    "topic": "classroom",
+    "topic": "policy",
     "kind": null,
     "entities": [
      "부산시교육청",
@@ -35,7 +37,9 @@
     ],
     "summary": "부산교육청이 미래교육부터 독서, 학교 현장까지 아우르며 교육 변화의 폭을 넓힌다.",
     "implication": "미래교육 및 독서 활동 강화를 통해 학생들이 주도적으로 참여하는 수업을 만들어갈 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
    },
    {
     "n": 3,
@@ -44,14 +48,16 @@
     "source": "베리타스알파",
     "published": "2026-10-30",
     "keyword": "교육혁신",
-    "topic": "policy",
+    "topic": "higher_ed",
     "kind": null,
     "entities": [
      "사교육"
     ],
     "summary": "울산대 교육대학원이 고등교육 정책 변화에 발맞춰 교육 혁신 방향을 모색합니다.",
     "implication": "교육혁신 방향 모색 소식은 우리 수업에 적용할 새로운 교수법이나 평가 방식 아이디어를 얻는 계기가 될 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
    },
    {
     "n": 4,
@@ -67,7 +73,8 @@
     ],
     "summary": "경기도교육청북부연수원은 2026년 AI·디지털 기반 교육 혁신을 위한 직무연수를 운영합니다.",
     "implication": "이 연수를 통해 2026년 교육과정 변화에 맞춰 AI와 디지털 기술을 수업에 효과적으로 적용할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 5,
@@ -83,7 +90,8 @@
     ],
     "summary": "인천시교육청이 캐나다와 AI 교육 동맹을 맺고 ‘읽걷쓰AI’ 프로그램을 세계로 확장한다.",
     "implication": "캐나다와의 AI교육 동맹으로 새로운 글로벌 AI 수업 콘텐츠를 활용할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 6,
@@ -99,7 +107,8 @@
     ],
     "summary": "제주 교육감이 현안 소통에 나섰지만, 저조한 참여율이 해결해야 할 과제로 드러났습니다.",
     "implication": "교육 현안 소통의 낮은 참여율을 보며 수업에서 학생들의 적극적인 의견 개진 기회를 확대할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 7,
@@ -115,7 +124,8 @@
     ],
     "summary": "충남교육청이 2027학년도에 적용될 유치원 교육과정을 심의했습니다.",
     "implication": "현재 심의 중인 2027학년도 유치원 교육과정의 방향을 미리 파악하여 수업 계획에 반영할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 8,
@@ -124,7 +134,7 @@
     "source": "NSP통신",
     "published": "2026-10-30",
     "keyword": "교육정책",
-    "topic": "policy",
+    "topic": "student_care",
     "kind": null,
     "entities": [
      "경기도교육청",
@@ -132,7 +142,9 @@
     ],
     "summary": "경기도교육청이 안산 지역 이주배경 학생들의 교육을 위한 해결 방안을 모색한다는 내용입니다.",
     "implication": "이주배경 학생들의 다양한 문화를 이해하고 수업에 유연하게 적용할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
    },
    {
     "n": 9,
@@ -141,14 +153,16 @@
     "source": "로이슈",
     "published": "2026-10-30",
     "keyword": "교육현장",
-    "topic": "policy",
+    "topic": "student_care",
     "kind": null,
     "entities": [
      "인천시교육청"
     ],
     "summary": "인천시교육청이 이소연 박사 강연을 통해 우주과학 진로교육 현장을 넓혔으며, 500여 명이 참여했습니다.",
     "implication": "우주과학 분야 전문가 초청 강연으로 학생들의 진로 탐색을 심화하는 기회를 제공할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
    },
    {
     "n": 10,
@@ -157,12 +171,14 @@
     "source": "한국강사신문",
     "published": "2026-10-31",
     "keyword": "",
-    "topic": "classroom",
+    "topic": "teacher",
     "kind": null,
     "entities": [],
     "summary": "칼럼니스트는 번아웃을 겪으며 죽음학 철학을 접하고, '열심히' 살기보다 '재밌게' 사는 삶의 의미를 발견했습니다.",
     "implication": "학생들이 자신만의 '마지막 말'을 생각하며, 타인의 기준이 아닌 '재미'와 '의미'를 찾는 삶을 탐색하는 수업을 해볼 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
    }
   ],
   "paper": [
@@ -173,14 +189,17 @@
     "source": "openalex",
     "published": "2026-10-28",
     "keyword": "Connectivism",
-    "topic": "teacher_pd",
+    "topic": "language",
     "kind": null,
     "entities": [],
     "summary": "이 연구는 예비 외국어 교사의 문화 간 인식 함양을 위해 안면 이론, 상호문화 의사소통 능력, 협력 학습 통합 프레임워크를 제안하여, 교사가 상호문화 대화 중재자로서 학습자를 세계화된 사회에 대비시킵니다.",
     "implication": "",
     "ai": true,
     "authors": "Matteo Sanesi",
-    "pdf": "https://philology-journal.ru/en/article/phil20260504/pdf"
+    "pdf": "https://philology-journal.ru/en/article/phil20260504/pdf",
+    "topic_rule": "teacher_pd",
+    "topic_src": "ai",
+    "title_ko": "다문화 교육 환경에서 예비 외국어 교사의 상호문화 인식 함양"
    },
    {
     "n": 2,
@@ -196,7 +215,9 @@
     "implication": "",
     "ai": true,
     "authors": "Ellen Marie I. Villar, Bernarda R. Villarojo",
-    "pdf": "https://graspepress.com/ijsis/article/download/275/260"
+    "pdf": "https://graspepress.com/ijsis/article/download/275/260",
+    "topic_src": "ai",
+    "title_ko": "학업 회복 및 접근 가능한 학습(ARAL) 프로그램에서 교사 자기 효능감과 사회정서학습 통합: 교사 효과성에 미치는 영향"
    },
    {
     "n": 3,
@@ -205,7 +226,7 @@
     "source": "openalex",
     "published": "2026-10-28",
     "keyword": "",
-    "topic": "assessment",
+    "topic": "inclusion_sel",
     "kind": null,
     "entities": [
      "로봇·휴머노이드"
@@ -214,7 +235,10 @@
     "implication": "",
     "ai": true,
     "authors": "Mireya Zapata, Andrès Rubio Proaño 외 1명",
-    "pdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0345934&type=printable"
+    "pdf": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0345934&type=printable",
+    "topic_rule": "assessment",
+    "topic_src": "ai",
+    "title_ko": "상호작용 로봇 팔과 실시간 시각 피드백을 활용한 수어 교육 프로토콜"
    },
    {
     "n": 4,
@@ -223,14 +247,17 @@
     "source": "openalex",
     "published": "2026-10-29",
     "keyword": "",
-    "topic": "stem_ct",
+    "topic": "design_curric",
     "kind": null,
     "entities": [],
     "summary": "인도네시아 이슬람 초등학교에서 이슬람 종교 교육과 과학의 통합 교수법을 질적 연구로 분석하여 꾸란 중심의 통합 실현 특성을 파악했으며, 이는 향후 체계적인 통합 학습 모델 개발의 기반을 마련합니다.",
     "implication": "",
     "ai": true,
     "authors": "Ismail Ismail, Anip Dwi Saputro 외 1명",
-    "pdf": "https://siducat.org/index.php/ghaitsa/article/download/3001/2001"
+    "pdf": "https://siducat.org/index.php/ghaitsa/article/download/3001/2001",
+    "topic_rule": "stem_ct",
+    "topic_src": "ai",
+    "title_ko": "실천에서 프레임워크로: 인도네시아 이슬람 초등학교의 이슬람 종교 교육과 과학 통합"
    },
    {
     "n": 5,
@@ -249,7 +276,9 @@
     "implication": "",
     "ai": true,
     "authors": "Nur Indah Fitriani, Harjito Harjito 외 1명",
-    "pdf": "https://teewanjournal.com/index.php/juragan/article/download/4894/3493"
+    "pdf": "https://teewanjournal.com/index.php/juragan/article/download/4894/3493",
+    "topic_src": "ai",
+    "title_ko": "중학교 리더십에서 단호한 의사소통을 통한 교육자 전문 역량 개발의 역동성"
    }
   ],
   "tech": [
@@ -260,7 +289,7 @@
     "source": "AI Times",
     "published": "2026-10-30",
     "keyword": "",
-    "topic": "product",
+    "topic": "industry",
     "kind": null,
     "entities": [
      "OpenAI"
@@ -268,7 +297,9 @@
     "summary": "오픈AI는 기업용 AI 시장 지배력을 강화하며, AI 기술의 비즈니스 핵심 기능 통합을 가속화할 것입니다.",
     "implication": "",
     "ai": true,
-    "dup_of": "2026-10-30"
+    "dup_of": "2026-10-30",
+    "topic_rule": "product",
+    "topic_src": "ai"
    },
    {
     "n": 2,
@@ -284,7 +315,8 @@
     ],
     "summary": "LG CNS의 AI·클라우드 성장 견인은 기업의 AI 솔루션 투자 확대를 통해 AI 산업 생태계 전반의 성숙을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 3,
@@ -293,7 +325,7 @@
     "source": "OpenAI Blog",
     "published": "2026-10-27",
     "keyword": "",
-    "topic": "product",
+    "topic": "industry",
     "kind": null,
     "entities": [
      "OpenAI",
@@ -303,7 +335,9 @@
     "summary": "OpenAI와 Oracle의 협력은 AI 모델 및 앱의 기업용 확장을 위한 클라우드 인프라 경쟁을 심화하며, AI 생태계의 다각화를 촉진할 것입니다.",
     "implication": "",
     "ai": true,
-    "dup_of": "2026-10-28"
+    "dup_of": "2026-10-28",
+    "topic_rule": "product",
+    "topic_src": "ai"
    },
    {
     "n": 4,
@@ -312,7 +346,7 @@
     "source": "Vietnam.vn",
     "published": "2026-10-30",
     "keyword": "AI정책",
-    "topic": "model",
+    "topic": "policy_safety",
     "kind": null,
     "entities": [
      "ChatGPT",
@@ -321,7 +355,9 @@
     ],
     "summary": "주요 AI 플랫폼의 계정 잠금은 AI 생태계의 지속 가능한 성장을 위해 투명한 정책, 강력한 보안, 책임 있는 활용 방안 마련이 필수적임을 시사합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
    },
    {
     "n": 5,
@@ -330,7 +366,7 @@
     "source": "Martin Cid Magazine",
     "published": "2026-10-30",
     "keyword": "오픈AI",
-    "topic": "industry",
+    "topic": "policy_safety",
     "kind": null,
     "entities": [
      "OpenAI",
@@ -338,7 +374,9 @@
     ],
     "summary": "텍사스주의 제소는 AI 기술 생태계에 미성년자 보호를 위한 엄격한 규제와 기업의 책임 강화를 촉발할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "industry",
+    "topic_src": "ai"
    },
    {
     "n": 6,
@@ -357,7 +395,8 @@
     ],
     "summary": "거대 기업들의 신규 AI 모델 봇물은 기술 혁신 경쟁을 심화시키고 AI 산업 생태계 전반의 급격한 재편을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 7,
@@ -371,7 +410,8 @@
     "entities": [],
     "summary": "AI가 신소재 개발 등 융합 분야로 확장되어 산업 혁신을 가속하고 AI 생태계의 새로운 성장 동력이 될 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 8,
@@ -380,7 +420,7 @@
     "source": "OpenAI Blog",
     "published": "2026-10-29",
     "keyword": "",
-    "topic": "product",
+    "topic": "usecase",
     "kind": null,
     "entities": [
      "ChatGPT",
@@ -388,7 +428,9 @@
     ],
     "summary": "오피니언: ChatGPT Enterprise의 954% ROI는 AI의 실질적 사업 가치를 입증하며 전사적 생성형 AI 도입을 폭발적으로 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "product",
+    "topic_src": "ai"
    },
    {
     "n": 9,
@@ -397,7 +439,7 @@
     "source": "OpenAI Blog",
     "published": "2026-10-26",
     "keyword": "",
-    "topic": "product",
+    "topic": "usecase",
     "kind": null,
     "entities": [
      "ChatGPT",
@@ -405,7 +447,9 @@
     ],
     "summary": "ChatGPT의 업무 영역 확장은 생성형 AI가 산업의 핵심 인프라로 진화하며 AI 기술 및 서비스 시장의 폭발적 성장을 견인할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "product",
+    "topic_src": "ai"
    },
    {
     "n": 10,
@@ -414,17 +458,26 @@
     "source": "OrcaRouter",
     "published": "2026-10-30",
     "keyword": "GPT",
-    "topic": "model",
+    "topic": "policy_safety",
     "kind": null,
     "entities": [
      "ChatGPT"
     ],
     "summary": "저가로 고성능 AI 모델 배포가 가능해지면서, AI 기술의 민주화와 더불어 심각한 보안 위협 관리가 핵심 과제가 될 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
    }
   ]
  },
  "fallback": {},
- "notes": {}
+ "notes": {},
+ "enrich": {
+  "hash": "3de5db52b82b",
+  "model": "gemini-2.5-flash",
+  "topics": 16,
+  "title_ko": 5,
+  "summaries": 0
+ }
 }

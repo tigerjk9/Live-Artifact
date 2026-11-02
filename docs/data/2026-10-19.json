@@ -10,12 +10,14 @@
     "source": "뉴스1",
     "published": "2026-10-18",
     "keyword": "교육혁신",
-    "topic": "global",
+    "topic": "policy",
     "kind": null,
     "entities": [],
     "summary": "북한은 교원 양성 사업을 혁신하며 이론과 실천을 결합하겠다고 밝혔습니다.",
     "implication": "이론 수업 후 실생활 사례와 연결하여 학생들이 배운 내용을 적용해볼 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "global",
+    "topic_src": "ai"
    },
    {
     "n": 2,
@@ -32,7 +34,8 @@
     ],
     "summary": "충남교육청과 전교조는 현장체험학습 실시 여부를 교직원 의견 반영해 결정하고, 활성화 방안 추진에 잠정 합의했다.",
     "implication": "현장체험학습 계획 시 교직원 의견이 반영되고, 교육청 지원으로 업무 부담이 줄어들 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 3,
@@ -49,7 +52,8 @@
     ],
     "summary": "대전교육정책연구소는 학생 마음건강부터 AI 교육까지 다양한 분야에서 성과를 거두었습니다.",
     "implication": "연구소의 AI 교육 및 마음건강 관련 자료를 수업에 활용하는 방안을 모색할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 4,
@@ -58,14 +62,16 @@
     "source": "중도일보",
     "published": "2026-10-18",
     "keyword": "교육정책",
-    "topic": "policy",
+    "topic": "classroom",
     "kind": null,
     "entities": [
      "경기도교육청"
     ],
     "summary": "경기교육은 가족 일상에서 인성교육의 기회를 찾고 있으며, 이를 식탁과 놀이 활동으로 확장하고 있습니다.",
     "implication": "학생들이 가족 식사나 놀이에서 경험한 인성 요소를 수업에서 공유하고 학급 규칙으로 만들어볼 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
    },
    {
     "n": 5,
@@ -81,7 +87,8 @@
     ],
     "summary": "코나미는 생성형 AI를 도구로 보고, 혁신의 본질은 사람의 역량에서 나온다고 강조했습니다.",
     "implication": "학생들에게 생성형 AI는 도구임을 인식시키고, 본인의 독창적인 아이디어와 문제 해결 능력을 발전시키는 데 집중하도록 안내할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 6,
@@ -97,7 +104,8 @@
     ],
     "summary": "일본은 디지털교과서 영상 길이를 3분으로 제한하는데, 그 이유에 대한 의문을 제기합니다.",
     "implication": "짧은 영상 자료를 활용하여 학생들의 집중력을 높이는 데 효과적일 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 7,
@@ -113,7 +121,8 @@
     ],
     "summary": "충남교육청이 충남소프트웨어교육체험센터를 방문했습니다.",
     "implication": "학생들에게 충남소프트웨어교육체험센터를 소개하여 관련 교육 참여 기회를 안내할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 8,
@@ -129,7 +138,8 @@
     ],
     "summary": "디지털융합교육원 원장이 서울대에서 '젠스파크AI 에이전트' 4시간 특강을 진행했습니다.",
     "implication": "\"젠스파크 AI 에이전트\"처럼 최신 AI 기술 동향을 수업에 소개해 학생들의 흥미를 유발할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 9,
@@ -146,7 +156,8 @@
     ],
     "summary": "충남교육청이 미래산업 대비 AI·로봇 직업교육을 강화하며 교사들의 체질 개선을 추진합니다.",
     "implication": "미래 산업 관련 AI·로봇 직업교육 자료를 찾아 수업에 활용하여 학생들의 흥미를 높일 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 10,
@@ -162,7 +173,8 @@
     ],
     "summary": "김대중 전남광주통합특별시교육감이 취임 100일을 맞아 전남광주 교육이 대한민국의 새로운 표준이 될 것이라고 밝혔습니다.",
     "implication": "전남광주 교육이 미래 표준이 될 방안을 학생들이 직접 탐구해보는 활동을 진행할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    }
   ],
   "paper": [
@@ -185,7 +197,9 @@
     "implication": "",
     "ai": true,
     "authors": "Jason Zagami",
-    "pdf": "https://link.springer.com/content/pdf/10.1007/s11423-026-10746-4.pdf"
+    "pdf": "https://link.springer.com/content/pdf/10.1007/s11423-026-10746-4.pdf",
+    "topic_src": "ai",
+    "title_ko": "인지적 파트너로서의 생성형 AI: 학부 교사 교육의 개인화된 GPT와 차별화된 학습"
    },
    {
     "n": 2,
@@ -203,7 +217,9 @@
     "implication": "",
     "ai": true,
     "authors": "Sy-Miin Chow, Jungmin Lee 외 1명",
-    "pdf": "http://dx.doi.org/10.1080/26939169.2024.2302181"
+    "pdf": "http://dx.doi.org/10.1080/26939169.2024.2302181",
+    "topic_src": "ai",
+    "title_ko": "개별화된 경로 및 자원을 통한 맞춤형 교육(iPRACTISE): 맞춤형 교육 설계 및 평가를 위한 개념 증명 연구"
    },
    {
     "n": 3,
@@ -219,7 +235,9 @@
     "implication": "",
     "ai": true,
     "authors": "Pratima devi, Anjana sonker",
-    "pdf": "https://doi.org/10.25258/ijddt.16.87s.9"
+    "pdf": "https://doi.org/10.25258/ijddt.16.87s.9",
+    "topic_src": "ai",
+    "title_ko": "AI 시대의 교사 역량: 교사의 태도, 적응력, 전문적 헌신에 대한 고찰"
    },
    {
     "n": 4,
@@ -228,14 +246,17 @@
     "source": "openalex",
     "published": "2026-10-14",
     "keyword": "edtech",
-    "topic": "assessment",
+    "topic": "design_curric",
     "kind": null,
     "entities": [],
     "summary": "이 논문은 나이지리아 교육의 디지털 격차 해소를 위해 기술 기반 교육이 미래에 미칠 영향을 UTAUT 기반의 질적 분석으로 평가하여, 포괄적이고 지속 가능한 디지털 학습을 위한 인프라 투자, 교사 훈련 및 포용적 정책의 필요성을 제안합니다.",
     "implication": "",
     "ai": true,
     "authors": "Okezie Nwaelele PhD",
-    "pdf": "https://iiardjournals.org/get/JHSP/VOL. 11 NO. 7 2025/Technology Driven-Teaching 130-146.pdf"
+    "pdf": "https://iiardjournals.org/get/JHSP/VOL. 11 NO. 7 2025/Technology Driven-Teaching 130-146.pdf",
+    "topic_rule": "assessment",
+    "topic_src": "ai",
+    "title_ko": "나이지리아 교육 부문의 미래 발전을 위한 기술 기반 교수 학습"
    },
    {
     "n": 5,
@@ -244,14 +265,17 @@
     "source": "openalex",
     "published": "2026-10-14",
     "keyword": "edtech",
-    "topic": "design_curric",
+    "topic": "literacy_ethics",
     "kind": null,
     "entities": [],
     "summary": "본 논문은 교육 분야 디지털 플랫폼의 상업적 의존성 심화로 인한 문제점을 코리 닥터로우의 '엔쉬티피케이션' 개념을 적용하여 분석하며, 시장 집중과 단기적 이윤 추구가 교육기관 운영 및 공공 정책에 미치는 부정적 영향을 고찰합니다.",
     "implication": "",
     "ai": true,
     "authors": "Manouchehr Madani Civi",
-    "pdf": "https://edrev.asu.edu/index.php/ER/article/download/5098/2459"
+    "pdf": "https://edrev.asu.edu/index.php/ER/article/download/5098/2459",
+    "topic_rule": "design_curric",
+    "topic_src": "ai",
+    "title_ko": "코리 닥터로우의 '엔쉬티피케이션: 모든 것이 갑자기 나빠진 이유와 해결책' 리뷰"
    }
   ],
   "tech": [
@@ -262,12 +286,14 @@
     "source": "AI Times",
     "published": "2026-10-19",
     "keyword": "",
-    "topic": "edu_ai",
+    "topic": "model",
     "kind": null,
     "entities": [],
     "summary": "AI 리더들이 딥러닝 핵심 원리를 밑바닥부터 학습하여 산업의 기술 자립과 고도화된 혁신을 주도할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "edu_ai",
+    "topic_src": "ai"
    },
    {
     "n": 2,
@@ -285,7 +311,8 @@
     "summary": "LLM의 한계를 보완하기 위한 결정론적 검증 기술의 중요성이 커지며, AI 개발은 신뢰성 확보를 위한 복합적 접근 방식으로 전환될 것입니다.",
     "implication": "",
     "ai": true,
-    "dup_of": "2026-10-18"
+    "dup_of": "2026-10-18",
+    "topic_src": "ai"
    },
    {
     "n": 3,
@@ -303,7 +330,8 @@
     "summary": "딥시크의 코딩 성능 강화 및 API 공개는 AI 개발 생산성을 높여 AI 기술 생태계 확장을 가속화할 것입니다.",
     "implication": "",
     "ai": true,
-    "dup_of": "2026-10-18"
+    "dup_of": "2026-10-18",
+    "topic_src": "ai"
    },
    {
     "n": 4,
@@ -317,7 +345,8 @@
     "entities": [],
     "summary": "리퀴드 AI의 d1-울트라 공개는 멀티모달 의사결정 AI의 성능 한계를 확장하여 실제 산업 적용을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 5,
@@ -326,7 +355,7 @@
     "source": "AI Times",
     "published": "2026-10-18",
     "keyword": "",
-    "topic": "product",
+    "topic": "model",
     "kind": null,
     "entities": [
      "영상·이미지 생성",
@@ -334,7 +363,9 @@
     ],
     "summary": "영상 생성 및 감정 조절 음성 등 다기능 AI 모델 신작은 AI 기술 고도화와 산업 생태계의 전방위적 혁신을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "product",
+    "topic_src": "ai"
    },
    {
     "n": 6,
@@ -353,7 +384,8 @@
     ],
     "summary": "AI는 대규모 투자로 산업 혁신을 가속화하나, 수출 규제 및 안전성 소송으로 규제와 지정학적 도전이 심화될 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 7,
@@ -371,7 +403,8 @@
     "summary": "OpenAI 기반 생성형 AI가 마케팅 캠페인 기획 및 실행 과정을 효율화하여, 산업 특화 AI 솔루션 시장의 성장을 가속할 것입니다.",
     "implication": "",
     "ai": true,
-    "dup_of": "2026-10-16"
+    "dup_of": "2026-10-16",
+    "topic_src": "ai"
    },
    {
     "n": 8,
@@ -380,7 +413,7 @@
     "source": "SeattleN",
     "published": "2026-10-18",
     "keyword": "오픈AI",
-    "topic": "product",
+    "topic": "policy_safety",
     "kind": null,
     "entities": [
      "OpenAI",
@@ -389,7 +422,9 @@
     ],
     "summary": "오픈AI 에이전트의 반복된 사고는 AI 기술의 신뢰성 및 데이터 보안 위협을 심화시켜, AI 기술 생태계 전반의 규제 강화와 책임 개발을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "product",
+    "topic_src": "ai"
    },
    {
     "n": 9,
@@ -406,7 +441,8 @@
     ],
     "summary": "앤트로픽 AI의 양자회로 설계 개선은 AI가 복잡한 과학 기술 연구 개발 과정을 획기적으로 단축하여 산업 전반의 혁신을 가속화할 잠재력을 보여줍니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 10,
@@ -415,7 +451,7 @@
     "source": "OpenAI Blog",
     "published": "2026-10-07",
     "keyword": "",
-    "topic": "product",
+    "topic": "usecase",
     "kind": null,
     "entities": [
      "ChatGPT"
@@ -423,10 +459,19 @@
     "summary": "대화형 AI가 단순 정보 제공을 넘어 호텔 예약 등 상거래 서비스의 직접적인 인터페이스로 진화하며 AI 기반 비즈니스 모델 확장을 가속화할 것입니다.",
     "implication": "",
     "ai": true,
-    "dup_of": "2026-10-18"
+    "dup_of": "2026-10-18",
+    "topic_rule": "product",
+    "topic_src": "ai"
    }
   ]
  },
  "fallback": {},
- "notes": {}
+ "notes": {},
+ "enrich": {
+  "hash": "a19600c38290",
+  "model": "gemini-2.5-flash",
+  "topics": 8,
+  "title_ko": 5,
+  "summaries": 0
+ }
 }

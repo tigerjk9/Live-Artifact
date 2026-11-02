@@ -125,7 +125,7 @@
     <header class="board-head">
       <div class="board-head-main">
         <h2 class="board-title" id="board-title">오늘의 흐름 <span class="board-tag">자동 집계</span></h2>
-        <p class="board-headline">오늘 25건 · 가장 많이 등장한 주체는 OpenAI(2건), Amazon(1건) · 섹션을 가로지르는 흐름 4개</p>
+        <p class="board-headline">오늘 25건 · 가장 많이 등장한 주체는 OpenAI(2건), Amazon(1건) · 섹션을 가로지르는 흐름 5개</p>
       </div>
       <button class="board-toggle" type="button" aria-expanded="true" aria-controls="board-body">접기</button>
     </header>
@@ -136,42 +136,46 @@
           <div class="topic-row" data-cat="edu">
             <span class="topic-cat">교육<b>10</b></span>
             <div class="topic-bar" role="list">
-              <button type="button" class="topic-seg seg-0" role="listitem" style="flex-basis:40.0%" data-topic-filter="edu:classroom" title="수업·교육과정 4건" aria-label="수업·교육과정 4건"></button>
-              <button type="button" class="topic-seg seg-1" role="listitem" style="flex-basis:40.0%" data-topic-filter="edu:policy" title="정책·행정 4건" aria-label="정책·행정 4건"></button>
-              <button type="button" class="topic-seg seg-2" role="listitem" style="flex-basis:20.0%" data-topic-filter="edu:ai_digital" title="AI·디지털교육 2건" aria-label="AI·디지털교육 2건"></button>
+              <button type="button" class="topic-seg seg-0" role="listitem" style="flex-basis:50.0%" data-topic-filter="edu:policy" title="정책·행정 5건" aria-label="정책·행정 5건"></button>
+              <button type="button" class="topic-seg seg-1" role="listitem" style="flex-basis:40.0%" data-topic-filter="edu:ai_digital" title="AI·디지털교육 4건" aria-label="AI·디지털교육 4건"></button>
+              <button type="button" class="topic-seg seg-2" role="listitem" style="flex-basis:10.0%" data-topic-filter="edu:classroom" title="수업·교육과정 1건" aria-label="수업·교육과정 1건"></button>
             </div>
             <div class="topic-legend">
-              <button type="button" class="topic-chip seg-0" data-topic-filter="edu:classroom">수업·교육과정<b>4</b></button>
-              <button type="button" class="topic-chip seg-1" data-topic-filter="edu:policy">정책·행정<b>4</b></button>
-              <button type="button" class="topic-chip seg-2" data-topic-filter="edu:ai_digital">AI·디지털교육<b>2</b></button>
+              <button type="button" class="topic-chip seg-0" data-topic-filter="edu:policy">정책·행정<b>5</b></button>
+              <button type="button" class="topic-chip seg-1" data-topic-filter="edu:ai_digital">AI·디지털교육<b>4</b></button>
+              <button type="button" class="topic-chip seg-2" data-topic-filter="edu:classroom">수업·교육과정<b>1</b></button>
             </div>
           </div>
           <div class="topic-row" data-cat="paper">
             <span class="topic-cat">논문<b>5</b></span>
             <div class="topic-bar" role="list">
-              <button type="button" class="topic-seg seg-0" role="listitem" style="flex-basis:60.0%" data-topic-filter="paper:teacher_pd" title="교사 전문성 3건" aria-label="교사 전문성 3건"></button>
-              <button type="button" class="topic-seg seg-1" role="listitem" style="flex-basis:40.0%" data-topic-filter="paper:design_curric" title="교수설계·교육과정 2건" aria-label="교수설계·교육과정 2건"></button>
+              <button type="button" class="topic-seg seg-0" role="listitem" style="flex-basis:40.0%" data-topic-filter="paper:teacher_pd" title="교사 전문성 2건" aria-label="교사 전문성 2건"></button>
+              <button type="button" class="topic-seg seg-1" role="listitem" style="flex-basis:20.0%" data-topic-filter="paper:personalized" title="개인화·학습분석 1건" aria-label="개인화·학습분석 1건"></button>
+              <button type="button" class="topic-seg seg-2" role="listitem" style="flex-basis:20.0%" data-topic-filter="paper:design_curric" title="교수설계·교육과정 1건" aria-label="교수설계·교육과정 1건"></button>
+              <button type="button" class="topic-seg seg-3" role="listitem" style="flex-basis:20.0%" data-topic-filter="paper:language" title="언어·문해 1건" aria-label="언어·문해 1건"></button>
             </div>
             <div class="topic-legend">
-              <button type="button" class="topic-chip seg-0" data-topic-filter="paper:teacher_pd">교사 전문성<b>3</b></button>
-              <button type="button" class="topic-chip seg-1" data-topic-filter="paper:design_curric">교수설계·교육과정<b>2</b></button>
+              <button type="button" class="topic-chip seg-0" data-topic-filter="paper:teacher_pd">교사 전문성<b>2</b></button>
+              <button type="button" class="topic-chip seg-1" data-topic-filter="paper:personalized">개인화·학습분석<b>1</b></button>
+              <button type="button" class="topic-chip seg-2" data-topic-filter="paper:design_curric">교수설계·교육과정<b>1</b></button>
+              <button type="button" class="topic-chip seg-3" data-topic-filter="paper:language">언어·문해<b>1</b></button>
             </div>
           </div>
           <div class="topic-row" data-cat="tech">
             <span class="topic-cat">기술<b>10</b></span>
             <div class="topic-bar" role="list">
-              <button type="button" class="topic-seg seg-0" role="listitem" style="flex-basis:30.0%" data-topic-filter="tech:model" title="모델·연구 3건" aria-label="모델·연구 3건"></button>
+              <button type="button" class="topic-seg seg-0" role="listitem" style="flex-basis:20.0%" data-topic-filter="tech:agent_dev" title="에이전트·개발도구 2건" aria-label="에이전트·개발도구 2건"></button>
               <button type="button" class="topic-seg seg-1" role="listitem" style="flex-basis:20.0%" data-topic-filter="tech:industry" title="산업·투자·인프라 2건" aria-label="산업·투자·인프라 2건"></button>
               <button type="button" class="topic-seg seg-2" role="listitem" style="flex-basis:20.0%" data-topic-filter="tech:usecase" title="활용·사례 2건" aria-label="활용·사례 2건"></button>
-              <button type="button" class="topic-seg seg-3" role="listitem" style="flex-basis:10.0%" data-topic-filter="tech:agent_dev" title="에이전트·개발도구 1건" aria-label="에이전트·개발도구 1건"></button>
-              <button type="button" class="topic-seg seg-4" role="listitem" style="flex-basis:10.0%" data-topic-filter="tech:edu_ai" title="교육 AI 1건" aria-label="교육 AI 1건"></button>
-              <button type="button" class="topic-seg seg-5" role="listitem" style="flex-basis:10.0%" data-topic-filter="tech:policy_safety" title="정책·윤리·안전 1건" aria-label="정책·윤리·안전 1건"></button>
+              <button type="button" class="topic-seg seg-3" role="listitem" style="flex-basis:20.0%" data-topic-filter="tech:policy_safety" title="정책·윤리·안전 2건" aria-label="정책·윤리·안전 2건"></button>
+              <button type="button" class="topic-seg seg-4" role="listitem" style="flex-basis:10.0%" data-topic-filter="tech:product" title="제품·서비스 1건" aria-label="제품·서비스 1건"></button>
+              <button type="button" class="topic-seg seg-5" role="listitem" style="flex-basis:10.0%" data-topic-filter="tech:model" title="모델·연구 1건" aria-label="모델·연구 1건"></button>
             </div>
             <div class="topic-legend">
-              <button type="button" class="topic-chip seg-0" data-topic-filter="tech:model">모델·연구<b>3</b></button>
+              <button type="button" class="topic-chip seg-0" data-topic-filter="tech:agent_dev">에이전트·개발도구<b>2</b></button>
               <button type="button" class="topic-chip seg-1" data-topic-filter="tech:industry">산업·투자·인프라<b>2</b></button>
               <button type="button" class="topic-chip seg-2" data-topic-filter="tech:usecase">활용·사례<b>2</b></button>
-              <button type="button" class="topic-chip seg-3" data-topic-filter="tech:agent_dev">에이전트·개발도구<b>1</b></button>
+              <button type="button" class="topic-chip seg-3" data-topic-filter="tech:policy_safety">정책·윤리·안전<b>2</b></button>
               <span class="topic-chip topic-chip-rest">외 2개 주제 2건</span>
             </div>
           </div>
@@ -195,10 +199,11 @@
         <div class="board-cell board-links">
           <h3 class="cell-title">교차 연결 <span class="cell-hint">두 섹션 이상에 걸친 흐름</span></h3>
           <ul class="link-list">
-            <li class="link-item link-bridge"><span class="link-label">정책·규범</span><span class="link-refs"><a class="ref ref-edu" href="#edu-2" data-ref="edu-2">교육 2</a><a class="ref ref-edu" href="#edu-3" data-ref="edu-3">교육 3</a><a class="ref ref-edu" href="#edu-4" data-ref="edu-4">교육 4</a><a class="ref ref-edu" href="#edu-8" data-ref="edu-8">교육 8</a><a class="ref ref-tech" href="#tech-10" data-ref="tech-10">기술 10</a></span></li>
+            <li class="link-item link-bridge"><span class="link-label">정책·규범</span><span class="link-refs"><a class="ref ref-edu" href="#edu-1" data-ref="edu-1">교육 1</a><a class="ref ref-edu" href="#edu-2" data-ref="edu-2">교육 2</a><a class="ref ref-edu" href="#edu-3" data-ref="edu-3">교육 3</a><a class="ref ref-edu" href="#edu-4" data-ref="edu-4">교육 4</a><a class="ref ref-edu" href="#edu-7" data-ref="edu-7">교육 7</a><a class="ref ref-tech" href="#tech-8" data-ref="tech-8">기술 8</a><a class="ref ref-tech" href="#tech-10" data-ref="tech-10">기술 10</a></span></li>
+            <li class="link-item link-bridge"><span class="link-label">AI × 교육</span><span class="link-refs"><a class="ref ref-edu" href="#edu-5" data-ref="edu-5">교육 5</a><a class="ref ref-edu" href="#edu-6" data-ref="edu-6">교육 6</a><a class="ref ref-edu" href="#edu-8" data-ref="edu-8">교육 8</a><a class="ref ref-edu" href="#edu-9" data-ref="edu-9">교육 9</a><a class="ref ref-paper" href="#paper-1" data-ref="paper-1">논문 1</a></span></li>
             <li class="link-item kind-tech"><span class="link-label">개인화 학습</span><span class="link-refs"><a class="ref ref-edu" href="#edu-2" data-ref="edu-2">교육 2</a><a class="ref ref-paper" href="#paper-1" data-ref="paper-1">논문 1</a><a class="ref ref-paper" href="#paper-2" data-ref="paper-2">논문 2</a></span></li>
-            <li class="link-item link-bridge"><span class="link-label">AI × 교육</span><span class="link-refs"><a class="ref ref-edu" href="#edu-5" data-ref="edu-5">교육 5</a><a class="ref ref-edu" href="#edu-6" data-ref="edu-6">교육 6</a><a class="ref ref-tech" href="#tech-9" data-ref="tech-9">기술 9</a></span></li>
             <li class="link-item kind-tech"><span class="link-label">에이전트</span><span class="link-refs"><a class="ref ref-edu" href="#edu-5" data-ref="edu-5">교육 5</a><a class="ref ref-tech" href="#tech-1" data-ref="tech-1">기술 1</a></span></li>
+            <li class="link-item link-bridge"><span class="link-label">평가·학습분석</span><span class="link-refs"><a class="ref ref-edu" href="#edu-10" data-ref="edu-10">교육 10</a><a class="ref ref-paper" href="#paper-1" data-ref="paper-1">논문 1</a></span></li>
           </ul>
         </div>
         <div class="board-cell board-trend">
@@ -234,10 +239,10 @@
         <span class="col-count">10건</span>
       </header>
       <ol class="col-list">
-    <li class="entry" id="edu-1" data-topic="classroom" data-ents="">
+    <li class="entry" id="edu-1" data-topic="policy" data-ents="">
       <span class="entry-num" aria-hidden="true">01</span>
       <div class="entry-body">
-      <div class="entry-meta"><span class="entry-src">도민연합뉴스</span><span class="entry-sep" aria-hidden="true">·</span><span class="entry-dt">10월 11일</span><button type="button" class="entry-topic" data-topic-filter="edu:classroom" title="이 주제만 보기">수업·교육과정</button><span class="entry-kw">학습과학</span></div>
+      <div class="entry-meta"><span class="entry-src">도민연합뉴스</span><span class="entry-sep" aria-hidden="true">·</span><span class="entry-dt">10월 11일</span><button type="button" class="entry-topic" data-topic-filter="edu:policy" title="이 주제만 보기">정책·행정</button><span class="entry-kw">학습과학</span></div>
         <h3 class="entry-title"><a href="https://news.google.com/rss/articles/CBMiakFVX3lxTE9RaEE2MUx2VUI3dG42MGp4ZWFZN05acFJ6alc2MTBTck5NYU9lcTFpcWF1QzhpZTR3WjRSY0RId0V2cW1HR01VdkwweE56WDlHQ09Jb3duZUhWRVFyaXFqbDhGa190U2ZmNUE?oc=5" target="_blank" rel="noopener noreferrer">2026 김해시 평생학습과학축제 성황 5천명 발길 큰별쌤 초청강연·성인문해작품전시·동아리발표회 즐겨</a></h3>
       <p class="entry-desc">2026 김해시 평생학습과학축제는 5천 명이 참여하여 큰별쌤 강연, 작품전시 등으로 성황을 이뤘습니다.</p>
       <p class="entry-impl"><span class="entry-impl-k" aria-label="시사점">→</span>교실에서도 동아리 발표, 작은 작품 전시, 전문가 초청 강연 등을 통해 다양한 학습 경험을 제공할 수 있습니다.</p>
@@ -288,28 +293,28 @@
       <p class="entry-impl"><span class="entry-impl-k" aria-label="시사점">→</span>생성형 AI를 활용한 게임 개발의 변화를 탐구하며 진로 교육에 연계할 수 있습니다.</p>
       </div>
     </li>
-    <li class="entry" id="edu-7" data-topic="classroom" data-ents="서울시교육청">
+    <li class="entry" id="edu-7" data-topic="policy" data-ents="서울시교육청">
       <span class="entry-num" aria-hidden="true">07</span>
       <div class="entry-body">
-      <div class="entry-meta"><span class="entry-src">뉴스1</span><span class="entry-sep" aria-hidden="true">·</span><span class="entry-dt">10월 11일</span><button type="button" class="entry-topic" data-topic-filter="edu:classroom" title="이 주제만 보기">수업·교육과정</button><span class="entry-kw">디지털교육</span></div>
+      <div class="entry-meta"><span class="entry-src">뉴스1</span><span class="entry-sep" aria-hidden="true">·</span><span class="entry-dt">10월 11일</span><button type="button" class="entry-topic" data-topic-filter="edu:policy" title="이 주제만 보기">정책·행정</button><span class="entry-kw">디지털교육</span></div>
         <h3 class="entry-title"><a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE90NVQ5ejRTSWJ5bmFMM3ZRUnBhLUhrWTA3Y09XNVk3clJNdWNJdUF2THR3UTNTd1FldG1VbkZnaDIyX1VUUElLckhBQ2l0M0hTQkttVk1lcEdtdw?oc=5" target="_blank" rel="noopener noreferrer">서울시교육청 개청 70주년…12일부터 '서울교육 기록주간' 운영</a></h3>
       <p class="entry-desc">서울시교육청이 개청 70주년을 맞아 12일부터 '서울교육 기록주간'을 운영합니다.</p>
       <p class="entry-impl"><span class="entry-impl-k" aria-label="시사점">→</span>학생들이 서울교육의 역사와 변화를 탐구하는 지역사회 연계 수업에 활용할 수 있습니다.</p>
       </div>
     </li>
-    <li class="entry" id="edu-8" data-topic="policy" data-ents="경북교육청">
+    <li class="entry" id="edu-8" data-topic="ai_digital" data-ents="경북교육청">
       <span class="entry-num" aria-hidden="true">08</span>
       <div class="entry-body">
-      <div class="entry-meta"><span class="entry-src">중도일보</span><span class="entry-sep" aria-hidden="true">·</span><span class="entry-dt">10월 10일</span><button type="button" class="entry-topic" data-topic-filter="edu:policy" title="이 주제만 보기">정책·행정</button><span class="entry-kw">디지털교육</span></div>
+      <div class="entry-meta"><span class="entry-src">중도일보</span><span class="entry-sep" aria-hidden="true">·</span><span class="entry-dt">10월 10일</span><button type="button" class="entry-topic" data-topic-filter="edu:ai_digital" title="이 주제만 보기">AI·디지털교육</button><span class="entry-kw">디지털교육</span></div>
         <h3 class="entry-title"><a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE9vdWp5ZklhUFYzZFNIR3BUbGNaZW5INVJOZ0ROWVAwUWdDM3JiYk9lQUF2d2o5R3Q0TmFxVlFSaGFtNW16QlZLN08wbmlfaGd3UjdlX25Da2hDVVNnN0g2N2tvcms2eWV4Zndvcg?oc=5" target="_blank" rel="noopener noreferrer">임종식 경북교육감 취임 100일…AI 교육 대전환 본격 추진</a></h3>
       <p class="entry-desc">임종식 경북교육감이 취임 100일을 맞아 인공지능 교육으로의 대전환을 본격적으로 추진합니다.</p>
       <p class="entry-impl"><span class="entry-impl-k" aria-label="시사점">→</span>학생들은 AI 교육 대전환에 따라 수업에서 인공지능 도구를 더 자주 활용하는 기회를 얻을 수 있습니다.</p>
       </div>
     </li>
-    <li class="entry" id="edu-9" data-topic="classroom" data-ents="대전시교육청">
+    <li class="entry" id="edu-9" data-topic="ai_digital" data-ents="대전시교육청">
       <span class="entry-num" aria-hidden="true">09</span>
       <div class="entry-body">
-      <div class="entry-meta"><span class="entry-src">타임뉴스</span><span class="entry-sep" aria-hidden="true">·</span><span class="entry-dt">10월 10일</span><button type="button" class="entry-topic" data-topic-filter="edu:classroom" title="이 주제만 보기">수업·교육과정</button><span class="entry-kw">인공지능교육</span><span class="entry-kind">칼럼</span></div>
+      <div class="entry-meta"><span class="entry-src">타임뉴스</span><span class="entry-sep" aria-hidden="true">·</span><span class="entry-dt">10월 10일</span><button type="button" class="entry-topic" data-topic-filter="edu:ai_digital" title="이 주제만 보기">AI·디지털교육</button><span class="entry-kw">인공지능교육</span><span class="entry-kind">칼럼</span></div>
         <h3 class="entry-title"><a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CSXpIWHVNQVY4LTluUkpaRUdXN3d2ODROY0k5QVNicG56M01WeFNkR1V6LXNnX0g0ajZxS0I0QlBmaUhvVE9ITlJoM1pvalhBcUxhQg?oc=5" target="_blank" rel="noopener noreferrer">[기자수첩] 오석진 대전시교육감 100일…AI보다 먼저 바뀌어야 할 교실</a></h3>
       <p class="entry-desc">오석진 대전시교육감 취임 100일을 맞아 AI 도입보다 교실의 근본적인 변화가 시급하다는 지적입니다.</p>
       <p class="entry-impl"><span class="entry-impl-k" aria-label="시사점">→</span>AI 도입에 앞서 학생들의 참여를 유도하는 수업 방식 개선에 집중할 수 있습니다.</p>
@@ -333,11 +338,12 @@
         <span class="col-count">5건</span>
       </header>
       <ol class="col-list">
-    <li class="entry" id="paper-1" data-topic="design_curric" data-ents="AI 튜터|개인화 학습">
+    <li class="entry" id="paper-1" data-topic="personalized" data-ents="AI 튜터|개인화 학습">
       <span class="entry-num" aria-hidden="true">01</span>
       <div class="entry-body">
-      <div class="entry-meta"><span class="entry-src">semantic_scholar</span><span class="entry-sep" aria-hidden="true">·</span><span class="entry-dt">11월 27일</span><button type="button" class="entry-topic" data-topic-filter="paper:design_curric" title="이 주제만 보기">교수설계·교육과정</button></div>
-        <h3 class="entry-title"><a href="https://www.semanticscholar.org/paper/2f6f13732a3710db88a4fc4b95dd52f75c096404" target="_blank" rel="noopener noreferrer">Educational technology: Exploring the convergence of technology and pedagogy through mobility, interactivity, AI, and learning tools</a></h3>
+      <div class="entry-meta"><span class="entry-src">semantic_scholar</span><span class="entry-sep" aria-hidden="true">·</span><span class="entry-dt">11월 27일</span><button type="button" class="entry-topic" data-topic-filter="paper:personalized" title="이 주제만 보기">개인화·학습분석</button></div>
+        <h3 class="entry-title"><a href="https://www.semanticscholar.org/paper/2f6f13732a3710db88a4fc4b95dd52f75c096404" target="_blank" rel="noopener noreferrer">교육 기술: 모빌리티, 상호작용성, AI 및 학습 도구를 통한 기술과 교육학의 융합 탐구</a></h3>
+        <p class="entry-title-orig">Educational technology: Exploring the convergence of technology and pedagogy through mobility, interactivity, AI, and learning tools</p>
       <p class="entry-by">Ashraf Alam, Atasi Mohanty</p>
       <p class="entry-desc">이 논문은 모빌리티, 상호작용성, AI, 학습 도구를 통합한 교육 모델을 제시하며, AI 기반 지능형 튜터링 시스템과 기술 실험을 통해 개인 맞춤형 학습을 실현하여 교육 발전에 기여합니다.</p>
       <div class="entry-actions">
@@ -349,7 +355,8 @@
       <span class="entry-num" aria-hidden="true">02</span>
       <div class="entry-body">
       <div class="entry-meta"><span class="entry-src">openalex</span><span class="entry-sep" aria-hidden="true">·</span><span class="entry-dt">10월 8일</span><button type="button" class="entry-topic" data-topic-filter="paper:teacher_pd" title="이 주제만 보기">교사 전문성</button></div>
-        <h3 class="entry-title"><a href="https://doi.org/10.64643/jatir.141093" target="_blank" rel="noopener noreferrer">Enhancing Teacher Effectiveness with Artificial Intelligence- A Systematic Review</a></h3>
+        <h3 class="entry-title"><a href="https://doi.org/10.64643/jatir.141093" target="_blank" rel="noopener noreferrer">인공지능으로 교사 효과성 향상: 체계적인 문헌 검토</a></h3>
+        <p class="entry-title-orig">Enhancing Teacher Effectiveness with Artificial Intelligence- A Systematic Review</p>
       <p class="entry-by">Dr. B. Swathi</p>
       <p class="entry-desc">이 논문은 체계적인 문헌 검토를 통해 AI가 교사의 개인화된 교수, 행정 효율, 평가, 전문성 개발을 증진시켜 교육 혁신을 이끌지만, 윤리 및 훈련 문제를 극복하며 교사를 지원하는 도구임을 강조합니다.</p>
       <div class="entry-actions">
@@ -361,7 +368,8 @@
       <span class="entry-num" aria-hidden="true">03</span>
       <div class="entry-body">
       <div class="entry-meta"><span class="entry-src">openalex</span><span class="entry-sep" aria-hidden="true">·</span><span class="entry-dt">10월 8일</span><button type="button" class="entry-topic" data-topic-filter="paper:design_curric" title="이 주제만 보기">교수설계·교육과정</button></div>
-        <h3 class="entry-title"><a href="https://doi.org/10.1038/s41598-026-74665-3" target="_blank" rel="noopener noreferrer">A hybrid AHP–PID framework balancing structural stability and behavioral adaptivity for 5G-enabled innovation and entrepreneurship education</a></h3>
+        <h3 class="entry-title"><a href="https://doi.org/10.1038/s41598-026-74665-3" target="_blank" rel="noopener noreferrer">5G 기반 혁신 및 기업가정신 교육을 위한 구조적 안정성과 행동 적응성의 균형을 맞추는 하이브리드 AHP-PID 프레임워크</a></h3>
+        <p class="entry-title-orig">A hybrid AHP–PID framework balancing structural stability and behavioral adaptivity for 5G-enabled innovation and entrepreneurship education</p>
       <p class="entry-by">Chuanqi Cheng, Mazita Binti Mokhtar 외 1명</p>
       <p class="entry-desc">기술 집약적 교육 환경에서 구조적 안정성과 학습자 행동 적응성을 통합 평가하는 AHP-PID 하이브리드 프레임워크를 제안하여 시의적절한 교육 품질 관리를 가능하게 하며, 높은 예측 정확도를 입증합니다.</p>
       <div class="entry-actions">
@@ -373,7 +381,8 @@
       <span class="entry-num" aria-hidden="true">04</span>
       <div class="entry-body">
       <div class="entry-meta"><span class="entry-src">semantic_scholar</span><span class="entry-sep" aria-hidden="true">·</span><span class="entry-dt">2월 1일</span><button type="button" class="entry-topic" data-topic-filter="paper:teacher_pd" title="이 주제만 보기">교사 전문성</button></div>
-        <h3 class="entry-title"><a href="https://www.semanticscholar.org/paper/d1b805446b5df09aef8a876d1614100e58b96dc0" target="_blank" rel="noopener noreferrer">Creativity in Education: Teaching for Creativity Development</a></h3>
+        <h3 class="entry-title"><a href="https://www.semanticscholar.org/paper/d1b805446b5df09aef8a876d1614100e58b96dc0" target="_blank" rel="noopener noreferrer">교육에서의 창의성: 창의성 개발을 위한 교수법</a></h3>
+        <p class="entry-title-orig">Creativity in Education: Teaching for Creativity Development</p>
       <p class="entry-by">Danielle Kaplan</p>
       <p class="entry-desc">본 연구는 교사 교육생들에게 창의성 이론을 가르치고 이를 수업 및 프로젝트 설계에 적용하도록 훈련하여 학생들이 창의성을 개발하도록 돕는 교사의 역량을 강화하며, 이는 교육 혁신에 중요한 기여를 합니다.</p>
       <div class="entry-actions">
@@ -381,11 +390,12 @@
       </div>
       </div>
     </li>
-    <li class="entry" id="paper-5" data-topic="teacher_pd" data-ents="">
+    <li class="entry" id="paper-5" data-topic="language" data-ents="">
       <span class="entry-num" aria-hidden="true">05</span>
       <div class="entry-body">
-      <div class="entry-meta"><span class="entry-src">semantic_scholar</span><span class="entry-sep" aria-hidden="true">·</span><span class="entry-dt">1월 22일</span><button type="button" class="entry-topic" data-topic-filter="paper:teacher_pd" title="이 주제만 보기">교사 전문성</button></div>
-        <h3 class="entry-title"><a href="https://www.semanticscholar.org/paper/43c97fcd6b6f3bb37731093c33da21f04d7c9780" target="_blank" rel="noopener noreferrer">Including multiple languages in secondary education: A translanguaging approach</a></h3>
+      <div class="entry-meta"><span class="entry-src">semantic_scholar</span><span class="entry-sep" aria-hidden="true">·</span><span class="entry-dt">1월 22일</span><button type="button" class="entry-topic" data-topic-filter="paper:language" title="이 주제만 보기">언어·문해</button></div>
+        <h3 class="entry-title"><a href="https://www.semanticscholar.org/paper/43c97fcd6b6f3bb37731093c33da21f04d7c9780" target="_blank" rel="noopener noreferrer">중등 교육에 여러 언어 포함하기: 트랜스랭귀징(Translanguaging) 접근법</a></h3>
+        <p class="entry-title-orig">Including multiple languages in secondary education: A translanguaging approach</p>
       <p class="entry-by">Mirjam Günther-van der Meij, J. Duarte 외 1명</p>
       <p class="entry-desc">네덜란드 중등 교육의 언어 다양성 증대에 대응하여, 기존 언어 분리 교수법 대신 트랜스랭귀징 접근법을 학교에 적용하고 교사 훈련 및 수업 분석을 통해 다언어 학생의 학습 최적화 효과를 보여주어, 교사 양성 과정 개선에 기여합니다.</p>
       <div class="entry-actions">
@@ -434,10 +444,10 @@
       <p class="entry-desc">OpenAI가 금융 전문성 확장에 활용되면서 AI가 고도로 전문화된 산업 지식 노동을 증강하는 핵심 도구로 자리매김할 것입니다.</p>
       </div>
     </li>
-    <li class="entry" id="tech-5" data-topic="model" data-ents="xAI|OpenAI|ChatGPT">
+    <li class="entry" id="tech-5" data-topic="product" data-ents="xAI|OpenAI|ChatGPT">
       <span class="entry-num" aria-hidden="true">05</span>
       <div class="entry-body">
-      <div class="entry-meta"><span class="entry-src">AI넷</span><span class="entry-sep" aria-hidden="true">·</span><span class="entry-dt">10월 10일</span><button type="button" class="entry-topic" data-topic-filter="tech:model" title="이 주제만 보기">모델·연구</button><span class="entry-kw">Anthropic</span></div>
+      <div class="entry-meta"><span class="entry-src">AI넷</span><span class="entry-sep" aria-hidden="true">·</span><span class="entry-dt">10월 10일</span><button type="button" class="entry-topic" data-topic-filter="tech:product" title="이 주제만 보기">제품·서비스</button><span class="entry-kw">Anthropic</span></div>
         <h3 class="entry-title"><a href="https://news.google.com/rss/articles/CBMiQEFVX3lxTE5NWDUxNEJ0WTA2SmY0VnY2SDRKNGpWN2EtbnBWYzl4dzlqVXp6VnJ1ZXp6QllmUnRBZE5MSEpnaVU?oc=5" target="_blank" rel="noopener noreferrer">[Grok Bot이 이제 아침 뉴스를 작성해줘] OpenAI - GPT-6 는 무료이며, ChatGPT는 이제 도구를 사용하여 답변</a></h3>
       <p class="entry-desc">GPT-6의 무료화와 AI의 일상 콘텐츠 생성 및 도구 활용 확대는 AI 산업의 경쟁 심화와 비즈니스 모델 재편을 가속화할 것입니다.</p>
       </div>
@@ -458,18 +468,18 @@
       <p class="entry-desc">대형 리테일 기업의 내부로부터의 혁신은 AI가 단순 효율화를 넘어 산업의 근본적 재정의를 이끄는 핵심 동력임을 보여줍니다.</p>
       </div>
     </li>
-    <li class="entry entry--dup" id="tech-8" data-topic="model" data-ents="">
+    <li class="entry entry--dup" id="tech-8" data-topic="policy_safety" data-ents="">
       <span class="entry-num" aria-hidden="true">08</span>
       <div class="entry-body">
-      <div class="entry-meta"><span class="entry-src">Towards Data Science</span><span class="entry-sep" aria-hidden="true">·</span><span class="entry-dt">10월 6일</span><button type="button" class="entry-topic" data-topic-filter="tech:model" title="이 주제만 보기">모델·연구</button><span class="entry-dup" title="2026-10-10 지면에 먼저 실림">10/10 실림</span></div>
+      <div class="entry-meta"><span class="entry-src">Towards Data Science</span><span class="entry-sep" aria-hidden="true">·</span><span class="entry-dt">10월 6일</span><button type="button" class="entry-topic" data-topic-filter="tech:policy_safety" title="이 주제만 보기">정책·윤리·안전</button><span class="entry-dup" title="2026-10-10 지면에 먼저 실림">10/10 실림</span></div>
         <h3 class="entry-title"><a href="https://towardsdatascience.com/i-hid-four-traps-in-a-forecasting-task-here-is-what-four-ai-assistants-did/" target="_blank" rel="noopener noreferrer">I Hid Four Traps in a Forecasting Task. Here Is What Four AI Assistants Did.</a></h3>
       <p class="entry-desc">예측 과제에서 AI가 숨겨진 함정에 취약함을 드러냄으로써, AI 시스템의 신뢰성과 견고성 강화를 위한 기술 발전의 필요성이 부각될 것입니다.</p>
       </div>
     </li>
-    <li class="entry" id="tech-9" data-topic="edu_ai" data-ents="Amazon|오픈소스|로봇·휴머노이드">
+    <li class="entry" id="tech-9" data-topic="agent_dev" data-ents="Amazon|오픈소스|로봇·휴머노이드">
       <span class="entry-num" aria-hidden="true">09</span>
       <div class="entry-body">
-      <div class="entry-meta"><span class="entry-src">인공지능신문</span><span class="entry-sep" aria-hidden="true">·</span><span class="entry-dt">10월 10일</span><button type="button" class="entry-topic" data-topic-filter="tech:edu_ai" title="이 주제만 보기">교육 AI</button><span class="entry-kw">AI기술</span></div>
+      <div class="entry-meta"><span class="entry-src">인공지능신문</span><span class="entry-sep" aria-hidden="true">·</span><span class="entry-dt">10월 10일</span><button type="button" class="entry-topic" data-topic-filter="tech:agent_dev" title="이 주제만 보기">에이전트·개발도구</button><span class="entry-kw">AI기술</span></div>
         <h3 class="entry-title"><a href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42NkFXa3NYeFMzUVFDOVAxMDRVNlZ2WXpSNk1jMFU1TlZfckhrRTRVUWcyU1dTN1M5TkhKaWRBUnlwRFNwQkgtUzBmWHozX3AtOEJ4bjB1YUU0VGN5SmVzWndRajlEbkE?oc=5" target="_blank" rel="noopener noreferrer">AWS, ‘피지컬 AI 툴체인’ 오픈소스로 공개…로봇 학습부터 현장 배포까지 통합</a></h3>
       <p class="entry-desc">AWS의 통합 '피지컬 AI 툴체인' 오픈소스 공개는 로봇 개발 및 현장 배포 장벽을 낮춰 AI 기술의 산업 적용을 가속화할 것입니다.</p>
       </div>

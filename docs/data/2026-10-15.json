@@ -15,7 +15,8 @@
     "entities": [],
     "summary": "교육 현장에서 인공지능을 사고 확장을 위한 도구로 활용해야 한다는 기고문 내용입니다.",
     "implication": "학생들의 사고를 확장하기 위해 AI를 활용하여 다양한 질문과 관점을 탐색하는 수업을 구성할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 2,
@@ -29,7 +30,8 @@
     "entities": [],
     "summary": "천호성 교육감 취임 100일 정책 점검 시, 교육혁신선도지역 평가 및 영재학교 심의가 남았습니다.",
     "implication": "교육혁신선도지역 정책 변화와 영재교육 관련 소식을 활용하여 맞춤형 수업을 계획할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 3,
@@ -38,14 +40,16 @@
     "source": "시사일보",
     "published": "2026-10-14",
     "keyword": "교육혁신",
-    "topic": "teacher",
+    "topic": "classroom",
     "kind": null,
     "entities": [
      "대전시교육청"
     ],
     "summary": "대전시교육청은 교사들과 함께 수업을 공유하고 성장을 도모하는 수업 혁신 프로그램을 운영했습니다.",
     "implication": "동료 교사들과 수업 사례를 공유하는 활동을 통해 자신의 수업 전문성을 키울 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "teacher",
+    "topic_src": "ai"
    },
    {
     "n": 4,
@@ -59,7 +63,8 @@
     "entities": [],
     "summary": "소프트웨어 마인드가 텔코 데이즈 2026에서 텔레포니카, 암독스, IBM과 에이전틱 AI 및 네트워크 보안을 집중 조명한다.",
     "implication": "주요 기업이 집중하는 에이전틱 AI와 네트워크 보안 기술을 바탕으로 미래 기술 탐구 수업에 활용할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 5,
@@ -68,14 +73,16 @@
     "source": "교육플러스",
     "published": "2026-10-14",
     "keyword": "",
-    "topic": "student_care",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "Google"
     ],
     "summary": "코로나 때 생성된 교사·학생 구글 계정 유출 가능성이 제기되며, 120만 명 AIEP 사용자 정보 안전에 대한 우려가 커지고 있습니다.",
     "implication": "학생들과 함께 학교 계정 보안 설정 점검 및 개인 정보 제공 동의 내역을 확인해 볼 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "student_care",
+    "topic_src": "ai"
    },
    {
     "n": 6,
@@ -91,7 +98,8 @@
     ],
     "summary": "안민석 경기도 교육감은 과밀학급 시설 확충과 군포·의왕 교육 현안 해법을 제시했다.",
     "implication": "과밀학급 해소 시 학생들에게 더 밀도 높은 개별 지도를 할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 7,
@@ -108,7 +116,8 @@
     ],
     "summary": "교육부는 내년 교부금을 7조 원 증액 발표했으나, 서범수 의원실은 전북에 2,462억 원이 미편성될 것으로 추산했습니다.",
     "implication": "교육부의 교부금 증액에도 불구하고 지역별 예산 미편성으로 수업 환경 개선에 불확실성이 있을 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 8,
@@ -122,7 +131,8 @@
     "entities": [],
     "summary": "천호성 교육감이 특성화고·해외유학을 포함하여 '농촌유학'을 '전북유학'으로 명칭을 전환했습니다.",
     "implication": "전북유학 정책으로 학생들이 특성화고, 해외 유학 등 다양한 진로를 탐색할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 9,
@@ -136,7 +146,8 @@
     "entities": [],
     "summary": "교육정책의 성과와 실효성을 체계적으로 검증한다는 내용이다.",
     "implication": "수업 중 교육정책이 학생들에게 미치는 실제적인 효과와 개선점을 파악할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 10,
@@ -153,7 +164,8 @@
     ],
     "summary": "국감에서 안민석 의원의 '폰 프리 스쿨' 확산 정책이 교권보호단의 호평을 받았다.",
     "implication": "수업 중 학생 휴대폰 사용을 지도할 때, 정책적 지지 논리를 활용할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    }
   ],
   "paper": [
@@ -164,7 +176,7 @@
     "source": "openalex",
     "published": "2026-10-13",
     "keyword": "",
-    "topic": "language",
+    "topic": "assessment",
     "kind": null,
     "entities": [
      "LLM"
@@ -173,7 +185,10 @@
     "implication": "",
     "ai": true,
     "authors": "Jiang Li",
-    "pdf": "https://sshi.apollojournals.com/article/172439.pdf"
+    "pdf": "https://sshi.apollojournals.com/article/172439.pdf",
+    "topic_rule": "language",
+    "topic_src": "ai",
+    "title_ko": "중국 고등학교 영어 작문 평가에서 LLM 활용의 기본 원칙 및 실천 경로: 개념적 프레임워크"
    },
    {
     "n": 2,
@@ -192,7 +207,9 @@
     "implication": "",
     "ai": true,
     "authors": "Iulian Întorsureanu, S. Oprea 외 1명",
-    "pdf": "https://doi.org/10.3390/electronics14051053"
+    "pdf": "https://doi.org/10.3390/electronics14051053",
+    "topic_src": "ai",
+    "title_ko": "교육 분야 생성형 AI: 학술적 관점을 통한 조망"
    },
    {
     "n": 3,
@@ -208,7 +225,9 @@
     "implication": "",
     "ai": true,
     "authors": "Lindsay B. Wells, Ryan L. Stowe 외 1명",
-    "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/sce.70108"
+    "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/sce.70108",
+    "topic_src": "ai",
+    "title_ko": "과학 분야 인식론적 학습 목표에 대한 교사의 의미 형성 장소로서의 평가"
    },
    {
     "n": 4,
@@ -226,7 +245,9 @@
     "implication": "",
     "ai": true,
     "authors": "Katrina Barker, Danielle Tracey 외 1명",
-    "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1920349/pdf"
+    "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1920349/pdf",
+    "topic_src": "ai",
+    "title_ko": "학교 이러닝 프로젝트: 파푸아뉴기니 오지 지역 연구-실천 파트너십 기반의 상황 반응형 교사 전문성 개발 모델"
    },
    {
     "n": 5,
@@ -244,7 +265,9 @@
     "implication": "",
     "ai": true,
     "authors": "Tri Sari Haryanti, Maria Ulfah 외 1명",
-    "pdf": "https://ejournal.umm.ac.id/index.php/raden/article/download/46134/19341"
+    "pdf": "https://ejournal.umm.ac.id/index.php/raden/article/download/46134/19341",
+    "topic_src": "ai",
+    "title_ko": "통합학교 특수교육 대상 학생을 위한 교수 감독 및 차별화된 읽기 학습"
    }
   ],
   "tech": [
@@ -255,7 +278,7 @@
     "source": "AI Times",
     "published": "2026-10-14",
     "keyword": "",
-    "topic": "product",
+    "topic": "agent_dev",
     "kind": null,
     "entities": [
      "Google",
@@ -263,7 +286,9 @@
     ],
     "summary": "AI 코딩 앱의 진입 장벽을 낮춰 개발자들의 AI 활용을 극대화하고 AI 기술 생태계의 성장을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "product",
+    "topic_src": "ai"
    },
    {
     "n": 2,
@@ -279,7 +304,8 @@
     ],
     "summary": "특정 분야에 최적화된 AI 모델이 범용 모델의 성능을 능가하며 AI 산업의 전문화 및 수직적 성장을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 3,
@@ -295,7 +321,8 @@
     ],
     "summary": "애플의 시리 AI 스마트 홈 제품 출시는 AI의 생활 밀착형 확산과 하드웨어 기반 AI 생태계 구축 경쟁을 심화시킬 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 4,
@@ -304,7 +331,7 @@
     "source": "AI Times",
     "published": "2026-10-15",
     "keyword": "",
-    "topic": "industry",
+    "topic": "agent_dev",
     "kind": null,
     "entities": [
      "에이전트",
@@ -312,7 +339,9 @@
     ],
     "summary": "에이수스의 에이전트 컴퓨터 시장 확대는 온디바이스 AI 및 에이전트 기술이 개인과 기업 컴퓨팅의 새로운 핵심 패러다임으로 자리매김할 변곡점입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "industry",
+    "topic_src": "ai"
    },
    {
     "n": 5,
@@ -329,7 +358,8 @@
     ],
     "summary": "OpenAI 기반의 생성형 AI가 창의적 캠페인 기획 및 실행을 자동화하며 마케팅 산업의 효율성과 혁신을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 6,
@@ -338,7 +368,7 @@
     "source": "IndexBox",
     "published": "2026-10-14",
     "keyword": "Anthropic",
-    "topic": "agent_dev",
+    "topic": "policy_safety",
     "kind": null,
     "entities": [
      "에이전트",
@@ -347,7 +377,9 @@
     ],
     "summary": "EU AI법의 첫 집행은 AI 기업들이 개발 초기부터 규제 준수를 최우선으로 삼아, AI 기술의 책임 있는 배포와 운영 모델 구축을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "agent_dev",
+    "topic_src": "ai"
    },
    {
     "n": 7,
@@ -364,7 +396,8 @@
     ],
     "summary": "Google DeepMind의 기기 내 사기 탐지 모델 공개는 프라이버시 중심의 엣지 AI 기술 발전과 산업 적용 확대를 가속화하는 중요한 전환점이 될 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 8,
@@ -382,7 +415,8 @@
     ],
     "summary": "메타의 도전은 AI 시장 경쟁을 격화시키고, 기술 혁신을 넘어 수익성 확보가 AI 산업의 지속 가능한 성장을 위한 핵심 과제임을 보여줍니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 9,
@@ -391,7 +425,7 @@
     "source": "올포칩",
     "published": "2026-10-14",
     "keyword": "오픈소스",
-    "topic": "industry",
+    "topic": "agent_dev",
     "kind": null,
     "entities": [
      "NVIDIA",
@@ -399,7 +433,9 @@
     ],
     "summary": "엔비디아의 오픈소스 DSX AI 팩토리 구성 요소 공개는 AI 개발 생태계의 접근성을 높여 엔비디아 기반의 AI 산업 표준화를 강화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "industry",
+    "topic_src": "ai"
    },
    {
     "n": 10,
@@ -408,7 +444,7 @@
     "source": "OpenAI Blog",
     "published": "2026-10-07",
     "keyword": "",
-    "topic": "product",
+    "topic": "usecase",
     "kind": null,
     "entities": [
      "ChatGPT",
@@ -417,10 +453,19 @@
     ],
     "summary": "거대언어모델이 특정 산업의 전문 기능을 수행하는 AI 에이전트 플랫폼으로 진화하여 AI 활용 범위를 넓힐 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "product",
+    "topic_src": "ai"
    }
   ]
  },
  "fallback": {},
- "notes": {}
+ "notes": {},
+ "enrich": {
+  "hash": "37dfc658683b",
+  "model": "gemini-2.5-flash",
+  "topics": 8,
+  "title_ko": 5,
+  "summaries": 0
+ }
 }

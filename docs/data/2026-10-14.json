@@ -16,7 +16,8 @@
     "summary": "'3시 하교제' 등 일률적인 교육 정책들이 현장 특수성을 외면하고 비교육적 목적으로 변질되어 혼란을 야기한다고 비판한다.",
     "implication": "학생들의 다양한 배경과 개별 학습 속도를 고려하여 수업 방식을 유연하게 조절할 수 있습니다.",
     "ai": true,
-    "dup_of": "2026-10-13"
+    "dup_of": "2026-10-13",
+    "topic_src": "ai"
    },
    {
     "n": 2,
@@ -30,7 +31,8 @@
     "entities": [],
     "summary": "AI 교육과정은 교사가 직접 설계할 수 있도록 해야 한다는 내용입니다.",
     "implication": "AI 교육 내용을 제 수업 특성과 학생 수준에 맞춰 적극적으로 재구성할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 3,
@@ -39,7 +41,7 @@
     "source": "디트NEWS24",
     "published": "2026-10-14",
     "keyword": "에듀테크",
-    "topic": "classroom",
+    "topic": "teacher",
     "kind": "feature",
     "entities": [
      "충남교육청",
@@ -47,7 +49,9 @@
     ],
     "summary": "충남교육청은 미래교육 해답을 모색하고자 전문적학습공동체를 운영합니다.",
     "implication": "동료 교사들과 전문적학습공동체 활동을 통해 미래교육을 위한 수업 방안을 함께 고민하고 적용해볼 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
    },
    {
     "n": 4,
@@ -64,7 +68,8 @@
     ],
     "summary": "대전시교육청은 IB 교육정책 관련 현장 소통을 본격적으로 시작합니다.",
     "implication": "IB 교육정책에 맞춰 우리 반 학생 중심의 탐구 활동을 설계하고 수업에 바로 적용할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 5,
@@ -99,7 +104,8 @@
     "summary": "충남교육청은 학생 중심 미래형 학습공간 조성을 위한 학교 공간 재구조화 사업을 추진하며 복자여고에서 현장 견학을 실시했다.",
     "implication": "미래형 학습공간 조성을 통해 학생 참여형 수업과 협력학습을 위한 다양한 수업 방식을 시도할 수 있습니다.",
     "ai": true,
-    "dup_of": "2026-10-13"
+    "dup_of": "2026-10-13",
+    "topic_src": "ai"
    },
    {
     "n": 7,
@@ -115,7 +121,8 @@
     ],
     "summary": "임종식 경북교육감이 2030 초등 교육과정 대개편을 추진합니다.",
     "implication": "다가올 2030 교육과정 변화에 대비하여 교수 방법을 미리 탐색할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 8,
@@ -124,14 +131,16 @@
     "source": "뉴시스",
     "published": "2026-10-13",
     "keyword": "AI교육",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "충북교육청"
     ],
     "summary": "충북교육청은 AI교육연구센터 건립 계획안을 도의회에서 심사 중입니다.",
     "implication": "AI 교육연구센터 건립으로 인공지능 관련 수업 자료와 프로그램을 활용할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
    },
    {
     "n": 9,
@@ -147,7 +156,8 @@
     ],
     "summary": "울산교육감은 정부가 숫자에만 치중하여 교육 현장을 제대로 이해하지 못한다고 비판했습니다.",
     "implication": "정부의 숫자 중심 정책과 별개로 우리 반 학생들의 개별적인 필요에 맞춘 수업을 계획할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 10,
@@ -163,7 +173,8 @@
     ],
     "summary": "장승희 경기도의원이 경기북부 맞춤형 교육정책 연구체계를 제안했습니다.",
     "implication": "경기북부 지역 특성을 반영한 교육과정 및 교수학습 자료 개발에 참여할 기회가 생길 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    }
   ],
   "paper": [
@@ -174,14 +185,17 @@
     "source": "openalex",
     "published": "2026-10-12",
     "keyword": "",
-    "topic": "assessment",
+    "topic": "teacher_pd",
     "kind": null,
     "entities": [],
     "summary": "본 질적 연구는 초등 교육 질 향상을 위한 교사 전문 역량 관리의 계획, 실행, 평가, 후속 조치 과정을 분석하여, 상황에 맞는 적응적이고 지속적인 관리가 교육 성과를 높이는 데 기여함을 제시합니다.",
     "implication": "",
     "ai": true,
     "authors": "Nurjanah Nurjanah, Siraj; Universitas Almuslim Bireuen Aceh Siraj 외 1명",
-    "pdf": "https://jurnal.uinsu.ac.id/index.php/hijri/article/download/28003/11593"
+    "pdf": "https://jurnal.uinsu.ac.id/index.php/hijri/article/download/28003/11593",
+    "topic_rule": "assessment",
+    "topic_src": "ai",
+    "title_ko": "초등학교 교육의 질 향상을 위한 전문 역량 관리"
    },
    {
     "n": 2,
@@ -190,14 +204,17 @@
     "source": "openalex",
     "published": "2026-10-12",
     "keyword": "",
-    "topic": "assessment",
+    "topic": "inclusion_sel",
     "kind": null,
     "entities": [],
     "summary": "음악 연주 불안(MPA)은 인지 평가와 다양한 개인 및 환경 요인에 의해 형성되는 다차원적 현상으로, 이 논문은 새로운 심리 측정 도구, 인지행동 치료, 시뮬레이션 기술 등 통합적 교육 접근을 통해 연주자의 예술적 성장과 심리적 건강을 증진해야 한다고 제언합니다.",
     "implication": "",
     "ai": true,
     "authors": "Oscar Casanova, Michiko Yoshie 외 1명",
-    "pdf": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.2007842/pdf"
+    "pdf": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.2007842/pdf",
+    "topic_rule": "assessment",
+    "topic_src": "ai",
+    "title_ko": "사설: 음악 연주 불안, 제2권"
    },
    {
     "n": 3,
@@ -206,14 +223,17 @@
     "source": "openalex",
     "published": "2026-10-12",
     "keyword": "",
-    "topic": "literacy_ethics",
+    "topic": "design_curric",
     "kind": null,
     "entities": [],
     "summary": "이 논문은 바흐친의 대화주의를 재해석하여 교수 학습의 지적 상호작용을 증진하는 응집성 있는 새로운 대화적 접근 구조를 제시하며, 동료 평가와 다양한 통합 요소를 통해 학생 효능감을 높이고 포용적인 교육 환경을 조성합니다.",
     "implication": "",
     "ai": true,
     "authors": "Sifat Jahan Chowdhury",
-    "pdf": "https://cdn.eprapublishing.org/article/1791787529081-6.EPRA31732.pdf"
+    "pdf": "https://cdn.eprapublishing.org/article/1791787529081-6.EPRA31732.pdf",
+    "topic_rule": "literacy_ethics",
+    "topic_src": "ai",
+    "title_ko": "대화적 접근: 응집성 있는 교육 표준을 통한 교수 학습의 문해력 지적 상호작용"
    },
    {
     "n": 4,
@@ -229,7 +249,9 @@
     "implication": "",
     "ai": true,
     "authors": "Sri Ramadhani",
-    "pdf": "https://jurnal.uinsu.ac.id/index.php/hijri/article/download/26899/11256"
+    "pdf": "https://jurnal.uinsu.ac.id/index.php/hijri/article/download/26899/11256",
+    "topic_src": "ai",
+    "title_ko": "UMSU FKIP의 HOTS 기반 아랍어 학습 모듈 개발"
    },
    {
     "n": 5,
@@ -238,14 +260,17 @@
     "source": "openalex",
     "published": "2026-10-12",
     "keyword": "",
-    "topic": "learning_sci",
+    "topic": "language",
     "kind": null,
     "entities": [],
     "summary": "대학생의 직장 영어 학습 동기 및 성취도 증진을 위해 인터랙티브 비디오 수업을 적용한 결과, 학생들의 동기와 학업 성취도가 유의미하게 향상되어 효과적인 보조 학습법임을 시사합니다.",
     "implication": "",
     "ai": true,
     "authors": "Lu Lin, Lin Dan",
-    "pdf": "https://ojs.ukscip.com/uploads/2/copyediting_typesetting/2026/10/copyediting_typesetting_660fb99ed0f9680475b23b75d17704b6.pdf"
+    "pdf": "https://ojs.ukscip.com/uploads/2/copyediting_typesetting/2026/10/copyediting_typesetting_660fb99ed0f9680475b23b75d17704b6.pdf",
+    "topic_rule": "learning_sci",
+    "topic_src": "ai",
+    "title_ko": "직장 영어 인터랙티브 비디오 수업을 통한 학생 동기 및 학업 성취도 향상"
    }
   ],
   "tech": [
@@ -261,7 +286,8 @@
     "entities": [],
     "summary": "멀티모달 의사결정 모델은 AI가 다양한 현실 데이터를 통합하여 산업 전반의 문제 해결 및 의사결정 수준을 혁신적으로 높일 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 2,
@@ -278,7 +304,8 @@
     "summary": "AI가 전문 분야 지식 확장 도구로 활용되며, 산업별 특화 AI 솔루션 시장의 성장을 가속화할 것입니다.",
     "implication": "",
     "ai": true,
-    "dup_of": "2026-10-11"
+    "dup_of": "2026-10-11",
+    "topic_src": "ai"
    },
    {
     "n": 3,
@@ -294,7 +321,8 @@
     ],
     "summary": "오픈AI의 소라 라이선싱은 고비용 AI 모델의 새로운 수익 모델을 제시하며, AI 기술 생태계의 전문화와 확산을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 4,
@@ -303,12 +331,14 @@
     "source": "AI Times",
     "published": "2026-10-14",
     "keyword": "",
-    "topic": "model",
+    "topic": "agent_dev",
     "kind": null,
     "entities": [],
     "summary": "AI 소프트웨어 시스템 아키텍처는 AI 기술의 안정적인 산업 적용과 지속 가능한 발전을 위한 핵심 기반 역량입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
    },
    {
     "n": 5,
@@ -317,12 +347,14 @@
     "source": "AI Times",
     "published": "2026-10-13",
     "keyword": "",
-    "topic": "model",
+    "topic": "policy_safety",
     "kind": null,
     "entities": [],
     "summary": "AI 의사결정 모델의 표절 논란은 AI 생태계 내 연구 윤리 및 지적재산권 문제로 기술 신뢰도 저하를 야기할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
    },
    {
     "n": 6,
@@ -331,7 +363,7 @@
     "source": "Unite.AI",
     "published": "2026-10-13",
     "keyword": "Anthropic",
-    "topic": "model",
+    "topic": "edu_ai",
     "kind": null,
     "entities": [
      "Anthropic",
@@ -341,7 +373,9 @@
     ],
     "summary": "Workday가 Claude를 기존 HR·재무 에이전트와 통합하며, 범용 LLM이 기업 내 특정 도메인 AI 솔루션을 고도화하는 방향을 제시할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
    },
    {
     "n": 7,
@@ -350,12 +384,14 @@
     "source": "AI Times",
     "published": "2026-10-13",
     "keyword": "",
-    "topic": "model",
+    "topic": "usecase",
     "kind": null,
     "entities": [],
     "summary": "AI가 복잡한 과학적 난제를 초고속으로 해결하며, 산업 전반의 연구 개발 및 혁신을 가속화하는 핵심 동력이 될 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
    },
    {
     "n": 8,
@@ -370,7 +406,8 @@
     "summary": "알버트슨즈의 내부 혁신은 AI가 전통 유통업의 핵심 운영을 재편하는 필수 기술로 자리매김할 것임을 시사합니다.",
     "implication": "",
     "ai": true,
-    "dup_of": "2026-10-11"
+    "dup_of": "2026-10-11",
+    "topic_src": "ai"
    },
    {
     "n": 9,
@@ -388,7 +425,8 @@
     ],
     "summary": "블록체인 기반 프리 IPO 선물은 AI 선도 기업들의 가치 조기 반영 및 투자 유동성을 확대하여 AI 산업의 자본 흐름을 재편할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 10,
@@ -397,7 +435,7 @@
     "source": "The Decoder",
     "published": "2026-10-13",
     "keyword": "",
-    "topic": "model",
+    "topic": "policy_safety",
     "kind": null,
     "entities": [
      "Anthropic",
@@ -406,10 +444,19 @@
     ],
     "summary": "Anthropic의 토큰 도난 방지 성공은 AI 모델 IP 보호의 중요성을 강조하며, 불법 증류를 통한 경쟁을 억제하고 건강한 AI 혁신 생태계를 장려할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
    }
   ]
  },
  "fallback": {},
- "notes": {}
+ "notes": {},
+ "enrich": {
+  "hash": "1fe534fe2b8d",
+  "model": "gemini-2.5-flash",
+  "topics": 11,
+  "title_ko": 5,
+  "summaries": 0
+ }
 }

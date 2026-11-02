@@ -18,7 +18,8 @@
     ],
     "summary": "대전시교육청은 IB 교육 정책 수립 시 학교 현장의 의견을 반영할 예정입니다.",
     "implication": "교육청이 IB 정책에 현장 의견을 담으니, 우리 수업에서 탐구 중심 활동을 시도해볼 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 2,
@@ -35,7 +36,8 @@
     ],
     "summary": "대전시교육청이 IB 교육정책에 대한 현장 소통을 본격적으로 시작합니다.",
     "implication": "IB 교육정책 현장 소통에 참여하여 수업에 적용할 교육적 아이디어를 얻을 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 3,
@@ -51,7 +53,8 @@
     ],
     "summary": "오석진 교육감이 IB 확대를 추진하나, 효과·예산 검증 근거를 제시하지 않아 설명 요구를 받는다.",
     "implication": "새로운 교육 정책이 제시될 때, 그 효과와 예산에 대한 근거를 비판적으로 탐색하는 활동을 할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 4,
@@ -67,7 +70,8 @@
     ],
     "summary": "아웃시스템즈는 에이전틱 AI 운영을 확대하나, AI 에이전트 간 충돌 해결 준비는 26% 수준입니다.",
     "implication": "다양한 AI 에이전트처럼 학생들이 협력하며 생길 수 있는 충돌을 미리 예측하고 해결하는 수업을 진행할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 5,
@@ -84,7 +88,8 @@
     ],
     "summary": "경남교육청이 교육교부금 개편으로 거제 학교 예산에 미칠 영향을 우려하고 있음을 주목한다.",
     "implication": "교육 예산 변동이 학생들의 교육 환경에 미칠 실제적 영향을 학생들이 탐구하는 수업을 진행할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 6,
@@ -100,7 +105,8 @@
     ],
     "summary": "권순기 경남교육감은 교육 현장을 외면한 일방적 재정 개편이 큰 혼란을 초래할 것이라고 우려했습니다.",
     "implication": "재정 개편으로 인한 혼란이 발생하면, 학생들에게 제공되는 학습 자료나 교육 프로그램에 변화가 있을 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 7,
@@ -116,7 +122,8 @@
     ],
     "summary": "교실에서 진행되는 IB 수업이 실제 현장 학습 경험을 제공한다는 내용입니다.",
     "implication": "교실 수업에 현장 학습 요소를 접목하여 학생들이 직접 경험하며 배울 수 있는 수업을 기획할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 8,
@@ -125,14 +132,16 @@
     "source": "안전신문",
     "published": "2026-10-22",
     "keyword": "교육혁신",
-    "topic": "classroom",
+    "topic": "policy",
     "kind": null,
     "entities": [
      "서울시교육청"
     ],
     "summary": "서울시교육청은 11개 교육청과 미래교육 혁신 방향을 모색합니다.",
     "implication": "미래교육 혁신 방향에 맞춰 학생들의 자기 주도적 학습 경험을 설계할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
    },
    {
     "n": 9,
@@ -149,7 +158,8 @@
     ],
     "summary": "강원 교육정책이 국정감사에서 현장 중심의 우수사례로 꼽혔습니다.",
     "implication": "강원 교육정책이 현장 중심 우수사례로 인정받은 만큼, 교실 수업에 학생 중심 활동을 더 적극적으로 도입할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 10,
@@ -163,7 +173,8 @@
     "entities": [],
     "summary": "정근식 교육감이 학부모들과 교육정책에 대한 의견을 나눴습니다.",
     "implication": "교육 정책에 대한 학부모의 높은 관심에 발맞춰, 수업 정보를 공유하여 소통을 활발히 할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    }
   ],
   "paper": [
@@ -174,14 +185,17 @@
     "source": "eric",
     "published": "2022-01-01",
     "keyword": "educational AI",
-    "topic": "teacher_pd",
+    "topic": "genai_tutor",
     "kind": null,
     "entities": [],
     "summary": "한국 AI 교육 선도 교사 10인 심층 인터뷰를 통해 학생-AI 협업 학습의 목표, 방법, 환경 및 발전 단계를 파악하여, AI 교육 정책 및 설계에 중요한 시사점을 제시합니다.",
     "implication": "",
     "ai": true,
     "authors": "Kim, Jinhee 외 4명",
-    "pdf": "http://dx.doi.org/10.1007/s10639-021-10831-6"
+    "pdf": "http://dx.doi.org/10.1007/s10639-021-10831-6",
+    "topic_rule": "teacher_pd",
+    "topic_src": "ai",
+    "title_ko": "학생-AI 협업 지원을 위한 학습 설계: AI 교육 선도 교사들의 관점"
    },
    {
     "n": 2,
@@ -190,14 +204,17 @@
     "source": "openalex",
     "published": "2026-10-20",
     "keyword": "",
-    "topic": "literacy_ethics",
+    "topic": "inclusion_sel",
     "kind": null,
     "entities": [],
     "summary": "인도네시아 마드라사 문화에 기반한 새로운 통합 윤리 교육 모델을 질적 사례 연구로 제시하여, 교육 생태계 전반에서 윤리 가치 내면화와 인성 형성에 기여할 방안을 제안합니다.",
     "implication": "",
     "ai": true,
     "authors": "Fitratul Uyun, Agus Maimun 외 1명",
-    "pdf": "https://ejournal.uin-malang.ac.id/index.php/jpai/article/download/45887/14483"
+    "pdf": "https://ejournal.uin-malang.ac.id/index.php/jpai/article/download/45887/14483",
+    "topic_rule": "literacy_ethics",
+    "topic_src": "ai",
+    "title_ko": "마드라사 문화 기반 통합 윤리 교육 모델: 인도네시아 인성 형성 사례 연구"
    },
    {
     "n": 3,
@@ -213,7 +230,8 @@
     "implication": "",
     "ai": true,
     "authors": "Warren Errojo",
-    "pdf": "https://ijtmsonline.com/wp-content/uploads/2026/10/020410.pdf"
+    "pdf": "https://ijtmsonline.com/wp-content/uploads/2026/10/020410.pdf",
+    "title_ko": "규정 준수 그 이상: 분산형 교육의 관리 재량과 구현 격차 - 필리핀 사마르섬의 3자 이해관계자 양적 연구"
    },
    {
     "n": 4,
@@ -229,7 +247,9 @@
     "implication": "",
     "ai": true,
     "authors": "Ozan Filiz, M. H. Kaya 외 1명",
-    "pdf": "https://doi.org/10.1007/s10639-025-13463-2"
+    "pdf": "https://doi.org/10.1007/s10639-025-13463-2",
+    "topic_src": "ai",
+    "title_ko": "교사와 AI: K-12 교육에서 AI 통합에 영향을 미치는 요인 이해"
    },
    {
     "n": 5,
@@ -245,7 +265,8 @@
     "implication": "",
     "ai": true,
     "authors": "Mostafa Zafari, Jalal Safari Bazargani 외 1명",
-    "pdf": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/09785805.pdf"
+    "pdf": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/09785805.pdf",
+    "title_ko": "K-12 교육에서의 인공지능 적용: 체계적인 문헌 검토"
    }
   ],
   "tech": [
@@ -265,7 +286,8 @@
     ],
     "summary": "오픈AI와 앤트로픽에 필적하는 성능의 신규 LLM 등장은 AI 산업 경쟁을 심화하고 혁신을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 2,
@@ -274,7 +296,7 @@
     "source": "AI Times",
     "published": "2026-10-21",
     "keyword": "",
-    "topic": "product",
+    "topic": "policy_safety",
     "kind": null,
     "entities": [
      "OpenAI",
@@ -282,7 +304,9 @@
     ],
     "summary": "오픈AI의 채팅 잠금 기능 도입은 AI 산업 전반에서 사용자 신뢰 확보와 개인정보 보호가 핵심 경쟁력임을 시사할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "product",
+    "topic_src": "ai"
    },
    {
     "n": 3,
@@ -291,7 +315,7 @@
     "source": "The Decoder",
     "published": "2026-10-21",
     "keyword": "",
-    "topic": "model",
+    "topic": "policy_safety",
     "kind": null,
     "entities": [
      "OpenAI",
@@ -301,7 +325,9 @@
     ],
     "summary": "AI의 취약점 탐지 능력은 소프트웨어 보안 패러다임 전환을 가속화하며 AI 기술의 산업적 중요성을 부각할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
    },
    {
     "n": 4,
@@ -319,7 +345,8 @@
     ],
     "summary": "구글 코랄 기반 엣지 AI 칩 출시는 AI 기술의 다양한 기기 접목을 가속화하며 엣지 AI 생태계의 실질적 확장을 이끌 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 5,
@@ -336,7 +363,8 @@
     ],
     "summary": "월가 상장과 GPT-5.6 출시는 오픈AI의 시장 지배력을 강화하고, AI 기술 생태계의 혁신 경쟁을 심화시킬 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 6,
@@ -353,7 +381,8 @@
     ],
     "summary": "ChatGPT 에이전트의 업무 위임은 AI가 단순 도구를 넘어 자율적 업무 수행 주체로 진화하며 산업 전반의 자동화와 생산성 향상을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 7,
@@ -362,12 +391,14 @@
     "source": "AI Times",
     "published": "2026-10-22",
     "keyword": "",
-    "topic": "usecase",
+    "topic": "industry",
     "kind": null,
     "entities": [],
     "summary": "AI 산업은 불필요한 복잡성 대신 검증된 범용 기술의 실용적 활용으로 비용 효율적인 개발을 지향할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "usecase",
+    "topic_src": "ai"
    },
    {
     "n": 8,
@@ -376,14 +407,16 @@
     "source": "디지털투데이",
     "published": "2026-10-21",
     "keyword": "GPT",
-    "topic": "model",
+    "topic": "usecase",
     "kind": null,
     "entities": [
      "ChatGPT"
     ],
     "summary": "이번 사례는 AI가 실제 비즈니스 환경에서 핵심 경쟁력으로 부상하며 산업 전반의 AI 기반 자율 운영 전환을 가속화할 것임을 보여줍니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
    },
    {
     "n": 9,
@@ -392,14 +425,16 @@
     "source": "OpenAI",
     "published": "2026-10-21",
     "keyword": "오픈AI",
-    "topic": "product",
+    "topic": "usecase",
     "kind": null,
     "entities": [
      "ChatGPT"
     ],
     "summary": "AI의 맥락 유지 능력 강화는 복잡한 업무 자동화 및 기업 생산성 향상의 핵심 동력이 될 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "product",
+    "topic_src": "ai"
    },
    {
     "n": 10,
@@ -408,17 +443,26 @@
     "source": "OpenAI",
     "published": "2026-10-21",
     "keyword": "오픈AI",
-    "topic": "industry",
+    "topic": "usecase",
     "kind": null,
     "entities": [
      "ChatGPT"
     ],
     "summary": "ChatGPT의 시장 조사 적용은 AI가 전문 비즈니스 영역의 자동화와 혁신적 생산성 향상을 가속화할 주요 동력이 될 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "industry",
+    "topic_src": "ai"
    }
   ]
  },
  "fallback": {},
- "notes": {}
+ "notes": {},
+ "enrich": {
+  "hash": "62250e4bcfa1",
+  "model": "gemini-2.5-flash",
+  "topics": 9,
+  "title_ko": 5,
+  "summaries": 0
+ }
 }

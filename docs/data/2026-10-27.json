@@ -17,7 +17,8 @@
     ],
     "summary": "경인신문은 기고를 통해 안민석 교육감이 경기 교육을 이념 논쟁의 장으로 만들려는 의도를 비판하고 있습니다.",
     "implication": "교육 현장의 이념 논쟁 가능성을 인지하며, 수업에서 다양한 관점을 균형 있게 제시하는 데 집중할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 2,
@@ -33,7 +34,8 @@
     ],
     "summary": "일본이 자율 원칙을 적용하여 기업들에게 생성형 AI의 학습 방법 공개를 요구하고 있습니다.",
     "implication": "학생들이 생성형 AI를 활용한 과제를 수행할 때, 그 학습 과정을 스스로 설명하도록 지도할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 3,
@@ -50,7 +52,8 @@
     ],
     "summary": "경남교육청이 생성형 AI를 활용하여 행정업무를 혁신할 예정입니다.",
     "implication": "생성형 AI로 수업 자료 준비나 평가 문항을 만드는 데 도움을 받을 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 4,
@@ -64,7 +67,8 @@
     "entities": [],
     "summary": "서혜진과 경기의회가 현장 체험학습 활성화를 비롯한 실질적인 교육정책 개선을 위해 논의하고 노력할 예정입니다.",
     "implication": "현장 체험학습 활성화에 대한 정책 방향이 제시되므로, 우리 반 특성에 맞는 다양한 외부 체험학습을 기획하여 적용할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 5,
@@ -73,7 +77,7 @@
     "source": "충청뉴스",
     "published": "2026-10-27",
     "keyword": "AI교육",
-    "topic": "classroom",
+    "topic": "higher_ed",
     "kind": null,
     "entities": [
      "세종시교육청",
@@ -81,7 +85,9 @@
     ],
     "summary": "세종교육문화원과 홍익대가 중장년을 대상으로 AI 에이전트 실무 교육과정을 운영합니다.",
     "implication": "AI 활용 능력이 전 연령에 필요한 실용적 기술이므로 수업에 AI 기초 교육을 반영할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
    },
    {
     "n": 6,
@@ -95,7 +101,8 @@
     "entities": [],
     "summary": "충청권 시도교육감들이 인공지능(AI) 교육 협력 강화를 위해 공동으로 노력하기로 합의했습니다.",
     "implication": "AI 교육 협력 강화로 교사들은 지역 공동 AI 학습 플랫폼이나 연수 프로그램을 통해 수업 내용을 풍부하게 할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 7,
@@ -109,7 +116,8 @@
     "entities": [],
     "summary": "권순기 교육감이 교육 현장을 방문했습니다.",
     "implication": "교육 현장 방문을 계기로 우리 반의 학습 상황을 공유할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 8,
@@ -118,7 +126,7 @@
     "source": "경남일보",
     "published": "2026-10-26",
     "keyword": "학습과학",
-    "topic": "policy",
+    "topic": "classroom",
     "kind": null,
     "entities": [
      "경남교육청"
@@ -126,7 +134,9 @@
     "summary": "경남교육청이 교원들과 함께 수학 수업 변화를 모색하고 있습니다.",
     "implication": "새로운 수학 수업 방식을 시도하며 학생들의 흥미를 유발할 수 있습니다.",
     "ai": true,
-    "dup_of": "2026-10-26"
+    "dup_of": "2026-10-26",
+    "topic_rule": "policy",
+    "topic_src": "ai"
    },
    {
     "n": 9,
@@ -143,7 +153,8 @@
     ],
     "summary": "경남교육청이 수학교육 변화를 위해 초·중등 교원 81명을 대상으로 교원 연수를 운영한다.",
     "implication": "새로운 수학교육 방안을 익혀 학생들의 흥미를 높이고 효과적인 수업을 구성할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 10,
@@ -160,7 +171,8 @@
     ],
     "summary": "충남교육청은 특수교육 현장점검을 강화합니다.",
     "implication": "특수교육 현장점검 강화에 대비하여 수업 준비와 관련 서류를 철저히 할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    }
   ],
   "paper": [
@@ -178,7 +190,9 @@
     "implication": "",
     "ai": true,
     "authors": "Yasemin Yeşilbaş Özenç, Ramazan Başaran",
-    "pdf": "https://dergipark.org.tr/en/download/article-file/5913033"
+    "pdf": "https://dergipark.org.tr/en/download/article-file/5913033",
+    "topic_src": "ai",
+    "title_ko": "교실 내 학생 동기에 영향을 미치는 요인: 동기 요인 및 위생 요인"
    },
    {
     "n": 2,
@@ -194,7 +208,9 @@
     "implication": "",
     "ai": true,
     "authors": "Valentina Di Francesco, Eleonora Federici",
-    "pdf": "https://macrothink.org/journal/index.php/ijl/article/download/23835/18474"
+    "pdf": "https://macrothink.org/journal/index.php/ijl/article/download/23835/18474",
+    "topic_src": "ai",
+    "title_ko": "페라라 대학교 특수/특별한 요구가 있는 학생들을 위한 언어 교육의 포괄적 시청각 전략: 교사의 관점"
    },
    {
     "n": 3,
@@ -203,14 +219,17 @@
     "source": "openalex",
     "published": "2026-10-25",
     "keyword": "",
-    "topic": "inclusion_sel",
+    "topic": "teacher_pd",
     "kind": null,
     "entities": [],
     "summary": "본 논문은 법적 토대에도 불구하고 교실 현실과 괴리된 포괄적 교육 실현을 위해 교사 양성 과정에서 사회정서적, 교육학적, 기술적 역량 강화를 주장하며, 교육과정 개편과 지속적인 연수의 중요성을 강조합니다.",
     "implication": "",
     "ai": true,
     "authors": "Rafael Soares Silva",
-    "pdf": "https://revistas.uepg.br/index.php/olhardeprofessor/article/download/25647/209209221032"
+    "pdf": "https://revistas.uepg.br/index.php/olhardeprofessor/article/download/25647/209209221032",
+    "topic_rule": "inclusion_sel",
+    "topic_src": "ai",
+    "title_ko": "기술을 넘어: 포괄적이고 공평한 교육 구축을 위한 교사 양성 역량"
    },
    {
     "n": 4,
@@ -228,7 +247,9 @@
     "implication": "",
     "ai": true,
     "authors": "Zehra Altınay, Aycem Birand 외 1명",
-    "pdf": "https://www.nature.com/articles/s41599-026-09527-4_reference.pdf"
+    "pdf": "https://www.nature.com/articles/s41599-026-09527-4_reference.pdf",
+    "topic_src": "ai",
+    "title_ko": "초등학교 리더의 포괄적 학습 역량 강화: 문화 다양성, 디지털 역량, 학업 낙관주의 통합"
    },
    {
     "n": 5,
@@ -237,14 +258,17 @@
     "source": "openalex",
     "published": "2026-10-21",
     "keyword": "edtech",
-    "topic": "teacher_pd",
+    "topic": "assessment",
     "kind": null,
     "entities": [],
     "summary": "나이지리아 예비 교사들을 대상으로 한 설문 연구 결과, 데이터 기반 교육은 예비 교사들의 학업 성과 향상과 학습 요구 파악에 유의미한 영향을 미쳐 전반적인 학습 결과 개선에 크게 기여함을 확인합니다.",
     "implication": "",
     "ai": true,
     "authors": "Toyin Waisu Ph.D AKAJE",
-    "pdf": "https://ijmra.in/v9i10/Doc/22.pdf"
+    "pdf": "https://ijmra.in/v9i10/Doc/22.pdf",
+    "topic_rule": "teacher_pd",
+    "topic_src": "ai",
+    "title_ko": "데이터 기반 교육이 나이지리아 남서부 교육대학 예비 교사의 학습 성과에 미치는 영향"
    }
   ],
   "tech": [
@@ -263,7 +287,8 @@
     ],
     "summary": "향상된 성능과 낮은 가격은 AI 대중화를 가속하고 산업 전반의 AI 도입 및 경쟁을 심화시킬 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 2,
@@ -272,14 +297,16 @@
     "source": "AI Times",
     "published": "2026-10-26",
     "keyword": "",
-    "topic": "product",
+    "topic": "industry",
     "kind": null,
     "entities": [
      "GPU·데이터센터"
     ],
     "summary": "RTX 30 GPU 성능 잠금 해제 도구는 기존 하드웨어의 AI 처리 효율성을 극대화하여 AI 개발 및 활용의 문턱을 낮출 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "product",
+    "topic_src": "ai"
    },
    {
     "n": 3,
@@ -288,12 +315,14 @@
     "source": "AI Times",
     "published": "2026-10-26",
     "keyword": "",
-    "topic": "edu_ai",
+    "topic": "model",
     "kind": null,
     "entities": [],
     "summary": "역전파 없는 AI 학습의 획기적 속도 향상은 AI 개발 패러다임을 변화시켜 기술 생태계 전반의 혁신을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "edu_ai",
+    "topic_src": "ai"
    },
    {
     "n": 4,
@@ -302,7 +331,7 @@
     "source": "OpenAI Blog",
     "published": "2026-10-23",
     "keyword": "",
-    "topic": "product",
+    "topic": "industry",
     "kind": null,
     "entities": [
      "ChatGPT"
@@ -310,7 +339,9 @@
     "summary": "AI 서비스의 10억 사용자 지원은 대규모 데이터 스토리지 인프라의 확장성이 AI 기술 대중화의 핵심임을 시사합니다.",
     "implication": "",
     "ai": true,
-    "dup_of": "2026-10-24"
+    "dup_of": "2026-10-24",
+    "topic_rule": "product",
+    "topic_src": "ai"
    },
    {
     "n": 5,
@@ -326,7 +357,8 @@
     ],
     "summary": "특정 분야에 최적화된 소형 AI 모델이 거대 AI 모델을 능가하며, AI 산업의 전문화 및 효율적 발전의 중요성을 시사합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 6,
@@ -342,7 +374,8 @@
     ],
     "summary": "LangGraph 에이전트 구축 비법 공유는 개발자들이 복잡한 자율 AI 시스템을 효과적으로 구현하도록 지원하여 AI 기술 생태계의 성숙을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 7,
@@ -351,7 +384,7 @@
     "source": "OpenAI Blog",
     "published": "2026-10-22",
     "keyword": "",
-    "topic": "product",
+    "topic": "usecase",
     "kind": null,
     "entities": [
      "ChatGPT",
@@ -361,7 +394,9 @@
     "summary": "오피니언: 우버의 전사적 ChatGPT 도입은 기업용 생성형 AI 솔루션 시장의 본격적인 확대와 AI 기술의 보편화를 가속화할 것입니다.",
     "implication": "",
     "ai": true,
-    "dup_of": "2026-10-25"
+    "dup_of": "2026-10-25",
+    "topic_rule": "product",
+    "topic_src": "ai"
    },
    {
     "n": 8,
@@ -379,7 +414,8 @@
     "summary": "로컬 LLM 에이전트의 안전장치 마련은 분산형 AI의 책임감 있는 확산과 산업 도입을 가속화할 핵심 요소입니다.",
     "implication": "",
     "ai": true,
-    "dup_of": "2026-10-25"
+    "dup_of": "2026-10-25",
+    "topic_src": "ai"
    },
    {
     "n": 9,
@@ -388,14 +424,16 @@
     "source": "AP신문",
     "published": "2026-10-26",
     "keyword": "API",
-    "topic": "industry",
+    "topic": "usecase",
     "kind": null,
     "entities": [
      "NVIDIA"
     ],
     "summary": "금융권의 오픈 API 출시는 AI가 직접 금융 시장에 연동되어 자동화된 투자 및 새로운 서비스 창출을 가속화하는 핵심 기반이 될 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "industry",
+    "topic_src": "ai"
    },
    {
     "n": 10,
@@ -404,7 +442,7 @@
     "source": "전자신문",
     "published": "2026-10-26",
     "keyword": "GPT",
-    "topic": "product",
+    "topic": "usecase",
     "kind": null,
     "entities": [
      "ChatGPT",
@@ -414,10 +452,19 @@
     ],
     "summary": "챗GPT와 검색 엔진의 교차 이용은 AI가 정보 탐색의 시작점이 되고 검색은 확인 도구가 되는 상호 보완적 AI-검색 생태계의 도래를 의미합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "product",
+    "topic_src": "ai"
    }
   ]
  },
  "fallback": {},
- "notes": {}
+ "notes": {},
+ "enrich": {
+  "hash": "47fe840b9642",
+  "model": "gemini-2.5-flash",
+  "topics": 10,
+  "title_ko": 5,
+  "summaries": 0
+ }
 }

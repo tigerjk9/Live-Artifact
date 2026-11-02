@@ -17,7 +17,8 @@
     ],
     "summary": "전북 천호성 교육감이 인터뷰에서 학교 현장을 중심으로 교육 변화를 이끌어 성과를 만들겠다고 밝혔습니다.",
     "implication": "교육감의 현장 성과 강조에 따라, 학교 현장에서의 학생 중심 활동을 수업에 적극 반영할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 2,
@@ -26,14 +27,16 @@
     "source": "주간한국",
     "published": "2026-10-12",
     "keyword": "인공지능교육",
-    "topic": "classroom",
+    "topic": "policy",
     "kind": "interview",
     "entities": [
      "경남교육청"
     ],
     "summary": "권순기 경남교육감은 책임, 상생, 미래교육을 통해 학교 현장을 변화시키겠다고 밝혔다.",
     "implication": "미래교육 강조에 따라 수업에 새로운 학습 도구 및 방법을 적극적으로 도입할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
    },
    {
     "n": 3,
@@ -42,12 +45,14 @@
     "source": "메트로신문",
     "published": "2026-10-11",
     "keyword": "학습과학",
-    "topic": "classroom",
+    "topic": "higher_ed",
     "kind": null,
     "entities": [],
     "summary": "김해시에서 이틀간 진행된 평생학습과학축제에 5000여 명의 방문객이 다녀갔습니다.",
     "implication": "지역에서 열리는 대규모 과학 축제를 학생들의 체험 학습 자료로 활용할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
    },
    {
     "n": 4,
@@ -56,12 +61,14 @@
     "source": "경남뉴스통신",
     "published": "2026-10-11",
     "keyword": "학습과학",
-    "topic": "classroom",
+    "topic": "higher_ed",
     "kind": null,
     "entities": [],
     "summary": "2026년 김해시에서 평생학습과학축제가 성공적으로 개최되어 많은 시민의 참여를 이끌었습니다.",
     "implication": "지역의 성공적인 과학축제 사례를 수업에 연결하여 학생들의 과학 분야 흥미를 유발할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
    },
    {
     "n": 5,
@@ -78,7 +85,8 @@
     ],
     "summary": "교권 약화와 쏟아지는 정책 속에서 교원단체가 학교 현실에 맞는 교육정책을 요구합니다.",
     "implication": "쏟아지는 정책 속에서 학교 현장의 특성과 학생 요구에 맞춰 수업 내용을 선별하고 재구성할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 6,
@@ -94,7 +102,8 @@
     ],
     "summary": "임종식 교육감은 행정 부담을 줄여 교육 깊이를 더하며 경북교육 대전환을 지향합니다.",
     "implication": "행정 부담 감소로 확보된 시간에 탐구 기반 수업이나 토론 활동을 더 심도 있게 진행할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 7,
@@ -103,12 +112,14 @@
     "source": "더에듀",
     "published": "2026-10-12",
     "keyword": "교육정책",
-    "topic": "policy",
+    "topic": "teacher",
     "kind": null,
     "entities": [],
     "summary": "충남 교사들이 교육활동 보호와 교육정책 전환을 촉구했습니다.",
     "implication": "선생님은 학생들이 배움에 집중하고 성장할 수 있는 환경을 만들 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
    },
    {
     "n": 8,
@@ -124,7 +135,8 @@
     ],
     "summary": "유동수 의원이 인천의 교육정책과 재개발 현안을 해결하겠다고 밝혔다.",
     "implication": "학생들과 지역 사회의 교육 정책과 재개발 현안에 대해 토론하는 수업 자료로 활용할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 9,
@@ -133,14 +145,16 @@
     "source": "정안뉴스",
     "published": "2026-10-11",
     "keyword": "AI디지털도구",
-    "topic": "classroom",
+    "topic": "student_care",
     "kind": null,
     "entities": [
      "대구시교육청"
     ],
     "summary": "대구시교육청은 부모와 자녀가 함께 지역을 걷고 배우는 '우리동네 행복 투어'를 운영합니다.",
     "implication": "부모-자녀가 함께하는 지역 탐방 활동을 통해 교과 지식을 실제 삶과 연결하는 수업을 기획할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
    },
    {
     "n": 10,
@@ -149,14 +163,16 @@
     "source": "더쎈뉴스",
     "published": "2026-10-11",
     "keyword": "AI디지털도구",
-    "topic": "policy",
+    "topic": "student_care",
     "kind": null,
     "entities": [
      "대구시교육청"
     ],
     "summary": "대구시교육청은 10월 주말에 초·중학생 가족을 대상으로 대구근대골목 역사·문화 탐방 프로그램을 운영할 예정입니다.",
     "implication": "지역 근대골목 탐방 활동을 통해 학생 주도형 지역 문화유산 조사 수업을 기획할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
    }
   ],
   "paper": [
@@ -174,7 +190,9 @@
     "implication": "",
     "ai": true,
     "authors": "Andrew Agaba, Emmanuel Karoro 외 1명",
-    "pdf": "https://journals.eanso.org/index.php/eajes/article/download/5972/6290"
+    "pdf": "https://journals.eanso.org/index.php/eajes/article/download/5972/6290",
+    "topic_src": "ai",
+    "title_ko": "교수학적 공간의 변화: 사하라 이남 중등 교육의 젠더 반응형 교육학 및 학습 성과 탐구: 우간다 사례"
    },
    {
     "n": 2,
@@ -193,7 +211,9 @@
     "implication": "",
     "ai": true,
     "authors": "Rani Suman",
-    "pdf": "https://www.ijrtmr.com/archiver/archives/ai_agent_based_intelligent_learning_system_for_personalize_education_student_performance_prediction_and_adaptive_content_generation.pdf"
+    "pdf": "https://www.ijrtmr.com/archiver/archives/ai_agent_based_intelligent_learning_system_for_personalize_education_student_performance_prediction_and_adaptive_content_generation.pdf",
+    "topic_src": "ai",
+    "title_ko": "개인 맞춤형 교육, 학생 성과 예측 및 적응형 콘텐츠 생성을 위한 AI 에이전트 기반 지능형 학습 시스템"
    },
    {
     "n": 3,
@@ -202,14 +222,17 @@
     "source": "openalex",
     "published": "2026-10-09",
     "keyword": "",
-    "topic": "genai_tutor",
+    "topic": "stem_ct",
     "kind": null,
     "entities": [],
     "summary": "이 논문은 계산적 사고력 함양을 위한 4단계 AI 지원 교육 모델을 제안, 14주 파일럿 연구에서 유의미한 학습 효과를 입증하여 AI 기반 교육의 새로운 지평을 제시합니다.",
     "implication": "",
     "ai": true,
     "authors": "Huili Zhang, Xubiao Wang",
-    "pdf": "https://www.nature.com/articles/s41598-026-73775-2_reference.pdf"
+    "pdf": "https://www.nature.com/articles/s41598-026-73775-2_reference.pdf",
+    "topic_rule": "genai_tutor",
+    "topic_src": "ai",
+    "title_ko": "14주 교실 파일럿으로 평가된 계산적 사고력 함양을 위한 AI 지원 4단계 교육 모델"
    },
    {
     "n": 4,
@@ -218,14 +241,17 @@
     "source": "openalex",
     "published": "2026-10-09",
     "keyword": "",
-    "topic": "language",
+    "topic": "assessment",
     "kind": null,
     "entities": [],
     "summary": "이 연구는 2020-2025년 문헌 체계적 검토를 통해 AI와 교육 요인이 회계 교육의 학업 성과에 미치는 영향을 분석하고, AI 기술의 효과가 교사 역량 등에 달려있음을 밝혀 디지털 시대 교육 개선을 위한 통합 프레임워크를 제안합니다.",
     "implication": "",
     "ai": true,
     "authors": "Nokuthula Ngobese",
-    "pdf": "https://bussecon.com/ojs/index.php/ijbes/article/download/1270/868"
+    "pdf": "https://bussecon.com/ojs/index.php/ijbes/article/download/1270/868",
+    "topic_rule": "language",
+    "topic_src": "ai",
+    "title_ko": "남아프리카 대학 회계 교육에서 학업 성과 형성에 있어 AI 및 교육 요인의 역할 탐구: 체계적 문헌 검토"
    },
    {
     "n": 5,
@@ -241,7 +267,9 @@
     "implication": "",
     "ai": true,
     "authors": "Siti Rahmawati, Rosita 외 1명",
-    "pdf": "http://jurnal2.unimen.ac.id/index.php/edumaspul/article/download/517/425"
+    "pdf": "http://jurnal2.unimen.ac.id/index.php/edumaspul/article/download/517/425",
+    "topic_src": "ai",
+    "title_ko": "SMK Tiwikrama Mamuju 학생 학습 지원을 위한 컴퓨터 기반 상호작용 학습 매체 혁신"
    }
   ],
   "tech": [
@@ -261,7 +289,8 @@
     "summary": "엔비디아는 오픈소스 AI 기업 인수를 통해 하드웨어 넘어 소프트웨어 생태계까지 장악하며 AI 스택 전반의 주도권을 강화할 것입니다.",
     "implication": "",
     "ai": true,
-    "dup_of": "2026-10-11"
+    "dup_of": "2026-10-11",
+    "topic_src": "ai"
    },
    {
     "n": 2,
@@ -275,7 +304,8 @@
     "entities": [],
     "summary": "AI 기술 생태계는 사이킷런, 파이토치와 같은 실용 도구 활용 능력을 통해 실질적인 AI 서비스 구현 및 인재 양성을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 3,
@@ -290,7 +320,8 @@
     "summary": "AI 데이터 투자가 보편화됨에 따라, AI 산업은 단순한 준비를 넘어 실질적인 비즈니스 가치 창출 역량으로 경쟁의 초점이 이동할 것입니다.",
     "implication": "",
     "ai": true,
-    "dup_of": "2026-10-11"
+    "dup_of": "2026-10-11",
+    "topic_src": "ai"
    },
    {
     "n": 4,
@@ -299,7 +330,7 @@
     "source": "AI넷",
     "published": "2026-10-11",
     "keyword": "Anthropic",
-    "topic": "model",
+    "topic": "policy_safety",
     "kind": null,
     "entities": [
      "OpenAI",
@@ -309,7 +340,9 @@
     ],
     "summary": "AI 산업은 실용화 가속과 함께 개발사 내부 갈등 및 윤리적 사용 통제라는 복합적 도전에 직면할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
    },
    {
     "n": 5,
@@ -326,7 +359,8 @@
     "summary": "AI는 자본 시장처럼 전문성이 높은 분야에서 인간의 역량을 효과적으로 확장하는 핵심 수단으로 부상, AI 기술의 산업별 심층 적용을 가속화할 것입니다.",
     "implication": "",
     "ai": true,
-    "dup_of": "2026-10-09"
+    "dup_of": "2026-10-09",
+    "topic_src": "ai"
    },
    {
     "n": 6,
@@ -344,7 +378,8 @@
     "summary": "MS의 디시전-1은 AI가 자율적 의사결정을 통해 실제 행동으로 이어지는 '능동적 AI' 생태계의 전환점이 될 것입니다.",
     "implication": "",
     "ai": true,
-    "dup_of": "2026-10-11"
+    "dup_of": "2026-10-11",
+    "topic_src": "ai"
    },
    {
     "n": 7,
@@ -363,7 +398,8 @@
     ],
     "summary": "마이크로소프트가 '초지능' 담론을 경쟁사 견제에 활용하면서 AI 안전 규제와 산업 경쟁 구도에 정치적 요인이 크게 작용할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 8,
@@ -382,7 +418,8 @@
     ],
     "summary": "NVIDIA GPU의 압도적 성능이 OpenAI 최첨단 AI 모델 가속의 핵심이며, AI 기술 혁신과 산업 변화를 주도할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 9,
@@ -397,7 +434,8 @@
     "summary": "AI 기술은 유통업계의 핵심 비즈니스 혁신을 이끌며 관련 산업 생태계 확장을 촉진할 것입니다.",
     "implication": "",
     "ai": true,
-    "dup_of": "2026-10-10"
+    "dup_of": "2026-10-10",
+    "topic_src": "ai"
    },
    {
     "n": 10,
@@ -406,7 +444,7 @@
     "source": "Towards Data Science",
     "published": "2026-10-06",
     "keyword": "",
-    "topic": "policy_safety",
+    "topic": "agent_dev",
     "kind": null,
     "entities": [
      "추론 모델"
@@ -414,10 +452,19 @@
     "summary": "AI의 예측 과제 내 숨겨진 함정 취약점은 AI 기술의 신뢰성 및 논리적 추론 능력 강화가 필수적임을 강조합니다.",
     "implication": "",
     "ai": true,
-    "dup_of": "2026-10-10"
+    "dup_of": "2026-10-10",
+    "topic_rule": "policy_safety",
+    "topic_src": "ai"
    }
   ]
  },
  "fallback": {},
- "notes": {}
+ "notes": {},
+ "enrich": {
+  "hash": "f0e660fd11df",
+  "model": "gemini-2.5-flash",
+  "topics": 10,
+  "title_ko": 5,
+  "summaries": 0
+ }
 }

@@ -17,7 +17,8 @@
     ],
     "summary": "대전시교육청이 수업 혁신과 AI 교육 관련 정책 아이디어를 수집하고 있습니다.",
     "implication": "대전시교육청의 관심사를 반영하여 AI 활용 수업 방안을 미리 구상하고 적용해 볼 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 2,
@@ -26,14 +27,16 @@
     "source": "더쎈뉴스",
     "published": "2026-09-30",
     "keyword": "디지털교육",
-    "topic": "teacher",
+    "topic": "classroom",
     "kind": null,
     "entities": [
      "경남교육청"
     ],
     "summary": "경남교육청이 중고교장 398명을 대상으로 미래형 수업 혁신을 위한 연수를 실시했습니다.",
     "implication": "미래형 수업 혁신 방향을 미리 파악하여 내 수업에 적용할 방안을 모색할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "teacher",
+    "topic_src": "ai"
    },
    {
     "n": 3,
@@ -63,7 +66,8 @@
     "entities": [],
     "summary": "안민석 교육감은 용인지역 학부모들과 교육 현안에 대해 논의했습니다.",
     "implication": "교육 현안 논의를 통해 학생들에게 학교 관련 문제에 대한 자신들의 의견을 표현하게 할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 5,
@@ -79,7 +83,8 @@
     ],
     "summary": "유정기 전북자치도 부교육감이 2년 6개월간의 교육 현장 헌신을 마치고 이임했습니다.",
     "implication": "전북 교육을 위해 헌신한 리더의 이임을 통해, 학생들과 교육의 지속적인 가치와 노력을 논할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 6,
@@ -88,7 +93,7 @@
     "source": "충청리뷰",
     "published": "2026-09-30",
     "keyword": "교육현장",
-    "topic": "policy",
+    "topic": "student_care",
     "kind": null,
     "entities": [
      "충북교육청",
@@ -96,7 +101,9 @@
     ],
     "summary": "충북교육청은 정확한 진단을 특수교육의 출발점으로 삼아 현장 전문가를 양성하겠다고 밝혔다.",
     "implication": "특수교육 현장 전문가의 진단 결과를 바탕으로 학생별 맞춤형 수업을 효과적으로 계획할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
    },
    {
     "n": 7,
@@ -105,14 +112,16 @@
     "source": "kmaeil.com",
     "published": "2026-09-30",
     "keyword": "현장교사",
-    "topic": "policy",
+    "topic": "classroom",
     "kind": null,
     "entities": [
      "인천시교육청"
     ],
     "summary": "인천시교육청은 교사들과 함께 교실 민주주의와 청소년 주권 실천 방안을 모색하고 있습니다.",
     "implication": "교실에서 학생들과 민주주의와 청소년 주권 실현을 위한 다양한 활동을 직접 모색할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
    },
    {
     "n": 8,
@@ -121,14 +130,16 @@
     "source": "kmaeil.com",
     "published": "2026-09-30",
     "keyword": "인공지능교육",
-    "topic": "classroom",
+    "topic": "global",
     "kind": null,
     "entities": [
      "인천시교육청"
     ],
     "summary": "인천시교육청이 세르비아 교육진흥원과 손잡고 AI 미래교육 국제협력을 확대한다.",
     "implication": "교사들은 국제 협력을 통해 얻게 될 AI 교육 콘텐츠를 수업에 활용할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
    },
    {
     "n": 9,
@@ -137,14 +148,16 @@
     "source": "뉴스핌",
     "published": "2026-09-30",
     "keyword": "교육정책",
-    "topic": "policy",
+    "topic": "global",
     "kind": null,
     "entities": [
      "교육부"
     ],
     "summary": "교육부 장관이 UAE 대사와 만나 미래교육 협력 방안을 논의했습니다.",
     "implication": "교육부 장관의 국제 협력 논의를 통해 미래 교육 방향을 학생들과 함께 고민할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
    },
    {
     "n": 10,
@@ -160,7 +173,8 @@
     ],
     "summary": "대전시교육청이 2026년 대전 교육 정책에 대한 아이디어를 온라인으로 공모합니다.",
     "implication": "수업 시간에 학생들이 직접 2026년 대전 교육 정책 아이디어를 구상하고 온라인 공모에 참여하는 활동을 할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    }
   ],
   "paper": [
@@ -171,14 +185,17 @@
     "source": "semantic_scholar",
     "published": "2024-11-28",
     "keyword": "K-12 education",
-    "topic": "literacy_ethics",
+    "topic": "genai_tutor",
     "kind": null,
     "entities": [],
     "summary": "이 논문은 K-12 교육을 위한 AI 도구를 정의, 분류하고 활용 방안과 윤리적 고려 사항을 제시하여, 교사들이 개인 맞춤 교육을 강화하고 미래 지향적인 학습 환경을 조성하도록 돕는 실용적인 지침을 제공합니다.",
     "implication": "",
     "ai": true,
     "authors": "Gina Kwid, Nicole Sarty 외 1명",
-    "pdf": "https://api.intechopen.com/article/pdf-download/470"
+    "pdf": "https://api.intechopen.com/article/pdf-download/470",
+    "topic_rule": "literacy_ethics",
+    "topic_src": "ai",
+    "title_ko": "AI 도구 검토: K-12 교육을 위한 정의, 기능 및 응용"
    },
    {
     "n": 2,
@@ -194,7 +211,9 @@
     "implication": "",
     "ai": true,
     "authors": "Zhang Hongxi",
-    "pdf": "https://revistia.com/index.php/ejser/article/view/3747/3867"
+    "pdf": "https://revistia.com/index.php/ejser/article/view/3747/3867",
+    "topic_src": "ai",
+    "title_ko": "대학 음악 교육 과정에서 디지털 피아노 교수 장비 적용 연구"
    },
    {
     "n": 3,
@@ -210,7 +229,9 @@
     "implication": "",
     "ai": true,
     "authors": "Eliona Naqo",
-    "pdf": "https://www.dpublication.com/conference-proceedings/index.php/sshconference/article/download/2003/1298"
+    "pdf": "https://www.dpublication.com/conference-proceedings/index.php/sshconference/article/download/2003/1298",
+    "topic_src": "ai",
+    "title_ko": "고등 교육의 능동 학습 전략: 알바니아 블로라 대학교(University of Vlora “Ismail Qemali”) 사례"
    },
    {
     "n": 4,
@@ -226,7 +247,9 @@
     "implication": "",
     "ai": true,
     "authors": "Carla C. Johnson, Janet B. Walton 외 1명",
-    "pdf": "https://doi.org/10.3102/00346543221105550"
+    "pdf": "https://doi.org/10.3102/00346543221105550",
+    "topic_src": "ai",
+    "title_ko": "미국 K-12 교육의 온라인 교수법: 체계적 문헌 검토"
    },
    {
     "n": 5,
@@ -235,14 +258,17 @@
     "source": "openalex",
     "published": "2026-09-29",
     "keyword": "",
-    "topic": "teacher_pd",
+    "topic": "design_curric",
     "kind": null,
     "entities": [],
     "summary": "이 논문은 문헌 검토를 통해 교육과정 개발에 교사 참여가 교육의 적합성, 실행, 반응성을 높이는 핵심임을 강조하며, 기존 연구의 한계를 지적하고 교사 참여가 교육과정과 학생 성과에 미치는 영향을 검증할 미래 연구의 필요성을 제언합니다.",
     "implication": "",
     "ai": true,
     "authors": "Huiyu Liu",
-    "pdf": "https://lnep.ewapub.com/article/view/37359.pdf"
+    "pdf": "https://lnep.ewapub.com/article/view/37359.pdf",
+    "topic_rule": "teacher_pd",
+    "topic_src": "ai",
+    "title_ko": "교육과정 개발에 교사 참여: 반응적이고 적응적인 교육을 향하여"
    }
   ],
   "tech": [
@@ -260,7 +286,8 @@
     ],
     "summary": "구글의 RRSI는 AI 모델의 재학습 없이 스스로 성능을 개선하는 자율성을 부여하여 AI 시스템의 운영 효율성과 산업 혁신을 크게 앞당길 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 2,
@@ -278,7 +305,8 @@
     ],
     "summary": "성능 1위 AI 모델의 일반 사용 제한은 AI 기술 경쟁이 성능을 넘어 상용화와 안전성 확보 단계로 진입했음을 보여줍니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 3,
@@ -287,7 +315,7 @@
     "source": "AI Times",
     "published": "2026-10-01",
     "keyword": "",
-    "topic": "agent_dev",
+    "topic": "industry",
     "kind": null,
     "entities": [
      "Hugging Face",
@@ -295,7 +323,9 @@
     ],
     "summary": "허깅페이스의 실제 활용 확산은 오픈소스 AI 생태계의 성숙을 촉진하고 기술 상용화를 가속화하는 핵심 동력이 될 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "agent_dev",
+    "topic_src": "ai"
    },
    {
     "n": 4,
@@ -311,7 +341,8 @@
     ],
     "summary": "AI 기술은 이제 콘텐츠 생산자에게 기여도를 보상하는 모델을 확립하여, AI 생태계의 윤리적 공존과 지속 가능한 성장을 위한 중요한 선례를 만들 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 5,
@@ -320,12 +351,14 @@
     "source": "AI Times",
     "published": "2026-09-30",
     "keyword": "",
-    "topic": "model",
+    "topic": "product",
     "kind": null,
     "entities": [],
     "summary": "리퀴드 AI의 ‘d1’ 출시는 의사결정 AI 시장의 경쟁 구도를 재편하고 기술 혁신을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
    },
    {
     "n": 6,
@@ -334,7 +367,7 @@
     "source": "OpenAI Blog",
     "published": "2026-09-23",
     "keyword": "",
-    "topic": "industry",
+    "topic": "product",
     "kind": null,
     "entities": [
      "ChatGPT"
@@ -342,7 +375,9 @@
     "summary": "ChatGPT 광고의 동남아 및 대만 확장은 AI 모델의 글로벌 수익화 전략을 강화하고, AI 기반 플랫폼 비즈니스 경쟁을 심화시킬 것입니다.",
     "implication": "",
     "ai": true,
-    "dup_of": "2026-09-28"
+    "dup_of": "2026-09-28",
+    "topic_rule": "industry",
+    "topic_src": "ai"
    },
    {
     "n": 7,
@@ -360,7 +395,8 @@
     ],
     "summary": "애플의 시리 AI 기반 스마트홈 진출은 AI 기술 경쟁을 심화시켜 사용자 경험 중심의 혁신을 촉진할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 8,
@@ -377,7 +413,8 @@
     ],
     "summary": "오픈AI의 결정형 API는 AI 에이전트의 행동을 분류하여 안전하고 예측 가능한 자율 AI 시스템 구축에 핵심적인 역할을 할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 9,
@@ -386,12 +423,14 @@
     "source": "OpenAI Blog",
     "published": "2026-09-29",
     "keyword": "",
-    "topic": "agent_dev",
+    "topic": "industry",
     "kind": null,
     "entities": [],
     "summary": "DevDay 2026은 AI 개발의 대중화와 플랫폼화를 통해 산업 전반의 혁신을 가속화하며 생태계를 확장할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "agent_dev",
+    "topic_src": "ai"
    },
    {
     "n": 10,
@@ -407,10 +446,18 @@
     ],
     "summary": "AI 에이전트가 도구 생성 능력까지 갖춤으로써 AI 개발과 활용의 자율성이 극대화되어 산업 전반에 혁신을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    }
   ]
  },
  "fallback": {},
- "notes": {}
+ "notes": {},
+ "enrich": {
+  "hash": "1ce15e015ea2",
+  "model": "gemini-2.5-flash",
+  "topics": 11,
+  "title_ko": 5,
+  "summaries": 0
+ }
 }

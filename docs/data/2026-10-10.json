@@ -15,7 +15,8 @@
     "entities": [],
     "summary": "학부모들이 “교사 반발만으로 교육정책 뒤집나”라며 국교위에 관련 자료 공개를 촉구했습니다.",
     "implication": "학부모의 교육정책 참여는 교사가 수업에서 사회 현안을 다루며 다각적 관점을 제시할 소재가 될 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 2,
@@ -31,7 +32,8 @@
     ],
     "summary": "안민석 경기도교육감이 취임 100일을 맞아 현장 교사들과 교육 현안에 대해 소통했다.",
     "implication": "현장 교사들은 교육감과의 소통을 통해 수업 개선에 필요한 현장 의견을 전달할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 3,
@@ -47,7 +49,8 @@
     ],
     "summary": "베트남 교사의 약 60%가 교수법 관련 전문성 개발에 대한 강한 필요성을 느끼고 있습니다.",
     "implication": "많은 동료 교사들이 교수법 개선에 공감하므로 새로운 수업 방식을 함께 모색할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 4,
@@ -61,7 +64,8 @@
     "entities": [],
     "summary": "안민석 교육감은 AI 시대에 필요한 교육을 공교육이 책임지고 실행하겠다고 밝혔습니다.",
     "implication": "AI 시대 교육의 중요성을 인지하고 수업에 AI 관련 학습 요소를 접목할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 5,
@@ -78,7 +82,8 @@
     ],
     "summary": "교사 약 63%가 수업·평가에 생성형 AI를 활용하며, 평가원은 관련 5대 원칙을 제시했습니다.",
     "implication": "평가원이 제시한 5대 원칙을 바탕으로 생성형 AI를 수업에 효과적으로 적용할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 6,
@@ -92,7 +97,8 @@
     "entities": [],
     "summary": "경북투데이가 임종식 교육감의 취임 100일을 맞아 그간의 활동을 되짚고 미래 비전을 다룹니다.",
     "implication": "학생들과 교육감의 취임 100일 성과를 공유하고 우리 지역의 미래 교육을 함께 탐색하는 활동을 해볼 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 7,
@@ -108,7 +114,8 @@
     ],
     "summary": "안민석 경기도교육감은 경기북부 지역의 교육격차를 줄이고 교육의 질을 높이겠다고 밝혔다.",
     "implication": "경기북부 교육격차 해소와 질 향상 약속으로 우리 학교에도 더 나은 교육 기회가 생길 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 8,
@@ -117,14 +124,16 @@
     "source": "글로벌뉴스통신GNA",
     "published": "2026-10-09",
     "keyword": "교육혁신",
-    "topic": "higher_ed",
+    "topic": "policy",
     "kind": null,
     "entities": [
      "경기도교육청"
     ],
     "summary": "경기도교육청이 경기직업교육의 큰 변화를 위해 학과 재구조화를 시작합니다.",
     "implication": "학생들에게 변화하는 직업교육 동향을 설명하며 관련 산업 정보를 전달할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "higher_ed",
+    "topic_src": "ai"
    },
    {
     "n": 9,
@@ -140,7 +149,8 @@
     ],
     "summary": "초중등학교 교육부가 생물 다양성 보존 교육의 중요한 역할을 강조했습니다.",
     "implication": "생물 다양성 보존의 중요성을 학생들이 탐구하고 실천할 수 있는 수업을 구성할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 10,
@@ -167,7 +177,7 @@
     "source": "openalex",
     "published": "2026-10-07",
     "keyword": "",
-    "topic": "personalized",
+    "topic": "genai_tutor",
     "kind": null,
     "entities": [
      "개인화 학습"
@@ -176,7 +186,10 @@
     "implication": "",
     "ai": true,
     "authors": "Andrew A. Tawfik, Shelbi Laura Kuhlmann 외 1명",
-    "pdf": "https://link.springer.com/content/pdf/10.1007/s10758-026-10034-3.pdf"
+    "pdf": "https://link.springer.com/content/pdf/10.1007/s10758-026-10034-3.pdf",
+    "topic_rule": "personalized",
+    "topic_src": "ai",
+    "title_ko": "AI를 통한 탐구 재구상: 확장 가능한 복잡한 문제 해결을 위한 신기술"
    },
    {
     "n": 2,
@@ -185,7 +198,7 @@
     "source": "openalex",
     "published": "2026-10-07",
     "keyword": "",
-    "topic": "genai_tutor",
+    "topic": "personalized",
     "kind": null,
     "entities": [
      "에이전트",
@@ -196,7 +209,10 @@
     "implication": "",
     "ai": true,
     "authors": "Yinqi Zhang-Kopf, Chenglu Li 외 1명",
-    "pdf": "https://www.sciencedirect.com/science/article/pii/S1041608026001433/pdf"
+    "pdf": "https://www.sciencedirect.com/science/article/pii/S1041608026001433/pdf",
+    "topic_rule": "genai_tutor",
+    "topic_src": "ai",
+    "title_ko": "AI 티처블 에이전트 참여의 개인차 분석: 학습자 그룹별 참여 및 수학 시험 성과 연관성"
    },
    {
     "n": 3,
@@ -214,7 +230,9 @@
     "implication": "",
     "ai": true,
     "authors": "Herva Emilda Sari, Benelekser Tumanggor 외 1명",
-    "pdf": "https://journal.pandawan.id/italic/article/download/647/487"
+    "pdf": "https://journal.pandawan.id/italic/article/download/647/487",
+    "topic_src": "ai",
+    "title_ko": "AI 기반 적응형 학습 시스템을 통한 교육 성과 향상"
    },
    {
     "n": 4,
@@ -232,7 +250,9 @@
     "implication": "",
     "ai": true,
     "authors": "Chun-Hui Wu, You-Shyang Chen 외 1명",
-    "pdf": "https://www.ejmste.com/download/an-adaptive-e-learning-system-for-enhancing-learning-performance-based-on-dynamic-scaffolding-theory-5314.pdf"
+    "pdf": "https://www.ejmste.com/download/an-adaptive-e-learning-system-for-enhancing-learning-performance-based-on-dynamic-scaffolding-theory-5314.pdf",
+    "topic_src": "ai",
+    "title_ko": "학습 성과 향상을 위한 적응형 이러닝 시스템: 동적 스캐폴딩 이론 기반"
    },
    {
     "n": 5,
@@ -241,7 +261,7 @@
     "source": "eric",
     "published": "2006-01-01",
     "keyword": "",
-    "topic": "personalized",
+    "topic": "design_curric",
     "kind": null,
     "entities": [
      "개인화 학습"
@@ -250,7 +270,10 @@
     "implication": "",
     "ai": true,
     "authors": "Tomlinson, Carol Ann 외 2명",
-    "pdf": "http://shop.ascd.org/productdisplay.cfm?productid=105004"
+    "pdf": "http://shop.ascd.org/productdisplay.cfm?productid=105004",
+    "topic_rule": "personalized",
+    "topic_src": "ai",
+    "title_ko": "차별화된 교수법과 설계에 의한 이해 통합: 내용과 학생 연결하기"
    }
   ],
   "tech": [
@@ -261,14 +284,16 @@
     "source": "AI Times",
     "published": "2026-10-09",
     "keyword": "",
-    "topic": "model",
+    "topic": "policy_safety",
     "kind": null,
     "entities": [
      "OpenAI"
     ],
     "summary": "오픈AI 연구원들의 주장은 AI 개발 경쟁 속에서 투명한 AI 추론 감시 기능 보존이 산업계의 핵심 윤리적, 기술적 과제가 될 것임을 시사합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
    },
    {
     "n": 2,
@@ -277,7 +302,7 @@
     "source": "AI Times",
     "published": "2026-10-09",
     "keyword": "",
-    "topic": "model",
+    "topic": "agent_dev",
     "kind": null,
     "entities": [
      "Google",
@@ -288,7 +313,9 @@
     "summary": "구글의 기업용 제미나이 에이전트 출시는 복수 AI 모델을 통합 활용하는 플랫폼 전략이 AI 산업의 핵심 경쟁 우위가 될 것임을 시사합니다.",
     "implication": "",
     "ai": true,
-    "dup_of": "2026-10-09"
+    "dup_of": "2026-10-09",
+    "topic_rule": "model",
+    "topic_src": "ai"
    },
    {
     "n": 3,
@@ -297,7 +324,7 @@
     "source": "Yellow.com",
     "published": "2026-10-09",
     "keyword": "GPT",
-    "topic": "product",
+    "topic": "model",
     "kind": null,
     "entities": [
      "OpenAI",
@@ -305,7 +332,9 @@
     ],
     "summary": "GPT-5.6의 제한적 출시는 최첨단 AI 모델의 전략적 공급 통제가 시장 선점 경쟁을 심화시키고 접근성 격차를 유발할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "product",
+    "topic_src": "ai"
    },
    {
     "n": 4,
@@ -322,7 +351,8 @@
     "summary": "OpenAI를 활용한 자본 시장 전문성 확장은 AI가 고도로 전문화된 산업에서 인간의 역량을 증강하고 확장하는 핵심 도구가 될 것임을 시사합니다.",
     "implication": "",
     "ai": true,
-    "dup_of": "2026-10-07"
+    "dup_of": "2026-10-07",
+    "topic_src": "ai"
    },
    {
     "n": 5,
@@ -331,7 +361,7 @@
     "source": "AI Times",
     "published": "2026-10-09",
     "keyword": "",
-    "topic": "model",
+    "topic": "usecase",
     "kind": null,
     "entities": [
      "Anthropic",
@@ -339,7 +369,9 @@
     ],
     "summary": "AI가 과학적 발견을 가속화하는 핵심 동력임을 입증하며, AI 기술의 고부가가치 응용 분야 확대를 이끌 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
    },
    {
     "n": 6,
@@ -348,7 +380,7 @@
     "source": "뉴스탭",
     "published": "2026-10-09",
     "keyword": "GPT",
-    "topic": "model",
+    "topic": "product",
     "kind": null,
     "entities": [
      "ChatGPT",
@@ -356,7 +388,9 @@
     ],
     "summary": "GPT-5-mini 기반 AI 판다는 LLM의 소형화와 물리적 제품 접목을 통해 AI의 일상화를 가속화하며 새로운 시장을 창출할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
    },
    {
     "n": 7,
@@ -371,7 +405,8 @@
     "summary": "알버트슨즈의 내부 혁신은 AI가 유통 산업의 운영 및 비즈니스 모델 전반을 재정의하며 필수적인 AI 기술 생태계 수요를 촉진할 것입니다.",
     "implication": "",
     "ai": true,
-    "dup_of": "2026-10-07"
+    "dup_of": "2026-10-07",
+    "topic_src": "ai"
    },
    {
     "n": 8,
@@ -386,7 +421,8 @@
     "summary": "예측 과제 속 함정에 드러난 AI의 한계는, AI 기술 신뢰성 확보를 위한 비판적 사고력 및 견고함 강화가 필수적임을 강조합니다.",
     "implication": "",
     "ai": true,
-    "dup_of": "2026-10-07"
+    "dup_of": "2026-10-07",
+    "topic_src": "ai"
    },
    {
     "n": 9,
@@ -402,7 +438,8 @@
     ],
     "summary": "주요 AI 기업들의 재난 시나리오 가동은 AI 안전 및 규제 논의를 가속화하고 산업의 기술 개발 및 책임 방향에 중대한 영향을 미칠 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 10,
@@ -419,10 +456,18 @@
     ],
     "summary": "Anthropic의 Claude 기능 강화는 AI 모델의 기업 도입 장벽을 낮추고 실질적인 비즈니스 활용을 촉진하여 AI 시장 경쟁을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    }
   ]
  },
  "fallback": {},
- "notes": {}
+ "notes": {},
+ "enrich": {
+  "hash": "251515e37a9d",
+  "model": "gemini-2.5-flash",
+  "topics": 9,
+  "title_ko": 5,
+  "summaries": 0
+ }
 }

@@ -10,7 +10,7 @@
     "source": "교육플러스",
     "published": "2026-10-16",
     "keyword": "",
-    "topic": "classroom",
+    "topic": "policy",
     "kind": "opinion",
     "entities": [
      "수능·대입",
@@ -18,7 +18,9 @@
     ],
     "summary": "국교위가 수능 서논술형 도입에 독서만으로 충분하다고 밝혀, 공정 채점 및 사교육 확대 우려 등 논란이 일고 있습니다.",
     "implication": "객관식 위주의 수업에서 벗어나 학생들의 사고력과 비판적 판단 능력을 기르는 활동을 강화할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
    },
    {
     "n": 2,
@@ -27,7 +29,7 @@
     "source": "충남일보",
     "published": "2026-10-16",
     "keyword": "AI교육",
-    "topic": "student_care",
+    "topic": "policy",
     "kind": null,
     "entities": [
      "마음건강",
@@ -35,7 +37,9 @@
     ],
     "summary": "대전교육정책연구소는 마음건강부터 AI 교육까지 다루는 2026년 정책연구 최종보고회를 개최했습니다.",
     "implication": "앞으로 교육 현장에서 마음건강과 AI 교육의 중요성이 커질 것이므로 수업에 적극 반영할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "student_care",
+    "topic_src": "ai"
    },
    {
     "n": 3,
@@ -44,14 +48,16 @@
     "source": "느린인뉴스",
     "published": "2026-10-16",
     "keyword": "교육정책",
-    "topic": "policy",
+    "topic": "student_care",
     "kind": null,
     "entities": [
      "대전시교육청"
     ],
     "summary": "대전교육정책연구소는 경계선지능 초등학생의 기초학력 향상 방안을 연구하고 있습니다.",
     "implication": "대전교육정책연구소의 연구는 경계선지능 초등학생의 학습 특성을 이해하고 수업 내 개별 학생 지도 방안을 모색하는 데 도움이 될 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
    },
    {
     "n": 4,
@@ -60,7 +66,7 @@
     "source": "NSP통신",
     "published": "2026-10-16",
     "keyword": "교육정책",
-    "topic": "policy",
+    "topic": "teacher",
     "kind": null,
     "entities": [
      "경기도교육청",
@@ -68,7 +74,9 @@
     ],
     "summary": "경기도교육청 교권보호전담관이 교권 보호를 위한 실무 훈련에 돌입했습니다.",
     "implication": "교권 침해 사안 발생 시 교육청의 교권보호전담관에게 도움을 요청할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
    },
    {
     "n": 5,
@@ -77,14 +85,16 @@
     "source": "뉴스핌",
     "published": "2026-10-16",
     "keyword": "교육정책",
-    "topic": "teacher",
+    "topic": "classroom",
     "kind": null,
     "entities": [
      "수능·대입"
     ],
     "summary": "교사·교육전문직은 교육과정 개정의 최우선 과제로 학교 현장 문제 해결을 꼽았습니다.",
     "implication": "학생들에게 학교 현장의 실제 문제들을 발견하고 토론하며 해결책을 모색하는 활동을 지도할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "teacher",
+    "topic_src": "ai"
    },
    {
     "n": 6,
@@ -98,7 +108,8 @@
     "entities": [],
     "summary": "학교 현장의 다양한 목소리를 수렴하여 정책 연구에 담아냈다는 내용입니다.",
     "implication": "현장 교사의 목소리를 반영한 정책 연구를 참고하여, 우리 학급에 맞는 수업 방안을 모색할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 7,
@@ -112,7 +123,8 @@
     "entities": [],
     "summary": "한국어린이집총연합회는 원내대표들과 보육·교육정책을 협의했습니다.",
     "implication": "현재 교육정책 방향성을 인지하고 우리 반 학생들에게 필요한 교육과정을 구상할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 8,
@@ -126,7 +138,8 @@
     "entities": [],
     "summary": "AI 혁명이 교육정책의 발전 속도를 앞지르고 있음을 다루는 내용입니다.",
     "implication": "AI 기술의 빠른 발전 속도에 맞춰 교사는 수업에 AI 도구를 직접 적용하고 탐구할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 9,
@@ -142,7 +155,8 @@
     ],
     "summary": "김석준 부산교육감은 공교육의 공공성 강화와 맞춤형 책임교육 추진을 강조했다.",
     "implication": "학생 개개인의 특성과 수준을 고려한 맞춤형 수업 방안을 적극적으로 모색할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 10,
@@ -158,7 +172,8 @@
     ],
     "summary": "충남교육청교육연수원은 중등 신규교사 556명을 대상으로 직무연수를 운영합니다.",
     "implication": "신규교사 직무연수를 통해 최신 교수법을 확인하고 내 수업에 적용할 방안을 모색할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    }
   ],
   "paper": [
@@ -176,7 +191,9 @@
     "implication": "",
     "ai": true,
     "authors": "Terdsak Suphandee",
-    "pdf": "https://so01.tci-thaijo.org/index.php/GraduatePSRU/article/download/286480/183513"
+    "pdf": "https://so01.tci-thaijo.org/index.php/GraduatePSRU/article/download/286480/183513",
+    "topic_src": "ai",
+    "title_ko": "21세기 라자팟 대학교 예비교사 17가지 역량 평가 모델 개발"
    },
    {
     "n": 2,
@@ -194,7 +211,9 @@
     "implication": "",
     "ai": true,
     "authors": "Ghassan Adnan Hasan",
-    "pdf": "https://www.sciedupress.com/journal/index.php/elr/article/download/30630/18028"
+    "pdf": "https://www.sciedupress.com/journal/index.php/elr/article/download/30630/18028",
+    "topic_src": "ai",
+    "title_ko": "사우디아라비아 대학원 EFL 학생들의 학술 영어(EAP) 과정 요구 설문조사"
    },
    {
     "n": 3,
@@ -212,7 +231,9 @@
     "implication": "",
     "ai": true,
     "authors": "F. Naseer, Muhammad Nasir Khan 외 1명",
-    "pdf": "https://doi.org/10.1016/j.heliyon.2024.e32628"
+    "pdf": "https://doi.org/10.1016/j.heliyon.2024.e32628",
+    "topic_src": "ai",
+    "title_ko": "고등 교육에서 개인 맞춤형 학습 경로를 위한 딥러닝 기술 통합"
    },
    {
     "n": 4,
@@ -230,7 +251,9 @@
     "implication": "",
     "ai": true,
     "authors": "D. Mourtzis, N. Panopoulos 외 1명",
-    "pdf": "https://doi.org/10.1080/0951192x.2022.2145025"
+    "pdf": "https://doi.org/10.1080/0951192x.2022.2145025",
+    "topic_src": "ai",
+    "title_ko": "개인 맞춤형 교육 4.0을 향한 하이브리드 티칭 팩토리 모델"
    },
    {
     "n": 5,
@@ -246,7 +269,9 @@
     "implication": "",
     "ai": true,
     "authors": "Isma Layyina Noviana, Muhammad Syaiful",
-    "pdf": "https://journal.amorfati.id/index.php/postaxial/article/download/2034/1312"
+    "pdf": "https://journal.amorfati.id/index.php/postaxial/article/download/2034/1312",
+    "topic_src": "ai",
+    "title_ko": "블로라 국립 이슬람 고등학교의 인본주의적 이슬람 종교 교육 학습에 사랑 기반 교육과정 구현"
    }
   ],
   "tech": [
@@ -257,14 +282,16 @@
     "source": "AI Times",
     "published": "2026-10-16",
     "keyword": "",
-    "topic": "model",
+    "topic": "industry",
     "kind": null,
     "entities": [
      "Microsoft"
     ],
     "summary": "MS의 독자적 초대형 AI 모델 공개는 기술 주도권을 위한 경쟁을 격화시키고, 자체 AI 역량 강화가 핵심인 새로운 산업 트렌드를 제시할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
    },
    {
     "n": 2,
@@ -273,7 +300,7 @@
     "source": "토큰포스트",
     "published": "2026-10-16",
     "keyword": "GPT",
-    "topic": "model",
+    "topic": "edu_ai",
     "kind": null,
     "entities": [
      "OpenAI",
@@ -281,7 +308,9 @@
     ],
     "summary": "오픈AI의 GPT-5.6 Sol 토큰 배포는 AI와 웹3 기술 융합을 통한 AI 모델의 새로운 경제 시스템 및 활용 패러다임 등장을 알립니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
    },
    {
     "n": 3,
@@ -290,12 +319,14 @@
     "source": "AI Times",
     "published": "2026-10-16",
     "keyword": "",
-    "topic": "model",
+    "topic": "agent_dev",
     "kind": null,
     "entities": [],
     "summary": "AI 의사결정 모델의 멀티모달 기능 확장은 AI가 복합적 현실을 더 정교하게 분석하고 산업 전반에 걸쳐 적용 범위를 넓힐 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
    },
    {
     "n": 4,
@@ -313,7 +344,8 @@
     ],
     "summary": "아마존 웨어러블 AI는 일상 대화 기반 초개인화 AI 시장을 개척하며 프라이버시 이슈와 함께 AI의 생활 밀착도 심화를 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 5,
@@ -322,14 +354,16 @@
     "source": "AI Times",
     "published": "2026-10-16",
     "keyword": "",
-    "topic": "product",
+    "topic": "agent_dev",
     "kind": null,
     "entities": [
      "에이전트"
     ],
     "summary": "자키 출시는 자연어 기반 멀티모달 AI 에이전트가 복잡한 영상 창작 작업을 수행하며, AI 기술의 실질적 적용 범위를 확장하는 중요한 이정표입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "product",
+    "topic_src": "ai"
    },
    {
     "n": 6,
@@ -346,7 +380,8 @@
     ],
     "summary": "효율성이 핵심 경쟁력으로 부상하며 AI 기술 상용화와 확산이 가속화될 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 7,
@@ -362,7 +397,8 @@
     ],
     "summary": "AI가 차세대 모델 개발에 직접 참여한다는 것은 AI 기술의 자체 진화 속도를 폭발적으로 가속화하며 산업 전반의 패러다임을 전환할 중요한 전환점입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 8,
@@ -379,7 +415,8 @@
     "summary": "OpenAI 등 초거대 AI 기반으로 마케팅 캠페인 같은 특정 산업 전문 솔루션이 확산되며 AI 생태계가 심화될 것입니다.",
     "implication": "",
     "ai": true,
-    "dup_of": "2026-10-15"
+    "dup_of": "2026-10-15",
+    "topic_src": "ai"
    },
    {
     "n": 9,
@@ -395,7 +432,8 @@
     ],
     "summary": "OrcaRouter와 같은 커스텀 런타임은 소형 AI 모델의 추론 효율을 극대화하여 AI 기술의 접근성과 비용 효율성을 크게 향상시킬 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 10,
@@ -404,7 +442,7 @@
     "source": "Unite.AI",
     "published": "2026-10-16",
     "keyword": "Anthropic",
-    "topic": "model",
+    "topic": "policy_safety",
     "kind": null,
     "entities": [
      "Anthropic",
@@ -412,10 +450,19 @@
     ],
     "summary": "Claude가 난수 생성기 출처를 추적한 것은 AI가 복잡한 기술 분석 및 보안 감사 역량을 갖춰 AI 산업의 활용도를 높일 것임을 의미합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
    }
   ]
  },
  "fallback": {},
- "notes": {}
+ "notes": {},
+ "enrich": {
+  "hash": "0bd6510398ad",
+  "model": "gemini-2.5-flash",
+  "topics": 10,
+  "title_ko": 5,
+  "summaries": 0
+ }
 }

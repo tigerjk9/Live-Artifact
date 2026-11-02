@@ -10,7 +10,7 @@
     "source": "교육플러스",
     "published": "2026-10-24",
     "keyword": "",
-    "topic": "ai_digital",
+    "topic": "policy",
     "kind": null,
     "entities": [
      "고교학점제"
@@ -18,7 +18,9 @@
     "summary": "고교학점제 지원 온라인학교가 정보·AI 과목 선택권을 확장했으나 지역별 편차가 커 지역 간 과목 교류 및 실습 환경 개선이 필요합니다.",
     "implication": "우리 학교에서 개설이 어려운 프로그래밍, AI 등 심화 정보 과목들을 온라인학교를 통해 학생들에게 안내하고 학습 기회를 제공할 수 있습니다.",
     "ai": true,
-    "dup_of": "2026-10-24"
+    "dup_of": "2026-10-24",
+    "topic_rule": "ai_digital",
+    "topic_src": "ai"
    },
    {
     "n": 2,
@@ -35,7 +37,8 @@
     ],
     "summary": "박정훈 의원이 국감서 안민석 경기교육감의 역사 강사 초청 및 중국 동행을 추궁했고, 최교진 장관은 문제 제기 여지를 인정했습니다.",
     "implication": "역사 관련 수업이나 외부 인사 초청 시, 이 뉴스를 통해 다양한 관점을 균형 있게 다루는 기회를 얻을 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 3,
@@ -51,7 +54,8 @@
     ],
     "summary": "슬링은 온라인 학습용 AI 튜터 플랫폼으로 도약하며, 서울AI허브 2027 프로젝트를 진행합니다.",
     "implication": "AI 튜터 플랫폼을 활용하여 학생들에게 수업 내용에 대한 개별 심화 학습 기회를 제공할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 4,
@@ -65,7 +69,8 @@
     "entities": [],
     "summary": "하성고가 AI·디지털 기반 수업 혁신 현장을 공개하며 미래 교육 모델을 제시했습니다.",
     "implication": "AI와 디지털 도구를 활용하여 수업 내용을 보강하거나 학생 참여를 유도할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 5,
@@ -74,12 +79,14 @@
     "source": "교육연합신문",
     "published": "2026-10-24",
     "keyword": "디지털교육",
-    "topic": "teacher",
+    "topic": "policy",
     "kind": null,
     "entities": [],
     "summary": "교육감협은 교원 인건비만으로 충분한지 의문을 제기하며 교육재정 현실 직시를 촉구했습니다.",
     "implication": "교육 재정의 현실을 바탕으로 학교 시설이나 학습 자료 등 필요한 자원의 의미를 학생들과 토의할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "teacher",
+    "topic_src": "ai"
    },
    {
     "n": 6,
@@ -95,7 +102,8 @@
     ],
     "summary": "충북교육청은 AI 중점학교를 중심으로 학교에 맞는 AI 융합교육을 확대하고 있습니다.",
     "implication": "AI 중점학교 중심의 맞춤형 AI 융합교육이 확산되므로, 우리 학급에 맞는 AI 도구를 찾아 수업에 적용해 볼 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 7,
@@ -104,14 +112,16 @@
     "source": "https://www.timess.co.kr/",
     "published": "2026-10-24",
     "keyword": "AI교육",
-    "topic": "policy",
+    "topic": "classroom",
     "kind": null,
     "entities": [
      "인천시교육청"
     ],
     "summary": "인천교육감이 제12회 수학축전과 제28회 과학대제전 개막식에 참석했습니다.",
     "implication": "이 축전들을 수업 시간에 학생들에게 안내하여 수학과 과학에 대한 흥미를 유발할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
    },
    {
     "n": 8,
@@ -127,7 +137,8 @@
     ],
     "summary": "경남교육청 소속 교사 81명이 학생들의 수포자 진단부터 맞춤형 처방까지 역량 강화를 위해 수학 클리닉 연수에 참여했습니다.",
     "implication": "우리 반 수포자 학생들을 진단하고 개별화된 해결책을 제공할 수 있도록, 이와 같은 수학 클리닉 연수에 참여해 전문성을 키울 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 9,
@@ -143,7 +154,8 @@
     ],
     "summary": "경남교육청은 교원 토의·성찰 중심의 1박 2일 연수회로 수학교육 혁신을 추진합니다.",
     "implication": "수학교육 혁신을 위해 학생들의 토의와 성찰 활동을 수업에 더 적극적으로 도입할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 10,
@@ -152,14 +164,16 @@
     "source": "Laodong.vn",
     "published": "2026-10-24",
     "keyword": "디지털전환",
-    "topic": "student_care",
+    "topic": "policy",
     "kind": null,
     "entities": [
      "교육부"
     ],
     "summary": "교육부가 유치원 및 초등학교 의료진 배치 수에 대한 새 제안을 발표했습니다.",
     "implication": "학교 내 의료 인력의 존재를 활용하여 보건 안전 및 직업 관련 수업을 구성할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "student_care",
+    "topic_src": "ai"
    }
   ],
   "paper": [
@@ -177,7 +191,9 @@
     "implication": "",
     "ai": true,
     "authors": "Shilpa Karkera, Ramesh Lolla 외 1명",
-    "pdf": "https://srjhs.org/content/131/2026/6/2/pdf/SRJHS-6-067.pdf"
+    "pdf": "https://srjhs.org/content/131/2026/6/2/pdf/SRJHS-6-067.pdf",
+    "topic_src": "ai",
+    "title_ko": "의학교육의 플립드 클래스룸 모델: PRISMA 기반 체계적 문헌고찰"
    },
    {
     "n": 2,
@@ -186,14 +202,17 @@
     "source": "eric",
     "published": "2026-01-01",
     "keyword": "",
-    "topic": "teacher_pd",
+    "topic": "genai_tutor",
     "kind": null,
     "entities": [],
     "summary": "AI 활용 교육에서 교사의 지원이 학생들의 학업 회복탄력성과 즐거움을 유의미하게 향상시킨다는 준실험 연구 결과를 통해, 인간 교사의 역할이 AI 교육의 효과를 극대화함을 입증합니다.",
     "implication": "",
     "ai": true,
     "authors": "Wei Wu, Gurpinder Singh Lalli",
-    "pdf": "http://dx.doi.org/10.1111/ejed.70366"
+    "pdf": "http://dx.doi.org/10.1111/ejed.70366",
+    "topic_rule": "teacher_pd",
+    "topic_src": "ai",
+    "title_ko": "AI 활용 학습에서 교사 지원이 중국 대학생의 학업 회복탄력성 및 즐거움에 미치는 영향 탐색: 혼합 연구"
    },
    {
     "n": 3,
@@ -202,14 +221,17 @@
     "source": "openalex",
     "published": "2026-10-23",
     "keyword": "",
-    "topic": "teacher_pd",
+    "topic": "inclusion_sel",
     "kind": null,
     "entities": [],
     "summary": "영국 중등교사들이 사회정서 학습 통합에 의지는 높지만 교수법 및 전략이 부족함을 혼합 연구로 밝히며, 효과적인 교사 훈련의 필요성을 제기합니다.",
     "implication": "",
     "ai": true,
     "authors": "Eleni Dimitrellou, Katherine Gulliver",
-    "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1894808/pdf"
+    "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1894808/pdf",
+    "topic_rule": "teacher_pd",
+    "topic_src": "ai",
+    "title_ko": "중등교육의 사회정서 반응형 교수법: 교사의 준비도, 인식 및 훈련 요구"
    },
    {
     "n": 4,
@@ -218,7 +240,7 @@
     "source": "eric",
     "published": "2018-01-01",
     "keyword": "backward design",
-    "topic": "teacher_pd",
+    "topic": "design_curric",
     "kind": null,
     "entities": [
      "교사 연수"
@@ -227,7 +249,10 @@
     "implication": "",
     "ai": true,
     "authors": "Herro, Dan",
-    "pdf": "http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&res_dat=xri:pqm&rft_dat=xri:pqdiss:10746537"
+    "pdf": "http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&res_dat=xri:pqm&rft_dat=xri:pqdiss:10746537",
+    "topic_rule": "teacher_pd",
+    "topic_src": "ai",
+    "title_ko": "전문 학습 공동체 교사들의 역방향 설계 수업 계획 경험에 대한 질적 단일 사례 연구"
    },
    {
     "n": 5,
@@ -243,7 +268,9 @@
     "implication": "",
     "ai": true,
     "authors": "Wiggins, Grant 외 2명",
-    "pdf": "http://shop.ascd.org/productdisplay.cfm?productid=103055"
+    "pdf": "http://shop.ascd.org/productdisplay.cfm?productid=103055",
+    "topic_src": "ai",
+    "title_ko": "이해를 위한 설계(Understanding by Design), 확장된 2판"
    }
   ],
   "tech": [
@@ -261,7 +288,8 @@
     ],
     "summary": "매출을 포기하고 AI에 집중하는 구글의 전략은 첨단 AI 개발 경쟁을 극심화하고 컴퓨팅 자원이 미래 기술 패권의 핵심임을 예고할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 2,
@@ -270,7 +298,7 @@
     "source": "OpenAI Blog",
     "published": "2026-10-23",
     "keyword": "",
-    "topic": "product",
+    "topic": "industry",
     "kind": null,
     "entities": [
      "ChatGPT"
@@ -278,7 +306,9 @@
     "summary": "AI 서비스 10억 명 사용자 지원을 위한 인프라 확장 역량은 AI 산업 성장의 핵심 동력이자 경쟁 우위가 될 것입니다.",
     "implication": "",
     "ai": true,
-    "dup_of": "2026-10-24"
+    "dup_of": "2026-10-24",
+    "topic_rule": "product",
+    "topic_src": "ai"
    },
    {
     "n": 3,
@@ -287,7 +317,7 @@
     "source": "AI Times",
     "published": "2026-10-25",
     "keyword": "",
-    "topic": "agent_dev",
+    "topic": "industry",
     "kind": null,
     "entities": [
      "xAI",
@@ -295,7 +325,9 @@
     ],
     "summary": "AI 에이전트의 확산은 통신 인프라가 AI 산업 성장의 핵심 병목이자 필수 투자처로 부상할 것임을 의미합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "agent_dev",
+    "topic_src": "ai"
    },
    {
     "n": 4,
@@ -313,7 +345,8 @@
     ],
     "summary": "앤트로픽의 관리형 클로드 출시는 기업의 첨단 AI 모델 도입 장벽을 낮추며 클라우드 기반 AI 서비스 시장 경쟁을 격화시킬 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 5,
@@ -332,7 +365,8 @@
     ],
     "summary": "제미나이 API CLI 오픈소스 공개는 개발자 접근성을 극대화하여 AI 에이전트 개발 생태계의 확장을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 6,
@@ -341,7 +375,7 @@
     "source": "OpenAI Blog",
     "published": "2026-10-22",
     "keyword": "",
-    "topic": "product",
+    "topic": "usecase",
     "kind": null,
     "entities": [
      "ChatGPT",
@@ -351,7 +385,9 @@
     "summary": "대규모 기업의 전사적 생성형 AI 도입은 AI 기술의 비즈니스 효용성을 입증하며 산업 전반의 도입을 가속화할 것입니다.",
     "implication": "",
     "ai": true,
-    "dup_of": "2026-10-23"
+    "dup_of": "2026-10-23",
+    "topic_rule": "product",
+    "topic_src": "ai"
    },
    {
     "n": 7,
@@ -360,7 +396,7 @@
     "source": "Towards Data Science",
     "published": "2026-10-24",
     "keyword": "",
-    "topic": "agent_dev",
+    "topic": "policy_safety",
     "kind": null,
     "entities": [
      "LLM",
@@ -368,7 +404,9 @@
     ],
     "summary": "로컬 LLM 가드레일은 AI의 안전하고 신뢰성 있는 온프레미스 배포를 가능하게 하여, 기업 AI 도입을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "agent_dev",
+    "topic_src": "ai"
    },
    {
     "n": 8,
@@ -385,7 +423,8 @@
     "summary": "ChatGPT의 혁신적 광고 스택은 AI 서비스 수익화와 사용자 경험 간 균형을 맞추는 새로운 모델이 될 것입니다.",
     "implication": "",
     "ai": true,
-    "dup_of": "2026-10-23"
+    "dup_of": "2026-10-23",
+    "topic_src": "ai"
    },
    {
     "n": 9,
@@ -401,7 +440,8 @@
     ],
     "summary": "엔비디아는 AI 산업혁명의 미래를 설계하며 AI 기술 생태계의 핵심 기반을 제공할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 10,
@@ -418,10 +458,18 @@
     ],
     "summary": "GPT-6 Astra Cyber와 OrcaRouter는 차세대 AI가 전문화되고 기술적으로 진보하여, AI 산업 전반의 기술 표준과 경쟁을 심화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    }
   ]
  },
  "fallback": {},
- "notes": {}
+ "notes": {},
+ "enrich": {
+  "hash": "06f3b8542865",
+  "model": "gemini-2.5-flash",
+  "topics": 11,
+  "title_ko": 5,
+  "summaries": 0
+ }
 }

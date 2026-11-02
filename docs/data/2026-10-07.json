@@ -10,7 +10,7 @@
     "source": "디트NEWS24",
     "published": "2026-10-07",
     "keyword": "교육정책",
-    "topic": "classroom",
+    "topic": "policy",
     "kind": "feature",
     "entities": [
      "충남교육청",
@@ -18,7 +18,9 @@
     ],
     "summary": "충남교육청이 미래교육의 해답을 찾기 위해 전문적학습공동체를 운영하고 있습니다.",
     "implication": "전문적학습공동체 참여를 통해 미래교육 수업 아이디어를 얻고 적용할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
    },
    {
     "n": 2,
@@ -34,7 +36,8 @@
     ],
     "summary": "강미애 세종시교육감은 취임 100일 맞아 학력, 진로, AI 교육의 체감 변화를 약속했습니다.",
     "implication": "학력, 진로, AI 교육이 핵심 분야로 제시되어 수업 주제나 활동 구성에 활용할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 3,
@@ -43,14 +46,16 @@
     "source": "주간한국",
     "published": "2026-10-06",
     "keyword": "AI교육",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "세종시교육청"
     ],
     "summary": "세종시교육감은 학생 배움과 AI 교육 확대를 포함한 세종 교육 추진 방향을 발표했습니다.",
     "implication": "학생들의 AI 활용 능력 향상을 위해 수업에 AI 도구를 적극적으로 접목할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
    },
    {
     "n": 4,
@@ -66,7 +71,8 @@
     ],
     "summary": "오석진 대전교육감이 학교 현장이 체감할 실질적 변화에 집중하겠다고 밝혔다.",
     "implication": "교육감의 실질적 변화 집중은 현장 교사들이 수업 개선 아이디어를 적극적으로 제안하고 실천할 기회가 될 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 5,
@@ -75,7 +81,7 @@
     "source": "신아일보",
     "published": "2026-10-06",
     "keyword": "교육현장",
-    "topic": "policy",
+    "topic": "student_care",
     "kind": null,
     "entities": [
      "충남교육청",
@@ -83,7 +89,9 @@
     ],
     "summary": "충남교육청이 탁상행정 개선 및 지역 격차 해소를 위해 찾아가는 특수교육 현장 소통을 시작했습니다.",
     "implication": "교육청의 현장 소통 노력으로 우리 반 특수교육 수업 지원이 더 현실적으로 개선될 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
    },
    {
     "n": 6,
@@ -97,7 +105,8 @@
     "entities": [],
     "summary": "천호성 교육감이 적정성 논란이 제기된 미국 출장의 결과를 밝혔다.",
     "implication": "교육감의 출장 논란과 결과 발표 사례를 통해 교육 정책 결정의 영향력을 학생들과 탐구할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 7,
@@ -106,14 +115,16 @@
     "source": "한국강사신문",
     "published": "2026-10-06",
     "keyword": "교육현장",
-    "topic": "higher_ed",
+    "topic": "teacher",
     "kind": null,
     "entities": [
      "경남교육청"
     ],
     "summary": "경상국립대 사범대학과 경남교육청이 미래교육 및 예비교원 양성을 위해 협력을 강화한다.",
     "implication": "미래교육 협력을 통해 새로운 교수법이나 교육 콘텐츠를 수업에 접목할 기회가 확대될 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "higher_ed",
+    "topic_src": "ai"
    },
    {
     "n": 8,
@@ -129,7 +140,8 @@
     ],
     "summary": "정재석 전북교사노조 위원장이 경찰과 선관위에 천호성 교육감에 대한 압수수색 등 신속 수사를 촉구했습니다.",
     "implication": "교육 행정의 투명성과 책임의 중요성에 대해 학생들과 함께 토론할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 9,
@@ -144,7 +156,8 @@
     "summary": "최순자 의원이 포천시 교육정책의 주요 사업들을 점검했습니다.",
     "implication": "지역 의원의 교육정책 점검 소식을 통해 학생들이 지역사회 교육 현안에 관심을 갖도록 유도할 수 있습니다.",
     "ai": true,
-    "dup_of": "2026-10-05"
+    "dup_of": "2026-10-05",
+    "topic_src": "ai"
    },
    {
     "n": 10,
@@ -158,7 +171,8 @@
     "entities": [],
     "summary": "1993~2002년 최초 문민대통령 시기, 한국 교육정책은 규제에서 자율·경쟁 중심으로 국제화·정보화 시대를 열었습니다.",
     "implication": "학생들이 자율적인 학습과 탐구로 국제화·정보화 시대에 필요한 역량을 기르도록 지도할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    }
   ],
   "paper": [
@@ -179,7 +193,9 @@
     "implication": "",
     "ai": true,
     "authors": "Ms. Manjusha Gundale, Dr. Priya Porwal 외 1명",
-    "pdf": "https://doi.org/10.17148/iarjset.2026.131017"
+    "pdf": "https://doi.org/10.17148/iarjset.2026.131017",
+    "topic_src": "ai",
+    "title_ko": "생성형 AI가 교수 및 학습 과정에 미치는 영향"
    },
    {
     "n": 2,
@@ -188,14 +204,17 @@
     "source": "openalex",
     "published": "2026-10-05",
     "keyword": "",
-    "topic": "teacher_pd",
+    "topic": "inclusion_sel",
     "kind": null,
     "entities": [],
     "summary": "본 논문은 AI가 포용적 교사 교육을 혁신할 기회와 과제를 국제 문헌을 토대로 비판적으로 고찰하고, 윤리적이고 공평한 교육 환경 구현을 위한 미래 방향을 제시합니다.",
     "implication": "",
     "ai": true,
     "authors": "Dr Deepika Sharma",
-    "pdf": "https://jatir.org/publishedpapers/141055_PAPER.pdf"
+    "pdf": "https://jatir.org/publishedpapers/141055_PAPER.pdf",
+    "topic_rule": "teacher_pd",
+    "topic_src": "ai",
+    "title_ko": "포용적 교사 교육을 위한 인공지능: 기회, 도전, 미래 방향"
    },
    {
     "n": 3,
@@ -211,7 +230,8 @@
     "implication": "",
     "ai": true,
     "authors": "Chilee C. Onwukwe Onyimonyi, Agi Kabiru Musa 외 1명",
-    "pdf": "https://rijessu.com/wp-content/uploads/2026/09/0004-RIJE2026v05n005s004.pdf"
+    "pdf": "https://rijessu.com/wp-content/uploads/2026/09/0004-RIJE2026v05n005s004.pdf",
+    "title_ko": "나이지리아 중등학교 학생 학업 성과에 대한 교수 기술의 영향"
    },
    {
     "n": 4,
@@ -227,7 +247,9 @@
     "implication": "",
     "ai": true,
     "authors": "Sayma Chowdhury, Taposh Kumar Biswas",
-    "pdf": "https://www.banglajol.info/index.php/TWJER/article/download/94056/60375"
+    "pdf": "https://www.banglajol.info/index.php/TWJER/article/download/94056/60375",
+    "topic_src": "ai",
+    "title_ko": "방글라데시 취학 전 교육의 교실 관행 탐구"
    },
    {
     "n": 5,
@@ -243,7 +265,8 @@
     "implication": "",
     "ai": true,
     "authors": "Xiao-Ping Lin, Bin-Bin Li 외 1명",
-    "pdf": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1360574/pdf"
+    "pdf": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1360574/pdf",
+    "title_ko": "교실에서 학생 참여에 대한 가상현실의 영향: 문헌 비판적 검토"
    }
   ],
   "tech": [
@@ -254,14 +277,16 @@
     "source": "AI Times",
     "published": "2026-10-06",
     "keyword": "",
-    "topic": "agent_dev",
+    "topic": "model",
     "kind": null,
     "entities": [
      "오픈소스"
     ],
     "summary": "오픈소스 대표 기업의 첫 모델에 대한 엇갈린 반응은 AI 시장 경쟁 심화 속 기술 차별화의 중요성을 강조합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "agent_dev",
+    "topic_src": "ai"
    },
    {
     "n": 2,
@@ -278,7 +303,8 @@
     "summary": "AI는 고도의 전문성을 요구하는 금융 등 산업에서 인간의 전문성 활용 및 사업 확장의 핵심 동력이 될 것입니다.",
     "implication": "",
     "ai": true,
-    "dup_of": "2026-10-04"
+    "dup_of": "2026-10-04",
+    "topic_src": "ai"
    },
    {
     "n": 3,
@@ -294,7 +320,8 @@
     ],
     "summary": "멀티 AI 에이전트 기반 AX는 대기업의 복합 AI 솔루션 도입을 가속화하며, AI 기술 생태계의 실질적 성장을 이끌 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 4,
@@ -308,7 +335,8 @@
     "entities": [],
     "summary": "개인용 AI PC 투자는 AI가 클라우드 중심에서 개인 기기로 확장되며, 새로운 AI 하드웨어 시장의 시대를 열 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 5,
@@ -317,7 +345,7 @@
     "source": "AI Times",
     "published": "2026-10-06",
     "keyword": "",
-    "topic": "industry",
+    "topic": "policy_safety",
     "kind": null,
     "entities": [
      "NVIDIA",
@@ -325,7 +353,9 @@
     ],
     "summary": "거대 AI 계약의 불공정성 소송은 AI 기술 생태계 내 자원 및 이익 분배의 심화되는 불균형과 그에 따른 내부 갈등을 부각할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "industry",
+    "topic_src": "ai"
    },
    {
     "n": 6,
@@ -342,7 +372,8 @@
     ],
     "summary": "엣지 AI와 로봇 융합이 원전 제조 같은 고난도 산업 현장의 정밀 작업 자동화를 통해 AI 적용 범위를 확장할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 7,
@@ -357,7 +388,8 @@
     "summary": "알버트슨즈의 소매업 혁신은 AI 기술이 유통 산업의 핵심 운영에 깊이 통합되어 전반적인 효율성과 고객 경험을 향상시키는 데 필수적인 역할을 할 것입니다.",
     "implication": "",
     "ai": true,
-    "dup_of": "2026-10-04"
+    "dup_of": "2026-10-04",
+    "topic_src": "ai"
    },
    {
     "n": 8,
@@ -366,12 +398,14 @@
     "source": "Towards Data Science",
     "published": "2026-10-06",
     "keyword": "",
-    "topic": "model",
+    "topic": "agent_dev",
     "kind": null,
     "entities": [],
     "summary": "예측 과제 함정을 통해 AI 비서의 한계가 드러남에 따라, 실제 산업 적용을 위한 AI의 신뢰성과 견고성 확보가 핵심 과제가 될 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
    },
    {
     "n": 9,
@@ -380,7 +414,7 @@
     "source": "Unite.AI",
     "published": "2026-10-06",
     "keyword": "Anthropic",
-    "topic": "model",
+    "topic": "product",
     "kind": null,
     "entities": [
      "Anthropic",
@@ -388,7 +422,9 @@
     ],
     "summary": "Anthropic이 Claude 스타트업 프로그램을 확대하며 AI 생태계 내 플랫폼 경쟁 심화와 혁신 가속화를 이끌 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
    },
    {
     "n": 10,
@@ -406,10 +442,18 @@
     ],
     "summary": "주요 AI 기업들의 엄격한 사고 보고 법률 지지는 AI 산업의 규제 강화와 책임성, 안전성 확보의 시발점이 될 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    }
   ]
  },
  "fallback": {},
- "notes": {}
+ "notes": {},
+ "enrich": {
+  "hash": "566c5002d8f6",
+  "model": "gemini-2.5-flash",
+  "topics": 9,
+  "title_ko": 5,
+  "summaries": 0
+ }
 }

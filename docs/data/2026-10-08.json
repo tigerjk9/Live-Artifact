@@ -17,7 +17,8 @@
     ],
     "summary": "부산 지역 초중고에 생성형 AI 보급과 함께 사회정서교육이 기존 대비 3배 확대됩니다.",
     "implication": "생성형 AI를 활용하여 학생 맞춤형 사회정서 교육 콘텐츠를 손쉽게 개발할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 2,
@@ -33,7 +34,8 @@
     ],
     "summary": "경기도 안민석 교육감이 교육격차 해소, AI 교육, 사교육비 대책을 제시했습니다.",
     "implication": "AI 교육 정책에 맞춰 수업 시간에 AI 도구를 활용한 새로운 학습 활동을 계획할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 3,
@@ -49,7 +51,8 @@
     ],
     "summary": "안민석 경기도교육감은 인터뷰에서 '사람 중심 교육' 철학을 바탕으로 학교 현장을 바꾸는 공교육 대전환을 추진한다고 밝혔다.",
     "implication": "교육의 중심이 사람이라는 점을 바탕으로, 개별 학생들의 성장을 돕는 수업을 기획할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 4,
@@ -58,14 +61,16 @@
     "source": "한국공공정책신문",
     "published": "2026-10-07",
     "keyword": "AI디지털도구",
-    "topic": "ai_digital",
+    "topic": "global",
     "kind": null,
     "entities": [
      "유네스코"
     ],
     "summary": "유네스코와 코드마오의 협력으로 아프리카 에듀테크 인다바에 1500명이 모여 AI 교육 현장의 성과를 입증했습니다.",
     "implication": "AI 교육이 아프리카 현장에서 성과를 증명했으니, 우리 수업에도 AI 도구를 활용하여 학습 효과를 높일 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "ai_digital",
+    "topic_src": "ai"
    },
    {
     "n": 5,
@@ -80,7 +85,8 @@
     "summary": "최순자 의원이 포천시의 주요 교육정책 사업들을 점검했습니다.",
     "implication": "학생들이 지역 교육 정책 점검에 대해 토론하며 지역사회와 학교 교육의 연관성을 이해하는 기회로 삼을 수 있습니다.",
     "ai": true,
-    "dup_of": "2026-10-05"
+    "dup_of": "2026-10-05",
+    "topic_src": "ai"
    },
    {
     "n": 6,
@@ -89,12 +95,14 @@
     "source": "뉴스1",
     "published": "2026-10-07",
     "keyword": "교육정책",
-    "topic": "policy",
+    "topic": "teacher",
     "kind": null,
     "entities": [],
     "summary": "안민석은 교사 지지 없이는 교육정책이 실패한다고 강조하며 300명의 교사들과 마라톤 토론을 진행했습니다.",
     "implication": "교육 정책 성공에 교사 지지가 필수임을 확인하고, 교실 수업 개선 및 학생 지도에 대한 주체적인 아이디어를 적극적으로 모색할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
    },
    {
     "n": 7,
@@ -111,7 +119,8 @@
     ],
     "summary": "부산교육청이 10월 교육정책 아카데미에서 이주배경학생 교육을 중점적으로 다룰 예정입니다.",
     "implication": "수업에서 이주배경학생의 문화적 다양성을 존중하는 활동이나 자료를 활용할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 8,
@@ -128,7 +137,8 @@
     ],
     "summary": "도성훈 인천 교육감과 지역 민주당 국회의원이 교육재정 안정화를 위해 정책 간담회를 열었다.",
     "implication": "교육재정 안정화 논의로 학교 교육 여건 개선에 대한 기대감을 가질 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 9,
@@ -137,12 +147,14 @@
     "source": "중부매일",
     "published": "2026-10-07",
     "keyword": "교육정책",
-    "topic": "policy",
+    "topic": "student_care",
     "kind": null,
     "entities": [],
     "summary": "진천 학생들이 자신들의 학교를 바꾸기 위한 교육정책을 직접 제안했습니다.",
     "implication": "학생들이 학교의 주체로서 교육정책을 직접 제안하는 활동을 수업에 도입할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
    },
    {
     "n": 10,
@@ -158,7 +170,8 @@
     ],
     "summary": "충북도의회 교육위원회가 사립학교 현장을 방문하여 교육 관계자들의 의견을 청취했습니다.",
     "implication": "현장의 목소리가 반영되어 수업에 필요한 교육 자원이나 정책적 지원을 기대할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    }
   ],
   "paper": [
@@ -178,7 +191,9 @@
     "implication": "",
     "ai": true,
     "authors": "Lena Ivannova Ruiz-Rojas, Patricia Acosta-Vargas 외 1명",
-    "pdf": "https://www.mdpi.com/2071-1050/15/15/11524/pdf?version=1690354809"
+    "pdf": "https://www.mdpi.com/2071-1050/15/15/11524/pdf?version=1690354809",
+    "topic_src": "ai",
+    "title_ko": "생성형 AI 도구로 교육 역량 강화: 교수설계 매트릭스 접근법"
    },
    {
     "n": 2,
@@ -197,7 +212,9 @@
     "implication": "",
     "ai": true,
     "authors": "Wan-Jing Li",
-    "pdf": "https://dl.acm.org/doi/pdf/10.1145/3775073.3775133"
+    "pdf": "https://dl.acm.org/doi/pdf/10.1145/3775073.3775133",
+    "topic_src": "ai",
+    "title_ko": "보건 빅데이터 과정 교육에서 생성형 AI 기반 프로젝트 학습의 실증 연구"
    },
    {
     "n": 3,
@@ -216,7 +233,9 @@
     "implication": "",
     "ai": true,
     "authors": "Lt Imam Hussain Mirji",
-    "pdf": "https://www.ijsr.net/archive/v15i10/SR261004194028.pdf"
+    "pdf": "https://www.ijsr.net/archive/v15i10/SR261004194028.pdf",
+    "topic_src": "ai",
+    "title_ko": "인공지능 도구를 활용한 스마트 ICT 기반 이러닝 모델"
    },
    {
     "n": 4,
@@ -225,7 +244,7 @@
     "source": "semantic_scholar",
     "published": "2024-07-01",
     "keyword": "",
-    "topic": "stem_ct",
+    "topic": "personalized",
     "kind": null,
     "entities": [
      "ChatGPT",
@@ -235,7 +254,10 @@
     "implication": "",
     "ai": true,
     "authors": "O. Opesemowo, H. Adewuyi",
-    "pdf": "https://www.ejmste.com/download/a-systematic-review-of-artificial-intelligence-in-mathematics-education-the-emergence-of-4ir-14762.pdf"
+    "pdf": "https://www.ejmste.com/download/a-systematic-review-of-artificial-intelligence-in-mathematics-education-the-emergence-of-4ir-14762.pdf",
+    "topic_rule": "stem_ct",
+    "topic_src": "ai",
+    "title_ko": "수학 교육 내 인공지능에 대한 체계적 고찰: 4차 산업혁명의 출현"
    },
    {
     "n": 5,
@@ -251,7 +273,9 @@
     "implication": "",
     "ai": true,
     "authors": "Mustafa Cevikbas, G. Kaiser",
-    "pdf": "https://link.springer.com/content/pdf/10.1007/s11858-022-01388-w.pdf"
+    "pdf": "https://link.springer.com/content/pdf/10.1007/s11858-022-01388-w.pdf",
+    "topic_src": "ai",
+    "title_ko": "플립드 교실 교수법이 팬데믹 관련 수학 교육에 유망한 관점을 제공할 수 있는가? 체계적 문헌 검토"
    }
   ],
   "tech": [
@@ -262,14 +286,16 @@
     "source": "AI Times",
     "published": "2026-10-07",
     "keyword": "",
-    "topic": "product",
+    "topic": "agent_dev",
     "kind": null,
     "entities": [
      "OpenAI"
     ],
     "summary": "오픈AI의 오토리뷰 무료화는 AI 기반 개발 도구의 대중화를 이끌어 소프트웨어 개발 생산성 혁신을 가속화하는 중요한 전환점이 될 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "product",
+    "topic_src": "ai"
    },
    {
     "n": 2,
@@ -285,7 +311,8 @@
     ],
     "summary": "Agentic AI는 자율적 문제 해결 능력을 기반으로 AI 기술 생태계의 패러다임을 근본적으로 변화시킬 핵심 동력이 될 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 3,
@@ -302,7 +329,8 @@
     ],
     "summary": "스튜어트 러셀의 경고는 LLM 정렬의 근본적 한계를 지적하며, AI 기술의 안전성 확보를 위한 패러다임 전환을 시급히 요구할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 4,
@@ -311,7 +339,7 @@
     "source": "AI Times",
     "published": "2026-10-08",
     "keyword": "",
-    "topic": "agent_dev",
+    "topic": "industry",
     "kind": null,
     "entities": [
      "Anthropic",
@@ -319,7 +347,9 @@
     ],
     "summary": "앤트로픽의 파격적인 API 비용 인하는 AI 기술의 광범위한 접근성을 높여 산업 전반의 AI 도입과 혁신을 가속화하며 시장 경쟁을 심화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "agent_dev",
+    "topic_src": "ai"
    },
    {
     "n": 5,
@@ -336,7 +366,8 @@
     "summary": "AI가 특정 산업의 복잡한 전문성을 스케일업하는 핵심 동력으로 작용하며, 기업용 AI 시장 확대를 가속화할 것입니다.",
     "implication": "",
     "ai": true,
-    "dup_of": "2026-10-05"
+    "dup_of": "2026-10-05",
+    "topic_src": "ai"
    },
    {
     "n": 6,
@@ -354,7 +385,8 @@
     ],
     "summary": "AI의 개인 통화 대행은 AI가 단순 도구를 넘어 복잡한 일상 업무를 자율적으로 수행하는 능동적 에이전트로 진화함을 의미합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 7,
@@ -371,7 +403,8 @@
     ],
     "summary": "AI 기술 성장의 최대 걸림돌이 전력 수급 문제임을 보여주며, 안정적 에너지 확보가 AI 산업의 핵심 경쟁 요소로 부상할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 8,
@@ -380,7 +413,7 @@
     "source": "AI Times",
     "published": "2026-10-07",
     "keyword": "",
-    "topic": "product",
+    "topic": "model",
     "kind": null,
     "entities": [
      "Google",
@@ -390,7 +423,9 @@
     ],
     "summary": "구글의 온디바이스 멀티모달 AI 출시는 엣지 디바이스에서 실시간 개인화 AI 서비스 구현을 가속화하며 새로운 산업 생태계를 열 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "product",
+    "topic_src": "ai"
    },
    {
     "n": 9,
@@ -399,7 +434,7 @@
     "source": "AI Times",
     "published": "2026-10-07",
     "keyword": "",
-    "topic": "model",
+    "topic": "product",
     "kind": null,
     "entities": [
      "Anthropic",
@@ -408,7 +443,9 @@
     ],
     "summary": "구글 워크스페이스에 앤트로픽 클로드가 연동되면서 AI 모델들은 특정 플랫폼을 넘어 생산성 도구에 깊숙이 침투하며 다중 AI 모델 경쟁을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
    },
    {
     "n": 10,
@@ -423,10 +460,18 @@
     "summary": "Albertsons의 내부 주도 소매 혁신은 AI 기술을 통한 전사적 운영 및 의사결정 고도화 솔루션 시장을 확장할 것입니다.",
     "implication": "",
     "ai": true,
-    "dup_of": "2026-10-05"
+    "dup_of": "2026-10-05",
+    "topic_src": "ai"
    }
   ]
  },
  "fallback": {},
- "notes": {}
+ "notes": {},
+ "enrich": {
+  "hash": "180752c11961",
+  "model": "gemini-2.5-flash",
+  "topics": 8,
+  "title_ko": 5,
+  "summaries": 0
+ }
 }

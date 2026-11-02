@@ -21,7 +21,8 @@
     ],
     "summary": "구글, 엔비디아 등 주요 기업이 생성형 AI 기초부터 심화까지 10개 무료 온라인 강좌를 제공하고 있습니다.",
     "implication": "학생들이 생성형 AI의 기초부터 심화까지 직접 배우도록 무료 온라인 강좌를 안내할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 2,
@@ -37,7 +38,8 @@
     ],
     "summary": "데이콘인피니티는 '에이전틱 AI 맵 2026' 프로젝트를 통해 데이터에 업무 맥락을 연결하여 기업용 AI 에이전트 기반을 구축하고 있습니다.",
     "implication": "AI 에이전트가 데이터와 업무 맥락을 연결하여 기업의 문제 해결에 활용되는 사례를 학생들에게 제시할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 3,
@@ -46,12 +48,14 @@
     "source": "중도일보",
     "published": "2026-10-03",
     "keyword": "AI교육",
-    "topic": "ai_digital",
+    "topic": "policy",
     "kind": null,
     "entities": [],
     "summary": "부산 사상구가 AI교육혁신센터 설립과 폐교 활용을 교육청에 건의했습니다.",
     "implication": "AI 교육혁신센터를 통해 학생들이 AI 기술을 직접 체험하며 미래 역량을 키울 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "ai_digital",
+    "topic_src": "ai"
    },
    {
     "n": 4,
@@ -65,7 +69,8 @@
     "entities": [],
     "summary": "최순자 씨는 포천 교육정책 정담회에서 체계적 교육체계 정비의 필요성을 강조했습니다.",
     "implication": "교육체계 정비 필요성 제기에 따라, 교실 안에서 학습 내용과 활동을 체계적으로 구성할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 5,
@@ -79,7 +84,8 @@
     "entities": [],
     "summary": "평창군 민선9기에서 민생 현장투어의 일환으로 교육정책 간담회를 개최했습니다.",
     "implication": "학생들이 우리 지역 교육정책 간담회에 관심을 가지고 직접 참여하며 민주 시민의 역할을 경험할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 6,
@@ -95,7 +101,8 @@
     ],
     "summary": "세종·대전교육청의 예산 확보와 교육 정책 추진이 다수당 지방의회의 영향으로 난항을 겪고 있습니다.",
     "implication": "교육 정책 불안정으로 계획했던 현장 체험 학습이나 특별 활동 운영에 제약이 있을 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 7,
@@ -104,14 +111,16 @@
     "source": "수원뉴스",
     "published": "2026-10-03",
     "keyword": "AI디지털도구",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "교육부"
     ],
     "summary": "에스토니아 교육부장관이 AI와 직업교육 융합 방안 논의를 위해 수원 한봄고를 방문합니다.",
     "implication": "학생들과 AI가 미래 직업교육에 미칠 영향을 논의하며 필요한 역량을 탐색할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
    },
    {
     "n": 8,
@@ -127,7 +136,8 @@
     ],
     "summary": "문경대학교는 지역민을 대상으로 생성형 AI 및 디지털 역량 교육을 실시합니다.",
     "implication": "지역 대학의 AI 교육 사례를 참고하여 학생들의 실생활과 연결된 AI 활용 수업을 구성할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 9,
@@ -143,7 +153,8 @@
     ],
     "summary": "경기도교육청은 인공지능을 활용한 영양·식생활교육 리더과정을 운영한다.",
     "implication": "이 교육 과정으로 현장 교사는 AI 기반 영양 교육 콘텐츠를 개발하여 수업에 바로 적용할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 10,
@@ -159,7 +170,8 @@
     ],
     "summary": "충남교육청이 충남 최초로 직업계고 3곳에서 인공지능 활용 특허 교육 시범학교를 운영한다.",
     "implication": "학생들이 인공지능을 활용하여 실제 특허를 출원해보는 프로젝트 수업을 기획할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    }
   ],
   "paper": [
@@ -170,7 +182,7 @@
     "source": "openalex",
     "published": "2026-10-01",
     "keyword": "",
-    "topic": "learning_sci",
+    "topic": "genai_tutor",
     "kind": null,
     "entities": [
      "AI 튜터"
@@ -179,7 +191,10 @@
     "implication": "",
     "ai": true,
     "authors": "Opoh Frederick Awhen",
-    "pdf": "https://iiardjournals.org/get/WJIMT/VOL. 9 NO. 6 2025/TRANSFORMATION OF SOCIAL STUDIES 251-261.pdf"
+    "pdf": "https://iiardjournals.org/get/WJIMT/VOL. 9 NO. 6 2025/TRANSFORMATION OF SOCIAL STUDIES 251-261.pdf",
+    "topic_rule": "learning_sci",
+    "topic_src": "ai",
+    "title_ko": "AI 기반 사회과 교수법 전환: 나이지리아 학생 동기 부여"
    },
    {
     "n": 2,
@@ -197,7 +212,9 @@
     "implication": "",
     "ai": true,
     "authors": "Kustoro Budiarta, Ainil Hanifa 외 1명",
-    "pdf": "https://ojspustek.org/index.php/SJR/article/download/1754/1123"
+    "pdf": "https://ojspustek.org/index.php/SJR/article/download/1754/1123",
+    "topic_src": "ai",
+    "title_ko": "학습의 질 향상에 있어 교장 리더십의 역할"
    },
    {
     "n": 3,
@@ -206,14 +223,17 @@
     "source": "openalex",
     "published": "2026-10-02",
     "keyword": "",
-    "topic": "design_curric",
+    "topic": "teacher_pd",
     "kind": null,
     "entities": [],
     "summary": "이 연구는 3T 지역 직업학교 교장이 디지털 전환기 졸업생 역량 강화를 위해 활용하는 전략들을 질적 사례 연구로 분석하여, 교육 리더십 이론을 확장하고 낙후 지역 직업 교육 정책 수립에 기여합니다.",
     "implication": "",
     "ai": true,
     "authors": "Daniel, Yulius Mataputun 외 1명",
-    "pdf": "https://journal.jfpublisher.com/index.php/sujana/article/download/1054/1146"
+    "pdf": "https://journal.jfpublisher.com/index.php/sujana/article/download/1054/1146",
+    "topic_rule": "design_curric",
+    "topic_src": "ai",
+    "title_ko": "파푸아 페구눙안 직업학교 교장의 디지털 전환기 졸업생 역량 강화 전략"
    },
    {
     "n": 4,
@@ -229,7 +249,9 @@
     "implication": "",
     "ai": true,
     "authors": "У. О. Сабденова, Ж.Ә. Шоқыбаев 외 1명",
-    "pdf": "https://ptm.sdu.edu.kz/index.php/ptm/article/download/416/307"
+    "pdf": "https://ptm.sdu.edu.kz/index.php/ptm/article/download/416/307",
+    "topic_src": "ai",
+    "title_ko": "디지털 교육 환경에서 예비 화학 교사 양성을 위한 방법론적 모델"
    },
    {
     "n": 5,
@@ -238,14 +260,17 @@
     "source": "openalex",
     "published": "2026-09-30",
     "keyword": "edtech",
-    "topic": "assessment",
+    "topic": "design_curric",
     "kind": null,
     "entities": [],
     "summary": "가나 고등 교육기관의 소수민족 조각 교육 강화를 위해 ASSURE 모델로 비모바 조각 교수 지침서를 개발 및 평가했으며, 이는 문화 보존과 탈식민화된 예술 교육에 기여합니다.",
     "implication": "",
     "ai": true,
     "authors": "Kenneth Dam Sakoalia",
-    "pdf": "https://noyam.org/?sdm_process_download=1&download_id=18852"
+    "pdf": "https://noyam.org/?sdm_process_download=1&download_id=18852",
+    "topic_rule": "assessment",
+    "topic_src": "ai",
+    "title_ko": "가나 고등 교육기관의 가나 토착 조각 교육 지침서 개발 및 평가"
    }
   ],
   "tech": [
@@ -263,7 +288,8 @@
     ],
     "summary": "엔비디아의 4999달러 DGX 스파크 출시는 AI 개발 진입 장벽을 낮춰 생태계 확장을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 2,
@@ -280,7 +306,8 @@
     "summary": "AI가 자본 시장처럼 고도로 전문화된 분야의 핵심 역량 확장을 주도하며, 광범위한 산업의 AI 전환을 가속화할 것입니다.",
     "implication": "",
     "ai": true,
-    "dup_of": "2026-10-03"
+    "dup_of": "2026-10-03",
+    "topic_src": "ai"
    },
    {
     "n": 3,
@@ -289,7 +316,7 @@
     "source": "AI Times",
     "published": "2026-10-04",
     "keyword": "",
-    "topic": "model",
+    "topic": "policy_safety",
     "kind": null,
     "entities": [
      "OpenAI",
@@ -297,7 +324,9 @@
     ],
     "summary": "AI 모델의 자기 보존 시도는 고도화된 AI의 자율성과 안전성 제어 문제의 시급성을 극명하게 보여주는 핵심적인 산업적 시사점입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
    },
    {
     "n": 4,
@@ -306,7 +335,7 @@
     "source": "AI넷",
     "published": "2026-10-03",
     "keyword": "구글",
-    "topic": "model",
+    "topic": "edu_ai",
     "kind": null,
     "entities": [
      "생성형 AI",
@@ -317,7 +346,9 @@
     ],
     "summary": "무료 AI 강좌 확산은 기술 대중화와 인재 유입을 통해 AI 생태계 확장 및 산업 혁신을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
    },
    {
     "n": 5,
@@ -332,7 +363,8 @@
     "summary": "대형 유통업체의 내부 혁신은 운영 효율화 AI 솔루션 수요를 높여, AI 기술 생태계의 산업 전반 확장을 가속화할 것입니다.",
     "implication": "",
     "ai": true,
-    "dup_of": "2026-10-02"
+    "dup_of": "2026-10-02",
+    "topic_src": "ai"
    },
    {
     "n": 6,
@@ -349,7 +381,8 @@
     ],
     "summary": "오픈AI DevDay의 신규 ChatGPT 기능들은 개발자 접근성을 높여 맞춤형 AI 서비스 구축과 전체 AI 생태계 확장을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 7,
@@ -367,7 +400,8 @@
     ],
     "summary": "아마존의 AI 에이전트 행동 점검 모델 공개는 AI 안전성 및 신뢰성 확보를 위한 업계 표준을 제시하며 AI 상용화에 필수적인 단계가 될 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 8,
@@ -384,7 +418,8 @@
     ],
     "summary": "OpenAI의 GPT-6.1 Sol 출시는 AI 기술 경쟁의 새로운 기준을 제시하며, 산업 전반의 혁신과 AI 서비스 고도화를 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 9,
@@ -393,13 +428,15 @@
     "source": "OpenAI Blog",
     "published": "2026-09-29",
     "keyword": "",
-    "topic": "agent_dev",
+    "topic": "industry",
     "kind": null,
     "entities": [],
     "summary": "DevDay 2026은 AI 기술의 플랫폼 고도화와 산업별 맞춤형 솔루션 확산을 통해 AI 생태계를 재편할 것입니다.",
     "implication": "",
     "ai": true,
-    "dup_of": "2026-10-01"
+    "dup_of": "2026-10-01",
+    "topic_rule": "agent_dev",
+    "topic_src": "ai"
    },
    {
     "n": 10,
@@ -408,15 +445,24 @@
     "source": "AI Times",
     "published": "2026-10-04",
     "keyword": "",
-    "topic": "industry",
+    "topic": "usecase",
     "kind": null,
     "entities": [],
     "summary": "AI가 재생에너지의 간헐성을 예측 및 제어해 ESS 활용도를 극대화하며, AI 기반 스마트 에너지 관리 시스템 확산의 핵심 동력이 될 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "industry",
+    "topic_src": "ai"
    }
   ]
  },
  "fallback": {},
- "notes": {}
+ "notes": {},
+ "enrich": {
+  "hash": "b9a55f688e8d",
+  "model": "gemini-2.5-flash",
+  "topics": 9,
+  "title_ko": 5,
+  "summaries": 0
+ }
 }

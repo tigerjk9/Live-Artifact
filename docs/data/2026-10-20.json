@@ -10,12 +10,14 @@
     "source": "프레시안",
     "published": "2026-10-19",
     "keyword": "교육혁신",
-    "topic": "classroom",
+    "topic": "policy",
     "kind": "opinion",
     "entities": [],
     "summary": "이 기고문은 포천 교육혁신이 계속되어야 한다는 내용을 다룹니다.",
     "implication": "학생들과 우리 지역 교육 혁신의 현재와 미래를 탐색하는 토론 수업 주제로 활용할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
    },
    {
     "n": 2,
@@ -29,7 +31,8 @@
     "entities": [],
     "summary": "디지털전환 2.0 시대, AI를 활용해 핵심 가치를 만들 수 있는지 테슬라 로드스터를 통해 묻는 기고문입니다.",
     "implication": "학생들이 AI와 함께 미래 사회의 핵심 가치를 어떻게 만들어갈지 탐구하고 토론하는 활동을 할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 3,
@@ -43,7 +46,8 @@
     "entities": [],
     "summary": "과천시가 교육 현장 의견을 듣고 내년 교육정책에 반영을 추진합니다.",
     "implication": "내년도 교육정책 반영을 위해 우리 반 학생들에게 필요한 지원을 시에 요청할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 4,
@@ -62,7 +66,8 @@
     ],
     "summary": "비전공자를 위한 생성형 AI 입문서 ‘LLM 수업’이 출간되어 챗GPT부터 AI 에이전트까지 다룹니다.",
     "implication": "비전공자도 이해할 수 있도록 구성된 LLM 입문서 내용을 활용하여 AI의 기본 원리를 쉽게 설명할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 5,
@@ -79,7 +84,8 @@
     ],
     "summary": "대전시교육청은 동부권 교원 대상 IB 교육 정책설명회를 개최하여 2027년 교육지구 본격 운영을 준비합니다.",
     "implication": "IB 교육은 학생들의 능동적 탐구와 비판적 사고를 중시하므로, 수업에서 질문과 토론을 활성화할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 6,
@@ -95,7 +101,8 @@
     ],
     "summary": "충남교육청교육과정평가정보원은 교육정책 연구 역량 강화를 위한 연수를 실시했습니다.",
     "implication": "현장 교사들은 교육정책 연구 역량 강화로 교육 현장에 맞는 교수학습 및 평가 개선 방안을 기대할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 7,
@@ -109,7 +116,8 @@
     "entities": [],
     "summary": "천호성 교육감은 교육혁신 가속화를 위해 폐교 활용과 교장공모제 확대를 추진합니다.",
     "implication": "폐교 활용으로 생길 새 학습 공간이나 혁신적 교장 지원을 활용해 수업에 변화를 줄 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 8,
@@ -118,14 +126,16 @@
     "source": "서울뉴스통신",
     "published": "2026-10-19",
     "keyword": "교육혁신",
-    "topic": "classroom",
+    "topic": "policy",
     "kind": null,
     "entities": [
      "수능·대입"
     ],
     "summary": "정근식 교육감은 고교생들과 입시 경쟁을 넘어 배움의 본질을 찾는 교육혁신 대화를 나눴습니다.",
     "implication": "학생들이 입시 부담 없이 배움의 즐거움을 찾도록 탐구 중심의 수업 활동을 설계할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
    },
    {
     "n": 9,
@@ -141,7 +151,8 @@
     ],
     "summary": "정석원 의원이 경기도교육청 정책기획관과 양주시 교육혁신선도지역 실무 논의를 진행했다.",
     "implication": "교육혁신선도지역으로서 수업에 적용할 새로운 교수법이나 자료를 접할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 10,
@@ -150,14 +161,16 @@
     "source": "전북미래교육신문",
     "published": "2026-10-19",
     "keyword": "교육정책",
-    "topic": "policy",
+    "topic": "teacher",
     "kind": null,
     "entities": [
      "전북교육청"
     ],
     "summary": "전북 교육감이 학생의 입장이 되어 수험생의 경험을 이해하고 공감한다는 내용의 만평 기사입니다.",
     "implication": "교육감도 수험생이라는 소식을 활용하여 학생들의 학업 스트레스와 노력을 공감하는 계기로 삼을 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
    }
   ],
   "paper": [
@@ -175,7 +188,9 @@
     "implication": "",
     "ai": true,
     "authors": "Mussa Kiruwasha, Consolata Louis Chua 외 1명",
-    "pdf": "https://journals.eanso.org/index.php/eajes/article/download/6028/6343"
+    "pdf": "https://journals.eanso.org/index.php/eajes/article/download/6028/6343",
+    "topic_src": "ai",
+    "title_ko": "공립 중등학교 학생 학업 성과 향상 전략 평가: 탄자니아 카술루 지역 사례"
    },
    {
     "n": 2,
@@ -191,7 +206,9 @@
     "implication": "",
     "ai": true,
     "authors": "Muzaffer Pinar Babanoglu, Tuçe Öztürk Karatas 외 1명",
-    "pdf": "http://dx.doi.org/10.1177/21582440251341590"
+    "pdf": "http://dx.doi.org/10.1177/21582440251341590",
+    "topic_src": "ai",
+    "title_ko": "AI 보조 EFL 교육의 미래 구상: 예비 교사들의 개념적 표상"
    },
    {
     "n": 3,
@@ -210,7 +227,9 @@
     "implication": "",
     "ai": true,
     "authors": "Ghodakhe Keshav, Prof. Y.G.Suryawanshi 외 1명",
-    "pdf": "https://doi.org/10.48175/ijarsct-38910"
+    "pdf": "https://doi.org/10.48175/ijarsct-38910",
+    "topic_src": "ai",
+    "title_ko": "AI 튜터를 넘어: 교육에서 목표 지향적 학습 에이전트를 위한 인간 중심 프레임워크"
    },
    {
     "n": 4,
@@ -226,7 +245,9 @@
     "implication": "",
     "ai": true,
     "authors": "Le Hong Linh",
-    "pdf": "https://www.ijsr.net/archive/v15i10/SR261016105354.pdf"
+    "pdf": "https://www.ijsr.net/archive/v15i10/SR261016105354.pdf",
+    "topic_src": "ai",
+    "title_ko": "베트남 영어 교육 정책과 불교 학교 영어 교육의 질에 미치는 영향"
    },
    {
     "n": 5,
@@ -242,7 +263,9 @@
     "implication": "",
     "ai": true,
     "authors": "Nurhaida A. Paradji",
-    "pdf": "https://ijroms.com/index.php/home/article/download/issue_v1i9a39/305"
+    "pdf": "https://ijroms.com/index.php/home/article/download/issue_v1i9a39/305",
+    "topic_src": "ai",
+    "title_ko": "분산 리더십 실천과 교사 전문적 협업 간의 관계: 잠보앙가시 일부 고등학교 사례"
    }
   ],
   "tech": [
@@ -260,7 +283,8 @@
     ],
     "summary": "하네스²는 AI 모델의 자체 성능 개선을 가능하게 하여 AI 개발 효율성을 극대화하고 AI 기술 생태계의 가속화된 진보를 이끌 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 2,
@@ -278,7 +302,8 @@
     ],
     "summary": "오픈AI의 결정 API 연결은 AI가 언어 이해를 넘어 능동적 의사결정을 하는 실시간 에이전트 시대를 본격화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 3,
@@ -292,7 +317,8 @@
     "entities": [],
     "summary": "일부 평가에서 기존 선두 모델을 능가한 글림프스 공개는 AI 기술 경쟁 심화와 시각 추론 등 전문 영역 발전 가속화를 시사합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 4,
@@ -309,7 +335,8 @@
     ],
     "summary": "딥시크의 경량 AI 모델 출시는 고성능 AI의 경제성과 접근성을 높여 AI 산업의 경쟁 심화와 활용 확대를 촉진할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 5,
@@ -327,7 +354,8 @@
     ],
     "summary": "AI 비서의 핵심 플랫폼 통합은 AI 기술의 일상 속 범용화 시대를 가속화하고 AI 서비스 시장의 주도권 경쟁을 심화시킬 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 6,
@@ -343,7 +371,8 @@
     ],
     "summary": "다중 에이전트 시스템을 위한 컨텍스트 엔지니어링은 AI 협업 및 복잡한 현실 문제 해결 역량을 고도화하는 핵심 동력이 될 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 7,
@@ -361,7 +390,8 @@
     "summary": "생성형 AI의 마케팅 캠페인 적용은 창의 산업 내 콘텐츠 제작 및 자동화 효율을 극대화할 것임을 시사합니다.",
     "implication": "",
     "ai": true,
-    "dup_of": "2026-10-17"
+    "dup_of": "2026-10-17",
+    "topic_src": "ai"
    },
    {
     "n": 8,
@@ -370,7 +400,7 @@
     "source": "데브타임즈",
     "published": "2026-10-19",
     "keyword": "GPT",
-    "topic": "model",
+    "topic": "edu_ai",
     "kind": null,
     "entities": [
      "생성형 AI",
@@ -380,7 +410,9 @@
     ],
     "summary": "비전공자를 위한 생성형 AI 입문서 출간은 AI 지식 접근성을 높여 기술 생태계 저변 확대와 산업 전반의 AI 활용을 촉진할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
    },
    {
     "n": 9,
@@ -399,7 +431,8 @@
     ],
     "summary": "마이크로소프트 AI 칩의 미진한 경쟁력은 엔비디아와 구글의 AI 반도체 시장 지배력을 공고히 하여 생태계 집중을 심화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 10,
@@ -416,10 +449,18 @@
     ],
     "summary": "OpenAI의 자금 조달 가속은 AI 시장의 주도권 경쟁 심화와 자본 집약적인 산업 생태계의 고착화를 의미합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    }
   ]
  },
  "fallback": {},
- "notes": {}
+ "notes": {},
+ "enrich": {
+  "hash": "3f640ff89cc2",
+  "model": "gemini-2.5-flash",
+  "topics": 4,
+  "title_ko": 5,
+  "summaries": 0
+ }
 }

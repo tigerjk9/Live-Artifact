@@ -15,7 +15,8 @@
     "entities": [],
     "summary": "학령인구 감소로 인해 대학의 생존은 교육혁신을 통해 이루어집니다.",
     "implication": "학생들의 참여를 유도하는 교육혁신 방법을 수업에 바로 적용할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 2,
@@ -29,7 +30,8 @@
     "entities": [],
     "summary": "강삼영 교육감은 2026강원에듀테크박람회에서 AI가 학생들의 호기심과 질문을 유발하는 계기가 되기를 희망했습니다.",
     "implication": "AI 도구를 활용하여 학생들이 흥미로운 질문을 만들고 탐구하도록 유도하는 수업을 구성할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 3,
@@ -46,7 +48,8 @@
     ],
     "summary": "제주도교육청은 교실에서 진행되는 IB 수업 현장의 이야기를 직접 학습한다.",
     "implication": "현장의 IB 수업 사례를 참고하여 우리 반에 맞는 실제적 적용 방안을 모색할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 4,
@@ -60,7 +63,8 @@
     "entities": [],
     "summary": "광명교육청은 폰프리스쿨·RAS 교육과 연계하여 학생 정책 제안을 지역 교육정책에 반영했습니다.",
     "implication": "학생들의 아이디어가 실제 지역 교육정책에 연결될 수 있음을 안내하고, 관련 정책 제안 활동을 수업에 도입할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 5,
@@ -74,7 +78,8 @@
     "entities": [],
     "summary": "이혜원 경기도의원이 학생 수 감소 해결책으로 교육정책 외 양평군의 교육·주거환경 개선을 논의했습니다.",
     "implication": "학생들에게 지역 사회 문제와 교육의 연관성을 탐구하는 활동으로 연결할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 6,
@@ -83,7 +88,7 @@
     "source": "중도일보",
     "published": "2026-11-01",
     "keyword": "교육정책",
-    "topic": "classroom",
+    "topic": "policy",
     "kind": null,
     "entities": [
      "경기도교육청",
@@ -92,7 +97,9 @@
     "summary": "경기교육청은 탐구, 마음 회복, 안전까지 아우르며 배움의 범위를 확장합니다.",
     "implication": "학생들의 탐구 활동을 격려하고, 마음 건강과 안전 교육을 수업에 적극적으로 통합할 수 있습니다.",
     "ai": true,
-    "dup_of": "2026-11-01"
+    "dup_of": "2026-11-01",
+    "topic_rule": "classroom",
+    "topic_src": "ai"
    },
    {
     "n": 7,
@@ -122,7 +129,8 @@
     "entities": [],
     "summary": "안민석 교육감은 과학·수학교육의 중심에 학생의 질문과 도전이 있어야 한다고 밝혔습니다.",
     "implication": "학생들의 질문과 도전을 유도하는 활동을 과학·수학 수업에 적극적으로 도입할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 9,
@@ -138,7 +146,8 @@
     ],
     "summary": "도성훈 인천교육감이 AI에 생각을 맡기지 않는 교실을 강조하며 외신에 ‘읽걷쓰AI’ 교육을 소개했습니다.",
     "implication": "AI는 자료 탐색에 활용하고, 읽고 활동하며 스스로 쓰는 인간 중심 학습을 이끌 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 10,
@@ -155,7 +164,8 @@
     ],
     "summary": "LG유플러스가 교육부와 협력하여 청소년 보안 인재 육성 사업을 추진합니다.",
     "implication": "학생들에게 미래 유망 직업인 보안 분야의 진로와 관련 교육 기회를 안내할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    }
   ],
   "paper": [
@@ -176,7 +186,9 @@
     "implication": "",
     "ai": true,
     "authors": "Marimille H. Bowle, Joy SB. Gaza",
-    "pdf": "https://www.ijisrt.com/assets/upload/files/IJISRT25JUN939.pdf"
+    "pdf": "https://www.ijisrt.com/assets/upload/files/IJISRT25JUN939.pdf",
+    "topic_src": "ai",
+    "title_ko": "AI 보조 교육: 교사의 실천과 학부모의 관점"
    },
    {
     "n": 2,
@@ -185,14 +197,17 @@
     "source": "openalex",
     "published": "2026-10-30",
     "keyword": "",
-    "topic": "stem_ct",
+    "topic": "teacher_pd",
     "kind": null,
     "entities": [],
     "summary": "이 연구는 예비 초등교사의 수학 교육 개인 실천 이론(PPT)을 분석하여 학생 경험, 학과 이론 교육 및 이전 교사의 영향을 주요 형성 원천으로 밝히며, 효과적인 교사 양성 프로그램 개발에 기여합니다.",
     "implication": "",
     "ai": true,
     "authors": "Saniye Nur Ergan",
-    "pdf": "https://dergipark.org.tr/en/download/article-file/5264547"
+    "pdf": "https://dergipark.org.tr/en/download/article-file/5264547",
+    "topic_rule": "stem_ct",
+    "topic_src": "ai",
+    "title_ko": "수학 교수법 탐구: 개인 실천 이론의 이해"
    },
    {
     "n": 3,
@@ -201,14 +216,17 @@
     "source": "semantic_scholar",
     "published": "2025-08-22",
     "keyword": "",
-    "topic": "stem_ct",
+    "topic": "genai_tutor",
     "kind": null,
     "entities": [],
     "summary": "본 연구는 AI 보조 프로그래밍 교육의 현황, 핵심 기술, 교수법, 성과 및 과제를 체계적으로 분석하여, AI가 고등 교육의 교수 목표, 내용, 방법, 평가 시스템을 혁신하고 학생-교사-AI 협력의 새로운 교육 생태계를 구축하는 데 기여함을 제시합니다.",
     "implication": "",
     "ai": true,
     "authors": "Hao-Shun Cao",
-    "pdf": "https://doi.org/10.1145/3768421.3768449"
+    "pdf": "https://doi.org/10.1145/3768421.3768449",
+    "topic_rule": "stem_ct",
+    "topic_src": "ai",
+    "title_ko": "고등 교육 AI 보조 프로그래밍 교육 경험과 통찰"
    },
    {
     "n": 4,
@@ -217,14 +235,17 @@
     "source": "openalex",
     "published": "2026-10-30",
     "keyword": "",
-    "topic": "personalized",
+    "topic": "literacy_ethics",
     "kind": null,
     "entities": [],
     "summary": "AI 교육 환경에서 감성적 경험과 관계 유지를 위해, 본 논문은 교육적 가치 침해 위험과 그로 인한 소외를 분석하고, 이를 극복할 수 있는 감성 기반의 교수법 및 평가 재구축 프레임워크를 제시합니다.",
     "implication": "",
     "ai": true,
     "authors": "Guan Xin",
-    "pdf": "https://j.ideasspread.org/ier/article/download/971/2347"
+    "pdf": "https://j.ideasspread.org/ier/article/download/971/2347",
+    "topic_rule": "personalized",
+    "topic_src": "ai",
+    "title_ko": "AI 시대의 교육적 감성: 가치, 소외 위험, 재구축 경로"
    },
    {
     "n": 5,
@@ -233,14 +254,17 @@
     "source": "semantic_scholar",
     "published": "2025-05-24",
     "keyword": "",
-    "topic": "language",
+    "topic": "genai_tutor",
     "kind": null,
     "entities": [],
     "summary": "이 논문은 2018년부터 2024년까지의 59개 실증 연구를 분석하여 인공지능이 중학교 EFL 듣기 및 말하기 능력 향상과 학습자 참여를 촉진하지만, 단기 연구 및 교사 훈련 부족 등의 한계점도 있음을 밝힙니다.",
     "implication": "",
     "ai": true,
     "authors": "Zihan Wang, Ling-Ling Li",
-    "pdf": "https://www.al-kindipublisher.com/index.php/ijels/article/download/9313/8353"
+    "pdf": "https://www.al-kindipublisher.com/index.php/ijels/article/download/9313/8353",
+    "topic_rule": "language",
+    "topic_src": "ai",
+    "title_ko": "AI 보조 교육이 중학교 EFL 듣기 및 말하기에 효과적인가?"
    }
   ],
   "tech": [
@@ -258,7 +282,8 @@
     ],
     "summary": "AI 에이전트 설계는 AI가 복합 문제 해결의 자율적 주체로 진화하며 산업 혁신을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 2,
@@ -267,7 +292,7 @@
     "source": "AI Times",
     "published": "2026-11-01",
     "keyword": "",
-    "topic": "edu_ai",
+    "topic": "product",
     "kind": null,
     "entities": [
      "Google",
@@ -275,7 +300,9 @@
     ],
     "summary": "구글은 AI 플랫폼 기반 교육 콘텐츠 확대로 AI 학습 문턱을 낮추고, AI 기술 생태계 내 주도권 강화에 나설 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "edu_ai",
+    "topic_src": "ai"
    },
    {
     "n": 3,
@@ -284,7 +311,7 @@
     "source": "AI Times",
     "published": "2026-11-01",
     "keyword": "",
-    "topic": "industry",
+    "topic": "agent_dev",
     "kind": null,
     "entities": [
      "Google",
@@ -293,7 +320,9 @@
     "summary": "AI 산업은 개별 모델 역량에서 벗어나 협력하는 에이전트 시스템 구축 및 상호작용 생태계 조성으로 진화할 것입니다.",
     "implication": "",
     "ai": true,
-    "dup_of": "2026-11-01"
+    "dup_of": "2026-11-01",
+    "topic_rule": "industry",
+    "topic_src": "ai"
    },
    {
     "n": 4,
@@ -302,7 +331,7 @@
     "source": "AI Times",
     "published": "2026-11-01",
     "keyword": "",
-    "topic": "usecase",
+    "topic": "industry",
     "kind": null,
     "entities": [
      "삼성",
@@ -311,7 +340,9 @@
     "summary": "AI 기술 생태계는 기술 개발보다 산업 전반의 신속한 AI 도입과 활용 능력이 기업 경쟁력을 좌우하는 시대로 전환될 것입니다.",
     "implication": "",
     "ai": true,
-    "dup_of": "2026-11-01"
+    "dup_of": "2026-11-01",
+    "topic_rule": "usecase",
+    "topic_src": "ai"
    },
    {
     "n": 5,
@@ -325,7 +356,8 @@
     "entities": [],
     "summary": "AI의 미세한 내부 조작이 예측 불가능한 위험을 야기하므로, 내부 구조 해독을 통한 통제력 및 신뢰성 확보가 AI 기술 생태계 발전에 필수적입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 6,
@@ -346,7 +378,8 @@
     ],
     "summary": "국내 대기업들의 엔비디아 AI 전방위 활용 공개는 AI 기술이 반도체부터 로봇까지 전 산업의 핵심 경쟁력으로 자리매김하는 생태계 변화를 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 7,
@@ -355,7 +388,7 @@
     "source": "AI Times",
     "published": "2026-10-31",
     "keyword": "",
-    "topic": "usecase",
+    "topic": "product",
     "kind": null,
     "entities": [
      "xAI"
@@ -363,7 +396,9 @@
     "summary": "머스크의 AI 오디세이 공개는 AI의 창의적·철학적 활용 가능성을 확장하며 기술 생태계의 미래 비전에 대한 논의를 심화할 것입니다.",
     "implication": "",
     "ai": true,
-    "dup_of": "2026-11-01"
+    "dup_of": "2026-11-01",
+    "topic_rule": "usecase",
+    "topic_src": "ai"
    },
    {
     "n": 8,
@@ -379,7 +414,8 @@
     ],
     "summary": "오피니언: 오픈AI의 투자 및 기업가치 하향은 AI 산업의 과열된 투자 심리가 냉각되며, 기술 혁신을 넘어 사업적 지속 가능성 증명이 중요해질 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 9,
@@ -388,12 +424,14 @@
     "source": "AI Times",
     "published": "2026-11-01",
     "keyword": "",
-    "topic": "model",
+    "topic": "agent_dev",
     "kind": null,
     "entities": [],
     "summary": "AI 모델 간 비언어적 직접 소통은 분산형 AI 시스템의 협업 능력을 극대화하여 AI 생태계의 복잡하고 자율적인 지능 발전을 이끌 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
    },
    {
     "n": 10,
@@ -402,7 +440,7 @@
     "source": "OpenAI Blog",
     "published": "2026-10-27",
     "keyword": "",
-    "topic": "product",
+    "topic": "usecase",
     "kind": null,
     "entities": [
      "OpenAI",
@@ -412,7 +450,9 @@
     "summary": "오피니언: 이번 협력은 AI 모델이 기업 애플리케이션의 핵심 인터페이스로 통합되어, AI 기술의 엔터프라이즈 시장 확장을 가속화할 것입니다.",
     "implication": "",
     "ai": true,
-    "dup_of": "2026-10-30"
+    "dup_of": "2026-10-30",
+    "topic_rule": "product",
+    "topic_src": "ai"
    }
   ]
  },
@@ -455,5 +495,12 @@
   "classroom": "AI 도구를 활용하여 학생들이 스스로 흥미로운 질문을 만들고 탐구하도록 유도하는 수업 활동을 구성해 볼 수 있습니다.",
   "model": "gemini-2.5-flash",
   "items_hash": "df846ed5d8d1"
+ },
+ "enrich": {
+  "hash": "aa8977a91f7a",
+  "model": "gemini-2.5-flash",
+  "topics": 11,
+  "title_ko": 5,
+  "summaries": 0
  }
 }

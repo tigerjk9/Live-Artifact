@@ -10,14 +10,16 @@
     "source": "에듀프레스",
     "published": "2026-10-28",
     "keyword": "",
-    "topic": "teacher",
+    "topic": "policy",
     "kind": "opinion",
     "entities": [
      "경기도교육청"
     ],
     "summary": "경기도교육청의 교장공모제 확대 방침이 학교 중간 관리자 약화와 경영 전문성 검증 부족을 초래해 '허리 없는 학교'를 만들 수 있다는 우려가 커지고 있습니다.",
     "implication": "학교 행정 시스템 변화로 수업 관련 지원이 줄 수 있어, 교사 스스로 교육 활동 계획 시 더 면밀히 준비할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "teacher",
+    "topic_src": "ai"
    },
    {
     "n": 2,
@@ -33,7 +35,8 @@
     ],
     "summary": "김석준 부산교육감이 부산교육의 큰 방향을 제대로 설정했다는 데스크칼럼 내용입니다.",
     "implication": "제시된 교육 방향을 바탕으로 우리 반 학생들의 미래 역량을 강화하는 수업을 설계할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 3,
@@ -42,7 +45,7 @@
     "source": "디트NEWS24",
     "published": "2026-10-28",
     "keyword": "에듀테크",
-    "topic": "classroom",
+    "topic": "teacher",
     "kind": "feature",
     "entities": [
      "충남교육청",
@@ -50,7 +53,9 @@
     ],
     "summary": "충남교육청은 미래교육 해답을 찾기 위해 전문적학습공동체를 활용하고 있습니다.",
     "implication": "미래형 수업 방안 마련을 위해 동료 교사들과 학습 공동체를 구성하여 협력할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
    },
    {
     "n": 4,
@@ -66,7 +71,8 @@
     ],
     "summary": "부산교육청은 내년 교육정책에 시민과 현장 교원의 목소리를 담을 계획입니다.",
     "implication": "교원 의견이 정책에 반영되므로, 학생들과 함께 우리 교실에 필요한 정책 아이디어를 만들어 제안할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 5,
@@ -80,7 +86,8 @@
     "entities": [],
     "summary": "한남대학교 교육학과가 세종연구원을 방문하여 평생교육 현장을 살펴보았습니다.",
     "implication": "평생교육 현장 사례를 수업에 도입하여 배움의 폭을 확장할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 6,
@@ -97,7 +104,8 @@
     ],
     "summary": "대전시교육청은 충청권 교육청들과 4년간 AI 미래교육 및 교권 보호를 공동 추진합니다.",
     "implication": "AI 미래교육 협력을 통해 학생들에게 AI 활용 학습 기회를 더 많이 제공할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 7,
@@ -106,12 +114,14 @@
     "source": "전북미래교육신문",
     "published": "2026-10-27",
     "keyword": "AI교육",
-    "topic": "classroom",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [],
     "summary": "천호성 교육감과 김재준 군산시장이 '산업 현장 교실' 구현을 위해 새만금·피지컬 AI 연계 교육 협력을 논의했습니다.",
     "implication": "이 뉴스를 통해 새만금 산업 현장이나 피지컬 AI 기술을 활용한 체험형 수업을 학생들에게 제공할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
    },
    {
     "n": 8,
@@ -125,7 +135,8 @@
     "entities": [],
     "summary": "최은옥 차관이 디지털미디어고를 방문하여 AI 교육 현장의 목소리를 듣습니다.",
     "implication": "AI 교육 현장 목소리에 귀 기울이는 만큼, 우리 수업에서도 AI 활용을 적극적으로 시도할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 9,
@@ -141,7 +152,8 @@
     ],
     "summary": "부산교육청이 2주간 교육정책에 대한 여론조사와 모니터링을 실시합니다.",
     "implication": "학생들과 함께 부산교육청의 교육정책과 관련된 의견을 나누는 시간을 가질 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 10,
@@ -157,7 +169,8 @@
     ],
     "summary": "충남교육청이 변화된 교육정책에 대해 연수를 실시합니다.",
     "implication": "달라진 정책 내용을 파악하여 실제 수업에 적용할 방안을 모색할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    }
   ],
   "paper": [
@@ -168,14 +181,17 @@
     "source": "openalex",
     "published": "2026-10-26",
     "keyword": "",
-    "topic": "personalized",
+    "topic": "language",
     "kind": null,
     "entities": [],
     "summary": "치르본 지역 고등학교 인도네시아어 수업에 '깊이 있는 학습 접근법'을 적용한 질적 사례 연구는 학생들의 심층 이해 증진을 위한 계획, 실행, 도전 과제를 분석하며, 교사 역량 강화와 학습 환경 지원의 중요성을 강조합니다.",
     "implication": "",
     "ai": true,
     "authors": "Nita Karlina Puspitasari, Mira Nuryanti 외 1명",
-    "pdf": "https://annpublisher.org/ojs/index.php/edusci/article/download/1252/1199"
+    "pdf": "https://annpublisher.org/ojs/index.php/edusci/article/download/1252/1199",
+    "topic_rule": "personalized",
+    "topic_src": "ai",
+    "title_ko": "치르본시 SMA/SMK/MAN 인도네시아어 학습에 딥러닝 접근법 구현"
    },
    {
     "n": 2,
@@ -191,7 +207,9 @@
     "implication": "",
     "ai": true,
     "authors": "Princess Rose Gulanday, Shyndylou Pandayan 외 1명",
-    "pdf": "https://www.ijpdll.com/download/inclusivity-to-children-with-disabilities-for-sustainable-learning-case-study-of-special-education-19666.pdf"
+    "pdf": "https://www.ijpdll.com/download/inclusivity-to-children-with-disabilities-for-sustainable-learning-case-study-of-special-education-19666.pdf",
+    "topic_src": "ai",
+    "title_ko": "지속 가능한 학습을 위한 장애 아동 포용: 필리핀 제너럴산토스시 특수교사 사례 연구"
    },
    {
     "n": 3,
@@ -200,7 +218,7 @@
     "source": "openalex",
     "published": "2026-10-26",
     "keyword": "",
-    "topic": "stem_ct",
+    "topic": "design_curric",
     "kind": null,
     "entities": [
      "사교육"
@@ -209,7 +227,10 @@
     "implication": "",
     "ai": true,
     "authors": "Bin Zhang",
-    "pdf": "https://jeeps.ewapub.com/article/view/38241.pdf"
+    "pdf": "https://jeeps.ewapub.com/article/view/38241.pdf",
+    "topic_rule": "stem_ct",
+    "topic_src": "ai",
+    "title_ko": "사회과학 대학원생을 위한 학문 영어에 무형문화유산 통합: 장쑤대학 구현 프레임워크 및 연구 설계"
    },
    {
     "n": 4,
@@ -225,7 +246,9 @@
     "implication": "",
     "ai": true,
     "authors": "Syeda Sabira, Warisha Riaz 외 1명",
-    "pdf": "https://scholarclub.org/index.php/jllsa/article/download/418/550"
+    "pdf": "https://scholarclub.org/index.php/jllsa/article/download/418/550",
+    "topic_src": "ai",
+    "title_ko": "말 없는 교육과정: 영어 매개 교실에서 학생들이 혼란을 숨기는 방법"
    },
    {
     "n": 5,
@@ -241,7 +264,9 @@
     "implication": "",
     "ai": true,
     "authors": "Abd. Kahar, La Baba 외 1명",
-    "pdf": "https://jurnal2.unimen.ac.id/index.php/edumaspul/article/download/560/442"
+    "pdf": "https://jurnal2.unimen.ac.id/index.php/edumaspul/article/download/560/442",
+    "topic_src": "ai",
+    "title_ko": "상호작용적 디지털 모듈을 통한 영어 학습 혁신: 인도네시아 초등 교육 개발 연구"
    }
   ],
   "tech": [
@@ -252,7 +277,7 @@
     "source": "GeekNews",
     "published": "2026-10-27",
     "keyword": "GPT",
-    "topic": "model",
+    "topic": "agent_dev",
     "kind": null,
     "entities": [
      "OpenAI",
@@ -262,7 +287,9 @@
     ],
     "summary": "OpenAI API 표준 기반의 통합은 개발자에게 다양한 LLM 접근성을 높여 AI 모델 간 경쟁을 심화시키고 생태계 상호운용성을 강화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
    },
    {
     "n": 2,
@@ -271,12 +298,14 @@
     "source": "AI Times",
     "published": "2026-10-28",
     "keyword": "",
-    "topic": "agent_dev",
+    "topic": "industry",
     "kind": null,
     "entities": [],
     "summary": "머신러닝 플랫폼 엔지니어링은 AI 모델 개발과 운영을 체계화하여 AI 기술 생태계 전반의 생산성과 산업적 활용을 극대화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "agent_dev",
+    "topic_src": "ai"
    },
    {
     "n": 3,
@@ -293,7 +322,8 @@
     ],
     "summary": "네이버의 대규모 AI 인프라 투자와 엔비디아의 전략적 참여는 고성능 컴퓨팅 자원 확보를 가속화하여 AI 생태계 발전 및 산업 경쟁력을 강화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 4,
@@ -302,7 +332,7 @@
     "source": "OpenAI Blog",
     "published": "2026-10-23",
     "keyword": "",
-    "topic": "product",
+    "topic": "industry",
     "kind": null,
     "entities": [
      "ChatGPT"
@@ -310,7 +340,9 @@
     "summary": "AI 대중화는 대규모 스토리지 등 인프라 확장을 필수로 하며, 이는 AI 기술 생태계의 핵심 과제이자 경쟁력이 될 것입니다.",
     "implication": "",
     "ai": true,
-    "dup_of": "2026-10-25"
+    "dup_of": "2026-10-25",
+    "topic_rule": "product",
+    "topic_src": "ai"
    },
    {
     "n": 5,
@@ -326,7 +358,8 @@
     ],
     "summary": "Genie 4 월드 모델은 AI의 환경 인지 및 예측 능력을 고도화하여, 자율 시스템과 가상세계 산업의 혁신을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 6,
@@ -344,7 +377,8 @@
     ],
     "summary": "이 협력은 고성능 AI 인프라 시장의 경쟁을 심화하고, 핵심 AI 기업들의 멀티 클라우드 전략을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 7,
@@ -362,7 +396,8 @@
     "summary": "로컬 LLM 에이전트의 안전장치 확보는 분산형 AI의 신뢰도를 높여, 기업 및 개인 맞춤형 AI 솔루션 시장 확장의 핵심 동력이 될 것입니다.",
     "implication": "",
     "ai": true,
-    "dup_of": "2026-10-25"
+    "dup_of": "2026-10-25",
+    "topic_src": "ai"
    },
    {
     "n": 8,
@@ -378,7 +413,8 @@
     ],
     "summary": "AI 에이전트의 복잡한 구조로 인한 비용 비효율성은 기술 상용화와 생태계 확장을 저해할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 9,
@@ -387,7 +423,7 @@
     "source": "디지털데일리",
     "published": "2026-10-27",
     "keyword": "GPT",
-    "topic": "model",
+    "topic": "industry",
     "kind": null,
     "entities": [
      "Oracle",
@@ -397,7 +433,9 @@
     ],
     "summary": "핵심 기업 간 차세대 AI 모델 학습 인프라 공동 구축은 고도화된 AI 개발을 위한 전략적 협력과 인프라 중요성 증대를 의미합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
    },
    {
     "n": 10,
@@ -406,7 +444,7 @@
     "source": "Unite.AI",
     "published": "2026-10-27",
     "keyword": "Anthropic",
-    "topic": "agent_dev",
+    "topic": "policy_safety",
     "kind": null,
     "entities": [
      "Anthropic",
@@ -414,10 +452,19 @@
     ],
     "summary": "AI 판단에 대한 인간의 높은 의존 경향은 자동화 편향 위험을 키우므로, 책임 있는 AI 설계와 인간의 비판적 개입이 더욱 중요해질 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "agent_dev",
+    "topic_src": "ai"
    }
   ]
  },
  "fallback": {},
- "notes": {}
+ "notes": {},
+ "enrich": {
+  "hash": "a89c1a87f9ef",
+  "model": "gemini-2.5-flash",
+  "topics": 10,
+  "title_ko": 5,
+  "summaries": 0
+ }
 }

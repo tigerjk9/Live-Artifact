@@ -18,7 +18,8 @@
     ],
     "summary": "국가교육위원회는 10년 국가교육발전계획 수립 지연 및 난항을 겪으며, 장기적 합의 기반 교육정책 정립에 과제를 안고 있다.",
     "implication": "기초학력, 특수교육 등 기존 5개년 계획들이 현장 중심 과제로 추진됨을 인지하고 수업에 반영할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 2,
@@ -34,7 +35,8 @@
     ],
     "summary": "경남대 교수학습센터가 생성형 AI 학습 프로그램 ‘틈이나면 AI’를 처음 운영합니다.",
     "implication": "대학의 생성형 AI 학습 사례를 참고하여 수업에 AI 활용법을 적용해 볼 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 3,
@@ -43,14 +45,16 @@
     "source": "교육플러스",
     "published": "2026-10-24",
     "keyword": "",
-    "topic": "ai_digital",
+    "topic": "classroom",
     "kind": null,
     "entities": [
      "고교학점제"
     ],
     "summary": "온라인학교가 고교학점제 정보·AI 과목 선택권을 넓혔지만 지역별 개설 과목 편차가 커 과목 교류가 숙제로 남았습니다.",
     "implication": "우리 학교에서 개설하기 어려운 심화 정보·AI 과목을 온라인학교를 통해 학생들에게 제공할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "ai_digital",
+    "topic_src": "ai"
    },
    {
     "n": 4,
@@ -66,7 +70,8 @@
     ],
     "summary": "인천시교육청이 외신을 통해 ‘인간 중심 AI 교육’의 핵심 내용을 적극적으로 홍보했습니다.",
     "implication": "인간 중심 AI 교육이라는 국제적 흐름에 맞춰 학생의 주도성을 살린 AI 활용 수업을 기획할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 5,
@@ -82,7 +87,8 @@
     ],
     "summary": "인천의 '읽걷쓰AI' 교육 프로그램이 콜롬비아 교육부의 적용으로 글로벌 확산되고 있다.",
     "implication": "'읽걷쓰AI' 프로그램처럼 AI를 활용하여 학생들의 읽기, 쓰기 활동을 효과적으로 지원할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 6,
@@ -99,7 +105,8 @@
     ],
     "summary": "인천시교육청은 외신 기자단에 초등학생 3D 모델링·코딩 수업을 공개하고 AI 교육 성과를 소개했습니다.",
     "implication": "우리 반에서도 3D 모델링과 코딩을 활용한 AI 교육 수업을 기획할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 7,
@@ -115,7 +122,8 @@
     ],
     "summary": "제주도교육감이 조직개편안 부결에 유감을 표하며 교육혁신을 계속 추진하겠다는 의지를 밝혔습니다.",
     "implication": "교육감의 교육혁신 의지로 교실에서 새로운 교육 시도를 해볼 수 있는 기회가 생길 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 8,
@@ -129,7 +137,8 @@
     "entities": [],
     "summary": "이병도 교육감은 태안 영항분교 현안 해결을 위해 직접 현장을 방문하여 임기 내 해법을 찾겠다고 약속했습니다.",
     "implication": "교육감의 현장 방문을 계기로 우리 학교 주변 문제점을 찾고 해결 방안을 토의하는 수업을 할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 9,
@@ -147,7 +156,8 @@
     ],
     "summary": "교육위 국감에서 한동훈 의원 딸 의혹 공방이 벌어졌으며, 교육부는 인천교육청과 역할 검토를 언급했습니다.",
     "implication": "학생들이 교육 현안을 이해하고 공정성 논의에 참여하도록 토론 자료로 활용할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 10,
@@ -156,14 +166,16 @@
     "source": "일간경기",
     "published": "2026-10-23",
     "keyword": "인공지능교육",
-    "topic": "policy",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "인천시교육청"
     ],
     "summary": "도성훈 인천교육감이 외신에 '읽걷쓰AI' 등 인공지능 교육정책을 소개했습니다.",
     "implication": "읽걷쓰AI와 같은 정책을 통해 인공지능을 활용한 읽기, 쓰기 수업을 구상할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
    }
   ],
   "paper": [
@@ -174,14 +186,17 @@
     "source": "",
     "published": "2026-10-21",
     "keyword": "",
-    "topic": "stem_ct",
+    "topic": "design_curric",
     "kind": null,
     "entities": [],
     "summary": "중등 교육에서 양자역학을 효과적으로 가르치기 위해 큐빗 중심의 두 상태 접근법과 실제 실험을 활용하여 벨 부등식까지 다루는 교육과정을 개발, 학생들의 개념 이해와 과학적 사고력 향상에 크게 기여합니다.",
     "implication": "",
     "ai": true,
     "authors": "['Alberto Carlini', 'Andrea Lanza' 외 6명",
-    "pdf": "http://arxiv.org/pdf/2610.29834v1"
+    "pdf": "http://arxiv.org/pdf/2610.29834v1",
+    "topic_rule": "stem_ct",
+    "topic_src": "ai",
+    "title_ko": "중등 양자역학 교육: 큐빗 우선 학습 경로로 벨 부등식까지"
    },
    {
     "n": 2,
@@ -190,14 +205,17 @@
     "source": "openalex",
     "published": "2026-10-22",
     "keyword": "",
-    "topic": "language",
+    "topic": "design_curric",
     "kind": null,
     "entities": [],
     "summary": "영어 작문 과정에 사상정치 교육을 통합한 비교 실험을 통해 학생들의 학습 동기, 가치관 및 작문 능력이 크게 향상됨을 밝혀 고등교육 외국어 교육 개혁의 실증적 근거를 제시합니다.",
     "implication": "",
     "ai": true,
     "authors": "Qimin Xiao",
-    "pdf": "https://www.scholink.org/ojs/index.php/jetss/article/download/58206/21061"
+    "pdf": "https://www.scholink.org/ojs/index.php/jetss/article/download/58206/21061",
+    "topic_rule": "language",
+    "topic_src": "ai",
+    "title_ko": "‘세 가지 진입점’ 사상정치 교육과정 통합 연구: 영어 작문 수업 사례 연구"
    },
    {
     "n": 3,
@@ -206,14 +224,17 @@
     "source": "openalex",
     "published": "2026-10-21",
     "keyword": "",
-    "topic": "personalized",
+    "topic": "language",
     "kind": null,
     "entities": [],
     "summary": "이 논문은 이슬람 가치 통합 적응형 디지털 학습 매체 ADAB-LIT을 ADDIE 모델 기반 R&D로 개발하여, 학생들의 읽기 및 비판적 사고력 향상과 이슬람 가치 내면화에 효과적임을 입증합니다.",
     "implication": "",
     "ai": true,
     "authors": "Isroyati, Muhamad Yasir 외 1명",
-    "pdf": "https://ejournal.baleliterasi.org/index.php/alinea/article/download/3829/2433"
+    "pdf": "https://ejournal.baleliterasi.org/index.php/alinea/article/download/3829/2433",
+    "topic_rule": "personalized",
+    "topic_src": "ai",
+    "title_ko": "이슬람 가치 통합 적응형 디지털 학습 매체를 활용한 이슬람 중학교 인도네시아어 문해 교육"
    },
    {
     "n": 4,
@@ -222,14 +243,17 @@
     "source": "openalex",
     "published": "2026-10-21",
     "keyword": "Connectivism",
-    "topic": "literacy_ethics",
+    "topic": "teacher_pd",
     "kind": null,
     "entities": [],
     "summary": "본 논문은 AI 시대 교사들이 비판적 사고 등 핵심 역량을 함양하며 AI를 교육과정, 교수법, 교육 기술에 윤리적으로 통합하도록 돕는 이론 및 연구 기반의 포괄적 틀과 자원을 제시합니다.",
     "implication": "",
     "ai": true,
     "authors": "",
-    "pdf": "https://www.emerald.com/books/edited-volume/chapter-pdf/11923279/978-1-80791-234-520261011en.pdf"
+    "pdf": "https://www.emerald.com/books/edited-volume/chapter-pdf/11923279/978-1-80791-234-520261011en.pdf",
+    "topic_rule": "literacy_ethics",
+    "topic_src": "ai",
+    "title_ko": "교실에서 인공지능 수용하기, 1부"
    },
    {
     "n": 5,
@@ -238,14 +262,17 @@
     "source": "openalex",
     "published": "2026-10-21",
     "keyword": "",
-    "topic": "language",
+    "topic": "design_curric",
     "kind": null,
     "entities": [],
     "summary": "질적 사례 연구를 통해 지역 맥락 기반 디지털 텍스트가 학생들의 참여도를 높이고 비판적 읽기 능력을 향상시키며, 교사와 교육과정 개발자에게 실질적인 교육 방안을 제시합니다.",
     "implication": "",
     "ai": true,
     "authors": "Syaiful Abid, Yohana Satinem",
-    "pdf": "https://ejournal.baleliterasi.org/index.php/alinea/article/download/4437/2565"
+    "pdf": "https://ejournal.baleliterasi.org/index.php/alinea/article/download/4437/2565",
+    "topic_rule": "language",
+    "topic_src": "ai",
+    "title_ko": "비판적 읽기 교육에서 지역 맥락 기반 디지털 텍스트: 질적 사례 연구"
    }
   ],
   "tech": [
@@ -256,7 +283,7 @@
     "source": "AI Times",
     "published": "2026-10-23",
     "keyword": "",
-    "topic": "product",
+    "topic": "industry",
     "kind": null,
     "entities": [
      "Amazon",
@@ -264,7 +291,9 @@
     ],
     "summary": "AWS의 GPU 관리 없는 맞춤형 AI 학습 기능은 AI 개발 접근성을 높여 기술 대중화를 가속화하고 산업 전반의 AI 도입을 촉진할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "product",
+    "topic_src": "ai"
    },
    {
     "n": 2,
@@ -278,7 +307,8 @@
     "entities": [],
     "summary": "AI 컴퓨팅 자원의 금융 상품화는 AI 산업의 핵심 인프라가 자본 시장에 편입되어 성숙도를 높이고 투자 지형을 변화시킬 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 3,
@@ -287,14 +317,16 @@
     "source": "OpenAI Blog",
     "published": "2026-10-23",
     "keyword": "",
-    "topic": "product",
+    "topic": "industry",
     "kind": null,
     "entities": [
      "ChatGPT"
     ],
     "summary": "ChatGPT의 10억 사용자 지원은 AI 서비스 성공을 위해 스케일링 가능한 데이터 스토리지와 인프라 경쟁력 확보가 필수적임을 강조합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "product",
+    "topic_src": "ai"
    },
    {
     "n": 4,
@@ -303,7 +335,7 @@
     "source": "OpenAI",
     "published": "2026-10-23",
     "keyword": "오픈AI",
-    "topic": "product",
+    "topic": "usecase",
     "kind": null,
     "entities": [
      "OpenAI",
@@ -312,7 +344,9 @@
     ],
     "summary": "우버의 전 직원 대상 ChatGPT Work 도입은 생성형 AI가 기업의 필수적인 업무 효율화 도구로 자리 잡는 추세를 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "product",
+    "topic_src": "ai"
    },
    {
     "n": 5,
@@ -330,7 +364,8 @@
     ],
     "summary": "두 AI의 실제 과학 문제 해결 능력은 AI가 과학 연구의 핵심 주체로 등극하며 산업 생태계에 새로운 발견의 시대를 열 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 6,
@@ -347,7 +382,8 @@
     "summary": "AI 생태계는 사용자 신뢰와 관련성을 기반으로 한 광고 모델이 차세대 수익화 표준이 될 것입니다.",
     "implication": "",
     "ai": true,
-    "dup_of": "2026-10-23"
+    "dup_of": "2026-10-23",
+    "topic_src": "ai"
    },
    {
     "n": 7,
@@ -364,7 +400,8 @@
     ],
     "summary": "OpenAI 모델의 구글 클라우드 진출은 AI 모델의 멀티 클라우드 전략을 가속화하며 클라우드 AI 시장 경쟁을 심화시킬 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 8,
@@ -373,7 +410,7 @@
     "source": "미디어픽",
     "published": "2026-10-23",
     "keyword": "오픈소스",
-    "topic": "policy_safety",
+    "topic": "agent_dev",
     "kind": null,
     "entities": [
      "NVIDIA",
@@ -381,7 +418,9 @@
     ],
     "summary": "오피니언: 엔비디아의 오픈쉘 공개는 안전한 AI 에이전트 개발 표준을 제시하여 AI 생태계의 책임 있는 발전과 상업적 확장을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "policy_safety",
+    "topic_src": "ai"
    },
    {
     "n": 9,
@@ -416,10 +455,18 @@
     ],
     "summary": "AI 에이전트의 자율적 협업 시스템이 본격화되며 복잡한 문제 해결과 산업 전반의 생산성 혁신을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    }
   ]
  },
  "fallback": {},
- "notes": {}
+ "notes": {},
+ "enrich": {
+  "hash": "5b709bf2e486",
+  "model": "gemini-2.5-flash",
+  "topics": 11,
+  "title_ko": 5,
+  "summaries": 0
+ }
 }

@@ -15,7 +15,8 @@
     "entities": [],
     "summary": "에이전틱 AI의 도입 성공 이후, 실험을 넘어 실질적인 현장 확장이 중요함을 시사합니다.",
     "implication": "에이전틱 AI는 교사의 반복적인 업무 부담을 줄여 수업에 더 집중하도록 도울 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 2,
@@ -31,7 +32,8 @@
     ],
     "summary": "대전교육청은 교육정책 아이디어 공모를 통해 현장 목소리를 듣고자 합니다.",
     "implication": "학생들과 함께 학교 교육 개선 아이디어를 구상하고 공모전 참여를 독려할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 3,
@@ -45,7 +47,8 @@
     "entities": [],
     "summary": "안민석 의원이 통학로 안전부터 AI 교육까지 아우르는 현장 교육정책 추진을 시작했습니다.",
     "implication": "AI 교육정책 시동으로 학생들이 실생활 문제 해결에 AI 기술을 접목하는 탐구 활동을 수업에 도입할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 4,
@@ -59,7 +62,8 @@
     "entities": [],
     "summary": "장태용 시의원이 강동구 3개 학교 현장 점검을 통해 교육정책이 학교 현장에서 출발해야 한다고 강조했습니다.",
     "implication": "학생들에게 학교 현장의 의견이 교육정책에 중요함을 알리고, 우리 학교의 개선점을 토의하는 수업 활동으로 활용할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 5,
@@ -75,7 +79,8 @@
     ],
     "summary": "경기도교육청이 성남 교육현안으로 통학안전 및 AI교육 등 현장 의견을 청취하고 논의했다.",
     "implication": "AI 교육이 주요 현안으로 논의되므로, 수업에 AI 활용 방안을 적극 탐색할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 6,
@@ -91,7 +96,8 @@
     ],
     "summary": "안민석 교육감이 '찾아가는 교육감실'을 통해 학부모들을 직접 만나 경기 교육 현장 소통을 진행했습니다.",
     "implication": "학생과 학부모의 의견을 경청하여 수업 내용을 조절하거나 활동을 다양하게 구성할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 7,
@@ -100,12 +106,14 @@
     "source": "스마트비즈",
     "published": "2026-10-01",
     "keyword": "AI디지털도구",
-    "topic": "teacher",
+    "topic": "classroom",
     "kind": null,
     "entities": [],
     "summary": "부산 초등교사 109명이 공개 수업을 통해 900여 명의 교사와 함께 수업 혁신을 추진합니다.",
     "implication": "동료 교사의 수업을 참관하고 논의하며 내 수업 개선에 바로 활용할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "teacher",
+    "topic_src": "ai"
    },
    {
     "n": 8,
@@ -114,14 +122,16 @@
     "source": "충청타임즈",
     "published": "2026-10-01",
     "keyword": "AI교육",
-    "topic": "classroom",
+    "topic": "ai_digital",
     "kind": null,
     "entities": [
      "충북교육청"
     ],
     "summary": "충북교육청이 AI 미래교육에 대한 포럼을 개최했습니다.",
     "implication": "AI 기반 미래 교육 방안들을 탐색하여 수업 자료 개발에 활용할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
    },
    {
     "n": 9,
@@ -137,7 +147,8 @@
     ],
     "summary": "정재석 전북교사노조 위원장이 천호성 교육감을 공직선거법 위반 혐의로 추가 고발했으며, 8일 고발인 조사가 진행됩니다.",
     "implication": "공직자의 책무와 관련된 시사 뉴스를 수업에서 탐구해 볼 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 10,
@@ -151,7 +162,8 @@
     "entities": [],
     "summary": "울진 후포초등학교는 AI 에듀테크를 활용하여 학생생성교육과정을 설계합니다.",
     "implication": "AI 에듀테크를 활용하여 학생들이 직접 교육과정을 설계하는 수업을 시도할 수 있습니다.",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    }
   ],
   "paper": [
@@ -171,7 +183,9 @@
     "implication": "",
     "ai": true,
     "authors": "Mojahed Mousa",
-    "pdf": "https://journal.iistr.org/index.php/JPES/article/download/1354/887"
+    "pdf": "https://journal.iistr.org/index.php/JPES/article/download/1354/887",
+    "topic_src": "ai",
+    "title_ko": "형성 평가 관행 개선을 위한 역방향 설계 효과성 평가"
    },
    {
     "n": 2,
@@ -187,7 +201,9 @@
     "implication": "",
     "ai": true,
     "authors": "Kuralay Baimukhambetova, Калибек Ыбыраимжанов 외 1명",
-    "pdf": "https://ijere.iaescore.com/index.php/IJERE/article/download/39655/15269"
+    "pdf": "https://ijere.iaescore.com/index.php/IJERE/article/download/39655/15269",
+    "topic_src": "ai",
+    "title_ko": "카자흐어 교사 교육의 TPACK 기반 AI 통합: 통제된 교육 실험 증거"
    },
    {
     "n": 3,
@@ -205,7 +221,9 @@
     "implication": "",
     "ai": true,
     "authors": "Veronika Dmytruk, Mariia Voloshyn 외 1명",
-    "pdf": "https://doi.org/10.32782/ip/99.22"
+    "pdf": "https://doi.org/10.32782/ip/99.22",
+    "topic_src": "ai",
+    "title_ko": "고등 기술 교육의 개인화 학습에 대한 현대적 접근 방식"
    },
    {
     "n": 4,
@@ -221,7 +239,9 @@
     "implication": "",
     "ai": true,
     "authors": "Vindya Vimani Senadheera, Thilini Perera Rupasinghe 외 1명",
-    "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1858434/pdf"
+    "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1858434/pdf",
+    "topic_src": "ai",
+    "title_ko": "고등 교육을 위한 새로운 디지털 교수 학습 과정 설계 및 평가: 개념 증명 연구"
    },
    {
     "n": 5,
@@ -230,7 +250,7 @@
     "source": "",
     "published": "2026-09-29",
     "keyword": "K-12 education",
-    "topic": "genai_tutor",
+    "topic": "literacy_ethics",
     "kind": null,
     "entities": [
      "생성형 AI",
@@ -240,7 +260,10 @@
     "implication": "",
     "ai": true,
     "authors": "['Fatima Tuz Zahra', 'Jiangen He' 외 2명",
-    "pdf": "http://arxiv.org/pdf/2609.38029v1"
+    "pdf": "http://arxiv.org/pdf/2609.38029v1",
+    "topic_rule": "genai_tutor",
+    "topic_src": "ai",
+    "title_ko": "생성형 AI를 활용한 비판적 사고: 사고 파트너 개입의 제약 우선 설계 파일럿"
    }
   ],
   "tech": [
@@ -251,7 +274,7 @@
     "source": "AI Times",
     "published": "2026-10-01",
     "keyword": "",
-    "topic": "industry",
+    "topic": "model",
     "kind": null,
     "entities": [
      "NVIDIA",
@@ -260,7 +283,9 @@
     ],
     "summary": "엔비디아의 물리 기반 영상 생성 프레임워크는 생성 AI의 현실성을 넘어 정확한 시뮬레이션 시대를 열어 산업 전반의 혁신을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "industry",
+    "topic_src": "ai"
    },
    {
     "n": 2,
@@ -276,7 +301,8 @@
     ],
     "summary": "대형 플랫폼 기업의 AI 서비스 핵심 기능 통합 가속화는 AI 기술의 일상적 활용과 시장 경쟁 심화로 이어질 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 3,
@@ -295,7 +321,8 @@
     ],
     "summary": "주요 AI 기업들의 연이은 최첨단 모델 출시는 AI 시장의 혁신 경쟁을 심화하고 무한 가격 경쟁을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 4,
@@ -314,7 +341,8 @@
     ],
     "summary": "선두 기업 간 기술 격차 해소로 AI 시장의 다자간 경쟁이 심화되며 전체 AI 생태계의 혁신을 더욱 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 5,
@@ -323,14 +351,16 @@
     "source": "AI Times",
     "published": "2026-10-01",
     "keyword": "",
-    "topic": "product",
+    "topic": "agent_dev",
     "kind": null,
     "entities": [
      "에이전트"
     ],
     "summary": "확산 모델로 음성 에이전트의 지연시간 한계를 극복하며, 실시간 인간-AI 상호작용의 자연스러움과 활용 범위를 혁신적으로 확장할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "product",
+    "topic_src": "ai"
    },
    {
     "n": 6,
@@ -344,7 +374,8 @@
     "entities": [],
     "summary": "알버트슨즈의 소매 혁신은 AI가 유통업의 내부 운영 최적화 및 효율성 증대의 핵심 동력이 될 것임을 시사합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 7,
@@ -361,7 +392,8 @@
     ],
     "summary": "엔비디아의 투자는 AI 개발의 필수적인 GPU 클라우드 인프라 확보 경쟁을 심화하고, AI 생태계 전반의 기술 발전 속도를 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 8,
@@ -370,12 +402,14 @@
     "source": "AI Times",
     "published": "2026-10-01",
     "keyword": "",
-    "topic": "policy_safety",
+    "topic": "industry",
     "kind": null,
     "entities": [],
     "summary": "마이클 버리의 경고는 AI 기업 IPO 과열이 기술 생태계의 지속 가능한 성장을 저해하고 거품 붕괴 위험을 높일 수 있음을 시사합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "policy_safety",
+    "topic_src": "ai"
    },
    {
     "n": 9,
@@ -392,7 +426,8 @@
     ],
     "summary": "미국 정부의 선두 AI 기업 조사는 AI 산업 전반의 규제 강화와 정부 감독의 본격화를 예고합니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_src": "ai"
    },
    {
     "n": 10,
@@ -401,7 +436,7 @@
     "source": "Unite.AI",
     "published": "2026-10-01",
     "keyword": "Anthropic",
-    "topic": "model",
+    "topic": "agent_dev",
     "kind": null,
     "entities": [
      "오픈소스",
@@ -409,10 +444,19 @@
     ],
     "summary": "과학 분야를 위한 오픈소스 LLM 툴킷은 LLM 활용 장벽을 낮춰 AI 연구 생태계의 혁신을 가속화할 것입니다.",
     "implication": "",
-    "ai": true
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
    }
   ]
  },
  "fallback": {},
- "notes": {}
+ "notes": {},
+ "enrich": {
+  "hash": "4e5fa8e2e282",
+  "model": "gemini-2.5-flash",
+  "topics": 7,
+  "title_ko": 5,
+  "summaries": 0
+ }
 }
