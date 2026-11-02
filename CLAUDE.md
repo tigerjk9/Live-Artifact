@@ -122,9 +122,9 @@ python scripts/fetch_and_generate.py                  # 오늘(폴백 허용) + 
 - **Format A** (2026-04~ 뉴스): `N. 제목` / `   요약` / `   → 시사점`(교육만) / `   URL`
 - **Format B** (논문): `N. 제목` / `   - 요약` / `   - [논문 보기](URL)`
 - **Format C** (2025-11~2026-03): `# 1️⃣ 제목` / `오피니언: 요약` / `🔗 링크:` — 감지는 `_EMOJI_HEAD_RE`(**re.MULTILINE 필수**), `> 오늘의 한 줄 요약:`은 `note`로
-- 2026-03 중순~04 교육 뉴스레터는 링크만 있어 요약이 비어 있다 (JSON summary도 빈 문자열). 평문 `education_news_*.txt`의
-  `요약:` 줄로 보강하지만(`plain_summary_file`, 뉴스레터 요약 3건 미만일 때만 1회 추가 페치) Google News RSS 항목엔
-  요약이 거의 없어 수확이 적다 — 그 기간은 `.brief-notice` 배너가 뜨는 게 정상
+- 2026-03 중순~04 교육 뉴스레터는 링크만 있어 요약이 비어 있었다 (JSON summary도 빈 문자열). 평문 `education_news_*.txt`의
+  `요약:` 줄 보강(`plain_summary_file`)은 수확이 적었고, 2026-11-02 Maintenance `summaries` 작업으로 562건을 제목 기반
+  Gemini 요약(`summary_src: ai-backfill`, 카드에 "요약 보강" 표시)으로 채워 두 달 모두 커버리지 100%가 됐다
 - 소스 JSON에 git 충돌 마커가 남은 날이 4일 있다(2025-12-19, 2026-01-06, 2026-02-20 교육 / 2026-03-31 기술) —
   `repair_json_variants()`가 마커 제거 → theirs → ours 순으로 복구하고 URL 중복을 제거한다
 - 수집기가 Gemini 실패 시 넣는 상투 한 줄 요약("교육을 중심으로 교육 현장의 혁신이 가속화되고 있습니다")은
