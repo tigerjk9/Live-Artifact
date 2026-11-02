@@ -1,0 +1,416 @@
+{
+ "date": "2026-11-02",
+ "generated_at": "2026-11-02T12:42:41+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[기고] 학령인구 감소 시대, 대학의 생존은 교육혁신에서 시작된다",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5EYXBkQzJTSEZhdGFrcEMzOHU1ajNfY0c2TGNwQ0Q1ZUtfMi10VUYyclJMWERUcXNaR2ZvSXF2UWFZenVtRmxfVzJKdw?oc=5",
+    "source": "아이뉴스24",
+    "published": "2026-11-01",
+    "keyword": "교육혁신",
+    "topic": "higher_ed",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "학령인구 감소로 인해 대학의 생존은 교육혁신을 통해 이루어집니다.",
+    "implication": "학생들의 참여를 유도하는 교육혁신 방법을 수업에 바로 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[2026강원에듀테크박람회]강삼영 교육감 “AI, 호기심과 질문의 계기 되길”",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jZmNJX1VNWDkzMFp4Y0hTYmVndWhneGFFQVpSSm1fSmF5bXBxSXFoUklNWDJYczdCTjRSRkVPM3l2dnJGOTROSE1XakFZdGJlNHdweHdtN2ZMbnM?oc=5",
+    "source": "강원일보",
+    "published": "2026-11-01",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "강삼영 교육감은 2026강원에듀테크박람회에서 AI가 학생들의 호기심과 질문을 유발하는 계기가 되기를 희망했습니다.",
+    "implication": "AI 도구를 활용하여 학생들이 흥미로운 질문을 만들고 탐구하도록 유도하는 수업을 구성할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "제주도교육청, 교실에서 듣는 IB 수업 이야기 현장에서 배운다",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MbUNDRUtIRDJTdW85MEVwWWRHdVcyVm00enBmdWt5cTc4NHZhcE9IOWExMDdFNFd1cjhBdE1BVko1T1FiMnRGVXVGT24xTWQyX05XZ3ZSejJZWGdKbkxfcnpDQQ?oc=5",
+    "source": "대한민국교육신문",
+    "published": "2026-11-01",
+    "keyword": "수업이야기",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "제주교육청",
+     "IB"
+    ],
+    "summary": "제주도교육청은 교실에서 진행되는 IB 수업 현장의 이야기를 직접 학습한다.",
+    "implication": "현장의 IB 수업 사례를 참고하여 우리 반에 맞는 실제적 적용 방안을 모색할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "폰프리스쿨·RAS 교육 연계한 학생 정책 제안 광명교육청, 학생 목소리 지역 교육정책에 연결",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RbXl5RUlTN2ZDSUV5RkNqSGk0eUktMHE1WGF5Wm04OVlDTVRvTmlMU2x2eTRYZ1RzcVVpeGljaHJfRnRyYm9qSU9UeDhGbUdKcVhKU1dZUEhTVnllYXVVZTBtR1RMNFJ1UW1abUl3aw?oc=5",
+    "source": "오토투데이",
+    "published": "2026-11-02",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "광명교육청은 폰프리스쿨·RAS 교육과 연계하여 학생 정책 제안을 지역 교육정책에 반영했습니다.",
+    "implication": "학생들의 아이디어가 실제 지역 교육정책에 연결될 수 있음을 안내하고, 관련 정책 제안 활동을 수업에 도입할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "이혜원 경기도의원 “학생 수 감소, 교육정책만으론 해결 못 해”… 양평군 교육·주거환경 개선 논의",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE81YUVDRG1nNGVCWDE3Z0JNcllQSjZJOHMyYkw5QmRKRnhpLWtoR3dJT2o3T2JtVlZ6Y3o4SWJNTGJYNGNmUXBXNA?oc=5",
+    "source": "팝업뉴스",
+    "published": "2026-11-01",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "이혜원 경기도의원이 학생 수 감소 해결책으로 교육정책 외 양평군의 교육·주거환경 개선을 논의했습니다.",
+    "implication": "학생들에게 지역 사회 문제와 교육의 연관성을 탐구하는 활동으로 연결할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "[교육정책] 경기교육, 배움의 범위 넓힌다…탐구부터 마음 회복·안전까지",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tWnZxNnFlYjhFVWtKQkRNQlQydU9ac3JhUEFmQkhYNDRZekcwOHJOZGpGRDZjd2tkdUo5ZjlFTmowN3k2cDZ3bXBvanBqUF9OQXRhNVI5YldNai1yS1RxTko2dlFsc2Y4YzROaw?oc=5",
+    "source": "중도일보",
+    "published": "2026-11-01",
+    "keyword": "교육정책",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "마음건강"
+    ],
+    "summary": "경기교육청은 탐구, 마음 회복, 안전까지 아우르며 배움의 범위를 확장합니다.",
+    "implication": "학생들의 탐구 활동을 격려하고, 마음 건강과 안전 교육을 수업에 적극적으로 통합할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "위버스브레인·NE능률, 교재 기반 맞춤형 AI 에이전트 개발 맞손",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPUWVxM3hTbi16Q2ptX0plM2J2bVhhTXcyN0Z5X1FqeHpXN1VWdTJ1dGlQTjZobE1OcGtJTXlndk41QVJuczRqSU1qOXIwSVlpMkJyV3ZEVktSY09xN184LWYyMTZ6ak9YM2UzeA?oc=5",
+    "source": "데이터넷",
+    "published": "2026-11-01",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "위버스브레인과 NE능률이 교재 기반 맞춤형 AI 에이전트 개발을 위해 협력합니다.",
+    "implication": "교재 기반 맞춤형 AI 에이전트로 학생 개개인의 학습 진도에 맞춘 지도를 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "안민석 교육감 “과학·수학교육 중심에 학생의 질문과 도전 있어야”",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Ia1lNVUFTQUI3VG5xOS1ySUhkdExhQVg1bUJ6WnlpU0R1QkVtUGR4SkdrWEszdVFfMElPTWFObk8xcU84dEtCb0ZoUGk5RUVPbjd0MTFPQVpLdkRmQ196WmFGRGhjdy0zU1drc0U5T1BLdWtR0gF0QVVfeXFMTUhrWU1VQVNBQjdUbnE5LXJJSGR0TGFBWDVtQnpaeWlTRHVCRW1QZHhKR2tYSzN1UV8wSU9NYU5uTzFxTzh0S0JvRmhQaTlFRU9uN3QxMU9BWkt2RGZDX3paYUZEaGN3LTNTV2tzRTlPUEt1a1E?oc=5",
+    "source": "이뉴스투데이",
+    "published": "2026-11-01",
+    "keyword": "AI디지털도구",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "안민석 교육감은 과학·수학교육의 중심에 학생의 질문과 도전이 있어야 한다고 밝혔습니다.",
+    "implication": "학생들의 질문과 도전을 유도하는 활동을 과학·수학 수업에 적극적으로 도입할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "도성훈 인천광역시교육감, 인공지능(AI)에게 생각을 맡기지 않는 교실…외신에 ‘읽걷쓰AI’ 알려",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94dktyVzRVNWdmQWZCWDBQeDU2czhfMTRkTlRjNDZvblJ0YmdhOG5BcHJYLTIxSkZlVHV1bHJkZE9UOFBPekZVQ2pEYjdiQlQ5MlFqb1NpYjZUbkQtYksydXFobw?oc=5",
+    "source": "대한민국교육신문",
+    "published": "2026-11-01",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "도성훈 인천교육감이 AI에 생각을 맡기지 않는 교실을 강조하며 외신에 ‘읽걷쓰AI’ 교육을 소개했습니다.",
+    "implication": "AI는 자료 탐색에 활용하고, 읽고 활동하며 스스로 쓰는 인간 중심 학습을 이끌 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "LG유플러스, 교육부와 청소년 보안 인재 육성",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1MYjgwSnMwQi01aHlhMWlfM1UyZmpFaEVwWWowRlItcUhoVlJ5M1BuUnJZeFZCY1RTaWJEQks0V3BSWFNKNDVTSXJuY1haSHI3Q3VXaXBFNU80SElrOFZZcU9ZM3A?oc=5",
+    "source": "매일일보",
+    "published": "2026-11-01",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "LG",
+     "교육부"
+    ],
+    "summary": "LG유플러스가 교육부와 협력하여 청소년 보안 인재 육성 사업을 추진합니다.",
+    "implication": "학생들에게 미래 유망 직업인 보안 분야의 진로와 관련 교육 기회를 안내할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "AI-Assisted Instruction: Teachers’ Practices and Parents’ Perspectives",
+    "url": "https://www.semanticscholar.org/paper/5caab5aac120bdadddea0716506fd238d1bb9d8c",
+    "source": "semantic_scholar",
+    "published": "2025-06-19",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "개인화 학습",
+     "교사 연수"
+    ],
+    "summary": "필리핀 초등교사와 학부모 대상 질적 연구는 AI 교육의 개인화된 학습 이점과 함께 교사 훈련, 윤리 문제 등 도전 과제를 분석하며, 성공적인 AI 통합을 위한 전문성 개발과 협력의 중요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Marimille H. Bowle, Joy SB. Gaza",
+    "pdf": "https://www.ijisrt.com/assets/upload/files/IJISRT25JUN939.pdf"
+   },
+   {
+    "n": 2,
+    "title": "Inside Mathematical Pedagogies: Exploring Personal Practical Theories",
+    "url": "https://doi.org/10.16986/hunefd.1789031",
+    "source": "openalex",
+    "published": "2026-10-30",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "이 연구는 예비 초등교사의 수학 교육 개인 실천 이론(PPT)을 분석하여 학생 경험, 학과 이론 교육 및 이전 교사의 영향을 주요 형성 원천으로 밝히며, 효과적인 교사 양성 프로그램 개발에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Saniye Nur Ergan",
+    "pdf": "https://dergipark.org.tr/en/download/article-file/5264547"
+   },
+   {
+    "n": 3,
+    "title": "Experiences and Insights Gained from AI-Assisted Programming Instruction in Higher Education",
+    "url": "https://www.semanticscholar.org/paper/4f0195fdbd62489c2bbc03997a7e942f34eb3df4",
+    "source": "semantic_scholar",
+    "published": "2025-08-22",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 AI 보조 프로그래밍 교육의 현황, 핵심 기술, 교수법, 성과 및 과제를 체계적으로 분석하여, AI가 고등 교육의 교수 목표, 내용, 방법, 평가 시스템을 혁신하고 학생-교사-AI 협력의 새로운 교육 생태계를 구축하는 데 기여함을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Hao-Shun Cao",
+    "pdf": "https://doi.org/10.1145/3768421.3768449"
+   },
+   {
+    "n": 4,
+    "title": "Instructional Emotion in the Age of Artificial Intelligence：Value, Alienation Risks, and Pathways for Reconstruction",
+    "url": "https://doi.org/10.30560/ier.v9n5p90",
+    "source": "openalex",
+    "published": "2026-10-30",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 교육 환경에서 감성적 경험과 관계 유지를 위해, 본 논문은 교육적 가치 침해 위험과 그로 인한 소외를 분석하고, 이를 극복할 수 있는 감성 기반의 교수법 및 평가 재구축 프레임워크를 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Guan Xin",
+    "pdf": "https://j.ideasspread.org/ier/article/download/971/2347"
+   },
+   {
+    "n": 5,
+    "title": "Does AI-assisted Instruction Facilitate Listening and Speaking in Junior High EFL Classrooms?",
+    "url": "https://www.semanticscholar.org/paper/9a73021e70f48db13e259db58881c1b0913055d6",
+    "source": "semantic_scholar",
+    "published": "2025-05-24",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 2018년부터 2024년까지의 59개 실증 연구를 분석하여 인공지능이 중학교 EFL 듣기 및 말하기 능력 향상과 학습자 참여를 촉진하지만, 단기 연구 및 교사 훈련 부족 등의 한계점도 있음을 밝힙니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Zihan Wang, Ling-Ling Li",
+    "pdf": "https://www.al-kindipublisher.com/index.php/ijels/article/download/9313/8353"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "[AI리더의 서가] 문제 해결을 위한 AI 에이전트 설계",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216785",
+    "source": "AI Times",
+    "published": "2026-11-02",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "AI 에이전트 설계는 AI가 복합 문제 해결의 자율적 주체로 진화하며 산업 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "구글, '제미나이 노트북'에 무료 교재 수백 권 추가...AI 학습 기능 확대",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216863",
+    "source": "AI Times",
+    "published": "2026-11-01",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Gemini"
+    ],
+    "summary": "구글은 AI 플랫폼 기반 교육 콘텐츠 확대로 AI 학습 문턱을 낮추고, AI 기술 생태계 내 주도권 강화에 나설 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "구글 \"AI 경제 혁명, 똑똑한 모델보다 협력하는 에이전트가 이끈다\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216855",
+    "source": "AI Times",
+    "published": "2026-11-01",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Google",
+     "에이전트"
+    ],
+    "summary": "AI 산업은 개별 모델 역량에서 벗어나 협력하는 에이전트 시스템 구축 및 상호작용 생태계 조성으로 진화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "삼성 사장단 50명 만난 알트먼 \"AI 활용 속도가 기업 경쟁력 결정\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216852",
+    "source": "AI Times",
+    "published": "2026-11-01",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "삼성",
+     "OpenAI"
+    ],
+    "summary": "AI 기술 생태계는 기술 개발보다 산업 전반의 신속한 AI 도입과 활용 능력이 기업 경쟁력을 좌우하는 시대로 전환될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "\"AI 뉴런 2개 조작했더니 인간 증오하는 악당으로\"…내부 구조 해독 활발",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216861",
+    "source": "AI Times",
+    "published": "2026-11-01",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [],
+    "summary": "AI의 미세한 내부 조작이 예측 불가능한 위험을 야기하므로, 내부 구조 해독을 통한 통제력 및 신뢰성 확보가 AI 기술 생태계 발전에 필수적입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "삼성·SK·LG, 엔비디아 AI 활용법 공개한다…반도체부터 로봇까지 - 머니투데이",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85Z3Y3MmFQOTlKbHowM3dhWG15RFN6dHozV1k1ZV85OFlQR3g0NkVqSzZoSzlPczRvdHpYcGVjTDYtVnl6WWR4VnJzSW5qWDRRcWRYS0FPRVUxb3k4V3BDYzRRU2NfTGJJOVlQYmxSMG8zOXRT0gF6QVVfeXFMUFIzcG94TTE4SUFvMksxeG1wZHM2dWIwZUE3eW5RUVRnaXpkS2hLa3loUnpXWmwyRFRnWHFySWtMTkhrbVc2NGxiLWJUd3FHRmdzR0IzbnZBeXFkZTNDb180bUZ1RThKLVdKQl9hVkJNekVhRk0za3EzbkE?oc=5",
+    "source": "구글 뉴스 AI",
+    "published": "2026-11-02",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "삼성",
+     "SK",
+     "LG",
+     "NVIDIA",
+     "GPU·데이터센터",
+     "로봇·휴머노이드"
+    ],
+    "summary": "국내 대기업들의 엔비디아 AI 전방위 활용 공개는 AI 기술이 반도체부터 로봇까지 전 산업의 핵심 경쟁력으로 자리매김하는 생태계 변화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "머스크, 놀란에 맞서 AI판 '오디세이' 공개…평가 엇갈려",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216851",
+    "source": "AI Times",
+    "published": "2026-10-31",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "xAI"
+    ],
+    "summary": "머스크의 AI 오디세이 공개는 AI의 창의적·철학적 활용 가능성을 확장하며 기술 생태계의 미래 비전에 대한 논의를 심화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "오픈AI, 투자 유치 300억달러에서 200억달러로 축소...기업가치도 하향",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216856",
+    "source": "AI Times",
+    "published": "2026-11-01",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "오피니언: 오픈AI의 투자 및 기업가치 하향은 AI 산업의 과열된 투자 심리가 냉각되며, 기술 혁신을 넘어 사업적 지속 가능성 증명이 중요해질 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "MIT, AI 모델끼리 글 없이 소통하는 ‘스웜 텔레파시’ 개발",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216860",
+    "source": "AI Times",
+    "published": "2026-11-01",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 모델 간 비언어적 직접 소통은 분산형 AI 시스템의 협업 능력을 극대화하여 AI 생태계의 복잡하고 자율적인 지능 발전을 이끌 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+    "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+    "source": "OpenAI Blog",
+    "published": "2026-10-27",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Oracle",
+     "ChatGPT"
+    ],
+    "summary": "오피니언: 이번 협력은 AI 모델이 기업 애플리케이션의 핵심 인터페이스로 통합되어, AI 기술의 엔터프라이즈 시장 확장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}
