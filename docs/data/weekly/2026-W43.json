@@ -135,36 +135,36 @@
    {
     "id": "policy",
     "label": "정책·행정",
-    "n": 32,
-    "pct": 46,
-    "delta": -7
+    "n": 37,
+    "pct": 54,
+    "delta": 6
    },
    {
     "id": "ai_digital",
     "label": "AI·디지털교육",
-    "n": 19,
-    "pct": 28,
-    "delta": 11
-   },
-   {
-    "id": "classroom",
-    "label": "수업·교육과정",
-    "n": 9,
-    "pct": 13,
-    "delta": -4
+    "n": 17,
+    "pct": 25,
+    "delta": 8
    },
    {
     "id": "teacher",
     "label": "교사·교권",
+    "n": 7,
+    "pct": 10,
+    "delta": -1
+   },
+   {
+    "id": "classroom",
+    "label": "수업·교육과정",
     "n": 6,
     "pct": 9,
     "delta": 1
    },
    {
-    "id": "student_care",
-    "label": "학생·돌봄·안전",
-    "n": 2,
-    "pct": 3,
+    "id": "higher_ed",
+    "label": "대학·입시·평생",
+    "n": 1,
+    "pct": 1,
     "delta": -2
    },
    {
@@ -172,48 +172,55 @@
     "label": "해외·연구",
     "n": 1,
     "pct": 1,
-    "delta": 1
+    "delta": -4
    }
   ],
   "paper": [
    {
-    "id": "teacher_pd",
-    "label": "교사 전문성",
-    "n": 13,
-    "pct": 37,
-    "delta": 11
-   },
-   {
-    "id": "language",
-    "label": "언어·문해",
-    "n": 5,
-    "pct": 14,
-    "delta": 0
-   },
-   {
     "id": "design_curric",
     "label": "교수설계·교육과정",
-    "n": 4,
-    "pct": 11,
-    "delta": 2
+    "n": 9,
+    "pct": 26,
+    "delta": 9
    },
    {
-    "id": "personalized",
-    "label": "개인화·학습분석",
-    "n": 3,
-    "pct": 9,
-    "delta": 0
-   },
-   {
-    "id": "literacy_ethics",
-    "label": "AI 리터러시·윤리",
-    "n": 3,
-    "pct": 9,
+    "id": "teacher_pd",
+    "label": "교사 전문성",
+    "n": 7,
+    "pct": 20,
     "delta": 0
    },
    {
     "id": "genai_tutor",
     "label": "생성형 AI·튜터",
+    "n": 6,
+    "pct": 17,
+    "delta": 11
+   },
+   {
+    "id": "language",
+    "label": "언어·문해",
+    "n": 4,
+    "pct": 11,
+    "delta": -3
+   },
+   {
+    "id": "inclusion_sel",
+    "label": "포용·정서·웰빙",
+    "n": 3,
+    "pct": 9,
+    "delta": -2
+   },
+   {
+    "id": "personalized",
+    "label": "개인화·학습분석",
+    "n": 2,
+    "pct": 6,
+    "delta": -3
+   },
+   {
+    "id": "literacy_ethics",
+    "label": "AI 리터러시·윤리",
     "n": 2,
     "pct": 6,
     "delta": 0
@@ -221,74 +228,67 @@
    {
     "id": "assessment",
     "label": "평가·피드백",
-    "n": 2,
-    "pct": 6,
-    "delta": -5
+    "n": 1,
+    "pct": 3,
+    "delta": -6
    },
    {
     "id": "stem_ct",
     "label": "컴퓨팅·STEM",
-    "n": 2,
-    "pct": 6,
-    "delta": 0
-   },
-   {
-    "id": "inclusion_sel",
-    "label": "포용·정서·웰빙",
     "n": 1,
     "pct": 3,
-    "delta": -6
+    "delta": -3
    }
   ],
   "tech": [
    {
-    "id": "model",
-    "label": "모델·연구",
-    "n": 17,
-    "pct": 29,
-    "delta": -15
-   },
-   {
-    "id": "product",
-    "label": "제품·서비스",
-    "n": 15,
-    "pct": 25,
+    "id": "industry",
+    "label": "산업·투자·인프라",
+    "n": 16,
+    "pct": 27,
     "delta": 13
    },
    {
-    "id": "industry",
-    "label": "산업·투자·인프라",
+    "id": "model",
+    "label": "모델·연구",
     "n": 12,
     "pct": 20,
-    "delta": 8
+    "delta": -1
    },
    {
     "id": "agent_dev",
     "label": "에이전트·개발도구",
-    "n": 10,
-    "pct": 17,
-    "delta": 3
+    "n": 9,
+    "pct": 15,
+    "delta": -10
    },
    {
     "id": "policy_safety",
     "label": "정책·윤리·안전",
-    "n": 3,
-    "pct": 5,
-    "delta": -6
+    "n": 7,
+    "pct": 12,
+    "delta": -11
+   },
+   {
+    "id": "product",
+    "label": "제품·서비스",
+    "n": 7,
+    "pct": 12,
+    "delta": 5
+   },
+   {
+    "id": "usecase",
+    "label": "활용·사례",
+    "n": 7,
+    "pct": 12,
+    "delta": 5
    },
    {
     "id": "edu_ai",
     "label": "교육 AI",
     "n": 1,
     "pct": 2,
-    "delta": 0
-   },
-   {
-    "id": "usecase",
-    "label": "활용·사례",
-    "n": 1,
-    "pct": 2,
-    "delta": -3
+    "delta": -2
    }
   ]
  },
@@ -364,21 +364,21 @@
    {
     "d": "2026-10-19",
     "n": 1,
-    "t": "Generative AI as a cognitive partner: personalised GPTs and differentiated learning in undergraduate teacher education",
+    "t": "인지적 파트너로서의 생성형 AI: 학부 교사 교육의 개인화된 GPT와 차별화된 학습",
     "url": "https://doi.org/10.1007/s11423-026-10746-4",
     "src": "openalex"
    },
    {
     "d": "2026-10-20",
     "n": 3,
-    "t": "Beyond AI Tutors: A Human-Centred Framework for Goal-Driven Learning Agents in Education",
+    "t": "AI 튜터를 넘어: 교육에서 목표 지향적 학습 에이전트를 위한 인간 중심 프레임워크",
     "url": "https://doi.org/10.48175/ijarsct-38910",
     "src": "openalex"
    },
    {
     "d": "2026-10-23",
     "n": 3,
-    "t": "Mapping research trends in artificial intelligence for K–12 teaching and learning: a scientometric analysis",
+    "t": "K-12 교육의 AI 연구 동향 매핑: 계량서지학적 분석",
     "url": "https://doi.org/10.1007/s44217-026-02316-w",
     "src": "openalex"
    }
@@ -407,5 +407,61 @@
    }
   ]
  },
- "generated_at": "2026-11-02T13:16:18+09:00"
+ "generated_at": "2026-11-02T13:36:38+09:00",
+ "synthesis": {
+  "headline": "AI 교육 확산과 교육 재정 개편 논의가 활발한 한 주",
+  "threads": [
+   {
+    "title": "AI 교육 정책 확대",
+    "body": "이번 주 여러 교육청에서 AI 교육 정책을 강화하고 관련 인프라를 확충하려는 움직임이 두드러졌습니다. 특히 충남교육청은 AI·로봇 직업교육을 고삐를 죄고, 대전교육청은 AI 교육 성과를 강조하며 미래 교육의 핵심 동력으로 AI를 주목했습니다. 인천시교육청은 '인간 중심 AI 교육'을 외신에 알리며 글로벌 확산을 모색했습니다.",
+    "refs": [
+     "2026-10-19:edu-3",
+     "2026-10-19:edu-9",
+     "2026-10-21:edu-8",
+     "2026-10-24:edu-4",
+     "2026-10-24:edu-10",
+     "2026-10-25:edu-6"
+    ]
+   },
+   {
+    "title": "AI 에이전트의 진화",
+    "body": "AI 에이전트 기술이 단순한 도구를 넘어 자율적 의사결정 및 업무 수행 주체로 진화하고 있습니다. 오픈AI의 GPT-라이브는 의사 결정 API를 연결하여 실시간 에이전트 시대를 예고했으며, ChatGPT 에이전트에게 업무를 위임하는 사례가 늘고 있습니다. 학술 논문을 읽고 코드를 수정하는 자가 진화 에이전트 '스칼라이볼브'의 등장은 AI 연구 개발의 자율성을 극대화할 잠재력을 보여줍니다.",
+    "refs": [
+     "2026-10-20:tech-2",
+     "2026-10-22:edu-4",
+     "2026-10-22:tech-6",
+     "2026-10-23:tech-2",
+     "2026-10-24:tech-10",
+     "2026-10-25:tech-3"
+    ]
+   },
+   {
+    "title": "교육 재정 개편 논란",
+    "body": "교육 재정 개편에 대한 교육감들의 우려와 논의가 활발했습니다. 경남교육감은 교육 현장을 외면한 일방적 재정 개편이 큰 혼란을 초래할 것이라고 주장했으며, 대전·세종·충남 교육감들은 AI 교육은 키우고 교부금은 지켜야 한다고 강조했습니다. 교육감협의회는 교원 인건비만으로 충분한지 의문을 제기하며 교육 재정 현실 직시를 촉구했습니다.",
+    "refs": [
+     "2026-10-21:edu-8",
+     "2026-10-21:edu-9",
+     "2026-10-22:edu-5",
+     "2026-10-22:edu-6",
+     "2026-10-23:edu-5",
+     "2026-10-25:edu-5"
+    ]
+   },
+   {
+    "title": "AI 시대 교사의 역할",
+    "body": "AI 시대에 교사의 역할 변화와 역량 강화에 대한 연구와 논의가 이어졌습니다. 논문들은 AI 시대 교사의 태도, 적응력, 전문적 헌신이 중요하며, AI가 교사를 보완하는 인간 중심 교육 방식이 선호된다고 분석했습니다. OECD는 교사 중심 정책 전환을 촉구하며 교육 혁신에서 교사의 중요성을 강조했습니다.",
+    "refs": [
+     "2026-10-19:paper-3",
+     "2026-10-20:paper-2",
+     "2026-10-21:edu-7",
+     "2026-10-22:paper-1",
+     "2026-10-23:paper-1",
+     "2026-10-25:paper-2"
+    ]
+   }
+  ],
+  "classroom": "AI 기술이 빠르게 발전하는 만큼, 우리 교실에서 AI를 어떻게 효과적으로 활용하고 학생들의 비판적 사고력을 키울지 함께 고민해 봅시다.",
+  "model": "gemini-2.5-flash",
+  "items_hash": "b95698dc0dbf"
+ }
 }
