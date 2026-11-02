@@ -12,6 +12,11 @@ on:
     - cron: '13 2 * * *'   # 11:13 KST 2차 시도
     - cron: '49 2 * * *'   # 11:49 KST 3차 시도
   workflow_dispatch:        # 수동 실행 허용
+    inputs:
+      force:
+        description: "오늘 아카이브가 완성돼 있어도 다시 생성 (레코드 보호 가드는 그대로 동작)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -54,7 +59,10 @@ jobs:
           # 폴백 섹션은 건수 라벨이 `10건 (7/30)` 형태라 괄호로 판별한다.
           FALLBACK=no
           grep -q 'col-count">[^<]*(' "$ARCHIVE" 2>/dev/null && FALLBACK=yes
-          if [ -f "$ARCHIVE" ] && grep -q 'class="entry"' "$ARCHIVE" && ! grep -q 'col-count">0건' "$ARCHIVE" && [ "$PCT" -ge 60 ] && [ "$FALLBACK" = "no" ]; then
+          if [ "${{ inputs.force }}" = "true" ]; then
+            echo "skip=false" >> $GITHUB_OUTPUT
+            echo "[FORCE] ${TODAY} 수동 강제 재생성 (기존 AI 요약 ${COV:-없음} = ${PCT}%)"
+          elif [ -f "$ARCHIVE" ] && grep -q 'class="entry"' "$ARCHIVE" && ! grep -q 'col-count">0건' "$ARCHIVE" && [ "$PCT" -ge 60 ] && [ "$FALLBACK" = "no" ]; then
             echo "skip=true" >> $GITHUB_OUTPUT
             echo "[SKIP] ${TODAY} 아카이브 이미 완료 (AI 요약 ${COV:-?} = ${PCT}%) — 이후 단계 건너뜀"
           else

@@ -13,6 +13,7 @@ from __future__ import annotations
 import hashlib
 import json
 import os
+import re
 import sys
 
 import requests
@@ -88,8 +89,11 @@ def synthesize(record: dict, api_key: str | None = None, model: str | None = Non
         "contents": [{"role": "user", "parts": [{"text": PROMPT.format(items=items_txt)}]}],
         "generationConfig": {
             "temperature": 0.4,
-            "maxOutputTokens": 1200,
+            # 2.5 계열은 '생각' 토큰이 출력 한도를 잠식한다 — 한도를 넉넉히 두고 생각은 끈다
+            # (2026-11-02 첫 실행에서 1200 한도로 JSON이 잘려 파싱 실패).
+            "maxOutputTokens": 4096,
             "responseMimeType": "application/json",
+            "thinkingConfig": {"thinkingBudget": 0},
         },
     }
     url = GEMINI_ENDPOINT.format(model=model)
@@ -101,11 +105,16 @@ def synthesize(record: dict, api_key: str | None = None, model: str | None = Non
     if resp.status_code != 200:
         print(f"[SYN] Gemini HTTP {resp.status_code}: {resp.text[:200]}", file=sys.stderr)
         return None
+    text = ""
     try:
-        text = resp.json()["candidates"][0]["content"]["parts"][0]["text"]
-        data = json.loads(text)
+        payload = resp.json()
+        cand = payload["candidates"][0]
+        text = "".join(p.get("text", "") for p in cand["content"]["parts"])
+        data = _parse_json_loose(text)
+        if data is None:
+            raise ValueError(f"finishReason={cand.get('finishReason')} len={len(text)}")
     except (KeyError, IndexError, ValueError, TypeError) as exc:
-        print(f"[SYN] 응답 파싱 실패: {exc}", file=sys.stderr)
+        print(f"[SYN] 응답 파싱 실패: {exc} | head={text[:160]!r}", file=sys.stderr)
         return None
 
     out = _validate(data, valid)
@@ -116,6 +125,28 @@ def synthesize(record: dict, api_key: str | None = None, model: str | None = Non
     out["items_hash"] = h
     print(f"[SYN] {record['date']}: 종합 생성 ({len(out['threads'])}개 흐름, {model})", file=sys.stderr)
     return out
+
+
+def _parse_json_loose(text: str) -> dict | None:
+    """코드 펜스·앞뒤 잡음·후행 쉼표가 섞여도 첫 '{'부터 마지막 '}'까지를 JSON으로 읽어 본다."""
+    if not text:
+        return None
+    t = text.strip()
+    if t.startswith("```"):
+        t = t.strip("`")
+        if t.lower().startswith("json"):
+            t = t[4:]
+    start, end = t.find("{"), t.rfind("}")
+    if start == -1 or end <= start:
+        return None
+    t = t[start:end + 1]
+    for candidate in (t, re.sub(r",(\s*[}\]])", r"\1", t)):
+        try:
+            data = json.loads(candidate)
+            return data if isinstance(data, dict) else None
+        except json.JSONDecodeError:
+            continue
+    return None
 
 
 def _validate(data: dict, valid: set[str]) -> dict | None:
