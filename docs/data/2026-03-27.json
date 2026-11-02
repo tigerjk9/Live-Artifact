@@ -13,9 +13,10 @@
     "topic": "policy",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "숙련된 시니어 교사의 '한 끗'이 교육 현장에서 결정적인 차이를 만들어낸다는 칼럼입니다.",
+    "implication": "교사들은 동료 교사의 경험과 노하우를 배우고 자신의 수업에 적용하여 전문성을 향상시킬 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 2,
@@ -27,9 +28,10 @@
     "topic": "higher_ed",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "불확실성의 시대에 충북 기업의 업무 연속성과 직업 교육 혁신에 대한 칼럼입니다.",
+    "implication": "교사들은 변화하는 사회와 산업 요구에 맞춰 학생들에게 필요한 직업 교육 역량을 길러줄 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 3,
@@ -41,9 +43,10 @@
     "topic": "policy",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "성공을 이끄는 지능은 따로 있다는 내용의 칼럼입니다.",
+    "implication": "교사들은 학생 개개인의 강점과 잠재력을 파악하고, 다양한 지능을 개발할 수 있도록 지원할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 4,
@@ -69,9 +72,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "과잉 사고가 문제를 만든다는 뇌과학적 관점에서 '생각 과부하'와 해결 전략에 대한 내용입니다.",
+    "implication": "교사들은 학생들이 학습 과정에서 인지적 과부하를 겪지 않도록 적절한 학습 전략과 휴식 시간을 안내할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 6,
@@ -83,9 +87,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "행복을 완벽히 제어할 수 있다면 어떨지에 대한 뇌과학적 관점의 내용입니다.",
+    "implication": "교사들은 학생들의 정서적 안정과 행복감을 증진시키기 위한 교육 환경을 조성하고, 긍정적인 사고방식을 길러줄 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 7,
@@ -97,10 +102,11 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false,
-    "dup_of": "2026-03-26"
+    "summary": "높아진 K-컬처의 위상과 함께 뇌과학 자기계발서 '조종당하는 인간'이 7개국 출판사와 판권 계약 및 제안을 진행 중이라는 소식입니다.",
+    "implication": "교사들은 뇌과학적 이해를 바탕으로 학생들의 학습 동기를 유발하고 자기 주도적 학습 능력을 향상시키는 데 도움을 줄 수 있습니다.",
+    "ai": true,
+    "dup_of": "2026-03-26",
+    "summary_src": "ai-backfill"
    },
    {
     "n": 8,
@@ -112,9 +118,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "30대와 40대의 커리어 위기가 뇌과학적으로 축복인 이유에 대한 칼럼입니다.",
+    "implication": "교사들은 학생들에게 변화와 도전을 긍정적으로 받아들이고, 지속적인 학습과 성장을 통해 미래를 준비하도록 격려할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 9,
@@ -126,9 +133,10 @@
     "topic": "ai_digital",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "송경서 아카데미가 이몰로지와 협업하여 AI 뇌과학으로 '골프 입스'를 관리한다는 소식입니다.",
+    "implication": "교사들은 AI와 뇌과학 기술이 스포츠뿐만 아니라 다양한 분야에서 활용될 수 있음을 학생들에게 소개하고, 융합적 사고를 장려할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 10,
@@ -142,9 +150,10 @@
     "entities": [
      "인천시교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "인천시교육청이 '인천 AI교육 공동선언'을 발표했다는 소식입니다.",
+    "implication": "교사들은 AI 교육의 중요성을 인식하고, 학생들에게 AI 리터러시와 윤리적 사고를 함양할 수 있는 교육 기회를 제공할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    }
   ],
   "paper": [
@@ -369,5 +378,12 @@
  "fallback": {},
  "notes": {
   "tech": "AI 기술이 음성 생성, 교육, 오픈소스, 물리적 구현 등 다방면으로 확장되고 있으며, API를 통해 연결되어 더욱 강력한 생태계를 구축하며 미래를 향해 나아가고 있다."
+ },
+ "enrich": {
+  "hash": "43ff89718e02",
+  "model": "gemini-2.5-flash",
+  "topics": 0,
+  "title_ko": 0,
+  "summaries": 9
  }
 }

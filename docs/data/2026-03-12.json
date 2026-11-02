@@ -15,9 +15,10 @@
     "entities": [
      "생성형 AI"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "생성형 AI 기술의 발전과 함께 전 세계 교육계가 이에 어떻게 대응하고 있는지에 대한 시론입니다.",
+    "implication": "교사는 생성형 AI의 교육적 활용 방안과 윤리적 고려사항에 대해 지속적으로 탐색하고 수업에 적용할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 2,
@@ -29,9 +30,10 @@
     "topic": "student_care",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "시니어 디지털 교육의 성공을 위해 심리적 안전망 구축이 중요하다는 사경희 이사장의 칼럼입니다.",
+    "implication": "교사는 학생들의 디지털 학습 환경 적응을 돕기 위해 심리적 안정감을 제공하는 방안을 고민하고 적용할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 3,
@@ -43,9 +45,10 @@
     "topic": "higher_ed",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "수면 부족이 치매와 같은 건강 문제로 이어질 수 있음을 경고하며, 이에 대한 사회적 관심과 해결책 마련이 시급하다는 전문가 칼럼입니다.",
+    "implication": "교사는 학생들의 건강한 수면 습관의 중요성을 교육하고, 학습 환경에서 학생들의 신체적, 정신적 건강을 지원하는 방안을 모색할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 4,
@@ -57,9 +60,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "뇌를 깨우는 감각의 중요성을 다루며, '늙지 않는 뇌를 만드는 감각의 뇌과학'이라는 신간 도서에 대한 소식입니다.",
+    "implication": "교사는 감각을 활용한 학습 활동을 설계하여 학생들의 뇌 발달과 인지 능력 향상을 도모할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 5,
@@ -74,9 +78,10 @@
      "경기도교육청",
      "교육감 선거"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "박효진 경기교육감 예비후보가 AI를 주도하는 학생 역량 강화를 주요 공약으로 내세웠다는 소식입니다.",
+    "implication": "교사는 AI 시대에 필요한 학생 역량을 함양하기 위한 교육과정 및 교수법 개발에 관심을 기울일 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 6,
@@ -91,9 +96,10 @@
      "제주교육청",
      "교육감 선거"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "제주교육감 후보 고의숙이 노트북만으로는 AI 교육이 부족하며, AI 정책 손질을 예고했다는 소식입니다.",
+    "implication": "교사는 AI 교육이 단순한 기기 보급을 넘어선 종합적인 교육 환경과 콘텐츠의 중요성을 인지하고 수업에 반영할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 7,
@@ -107,9 +113,10 @@
     "entities": [
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기도교육청이 AI 중점학교 200교를 운영할 계획이라는 소식입니다.",
+    "implication": "교사는 AI 중점학교의 운영 사례를 참고하여 자신의 학교나 학급에 AI 교육을 도입하는 방안을 탐색할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 8,
@@ -124,9 +131,10 @@
      "울산시교육청",
      "교육감 선거"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "김주홍 울산교육감 후보가 초등학교 4학년부터 고등학교 2학년까지 학기별 학력검사를 실시하겠다는 첫 공약을 발표했다는 소식입니다.",
+    "implication": "교사는 학력 검사 결과가 학생들의 개별 학습 지도에 어떻게 활용될 수 있을지 고민하고, 맞춤형 교육 방안을 준비할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 9,
@@ -138,9 +146,10 @@
     "topic": "classroom",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "프로젝트 기반 학습 모델을 통해 대학 교육을 혁신하려는 시도에 대한 소식입니다.",
+    "implication": "교사는 프로젝트 기반 학습의 장점을 이해하고, 학생들의 자기 주도적 학습 능력과 문제 해결 능력을 향상시키기 위해 수업에 적용할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 10,
@@ -154,10 +163,11 @@
     "entities": [
      "교육부"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false,
-    "dup_of": "2026-03-11"
+    "summary": "교육부가 평생학습도시의 질적 혁신을 추진하고 지역 특화 모델을 확대할 계획이라는 소식입니다.",
+    "implication": "교사는 지역 사회의 평생학습 프로그램과 연계하여 학생들에게 다양한 학습 기회를 제공하는 방안을 모색할 수 있습니다.",
+    "ai": true,
+    "dup_of": "2026-03-11",
+    "summary_src": "ai-backfill"
    }
   ],
   "paper": [
@@ -413,5 +423,12 @@
  "fallback": {},
  "notes": {
   "tech": "AI 에이전트 기술 개발 경쟁 심화와 더불어 다양한 분야에 AI 적용이 확대되는 가운데, 윤리적 문제와 기술 격차 해소 노력도 병행되며 AI 생태계가 빠르게 확장되고 있다!"
+ },
+ "enrich": {
+  "hash": "200ff2859bce",
+  "model": "gemini-2.5-flash",
+  "topics": 0,
+  "title_ko": 0,
+  "summaries": 10
  }
 }

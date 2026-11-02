@@ -15,9 +15,10 @@
     "entities": [
      "인천시교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "인천시교육청이 신규 및 저경력 영양교사들의 역량 강화를 위해 맞춤형 직무연수를 실시한다는 소식입니다.",
+    "implication": "교사들은 학교 현장에서 필요한 실질적인 역량을 강화하고 학생들에게 더 나은 교육을 제공할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 2,
@@ -31,10 +32,11 @@
     "entities": [
      "광주시교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false,
-    "dup_of": "2026-04-16"
+    "summary": "전남과 광주 교육행정통합을 위한 교육정책과제 실무협의가 본격적으로 시작되었다는 소식입니다.",
+    "implication": "교사들은 지역 교육 정책 변화에 관심을 가지고 학교 운영 및 교육 과정에 미칠 영향을 미리 파악할 수 있습니다.",
+    "ai": true,
+    "dup_of": "2026-04-16",
+    "summary_src": "ai-backfill"
    },
    {
     "n": 3,
@@ -49,9 +51,10 @@
      "경기도교육청",
      "AI 리터러시"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기도교육청평생학습관에서 AI 리터러시 강사반을 개강하여 기술을 넘어 인간을 이해하는 교육을 지향한다는 소식입니다.",
+    "implication": "교사들은 AI 리터러시 교육을 통해 학생들에게 기술의 윤리적 활용과 인간 중심적 사고를 가르칠 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 4,
@@ -65,9 +68,10 @@
     "entities": [
      "교육부"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "교육부가 성장엔진과 연계하여 지역 인재를 양성하는 방안을 발표하고 거점국립대에 집중 투자한다는 소식입니다.",
+    "implication": "교사들은 지역 인재 양성 정책에 발맞춰 학생들의 진로 교육 및 지역 사회 연계 활동을 강화할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 5,
@@ -81,9 +85,10 @@
     "entities": [
      "인천시교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "인천광역시교육청이 사이버진로교육원을 활용하여 디지털 기술과 현장 전문가의 만남을 통해 교사 역량 강화에 총력을 기울인다는 소식입니다.",
+    "implication": "교사들은 디지털 플랫폼을 활용한 진로 교육 역량을 강화하고 학생들에게 다양한 진로 탐색 기회를 제공할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 6,
@@ -97,9 +102,10 @@
     "entities": [
      "생성형 AI"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "전북디자인센터에서 생성형 AI 디자인 실무교육을 운영한다는 소식입니다.",
+    "implication": "교사들은 생성형 AI 기술을 활용한 디자인 교육 방안을 탐색하고 학생들의 창의적 문제 해결 능력을 함양할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 7,
@@ -113,9 +119,10 @@
     "entities": [
      "수능·대입"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "학령인구 급감과 AI 혁명이라는 시대적 변화 속에서 구 대입제도의 함의에 대한 논의가 있다는 소식입니다.",
+    "implication": "교사들은 변화하는 교육 환경과 대입 제도에 대한 이해를 바탕으로 학생들의 진로 및 학습 지도를 효과적으로 수행할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 8,
@@ -129,9 +136,10 @@
     "entities": [
      "광주시교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "전남과 광주 교육 대격변을 주도할 초대 교육감 후보가 8명으로 북적이고 있다는 소식입니다.",
+    "implication": "교사들은 교육감 후보들의 공약을 면밀히 살펴보고 교육 정책 방향에 대한 이해를 높일 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 9,
@@ -145,9 +153,10 @@
     "entities": [
      "전남교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "전남교육청이 AI 채점 시스템을 도입하여 서·논술형 평가를 전면 확산한다는 소식입니다.",
+    "implication": "교사들은 AI 채점 시스템의 도입에 맞춰 서·논술형 평가 문항 개발 및 학생 피드백 방식을 개선할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 10,
@@ -163,9 +172,10 @@
      "Gemini",
      "에이전트"
     ],
-    "summary": "",
+    "summary": "코빗이 클로드와 제미나이를 품은 'AI 에이전트' 조직으로 탈바꿈하며 사내 데이터 자동 동기화로 '조직의 맥락'을 이해하는 AI 업무 환경을 구현한다는 소식입니다.",
     "implication": "",
-    "ai": false
+    "ai": true,
+    "summary_src": "ai-backfill"
    }
   ],
   "paper": [
@@ -426,5 +436,12 @@
   ]
  },
  "fallback": {},
- "notes": {}
+ "notes": {},
+ "enrich": {
+  "hash": "7b82f6d35679",
+  "model": "gemini-2.5-flash",
+  "topics": 0,
+  "title_ko": 0,
+  "summaries": 10
+ }
 }

@@ -13,9 +13,10 @@
     "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "AI 시대에 '가족봉사단'의 역할과 중요성에 대한 손기서 칼럼입니다.",
+    "implication": "교실에서 학생들에게 공동체 의식과 봉사의 가치를 가르치고 가족 참여를 독려할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 2,
@@ -27,9 +28,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "뇌과학적 관점에서 행복을 완벽하게 제어할 수 있다면 어떤 의미일지에 대한 내용입니다.",
+    "implication": "학생들의 정서적 안정과 행복감을 증진시키기 위한 교육적 접근 방식을 고민해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 3,
@@ -43,9 +45,10 @@
     "entities": [
      "국회"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "국가교육위원회에서 국가교육과정 수립 및 변경 시 국민 참여 문턱을 낮춰 20만 명 동의 시 심의에 착수한다는 소식입니다.",
+    "implication": "교사로서 교육과정 개편에 대한 의견을 적극적으로 개진하고 학생들의 목소리를 대변할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 4,
@@ -60,9 +63,10 @@
      "세종시교육청",
      "교육감 선거"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "임전수 세종교육감 예비후보가 교육공동체 회복과 기초학력 강화를 통해 미래교육을 실현하겠다는 포부를 밝혔습니다.",
+    "implication": "교실에서 교육공동체 의식을 함양하고 학생들의 기초학력 증진을 위한 다양한 방안을 모색할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 5,
@@ -77,9 +81,10 @@
      "교육감 선거",
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "이요림 수원특례시장 예비후보가 임태희 경기도교육감과 교육정책 간담회를 갖고 수원형 미래교육 방향을 논의했다는 소식입니다.",
+    "implication": "지역 교육 정책의 변화에 관심을 가지고 학교 현장에 적용될 수 있는 부분을 미리 파악할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 6,
@@ -93,9 +98,10 @@
     "entities": [
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기도교육청미래과학교육원에서 '2026 중등 수학교사 직무연수(1·2기)'를 운영한다는 소식입니다.",
+    "implication": "수학교사로서 전문성 신장을 위한 직무연수에 참여하여 새로운 교수법과 교육 내용을 습득할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 7,
@@ -110,9 +116,10 @@
      "세종시교육청",
      "교육감 선거"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "원성수 세종교육감 예비후보가 '가능성과 재능을 키우는 교육'을 강조하는 인터뷰 내용입니다.",
+    "implication": "학생 개개인의 잠재력과 재능을 발견하고 발전시킬 수 있는 맞춤형 교육 환경을 조성할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 8,
@@ -127,9 +134,10 @@
      "제주교육청",
      "교육감 선거"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "CCBS 탐사보도 선거특집으로 제주교육감 송문석 예비후보에 대한 내용입니다.",
+    "implication": "지역 교육감 후보들의 공약을 파악하여 학교 운영 및 교육 정책 방향에 대한 이해를 높일 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 9,
@@ -143,9 +151,10 @@
     "entities": [
      "교육부"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "지브란 부통령과 교육부 장관이 디지털 전사 LPDP 150 졸업생을 졸업시켰다는 소식입니다.",
+    "implication": "디지털 역량을 갖춘 인재 양성의 중요성을 인식하고 학생들에게 디지털 교육 기회를 제공할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 10,
@@ -159,9 +168,10 @@
     "entities": [
      "교육감 선거"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "강삼영 교육감 예비후보가 '답보다 질문'을 강조하며 교육 혁신에 대한 새로운 접근을 강조했습니다.",
+    "implication": "교실에서 학생들의 질문을 장려하고 비판적 사고력을 키울 수 있는 탐구 중심의 수업을 설계할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    }
   ],
   "paper": [
@@ -251,5 +261,12 @@
   "tech": []
  },
  "fallback": {},
- "notes": {}
+ "notes": {},
+ "enrich": {
+  "hash": "817ca6dbdb48",
+  "model": "gemini-2.5-flash",
+  "topics": 0,
+  "title_ko": 0,
+  "summaries": 10
+ }
 }

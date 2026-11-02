@@ -13,9 +13,10 @@
     "topic": "policy",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "민주진보 교육감 단일화 과정에서 심판 역할을 해야 할 주체가 선수로 뛴다면 공정성을 담보할 수 있는지에 대한 기고입니다.",
+    "implication": "교사는 교육 정책 결정 과정의 투명성과 공정성에 대해 비판적으로 사고하고 목소리를 낼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 2,
@@ -29,9 +30,10 @@
     "entities": [
      "문해력"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "문해력 향상에 대한 고려가 부족한 교육개혁은 진정한 개혁으로 보기 어렵다는 이진서 칼럼입니다.",
+    "implication": "교사는 모든 교과에서 학생들의 문해력 향상을 위한 교수 전략을 고민하고 적용할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 3,
@@ -43,9 +45,10 @@
     "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "전북대학교의 AI 전환 노력이 잘 진행되었지만, 이제 시작 단계라는 사설입니다.",
+    "implication": "교사는 학교의 AI 전환 노력에 관심을 가지고, 교육 현장에서 AI 기술을 효과적으로 활용할 방안을 모색할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 4,
@@ -59,9 +62,10 @@
     "entities": [
      "xAI"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "일론 머스크의 AI 챗봇 '그록(Grok)'과 관련 기술인 'Groq'에 대한 천자칼럼입니다.",
+    "implication": "교사는 새로운 AI 기술의 등장과 발전에 관심을 가지고, 교육적 활용 가능성을 탐색할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 5,
@@ -87,9 +91,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "5년간 마비 상태였던 환자가 뇌칩을 통해 다시 걸을 수 있게 되었다는 중국 뇌과학 임상 성과 소식입니다.",
+    "implication": "교사는 첨단 과학 기술의 발전이 인간의 삶에 미치는 영향에 대해 학생들과 토론하고 미래 사회의 변화를 예측해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 7,
@@ -101,9 +106,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "마비 환자가 생각만으로 움직일 수 있게 되는 등 중국의 뇌과학 기술 발전이 빠르게 진행되고 있다는 소식입니다.",
+    "implication": "교사는 과학 기술의 윤리적 측면과 사회적 영향에 대해 학생들과 함께 고민하고 비판적 사고력을 함양할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 8,
@@ -115,9 +121,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "수면제 없이 잠드는 방법에 대해 뇌과학적 접근으로 답을 제시했다는 소식입니다.",
+    "implication": "교사는 학생들의 건강한 생활 습관 형성을 위해 뇌과학 기반의 수면 교육 자료를 활용하거나 관련 정보를 제공할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 9,
@@ -131,9 +138,10 @@
     "entities": [
      "IB"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "단재교육연수원과 단재고를 통해 연수 혁신과 IB 교육을 강화하여 미래 교육을 추진한다는 소식입니다.",
+    "implication": "교사는 교육청의 미래 교육 정책 방향에 관심을 가지고, 자신의 전문성 개발을 위한 연수 기회를 적극적으로 활용할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 10,
@@ -145,10 +153,11 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false,
-    "dup_of": "2026-03-20"
+    "summary": "파주시가 2026년부터 미래기술교육학교를 운영할 계획이라는 소식입니다.",
+    "implication": "교사는 지역 사회의 미래 교육 정책과 연계하여 학생들에게 필요한 미래 기술 교육 기회를 제공할 방안을 모색할 수 있습니다.",
+    "ai": true,
+    "dup_of": "2026-03-20",
+    "summary_src": "ai-backfill"
    }
   ],
   "paper": [
@@ -420,5 +429,12 @@
  "fallback": {},
  "notes": {
   "tech": "AI 기술이 다양한 분야와의 협력을 통해 더욱 강력해지고 있으며, 오픈소스 공개와 기업용 서비스 확장을 통해 일상생활과 산업 전반에 빠르게 통합되는 추세"
+ },
+ "enrich": {
+  "hash": "0184dcec9eab",
+  "model": "gemini-2.5-flash",
+  "topics": 0,
+  "title_ko": 0,
+  "summaries": 9
  }
 }

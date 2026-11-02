@@ -32,9 +32,10 @@
      "인천시교육청",
      "마음건강"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "인천교육청이 교육 현장의 '마음건강'에 집중하며 사회정서학습(SEL) 실천력을 높인다는 소식입니다.",
+    "implication": "학생들의 정서적 안정과 사회성 발달을 위해 SEL 활동을 수업에 적극적으로 통합하여 지도할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 3,
@@ -49,9 +50,10 @@
      "교원단체",
      "교육부"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "교사노조연맹이 교육부 앞에서 '계룡 사건은 제도가 만든 참사'라고 주장하며 교권 보호를 촉구했다는 소식입니다.",
+    "implication": "교권 보호를 위한 제도 개선의 필요성을 인식하고, 학교 내에서 교사로서의 권리와 책임을 명확히 이해하고 실천할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 4,
@@ -63,9 +65,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "김진균 후보가 제천·단양 지역의 교육정책을 발표했다는 소식입니다.",
+    "implication": "지역 교육 정책의 변화에 관심을 가지고, 학교 운영 및 교육 과정에 미칠 영향을 미리 파악하여 대비할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 5,
@@ -77,9 +80,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "김산 후보와 김대중 후보가 교육정책 공조를 다짐했다는 소식입니다.",
+    "implication": "교육 정책의 방향성에 대한 다양한 의견을 이해하고, 학교 현장의 목소리를 정책 결정 과정에 전달하는 데 관심을 가질 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 6,
@@ -91,9 +95,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "김산 후보가 '야합 정치 구태'를 직격하며 교육정책으로 결선 승부수를 띄웠다는 소식입니다.",
+    "implication": "교육 정책이 정치적 논쟁의 중심이 될 수 있음을 인지하고, 교육 본연의 가치를 지키기 위한 노력을 기울일 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 7,
@@ -107,9 +112,10 @@
     "entities": [
      "에이전트"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "K-AI 시장이 6.4조 원을 돌파했으며, 기업의 78%가 AI 에이전트 도입에 속도를 내고 있다는 소식입니다.",
+    "implication": "AI 에이전트 기술의 발전 동향을 이해하고, 교육 현장에서 AI를 활용한 효율적인 업무 처리 방안을 모색할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 8,
@@ -124,9 +130,10 @@
      "ChatGPT",
      "생성형 AI"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "충남인재개발원이 챗GPT 교육을 통해 '일잘러 공무원'을 양성하며 생성형 AI 실무 활용을 본격화한다는 소식입니다.",
+    "implication": "생성형 AI 도구의 실무 활용 사례를 참고하여, 교실 수업 준비 및 행정 업무 효율화에 AI를 적용하는 방법을 탐색할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 9,
@@ -141,9 +148,10 @@
      "부산시교육청",
      "로봇·휴머노이드"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "부산시교육청이 로봇 체험 교실을 운영하며 로봇 강아지의 영역 표시를 관찰하는 활동을 진행했다는 소식입니다.",
+    "implication": "로봇 교육 프로그램을 수업에 도입하여 학생들의 컴퓨팅 사고력과 문제 해결 능력을 함양하는 기회를 제공할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 10,
@@ -157,9 +165,10 @@
     "entities": [
      "전북교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "유정기 전북교육감 권한대행이 '흔들림 없는 교육만이 답이며 단 한 명의 학생도 포기하지 않겠다'고 강조했다는 소식입니다.",
+    "implication": "모든 학생에게 공평한 교육 기회를 제공하고, 개별 학생의 성장과 발달을 지원하기 위한 교육적 노력을 지속할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    }
   ],
   "paper": [
@@ -414,5 +423,12 @@
   ]
  },
  "fallback": {},
- "notes": {}
+ "notes": {},
+ "enrich": {
+  "hash": "9e7dbc5f5963",
+  "model": "gemini-2.5-flash",
+  "topics": 0,
+  "title_ko": 0,
+  "summaries": 9
+ }
 }

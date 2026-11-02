@@ -27,9 +27,10 @@
     "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "AI 교육을 통해 윤리 의식을 갖춘 디지털 시민을 양성해야 한다는 사설입니다.",
+    "implication": "교실에서 AI 활용 교육 시 윤리적 사용과 책임감 있는 태도를 함께 지도할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 3,
@@ -41,9 +42,10 @@
     "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "2026년 AI가 필수 과목으로 의무화되는 시대에, 과제에 AI를 사용했을 때 적발되면 어떻게 되는지에 대한 칼럼입니다.",
+    "implication": "학생들이 AI를 올바르게 활용하고 학업 윤리를 지킬 수 있도록 명확한 가이드라인을 제시하고 교육할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 4,
@@ -55,9 +57,10 @@
     "topic": "policy",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "교육이 정권의 전리품처럼 다루어지는 현상에 대한 비판적인 칼럼입니다.",
+    "implication": "교육 정책의 변화 속에서도 학생 중심의 교육 가치를 지키고 교실의 자율성을 확보하기 위한 노력을 지속할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 5,
@@ -69,9 +72,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "GIST가 '몸-뇌 연결 비밀'을 규명할 IBS 연구단을 출범시켜 광주를 뇌과학 연구 거점으로 육성한다는 소식입니다.",
+    "implication": "뇌과학 연구의 발전이 미래 교육 방식이나 학습 이론에 어떤 영향을 미칠지 관심을 가지고 탐색해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 6,
@@ -83,9 +87,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "뇌과학 분야의 흥미로운 내용을 다루는 도서 '이토록 뜻밖의 뇌과학'에 대한 소식입니다.",
+    "implication": "뇌과학 관련 도서를 통해 학생들의 학습 방식이나 인지 발달에 대한 이해를 높이고 수업에 적용할 아이디어를 얻을 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 7,
@@ -99,9 +104,10 @@
     "entities": [
      "서울시교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "서울시교육청이 'AI·에듀테크 가이드라인'을 일선 학교에 배부하여 인간 중심 교육의 안착을 이끈다는 소식입니다.",
+    "implication": "가이드라인을 참고하여 AI와 에듀테크를 교실에 효과적으로 도입하고, 학생들의 창의적 학습을 지원할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 8,
@@ -115,10 +121,11 @@
     "entities": [
      "에이전트"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false,
-    "dup_of": "2026-02-28"
+    "summary": "AI 조교 에이전트가 개별 맞춤형 피드백을 제공한다는 주간 에듀테크 소식입니다.",
+    "implication": "AI 조교와 같은 기술을 활용하여 학생들에게 더욱 개인화된 피드백을 제공하고 학습 효과를 높이는 방안을 모색할 수 있습니다.",
+    "ai": true,
+    "dup_of": "2026-02-28",
+    "summary_src": "ai-backfill"
    },
    {
     "n": 9,
@@ -132,9 +139,10 @@
     "entities": [
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기도교육청이 'AI·디지털 활용 선도학교' 350교를 운영하여 학생 맞춤형 수업을 본격화한다는 소식입니다.",
+    "implication": "선도학교의 사례를 참고하여 AI와 디지털 기술을 활용한 맞춤형 수업 모델을 개발하고 교실에 적용해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 10,
@@ -148,9 +156,10 @@
     "entities": [
      "교육부"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "교육부가 'AI 영재학교'를 2027년 개교하여 IT 강국으로 도약할 디지털 인재를 육성한다는 소식입니다.",
+    "implication": "미래 AI 영재학교의 교육 방향을 통해 우리 학생들이 갖춰야 할 디지털 역량과 창의적 문제 해결 능력에 대해 고민해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    }
   ],
   "paper": [
@@ -413,5 +422,12 @@
  "fallback": {},
  "notes": {
   "tech": "뇌를 닮은 AI 개발부터 로봇 플랫폼 공개, 그리고 교육 분야 AI 도입까지, AI 기술은 안전 및 윤리적 문제와 함께 다양한 산업 분야로 확장되며 더욱 인간 중심적인 방향으로 발전하고 있습니다."
+ },
+ "enrich": {
+  "hash": "9a9fa26ddd15",
+  "model": "gemini-2.5-flash",
+  "topics": 0,
+  "title_ko": 0,
+  "summaries": 9
  }
 }

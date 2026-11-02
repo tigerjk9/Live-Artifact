@@ -13,9 +13,10 @@
     "topic": "policy",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "뇌과학적 관점에서 스트레스 관리법을 다루는 의학 칼럼입니다.",
+    "implication": "학생들의 스트레스 관리를 돕기 위해 뇌과학 기반의 접근법을 수업에 적용해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 2,
@@ -27,9 +28,10 @@
     "topic": "classroom",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "미래 교육의 방향성을 제시하며, 도구를 넘어 교실의 본질에 집중해야 한다는 기고문입니다.",
+    "implication": "새로운 교육 도구 도입 시, 도구 자체보다 교실의 본질적인 교육 목표와 어떻게 연결될지 고민해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 3,
@@ -71,9 +73,10 @@
     "topic": "ai_digital",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "AI 시대에 뇌과학 학습의 중요성을 강조하는 내용입니다.",
+    "implication": "AI 기술의 발전과 함께 인간의 인지 과정을 이해하는 뇌과학 지식을 수업에 통합하여 학생들의 사고력 확장을 도울 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 6,
@@ -85,10 +88,11 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false,
-    "dup_of": "2026-03-29"
+    "summary": "뇌과학적 관점에서 행복을 완벽하게 제어할 수 있는지에 대한 질문을 던지는 내용입니다.",
+    "implication": "학생들이 자신의 감정을 이해하고 조절하는 능력을 기를 수 있도록 뇌과학적 접근을 활용한 정서 교육을 시도해 볼 수 있습니다.",
+    "ai": true,
+    "dup_of": "2026-03-29",
+    "summary_src": "ai-backfill"
    },
    {
     "n": 7,
@@ -102,9 +106,10 @@
     "entities": [
      "전북교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "전북교육청이 AI 교육 플랫폼을 도입하여 교육 혁신을 추진한다는 소식입니다.",
+    "implication": "AI 교육 플랫폼의 도입 사례를 참고하여 우리 학교에 적합한 AI 교육 환경 구축 방안을 모색해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 8,
@@ -118,9 +123,10 @@
     "entities": [
      "전남교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "전남교육청과 광주교대가 지역 맞춤형 교원 양성 및 임용을 위해 협력한다는 소식입니다.",
+    "implication": "지역 교육청과 교원 양성 기관의 협력 사례를 통해 교사 전문성 개발 및 지역 교육 발전을 위한 협력 방안을 고민해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 9,
@@ -150,9 +156,10 @@
     "topic": "ai_digital",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "캠토의 디지털 교육 플랫폼 '오늘도'가 누적 방문자 200만 명을 돌파했다는 소식입니다.",
+    "implication": "성공적인 디지털 교육 플랫폼의 사례를 분석하여 우리 학교의 디지털 학습 환경 개선 및 학생 참여 유도 방안을 구상해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    }
   ],
   "paper": [
@@ -417,5 +424,12 @@
  "fallback": {},
  "notes": {
   "tech": "AI 기술은 학습 능력 향상, 다양한 분야 적용, 투자 확대, 그리고 새로운 알고리즘 개발을 통해 빠르게 발전하며, 기업과 교육기관의 협력을 통해 더욱 혁신적인 미래를 향해 나아가고 있다."
+ },
+ "enrich": {
+  "hash": "d3c85c260fff",
+  "model": "gemini-2.5-flash",
+  "topics": 0,
+  "title_ko": 0,
+  "summaries": 7
  }
 }

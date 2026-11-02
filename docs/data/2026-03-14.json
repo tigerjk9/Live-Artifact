@@ -31,9 +31,10 @@
     "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "AI를 한글처럼 배우는 시대에, 10초 만에 정답을 찾는 우리 아이들의 '생각의 힘'이 안전한지에 대한 Pocus 칼럼입니다.",
+    "implication": "교사는 AI 활용 교육에서 학생들의 비판적 사고력과 문제 해결 능력을 키울 수 있는 방안을 고민할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 3,
@@ -45,9 +46,10 @@
     "topic": "policy",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "K-배터리 3사가 'Beyond EV' 시장을 향한 기술 초격차 전략을 비교하는 전문가 기고입니다.",
+    "implication": "교사는 미래 산업 동향을 이해하고, 학생들이 관련 분야에 관심을 가질 수 있도록 진로 교육에 활용할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 4,
@@ -89,9 +91,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "WBC 한국 야구를 보지 않아야 한다는 내용의 '응원의 뇌과학' 칼럼입니다.",
+    "implication": "교사는 학생들의 정서적 반응과 행동에 대한 뇌과학적 이해를 바탕으로 학습 동기 부여 방안을 모색할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 7,
@@ -103,9 +106,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "뇌과학자 정재승과 피아니스트가 바흐의 골드베르크 변주곡을 해부하며 '바흐는 최고의 도파민'이라고 말하는 내용입니다.",
+    "implication": "교사는 예술과 과학의 융합적 접근을 통해 학생들의 창의적 사고와 감성 발달을 도모할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 8,
@@ -117,9 +121,10 @@
     "topic": "student_care",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "이별 후 가장 빨리 일어서는 사람에 대한 뇌과학적 정서에 관한 칼럼입니다.",
+    "implication": "교사는 학생들의 정서적 회복탄력성을 이해하고, 어려움을 겪는 학생들을 지원하는 데 참고할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 9,
@@ -133,9 +138,10 @@
     "entities": [
      "세종시교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "강미애 씨가 세종시교육감 출마를 선언하며 공정, 학력, AI 교육 3대 개혁으로 세종 교육을 '다시 설계'하겠다는 소식입니다.",
+    "implication": "교사는 지역 교육 정책의 변화 방향을 이해하고, AI 교육 도입에 대한 준비를 시작할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 10,
@@ -149,14 +155,22 @@
     "entities": [
      "인천시교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "인천시교육청이 190개 학교에 'AI 교육'을 확대하여 미래 인재 양성을 본격화한다는 소식입니다.",
+    "implication": "교사는 AI 교육 확대에 발맞춰 AI 리터러시 및 AI 활용 수업 역량을 강화할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    }
   ],
   "paper": [],
   "tech": []
  },
  "fallback": {},
- "notes": {}
+ "notes": {},
+ "enrich": {
+  "hash": "8663b2dd674a",
+  "model": "gemini-2.5-flash",
+  "topics": 0,
+  "title_ko": 0,
+  "summaries": 7
+ }
 }

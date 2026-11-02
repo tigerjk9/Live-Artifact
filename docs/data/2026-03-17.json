@@ -13,9 +13,10 @@
     "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "에이전틱 AI가 보험 산업의 디지털 전환을 이끌 것이라는 기고문입니다.",
+    "implication": "교사들은 AI가 다양한 산업 분야에 미치는 영향을 이해하고, 학생들이 미래 사회의 변화에 유연하게 대응할 수 있도록 지도할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 2,
@@ -27,9 +28,10 @@
     "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "AI 커머스 시대의 완성은 속도보다 '신뢰'에 달려 있다는 시론입니다.",
+    "implication": "교사들은 AI 기술의 발전과 함께 윤리적 문제, 신뢰의 중요성을 학생들과 함께 논의하고 비판적 사고력을 함양할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 3,
@@ -41,9 +43,10 @@
     "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "'AI 교사 1만 명'이라는 숫자의 함정을 지적하며 교육의 본질이 '개방'에 있다는 칼럼입니다.",
+    "implication": "교사들은 AI 기술 도입 시 양적 성과보다는 교육의 본질적 가치와 학생 중심의 개방적 학습 환경 조성에 집중할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 4,
@@ -55,9 +58,10 @@
     "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "AI가 채점하는 시대에 교육이 무엇을 해야 하는지에 대한 시론입니다.",
+    "implication": "교사들은 AI 기반 평가 시스템의 장단점을 이해하고, 학생들의 창의적 사고와 문제 해결 능력을 평가하는 새로운 교육 방법을 모색할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 5,
@@ -83,9 +87,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "'늙지 않는 뇌를 만드는 감각의 뇌과학'이라는 제목의 내용입니다.",
+    "implication": "교사들은 뇌과학적 지식을 활용하여 학생들의 인지 발달을 돕고, 감각을 활용한 학습 활동을 설계하여 학습 효과를 높일 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 7,
@@ -97,9 +102,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "나답게 산다는 것의 뇌과학, 자아정체감이 만드는 ‘자유’에 대한 내용입니다.",
+    "implication": "교사들은 학생들이 자신의 자아정체감을 탐색하고 건강하게 성장할 수 있도록 돕는 교육 활동을 계획하고, 심리적 안정감을 제공할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 8,
@@ -114,9 +120,10 @@
      "충남교육청",
      "교육감 선거"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "김영춘 충남 교육감 예비후보가 ‘AI기반 맞춤형 미래 인재 육성 및 에듀테크 강화’를 발표했다는 소식입니다.",
+    "implication": "교사들은 지역 교육 정책의 방향성을 이해하고, AI 기반 맞춤형 교육 환경 구축에 대한 논의에 참여하며 교육 현장의 목소리를 전달할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 9,
@@ -131,9 +138,10 @@
      "경기도교육청",
      "교육감 선거"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "성기선 경기교육감 예비후보가 에듀테크 개인정보 유출 사태를 비판하며 학교에만 책임을 떠넘기는 보안 체계를 바꿔야 한다고 주장했다는 소식입니다.",
+    "implication": "교사들은 에듀테크 활용 시 개인정보 보호의 중요성을 인식하고, 학교와 학생의 정보 보안을 강화하기 위한 방안을 함께 고민할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 10,
@@ -147,9 +155,10 @@
     "entities": [
      "교육부"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "교육부가 AI 교육 교원 역량강화 연수과정을 개발하여 5월부터 운영한다는 소식입니다.",
+    "implication": "교사들은 교육부의 AI 교육 연수 과정에 적극적으로 참여하여 AI 교육 역량을 강화하고, 이를 수업에 효과적으로 적용할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    }
   ],
   "paper": [
@@ -406,5 +415,12 @@
  "fallback": {},
  "notes": {
   "tech": "AI 기술이 TTS 모델 공개, 인프라 교육 확대, GPU 활용 극대화, 에이전트 협력 학습, AI 직원 출시, 멀티모달 플랫폼 등장, 기업 도입 장벽 극복, 피지컬 AI 진화, AI 에이전트 테스트, 원스톱 콘텐츠 제작 플랫폼 출시 등 다양한 분야에서 빠르게 발전하며"
+ },
+ "enrich": {
+  "hash": "c872091a8dba",
+  "model": "gemini-2.5-flash",
+  "topics": 0,
+  "title_ko": 0,
+  "summaries": 9
  }
 }

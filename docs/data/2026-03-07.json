@@ -16,9 +16,10 @@
      "교육부",
      "AI 디지털교과서"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "교육부와 산업통상자원부 등이 주최한 '2024 에듀테크 코리아 페어'가 서울 코엑스에서 개최되었으며, 관람객들이 AI 디지털 교과서 프로토타입을 체험하는 모습이 포착되었습니다.",
+    "implication": "교사들은 에듀테크 박람회에서 AI 디지털 교과서의 최신 동향을 파악하고 수업에 적용할 아이디어를 얻을 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 2,
@@ -32,9 +33,10 @@
     "entities": [
      "생성형 AI"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "광운대학교 이상희 교수가 생성형 AI를 기반으로 한 수업 혁신 사례를 국제학술지에 게재했다는 소식입니다.",
+    "implication": "교사들은 생성형 AI를 활용한 수업 혁신 사례를 참고하여 자신의 수업 방식에 새로운 변화를 시도할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 3,
@@ -49,9 +51,10 @@
      "제주교육청",
      "교육감 선거"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "제주 교육감 선거에 괸당문화가 부정적인 영향을 미친다는 기자의 시각이 담긴 칼럼입니다.",
+    "implication": "교사들은 교육감 선거 과정에서 지역 사회의 문화적 특성이 교육 정책에 미치는 영향을 이해하고 비판적으로 사고할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 4,
@@ -65,9 +68,10 @@
     "entities": [
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "민주진영 경기도교육감 후보 단일화가 4월 15일을 목표로 추진 중이나, 단일화 방식에 대한 이견이 있다는 소식입니다.",
+    "implication": "교사들은 교육감 선거의 정치적 과정과 후보 단일화 논의가 교육 정책 방향에 미칠 영향을 주시할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 5,
@@ -82,9 +86,10 @@
      "교육감 선거",
      "교육부"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "최윤석 송파구청장 예비후보 선거사무소에 나승일 전 교육부차관이 방문했다는 소식입니다.",
+    "implication": "교사들은 지역 교육 정책과 관련된 인물들의 동향을 파악하고 교육계 인사들의 활동에 관심을 가질 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 6,
@@ -98,9 +103,10 @@
     "entities": [
      "충남교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "이명수 전 의원이 충남교육감 선거에 도전한다는 소식입니다.",
+    "implication": "교사들은 교육감 선거에 출마하는 인물들의 경력과 교육 철학을 비교하며 지역 교육의 미래를 고민할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 7,
@@ -171,5 +177,12 @@
   "tech": []
  },
  "fallback": {},
- "notes": {}
+ "notes": {},
+ "enrich": {
+  "hash": "2fe6b3661a1a",
+  "model": "gemini-2.5-flash",
+  "topics": 0,
+  "title_ko": 0,
+  "summaries": 6
+ }
 }

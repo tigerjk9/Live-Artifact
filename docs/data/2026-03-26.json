@@ -13,9 +13,10 @@
     "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "AI가 질문하는 법을 가르치지 않는다는 내용의 경상시론입니다.",
+    "implication": "학생들이 AI 시대에 필요한 비판적 사고와 질문 능력을 기를 수 있도록 수업에서 다양한 질문 기회를 제공할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 2,
@@ -27,9 +28,10 @@
     "topic": "higher_ed",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "교육재정 혁신과 '대학도시' 비전에 대한 브릿지 칼럼입니다.",
+    "implication": "지역사회와 연계된 교육 프로그램을 구상하여 학생들이 실제 문제 해결 능력을 키울 수 있도록 지원할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 3,
@@ -41,9 +43,10 @@
     "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "디지털트윈 국토 실현을 위한 공간정보 연구의 패러다임 전환을 주장하는 기고문입니다.",
+    "implication": "디지털 기술을 활용한 새로운 학습 자료를 개발하여 학생들이 미래 사회에 필요한 역량을 함양하도록 도울 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 4,
@@ -55,9 +58,10 @@
     "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "공간정보 연구가 ‘디지털 기술 토대’를 제공해야 한다는 기고문입니다.",
+    "implication": "교실에서 디지털 기술을 활용한 공간정보 관련 프로젝트를 진행하여 학생들의 탐구심을 자극할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 5,
@@ -69,9 +73,10 @@
     "topic": "policy",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "토람 사무총장이 '청년과 국가의 미래'에 대해 기고한 내용입니다.",
+    "implication": "학생들이 미래 사회의 주역으로서 자신의 역할을 고민하고 성장할 수 있도록 진로 교육 및 사회 참여 기회를 제공할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 6,
@@ -100,9 +105,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "뇌과학 자기계발서 ‘조종당하는 인간’이 7개국 출판사와 판권 계약 및 제안을 진행하며 K-컬처의 위상이 높아졌다는 소식입니다.",
+    "implication": "학생들이 다양한 문화 콘텐츠를 접하고 이해하며, 글로벌 역량을 키울 수 있도록 관련 자료를 활용한 수업을 진행할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 8,
@@ -114,9 +120,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "칭찬보다 무서운 보상의 유혹에 대한 뇌과학 기획의 4번째 이야기입니다.",
+    "implication": "학생들의 내재적 동기를 유발하고 지속적인 학습을 유도하기 위해 칭찬과 보상의 적절한 균형을 고민해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 9,
@@ -130,9 +137,10 @@
     "entities": [
      "인천시교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "도성훈 인천시교육감이 AI교육 공동선언을 통해 “AI 시대에도 교육의 중심은 사람”임을 강조했다는 소식입니다.",
+    "implication": "AI 기술을 활용하되, 학생 개개인의 성장과 발달에 초점을 맞춘 인간 중심의 교육을 실천할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 10,
@@ -146,9 +154,10 @@
     "entities": [
      "충남교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "이병학 충남교육혁신연구소 소장이 ‘충남교육감’ 공식 출마를 선언했다는 소식입니다.",
+    "implication": "교육 정책 변화에 관심을 가지고, 학교 현장에 미칠 영향을 미리 파악하여 교육 활동에 반영할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    }
   ],
   "paper": [
@@ -405,5 +414,12 @@
  "fallback": {},
  "notes": {
   "tech": "AI 기술은 결제 실패를 딛고 상품 검색으로 확장되고, 일본어 챗봇 출시, 자가 진화형 AI 등장, 신뢰형 LLM 프레임워크 공개 등 더욱 발전하며, 오픈소스 전략과 제조 지배력을 통해 국가 경쟁력을 강화하는 동시에, 위험을 스스로 감지하는 방향으로 진화하고 있으며,"
+ },
+ "enrich": {
+  "hash": "9e2fd17d11ea",
+  "model": "gemini-2.5-flash",
+  "topics": 0,
+  "title_ko": 0,
+  "summaries": 9
  }
 }

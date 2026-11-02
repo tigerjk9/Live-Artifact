@@ -16,10 +16,11 @@
      "교육부",
      "교육 예산"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false,
-    "dup_of": "2026-04-11"
+    "summary": "교육부가 특별교부금을 특정 목적에 사용해야 한다는 기고문입니다.",
+    "implication": "교사들은 교육부의 특별교부금 활용 방안이 실제 교육 현장에 어떤 영향을 미칠지 관심을 가지고 지켜볼 수 있습니다.",
+    "ai": true,
+    "dup_of": "2026-04-11",
+    "summary_src": "ai-backfill"
    },
    {
     "n": 2,
@@ -31,10 +32,11 @@
     "topic": "policy",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false,
-    "dup_of": "2026-04-11"
+    "summary": "교육감의 권한과 책무, 그리고 바람직한 리더십에 대한 칼럼입니다.",
+    "implication": "교사들은 교육감의 리더십이 학교 운영과 교육 정책에 미치는 영향을 이해하고, 교육 현장의 목소리를 전달하는 데 참여할 수 있습니다.",
+    "ai": true,
+    "dup_of": "2026-04-11",
+    "summary_src": "ai-backfill"
    },
    {
     "n": 3,
@@ -48,9 +50,10 @@
     "entities": [
      "에이전트"
     ],
-    "summary": "",
+    "summary": "시스코가 AI 에이전트 보안 스타트업인 아스트릭스 인수를 추진 중이라는 소식입니다.",
     "implication": "",
-    "ai": false
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 4,
@@ -64,9 +67,10 @@
     "entities": [
      "울산시교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "울산교육청이 교사 주도 수업 혁신을 위한 '해돋이 학교 3기'를 본격적으로 가동한다는 뉴스입니다.",
+    "implication": "교사들은 '해돋이 학교'와 같은 교사 주도 혁신 프로그램에 참여하여 새로운 수업 모델을 개발하고 적용해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 5,
@@ -80,9 +84,10 @@
     "entities": [
      "생성형 AI"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "충청북도가 '생성형 AI 업무비서'를 전 직원에게 보급하여 지자체 디지털 전환을 선도한다는 소식입니다.",
+    "implication": "교사들은 행정 업무에 AI가 도입되는 사례를 통해 교육 행정 분야에서의 AI 활용 가능성을 탐색해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 6,
@@ -96,9 +101,10 @@
     "entities": [
      "에이전트"
     ],
-    "summary": "",
+    "summary": "AI 에이전트와 스킬의 차이점에 대해 꼭 알아둬야 할 내용을 설명하는 글입니다.",
     "implication": "",
-    "ai": false
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 7,
@@ -112,9 +118,10 @@
     "entities": [
      "전남교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "전남교육청교육연구정보원이 연구학교 운영 통계 실습 연수를 진행한다는 소식입니다.",
+    "implication": "교사들은 연구학교 운영과 관련된 통계 분석 역량을 강화하여 교육 연구의 질을 높일 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 8,
@@ -128,9 +135,10 @@
     "entities": [
      "경남교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경남교육청이 경남형 통합교육 모델 학교 컨설팅을 진행한다는 소식입니다.",
+    "implication": "교사들은 통합교육 모델 학교 컨설팅을 통해 모든 학생을 포용하는 교육 환경을 조성하는 방안을 모색할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 9,
@@ -144,9 +152,10 @@
     "entities": [
      "인천시교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "도성훈 인천시교육감이 수의사회로부터 감사패를 받았으며, '생명 존중' 교육에 앞장서고 있다는 소식입니다.",
+    "implication": "교사들은 생명 존중 교육의 중요성을 인식하고, 학교 교육과정 속에서 관련 내용을 다루는 방안을 고민해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 10,
@@ -158,9 +167,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "신경호 교육감이 원주 사망 학생 추모공간을 찾아 애도를 표하며 '지켜주지 못해 마음 미어진다'고 말했다는 소식입니다.",
+    "implication": "교사들은 학생들의 안전과 정서적 지지를 위한 학교의 역할을 다시 한번 되새기고, 위기 학생 지원 시스템을 점검해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    }
   ],
   "paper": [
@@ -252,5 +262,12 @@
   "tech": []
  },
  "fallback": {},
- "notes": {}
+ "notes": {},
+ "enrich": {
+  "hash": "7ab1058da32a",
+  "model": "gemini-2.5-flash",
+  "topics": 0,
+  "title_ko": 0,
+  "summaries": 10
+ }
 }

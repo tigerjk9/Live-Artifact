@@ -13,9 +13,10 @@
     "topic": "policy",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "2026년 혁신 교육감의 모습에 대한 칼럼이 게재되었다는 소식입니다.",
+    "implication": "교사들은 미래 교육의 방향과 리더십에 대한 다양한 관점을 이해하고, 자신의 교육 철학을 정립하는 데 활용할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 2,
@@ -27,9 +28,10 @@
     "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "중국의 인문학 AI 전환과 한국 대학의 현실에 대한 전문가 기고가 발표되었다는 소식입니다.",
+    "implication": "교사들은 AI 시대에 인문학 교육의 중요성과 변화 방향을 고민하고, 학생들에게 융합적 사고력을 길러줄 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 3,
@@ -41,9 +43,10 @@
     "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "사고력 평가 논술 채점에 AI 도입이 타당한지에 대한 사설이 실렸다는 소식입니다.",
+    "implication": "교사들은 AI 기반 평가 도구의 장단점을 이해하고, 학생들의 사고력과 창의성을 평가하는 다양한 방법을 탐색할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 4,
@@ -55,9 +58,10 @@
     "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "AI 시대에 '코디세이 캠퍼스' 개설과 인재 양성에 대한 전문가 기고가 발표되었다는 소식입니다.",
+    "implication": "교사들은 미래 사회에 필요한 인재상과 교육 모델에 대해 고민하고, 자신의 수업에 적용할 수 있는 아이디어를 얻을 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 5,
@@ -69,9 +73,10 @@
     "topic": "policy",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "집중력의 유효기한과 골든타임에 대한 칼럼이 게재되었다는 소식입니다.",
+    "implication": "교사들은 학생들의 집중력 특성을 이해하고, 수업 시간 구성 및 학습 활동 설계에 이를 반영하여 학습 효과를 높일 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 6,
@@ -85,9 +90,10 @@
     "entities": [
      "서울시교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "서울시교육청이 서울대학교와 대전환 시대 미래교육 혁신의 길을 함께 모색하기로 했다는 소식입니다.",
+    "implication": "교사들은 교육 정책 변화에 관심을 가지고, 미래 교육 혁신을 위한 학교 현장의 역할을 고민하며 적극적으로 참여할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 7,
@@ -102,9 +108,10 @@
      "경기도교육청",
      "교육감 선거"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기교육혁신연대가 민주진보교육감후보 단일화 선출방식 및 향후 계획 발표 기자회견을 가졌다는 화보입니다.",
+    "implication": "교사들은 교육감 선거 과정과 교육 정책 방향에 대한 정보를 얻고, 교육 현장의 목소리를 전달하는 데 관심을 가질 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 8,
@@ -118,9 +125,10 @@
     "entities": [
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기교육혁신연대가 민주·진보 도교육감 단일화 후보 선출을 결의했다는 소식입니다.",
+    "implication": "교사들은 교육감 선거와 관련된 동향을 파악하고, 교육 정책 변화가 학교 현장에 미칠 영향을 미리 예측해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 9,
@@ -132,9 +140,10 @@
     "topic": "teacher",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "인하대가 '커피가 있는 저녁' 행사를 통해 원생 소통으로 교원양성 교육 혁신을 추진하고 있다는 소식입니다.",
+    "implication": "교사들은 교원양성 기관의 혁신 노력에 관심을 가지고, 교사 전문성 개발을 위한 다양한 소통 및 협력 방안을 모색할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 10,
@@ -148,9 +157,10 @@
     "entities": [
      "전남교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "전남교육청과 광주교대가 교원양성 및 임용 협력을 위해 맞손을 잡았다는 소식입니다.",
+    "implication": "교사들은 지역 교육청과 교원양성 대학 간의 협력 사례를 통해 교사 전문성 강화 및 신규 교사 지원 방안에 대한 아이디어를 얻을 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    }
   ],
   "paper": [
@@ -407,5 +417,12 @@
  "fallback": {},
  "notes": {
   "tech": "AI 기술이 중소기업 승계부터 교육, 연구, 앱 생태계, 에이전트 개발 및 통제, 그리고 윤리적 경쟁까지, 산업 전반에 걸쳐 빠르게 확산되고 고도화되며 긍정적인 발전을 가속화하고 있다."
+ },
+ "enrich": {
+  "hash": "e0bc3d865197",
+  "model": "gemini-2.5-flash",
+  "topics": 0,
+  "title_ko": 0,
+  "summaries": 10
  }
 }

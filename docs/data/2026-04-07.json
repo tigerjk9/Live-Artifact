@@ -13,9 +13,10 @@
     "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "한국정보보호학회 칼럼에서 망 분리의 역설과 N2SF, 그리고 데이터 중심 보안의 핵심인 ‘CDS’에 대해 다루고 있다는 소식입니다.",
+    "implication": "교실에서는 디지털 환경에서 정보 보안의 중요성을 이해하고, 데이터 보호를 위한 기본적인 원칙들을 학생들과 함께 논의해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 2,
@@ -27,9 +28,10 @@
     "topic": "policy",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "아주사설에서 제조혁신 수출 시대에 공장을 파는 나라가 이긴다는 기본·원칙·상식에 대해 강조하고 있다는 소식입니다.",
+    "implication": "학생들에게 미래 산업의 변화와 기술 혁신의 중요성을 설명하고, 창의적 사고와 문제 해결 능력을 키울 수 있도록 지도할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 3,
@@ -41,9 +43,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "한국뇌연구원 이승복 원장이 취임하며 뇌과학 혁신 생태계 구축을 목표로 하고 있다는 소식입니다.",
+    "implication": "뇌과학 분야의 최신 동향을 학생들에게 소개하고, 뇌의 기능과 학습의 관계에 대해 탐구하는 시간을 가질 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 4,
@@ -55,9 +58,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "신임 이승복 뇌연구원장이 뇌과학 분야에서 전략적 거점 역할을 수행할 것이라고 밝혔다는 소식입니다.",
+    "implication": "과학 기술 발전이 우리 사회에 미치는 영향을 학생들과 함께 토론하고, 미래 사회의 변화에 대비하는 교육을 제공할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 5,
@@ -69,10 +73,11 @@
     "topic": "student_care",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false,
-    "dup_of": "2026-04-06"
+    "summary": "뇌과학과 심리학이라는 주제에 대한 내용이 다뤄지고 있다는 소식입니다.",
+    "implication": "인간의 인지, 감정, 행동을 이해하는 데 뇌과학과 심리학이 어떻게 기여하는지 학생들과 함께 탐구하고, 자기 이해를 높이는 활동을 할 수 있습니다.",
+    "ai": true,
+    "dup_of": "2026-04-06",
+    "summary_src": "ai-backfill"
    },
    {
     "n": 6,
@@ -87,9 +92,10 @@
      "충남교육청",
      "교육감 선거"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "이명수 충남교육감 예비후보가 서울·경기와 교육정책 연대를 통해 기초학력 및 AI 교육 협력을 추진하겠다는 소식입니다.",
+    "implication": "지역 간 교육 협력의 중요성을 학생들에게 설명하고, AI 교육이 미래 학습에 어떤 영향을 미 미칠지 함께 고민해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 7,
@@ -104,9 +110,10 @@
      "인천시교육청",
      "Google"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "인천시교육청과 구글이 AI 교육 협력을 본격화한다는 소식입니다.",
+    "implication": "AI 기술이 교육 현장에 어떻게 적용될 수 있는지 학생들과 함께 탐색하고, AI 도구를 활용한 학습 경험을 제공할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 8,
@@ -120,9 +127,10 @@
     "entities": [
      "인천시교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "인천시교육청이 ‘읽걷쓰AI’를 통해 AI 교육 혁신에 앞장선다는 소식입니다.",
+    "implication": "읽기, 걷기, 쓰기 활동에 AI 기술을 접목하여 학생들의 학습 참여를 유도하고, 창의적인 학습 방법을 모색할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 9,
@@ -137,9 +145,10 @@
      "교육감 선거",
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기민주진보교육감 후보 단일화를 위해 경기교육혁신연대 회원 가입을 독려하고 있다는 소식입니다.",
+    "implication": "교육 정책 결정 과정에 시민 참여의 중요성을 학생들에게 설명하고, 교육의 변화를 위한 다양한 주체들의 역할을 함께 논의해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 10,
@@ -154,9 +163,10 @@
      "인천시교육청",
      "Google"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "인천시교육청이 구글과 협력하여 ‘읽걷쓰’에 AI 교육을 접목하려는 움직임을 보인다는 소식입니다.",
+    "implication": "AI 기술이 기존 학습 방식과 어떻게 융합되어 새로운 교육 경험을 창출할 수 있는지 학생들과 함께 탐구하고, 디지털 리터러시를 함양할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    }
   ],
   "paper": [
@@ -418,5 +428,12 @@
  "fallback": {},
  "notes": {
   "tech": "AI 에이전트의 발전, 모델 간 협력 및 경쟁 심화, 이미지 생성 기능 강화, 평가 방식 개선 등 AI 기술이 다각도로 고도화되며 실질적인 활용과 공정성 확보를 향해 나아가는 중"
+ },
+ "enrich": {
+  "hash": "b23e0e666305",
+  "model": "gemini-2.5-flash",
+  "topics": 0,
+  "title_ko": 0,
+  "summaries": 10
  }
 }

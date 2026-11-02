@@ -13,9 +13,10 @@
     "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "컴퓨팅 사고력이 AI 교육의 근간이 된다는 기고문입니다. AI 시대를 맞아 컴퓨팅 사고력 교육의 중요성을 강조하고 있습니다.",
+    "implication": "학생들이 AI 시대를 살아갈 핵심 역량인 컴퓨팅 사고력을 기를 수 있도록 수업에 다양한 컴퓨팅 사고력 활동을 통합할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 2,
@@ -27,9 +28,10 @@
     "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "디지털 전환을 넘어 AI 전환 시대로 나아가며 기업의 존재 방식이 재정의되고 있다는 칼럼입니다. AI가 산업 전반에 미치는 영향이 커지고 있음을 시사합니다.",
+    "implication": "AI가 사회 전반에 미치는 영향을 이해하고, 학생들이 미래 사회의 변화에 유연하게 대응할 수 있도록 지도할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 3,
@@ -55,9 +57,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "한국의 뇌과학 서적인 '조종당하는 인간'이 세계 출판계에서 주목받고 있다는 소식입니다. 뇌과학 분야의 국내 연구 성과가 국제적으로 인정받고 있음을 보여줍니다.",
+    "implication": "뇌과학 등 첨단 과학 분야에 대한 학생들의 흥미를 유발하고, 관련 분야의 최신 동향을 소개하여 미래 진로 탐색에 도움을 줄 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 5,
@@ -69,9 +72,10 @@
     "topic": "ai_digital",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "골프 입스(yips) 문제를 AI 뇌과학 기술로 해결할 수 있다는 내용입니다. AI와 뇌과학 기술이 스포츠 분야의 심리적 문제 해결에도 활용될 수 있음을 보여줍니다.",
+    "implication": "AI와 뇌과학 기술이 다양한 분야의 문제 해결에 적용될 수 있음을 학생들에게 알려주고, 융합적 사고력을 키울 수 있도록 지도할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 6,
@@ -86,9 +90,10 @@
      "대전시교육청",
      "교육감 선거"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "오석진 대전교육감 후보가 대전을 AI 교육 1번지로 만들겠다는 1호 공약을 발표했다는 소식입니다. 지역 교육의 AI 전환에 대한 의지를 보여줍니다.",
+    "implication": "지역 교육 정책의 AI 전환 방향을 이해하고, 학교 현장에서 AI 교육을 효과적으로 구현하기 위한 방안을 함께 고민할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 7,
@@ -103,9 +108,10 @@
      "경기도교육청",
      "교육감 선거"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "유은혜 경기교육감 예비후보가 도민 정책 제안을 접수하며 교육 혁신 시동을 걸었다는 소식입니다. 지역 교육 정책 수립에 주민 참여를 독려하고 있습니다.",
+    "implication": "지역 교육 정책 수립 과정에 관심을 가지고, 학교 현장의 목소리를 전달하여 교육 혁신에 기여할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 8,
@@ -119,9 +125,10 @@
     "entities": [
      "교육감 선거"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "오석진 교육감 예비후보가 대전을 대한민국 미래교육의 출발점으로 만들겠다는 포부를 밝혔다는 소식입니다. 미래 교육을 위한 지역의 비전을 제시하고 있습니다.",
+    "implication": "미래 교육의 방향성에 대해 학생들과 함께 토론하고, 변화하는 교육 환경에 맞춰 새로운 교수법을 탐색할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 9,
@@ -133,9 +140,10 @@
     "topic": "ai_digital",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "웹사이트가 사라지고 AI가 대신 구매하는 시대가 올 것이라는 전망입니다. AI 기술 발전이 소비 방식과 산업 구조에 큰 변화를 가져올 것임을 시사합니다.",
+    "implication": "AI 기술이 일상생활과 산업에 미치는 영향을 학생들과 함께 탐구하고, 미래 사회의 변화에 대한 이해를 높일 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 10,
@@ -147,9 +155,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "GS리테일이 기업은행 및 IBK와 함께 '예금 토큰' 결제 상용화를 추진한다는 소식입니다. 블록체인 기반의 새로운 결제 시스템 도입을 시도하고 있습니다.",
+    "implication": "블록체인, AI 등 신기술이 금융 및 유통 분야에 미치는 영향을 학생들에게 설명하고, 미래 경제 시스템의 변화를 예측해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    }
   ],
   "paper": [
@@ -422,5 +431,12 @@
  "fallback": {},
  "notes": {
   "tech": "AI 기술이 문서 처리 자동화, 모델 선택 플랫폼 확장, 이미지 생성 주권 확보, 오픈 소스 모델 공개, 에이전트 및 로봇 안전 검증, 금융 서비스 혁신 등 다양한 분야에서 빠르게 발전하며 벤처 투자를 활성화하고 AGI(범용인공지능)로의 진전을 가속화하고 있다."
+ },
+ "enrich": {
+  "hash": "2ce7b8aa6239",
+  "model": "gemini-2.5-flash",
+  "topics": 0,
+  "title_ko": 0,
+  "summaries": 9
  }
 }

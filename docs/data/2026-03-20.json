@@ -16,9 +16,10 @@
      "코딩 AI",
      "사교육"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "AI 코딩 시대에도 아이들이 코딩 학원으로 향하는 현상에 대한 기고문입니다.",
+    "implication": "교실에서 AI 코딩 교육의 방향성을 고민하고, 학생들의 실제 학습 요구를 파악할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 2,
@@ -30,9 +31,10 @@
     "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "AI 중심 대학의 성공은 '결과'가 아닌 '과정'에 있다는 주장의 기고문입니다.",
+    "implication": "AI 교육 도입 시 학습 과정의 중요성을 강조하고, 학생 중심의 교육 설계를 고려할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 3,
@@ -44,9 +46,10 @@
     "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "뇌과학과 AI의 만남을 통해 인공지능과 좋은 친구가 되는 법에 대한 교육 칼럼입니다.",
+    "implication": "AI를 활용하여 학생들의 정서적 교감을 돕고, AI와의 긍정적인 관계 형성을 지도할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 4,
@@ -58,9 +61,10 @@
     "topic": "global",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "한국, 중국, 일본의 젓가락 길이와 호르무즈 해협의 목줄에 대한 칼럼입니다.",
+    "implication": "다양한 문화적 배경과 사회 현상을 이해하고, 이를 교육 과정에 연결하여 학생들의 비판적 사고를 함양할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 5,
@@ -72,9 +76,10 @@
     "topic": "ai_digital",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "뇌과학과 AI의 융합을 통해 수면 케어 및 치매 예방 분야에서 새로운 지평을 열고 있다는 소식입니다.",
+    "implication": "AI 기술이 건강 및 복지 분야에 어떻게 적용될 수 있는지 학생들과 탐구하고, 미래 기술의 사회적 영향을 논의할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 6,
@@ -88,9 +93,10 @@
     "entities": [
      "교육감 선거"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "교육혁신연대가 '진보교육감 후보 단일화 내홍'을 수습하기 위해 나섰다는 소식입니다.",
+    "implication": "교육 정책 결정 과정의 복잡성을 이해하고, 다양한 교육 주체들의 의견을 수렴하는 중요성에 대해 학생들과 토론할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 7,
@@ -102,9 +108,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "파주시가 2026년 미래기술교육학교를 운영할 예정이라는 소식입니다.",
+    "implication": "지역 사회의 미래 교육 계획을 파악하고, 학교 교육과정과 연계하여 학생들에게 미래 기술 교육의 기회를 제공할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 8,
@@ -119,9 +126,10 @@
      "경기도교육청",
      "코딩 AI"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기도교육청이 넥슨과 협력하여 청소년 코딩 교육을 진행한다는 소식입니다.",
+    "implication": "외부 기관과의 협력을 통해 학생들에게 양질의 코딩 교육 기회를 제공하고, 실생활 문제 해결 능력을 키울 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 9,
@@ -135,9 +143,10 @@
     "entities": [
      "교육부"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "과기정통부와 교육부가 '원팀' 체계를 구축하여 AI 인재 양성을 본격화한다는 소식입니다.",
+    "implication": "국가 차원의 AI 인재 양성 정책을 이해하고, 학교 교육에서 AI 교육의 중요성을 강조하며 관련 프로그램을 개발할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 10,
@@ -149,9 +158,10 @@
     "topic": "ai_digital",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "한림대학교가 AI 기반 Hi-Flex 교수법 확산을 본격화한다는 소식입니다.",
+    "implication": "AI를 활용한 유연한 교수법을 탐색하고, 학생들의 다양한 학습 요구에 맞춰 교육 방식을 혁신할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    }
   ],
   "paper": [
@@ -403,5 +413,12 @@
  "fallback": {},
  "notes": {
   "tech": "AI 기술은 트랜스포머 모델을 넘어 새로운 아키텍처, 효율성 증대, 쇼핑 등 다양한 산업 적용, 오픈소스 및 에이전트 기반 시스템으로 진화하며, 인공지능 반도체 발전과 인간 없는 AI 설계 등 미래 기술 혁신을 가속화하고 있다."
+ },
+ "enrich": {
+  "hash": "e988724314f7",
+  "model": "gemini-2.5-flash",
+  "topics": 0,
+  "title_ko": 0,
+  "summaries": 10
  }
 }

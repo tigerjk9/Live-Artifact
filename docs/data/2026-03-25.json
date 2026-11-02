@@ -15,9 +15,10 @@
     "entities": [
      "에이전트"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "AI 에이전트 시대가 도래함에 따라 교육 현장이 변화하고 있으며, 진정한 실력은 AI를 다루는 능력에서 나온다는 칼럼입니다.",
+    "implication": "교실에서 학생들이 AI 에이전트를 효과적으로 활용하고 비판적으로 사고하는 능력을 기를 수 있도록 지도할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 2,
@@ -29,9 +30,10 @@
     "topic": "policy",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "지방선거 출마자와 유권자가 반드시 알아야 할 ABC에 대한 문형남 칼럼입니다.",
+    "implication": "학생들에게 민주 시민으로서 선거의 중요성과 후보자 및 정책을 분석하는 방법을 교육하여 주체적인 유권자로 성장하도록 도울 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 3,
@@ -43,9 +45,10 @@
     "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "디지털 전환이 새로운 기회와 도전을 가져온다는 하윤수 칼럼입니다.",
+    "implication": "교실에서 디지털 도구를 활용한 새로운 학습 기회를 탐색하고, 디지털 전환이 가져올 수 있는 교육적 도전에 대비하는 방안을 모색할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 4,
@@ -57,9 +60,10 @@
     "topic": "global",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "현대차가 중국 시장에서 다시 드라이브를 건다는 사설입니다.",
+    "implication": "학생들에게 글로벌 경제와 기업의 전략에 대해 설명하며, 변화하는 시장 환경에 대한 이해를 높일 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 5,
@@ -71,9 +75,10 @@
     "topic": "policy",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "청년과 국가의 미래에 대한 토람 사무총장의 기고문입니다.",
+    "implication": "학생들이 미래 사회의 주역으로서 자신의 역할과 국가 발전에 기여할 수 있는 방안을 고민하도록 지도할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 6,
@@ -85,9 +90,10 @@
     "topic": "policy",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "더 멀리, 더 오래 가기 위한 방법에 대한 박근필 칼럼입니다.",
+    "implication": "학생들에게 장기적인 목표 설정과 꾸준한 노력이 중요함을 강조하며, 인내심과 끈기를 기르도록 격려할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 7,
@@ -99,10 +105,11 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false,
-    "dup_of": "2026-03-23"
+    "summary": "WBC 한국 야구를 보지 않아야 한다는 내용의 '응원의 뇌과학' 칼럼입니다.",
+    "implication": "학생들에게 스포츠와 심리, 뇌과학의 연관성에 대해 이야기하며 다양한 관점에서 현상을 분석하는 능력을 키울 수 있습니다.",
+    "ai": true,
+    "dup_of": "2026-03-23",
+    "summary_src": "ai-backfill"
    },
    {
     "n": 8,
@@ -116,9 +123,10 @@
     "entities": [
      "Moonshot"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "와이브레인이 K-문샷 프로젝트에 참여하여 뇌과학 난제 해결을 주도한다는 소식입니다.",
+    "implication": "학생들에게 과학 기술 발전의 중요성과 국가적 연구 프로젝트에 대해 소개하며, 미래 과학 분야에 대한 관심을 유도할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 9,
@@ -130,9 +138,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "뇌과학이 비주얼 스토리텔링을 증명한다는 내용입니다.",
+    "implication": "교실에서 시각 자료와 스토리텔링을 활용한 수업 방식을 도입하여 학생들의 학습 효과를 높일 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 10,
@@ -146,9 +155,10 @@
     "entities": [
      "인천시교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "인천시교육청이 읽걷쓰와 AI 교육을 결합하여 인천 인공지능 교육 공동 선언문을 발표했다는 소식입니다.",
+    "implication": "교실에서 읽기, 걷기, 쓰기 활동에 AI 기술을 접목하여 학생들의 창의적 사고력과 문제 해결 능력을 향상시킬 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    }
   ],
   "paper": [
@@ -411,5 +421,12 @@
  "fallback": {},
  "notes": {
   "tech": "AI 기술이 더욱 발전된 모델 출시, 경제적 성과 창출, 다양한 산업 분야와의 융합을 통해 빠르게 확장되며 미래를 혁신하고 있습니다."
+ },
+ "enrich": {
+  "hash": "dd655fd9ea95",
+  "model": "gemini-2.5-flash",
+  "topics": 0,
+  "title_ko": 0,
+  "summaries": 10
  }
 }

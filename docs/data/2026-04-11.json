@@ -245,5 +245,12 @@
  "fallback": {},
  "notes": {
   "edu": "교육 재정 운용의 효율성 및 교사의 권익 보호와 함께, AI 기술을 활용한 혁신적인 교육 방식 도입과 평생학습 기회 확대를 통해 미래 교육으로 나아가는 긍정적인 변화가 기대된다."
+ },
+ "enrich": {
+  "hash": "d6dca1ecd417",
+  "model": "gemini-2.5-flash",
+  "topics": 0,
+  "title_ko": 0,
+  "summaries": 0
  }
 }

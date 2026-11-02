@@ -13,9 +13,10 @@
     "topic": "policy",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "뇌과학적 관점에서 명상이 수면보다 더 나은 효과를 줄 수 있다는 내용의 칼럼입니다.",
+    "implication": "학생들에게 짧은 명상 시간을 제공하여 집중력과 정서적 안정감을 높이는 데 활용할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 2,
@@ -29,9 +30,10 @@
     "entities": [
      "AI 디지털교과서"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "교내 AI 활용이 디지털교과서를 넘어 학습 도구로 전환되어야 한다는 박성경 칼럼입니다.",
+    "implication": "AI를 단순한 콘텐츠 전달 도구가 아닌, 학생들의 능동적인 학습을 지원하는 도구로 활용하는 방안을 모색할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 3,
@@ -43,9 +45,10 @@
     "topic": "student_care",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "미래 기술을 활용하여 아이들의 안전을 지키는 새로운 시대가 열릴 것이라는 칼럼입니다.",
+    "implication": "교실에서 AI 기반 안전 시스템이나 교육용 기술을 활용하여 학생들의 안전을 강화하는 방안을 고민해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 4,
@@ -59,9 +62,10 @@
     "entities": [
      "IB"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "광주 매양중학교가 IB 및 AI 기반 수업 혁신을 본격화하며 교사 역량 강화에 나선다는 소식입니다.",
+    "implication": "IB와 AI를 융합한 수업 모델을 참고하여 교실에서 학생 중심의 탐구 학습과 AI 활용을 접목할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 5,
@@ -73,9 +77,10 @@
     "topic": "classroom",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "한국교육학술정보원과 광주교대가 미래 교육 협력을 강화한다는 소식입니다.",
+    "implication": "두 기관의 협력 사례를 통해 교육 현장에서 AI 및 디지털 교육 혁신을 위한 외부 기관과의 연계 방안을 모색할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 6,
@@ -105,9 +110,10 @@
     "entities": [
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기도교육청이 AI 및 첨단 장비를 도입한 과학 기반 건강 교육을 920개 학교로 확대한다는 소식입니다.",
+    "implication": "AI와 첨단 장비를 활용한 건강 교육 프로그램을 교실에 도입하여 학생들의 건강 관리 및 과학적 사고력 함양에 기여할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 8,
@@ -121,9 +127,10 @@
     "entities": [
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기도교육청이 AI 서·논술형 평가 실천학교를 지정한다는 소식입니다.",
+    "implication": "AI 기반 서·논술형 평가 도구를 활용하여 학생들의 글쓰기 능력과 비판적 사고력을 효과적으로 평가하고 피드백을 제공할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 9,
@@ -138,9 +145,10 @@
      "충남교육청",
      "교육감 선거"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "이명수 충남교육감 예비후보가 충남 교육 상생 벨트 조성 및 교육 혁신 방안을 공약으로 발표했다는 소식입니다.",
+    "implication": "지역 교육 정책의 변화를 주시하며, 교실에서 학생들에게 더 나은 교육 환경을 제공하기 위한 정책적 지원 방안을 탐색할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 10,
@@ -155,9 +163,10 @@
      "경기도교육청",
      "교육부"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기도교육청이 안산 직업교육 혁신지구가 교육부 평가에서 최고 등급인 '우수'를 획득했다는 소식입니다.",
+    "implication": "직업교육 혁신지구의 성공 사례를 참고하여, 교실에서 학생들의 진로 교육 및 실질적인 직업 역량 강화를 위한 프로그램을 기획할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    }
   ],
   "paper": [
@@ -410,5 +419,12 @@
  "fallback": {},
  "notes": {
   "tech": "AI 모델 성능 향상 경쟁 심화와 더불어 다양한 산업 분야에 AI 기술이 융합, 적용되며 AI 생태계가 더욱 확장되고 있다."
+ },
+ "enrich": {
+  "hash": "8008bd0d3e62",
+  "model": "gemini-2.5-flash",
+  "topics": 0,
+  "title_ko": 0,
+  "summaries": 9
  }
 }

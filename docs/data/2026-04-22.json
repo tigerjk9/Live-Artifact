@@ -29,9 +29,10 @@
     "entities": [
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "한국교통대학교가 경기도교육청에서 AI 에듀테크 체험 프로그램을 운영했다는 소식입니다.",
+    "implication": "교사들은 이러한 체험 프로그램을 통해 AI 에듀테크의 실제 적용 사례를 탐색하고 수업에 활용할 방안을 모색할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 3,
@@ -46,9 +47,10 @@
      "경북교육청",
      "마음건강"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "임종식 경북교육감이 마음 건강과 맞춤형 AI 교육 강화를 통해 경북 교육의 새로운 변화를 추진하겠다고 밝혔습니다.",
+    "implication": "교사들은 학생들의 정서적 지원과 개인화된 AI 학습을 연계하여 더욱 효과적인 교육 환경을 조성할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 4,
@@ -62,9 +64,10 @@
     "entities": [
      "충남교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "청탁금지법 시행 10년을 맞아 충남교육청이 학교 현장의 청렴 실무를 강화하겠다고 나섰다는 소식입니다.",
+    "implication": "교사들은 청렴 교육 관련 연수에 참여하여 법규를 정확히 이해하고 학교 내 청렴 문화를 조성하는 데 기여할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 5,
@@ -78,9 +81,10 @@
     "entities": [
      "경북교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "임종식 경북교육감이 안전, AI, 질문이 있는 교실을 통해 미래 교육으로의 전환을 강조했습니다.",
+    "implication": "교사들은 안전한 학습 환경을 구축하고 AI 기술을 활용하여 학생들의 질문과 탐구를 장려하는 수업을 설계할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 6,
@@ -94,9 +98,10 @@
     "entities": [
      "대전시교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "대전교육정책연구소가 '한눈에 보는 대전교육'을 발간했다는 소식입니다.",
+    "implication": "교사들은 발간된 자료를 참고하여 대전 교육의 현황과 정책 방향을 이해하고 교육 활동에 반영할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 7,
@@ -108,9 +113,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "교육정책네트워크가 '특별자치시도 교육자치'를 주제로 입법 자율성 및 제도 개선 방안을 논의했다는 소식입니다.",
+    "implication": "교사들은 교육 자치 관련 논의에 관심을 가지고 지역 교육 정책 변화가 학교 현장에 미칠 영향을 미리 파악할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 8,
@@ -122,9 +128,10 @@
     "topic": "student_care",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "김진경 의장이 교육 현장의 목소리를 정책에 반영하겠다며 시흥 사립유치원연합회와 정담회를 가졌다는 소식입니다.",
+    "implication": "교사들은 교육 관련 정책 결정 과정에 적극적으로 의견을 개진하여 현장의 목소리가 반영되도록 노력할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 9,
@@ -138,9 +145,10 @@
     "entities": [
      "AI 디지털교과서"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "AI 디지털교과서 도입을 둘러싼 논란 속에서 공교육 운영 방식의 변화에 대한 관심이 높아지고 있다는 소식입니다.",
+    "implication": "교사들은 AI 디지털교과서 도입에 따른 교육 환경 변화를 이해하고 새로운 교수법과 학습 자료 활용 방안을 준비할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 10,
@@ -154,9 +162,10 @@
     "entities": [
      "에이전트"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "코인베이스가 사내 AI 에이전트 시험 도입을 통해 '인간 직원보다 많아질 것'이라고 전망했다는 소식입니다.",
+    "implication": "교사들은 AI 기술이 업무 환경에 미치는 영향을 이해하고, 교육 분야에서의 AI 활용 가능성을 탐색하여 미래 교육을 준비할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    }
   ],
   "paper": [
@@ -190,11 +199,12 @@
     "topic": "design_curric",
     "kind": null,
     "entities": [],
-    "summary": "The landscape of education has evolved significantly in recent years, driven by advancements in technology and innovative pedagogical approaches. Among these, the flipped classroom pedagogy has gained...",
+    "summary": "플립러닝 교수법이 고등학교 학생들의 학업 성취에 미치는 영향과 소셜 네트워크 사이트 활용의 매개 역할을 분석한 연구입니다.",
     "implication": "",
-    "ai": false,
+    "ai": true,
     "authors": "Wajid Mahnaz, Gulzar 외 1명",
-    "pdf": ""
+    "pdf": "",
+    "summary_src": "ai-backfill"
    },
    {
     "n": 3,
@@ -241,11 +251,12 @@
     "topic": "personalized",
     "kind": null,
     "entities": [],
-    "summary": "A university campus is comprised of Schools and Faculties attended by students whose primary intention is to learn and ultimately graduate with their desired qualification. From the moment students a...",
+    "summary": "데이터 기반 고등 교육 기관에서 혁신적인 학습 분석 연구가 진행되고 있다는 내용입니다.",
     "implication": "",
-    "ai": false,
+    "ai": true,
     "authors": "David Azcona, Owen Corrigan 외 1명",
-    "pdf": ""
+    "pdf": "",
+    "summary_src": "ai-backfill"
    }
   ],
   "tech": [
@@ -381,13 +392,21 @@
      "OpenAI",
      "ChatGPT"
     ],
-    "summary": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
+    "summary": "주요 보안 기업과 기업들이 OpenAI의 Trusted Access for Cyber에 참여하여 GPT-5.4-Cyber 및 1천만 달러의 API 지원을 통해 글로벌 사이버 방어 강화를 목표로 한다는 소식입니다.",
     "implication": "",
-    "ai": false,
-    "dup_of": "2026-04-20"
+    "ai": true,
+    "dup_of": "2026-04-20",
+    "summary_src": "ai-backfill"
    }
   ]
  },
  "fallback": {},
- "notes": {}
+ "notes": {},
+ "enrich": {
+  "hash": "4682d75403f1",
+  "model": "gemini-2.5-flash",
+  "topics": 0,
+  "title_ko": 0,
+  "summaries": 12
+ }
 }

@@ -13,9 +13,10 @@
     "topic": "teacher",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "제자에게 피습당한 계룡 교사의 소식이 전해지며 참담한 교육 현장의 현실을 보여주고 있다는 사설입니다.",
+    "implication": "교사들은 학생 안전뿐만 아니라 교사 자신의 안전과 심리적 지지를 위한 학교 및 교육청의 지원 방안에 대해 관심을 가질 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 2,
@@ -30,9 +31,10 @@
      "전남교육청",
      "교사 연수"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "전남교육청이 전문적학습공동체와 교과교육연구회를 중심으로 수업 변화를 선도하고 있다는 소식입니다.",
+    "implication": "교사들은 전문적학습공동체나 교과교육연구회에 참여하여 동료 교사들과 함께 수업 전문성을 향상시키고 새로운 교수법을 탐색할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 3,
@@ -46,9 +48,10 @@
     "entities": [
      "Microsoft"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "김석준 교육감이 마이크로소프트(MS) 본사 방문단과 만나 부산 AI 교육 협력 방안을 논의했다는 소식입니다.",
+    "implication": "교사들은 학교에서 AI 교육 도입 시 마이크로소프트와 같은 글로벌 기업과의 협력을 통해 제공될 수 있는 교육 자원이나 프로그램에 주목할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 4,
@@ -63,9 +66,10 @@
      "교육부",
      "교육 예산"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "교육부가 추경 4조 8000억 원의 교부금 활용을 점검하고 학교 현장에 신속한 투입을 강조했다는 소식입니다.",
+    "implication": "교사들은 학교 예산 집행 상황을 파악하고, 필요한 교육 환경 개선이나 프로그램 운영을 위해 예산 활용 방안을 제안할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 5,
@@ -79,9 +83,10 @@
     "entities": [
      "충남교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "충남교육청이 연구학교 13곳을 본격 운영하며 미래교육 실험에 나선다는 소식입니다.",
+    "implication": "교사들은 충남교육청의 연구학교 운영 사례를 참고하여 미래 교육 방향과 새로운 교수법에 대한 아이디어를 얻을 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 6,
@@ -110,10 +115,11 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false,
-    "dup_of": "2026-04-14"
+    "summary": "전남과 광주의 행정통합 이후 교육정책 해법을 '초광역 교육 거버넌스'에서 찾고 있다는 소식입니다.",
+    "implication": "교사들은 지역 교육 정책 변화에 관심을 가지고, 통합된 교육 거버넌스가 가져올 교육 환경 및 제도 변화에 대비할 수 있습니다.",
+    "ai": true,
+    "dup_of": "2026-04-14",
+    "summary_src": "ai-backfill"
    },
    {
     "n": 8,
@@ -125,10 +131,11 @@
     "topic": "ai_digital",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false,
-    "dup_of": "2026-04-14"
+    "summary": "미래엔과 아꿈선이 현장 밀착형 디지털 수업 혁신을 이끌고 있다는 소식입니다.",
+    "implication": "교사들은 미래엔과 아꿈선이 제공하는 디지털 수업 자료나 연수 프로그램에 참여하여 실제 수업에 적용할 수 있는 디지털 역량을 강화할 수 있습니다.",
+    "ai": true,
+    "dup_of": "2026-04-14",
+    "summary_src": "ai-backfill"
    },
    {
     "n": 9,
@@ -142,9 +149,10 @@
     "entities": [
      "전남교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "전남교육청이 올해도 교원의 '수업 전문성'을 키우는 데 집중한다는 소식입니다.",
+    "implication": "교사들은 전남교육청에서 제공하는 다양한 수업 전문성 강화 연수나 프로그램을 적극적으로 활용하여 자신의 교수 역량을 향상시킬 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 10,
@@ -158,9 +166,10 @@
     "entities": [
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기도교육청이 AI 기반 서·논술형 평가 모델을 본격적으로 도입한다는 소식입니다.",
+    "implication": "교사들은 AI 기반 평가 시스템의 도입에 대비하여 서·논술형 평가 문항 개발 및 채점 기준에 대한 이해를 높이고, 학생들에게 효과적인 피드백을 제공하는 방법을 고민할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    }
   ],
   "paper": [
@@ -420,5 +429,12 @@
  "fallback": {},
  "notes": {
   "tech": "AI 기술은 최신 정보 반영, B2B 사업 확장, 핀테크 통합 등 다방면으로 발전하고 있으며, 보안 및 인재 유치 이슈에도 불구하고 에이전트 워크플로우 및 소버린 AI 개발 등 긍정적인 성장이 기대된다"
+ },
+ "enrich": {
+  "hash": "7faa7837d383",
+  "model": "gemini-2.5-flash",
+  "topics": 0,
+  "title_ko": 0,
+  "summaries": 9
  }
 }

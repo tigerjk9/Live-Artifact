@@ -15,9 +15,10 @@
     "entities": [
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기도교육청이 '초등 교육과정-수업-평가 통합 설계'를 마무리했다는 소식입니다.",
+    "implication": "교사는 교육과정, 수업, 평가를 유기적으로 연계하여 학생 중심의 학습 경험을 설계할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 2,
@@ -29,9 +30,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "맹수석 씨가 현장 중심 교육정책으로 새로운 변화를 이끌겠다는 의지를 밝혔다는 소식입니다.",
+    "implication": "교사는 현장의 목소리가 반영된 정책 변화에 관심을 가지고 교육 활동에 적용할 방안을 모색할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 3,
@@ -43,9 +45,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "이명수 씨가 9일 '우학연' 회원들과 교육정책 간담회를 가졌다는 소식입니다.",
+    "implication": "교사는 다양한 교육 주체들의 의견을 경청하고 교육정책 논의에 참여하여 학교 현장의 요구를 전달할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 4,
@@ -59,9 +62,10 @@
     "entities": [
      "생성형 AI"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "홍성군에서 생성형 AI 활용 교육을 실시했다는 소식입니다.",
+    "implication": "교사는 생성형 AI 도구를 활용하여 수업 자료를 개발하거나 학생들의 창의적 학습 활동을 지원할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 5,
@@ -75,9 +79,10 @@
     "entities": [
      "생성형 AI"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "서부발전이 중소기업을 대상으로 ‘생성형 AI 직무교육’을 시행했다는 소식입니다.",
+    "implication": "교사는 생성형 AI를 활용한 직무 역량 강화 교육 사례를 참고하여 학생들의 미래 직업 역량 함양을 위한 교육 방안을 고민할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 6,
@@ -91,9 +96,10 @@
     "entities": [
      "충북교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "충북교육청이 교육 혁신의 새 물결을 일으키고 있다는 소식입니다.",
+    "implication": "교사는 교육청의 혁신 정책 방향을 이해하고, 자신의 수업과 학교 운영에 긍정적인 변화를 가져올 수 있는 방안을 탐색할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 7,
@@ -107,9 +113,10 @@
     "entities": [
      "경남교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경남교육청이 ‘미래형 학교 공간’으로 교육 혁신을 앞당긴다는 소식입니다.",
+    "implication": "교사는 미래형 학교 공간이 학생들의 학습 경험과 교사의 교수 활동에 미칠 영향을 고려하여 공간 활용 방안을 구상할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 8,
@@ -121,9 +128,10 @@
     "topic": "classroom",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "이재명 정부 1년 평가에서 교육개혁이 최대 숙제로 꼽혔다는 소식입니다.",
+    "implication": "교사는 교육개혁의 필요성과 방향에 대해 관심을 가지고, 학교 현장에서 실질적인 변화를 이끌어낼 수 있는 방안을 함께 고민할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 9,
@@ -137,9 +145,10 @@
     "entities": [
      "교육부"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "한국조경학회가 조경교육부터 아카이브까지 다음 50년을 그리는 활동을 펼쳤다는 소식입니다.",
+    "implication": "교사는 특정 분야의 교육과 학술 활동이 어떻게 미래를 준비하는지 참고하여, 자신의 교과 교육과정 설계에 대한 영감을 얻을 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 10,
@@ -153,9 +162,10 @@
     "entities": [
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기교육청이 초등 수업 혁신을 이끌 전문가를 양성한다는 소식입니다.",
+    "implication": "교사는 수업 혁신 전문가 양성 프로그램에 참여하거나 관련 자료를 활용하여 자신의 수업 전문성을 지속적으로 발전시킬 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    }
   ],
   "paper": [
@@ -416,5 +426,12 @@
  "fallback": {},
  "notes": {
   "tech": "AI 기술 경쟁이 심화되는 가운데, 윤리적 문제와 안전성 확보 노력이 병행되며, 다양한 분야에서 AI 활용이 확산되고, 특히 고령층까지 AI에 대한 관심이 높아지는 추세다."
+ },
+ "enrich": {
+  "hash": "4335fd8ca885",
+  "model": "gemini-2.5-flash",
+  "topics": 0,
+  "title_ko": 0,
+  "summaries": 10
  }
 }

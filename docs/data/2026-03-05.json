@@ -13,9 +13,10 @@
     "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "사경희 이사장이 디지털 교육의 진정한 의미를 '할 수 있는가'를 넘어 '선택할 수 있는가'의 관점에서 조명하는 칼럼입니다.",
+    "implication": "교사는 디지털 도구를 활용한 수업에서 학생들에게 단순한 사용을 넘어 주체적인 선택의 기회를 제공할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 2,
@@ -27,9 +28,10 @@
     "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "디지털 미래를 위한 그린 네트워크 기술의 중요성을 다루는 ET시론입니다.",
+    "implication": "교사는 미래 교육 환경에서 에너지 효율적인 기술 활용 방안에 대해 관심을 가질 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 3,
@@ -43,9 +45,10 @@
     "entities": [
      "NVIDIA"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "엔비디아 '루빈'의 독주에 맞서 AMD와 인텔이 '실리콘 틈새'를 돌파하려는 전략을 기고문에서 분석하고 있습니다.",
+    "implication": "교사는 AI 기술 발전의 경쟁 구도를 이해하고, 다양한 기술이 교육 현장에 미칠 영향을 예측해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 4,
@@ -57,9 +60,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "임태희 교육감이 '불가능(Impossible)을 가능(IM_possible)으로'라는 메시지를 담은 첫 저서를 출간했다는 소식입니다.",
+    "implication": "교사는 교육 정책 방향에 대한 교육감의 철학을 이해하고, 교육 현장에서 긍정적인 변화를 이끌어낼 수 있는 방안을 모색할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 5,
@@ -74,9 +78,10 @@
      "충북교육청",
      "IB"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "충북교육청과 제천시가 'IB모델'을 구축하고 AI 미래교육에 대해 논의한다는 소식입니다.",
+    "implication": "교사는 국제 바칼로레아(IB) 모델과 AI 교육의 융합이 수업 방식과 학생 평가에 어떤 변화를 가져올지 탐색해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 6,
@@ -90,9 +95,10 @@
     "entities": [
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기도교육청이 교실 속 스마트기기 활용에 책임과 기준을 더하겠다는 방침을 밝혔다는 소식입니다.",
+    "implication": "교사는 스마트기기 활용 수업 시 학생들의 책임감 있는 사용을 유도하고, 명확한 기준을 설정하여 효과적인 학습 환경을 조성할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 7,
@@ -106,9 +112,10 @@
     "entities": [
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기도교육청이 '스마트기기 사용 수업 가이드'를 개발하여 디지털 교육 안전 기준을 마련했다는 소식입니다.",
+    "implication": "교사는 개발된 가이드를 참고하여 스마트기기 활용 수업에서 발생할 수 있는 문제들을 예방하고, 안전한 디지털 학습 환경을 구축할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 8,
@@ -122,9 +129,10 @@
     "entities": [
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "'경기도교육감 출마' 안민석 후보가 낡은 교육을 AI 시대에 맞게 바꾸는 '도구'가 되겠다고 인터뷰에서 밝혔다는 소식입니다.",
+    "implication": "교사는 AI 시대에 필요한 교육의 변화 방향에 대해 고민하고, 새로운 교육 패러다임을 수업에 적용할 방안을 모색할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 9,
@@ -136,9 +144,10 @@
     "topic": "ai_digital",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "미국 로스앤젤레스(LA) 교육감이 FBI 압수수색 후 직무 정지 처분을 받았다는 소식입니다.",
+    "implication": "교사는 교육 행정의 투명성과 윤리적 책임의 중요성을 인식하고, 교육 현장에서 신뢰를 구축하는 데 기여할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 10,
@@ -152,14 +161,22 @@
     "entities": [
      "광주시교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "이정선 광주광역시교육감이 '단 한 명도 놓치지 않는' 광주교육의 방향에 대해 인터뷰에서 설명했다는 소식입니다.",
+    "implication": "교사는 모든 학생을 포용하는 교육 철학을 이해하고, 개별 학생의 성장과 발달을 지원하는 맞춤형 교육 방안을 수업에 적용할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    }
   ],
   "paper": [],
   "tech": []
  },
  "fallback": {},
- "notes": {}
+ "notes": {},
+ "enrich": {
+  "hash": "9b1db93b7961",
+  "model": "gemini-2.5-flash",
+  "topics": 0,
+  "title_ko": 0,
+  "summaries": 10
+ }
 }

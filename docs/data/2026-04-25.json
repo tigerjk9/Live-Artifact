@@ -13,9 +13,10 @@
     "topic": "policy",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "예측 불가능한 교육정책으로 인해 대학들이 나아가야 할 방향을 찾기 어렵다는 사설입니다.",
+    "implication": "교사들은 변화하는 정책 속에서도 학생들의 학습 경험을 최우선으로 고려하며 유연하게 교육과정을 운영할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 2,
@@ -29,9 +30,10 @@
     "entities": [
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기도교육청이 ‘교육과정-수업-평가 통합 설계’를 통해 초등 교육 혁신을 가속화한다는 소식입니다.",
+    "implication": "교사들은 교육과정, 수업, 평가를 유기적으로 연계하여 학생 중심의 깊이 있는 학습을 설계할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 3,
@@ -45,9 +47,10 @@
     "entities": [
      "서울시교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "정근식 서울교육감 후보가 민주·진보 단일후보로 확정되어 서울교육의 변화와 혁신을 이끌 것이라는 내용입니다.",
+    "implication": "교사들은 새로운 교육감의 비전과 정책 방향을 이해하고, 학교 현장에서 교육 혁신을 위한 주체적인 역할을 모색할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 4,
@@ -59,9 +62,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "AI 시대에 재외동포 한국어 교육정책의 대안을 모색한다는 내용입니다.",
+    "implication": "교사들은 AI 기술을 활용하여 다문화 학생 및 재외동포 학생들의 한국어 학습을 지원하고, 맞춤형 교육 콘텐츠를 개발할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 5,
@@ -73,9 +77,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "김성제 국민의힘 경기 의왕시장 후보가 ‘교육은 말이 아니라 실행’이라며 의왕 교육정책의 성과를 공개했다는 소식입니다.",
+    "implication": "교사들은 지역 교육 정책의 실제적인 성과를 파악하고, 학교 현장에서 학생들에게 실질적인 도움이 되는 교육 활동을 기획할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 6,
@@ -89,9 +94,10 @@
     "entities": [
      "국회"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "산청 신등면 황원 씨가 국가교육위원회 국민참여위원으로 위촉되어 산골 아이들의 목소리를 국가 교육정책의 중심으로 가져올 것이라는 내용입니다.",
+    "implication": "교사들은 다양한 배경을 가진 학생들의 목소리에 귀 기울이고, 교육 정책 수립 과정에 적극적으로 참여하여 현장의 요구를 전달할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 7,
@@ -103,9 +109,10 @@
     "topic": "ai_digital",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "AI미래교육연구회와 에듀테크 기업이 '초밀착' 동행하며 'Miix AI'가 교실 풍경을 바꿀 것이라는 소식입니다.",
+    "implication": "교사들은 새로운 AI 에듀테크 도구를 적극적으로 탐색하고, 이를 수업에 적용하여 학생들의 학습 경험을 풍부하게 만들 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 8,
@@ -117,9 +124,10 @@
     "topic": "ai_digital",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "IBK기업은행이 중소상공인 AI 교육에 1억원을 기부했다는 소식입니다.",
+    "implication": "교사들은 기업의 사회 공헌 활동을 통해 AI 교육 기회가 확대될 수 있음을 인지하고, 학교와 지역사회를 연계한 AI 교육 프로그램을 구상할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 9,
@@ -133,9 +141,10 @@
     "entities": [
      "교육부"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "김성제 후보가 AI 교육부터 통학 및 교육 환경까지 아이들의 ‘생활안전’을 책임지겠다고 밝혔다는 내용입니다.",
+    "implication": "교사들은 AI 교육을 통해 학생들의 디지털 리터러시와 안전 의식을 함양하고, 학교 안팎의 안전한 학습 환경 조성에 기여할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 10,
@@ -149,9 +158,10 @@
     "entities": [
      "충북교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "윤건영 충북교육감이 조속한 직업계고의 미래 전환을 강조하며 ‘숙련된 기술인의 시대’에 대비할 것을 주문했다는 소식입니다.",
+    "implication": "교사들은 직업계고 학생들에게 미래 사회에 필요한 기술과 역량을 가르치기 위해 교육과정을 혁신하고, 산업 현장과의 연계를 강화할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    }
   ],
   "paper": [
@@ -374,9 +384,10 @@
     "entities": [
      "ChatGPT"
     ],
-    "summary": "The hidden cost of probabilistic outputs in systems that demand reliability The post",
+    "summary": "GPT-4를 로컬 SLM으로 대체한 후 CI/CD 파이프라인의 오류가 멈췄다는 내용으로, 신뢰성을 요구하는 시스템에서 확률적 출력의 숨겨진 비용에 대한 게시물입니다.",
     "implication": "",
-    "ai": false
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 9,
@@ -412,5 +423,12 @@
   ]
  },
  "fallback": {},
- "notes": {}
+ "notes": {},
+ "enrich": {
+  "hash": "fb8bf0cee042",
+  "model": "gemini-2.5-flash",
+  "topics": 0,
+  "title_ko": 0,
+  "summaries": 11
+ }
 }

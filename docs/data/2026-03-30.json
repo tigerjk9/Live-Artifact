@@ -31,9 +31,10 @@
     "entities": [
      "서울시교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "서울시교육청이 서울대학교와 대전환 시대의 미래교육 혁신을 위한 협력 방안을 모색하기로 했다는 소식입니다.",
+    "implication": "미래 교육의 방향을 함께 고민하고 새로운 교육 모델을 탐색하는 데 참여할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 3,
@@ -45,9 +46,10 @@
     "topic": "classroom",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "5시간 몰입보다 10초 멍 때리기가 더 효과적일 수 있다는 뇌과학 기반 학습의 골든타임에 대한 내용입니다.",
+    "implication": "수업 중 짧은 휴식이나 전환 활동을 통해 학생들의 학습 효율을 높이는 방법을 고려해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 4,
@@ -61,9 +63,10 @@
     "entities": [
      "서울시교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "서울시교육청과 서울대학교가 미래교육 혁신을 위한 협력 체계를 구축했다는 소식입니다.",
+    "implication": "대학과의 연계를 통해 교실에 적용할 수 있는 새로운 교육 프로그램이나 연구 기회를 탐색할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 5,
@@ -78,9 +81,10 @@
      "경기도교육청",
      "교육감 선거"
     ],
-    "summary": "유은혜",
-    "implication": "",
-    "ai": false
+    "summary": "유은혜 경기교육감 예비후보가 AI 전문가 간담회를 통해 미래교육 설계를 추진하고 있다는 소식입니다.",
+    "implication": "AI 교육 정책의 방향을 이해하고, 교실에서 AI를 활용한 수업 방안을 미리 구상해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 6,
@@ -95,9 +99,10 @@
      "경기도교육청",
      "교사 연수"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기도교육청미래과학교육원이 AI 기반 교원 연수 프로그램인 '하이-사이클'을 본격적으로 도입했다는 소식입니다.",
+    "implication": "AI 교육 역량을 강화할 수 있는 교원 연수 프로그램에 적극적으로 참여하여 전문성을 높일 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 7,
@@ -111,9 +116,10 @@
     "entities": [
      "IB"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "IB 수업, AI 외국어교육, 국제교류 성과가 인정받았다는 내용입니다.",
+    "implication": "다양한 교육 프로그램의 성과를 참고하여 교실에 적용할 수 있는 혁신적인 수업 방안을 모색할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 8,
@@ -128,9 +134,10 @@
      "경기도교육청",
      "사교육"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기도교육청이 교육대학원과 연계하여 '인공지능 융합교육 전문과정'을 개설하고 교원 172명을 선발했다는 소식입니다.",
+    "implication": "AI 융합 교육 전문성을 심화할 수 있는 교육 과정에 관심을 가지고 참여 기회를 찾아볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 9,
@@ -145,9 +152,10 @@
      "경남교육청",
      "교육감 선거"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "오인태 경남교육감 예비후보가 학교 중심 경남교육과 양산 교육격차 해소를 공약으로 내세웠다는 인터뷰 내용입니다.",
+    "implication": "지역 교육 정책의 방향을 이해하고, 학교 현장에서 교육격차 해소를 위한 역할을 고민해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 10,
@@ -161,9 +169,10 @@
     "entities": [
      "교육감 선거"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "송문석 교육감선거 예비후보가 10대 공약을 발표했다는 소식입니다.",
+    "implication": "교육감 후보들의 공약을 통해 교육 정책의 변화를 예측하고, 교실 현장에 미칠 영향을 미리 생각해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    }
   ],
   "paper": [
@@ -417,5 +426,12 @@
  "fallback": {},
  "notes": {
   "tech": "AI 기술이 초저가 모델부터 전문 분야 에이전트, 개인 맞춤형 악기까지 다양하게 발전하고 있으며, 기업 운영 및 리더십에까지 영향을 미치면서 비용 효율성을 추구하는 방향으로 진화하고 있다."
+ },
+ "enrich": {
+  "hash": "4dc46100d789",
+  "model": "gemini-2.5-flash",
+  "topics": 0,
+  "title_ko": 0,
+  "summaries": 9
  }
 }

@@ -13,9 +13,10 @@
     "topic": "policy",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "이재희 칼럼은 교육개혁의 골든타임임에도 불구하고 국정과제 로드맵이 보이지 않는다는 지적입니다.",
+    "implication": "교사는 교육 정책의 방향성을 이해하고, 변화하는 교육 환경에 능동적으로 대비할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 2,
@@ -27,9 +28,10 @@
     "topic": "student_care",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "대교에듀캠프가 '마이페이스' 사회정서학습 프로그램을 고도화했다는 소식입니다.",
+    "implication": "교사는 학생들의 사회정서 역량 강화를 위한 프로그램을 수업에 활용하거나 참고할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 3,
@@ -60,9 +62,10 @@
     "entities": [
      "대구시교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "강은희 대구교육감이 3선 도전을 선언하며 대구 교육혁신에 앞장서겠다는 의지를 밝혔다는 소식입니다.",
+    "implication": "교사는 교육감의 교육 철학과 공약을 이해하고, 학교 현장에 미칠 영향을 예측해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 5,
@@ -74,9 +77,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "TK교육혁신시민연합이 임종식 교육감의 3선 도전 포기를 촉구하며 '무죄와 청렴은 다르다'고 주장했다는 소식입니다.",
+    "implication": "교사는 교육계 리더십의 윤리성과 투명성에 대한 사회적 요구를 인식하고, 교육 공동체의 신뢰 구축에 기여할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 6,
@@ -88,9 +92,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "이병도 의원이 충청권 민주·진보 교육감 단일 후보들과 교육혁신을 위해 협력하기로 했다는 소식입니다.",
+    "implication": "교사는 지역 교육 정책의 방향성을 이해하고, 교육 혁신 논의에 관심을 가질 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 7,
@@ -102,9 +107,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "특별자치시도에서 교육자치 실현을 위해 교육과정 자율성 확대, 교육감 권한 강화, 유연한 정원 운용권이 필요하다는 주장이 제기되었다는 소식입니다.",
+    "implication": "교사는 교육 자치 확대가 학교 운영과 교육과정에 미칠 변화를 이해하고, 자율적인 교육 활동을 계획할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 8,
@@ -118,9 +124,10 @@
     "entities": [
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기도교육청이 학교 현장 영상 콘텐츠 '우물현답'을 공개했다는 소식입니다.",
+    "implication": "교사는 학교 현장의 다양한 사례와 정보를 영상 콘텐츠를 통해 접하고, 수업 및 학급 운영에 참고할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 9,
@@ -134,9 +141,10 @@
     "entities": [
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "이애형 의원과 경기도의회가 경기도교육청 조원 청사의 새 출발을 응원하며 경기 미래교육의 중심지이자 소통·혁신의 공간 역할을 기대한다는 소식입니다.",
+    "implication": "교사는 교육청의 새로운 공간이 교육 혁신에 기여할 가능성을 이해하고, 교육청과의 소통 기회를 활용할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 10,
@@ -150,9 +158,10 @@
     "entities": [
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기도교육청이 조원청사 재구조화를 완료하여 '미래교육 거점·스마트 교육복합공간'으로 전환했다는 소식입니다.",
+    "implication": "교사는 교육청의 물리적 환경 변화가 미래 교육 방향과 어떻게 연결되는지 이해하고, 관련 자원을 활용할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    }
   ],
   "paper": [
@@ -166,11 +175,12 @@
     "topic": "design_curric",
     "kind": null,
     "entities": [],
-    "summary": ": This study applies the teaching philosophy of Outcome-Based Education (OBE) to a curriculum, enhancing its educational value through the strategic design of teaching modes, construction of teaching ...",
+    "summary": "이 연구는 OBE(Outcome-Based Education) 교육 철학을 교육과정에 적용하여 교수 모드 설계와 교수법 구성을 통해 교육적 가치를 향상시키는 방법을 다룹니다.",
     "implication": "",
-    "ai": false,
+    "ai": true,
     "authors": "Yantao He, Sijia Liu",
-    "pdf": ""
+    "pdf": "",
+    "summary_src": "ai-backfill"
    },
    {
     "n": 2,
@@ -185,11 +195,12 @@
      "에이전트",
      "AI 튜터"
     ],
-    "summary": "Secondary school students enrolled in the AP Computer Science Principles (CSP) course commonly utilize web resources (e.g., tutorials, Q\\&A sites) to better understand key concepts in the curriculum. ...",
+    "summary": "이 연구는 AP 컴퓨터 과학 원리(CSP) 과정을 수강하는 중등학생들의 핵심 개념 이해를 돕기 위해 대화형 에이전트의 활용 가능성을 탐구합니다.",
     "implication": "",
-    "ai": false,
+    "ai": true,
     "authors": "['Matthew Frazier', 'Kostadin Damevski' 외 1명",
-    "pdf": "http://arxiv.org/pdf/2604.16213v1"
+    "pdf": "http://arxiv.org/pdf/2604.16213v1",
+    "summary_src": "ai-backfill"
    },
    {
     "n": 3,
@@ -201,11 +212,12 @@
     "topic": "literacy_ethics",
     "kind": null,
     "entities": [],
-    "summary": "With growing expectations to use AI-based educational technology (AI-EdTech) to improve students' learning outcomes and enrich teaching practice, teachers play a central role in the adoption of AI-EdT...",
+    "summary": "이 연구는 AI 기반 교육 기술(AI-EdTech)의 채택에 있어 교사의 역할이 중요해짐에 따라, 6개국 교사들이 교육 AI를 신뢰하는 요인을 분석합니다.",
     "implication": "",
-    "ai": false,
+    "ai": true,
     "authors": "['Olga Viberg', 'Mutlu Cukurova' 외 10명",
-    "pdf": "http://arxiv.org/pdf/2312.01627v2"
+    "pdf": "http://arxiv.org/pdf/2312.01627v2",
+    "summary_src": "ai-backfill"
    },
    {
     "n": 4,
@@ -220,11 +232,12 @@
      "에이전트",
      "추론 모델"
     ],
-    "summary": "We present CODE-GEN, a human-in-the-Loop, retrieval-augmented generation (RAG)-based agentic AI system for generating context-aligned multiple-choice questions to develop student code reasoning and co...",
+    "summary": "이 연구는 학생의 코드 추론 및 협력 개발을 위한 문맥에 맞는 객관식 질문 생성을 위한 Human-in-the-Loop, 검색 증강 생성(RAG) 기반 에이전트 AI 시스템인 CODE-GEN을 소개합니다.",
     "implication": "",
-    "ai": false,
+    "ai": true,
     "authors": "['Xiaojing Duan', 'Frederick Nwanganga' 외 1명",
-    "pdf": "http://arxiv.org/pdf/2604.03926v1"
+    "pdf": "http://arxiv.org/pdf/2604.03926v1",
+    "summary_src": "ai-backfill"
    },
    {
     "n": 5,
@@ -236,11 +249,12 @@
     "topic": "learning_sci",
     "kind": null,
     "entities": [],
-    "summary": "The well-established pedagogy, group work is a key component of teaching and learning as it offers a wide range of benefits to learners across all education levels. In fact, advancements in digital te...",
+    "summary": "이 연구는 잘 확립된 교수법인 그룹 활동이 모든 교육 수준의 학습자에게 광범위한 이점을 제공한다는 점을 바탕으로, 연결주의 이론을 통해 온라인 그룹 활동을 탐구합니다.",
     "implication": "",
-    "ai": false,
+    "ai": true,
     "authors": "Shabina Kumari Subramaniam, N. A. C. Alih 외 1명",
-    "pdf": ""
+    "pdf": "",
+    "summary_src": "ai-backfill"
    }
   ],
   "tech": [
@@ -311,9 +325,10 @@
      "ChatGPT",
      "코딩 AI"
     ],
-    "summary": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
+    "summary": "하얏트가 전 세계 직원들에게 ChatGPT Enterprise를 배포하여 GPT-5.4 및 Codex를 활용해 생산성, 운영 및 고객 경험을 개선하고 있다는 소식입니다.",
     "implication": "",
-    "ai": false
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 5,
@@ -365,10 +380,11 @@
      "ChatGPT",
      "코딩 AI"
     ],
-    "summary": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
+    "summary": "클라우드플레어가 OpenAI의 GPT-5.4 및 Codex를 Agent Cloud에 통합하여 기업들이 실제 작업을 위한 AI 에이전트를 빠르고 안전하게 구축, 배포 및 확장할 수 있도록 지원한다는 소식입니다.",
     "implication": "",
-    "ai": false,
-    "dup_of": "2026-04-18"
+    "ai": true,
+    "dup_of": "2026-04-18",
+    "summary_src": "ai-backfill"
    },
    {
     "n": 8,
@@ -383,10 +399,11 @@
      "OpenAI",
      "ChatGPT"
     ],
-    "summary": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
+    "summary": "주요 보안 기업 및 기업들이 OpenAI의 Trusted Access for Cyber에 참여하여 GPT-5.4-Cyber 및 1천만 달러의 API 지원을 통해 글로벌 사이버 방어를 강화하고 있다는 소식입니다.",
     "implication": "",
-    "ai": false,
-    "dup_of": "2026-04-18"
+    "ai": true,
+    "dup_of": "2026-04-18",
+    "summary_src": "ai-backfill"
    },
    {
     "n": 9,
@@ -408,5 +425,12 @@
   ]
  },
  "fallback": {},
- "notes": {}
+ "notes": {},
+ "enrich": {
+  "hash": "38edcfbb4e3e",
+  "model": "gemini-2.5-flash",
+  "topics": 0,
+  "title_ko": 0,
+  "summaries": 17
+ }
 }

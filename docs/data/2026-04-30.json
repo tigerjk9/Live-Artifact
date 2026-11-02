@@ -28,9 +28,10 @@
     "topic": "teacher",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "임팩터스가 교사들의 피드백을 제품 설계에 반영하여 공교육 현장에 더 적합한 제품을 만들고 있다는 소식입니다.",
+    "implication": "교사들은 현장의 목소리가 반영된 교육 기술 제품을 활용하여 수업의 효율성을 높일 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 3,
@@ -44,9 +45,10 @@
     "entities": [
      "충북교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "충북교육청이 대안교육기관에도 '이로미'를 보급하여 디지털 교육 격차를 해소하려는 움직임을 보이고 있다는 소식입니다.",
+    "implication": "교사들은 다양한 교육 환경에서 디지털 도구를 활용하여 모든 학생에게 균등한 학습 기회를 제공할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 4,
@@ -61,9 +63,10 @@
      "경기도교육청",
      "다문화"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기도교육청이 다문화 교육 현장을 지원하기 위해 유치원 연수를 확대하고 있다는 소식입니다.",
+    "implication": "교사들은 다문화 학생들을 위한 전문성을 강화하여 모든 학생이 포용적인 환경에서 성장하도록 도울 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 5,
@@ -75,9 +78,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "권혁대 목원대 전 총장이 성광진 후보를 교육 현장을 가장 잘 아는 준비된 교육감이라고 평가했다는 소식입니다.",
+    "implication": "교사들은 교육감 후보의 교육 현장 이해도를 바탕으로 교육 정책 방향에 대한 기대를 가질 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 6,
@@ -121,9 +125,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "김광수 후보가 교육정책 제안 플랫폼 '내일의 씨앗'을 개설했다는 소식입니다.",
+    "implication": "교사들은 이러한 플랫폼을 통해 교육 정책 수립 과정에 적극적으로 참여하여 현장의 목소리를 전달할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 9,
@@ -137,9 +142,10 @@
     "entities": [
      "교원단체"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "충북 전교조가 '현장 교사 목소리 반영하라'며 릴레이 1인 시위를 진행하고 있다는 소식입니다.",
+    "implication": "교사들은 현장의 어려움과 요구사항을 적극적으로 표명하여 교육 정책과 환경 개선에 기여할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 10,
@@ -153,9 +159,10 @@
     "entities": [
      "에이전트"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "AI 에이전트와 에이전트형 AI가 어떻게 다른지에 대한 내용입니다.",
+    "implication": "교사들은 AI 기술의 다양한 개념을 이해하여 교육 현장에서 AI를 효과적으로 활용할 방안을 모색할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    }
   ],
   "paper": [
@@ -172,11 +179,12 @@
      "생성형 AI",
      "개인화 학습"
     ],
-    "summary": "Background: Generative Artificial Intelligence (AI) shows promise in enhancing personalised learning and improving educational efficiency. However, its integration into education raises concerns about...",
+    "summary": "생성형 인공지능(AI)이 개인 맞춤형 학습을 강화하고 교육 효율성을 향상시킬 잠재력을 보여주지만, 교육에의 통합은 우려를 제기한다는 내용입니다.",
     "implication": "",
-    "ai": false,
+    "ai": true,
     "authors": "Qianwen Tang, Wenbo Deng 외 1명",
-    "pdf": "http://dx.doi.org/10.1111/jcal.70027"
+    "pdf": "http://dx.doi.org/10.1111/jcal.70027",
+    "summary_src": "ai-backfill"
    },
    {
     "n": 2,
@@ -190,11 +198,12 @@
     "entities": [
      "AI 안전·규제"
     ],
-    "summary": "Self-regulated learning (or self-regulation) refers to the process whereby learners personally activate and sustain cognitions, affects, and behaviours that are systematically oriented toward the atta...",
+    "summary": "자기 조절 학습(또는 자기 조절)은 학습자가 체계적으로 목표 달성을 지향하는 인지, 정서 및 행동을 개인적으로 활성화하고 유지하는 과정을 의미한다는 내용입니다.",
     "implication": "",
-    "ai": false,
+    "ai": true,
     "authors": "Zimmerman, Barry J. 외 4명",
-    "pdf": "http://dx.doi.org/10.4324/9780203839010"
+    "pdf": "http://dx.doi.org/10.4324/9780203839010",
+    "summary_src": "ai-backfill"
    },
    {
     "n": 3,
@@ -333,9 +342,10 @@
      "OpenAI",
      "ChatGPT"
     ],
-    "summary": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
+    "summary": "OpenAI가 ChatGPT Enterprise 및 OpenAI API에 대해 FedRAMP Moderate 승인을 받아 미국 연방 기관의 안전한 AI 도입을 가능하게 했다는 소식입니다.",
     "implication": "",
-    "ai": false
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 6,
@@ -349,10 +359,11 @@
     "entities": [
      "ChatGPT"
     ],
-    "summary": "Explore the GPT-5.5 Bio Bug Bounty: a red-teaming challenge to find universal jailbreaks for bio safety risks, with rewards up to $25,000.",
+    "summary": "GPT-5.5 Bio Bug Bounty는 생물학적 안전 위험에 대한 보편적인 탈옥을 찾기 위한 레드팀 챌린지로, 최대 25,000달러의 보상이 제공된다는 소식입니다.",
     "implication": "",
-    "ai": false,
-    "dup_of": "2026-04-27"
+    "ai": true,
+    "dup_of": "2026-04-27",
+    "summary_src": "ai-backfill"
    },
    {
     "n": 7,
@@ -375,5 +386,12 @@
   ]
  },
  "fallback": {},
- "notes": {}
+ "notes": {},
+ "enrich": {
+  "hash": "8036d31476a8",
+  "model": "gemini-2.5-flash",
+  "topics": 0,
+  "title_ko": 0,
+  "summaries": 11
+ }
 }

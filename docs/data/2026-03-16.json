@@ -16,9 +16,10 @@
      "경기도교육청",
      "교육감 선거"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기교육감 후보들의 AI 교육 구상이 미흡하거나 부족하다는 사설입니다.",
+    "implication": "교사들은 AI 교육에 대한 정책적 논의를 주시하며, 학교 현장에서 AI를 어떻게 적용할지 미리 고민해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 2,
@@ -32,9 +33,10 @@
     "entities": [
      "사교육"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "사교육비 문제의 해법이 공교육 혁신에 달려있다는 사설입니다.",
+    "implication": "교사들은 공교육의 질을 높이기 위한 다양한 교육 방법을 탐색하고, 학생들의 학습 흥미를 유발하는 데 집중할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 3,
@@ -46,9 +48,10 @@
     "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "AI가 인간의 판단력을 잠식할 수 있다는 우려를 담은 기고입니다.",
+    "implication": "교사들은 AI 활용 시 비판적 사고와 윤리적 판단의 중요성을 학생들에게 강조하고, AI의 한계를 인지하도록 지도할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 4,
@@ -63,9 +66,10 @@
      "경기도교육청",
      "교육감 선거"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "정치적 이슈로 인해 경기교육감 선거에서 교육 정책 논의가 실종되었다는 논란입니다.",
+    "implication": "교사들은 교육 정책에 대한 관심을 가지고, 교육 현장의 목소리를 정책 결정 과정에 전달하기 위한 노력을 기울일 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 5,
@@ -79,9 +83,10 @@
     "entities": [
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "임태희 경기도교육감이 AI를 활용한 창의 교육이 미래 교육의 방향이라고 밝혔다는 소식입니다.",
+    "implication": "교사들은 AI를 활용한 창의적 수업 방안을 연구하고, 학생들의 미래 역량을 키우는 교육 활동을 계획할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 6,
@@ -93,9 +98,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "맹수석, 김영춘 두 인사가 2년 뒤 통합 교육감에 대한 공감대를 형성했다는 소식입니다.",
+    "implication": "교사들은 교육 행정의 변화 가능성에 주목하고, 통합 교육감이 가져올 교육 정책의 방향에 대해 관심을 가질 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 7,
@@ -109,9 +115,10 @@
     "entities": [
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "임태희 경기도교육감이 '학교중심교육' 메시지를 던졌다는 내용입니다.",
+    "implication": "교사들은 학교 현장의 자율성과 전문성을 강화하는 방향으로 교육 활동을 기획하고, 학교 중심 교육의 의미를 되새길 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 8,
@@ -127,9 +134,10 @@
      "충남교육청",
      "교육감 선거"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "이명수 전 국회의원이 충남교육감 선거에 돌입하며 교육계에 변화를 예고했다는 소식입니다.",
+    "implication": "교사들은 지역 교육감 선거에 관심을 가지고, 후보들의 교육 공약을 비교하며 교육 현장에 미칠 영향을 예측해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 9,
@@ -144,9 +152,10 @@
      "서울시교육청",
      "사교육"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "서울시교육청이 사교육 부담을 낮추기 위한 '사교육 경감 4대 대책'을 추진한다는 소식입니다.",
+    "implication": "교사들은 서울시교육청의 사교육 경감 대책을 이해하고, 학교 내에서 학생들의 학습 격차를 줄이고 공교육의 역할을 강화하는 방안을 모색할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 10,
@@ -160,9 +169,10 @@
     "entities": [
      "교육부"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "교육부와 AI가 동시에 '글쓰기'를 강조하는 진짜 이유에 대한 내용입니다.",
+    "implication": "교사들은 AI 시대에 필요한 글쓰기 교육의 중요성을 인식하고, 학생들의 비판적 사고와 창의적 표현 능력을 함양하는 글쓰기 수업을 설계할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    }
   ],
   "paper": [
@@ -420,5 +430,12 @@
  "fallback": {},
  "notes": {
   "tech": "AI 기술은 B2B 솔루션, 오픈소스 확산, 엑셀 연동 등 다양한 분야에서 혁신을 가속화하고 있지만, 동시에 기업들의 구조조정, 모델 안전성 문제, 에이전트 경쟁 심화 등 도전 과제에 직면하며 효율성과 안전성을 높이는 방향으로 진화하고 있다."
+ },
+ "enrich": {
+  "hash": "4db5815933b7",
+  "model": "gemini-2.5-flash",
+  "topics": 0,
+  "title_ko": 0,
+  "summaries": 10
  }
 }

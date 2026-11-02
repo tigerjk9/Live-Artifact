@@ -15,9 +15,10 @@
     "entities": [
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기도교육청이 예술과 감성을 연결하는 AI·에듀테크 결합 '미래형 수업'을 가동한다는 소식입니다.",
+    "implication": "교사는 AI와 에듀테크를 활용하여 학생들의 예술적 감성을 자극하고 창의적인 수업을 설계할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 2,
@@ -32,9 +33,10 @@
      "경북교육청",
      "고교학점제"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경북교육청의 '고교학점제 공동교육과정'에 역대 최대 규모인 4397명이 참여했다는 소식입니다.",
+    "implication": "교사는 고교학점제 공동교육과정을 통해 학생들에게 더욱 다양한 학습 기회를 제공하고 진로 탐색을 지원할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 3,
@@ -48,9 +50,10 @@
     "entities": [
      "전남교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "전남교육청이 '마을자원-교육과정' 접목 방안을 모색하기 위한 연찬회를 가졌다는 소식입니다.",
+    "implication": "교사는 지역사회의 다양한 자원을 교육과정에 연계하여 학생들에게 살아있는 학습 경험을 제공할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 4,
@@ -62,9 +65,10 @@
     "topic": "teacher",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "드론을 활용한 미래교육을 위해 교원 디지털 역량 강화 연수가 본격화된다는 소식입니다.",
+    "implication": "교사는 드론과 같은 신기술을 수업에 적용하여 학생들의 흥미를 유발하고 미래 역량을 키울 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 5,
@@ -76,9 +80,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "김성제 의왕시장 후보가 '교육은 실행이 중요'하다며 교육정책 성과를 공개했다는 소식입니다.",
+    "implication": "교사는 지역 교육정책의 방향을 이해하고 이를 바탕으로 교육 현장에서 실질적인 변화를 이끌어낼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 6,
@@ -90,9 +95,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "아동이 직접 만든 정책 공약을 천호성 후보에게 전달하며 교육정책에 적극 반영해달라고 요청했다는 소식입니다.",
+    "implication": "교사는 학생들의 의견을 경청하고 교육정책 수립 과정에 참여할 수 있도록 지도하여 민주시민 역량을 함양할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 7,
@@ -107,9 +113,10 @@
      "경기도교육청",
      "로봇·휴머노이드"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기도교육청미래과학교육원이 '2026 로봇(드론) 활용 프로그래밍' 연수를 운영한다는 소식입니다.",
+    "implication": "교사는 로봇 및 드론 프로그래밍 연수를 통해 미래 기술 교육 역량을 강화하고 학생들에게 실질적인 코딩 경험을 제공할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 8,
@@ -123,9 +130,10 @@
     "entities": [
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기도교육청이 미래형 예술수업 연수를 확대한다는 소식입니다.",
+    "implication": "교사는 미래형 예술수업 연수를 통해 새로운 교수법을 익히고 학생들의 창의성과 감성을 키우는 예술 교육을 실현할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 9,
@@ -139,9 +147,10 @@
     "entities": [
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기도교육청미래과학교육원이 '2026 자녀와 함께하는 소프트웨어·인공지능 교육'을 추진한다는 소식입니다.",
+    "implication": "교사는 학부모와 자녀가 함께 참여하는 AI 교육 프로그램을 통해 가정과 연계한 학습 효과를 높일 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 10,
@@ -156,9 +165,10 @@
      "경기도교육청",
      "코딩 AI"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기도교육청미래과학교육원이 부모·자녀가 함께하는 'AI·코딩 체험'을 운영한다는 소식입니다.",
+    "implication": "교사는 가족 단위의 AI·코딩 체험 활동을 통해 학생들의 흥미를 유발하고 가정에서의 디지털 교육 환경 조성을 지원할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    }
   ],
   "paper": [
@@ -425,5 +435,12 @@
   ]
  },
  "fallback": {},
- "notes": {}
+ "notes": {},
+ "enrich": {
+  "hash": "33d121ec505e",
+  "model": "gemini-2.5-flash",
+  "topics": 0,
+  "title_ko": 0,
+  "summaries": 10
+ }
 }

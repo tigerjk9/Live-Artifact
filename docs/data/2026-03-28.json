@@ -13,9 +13,10 @@
     "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "인간과 인공지능(AI)이 돌봄의 전 생애적 관점에서 어떻게 상호작용할 수 있는지에 대한 교육 칼럼입니다.",
+    "implication": "교사는 AI가 학생들의 전 생애적 발달 과정에서 돌봄의 역할을 어떻게 보완하고 지원할 수 있을지 고민해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 2,
@@ -27,10 +28,11 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false,
-    "dup_of": "2026-03-25"
+    "summary": "WBC 한국 야구를 보지 않는 것이 응원의 뇌과학과 어떤 관련이 있는지에 대한 내용입니다.",
+    "implication": "교사는 학생들의 학습 동기와 흥미를 유발하는 다양한 요인들을 뇌과학적 관점에서 이해하고 수업에 적용해 볼 수 있습니다.",
+    "ai": true,
+    "dup_of": "2026-03-25",
+    "summary_src": "ai-backfill"
    },
    {
     "n": 3,
@@ -42,10 +44,11 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false,
-    "dup_of": "2026-03-26"
+    "summary": "칭찬보다 더 강력한 보상의 유혹이 뇌과학적으로 어떻게 작용하는지에 대한 기획 내용입니다.",
+    "implication": "교사는 학생들에게 칭찬과 보상을 제공할 때, 학습 동기에 미치는 장기적인 영향을 고려하여 효과적인 피드백 전략을 수립할 수 있습니다.",
+    "ai": true,
+    "dup_of": "2026-03-26",
+    "summary_src": "ai-backfill"
    },
    {
     "n": 4,
@@ -59,9 +62,10 @@
     "entities": [
      "충북교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "윤건영 충북교육감이 국가 AI 교육 플랫폼 구축에 있어 '공존'을 강조하며 상생 특위 구성을 제안했다는 소식입니다.",
+    "implication": "교사는 학교 현장에서 AI 교육 플랫폼을 활용할 때, 다양한 교육 주체들과의 협력을 통해 시너지를 창출할 방안을 모색할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 5,
@@ -75,9 +79,10 @@
     "entities": [
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기교육혁신연대가 교육감 진보 후보 단일화 방식을 확정했으나, 후보들 사이에서는 엇갈린 반응이 나왔다는 소식입니다.",
+    "implication": "교사는 교육 정책 결정 과정의 복잡성을 이해하고, 다양한 이해관계자들의 의견을 수렴하는 중요성에 대해 학생들과 토론해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 6,
@@ -91,9 +96,10 @@
     "entities": [
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기교육혁신연대가 경기도교육감 진보 단일 후보 추대 방식을 확정했다는 소식입니다.",
+    "implication": "교사는 교육감 선거 과정에서 후보 단일화가 교육 정책 방향에 미칠 영향을 분석하고, 학생들에게 민주적 의사결정 과정을 설명할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 7,
@@ -107,9 +113,10 @@
     "entities": [
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기교육혁신연대가 경기 민주진보교육감 단일화 비율을 결정했다는 소식입니다.",
+    "implication": "교사는 선거 제도의 세부적인 규칙들이 결과에 미치는 영향을 이해하고, 학생들에게 합리적인 선택의 중요성을 가르칠 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 8,
@@ -123,9 +130,10 @@
     "entities": [
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "민주진보교육감 경선 룰이 확정되었으며, 유은혜 전 장관이 경기교육혁신연대의 노고에 감사를 표했다는 소식입니다.",
+    "implication": "교사는 교육 정책 수립 및 실행 과정에서 다양한 주체들의 역할과 기여를 이해하고, 학생들에게 협력의 가치를 강조할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 9,
@@ -139,9 +147,10 @@
     "entities": [
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기도교육청미래과학교육원이 인공지능 및 디지털 기반 연수 시스템 '하이-사이클'을 도입했다는 소식입니다.",
+    "implication": "교사는 새로운 AI·디지털 연수 시스템을 통해 자신의 전문성을 향상시키고, 이를 수업에 효과적으로 적용할 방안을 탐색할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 10,
@@ -155,9 +164,10 @@
     "entities": [
      "교육부"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "교육부가 AI 수업을 담당할 교사를 양성하기 위해 인공지능 연수 과정을 처음으로 도입했다는 소식입니다.",
+    "implication": "교사는 AI 교육 역량을 강화하기 위한 교육부의 지원을 적극 활용하여, 미래 사회에 필요한 AI 리터러시 교육을 학생들에게 제공할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    }
   ],
   "paper": [
@@ -420,5 +430,12 @@
  "fallback": {},
  "notes": {
   "tech": "AI 기술이 학계, 산업계 전반에서 혁신적인 발전을 이루고 있으며, 경쟁 심화 속에서 윤리적 문제 해결과 비용 효율성 추구가 중요해지는 시점이다."
+ },
+ "enrich": {
+  "hash": "679e1e448477",
+  "model": "gemini-2.5-flash",
+  "topics": 0,
+  "title_ko": 0,
+  "summaries": 10
  }
 }

@@ -15,9 +15,10 @@
     "entities": [
      "광주시교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "전남과 광주 교육행정통합을 위한 교육정책과제 실무협의가 본격적으로 시작되었다는 소식입니다.",
+    "implication": "지역 교육 정책 변화에 관심을 가지고 학교 운영 및 교육 과정에 미칠 영향을 미리 파악할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 2,
@@ -31,9 +32,10 @@
     "entities": [
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기도교육청이 'AI 서·논술형 평가'를 전면 확대하여 미래형 교육 평가체제 구축에 속도를 내고 있다는 소식입니다.",
+    "implication": "AI 기반 평가 시스템 도입에 대비하여 학생들의 서·논술 역량 강화 및 AI 활용 교육 방안을 모색할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 3,
@@ -47,9 +49,10 @@
     "entities": [
      "교육부"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "교육부가 기업 연계 단과대 설립과 AI 융합교육 강화를 골자로 하는 '서울대 10개 만들기 프로젝트'를 발표했다는 소식입니다.",
+    "implication": "대학 교육의 변화가 초·중등 교육에 미칠 영향을 고려하여 진로 교육 및 융합 교육의 방향을 고민할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 4,
@@ -63,9 +66,10 @@
     "entities": [
      "교육부"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "NHN이 전사적으로 'AI 내재화'에 속도를 내며 실습 교육부터 해커톤까지 다양한 노력을 기울이고 있다는 소식입니다.",
+    "implication": "기업의 AI 역량 강화 사례를 참고하여 교사 연수 및 학생 AI 교육 프로그램 개발에 대한 아이디어를 얻을 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 5,
@@ -79,9 +83,10 @@
     "entities": [
      "전남교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "전남교육청창의융합교육원에서 학생들을 위한 웹앱 제작 AI·디지털 교실을 운영하고 있다는 소식입니다.",
+    "implication": "학생들이 직접 AI·디지털 도구를 활용하여 창작물을 만들 수 있는 기회를 제공하여 디지털 리터러시를 함양할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 6,
@@ -93,9 +98,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "강미애 후보가 '현장 중심 교육개혁'을 앞세워 건설기계 노동자들의 지지를 확보했다는 소식입니다.",
+    "implication": "교육 정책이 다양한 사회 구성원의 요구를 반영하는 과정을 이해하고, 교육 현장의 목소리를 전달하는 데 관심을 가질 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 7,
@@ -109,9 +115,10 @@
     "entities": [
      "충북교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "충북교육감 공약 경쟁이 본격화되었으며, 재원 확보와 실행 전략 구현이 관건이라는 소식입니다.",
+    "implication": "교육감 후보들의 공약을 분석하여 학교 교육에 미칠 영향을 예측하고, 교육 정책에 대한 비판적 사고력을 기를 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 8,
@@ -125,9 +132,10 @@
     "entities": [
      "생성형 AI"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "금산군청소년상담복지센터에서 '생성형 AI시대 우리아이 슬기로운 스마트폰 생활'이라는 주제로 부모 교육을 실시했다는 소식입니다.",
+    "implication": "생성형 AI 시대에 학생들이 스마트폰을 현명하게 활용하도록 돕기 위해 학부모와 협력하여 교육 방안을 모색할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 9,
@@ -141,9 +149,10 @@
     "entities": [
      "생성형 AI"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "시흥시가 자체 생성형 AI 통합시스템 '시흥지니' 도입으로 업무 효율과 시민 편의를 동시에 잡았다는 소식입니다.",
+    "implication": "공공기관의 AI 시스템 도입 사례를 통해 학교 행정 업무 효율화 및 교육 서비스 개선에 AI를 활용할 방안을 고민할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 10,
@@ -158,9 +167,10 @@
      "생성형 AI",
      "코딩 AI"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "국립순천대학교에서 '생성형 AI는 어떻게 동작할까?'라는 주제로 왕초보 바이브 코딩 교육을 실시했다는 소식입니다.",
+    "implication": "학생들에게 생성형 AI의 원리를 쉽게 이해시키고 코딩 교육을 통해 AI 활용 능력을 키울 수 있는 기회를 제공할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    }
   ],
   "paper": [
@@ -423,5 +433,12 @@
  "fallback": {},
  "notes": {
   "tech": "AI 기술이 앱/OS 혁신, 개인 맞춤형 금융 서비스, 개발 자동화, 검색 효율성 증대 등 다양한 분야에 빠르게 통합되며, 오픈AI와 앤트로픽을 중심으로 더욱 지능적이고 사용자 친화적인 미래를 향해 나아가고 있다."
+ },
+ "enrich": {
+  "hash": "540701fb5e9a",
+  "model": "gemini-2.5-flash",
+  "topics": 0,
+  "title_ko": 0,
+  "summaries": 10
  }
 }

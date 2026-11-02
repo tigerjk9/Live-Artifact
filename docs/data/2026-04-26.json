@@ -15,9 +15,10 @@
     "entities": [
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기도교육청이 예술교육에 AI를 접목하여 교원들의 수업 혁신 실험을 확대한다는 소식입니다.",
+    "implication": "교사는 AI를 활용한 새로운 예술교육 방식을 탐색하여 학생들의 창의적 표현을 지원할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 2,
@@ -29,9 +30,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "김성제 의왕시장 후보가 '교육은 말이 아니라 실행'이라며 의왕 교육정책의 성과를 공개했다는 소식입니다.",
+    "implication": "교사는 지역 교육 정책의 실제적인 변화에 관심을 가지고 교육 현장에 미치는 영향을 파악할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 3,
@@ -45,9 +47,10 @@
     "entities": [
      "AI 디지털교과서"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "AI 디지털교과서 세대의 대학 진입에 있어 지금이 골든타임이라는 의견이 제시되었습니다.",
+    "implication": "교사는 AI 디지털교과서에 익숙한 학생들이 대학에서 필요로 할 역량을 미리 고민하고 수업에 반영할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 4,
@@ -61,9 +64,10 @@
     "entities": [
      "생성형 AI"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "문학 전공 분야까지 생성형 AI가 스며들면서 대학가의 창작 방식이 변화하고 있다는 소식입니다.",
+    "implication": "교사는 생성형 AI가 학생들의 학습 및 창작 활동에 미치는 영향을 이해하고, AI를 윤리적으로 활용하는 방안을 지도할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 5,
@@ -77,9 +81,10 @@
     "entities": [
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기도교육청이 예술과 감성을 잇는 '미래형 수업디자인'을 가동한다는 소식입니다.",
+    "implication": "교사는 미래형 수업 디자인의 방향성을 이해하고, 예술과 감성을 융합한 수업을 구상하여 학생들의 전인적 성장을 도울 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 6,
@@ -93,9 +98,10 @@
     "entities": [
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기도교육청이 음악·미술 교사 100명을 대상으로 AI와 치유교육까지 담은 미래형 예술수업 연수를 진행했다는 소식입니다.",
+    "implication": "교사는 AI 기술과 치유 교육을 예술 수업에 통합하여 학생들의 정서적 안정과 창의성 발달을 동시에 지원할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 7,
@@ -109,9 +115,10 @@
     "entities": [
      "서울시교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "정근식 후보가 서울시교육감 민주진보 단일후보를 수락했다는 소식입니다.",
+    "implication": "교사는 교육감 후보들의 공약을 주시하고, 교육 정책 변화가 학교 현장에 미칠 영향을 예측해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 8,
@@ -125,9 +132,10 @@
     "entities": [
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기도교육청이 미래형 예술교육 역량 강화 프로그램을 운영한다는 소식입니다.",
+    "implication": "교사는 미래형 예술교육 프로그램에 참여하여 자신의 전문성을 향상시키고, 학생들에게 더욱 풍부한 예술 경험을 제공할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 9,
@@ -141,9 +149,10 @@
     "entities": [
      "충북교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "윤건영 충북교육감이 숙련 기술인 시대에 직업계고의 미래 전환을 서둘러야 한다고 강조했다는 소식입니다.",
+    "implication": "교사는 직업계고 교육의 변화 방향을 이해하고, 학생들이 미래 사회에 필요한 실질적인 기술과 역량을 갖추도록 지도할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 10,
@@ -155,9 +164,10 @@
     "topic": "teacher",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "한국교육리더십연구회와 교원교육학회가 포럼을 개최하여 교원 전문성 강화 해법을 모색했다는 소식입니다.",
+    "implication": "교사는 교원 전문성 강화 방안에 대한 논의에 관심을 가지고, 자신의 전문성 개발을 위한 기회를 적극적으로 탐색할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    }
   ],
   "paper": [
@@ -420,5 +430,12 @@
   ]
  },
  "fallback": {},
- "notes": {}
+ "notes": {},
+ "enrich": {
+  "hash": "ad72043f372d",
+  "model": "gemini-2.5-flash",
+  "topics": 0,
+  "title_ko": 0,
+  "summaries": 10
+ }
 }

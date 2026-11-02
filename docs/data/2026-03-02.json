@@ -57,10 +57,11 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false,
-    "dup_of": "2026-02-28"
+    "summary": "한성진 박사가 파크골프, 골프코칭, 그리고 골프뇌과학에 대한 신간을 소개한다는 소식입니다.",
+    "implication": "교사들은 스포츠 교육이나 뇌과학 관련 수업 자료로 활용할 수 있습니다.",
+    "ai": true,
+    "dup_of": "2026-02-28",
+    "summary_src": "ai-backfill"
    },
    {
     "n": 5,
@@ -72,9 +73,10 @@
     "topic": "classroom",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "3월 첫째 주, 새 학년 수업 설계법에 대한 비상교육 외 6가지 학습 자료가 알림장으로 전달되었다는 소식입니다.",
+    "implication": "교사들은 새 학년 수업 준비에 필요한 다양한 자료를 참고하여 수업을 설계할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 6,
@@ -89,9 +91,10 @@
      "경남교육청",
      "교육감 선거"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "김영곤 경남교육감 예비후보가 디지털 인프라 중심의 정책 구조 전환을 선언했다는 소식입니다.",
+    "implication": "교사들은 미래 교육 환경 변화에 대한 논의에 관심을 가지고 참여할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 7,
@@ -105,9 +108,10 @@
     "entities": [
      "교육부"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "교육부가 후보 임용을 거부하여 부산교대 총장 재선거가 진행될 수순이라는 소식입니다.",
+    "implication": "교사들은 고등 교육 기관의 리더십 변화가 교육 현장에 미칠 영향에 대해 생각해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 8,
@@ -121,9 +125,10 @@
     "entities": [
      "서울시교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "서울시교육청이 인간 중심 AI 교육의 첫걸음으로 공교육 활용 가이드라인을 배포했다는 소식입니다.",
+    "implication": "교사들은 AI 교육 가이드라인을 참고하여 수업에 AI를 효과적으로 통합할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 9,
@@ -138,9 +143,10 @@
      "부산시교육청",
      "교육감 선거"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "최윤홍 부산교육감 예비후보가 출판기념회에서 '부산교육 체인지'를 선언했다는 소식입니다.",
+    "implication": "교사들은 지역 교육 정책 변화에 대한 후보들의 공약을 주의 깊게 살펴볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 10,
@@ -154,14 +160,22 @@
     "entities": [
      "교육감 선거"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "교육감 선거가 개학을 맞아 선거를 석 달 앞두고 진보·보수 후보 단일화가 본격화되고 있다는 소식입니다.",
+    "implication": "교사들은 교육감 선거의 주요 쟁점과 후보들의 교육 철학을 파악하여 교육 정책 방향을 예측해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    }
   ],
   "paper": [],
   "tech": []
  },
  "fallback": {},
- "notes": {}
+ "notes": {},
+ "enrich": {
+  "hash": "ff58f4e16e24",
+  "model": "gemini-2.5-flash",
+  "topics": 0,
+  "title_ko": 0,
+  "summaries": 7
+ }
 }

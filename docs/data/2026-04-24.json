@@ -15,9 +15,10 @@
     "entities": [
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기도교육청이 학교 공간재구조화 사업을 점검하고 에듀테크 현장연수를 진행했다는 소식입니다.",
+    "implication": "교사는 학교 공간이 미래 교육에 적합하게 변화하는 과정에서 에듀테크를 활용한 새로운 수업 방식을 모색할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 2,
@@ -31,9 +32,10 @@
     "entities": [
      "전남교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "전남교육청이 학교 현장에서 발생한 갑질 논란에 대해 엄정하게 대응하겠다고 밝혔습니다.",
+    "implication": "교사는 학교 내에서 발생할 수 있는 부당한 상황에 대해 교육청의 지원을 기대하며, 건강한 학교 문화를 조성하는 데 기여할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 3,
@@ -47,9 +49,10 @@
     "entities": [
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기도교육청이 미래교육 공간재구조화 연수를 통해 교직원들의 역량을 강화하고 있다는 소식입니다.",
+    "implication": "교사는 미래 교육 환경 변화에 발맞춰 공간을 활용한 혁신적인 수업 아이디어를 얻고 전문성을 향상시킬 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 4,
@@ -63,9 +66,10 @@
     "entities": [
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기도교육청이 독서, 공간, 교원 역량 강화를 포함하는 '미래교육 전주기 체계'를 본격적으로 추진한다는 소식입니다.",
+    "implication": "교사는 독서 교육, 공간 활용, 교원 전문성 개발 등 다양한 영역에서 미래 교육을 위한 지원을 활용하여 학생들의 성장을 도울 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 5,
@@ -77,9 +81,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "3개 교육단체가 6대 영역에 걸쳐 25개의 교육정책을 발표했다는 소식입니다.",
+    "implication": "교사는 다양한 교육 정책 제안들을 통해 교육 현장의 변화 방향을 이해하고, 자신의 교육 활동에 대한 시사점을 얻을 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 6,
@@ -93,9 +98,10 @@
     "entities": [
      "국회"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "국가교육정책에 국민의 뜻을 반영하기 위해 국가교육위원회 2기 국민참여위원회가 발족했다는 소식입니다.",
+    "implication": "교사는 교육 정책 수립 과정에 국민의 목소리가 반영되는 것에 관심을 가지고, 교육 현장의 의견을 전달할 기회를 모색할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 7,
@@ -107,10 +113,11 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false,
-    "dup_of": "2026-04-23"
+    "summary": "이병도 후보가 학부모와 현장 중심의 교육정책 소통을 강화하고 있다는 소식입니다.",
+    "implication": "교사는 교육 정책이 현장의 목소리를 반영하여 수립될 수 있도록 적극적으로 의견을 개진하고 소통에 참여할 수 있습니다.",
+    "ai": true,
+    "dup_of": "2026-04-23",
+    "summary_src": "ai-backfill"
    },
    {
     "n": 8,
@@ -124,9 +131,10 @@
     "entities": [
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기도교육청이 학교시설 담당자들을 대상으로 현장연수를 운영하고 있다는 소식입니다.",
+    "implication": "교사는 학교 시설 개선에 대한 이해를 높이고, 학생들의 학습 환경을 더욱 효과적으로 조성하기 위한 아이디어를 얻을 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 9,
@@ -140,9 +148,10 @@
     "entities": [
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기도교육청이 '교실이 바뀌면 교육이 달라진다'는 기치 아래 '공간재구조화' 현장 연수를 본격화하고 있다는 소식입니다.",
+    "implication": "교사는 변화하는 교실 공간을 활용하여 학생 중심의 유연하고 창의적인 수업을 설계하고 운영할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 10,
@@ -156,9 +165,10 @@
     "entities": [
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기도교육청이 관내 학교시설사업담당자들을 대상으로 체험 연수를 진행하고 있다는 소식입니다.",
+    "implication": "교사는 학교 시설 개선에 대한 이해를 높이고, 학생들의 학습 환경을 더욱 효과적으로 조성하기 위한 아이디어를 얻을 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    }
   ],
   "paper": [
@@ -298,10 +308,11 @@
      "ChatGPT",
      "코딩 AI"
     ],
-    "summary": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
+    "summary": "Hyatt는 전 세계 직원들에게 ChatGPT Enterprise를 배포하여 GPT-5.4 및 Codex를 활용해 생산성, 운영 및 고객 경험을 개선하고 있습니다.",
     "implication": "",
-    "ai": false,
-    "dup_of": "2026-04-21"
+    "ai": true,
+    "dup_of": "2026-04-21",
+    "summary_src": "ai-backfill"
    },
    {
     "n": 4,
@@ -390,5 +401,12 @@
   ]
  },
  "fallback": {},
- "notes": {}
+ "notes": {},
+ "enrich": {
+  "hash": "09f697dc1ef9",
+  "model": "gemini-2.5-flash",
+  "topics": 0,
+  "title_ko": 0,
+  "summaries": 11
+ }
 }

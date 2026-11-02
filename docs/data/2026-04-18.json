@@ -13,9 +13,10 @@
     "topic": "policy",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "조학규 칼럼에서 현재 우리 사회에 필요한 교육감의 조건에 대해 논하고 있다는 소식입니다.",
+    "implication": "교사들은 교육감의 리더십이 교육 현장에 미치는 영향을 이해하고, 교육 정책 방향에 대한 비판적 사고를 기를 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 2,
@@ -30,9 +31,10 @@
      "생성형 AI",
      "에이전트"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "생성형 AI에서 에이전트형 AI로의 전환과 자율제조를 위한 AI 에이전트 시스템 및 정책적 시사점에 대한 내용입니다.",
+    "implication": "교사들은 AI 기술 발전의 흐름을 이해하고, 미래 교육에서 에이전트형 AI가 가져올 변화에 대해 미리 고민해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 3,
@@ -46,9 +48,10 @@
     "entities": [
      "인천시교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "인천시교육청이 AI를 활용한 진로교육으로의 변화를 위해 교사 역량 강화에 본격적으로 나선다는 소식입니다.",
+    "implication": "교사들은 AI 기반 진로 교육 도구를 활용하여 학생들에게 더욱 맞춤화된 진로 탐색 기회를 제공할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 4,
@@ -63,9 +66,10 @@
      "대전시교육청",
      "IB"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "대전시교육청이 '질문하는 힘'을 키우는 IB(국제 바칼로레아) 교육을 통해 미래 교육의 해법을 모색하고 있다는 소식입니다.",
+    "implication": "교사들은 IB 교육의 핵심인 탐구 기반 학습과 질문 중심 수업 방식을 교실에 적용하여 학생들의 비판적 사고력을 함양할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 5,
@@ -79,9 +83,10 @@
     "entities": [
      "인천시교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "인천시교육청이 '강화에듀투어'를 운영하여 미래교육 현장 연수를 확대하고 있다는 소식입니다.",
+    "implication": "교사들은 다양한 현장 연수 프로그램에 참여하여 미래 교육 트렌드를 직접 경험하고 수업에 적용할 아이디어를 얻을 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 6,
@@ -95,9 +100,10 @@
     "entities": [
      "충남교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "충남교육청이 2026년 신규 임용 체육교사의 역량 강화를 위한 배움자리를 운영한다는 소식입니다.",
+    "implication": "교사들은 신규 교사 연수 프로그램을 통해 전문성을 강화하고, 동료 교사들과의 네트워크를 형성하여 교육 역량을 향상시킬 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 7,
@@ -111,9 +117,10 @@
     "entities": [
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기도교육청이 에듀테크를 활용한 수업 연구의 장을 마련하고 있다는 소식입니다.",
+    "implication": "교사들은 에듀테크 활용 수업 연구에 참여하여 새로운 교수법을 탐색하고, 학생들의 학습 참여도를 높이는 방안을 모색할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 8,
@@ -127,9 +134,10 @@
     "entities": [
      "충남교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "충남교육청평생교육원이 '교실 밖 배움의 즐거움'을 주제로 문해교육 현장체험학습을 실시한다는 소식입니다.",
+    "implication": "교사들은 교실 밖 학습 기회를 통해 학생들에게 다양한 경험을 제공하고, 학습 동기를 유발하여 전인적 성장을 지원할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 9,
@@ -143,9 +151,10 @@
     "entities": [
      "대전시교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "대전교육정책연구소가 공동연구진 협의회를 운영하여 현장 중심 정책연구를 강화하고 있다는 소식입니다.",
+    "implication": "교사들은 교육 정책 연구 과정에 관심을 가지고 참여하여, 현장의 목소리가 정책에 반영될 수 있도록 기여할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 10,
@@ -157,9 +166,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "몽골 유치원, 중·고등학교 교사 및 학생 80명이 'AI 새로운 세대의 교육정책 방향' 포럼에 참여했다는 소식입니다.",
+    "implication": "교사들은 국제적인 AI 교육 정책 동향을 파악하고, 우리 교육 현장에 적용할 수 있는 시사점을 찾아볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    }
   ],
   "paper": [
@@ -316,10 +326,11 @@
      "ChatGPT",
      "코딩 AI"
     ],
-    "summary": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
+    "summary": "Cloudflare가 OpenAI의 GPT-5.4와 Codex를 Agent Cloud에 통합하여 기업들이 AI 에이전트를 빠르고 안전하게 구축, 배포, 확장할 수 있도록 지원한다는 내용입니다.",
     "implication": "",
-    "ai": false,
-    "dup_of": "2026-04-15"
+    "ai": true,
+    "dup_of": "2026-04-15",
+    "summary_src": "ai-backfill"
    },
    {
     "n": 5,
@@ -402,13 +413,21 @@
      "OpenAI",
      "ChatGPT"
     ],
-    "summary": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
+    "summary": "주요 보안 기업과 기업들이 OpenAI의 Trusted Access for Cyber에 참여하여 GPT-5.4-Cyber와 1천만 달러의 API 지원금을 활용해 글로벌 사이버 방어를 강화한다는 내용입니다.",
     "implication": "",
-    "ai": false,
-    "dup_of": "2026-04-17"
+    "ai": true,
+    "dup_of": "2026-04-17",
+    "summary_src": "ai-backfill"
    }
   ]
  },
  "fallback": {},
- "notes": {}
+ "notes": {},
+ "enrich": {
+  "hash": "5e5086a4eb2f",
+  "model": "gemini-2.5-flash",
+  "topics": 0,
+  "title_ko": 0,
+  "summaries": 12
+ }
 }

@@ -13,10 +13,11 @@
     "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false,
-    "dup_of": "2026-04-06"
+    "summary": "혁신적이라고 여겨졌던 K-교육 AI 플랫폼이 공교육 현장에서 주춤하고 있어 위험하다는 칼럼입니다.",
+    "implication": "교실에서 AI 플랫폼 활용 시, 현장의 필요와 실제 적용 가능성을 면밀히 검토하여 효과적인 교육 도구로 활용할 수 있습니다.",
+    "ai": true,
+    "dup_of": "2026-04-06",
+    "summary_src": "ai-backfill"
    },
    {
     "n": 2,
@@ -28,9 +29,10 @@
     "topic": "policy",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "박근필 소장의 칼럼이 오늘부터 화요일 아침에 게재된다는 소식입니다.",
+    "implication": "칼럼을 통해 교육 현안에 대한 다양한 관점을 접하고, 자신의 교육 철학을 성찰하는 기회로 삼을 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 3,
@@ -58,9 +60,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "칭찬보다 보상의 유혹이 더 무섭다는 뇌과학 기획의 네 번째 이야기입니다.",
+    "implication": "학생 동기 부여 시 칭찬과 보상의 효과를 뇌과학적 관점에서 이해하고, 장기적인 학습 동기를 유발하는 교육 전략을 고민해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 5,
@@ -72,9 +75,10 @@
     "topic": "teacher",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "제9대 전주교대 장지성 총장이 교원 양성을 넘어 평생교육까지 아우르겠다는 포부를 밝혔다는 소식입니다.",
+    "implication": "교원 양성 기관의 역할이 확대되는 흐름을 이해하고, 교사로서 평생 학습의 중요성을 인식하며 자기 계발 계획을 세울 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 6,
@@ -88,9 +92,10 @@
     "entities": [
      "세종시교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "강미애 후보가 교사 전문성 강화를 위한 공약을 발표하며, AI와 수업 혁신이 함께 가야 세종 교육이 발전할 수 있다고 강조했다는 소식입니다.",
+    "implication": "AI 기술을 활용한 수업 혁신 방안을 모색하고, 교사 전문성 개발을 위한 연수 및 연구 활동에 적극적으로 참여할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 7,
@@ -104,9 +109,10 @@
     "entities": [
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기교육감 진보 단일화 과정에서 이번에는 여론조사 대상을 두고 잡음이 발생했다는 소식입니다.",
+    "implication": "교육감 선거 과정의 이슈를 통해 교육 정책 결정 과정의 복잡성을 이해하고, 교육 정책이 교실에 미칠 영향을 미리 생각해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 8,
@@ -118,9 +124,10 @@
     "topic": "classroom",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "천안교육청이 수업 혁신을 위한 시동을 걸었다는 소식입니다.",
+    "implication": "교육청의 수업 혁신 방향을 파악하고, 새로운 교수법이나 교육과정 변화에 대한 정보를 얻어 자신의 수업에 적용할 방안을 모색할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 9,
@@ -132,9 +139,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "유은혜 후보가 경선 룰 문제 제기를 하자 다른 3명의 후보가 반박하며 '보수 교육감 하려면 빠져라'고 말했다는 소식입니다.",
+    "implication": "교육감 선거의 정치적 역학 관계를 이해하고, 교육 정책이 다양한 정치적 관점에서 논의될 수 있음을 인지할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 10,
@@ -146,9 +154,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "민주·진보 교육감 단일화 과정에서 여론조사 방식으로 또다시 충돌이 발생했다는 소식입니다.",
+    "implication": "교육감 선거의 단일화 과정에서 발생하는 갈등을 통해 교육 정책 결정의 어려움을 이해하고, 다양한 의견을 수렴하는 중요성을 생각해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    }
   ],
   "paper": [
@@ -398,5 +407,12 @@
  "fallback": {},
  "notes": {
   "tech": "AI 기술이 교육, 금융, 유통 등 다양한 산업 분야에 적용되고 있으며, 성능 향상, 활용성 증대, 공정성 확보를 위한 연구 및 정책 개발이 활발하게 이루어지면서 AI 생태계가 더욱 확장되고 고도화되고 있다."
+ },
+ "enrich": {
+  "hash": "acf431624e88",
+  "model": "gemini-2.5-flash",
+  "topics": 0,
+  "title_ko": 0,
+  "summaries": 9
  }
 }

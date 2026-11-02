@@ -13,9 +13,10 @@
     "topic": "student_care",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "마음 근육, 즉 사회정서 역량이 개인의 경쟁력으로 중요해지고 있으며, 이를 함양하는 데 있어 가정의 역할이 중요하다는 칼럼입니다.",
+    "implication": "교실에서 학생들의 사회정서 역량을 강화하기 위한 다양한 교육 활동을 계획하고 가정과 연계할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 2,
@@ -45,9 +46,10 @@
     "entities": [
      "부산시교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "부산교육연구정보원에서 교원 250명을 대상으로 에듀테크 연수를 실시하여 수업 혁신을 가속화한다는 소식입니다.",
+    "implication": "교사들은 에듀테크 활용 역량을 강화하여 학생 중심의 혁신적인 수업을 설계하고 운영할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 4,
@@ -61,9 +63,10 @@
     "entities": [
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기도교육청이 학교 현장의 생생한 이야기를 담은 '우물현답' 첫 편으로 동탄중학교 사례를 공개했다는 소식입니다.",
+    "implication": "교사들은 다른 학교의 우수 사례를 참고하여 자신의 교육 현장에 적용할 방안을 모색할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 5,
@@ -78,9 +81,10 @@
      "경북교육청",
      "IB"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "대구교대와 경북교육청이 IB(International Baccalaureate) 현장 점검을 통해 미래 교육 협력에 속도를 내고 있다는 소식입니다.",
+    "implication": "교사들은 IB 교육과정의 특징을 이해하고, 미래 교육 방향에 맞춰 수업을 개선하는 데 참고할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 6,
@@ -92,9 +96,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "김대중 교육감과 김 산 무안군수가 무안 교육정책 공조와 미래 인재 육성을 다짐했다는 소식입니다.",
+    "implication": "교사들은 지역 교육청과 지자체의 협력 정책을 파악하여 학생들을 위한 교육 기회를 확장하는 데 활용할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 7,
@@ -108,9 +113,10 @@
     "entities": [
      "에이전트"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "AI 에이전트 개발에 있어 '우리'라는 공동체적 가치를 토대로 접근해야 한다는 내용의 칼럼입니다.",
+    "implication": "교사들은 AI 에이전트 기술을 교육에 적용할 때 학생들의 협력적 학습과 공동체 의식 함양에 기여할 방안을 고민할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 8,
@@ -124,9 +130,10 @@
     "entities": [
      "생성형 AI"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "연천군에서 생성형 AI 비서 활용 교육을 실시하여 공공부문의 디지털 혁신을 가속화하고 있다는 소식입니다.",
+    "implication": "교사들은 생성형 AI 기술이 공공 서비스에 활용되는 사례를 통해 교육 현장에서의 적용 가능성을 탐색할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 9,
@@ -141,9 +148,10 @@
      "교육부",
      "문해력"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "AI 시대에 사고력의 중요성을 강조하며, 교육부가 학교 독서 교육을 강화할 방침이라는 소식입니다.",
+    "implication": "교사들은 독서 교육을 통해 학생들의 비판적 사고력과 문해력을 신장시키고, AI 시대에 필요한 역량을 길러줄 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 10,
@@ -157,9 +165,10 @@
     "entities": [
      "생성형 AI"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "충남중소벤처기업청이 '생성형 AI로 해외시장 공략'을 위한 글로벌 마케팅 전략 교육을 실시한다는 소식입니다.",
+    "implication": "교사들은 생성형 AI가 산업 현장에서 어떻게 활용되는지 이해하고, 학생들에게 관련 진로 교육을 제공할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    }
   ],
   "paper": [
@@ -413,5 +422,12 @@
   ]
  },
  "fallback": {},
- "notes": {}
+ "notes": {},
+ "enrich": {
+  "hash": "1e6597430884",
+  "model": "gemini-2.5-flash",
+  "topics": 0,
+  "title_ko": 0,
+  "summaries": 9
+ }
 }

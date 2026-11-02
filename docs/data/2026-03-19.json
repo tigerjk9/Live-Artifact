@@ -13,9 +13,10 @@
     "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "AI 중점학교가 공교육 혁신의 출발점이 되어야 한다는 칼럼입니다.",
+    "implication": "교사는 AI 중점학교의 사례를 참고하여 자신의 교실에 AI 교육 요소를 도입하는 방안을 모색할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 2,
@@ -27,9 +28,10 @@
     "topic": "classroom",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "호기심이 사라지면 배움도 멈춘다는 사경희 이사장의 칼럼입니다.",
+    "implication": "교사는 학생들의 호기심을 자극하고 유지할 수 있는 다양한 AI 기반 학습 활동을 설계할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 3,
@@ -41,9 +43,10 @@
     "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "울산폴리텍이 '피지컬 AI 중심'을 선언한 것에 대한 긍정적인 평가를 담은 사설입니다.",
+    "implication": "교사는 피지컬 AI와 같은 새로운 기술 분야가 교육 현장에 어떻게 적용될 수 있을지 탐색해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 4,
@@ -57,9 +60,10 @@
     "entities": [
      "교육부"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "교육부가 초·중등 인공지능 교육 담당 교원을 위한 연수 과정을 최초로 개발했다는 소식입니다.",
+    "implication": "교사는 교육부에서 제공하는 AI 교육 연수 과정을 통해 전문성을 강화하고 수업에 적용할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 5,
@@ -71,9 +75,10 @@
     "topic": "ai_digital",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "서울 시내 폐교가 AI 교육센터 및 특수학교로 탈바꿈하여 미래 교육 거점이 될 것이라는 소식입니다.",
+    "implication": "교사는 지역 사회의 AI 교육 인프라 변화에 관심을 가지고 이를 교육 활동에 연계할 방안을 고민할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 6,
@@ -87,9 +92,10 @@
     "entities": [
      "교육부"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "AI 활용을 넘어 'AI 원어민'으로 대학 교육을 바꿔야 한다는 논설실의 뉴스 진단입니다.",
+    "implication": "교사는 AI를 단순한 도구가 아닌, 학습 환경의 주체적인 요소로 활용하는 방안을 탐색하여 학생들의 학습 경험을 혁신할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 7,
@@ -103,9 +109,10 @@
     "entities": [
      "교육부"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "서울시가 'AI 교육부터 실무까지 한 번에' 제공하는 청년 인턴 기회를 늘린다는 소식입니다.",
+    "implication": "교사는 AI 교육과 실무 연계의 중요성을 학생들에게 강조하고, 관련 진로 탐색을 지원할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 8,
@@ -120,9 +127,10 @@
      "교육감 선거",
      "세종시교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "안광식 예비후보가 세종 교육개혁 청사진으로 AI 국제교육원 및 체육중고 신설을 추진한다는 소식입니다.",
+    "implication": "교사는 지역 교육 정책의 AI 관련 변화에 주목하고, 미래 교육 방향에 대한 논의에 참여할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 9,
@@ -136,9 +144,10 @@
     "entities": [
      "서울시교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "서울시교육청이 폐교를 미래 교육 거점으로 활용하는 '공간 혁신' 5개년 전략을 시작한다는 소식입니다.",
+    "implication": "교사는 학교 공간이 AI 교육을 포함한 미래 교육을 위해 어떻게 재구성될 수 있을지 상상하고 제안할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 10,
@@ -152,9 +161,10 @@
     "entities": [
      "경기도교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기도교육청이 인공지능 전환 시대에 대응하여 경기 직업교육의 대전환을 도모한다는 소식입니다.",
+    "implication": "교사는 직업교육 분야에서 AI 기술이 가져올 변화를 이해하고, 학생들에게 필요한 미래 역량을 지도할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    }
   ],
   "paper": [
@@ -414,5 +424,12 @@
  "fallback": {},
  "notes": {
   "tech": "AI 기술이 개인 맞춤형 서비스 확장, 다양한 분야 융합, 그리고 자체 기술 개발 경쟁 심화 속에서 생산성 향상과 혁신을 가속화하며 진화하고 있지만, 동시에 데이터 활용 윤리 문제에 대한 경각심도 높아지고 있다."
+ },
+ "enrich": {
+  "hash": "33601153a548",
+  "model": "gemini-2.5-flash",
+  "topics": 0,
+  "title_ko": 0,
+  "summaries": 10
  }
 }

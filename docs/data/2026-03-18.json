@@ -30,9 +30,10 @@
     "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "농산물 유통 시스템을 온라인 도매시장으로 전환하여 디지털 혁신을 이루어야 한다는 기고문입니다.",
+    "implication": "교실에서 학생들이 디지털 전환의 중요성을 이해하고, 실제 사회 문제 해결에 적용하는 프로젝트를 기획해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 3,
@@ -76,9 +77,10 @@
      "인천시교육청",
      "교사 연수"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "인천시교육청이 '읽걷쓰AI'를 활용한 수업 혁신을 위해 교사 연수를 진행한다는 소식입니다.",
+    "implication": "교사는 AI 기반 도구를 활용하여 학생들의 읽기, 쓰기, 걷기 활동을 연계한 창의적인 수업 방안을 모색할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 6,
@@ -90,9 +92,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "임태희 교육감의 저서 'IM_Possible'이 출간되었으며, 교육이 국가의 미래를 설계하는 중요한 역할을 한다는 메시지를 담고 있다는 소식입니다.",
+    "implication": "교사는 교육의 장기적인 비전과 국가 발전에 미치는 영향에 대해 학생들과 토론하며 교육의 가치를 되새길 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 7,
@@ -104,9 +107,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "인류 발전 과정에서 뇌과학의 역할과 중요성에 대한 내용으로 보입니다.",
+    "implication": "교사는 뇌과학적 이해를 바탕으로 학생들의 학습 방식과 인지 발달을 고려한 맞춤형 수업 전략을 구상할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 8,
@@ -121,9 +125,10 @@
      "강원교육청",
      "교육감 선거"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "유대균 강원교육감 예비후보가 강원 지역의 AI 디지털 교육을 선도하겠다는 공약을 내세웠다는 소식입니다.",
+    "implication": "교사는 지역 교육 정책의 변화에 관심을 가지고, AI 디지털 교육 환경에서 학생들에게 필요한 역량을 길러줄 방안을 고민할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 9,
@@ -137,9 +142,10 @@
     "entities": [
      "세종시교육청"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "세종시교육청이 AI 교육, 안전, 복지 등 미래형 교육 정책을 본격적으로 추진한다는 소식입니다.",
+    "implication": "교사는 세종시의 미래형 교육 정책 방향을 이해하고, AI 기술을 활용한 안전하고 복지 친화적인 교육 환경 조성에 기여할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 10,
@@ -348,9 +354,10 @@
     "entities": [
      "생성형 AI"
     ],
-    "summary": "",
+    "summary": "국민대학교 김도형 교수가 생성형 AI 기반 공공 R&D 평가 의사결정 프레임워크에 대한 연구 논문을 게재했다는 소식입니다.",
     "implication": "",
-    "ai": false
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 7,
@@ -400,9 +407,10 @@
      "OpenAI",
      "ChatGPT"
     ],
-    "summary": "",
+    "summary": "OpenAI가 GPT-5.4 mini와 nano 모델을 출시했으며, 더 빠르고 강력하지만 최대 4배 더 비싸다는 소식입니다.",
     "implication": "",
-    "ai": false
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 10,
@@ -417,14 +425,22 @@
      "OpenAI",
      "ChatGPT"
     ],
-    "summary": "",
+    "summary": "오픈AI가 GPT-5.4를 출시했으며, 100만 토큰을 지원하고 툴 서치 기능까지 갖췄다는 소식입니다.",
     "implication": "",
-    "ai": false
+    "ai": true,
+    "summary_src": "ai-backfill"
    }
   ]
  },
  "fallback": {},
  "notes": {
   "tech": "AI를 중심으로 AI 기술 생태계가 빠르게 진화하고 있습니다."
+ },
+ "enrich": {
+  "hash": "cb3b5cd10e90",
+  "model": "gemini-2.5-flash",
+  "topics": 0,
+  "title_ko": 0,
+  "summaries": 9
  }
 }

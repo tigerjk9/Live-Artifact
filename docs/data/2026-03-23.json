@@ -16,9 +16,10 @@
      "경기도교육청",
      "교육감 선거"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기교육감 후보 단일화 혁신연대에 필요한 혁신에 대한 사설입니다.",
+    "implication": "교사들은 교육 정책 변화에 대한 논의를 주시하며, 학교 현장에 미칠 영향을 미리 고민해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 2,
@@ -30,9 +31,10 @@
     "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "AI 시대에 경영인보험 전략에 대한 오상호 칼럼입니다.",
+    "implication": "교사들은 AI 시대에 필요한 역량과 미래 교육 방향에 대해 생각해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 3,
@@ -44,9 +46,10 @@
     "topic": "teacher",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "어느 일반고 교사의 성찰이 던진 무거운 교육의 과제에 대한 전재학 칼럼입니다.",
+    "implication": "교사들은 동료 교사의 성찰을 통해 자신의 교육 철학과 실천을 되돌아보고, 교육 현장의 과제를 함께 고민해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 4,
@@ -60,9 +63,10 @@
     "entities": [
      "GPU·데이터센터"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경기도 미래 전략산업의 핵심인 양자-반도체 융합산업 경쟁력 강화에 대한 칼럼입니다.",
+    "implication": "교사들은 미래 산업 동향을 이해하고, 학생들이 관련 분야에 관심을 가질 수 있도록 진로 교육에 참고할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 5,
@@ -74,9 +78,10 @@
     "topic": "ai_digital",
     "kind": "opinion",
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "자율주행의 숨겨진 연료인 합성데이터에 대한 기고입니다.",
+    "implication": "교사들은 AI 및 자율주행 기술의 발전과 그 기반이 되는 데이터의 중요성에 대해 학생들과 함께 탐구해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 6,
@@ -103,9 +108,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "뇌과학으로 본 골드베르크 변주곡이 수학적 아름다움을 깃든 곡이라는 소식입니다.",
+    "implication": "교사들은 예술과 과학의 융합적 사고를 통해 학생들의 창의적 사고력을 자극하는 수업을 구상해 볼 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 8,
@@ -117,9 +123,10 @@
     "topic": "global",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "한국이 뇌과학, 생체모방 센서 등 글로벌 생명과학 공동연구를 수행한다는 소식입니다.",
+    "implication": "교사들은 국제 공동연구의 중요성을 학생들에게 알리고, 과학 분야의 글로벌 협력 사례를 교육 자료로 활용할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 9,
@@ -131,9 +138,10 @@
     "topic": "policy",
     "kind": null,
     "entities": [],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "WBC 한국 야구를 안 봐야 한다는 '응원의 뇌과학'에 대한 내용입니다.",
+    "implication": "교사들은 뇌과학적 관점에서 감정과 행동의 관계를 이해하고, 학생들의 정서 조절 및 학습 동기 부여에 적용할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    },
    {
     "n": 10,
@@ -148,9 +156,10 @@
      "경남교육청",
      "교육감 선거"
     ],
-    "summary": "",
-    "implication": "",
-    "ai": false
+    "summary": "경남교육감 예비후보들이 보건, 소통, 현장 공약 경쟁을 본격화한다는 소식입니다.",
+    "implication": "교사들은 교육감 후보들의 공약을 분석하여 학교 현장에 미칠 영향을 예측하고, 교육 정책에 대한 자신의 의견을 형성할 수 있습니다.",
+    "ai": true,
+    "summary_src": "ai-backfill"
    }
   ],
   "paper": [
@@ -415,5 +424,12 @@
  "fallback": {},
  "notes": {
   "tech": "AI 기술 경쟁이 심화되는 가운데, 새로운 모델 출시, 하드웨어 혁신, 사용자 편의성 강화, 윤리적 사용 기준 마련, 오픈소스 생태계 확장 등 AI 기술이 다방면으로 발전하며 더욱 긍정적인 방향으로 나아가고 있다."
+ },
+ "enrich": {
+  "hash": "7b593284b52b",
+  "model": "gemini-2.5-flash",
+  "topics": 0,
+  "title_ko": 0,
+  "summaries": 9
  }
 }
