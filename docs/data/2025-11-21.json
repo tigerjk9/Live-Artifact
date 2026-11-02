@@ -1,0 +1,427 @@
+{
+ "date": "2025-11-21",
+ "generated_at": "2026-11-02T11:48:02+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "K-모빌리티 미래 이끌 어린이·청소년 위한 현대차 '모빌리티 학교' 개강",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iXzFVN2NSbTNWMUQ3QmVlTWJReU9VSW1EWHRuUlg2Z2pJcGt3N29qOXZlV3RKNGZRV1A2bDlSQ0MtNVhXYVdkb3lsQjNNT0V0eTFvTW5DaWpPZXRfT08tTGRRYXYyTEJDTkY0ZFR3NFQ?oc=5",
+    "source": "오피니언뉴스",
+    "published": "2025-11-20",
+    "keyword": "미래기술",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "미래 모빌리티 교육을 학교 교육과정과 연계하여 학생들의 융합적 사고력과 문제 해결 능력을 키울 수 있는 가능성을 보여주는 사례입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "세종사이버대 국방융합학과, 뇌과학과 스트레스 관리 특강 성황리 실시",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52YmlvZjRUS2JRV0JHNloySkdsTWwzMWhhWFRvNGp0UkxzbThseWxfTTFoeGVQZVRsMkpQd09kbHRVbGFGeUxHcDIteEQ2X3lJRnl3LXVxUXl0bUZBcDdXZzVvMVA0Y0Z6bjNPTEFpU2M?oc=5",
+    "source": "스마트경제",
+    "published": "2025-11-20",
+    "keyword": "뇌과학",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [
+     "마음건강"
+    ],
+    "summary": "세종사이버대 국방융합학과의 뇌과학 기반 스트레스 관리 특강은, 군 관련 분야 학습자의 정신 건강 증진을 위한 융합 교육의 중요성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "인천시교육청, “AI로 교육의 판을 바꾼다”",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VVDNSazZwbzVLOG9EWnBiY2R0R3BwaFR3X2xOb3V5azB6bVFja3NCZjZZS016bjZ6MTVXbmNtbEVuY2dndnpCZXJEd2p5a3BsY0g4ZEh0U1VKcUdxaGhFcmNHTVJUOXhVX09WMEtWMXl3aXFi0gF0QVVfeXFMT1VUM1JrNnBvNUs4b0RacGJjZHRHcHBoVHdfbE5vdXlrMHptUWNrc0JmNllLTXpuNnoxNVduY21sRW5jZ2d2ekJlckR3anlrcGxjSDhkSHRTVUpxR3FoaEVyY0dNUlQ5eFVfT1YwS1YxeXdpcWI?oc=5",
+    "source": "이뉴스투데이",
+    "published": "2025-11-20",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청",
+     "개인화 학습"
+    ],
+    "summary": "인천시교육청의 AI 교육 도입은 맞춤형 학습과 교사의 역할 변화를 촉진하여 교육 혁신의 중요한 발판이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "최교진 “학교민원대응팀 법정 기구화 .. 교권침해 학생부 기재 의견수렴 ”",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=21413",
+    "source": "에듀프레스",
+    "published": "2025-11-20",
+    "keyword": "",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "교권"
+    ],
+    "summary": "교권 침해 학생부 기재에 대한 신중한 검토 입장은, 학교 현장의 혼란을 최소화하고 교육적 효과를 극대화하기 위한 숙고가 필요함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "\"밥도 돌봄도 멈췄다\"…학교 비정규직 파업 참여율 12.9%",
+    "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2240295",
+    "source": "대전일보",
+    "published": "2025-11-20",
+    "keyword": "",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [],
+    "summary": "낮은 파업 참여율에도 불구하고 급식 및 돌봄 공백은 학생들에게 직접적인 영향을 미쳐, 교육 서비스 질 저하 및 불평등 심화 우려를 야기한다는 점을 간과할 수 없습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "타이탄컴퍼니, 실전형 교육으로 에듀테크 시장 선도",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBrV1o1clpjNEdnVmNaSDFaWGh5aENlNm8zV2tad2ZrUDk2aS11V0ttd1BFZzdzTUkzYTliMnZzeEhCV2tjR29uUEN0c0dFdUpVeXBmY1hGeW5DLW1W?oc=5",
+    "source": "livesnews.com",
+    "published": "2025-11-20",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "타이탄컴퍼니의 실전형 교육은 에듀테크 시장에서 학습 효과를 높이고, 학교 교육이 실제 사회와 연계되는 방향으로 나아가야 함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "'세종 솔빛초, 아프리카 교육혁신 모델로' 세계은행도 주목",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZOEMwQXJMb0dzY2lacUsxRG9jdjlzMWNKRE1MaDJCUTRrTHJhY2kzUGxHWVBFNTN0cDA0b3I3TlN4U1E0bVJXQ0RZdTVmT18yVlZ0U2l1WTR5dVVSeGY1SDNKc0FLa2lVWEd1eFBBTGppUlhCb0xreNIBeEFVX3lxTFBZOEMwQXJMb0dzY2lacUsxRG9jdjlzMWNKRE1MaDJCUTRrTHJhY2kzUGxHWVBFNTN0cDA0b3I3TlN4U1E0bVJXQ0RZdTVmT18yVlZ0U2l1WTR5dVVSeGY1SDNKc0FLa2lVWEd1eFBBTGppUlhCb0xreA?oc=5",
+    "source": "뉴시스",
+    "published": "2025-11-20",
+    "keyword": "디지털교육",
+    "topic": "global",
+    "kind": null,
+    "entities": [],
+    "summary": "세종 솔빛초의 사례는 한국형 교육 모델이 국제적으로 인정받고 있으며, 창의적 교육 방식이 세계 교육 혁신에 기여할 수 있음을 보여주는 중요한 시사점입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "대구시교육청 올 하반기 몰입형 SW-AI교육 체험활동 캠프",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sMWlsUFFsQkpjbFdobEpXRkNWX3JFcUlzdzQwUFZjZWVZSGh1WWcwblhkeTZnWlBHZUJHNkF4NF96NjFiaWlSSWNPTWtqSkhFRzExMk4zQzV6QkRnNzdPSlJQY1F5eDBXV0E4?oc=5",
+    "source": "프레시안",
+    "published": "2025-11-20",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "대구시교육청"
+    ],
+    "summary": "대구시교육청의 몰입형 SW-AI 교육 체험활동 캠프는 학생들의 디지털 역량 강화와 미래 교육 모델 제시 측면에서 긍정적인 시도입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "옥천읍 이장단, ‘AI교육·선진지 견학’ 실시",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zdEhURTJlSXNiQW5VMnFBcUlJTFJmVXNkRk56RXRFZ0xScndMelFHb2pBOFhDbGVUM0t0WERVOE96TGg4ZHRSdHJNVVhSb3JPM2dKWDlaQ1d3VEhkQ3lDaTV0ZVU3N1ZIWnRR0gFvQVVfeXFMTVNaaW1IaFNSN0VRS1JBSFN1ZXFpWldiTExkVU1mNFBDOUNXRmloQkQtSHJ3RHVNSm1QelBDTS1FRnFCXzlYeU9HaXZxVkc5UHZMU1R2eGxINHBOT2dYaXJpRW1nS2dRLUpkeXkxV1F3?oc=5",
+    "source": "내외뉴스통신",
+    "published": "2025-11-20",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "지역 사회 리더들의 AI 교육 참여는 디지털 시대에 발맞춰 지역 교육 시스템 혁신을 위한 기반을 다지는 중요한 발걸음입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "충남교육혁신연구소 이병학 소장 '충청남도교육규제완화위원회' 위원 위촉",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4weUNFSC04Q0sxRFVIQUdlNF9lY01Ib1V4NGRxLXdoOHVEV0dMT2JCdzgzN0ZPVU5BLUhWMHFZMWhXLU1zRENKRVNrRW9kbzd6WW0yb05vZl80c0xVMkloVmd3bFRZOERRV1lmOVRLNXg?oc=5",
+    "source": "충청일보",
+    "published": "2025-11-20",
+    "keyword": "교육혁신",
+    "topic": "global",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "충남교육혁신연구소장의 교육규제완화위원회 위촉은 교육 혁신과 규제 완화 간 균형점을 찾기 위한 충남 교육 정책 변화의 신호탄입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Teaching According to Students' Aptitude: Personalized Mathematics Tutoring via Persona-, Memory-, and Forgetting-Aware LLMs",
+    "url": "http://arxiv.org/abs/2511.15163v1",
+    "source": "",
+    "published": "2025-11-19",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "개인화 학습",
+     "AI 튜터",
+     "LLM"
+    ],
+    "summary": "TASA는 학생의 숙련도, 기억, 망각 패턴을 고려하여 개인 맞춤형 수학 지도를 제공하는 프레임워크로, LLM 기반 튜터링 시스템에서 학생 프로필과 망각 곡선을 활용하여 학습 효과를 높이고 적응적인 교육을 가능하게 합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Yang Wu', 'Rujing Yao' 외 5명",
+    "pdf": "http://arxiv.org/pdf/2511.15163v1"
+   },
+   {
+    "n": 2,
+    "title": "A critical review of pre-post surveys designed to measure student epistemology in undergraduate science courses",
+    "url": "http://arxiv.org/abs/2511.15575v1",
+    "source": "",
+    "published": "2025-11-19",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 학부 과학 교육에서 학생들의 인식론적 변화를 측정하기 위해 사용되는 온라인 사전-사후 설문조사들을 분석하고, 특히 생물학 교육 개혁과 관련된 MBEX 설문조사를 중심으로 STEM 교육자들이 다양한 교수법이 학생들의 인식론에 미치는 영향을 평가하는 데 도움을 줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Kyriaki Chatzikyriakidou', 'Kristi L. Hall' 외 2명",
+    "pdf": "http://arxiv.org/pdf/2511.15575v1"
+   },
+   {
+    "n": 3,
+    "title": "EduGuardBench: A Holistic Benchmark for Evaluating the Pedagogical Fidelity and Adversarial Safety of LLMs as Simulated Teachers",
+    "url": "http://arxiv.org/abs/2511.06890v1",
+    "source": "",
+    "published": "2025-11-10",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [
+     "벤치마크",
+     "LLM",
+     "AI 안전·규제"
+    ],
+    "summary": "EduGuardBench는 SP-LLM 교사의 전문성, 안전성, 교육적 적합성을 종합적으로 평가하는 벤치마크로, 역할 충실도 및 교육적 유해성 진단, 적대적 공격을 통해 모델의 성능 양극화, 크기 역설, 교육적 전환 효과를 밝혀 교육 분야 AI 신뢰성 확보에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Yilin Jiang', 'Mingzi Zhang' 외 6명",
+    "pdf": "http://arxiv.org/pdf/2511.06890v1"
+   },
+   {
+    "n": 4,
+    "title": "AI Literacy for Community Colleges: Instructors' Perspectives on Scenario-Based and Interactive Approaches to Teaching AI",
+    "url": "http://arxiv.org/abs/2511.05363v1",
+    "source": "",
+    "published": "2025-11-07",
+    "keyword": "",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [
+     "AI 리터러시"
+    ],
+    "summary": "본 연구는 비전공 학습자를 위한 시나리오 기반의 인터랙티브 AI 교육 자료인 AI User를 활용하여 커뮤니티 칼리지 강사들의 의견을 수렴하고, 실제 AI 활용 사례 시뮬레이션과 실험을 장려하는 방식이 선호되며, 교육 현장에서 AI에 대한 접근성을 높이는 데 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Aparna Maya Warrier', 'Arav Agarwal' 외 3명",
+    "pdf": "http://arxiv.org/pdf/2511.05363v1"
+   },
+   {
+    "n": 5,
+    "title": "CollaClassroom: An AI-Augmented Collaborative Learning Platform with LLM Support in the Context of Bangladeshi University Students",
+    "url": "http://arxiv.org/abs/2511.11823v1",
+    "source": "",
+    "published": "2025-11-14",
+    "keyword": "K-12 education",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [
+     "LLM"
+    ],
+    "summary": "방글라데시 대학생들을 대상으로 LLM을 활용한 협력 학습 플랫폼 CollaClassroom을 평가한 결과, LLM이 공정한 참여와 투명성을 증진하도록 설계될 경우 학습 참여도와 인지된 학습 효과를 높일 수 있음을 밝혔으며, 이는 글로벌 사우스 고등 교육 환경에서 AI 기반 협력 학습 설계에 대한 시사점을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Salman Sayeed', 'Bijoy Ahmed Saiem' 외 3명",
+    "pdf": "http://arxiv.org/pdf/2511.11823v1"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "메타, 가상 환경서 AI 에이전트 훈련하는 '드림짐' 프레임워크 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204138",
+    "source": "AI Times",
+    "published": "2025-11-20",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Meta",
+     "에이전트"
+    ],
+    "summary": "메타의 드림짐 프레임워크는 AI 에이전트 개발 비용을 절감하고 접근성을 높여 AI 기술 발전과 산업 적용을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "이모션웨이브, AI 미디어 창작·팬덤 서비스 2종 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204148",
+    "source": "AI Times",
+    "published": "2025-11-20",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [],
+    "summary": "이모션웨이브의 AI 기반 미디어 플랫폼은 창작자와 팬덤 간의 시너지 창출을 통해 웹3 기반 콘텐츠 생태계 확장에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "OpenAI, GPT-5.1 Pro 모든 유료 사용자에 배포",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE51WUVEYS12NURTMERYNnowVGtmODVLNzRrRHhCUTB0YTdabjFEb1YtSXFrNVJpY2kwTWx6Y05tMUo3RGVrdWRFUDNEVTRVYm85djF5LVY3X0_SAV5BVV95cUxNMzVlZzVYVWk4Xzd4T1RuanU3ZHVzdjYyUW9ZYkppT096eE5vbzJjeHZ0RzhxRVdqMkxEaDluRTVPTVBFaGxxTVQ4Y2JtYmsxcFlPVm9XeUROSWVhWXN3?oc=5",
+    "source": "tokenpost.kr",
+    "published": "2025-11-20",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.1 Pro의 광범위한 배포는 AI 기술의 상향 평준화를 가속화하고 유료 사용자 기반 혁신을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "누가 ‘수능 문제’ 제일 잘 푸나… AI 모델 비교했더니",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204151",
+    "source": "AI Times",
+    "published": "2025-11-21",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "수능·대입",
+     "AI 튜터",
+     "개인화 학습"
+    ],
+    "summary": "AI 모델의 수능 문제 해결 능력 비교는 교육 분야 적용 가능성을 시사하며, 향후 AI 튜터 및 맞춤형 학습 콘텐츠 개발 경쟁을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "구글 '제미나이 3' 공개에 주가 사상 최고가... \"GPT-5.1 넘고 AI 패권 탈환\"",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVDlrMy1MNjE1ZFR4OXM5czAtMF9Td1N3aXljYjJwRXVyVHF1NVh1d2ZkR1JGeUVuNlFqMmhtNU51MFE1SzZsendtcm50RjhZWXlBMDVaR2dWNFlXX09aYktaTTh1Y1FqWTJsTi1XSGpja0Y0SWpaZzhGRTNLUnFGb2VZbjh0M00w?oc=5",
+    "source": "글로벌이코노믹",
+    "published": "2025-11-20",
+    "keyword": "오픈AI",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Gemini",
+     "ChatGPT"
+    ],
+    "summary": "구글 제미나이 3 공개는 AI 기술 경쟁 심화를 예고하며, 향후 AI 시장 주도권 확보를 위한 기업들의 기술 혁신 경쟁을 더욱 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "OpenAI launches \"ChatGPT for Teachers\"",
+    "url": "https://the-decoder.com/openai-launches-chatgpt-for-teachers/",
+    "source": "The Decoder",
+    "published": "2025-11-20",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT",
+     "개인화 학습"
+    ],
+    "summary": "OpenAI의 \"ChatGPT for Teachers\" 출시로 교육 현장에서 AI 활용이 가속화되며 맞춤형 교육 콘텐츠 개발 경쟁이 심화될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "대규모 투자 유치 소식에 xAI \"거짓말\"...최근 5번째 반복",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204146",
+    "source": "AI Times",
+    "published": "2025-11-20",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "xAI"
+    ],
+    "summary": "xAI의 반복적인 투자 유치설 부인과 머스크 CEO의 부인으로 인해, AI 스타트업 투자 정보의 신뢰성 문제가 부각되고 시장 불확실성이 커질 수 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "[테크 칼럼] 제미나이3, GPT-5.1을 넘다…AI는 이제 ‘일을 대신하는 시대’로 간다",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0M2t4MmltSzNTY21pSV9YNWFCcERCTkxucGF1U0J2R3FQZlh0bW95aWdia3pxaWVVV1lxTzdIUGhTVHpJLXo3dGpKNm44Uk1oM3kxbi1fbjgta3BoMEFSamNwb1VtRFRDZFE?oc=5",
+    "source": "kmjournal.net",
+    "published": "2025-11-20",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": "opinion",
+    "entities": [
+     "Gemini",
+     "ChatGPT"
+    ],
+    "summary": "제미나이3와 GPT-5.1 경쟁은 AI가 단순 도구를 넘어 업무 대행 영역으로 확장되며 산업 전반의 생산성 혁신을 가속화할 것임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "묘량중앙초, GIST 김준하 교수 강의·실습 생활 속 AI 활용법 체감",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0dERwT01DaXplenhuSUppZlByU2JDYUtwVmtiOVRRZm1GQ0VQQVk0cngwQVNGdmk3NmFYajBGOGlDREhTVHM5YkotbEtEOEg1M0FWeW9NblFBNnNHMlIwbVNxZy1VWC1UMkI2dQ?oc=5",
+    "source": "호남교육신문",
+    "published": "2025-11-20",
+    "keyword": "AI정책",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "AI 리터러시"
+    ],
+    "summary": "초등 교육 현장에서의 AI 교육 도입은 미래 사회의 AI 리터러시 함양과 잠재적 AI 인재 양성에 긍정적인 영향을 미칠 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "아주대, AI기반 적응형 학습 플랫폼 통한 맞춤형 학습 제공",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90NF9OX25tRlU4Vk84RWl3TEpMRHJSZE02VERGZnJKTHQ2dG5iWjd2TEJydkhUbXN3TVcwMkJpNVdVRkwta05mZUw4cTliSGE3MVdxaGRqaWFUelMtLVVQUzN5LVE3VHF2ZW9oZUVITQ?oc=5",
+    "source": "기호일보",
+    "published": "2025-11-20",
+    "keyword": "교육AI",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "AI 기반 적응형 학습 플랫폼은 교육 분야의 개인 맞춤형 서비스 확산을 가속화하고, 에듀테크 산업 성장에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 교육 확대, 미래 모빌리티 및 뇌과학 융합, 교육 혁신 모델 개발 등 교육 현장이 다각도로 발전하며 미래를 향해 나아가고 있습니다.",
+  "tech": "AI 모델 성능 경쟁이 심화되고 교육 및 다양한 분야에 AI 활용이 확대되는 가운데, AI가 '일을 대신하는 시대'로 나아가며 기술 생태계의 혁신을 가속화하고 있다."
+ }
+}

@@ -1,0 +1,419 @@
+{
+ "date": "2026-01-15",
+ "generated_at": "2026-11-02T11:50:44+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[기고-전경원] `AI로 생각하는 도시` 대구",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRWkJ6MmhOWnY3dmFFOFB6cEd0aWNrWkhhTkk5dEJhRHRQa0RwSHBRLTYxUVBaNnc2ZWUzbElDNmFTSWM0OE0yRnJ5V2J0N0NCdHdBRVo1ZWtjY3VGNmFNNUxB?oc=5",
+    "source": "매일신문",
+    "published": "2026-01-14",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "대구시의 AI 도시 구축 노력은 교육 분야에 AI 기반 맞춤형 학습 시스템 도입 및 데이터 활용 교육 강화의 필요성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[박효진 칼럼] AI 교육은 없다",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BY1hUS2VEMF9hVEtlUEtfU2VKLWFEMEdvZG1kWEhBdDA4eG4zTUtienQxR2NPY3JZUmxubVNvV3VSaW1XMXFObkdRSUsxQVcyU2JJQjg0eFpfVTdoUlhUdGk3djk?oc=5",
+    "source": "리버럴미디어",
+    "published": "2026-01-14",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "AI 교육 논의는 기술 활용 능력 함양을 넘어, AI 시대에 필요한 인간 고유의 역량을 키우는 방향으로 전환되어야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[기고] 디지털 전환 시대, 어르신들이 소외되지 않는 행정을 위하여",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Nek42S0d3UDlvRnR4U2ZFTkRzamh4a1lNQmc0U25aY2xLS0lLTjdlYnR6XzJzaFdnTFVvMnFCU2RmNWZlb1V6MFBUVHQyWFRMaklzYW9qZC1YYUNxbUhMZzBLT0sxdkZT?oc=5",
+    "source": "충청타임즈",
+    "published": "2026-01-14",
+    "keyword": "디지털전환",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "디지털 전환 시대, 교육 현장 역시 모든 세대가 디지털 역량을 갖추도록 평생교육 시스템 구축에 힘써야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "동양칼럼/ 청년 실업과 은둔의 굴레",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxZ0Fvc0JwY09rOFJoaXNZNHpWbjdxaHA4bU5IdDZnaTRnaWJ4bU1CRTVjLVNnUDJUQXZ3ejlhTlowM3JPejVNX3hqUndUTG95cGstUXhtTFYyelk1UmFVbmpQVWpXTkMwY3c?oc=5",
+    "source": "동양일보",
+    "published": "2026-01-14",
+    "keyword": "뇌과학",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "청년 실업과 은둔 문제는 교육 시스템이 사회 변화에 발맞춰 유연하게 진로 탐색 및 맞춤형 역량 개발을 지원해야 함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "박대조 국가AI전략위 자문위원, 박종훈 교육감과 경남 AI교육 머리 맞대",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HMFRHSl9oTG1MUnkxYVlGSng2T0s5UUhDUGRyVzFJTDVtbmJtZVRFNGI3a2ExanhteE83cWJkbXlyRXdfZm5KS29MVFZnUGw1aHVCbVhxaUFzYUJ0MXFHRkZuUHpyc2dqZnc?oc=5",
+    "source": "포인트경제",
+    "published": "2026-01-14",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "경남 AI 교육 발전을 위한 논의는 학교 현장의 AI 교육 도입 및 적용에 긍정적인 영향을 미칠 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "경기도교육청, 그림책으로 문화·예술·디지털 잇는 교육복지 체험 운영",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nUkMyb001WXF0LU1FNjlrQjd5NWM2dWg0T2NQbi1aZTBxQjM4VjZ5YzZZVXVBLUNqbllscktPdzNkdERzUWFwUXRoVTM0aVJEWHdrUlNEOGtHQV9nTmhOVV9IUUtkWWwwTDZQR9IBb0FVX3lxTE9zYzg1QmdDUkZ1c3ctN29rUVh0TWJQendKeXdfZllBU0NfODVJdEcwXzk5b3hQNjY2dVYxb3JYWXhQMUc5TDJtbGdYanJoQUQ3MFlGeGs1ZF9qVjA0dlBlbjhscDdsQ2UyN2pqbEhrRQ?oc=5",
+    "source": "한스경제",
+    "published": "2026-01-14",
+    "keyword": "디지털교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "그림책을 활용한 융합 교육 체험은 학생들의 창의적 역량 함양 및 교육 격차 해소에 긍정적인 영향을 줄 수 있을 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "경기도교육청남부유아체험교육원, ‘행복한 동행체험’ 운영",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1VMERnUVBvd1pMb1hDNFhidXZBUGNENEhMbUlXMHBoMHBqQ0NxbEJkZzRRc3k0SjJNc2NnREk1TTVlVENkLXgtVGFVMjFFVTk0WUtuWVoxUXB2bzZ6azZ2UVVMRWxwb0JFNkxGd2RPUnhrZE9X?oc=5",
+    "source": "글로벌뉴스통신GNA",
+    "published": "2026-01-14",
+    "keyword": "디지털교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청남부유아체험교육원의 '행복한 동행체험' 운영은 유아의 전인적 성장과 발달을 지원하는 중요한 교육적 시사점을 제공합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "도성훈 인천시교육감 신년 인터뷰",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XYl9JdHpLMlBTa04zVUZVQlh6eUE2a1JtbWR3OHhocnhfV3pwWTVHUmRlUENrZWtZZjFQS2ZObDNzbWV2bF9BUV9xaWx0aDAtWTNyX3dwelc5bUNZb0FxTHJUb0NqMmRxRTVZWW5Ecw?oc=5",
+    "source": "기호일보",
+    "published": "2026-01-14",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": "interview",
+    "entities": [
+     "인천시교육청",
+     "개인화 학습"
+    ],
+    "summary": "도성훈 교육감의 신년 인터뷰는 학생 맞춤형 교육 강화 및 교육 격차 해소에 대한 의지를 보여주며, 이는 긍정적 변화를 기대하게 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "디지털융합교육원 최재용 원장, IBM 공인 생성형 AI 인증 취득",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lR2J1UHk0VEtIekJzcDRWc3pCeWxiY3RPM2N0UWFkeFRCZEIyY3RXenY3eUNjWUtheXlUWmZhNFhvR1JjWks1cVBWN2pBcVFSRC1fRUxYcDZjaEhhNlV5WnVoU1hrYWs1ODdENQ?oc=5",
+    "source": "파이낸스투데이",
+    "published": "2026-01-14",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "디지털융합교육원장의 생성형 AI 인증 취득은 교육계에 AI 활용 역량 강화의 중요성을 시사하며, 교원 대상 AI 교육 확대 및 커리큘럼 개발의 필요성을 강조합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "군위 거점학교 정책, IB 교육 혁신으로 전국 소규모학교 통합 모델 부상",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3UmtRdkZDNVpMX0huMnp5ZGc4U1FpM0YwNVZZTDlRa2M5WGl3ejlSZnlqbnRGX2hiOE41NXNRSWk1TVVkVlpwUXF5VElhQlM1aU9za1JXZGpNT254M2tidXFTZlY2eFZPWTNZaVgwQmEzQngzY1NKN0lB?oc=5",
+    "source": "뉴데일리 대구경북",
+    "published": "2026-01-14",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "IB"
+    ],
+    "summary": "군위 거점학교의 IB 교육 혁신은 소규모학교 통합 모델로서 교육 격차 해소와 교육과정 다양화의 가능성을 제시한다는 점에서 주목할 만합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Brave New Digital Classroom: Technology and Foreign Language Learning",
+    "url": "https://www.semanticscholar.org/paper/0029be8865fc1b530bc38feebc6403b1d98e14fd",
+    "source": "semantic_scholar",
+    "published": "2020-02-20",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "Robert J. Blake의 \"Brave New Digital Classroom\"은 외국어 교육에서 효과적으로 사용된 기술들을 SLA 이론에 근거하여 포괄적으로 요약하고 평가함으로써, 기술 활용에 대한 이해를 넓히고 교육적 활용을 장려합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "R. Blake",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "Investing Time in Technology: Teachers’ Value Beliefs and Time Cost Profiles for Classroom Technology Integration",
+    "url": "https://www.semanticscholar.org/paper/40b1acabc39fb8db22158cf5fd78eafc7059b30e",
+    "source": "semantic_scholar",
+    "published": "2020-12-01",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 고등학교 교사들의 기술 가치 신념과 시간 비용 인식을 프로파일 분석하여, 시간 비용 인식이 높은 교사 집단이 기술을 활용한 수업에서 디지털 콘텐츠 활용 및 차별화된 평가에 소극적임을 밝혀내어, 교사 교육 및 연수 프로그램이 이러한 가치 신념 변화를 목표해야 함을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Vanessa W. Vongkulluksn, Kui Xie 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Usage of Digital Educational Resources in Teaching Students with Application of “Flipped Classroom” Technology",
+    "url": "https://www.semanticscholar.org/paper/5ca9a3e0230b5ec3a0626d8bd8245ebe233e79be",
+    "source": "semantic_scholar",
+    "published": "2020-10-08",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 플립 러닝 기반 디지털 교육 자료 활용이 고등 교육에서 학생들의 학습 효과를 높이고 교수의 질을 향상시킬 수 있음을 입증했으며, 설문조사 및 심층 분석을 통해 개발된 교육 과정과 자료가 효과적임을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "A. Drozdikova-Zaripova, E. Sabirova",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "Real-Time Attention Monitoring System for Classroom: A Deep Learning Approach for Student's Behavior Recognition",
+    "url": "https://www.semanticscholar.org/paper/0c8c608eb19f6898404a6359385c18cbe72075e8",
+    "source": "semantic_scholar",
+    "published": "2023-03-09",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "본 논문은 딥러닝 기반 실시간 시선 감지 시스템을 구축하여 학생들의 얼굴 표정을 분석하고 마스크 착용 여부와 관계없이 집중도를 파악, 교사의 학생 중심 맞춤형 교육을 지원하여 교육 효과를 향상시키는 데 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Z. Trabelsi, F. Alnajjar 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "STEAM education: student learning and transferable skills",
+    "url": "https://www.semanticscholar.org/paper/49590a7b6712d1ae43fcdd77f2c92ca7e4e426b6",
+    "source": "semantic_scholar",
+    "published": "2020-04-25",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "캐나다 온타리오 지역의 비영리 단체와 공립학교 STEAM 교육 프로그램 사례 연구를 통해, 실제 문제 해결 기반의 융합 교육이 학생들의 비판적 사고, 협업 능력, 창의성, 적응력 등 핵심 역량 개발에 기여하며, 이는 교사 개발 및 관련 정책 변화에 영향을 줄 수 있음을 밝힙니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "M. Bertrand, I. Namukasa",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "구글 \"같은 질문 두번하는 것 만으로도 AI 답변 향상할 수 있어\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205594",
+    "source": "AI Times",
+    "published": "2026-01-14",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "구글의 연구는 LLM의 효율적인 활용 가능성을 제시하며, 프롬프트 엔지니어링의 중요성을 강조하여 관련 기술 및 시장 발전에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "﻿엘리스그룹, 허깅페이스에 ‘한국어 교육용 AI 데이터셋’ 2종 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205587",
+    "source": "AI Times",
+    "published": "2026-01-14",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Hugging Face",
+     "LLM"
+    ],
+    "summary": "엘리스그룹의 한국어 교육용 AI 데이터셋 공개는 국내 LLM 생태계 확장과 교육 분야 AI 기술 발전에 기여할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "OpenAI opens GPT-5.2 Codex to developers through the Responses API",
+    "url": "https://the-decoder.com/openai-opens-gpt-5-2-codex-to-developers-through-the-responses-api/",
+    "source": "The Decoder",
+    "published": "2026-01-14",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT",
+     "코딩 AI"
+    ],
+    "summary": "GPT-5.2 Codex의 Responses API 개방은 개발자에게 강력한 코딩 도구를 제공하여 AI 기반 애플리케이션 개발 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "알리바바, AI가 장기 기억·단기 기억 스스로 관리하는 학습법 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205559",
+    "source": "AI Times",
+    "published": "2026-01-14",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Alibaba"
+    ],
+    "summary": "알리바바의 새로운 학습법은 LLM의 자체적인 기억 관리 능력을 향상시켜 AI 성능 개선 및 활용 범위 확장에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "Despite OpenAI partnership, Microsoft is one of Anthropic's biggest customers",
+    "url": "https://the-decoder.com/despite-openai-partnership-microsoft-is-one-of-anthropics-biggest-customers/",
+    "source": "The Decoder",
+    "published": "2026-01-14",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Microsoft",
+     "Anthropic"
+    ],
+    "summary": "마이크로소프트는 OpenAI와의 협력 외에도 Anthropic의 주요 고객으로서, AI 기술 시장에서 경쟁과 협력의 복잡한 역학 관계를 보여주는 사례입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "[신년사] 뉴튠 “생성 AI 시대 맞춤 저작권 문제 해결한 '뮤직 OS' 목표\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205581",
+    "source": "AI Times",
+    "published": "2026-01-14",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "저작권·소송"
+    ],
+    "summary": "뉴튠의 '뮤직 OS' 목표는 생성 AI 음악의 저작권 문제를 해결하고 새로운 음악 유통 체계를 구축하여 AI 음악 산업 성장에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "생성AI스타트업협회, AI 기본법 시행 앞두고 'K-세이프 공개 API' 무료 공급",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZWG5BcEczaXVtRkdsajk2amxXQ2lsU3RnUGtZYlNpUU0wZFFpVFlkQk45Q2FRTXRUUVJEUXNpU1R0YUNYUFd0dndINE9MSWI3Mk9oempB?oc=5",
+    "source": "지디넷코리아",
+    "published": "2026-01-15",
+    "keyword": "인공지능",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "AI 기본법 시행에 발맞춰 안전한 AI 개발 환경을 조성하고 스타트업 성장을 지원하는 의미 있는 시도입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "카이스트가 개발한 행동 만으로 우울증을 진단하는 AI",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205602",
+    "source": "AI Times",
+    "published": "2026-01-15",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "마음건강"
+    ],
+    "summary": "카이스트의 우울증 진단 AI는 정신 건강 분야의 AI 활용 가능성을 보여주며, 향후 맞춤형 멘탈 케어 서비스 개발에 기여할 수 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "챗GPT가 견제한 '그 회사' 일냈다…'중국산 칩으로만 학습' AI 멀티모달 모델 공개",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE14TzNLY1l1OEZpd2w3THFTSXg3aGYwS0YtMUxac3BoSkVUaHk5anFwTzJLRGl2bHRHd3E0b0U5UmlTbnpMOExFWjhpei1WOUsxNzVLQ0FlVdIBV0FVX3lxTE14TzNLY1l1OEZpd2w3THFTSXg3aGYwS0YtMUxac3BoSkVUaHk5anFwTzJLRGl2bHRHd3E0b0U5UmlTbnpMOExFWjhpei1WOUsxNzVLQ0FlVQ?oc=5",
+    "source": "sedaily.com",
+    "published": "2026-01-14",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "중국이 자체 개발한 칩으로 AI 모델을 학습시킨 것은 기술 자립을 넘어 글로벌 AI 경쟁 구도에 새로운 변수를 만들었다는 의미입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "Anthropic과 OpenAI, SpaceX와 함께 IPO 준비 중, NYT 보도 By Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45R3lKRzhKaUxoUWJHc2hrVWZJUExmUkQzRWNoQkRDVG1TMEU0VE1LdjZER1FaUHE5aXViWThXQ1NFOWtkb29GUlBkYlpIM2FVd084UnJ2b2l3c2J0VktEMm55UHY0LXdwVFVFaE9GSzc?oc=5",
+    "source": "Investing.com 한국어",
+    "published": "2026-01-14",
+    "keyword": "Anthropic",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "OpenAI"
+    ],
+    "summary": "Anthropic과 OpenAI의 IPO 추진은 AI 기술 경쟁 심화와 투자 시장의 높은 관심도를 반영하며, AI 산업 성장에 더욱 박차를 가할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 기술이 교육, 도시, 사회 전반에 융합되어 디지털 전환을 가속화하고 있으며, 교육 현장에서는 AI 교육 강화, 디지털 격차 해소, 혁신적인 교육 모델 도입 등 미래 교육을 위한 긍정적인 변화가 활발히 추진되고 있다.",
+  "tech": "AI 기술은 답변 정확도 향상, 한국어 데이터셋 공개, API 개방, 자체 학습 능력 발전, 다양한 기업과의 협력, 저작권 문제 해결, 안전한 API 제공, 정신 건강 진단, 중국산 칩 활용, IPO 준비 등 다방면으로 발전하며 생태계를 확장하고 있으며, 더욱 혁신적인"
+ }
+}

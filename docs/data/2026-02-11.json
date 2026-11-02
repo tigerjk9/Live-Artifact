@@ -1,0 +1,169 @@
+{
+ "date": "2026-02-11",
+ "generated_at": "2026-11-02T11:52:00+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[기고] AI시대에는 문제 상황 제시로 학교 수업 방식 바꿔야",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPczNBdDZDcVYzSkNQUkp4YUo1TkNSN3hmNTVIM1MyOGhTSXducjFWU2FGTFA4UmRvQ3JIOFYxa2NPSmRtVzRGZW1qbDJlSUVfLS12dEd5Y2ZzRnJTdjVTZXhsaWV3d3VKV1lhaXRnSjk0QTZ5RUFzR2l5NkY4c3hBLXctM1poT2VlSWc?oc=5",
+    "source": "조선일보",
+    "published": "2026-02-10",
+    "keyword": "AI교육",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "AI 시대에는 교사가 정답 제시형 지식 전달에서 벗어나 학생들의 문제 해결 능력과 창의성을 키우는 방향으로 수업 혁신이 시급합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[교육칼럼] 교사의 리더십",
+    "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2256844",
+    "source": "대전일보",
+    "published": "2026-02-10",
+    "keyword": "",
+    "topic": "teacher",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "교사의 진정성 있는 리더십은 학생의 삶에 긍정적인 영향을 미치고, 학교 적응에 어려움을 겪는 학생에게도 의미 있는 성장을 지원할 수 있음을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "서울시교육청·한국뇌연구원, 뇌과학 접목 과학교육 협력 본격화",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZWXFqMDFUSFNITFZMckhCSll4RUE2OVNFejRsLVRkY1V1b2pHMjZaejVSRjVZX1plVlpRNVFXbTBkQ212b3BTTEF2WlhNQTdVZmdZcVB3WEEzWkc5N3IwMTI0S1JUejhucHdjU013?oc=5",
+    "source": "전국매일신문",
+    "published": "2026-02-10",
+    "keyword": "뇌과학",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "서울시교육청"
+    ],
+    "summary": "뇌과학 기반 과학교육 협력은 학생들의 과학적 사고력 및 문제 해결 능력 향상에 긍정적인 영향을 미칠 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "서울교육청, 첨단 뇌과학 체험하는 교육 환경 조성한다",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1zbUVmd05yYXhLUUQzWGd5bU5NYUVCaWExT1lHQXR0algzcnJyUk9zRzhlTlpHSFBZM0s3Yk5EajFlcU5XVTZRNlF1ZmFVclUtOXdwT2piNWJqSEVxdnRGRFBVbnJiM29kUWw2dnM1VUVnMnVXMEpwTtIBeEFVX3lxTE1zbUVmd05yYXhLUUQzWGd5bU5NYUVCaWExT1lHQXR0algzcnJyUk9zRzhlTlpHSFBZM0s3Yk5EajFlcU5XVTZRNlF1ZmFVclUtOXdwT2piNWJqSEVxdnRGRFBVbnJiM29kUWw2dnM1VUVnMnVXMEpwTg?oc=5",
+    "source": "뉴시스",
+    "published": "2026-02-10",
+    "keyword": "뇌과학",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "서울시교육청",
+     "개인화 학습"
+    ],
+    "summary": "서울교육청의 뇌과학 체험 교육 환경 조성은 학생들의 잠재력 개발과 맞춤형 학습 지원을 위한 중요한 발걸음입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "글로벌사이버대 뇌기반상담심리학과, ‘뇌과학 기반 직무스트레스 관리 전문가’ 실무과정 성료",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1uLVRQdTJJeHBDRC05WEI5YkJiT096MjhQN04tMkJycFpUNVZ6TEg2VUZzUXlTRm9FblkwWjNGeEhJbWpJby1hOWxVb0M5Z1kyWDdZd0VmQVozMklaeFVFWkowU0Z6UQ?oc=5",
+    "source": "교수신문",
+    "published": "2026-02-10",
+    "keyword": "뇌과학",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [],
+    "summary": "뇌과학 기반 직무 스트레스 관리 전문가는 교사의 심리적 안정과 학생 지도 역량 강화에 기여할 수 있는 중요한 전문성입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "AI와 만난 인문학, 데이터로 미래를 해석하다... 교육부, 대규모 예산 투입",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GRWxLcWVqLUU3MVNPenVhRFRPT0E1UW5oTVN1OXZnM0tWckhWQXFzMkVIdm8waktxVVFnTGcyRXYxaWZ6VXZiRXpfaU9mZFE3OEllVTJIaHhZNmstMEJuY1FtXzBudw?oc=5",
+    "source": "교육을 비추다",
+    "published": "2026-02-10",
+    "keyword": "AI디지털도구",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "AI와 인문학 융합 교육 투자는 데이터 기반 미래 사회에 필요한 창의적 문제 해결 역량을 강화하는 중요한 발걸음입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "경기도교육청, 596개교에 디지털튜터 본격 운영",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95ZWpHQk40dEEtYXNoT0ItckNGcDRzWHR6Zi1jbmkyQThORUppbnM5d3dpeV9UWUhhZDcxZkE1TUFhOGJ5eHE4RzJULUNOQ2dwOFFxLUZvMFhwd3BaOE45RVo3cDhOa29vQ2c?oc=5",
+    "source": "비즈월드",
+    "published": "2026-02-10",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "개인화 학습"
+    ],
+    "summary": "디지털 튜터 운영은 학생 맞춤형 학습 지원 강화 및 교사의 디지털 교육 역량 강화에 기여할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "[한국사회적경제신문] 경기도교육청, 유아 겨울방학 건강 체험교육 운영…놀이로 배우는 ‘생활 속 건강’",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kNkMtQWFFLXRyTmhiZUgtbnZUazc3c05RU3NGTTM0bXh5NnNJal8yZkZkU3Vrd2NxckgtLTVCeFNwM1NORVdsM0I3dUh0VXZjZXJzQVBBQjFHYU9hSnl3?oc=5",
+    "source": "한국사회적경제신문",
+    "published": "2026-02-10",
+    "keyword": "에듀테크",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "유아의 건강한 생활 습관 형성을 위한 체험 중심 교육은 학교와 가정을 연계한 통합적 건강 교육의 중요성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "도성훈 교육감, 인하대와 인천형 인공지능 교육의 비전 실현 맞손",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQVDBFTVRnT0lKLWxTSTdMOFg0VGVEb09LUUN1U1hwRFFHREVaaXlaXzlTSUYxaVpPdVRVbDdfM1ZSTElmeEpGeVNLZVh4OVkyTW4wSG54Y1rSAVhBVV95cUxQUFQwRU1UZ09JSi1sU0k3TDhYNFRlRG9PS1FDdVNYcERRR0RFWml5Wl85U0lGMWlaT3VUVWw3XzNWUkxJZnhKRnlTS2VYeDlZMk1uMEhueGNa?oc=5",
+    "source": "아주경제",
+    "published": "2026-02-10",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "인천시와 인하대의 협력은 지역 기반 AI 교육 모델 구축을 통해 미래 교육 경쟁력 강화에 기여할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "\"IB·혁신학교 중심 개혁\"…고의숙 제주교육 혁신 선언",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtejBOc0F2blhTbFZ4VGpISGJjZnhnd2l3cEl2ZGRmZkxoWGlIOHR5Q3NMR2ZvU0g4cnlqRldIOEhzTlFzQldxNm5YS1lKaGNfRnpBcGMzNXV4OGpGbmx0emFyQ2RwQ0U?oc=5",
+    "source": "제민일보",
+    "published": "2026-02-10",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "IB",
+     "제주교육청"
+    ],
+    "summary": "고의숙 교육감의 IB 및 혁신학교 중심 개혁은 제주 교육의 다양성 확대와 창의적 교육 모델 확산에 기여할 것으로 예상됩니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [],
+  "tech": []
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI, 뇌과학, 디지털 교육, 인문학 융합, 혁신학교 등 다양한 시도를 통해 미래 교육으로의 혁신을 가속화하며 학생들의 잠재력을 극대화하는 긍정적인 변화가 기대된다."
+ }
+}

@@ -1,0 +1,423 @@
+{
+ "date": "2026-09-30",
+ "generated_at": "2026-11-02T11:44:08+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "서울시교육청, AI 활용 협력적 수업설계 가이드북 배포",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaTZCUW1OWjlmLWdZczZ6LTkxNkpWS2VDaUxkNkFsVUgxWGZ5RzAzT2xZeTRCTU8tMzBfMllJQUxWN0V1Zm9zbWxkTlkybEUtZUZndmVMSndqazJIOTdkblh2VWtya0hWMWVMblMtT1lzTkpyMFRzVmlLREE3QUhjaWRNOFVnT3Ut?oc=5",
+    "source": "영등포시대",
+    "published": "2026-09-30",
+    "keyword": "AI활용수업",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "서울시교육청"
+    ],
+    "summary": "서울시교육청이 AI 활용 협력적 수업 설계를 위한 가이드북을 배포했습니다.",
+    "implication": "이 가이드북으로 AI를 활용한 협력적 수업을 더 쉽게 구상하고 실행할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "조용식 울산교육감, 학교 관리자 만나 울산교육 현장 목소리 듣는다",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5HSDJTR2N3c1V4VU9vNkZCTjY3eHYycjdQcHN6QlJQeW1JMENOWmd1NGo5UFZoTXNhSThpWXhnc0FsTlZEaWZUYUlB?oc=5",
+    "source": "mediatoday.asia",
+    "published": "2026-09-29",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "울산시교육청"
+    ],
+    "summary": "조용식 울산교육감이 학교 관리자들을 만나 울산 교육 현장의 다양한 목소리를 직접 경청합니다.",
+    "implication": "교육감의 현장 의견 청취를 통해 교사들의 수업 개선을 위한 제안이 정책에 반영될 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "김해시 평생학습과학축제, 내달 9~10일 김해문화의전당",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82ZEpRSnVGQmJsd0tTWDh0TkVycEtsU1BFVWxKWkRUd2lXSmZuQ3h1ZE9ibXhuWl9lbUZlcjFjMHZhNWxHaUhobTdwQk1WWlJVRGR3UFNUdjctU2ItUWRoZUpmWXI1bmV4NWc?oc=5",
+    "source": "gnmaeil.com",
+    "published": "2026-09-29",
+    "keyword": "학습과학",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "김해시 평생학습과학축제가 다음 달 9~10일 김해문화의전당에서 개최됩니다.",
+    "implication": "학생들에게 김해시 평생학습과학축제에서 흥미로운 과학 체험을 찾아보고 수업에서 공유하는 과제를 제시할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "김해시 ‘평생학습과학축제’ 10월 9일 개막",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tODhhWHJ0OGNSM2hTazVfdDFaY0JNZE0wY2NhWm94ZDdDQ21TaWU0QkRKY3ZmQmVQQWYtQ0NXSy15enBCZ1pQTy0tS296RXRzRkpsazc0Q3V3RkNvYUwtOWlfWGU2NFFOVGRV?oc=5",
+    "source": "경남미디어",
+    "published": "2026-09-29",
+    "keyword": "학습과학",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "김해시에서 10월 9일 평생학습과학축제가 개막한다.",
+    "implication": "학생들에게 지역 축제를 통해 과학을 체험하고 진로를 탐색할 기회를 제공할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "AI 수학교육부터 보이스피싱 예방까지…평생의 AX파트너가 될 '에듀테크'를 만나고 왔어요",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNajViMks2bURZeFJJLVlabkxOM2R1dE1ReXJFX1lvd0ZfVEFHeFVZajhKUmFNZi1iTzVSMlZPdkNHcWFUUjlua05DaTluLVkzNS1sZEhNWlhvZ0pPcjRMTFMwQ1NFUzUtNEpGU3dvdDdmR01XTHRyLTYyZkxNWXdVVXZ0VTBrX2tvckhSNHZHOA?oc=5",
+    "source": "대한민국 정책브리핑",
+    "published": "2026-09-29",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "에듀테크는 AI 수학교육부터 보이스피싱 예방까지 평생의 AX 파트너로 다양한 영역에서 활용됩니다.",
+    "implication": "AI 에듀테크를 활용하여 학생들의 개별 학습 수준에 맞는 맞춤형 수학교육을 제공할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "경기도교육청과한국에듀누리교육원, 안양 화창초서 에듀테크 기반 참여형 보건교육 진행",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByVXpsb1ZyM2xhcnFhU19Tak9MUEFQbmZoWmtZOHoxdFJPSmdZQmZCaTBNajktRWJxeVFEU3FiVHZsUnlBMHI1TzdPbFhHMS1nMEJTUkRCQUxFbS1mejNzZA?oc=5",
+    "source": "경기경제신문",
+    "published": "2026-09-29",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청과 한국에듀누리교육원이 안양 화창초에서 에듀테크를 활용한 참여형 보건교육을 진행했다.",
+    "implication": "에듀테크를 활용하여 보건교육을 학생 참여형으로 구성해 학습 흥미와 효과를 높일 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "충남교육청교육과정평가정보원, AI 미래 꿈마당 본격 운영",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12c0RfZlF3Nzhud0F3Zk9jazlnWTBESFVMaGdxbURfSF9keFN6NjE4bG9sNUVYU1FFSUNjT0k3d2U0V2Q3S1kxRVEwYlctZW9ycjBGRWRZdTZBakZsVVRSbElFRmpvNmZzMkI4NWtn?oc=5",
+    "source": "금산중앙신문방송",
+    "published": "2026-09-29",
+    "keyword": "인공지능교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "충남교육청교육과정평가정보원이 AI 미래 꿈마당 프로그램을 본격적으로 운영합니다.",
+    "implication": "학생들이 AI 기술을 활용하여 미래를 상상하는 창의적 프로젝트를 수업에 도입할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "AI가 수업자료 만들어도 최종 판단은 교사…서울 모든 학교에 ‘수업설계 가이드북’",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxRmhrNFJXZWNDNzJyNVdMUWVKM0c0cXIxa1lLNHg2N21TbmhyNXlDUThpZWVldDZPc25TR25fTW9aQjRGN0RzR08ySHVwNy1DaG5xbDJmSnMwRUFBNXfSAVZBVV95cUxOdE0zU1FoYjI0WXFTMHA4R0lfVnFlRTdLanFZWjZWOUxvcERzcnFMMEhwaUR1SGdycGV3RmY2NjlGdkRMSVM3NUpZX21ubXpVMDQ3LXAyQQ?oc=5",
+    "source": "피앤피뉴스",
+    "published": "2026-09-29",
+    "keyword": "AI활용수업",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [],
+    "summary": "서울 모든 학교에 AI 활용 수업자료 제작 시 교사의 최종 판단을 강조하는 수업설계 가이드북이 배포됩니다.",
+    "implication": "가이드북을 통해 AI가 만든 자료를 수업에 적용할 때 교사의 전문적 판단 기준을 마련할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "인천시교육청, 세르비아 OPENS와 온라인 교육정책탐방 진행",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15WVVzS1VDdHNvbmRGX2UzSmFpdG5aVlpiMnVobXY2TlNlYm5KSno2WWlfdmdxVjJvVHN4SWcwOWFnblJoUHo5MzJmaGhobnJmZXFPMTA2aVh1YnJTQXIyQXR3?oc=5",
+    "source": "경인미래신문",
+    "published": "2026-09-29",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청은 세르비아 OPENS와 온라인 방식으로 교육 정책을 탐방하는 활동을 진행했습니다.",
+    "implication": "다른 나라의 온라인 교육 정책이나 실제 사례를 찾아보는 과제를 수업에 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "김현미 세종시의원 “공약 이행, 교육정책 목표 되면 안 돼”",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Nd2YxUFE2UFBVV0JYV20wZ0ljeWQ4d1VmbmM1Rk1vaHlBaldXdWQxWWdnLVZDOHF3ZHREUWdnNTFBTlFydzNLVmhBeElILV9teGMzbG9rRjhMUHFHLUNySU1nVWlIRlh6eXc?oc=5",
+    "source": "천지일보",
+    "published": "2026-09-29",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "세종시의원 김현미는 교육정책이 단순히 공약 이행을 목표로 삼아서는 안 된다고 주장했습니다.",
+    "implication": "교육정책의 목표가 무엇인지, 공약 이행과 어떻게 다른지 학생들과 함께 토론할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Korean in-Service Teachers’ Perceptions of Implementing Artificial Intelligence (AI) Education for Teaching in Schools and Their AI Teacher Training Programs",
+    "url": "https://www.semanticscholar.org/paper/fdf9ba8511868a73e03d4c8197f31a4cf6bdd66f",
+    "source": "semantic_scholar",
+    "published": "",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "본 연구는 현직 교사들의 학교 AI 교육 및 연수 프로그램 인식을 설문조사와 면담으로 분석하여, 실용적인 교육과정의 중요성을 강조하고 효과적인 AI 융합 교사 연수 방향을 제언합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Robert O. Davis",
+    "pdf": "https://www.ijiet.org/vol14/IJIET-V14N2-2042.pdf"
+   },
+   {
+    "n": 2,
+    "title": "The Importance of Autonomous, Self-Regulated Learning in Primary Initial Teacher Training",
+    "url": "https://www.semanticscholar.org/paper/3f3c66d1e3f3b290f50eacb3deb906e784514509",
+    "source": "semantic_scholar",
+    "published": "2019-09-01",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제",
+     "교사 연수"
+    ],
+    "summary": "초등 자기조절학습에서 교사-학생 관계의 중요성을 밝힌 이 연구는, 교사 교육 과정이 능동적 구성주의 방식을 통해 교사 스스로 자기조절 능력을 내면화하여 학생들의 자율 학습을 촉진하도록 변화해야 함을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Sue Oates",
+    "pdf": "https://www.frontiersin.org/articles/10.3389/feduc.2019.00102/pdf"
+   },
+   {
+    "n": 3,
+    "title": "ARTIFICIAL INTELLIGENCE (AI) IN EDUCATION: USING AI TOOLS FOR TEACHING AND LEARNING PROCESS",
+    "url": "https://www.semanticscholar.org/paper/788f90d3c54c1e592aa11f01296c0656ec6e41ff",
+    "source": "semantic_scholar",
+    "published": "2025-02-15",
+    "keyword": "AI education",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 AI 도구가 개인 맞춤 학습 및 교사 지원을 통해 교육의 교수학습 과정을 혁신할 잠재력을 분석하고, 효과적인 통합을 위한 과제들을 탐색합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Devi P. Saini, Meenakshi Sharma 외 1명",
+    "pdf": "https://doi.org/10.17148/ijireeice.2025.13206"
+   },
+   {
+    "n": 4,
+    "title": "Active methodologies and curricular sustainability in teacher training",
+    "url": "https://www.semanticscholar.org/paper/2d462861e9acba0d95ce98d65cc5447469ab9ba6",
+    "source": "semantic_scholar",
+    "published": "2023-02-20",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "이 논문은 체계적인 문헌 검토를 통해 교사 교육에서 능동적인 방법론이 지속가능성과 사회적 책임을 커리큘럼에 통합하고 미래 교사의 역량을 강화하는 데 필수적인 영향을 미친다는 점을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Estefanía Martínez Valdivia, Ma del Carmen Pegalajar Palomino 외 1명",
+    "pdf": "https://doi.org/10.1108/IJSHE-05-2022-0168"
+   },
+   {
+    "n": 5,
+    "title": "REFLECT – A Teacher Training Program to Promote Gender Equality in Schools",
+    "url": "https://www.semanticscholar.org/paper/8f477e0d1e721a81f57de6ac51bba75189d57c0b",
+    "source": "semantic_scholar",
+    "published": "2020-07-31",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "성 고정관념 없는 학교 교육을 위해 교사의 역량을 강화하는 REFLECT 연수 프로그램을 체계적 행동 모델 기반으로 개발하여 교사의 행동 영역을 확장했으며, 이는 교육 현장의 성 평등 달성에 효과적으로 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Marlene Kollmayer, Marie-Therese Schultes 외 1명",
+    "pdf": "https://www.frontiersin.org/articles/10.3389/feduc.2020.00136/pdf"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "[AI리더의 서가] 스프링 AI 2.0으로 배우는 AI 에이전트 개발 완벽 가이드",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215626",
+    "source": "AI Times",
+    "published": "2026-09-30",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "스프링 AI 2.0은 기존 엔터프라이즈 개발자의 AI 에이전트 개발을 용이하게 하여, 기업용 AI 솔루션 확산을 크게 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "월가 상장을 준비하는 오픈AI, 이달 GPT-5.6 출시 가능성",
+    "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxObHlpX1poVDN3ZGFEUExKdW9UemJMa2JqUlVRNEc1czFIa3Z3SlpRUmZqV244TEIwVFFhY0NWUnBTMXFUVy1rblRYd09DVmZfdnV0MWJxYlJRcHowSGpST2hNS1YzX3MzMHBKaEtBbVhFblhValo4RzlCaVVHbHc3bjJoT3BIQjN2a1lPSWc4LWpzZWtqRGRWVkVyVmI2S0ZKQWJWUVRsYzA0ajlzMU1TRElFQWhobTRmT2VaZHdjVVZXSTdKdjlDRjlObndZS0ZkNmFfOGhqN3F6RWhzMkdGTzNiRFBla2RQZ0Z6X1pUT1NWVktNcnpxbmFvMFdUdmtaajhPVUJmeHRlRHVXOUR1X256V21CY19Fa0trTlotdnRWVUtFSHlYcXpoSU0?oc=5",
+    "source": "Yellow.com",
+    "published": "2026-09-29",
+    "keyword": "Anthropic",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "오픈AI의 상장 추진과 GPT-5.6 출시는 AI 기술의 상업적 가치와 혁신 속도를 동시에 증명하며 AI 산업 경쟁 심화와 생태계 확장을 가속할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "url": "https://openai.com/index/ringg",
+    "source": "OpenAI Blog",
+    "published": "2026-09-23",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "에이전트",
+     "OpenAI"
+    ],
+    "summary": "AI 에이전트가 고객 서비스의 상당 부분을 자동 해결하며 기업 생산성 혁신과 AI 기술의 실질적 산업 적용을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[9월29일] AI가 수학 문제를 풀었다…수학자들이 진짜 걱정하는 것은 ‘정답 이후’",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215742",
+    "source": "AI Times",
+    "published": "2026-09-30",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [],
+    "summary": "AI가 문제 해결을 넘어 '정답 이후'의 심층 이해와 활용을 요구받으면서, AI 기술은 설명 가능성과 인간의 지식 탐구 증진을 위한 방향으로 진화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "‘소비자용 에이전트’ 인스팅트, 한 달 만에 기업가치 4배 폭등",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215768",
+    "source": "AI Times",
+    "published": "2026-09-29",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "에이전트",
+     "개인화 학습"
+    ],
+    "summary": "소비자용 AI 에이전트의 가치 폭등은 개인화된 AI 서비스 시장의 거대한 잠재력과 주류화 가속화를 의미합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "Anthropic이 Claude.ai, Code, Cowork 및 API 전반에 걸친 서비스 중단을 보고",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMWhYdkVLVjRXVVpMUlFiMWx2N1NKdHdHeXFoUmVEQUdoaVFLMFhWWVJLaUhGN1ptN3V1eGZSRTAwWXNvRkw5VGQxeFlxVlZZem1pYmczd1NwVmNjNnppQkFtS2ZDVXkwb2plMGhRT1E1a25wcks4ZGJ1ZFVWTzYxU0ZOcE1ITlAxSEZrNTBtcm56YWtScDROcHJwZ25RTkU?oc=5",
+    "source": "Unite.AI",
+    "published": "2026-09-29",
+    "keyword": "Anthropic",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude"
+    ],
+    "summary": "선두 AI 서비스의 장애는 AI 산업 전반에 걸쳐 서비스 안정성 확보와 잠재적 의존성 위험 관리가 필수적임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "ChatGPT now reaches 1.2 billion people every week, OpenAI says",
+    "url": "https://the-decoder.com/chatgpt-now-reaches-1-2-billion-people-every-week-openai-says/",
+    "source": "The Decoder",
+    "published": "2026-09-29",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "OpenAI"
+    ],
+    "summary": "ChatGPT의 주간 12억 명 도달은 AI가 핵심 기술 생태계이자 산업 혁신 플랫폼으로 확고히 자리매김했음을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "엔비디아, ‘AI 데이 서울 2026’ 연다…삼성∙LG∙SK∙네이버도 참여",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sZGUxUTNNSE9JTWJGLTNZZXFUclotNWVvUFU1bnlZZmF3QklpOXhRT2ZBY0FVZnNOWFVwVTRIUEUzY09OeDVnSVlMQXlPbWdXZlluZkFlQ2ZteFJQQVZCV3pGc0FOaFk?oc=5",
+    "source": "아이티비즈",
+    "published": "2026-09-30",
+    "keyword": "딥러닝",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "삼성",
+     "LG",
+     "SK",
+     "네이버"
+    ],
+    "summary": "엔비디아 주도로 국내 주요 기업들이 집결하여 한국 AI 생태계의 성장과 글로벌 입지 강화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "엔비디아, 사상 최대 200조 자사주 매입…주가 부진 탈출 총력",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215746",
+    "source": "AI Times",
+    "published": "2026-09-29",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA"
+    ],
+    "summary": "엔비디아의 대규모 자사주 매입은 AI 기술 성장세에 대한 강력한 자신감을 표명하며, AI 생태계의 투자 심리 안정화에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "中 오픈소스 AI, '사전 학습 데이터 필터링' 등 6단계 안전 프레임워크 제시",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTi1lR2xITy1WRld2TzBoVThNUXJ3dHJBeV9EeHVneDlCdmVpa1p1aGZJV2pvQkhHUXJlMW5VTHh2Ti1yakFpQUR5UXRQak1LTzJDT0RkMlFPWm54ZDBZLUlvOTMwOVR2U2dkX2oyYkNjN0lGbTJvbjVzTXFDY1hkMEZPVmt4Y0hT?oc=5",
+    "source": "글로벌이코노믹",
+    "published": "2026-09-29",
+    "keyword": "인공지능",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "오픈소스",
+     "AI 안전·규제"
+    ],
+    "summary": "중국의 오픈소스 AI 안전 프레임워크는 데이터 기반의 책임 있는 AI 개발 경쟁을 심화시키고 글로벌 AI 안전 표준 수립에 중요한 영향을 미칠 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

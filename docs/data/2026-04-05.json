@@ -1,0 +1,255 @@
+{
+ "date": "2026-04-05",
+ "generated_at": "2026-11-02T11:54:34+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[손기서 칼럼] AI 시대, 왜 다시 ‘가족봉사단’인가?",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sNDhWQzI5RHFYTmJtVG1kLVZseS01NFBXVUFhM2JYV3hLc0w2U3l6S2hncnlpSnNoZUdpMU10ckhVdUl3Tmd1a3REcUNfV1NLaGZWOGN5aG5XSDhKVTFmS3ljSEZzWWtr?oc=5",
+    "source": "에듀프레스",
+    "published": "2026-04-04",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 2,
+    "title": "​[뇌과학 행복제어] 행복을 완벽히 제어할 수 있다면",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tV2tJU2Z0RVF3LXJ3WE03MHJETmdWaUZQYWw5VmZDWElpUXRjYWdsNFY2S0VVRUdydFpMY3RaSHc1TnVuSWxCVUgyTFZrb2RiTUI0?oc=5",
+    "source": "브런치",
+    "published": "2026-04-04",
+    "keyword": "뇌과학",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 3,
+    "title": "국가교육위원회, '국가교육과정 수립·변경' 국민 참여 문턱 낮춘다... 20만 명 동의 시 심의 착수",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nbGljVk16ZjZnWG16dXdvTTMzZ0IteHZFak1ablFSSEFNUXBtVUUxMzR2c216dml3cE10NWxkYW1ZaFJCcWxTTlJPcTZOQ08tWTdzcnlISXRVemVNWE0yQjdaVzR0Zw?oc=5",
+    "source": "교육을 비추다",
+    "published": "2026-04-04",
+    "keyword": "AI교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "국회"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 4,
+    "title": "임전수 세종교육감 예비후보 “교육공동체 회복·기초학력 강화로 미래교육 실현”",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NWHZ2V3ljYi15TEJpSXJMQnRPLU4tNEtIUVExX2lzdHI4UUFTSmRDc3pyLXlJbGxPNWVJRVJjamZxMmp1QmdDeWtkcVF4R3I4dS0xd20yMWJkaWdtZ205LWtZTy1jUk0?oc=5",
+    "source": "충청탑뉴스",
+    "published": "2026-04-04",
+    "keyword": "AI교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "세종시교육청",
+     "교육감 선거"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 5,
+    "title": "이요림 수원특례시장 예비후보, 임태희 경기도교육감과 교육정책 간담회...“수원형 미래교육 방향 논의",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UTTZnRHVnZW53SXpUVkxjaU1vaE1GeW12Qi14TlZIaGJHVnRNWkFPZ2xWakNITGxIc0NWVU5WYkdacklSTEh4Y0wwdjNPSjRQc1ktTkhmV3FpMzEzM2dJNnVMMjY1bTExa2stXzBB?oc=5",
+    "source": "수원뉴스",
+    "published": "2026-04-04",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육감 선거",
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 6,
+    "title": "경기도교육청미래과학교육원, ‘2026 중등 수학교사 직무연수(1·2기)’ 운영",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96RGFsbHpFbFRXU2x6WjN0VWpuN1VUald1T0EzMUFmTmpfWURGaXQxSjB0bjJnMFZRbm50SmprSEU0QWdFZlVfREg3cGljUVNQMEk4TDY4Mkg2YmZQMnVsZWpxbGZhNnpD?oc=5",
+    "source": "뉴스피크",
+    "published": "2026-04-04",
+    "keyword": "에듀테크",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 7,
+    "title": "[인터뷰] 원성수 세종교육감 예비후보 “가능성과 재능을 키우는 교육”",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94aXJWMG5ZRV92QWNRZ1hpYnBlQTRBaE5Mbjdkb09CM3d6ZGUyLVdXbHp5SGVmX2tGMl9RM0hjSG80Ykh4dXRmTDNLbHBuVnhiS2VxdzJEcFJKVEJvSHEzYktaLU44MEF0M1E?oc=5",
+    "source": "천지일보",
+    "published": "2026-04-04",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": "interview",
+    "entities": [
+     "세종시교육청",
+     "교육감 선거"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "CCBS 탐사보도 선거특집.제주교육감 송문석 예비후보",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmUFBTVFZYR01iOVI2cGVuX0s2SHNmX0t2bi12SEt1UHV6dThvenhtR0lwOS1BZ21VNmRReEgwZHNPcTlIaTVJZFQxTWw?oc=5",
+    "source": "한국AI부동산신문",
+    "published": "2026-04-04",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "제주교육청",
+     "교육감 선거"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "지브란 부통령과 교육부 장관, 디지털 전사 LPDP 150 졸업생을 졸업",
+    "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE4ycU1NNlJWU2dVN19BcWFvaFRCQmdHUF94cGp5SjRFZVRoR3phUlp3SW5VY2IyNTQwbnZJdXlfaEhXZ9IBQkFVX3lxTE4ycU1NNlJWU2dVN19BcWFvaFRCQmdHUF94cGp5SjRFZVRoR3phUlp3SW5VY2IyNTQwbnZJdXlfaEhXZw?oc=5",
+    "source": "VOI.id",
+    "published": "2026-04-04",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 10,
+    "title": "강삼영 교육감 예비후보, \"답보다 질문\"…교육 혁신 새 접근 강조",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rV2VDS1F0SXo5dzEwQWlfRDlLRm5BQVVWdDA3MDRKUHNpYkwxRFR1dFA2b2hhQzZ4T2RZV2xodGlvUkpHQ1JrSU9qWWU2WTlueUo2NmlqRE44czJELTMwY2JiaFJRb3dv?oc=5",
+    "source": "강원신문",
+    "published": "2026-04-04",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육감 선거"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "AI literacy as a core component of AI education",
+    "url": "https://www.semanticscholar.org/paper/18fbb8fcfd5ac004c1392a3bcd644ab1e82fb0d8",
+    "source": "semantic_scholar",
+    "published": "2025-06-01",
+    "keyword": "AI education",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [
+     "AI 리터러시"
+    ],
+    "summary": "본 논문은 다양한 학생들을 대상으로 AI의 기술적 이해, 상호작용, 윤리적 활용, 사회적 영향 분석을 포함하는 AI 리터러시 교육 과정 설계 프레임워크를 제안하여, AI 교육의 저변을 확대하고 윤리적인 AI 미래를 만들어가는 데 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Sri Yash Tadimalla, Mary Lou Maher",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "The Landscape of Teaching Resources for AI Education",
+    "url": "https://www.semanticscholar.org/paper/bb90bfd7e7fde04bac8830ec94e931951517dcb4",
+    "source": "semantic_scholar",
+    "published": "2022-07-07",
+    "keyword": "AI education",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 교육 자료를 TPACK 프레임워크로 분석한 결과, 활동적 학습은 지원하나 평가 및 피드백, 교육 지침이 부족하여 AI 기술, 개념, 교육법을 통합하는 전반적인 교육과정 설계가 필요함을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Stefania Druga, Nancy Otero 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Data driven pedagogy in physical education a new paradigm in teaching effectiveness",
+    "url": "https://www.semanticscholar.org/paper/6dd6f7d112edc3eebd42cc28f8c8d867301a7dc7",
+    "source": "semantic_scholar",
+    "published": "2025-11-29",
+    "keyword": "",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 체육 교육에서 학생 맞춤형 교수법을 위해 T-구형 퍼지 Aczel-Alsina 집계 방식을 활용하여 실시간 피드백과 데이터 기반 의사 결정을 가능하게 하는 새로운 교수 모델을 제시하고, 이는 체육 교육 프로그램 개선에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Yong Wu",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "Exploring the Efficacy of AI Passion-Driven Pedagogy in Enhancing Student Engagement and Learning Outcomes: A Case Study in Philippines",
+    "url": "https://www.semanticscholar.org/paper/7c9528d000978a5f871224c102d53288d6a79256",
+    "source": "semantic_scholar",
+    "published": "2024-05-02",
+    "keyword": "",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [],
+    "summary": "필리핀에서 AI 기반 교육이 학생 참여와 학습 성과 향상에 미치는 영향을 분석한 사례 연구로, AI 도구 활용 교육과 성별 맞춤형 접근법을 통해 교육 혁신 가능성을 보여주고 지속적인 평가 및 지원의 필요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "Investigating How AI Tools Can Assist Teachers in Refining Their Pedagogy and Enhancing Student Learning Experiences",
+    "url": "https://www.semanticscholar.org/paper/ee79bdeb41bce75df271cdab7418ee54313d8f9a",
+    "source": "semantic_scholar",
+    "published": "2025-04-12",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "파키스탄 교사 대상 설문조사 분석 결과, AI 기반 채점은 교사 업무 부담을 줄이지만 교수법 및 학생 동기 부여에는 유의미한 영향을 미치지 못하며, 데이터 프라이버시 등의 문제에도 불구하고 차별화된 학습 경험 제공 가능성을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "I. Khan, Muhammad Tufail 외 1명",
+    "pdf": ""
+   }
+  ],
+  "tech": []
+ },
+ "fallback": {},
+ "notes": {}
+}

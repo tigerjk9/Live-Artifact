@@ -1,0 +1,418 @@
+{
+ "date": "2026-09-11",
+ "generated_at": "2026-11-02T11:43:05+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[김대성 칼럼] 국교위 3시 하교, 회의도 안 한 정책 왜 발표했나",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90NkR3N0s4dEJ1dWJPQ0hFMVA2MHExOXB6NUV6a1ByZlRlX0Q1Z3RsTmxKV2ZXYnk2MDdBdWFDTjAyeEExeVBTTlMtSGVPMHZ6Z1FEbk81akNJNjl3QnNtRHlKZ2QxX3kz?oc=5",
+    "source": "에듀프레스",
+    "published": "2026-09-11",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "국교위가 3시 하교 정책을 사전 논의 없이 발표한 것에 대해 문제 제기하는 내용이다.",
+    "implication": "학생들과 학교 정책이 결정되는 과정의 투명성과 다양한 의견 수렴의 중요성에 대해 토론할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "글로벌 AI 에듀테크 정책 아카데미…\"AI, 기회 크지만 도입 근거 갖춰야\"",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94bkQxVzFlQU1tWDVVbGpPS2FGV3JpRUN4UnhZcEtmWWM5VF9OS1ZsME1fdzc3VktDZUtsSFAyZWd6ZmpfQ0hzLURyZ2NZd2cwNUlmclE0WW9WclFRZng5UEM0a1duN1M2NzlVSWhB0gFuQVVfeXFMT3huRDFXMWVBTW1YNVVsak9LYUZXcmlFQ3hSeFlwS2ZZYzlUX05LVmwwTV93NzdWS0NlS2xIUDJlZ3pmal9DSHMtRHJnY1l3ZzA1SWZyUTRZb1ZyUVFmeDlQQzRrV243UzY3OVVJaEE?oc=5",
+    "source": "머니투데이",
+    "published": "2026-09-10",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "글로벌 AI 에듀테크 정책 아카데미에서 AI의 큰 기회를 강조하며 도입 근거 마련의 중요성을 논의했습니다.",
+    "implication": "AI를 수업에 활용할 때 학생 학습에 어떤 이점이 있는지 그 근거를 고민할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "대전시교육청·DX교육데이터협 'AI교육 학교 안착' 맞손",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xaVRHeWVRWkw3SFFoTExUeGZxa1FkTGpQcEpBak9hanUtUnJnVUdSN1RXbXdxNUdrZGVvdlh3TXRPLU5hNlhCRU5PVnNnaUc3ZTZxTjBtcEd3WUpJVkpOc9IBeEFVX3lxTE44djFrSFdjUU91OUlTaW1ESzJSelhPWTFMZ2Q3OURIMnZKd0tlNFVEdXl1dTFXVHRpYWVyVkZWVjd4bGRlTEhsR0JyXzBQRjd0RTBZSVVtTGZUVS00VXBzNnNrVjNESVV1bm1vWGxqVWxibmVqRGdGaA?oc=5",
+    "source": "뉴시스",
+    "published": "2026-09-10",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "대전시교육청과 DX교육데이터협회가 AI 교육의 학교 안착을 위해 협력합니다.",
+    "implication": "학교에 AI 교육이 안착하면 수업에서 AI 도구를 활용해 학생들의 탐구 학습을 지원할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "대전시·대전시교육청, 지역 주도 교육혁신 협력 본격화",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90LUlRekVGbEh0TXRJdU1qUWR5R2xYci1DNFNnZ3F6cnc4MGJPdmJ4R1R1VGdkSlh5cFNBNTQtYUc2dUZkdEM3aE9nMkxyTWNFY21yM0Rab3FYRmg5cDZkUURpZ0tOMlHSAWdBVV95cUxPdC1JUXpFRmxIdE10SXVNalFkeUdsWHItQzRTZ2dxenJ3ODBiT3ZieEdUdVRnZEpYeXBTQTU0LWFHNnVGZHRDN2hPZzJMck1jRWNtcjNEWm9xWEZoOXA2ZFFEaWdLTjJR?oc=5",
+    "source": "국민기자뉴스",
+    "published": "2026-09-10",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "대전시와 대전시교육청이 지역 특성을 반영한 교육혁신을 위해 본격적인 협력을 시작했습니다.",
+    "implication": "지역사회와 연계된 다양한 인적·물적 자원을 수업에 적극적으로 활용할 기회가 늘어날 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "\"작은학교 통폐합이 교육혁신인가?\"…교육부에 쏟아진 질문들",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JYkpDZ2lQMzFTVFhta1lxdnJuQVczT2R4Ri1GRlREa2dQcnE4RzdlazNoOGZhazdXano1eFczRFFOSDJudlE0R2h6ZV95bzQ?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-09-10",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "작은학교 통폐합이 교육혁신으로 이어지는지에 대한 질문들이 교육부에 제기되고 있습니다.",
+    "implication": "작은학교 통폐합이 교육혁신에 미치는 영향을 탐구하며 사회 문제에 대한 다각적 이해를 높일 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "군포시·경기도교육청, 교육 현안 공동 해결 나선다",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2dkxXUUFkSG8tRi1yZ0dzWldkem5ZaGhEeTRqTE9YNlNudkFackpESzRjMDM3RlM1UUU4Z2p1NlktOGVacjBmUW5jWDZiX1dQWjlYVG1GNlgwZXdTOHB2dGZ3RVpHWGs4MjdNM1JGTzRmUjjSAXdBVV95cUxPOWpLZ2o5TkY0OXExSWNvNnFiSURaMEdsUnBBcWxkUXB0aDY1S2llaDMyejJ3c2cyWnYzT1VXaEp0Sm42RmxwOXI5U1hEY3BKdUNmQ1F1dVZ5Ykc4VlMxb2FKN3F1UV9BTWtJN0tVMUlmcnZlQWpDaw?oc=5",
+    "source": "뉴스프리존",
+    "published": "2026-09-10",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "군포시와 경기도교육청이 교육 현안 공동 해결을 위해 협력합니다.",
+    "implication": "지역 교육 현안 해결에 대한 관심 증대로 수업에서 지역 연계 활동을 활성화할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "대전시교육청, 신규 원어민 교사 교육현장 적응력.역량 강화",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBUeExzOEJwcnlKc3pnM1JyLW8yUUFIS0xoUUtWZlpISTgxcmRvVG83WS1tcURFbUJHTndTbTJEbHVRbGI1QWw0?oc=5",
+    "source": "브레이크뉴스",
+    "published": "2026-09-10",
+    "keyword": "교육현장",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "대전시교육청은 신규 원어민 교사들의 교육현장 적응력과 역량 강화를 지원합니다.",
+    "implication": "원어민 교사들의 교육 내용을 토대로 교실에서 바로 활용 가능한 다양한 수업 아이디어를 함께 찾아볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "[대전시교육청과 함께하는 2026 학교안전교육활성화 캠페인] ③펀키즈유치원/”우리가 만드는 안전한 유치원”… 어린이 주도 재난안전교육 현장 속으로",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzSUFUQjR1MFVoLTVpUUNnUnFjMF9UQTM0RUxXUEswX0pQRGFtbzU4bjVLXzd1QThvbTVvdTZRUHB5SzhMeUw4b05JbGIxTi1sSmd3UzNEdVc4aV9sTGNDbHJxTFlmclVDUGc?oc=5",
+    "source": "금강일보",
+    "published": "2026-09-10",
+    "keyword": "교육현장",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "대전시교육청의 2026 학교안전교육 캠페인 일환으로 펀키즈유치원에서 어린이 주도 재난안전교육이 현장에서 진행되었다.",
+    "implication": "어린이들이 스스로 안전 활동을 계획하고 참여하는 재난안전교육을 수업에 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "세종교육청, AI·디지털 수업혁신 본격화",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5NUjRxOVoxYWRYXzc5cGdzNDlxcHlhV191MTVuN3otUlFId0lDUXJmbmdFaGVSWkpUOGU1bVFXd01jX0xKSTY3UFZ3?oc=5",
+    "source": "얼리어답터뉴스",
+    "published": "2026-09-11",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "세종시교육청"
+    ],
+    "summary": "세종교육청이 인공지능과 디지털 기술을 활용한 수업 혁신을 본격적으로 추진합니다.",
+    "implication": "AI 도구를 활용하여 학생 맞춤형 수업 자료를 효과적으로 만들 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "전주시 아동학대 사례판단위에 교사 참여…교육현장 목소리 반영",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mTDZET0VZc0hLc2tBR0k2NWpKWFllREQ1dFpJUmZ2b25wX2RqQklQU1dscThjRWNNdkQ1LVhKdmt1X1BWcjk4eG9LLXdOQWNYSGp5LXViVmFFSWRYZk94bjVpSGR2UWdjM05R?oc=5",
+    "source": "전북도민일보",
+    "published": "2026-09-10",
+    "keyword": "현장교사",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [],
+    "summary": "전주시는 아동학대 사례 판단 시 교사를 참여시켜 교육 현장 의견을 반영합니다.",
+    "implication": "학생의 행동과 발언에 더 세밀하게 주의를 기울여 학대 징후를 파악할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "A machine learning-based adaptive platform is associated with cognitive improvements in Peruvian secondary school students: a quasi-experimental study",
+    "url": "https://doi.org/10.3389/feduc.2026.1938135",
+    "source": "openalex",
+    "published": "2026-09-09",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "페루 중학생 대상 준실험 연구에서 머신러닝 기반 맞춤형 교육 플랫폼이 인지 학습 능력을 유의미하게 향상시켜, 자원 부족 환경의 포괄적 교육에 기여함을 입증합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Anel Enmita Córdova Zurita, Javier Armando Viera Domínguez 외 1명",
+    "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1938135/pdf"
+   },
+   {
+    "n": 2,
+    "title": "AI-Based Learning Tools and Learning Outcomes of Students with Disabilities in Akwa Ibom North West Senatorial District",
+    "url": "https://doi.org/10.56201/wjimt.v10.no4.2026.pg45.56",
+    "source": "openalex",
+    "published": "2026-09-08",
+    "keyword": "",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [
+     "특수교육"
+    ],
+    "summary": "나이지리아 장애 학생 대상 조사 연구는 AI 기반 학습 도구가 학습 성과를 유의미하게 향상시키나, 포용 교육의 잠재력을 최대로 발휘하려면 인프라 및 교사 지원 등 체계적 뒷받침이 필수적임을 밝힙니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "M. D. Ukpong",
+    "pdf": "https://iiardjournals.org/get/WJIMT/VOL. 10 NO. 4 2026/AI-Based Learning Tools and Learning 45-56.pdf"
+   },
+   {
+    "n": 3,
+    "title": "Reimagining Wholeness in Teaching and Learning",
+    "url": "https://doi.org/10.4324/9781003745297",
+    "source": "openalex",
+    "published": "2026-09-07",
+    "keyword": "SEL education",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 교사 소진과 단편적 교육 문제를 해결하고자 교사의 전인적 성장을 통해 학생의 온전한 발달을 돕는 몸, 마음, 관계, 시간, 정신의 5단계 프레임워크를 제시하며, 교사와 학생 모두가 치유와 성장을 경험하는 지속 가능한 교육 생태계 구축을 목표합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Virginia Dearani",
+    "pdf": "https://api.taylorfrancis.com/content/books/mono/download?identifierName=doi&identifierValue=10.4324/9781003745297&type=googlepdf"
+   },
+   {
+    "n": 4,
+    "title": "Effect of the BOPPPS-PBL teaching model on clinical pharmacotherapeutics education for pharmacy undergraduates in Central China: a non-randomized controlled study",
+    "url": "https://doi.org/10.1038/s41598-026-70493-7",
+    "source": "openalex",
+    "published": "2026-09-08",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "중국 약학 학부생을 대상으로 한 비무작위 대조군 연구에서, BOPPPS-PBL 통합 교육 모델이 전통 강의 방식보다 임상 약물 치료 교육에서 학생들의 지식 습득, 문제 해결 능력, 비판적 사고를 포함한 학습 성과와 교사의 교수 효능감을 유의미하게 높이는 효과적인 교수법임을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Fang-Yu Si, Xue Ying 외 1명",
+    "pdf": "https://www.nature.com/articles/s41598-026-70493-7_reference.pdf"
+   },
+   {
+    "n": 5,
+    "title": "PENGEMBANGAN SUMBER BELAJAR MANDIRI MATERI LAJU REAKSI MENGGUNAKAN INSTAGRAM UNTUK PESERTA DIDIK FASE F SMA/MA",
+    "url": "https://doi.org/10.51878/science.v6i4.15353",
+    "source": "openalex",
+    "published": "2026-09-09",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "추상적인 화학 반응 속도 개념 학습을 위해 인스타그램 기반 독립 학습 자료를 교육 설계 연구로 개발 및 검증하여 그 유효성을 확인하고 자율 학습을 효과적으로 지원할 수 있음을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Winny Sri Devi, Suryelita Suryelita",
+    "pdf": "https://www.jurnalp4i.com/index.php/science/article/download/15353/9847"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "앤트로픽, 클로드 API 비용 절감법 공개…‘지침 부채’ 없애고 캐싱 활용",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215093",
+    "source": "AI Times",
+    "published": "2026-09-10",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude"
+    ],
+    "summary": "앤트로픽의 API 비용 절감 노력은 AI 서비스 접근성을 높여 기술 확산과 산업 전반의 효율성 증대에 크게 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "KAIST, 행동 넘어 ‘뇌파’로 사람 의도 파악하는 AI 기술 개발",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215115",
+    "source": "AI Times",
+    "published": "2026-09-10",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "뇌파로 인간 의도를 파악하는 AI는 기존 행동 기반 AI를 넘어 차세대 인간-AI 상호작용 패러다임을 선도할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "OpenAI's GPT-Live-1 API lets developers build apps that talk and listen at the same time",
+    "url": "https://the-decoder.com/openais-gpt-live-1-api-lets-developers-build-apps-that-talk-and-listen-at-the-same-time/",
+    "source": "The Decoder",
+    "published": "2026-09-10",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "오피니언: OpenAI의 GPT-Live-1 API는 실시간 동시 양방향 소통을 가능하게 하여 대화형 AI의 상호작용 방식을 혁신하고 산업 전반의 활용을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "앤트로픽, ‘미소스 5.1’ 영국 AISI 사전 검증  거부...'AI 보호주의' 논란",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215090",
+    "source": "AI Times",
+    "published": "2026-09-10",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude"
+    ],
+    "summary": "앤트로픽의 사전 검증 거부는 AI 개발사와 규제 당국 간 긴장 심화를 예고하며, AI 기술 생태계의 규제 주도권 싸움을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "오픈AI '더 똑똑해진' GPT-4 출시",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTVZybDFtdVFyUkh3Q3hmbVJzYVdwZFBHaUl3Q3Y3SmdUbWhhZ2lVQ0laYkt3aE5JMFU0ZG9HOVllWnhNSmFCbE0waWpIOXQ3VjBXbkJHelM1M2I3WFpRMVVnTXRIdWVHN2JrTW1CU1BZWHdNbmp0eFc2U2NoS1VQLW1JRG9odkc0WGx0V2xCTklIc3RGS0dQaGM4RlFUbDVCenhZOExQSVBEU1BDR3p3VTZURDFqcmdndTFnY1VCNDBVXy16c2RRVzJhaDVkelJzbEV5bGUxc1E?oc=5",
+    "source": "미주조선일보",
+    "published": "2026-09-10",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "오픈AI의 '더 똑똑해진' GPT-4 출시는 AI 기술 경쟁을 심화하고 산업 전반의 AI 도입 및 활용을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "OKX, 프리 IPO 거래 증가에 따라 OpenAI와 Anthropic 투자를 유럽에 선보이다",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMElkRTBpVlVBVzJrQlBxQzdZdWdDSE5XWkgwUXBfNzFNOU5OcmxobEw5VlNpbVV2UF8wcnlHeTFsMEhDR2lmVDlVSE92TjFHNUNnNnRzdTgxSkd4VEwtSXdIcVZEM01IN1ZnZWZwZzZIdW4wdDZxRmRZZE1UQXpDZ2Y3NkRaUTl2TkJ5eFJJU3RiRFJ4NFpEdS1ocGJYZm5zamVBZmlIV1o0U1ZvWkQ0YWlqaGhwcWhOVGc?oc=5",
+    "source": "CoinDesk",
+    "published": "2026-09-10",
+    "keyword": "Anthropic",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Anthropic"
+    ],
+    "summary": "암호화폐 거래소를 통한 선두 AI 기업의 프리 IPO 투자 확대는 AI 산업으로의 자본 유입 가속화와 시장의 높은 기대를 반영하는 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "Anthropic, Claude 오용을 7가지 해악 영역에서 차단한 상세 내용",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRHVrM3JlMDJnMGU0MHhoOXdjUTFqU1lYd3NYZUpyLTJ3Y1JYRVRmWFNONzkzdElYYmUwdlZuUzlwLVRhUXRJWXF5WXVoV3plczFHMy1uY1puTDZkcGpmc2Y5bEZEQ3JpX1pOTHBlYmtCXzZNMGtfbGMxM0t0MXh3VjEwS19sR1M2NGxBcHhRczM3TXg4?oc=5",
+    "source": "Unite.AI",
+    "published": "2026-09-10",
+    "keyword": "Anthropic",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude",
+     "AI 안전·규제"
+    ],
+    "summary": "AI 기술 생태계가 윤리적 오용 방지 및 책임 있는 안전성 확보를 핵심 개발 표준으로 내재화하고 있음을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "\"초파리 뇌로 게임 돌린다\"...구글 뉴런 지도화에 엔지니어들 '이색 실험'",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215099",
+    "source": "AI Times",
+    "published": "2026-09-10",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "초파리 뇌 연구는 생체 모방을 통한 차세대 AI 아키텍처 개발과 AI 효율성 혁신의 중요성을 강조합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "오픈AI, 코덱스 내부 기술 그대로 ‘에이전트 API’ 공개…개발자 명령 한 번으로 에이전트 세팅",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1UbWJlcmVJUHEtalZjclRnQ3R0cC1QLWZxUjdMMjVBWjVPREZGeWNiOU82UjlUci1iT0xCd3l5UTdTTFdsU25qamljREJSVDhpMXgtNw?oc=5",
+    "source": "AI 매터스",
+    "published": "2026-09-11",
+    "keyword": "오픈AI",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "에이전트"
+    ],
+    "summary": "오픈AI의 코덱스 기반 에이전트 API는 개발자 진입 장벽을 대폭 낮춰 AI 에이전트의 확산과 다양한 서비스 통합을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "IBM과 NASA, 달 탐사용 오픈소스 AI 모델 공개",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8ybm1pTVFTbTRtZDhOYUpkWDVtRGEtRXFTUks4QVczWGpRNmlpRW9FTlYxNktVSXdvNVJSak4zRHNYbzVLRmFnSW5LT3FUd1Q5YVJMdnd4TVVLbU5KM09wMUswcFNQM2JJQlFwMmw1Zk4?oc=5",
+    "source": "Investing.com 한국어",
+    "published": "2026-09-10",
+    "keyword": "AI모델",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "오픈소스"
+    ],
+    "summary": "IBM과 NASA의 달 탐사 오픈소스 AI 모델 공개는 AI 기술의 극한 환경 적용 범위를 넓히고, 개방형 협력을 통한 AI 산업 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

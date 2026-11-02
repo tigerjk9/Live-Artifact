@@ -1,0 +1,408 @@
+{
+ "date": "2026-04-21",
+ "generated_at": "2026-11-02T11:35:14+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[이재희 칼럼] 교육개혁 골든타임 국정과제 로드맵이 안 보인다",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ndjJRQzZhU2JOWjdLRGEwdnBCejJnRE1IaGN2S084ZFNRRXh2WVZaV0w1UkZWU0E2RXZyby12b0RCeV8wa1BWcW9VdDNoSGtMMWQ0SURSSzjSAVhBVV95cUxOZ3YyUUM2YVNiTlo3S0RhMHZwQnoyZ0RNSGhjdktPOGRTUUV4dllWWldMNVJGVlNBNkV2cm8tdm9EQnlfMGtQVnFvVXQzaEhrTDFkNElEUks4?oc=5",
+    "source": "아주경제",
+    "published": "2026-04-20",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 2,
+    "title": "대교에듀캠프, '마이페이스' 사회정서학습 프로그램 고도화",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9EZkVwNlM4RVQtUFNudmltTW9yOS1DUFRqMFlFR2tQWk05OWZLM2kyRjlJS245N0Z6SDVabkplUXkwaTFrc3d2eWhoOUNKZzdrZkpqc0lxUmxjaXlsUjltMWZjOXI3bEpJNE1DM19R0gFyQVVfeXFMTXJNTHMtSE9hMTZyYWpyLTV3NnliOE1TcFhXYWEwS3hUU2RGQzNZVTF1WXVZYW9LVk55eFN2Mkh2X3YyemthbXU5YWo5dWNCNTR1RkxzaUp4U1VZNHp0WTNJdnRkc1F4dkd6a3dveDczaWhR?oc=5",
+    "source": "eduplusnews.com",
+    "published": "2026-04-20",
+    "keyword": "에듀테크",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 3,
+    "title": "[싱가포르] 교육부, 학교 버스요금 인상 “합리적 검토” 권고",
+    "url": "https://www.edpl.co.kr/news/articleView.html?idxno=20374",
+    "source": "교육플러스",
+    "published": "2026-04-19",
+    "keyword": "",
+    "topic": "global",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "중동 분쟁으로 촉발된 국제 유가 급등이 싱가포르 교육 현장에도 직접적인 영향을 미치고 있다. 각국 정부가 학교 현장의 운영 부담 완화를 위한 대응에 나선 가운데, 싱가포르에서는 교외 활동 버스요금 인상까지 검토 대상으로 떠오르며 교육비 구조 전반에 변화가 예고되고 있다.17일 Channel News Asia 보도에 따르면, 싱가포",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[6.3지선] 강은희 대구교육감, 3선도전 선언…\"대구 교육혁신에 앞장서겠다\"",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xOUJmQUR2TXpITUhUMWlaYmY1MVdHRFppTmpyOTAxMVB5emZjeVcwczNXcEp2aVJkd1poY080aHRuUTFnN3ZybHJualMyWTJYUjU5TnlPSjRUQVY2NUVYeVpJeEVuQQ?oc=5",
+    "source": "포커스데일리",
+    "published": "2026-04-20",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대구시교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 5,
+    "title": "TK교육혁신시민연합, 임종식 교육감 3선 도전 포기 촉구… “무죄와 청렴은 다르다”",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01UWpkclA4UkFIaVYxOW1USUNhR2tkRE1pUFNDSTlLSFpDTjktQjJGdm1DdE9KV203bU1jejVUM3Z4TERuelFrQW5XOUpUUjdBS1ByRDRYNTBfWnlyQVk2YXJiM0ZqRkk?oc=5",
+    "source": "영남경제",
+    "published": "2026-04-20",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 6,
+    "title": "이병도, 충청권 민주·진보 교육감 단일 후보들과 교육혁신 '맞손'",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1ZjRqdWNiOGdHTE14TFNYa0FmRXhiUGhIQkVIQno4OHd0WmFCX1B6eDUyQzl3MUVqZVpuQ21QZk56OU9CRkRjSk95Z1ZTNkpoN2FQTjVUWGo0bmRTWnJEb0hORE5VdUZVazVEQ1pKeWc?oc=5",
+    "source": "로컬투데이",
+    "published": "2026-04-20",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 7,
+    "title": "특별자치시도, 교육자치 실현 위한 방안은?...\"교육과정 자율성 확대, 교육감 권한 강화, 유연한 정원 운용권 필요\"",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xT0RqOUU3SzBQQ2cyY0FkT1RHWEN0NmtPajQxSDBHZ1kyVGtDcEl1LUtfWS1JeWdRQTE3M1FVaUdiWjhVbm1HZmY4dDRyd0lTd05pMlMxT1p6TVU?oc=5",
+    "source": "더에듀",
+    "published": "2026-04-20",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "경기도교육청, 학교현장 영상콘텐츠 '우물현답' 공개",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5UYlFCWDlCSDBDZWFfalVSaG01WmxsNlROZ094V002eFJtNTJnQk95a2VRMmVWQ3htQUR2WVFiNkJ6QzlTamtIWEczSU44LWZPQk03M1VPQWk0M2lmNWpRdURISXlaMFdZdkhUT2d3?oc=5",
+    "source": "전국매일신문",
+    "published": "2026-04-20",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "이애형·경기의회, 경기도교육청 조원 청사의 새 출발 응원 경기미래교육 중심지로의 도약, 소통·혁신의 공간 역할",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TNnd6ZTZ5eEJ5OGpZSWY0ZzhFRmJHY2tERnVabHNzdWx5bWx0WjlpTXIwNFZ2QS1LQnJBeWNpUUk3ODdXcGd0emFGUkxwbVFnb3Z5ZWVzblAwcDZRUDU4VUpSQUVxYTFkb0NvTG9n?oc=5",
+    "source": "오토투데이",
+    "published": "2026-04-20",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 10,
+    "title": "경기도교육청, 조원청사 재구조화 완료…‘미래교육 거점·스마트 교육복합공간’으로 전환",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3enJIc1Yxd2tEX1BxN1ZkbjRWbU1sdWVqU3o0cXNkeVA1MVJuaS1MTTJ4S3c3NnVGbVVzcW5NU3JWWlZ0Y0duN3A0aUZwNkYzdV96aS1ocjJqUktzZi1SeGw5WFRreDBXVmZvYkdoRUrSAXBBVV95cUxQN3pySHNWMXdrRF9QcTdWZG40Vm1NbHVlalN6NHFzZHlQNTFSbmktTE0yeEt3NzZ1Rm1Vc3FuTVNyVlpWdGNHbjdwNGlGcDZGM3VfemktaHIyalJLc2YtUnhsOVhUa3gwV1Zmb2JHaEVK?oc=5",
+    "source": "내외뉴스통신",
+    "published": "2026-04-20",
+    "keyword": "교육정책",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Research and Practice of Curriculum Intrinsic Value Development Method Based on OBE Concept",
+    "url": "https://www.semanticscholar.org/paper/d64c82f5c4fafb3b5b45da8ee72024e893ede232",
+    "source": "semantic_scholar",
+    "published": "",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": ": This study applies the teaching philosophy of Outcome-Based Education (OBE) to a curriculum, enhancing its educational value through the strategic design of teaching modes, construction of teaching ...",
+    "implication": "",
+    "ai": false,
+    "authors": "Yantao He, Sijia Liu",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "Investigating Conversational Agents to Support Secondary School Students Learning CSP",
+    "url": "http://arxiv.org/abs/2604.16213v1",
+    "source": "",
+    "published": "2026-04-17",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "에이전트",
+     "AI 튜터"
+    ],
+    "summary": "Secondary school students enrolled in the AP Computer Science Principles (CSP) course commonly utilize web resources (e.g., tutorials, Q\\&A sites) to better understand key concepts in the curriculum. ...",
+    "implication": "",
+    "ai": false,
+    "authors": "['Matthew Frazier', 'Kostadin Damevski' 외 1명",
+    "pdf": "http://arxiv.org/pdf/2604.16213v1"
+   },
+   {
+    "n": 3,
+    "title": "What Explains Teachers' Trust of AI in Education across Six Countries?",
+    "url": "http://arxiv.org/abs/2312.01627v2",
+    "source": "",
+    "published": "2023-12-04",
+    "keyword": "edtech",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [],
+    "summary": "With growing expectations to use AI-based educational technology (AI-EdTech) to improve students' learning outcomes and enrich teaching practice, teachers play a central role in the adoption of AI-EdT...",
+    "implication": "",
+    "ai": false,
+    "authors": "['Olga Viberg', 'Mutlu Cukurova' 외 10명",
+    "pdf": "http://arxiv.org/pdf/2312.01627v2"
+   },
+   {
+    "n": 4,
+    "title": "CODE-GEN: A Human-in-the-Loop RAG-Based Agentic AI System for Multiple-Choice Question Generation",
+    "url": "http://arxiv.org/abs/2604.03926v1",
+    "source": "",
+    "published": "2026-04-05",
+    "keyword": "pedagogical",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [
+     "에이전트",
+     "추론 모델"
+    ],
+    "summary": "We present CODE-GEN, a human-in-the-Loop, retrieval-augmented generation (RAG)-based agentic AI system for generating context-aligned multiple-choice questions to develop student code reasoning and co...",
+    "implication": "",
+    "ai": false,
+    "authors": "['Xiaojing Duan', 'Frederick Nwanganga' 외 1명",
+    "pdf": "http://arxiv.org/pdf/2604.03926v1"
+   },
+   {
+    "n": 5,
+    "title": "INVESTIGATING GROUP WORK ONLINE THROUGH THEORY OF CONNECTIVISM",
+    "url": "https://www.semanticscholar.org/paper/6e2b7ccb90431996135a2cbd78e5a2e142a59ee8",
+    "source": "semantic_scholar",
+    "published": "2025-10-31",
+    "keyword": "Connectivism",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [],
+    "summary": "The well-established pedagogy, group work is a key component of teaching and learning as it offers a wide range of benefits to learners across all education levels. In fact, advancements in digital te...",
+    "implication": "",
+    "ai": false,
+    "authors": "Shabina Kumari Subramaniam, N. A. C. Alih 외 1명",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "'AI 분석' 주요 기업 구내식당 순위 공개...1위 엔비디아·2위 오픈AI",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=209506",
+    "source": "AI Times",
+    "published": "2026-04-20",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "OpenAI"
+    ],
+    "summary": "미국 주요 기업의 구내식당 순위가 공개됐다. 기업들의 메뉴를 수집, AI로 분석한 결과다.18일(현지시간) 비즈니스 인사이더에 따르면, 미국의 유명 엔지니어이자 인터넷 아티스트인 라일리 왈츠는 최근 주요 기술 기업의 구내 식당 순위 사이트를 공개했다.'참고용(For Your Information) 점심'이라는 이름의 이 사이트는 왈츠가 오픈AI의 '코덱스'",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "'클로드 미소스'를 파이토치로 재현한 오픈소스 프로젝트 '오픈미소스' 등장",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=209470",
+    "source": "AI Times",
+    "published": "2026-04-20",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Claude",
+     "오픈소스",
+     "Anthropic"
+    ],
+    "summary": "앤트로픽이 개발한 차세대 AI 모델 ‘클로드 미소스(Claude Mythos)’의 구조를 둘러싼 궁금증이 이어지는 가운데, 이를 이론적으로 재구성하려는 오픈소스 프로젝트 ‘오픈미소스(OpenMythos)’가 공개돼 주목받고 있다. 카이 고메스 스웜즈(swarms.ai) CEO는 19일(현지시간) ‘클로드 미소스’를 재구성한 오픈소스 프로젝트 ‘오픈미소스’를",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "생성형 AI 이미지. 오픈AI 차기 모델 'GPT-5.5'를 형상화.",
+    "url": "https://news.google.com/rss/articles/CBMi5AVBVV95cUxOWTdSRWtEZzRscnlYYW05X0UwaEkxWTY5SVMwR095SnRRZHRRd3EwVWNuLU9Gb0F4LUMtWFJtNDNqWkF0Tk83eXlGeUZhSDczcVAwOWM1dDZXS0RVSWpzQURXc3FnXzkycWdiV3FTd3FiWnRKX3JUTGFOS0t6c2F5dmJTZFFzV2pTMzh5TkIzZXRlNFRFOGdvalFmNDZVU1dYbFJiYXhRT2tRcFRYUTcyeUM2eWJJRElVU19NR3premd6ZTZKQ1lCYVFLeV83NmZLN2tkVUtGczdJWi1RcW1WTWxUZ2FHa2tkYzF5TUhrb183QlJ0ekNFQ2xVZTBiWm1LRTE3WXM0bGRNWnFhbHVRM204TEhLdTRGQ294N1RoSnprY3V1Sk5aSThxbXcyNWlQdnUzWFlORFVINkwyUWtMSWJjeWlkTHU2bGhvME5kLWo0R1llQmZMV29tYnhxY3M0bFFJTE8wNVhmWlBybXR5TnFhUmtZdkVMMnBGS3c4bmFlX2IyOGFONUZRcy12Um56c2U3TnYzaGRCYmtLZTkwM1hHUDdfWE9OaEVuemdGanNFajVHeEMxX1dPa2M0SkswQ1hpVzF3bVdZanpPZGZlRlZmc0N4Q09XZmpmcjQzMjVjVExLSGU4bm1oVGNsOE1jWmxGbWZmVVl5c3ZrajliM2NMQ0M4Y2pJak1USGpqOGY0MUxvcnN3OWswWFZyaFhPQ3dsRHNpeDh4VTB1MmdzQ3pzVWM2ZV9oQVY2N2E3cnFzeHlUaTRZUjBqRWV6S0ZhMVhVcHV4WklHekl6R0JvVFViZWxCM0FXM3JHWHIwcnh4VGt4bTlsR1o3aUw3VHRDTjMwYloxOC1VdnROalFIaENrZmRRb3Y5LXlqVHVjNEdhQkwzNnQ5cFJqX0ROM1hGdXRsbWhobDNPYlVSbjZzakxwZW5NbENyZlVPb3lRR0lOMVlIMGprOC1tRUcxUDh6LWNVbg?oc=5",
+    "source": "전자신문",
+    "published": "2026-04-20",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.5 이미지 공개는 생성형 AI 기술 경쟁 심화와 동시에 더욱 고도화된 AI 모델이 가져올 윤리적, 사회적 영향에 대한 논의 필요성을 증대시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "OpenAI helps Hyatt advance AI among colleagues",
+    "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+    "source": "OpenAI Blog",
+    "published": "2026-04-20",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT",
+     "코딩 AI"
+    ],
+    "summary": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 5,
+    "title": "구글, ‘제미나이 인 크롬’ 국내 출시…“브라우저에서 사이드 패널로 호출”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=209511",
+    "source": "AI Times",
+    "published": "2026-04-21",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Gemini",
+     "생성형 AI"
+    ],
+    "summary": "구글이 생성 AI를 브라우저에 직접 통합한 ‘제미나이 인 크롬(Gemini in Chrome)’ 기능을 21일 국내에 공식 출시했다. 이번 업데이트는 최신 AI 모델인 제미나이 3.1을 기반으로 하며, 데스크톱과 iOS 환경에 우선 적용된다.브라우저 우측 상단의 아이콘을 통해 제미나이를 사이드 패널로 활성화하는 기능이다.이로써 이용자는 웹 서핑 흐름을 끊지",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "SK브로드밴드, 구성원 AX 역량 강화 ‘AI 에이전트 랩’ 운영",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=209504",
+    "source": "AI Times",
+    "published": "2026-04-20",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "SK브로드밴드의 AI 에이전트 랩 운영은 통신 서비스 AX 혁신을 가속화하고, AI 기술 내재화 및 서비스 경쟁력 강화에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+    "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
+    "source": "OpenAI Blog",
+    "published": "2026-04-13",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "에이전트",
+     "OpenAI",
+     "ChatGPT",
+     "코딩 AI"
+    ],
+    "summary": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "Accelerating the cyber defense ecosystem that protects us all",
+    "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
+    "source": "OpenAI Blog",
+    "published": "2026-04-16",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "Claude Design이 테스트에 들어와 Anthropic AI를 사용하여 시각적 프레젠테이션을 생성할 수 있습니다.",
+    "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQYk9NcC1qanpmVXFqcV9ZTFV5Y3JzSVBuWVVkR09QR3BGbGpWM0xRSzVreFN3b25GMnhqYXMzM2N4SldiamJlQ0ZfUWJTTXBaWUVpeGVHSlpjbHVKcVFwZS1vUU5PSjZjdWpaMi1RMVAyeVAwS0Q3Ri1aUmgtQmJRdmo2TzhfUWxyQlNGcXhOV3hmYTFnbjRBWk50VmFIWDM5amRJMElWN0RwbWFTRmN6TWt6WlptdjU2ajZtUmpTZ1AtLTRsNDBVMGNxcFNwTmVXR1NxekRWa2xxTUxQTEFkRUJyWUlycTlSeEFURldteE1VUi04a0xWek9URDdiZHdzS3ZxU1UyZDIxblFPNGxTcXVLZXdTV2trUGtWTFFtNVQ0cmVBU0lSalNkdEF3eVRtbUM4dEhRQlozTVJMYUh5cWg0MkRsbjNRSTdNN3R4T3ZzRjRraUMyQlhxVdIB2wJBVV95cUxQYk9NcC1qanpmVXFqcV9ZTFV5Y3JzSVBuWVVkR09QR3BGbGpWM0xRSzVreFN3b25GMnhqYXMzM2N4SldiamJlQ0ZfUWJTTXBaWUVpeGVHSlpjbHVKcVFwZS1vUU5PSjZjdWpaMi1RMVAyeVAwS0Q3Ri1aUmgtQmJRdmo2TzhfUWxyQlNGcXhOV3hmYTFnbjRBWk50VmFIWDM5amRJMElWN0RwbWFTRmN6TWt6WlptdjU2ajZtUmpTZ1AtLTRsNDBVMGNxcFNwTmVXR1NxekRWa2xxTUxQTEFkRUJyWUlycTlSeEFURldteE1VUi04a0xWek9URDdiZHdzS3ZxU1UyZDIxblFPNGxTcXVLZXdTV2trUGtWTFFtNVQ0cmVBU0lSalNkdEF3eVRtbUM4dEhRQlozTVJMYUh5cWg0MkRsbjNRSTdNN3R4T3ZzRjRraUMyQlhxVQ?oc=5",
+    "source": "Mix Vale",
+    "published": "2026-04-20",
+    "keyword": "Anthropic",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Claude",
+     "Anthropic"
+    ],
+    "summary": "앤트로픽의 Claude Design은 텍스트 기반 AI의 활용 범위를 시각적 콘텐츠 제작 영역으로 확장하여 AI 디자인 도구 시장 경쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

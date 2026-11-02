@@ -1,0 +1,170 @@
+{
+ "date": "2026-02-17",
+ "generated_at": "2026-11-02T11:52:15+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[칼럼] AI 기반 G-Link 인공지능 기반 교원 역량 개발 시스템",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE53dDgyMXhialExZEl6OVo1TlJIdlM3SWdma3NRSVVRWTVLS243T2lWdGt1UG1LMi1KSThqSGNITjllbWcxbXc?oc=5",
+    "source": "케이에스피뉴스",
+    "published": "2026-02-16",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "AI 기반 교원 역량 개발 시스템은 교사의 맞춤형 성장을 지원하여 궁극적으로 교육의 질을 향상시키는 데 기여할 수 있을 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[칼럼] 전국 최초, 학교 내 휴대전화 사용 기준 제도화가 던지는 의미",
+    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE05XzdGWW5xRHJvRE9ZRW5xbGVCMWh4TGRGNDNDRjk3dktCY0Fack9iYmFWWTUxSFROeW52SW9GNFpoN1Iz?oc=5",
+    "source": "케이에스피뉴스",
+    "published": "2026-02-16",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "학교 내 휴대전화 사용 기준 제도화는 학생들의 자기 조절 능력 함양과 교육 환경 개선을 위한 논의의 필요성을 제기하는 중요한 시도입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[AI넷] 유미포[누구도 원하지 않는 범죄 없는 미래] 기술적으로 사생활 보호 불가능해지면 어떤 일이 벌어질까? 스마트폰은 녹음 장치가 될 수 있고, 모든 초인종은 카메라가 될 수 있으며, 모든 거래는 디지털 기록을 남기고, 모든 움직임은 추적될 수 있다. 완벽한 감시를",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFByTzczQ1NoNjdJamFjR0pxUHlqOWFWajV0bXlROWlzdFdTYWJoR05kUk5xUTlKOExVQ0ZFbkNwWUc?oc=5",
+    "source": "AI넷",
+    "published": "2026-02-16",
+    "keyword": "미래기술",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "AI 기반 감시 사회 심화는 학생들의 비판적 사고 능력과 디지털 시민 의식 함양 교육의 중요성을 더욱 부각시키는 과제입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "임종식 경북교육감, 설 명절 맞아 ‘미래교육 청사진’ 제시",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zV3l3TC1uUUlGb251b2ttUWE5TjZLRkV6Qzhaek9RR3hBUllPS1BMV1VwdHR0enB6aEI0YkM4bnVtQWRONVZIQXJuQWpyM01sSHRGU1NNV3VGeDQ5bVNkZFhnM294V0wyeWlFWF91OA?oc=5",
+    "source": "시사포커스",
+    "published": "2026-02-16",
+    "keyword": "디지털교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "경북교육청"
+    ],
+    "summary": "임종식 교육감의 미래교육 청사진은 경북 교육 혁신의 방향성을 제시하며, 지역 교육계의 발전 동력 확보에 기여할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "\"AI 는 필수\" 외치는 경기교육감 후보들…구상 물었더니",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXTE9BcFVTaHh1WDlCMzFnSzlYckRHb3NXQnFlVGlreS1RbUh3YUdyd3YtOV96M1FqRFRxQVBwZ1I4WklTU2ZkOXdZeUNWVmJFTWc?oc=5",
+    "source": "노컷뉴스",
+    "published": "2026-02-16",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "교육감 선거"
+    ],
+    "summary": "AI 교육 도입 주장은 긍정적이나, 구체적인 실행 계획과 교사 역량 강화 방안 마련이 시급하다는 것을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "최교진 교육부 장관 “AI 기반 대입 상담 내년 3월 도입”",
+    "url": "https://news.google.com/rss/articles/CBMipgRBVV95cUxQTkVQcmVCdUxncERsNjYwOFF3RXhLWXJWbEVram1HRjlTOUtKaUc3UzZVUE5zekVNWGFMZkR1NkxyTlZ5WV9ULThsSXdFcndLZ3Fkc2pyVXNQRGVVUjFRMzRtWml2NnMtZUFDaU8zSkE4SXgya2FHamxINzJ1eFA5ODFmRC05aW4zd29tRWxzWmQtMWpEQXJfZGhnZUxReDB5NVB3UWtnb01SSDlXQnY0REk0TXdrYkpEbmt5U1NHV1RCWjA5cDB3Y3pmX0otbnZVTHZnLXpVVjV2emtISXIyRUhMSFRFUHVGSk51OXVEaXVGc2RVSUt0U0pyS2haOXcwM0ZUdUhzZ2gwNGNzcWIwMUhyUlhiRDlDOEp5cEZCMnN2cV9Td3FCcnR5NlcyZ0Jydl9iSnZqM1NQWjBsNmFRbzJuOFZNUWd4TXkxazBfNld0SXp6TjUwa2R6aWIyX1RPNHFzcXZGNWFKOTdCX2ZES1l3RzBOQlpQX3k5WkhUMTMyOE9YSi0yR3hwZWtYNHlwamdMVllXNjRGSnlONkRsQWx1N21SQXdlYnAzMGxCY0lWX3FFNnZtUzhldmxQd09WU2oyQ1IxcllGUzZKVFFNU0hCVlpWYkdEaFlQTWlUQ2Z6amQyc2tnNk1BMGJSSEJlS21qcDl0eDBrQWJTbGd3ckg0UWNrZXIzbXA1OXNqYzhnSlRsZFNCUUlHektuMWxzdVJxbnBn?oc=5",
+    "source": "MSN",
+    "published": "2026-02-16",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부",
+     "수능·대입"
+    ],
+    "summary": "AI 기반 대입 상담 도입은 학생 맞춤형 정보 제공을 확대하고 교사의 상담 부담을 경감할 수 있는 긍정적인 시도입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "[설날밥상 이런얘기] 어머니, 여기는 누가 교육감 선거 나온대요?",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yZ2NHaTBybTc2REdqOTAwbFc5R201YjRvdjVsYWdlbzdRdUxsNElfNnp6WERiTTR6ajBDY1JaWTQ2ZzR0TldaaVFZb082TzMxR0xRY1ZfSnBFUE90NlJpWTVzRkdrNXN6NVFr0gFvQVVfeXFMT0tJeXdudXRlYlFuWWVHejZWRG0zMElibGZldEdlc3BJYjA4WHNERk5ZZl95eUtkR202cnl0S1hGbGlGLVFOWFotRWZ6d2FvdlA5ekZycUtla2xuelhteWp2dUF1WlVhOUwzUE5hWVZB?oc=5",
+    "source": "교육언론[창]",
+    "published": "2026-02-16",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육감 선거"
+    ],
+    "summary": "설 연휴 밥상머리 대화에 오르내리는 교육감 선거 관련 이야기는 교육 정책에 대한 시민들의 관심도를 보여주며, 이는 교육계가 더욱 민생과 밀접한 정책을 수립해야 할 필요성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "임해규 서울교육감 예비후보, 설 맞이 전통시장 민생 행보... \"서울교육 대전환으로 교육 본질 회복할 것\"",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCMUpSN0VqUHRobllsblF0U1JUdlM4Ti1mVlI4OU45S0NXWEI3MGtaaVVZU1FsODlCenladk15OEVQM2dTMlVfR2FoNnNhZVVhMUlINDg5aW5ZN2U2ZldCM2E0QUhTMnM?oc=5",
+    "source": "경인신문",
+    "published": "2026-02-16",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "서울시교육청",
+     "교육감 선거"
+    ],
+    "summary": "임해규 후보의 교육 본질 회복 주장은 획일화된 교육 시스템 개선 및 학생 중심 교육 강화를 시사하는 것으로 해석됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "[6·3지선 충북교육감] 윤건영·김진균·김성근·조동욱 '4파전 구도'",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DUk1WeFVFS2tIa0g2SDhKWXg5MVQ3dlRVa21zMFFjdU0yUktOU19fLWVRRVNIVnlXSG4zZ1d5eUhkd2R6UDVyZFBFNDN0RktRc3NmcGIyeTBKN1VQV3lz?oc=5",
+    "source": "뉴스1",
+    "published": "2026-02-16",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충북교육청",
+     "교육감 선거"
+    ],
+    "summary": "충북교육감 선거의 다자 구도는 교육 정책 방향의 다양성을 예고하며, 교육계는 후보들의 공약과 비전을 꼼꼼히 살펴봐야 할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "학령인구 감소에 5년간 153곳 폐교…학생 31만명 감소",
+    "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2257787",
+    "source": "대전일보",
+    "published": "2026-02-16",
+    "keyword": "",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "학령인구 감소에 따른 폐교 증가는 교육 불균형 심화 및 지역 공동체 붕괴를 야기할 수 있으므로, 교육 환경 개선과 지역 상생 방안 모색이 시급합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [],
+  "tech": []
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 기술 도입 및 활용 확대, 교육감 선거를 통한 미래 교육 비전 제시, 학령인구 감소에 따른 교육 환경 변화 등 교육 현장은 AI 기반 맞춤형 교육과 미래 교육 시스템 구축을 향해 빠르게 변화하고 있습니다."
+ }
+}

@@ -1,0 +1,433 @@
+{
+ "date": "2025-11-26",
+ "generated_at": "2026-11-02T11:48:16+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[기고] AI는 제2의 산업혁명… 10년 후 승자와 패자를 가를 결정적 분기점",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qSUstMnQ2a0hZcm1BM2cxYmtJakJ0TWdEckZVaV9NZ1hMM3pfdW5zZkozOURwQUJ0Tk1IN2dvLWJIb2NmRE1sX0FuLThMYTlOTUd4d0dXYzZUWkJKREFPNy11Ylg3aXRO?oc=5",
+    "source": "아세안익스프레스",
+    "published": "2025-11-25",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "AI 시대는 교육 시스템이 창의적 사고, 문제 해결 능력 등 핵심 역량 함양에 집중해야 할 결정적 분기점임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[교육칼럼] 힘든 사람은 많다",
+    "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2241131",
+    "source": "대전일보",
+    "published": "2025-11-25",
+    "keyword": "",
+    "topic": "teacher",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "교사의 관심과 관찰력이 학생들에게 미치는 영향력을 인지하고, 학생 개개인의 어려움을 더욱 세심히 발견하고 지원하는 노력이 필요합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "필사 열풍의 비밀: 글쓰기와 뇌과학이 만났을 때 벌어지는 변화",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13b2d2UzNYTWtCVDFzQzhQM2FZTVJ1T3doc2I0MHU2aUpFNUVWWVU1cENUZzlEZ0ZUWnFoY2Rud296T2puU2ZQcTZYb0hMUjFvVlE?oc=5",
+    "source": "유스연합",
+    "published": "2025-11-25",
+    "keyword": "뇌과학",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "필사 열풍은 학생들의 능동적 학습 참여와 깊이 있는 이해를 돕는 효과적인 교육 방법으로 활용될 수 있다는 점을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "경기도교육청북부연수원, ‘학교경영자 대상 디지털 교육혁신 역량강화 연수’ 성료 초·중등 교장 300명 대상, 학교의 디지털 기반 교육혁신 역량 강화",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50WW1TREpLWmxZSHZfR3A3X3RIbTlNdTZTdkRTV0lVT1U5M0NHN1gxT2dRQjMyeGFsVU4zaVRfeHE3YzBsTVU3YUdxcVNDM0txOTVsRGZ1V2dmdmxvR1RnZFJUX2Y?oc=5",
+    "source": "화성저널",
+    "published": "2025-11-25",
+    "keyword": "디지털교육",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "학교 경영자의 디지털 교육 역량 강화는 학교 현장의 디지털 전환을 가속화하고 미래 교육 혁신을 주도하는 데 필수적입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "서울시교육청, '서울미래교육 공간 혁신 비전' 선포...모두를 위한 배움터 조성 나선다",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GZVZ2M2tjNFNLQzQ4Z0EtU2xQOXk3MHFmVl9mdzNTcDFwNWJHcmJtTjdHR3JCTS1tajBUOExYV2xPYVZIbWZrS0JBVmRWXzdubndwZDZabjZTZmg0U0Vvd2lrT1VHZw?oc=5",
+    "source": "이로운넷",
+    "published": "2025-11-25",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "서울시교육청"
+    ],
+    "summary": "서울시교육청의 공간 혁신 비전은 획일적인 학교 공간을 유연하고 창의적인 배움터로 전환하여 미래 교육의 가능성을 넓히는 중요한 발걸음입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "고교학점제 첫해… 선택과목 2·3학년에 쏠리고, 지역·학교별 격차 뚜렷했다",
+    "url": "https://news.unn.net/news/articleView.html?idxno=586673",
+    "source": "한국대학신문",
+    "published": "2025-11-25",
+    "keyword": "",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "고교학점제",
+     "개인화 학습"
+    ],
+    "summary": "고교학점제 도입 초기, 선택과목 쏠림 현상과 학교 간 격차 심화는 학생 맞춤형 교육 실현을 위한 정책 보완 및 지원 강화가 시급함을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "부울경 전문대 교수학습 성과, 한자리에 모였다",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SN3dYV00teWR1TGpXbGplMk9JUElRLTRfWml1ZzJ6bC1OYmlhRGZxVklsTkNDRzBrM2RZeDRURWY2Z3ZwYjZ1NXN3SHVOZDVPcEQ1dlRkcktpVTJVcXF4b292Z2NlSkktbW5R0gFvQVVfeXFMT0dDcHpGQXBjMlhGN0FEZm5VMXZwc24xSDlWVXowZjN0QXJsTWhxYVA0ekRGUEdPbjl2UU1JcU5WOG5UbEkwQ0l2LWVhbktaSHlhTmZWbm1oMU1CNW9VN0NZVWJYR3A5WE1BVGZabE9j?oc=5",
+    "source": "한스경제",
+    "published": "2025-11-25",
+    "keyword": "에듀테크",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [],
+    "summary": "부울경 전문대 교수학습 성과 공유는 지역 전문대학의 교육 혁신 노력과 성과를 확산하고, 나아가 전문 교육의 질적 향상을 도모하는 계기가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "부산소마고, 태국 교육부 관계자·교장단 방문… 'AI 중심 교육 모델' 국제적 관심 집중",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kRGpCMkxoQXhBUWxHYXpKQ3EwMFhZbURnS29EY3JBUW9PWmk2ZkxmRkZ4aHQ2TXRzMlZFVXhVby0wRDBaNjUwWkVlcFJ5ZUpDWk1JZ3FlbnpZNWwtdTJpSDhB?oc=5",
+    "source": "우리일보",
+    "published": "2025-11-25",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "부산소마고 사례는 AI 중심 교육 모델의 국제적 확산 가능성을 보여주며, 국내 교육 기관들의 혁신적인 교육 시도와 국제 교류 활성화를 장려해야 함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "김지철 충남교육감 \"디지털 격차 발생 않도록 최선\"",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ndWVUSWhLcWlmLXhteXJDdlZrTzB5T21HRWdnek1UU2RFcHkyTkpyX3lwejJLOUZVR0g3Unh4bjdRM0JFWGhqdGZlc0E2ZGpZVGxUWE9GVmpsN2lBdVJjZXZBcDhPUjkzU2JnbzU1aHl3QQ?oc=5",
+    "source": "굿모닝충청",
+    "published": "2025-11-25",
+    "keyword": "AI디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "디지털 교육 격차 해소 노력은 교육 불평등 완화와 미래 사회 적응력 향상에 필수적인 과제입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "“최성보 ㆍ미이수제는 가짜 책임교육” .. 교원3단체, 고교학점제 개선 필요",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=21419",
+    "source": "에듀프레스",
+    "published": "2025-11-25",
+    "keyword": "",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "고교학점제",
+     "교원단체"
+    ],
+    "summary": "교원단체의 고교학점제 개선 요구는, 현장의 혼란을 야기하는 최소 성취수준 보장 지도와 미이수제에 대한 심도 깊은 재검토가 필요함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Embedding Generative AI into Systems Analysis and Design Curriculum: Framework, Case Study, and Cross-Campus Empirical Evidence",
+    "url": "http://arxiv.org/abs/2511.17515v1",
+    "source": "",
+    "published": "2025-10-07",
+    "keyword": "pedagogy",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "본 논문은 SAGE 프레임워크를 통해 시스템 분석 교육 과정에 생성형 AI를 통합하고, 학생들의 AI 활용 판단 능력 향상과 함께 AI가 놓치는 부분을 식별하는 역량 강화를 위한 교육적 시사점을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Mahmoud Elkhodr', 'Ergun Gide']",
+    "pdf": "http://arxiv.org/pdf/2511.17515v1"
+   },
+   {
+    "n": 2,
+    "title": "LLM Chatbots in High School Programming: Exploring Behaviors and Interventions",
+    "url": "http://arxiv.org/abs/2511.18985v1",
+    "source": "",
+    "published": "2025-11-24",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "LLM"
+    ],
+    "summary": "고등학교 프로그래밍 교육에서 LLM 활용 시 무분별한 문제 해결 중심 질문이 학습 성과를 저해함을 밝히고, 체계적인 도움 요청 방법 교육이 행동 변화를 이끌지만, 근본적인 지식 부족을 해결해야 LLM의 교육적 가치를 극대화할 수 있음을 디자인 기반 연구(DBR)를 통해 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Manuel Valle Torre', 'Marcus Specht' 외 1명",
+    "pdf": "http://arxiv.org/pdf/2511.18985v1"
+   },
+   {
+    "n": 3,
+    "title": "CAPIRE Intervention Lab: An Agent-Based Policy Simulation Environment for Curriculum-Constrained Engineering Programmes",
+    "url": "http://arxiv.org/abs/2511.18145v1",
+    "source": "",
+    "published": "2025-11-22",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "CAPIRE Intervention Lab은 에이전트 기반 시뮬레이션을 통해 공대 교육과정 및 정책 변화가 학생 이탈률 감소와 학업 성취도 향상에 미치는 영향을 분석하고, 실제 적용 전 교육 개혁을 실험할 수 있는 환경을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['H. R. Paz']",
+    "pdf": "http://arxiv.org/pdf/2511.18145v1"
+   },
+   {
+    "n": 4,
+    "title": "Generalizable and Efficient Automated Scoring with a Knowledge-Distilled Multi-Task Mixture-of-Experts",
+    "url": "http://arxiv.org/abs/2511.17601v1",
+    "source": "",
+    "published": "2025-11-18",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "UniMoE-Guided는 지식 증류와 MoE 구조를 활용하여 여러 과제별 대형 모델의 지식을 하나의 효율적인 모델로 이전, 저장 및 계산 비용을 줄이면서 과제 간 성능 향상과 새로운 과제에 대한 빠른 적응을 가능하게 하여 교육 현장에서 확장 가능하고 효율적인 자동 채점 시스템을 구축합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Luyang Fang', 'Tao Wang' 외 2명",
+    "pdf": "http://arxiv.org/pdf/2511.17601v1"
+   },
+   {
+    "n": 5,
+    "title": "Enhancing Large Language Models for Automated Homework Assessment in Undergraduate Circuit Analysis",
+    "url": "http://arxiv.org/abs/2511.18221v1",
+    "source": "",
+    "published": "2025-11-22",
+    "keyword": "K-12 education",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "LLM",
+     "ChatGPT"
+    ],
+    "summary": "본 논문은 학부 회로 해석 과제 평가 시 GPT-4o의 성능을 향상시키기 위해 다단계 프롬프팅, 문맥 데이터 증강, 맞춤형 힌트 제공 전략을 적용하여 평가 정확도를 크게 향상시키고, 이는 공학 교육 분야에 LLM 통합의 가능성을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Liangliang Chen', 'Huiru Xie' 외 4명",
+    "pdf": "http://arxiv.org/pdf/2511.18221v1"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "\"AI 챗봇, 인간 웰빙보다 채팅 중독 유도 경향\"...'인간 웰빙' 벤치마크 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204261",
+    "source": "AI Times",
+    "published": "2025-11-25",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "벤치마크"
+    ],
+    "summary": "AI 챗봇의 채팅 중독 유도 경향은 윤리적 문제와 더불어, 장기적으로 사용자 신뢰도 하락 및 AI 산업 성장에 걸림돌이 될 수 있다는 점을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "'국대 AI' 참여 기업 \"GPU 문제로 모델 평가 연기된 것 아니야”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204263",
+    "source": "AI Times",
+    "published": "2025-11-25",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "GPU·데이터센터"
+    ],
+    "summary": "국가 AI 모델 개발 지연 논란은 GPU 인프라 문제가 AI 경쟁력 확보의 핵심 변수임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "OpenAI is ending API access to fan-favorite GPT-4o model in February 2026",
+    "url": "https://venturebeat.com/ai/openai-is-ending-api-access-to-fan-favorite-gpt-4o-model-in-february-2026",
+    "source": "VentureBeat AI",
+    "published": "2025-11-21",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "OpenAI의 GPT-4o API 지원 종료는 특정 모델 의존성을 낮추고 지속 가능한 AI 서비스 개발 전략을 수립해야 함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "구글, 메타와 TPU 대규모 공급 논의...엔비디아 경쟁자로 급부상",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204256",
+    "source": "AI Times",
+    "published": "2025-11-25",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Meta",
+     "GPU·데이터센터",
+     "NVIDIA"
+    ],
+    "summary": "구글의 TPU 공급 확대로 AI 칩 시장 경쟁 심화와 엔비디아 독점 구도에 균열이 발생할 가능성이 커졌습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "OpenAI turns ChatGPT into a shopping agent that researches and compares products",
+    "url": "https://the-decoder.com/openai-turns-chatgpt-into-a-shopping-agent-that-researches-and-compares-products/",
+    "source": "The Decoder",
+    "published": "2025-11-24",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT",
+     "에이전트"
+    ],
+    "summary": "OpenAI의 쇼핑 에이전트 기능은 AI가 소비자 의사 결정 과정에 깊숙이 침투하여 이커머스 시장 경쟁 구도를 재편할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "챗GPT, \"단순 대화형 AI 넘어, 실제 구매 결정까지 돕는 AI 쇼핑 플랫폼으로\"...‘쇼핑 리서치’ 도입",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjYTFWQjVuVFdQQ1FYdU9TS3MtUkI0SVd5U2QySjkwYmNTalJlOTRWUlRsdjF5RzJrMDJWZDBkX2hzSTEzSk13ZFFmenoyYXhmV2Z2R0pGcHZXS0t4LXFqZm54ZjZpRzg?oc=5",
+    "source": "인공지능신문",
+    "published": "2025-11-25",
+    "keyword": "오픈AI",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "챗GPT의 쇼핑 리서치 도입은 AI가 단순 정보 제공을 넘어 소비자의 구매 여정 전반에 깊숙이 관여하며 이커머스 시장을 재편할 가능성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "460만달러로 GPT-5 넘었다… 中 문샷AI, 40억달러 가치 눈앞",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wNkdkT3pYVnF3QXVkSWVPN2MzWmZJRGFPYWxrT3U0UDh3MTM1bHJyMXRJa3JwRklnZzBJcUZMUldValN1T3ZwR1otZHllLUJCRDNRbFlJOEpyalZ1elhfcEtIajc4TldhSWFF0gFvQVVfeXFMT2dEb21TNGVJVnZQOGE3QnlwZWVDdmc4anhqT2JTMjR1UHRLbzB5dEdnckpoV2NrV29EMXo4N0JKcWRUU3R2bkV1M2ctemxIM19VNjFFSjBFek9fejMyV0pwSHFrU0MzaWYwVlNhaEZn?oc=5",
+    "source": "더퍼블릭",
+    "published": "2025-11-25",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Moonshot"
+    ],
+    "summary": "문샷 AI의 성과는 AI 모델 개발 경쟁 심화와 더불어, 소규모 팀도 혁신적인 성과를 낼 수 있음을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "Anthropic’s Claude Opus 4.5 is here: Cheaper AI, infinite chats, and coding skills that beat humans",
+    "url": "https://venturebeat.com/ai/anthropics-claude-opus-4-5-is-here-cheaper-ai-infinite-chats-and-coding",
+    "source": "VentureBeat AI",
+    "published": "2025-11-24",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude",
+     "코딩 AI"
+    ],
+    "summary": "Anthropic의 Claude Opus 4.5는 가격 경쟁력과 향상된 성능으로 AI 모델 시장 경쟁 심화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "챗GPT가 연 생성형 AI 시장, 결국 승자는 구글?",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UeVRYeGJTaHV1SkFJYzJkY3AxaGx6SnlaNUFwMHF4LTBWNGN0aFZVSW1HaENmSFFoclQzMWZGeFdUV2lRNEJjdXFiSjlXV1E?oc=5",
+    "source": "바이라인네트워크",
+    "published": "2025-11-25",
+    "keyword": "오픈AI",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "생성형 AI",
+     "Google"
+    ],
+    "summary": "챗GPT가 촉발한 생성형 AI 경쟁에서, 데이터와 기술력을 갖춘 구글이 장기적으로 시장 주도권을 확보할 가능성이 높다는 것을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "\"챗GPT로 안 돌아가\"…AI 판도 흔든 '구글 제미나이3' 역습에 美 기술주 급등",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53NDBLcDZzajl3Q0ZrSmxiOXZzWkRKNTB3ODlNTEhTN2FpaTJGbG10TFVZUFBoal91ai1NY0Y0QnVMQjcxV2pVQjFVLXEyN1hmWnhReGg0dVNnVEM0TmdNLTlFbWpuc2VjQ0E?oc=5",
+    "source": "한국일보",
+    "published": "2025-11-25",
+    "keyword": "오픈AI",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Google",
+     "Gemini"
+    ],
+    "summary": "구글 제미나이 3의 등장은 AI 기술 경쟁 심화와 함께 특정 모델에 대한 의존도를 낮추고 기술 주도권 변화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI와 디지털 교육 혁신이 교육 현장에 빠르게 도입되고 있으며, 미래 교육 공간 조성과 고교학점제 시행 등 다양한 시도가 이루어지는 가운데, 지역 및 학교별 격차 해소와 책임 교육 강화를 위한 노력이 중요해지고 있습니다.",
+  "tech": "AI 기술은 챗봇 중독성 문제와 GPU 공급난 속에서도 쇼핑 에이전트, 더 저렴하고 강력한 모델 출시, 그리고 구글의 부상 등 경쟁 심화와 함께 더욱 인간을 능가하는 방향으로 발전하고 있으며, 새로운 가치를 창출하며 진화 중이다."
+ }
+}

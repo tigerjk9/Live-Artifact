@@ -1,0 +1,414 @@
+{
+ "date": "2026-06-08",
+ "generated_at": "2026-11-02T11:37:52+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "전남교육청, '숏폼 실습'으로 AI 미디어 수업 혁신",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XYmVZUWdMQWZzd1FHbG1HWlBROUE1UWN1SzctX0JzWnFyNUV6ajNxU3V2ZEEweEthdUItX2E4b2FhZVNoQ04zMmNWQTM2LTVBU1FtV1U5dHktdTJBYWxtZzZJV3NzSC0yV09FTGJQY3HSAXNBVV95cUxNanR5R3NsT2FwR2prbGVlTzRHOTZWT25JSFFxYS1uSEVOOV92TmcwazNvTTBkbzltMlNmOEtXRFNpc1BSU1JPSVRNc1ZBMm5xZE1pUzA4ZUE1YjNmbUhLY3pGTjg4SEtCRmZUbnhvUUVHaE1N?oc=5",
+    "source": "뉴스워커",
+    "published": "2026-06-08",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "전남교육청"
+    ],
+    "summary": "전남교육청이 숏폼 실습을 활용하여 AI 미디어 수업을 혁신하고 있습니다.",
+    "implication": "AI 미디어 수업에 숏폼 콘텐츠 제작 실습을 도입하여 학생들의 참여를 유도할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "학교 자율화 외쳤지만…교육청 권한 커지고 학교 권한은 15년째 후퇴",
+    "url": "https://www.edpl.co.kr/news/articleView.html?idxno=20855",
+    "source": "교육플러스",
+    "published": "2026-06-06",
+    "keyword": "",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "학교 자율화 정책에도 지난 15년간 학교 권한은 감소하고 교육청 권한은 증가하여, 학교 현장의 실질적 자율성이 축소된 것으로 나타났습니다.",
+    "implication": "교사의 교육과정 및 학생지도 자율성이 축소된 상황에서, 학생들에게 스스로 결정하고 책임지는 기회를 더 많이 제공할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "오석진 교육감 당선, 미래교육 이끌 책임행정 기대",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5sdjBmYVdiTFU2eDktcFUwNl9lMmlqSk9Td25SZ2lTNUEyTVdwS19jekw3X04wLW1LdFRuUVQzNFhLbkxPeVMxZUZzVC1vNzJkYVc5YWRZUTE4R3I2bXNqUlU1UWQwQQ?oc=5",
+    "source": "코리아플러스",
+    "published": "2026-06-07",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "오석진 교육감이 당선되었으며, 미래교육을 이끌 책임감 있는 행정을 기대한다는 내용입니다.",
+    "implication": "새 교육감의 미래교육 강조는 우리 반 수업에 적용할 새로운 아이디어를 구상할 기회가 될 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "“1인 1 노트북 대신 입학준비금 50만∼70만원 지급”… 제주 교육정책 전환 추진",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Eb0FYdmNpendDOGRQM2FKSk8xLUZWX0ZxWmRES0RoQXFOSkhBSWV3eWFxcUg4eGRKUTFFbHE3R29GRV8zVGc0T2R4Yw?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-06-07",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "제주교육청"
+    ],
+    "summary": "제주 교육정책이 1인 1 노트북 대신 입학준비금 50만~70만원 지급으로 전환 추진됩니다.",
+    "implication": "학생들의 디지털 기기 보유 여부가 달라질 수 있으므로, 온·오프라인 혼합형 수업 설계를 고려할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[권순기호 교육정책 전망] 학력향상·과학인재양성 중점… 12년 진보교육 개편 예고",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5mWllMb0xBbjBjNFZhbjlIMVFKSnBSQnZpcEdTQjAwNGtsQVBsLTEyakNkdS03cC10cUxzMy1aZzBybnRjWmc?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-06-07",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "새 교육정책은 학력향상과 과학인재 양성을 중점으로 12년 진보교육 개편을 예고합니다.",
+    "implication": "학력 향상과 과학 인재 양성에 초점을 맞춰 학생들의 기초 학력 다지기 수업을 구상해 볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "여성 교육감 3인, 교육 리더십 지형을 바꾸다",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE52c2Q4NkNyN2JPM1AtVWVFYkMxOXk1Z2UzQV9adzhqUGpPTmp6ZzlBdkxIVk1UWDRFbFFjMGVpdUIxLXFUUmhRZk80VEU?oc=5",
+    "source": "브랜드경제신문",
+    "published": "2026-06-07",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "여성 교육감 3인이 교육 리더십의 지형을 변화시켰습니다.",
+    "implication": "학생들에게 다양한 리더십 모델과 성별 고정관념을 깬 사례를 제시할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "교수학습개발센터, ‘2026 CTL Leadership 스피치 챔피언십’",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PeWFfUkR2T3c4LTZBRzN5NGxEaGx5V25TWVM1ckdYWWQ0eklCaXFlZ0MwQ0pKa0VrZlpjWHc0aFQtZmF5M1FSUlJ0ei1zMTYtTlZUMHg5S3IwaUUtcjdMcGMxUXBmalluSU5uZndpOA?oc=5",
+    "source": "단국대학교",
+    "published": "2026-06-08",
+    "keyword": "인공지능교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "단국대학교 교수학습개발센터가 ‘2026 CTL Leadership 스피치 챔피언십’을 개최합니다.",
+    "implication": "학생들의 리더십과 발표 능력을 향상시키기 위해 수업에 스피치 대회를 도입할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "안민석 경기교육감 시대, 더 나은 교육을 향한 새로운 출발",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ra2JEMUU2cG02RWdzbXdQU0hJTzE5d2pqNXNtRHU2Z0hkS2NJcjREZHJodF9tLXFaYTlEWDR3LUdBNjNwNktEUVdrOVJubk9GS2JaaGJ2WFFabG56QVpvaVVJWWQ?oc=5",
+    "source": "경기인저널",
+    "published": "2026-06-08",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "안민석 교육감이 경기교육감으로 새로운 시대를 열며 더 나은 교육을 시작한다는 내용입니다.",
+    "implication": "더 나은 교육을 위한 변화에 발맞춰 수업에 새로운 교수법을 적극적으로 시도할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "“진영 논리 끝내야”…울산교총, 신임 교육감에 화합·소통 당부",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQOGZ0TWphUVdnLWJ5czhnRk9Hb2QzQjBKbHRTZm5VM3RjYnQtcDhIeWhzV2NDSUlUcW1CV0J1alZibk9XR2RkWDQ3aF9SaDF0UC1pLWZKamRfNnMxenNaU3RJMEJ0d1M2V3NFME5n0gFuQVVfeXFMUFA4ZnRNamFRV2ctYnlzOGdGT0dvZDNCMEpsdFNmblUzdGNidC1wOEh5aHNXY0NJSVRxbUJXQnVqVmJuT1dHZGRYNDdoX1JoMXRQLWktZkpqZF82czF6c1pTdEkwQnR3UzZXc0UwTmc?oc=5",
+    "source": "울산매일",
+    "published": "2026-06-07",
+    "keyword": "AI교육",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "교원단체"
+    ],
+    "summary": "울산교총은 신임 교육감에게 진영 논리를 끝내고 화합과 소통을 당부했습니다.",
+    "implication": "이 뉴스를 통해 우리 반에서도 서로 다른 의견을 존중하며 화합하고 소통하는 중요성을 배울 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "밀양시, 생성형 AI 통합복지플랫폼 교육",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IUXdtODFnNmY0dG5pdEtuQXI4c2J5V2tZWnQxamF6bnNwVFFDb3R0bElHc0FmVnZvUDlVa290dHlveHF5Q2ZrV3VVVm1sZHU0TXdNOXNZcnV3WDV5NlliQ2Z4WG9ieloyUEsw0gFvQVVfeXFMTno3TmQ2V2Z6X0tGS2dkUE1vU0RrOEhCUWZNbl9mWkxxSHlLQlFvNlg0YkNXWlA3U3JEcjZFQkF5SGt6U3JuM2Z4VWpEd2d1aHFyclltaHdQSVlzeE5kWFhtcmlsSC1LR3lsZ05TMnZz?oc=5",
+    "source": "경남연합일보",
+    "published": "2026-06-07",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "밀양시가 생성형 AI 기반 통합복지플랫폼 교육을 실시했습니다.",
+    "implication": "생성형 AI의 통합복지플랫폼 활용 사례를 바탕으로 학생들이 토론하는 수업을 진행할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Optimizing Primary Mathematics Teaching Through Problem Solving: Experimental Evidence from Azerbaijani Primary Schools",
+    "url": "https://doi.org/10.56334/sei/9.8.14",
+    "source": "openalex",
+    "published": "2026-06-06",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "아제르바이잔 초등 수학 교육에서 문제 해결 기반 교수법이 전통적 교수법보다 학생들의 인지적 학습 및 핵심 역량 향상에 현저히 효과적임을 실험적으로 입증하여, 학습자 중심 교육과정 개편에 중요한 실증적 증거를 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Samire Nurmehemmedi",
+    "pdf": "https://doi.org/10.56334/sei/9.8.14"
+   },
+   {
+    "n": 2,
+    "title": "Future-ready educators: assessing the effectiveness of technology-driven intervention in preparing pre-service teachers for 21st-century classrooms",
+    "url": "https://doi.org/10.3389/feduc.2026.1852986",
+    "source": "openalex",
+    "published": "2026-06-04",
+    "keyword": "edtech",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "준실험 설계를 통해 디지털 시대 교수 모듈이 예비 교사들의 디지털 역량, 수업 계획, 협력 학습, 기술 통합 능력을 유의미하게 향상시켜 21세기 교실에 대비시키는 데 효과적임을 입증합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Yusuf Olayinka Shogbesan, Rukayat Oyebola Iwintolu 외 1명",
+    "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1852986/pdf"
+   },
+   {
+    "n": 3,
+    "title": "Identifying Core Linguistic Factors for Effective Writing: Basis for the Development of Contextualized Activities for Grade V Learners",
+    "url": "https://doi.org/10.65339/ijsair.v2.i2.553",
+    "source": "openalex",
+    "published": "2026-06-06",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "핵심 언어 요인 분석을 통해 초등학교 5학년 학생들의 쓰기 능력 향상을 위해 어휘력 등 약점을 보완하는 맥락화된 쓰기 활동을 개발하고 그 효과와 적합성을 검증하여 교육적 기여를 합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Kathrine Mae Resayaga",
+    "pdf": "https://www.ijsair.com/index.php/ijsair/article/download/659/633"
+   },
+   {
+    "n": 4,
+    "title": "Practices, Challenges and Interventions in Teaching Kindergarten Curriculum in Bayombong Districts, SDO Nueva Vizcaya",
+    "url": "https://doi.org/10.65339/ijsair.v2.i2.555",
+    "source": "openalex",
+    "published": "2026-06-06",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "필리핀 유치원 교사 20명을 대상으로 한 서술적 양적 연구는 학습자 중심 교육 실행에도 불구하고 자료 부족, 과밀 학급 등의 어려움을 겪는 교사들이 개별 보충, 학부모 협력 등으로 대응함을 밝혀 교육의 질 향상과 지속가능성에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Rhea Ampa",
+    "pdf": "https://www.ijsair.com/index.php/ijsair/article/download/661/635"
+   },
+   {
+    "n": 5,
+    "title": "An Intentional Word Learning Task: Theoretical Foundation and Evidence-Based Suggestions",
+    "url": "https://doi.org/10.35360/njes.v25i1.63672",
+    "source": "openalex",
+    "published": "2026-06-05",
+    "keyword": "vibe coding",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "스웨덴 영어 교육의 의도적 어휘 학습 부족 문제를 해결하고자 동의어, 번역 등 7가지 정보 유형을 활용한 효과적인 어휘 학습 과제를 개발하고 그 유용성을 입증하여, 체계적인 어휘 학습 설계의 중요성과 교육적 적용 가능성을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Elin Nylander",
+    "pdf": "https://publicera.kb.se/njes/article/download/63672/53325"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "월마트가 직접 만든 AI 코딩 에이전트 인기...\"빅테크 종속 깬다\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211414",
+    "source": "AI Times",
+    "published": "2026-06-06",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "코딩 AI",
+     "에이전트"
+    ],
+    "summary": "비기술 기업의 자체 AI 개발 성공은 빅테크 중심의 AI 기술 생태계 재편을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "구글, ‘젬마 4' 온디바이스 버전 QAT 공개…“메모리 1GB로 압축”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211418",
+    "source": "AI Times",
+    "published": "2026-06-06",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Gemini",
+     "온디바이스 AI"
+    ],
+    "summary": "구글 젬마 4의 1GB 경량화는 엣지 AI 생태계를 확장하며, 저사양 기기에서도 고성능 AI 활용을 보편화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "화웨이·선전 연구진 \"중국산 AI 칩으로 ‘딥시크 V4-프로’ 사후학습 성공\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211428",
+    "source": "AI Times",
+    "published": "2026-06-07",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "GPU·데이터센터",
+     "DeepSeek"
+    ],
+    "summary": "중국산 AI 칩으로 고성능 AI 모델 학습에 성공하며 중국의 AI 기술 자립과 독자 생태계 구축이 가속화될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "LGU+ “2030년 AIDC 5조원 계약…AI 인프라 표준 제시“",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211423",
+    "source": "AI Times",
+    "published": "2026-06-07",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "LG"
+    ],
+    "summary": "LGU+의 대규모 AIDC 투자 및 AI 인프라 표준 제시 시도는 통신사의 AI 시장 주도권 경쟁 심화와 전반적인 AI 기술 생태계 발전을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "구글, 연주자 입력에 실시간 반응하는 AI 악기 ‘마젠타 리얼타임 2’ 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211417",
+    "source": "AI Times",
+    "published": "2026-06-06",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "실시간 반응형 AI 기술이 인간 창작 활동에 깊이 통합되어 새로운 협업 모델과 응용 분야 확장을 이끌 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "Anthropic Salip OpenAI, Claude 제작자의 평가는 약 1 조 달러에 도달했습니다.",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzc2RHazEzNl85OERVeTNUZnZnNUU0d0lDNGlkbWxoSFU0al9MQlF5VmhJMlJTajY3OVRwSkt6eGdQTi1WM3lLR1p0d9IBQkFVX3lxTFB1V1dib3MtNkFCSmNZZE1KZTVKUFhVTjIxZXNnalFqNU5VeklGamZOdWtlOTdRRkUzcHZqQXJTMlh3dw?oc=5",
+    "source": "VOI.id",
+    "published": "2026-06-07",
+    "keyword": "Anthropic",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "OpenAI",
+     "Claude",
+     "생성형 AI"
+    ],
+    "summary": "Anthropic의 조 단위 평가는 생성형 AI 시장의 치열한 경쟁 심화와 투자 열기 지속을 예고할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "OpenAI says \"chat is dead\" and plans to rebuild ChatGPT as a full-blown agent app",
+    "url": "https://the-decoder.com/openai-says-chat-is-dead-and-plans-to-rebuild-chatgpt-as-a-full-blown-agent-app/",
+    "source": "The Decoder",
+    "published": "2026-06-07",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT",
+     "에이전트"
+    ],
+    "summary": "OpenAI의 선언은 AI 산업 경쟁의 축이 단순 챗봇을 넘어 자율형 에이전트 앱 구축으로 완전히 전환될 것임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "\"한국, AI 비싸게 쓴다\"…한국어 토큰 소모, 영어 최대 2.59배 높아",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211350",
+    "source": "AI Times",
+    "published": "2026-06-06",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [],
+    "summary": "한국어 AI 토큰 소모 비용의 비효율성은 국내 AI 서비스의 경제성과 경쟁력을 약화시켜 산업 발전을 저해할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+    "source": "Google Blog - AI",
+    "published": "2026-05-29",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Google",
+     "코딩 AI",
+     "개인화 학습"
+    ],
+    "summary": "Google AI Studio를 통해 'vibe'를 코딩하는 시도는 AI가 감성적, 주관적 요소를 이해하고 구현하여 개인화된 AI 서비스 생태계 확장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "엔비디아·SK하이닉스, 차세대 AI 메모리 공동개발 ‘장기 파트너십’ 체결 - 조선비즈",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPalowc0JDMG9tak5YMTJuOTJ1Y1FRb1I3VTZQZmVpMmZRbFBuQWNfY2Ftd19FOWxaam9kdVBlaXpiQTQ5T3dJRmZ4R3hXbTVDR0Z2UGNUSUxyb0Q5TGQ4M0tKcmFpelNzcTVTbjlGRU5Qdm9HQjdmeXQyLWhoRjFjWVFB0gGWAUFVX3lxTE0ybnc0V21GMUduR3JxRVJJbzZuM0w4ZGRYV3VXTFdfWTZla1BnWGttSDdWVW5IM0I1eGI5bmFKVGllRnZFN0JRUkU5ZTZXcFVzVUJQYjZ6em9LTGxMSFhKRkhGVHQxcjdVVzdsTmVTalNYaWZyTmZwTzF3SDVKNEpDVkV6bS1FWTBVUl9xVno3MHhxRktRUQ?oc=5",
+    "source": "구글 뉴스 AI",
+    "published": "2026-06-07",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "SK"
+    ],
+    "summary": "엔비디아와 SK하이닉스의 협력은 차세대 AI 메모리 개발을 가속화하여 AI 기술 생태계 전반의 성능 향상과 혁신을 이끌 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

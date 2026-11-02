@@ -1,0 +1,247 @@
+{
+ "date": "2026-08-18",
+ "generated_at": "2026-11-02T11:41:47+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[특별기고] 교육감의 첫 인사 ‘교육 사람’이어야",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTZjA3dTJFX2ZZQmpTYUVBbGZ2QzhiTWhoYk0yWkppd3lfSHU0enI2ZklFUDRBb1F3M3VhUGU5WDhHc2FGeFdiZUdOWDRJdmRuQ1cwY3dLQ1dYb3ROVHNV?oc=5",
+    "source": "한국교육신문",
+    "published": "2026-08-17",
+    "keyword": "AI디지털교육",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "한국교육신문 특별기고는 교육감의 첫 인사가 교육 전문가여야 한다는 주장을 담고 있습니다.",
+    "implication": "교육 전문가가 교육 행정을 맡으면 교사 의견이 수업에 더 잘 반영될 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "황인구 서울시의원, “AI·에듀테크, 교육현장 변화 이끌 핵심 동력” 미래교육박람회 찾아 최신 교육기술·콘텐츠 직접 살펴",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fREcwdDdmdU9jQkQ2d2tkR01fUEFHc3BmWXVxYkZiUGgwcE9tcktteDdqSDYtQ1dNLTZTSWFtMnVsWXlDY2tTTFNTSVRWY2x2cXlvczhyZXN4VnI2UUlMMWdjdGQwWlBwUFowa1Eyd9IBb0FVX3lxTE9fREcwdDdmdU9jQkQ2d2tkR01fUEFHc3BmWXVxYkZiUGgwcE9tcktteDdqSDYtQ1dNLTZTSWFtMnVsWXlDY2tTTFNTSVRWY2x2cXlvczhyZXN4VnI2UUlMMWdjdGQwWlBwUFowa1Eydw?oc=5",
+    "source": "서울일보",
+    "published": "2026-08-17",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "황인구 서울시의원은 미래교육박람회를 찾아 AI·에듀테크가 교육현장 변화의 핵심 동력임을 강조했습니다.",
+    "implication": "AI·에듀테크를 수업에 적용해 학생 개별 맞춤 학습을 지원하고 학습 효과를 극대화할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "강원대학교 교수학습개발원, 상반기 교육혁신 성과 점검…하반기 협업 강화",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05ZkQyNXE3SEtZUnRhSEx6X2x5MUJKMnliY1dwT0VyMGVtNzJhN0k3R3VTS0dQcmJXckdJWGp0Q2lPckJqV3FMQjdzb3g1NTl4UllxSnVUTEJyYWsxOTFLN2ZLemk2M0p6aVVMTmg1LXU?oc=5",
+    "source": "한국강사신문",
+    "published": "2026-08-17",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "강원대 교수학습개발원이 상반기 교육혁신 성과 점검 후 하반기 협업 강화를 계획한다.",
+    "implication": "내 수업의 교육 혁신 성과를 자체 점검하고, 필요한 부분을 위해 동료 교사와 협력할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "대구시교육청 대구미래교육연구원, 온라인 플랫폼 ‘온샘배움터’로 탐구수업 실천:경찰연합신문",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZejFkSlpNTHZMQ2V3dHhZZy1fSjBXaEQtMGUySE5IMVBweTAxdnNXblpFZFpOMGliNkwwNDFPMk1kdGRJOHFuc1BuQW90S0xhWVhxZ2tHTDlPWkg0ekdDNm96Z0tFSE9zZjhIR9IBbEFVX3lxTE9ZejFkSlpNTHZMQ2V3dHhZZy1fSjBXaEQtMGUySE5IMVBweTAxdnNXblpFZFpOMGliNkwwNDFPMk1kdGRJOHFuc1BuQW90S0xhWVhxZ2tHTDlPWkg0ekdDNm96Z0tFSE9zZjhIRw?oc=5",
+    "source": "경찰연합신문",
+    "published": "2026-08-17",
+    "keyword": "디지털교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "대구시교육청"
+    ],
+    "summary": "대구시교육청 대구미래교육연구원은 온라인 플랫폼 '온샘배움터'를 통해 탐구수업을 실천합니다.",
+    "implication": "온라인 플랫폼을 활용하여 학생들이 주도적으로 탐구하는 수업 모델을 교실에 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "경북 AI교육 새 거점 의성에… 인공지능교육관 10월 개관",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE51NGwtWFB0VGlhZnBXUXpXNUI4OW5uaDExbUZOT293UzU1b3ZMWnFLLTRYbVIwU3ZHVDJvRmhud2tCZFZwVjZjRU5JdnFqM1ZwbUxOR2UweGRsaW44U0M3cUNn?oc=5",
+    "source": "매일신문",
+    "published": "2026-08-17",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "경북 인공지능 교육의 새로운 거점이 의성에 생기며, 인공지능교육관이 10월에 개관한다.",
+    "implication": "경북 의성에 개관할 인공지능교육관은 AI 교육 프로그램 개발 및 체험 학습에 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "[교육정책의 미신, 대입개혁을 다시 묻다] ①객관식은 언제부터 나쁜 평가가 되었나",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rSTBQLUpRcmhXV0VmZG5IaUNjVEhCaVBlMzNBZnFPZEstR2RrSm9peTZTOFBOZVhrNjhoOWNoMG9Bai1yd2hhOU40czZJSWNXUHhaUFl1Y3lLUjQ?oc=5",
+    "source": "더에듀",
+    "published": "2026-08-16",
+    "keyword": "과정중심평가",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "수능·대입"
+    ],
+    "summary": "대입 개혁 논의에서 객관식 평가 방식이 언제부터 부정적으로 인식되었는지 그 배경을 묻는 기사입니다.",
+    "implication": "객관식 평가의 오해를 이해하고, 수업 목표에 맞는 효과적인 평가 방법을 재고해 볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "경기도의회 교육기획위원회, 맞춤형 교육정책 방향 모색",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80d1RaM1VEZlMzMXJ4Tm9WYk1BQzIzUTNEdXc1WnMycFV2SDhMaGZwaFRlcGlTZ0MzSWIwd3NGWG8wMzBfQ1FtTmRIc3kwQXIzZU1iZHJWREVqZ1FLdWMyTHNQRVYxQUlOc0pB0gFrQVVfeXFMTzR3VFozVURmUzMxcnhOb1ZiTUFDMjNRM0R1dzVaczJwVXZIOExoZnBoVGVwaVNnQzNJYjB3c0ZYbzAzMF9DUW1OZEhzeTBBcjNlTWJkclZERWpnUUt1YzJMc1BFVjFBSU5zSkE?oc=5",
+    "source": "전국도민일보",
+    "published": "2026-08-17",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "경기도의회 교육기획위원회가 맞춤형 교육정책의 방향을 모색하고 있습니다.",
+    "implication": "맞춤형 교육정책 논의에 맞춰 학생 개개인의 특성을 고려한 수업을 시도할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "울산시의회, 교통·돌봄·과학교육 현장 목소리 청취",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DUjJMNzVDQXVZMktyWDlGM0RCS2hiS005b3l4RFpmVzFUa3k0VHE1b25vRkxlSzhYcWtTMXJMZy1IM1BOUnF6cGxfcXg3VmhkS0p3WWFNeWxNd09tV2VoOFpZZGg4ZnN1SWtCcFh30gFuQVVfeXFMTkNSMkw3NUNBdVkyS3JYOUYzREJLaGJLTTlveXhEWmZXMVRreTRUcTVvbm9GTGVLOFhxa1MxckxnLUgzUE5ScXpwbF9xeDdWaGRLSndZYU15bE13T21XZWg4WllkaDhmc3VJa0JwWHc?oc=5",
+    "source": "iusm.co.kr",
+    "published": "2026-08-17",
+    "keyword": "교육현장",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [],
+    "summary": "울산시의회가 교통, 돌봄, 과학교육 분야의 현장 의견을 청취했다.",
+    "implication": "과학교육 현장 목소리 청취는 학생들이 지역사회의 과학 관련 이슈에 직접 참여하며 배우는 기회가 될 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "중국 교육 관계자들, 한국교통대 AI·미래교육 현장 찾았다",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nZ0x3dkowcnB2a1gtWEtuaEYzdlhpNnM5aW85ZXowT0tTNEg4NF9abXhVSC14b0hmOXNmaU91ZnFJemFaQTJzVk1nYU1FT2UtaWZCVGdqVVZwVk14U2g1OXd3?oc=5",
+    "source": "충북일보",
+    "published": "2026-08-17",
+    "keyword": "에듀테크",
+    "topic": "global",
+    "kind": null,
+    "entities": [],
+    "summary": "중국 교육 관계자들이 한국교통대의 AI 및 미래 교육 현장을 방문했습니다.",
+    "implication": "AI와 미래 교육에 대한 국제적 흐름을 보여주며 학생들이 흥미를 갖도록 수업 주제로 삼을 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "윤건영 충북교육감 \"충북평가관리센터 구축 운영 방안 검토해야\"",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZRnRlN1llMmlmQXQyYjl2cjd5MGlDc3dLYm9WV0ZvTFJic21vb2ZHVnc5b2NrZGphR2g2WmhqMkIycjY1U2dwMHpZT2pLcWItQ2E5bk1FRktNTFFobk9WRVdtRkdhSm1GU2VtZnJXV1c?oc=5",
+    "source": "충청일보",
+    "published": "2026-08-17",
+    "keyword": "에듀테크",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충북교육청"
+    ],
+    "summary": "윤건영 충북교육감이 충북평가관리센터 구축 및 운영 방안 검토를 제안했습니다.",
+    "implication": "평가관리센터 구축으로 수업에 활용할 수 있는 다양한 평가 도구와 자료를 기대할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Linguistic strategies in students’ reflective talk on team teaching in Thai upper secondary English classrooms: A pragmatic analysis",
+    "url": "https://doi.org/10.69598/hasss.26.2.285754",
+    "source": "openalex",
+    "published": "2026-08-14",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [
+     "다문화"
+    ],
+    "summary": "이 연구는 태국 고등학생들이 영어 팀티칭에 대해 반성적으로 이야기할 때 사용하는 언어 전략을 화용론적 관점에서 분석하고, 이러한 전략이 팀티칭 효과성에 대한 인식 및 태국 문화와 어떻게 연결되는지 밝혀 다문화 교육 환경에서 문화적으로 적합한 팀티칭 접근법의 중요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Jirapat Srisuk, Chunphrutkorn Jiraborvornkit",
+    "pdf": "https://so02.tci-thaijo.org/index.php/hasss/article/download/285754/189954"
+   },
+   {
+    "n": 2,
+    "title": "Another brick in the wall or an agile corridor? Rethinking innovative learning environments for teacher reflection and innovation",
+    "url": "https://doi.org/10.1080/2331186x.2026.2709898",
+    "source": "openalex",
+    "published": "2026-08-14",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "이 연구는 기술 기반 학습 환경에서 교사 성찰을 통한 혁신 의식 발달을 탐구하고, TARM 모델을 제시하여 혁신적 교사 교육 및 연수 설계의 이론적 토대를 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Yonit Nissim, Eitan Simon",
+    "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/2331186X.2026.2709898?needAccess=true"
+   },
+   {
+    "n": 3,
+    "title": "Mathematics Teachers’ Perception: Can Differentiated Instruction Lead the Way?",
+    "url": "https://doi.org/10.5430/wje.v16n3p1",
+    "source": "openalex",
+    "published": "2026-08-14",
+    "keyword": "SEL education",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "인도네시아 수학교사를 대상으로 질적 연구를 통해 차별화된 교수법에 대한 긍정적 태도와 사회적 지지에도 불구하고 자원 및 환경적 제약으로 구현이 어렵고, 성공적인 적용에는 교사의 신념 외에 자원 및 지속적 지원이 중요함을 밝힙니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Yoga Dwi Windy Kusuma Ningtyas, Margaretha Madha Melissa 외 1명",
+    "pdf": "https://www.sciedupress.com/journal/index.php/wje/article/download/29392/17939"
+   },
+   {
+    "n": 4,
+    "title": "UNDERSTANDING ENGLISH TEACHERS’ KNOWLEDGE OF DEEP LEARNING INSTRUCTION IN INDONESIAN EFL CLASSROOMS",
+    "url": "https://doi.org/10.51878/secondary.v6i4.14866",
+    "source": "openalex",
+    "published": "2026-08-14",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "인도네시아 국가 교육과정의 '깊이 있는 학습' 교수법에 대해 영어 교사 2명을 심층 면접한 질적 사례 연구를 통해, 교사들이 개념적 이해는 부족해도 관련 교수법을 사용하며, 실제 성공적 실천을 기반으로 이론적 원리를 연결하는 전문성 개발이 필요함을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "M. Hasbi Al-Baihaqy, Yustika Nur Fajriah 외 1명",
+    "pdf": "https://jurnalp4i.com/index.php/secondary/article/download/14866/9152"
+   },
+   {
+    "n": 5,
+    "title": "The Paradox of Managed Autonomy: Response to ‘Agentic Online Learning: How University Staff Make Their Work Matter’ (McDonald et al. 2026)",
+    "url": "https://doi.org/10.1007/s42438-026-00689-7",
+    "source": "openalex",
+    "published": "2026-08-08",
+    "keyword": "edtech",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "이 논문은 온라인 고등 교육 교직원의 정체성과 목적 의식을 심층 인터뷰 및 담화 심리학으로 탐구한 연구를 높이 평가하며, 교육 분야에서 교직원을 단순한 변수가 아닌 주체적 존재로 인식해야 함을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ridwan Islam Sifat, Mohaimenul Islam Jowarder",
+    "pdf": "https://link.springer.com/content/pdf/10.1007/s42438-026-00689-7.pdf"
+   }
+  ],
+  "tech": []
+ },
+ "fallback": {},
+ "notes": {}
+}

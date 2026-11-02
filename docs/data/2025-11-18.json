@@ -1,0 +1,414 @@
+{
+ "date": "2025-11-18",
+ "generated_at": "2026-11-02T11:47:51+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "한라도서관 11월 프로그램, 책과 뇌과학으로 마음 치유",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnbE1TblcySGVQTzhsU2d4MFlsTk1ORWpQdzZLZldoV0c1SERvRnktcWpQVFJCeWpWWXdEZ2FZX2FYdUlCSE9GVGs4NTF2aWNnN29rM01HejBCQU5OSnRWa25jTjFnS2c?oc=5",
+    "source": "제민일보",
+    "published": "2025-11-17",
+    "keyword": "뇌과학",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [],
+    "summary": "도서관 프로그램과 뇌과학의 융합은 학생들의 정서적 안정과 학습 능력 향상을 위한 학교 교육 프로그램 개발에 시사하는 바가 큽니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "금융권, AI·보안 인재 육성 집중… “내부 교육부터 외부 부트캠프까지”",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLUNBRWF1aWFqeW5jU2dkUGIwZmZPZGRpaVpXWTlaWkRwV1ZtZy0xTUFDeVM5bVlOeHU4QUk3M1RjVTNOaDFCRGgxWGVWb0Jldk9LSmVIaFU1UlJScldia2Q3eHdsX2xPcFAyTTlQeFk0bkJBYm1mN2ItNVVIbVNjdG9TVlVsb2PSAXtBVV95cUxNS0p5YV9lT2ZJN0FiaG9WcEllckItbVZFOEk4am9XaXFuMFUzQ1c2enE4WkdMWGdUdlJQZ0dxcllnMklvNFFscW5OVmtiQkpNZjBkNVg3MnZMZ2ljNmR3X3dFQTNJTzdzQWlCaFAzQy1rR0FUYzgzcFB4RXc?oc=5",
+    "source": "디지틀조선일보",
+    "published": "2025-11-17",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "금융권의 AI·보안 인재 육성 노력은 대학을 포함한 교육기관이 산업계 수요에 부응하는 실질적인 교육과정 개발에 더욱 힘써야 함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[기획] 민선 8기 나주시 교육정책 ‘나주형 인재 양성’으로 ‘명품교육도시 나주’ 실현",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FSGtOZFVCYUVqYWVNdmpidUxPVzFUNVJHSnpWMTJGUFJDTy15Y3JSbXV0bjdiUlpmblVNeVVXeUZYQ0JubzBGZTkzalUtYTBWQ1hNbDNSSUZ2QnJoeS1yNnNlMXVmRnZkWkxINzlFUDd6d3FGOThQZ0tGUdIBf0FVX3lxTE5GMXdYT2FfVUJOZHVia3BtRHpBdjlMT2Z5ajdQcUhra0RnZU52U0VOYVpaRHQ4ZmY3bmZUcXNCLWdnYlAzb0V3Y2UwMzlJbXhVQnNRMTBTU1RpWHYwWUxTWF9kcXBBQ3hTTmVPQzYzcmdzS2QzaXJlR0RmOE5RYW8?oc=5",
+    "source": "데일리스포츠한국",
+    "published": "2025-11-18",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": "feature",
+    "entities": [],
+    "summary": "나주시의 '나주형 인재 양성' 교육정책은 지역 특색을 반영한 교육 모델 구축과 지역 인재 육성에 기여할 수 있을지 주목됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "김정희 교육위원장 “전남교육청 정책 개선·제안, 제도 정비 쏟아내”",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XMjdPbjJTQkNaNEFHdTdjTDBNbG5rcTktY3VHRUJCSW9CTk0zUUduLWxPZzh2N2FFU3RjaXl2M1BhREVkR0d6ZHVHOGFLRDRWTW1sMHljZ0N2YTB2dWUwTUJqTzBTN3h5WVRJNlpiUEZRZVdj?oc=5",
+    "source": "아시아뉴스통신",
+    "published": "2025-11-17",
+    "keyword": "AI디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "전남교육청"
+    ],
+    "summary": "김정희 교육위원장의 정책 개선 및 제도 정비 노력은 전남 교육 발전에 긍정적인 영향을 미칠 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "유원대 시니어 대상 '뉴로피드백 기반 뇌파검사' 실시",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBoeUdNcEtUbTA5M21EWkwtVlcyMzhJSUJiVUU1OHB3Y29YeGcxdnhzeHg2aTNIM2xXT2pORUFVUUtVMzg5UUJhdUZiOHVOTEtwOE9Zbm9VVTg2ZHhrbXc4bXA4N2dpZmRiejdR?oc=5",
+    "source": "베리타스알파",
+    "published": "2025-11-17",
+    "keyword": "뇌과학",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "유원대의 뉴로피드백 기반 뇌파검사 시도는 고령 학습자의 인지 능력 향상을 위한 맞춤형 교육 가능성을 제시하며, 교육 효과 극대화를 위한 뇌 과학 기반 접근의 중요성을 강조합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "인천시교육청, ‘2026학년도 초등학교 취학 통지 및 예비소집’ 안내",
+    "url": "https://www.lecturernews.com/news/articleView.html?idxno=190952",
+    "source": "한국강사신문",
+    "published": "2025-11-18",
+    "keyword": "",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청의 2026학년도 초등학교 취학 통지 및 예비소집 안내는 온라인 발급과 지자체 협력을 통해 학부모 편의성을 높이고, 취학 아동의 안전 확인에 만전을 기하는 긍정적인 시도입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "세종시, '한글·정원·행정수도' 담은 미래상 전국에 선보인다",
+    "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2239599",
+    "source": "대전일보",
+    "published": "2025-11-18",
+    "keyword": "",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "세종시의 비전 제시가 지역 특색을 살린 교육과정 개발 및 행정수도 관련 교육 콘텐츠 강화에 기여할 수 있을지 주목해야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "“광주 AI교육박람회서 ‘미래 교실’ 만나보세요”",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54Mk5NaWZ1MUd5T05fMTVkeW9HaFRJTnc3V3VXVDBEQ2lKMXZPNlJNNWtxWi1BSXZpUHFPbFI2OFdacjc2dlpfeU1sbkQwUS1JNldyVmQ5RFNpVmVrNXFMNlpZMk8yZ0RYX19xQTJIeUVxdWlzLVHSAWZBVV95cUxQSkwtNlZneGU0X0N3elZBVXM1QnFEX2trRE1FRG5qNmwwaktxZjlVRUhvUmwyNHpsaF9PQzVuMU1yUzNQUjItSFR6Ml9XX3ZWTlJfUXZaSV80TUxqZDAwUndnSlFDbUE?oc=5",
+    "source": "동아일보",
+    "published": "2025-11-17",
+    "keyword": "인공지능교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "광주 AI교육박람회는 미래 교육 모델을 제시하고 교사들의 AI 활용 역량 강화를 위한 중요한 플랫폼이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "내년부터 全 공무원 AI교육 의무화",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RQkhSc2tqWEFfM1E3OFFaOWZzSmJLT1NHOHJIVHkyNXRMd3BOSktkNU9XXy1YR1VHMEVFUVBUaVVzQ00ybkVRZUZqc3dZb1B0M09NUTlXRWxKSjhHMW83T2wyN2RDWTVXVnNmQmdGc0pPUnlXTTJ3aA?oc=5",
+    "source": "네이트",
+    "published": "2025-11-17",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "전 공무원 AI 교육 의무화는 공공 서비스의 질적 향상을 위한 필수적인 투자이며, 교육 현장에서도 AI 활용 역량 강화 교육의 중요성이 더욱 부각될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "“AI가 학생 가르치다 교사 빈축”…‘교사 비하’ 논란 휩싸인 도교육청 AI교육 영상",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVMEJyWkdod1JKSnJPTk1MalZqSGZ4bmFfbzQycmhZV0U3RC1MRGI4RXJPZmp4V1VQNFoycEQ4WVU1eENic1RVd1VJU0tRYlU?oc=5",
+    "source": "v.daum.net",
+    "published": "2025-11-17",
+    "keyword": "AI교육",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [],
+    "summary": "해당 AI 교육 영상 논란은 교사의 역할을 폄하하는 듯한 인상을 주어, AI 활용 교육 도입 시 교사의 전문성과 역할에 대한 신중한 고려가 필요함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "LLM-as-a-Grader: Practical Insights from Large Language Model for Short-Answer and Report Evaluation",
+    "url": "http://arxiv.org/abs/2511.10819v1",
+    "source": "",
+    "published": "2025-11-13",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "LLM",
+     "ChatGPT"
+    ],
+    "summary": "GPT-4o를 활용하여 실제 대학 수업의 단답형 퀴즈 및 프로젝트 보고서 평가를 수행한 결과, 인간 채점자와 높은 상관관계를 보이며 교육 현장에서 자동 채점 시스템의 가능성과 한계를 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Grace Byun', 'Swati Rajwal' 외 1명",
+    "pdf": "http://arxiv.org/pdf/2511.10819v1"
+   },
+   {
+    "n": 2,
+    "title": "Students' Acceptance of Arduino Technology Integration in Student-Led Science Inquiry: Insights from the Technology Acceptance Model",
+    "url": "http://arxiv.org/abs/2511.04614v1",
+    "source": "",
+    "published": "2025-11-06",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [
+     "수능·대입",
+     "코딩 AI"
+    ],
+    "summary": "본 연구는 확장된 기술수용모델(TAM2)을 활용하여 한국 고등학생들이 주도하는 과학 탐구 활동에서 아두이노 기술의 유용성과 사용 용이성을 질적으로 분석하고, 대학 입시라는 사회문화적 맥락과 시각 블록 코딩 도구의 접근성이 기술 수용에 긍정적 영향을 미침을 밝혀 교육과정 설계 및 교사 준비에 시사점을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Seok-Hyun Ga', 'Chun-Yen Chang' 외 1명",
+    "pdf": "http://arxiv.org/pdf/2511.04614v1"
+   },
+   {
+    "n": 3,
+    "title": "GraphMASAL: A Graph-based Multi-Agent System for Adaptive Learning",
+    "url": "http://arxiv.org/abs/2511.11035v1",
+    "source": "",
+    "published": "2025-11-14",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "에이전트",
+     "개인화 학습",
+     "AI 튜터"
+    ],
+    "summary": "GraphMASAL은 학습자의 지식 상태와 목표에 맞춰 지능형 튜터링 시스템의 한계를 극복하고자, 지식 그래프 기반 다중 에이전트 시스템을 활용하여 개인화된 학습 경로를 생성하고 교육적 제약 조건 하에 최적화함으로써, 교육 분야 발전에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Biqing Zeng', 'Mengquan Liu' 외 1명",
+    "pdf": "http://arxiv.org/pdf/2511.11035v1"
+   },
+   {
+    "n": 4,
+    "title": "Analyzing Students Critical Thinking as a Basis for Developing Interactive Physics Multimedia with Generative Learning and Cognitive Conflict Strategies",
+    "url": "http://arxiv.org/abs/2510.21344v1",
+    "source": "",
+    "published": "2025-10-24",
+    "keyword": "pedagogical",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 물리 교육에서 학생들의 낮은 비판적 사고력을 향상시키기 위해, 생성 학습 모델과 인지적 갈등 전략을 활용한 상호작용적 멀티미디어를 개발하기 위한 기초 자료로 학생들의 비판적 사고 능력을 분석하고, 시각적 선호도가 높은 학생들에게 효과적인 교육 환경을 제공하고자 합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Serli Ahzari', 'Akmam Akmam']",
+    "pdf": "http://arxiv.org/pdf/2510.21344v1"
+   },
+   {
+    "n": 5,
+    "title": "Personalized and Constructive Feedback for Computer Science Students Using the Large Language Model (LLM)",
+    "url": "http://arxiv.org/abs/2510.11556v1",
+    "source": "",
+    "published": "2025-10-13",
+    "keyword": "pedagogy",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "개인화 학습",
+     "LLM",
+     "ChatGPT"
+    ],
+    "summary": "본 논문은 대규모 언어 모델(LLM)을 활용하여 컴퓨터 과학 학생들에게 맞춤화된 건설적인 피드백을 제공하는 LLM-MATE 시스템을 제안하고, ChatGPT API를 활용하여 평가 피드백 자동화의 기반을 마련함으로써 대규모 강의의 평가 부담을 줄이고 학생들의 학습 향상에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Javed Ali Khan', 'Muhammad Yaqoob' 외 3명",
+    "pdf": "http://arxiv.org/pdf/2510.11556v1"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "이스트소프트, EMNLP 논문 채택...\"음성 길이 자동 조정 AI 더빙\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204043",
+    "source": "AI Times",
+    "published": "2025-11-17",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "LLM"
+    ],
+    "summary": "이스트소프트의 EMNLP 논문 채택은 LLM 기반 자동 더빙 기술의 발전 가능성을 보여주며, 콘텐츠 현지화 시장의 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "AI 답변 확인하는 '넛지' 방법...\"작은 변화로 답이 바뀌면 애당초 부정확\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204039",
+    "source": "AI Times",
+    "published": "2025-11-17",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 답변의 작은 변화에 민감하게 반응하는 시스템은 애초에 신뢰성이 낮음을 시사하며, AI 신뢰도 확보를 위한 근본적인 접근 방식 변화가 필요합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "구글, 소형 모델 추론 능력 향상하는 학습 프레임워크 ‘SRL’ 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204024",
+    "source": "AI Times",
+    "published": "2025-11-17",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "추론 모델"
+    ],
+    "summary": "구글의 SRL은 소형 모델의 성능 한계를 극복하여 AI 기술의 접근성을 높이고 다양한 산업 분야에 적용될 가능성을 확대합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "KAIST, 양자컴퓨터 연산 분석하는 ‘다중 광학모드 양자 토모그래피’ 기술 개발",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204048",
+    "source": "AI Times",
+    "published": "2025-11-17",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "KAIST의 양자 토모그래피 기술은 양자컴퓨터 개발의 난제인 연산 검증을 효율적으로 해결하여 양자 기술 상용화를 앞당길 가능성을 높입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[기고] 오재호 파일러 대표 \"가짜뉴스, 딥페이크, 그리고 AI의 역설 : 신뢰의 인프라를 세워야 할 때\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204052",
+    "source": "AI Times",
+    "published": "2025-11-17",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": "opinion",
+    "entities": [
+     "딥페이크"
+    ],
+    "summary": "AI의 발전은 가짜 콘텐츠 확산 위험을 증폭시키므로, 신뢰성 있는 AI 활용과 투명한 정보 검증 시스템 구축이 시급합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "텔레픽스, AI 위성 영상처리 SW 업데이트...성능 검증 완료",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204042",
+    "source": "AI Times",
+    "published": "2025-11-17",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [],
+    "summary": "텔레픽스의 AI 위성 영상처리 SW 업데이트 성공은 우주 기술 자립과 AI 융합을 가속화하는 중요한 이정표입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "구글 클라우드 코리아, 루스 선 사장 선임",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204056",
+    "source": "AI Times",
+    "published": "2025-11-17",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "루스 선 사장 선임은 구글 클라우드가 한국 시장 공략을 강화하고, 특히 AI 및 클라우드 분야에서 기업 고객 확보에 집중하겠다는 의지를 보여주는 행보입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "OpenAI’s new LLM exposes the secrets of how AI really works",
+    "url": "https://www.technologyreview.com/2025/11/13/1127914/openais-new-llm-exposes-the-secrets-of-how-ai-really-works/",
+    "source": "MIT Technology Review",
+    "published": "2025-11-13",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "LLM"
+    ],
+    "summary": "OpenAI의 투명한 LLM은 AI 작동 방식 이해도를 높여 기술 발전과 윤리적 책임에 긍정적 영향을 줄 수 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "수능 AI 대결, 최신 모델 몇 점 받았나 보니…GPT-5.1 '왕좌' 등극",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE96d2V5RXJxQXNQVmpRM3NGSC1JM0J5MGJMajFGaG5MeURYcVNERVZ1Y25mbmwxbWs4ZFFjMUVZYXZJOEpHQzY1VXFvYUJsVjJhMmRmaFBrUk9ZdFFrdVRPSUY3SHBoS242bnFBcFhTYUxaQ2M?oc=5",
+    "source": "디지털투데이",
+    "published": "2025-11-17",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "수능·대입",
+     "ChatGPT"
+    ],
+    "summary": "AI 모델의 수능 성적 경쟁은 AI 기술 발전의 가늠자이자 교육 분야 적용 가능성을 시사하며, 향후 AI 교육 서비스 시장 경쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "한컴인스페이스 첫 자체 제작 위성 ‘세종4호’, 누리호 4차 타고 발사",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204051",
+    "source": "AI Times",
+    "published": "2025-11-17",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [],
+    "summary": "한컴인스페이스의 자체 제작 위성 발사는 AI 기반 데이터 분석 기술의 우주 활용 가능성을 보여주며, 관련 산업 생태계 확장에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 기술이 교육과 뇌과학 융합, 인재 양성, 공무원 교육 의무화 등 다양한 분야에 적극적으로 도입되며 미래 교육의 혁신을 가속화하는 동시에, 교사의 역할 재정립에 대한 논의도 함께 이루어지는 추세입니다.",
+  "tech": "AI 기술은 음성, 모델 경량화, 양자컴퓨터, 위성 영상 처리 등 다양한 분야에서 빠르게 발전하고 있으며, 신뢰성 확보와 윤리적 사용에 대한 중요성이 강조되는 가운데, 우주 기술과의 융합을 통해 더욱 혁신적인 발전을 가속화하고 있다."
+ }
+}

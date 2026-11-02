@@ -1,0 +1,424 @@
+{
+ "date": "2026-02-25",
+ "generated_at": "2026-11-02T11:52:37+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[시론담론] 기술 패권 시대, 말뿐인 이공계 육성으론 미래 없다",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zUW5hUk9ucGJVV3M5eFhpSXlqZXdkRm5EYkVTSHg5ZmJGZVZGU0lXN0NxMDdfOFNjZW5mR3BZSDVBbGl2QXVNMC1mNDRBem56YVhmMG9CWElqVDFrWGFScGVYZHNDLW8?oc=5",
+    "source": "제민일보",
+    "published": "2026-02-24",
+    "keyword": "미래기술",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "피상적인 이공계 육성 정책에서 벗어나, 창의적 문제 해결 능력과 융합적 사고를 키우는 교육 시스템 혁신이 시급합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[신향식의 365칼럼] 노래의 기억 효과...노래로 탄생된 성경 구절",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91S1gweUVGYXNvRkp5MlQ2VjJfSG5pNXkwMjQ5SnpfX3gxamQ0ckw5SEhic01aeDdIZFFLU2ZLTlAwODhGSnBFR1JpTjZNODRQTElwR1BVMDJsYURUNjdsWmJsS3dsTGFZa1o2VkZIQ0zSAXNBVV95cUxOVUpoa1hXTDFtM1YzNE9OSFhTdEZSdXVZWVk5bGdJYXd2bGZyVE90WGFDLThoZkhMYW5PRkdRakxhbUFaTlR3UzFtZGhBS3FuNUFRWUhzZW5hX1ctTEZBWTh1aGZsdFBoTEJvZnNjRkNEajlB?oc=5",
+    "source": "인터뷰365",
+    "published": "2026-02-24",
+    "keyword": "뇌과학",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "노래를 활용한 성경 구절 교육 사례는 운율과 리듬을 통해 학습 효과를 높이는 효과적인 교육 방법임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "경기도교육청, AI 기반 미래형 직업교육 ‘B·A·S·E 모델학교’ 도입",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBubUpOZll1MVJSM0NldWd6RW9UMTc2a0wxZEg4UUFJSl9kNDZNMk94dVpNZks2SVlTNC1XS3MxLU1tSElESUt4VW9DY3NMeHllQkxVYWU0WGNMUlBYdFkxMXYxN2VVc2RlcG1fbW9vcw?oc=5",
+    "source": "중부일보",
+    "published": "2026-02-24",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청의 AI 기반 미래형 직업교육 모델학교 도입은 직업교육 혁신을 통해 학생들의 미래 역량을 강화하는 중요한 발걸음입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "권순기 경남교육감 예비후보, 체·인·지 교육으로 인성 교육 혁신 선언",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GbjdXSUZvWUtLVnBzUHB5VTMwQjNkNzVvQkp4dml0T0RhalBfbjhWQjBrNGZRc2JFbHp2T3Y2cUc1RDVTbWFwRUR6UnJMQVB0bGlIVDZISXR4UnI1cXlpTmFJZXNqY2c?oc=5",
+    "source": "영남매일",
+    "published": "2026-02-24",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경남교육청",
+     "교육감 선거"
+    ],
+    "summary": "권순기 후보의 '체·인·지' 교육은 인성 교육 강화에 대한 공감대를 형성하고, 창의적 교육 모델 제시를 통해 학교 현장의 변화를 촉구할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "이병학 충남교육감 예비후보 “이제는 충남교육의 시간...정치는 흔들려도 교육은 흔들릴 수 없다.”",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnX2NUN25WNms5YklhelhjMXZhVXZlZzBQbmdGbjlRX3BwdnNtbEF0NWJDVGtQRVRuWUhKSTBvRmdIRkJWTHpfWlkyV184dkNxLTR1a2YyMVFtX2htaFpZMHBJR3ZOaFhncWc?oc=5",
+    "source": "도민연합뉴스",
+    "published": "2026-02-24",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충남교육청",
+     "교육감 선거"
+    ],
+    "summary": "정치적 안정과 무관하게 교육 본질에 집중하겠다는 의지는 긍정적이나, 구체적인 교육 방향 제시가 필요합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "서울시교육청, 초등 장학자료 디지털 전환 ‘서울 핸디 엘리’ 본격 운영",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vRnpPMk9zMm1QT2dmTWRtZGNRemM0UHhYOXRFOGE3Nk41V2U1Q1NQNmZrNDNLQzRMVnNLd1FOamJvZzVqWjZuZkgzM3l5TkpCNkNDWG1scW1faFFGclBCYWtwZWJ1a0NFTjJDMk5RVkPSAXRBVV95cUxPeDhXRnpOS3p5d3JwNHRoaVRfY3ZMNV9lNnNMQzdtTFI5clhXY3lKV1hmcDQxd2hDTUtsdFZ0WV9pS3EtM3YtRjF6UTNndmpRSy1PZFRzUlB5T1BWbDlWbmg2OWE2Ry1EdDhST25jclE4WVhfTg?oc=5",
+    "source": "이뉴스투데이",
+    "published": "2026-02-24",
+    "keyword": "디지털전환",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "서울시교육청"
+    ],
+    "summary": "서울시교육청의 '서울 핸디 엘리'는 초등 교사의 디지털 역량 강화 및 교육 자료 접근성 향상에 기여할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "교육부, 3월 16일까지 교복 전수조사 .. 교복값 상한선 책정 검토",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=21788",
+    "source": "에듀프레스",
+    "published": "2026-02-24",
+    "keyword": "",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "교복 가격 상한선 책정 검토는 학부모 부담 경감에는 기여하겠지만, 교복 품질 저하나 학교별 특성 반영 미흡 등 교육 현장의 다양성을 저해할 수 있다는 점을 고려해야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "도성훈 인천시교육감, 3월 1일자 신규교사 임명장 수여",
+    "url": "https://www.lecturernews.com/news/articleView.html?idxno=197405",
+    "source": "한국강사신문",
+    "published": "2026-02-24",
+    "keyword": "",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "신규 교사 임명은 교원 수급 안정과 함께 새로운 교육 혁신의 동력을 확보하는 중요한 계기가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "AI 교육과정 확대, 과연 혁신일까... 해외선 \"디지털화가 문해력 낮춘다\" 잇단 경고",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5XRDJzT0dEQndibTlqMWJqOFNrX0IwRTV6LU1RWU04Yk5qa1B3eTJDbzNFUkRVMEs5MmVDTXhKU2UzeVRrWm5ZZERiSXpucFRaX1BOLTFmQmdRbEVpazExaUI4QQ?oc=5",
+    "source": "녹색경제신문",
+    "published": "2026-02-24",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "문해력"
+    ],
+    "summary": "AI 교육 확대는 디지털 문해력 저하 우려를 고려하여 교육 효과와 부작용에 대한 심층적인 검토 및 균형 잡힌 접근이 필요합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "대교 강호준, 에듀테크 성적표는 '자본잠식'과 '내부정리'",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBiTnZDN3FDRHZZX29NUXpoWkkzOGtkb2pKNDhOTFdURVp4Q0dLZFJpODNyNW80ZElmVldhdURiV2tRQjZiaHJxMVY0VQ?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-02-24",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "대교 에듀테크 부진은 교육 기업의 기술 투자 및 사업 다각화에 대한 신중한 접근과, 내실 있는 교육 콘텐츠 개발의 중요성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Three Decades of Culturally Relevant, Responsive, & Sustaining Pedagogy: What Lies Ahead?",
+    "url": "https://www.semanticscholar.org/paper/c8b8f71bd62aea46511a8b04af23fd7ec0769e39",
+    "source": "semantic_scholar",
+    "published": "2021-07-21",
+    "keyword": "pedagogy",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 문화적으로 관련된 교육학(CRP)이 학생 학습 증진, 문화적 역량 개발, 비판적 의식 함양에 기여하며, 청소년 문화와 결합하여 교육 현장에서 혁신적인 변화를 이끌어내는 과정을 분석하고, 문화 유지 교육학(CSP)으로의 확장을 통해 소외된 공동체의 문화적 자율성을 옹호하는 방향을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Gloria Ladson-Billings",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "Artificial intelligence in language instruction: impact on English learning achievement, L2 motivation, and self-regulated learning",
+    "url": "https://www.semanticscholar.org/paper/69d556419eefcd05dbf21a6b666568a2825f4c71",
+    "source": "semantic_scholar",
+    "published": "2023-11-06",
+    "keyword": "",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제"
+    ],
+    "summary": "AI 기반 언어 교육이 대학생 EFL 학습자의 영어 성취도, 학습 동기, 자기 주도 학습 능력을 향상시키는 효과를 실증적으로 분석하고, 인터뷰를 통해 AI 플랫폼의 긍정적 영향과 교육적 잠재력을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ling Wei",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "CreateAI Insights from an NSF Workshop on K12 Students, Teachers, and Families as Designers of Artificial Intelligence and Machine Learning Applications",
+    "url": "http://arxiv.org/abs/2602.16894v1",
+    "source": "",
+    "published": "2026-02-18",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [],
+    "summary": "CreateAI 워크숍 보고서는 K-12 학생들이 AI/ML 애플리케이션의 단순 사용자를 넘어 설계자 및 창작자가 되도록 지원하기 위한 도구, 교육 방법, 윤리 교육 통합, 평가 방안 등을 제안하여 AI 교육의 새로운 가능성을 모색하고 있습니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Yasmin Kafai', 'José Ramón Lizárraga' 외 1명",
+    "pdf": "http://arxiv.org/pdf/2602.16894v1"
+   },
+   {
+    "n": 4,
+    "title": "Transforming GenAI Policy to Prompting Instruction: An RCT of Scalable Prompting Interventions in a CS1 Course",
+    "url": "http://arxiv.org/abs/2602.16033v1",
+    "source": "",
+    "published": "2026-02-17",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "본 연구는 대규모 RCT를 통해 ICAP 프레임워크 기반의 프롬프트 교육이 학생들의 프롬프트 능력 향상과 학습 성과 예측에 효과적임을 입증하고, 젠AI 시대에 적합한 확장 가능한 교육 설계 지침을 제공하여 교육 현장에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Ruiwei Xiao', 'Runlong Ye' 외 5명",
+    "pdf": "http://arxiv.org/pdf/2602.16033v1"
+   },
+   {
+    "n": 5,
+    "title": "Llama-Polya: Instruction Tuning for Large Language Model based on Polya's Problem-solving",
+    "url": "http://arxiv.org/abs/2602.10597v1",
+    "source": "",
+    "published": "2026-02-11",
+    "keyword": "pedagogical",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "Meta",
+     "LLM",
+     "추론 모델"
+    ],
+    "summary": "Llama-Polya는 Polya의 문제 해결 4단계 프레임워크를 LLM에 적용하여 수학적 추론 능력을 향상시키고, 교육적 정합성을 높여 학생들의 문제 해결 능력 향상에 기여할 수 있는 가능성을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Unggi Lee', 'Yeil Jeong' 외 5명",
+    "pdf": "http://arxiv.org/pdf/2602.10597v1"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "﻿솔버엑스, 영상·물리법칙 결합한 '월드모델 아키텍처'로 국제 AI 학회 채택",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207179",
+    "source": "AI Times",
+    "published": "2026-02-24",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "솔버엑스의 월드모델 아키텍처 연구는 피지컬 AI 기술의 발전과 함께 현실 세계와 상호작용하는 AI 시스템 개발에 중요한 기여를 할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "\"길게 생각하지 말고, 깊이 생각하라\"... 구글, AI 추론 비용 절반 줄이는 'DTR' 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207165",
+    "source": "AI Times",
+    "published": "2026-02-24",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "LLM"
+    ],
+    "summary": "구글의 DTR 기술은 LLM 추론 비용 절감과 효율성 향상을 통해 AI 모델의 상용화 가능성을 높이는 데 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "탈라스, 칩에다 모델 새겨 넣어 추론 속도 10배 향상한 기술 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207148",
+    "source": "AI Times",
+    "published": "2026-02-24",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "GPU·데이터센터"
+    ],
+    "summary": "탈라스의 기술은 AI 모델 개발 및 배포 주기를 획기적으로 단축하여 맞춤형 AI 반도체 시장 경쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[게시판] 일레븐랩스, '맥가이버' AI 목소리 구현하는 개념검증 진행 등 단신",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207189",
+    "source": "AI Times",
+    "published": "2026-02-24",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [],
+    "summary": "유명 성우 음성 IP를 활용한 AI 음성 합성 PoC는 엔터테인먼트 및 교육 분야에서 새로운 비즈니스 모델 창출 가능성을 제시합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "앤트로픽 \"딥시크·미니맥스·문샷이 '클로드' 불법 증류로 성능 향상\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207136",
+    "source": "AI Times",
+    "published": "2026-02-24",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "DeepSeek",
+     "Moonshot",
+     "Claude"
+    ],
+    "summary": "앤트로픽의 폭로는 AI 모델 무단 추출 및 성능 악용 문제 심각성을 드러내며, AI 기술 경쟁 심화 속 데이터 보안 및 규제 강화 필요성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "Early Evidence of Vibe-Proving with Consumer LLMs: A Case Study on Spectral Region Characterization with ChatGPT-5.2 (Thinking)",
+    "url": "https://arxiv.org/abs/2602.18918",
+    "source": "arXiv.org AI",
+    "published": "2026-02-24",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "LLM",
+     "ChatGPT"
+    ],
+    "summary": "ChatGPT-5.2가 연구 수준의 수학 문제 해결에 활용될 가능성을 제시하며, LLM이 과학 연구의 핵심 도구로 진화할 수 있음을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "[연구원들이 인공지능의 블랙박스를 해부하고, 그 안에서 발견한 것을 이용해 인공지능을 제어하는 ​​데 성공. 새로운 도구는 알고리즘의 내부 작동 방식을 파악하고 동작을 제어하는 ​​데 상대적으로 적은 자원을 필요로 한다.",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9NV0dPcU14WUN5UnF4YjZzeHRJLXZOamlFMEs2M0FzNVlKc2FhRExybkptUWVXR0tKaVhheGZOWGo?oc=5",
+    "source": "AI넷",
+    "published": "2026-02-23",
+    "keyword": "알고리즘",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 모델의 내부 작동 방식 이해 및 제어 능력 향상은 AI 투명성 확보와 책임감 있는 AI 개발에 기여할 수 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "Anthropic, 경쟁 AI 시스템을 훈련하기 위해 Claude를 활용한 DeepSeek을 비난",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPamtXbWctQTliVW1HM0NIWjdBejJTZDZNa0w4Z1VSd1ZMYVljWG4tRWlWajRHb0xCVTF5THJ2LUNUdVBSTTQ1ekl4Rkk2X2NfRGhPa0FoSkhFNU9LR1FmNEctMWt2bHRHdW1fNDZDZUpQWWljcXFNTkwxQm0wTVZmeTc0YVl3Zkt0eW1CanIzUm16RDRNU1VWSDgzUkFCanQ5akZ3cUItWWZjUE1HT1VYV1NuaC1DbHR1LVlGdU43bUdXVU0?oc=5",
+    "source": "ASO World",
+    "published": "2026-02-24",
+    "keyword": "Anthropic",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude",
+     "DeepSeek"
+    ],
+    "summary": "Anthropic의 DeepSeek 비난은 AI 모델 학습 데이터의 투명성과 윤리적 사용에 대한 업계 논쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "Google, OpenAI, and Anthropic are all bracing for Deepseek's next big release",
+    "url": "https://the-decoder.com/google-openai-and-anthropic-are-all-bracing-for-deepseeks-next-big-release/",
+    "source": "The Decoder",
+    "published": "2026-02-24",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "OpenAI",
+     "Anthropic"
+    ],
+    "summary": "Deepseek의 차세대 모델 출시는 AI 기술 경쟁 심화를 가속화하며, 업계 선두 기업들에게 새로운 도전 과제를 제시할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "비상교육, AI 에듀테크 플랫폼 '올비아' 공개…글로벌 시장 공략",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JUjBDYXJkVl9WOENzb05ZWWctS29RYjdoX2VHd1ItUnpaNE82NFk0dUtDdVg3SDlPVHJzM2MzMXdmNEo3NGRPZm40UGpxRW5ZR0FlS1JkOXBKZw?oc=5",
+    "source": "뉴스1",
+    "published": "2026-02-24",
+    "keyword": "교육AI",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "비상교육의 올비아 플랫폼 공개는 AI 에듀테크 경쟁 심화와 함께 맞춤형 교육 서비스 확산 및 글로벌 시장 진출 가능성을 보여주는 사례입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "인공지능 기반 교육 도입과 디지털 전환이 가속화되는 가운데, 이공계 육성 및 인성 교육 혁신에 대한 요구가 높아지고 있으며, 교육의 질 관리 및 미래 인재 양성을 위한 노력이 다각도로 이루어지고 있다.",
+  "tech": "AI 모델 성능 향상, 추론 비용 절감, 제어 기술 발전, 그리고 에듀테크 플랫폼의 글로벌 확장 등 AI 기술 혁신이 가속화되며 다양한 분야에서 긍정적인 발전이 기대된다!"
+ }
+}

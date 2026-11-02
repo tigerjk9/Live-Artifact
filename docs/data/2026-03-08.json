@@ -1,0 +1,169 @@
+{
+ "date": "2026-03-08",
+ "generated_at": "2026-11-02T11:53:07+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "“뇌과학으로 풀어보는 AI 시대의 생존법”... 성동구, 장동선 박사 초청 명사특강 > 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96cEt6UmRCUS1MS0tpOUQzT0pwYklXWGI5c2ZDRVg1Q2Rwd05PcDFHVWZ2dmJQNDRCb3gxWVpCbmFRSG5CTVJobmxHeVZwem9Wa1FrbFpHYkVqS0pyaksxdHcyQVdITHlsMnptZ1QwcmM?oc=5",
+    "source": "더코리아",
+    "published": "2026-03-07",
+    "keyword": "미래기술",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 2,
+    "title": "[뇌과학 정서 09] 이별 후 가장 빨리 일어서는 사람",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpaFVCQ2ZmSkpULXAtNUZQWmJ3LUcyVml4WFQ2VzJkemZCN1FwWUUtNDV4LUg3WDJFTUlCRjB6NTk2cURhQXVwcWZFMFk4S0RnTkE?oc=5",
+    "source": "브런치",
+    "published": "2026-03-06",
+    "keyword": "뇌과학",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 3,
+    "title": "4선 이명수 전 의원, 충남교육감 선거 출마 선언…“아이들 꿈 키우는 교육혁신”",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13WExoaGNoZ1RSQVBrSXhaZE9HNGxzY0pvWHRLY0ZwNk5PM3hrcDRjY0hLNzNWU2tlUTNmRFh6ME1kX2VBZ08zVEhJVHU1VVRCVXgyY2F2REk0cWE4WWV2aTdYMUs0R0Nmb0ZWcHNtcw?oc=5",
+    "source": "ilyoseoul.co.kr",
+    "published": "2026-03-07",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충남교육청",
+     "교육감 선거"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 4,
+    "title": "박종훈교육감 AI학습 ‘아이톡톡’…보수 \"부정적\" vs 진보 \"미래교육\"",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hX0drX1FfOWtlc2RxaG4xdmhOYS1SWFgtdGlaU0NGcWdTWjJRb2NZRDlpbV9UVGtzcVEtdnp1ZXl4Mi11V19kVEVITEZMeUhKMVl3VU5BMFRleWQxVzh2YnpURERhTEFWYkVBSFNqUXZDSVd1VFl5VNIBeEFVX3lxTE1hX0drX1FfOWtlc2RxaG4xdmhOYS1SWFgtdGlaU0NGcWdTWjJRb2NZRDlpbV9UVGtzcVEtdnp1ZXl4Mi11V19kVEVITEZMeUhKMVl3VU5BMFRleWQxVzh2YnpURERhTEFWYkVBSFNqUXZDSVd1VFl5VA?oc=5",
+    "source": "뉴시스",
+    "published": "2026-03-07",
+    "keyword": "에듀테크",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 5,
+    "title": "교육행정도 AI…경기도교육청 디지털플랫폼 본격 가동",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0VHdlNmRpS3RWa2tjcDZsdm12RTB2UXFkeUVtQjI2dDlJLWFVazF0eXZuZXhGNnFXd0hkbUFhY2ZRZWRxbWpEMTR0ZW1kSHkybXVPSzBJV1NWZlJjaUlCTE9YNHpVMHA4NGV2WXFB?oc=5",
+    "source": "OBS경인TV",
+    "published": "2026-03-07",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 6,
+    "title": "경기도교육청, 스마트기기 활용 기준 마련",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1qdW9ZZkl3MTFfZGhNN0I5OXBxLWpCWndYM2lucTFJMmNtb2cwM1RlVUUzVElQOXRjUGFuaWpQYzRwOUdkckRBR09YaHlLbjRMREE5eFZjV2ZyOEFGaDcxSnNfVlpaSUU0YzFCTjMydlRBTXU2VlFHMjMtcHQ?oc=5",
+    "source": "자치안성신문",
+    "published": "2026-03-07",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 7,
+    "title": "경기도교육청율곡연수원 디지털 역량 활용 데이터 분석 과정 운영 > 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mc1IzdnN6aFhSb05KanVJRHNFMnE5WV9FSFNyMzF2VXRRXzB5N0dkTDFxem9lYl9kYlpnU0NUVkVhVzNERFRhYXk2RVpFdWxraC1oX2JZdUt2ZDB0V1h5cnU1UFhwVl9rTDc2eHJmNU8?oc=5",
+    "source": "더코리아",
+    "published": "2026-03-07",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "원광디지털대, 교육부 인증 '6개 전 항목 충족'…\"원격대학 역량 입증\"",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4ycEoyV1dwRi02YWpCZWFJaFlKM1BvVFF2T0pQY2F2R2dxNTV5NlpCUl90M2FBNEM1NG83ZlpGQ2VTUUN3Mk5WcUVKdnhpRXJuTGZ0WG1YS0IwSV9YSjdGQUhBOEhETjdtWmFBT2RuRXltRFM2dWkxVg?oc=5",
+    "source": "네이트",
+    "published": "2026-03-07",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "교육감 선거운동도 딥페이크 금지한다…지방교육법 개정 속도",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QV1VJbDJLamVvTm4xeWtfYzFIc0s5bC03Q0FxZE5iZUprajlSd3RoMFBIM092WVhDQXhlZ3pnRG5lRGh0aGpMYXh1MDhUZVlkQ3EzZ09nUlIydndTLVZXaNIBYEFVX3lxTE1QV1VJbDJLamVvTm4xeWtfYzFIc0s5bC03Q0FxZE5iZUprajlSd3RoMFBIM092WVhDQXhlZ3pnRG5lRGh0aGpMYXh1MDhUZVlkQ3EzZ09nUlIydndTLVZXaA?oc=5",
+    "source": "연합뉴스",
+    "published": "2026-03-07",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육감 선거",
+     "딥페이크"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 10,
+    "title": "충남교육감 선거 구도 윤곽, ‘진보 3 vs 중도보수 2’",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92a3ltMG9FTWw4QjlpTUtMckRjRDV3bkk3aEtZV3BFV1E1cnN3V1FvbnVuNVJtYzdKMjlSVWRVMkRmc25iWU4tQWhOelVQcDhRV2ZpQWE1NlRGTG1rOUpDcV9hUmZMb1ozOTNoVkNlMm0?oc=5",
+    "source": "모빅경제",
+    "published": "2026-03-07",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충남교육청",
+     "교육감 선거"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   }
+  ],
+  "paper": [],
+  "tech": []
+ },
+ "fallback": {},
+ "notes": {}
+}

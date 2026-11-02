@@ -1,0 +1,431 @@
+{
+ "date": "2026-05-18",
+ "generated_at": "2026-11-02T11:36:42+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "가천대 황광선 교수 기고 후폭풍... 경기교사노조 \"체험학습 위축은 교사 아닌 교육부 탓\"",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wQ01kYmNpZGZHWHhXV0JkVHVieGl4QUdpalNqeHgwbzJCaUpZTHo4MUtDUVZ0bnRuWjlOT0hEWmNrTXlVcEVLY0w4UU1KcU5GSkVmVGdVbDRxQVdTMWVQakpn?oc=5",
+    "source": "경기신문",
+    "published": "2026-05-17",
+    "keyword": "현장교사",
+    "topic": "teacher",
+    "kind": "opinion",
+    "entities": [
+     "교원단체",
+     "교육부"
+    ],
+    "summary": "가천대 황광선 교수 기고에 대한 후폭풍으로 경기교사노조는 체험학습 위축의 책임이 교육부에 있다고 주장합니다.",
+    "implication": "교육부의 지침이나 지원 부족으로 체험학습이 위축될 수 있으니, 관련 내용을 꼼꼼히 확인하고 대비해야 합니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "AI 에듀테크, 혁신인가 위기인가 — 교수자 자율성과 디지털 격차가 가른다",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9jcFRQTldYMS1Ca2FlQlBrN1VBb1hLdHdySjVEMmpnbU9Nb3ROZDRoY1Y0bWR1QWpYbXd1OXE3Vl9LMXc?oc=5",
+    "source": "한국공공정책신문",
+    "published": "2026-05-17",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 에듀테크 도입은 교수자 자율성과 디지털 격차에 따라 혁신 또는 위기로 이어질 수 있음을 시사합니다.",
+    "implication": "AI 에듀테크 활용 시 교수자 역량 강화 및 디지털 격차 해소를 위한 지원책 마련이 중요합니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "조영서 KB금융지주 전략담당 부사장 “AI는 도구 아닌 동반자”…‘에이전틱 AI’ 시대 연다 [2026 한국금융미래포럼]",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4wb3JTMlVyVmpOZjhzbjh3SVJsY19reDdKSFpTbVU3RXFmaEd4dU9zWGdKVlRXQklqNzVwX0hTZkpSNE1TNkNqUmoxZmhaVzI3Z0JSeXpsN3lDX3hLV19uWVVnS1ZMaWk3X2pkWkppZE4yN2hjLWxTRzJ0d2Y?oc=5",
+    "source": "한국금융신문",
+    "published": "2026-05-17",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "조영서 KB금융지주 부사장은 2026 한국금융미래포럼에서 AI를 단순 도구가 아닌 동반자로 보고 '에이전틱 AI' 시대를 열 것이라고 발표했습니다.",
+    "implication": "학생들에게 AI를 활용한 금융 서비스 개발 프로젝트를 통해 AI와 협력하는 미래 인재 역량을 키울 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "인천시교육청, 콜롬비아 교원·학생 초청 'AI·디지털 교육 연수' 전격 가동",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xOXZxbzZUTXJDUkZoQXhkM183RFNHdkZIaE96LTk5azZoeDhRTXJHQUt2M2tlY3VwY3ctMFNhS2FjZEZGWGs1NDVqeGM3YzdMOUltS245Yktyc3U1dWl4ek5LNUM5NW8wMUE?oc=5",
+    "source": "컨슈머타임스",
+    "published": "2026-05-17",
+    "keyword": "AI디지털도구",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청이 콜롬비아 교원 및 학생을 초청하여 AI 및 디지털 교육 연수를 실시합니다.",
+    "implication": "콜롬비아 학생, 교사들과 AI, 디지털 교육 관련 수업 사례를 공유하고 협력 학습을 진행할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[횡성뉴스] 횡성군, 생성형 AI 행정 도입 공직자 맞춤형 교육",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WZzZXQUsxeUZvRnRJWUo4cnBxNUoyMi1PQW1NQW1qdXhFLVJmemhoQzQwRnpWY1hXcnVTR1F4Ylc4aXplcHJVYUh1emFEdnluUzJMZ0dMaXZNYjNIRWk4RlFjeDlNUDdiU0R0MHlEQUVnLXFVTUoyVjZIOGtRZw?oc=5",
+    "source": "횡성신문",
+    "published": "2026-05-17",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "개인화 학습"
+    ],
+    "summary": "횡성군이 공직자를 대상으로 생성형 AI 행정 도입을 위한 맞춤형 교육을 실시합니다.",
+    "implication": "교사도 AI를 활용해 행정 업무 효율성을 높이는 연수를 받고 수업 자료 제작에 도움을 받을 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "경주 AI 열풍…스님·노인대학장도 생성형 AI 배운다",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9EYkl4UUFoRmNlR0VMMVluWUxGTUo0bkdrMTVYMFFVa3UyLVpvblUxTWpKZ3ctTUt5cXdvNWZiRTRvazFsNDdhQnV6eWIxX3pfS1M3Vl9sOEZRODM2TjV1RG9UcnNPb3lCeFoyUUtKNA?oc=5",
+    "source": "kyongbuk.co.kr",
+    "published": "2026-05-17",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "경주에서 스님, 노인대학장 등 다양한 계층이 생성형 AI를 배우며 AI 열풍이 불고 있다.",
+    "implication": "어르신들도 AI 학습에 적극적이니, 학생들의 흥미를 유발하는 AI 활용 교육을 시도해 볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "\"구좌 관내 'IB 교육 특구' 지정으로 인구 유출 막는다\"",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGdk4xRWNCbEotMTdULXp5WWZCaUxBQzFXTzN6SlpfTHdYQXA2SVBZOFJ1RVpxQU9WblF2cTFRQk1nSmRPSElBVzdTTzFfTHpHTHNVQVRQZDhYN0pjaTVxc2JzNGZpQVJCU09hMQ?oc=5",
+    "source": "뉴스N제주",
+    "published": "2026-05-17",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "IB"
+    ],
+    "summary": "구좌 지역이 IB 교육 특구로 지정되어 교육 경쟁력 강화, 인구 유출 방지 효과를 기대하고 있습니다.",
+    "implication": "IB 교육 과정 도입을 고려, 학생 주도 학습 및 탐구 활동 중심으로 수업 설계를 바꿔볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "경북도, '생성형 AI 기반 가상융합 콘텐츠 제작 인재양성' 본격화",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYejVVSGNJVm42MWpZLXpnOS1KNjRid2dqNFdoNDNhdlF1Vk51OVl6Mnk1ckRocldicmN6WTdaQ3RxUlg5cTZ4aEt3ZnpaSUJpTmJfaU1ta1d2d08zR01XTHJhM1VOZw?oc=5",
+    "source": "데일리대구경북뉴스",
+    "published": "2026-05-17",
+    "keyword": "생성형AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "경상북도는 생성형 AI 기반 가상융합 콘텐츠 제작 인재 양성을 본격적으로 추진합니다.",
+    "implication": "학생들이 AI 활용 콘텐츠 제작에 흥미를 느낄 수 있도록 관련 교육 자료를 찾아봐야겠습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "경남교육청, 내년도 예산 편성위한 설문 조사 시행",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZZlYxTi1rNVNEdWtYajJ1MXVEYnpJZi1MN1NteTdfUnFlSTIwcFlCYmx2THoxeUNmZGFHNXFoZTQyVDJVQ0pBanNjMU5SdzJQOUZ5ei0zNUdmTlBkbzVVWVpmOWkyaTM5UU5pSDljRjRFQ1ZTWldF0gF3QVVfeXFMTllmVjFOLWs1U0R1a1hqMnUxdURieklmLUw3U215N19ScWVJMjBwWUJibHZMejF5Q2ZkYUc1cWhlNDJUMlVDSkFqc2MxTlJ3MlA5Rnl6LTM1R2ZOUGRvNVVZWmY5aTJpMzlRTmlIOWNGNEVDVlNaV0U?oc=5",
+    "source": "스트레이트뉴스",
+    "published": "2026-05-17",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경남교육청"
+    ],
+    "summary": "경남교육청이 내년도 예산 편성을 위해 교직원, 학생, 학부모를 대상으로 설문조사를 실시합니다.",
+    "implication": "설문조사에 적극 참여하여 필요한 교육 환경 개선에 대한 의견을 제시할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "경남교육청, 2027년도 예산 의견 수렴 시작…학생·도민 참여 확대",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WX3VQeFdFS3NBZThDd2xfbDhSUnZVNXM5V3BuYkJNY0lISHVlYXAwdUlhazVXUElxaWtiLUlSM3J3UmN3S1ZMM0NodHY1My0ybXhDN2VZc2NLRVhw?oc=5",
+    "source": "뉴스핌",
+    "published": "2026-05-17",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경남교육청"
+    ],
+    "summary": "경남교육청이 2027년 예산 편성을 위해 학생과 도민의 참여를 확대하여 의견 수렴을 시작합니다.",
+    "implication": "학생들에게 예산 편성 과정에 참여할 기회를 제공하여 민주 시민 교육과 연계한 프로젝트 수업을 진행할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Opportunities and Challenges of Generative AI in STEAM Education: A Thematic Co-occurrence Network Analysis of Primary and Secondary School Leaders’ Perspectives",
+    "url": "https://doi.org/10.1007/s10758-026-09976-5",
+    "source": "openalex",
+    "published": "2026-05-16",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "AI 리터러시",
+     "개인화 학습"
+    ],
+    "summary": "홍콩 초중등학교 교장 69명의 인터뷰를 주제어 동시 발생 네트워크 분석을 통해 분석한 결과, 생성형 AI는 융합 교육의 확장 및 학습 활동 지원 가능성을 보이나, 교사 준비 부족 및 윤리적 문제 등 어려움이 있으며, 교사의 AI 리터러시 향상 및 맞춤형 교육이 필요함을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "SIYOU WU, Jiaqi Xu 외 1명",
+    "pdf": "https://link.springer.com/content/pdf/10.1007/s10758-026-09976-5.pdf"
+   },
+   {
+    "n": 2,
+    "title": "AI-Enabled Intelligent Teacher Robot forAutomated Attendance, Personalized Learning Assistance, and Real-Time Knowledge Retrieval",
+    "url": "https://doi.org/10.22214/ijraset.2026.82068",
+    "source": "openalex",
+    "published": "2026-05-16",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "로봇·휴머노이드",
+     "개인화 학습",
+     "AI 튜터"
+    ],
+    "summary": "본 논문은 라즈베리 파이 5 기반 AI 튜터 로봇을 개발하여 자동 출석 관리, 맞춤형 학습 지원, 실시간 지식 검색 기능을 제공하며, 학생 학습 성취도 향상 및 교육 접근성 개선에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Abhishek S",
+    "pdf": "https://doi.org/10.22214/ijraset.2026.82068"
+   },
+   {
+    "n": 3,
+    "title": "Innovative Practice of Industry-Education Integration and Competition Empowerment in Data Visualization Courses",
+    "url": "https://doi.org/10.54097/19sp3156",
+    "source": "openalex",
+    "published": "2026-05-16",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 산업-교육 통합과 경쟁 강화를 통해 데이터 시각화 교육과정을 개선하여, 기업 연계 데이터 활용, 프로젝트 기반 학습, 경쟁 연계 실습 등을 통해 학생들의 실무 능력, 산업 적응력, 혁신 역량을 향상시키는 \"쑤첸 모델\"을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Dianqiang Li, Lifang Ren",
+    "pdf": "https://drpress.org/ojs/index.php/jeer/article/download/34938/34138"
+   },
+   {
+    "n": 4,
+    "title": "LEARNING CIRCULAR ECONOMY IN HIGHER EDUCATION: A PEDAGOGICAL MODEL FOCUSED ON SOCIAL IMPACT",
+    "url": "https://doi.org/10.56238/sevened2026.022-020",
+    "source": "openalex",
+    "published": "2026-05-15",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 순환 경제 교육을 위한 사회적 영향 중심의 교수 학습 모델을 제시하며, 구성주의적 정렬과 참여 행동 연구 기반의 교육과정 설계, PLS-SEM 분석을 통해 사회적 기업가 정신과 실제 문제 해결 연결을 강화하고 고등 교육 내 순환 경제 통합의 중요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Víctor Molina Morejón, Horacio Monsivais de la Peña 외 1명",
+    "pdf": "https://sevenpubl.com.br/editora/article/download/10183/16099"
+   },
+   {
+    "n": 5,
+    "title": "Mobile-Based Intelligent Tutoring Systems: Enhancing Personalized Learning in Digital Education",
+    "url": "https://doi.org/10.3991/ijim.v20i09.61509",
+    "source": "openalex",
+    "published": "2026-05-15",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "AI 튜터",
+     "개인화 학습"
+    ],
+    "summary": "본 논문은 모바일 기반 지능형 튜터링 시스템(M-ITS)이 AI를 활용하여 개인 맞춤형 학습 경험을 제공하고, 학습 참여도 및 성과를 향상시키며, 교육 분야의 발전과 다양한 학습자에게 긍정적 영향을 미칠 수 있음을 분석하고 연구 방향을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Shamim Akhter, Tribhuwan Kumar 외 1명",
+    "pdf": "https://online-journals.org/index.php/i-jim/article/download/61509/17247"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "New benchmark shows Claude Mythos and GPT-5.5 can develop real browser exploits autonomously",
+    "url": "https://the-decoder.com/new-benchmark-shows-claude-mythos-and-gpt-5-5-can-develop-real-browser-exploits-autonomously/",
+    "source": "The Decoder",
+    "published": "2026-05-16",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "벤치마크",
+     "Claude",
+     "ChatGPT"
+    ],
+    "summary": "AI가 실제 브라우저 취약점을 자율적으로 개발하는 수준에 도달함에 따라 사이버 보안 위협의 진화와 방어 기술 혁신 경쟁이 더욱 심화될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "엔비디아, 'RTX 5090' 한장으로 1분 영상 생성하는 월드 모델 오픈 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210609",
+    "source": "AI Times",
+    "published": "2026-05-17",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "영상·이미지 생성"
+    ],
+    "summary": "엔비디아 RTX 5090 기반 월드 모델 공개는 고성능 AI 영상 제작의 대중화를 가속하며 관련 산업 혁신을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "Mistral CEO Arthur Mensch warns France against letting Anthropic's Mythos scan military code bases",
+    "url": "https://the-decoder.com/mistral-ceo-arthur-mensch-warns-france-against-letting-anthropics-mythos-scan-military-code-bases/",
+    "source": "The Decoder",
+    "published": "2026-05-17",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "Mistral",
+     "Anthropic",
+     "Claude"
+    ],
+    "summary": "미스트랄 CEO의 경고는 국가 안보와 직결된 민감한 데이터 접근에 대한 AI 기술 기업 간 경쟁 심화 및 잠재적 위험성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "오픈AI, '유명인 음성 복제' 스타트업 인수해 폐쇄...\"상장 전  논란 제거 의도\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210607",
+    "source": "AI Times",
+    "published": "2026-05-17",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "오픈AI의 유명인 음성 복제 스타트업 인수는 상장 전 잠재적 법적/윤리적 리스크를 선제적으로 차단하여 AI 기술 윤리 및 책임 경영에 대한 중요성을 강조하는 사례입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "누스 리서치, ‘토큰 중첩 학습’으로 사전훈련 시간 2.5배 단축",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210584",
+    "source": "AI Times",
+    "published": "2026-05-17",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [],
+    "summary": "토큰 중첩 학습 기술은 AI 모델 개발 비용을 절감하고 효율성을 높여 기술 경쟁력을 강화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+    "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+    "source": "OpenAI Blog",
+    "published": "2026-05-16",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "OpenAI와 몰타의 협력은 ChatGPT Plus 접근성 확대를 통해 AI 기술의 공공 서비스 적용 가능성을 보여주는 중요한 사례가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "[그렉 브록맨, 오픈AI 제품 전략 총괄] 브록맨은 내부 메모를 통해 ChatGPT와 코드 생성 도구 Codex를 하나의 통합된 사용자 경험으로 결합하는 계획을 제시한 것으로",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5vNXU2MWxuZVRWdWFVOWNZUWZleHM4dUprOHdVaFN6OHhVWm9YbGtMTXBvelE2TEo4WS04bG5aX04?oc=5",
+    "source": "AI넷",
+    "published": "2026-05-17",
+    "keyword": "오픈AI",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT",
+     "코딩 AI"
+    ],
+    "summary": "ChatGPT와 Codex 통합은 AI 개발 및 활용의 효율성을 극대화하여, 생산성 향상과 새로운 서비스 창출을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "오픈AI, ChatGPT에 개인 금융 기능 추가",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tc0pnN0QzbGJQX255Vmx6V1RkdU83Sk9oWDhhSDZJdmw1RXlwekNYQzBuUWtrd2tZaGJiaWFwV0syM1cyNzR1MkdPQVFaczFCWllPcXpPS1VzWTk3bWl5M2h0WGw4SEtzX0JxVk5COA?oc=5",
+    "source": "디자인 나침반",
+    "published": "2026-05-18",
+    "keyword": "오픈AI",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "ChatGPT의 금융 기능 추가는 AI 챗봇이 금융 서비스 영역으로 확장되어 금융 산업의 경쟁 구도를 변화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "구글, ‘플래시’ 모델로 버셀 사용량 1위...\"가성비로 기업 점유율 경쟁\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210608",
+    "source": "AI Times",
+    "published": "2026-05-17",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "구글 플래시 모델의 버셀 사용량 1위는 가성비 AI 모델 경쟁 심화와 함께 PaaS 플랫폼 종속성 심화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "'바이브 코딩' 레플릿, 애플과 4개월 갈등 끝에 iOS 업데이트 재개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210598",
+    "source": "AI Times",
+    "published": "2026-05-16",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "코딩 AI",
+     "Apple"
+    ],
+    "summary": "레플릿의 iOS 업데이트 재개는 앱 생태계 내 플랫폼 사업자의 영향력과 개발사의 자율성 간 균형점을 찾는 데 중요한 시금석이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

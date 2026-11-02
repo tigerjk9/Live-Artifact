@@ -1,0 +1,429 @@
+{
+ "date": "2026-09-07",
+ "generated_at": "2026-11-02T11:42:51+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[에이전틱 AI 맵 2026] LG CNS, AI 에이전트 설계부터 운영까지… 6개 모듈로 전사 AX 연결",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0tdmRqWUtLXzYtZFlzaGFkS0FJdXhqcGNDTHhKZi1tMTBHWDRzWF9nQk9sdFU0Rm5VZ3RJLUlJYVN4THBIZVN6bFZ4M0ZBLWZkeHFlbXhHeXJ0Unh6bFlnVGlzYVBEYk1XbW1qWEJmbkxkMTVm0gF0QVVfeXFMTS12ZGpZS0tfNi1kWXNoYWRLQUl1eGpwY0NMeEpmLW0xMEdYNHNYX2dCT2x0VTRGblVndEktSUlhU3hMcEhlU3psVngzRkEtZmR4cWVteEd5cnRSeHpsWWdUaXNhUERiTVdtbWpYQmZuTGQxNWY?oc=5",
+    "source": "IT조선",
+    "published": "2026-09-06",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "LG",
+     "에이전트"
+    ],
+    "summary": "LG CNS는 6개 모듈로 AI 에이전트의 설계부터 운영까지 전사 AX 연결을 추진합니다.",
+    "implication": "AI 에이전트가 기업 전반에 적용되는 사례를 바탕으로 미래 사회의 변화를 토의할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "대전시교육청-시의회 교육위, IBDP 후보학교 '대전대성고' 현장 방문",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ILXVuRkZYRnAwOU1kNV9qVmY5MDR3UUladnU5TTdYX3V5QlZpUzhTS01RdWlManRteE1jZVB4LTUxdTVCX0JMV1RzMERkYzhjdm9WWi1rOUl2dG9meGVDajJiRQ?oc=5",
+    "source": "대한민국교육신문",
+    "published": "2026-09-06",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대전시교육청",
+     "국회",
+     "IB"
+    ],
+    "summary": "대전시교육청과 시의회 교육위가 IBDP 후보학교인 대전대성고를 현장 방문했다.",
+    "implication": "지역 내 IB 도입 가능성을 고려해 수업에 탐구 및 비판적 사고 활동을 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "인천시교육청이 2일 'AI교육행정혁신 추진단'을 출범시키고 기념 촬영했다. 인천시교육청 제공.",
+    "url": "https://news.google.com/rss/articles/CBMi6wdBVV95cUxPTWJsV2Rub2xpcmdiemNYTmltYTlZVFR6UkxkT3ZVcVlNWmdpNTREN0NQTkw0YU1jTkxfTC1Dcjh1SUw4MUxvbHN3a1NmbFhWc3hKTUVVdWxHQ3lhOURLQmFrVTk0X3VDSXlYeVJQbzFEOEdwdDJsdHJ3Vk5tUmU2dlJuMXNTckwzcF82WGhZcXUyWXBTQWNQLUtVU1hwRFo1WHBvX3RzUy1LTWVnWUR6VHFHdlI5M2JvdU9ldF9oeXVLQWYxWGtzTzQ1Tjd6czZyMGNFUWxDaGFuX2I0NnhhdnNXdlJjV3lqVTBQMjBmQnVJZWl1LVFlZzltWFM2WjRtaEE5WHVGeUQzU1htYzFQbUlGQ2hVUmdKMVVnendmS0pqbExjcW9VTlBNbFY4cjNRSGhhcHhpQmhyQ2hxOF9DNWZwTm1FeWlDTUtENGs4YXp0bTlORUNUVWJWVVNUZ2RucF9Ebzg1SVpDOGY1RTJGdVZFMG1iRkVZYWQzUzhCRUlBSUM5RzRMTUF1TkQwZC1neHBMeDBFT1B1WV9Oel9Md3ZfWEtrWDEtVlMtOHRWRjlpc1oxODJ5bFlHZEdnY01fQzl4dGpXblhSUktCbEJFQkdTN0d5ejFLUVVEQWhvQkpfSFdfTkU1YXdrZVIyS21ZX3A4NXJEa3FKZHBjV1ZZaXZoMGUxZWdOMmFEclYxSG1FLUtjejBOc0Ytby11bjEtMUx1cTdGWF9BUS16amdkSm5aSFhUeXRmWFNpdjdHTVRGa1BzeW1tWHU4eXhyeWVkVFdQd203Y2FaYVBIZ1BUUzFVWVZJcDYybHBpMTZoZjlLMS0ybU1veGlGNUNZZkJSQVJDMUJuUVA0cU5DSkU3WTRqS2ZYbmNqaGlSMEZrc09NUUc1d0lDTWQyQ0h2WHkyNk1TcHpHcW0yem05TkZNNkJieVF3aXhOamh5NWE4RUc4MTVqaUVFRE9QYk4zTnVVOFdzSi1Qb2NVZENKdmg1T1dPQUJzSHdqQ1lpYlcyZkVXVmxTOXh5N2o2cVBRWThBelNHYi0zWk4yNEZ5M0NkeE84ZmdoblItLUZ1cHVTeVZjSkR3Zy00NEE5ZXVPRmRlSEg4eWdaaGl0X01IZU5PYkRTUXZKanhubjZ0eENBQnFaZ3dhaDg2eVZicWVLWERNU0JHVTA2UVhTTWNpYnhxT0g2eGVXWWM0OHlDYmpVY2hKcEdjR2YyMzNqdmNlajhwWnRkaGk5WTJxOGRnSktZdWRiMlpsR0FHZDdUUlNkTjVlS1cxSkRHemwtN09KTTMxZm14OTFnbDdUM1ZfZW5CMEUtWnlWY0xaWHFn?oc=5",
+    "source": "전자신문",
+    "published": "2026-09-06",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청은 2일 'AI교육행정혁신 추진단'을 출범시키고 기념 촬영을 했다.",
+    "implication": "앞으로 AI 활용 교육 자료나 도구를 수업에 적극적으로 활용할 기회가 늘어날 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[파워인터뷰 394] 김석준 교육감, 부산을 미래교육 표준으로 만들어.…\"한 아이도 놓치지 않겠다\"",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpSnRlcnlXSWlOVVJ4bUczQ0FjUU5veE1kUTdmUGxrMEhrTzB2VjY4blBvNVBuWmFIZk5BRlN3ek9nZXlhNm9LS2hvYTNvaU51ODZ6dk54OWpsTWVpeUhjNUVRcFRjRDJhcnRuaUJB?oc=5",
+    "source": "전국매일신문",
+    "published": "2026-09-06",
+    "keyword": "AI교육",
+    "topic": "classroom",
+    "kind": "interview",
+    "entities": [
+     "부산시교육청"
+    ],
+    "summary": "김석준 부산 교육감은 부산을 미래교육 표준으로 만들고, 한 아이도 놓치지 않는 교육을 약속했습니다.",
+    "implication": "미래교육 표준 목표에 따라 모든 학생을 포용하는 개별 맞춤형 수업 방식을 고민할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "충북 교사 300여 명 도교육청 앞 집회…“현장 중심 교육정책 수립하라”",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53aHBkd2o1R0pFbmxIY2RleVpCdDBwdU1Sa1FURGF2MXY4SV80a2E0RmRyTlJ4eE5yWm1CSnpsY29kWGZlVXI0Y0UyRDlGdTc1OHZFLVI2Zjg1dmFwSk55NXZleS1yQU03bElTUk130gFuQVVfeXFMTndocGR3ajVHSkVubEhjZGV5WkJ0MHB1TVJrUVREYXYxdjhJXzRrYTRGZHJOUnh4TnJabUJKemxjb2RYZmVVcjRjRTJEOUZ1NzU4dkUtUjZmODV2YXBKTnk1dmV5LXJBTTdsSVNSTXc?oc=5",
+    "source": "중부매일",
+    "published": "2026-09-06",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "충북 교사 300여 명이 현장 중심 교육정책 수립을 촉구하며 도교육청 앞에서 집회를 열었다.",
+    "implication": "현장 중심 교육정책이 수립되면, 교육과정 운영 자율성이 커져 우리 반 수업을 더 창의적으로 구성할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "매시간 만나는 최신 과학뉴스, 생성형 AI 날개 달고 미래 과학 인재 키운다",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xZi1aTkgycVNxZThCbUhEZnJ5UHpCek1jck9oXzA4Rmt5aHBBU3FTemhiMnF3NUMxU0dwd0tqTzRyTl9JYzY4dDlJcHdsejZzWlJXRUU1U0ZIN3RqSzg1amxPU0RnT1BTM0E?oc=5",
+    "source": "도민연합뉴스",
+    "published": "2026-09-07",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "생성형 AI를 활용하여 매시간 최신 과학뉴스를 접하며 미래 과학 인재를 양성한다.",
+    "implication": "생성형 AI를 활용하면 매시간 최신 과학 뉴스를 수업에 효과적으로 연계하여 학생들의 흥미를 높일 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "대학가 2학기 과제 생성형 AI 쓰면 감점인가 통과인가",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IVG5OcUJKQ1pmQVhnV1BtU0VGbFNqcWNfMjhDaUgwdlFhSFQtb0U0RkNQdzB2UURtWGJMNHlrVE0telRzY2ZiSWN6Z19mU200bUV3YkRhSXNUUXVPSFNyZDE5SWlZN0N0?oc=5",
+    "source": "공감신문",
+    "published": "2026-09-07",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "대학들이 2학기 과제에서 생성형 AI 사용 시 감점될지 통과될지 불확실한 상황입니다.",
+    "implication": "학생들과 생성형 AI의 책임감 있는 활용 및 윤리적 고려사항에 대해 논의할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "경기도 고교생 80명 항저우로…AI·RAS·IB·직업교육 공동수업",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VcjNkM3NYZ2FTTGk2UF9kaGF5WHVxcDVuR2Q3dEZUOTRYbjRwaGNoZkdVcWFqWXFwQ0tzLTBpcXhDeWxSOTNPRmxNeEhxQQ?oc=5",
+    "source": "전자신문",
+    "published": "2026-09-06",
+    "keyword": "인공지능교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "IB"
+    ],
+    "summary": "경기도 고교생 80명이 항저우에서 AI, RAS, IB, 직업교육을 포함한 공동수업에 참여합니다.",
+    "implication": "학생들에게 경기도 고교생의 항저우 국제 공동수업 사례를 소개해 미래 진로를 탐색하게 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "경기도교육청국제교육원, 한중 고교생 교류 확대",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iaE9mZFpzXzdKUm9GTnI3M0tjRjE1NGRteXpVaHpwenY2VDNjdVZWZ2cxX2NTa0tDamw5cHR4ZVZYeXZuRWJrZGFMQ1liY0ZGZTZ2RExVMGQtanhKelE5QXFxb1NMNkQzaVItSWdsb2VpZw?oc=5",
+    "source": "디스커버리뉴스(DISCOVERYNEWS)",
+    "published": "2026-09-06",
+    "keyword": "인공지능교육",
+    "topic": "global",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청국제교육원이 한중 고교생 간 교류 프로그램을 확대하는 내용입니다.",
+    "implication": "이 소식을 활용해 수업에서 한중 문화 교류의 중요성을 다루고 참여 기회를 탐색할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "경기도교육청 국제교육원, 글로벌 리더 양성을 위한 ‘한중 고교생 교류사업’진행",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSdkk3b2YxSUZhMkpqYmZJTVktNW1jTEI1eVlPOXpWcEtLdzU1Zy1nMFFSU2l3dHR2SEdXajY3dy1iXzQ5TGJpbmxyUTVIXzIzRU42R2hCbllCdWgwTm9pTlVpal9WeE1TQlBHaGtSdw?oc=5",
+    "source": "굿타임즈",
+    "published": "2026-09-06",
+    "keyword": "인공지능교육",
+    "topic": "global",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청 국제교육원이 글로벌 리더 양성을 위한 한중 고교생 교류사업을 진행한다.",
+    "implication": "해당 교류사업을 수업 시간에 학생들의 글로벌 역량 강화 및 국제 이해 증진 활동에 활용할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "AI-assisted Teaching-learning Materials for School Students: A Critical Narrative Review of Opportunities, Classroom Practices and Implementation Challenges",
+    "url": "https://doi.org/10.9734/ajess/2026/v52i93314",
+    "source": "openalex",
+    "published": "2026-09-04",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "이 비판적 서술 연구는 생성형 AI 교육 자료의 학습 기여, 활용 방식, 잠재적 위험을 분석하고, 교사 판단을 보완하는 교육 중심 AI 활용 모델의 필요성을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Nibedita Sarma",
+    "pdf": "https://journalajess.com/index.php/AJESS/article/download/3314/8302"
+   },
+   {
+    "n": 2,
+    "title": "Multi-task convolutional network for artwork analysis and personalized guidance",
+    "url": "https://doi.org/10.1038/s41598-026-70478-6",
+    "source": "openalex",
+    "published": "2026-09-04",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "이 연구는 주관적 미술 교육 평가의 한계를 극복하고자 예술 요소 기반 주의집중, 교사 주석 및 다중 작업 학습을 통해 작품을 분석하고 평가하며, Q-러닝으로 맞춤형 교육 지도를 제공하는 AI-CNN 모델을 개발하여 평가의 정확성과 교육적 활용성을 향상합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Chang Yu, Zhiyang Liu",
+    "pdf": "https://www.nature.com/articles/s41598-026-70478-6_reference.pdf"
+   },
+   {
+    "n": 3,
+    "title": "Influence of Inquiry-Based Learning Practices on Soft-Skills Development among Junior School Learners in Nairobi County, Kenya",
+    "url": "https://doi.org/10.37284/eajes.9.3.5698",
+    "source": "openalex",
+    "published": "2026-09-04",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "케냐 중학생을 대상으로 혼합 연구 방법을 통해 탐구 기반 학습이 소프트 스킬 개발에 긍정적 영향을 미치고 가장 강력한 예측 요인임을 밝혀, 교육 성과 향상을 위한 교수법 강화를 제언합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Michael Otieno, Emily Bomett 외 1명",
+    "pdf": "https://journals.eanso.org/index.php/eajes/article/download/5698/6041"
+   },
+   {
+    "n": 4,
+    "title": "Impact of Infrastructure and Digital Literacy on Cloud-AI EdTech Adoption in Rural India",
+    "url": "https://www.semanticscholar.org/paper/3643d1e69f6da485b0b2feda56ef73bb338a6b6b",
+    "source": "semantic_scholar",
+    "published": "2025-04-01",
+    "keyword": "edtech",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [
+     "AI 리터러시"
+    ],
+    "summary": "인도 농촌에서 인터넷, 기기, 교사의 디지털 역량 부족이 클라우드-AI 교육 기술 도입을 저해하며, 공식 데이터 분석은 이러한 인프라 및 디지털 격차가 교육 혁신에 미치는 영향을 보여주어 정책적 개입을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Deepak Kumar",
+    "pdf": "https://doi.org/10.59231/edumania/9131"
+   },
+   {
+    "n": 5,
+    "title": "Embedding virtual tools and innovative approaches in neuroanatomy teachings: A single center pilot and feasibility experience",
+    "url": "https://doi.org/10.36253/ijae-17095",
+    "source": "openalex",
+    "published": "2026-09-05",
+    "keyword": "",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [],
+    "summary": "신경해부학 교육에 가상 해부, 게임화 등 디지털 상호작용 교수법을 통합 적용한 결과, 학생 만족도와 지식 보유율이 크게 향상됨을 확인하며 혁신 교육의 효과와 실현 가능성을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Paola Alberti",
+    "pdf": "https://oajournals.fupress.net/index.php/ijae/article/download/17095/16067"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "GPT-6 아스트라, AI 최초 수능 '완전 만점'...탐구 4과목까지 석권",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214896",
+    "source": "AI Times",
+    "published": "2026-09-06",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "수능·대입"
+    ],
+    "summary": "AI의 수능 만점은 인간 최고 수준의 인지 작업을 AI가 대체/협력할 시대의 도래를 알리며, AI 기술 생태계와 산업 전반의 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "앤트로픽, '클로드 맥스' 주간 사용량 초기화…'아스트라' 돌풍에 맞불",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214898",
+    "source": "AI Times",
+    "published": "2026-09-06",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude",
+     "OpenAI"
+    ],
+    "summary": "오픈AI 아스트라 돌풍에 대한 앤트로픽의 맞대응은 AI 시장의 경쟁 심화와 사용자 혜택 증진을 가속할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "오픈AI, '코드 아레나'서 앤트로픽 제쳐…'아스트라' 웹개발 1위 기염",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214899",
+    "source": "AI Times",
+    "published": "2026-09-06",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Anthropic"
+    ],
+    "summary": "오픈AI의 웹개발 최고 성과는 AI가 실질적인 소프트웨어 개발 생산성을 극대화하며 산업 지형을 변화시킬 것임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "오픈AI, 에이전트 '위키 사건' 인정...\"AI 정렬 실패 공개 기준 만들 것\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214900",
+    "source": "AI Times",
+    "published": "2026-09-06",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "에이전트"
+    ],
+    "summary": "오픈AI의 AI 정렬 실패 인정 및 공개 기준 마련 약속은 자율형 AI의 안전한 개발과 배포를 위한 업계의 투명성과 책임 강화를 촉진하는 중요한 계기가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "머스크, 미네소타 ‘AI 딥페이크 누드 금지법’ 저지 실패",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214908",
+    "source": "AI Times",
+    "published": "2026-09-06",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "xAI",
+     "딥페이크"
+    ],
+    "summary": "이번 실패는 유해 AI 콘텐츠 규제가 본격화되어 AI 산업의 책임 있는 개발과 활용을 요구할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+    "url": "https://openai.com/index/gilbert-tobin",
+    "source": "OpenAI Blog",
+    "published": "2026-09-01",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "비기술 산업의 AI 거버넌스 및 확장 사례는 AI 기술이 전 산업에 걸쳐 실용적 운영화 단계에 진입했음을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "MS, AI 개발자 전용 윈도우 11 ‘프로젝트 제니스’ 공개… \"30B 모델 로컬 실행\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214904",
+    "source": "AI Times",
+    "published": "2026-09-06",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Microsoft",
+     "온디바이스 AI"
+    ],
+    "summary": "MS의 AI 개발자 전용 윈도우는 30B 모델 로컬 실행을 통해 온디바이스 AI 개발 시대를 개막하고 AI 기술 생태계의 확장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+    "url": "https://openai.com/index/atv-big-air-tour",
+    "source": "OpenAI Blog",
+    "published": "2026-09-02",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "ChatGPT와 같은 AI가 비기술 분야의 업무 생산성을 혁신적으로 향상시켜 전 산업의 AI 도입 가속화를 이끌 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+    "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "source": "OpenAI Blog",
+    "published": "2026-08-27",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "AI 기술은 비판적 사고 훈련과 결합하여 인간의 역량을 강화하는 방향으로 발전하며, 이는 AI 산업의 새로운 성장 동력이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "OpenAI shares prompting tips for GPT-6 Astra including a blocklist of slop words",
+    "url": "https://the-decoder.com/openai-shares-prompting-tips-for-gpt-6-astra-including-a-blocklist-of-slop-words/",
+    "source": "The Decoder",
+    "published": "2026-09-05",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "OpenAI의 GPT-6 Astra 프롬프트 팁 및 불필요 단어 차단 목록 공개는 AI 모델의 고품질 결과물 제어 및 사용자 경험 최적화가 필수적인 경쟁 요소로 부상할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

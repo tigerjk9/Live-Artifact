@@ -1,0 +1,418 @@
+{
+ "date": "2026-09-02",
+ "generated_at": "2026-11-02T11:42:35+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[칼럼] AI 에이전트 시대, 기업 데이터 전략은 ‘맥락’에서 시작해야 한다",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xcFpCOXlFS3JmMnRDYmFzQm5SYmhGSlBvbTBGbHY0ZTNkUG9kOGFwQjBmdFF3Mkt4OTlPY3dDSUJPT0JfRjBpaVcwWnRTZ1hxeEg4MjRHZHNLVVVSRHg0elRzMHQybmN2TEtn?oc=5",
+    "source": "더에이아이",
+    "published": "2026-09-01",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "AI 에이전트 시대에 기업의 데이터 전략은 데이터의 맥락을 이해하는 데서 출발해야 한다.",
+    "implication": "AI 도구를 활용할 때 학생들이 정보의 맥락을 이해하고 제공하는 학습을 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "윤건영 교육감, 교육활동 보호 위해 현장 교사 목소리 듣는다 : 네이버 블로그",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbDRoTDJ0d0FQTWo4R251aEVUdUNoNjV5RUxKVzQ1QTg0YU85ZjBaZHZpcHR0SU9wWHRraV9sMEx6UzhsczZHOXhoVkUyd1plaUtvdHZPYlMwRXVYaGx3dkgwZFFVeHdPTEp0Wm02bzRSMmZocjdfLVRSalVrZUtqWTFSSEh6WGZWYmg4eXI2OA?oc=5",
+    "source": "Naver Blog",
+    "published": "2026-09-02",
+    "keyword": "교육정책",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "네이버"
+    ],
+    "summary": "윤건영 교육감이 교육활동 보호를 목적으로 현장 교사들의 의견을 수렴한다.",
+    "implication": "수업 중 겪는 교육활동 침해 사례를 교육감에게 직접 전달하여 개선을 요구할 수 있는 기회입니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[현장] AI 에이전트, 모델만으론 일 못한다…한국IBM 부스 가보니",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KOTZTZXEtZC15cGRDRDBuaGpodXQ2UEhmU0RORUc2VTAwbUYxTGlrdkNIbm5FMkVlRy1JY3MwMXFXMXI5Mk1QbmdvczhDSkNmUUFQd0RNaDAxeXpxUXNsNUd4V2E?oc=5",
+    "source": "디지털데일리",
+    "published": "2026-09-01",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": "feature",
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "한국IBM 부스에서 AI 에이전트가 모델만으로는 효율적으로 작동하기 어렵다는 점이 강조되었습니다.",
+    "implication": "학생들에게 AI의 모델 학습을 넘어 실제 문제 해결에 어떻게 활용되는지 탐구하게 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "뉴스1 교육혁신포럼 축사하는 최교진 교육부 장관",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJV0daQl9ZNWRVbFZMTDAtVWtrTXp2Y05PaFZ1djRQdDNWQm91YXZWaURkaGxkWHFRWTRjOEM3X1MwYWlDVGdYVmZaRFhmN19mbWl5cmZzb1pxaHNYejFORElCY3lMcy1FS0JHdFRWdU1zUWU0UG1xVQ?oc=5",
+    "source": "네이트",
+    "published": "2026-09-02",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "최교진 교육부 장관이 뉴스1 교육혁신포럼에서 축사를 했습니다.",
+    "implication": "교육혁신포럼의 핵심 내용을 바탕으로 새로운 교수법을 수업에 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "“현장 목소리 경청하겠다” 염기성, 제28대 충북부교육감 취임",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVV3ZGTTgtUFZiWEZLTm8xc3dlNXkwSmZjczBnNVpOOFFUVjR3TDAwTFVfS1V0bHp0SlpMVzlYVlp3eWx6cUtweTBxRk1TcHNZV1d2T2l2eDBIeDhLOVJ6ZTZlVUtELU02c05vTw?oc=5",
+    "source": "공뉴스",
+    "published": "2026-09-01",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "염기성 씨가 제28대 충북부교육감으로 취임하며 현장의 목소리를 경청하겠다는 의지를 표명했습니다.",
+    "implication": "부교육감의 현장 경청 약속처럼 학생들 목소리에 귀 기울여 수업 참여를 유도할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "교사의 수업혁신 노력, 교실의 변화로 이어간다",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IWEQ5eHF3Ni1sSDZIbUZqMUJRSFR5bXBGT1hfWnZ4X2dsemFqZkd4MG1pSmk2c3dUUmRWRHpJcVViemRnLUVWMlNBZWZLSktKZ1pwc1JKNnlZM3A3TWRYdnRGd19nVzdodUU2emctaw?oc=5",
+    "source": "채널제주",
+    "published": "2026-09-01",
+    "keyword": "에듀테크",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "교사들의 수업혁신 노력이 실제 교실의 변화로 이어진다는 내용입니다.",
+    "implication": "새로운 수업 방식을 시도하면 학생들의 참여와 교실의 긍정적 변화를 이끌 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "인천시교육청, 제2기 교육정책자문위원회 출범…지역 각계각층 머리 모아",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzT1dIRG9FRlFfNXdyWWtWOHBLdDdnaHVaeHZnM1FXREVXWktOZ0hPVVVmUTB0WlNqWU1RaFJyZFlWallzVVQ4S2Z2cGZpVHNIX21Id3FCWGw5OXM?oc=5",
+    "source": "경기일보",
+    "published": "2026-09-01",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청이 지역 각계각층의 전문가들로 구성된 제2기 교육정책자문위원회를 출범시켰습니다.",
+    "implication": "지역 각계각층의 교육 정책 참여 사례를 수업에서 논의해 볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "이상적인 교육정책이 학교를 황폐화할 때",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtS0pRNEJvOHBqeHpLcVNCWHhULXh0LU5LX2YtZ3lSbnRxNWtoNDN2RzlHMnIyTlRqaXVqLUpXQWEtVGgzckVhSUJyTU5GM2M?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-09-01",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "이상적인 교육정책이 실제 학교 현장에 부정적 영향을 미쳐 황폐화시키는 역설적 상황을 다룹니다.",
+    "implication": "이상적인 교육정책이 아닌, 우리 반 학생들의 실제 요구를 반영한 맞춤형 수업을 계획할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "[교육정책 브리핑] 경기도교육청, 100일간 폰노예 벗어나 새로운 세상 본다",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QbzZZaXd1dkEtNENfdnk2NUEzc08yWU9zMXZfVU44U09BbHZNdUdaMXpVNHJtNlJYV0YzQlk2RnlEb0R6a0dJTGMwRHpZNjUtOHl0WVFCVHdqenA3OFc0Ng?oc=5",
+    "source": "NSP통신",
+    "published": "2026-09-01",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청이 100일간 스마트폰 과의존 문제 해결을 위한 교육 정책을 발표했습니다.",
+    "implication": "100일간 스마트폰 없이 집중하는 경험을 수업 활동으로 연계해볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "경기도교육청, ‘벽깨기 교육정책 기본계획’​ 본격 실행",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE81MWY3XzZZUjVXZnB6akIxaF91Q2lyelQ5MTJQazh3SXV1X0NnY0hlOThxNEY4eU05TjNpVkNNcnQtZkhNRlhQM0lNeks5ZjRTTmhocWk3XzhqWGxJQnE4SFk4ZzI?oc=5",
+    "source": "경기인저널",
+    "published": "2026-09-01",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청이 '벽깨기 교육정책 기본계획'을 본격적으로 실행한다고 발표했습니다.",
+    "implication": "학생 주도 학습이나 교과 융합 수업을 계획하는 데 참고할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "RECONCEPTUALISING QUALITY TEACHER EDUCATION IN THE ERA OF ARTIFICIAL INTELLIGENCE AND NATIONAL INSECURITY IN NORTH-EAST, NIGERIA",
+    "url": "https://doi.org/10.64290/vmjste.v14.i3.126",
+    "source": "openalex",
+    "published": "2026-08-29",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "나이지리아 북동부의 AI 및 안보 위협 속, 전통적 교사 교육의 한계를 인식, 개념 연구로 AI 역량 교사 교육 재개념화가 교육 발전에 기여함을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Aguocha Victoria Onyinye, Mathew Ijeoma Favour 외 1명",
+    "pdf": "https://vmjste.com/index.php/home/article/download/126/115"
+   },
+   {
+    "n": 2,
+    "title": "Student Perceptions and Perceived Learning Outcomes of ChatGPT in German Language Learning at Nangarhar University",
+    "url": "https://doi.org/10.66074/n5z3y9d4m",
+    "source": "openalex",
+    "published": "2026-08-31",
+    "keyword": "",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "아프가니스탄 낭가하르 대학교 독일어 학습자 90명을 대상으로 한 설문조사 결과, ChatGPT가 언어 능력 향상에 효과적이라고 긍정적으로 인식되어 책임감 있는 활용을 위한 교육 과정 통합 및 정책 마련이 필요함을 밝힙니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Said Ikram Nael, Irfan Akhtar",
+    "pdf": "https://ijtmsonline.com/wp-content/uploads/2026/08/020338.pdf"
+   },
+   {
+    "n": 3,
+    "title": "From Perception to Precision: Applying Multimodal Data Analytics to Assess Ideological Outcomes in Vocational College English Courses",
+    "url": "https://doi.org/10.66069/ojspub.1811260806",
+    "source": "openalex",
+    "published": "2026-08-30",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "직업 대학 영어 수업에서 이념 교육의 주관적 성과를 다양한 다중 모드 데이터 분석 기법으로 평가하는 프레임워크를 개발하여 진단 정확도를 높이고 맞춤형 교육 개입을 효과적으로 지원합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Xiaoli Hu",
+    "pdf": "https://bryanhousepub.com/index.php/jssh/article/download/3966/3828"
+   },
+   {
+    "n": 4,
+    "title": "Interactive educational applications for hydrogeology and groundwater management",
+    "url": "https://doi.org/10.1007/s10040-026-03149-5",
+    "source": "openalex",
+    "published": "2026-08-31",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [
+     "오픈소스"
+    ],
+    "summary": "이 논문은 복잡한 수문지질학 및 지하수 관리 교육의 난해함을 극복하고자 Python 기반의 대화형 교육 애플리케이션 개발 및 활용 방안을 제시하며, 이를 통해 학습 경험을 향상시키고 교육 현장에 오픈소스 자원의 통합과 발전에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Thomas Reimann, Eileen Poeter 외 1명",
+    "pdf": "https://link.springer.com/content/pdf/10.1007/s10040-026-03149-5.pdf"
+   },
+   {
+    "n": 5,
+    "title": "Teacher AI Literacy and Readiness for AI-Enhanced Instruction: A Scoping Review of Competencies, Barriers, and Professional Development in Education",
+    "url": "https://doi.org/10.26803/ijlter.25.8.21",
+    "source": "openalex",
+    "published": "2026-08-30",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "AI 리터러시",
+     "교사 연수"
+    ],
+    "summary": "이 논문은 AI 교육에서 교사의 역량, 장벽, 전문성 개발을 다룬 70개 문헌 범위 검토를 통해 교사의 AI 활용 능력과 준비도가 효과적인 AI 통합을 위한 지속적인 지원 및 교육에 달려있음을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Jose Antonio Rojas Guillén",
+    "pdf": "https://www.ijlter.org/index.php/ijlter/article/download/17853/pdf"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "오픈AI, 챗GPT 데스크톱 성능 강화...\"이전 대화 로딩 90% 빨라졌다\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214684",
+    "source": "AI Times",
+    "published": "2026-09-01",
+    "keyword": "",
+    "topic": "product",
+    "kind": "opinion",
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "AI 서비스의 실용성 및 효율성 증대로 사용자 경험을 개선하여 AI 대중화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "ChatGPT와 Grok이 GenAI.mil에서 IL5를 승인했으며, Anthropic은 법원에서 금지 조치에 맞서 싸우고 있습니다",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQ2lDSlcwY1R3T2xMQWdBTEI1ajE4QkZHTkFjYkFwcHI0WE9tbkJDS0s1TkxwWlcxeUxmT3VpR3p5R1pUZm9pTXlEU1hDclZWZ0NsVWR0NGFONFNTdkdJdW9BZzBHUTV0bGYtTEd5d3UyeVAzVVFZMTJUcEpWVkJScA?oc=5",
+    "source": "Cryptopolitan",
+    "published": "2026-09-01",
+    "keyword": "Anthropic",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "생성형 AI",
+     "Anthropic"
+    ],
+    "summary": "주요 AI 모델의 정부·군사 부문 진출과 법적 리스크 심화는 AI 산업의 빠른 확장과 규제 간의 갈등이 커지고 있음을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "GPT-5.6 솔이 설계한 CPU로 ‘둠’ 구동 성공…게이트부터 직접 조립",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YRERQYmRyLUdGYWRiSWNIU21wYWZUQnNCQjJCcFJ5UWxMenNzNHlBRi1TT1JwQXpUaTFsOGhJRVVpSS0zR0lwTHlmY2owWk1jRDdpQg?oc=5",
+    "source": "aimatters.co.kr",
+    "published": "2026-09-01",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "AI가 게이트 수준부터 CPU를 설계하고 조립해 구동시킨 것은 AI가 복잡한 하드웨어 설계 및 엔지니어링 전반에 걸쳐 자율적인 창조자가 될 수 있음을 보여주는 중요한 진전입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[게시판] 유니유니, 움직임 분석 AI로 기술신용평가 T3등급 획득 등 단신",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214717",
+    "source": "AI Times",
+    "published": "2026-09-01",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [],
+    "summary": "움직임 분석 AI의 T3 등급 획득은 전문 AI 기술의 상업적 가치와 시장 잠재력을 공인하여, AI 생태계 내 특정 분야 투자 활성화를 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "소프트뱅크 데이터센터 자회사, 오픈AI 유치 위해 7.5조 규모 파격 지분 제공",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214693",
+    "source": "AI Times",
+    "published": "2026-09-01",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "GPU·데이터센터",
+     "OpenAI"
+    ],
+    "summary": "최상위 AI 기업 확보를 위해 인프라 기업들이 막대한 지분 투자로 전략적 동맹을 맺는 새로운 AI 산업 생태계가 형성될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "OpenAI says its ChatGPT ad business hits a $1 billion annual run rate",
+    "url": "https://the-decoder.com/openai-says-its-chatgpt-ad-business-hits-a-1-billion-annual-run-rate/",
+    "source": "The Decoder",
+    "published": "2026-08-31",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "OpenAI의 매출 성장은 AI 모델의 상업적 성공 가능성을 입증하며, 기업 AI 시장의 본격적인 확대를 예고합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "인스타그램, AI 인플루언서 단속 강화...“AI 정체 숨기면 추천 노출 제한”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214712",
+    "source": "AI Times",
+    "published": "2026-09-01",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "인스타그램의 조치는 AI 기술 생태계에 AI 콘텐츠 투명성 의무와 책임 있는 배포를 위한 산업 표준 마련의 중요성을 부각할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+    "url": "https://openai.com/index/gilbert-tobin",
+    "source": "OpenAI Blog",
+    "published": "2026-09-01",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "법률 회사의 AI 거버넌스와 스케일링 성공 사례는 전문 서비스 산업 전반의 책임감 있는 AI 도입 및 확산을 위한 핵심 모델이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "Anthropic opens Claude AI text detection to regulators, media, fact-checkers, and others",
+    "url": "https://the-decoder.com/anthropic-opens-claude-ai-text-detection-to-regulators-media-fact-checkers-and-others/",
+    "source": "The Decoder",
+    "published": "2026-09-01",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude",
+     "AI 안전·규제"
+    ],
+    "summary": "Anthropic의 AI 텍스트 감지 도구 공개는 AI 산업이 기술 오남용 방지 및 신뢰 확보를 위해 투명성과 외부 협력을 강화하는 계기가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "[9월1일] 진화하는 AI 버블 논란…“인터넷보다 소셜미디어에 가깝다”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214682",
+    "source": "AI Times",
+    "published": "2026-09-02",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [],
+    "summary": "AI는 인터넷과 같은 근본적 변화보다 소셜미디어처럼 특정 앱 주도의 고평가와 시장 변동성을 겪을 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

@@ -1,0 +1,167 @@
+{
+ "date": "2025-11-16",
+ "generated_at": "2026-11-02T11:47:46+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[기고] AI커닝이 쏘아 올린 화살",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0bGpMY0hFTk9sUzlCaVRhTVliRmVwVXAyTlphNzZQOUttQ0NhbUZBTkRVc0I2eDNMZ0liZ1ZzUmRPMTFVODhQQTJxY3daMXdtbi02M3lLRTFOY0Fw?oc=5",
+    "source": "뉴스핌",
+    "published": "2025-11-16",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "AI 커닝은 교육계에 평가 방식 혁신과 더불어 학생들의 윤리적 AI 활용 교육 필요성을 제기하는 중요한 경종입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[전문인칼럼] 대학의 지역혁신 생태계 기여도와 추적평가",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uRzVyeGhaZHZCcGctVTBkUWl5M0VZbDNwcWpmX2dPNjc4cXdmSlo2UkNpMWlKWUpNbHVlbW1wOEtMY1R3ZU5KdmNyQ1pvSUU?oc=5",
+    "source": "v.daum.net",
+    "published": "2025-11-16",
+    "keyword": "교육혁신",
+    "topic": "higher_ed",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "대학이 지역혁신 생태계 기여도를 높이고 추적평가를 강화하는 것은 지역사회 연계 교육 및 산학협력 활성화를 통해 대학 경쟁력 강화에 필수적입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[홍선영의 소통과 관계법칙] 피드백 스킬이 팀장 리더십을 결정한다.",
+    "url": "https://www.lecturernews.com/news/articleView.html?idxno=190868",
+    "source": "한국강사신문",
+    "published": "2025-11-17",
+    "keyword": "",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "팀장의 효과적인 피드백 스킬은 팀원 개개인의 성장과 성과 향상에 결정적인 영향을 미치므로, 맞춤형 피드백 역량 강화 교육이 중요합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "임태희 교육감 “경기교육은 대한민국의 미래교육을 이끄는 선구자”",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xdUVmOHBlSGhPeG14aHdWOXdYYm4zVllndVI4eUlheEpLUk95SUlfNnFXaHo4NE5kZXRkNkFiLWdvVXBVcDZZWTVhMlRidUxnLWtQUEVkZ0x1YzR3dVRPWnFZd0E?oc=5",
+    "source": "매일일보",
+    "published": "2025-11-16",
+    "keyword": "디지털교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "임태희 교육감의 발언은 경기 교육이 미래 교육의 모델을 제시해야 한다는 책임감을 강조하며, 교육 혁신에 대한 강력한 의지를 표명한 것으로 해석됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "임태희 경기도교육감 “경기교육, 세계가 인정하는 미래교육으로”",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1OUWx3REd2Y2NzcFBPRlVDOEh4TmhuSFNfSmhNTUp5a0xseVprUFByNWRfcGlOVllVMGhZVGtSbDI4WUFTbW1DUzU4ZC1CQy1uY24tZVdBZENIV0tWOThDMUxVLTJJZ2lOcF9EU243Qi1YQQ?oc=5",
+    "source": "스포츠동아",
+    "published": "2025-11-16",
+    "keyword": "디지털교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "임태희 교육감의 포부는 경기교육이 미래 교육의 선두 주자로 도약하는 발판을 마련할 수 있다는 기대감을 높여 교육 혁신에 대한 요구를 증대시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "경기도교육청 '교사 비하 영상' 논란, 왜 현장이 분노했나",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WNVk5RHdzRjRwVkZKeUd3UVJKRjVuekM3eWoybXJoSVBIYU1UVlJYODMxSFVHUGRNcUkwVnJ4X3VjbTdRWE9lS05ld0tZdHJ0cWpNc2ZVMHRRa2NYNHU1SFZpejZTSWg3NVVmdWhvbzEyS1N0?oc=5",
+    "source": "오마이뉴스",
+    "published": "2025-11-16",
+    "keyword": "AI교육",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "교사 비하 영상 논란은 교사의 사기 저하와 교육 공동체 신뢰 훼손을 야기하여 교육 현장의 어려움을 가중시키는 문제입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "‘미래교육혁신 vs 신뢰 행정’...전주교대 총장 선거 관심",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wREYwdTF2bXZoa2h5QlNIT1c0UkpUTmJETVJVM2JhNWotRHpHRElRdUd5NHY0THZ4aHFyYU9SdERBRWxzMmM3RG1odGFKUVd6YTNHYVhmd2xrSC1XV3k1S1YyUC11RzV6aVE?oc=5",
+    "source": "전북도민일보",
+    "published": "2025-11-16",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "전주교대 총장 선거는 미래 교육 혁신과 행정 신뢰 간 균형을 모색하며, 예비 교사 양성 방향 설정에 중요한 영향을 미칠 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "충청권 진보 교육감 후보군 4명 주축으로 한 '충청민주혁신교육포럼' 출범",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrV3VhcXI4c2ZrbHpMY3lETXJrWmgyWUN1dTFBUFpXWHJ3UTVySDRraGJGTEtNbk9iLWp0eWMxS2tvdkJ4Q1JHcnk5eFhpT3l3dWdR?oc=5",
+    "source": "네이트",
+    "published": "2025-11-16",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육감 선거"
+    ],
+    "summary": "충청권 진보 교육감 후보군의 포럼 출범은 교육 정책의 방향성과 혁신에 대한 논의를 활성화할 것으로 예상됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "양원숲초 교육실습 현장 찾은 정근식 서울교육감 “행복한 배움에 감동”",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=21392",
+    "source": "에듀프레스",
+    "published": "2025-11-13",
+    "keyword": "",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "서울시교육청",
+     "교권"
+    ],
+    "summary": "서울시교육감의 교육실습 현장 방문은 교권 존중과 행복한 배움 환경 조성에 대한 의지를 보여주는 긍정적 신호입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "1급 전원 교체 임박, 술렁이는 교육부",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=21390",
+    "source": "에듀프레스",
+    "published": "2025-11-12",
+    "keyword": "",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "교육부 1급 인사 전면 교체는 새 정부의 교육 철학을 반영하여 정책 방향 전환과 현장 변화를 가속화하려는 의도로 해석됩니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [],
+  "tech": []
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 활용에 대한 논의와 교사의 역할 변화 속에서, 미래 교육 혁신을 위한 다양한 시도와 정책들이 교육 현장의 긍정적인 변화를 이끌고 있으며, 교육 주체들의 소통과 협력을 통해 더욱 발전된 미래 교육으로 나아갈 전망이다."
+ }
+}

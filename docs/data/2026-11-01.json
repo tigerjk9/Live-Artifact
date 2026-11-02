@@ -1,0 +1,433 @@
+{
+ "date": "2026-11-01",
+ "generated_at": "2026-11-02T11:55:21+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "【광화문 칼럼】세계 48위, 숫자가 보내는 경고 ... 교육부의 영어교육 '글로벌 교육정책의 민낯'",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1oQmcwV0JVbmhWSmFlbXhCaXQzMnl2ZTVmcm1jQVBER2RCREdlX3pSWWwwVFppUU53UVM3WVZqMFBYelBqXzZSbF81bzlabVBXQkcxQ3dmRGVuTDhONDlTcm4xQlJMUQ?oc=5",
+    "source": "코리아플러스",
+    "published": "2026-10-31",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [
+     "교육부"
+    ],
+    "summary": "세계 48위라는 낮은 순위는 교육부의 영어교육 정책이 표방하는 글로벌 교육의 실제 모습을 보여주는 경고입니다.",
+    "implication": "낮은 영어 성과 지표를 인지하고, 교실에서 학생들의 실제적이고 유의미한 영어 의사소통 경험을 확대할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "LGU+-교육부-티오리한국, AI·정보보호 영재교육원 교육과정 고도화 나선다",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2dmQtcFZ5c2hfMlhRc0lkVnVWejdKYU1TZWRlMDF0T25yci1QMFFfYVVIMkRMdGFhV1g2VDdaeVFZX0hCZUNUeFh6QzNTZjFDdjJJYzRFQU5XRi1wUDJZck1FaVMxTWhnQmZr?oc=5",
+    "source": "보안뉴스",
+    "published": "2026-11-01",
+    "keyword": "AI교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "LG",
+     "교육부"
+    ],
+    "summary": "LGU+, 교육부, 티오리한국이 AI·정보보호 영재교육원 교육과정 고도화에 나섭니다.",
+    "implication": "AI 및 정보보호 교육과정 고도화에 맞춰 관련 내용을 수업에 적극적으로 다룰 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[교육정책] 경기교육, 배움의 범위 넓힌다…탐구부터 마음 회복·안전까지",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBuemZPcU5FNmRabm5fU2stRkU0NThVdS1hYlYtTGNhQmtZRGZhN0dNQWFrY1VkZlhodDJpYzFMcEt6UWtzMlluV3hmUkNLNXAwaHlDelZHX0dPTXJVR3NwUzN6c3M?oc=5",
+    "source": "중도일보",
+    "published": "2026-11-01",
+    "keyword": "교육정책",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기교육 정책은 탐구, 마음 회복, 안전까지 아우르며 배움의 범위를 확대합니다.",
+    "implication": "수업에 탐구 활동, 학생 정서 지원, 안전 교육 요소를 더욱 적극적으로 통합할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "생성형 AI 경험률 60대 14% 그쳐…KT, 은퇴자 활용 AI 교육 확대",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RQm1OYThCZ3ltQTYwOGJURW9razcyWVNSWjZBczBmRXlIcF85UG9SQXV1STRrZUpSSDdMOXdub09KYjRJX05LWFZzM2J0U3FyS2d2MGhkSUlzU1RQdzYwOA?oc=5",
+    "source": "뉴스토마토",
+    "published": "2026-11-01",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "KT"
+    ],
+    "summary": "60대의 생성형 AI 경험률이 14%에 불과하여 KT가 은퇴자를 활용한 AI 교육을 확대합니다.",
+    "implication": "고령층의 AI 경험률이 낮다는 점을 참고하여, 수업에서 AI의 보편적 활용 가치를 강조할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "안민석 경기도교육감 “학생 질문·도전이 과학·수학교육의 중심”",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rQVlPOHFSbTNhempFVTNDNFFHUDhCVnV4QkFlRjgzX2RNOVlJTmdqU1hnaGNWYkc4TkpOdHNGUm9sb3Q2Q3cyZ3pmMjEzUGh1MkFUYkNDdFJ4NEFaVW5rQnhCRmZHZXgwTEJqNmhocF96ZnRzb2pzSmc0MA?oc=5",
+    "source": "비욘드포스트",
+    "published": "2026-11-01",
+    "keyword": "AI디지털도구",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "안민석 경기도교육감은 과학·수학 교육에서 학생들의 질문과 도전이 핵심이 되어야 한다고 강조했다.",
+    "implication": "학생들이 자유롭게 질문하고 도전하도록 유도하며 탐구 중심의 과학·수학 수업을 설계할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "인천시교육청, ‘읽걷쓰AI’ 국제 교육협력 기반 마련",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lellieUViOE9ZQ1hQUVByc1pxbGwzWHNRN2hYb2ZlN0JidHFDc1NsamJEajN5ODYwSzE5UlVMblAxc3I1aXB3clcxMFhyUk0ydmxzNjcwUkNfbWdVR3c1V1o3QmY?oc=5",
+    "source": "매일일보",
+    "published": "2026-10-31",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청이 ‘읽걷쓰AI’를 활용한 국제 교육협력 기반을 마련했습니다.",
+    "implication": "교사는 읽걷쓰AI 활용 방안을 모색하며, 다가올 국제 협력 기회에 대비하여 학생들을 지도할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "‘실제 기록원에 온 듯 생생’ 경남교육청 기록원 온라인 전시관",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0T3R6Q213MlhGYklPd0hpd0RmSHRxTHJ3V01SanhmXzhpUExBS0xpSUZkc3pwSG9KRkJNYVdybC1RVlJ6OG44R05uWXc4bHh6eGJHYXU1M3ExOHhjZmliZ0tlZFN2NDRMY0E?oc=5",
+    "source": "경남도민일보",
+    "published": "2026-11-01",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경남교육청"
+    ],
+    "summary": "경남교육청 기록원 온라인 전시관이 실제 기록원에 온 듯 생생한 경험을 제공하며 개설되었습니다.",
+    "implication": "학생들이 경남 지역의 역사와 문화를 생생하게 체험할 수 있는 온라인 학습 자료로 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "LGU+, AI시대 ‘보안 파수꾼’ 키운다…교육부·티오리와 맞손",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15YkVuaExqSXE4NmRVbUVKUnBPQjVJZFZkSGR6NXU4a3JoMm5JYzhZSlljN01JTFIzR3dOV01POTMwQ3VfOWdvNXJnWURVODktLW95SmM3YUVDYmYzSmhtUFN3?oc=5",
+    "source": "디지털데일리",
+    "published": "2026-11-01",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "LG",
+     "교육부"
+    ],
+    "summary": "LGU+가 교육부, 티오리와 협력하여 AI 시대의 보안 전문가를 양성합니다.",
+    "implication": "AI 시대에 필요한 보안 인재 양성을 위해 기업과 정부가 협력하는 사례로 소개할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "경남교육청, 민관 합동 통학로 안전 캠페인…어린이 교통사고 예방",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9HUWtoc1ZhaEUtQ3BQSDBoX3k3MW40bks2UFFwXzFic2hsZml5SllHM210dGNxZ1RTMEtiQkRVYVQ1YnBnaklMZm9GSnFwYVg5X2Jlbl9BOS1lWjR1RXotRHBlSQ?oc=5",
+    "source": "쿠키뉴스",
+    "published": "2026-10-31",
+    "keyword": "디지털교육",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [
+     "경남교육청"
+    ],
+    "summary": "경남교육청이 민관 합동으로 통학로 안전 캠페인을 전개하여 어린이 교통사고를 예방합니다.",
+    "implication": "이 캠페인을 통해 우리 학교 통학로의 안전 수칙을 다시 확인하고 실천할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "수능 앞둔 고3 만난 김대중 교육감…“실력 발휘하길”",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iRjhHR1pkUlFjMHRXZjREYm9kODU3UFJoZFNHTEN6SF9UeHZqaXRISUxEZXlqVWJfM3ZKSGxUdnFjdktHVHhfMWgwdmFzd2ExekJOQkw0c0VaNWxMdktsRjZOQmRuVkdOVjMzNDJrRQ?oc=5",
+    "source": "진일보 | 전남일보",
+    "published": "2026-10-31",
+    "keyword": "디지털교육",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [
+     "수능·대입"
+    ],
+    "summary": "김대중 교육감이 수능을 앞둔 고3 학생들을 만나 실력 발휘를 격려했다.",
+    "implication": "교육감의 격려처럼, 우리 반 학생들에게도 긍정적 메시지를 전달하여 실력 발휘를 도울 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "AI literacy as a core component of AI education",
+    "url": "https://www.semanticscholar.org/paper/18fbb8fcfd5ac004c1392a3bcd644ab1e82fb0d8",
+    "source": "semantic_scholar",
+    "published": "2025-06-01",
+    "keyword": "AI education",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [
+     "AI 리터러시"
+    ],
+    "summary": "이 논문은 AI 교육의 기술적 초점을 넘어 사회-기술적 AI 리터러시 프레임워크를 기반으로 입문 AI 교육 과정을 설계하여, 모든 학생이 비판적이고 책임감 있는 AI 활용 능력을 갖추고 윤리적 AI 미래를 형성하도록 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Sri Yash Tadimalla, Mary Lou Maher",
+    "pdf": "https://doi.org/10.1002/aaai.70007"
+   },
+   {
+    "n": 2,
+    "title": "Use of AI in Developing English Speaking Skills: Bangladeshi Undergraduate Students’ Perceptions",
+    "url": "https://doi.org/10.3329/spectrum.v19i1.94335",
+    "source": "openalex",
+    "published": "2026-10-29",
+    "keyword": "Connectivism",
+    "topic": "language",
+    "kind": null,
+    "entities": [
+     "AI 리터러시"
+    ],
+    "summary": "방글라데시 학부생 대상 혼합 연구 결과, AI가 영어 말하기 능력 향상에 효과적이지만 인간적 요소의 한계도 있어, 교육 과정에 AI 리터러시 및 AI 기반 학습 도입이 필요함을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Tashrifa Fairuz",
+    "pdf": "https://www.banglajol.info/index.php/Spectrum/article/download/94335/60626"
+   },
+   {
+    "n": 3,
+    "title": "The Landscape of Teaching Resources for AI Education",
+    "url": "https://www.semanticscholar.org/paper/bb90bfd7e7fde04bac8830ec94e931951517dcb4",
+    "source": "semantic_scholar",
+    "published": "2022-07-07",
+    "keyword": "AI education",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 AI 교육 자원의 기술적-교육적 적합성을 TPACK 프레임워크로 체계적 분석하여, 현재 자원들이 평가 및 지도 지원이 부족함을 밝히고 포괄적인 교육과정 설계를 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Stefania Druga, Nancy Otero 외 1명",
+    "pdf": "https://dl.acm.org/doi/pdf/10.1145/3502718.3524782"
+   },
+   {
+    "n": 4,
+    "title": "Empowering Physical Education Teachers: AI-Driven Personalized Learning in Schools",
+    "url": "https://hdl.handle.net/10446/336865",
+    "source": "openalex",
+    "published": "2026-10-30",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "이 논문은 이탈리아 청소년의 낮은 신체 활동 문제를 해결하고자 AI 기반 개인화 학습으로 UDL과 ZPD를 활용한 사선형 교수법을 제안하여 체육 교사를 역량 강화하고 학생들의 장기적인 참여와 교육적 형평성을 증진합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Silvia Sangalli, Alessandro Cudicio 외 1명",
+    "pdf": "https://aisberg.unibg.it/bitstream/10446/336865/1/REN_2026_Sangalli%20et%20al..pdf"
+   },
+   {
+    "n": 5,
+    "title": "Implementasi Computational Thinking (CT) dalam Mata Pelajaran Informatika/TIK di SMP",
+    "url": "https://doi.org/10.56910/pustaka.v6i4.4053",
+    "source": "openalex",
+    "published": "2026-10-30",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 체계적 문헌고찰을 통해 중학교 정보/ICT 수업에서 스크래치, 언플러그드 활동, 협력 학습 등 다양한 컴퓨팅 사고력(CT) 구현 방식이 인지 학습, 알고리즘 이해, 창의성 향상에 효과적임을 밝혀 교사들의 교육 전략 설계에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Muhammad Raihan Raffi, Az-Zahra Nur Ramadan 외 1명",
+    "pdf": "https://jurnal-stiepari.ac.id/index.php/pustaka/article/download/4053/2906"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "구글 \"AI 경제 혁명, 똑똑한 모델보다 협력하는 에이전트가 이끈다\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216855",
+    "source": "AI Times",
+    "published": "2026-11-01",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "에이전트"
+    ],
+    "summary": "AI 생태계는 개별 모델 성능 경쟁을 넘어, 상호 협력하는 다중 에이전트 시스템 구축 및 설계에 집중할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "삼성 사장단 50명 만난 알트먼 \"AI 활용 속도가 기업 경쟁력 결정\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216852",
+    "source": "AI Times",
+    "published": "2026-11-01",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "삼성",
+     "OpenAI"
+    ],
+    "summary": "AI 기술 생태계는 기업의 단순한 AI 도입을 넘어, 신속한 비즈니스 모델 통합과 활용 능력이 산업 경쟁력을 결정할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "중국 GPU, 엔비디아 H200과 성능 대등 주장…AI 추론서 일부 앞서",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216844",
+    "source": "AI Times",
+    "published": "2026-10-31",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "GPU·데이터센터",
+     "NVIDIA"
+    ],
+    "summary": "중국 GPU의 성능 급부상은 AI 칩 시장의 경쟁을 심화시키고 공급망 다변화를 촉진하여 글로벌 AI 기술 생태계에 지각변동을 가져올 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "알트먼 \"AI 수학 연구에 수억달러 투입…공개 안 한 성과도 많아\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216850",
+    "source": "AI Times",
+    "published": "2026-10-31",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "알트먼의 대규모 AI 수학 투자는 AI의 근본적 성능 한계를 돌파하고 선도 기업의 독점적 기술 우위를 확고히 할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "한국인 챗GPT 활용, 문서 편집 1위 유지…시각 자료 제작 1년 새 2배",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216834",
+    "source": "AI Times",
+    "published": "2026-10-31",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "AI는 문서 편집을 넘어 시각 자료 제작까지 활용이 급증하며, 생산성과 창작 영역 모두에서 필수적인 AI 기술 생태계의 성장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "구글, 우주 데이터센터 위성에서 첫 AI 추론 성공…시 생성해 지구 전송",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216837",
+    "source": "AI Times",
+    "published": "2026-10-31",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Google",
+     "GPU·데이터센터"
+    ],
+    "summary": "구글의 우주 AI 추론 성공은 AI 컴퓨팅 영역을 우주 엣지로 확장하여, 초저지연 실시간 데이터 처리 및 우주 산업을 포함한 새로운 AI 서비스 생태계 구축을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "머스크, 놀란에 맞서 AI판 '오디세이' 공개…평가 엇갈려",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216851",
+    "source": "AI Times",
+    "published": "2026-10-31",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "xAI"
+    ],
+    "summary": "머스크의 AI판 오디세이 공개는 AI가 기술 생태계에서 실용성을 넘어 존재론적 탐구로 확장될 가능성과 방향성 논쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+    "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+    "source": "OpenAI Blog",
+    "published": "2026-10-27",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Oracle",
+     "ChatGPT"
+    ],
+    "summary": "오피니언: OpenAI의 Oracle 파트너십 확장은 AI 모델 운영을 위한 고성능 컴퓨팅 수요 증대와 클라우드 인프라 시장 경쟁 심화를 예고합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "[\"AI가 모든 걸 삼켰다\"…LP들은 왜 OpenAI·Anthropic에 몰리면서도 '옐로우 라이트'를 켜나] 업계 전문가들은 조달 주기 단축과 펀드 규모 확대가 신중해야 할 '옐로우 라이트' 신호",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9FaUtHYk9IVUZmTzJTNDJYZGlVLTBTenRzZE9STWZFNFNrOHN5MXAzT05pWXFpMUJlNjhaSFBWdFY?oc=5",
+    "source": "AI넷",
+    "published": "2026-10-31",
+    "keyword": "Anthropic",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Anthropic"
+    ],
+    "summary": "AI 투자 집중 속 조달 주기 단축과 펀드 규모 확대는 AI 기술 생태계의 건전한 성장을 위해 신중한 접근이 필요함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "일론 머스크, 채식주의자 AI CEO OpenAI CEO 샘 올트먼, Alphabet CEO 순다르 피차이, Anthropic CEO 다리오 아모데이에 ‘스테이크와 달걀’로 응수",
+    "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxObnhPLWNZVDlYSGJJdFROZmhOblo4dXJfLTZrQVVyYU1xM25mYUNfM0JlUkUzbkZTbTZVUDNGWTZKbURmZUI5TnYxY2ZxdlVTN08zbjhFYS1najYzY1Z0RmZEQzRMT1hPYk9TbFdxXzRwRkg3TnA4Nk91cmIyZ0t5VmJpa1BCdG8xZUlZNGRTMVNVcGtFSnhQdnhRbXBxaktoTS1UVWNhYi1TcG1LLTdVbmd4dk9tTUUyLVowMy14cUR0UVZfZk4wQ25CWGV2aXlUd0h4OEtQaEdZS3I3emxBOHZsYThBZFhvc2dwUkhjV19uXzhkRmhBajJfRVNMWnFyb0s4T1dYUWgyRG5KcFNTeHVyUnY5cFVCbmlQQ3FBMDcxVVNCOVE?oc=5",
+    "source": "Martin Cid Magazine",
+    "published": "2026-10-31",
+    "keyword": "Anthropic",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "xAI",
+     "OpenAI",
+     "Google",
+     "Anthropic"
+    ],
+    "summary": "일론 머스크의 도발은 AI 선도 기업들의 상이한 개발 철학과 비전 간의 경쟁적 긴장을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

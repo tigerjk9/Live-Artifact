@@ -1,0 +1,421 @@
+{
+ "date": "2025-12-03",
+ "generated_at": "2026-11-02T11:48:36+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[이정열 칼럼] 고교학점제, 파편화된 선택 .. 적성이라는 이름의 허상",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=21468",
+    "source": "에듀프레스",
+    "published": "2025-12-02",
+    "keyword": "",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [
+     "고교학점제"
+    ],
+    "summary": "고교학점제가 학생들의 학문적 균형 발달을 저해하고 파편화된 교육을 심화시켜, 심층적인 제도 보완이 시급합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "교보생명 ‘3세 경영’ 가동…‘디지털·글로벌’ 성과로 새 판 짠다",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDQ1NHWERlQ1Z5LWtOMzZYN3V2d2FvdXY2WjJhSWJlNEpPcTJCT3l5ZExBdVRXNi0zZFZIb1ZNald4aWhfX21fakQ3Rk9VcmRyTW5FeTQ0NnRqUjdXSmFVUTlnSzZqa3Y3b2JjS0lvRkV1Zw?oc=5",
+    "source": "오피니언뉴스",
+    "published": "2025-12-02",
+    "keyword": "디지털전환",
+    "topic": "global",
+    "kind": null,
+    "entities": [],
+    "summary": "교보생명의 디지털·글로벌 중심 경영 전환은 교육계에도 디지털 교육 혁신과 국제 경쟁력 강화의 중요성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[칼럼] 멈춤의 힘 : 아무것도 하지 않을 때 뇌는 가장 바쁘다",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBXU2Z4eGV2LXFjaTdCdjZ2NDEwQUdfVlhBVE1MSE9NYUZRUzZkLU9WZURwZldVbU9KS2w1a2RnYzlYN01lMW5IMU1vbzg?oc=5",
+    "source": "한국AI부동산신문",
+    "published": "2025-12-02",
+    "keyword": "뇌과학",
+    "topic": "teacher",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "교사들은 학생들에게 의도적인 '멈춤'의 시간을 제공하여 창의적 사고력과 문제 해결 능력을 향상시키는 교육 방식을 고려해야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[단독] [2026고입잣대] ‘기숙사 운영’ 수도권 후기고 136개교 ‘주목’..한민고 1120명 '최다' 외대부 인천하늘 명덕외 청심국제 톱5",
+    "url": "http://www.veritas-a.com/news/articleView.html?idxno=586573",
+    "source": "베리타스알파",
+    "published": "2025-12-02",
+    "keyword": "",
+    "topic": "global",
+    "kind": "opinion",
+    "entities": [
+     "사교육"
+    ],
+    "summary": "기숙사 운영은 사교육 의존도를 낮추고 학교 교육에 집중하는 환경을 조성하여 공교육 경쟁력 강화에 기여할 수 있다는 점을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[교육칼럼] 유아교육 공공성 강화",
+    "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2242872",
+    "source": "대전일보",
+    "published": "2025-12-02",
+    "keyword": "",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "유아교육 공공성 강화는 생애 초기 단계의 교육 불평등 해소와 전인적 성장 지원을 위한 필수적인 투자 확대의 필요성을 강조합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "전남대 송주현 교수, 뇌과학을 예술로 확장",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ySzU0cUR0bXVmYjJmZUV1QTJNWUxWU25uRW84YWJsZkNCREdUcmRqQURCZlpaeGFLeTgwS1BQcl9nWGtTTXFYTGxVQnJoQ3FhSUtKdUJB?oc=5",
+    "source": "위키트리",
+    "published": "2025-12-02",
+    "keyword": "뇌과학",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [],
+    "summary": "뇌과학과 예술의 융합은 학생들의 창의적 사고력과 문제 해결 능력 향상을 위한 교육 콘텐츠 개발 및 융합 교육 활성화에 기여할 수 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "[수업혁신 실천 교수들] 프롬프트 리터러시, 국영수만큼 중요하다",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YaFhydVdvME5DcDF4UXhFbzhHc28tLTNzNjBXR182OUFFcGFSTnRPU3VadklGWEg0TnFLWXpRVG4wT0xhTTIwX290d013VExHMWZlaktDaEJ6S19XeHJaWkd3Zkg3MTQ?oc=5",
+    "source": "교육플러스",
+    "published": "2025-12-02",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 시대에 프롬프트 리터러시는 학생들의 비판적 사고 및 문제 해결 능력 함양에 필수적인 핵심 역량으로 자리매김할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "경기도교육청, 디지털 기반 교육환경 조성·역량 배양 전국 평균 상회",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE03X2ZpS0ZoWFFZVmRFTVB2TjA2TDAzNFpZeEQtY3NOd09ZTXpqWDZxamVSdjFmSlFfSU1ILU9UUnVPTEdGamNtNFlqWmpKRkRwb3pIRERBOUEzLTB5RG5KLTBjb0tvak1qclhz?oc=5",
+    "source": "퍼블릭뉴스통신",
+    "published": "2025-12-02",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청의 디지털 교육 환경 조성 및 역량 배양 성과는 전국적인 디지털 교육 격차 해소에 긍정적인 시사점을 던져줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "교육부, 미래 세대를 위한 교육 공적개발원조(ODA), 국제 교육 협력의 길을 함께 열다",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0wRTFOTlA0MmxlUnA4MlFGUTR6ZUJTN2NFeUJmeWhpLWpaNXBEenAzQWwtbzYzTTJTUk1CQ2VPMDk4eEtfUUN2NlIzTGNZcUZoZkp2TUlHTmY3bjlSeW96TlBhQQ?oc=5",
+    "source": "대한민국교육신문",
+    "published": "2025-12-02",
+    "keyword": "디지털교육",
+    "topic": "global",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "교육 ODA 확대는 미래 세대에게 국제적 연대 의식 함양과 교육 불평등 해소에 기여할 수 있는 중요한 발걸음입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "경기도의회 전자영 의원 “경기도교육청 재정 여건 어렵다더니… 부서별 쌈짓돈 135억 편성” 질타",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5QSVloWXJUVFBRV21xV1YzdzBPTy1TakRvQTh1N1dRdnBKMm1CLUNnSVdtLTAtZWp6WGwtcjFFeFF4QzVzNnZvOExzUmxKY2dBcmJBSDJ5UUJCbjkwdEpydFhCOA?oc=5",
+    "source": "경기탑뉴스",
+    "published": "2025-12-02",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청의 예산 운영 투명성 강화와 효율적인 재정 배분을 통해 교육 현장의 불필요한 오해를 해소하고 신뢰를 구축해야 합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "High schoolers excel at Oxford quantum course using pictorial mathematics",
+    "url": "http://arxiv.org/abs/2512.00141v1",
+    "source": "",
+    "published": "2025-11-28",
+    "keyword": "K-12 education",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "고등학생들을 대상으로 양자 그림 수학을 활용한 옥스포드 양자 교육 과정에서 높은 성과를 보여, 양자 학습에 대한 인지적 장벽을 낮추고 교육적 접근성을 높여 양자 분야 참여 확대를 기대하게 합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Bob Coecke', 'Aleks Kissinger' 외 13명",
+    "pdf": "http://arxiv.org/pdf/2512.00141v1"
+   },
+   {
+    "n": 2,
+    "title": "Proactive Agentic Whiteboards: Enhancing Diagrammatic Learning",
+    "url": "http://arxiv.org/abs/2512.01234v1",
+    "source": "",
+    "published": "2025-12-01",
+    "keyword": "",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "DrawDash는 음성 기반으로 교육용 다이어그램을 자동 완성하고 개선하여 강사의 인지적 부담을 줄이고 학습 효과를 높이는 AI 보조 도구로, 실시간 시각 자료 지원을 통해 교육 혁신에 기여할 수 있습니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Suveen Ellawala', 'Sashenka Gamage' 외 1명",
+    "pdf": "http://arxiv.org/pdf/2512.01234v1"
+   },
+   {
+    "n": 3,
+    "title": "Exploring Student Interactions with AI-Powered Learning Tools: A Qualitative Study Connecting Interaction Patterns to Educational Learning Theories",
+    "url": "http://arxiv.org/abs/2512.00519v1",
+    "source": "",
+    "published": "2025-11-29",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "이 연구는 학생들이 ChatGPT, Grammarly, Khan Academy 같은 AI 학습 도구와 상호작용하는 방식을 관찰하고, 행동주의, 인지주의 등 학습 이론과 연결하여 피드백, 인지적 스캐폴딩 등의 주요 테마를 도출, 효과적인 AI 기반 학습 환경 설계를 위한 실질적인 시사점을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Prathamesh Muzumdar', 'Sumanth Cheemalapati']",
+    "pdf": "http://arxiv.org/pdf/2512.00519v1"
+   },
+   {
+    "n": 4,
+    "title": "PEOAT: Personalization-Guided Evolutionary Question Assembly for One-Shot Adaptive Testing",
+    "url": "http://arxiv.org/abs/2512.00439v1",
+    "source": "",
+    "published": "2025-11-29",
+    "keyword": "K-12 education",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문에서는 대규모 평가나 심리 평가 등에서 발생하는 상호작용 비용 문제를 해결하기 위해, 수험자의 능력과 문항 난이도 차이를 고려한 개인 맞춤형 진화 알고리즘(PEOAT)을 통해 최적의 문항 세트를 한 번에 선택하는 One-shot 적응형 시험 방식을 제안하여, 교육 분야의 효율적인 평가 시스템 구축에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Xiaoshan Yu', 'Ziwei Huang' 외 4명",
+    "pdf": "http://arxiv.org/pdf/2512.00439v1"
+   },
+   {
+    "n": 5,
+    "title": "Tracing Mathematical Proficiency Through Problem-Solving Processes",
+    "url": "http://arxiv.org/abs/2512.00311v1",
+    "source": "",
+    "published": "2025-11-29",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [
+     "LLM",
+     "개인화 학습"
+    ],
+    "summary": "본 논문은 학생의 문제 해결 과정을 활용하여 수학적 숙련도를 추적하고, 교사-학생-교사 LLM 파이프라인 기반의 StatusKT 프레임워크를 통해 지식 추적 성능을 향상시키고 해석 가능한 설명 제공하여 맞춤형 교육에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Jungyang Park', 'Suho Kang' 외 5명",
+    "pdf": "http://arxiv.org/pdf/2512.00311v1"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "블랙 포레스트 랩스, 기업 가치 4.8조로 4400억 모금...독일 대표 AI 스타트업으로 부상",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204439",
+    "source": "AI Times",
+    "published": "2025-12-02",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "영상·이미지 생성",
+     "생성형 AI"
+    ],
+    "summary": "블랙 포레스트 랩스의 성공적인 투자 유치는 이미지 생성 AI 기술의 성장 가능성을 입증하며, 관련 시장 경쟁을 더욱 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "ChatGPT 및 OpenAI API 다운: 보고서는 이번 화요일에 불안정성을 지적합니다(2)",
+    "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOVlM5MU41VUY2UFlJb2NTVk1vSVB6UnBuc285Q3RnVGNQZ1EzdHRab3BxSGtnUXdJVWY1aU5PeFRla2ljeE95V2xZLTFZR1ZpYUZEUHplU3RWTGVrT3pLMnliWlZxQjM5R2luZ2FvMVJhVzJvaU85QkJvQXhENkJicElFeG40d3VfazUwRnRYbERPeWJMWkxEbG5vOUZiLXN2YlZkYUhEc1hOZjlFSmdOQ3R3R0NlN1Bta0pscW1oVS1UelNzYldYaVpjYWVyVWVYSWVqdG1HSmhrT0JRY01ORUJvNjA0cGJ5YlJaZl9weUpESjRMa1BxWFk4c0dnSDdxa19XZU56MVBEal9KWU9Dc3VqQU1ZdEZMcW1pTzZCNi1OODNVOEZaR3hqMnJlMDUtQ25FQjhNa01SRC1XYnc5dUJlanJWdm9UUzZaUHRtNFp3MDlYckxFRGNXa0NpWnfSAd8CQVVfeXFMTlZTOTFONVVGNlBZSW9jU1ZNb0lQelJwbnNvOUN0Z1RjUGdRM3R0Wm9wcUhrZ1F3SVVmNWlOT3hUZWtpY3hPeVdsWS0xWUdWaWFGRFB6ZVN0Vkxla096SzJ5YlpWcUIzOUdpbmdhbzFSYVcyb2lPOUJCb0F4RDZCYnBJRXhuNHd1X2s1MEZ0WGxET3liTFpMRGxubzlGYi1zdmJWZGFIRHNYTmY5RUpnTkN0d0dDZTdQbWtKbHFtaFUtVHpTc2JXWGlaY2FlclVlWEllanRtR0poa09CUWNNTkVCbzYwNHBieWJSWmZfcHlKREo0TGtQcVhZOHNHZ0g3cWtfV2VOejFQRGpfSllPQ3N1akFNWXRGTHFtaU82QjYtTjgzVThGWkd4ajJyZTA1LUNuRUI4TWtNUkQtV2J3OXVCZWpyVnZvVFM2WlB0bTRadzA5WHJMRURjV2tDaVp3?oc=5",
+    "source": "Mix Vale",
+    "published": "2025-12-02",
+    "keyword": "AI도구",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "OpenAI"
+    ],
+    "summary": "ChatGPT 및 OpenAI API 불안정성은 AI 서비스 안정성 확보와 인프라 투자 중요성을 부각하며, 기업의 신뢰도 하락 및 사업 확장에 부정적 영향을 미칠 수 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "中 딥시크, 신형 AI모델 공개…“GPT-5급 성능·제미나이3 프로와 유사”",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84Z3ctTGhadENJZzZCTmNEeWZ2Q2dKQ3YzTmliWlhGZmhobzZJTjZYcVhILXJvRlpMN3hIV2d0ZXRNSzhoVTl5a3pFQUFSUTlmX3lPNU1Kbw?oc=5",
+    "source": "헤럴드경제",
+    "published": "2025-12-02",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "DeepSeek",
+     "ChatGPT",
+     "Gemini"
+    ],
+    "summary": "중국 딥시크의 새로운 AI 모델 공개는 미국 중심의 AI 기술 경쟁 구도에 균열을 내고, AI 기술 주도권 경쟁 심화를 예고하는 신호탄입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "AI 콘텐츠도 귀여우면 괜찮아...SNS에 'AI 동물' 콘텐츠 열풍",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204442",
+    "source": "AI Times",
+    "published": "2025-12-02",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 콘텐츠가 감성적 요소를 통해 대중성을 확보하고 마케팅 활용 가능성을 보여줌으로써, AI 기술의 진입 장벽을 낮추고 새로운 비즈니스 모델 창출에 기여할 수 있다는 점을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "광주, AI 기업과 NPU 컴퓨팅센터 유치 나서",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204453",
+    "source": "AI Times",
+    "published": "2025-12-02",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "GPU·데이터센터"
+    ],
+    "summary": "광주의 NPU 컴퓨팅 센터 유치는 AI 반도체 경쟁력 강화와 지역 AI 기술 생태계 활성화에 기여할 중요한 발판이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "수학·코딩 넘어 '실제 작업' 위한 에이전트 강화 학습법 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204402",
+    "source": "AI Times",
+    "published": "2025-12-02",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "코딩 AI",
+     "에이전트",
+     "LLM"
+    ],
+    "summary": "Agent-R1은 LLM 에이전트의 실제 작업 수행 능력을 강화하여 산업 자동화 및 서비스 혁신을 가속화할 가능성이 높습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "[구글, '당신을 더 잘 아는 AI'로 검색의 미래를 그리다. 개인화된 Gemini AI, 혁신과 감시의 경계에 서다] AI가 개인 데이터를 학습할수록, 유용한 서비스와 침해적 감시의 경계가 모호해질 가능성",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBQV2UtV1BjQUhoODR5Snk0dWRlblFoeEw4bnEtMTZzbGZMNGZpTi1CdkEzSVl1dmFBdUpxTDZBZ0E?oc=5",
+    "source": "AI넷",
+    "published": "2025-12-02",
+    "keyword": "구글",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Google",
+     "개인화 학습",
+     "Gemini",
+     "AI 검색",
+     "AI 안전·규제"
+    ],
+    "summary": "개인 맞춤형 AI 검색은 사용자 편의성을 높이지만, 데이터 프라이버시 침해 우려와 AI 윤리적 감시 문제에 대한 심도 깊은 논의가 필요합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "칭화대, 대학 전반의 AI 활용 규율하는 첫 ‘AI 교육·연구 지침’ 발표…글로벌 대학 AI 가이드라인 본보기 될까",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52MS1sb1ZsVzdnd1RtazFpWllON2hpV2NGWjZDNkxHX2t2eGxQRHp0REVrbVc5UDlpVTFhWF9oeXdoN2JMeGpTSDNiU18ySzVyWktPQ1JsT3Y4LW5seVZzYXZUNFhWMUE?oc=5",
+    "source": "인공지능신문",
+    "published": "2025-12-02",
+    "keyword": "AI연구",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [],
+    "summary": "칭화대의 AI 지침은 대학의 AI 연구윤리 및 교육 방향성을 제시하여, 향후 글로벌 AI 표준 정립에 중요한 영향을 미칠 수 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "구글 '제미나이3'에 챗GPT 아성 흔들…알트만 CEO, 전 직원에게 '코드 레드' 선언",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVRzJNbDF2cHNyTkI1aDhDY2ZUckdEUFN6WDc3TmFrZ0tUNmdxWTNxMW1BY29HSHUzckV0RWRsaVJRa1Y5dXJNUnctelp3NjJqLXQxcFBoaWh3VENJbDFRcTUxNi02cUNTbVB4QVBn0gFyQVVfeXFMTmF5clJDeGdhajE5Y3Jsd2h5dm5pLTczc3VZX2Y3UUxlVnVyR1JqdVVYOXJXRWJUbExQb2xJSGU0N2VxMWNVbGdhZkprT1RlNENkTHA3YmRPYWxsdDdtMUNVNDJIQmJHSEs1RVNhLVZLV2lR?oc=5",
+    "source": "AI포스트",
+    "published": "2025-12-02",
+    "keyword": "GPT",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Gemini",
+     "ChatGPT",
+     "OpenAI"
+    ],
+    "summary": "구글 제미나이3의 등장은OpenAI에게 위협이 되며, AI 기술 경쟁 심화와 동시에 산업 전반의 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "토스, 세계 최고 권위 AI 학회에 연합학습 최적화 연구 논문 등재",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JQmhqTk5NeVpHYUJkcS1QRGtreUdjQ3RPVk15c29RbFN2bnU2bm9HeVQtZUpaSjA1czhXeXBhMUsyaWphZ3AzM0NRaXdHdjNxNlBOaEgxRnBJZmZT0gFeQVVfeXFMTWR1dnVqdHhkMnpPYmR1alF2emFLWE9YcVlMbUU0S0JIX3BpRDFuejN1eTlpc2FFczVKNTVOdlBZMVIxNmw1WXAtMDNWcWFLRDFYbGdFNEhfTkRjVVhBQQ?oc=5",
+    "source": "뉴스핌",
+    "published": "2025-12-03",
+    "keyword": "AI연구",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "토스의 AI 학회 논문 등재는 금융 서비스의 연합학습 기술 경쟁력 강화와 개인 정보 보호를 위한 새로운 가능성을 제시합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 시대, 디지털 기반 교육 환경 조성과 미래 교육 ODA 확대 속에 고교학점제 및 유아교육 공공성 강화 논의가 활발하며, 프롬프트 리터러시 교육의 중요성이 부각되는 등 교육 혁신을 위한 다각적인 노력이 이루어지고 있다.",
+  "tech": "AI 기술 경쟁이 심화되는 가운데, 기업 투자 유치, 모델 성능 향상, 실제 작업 적용, 윤리적 가이드라인 수립 등 AI 생태계 전반이 빠르게 확장 및 발전하며 미래를 향해 나아가고 있다!"
+ }
+}

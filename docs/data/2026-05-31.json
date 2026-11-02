@@ -1,0 +1,413 @@
+{
+ "date": "2026-05-31",
+ "generated_at": "2026-11-02T11:37:26+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "충북교육청, (가칭)충북AI교육연구센터 설립 사업 본격화 > 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUWEE3SUVGSWJOLTllbDZqSmR4VUFNdGk5enM4NVJwOWZ3UWh1R2R0anpwSXRwbDRiQmc0OWN3Qjl4bXkzcHhqeFIxODBRV0w3aEJVRFU5RVZoa3VtbWRNdnpVQ0RFTWpxR3FEM244a1k?oc=5",
+    "source": "더코리아",
+    "published": "2026-05-30",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충북교육청"
+    ],
+    "summary": "충북교육청이 충북AI교육연구센터 설립을 본격적으로 추진하여 AI 교육 연구 기반을 마련할 예정입니다.",
+    "implication": "교사들은 AI 교육 연구센터 설립으로 AI 활용 수업 자료 개발 및 연수 기회 확대를 기대해 볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "AI시대 교육·입시는?…교권 '강화', 정치기본권 '이견'[교육감 공약 톺아보기①]",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGMWs4eUw5UWtIOWlzYWlaX2lZMEhabWpTQlJXZF92azZzUnBXWFFIc00wQVdrSC1Oem9OekY2VTkwWG12Zi1Bd1R1ZXlzTkZYaFFFbkZSTGItZ9IBXkFVX3lxTFA2dWFZZ2R5R1pwVUdCNmd6cjlOWHNZNTNBVVNITTY2bnNUUzY3OWN1TUpORU9rY0FsdDd6TUNNNUJTSDVaalJnYk5yek5YRXg2X1NTUXR6TXAzbmxXb2c?oc=5",
+    "source": "구글 뉴스",
+    "published": "2026-05-29",
+    "keyword": "",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "수능·대입",
+     "교권"
+    ],
+    "summary": "AI시대 교육 및 입시 방향과 교권 강화, 정치기본권에 대한 이견 등 교육감 공약의 주요 내용을 다룬 기사입니다.",
+    "implication": "AI시대에 맞춰 교육과정을 재구성하고 학생들의 비판적 사고 능력 함양을 위한 수업 방식을 고민해볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "김은나 더불어민주당 충남도의원 후보(천안 쌍용1·2·3동) “현실 모른 공약”… 교육정책 이해는 했나?",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBweHZHUFBSYlRsVmszYUNhRU1BMjVaa3E1cll0em1yWkplTE5yM0RvNXJTRHQ1TFFSeTRFemstUHdqeWtUQm1ZT0JSM29jZFFya3FuN0JhM01qQTJsQm54SzdXOG9TdG1raUE?oc=5",
+    "source": "도민연합뉴스",
+    "published": "2026-05-30",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "김은나 더불어민주당 충남도의원 후보의 교육 공약이 현실을 모른다는 비판이 도민연합뉴스에 제기됨.",
+    "implication": "교육 정책 관련 공약이 현장과의 괴리를 보일 수 있음을 인지하고, 학생 중심 교육을 위한 정책이 우선시되어야 합니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "인천시교육청교육연수원, ‘읽걷쓰 공존교육’ 연수 운영",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBlNGdnbEZ3dllENVhSaUk2aWk1aXlkVmNaS2FuZUt1a2VZS1Nnb2xJR0QxX2RKSlRXaVhBdS01Y1pIUkVDenN2MzlGNnI?oc=5",
+    "source": "한국AI부동산신문",
+    "published": "2026-05-30",
+    "keyword": "인공지능교육",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청교육연수원에서 ‘읽기, 걷기, 쓰기’를 융합한 교육 연수를 운영한다.",
+    "implication": "읽기, 걷기, 쓰기를 묶어 교실 밖에서 학생 활동 중심으로 국어 수업을 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "장흥군, 직원 ‘생성형 AI 플랫폼 활용 교육’ 실시",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZSFoxZkFpSzFzUGMzQ0RIZHRoQnFqU2FPbnZBbXl4ZTdsSDBzQVlURXBuN2pEOTRCakFxTldQZEFuUWxlZEppSWxBOGR4dFprVW9pTzdpd1lHWHNEbUM1MnZ2RFJETkRJeWc?oc=5",
+    "source": "전남인뉴스",
+    "published": "2026-05-30",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "장흥군청 직원을 대상으로 생성형 AI 플랫폼 활용 교육이 실시될 예정입니다.",
+    "implication": "교사도 AI 활용 연수를 통해 학생 과제 평가나 수업 자료 제작에 AI를 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "[AI 클로즈업] AI 에이전트 전환은 빠른데 '무검토 배포' 위험 증가",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LUk91MXBQN2RvcTNHMHhRTnpQWkZrcWtGYjE4NmRFdERTakhiano0WDBzVjlxY2pjSHB6eF9Fal9fNk9qWW5FQ3hMOWprWnNkT2xJ?oc=5",
+    "source": "네이트",
+    "published": "2026-05-30",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "AI 에이전트 도입이 빠르게 확산되면서 검토 없이 배포되는 사례가 늘어 위험성이 커지고 있다는 내용입니다.",
+    "implication": "수업에 AI 에이전트를 활용할 때, 교육적 효과와 잠재적 위험성을 꼼꼼히 검토하고 적용해야 합니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "충남교육청, 제1회 추경 예산안 5조 1,193억 원 편성 > 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBENjZhMVo5akVnbHYyVWNnVS1uY0ltbmRVZk90RXM1SGRfdjJqVlJCRmRoYTI3LTNRRzZsOHhodDI0ckhpLXJiSzQ1aXJYMVNTWFNMNTVhNV8zV0VicHgxQUU2VEJPWDluR2hKR1d4bVU?oc=5",
+    "source": "더코리아",
+    "published": "2026-05-30",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "충남교육청이 5조 1,193억 원 규모의 제1회 추가경정예산안을 편성했습니다.",
+    "implication": "학교 교육 환경 개선 및 교육 프로그램 지원 확대로 학생들에게 더 나은 교육 기회를 제공할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "CCBS 탐사보도 선거특집. 서울특별시교육감 류수노후보 심층 분석",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9xcElGcFZxeXV1WFMyVzZ6ZlFxdkpGUF9uN1V5WkhLMUhiRzF0SW4wQ2hUZFJyR0NwNWViVGxWa2E3R2N4em0yX3ZDOGc?oc=5",
+    "source": "브랜드경제신문",
+    "published": "2026-05-30",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "서울시교육청"
+    ],
+    "summary": "CCBS 탐사보도에서 서울특별시교육감 류수노 후보를 심층 분석한 선거 특집 기사가 브랜드경제신문에 실렸습니다.",
+    "implication": "류수노 후보의 교육 정책을 비판적으로 검토하고 학생들의 다양한 관점을 반영하는 토론 수업을 진행할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "전북디자인센터, 생성형 AI로 디자이너 실무역량 높인다",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fakRpdU9EN2g5MWZ0SFY3aGxDRDBHSmhVTENlZFJPUE1FNHhaZWNIc0xkSnFBTlU1NnZBQnQ3a3RBX1VkSGF3UlBBaGdrdG1jdUtqeg?oc=5",
+    "source": "이투데이",
+    "published": "2026-05-30",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "전북디자인센터가 생성형 AI를 활용하여 디자이너들의 실무 역량 강화를 지원한다.",
+    "implication": "디자인 수업에서 생성형 AI 도구를 활용해 학생들의 창의적 아이디어 발상 및 디자인 제작 과정을 향상시킬 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "충북교육청, AI로 청렴 상담 서비스 ‘청담’ 시작",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90Q1BlUlFONzBVUlJsMWJvSk1jbkZSVlBKTnYyaTBZNEQ1RmRuWGZobTFoOHlBaGlOZzVmQnRmV1l3TUk5YURuazNGUnhEZlduUFJCQm56ajVadw?oc=5",
+    "source": "브릿지경제",
+    "published": "2026-05-30",
+    "keyword": "AI교육",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [
+     "충북교육청"
+    ],
+    "summary": "충북교육청이 인공지능 기반의 청렴 상담 서비스 '청담'을 시작하여 교육 현장의 청렴도 향상을 도모합니다.",
+    "implication": "교사도 '청담'을 통해 익명으로 청탁이나 갑질 관련 고민을 털어놓고 솔직한 조언을 얻을 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Developing AI-enhanced workforce skills in EFL education: integrating TPACK-oriented models for professional success",
+    "url": "https://doi.org/10.3389/feduc.2026.1783236",
+    "source": "openalex",
+    "published": "2026-05-29",
+    "keyword": "SEL education",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "인도네시아 영어 예비 교사들을 대상으로 AI 기반 교육 환경 변화에 발맞춘 TPACK 기반 교수 모델 개발 필요성을 분석하고, 플립러닝, 탐구 학습, 기술 통합을 제안하여 미래 교육 환경에 대한 교사 준비성을 강화해야 함을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Maulana Mualim, Feisal Aziez 외 1명",
+    "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1783236/pdf"
+   },
+   {
+    "n": 2,
+    "title": "AgentSchool: An LLM-Powered Multi-Agent Simulation for Education",
+    "url": "http://arxiv.org/abs/2605.30144v1",
+    "source": "",
+    "published": "2026-05-28",
+    "keyword": "K-12 education",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "LLM",
+     "에이전트"
+    ],
+    "summary": "AgentSchool은 LLM 기반 다중 에이전트 시뮬레이터를 통해 학생의 인지 발달과 교사의 적응적 교수 전략을 모델링하여, 실제 교육 환경의 윤리적, 시간적 제약 없이 교육 AI의 효과를 검증하고, 혁신적인 교육 방법론 연구에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Yulei Ye', 'Wenhao Li' 외 24명",
+    "pdf": "http://arxiv.org/pdf/2605.30144v1"
+   },
+   {
+    "n": 3,
+    "title": "From theory to practice: a human-AI synergy framework for ethical, inclusive and pedagogically-driven language education",
+    "url": "https://doi.org/10.3389/feduc.2026.1841386",
+    "source": "openalex",
+    "published": "2026-05-28",
+    "keyword": "edtech",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 AI 기반 언어 교육의 윤리적 문제와 인간-AI 협력 모델을 제시하고, 인도와 같은 다국어 환경에서 공정성, 자율성, 데이터 권리를 보장하는 거버넌스 접근 방식을 제안하며, 이는 언어 교육 정책 개발에 기여할 수 있습니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "David Paul, Daisy Gohain 외 1명",
+    "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1841386/pdf"
+   },
+   {
+    "n": 4,
+    "title": "Explainable and responsible artificial intelligence in education: Ethical challenges in adaptive learning systems",
+    "url": "https://doi.org/10.70593/deepsci.0203009",
+    "source": "openalex",
+    "published": "2026-05-25",
+    "keyword": "edtech",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "본 논문은 교육 분야의 적응형 학습 시스템에서 발생하는 알고리즘 편향, 투명성 부족 등의 윤리적 문제 해결을 위해 설명가능하고 책임감 있는 인공지능 및 인간-AI 협력 모델이 투명성, 공정성, 신뢰도를 향상시켜 교육적 형평성을 높일 수 있음을 밝힙니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Lebar-Ndibiri Esther Chinyere, Felicia A. Orih",
+    "pdf": "https://deepscipub.com/ijars/article/download/100/127"
+   },
+   {
+    "n": 5,
+    "title": "AI-affordance alignment drives authentic learning gains without foundational erosion: a quasi-experimental pilot study from an environmental data science course",
+    "url": "https://doi.org/10.3389/feduc.2026.1834090",
+    "source": "openalex",
+    "published": "2026-05-29",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제"
+    ],
+    "summary": "AI 성능 향상에 따른 교육적 효과를 환경 데이터 과학 수업에서 준실험적으로 평가한 결과, AI 활용 역량과 과제 난이도를 맞춘 교육 설계가 뒷받침될 때 학생들의 실질적인 프로젝트 수행 능력 향상을 가져오면서도 기본 개념 이해도 저하를 방지할 수 있음을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ahmed S. Elshall, Ashraf Badir 외 1명",
+    "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1834090/pdf"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "구글, ‘나노 바나나 2·프로’ 정식 출시…\"동영상 보고 이미지 만든다\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211134",
+    "source": "AI Times",
+    "published": "2026-05-30",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Gemini",
+     "영상·이미지 생성",
+     "생성형 AI"
+    ],
+    "summary": "구글의 '나노 바나나 2·프로' 출시는 텍스트 기반 이미지 생성 AI 모델 경쟁 심화를 촉진하고, 콘텐츠 제작 방식의 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "OpenAI gives GPT-5.5 Instant a readability upgrade while phasing out two older models",
+    "url": "https://the-decoder.com/openai-gives-gpt-5-5-instant-a-readability-upgrade-while-phasing-out-two-older-models/",
+    "source": "The Decoder",
+    "published": "2026-05-29",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "OpenAI의 모델 업데이트는 더 빠르고 읽기 쉬운 AI를 통해 사용자 경험을 개선하고 구형 모델 단종은 기술 혁신 가속화를 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "Warp’s big bet on building open source with GPT-5.5",
+    "url": "https://openai.com/index/warp",
+    "source": "OpenAI Blog",
+    "published": "2026-05-27",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "오픈소스",
+     "ChatGPT"
+    ],
+    "summary": "Warp의 오픈소스 개발 투자는 GPT-5.5와 결합하여 AI 기반 개발 도구 생태계를 확장하고 생산성을 혁신할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[AI 시대의 핵심 역량 '프롬프트 설계'... ChatGPT· 클로드· Gemini 성능을 끌어올리는 방법] 예를 들어 단순 요약을 요청하는 대신 핵심 항목 수, 문장 길이, 분석 관점 등을 함께 제시하면 보다 정교한 결과를 얻을 수 있다",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE81cUlJWWxZV19kb1hZdUZMYVJRS3NkOEsyNnByZkU4SEFqaHNYWEtBd3JaMUVDR0t3al9raGkzOGg?oc=5",
+    "source": "AI넷",
+    "published": "2026-05-30",
+    "keyword": "AI모델",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Claude",
+     "Gemini"
+    ],
+    "summary": "AI 모델 활용 극대화를 위한 프롬프트 설계 역량은 AI 기술 경쟁력 확보와 산업 전반의 생산성 향상에 필수적인 요소가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "구글, AI 검색에 ‘사용자 선호 소스’ 기능 도입...\"맞춤형 콘텐츠 강화\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211139",
+    "source": "AI Times",
+    "published": "2026-05-30",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Google",
+     "AI 검색"
+    ],
+    "summary": "구글의 사용자 선호 소스 기능은 AI 검색 경쟁 심화 속 개인 맞춤형 정보 제공을 강화하여 검색 시장의 판도를 재편할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "메타의 AI 학습용 '마우스 추적', 유럽 개인정보 규정 위반 논란",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211129",
+    "source": "AI Times",
+    "published": "2026-05-30",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "Meta"
+    ],
+    "summary": "메타의 마우스 추적 논란은 AI 학습 데이터 수집 방식에 대한 규제 강화로 이어져, AI 개발 비용 상승 및 혁신 속도 저하를 초래할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+    "source": "Google Blog - AI",
+    "published": "2026-05-29",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "구글의 AI 스튜디오를 활용한 I/O 퀴즈는 AI 기술 대중화와 사용자 참여 유도를 통해 AI 생태계 확장에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "\"정들었던 말투가 사라진다\" 6월 말 퇴출되는 GPT-4.5와 오픈AI의 반전",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xaXMzTjA2TDZsckJpakZzWmQ4c285TXBvMGU5cVhIUDJZdkxLc3BSVmRoc0oxYjl4dVJQOXVBdnhsdW0zYTRfOUg1UEg1TUF2R09TNnpPNWdLanZ1TmJKbktJY0RjV2NXbkJpVVNnUS0?oc=5",
+    "source": "디지털포커스",
+    "published": "2026-05-30",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-4.5 퇴출은 오픈AI가 기술 혁신과 모델 최적화를 가속화하며, AI 모델 교체 주기가 더욱 빨라질 것임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "Anthropic Unveils Claude Opus 4.8, Escalating the Race for Long-Horizon AI Work",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNRHZQVGxISzlncGFsRXdOZXhEZ2FZNXQxYW90RDdDSkJkeXBBSjVmVjVsTmpkaWRmR24yQ0lNSERnT05yLVJ5MlRsWmxmcW92cGdPd2pXWGowQXFPeEQ1WEhGeVRQVWt2NWZV?oc=5",
+    "source": "kmjournal.net",
+    "published": "2026-05-30",
+    "keyword": "Anthropic",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude"
+    ],
+    "summary": "앤트로픽의 Claude Opus 4.8은 장기적인 AI 작업 경쟁을 심화시켜, 특정 산업 분야에서 AI 활용도를 높일 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

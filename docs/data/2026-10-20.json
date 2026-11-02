@@ -1,0 +1,424 @@
+{
+ "date": "2026-10-20",
+ "generated_at": "2026-11-02T11:45:14+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[기고]포천의 교육혁신은 계속돼야 한다.",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJSWp2XzdzaDE3b0Q0emlIbXNfdmk2Qzl6RG92WDFlZVpZckJ6ZENmOUhqQ1FIV09KbkNnSkxybThzMmxjbXJjeU1PYmNvQTFjVVhHR0FVV2hESFFQN2F3MUxROWRZUmhLN1Rr?oc=5",
+    "source": "프레시안",
+    "published": "2026-10-19",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "이 기고문은 포천 교육혁신이 계속되어야 한다는 내용을 다룹니다.",
+    "implication": "학생들과 우리 지역 교육 혁신의 현재와 미래를 탐색하는 토론 수업 주제로 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[기고]테슬라 로드스터가 묻는 디지털전환 2.0: AI와 함께 핵심가치를 만들 수 있는가",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IT0E4NV9jamg5SWpzTzVwbHNYR2Y3ajZRS01jX0hUQ2xtTmZGN1hLMGlsMDV1Q1ZCTGpkalIyRVFZYUFvaEx0VnQ2VXJVTzhEaTZMYXd2M0JUdVdRZWc0VUlQOTd2dnVreG5hcmNfTdIBZkFVX3lxTE1yWnpxWnlJRkZEbHhhQnJmN3R0T3ViSk9CZ1RlenVHSXlDaFZRa1U5c0F0WGVsdm5SQS1pT2hudmg4dTFwZ1otWWVXeHg1RDVHdEZaRUtNdDNOcGVTaDdNcFcyeFo1QQ?oc=5",
+    "source": "동아일보",
+    "published": "2026-10-20",
+    "keyword": "디지털전환",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "디지털전환 2.0 시대, AI를 활용해 핵심 가치를 만들 수 있는지 테슬라 로드스터를 통해 묻는 기고문입니다.",
+    "implication": "학생들이 AI와 함께 미래 사회의 핵심 가치를 어떻게 만들어갈지 탐구하고 토론하는 활동을 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "과천시, 교육 현장 목소리 듣고 내년도 교육정책 반영 추진",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10alpqSjN3T2VsRzZBRzdYU25JcU9yN0puNUFMdzdaS196dERLd016VnlwUTZyQ1hLbGc3dUhRUkFiWTBqc2tsZURzZ0w0VWVKaXR0X1lCVGNXczQ?oc=5",
+    "source": "경기일보",
+    "published": "2026-10-19",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "과천시가 교육 현장 의견을 듣고 내년 교육정책에 반영을 추진합니다.",
+    "implication": "내년도 교육정책 반영을 위해 우리 반 학생들에게 필요한 지원을 시에 요청할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "생성형 AI 입문서 ‘비전공자도 이해할 수 있는 LLM 수업’ 출간…챗GPT부터 AI 에이전트까지",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBiOWJQSXNQNGtKNndDT01WQVg4Z0dGd0NCNjQ3dUNQcE5LMzM3RlE2cld6TUx4QUdTSFpzMG1zeTFNa0N3bnlHRWVPZGQ3Yms?oc=5",
+    "source": "데브타임즈",
+    "published": "2026-10-19",
+    "keyword": "AI활용수업",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "LLM",
+     "ChatGPT",
+     "에이전트"
+    ],
+    "summary": "비전공자를 위한 생성형 AI 입문서 ‘LLM 수업’이 출간되어 챗GPT부터 AI 에이전트까지 다룹니다.",
+    "implication": "비전공자도 이해할 수 있도록 구성된 LLM 입문서 내용을 활용하여 AI의 기본 원리를 쉽게 설명할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "대전시교육청, 동부권 교원 대상 IB 교육 정책설명회…2027년 교육지구 본격 운영",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE84elgtVUxJRnI0eE1iVmQteFM1Y1h0cVRTMFl5MzhkRzZVdDFFcFlwVDBRNzctamVPTDVESmowYWctNnFyNEE?oc=5",
+    "source": "뉴스충청인",
+    "published": "2026-10-20",
+    "keyword": "교육정책",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "대전시교육청",
+     "IB"
+    ],
+    "summary": "대전시교육청은 동부권 교원 대상 IB 교육 정책설명회를 개최하여 2027년 교육지구 본격 운영을 준비합니다.",
+    "implication": "IB 교육은 학생들의 능동적 탐구와 비판적 사고를 중시하므로, 수업에서 질문과 토론을 활성화할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "충남교육청교육과정평가정보원, 교육정책 연구 역량 강화 연수 > 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPamVwUWNCYUprRnVaSXJsVjcyZDBpZHVpaHJ2Ny0zNkhTLTFmbVM5UHhYUnRhc29pRWwwaGhCNkdKSXBnakktOXhScFdKYlNueHNxa094VXkyZENrQWtPVW1ZWFNXVktPU3A2VEhVODFmcmxBLVo5bVozN2cxTm8tNXpDeWV1bmd6Vm02ZWtsZDRTNWtKZnJIQ0ZWVEh3U3huTUw0eE1DeVdXT1ljRm5OSjA0Ukk4NmU1WXV2YnpLRmhsMl9zc3lxdkVGQ01JNTV4QmRHN2ZNT0g5dFp0?oc=5",
+    "source": "더코리아",
+    "published": "2026-10-19",
+    "keyword": "교육정책",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "충남교육청교육과정평가정보원은 교육정책 연구 역량 강화를 위한 연수를 실시했습니다.",
+    "implication": "현장 교사들은 교육정책 연구 역량 강화로 교육 현장에 맞는 교수학습 및 평가 개선 방안을 기대할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "교육혁신 속도…천호성 교육감, 폐교 활용·교장공모제 확대",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LQUs4Wk1yZXpvUDVlMV9WWVBlUnY0MlhBeExaMDZBMFhLZnloRGFwMU1kWjM1SUJOVmp3ZTUzZXhsUG8zTDVlRTB5b2RLRV9CR3I3UQ?oc=5",
+    "source": "이투데이",
+    "published": "2026-10-19",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "천호성 교육감은 교육혁신 가속화를 위해 폐교 활용과 교장공모제 확대를 추진합니다.",
+    "implication": "폐교 활용으로 생길 새 학습 공간이나 혁신적 교장 지원을 활용해 수업에 변화를 줄 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "입시 경쟁 넘어 배움의 본질 찾기…정근식 교육감, 고교생들과 교육혁신 대화",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsMFV4R0V2TnczVnA2VGVkaEVYQUtadEE2NjU1dlVEV3JETlh2aF9PaUVHb3VBWjBmM0pjN182Tl96UlBxd1JSQnNKT1lxVjE0OWU4YjlISzRGa3JnUk9Xc3VyakdESEo4ZEpR?oc=5",
+    "source": "서울뉴스통신",
+    "published": "2026-10-19",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "수능·대입"
+    ],
+    "summary": "정근식 교육감은 고교생들과 입시 경쟁을 넘어 배움의 본질을 찾는 교육혁신 대화를 나눴습니다.",
+    "implication": "학생들이 입시 부담 없이 배움의 즐거움을 찾도록 탐구 중심의 수업 활동을 설계할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "경기도의회 정석원 의원, 경기도교육청 정책기획관과 양주시 교육혁신선도지역 실무 논의",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE42NXRtaEtHdXhIX0VvdUhRcFVjR1BFWm9UMHlrODVxWVhNTHFRNzZhUXQ3bHlDdG4xWkRDMFFnSUNsWkFVLVpIYnNHTE42Y2dHRlFjbk1RYnFSQW5sRTB5VG9hZVdBYXM2ZDlBMzFCWDhPdw?oc=5",
+    "source": "웹이코노미",
+    "published": "2026-10-19",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "정석원 의원이 경기도교육청 정책기획관과 양주시 교육혁신선도지역 실무 논의를 진행했다.",
+    "implication": "교육혁신선도지역으로서 수업에 적용할 새로운 교수법이나 자료를 접할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "[홍산로 만평] 오늘은 교육감도 수험생",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14QkJZQllEek1jUjgtU0QxT1lDNmt0UDRnWTY1QlJ0N1lJZ0hvNFhkSExMdzNmT0NuVTFMMUJNSHIzQXY0SXFoWUllNnUxeGFocjQ1TU5lZ2d1STJnN0I4?oc=5",
+    "source": "전북미래교육신문",
+    "published": "2026-10-19",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "전북교육청"
+    ],
+    "summary": "전북 교육감이 학생의 입장이 되어 수험생의 경험을 이해하고 공감한다는 내용의 만평 기사입니다.",
+    "implication": "교육감도 수험생이라는 소식을 활용하여 학생들의 학업 스트레스와 노력을 공감하는 계기로 삼을 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "An Assessment of School Strategies for Improving Students’ Academic Performance in Public Secondary Schools: A Case of Kasulu District Council",
+    "url": "https://doi.org/10.37284/eajes.9.4.6028",
+    "source": "openalex",
+    "published": "2026-10-17",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "탄자니아 공립 중등학교의 학업 성과 향상 전략을 변혁적 리더십 이론 기반 혼합 연구로 평가한 결과, 일관된 소통, 개별 지원, 지적 자극, 충분한 자원을 통한 리더십의 제도화가 학업 성과 향상에 핵심적임을 밝혀 교육 현장에 시사점을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Mussa Kiruwasha, Consolata Louis Chua 외 1명",
+    "pdf": "https://journals.eanso.org/index.php/eajes/article/download/6028/6343"
+   },
+   {
+    "n": 2,
+    "title": "Envisioning the Future of AI-Assisted EFL Teaching and Learning: Conceptual Representations of Prospective Teachers",
+    "url": "http://dx.doi.org/10.1177/21582440251341590",
+    "source": "eric",
+    "published": "2025-01-01",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "이 연구는 67명의 예비 EFL 교사를 대상으로 질적 연구를 수행하여, AI가 교사를 보완하는 인간 중심의 AI 보조 EFL 교육 방식을 선호함을 밝혔으며, 이는 AI 통합 교사 교육 및 윤리적 고려의 필요성을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Muzaffer Pinar Babanoglu, Tuçe Öztürk Karatas 외 1명",
+    "pdf": "http://dx.doi.org/10.1177/21582440251341590"
+   },
+   {
+    "n": 3,
+    "title": "Beyond AI Tutors: A Human-Centred Framework for Goal-Driven Learning Agents in Education",
+    "url": "https://doi.org/10.48175/ijarsct-38910",
+    "source": "openalex",
+    "published": "2026-10-16",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "AI 튜터",
+     "에이전트"
+    ],
+    "summary": "AI 튜터의 개별 질문 답변 한계를 넘어 학습 목표 기반의 전반적 학습을 조율하는 인간 중심 교육 에이전트 프레임워크를 제시하고자, 선행 연구를 분석하고 학생 독립성 및 교사 판단을 강조하여 교육의 효과를 높이고자 합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ghodakhe Keshav, Prof. Y.G.Suryawanshi 외 1명",
+    "pdf": "https://doi.org/10.48175/ijarsct-38910"
+   },
+   {
+    "n": 4,
+    "title": "English Language Education Policy in Vietnam and Its Impact on the Quality of English Teaching in Buddhist Schools",
+    "url": "https://doi.org/10.21275/sr261016105354",
+    "source": "openalex",
+    "published": "2026-10-17",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "베트남의 영어 교육 정책이 불교 학교의 영어 교육에 미치는 영향을 질적 사례 연구로 분석하여, 일반 학교와의 구조적 차이를 확인하고 불교 교육과 의사소통 중심 영어 교육의 결합이 언어 능력과 도덕 의식 발달에 효과적임을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Le Hong Linh",
+    "pdf": "https://www.ijsr.net/archive/v15i10/SR261016105354.pdf"
+   },
+   {
+    "n": 5,
+    "title": "Distributed Leadership Practices and their Relationship to Teachers’ Professional Collaboration in Selected Senior High Schools in Zamboanga City",
+    "url": "https://doi.org/10.67903/ijroms0395",
+    "source": "openalex",
+    "published": "2026-10-18",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "잠보앙가시 공립 고등학교 교사 200명을 대상으로 분산 리더십과 교사의 전문적 협업 간 강한 양적 상관관계를 확인했으며, 이는 디지털 격차 해소 및 기술 기반 학습 전략 강화를 위한 리더십과 협업의 중요성을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Nurhaida A. Paradji",
+    "pdf": "https://ijroms.com/index.php/home/article/download/issue_v1i9a39/305"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "구글, AI 성능 스스로 높이는 자기개선 프레임워크 ‘하네스²’ 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216410",
+    "source": "AI Times",
+    "published": "2026-10-19",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "하네스²는 AI 모델의 자체 성능 개선을 가능하게 하여 AI 개발 효율성을 극대화하고 AI 기술 생태계의 가속화된 진보를 이끌 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "오픈AI, ‘GPT-라이브’에 의사 결정 API 연결...\"말 끝나기 전 판단\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216402",
+    "source": "AI Times",
+    "published": "2026-10-19",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT",
+     "에이전트"
+    ],
+    "summary": "오픈AI의 결정 API 연결은 AI가 언어 이해를 넘어 능동적 의사결정을 하는 실시간 에이전트 시대를 본격화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "엘로리안, 시각 추론 AI ‘글림프스’ 공개…일부 평가서 아스트라 앞서",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216403",
+    "source": "AI Times",
+    "published": "2026-10-19",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "일부 평가에서 기존 선두 모델을 능가한 글림프스 공개는 AI 기술 경쟁 심화와 시각 추론 등 전문 영역 발전 가속화를 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "딥시크, 더 빠르고 더 싼 경량 AI 모델 출시…\"GPT-5.6 솔 넘어\"",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9sNTUxbWExam5yamVMTkJxaGNXZVNyZlRYTHdKUXJPeXlsRlM5clMwcGNhYUJJM3JqYmdWSExHU2N1NUp1SGh4dktjSDlHZnI2b21zalVDazFUMkJWWTZUaU53YW5SVGxz?oc=5",
+    "source": "뉴스1",
+    "published": "2026-10-19",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "DeepSeek",
+     "ChatGPT"
+    ],
+    "summary": "딥시크의 경량 AI 모델 출시는 고성능 AI의 경제성과 접근성을 높여 AI 산업의 경쟁 심화와 활용 확대를 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[슈퍼휴먼] AI 비서가 드디어 구글의 가장 인기 있는 도구들과 원활하게 연동된다. 2주 전 클로드(Claude)가 구글 워크스페이스에 자리를 잡았고 , 이제 챗GPT(ChatGPT)도 크롬에 통합되어 브라우저 어디에서든 조언을 제공하고 필요한 작업을 수행",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1HNHFhNEZDWE90WmNzU1diWHRfRmNhY1VJN01XZXFVSF9pRFQ4M0RkWVJ2Qkt1Z2laNDE0M0RpYlo?oc=5",
+    "source": "AI넷",
+    "published": "2026-10-20",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Claude",
+     "ChatGPT"
+    ],
+    "summary": "AI 비서의 핵심 플랫폼 통합은 AI 기술의 일상 속 범용화 시대를 가속화하고 AI 서비스 시장의 주도권 경쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "[AI리더의 서가] 다중 에이전트 시스템을 위한 컨텍스트 엔지니어링",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216342",
+    "source": "AI Times",
+    "published": "2026-10-20",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "다중 에이전트 시스템을 위한 컨텍스트 엔지니어링은 AI 협업 및 복잡한 현실 문제 해결 역량을 고도화하는 핵심 동력이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+    "url": "https://openai.com/index/pollo-ai",
+    "source": "OpenAI Blog",
+    "published": "2026-10-08",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "생성형 AI"
+    ],
+    "summary": "생성형 AI의 마케팅 캠페인 적용은 창의 산업 내 콘텐츠 제작 및 자동화 효율을 극대화할 것임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "생성형 AI 입문서 ‘비전공자도 이해할 수 있는 LLM 수업’ 출간…챗GPT부터 AI 에이전트까지",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBiOWJQSXNQNGtKNndDT01WQVg4Z0dGd0NCNjQ3dUNQcE5LMzM3RlE2cld6TUx4QUdTSFpzMG1zeTFNa0N3bnlHRWVPZGQ3Yms?oc=5",
+    "source": "데브타임즈",
+    "published": "2026-10-19",
+    "keyword": "GPT",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "LLM",
+     "ChatGPT",
+     "에이전트"
+    ],
+    "summary": "비전공자를 위한 생성형 AI 입문서 출간은 AI 지식 접근성을 높여 기술 생태계 저변 확대와 산업 전반의 AI 활용을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "Third Wheel: Microsoft’s AI Chips Are “Nowhere Close” to NVIDIA or Google per Analyst",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUTg0N002em53VWw3TkdWclNlWU5rS2kwMDZNUjZ6TUY5RUotYVdJalRnNU5BaWUyanJ4THFDT3ByWkwyX2xTWF9HS01DcXl3SzJmUjgtSmxBdmYtMHZtdFpJZGlXbl95N090b2tUTGlub1QwdXYycXlGNGQzWDBQMjcyUU9TNmllcjRnUDdMZnFocXNPT0hBWnVEc196ZjJheThHaXpMaEVpOGJ6QzVUSg?oc=5",
+    "source": "TIKR.com",
+    "published": "2026-10-19",
+    "keyword": "구글",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Microsoft",
+     "NVIDIA",
+     "Google",
+     "GPU·데이터센터"
+    ],
+    "summary": "마이크로소프트 AI 칩의 미진한 경쟁력은 엔비디아와 구글의 AI 반도체 시장 지배력을 공고히 하여 생태계 집중을 심화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "OpenAI, Anthropic IPO 앞두고 300억 달러 자금 조달 가속",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91VG9HbF8xTmM4Tnh4NmwzdmJzaURERXpQVGJtWEFvNlNwQVNTbnlYSVBxbW5DZ1l6TTYzRm9oSk15LU4za2JTVnoxdDhSWjNsQmpqU2RtdXprd2JUMVduRXR2aFNKYi1Cd1pKdGJPWmE?oc=5",
+    "source": "Investing.com 한국어",
+    "published": "2026-10-20",
+    "keyword": "Anthropic",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Anthropic"
+    ],
+    "summary": "OpenAI의 자금 조달 가속은 AI 시장의 주도권 경쟁 심화와 자본 집약적인 산업 생태계의 고착화를 의미합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

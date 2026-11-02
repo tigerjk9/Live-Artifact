@@ -76,6 +76,8 @@ jobs:
         if: steps.check.outputs.skip != 'true'
         env:
           NEWS_TOKEN: ${{ secrets.NEWS_GITHUB_TOKEN }}
+          # 선택: 있으면 '오늘의 흐름' 보드에 Gemini 종합(헤드라인·흐름 3개)이 붙는다. 없으면 자동 집계만.
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python scripts/fetch_and_generate.py
 
       - name: Validate article counts

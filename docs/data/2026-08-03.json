@@ -1,0 +1,420 @@
+{
+ "date": "2026-08-03",
+ "generated_at": "2026-11-02T11:40:57+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "경기도교육청, 행정심판 처리기간 절반으로 단축…학교폭력 분쟁 신속 해결로 교육현장 안정 기대",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EUTdFMDFxSWo1UnpUc2NZNzBhMmJXekRoSjJpSkU0cldtZl84ZnhnV1NZbW84T0dMZ0QzWXN0ZUJiRzRRM0V1NEpobS0tRFpkQWNKVENnZVFRTHZnTGNsQWhKNXN6eDRNbUR6SmFiOHc?oc=5",
+    "source": "한국강사신문",
+    "published": "2026-08-02",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "학교폭력"
+    ],
+    "summary": "경기도교육청은 학교폭력 분쟁 신속 해결을 위해 행정심판 처리 기간을 절반으로 단축했습니다.",
+    "implication": "학교폭력 분쟁 발생 시 신속한 처리로 교사가 학생 지도와 교육에 더 집중할 시간을 확보할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "오태완 군수·권순기 교육감 첫 회동…의령 미래교육 협력 강화",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hb1ZyazA2SFFJTTA0eG1ta3BWN0xkalFJck5Ld2ptZW9TWm91SUdJQ21iaWcwVXpmWlY1YXhuVFRmcDA2Z18wWERXYk1TSFczU195WjZocVBHbUVSdkdJWEtlUm5MaHA2cDNDdDBwcw?oc=5",
+    "source": "의령신문",
+    "published": "2026-08-03",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "오태완 군수와 권순기 교육감이 첫 회동에서 의령 미래교육 협력 강화를 논의했습니다.",
+    "implication": "지역사회와 학교 간의 미래 교육 협력이 강화되어 학생들의 의령 탐구 활동을 확대할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "SK텔레콤, 자체 개발 ‘AI 에듀테크 설루션’으로 교육 현장 AX 추진",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0teWRfcmRYazZveTlPNVdFOS1hRlcyS2pFRjVPMlN0aFl0ei1iaHI2TzM5QmJjZ1ZCYzZpWTZGQnJsSWE4N3phYlhPODhNLW5xQnR1ek13aHZGX2FReE9zV01OX2h2V1JMRHNBWFd3?oc=5",
+    "source": "아시아투데이",
+    "published": "2026-08-02",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "SK",
+     "개인화 학습"
+    ],
+    "summary": "SK텔레콤이 자체 개발한 AI 에듀테크 솔루션을 통해 교육 현장의 AI 전환을 추진합니다.",
+    "implication": "SKT의 AI 에듀테크 솔루션을 활용하여 학생 맞춤형 학습 자료를 쉽게 준비할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "정한석 경북도의회 교육위원장 “학생 성장 중심 교육정책으로 경북 미래 열겠다”",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jNGNfYzJjbUNMd2NYRTlQWXZQMWwyVjRxb0RqcjV4ZzFRS0VYcEFVWVN4ZHNSNXp6alIyN1hRbVpKY3JXSmVYM0lReXM2ZEhtX0lsa0dUOGpvZHU1eHRQSVJlZTI1YTh1dVpFT2JQQQ?oc=5",
+    "source": "kyongbuk.co.kr",
+    "published": "2026-08-02",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "정한석 경북도의회 교육위원장은 학생 성장 중심 교육정책으로 경북의 미래를 열겠다고 밝혔습니다.",
+    "implication": "학생 개개인의 성장 과정을 관찰하고 지원하는 수업 활동을 계획할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "충남교육청, 제19대 충남교육감 교육정책 방향 발표",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXcGlONDM3Tzd1NXZTRTc3OEV6OXM5QlViMjEyZ1B5dG52RXRjOXdSSjNJeVViejBPazBiVkdvZDE5dGN4VzV0clVSd3dRWUp0eFJEZGtEMDNzaVRUT1M1bEpxRkF2Tlk1aEJiVHVn?oc=5",
+    "source": "금산중앙신문방송",
+    "published": "2026-08-02",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "충남교육청이 제19대 교육감의 교육정책 방향을 발표했습니다.",
+    "implication": "새로운 교육정책 방향을 파악하여 학생 중심의 수업 계획에 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "고의숙 교육감, 학교운영위원장과 소통…\"현장 의견, 교육정책에 적극 반영\"",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3YnAzWU1nUlpoa3FXU3dkX1BHM29hNWFSSVhwM1BMMHJMVG5lbUFfTU5Ka2hiWHhYV1hFSWlSRW9uUWFkMzVDaU5YZTRHeGlCbnNFZlpWQ0lkZEJBM3ZiT0F3aUVkd0djemFBUnNB?oc=5",
+    "source": "livejeju.co.kr",
+    "published": "2026-08-02",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "고의숙 교육감이 학교운영위원장들과 소통하며 현장 의견을 교육정책에 적극 반영하겠다고 밝혔습니다.",
+    "implication": "교육감이 현장 의견을 정책에 반영하므로, 학교운영위원회를 통해 수업 관련 개선점을 적극적으로 건의할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "이건희·경기의회, 남양주 학부모들과 소통 교육 현안 해결에 현장 목소리 정책에 담겠다",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoUWlCLUw0VmkzMHFwRnNrRkRpMDZvQk9yU3RBNnNRQUdMRkh6Nnh6WDJlRk1uU2pmMzA2T3U5bk1oRFpmUVB4X2pqRkJFSVRBV3pYV0VuTzFXZHp2TlZBRF9XNGZ4dU5kcFJiSTlJVQ?oc=5",
+    "source": "오토투데이",
+    "published": "2026-08-02",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "이건희, 경기의회가 남양주 학부모들과 소통하여 현장 목소리를 교육 현안 정책에 담으려 한다.",
+    "implication": "우리 지역 교육 문제에 대해 학생들이 직접 목소리를 내고 정책을 제안하는 수업을 진행할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "학생 어휘력 저하 교육 현장서 심각…학습 격차 해소 방안 주목",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5STGhSUGFvcmUzcE4yR2ROTk8ycHIzM25FSk1rYVQ2NTFDRGZWSDRZMGI1bjVpalZvRG1nMGlfdDNSXzZCeHE2ZWdmTFJ2MGVBY0JqVDBwaW9TX3FvemNsWHBOdG9ZaU5T?oc=5",
+    "source": "공감신문",
+    "published": "2026-08-02",
+    "keyword": "교육현장",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "교육 현장에서 학생들의 어휘력 저하가 심각한 수준이며, 이로 인한 학습 격차 해소 방안이 주목받고 있습니다.",
+    "implication": "수업 중 핵심 어휘를 의식적으로 반복 제시하고 다양한 문맥에서 활용하도록 유도하여 어휘력 격차 해소에 기여할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "최은옥 차관, 교육부 조직문화 혁신 TF 전체회의…\"성과 없는 바쁨과 결별\"",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE92V2pCbGpKSkV3bGczSzFGdWhjMzR2aTFSdGhfOEhKUHRLNWZfUV90R2E5OHpBMFdDdmZXLWZmX0dqellSaWZQX3M3cDIyTmtZcW5N?oc=5",
+    "source": "네이트",
+    "published": "2026-08-02",
+    "keyword": "AI디지털도구",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "최은옥 차관이 교육부 조직문화 혁신 TF 회의에서 성과 없는 바쁨과 결별을 강조했습니다.",
+    "implication": "학생 활동이 학습 목표에 직접 기여하는지 점검하며, 불필요한 바쁨을 줄이는 수업을 계획할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "충남교육청, 우즈베키스탄서 한국어교육 나눔 실천",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XMHpEX2xFdTBLYUxHWlNFWnRUTEFOeU1KU0xSUTh3THBUdHp6NkNBa2l3TFd0ZE1RcWRwT3FNY1FtQVViajRhUjdCVGVxT2RVVm5JQkxJUVh2c0hjbVltZDdfRVNWLVVHWDd5RVVZME5MQQ?oc=5",
+    "source": "충남일보",
+    "published": "2026-08-02",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "충남교육청이 우즈베키스탄에서 한국어 교육 나눔을 실천했습니다.",
+    "implication": "학생들에게 해외 한국어 교육 현장을 소개하여 진로 탐색의 기회를 줄 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "AI-Enhanced Audiobook Adoption Among Differently-Abled University Students in Sri Lanka: A Systematic Review and Theoretical Integration",
+    "url": "https://doi.org/10.4038/jrm.v4i2.78",
+    "source": "openalex",
+    "published": "2026-07-31",
+    "keyword": "edtech",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "스리랑카 장애 대학생의 AI 오디오북 채택 체계적 검토로, AI 개인화와 기관 준비 통합 UTAUT2 프레임워크를 제안하여 포괄적 교육에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Sampath Chandrasena",
+    "pdf": "https://jrm.sljol.info/articles/78/files/6a6c62b02039a.pdf"
+   },
+   {
+    "n": 2,
+    "title": "Teachers’ Mental Toughness and Emotional Flexibility Amid AI-Driven Teaching Demands",
+    "url": "https://doi.org/10.59543/jidmis.v3.1278",
+    "source": "openalex",
+    "published": "2026-07-31",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "이 질적 연구는 AI 기반 교수 환경에서 교사들이 정신적 강인함과 정서적 유연성을 발전시키고 AI를 책임감 있게 통합하여 학습자 지원과 교수 복잡성에 대응하는 상호 연결된 적응 역량임을 보여주며, 교사 교육 및 AI 활용 교육에 실질적 함의를 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Anesito L. Cutillas",
+    "pdf": "https://jidmis.org/index.php/jidmis/article/download/1278/447"
+   },
+   {
+    "n": 3,
+    "title": "Elementary Teachers’ Perception on the Implementation of Mother Tongue-Based Multilingual Education in Zamboanga City",
+    "url": "https://doi.org/10.65339/ijsair.v2.i3.831",
+    "source": "openalex",
+    "published": "2026-08-01",
+    "keyword": "",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [],
+    "summary": "잠보앙가 시 초등 교사들의 모국어 기반 다중 언어 교육(MTB-MLE) 인식에 대한 현상학적 질적 연구는 차바카노어 화자에게 유익하나 다중 언어 학습자 지원 및 자료 확충이 필요함을 밝히며 교육 현장과 정책 개선에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Phil Argel Quitiol",
+    "pdf": "https://ijsair.com/index.php/ijsair/article/download/970/953"
+   },
+   {
+    "n": 4,
+    "title": "Data Science and Machine Learning in Secondary Education: A Case Study of Barriers and Opportunities at Cambine Secondary School, Mozambique",
+    "url": "https://doi.org/10.67294/xkwv1b43",
+    "source": "openalex",
+    "published": "2026-07-31",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습",
+     "교사 연수"
+    ],
+    "summary": "데이터 과학 및 머신러닝의 모잠비크 농촌 교육 적용 사례 연구에서 인프라와 교사 역량 부족이라는 장벽에도 불구하고 학습자 흥미와 개인 맞춤형 학습 지원 가능성을 확인하여, 인프라 투자와 교사 연수를 통한 교육 질 향상 전략을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Jean Marie John, Edgar Ribeiro Lamas",
+    "pdf": "https://imjeta.org/index.php/IMJETA/article/download/Data_Science_Machine_Learning_Cambine_Secondary_School_Mozambiqu/28"
+   },
+   {
+    "n": 5,
+    "title": "Exploring the Deep Integration of Information Technology and Accounting Practical Training Course Teaching",
+    "url": "https://doi.org/10.54097/0w10qy66",
+    "source": "openalex",
+    "published": "2026-07-31",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "회계 실습 교육에 정보기술을 통합하는 데 있어 피상적인 적용의 한계를 지적하며, 이 논문은 구성주의 및 블렌디드 러닝 원칙에 기반해 교육 목표, 내용, 방법론, 평가를 체계적으로 재설계함으로써 디지털 전환 시대에 필요한 전문 역량과 실질적인 학습 효과를 높이는 전략을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Zishu Yuan",
+    "pdf": "https://drpress.org/ojs/index.php/jeer/article/download/35463/34645"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "[아마존, AGI 연구소 폐쇄·해고 후폭풍… AI 전략 ‘선택과 집중’으로 선회] 오픈AI, 구글, 앤트로픽(Anthropic) 등이 프런티어 모델 시장을 주도하는 가운데, 아마존은 이제 연구개발의 효율성을 극대화해 추격의 고삐를 죄겠다는 의지",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1wUEdxdExyanlNLUJPUGpLVmxfbHc4SC1xZFVWVDRiNW01b3Vsc0VYNExOeG5vTlpLLVFRTG4xQXA?oc=5",
+    "source": "AI넷",
+    "published": "2026-08-02",
+    "keyword": "Anthropic",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Amazon",
+     "OpenAI",
+     "Google",
+     "Anthropic"
+    ],
+    "summary": "아마존의 AI 전략 선회는 거대 기술 기업들이 선두 경쟁력 확보를 위해 연구개발 효율성을 극대화하는 '선택과 집중' 방식으로 AI 기술 생태계가 재편될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "Advancing the price-performance frontier with GPT-5.6",
+    "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "source": "OpenAI Blog",
+    "published": "2026-07-30",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.6의 가격-성능 혁신은 AI 기술의 산업 전반 확산과 새로운 비즈니스 모델 창출을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "GPT·Claude·Gemini, 태풍 '돌핀'을 함께 분석하다…AI 3중 교차검증이 제시한 재난예측의 새로운 패러다임",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rSnhyaU1fb1dLQm5nNHpOc0VOWlhEaUQyS1hhVTdUU2Z4ZkZjWVdmVlhpcEtPR1lCakJNTXFMZEdFVTNXc0d0MEVUVUU5bExQMWgySVdxemVNd211eXZ6emRWM2FfNFM0?oc=5",
+    "source": "복지TV부울경방송",
+    "published": "2026-08-02",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Claude",
+     "Gemini"
+    ],
+    "summary": "다양한 AI 모델 간 교차 검증은 AI 신뢰성을 극대화하여, 고위험 산업 분야에서 AI의 활용 범위를 혁신적으로 확장하는 새 패러다임을 제시할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+    "source": "Google Blog - AI",
+    "published": "2026-05-29",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Google",
+     "코딩 AI"
+    ],
+    "summary": "구글 AI 스튜디오를 통한 '바이브 코딩' 퀴즈는 AI가 단순 기능 구현을 넘어 창의적 사용자 경험을 설계하고 확산하는 핵심 도구로 부상할 것임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "How AI is expanding what people do at work",
+    "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+    "source": "OpenAI Blog",
+    "published": "2026-07-27",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [],
+    "summary": "AI는 인간의 업무를 확장하여 단순 자동화를 넘어선 증강 및 협업 AI 기술 개발을 촉진하고, 새로운 산업 생태계 성장의 핵심 동력이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "네이버·카카오·LG '3사 3색' AI윤리 준칙",
+    "url": "https://news.google.com/rss/articles/CBMizwRBVV95cUxNSFRjcWZzRVhWZXV6S1lZY0c5UmEzWWlGay1CTG9RTnZ1ZHZ6ZEU4anEzRmk1bmVYbi15X0JOVV96ZWpBNjZYVVBZZG1jV3FFN3BtbkdLbkJPMHV1SXlYMVhzOWhXcU5CZmh0VHV2ajVOeDl2MGhDLTk5U2xreXJkb0VVVGZISUVaWUZ2QXNXdkRrd2t3WENfMm92Ql9NSkRLV2pJQVV3TEJCd2xzcUpEcTc4Z2Y4RmVYLXRNcUFRbFhvWUI5TERubngtaVJydVhmU2p0Qy1acjh1YW5ROVI4MmIzWm1nNmJOVDNxME84dG44b2R0QXRXVkFkVG0tNUdiMkVWV3VFSFlGWGJZM1h4bTJndXVZN1EtV1J4bmdEbWNaSlpBOUVoMXlrTGxObzY5NHFMcmU3ODBMZ2p5VjNzbjZzeDZOZlR3ZHFDdENPY05ZM0JQd19wTkZzdFlMQ3BCX3Y5WXFzTjdRUjdrT1Zsam43QnJFV1RteHJmN0tSa1Uxd0VDRjRwOV9lWHpGWnlVa0dTUThua1oweTBmT3JWYmE5Rmgyb2tSOHBnODFqS2pDZjN4SWhfYXpXdDAtMGxzRFY5NmszUkF5MDNHNE90MHZBTFZRTm5aRGFRMWpkUWE2UGJVUFhoVlRQR1NSQ2ROVk1MN0RUb2VzVm8yV2YtVzBfcEVucUVLczBBZWpTMWxvRDFOYUxQYXp2b3hiU3hOM3lDSkQ3clZPTF9MaWVmNnNtZGFIT0VuNUJCOUZZVENXTV9yUF9oZmx6MlZVUWM?oc=5",
+    "source": "전자신문",
+    "published": "2026-08-02",
+    "keyword": "AI윤리",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "네이버",
+     "카카오",
+     "LG",
+     "AI 안전·규제"
+    ],
+    "summary": "개별 기업의 상이한 AI 윤리 준칙은 향후 산업 표준화와 생태계 조성 방향에 핵심적 영향을 미칠 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+    "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "source": "OpenAI Blog",
+    "published": "2026-07-29",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "벤치마크"
+    ],
+    "summary": "두 가지 설정 최적화만으로 ARC-AGI 벤치마크 점수를 3배 높인 것은, AI의 일반 지능 발전이 거창한 기술보다 섬세한 조정으로도 크게 가속화될 수 있음을 보여줄 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+    "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+    "source": "OpenAI Blog",
+    "published": "2026-07-29",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "ChatGPT를 통한 과학 발견 가속화는 AI가 전문 분야 생산성을 혁신하며, AI 기술 생태계의 새로운 시장을 창출할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "Introducing the ChatGPT for small business program",
+    "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+    "source": "OpenAI Blog",
+    "published": "2026-07-21",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "오피니언: 이번 출시는 AI 기술이 중소기업 시장에 특화된 솔루션으로 진화하며 AI 생태계의 실질적 확산과 경쟁을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "구글·오라클, AI 에이전트 동맹 확대…\"ERP·업무 애플리케이션에 제미나이 심는다\"",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HbHl3Wk9KMVFreGREUG1rSFZfYWRCWHNqTS1IZ2ZKcE13VnFPMnVndGRxek5NaENZTE83VmpnbW45ekdXNUowTEpGLW42c0VydTN4RU9BUVVOcUtEWnBwbA?oc=5",
+    "source": "네이트",
+    "published": "2026-08-03",
+    "keyword": "구글",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Oracle",
+     "에이전트",
+     "Gemini"
+    ],
+    "summary": "AI 에이전트가 기업 핵심 업무 시스템에 통합되면서 AI 기술 생태계가 실질적 적용과 확장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

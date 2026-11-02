@@ -1,0 +1,171 @@
+{
+ "date": "2026-03-15",
+ "generated_at": "2026-11-02T11:53:28+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[홍산로-오피니언] 전북교사노조 정재석, 전북교육감 토론 ‘상산고 10개’가 던진 질문",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKd3hWQWJKdG5JRTI3RDVialR5RW9zYS1xeE5HcWZmaWlqZWxWTHY2aFkxbjlScEdCekZZdEVvMXpRaUV0YllyOTFEdTVNTS1yLTc4MENtSmVUQXVKSmp3?oc=5",
+    "source": "전북미래교육신문",
+    "published": "2026-03-14",
+    "keyword": "에듀테크",
+    "topic": "teacher",
+    "kind": "opinion",
+    "entities": [
+     "교원단체",
+     "전북교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 2,
+    "title": "[홍산로-오피니언] 오준영 전북교총 회장, 전북교육감선거 예비후보자 토론회 총평",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5REYxVFM3bDRWdWxKWW5yRERWUUhSa2NraEpVV19vTGdrR0NzNWtMVHFoZXluVEgxUGZPTzlyS2tRNHUzb3ZWZU1CMS1hREp5TERuT2lNMHI5Z1ZJWE1N?oc=5",
+    "source": "전북미래교육신문",
+    "published": "2026-03-14",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [
+     "교원단체",
+     "전북교육청",
+     "교육감 선거"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 3,
+    "title": "[국제칼럼] 교실 속 디지털 기기, 어디까지 허용해야 할까",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85ckQ4bV9TUXUwVjJiOElLSC0tYzdRdDBzRjJacUdwVUZoUjRlSXRfRUlIb1dUVlRqNC1EajZOcWEwSlR6TVpQQThYTmFtMlBGZnhrM1l6SjdrakM2R19Odm5LZDdiRlU?oc=5",
+    "source": "교육플러스",
+    "published": "2026-03-14",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 4,
+    "title": "[칼럼] 인공지능 시대, 대한민국이 나아가야 할 길",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1ydlNfVnlTRTZlU2VPVHV4aTdNazBkNTRlOWx5bW9jT0dpRTB4THdTOEd6U29xQ0J4YS1ueGdHVDNvU3B2NHc?oc=5",
+    "source": "케이에스피뉴스",
+    "published": "2026-03-14",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 5,
+    "title": "[AI칼럼] AI 시대에 가장 오래 일하는 세대는 50대와 60대다 - 기술혁명 속에서 다시 쓰이는 중장년 노동의 미래",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ZZVd1dnp0YTB0RnZNSEtfOFhxWEpRaE5GTnVEelRObk9LZGc5clAzUUE0MERmbWJxQW42VlM0T2FVZXNzczRCd1ZjZUI?oc=5",
+    "source": "브랜드경제신문",
+    "published": "2026-03-14",
+    "keyword": "미래기술",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 6,
+    "title": "경기도교육청, 교육 본질 회복·경기미래교육 지속과 확장을 위한 공감대 마련",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aNkwwQ19IQVNzOW1qbi00T1laNzdpRFBEeG1iQ1dSclJ2MVZqdzItcmlVR2hGbmNpR2x1a3Zpdzk3eFNiaVpsN3kwYW5DdVNyamFZY3AyMlFCbUJraWlNR1hVdTRMd9IBakFVX3lxTE9iQjZ6VEZhaWIxelVDU0pkWGtHTUh1NGRzei1ZazViNGduQjBNQ3hTMER1MjZ6czRVRzJtcms1OFdIV216TmcwLS1vN2pXc0FqLS0xdXBBWURXakZtM2Y1V1RKa2dnRnJWaVE?oc=5",
+    "source": "새한일보",
+    "published": "2026-03-14",
+    "keyword": "디지털교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 7,
+    "title": "정상신 대전교육감 예비후보, '대전 맘 미래교육 강사단' 공약 발표",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XSGdmU2QtTHEwVEFkNkgzWnRMV1FUM1lJSGpOTHlsRGpiWDJGYzNXRVNEY2luTmpoaF9BZ1BJSVFNbE9tS2JES09IZXpmeGpRR3JodFU1OGxPdXdGMlU3LWhrT0xXcDEzbjFHSWhR?oc=5",
+    "source": "gukjenews.com",
+    "published": "2026-03-14",
+    "keyword": "AI디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대전시교육청",
+     "교육감 선거"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "학생들 \"금일이 금요일?\"…문해력 논란 커지자 국교위 '문해력 특위' 만든다",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52UW41YUg4eDVOU1NUYldOeVlKNlJZU1hLNWJjbGF0UFRUUHJVR2dsUXRaaU1tMnY3WE9CaWxScGRKaUZaSFNSNXZHQzJySGZKUVowOEF3SFAwWHl6cHg4?oc=5",
+    "source": "뉴스1",
+    "published": "2026-03-14",
+    "keyword": "AI디지털도구",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "문해력"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "인천시교육청, 190교에서 AI 교육 본격 추진",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlV2JXcENZQ21lMk02ZUtiRGRUaWhwdHRuNHlkZUNTWlpMSkxXeEtVVUgwTy1zUUc4S0Q3MWdVSnJlbDlrVllLbGdYTHBLOGZXTkIwMDFUNEFISmY2RXZlMlAxbEY5SC1zY3FHTWN1STI?oc=5",
+    "source": "한국강사신문",
+    "published": "2026-03-14",
+    "keyword": "AI디지털도구",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 10,
+    "title": "이명수, 충남교육감 선거 등판...선거구도 요동",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tZTFjODRUN2pmeGxPVS1uc282dHhvWHdWaDZBaEw4WTdfbWl2RGM1TnhCNjNwMEE4cGRqWHpoSnp5cng5YUJPYWJ2MHdENVhlMHZjVkJzU1dTWjFjLWZveFVKRWE4TWd6T2dZ?oc=5",
+    "source": "백제뉴스",
+    "published": "2026-03-14",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충남교육청",
+     "교육감 선거"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   }
+  ],
+  "paper": [],
+  "tech": []
+ },
+ "fallback": {},
+ "notes": {}
+}

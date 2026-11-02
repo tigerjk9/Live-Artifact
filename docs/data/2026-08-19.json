@@ -1,0 +1,414 @@
+{
+ "date": "2026-08-19",
+ "generated_at": "2026-11-02T11:41:49+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "오석진 교육감 학부모와 대담, 교육현장 목소리 직접 듣는다",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1acnhkbkFsZ2hnQkZ0NmVyYjVkVzVTZDdEcWtIV195aFBnX3N2WFhhMW93VE5zbUxDX2pWdDJqbzRoUVJZanY5bUxVQjNsM0VpRDZJWWJVN3ZaMkpxcDNUM1QxTVB5amItU2p4Qg?oc=5",
+    "source": "중도일보",
+    "published": "2026-08-18",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": "interview",
+    "entities": [],
+    "summary": "오석진 교육감이 학부모와 대담을 통해 교육 현장의 목소리를 직접 청취합니다.",
+    "implication": "학부모의 교육 참여 확대 분위기를 활용하여 학생들과 함께 학교-가정 연계 활동을 기획할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "안민석 교육감, 만주‧연해주 교육 독립운동가 현장에서 역사교육 대전환의 문을 열다!",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5FcmtBQ2hMSjBwYnlnMVJmb3U2TXlLOGFyZzNTNmROTmo3WWpDSHRxcGNfakJaRGhmR2pRNG05Q2R4NENDWHFCZw?oc=5",
+    "source": "ibs뉴스",
+    "published": "2026-08-18",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "사교육"
+    ],
+    "summary": "안민석 교육감이 만주·연해주 교육 독립운동 현장에서 역사 교육의 대전환을 시작했습니다.",
+    "implication": "독립운동 관련 수업에서 학생들이 지역 유적지 탐방이나 현장 자료 조사를 통해 몰입도를 높일 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "글로벌 에듀테크 자본, AI 튜터·재교육 플랫폼에 집중 — 한국 공교육에 미칠 파장",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Ka29FeThDenEtZkRYTlphTTAxUzNIQWFXbzFGMnkxWnk5UGR2cXFQa2FRWm1NdWhqYTZfS1JqaGZNS25BcGY3Ng?oc=5",
+    "source": "얼리어답터뉴스",
+    "published": "2026-08-18",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "AI 튜터"
+    ],
+    "summary": "글로벌 에듀테크 자본이 AI 튜터와 재교육 플랫폼에 집중하며 한국 공교육에 영향을 미칠 것입니다.",
+    "implication": "AI 기술이 학습 방식에 미칠 변화를 학생들이 인식하고 대비하도록 지도할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "동국대 WISE캠퍼스, 전교생 생성형 AI 활용환경 구축…AI 교육혁신 본격화",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE85OUhmeVJSZTNCMmpqc2dQM2luSmVBRlZYWnNQS3hFNWFfbnc5M3lrZVIwTjdlWHJMV2lSRkJ4eDhSc1lmdkNrVHlzVFRtUDN4Ri05aTlwNDbSAVhBVV95cUxPOTlIZnlSUmUzQjJqanNnUDNpbkplQUZWWFpzUEt4RTVhX253OTN5a2VSME43ZVhyTFdpUkZCeHg4UnNZZnZDa1R5c1RUbVAzeEYtOWk5cDQ2?oc=5",
+    "source": "아주경제",
+    "published": "2026-08-18",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "동국대 WISE캠퍼스가 전교생을 위한 생성형 AI 활용 환경을 구축, AI 교육 혁신을 본격화한다.",
+    "implication": "생성형 AI를 활용해 학생 개개인에게 맞춘 학습 자료를 제작하고 수업에 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "\"AI는 도구일 뿐, 목적부터 정해야\"…생성형 AI 활용교육 현장",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PQlA1M0hpSVpmTUl5MG85UmdpcDVBQ1NvYjZwSnBWVC00eDExZFFOQkVneVVTamtGU1FpaThnMTlIbk84aWZTenlGLUZoZktxc2JrQUI0RE8tVzRPNWc?oc=5",
+    "source": "뉴스투데이",
+    "published": "2026-08-18",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "생성형 AI 활용교육 현장에서 AI는 도구일 뿐이며, AI 사용 전 명확한 목적 설정의 중요성을 강조합니다.",
+    "implication": "학생들이 생성형 AI를 사용하기 전 학습 목표를 먼저 설정하도록 안내할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "안민석 교육감 “교권보호전담관, 현장 교사 든든히 지켜달라”",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4dmE3bEw4cEh1SVFra1ppRERMNUN2ZmxxNVBXSU1HTVpWR0xFVm1scUFXMnI3eWFram9DWXk5WVdPUDRCQ200TXFhc3RUTG1VTmRHTHVtWUR4eU40ODdqczN1c01hMThoTVEzSzI2WkRpSkwy0gF0QVVfeXFMUHh2YTdsTDhwSHVJUWtrWmlEREw1Q3ZmbHE1UFdJTUdNWlZHTEVWbWxxQVcycjd5YWtqb0NZeTlZV09QNEJDbTRNcWFzdFRMbVVOZEdMdW1ZRHh5TjQ4N2pzM3VzTWExOGhNUTNLMjZaRGlKTDI?oc=5",
+    "source": "이뉴스투데이",
+    "published": "2026-08-18",
+    "keyword": "현장교사",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "교권"
+    ],
+    "summary": "안민석 교육감이 교권보호전담관에게 현장 교사 보호를 든든히 해달라고 강조했다.",
+    "implication": "교권보호전담관의 지원으로 안정된 심리 상태에서 수업에 온전히 집중할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "[교육정책의 미신, 대입개혁을 다시 묻다] ②수능에 서·논술형을 넣으면 대입은 무엇이 더 나아지나",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlTFVrc3N4VVhBbnZOc3JWd3Q1a2tqUGQ2aHFKOWZPVE5JVWhFQVotczQ3enQ4X2ZzMnAzWk9fcks5clZYY1NaMmZfMm5nNUhJem9XSDVfUzYyMWM?oc=5",
+    "source": "더에듀",
+    "published": "2026-08-18",
+    "keyword": "교육정책",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [
+     "수능·대입"
+    ],
+    "summary": "수능에 서·논술형이 도입될 경우 대입 제도의 실질적인 개선 효과에 의문을 제기하는 내용입니다.",
+    "implication": "대입 방식 논의와 별개로 학생들의 비판적 사고력과 서술 능력을 향상시키는 수업 방안을 고민할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "[말말말] 김덕현 연천군수, 교육정책 간담회 마무리…\"현장 의견 군정에 반영\"",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ldk5rVzRURHA4VWY1VkVNeHJnVDIyQUJOb09wN1lUMFhweVo1RFlFdWw4VE90cnF4R1hmdTczVjlXbVZfclhwQzQzRVMtRDdDdGkxVFZXVkRkNkZtT0JXX3hNNzhMTHFX?oc=5",
+    "source": "경인매일",
+    "published": "2026-08-18",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "김덕현 연천군수가 교육정책 간담회를 마치고 현장 의견을 군정에 반영하겠다고 밝혔다.",
+    "implication": "학생들과 함께 연천군 교육정책에 대한 의견을 모아 군정에 제안하는 활동을 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "놀유니버스, NIA 손잡고 `여행 특화 AI 에이전트` 개발",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xblZHZFNkVUFHQ3JuU3g2a2FWSkRMTVhaNnl4Ny0tQ2xNSjBYblRiSm9ITGl6SGtQOVV6MGlRR0kxS3BPZ0tkbTk0NDZ6M0VIcDEtc3RUVDlIZFctLUhxZEZxbGs?oc=5",
+    "source": "디지털데일리",
+    "published": "2026-08-18",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "놀유니버스가 NIA와 협력하여 여행에 특화된 인공지능 에이전트 개발을 진행합니다.",
+    "implication": "학생들이 여행 특화 AI 에이전트를 활용해 가상 여행 계획을 세우고 발표하는 수업에 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "‘AI 교육’도 지역 격차…“교사 역량 키워야”",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JY3c5Vlc2R0lIbDZWMi1BZ0JfRVlWRlhJenRkSHJjOF8yaHJKcklLcExaeFUtcWlrcTdVOXJSaHVJV0YtOE5CNkFOUzJ5NHM?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-08-18",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 교육에서도 지역 격차가 발생하고 있으며, 이를 해소하기 위해 교사 역량 강화의 필요성이 제기됩니다.",
+    "implication": "AI 교육의 지역 격차 문제 해결을 위해 AI를 활용한 수업 방안을 적극적으로 탐구할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "The use of artificial intelligence in the training of future primary school teachers: opportunities and challenges",
+    "url": "https://doi.org/10.1080/2331186x.2026.2706343",
+    "source": "openalex",
+    "published": "2026-08-17",
+    "keyword": "edtech",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "AI 리터러시"
+    ],
+    "summary": "카자흐스탄 예비 초등교사 120명에게 AI 교육과정을 적용한 결과, AI 리터러시와 교수 활용 자신감이 증진되고 윤리적 지도 및 인간 중심 교육의 중요성이 확인되어, AI의 교사 교육 통합 방안을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Zhazira Zhumabayeva, Ardak Rysbayeva 외 1명",
+    "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/2331186X.2026.2706343?needAccess=true"
+   },
+   {
+    "n": 2,
+    "title": "Exploring joyful, mindful, and meaningful learning in Surakarta high school Geography education",
+    "url": "https://doi.org/10.59672/ijed.v7i2.6667",
+    "source": "openalex",
+    "published": "2026-08-17",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "인도네시아 고등학교 지리 교육에서 '즐겁고 사려 깊고 의미 있는 학습'의 다각적 경험을 교사, 부교장, 학생 관점에서 질적 탐색하여 심층적인 학생 중심 학습 설계에 실질적 기여를 합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Albertus Erico Jerry Krisna Nugroho, Sugiyanto Sugiyanto 외 1명",
+    "pdf": "https://ojs.mahadewa.ac.id/index.php/ijed/article/download/6667/3818"
+   },
+   {
+    "n": 3,
+    "title": "Reframing History Education under India's National Education Policy 2020",
+    "url": "https://doi.org/10.36948/ijfmr.2026.v08i04.85599",
+    "source": "openalex",
+    "published": "2026-08-16",
+    "keyword": "",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [],
+    "summary": "인도의 NEP 2020 역사 교육 개편을 문서 분석하여, 사실 위주 교육을 비판적 탐구와 문화적 연관성 중심으로 전환함으로써 역사 교육을 향상할 방안을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Parmjeet Kaur, Muzafar Ahmad Dar 외 1명",
+    "pdf": "https://www.ijfmr.com/papers/2026/4/85599.pdf"
+   },
+   {
+    "n": 4,
+    "title": "Indonesian Language Instructional Design in the Merdeka Curriculum: Opportunities and Challenges in Secondary Schools",
+    "url": "https://doi.org/10.58578/yasin.v6i5.11809",
+    "source": "openalex",
+    "published": "2026-08-16",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 문헌 연구를 통해 메르데카 교육과정 인도네시아어 교수설계의 기회와 도전과제를 분석하여, 학습 목표-모듈-평가의 연계 및 지속적인 지원의 필요성을 제시하며 교육 현장의 적응적 수업 개발에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Suci Raufi Alkarima, Zamratul Ain 외 1명",
+    "pdf": "https://ejournal.yasin-alsys.org/yasin/article/download/11809/8558"
+   },
+   {
+    "n": 5,
+    "title": "Posthuman Learning in the Age of AI: Rethinking Agency, Knowledge, and Policy in Architectural Education",
+    "url": "https://doi.org/10.38027/smart.v3n1-4",
+    "source": "openalex",
+    "published": "2026-08-15",
+    "keyword": "",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 포스트휴먼 관점에서 AI 건축 교육 연구를 분석하여 분산된 행위 주체성, 상황적 지식, 윤리적 얽힘을 아우르는 생태적 지능을 기반으로 한 정책 지향적 프레임워크를 제시하며, 교육과정 및 평가 지침에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Hakan Tong, Ayşegül Kıdık 외 1명",
+    "pdf": "https://smartdpj.com/sdp/article/download/23/37"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "메가존클라우드, AWS와 기업용 AI 에이전트 3종 개발",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214077",
+    "source": "AI Times",
+    "published": "2026-08-18",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "클라우드 서비스 파트너가 AWS와 함께 기업용 AI 에이전트를 개발함은 AI 기술 생태계가 특정 비즈니스 영역으로 더욱 확장되고 있음을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "아마존, AI 학습데이터 확보 위해 희귀 서적 수집하고 파괴",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214064",
+    "source": "AI Times",
+    "published": "2026-08-18",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "Amazon"
+    ],
+    "summary": "AI의 방대한 데이터 수요 충족을 위해 기업들이 희귀 문화유산까지 훼손하는 극단적 방법을 택할 수 있어, 데이터 윤리 확립이 중요해질 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "ChatGPT 그리고 Claude는 훨씬 저렴합니다. AI는 진정한 가격 전쟁에 직면해 있습니다.",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYnhSb0RDTnZ3MWxOeER2N2hLYjhqbWFwZzFURDNMRUp1Wkx6WlplY05RNXdTV2pMUEV1NWZLU3M5cHdwNGRHTU9nVkNUa3ZxUl9FaXZvWGtOTGE5ajAwd19HU0pGSVFNSmJmQXVqNVRXcUtCd3N3eXFYa0FmVVZZcTFFLWthcHlFYXFreHJ2XzczOXF4eEltdnBKUkhSYUw5Zl9BWG9OSXM3VXB2RkpF?oc=5",
+    "source": "Letem světem Applem",
+    "published": "2026-08-18",
+    "keyword": "Anthropic",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Claude"
+    ],
+    "summary": "AI 가격 경쟁은 기반 모델의 상품화를 가속하고, 응용 서비스 중심의 혁신 경쟁 시대를 열 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+    "url": "https://openai.com/index/previewing-ultrafast",
+    "source": "OpenAI Blog",
+    "published": "2026-08-13",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.6 Sol의 14배 빠른 속도는 AI 서비스 비용 효율성을 획기적으로 개선하고 실시간 응용 분야를 확대하여 산업 전반의 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "We still don’t know how people are really using AI",
+    "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+    "source": "MIT Technology Review",
+    "published": "2026-08-18",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [],
+    "summary": "사용자 실제 활용 방식 파악 부재는 AI 기술의 진정한 가치 창출과 시장 안착에 핵심 제약이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "와이즈넛, AI 에이전트 매출 539% 증가…공공·기업 AX 시장 집중 공략",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214074",
+    "source": "AI Times",
+    "published": "2026-08-18",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "AI 에이전트 매출 급증은 공공·기업의 AI 전환(AX) 시장이 본격적으로 확대되며 AI 솔루션 도입을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "앤트로픽, AI 정렬 위험 등급 상향 조정…미공개 '모델 2' 성능도 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214079",
+    "source": "AI Times",
+    "published": "2026-08-18",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "AI 안전·규제"
+    ],
+    "summary": "앤트로픽의 AI 정렬 위험 상향은 고성능 모델 개발과 함께 AI 안전 연구 및 책임 있는 개발이 산업의 핵심 아젠다로 부상할 것임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "구글, 파산한 항공사 '사내 데이터' 140억에 낙찰…AI 학습 자산 확보",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214061",
+    "source": "AI Times",
+    "published": "2026-08-18",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "구글의 항공사 데이터 인수는 AI 학습을 위한 실세계 데이터의 전략적 가치 상승과 AI 생태계 내 데이터 확보 경쟁 심화를 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "오픈AI, 청소년용 챗GPT 출시…안전 강화·공부모드 추가",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHa0J4WFRPVHJ6RFhrb05KVDA2QXF1LUpxd3BLMk1pQV82Slg2WEJGLXNjTldOVGtLXzB2X3ByNHhITTRienVKdy1iTXpvZw?oc=5",
+    "source": "구글 뉴스 AI",
+    "published": "2026-08-18",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT",
+     "AI 안전·규제"
+    ],
+    "summary": "AI 산업이 청소년층으로 사용자 기반을 확대하고 안전성 및 맞춤 기능을 통해 교육 시장을 선점하려는 전략적 전환점입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "[챗GPT 출시 이후 폭발한 생성형 AI 특허, 1년 새 2배 급증… 한국은 3위 내주며 4위로 하락] 프트뱅크 단일 기업 1위 등극 속 중국 독주·일본 급부상… 기술 중심축도 GAN에서 LLM으로 완전 재편",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1WaUdvWllxYUpvV2M5SWRrZ3JLYWlyMkZWRFk3dFBfNDY4S3Zzb292TlRhT3ZLQzVrVmZ2OUwySVo?oc=5",
+    "source": "AI넷",
+    "published": "2026-08-18",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "생성형 AI",
+     "LLM"
+    ],
+    "summary": "LLM 중심으로 재편된 생성형 AI 특허 경쟁에서 중국·일본의 약진과 한국의 하락은 글로벌 AI 기술 생태계 주도권의 급격한 전환을 시사합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

@@ -1,0 +1,411 @@
+{
+ "date": "2025-12-15",
+ "generated_at": "2026-11-02T11:49:13+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "“사춘기 반항, 문제 아닌 성장 신호”…양천구, 뇌과학으로 푸는 ‘사춘기 자녀 설명서’ 학부모 특강 연다",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9Oc3lEeGpCa2pGY0lrYnlBZWZleHkwRzUtTGx2Mm0tVnZZMENSMEM1Y2Q3eXJYWldlTE1HblNxc1JsRE9Gb2Yw?oc=5",
+    "source": "코리안투데이",
+    "published": "2025-12-14",
+    "keyword": "뇌과학",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "사춘기 뇌과학 기반 교육은 문제 행동에 대한 이해를 넓히고 공감적 소통을 촉진하여 긍정적 관계 형성에 기여할 수 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[2025강원에듀테크박람회] 미래교육 싹트는 자리서 화합의 하모니",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vYXZNVGFNU3I2T0JWRkJWNGdVR3R3VTVONlBlRVJMcTRMazRnNzRFcDNlaDBqdmQwZzlWTG55NjFJMDNyNUJQUlFPdEc1NThRZjVyUzFkZktkQmZJREJTd1Nn?oc=5",
+    "source": "강원일보",
+    "published": "2025-12-14",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "2025 강원에듀테크박람회는 미래 교육 혁신을 위한 에듀테크 생태계 조성 및 교사 역량 강화의 중요한 플랫폼이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "교육부, 'AI인재국' 신설…AI·디지털 인재 정책 총괄",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1CUVdoVHktTUEzWVNCTjFnclV4aG5LeE43aFBqTnJPMmRkTEluWk5zQTN1UGUzeVRnMkZpeVNqMFpQbFpkMGJDYnhqbzNzZw?oc=5",
+    "source": "전자신문",
+    "published": "2025-12-14",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "교육부의 AI인재국 신설은 급변하는 시대에 발맞춰 교육 시스템 전반의 디지털 전환과 AI 교육 강화에 박차를 가하겠다는 의지를 보여주는 중요한 পদক্ষেপ입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "전국교육감, 교원정원제도 재설계 촉구",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCZy02amJUdmRlRGlqOHhXLXBQazVYZUdZcHNUN0lwQVFja0EyQ1Z6UkRvbG9BcGhtM3JyXzdXU2NBaEhNbWRiTFVvSlhPblYwWEVTMTZ4QzJrdDI4MlJENWQwbVBiQQ?oc=5",
+    "source": "울산제일일보",
+    "published": "2025-12-14",
+    "keyword": "디지털교육",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [],
+    "summary": "교원정원 재설계 요구는 학령인구 감소에 따른 교사 수급 불균형 해소와 교육의 질 제고를 위한 불가피한 논의 시작을 알리는 신호탄입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "교육부, 2026년 업무보고…AI 대전환·지방대 육성 15대 과제 제시",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE96UnZOdnV6Q1BJbFAxQnZCZFdTc3RDVVJoZW4wSWR0c3FHeDJLTTBlVW5vNGFBNlI2QmxqWVpoWHYyaUVxNnRmMXF4bGlZdw?oc=5",
+    "source": "대전인터넷신문",
+    "published": "2025-12-14",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "교육부의 AI 대전환 및 지방대 육성 과제는 미래 교육 환경 변화에 대한 대응과 지역 균형 발전을 위한 중요한 정책 방향을 제시하는 것으로 보입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "교육부, AI 3강 도약·국가책임 교육 강화 본격 추진",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56NkJuZTQzSHBRZVdlakpCS1hXbG5INWJ4ZWdQRDRaUkVhdlF6TjVDOHRSVW9mMWg5WGhYa1pmb0tlV21Oc0N6RFlFYURzWTNDYzhCbHA5ckE4cjU3TXh5NjllN2MzZ3M?oc=5",
+    "source": "호남교육신문",
+    "published": "2025-12-14",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "교육부의 AI 교육 강화 및 국가책임 교육 확대는 교육 격차 해소와 미래 인재 양성에 긍정적인 영향을 미칠 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "이병학, 충남교육감 재도전…‘충남교육 혁신’ 출판기념회",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTnFsQTZzSzJhYzVITFVnTjBVNzA0M3lhLW1ETVJtU1FOcERPTVBrcld2UHlHZXVpQ1FoVEZnWE5Bd3ZKMTNQOERBeUJwRzF0TGxwa25neUNQYV9PSE81dk9hRmlIM0NwSUpXOFF1UzVlanUtakZYRWpEOU5RRmNKajJXRQ?oc=5",
+    "source": "서울신문",
+    "published": "2025-12-14",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "이병학 후보의 충남교육감 재도전은 교육 혁신 공약 제시를 통해 충남 교육 정책 방향 설정에 영향을 미칠 수 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "이병도 전 천안교육장, 차기 교육감 출마 본격화… \"충남교육의 미래 10년, 혁신 거듭하며 변화할 것\"",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5lbzczdGpVcFJqZWVQS0FIX0lLTU12cjlta1hQR3NJLWtXZGJ0MTU1cmFYb0JWaXRuUEhJbjlLdUt5RjF2Zkw5SjVVUGZYRzVKOS04YWM0aVVtZHF3bFV6dmVYQjc?oc=5",
+    "source": "중도일보",
+    "published": "2025-12-14",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "이병도 전 교육장의 교육감 출마는 충남 교육계에 새로운 혁신과 변화에 대한 논의를 촉발할 것으로 예상됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "충남교육감 선거, 이병학 다시 뛴다…\"교육 다시 세워야 할 때\"",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FV1gzaWYtRWxPUzdoYWh0dXppLXY4TlNNX0t4Z3d0d0VaN0ZlbllCNUZYcVVLNW03ZDdaLVgwdHNwemJFdVFpdWNmY09fSWRZUlIxRFdVdGNGUmpwcHBodw?oc=5",
+    "source": "네이트",
+    "published": "2025-12-14",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충남교육청",
+     "교육감 선거"
+    ],
+    "summary": "충남 교육감 선거에 이병학 후보의 재출마는 교육계의 보수적 가치 재정립 요구를 반영하며, 향후 교육 정책 방향에 상당한 변화를 가져올 수 있음을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "김상동 전 경북대 총장, 경북교육감 출마… “현 교육체제, 더는 미룰 수 없다”",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sY1hoYWFrcGpaVGdDYXBONzlZWjN3OUVoSGEtVWJhU1k4UXdqa3dWQno4Z2ozUGptN2s3cHRzNUNITk5Zd0dSWVRFMzBlazFaOVdTMklYVGsyRUhFRUVla3VVSzZscUk?oc=5",
+    "source": "영남경제",
+    "published": "2025-12-14",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경북교육청"
+    ],
+    "summary": "김상동 전 총장의 교육감 출마는 대학 총장 출신 인사의 교육계 진출이라는 점에서, 고등교육과 초중등교육 연계 강화에 대한 요구를 반영하는 움직임으로 해석될 수 있습니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "The Effects of University Teachers’ Perception, Attitude and Motivation on their Readiness for the Integration of ICT in Classroom Teaching",
+    "url": "https://www.semanticscholar.org/paper/2dc76b3b7b182df1d14d8a7a211d5ea82897799d",
+    "source": "semantic_scholar",
+    "published": "2019-11-18",
+    "keyword": "",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [],
+    "summary": "파키스탄 대학 교사들의 ICT에 대한 인식, 태도, 동기가 교실 수업에서 ICT 통합 준비도에 통계적으로 유의미한 영향을 미치는 것을 밝혀내고, ICT 활용에 대한 긍정적 태도 함양을 권장하는 연구 결과를 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Sharik Zamir, Martin Thomas",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "Integrating design thinking into instructional design: The #OpenTeach case study",
+    "url": "https://www.semanticscholar.org/paper/0461442a2a27c821c96482ecf3230c0dc341c4d3",
+    "source": "semantic_scholar",
+    "published": "2021-09-20",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "#OpenTeach 온라인 강좌 설계 사례 연구를 통해, 디자인 사고의 공감 단계를 교육 설계에 통합함으로써 학습자의 몰입과 학습 목표 달성을 효과적으로 지원할 수 있음을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "C. Ní Shé, Orna Farrell 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Instructional Design and Models: ASSURE and Kemp",
+    "url": "https://www.semanticscholar.org/paper/a894c2e14b195e560a599ad0a59258909cf24521",
+    "source": "semantic_scholar",
+    "published": "2019-11-01",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 교육 및 훈련 프로그램 개발 절차인 교수 설계(ID)를 정의하고, 학습 및 교수 원리를 교육 자료, 활동, 정보 자원, 평가 계획으로 체계적으로 변환하여 양질의 교육을 보장하는 데 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "J. Bajracharya",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "Student Assessment Feedback Effectiveness Model for Enhancing Teaching Method and Developing Academic Performance",
+    "url": "https://www.semanticscholar.org/paper/aee9c1835d5c15d4a10d48198cc0ba8fd08f623f",
+    "source": "semantic_scholar",
+    "published": "2019-07-01",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "오만 BUC 대학에서 학생 평가 피드백을 e-러닝과 통합하여 교수의 강의 방식을 개선하고 학생 학습 성과를 향상시키는 모델을 개발, 설문 조사를 통해 효과성을 검증하여 교육 환경 개선에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "R. M. Tawafak, Awanis M. Romli 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "Technology-Assisted Self-Regulated English Language Learning: Associations With English Language Self-Efficacy, English Enjoyment, and Learning Outcomes",
+    "url": "https://www.semanticscholar.org/paper/9527d2e5c70ff8d4610ab7cba101dd486270d15a",
+    "source": "semantic_scholar",
+    "published": "2021-01-05",
+    "keyword": "",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제"
+    ],
+    "summary": "본 연구는 중국 대학생들의 영어 자기 주도 학습 전략과 영어 효능감 및 즐거움이 학습 결과에 미치는 영향 관계에서 기술 기반 자기 주도 학습 전략의 매개 효과를 분석하여, 기술 활용 교육 시 동기 부여 전략 개발의 중요성을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Zhujun An, Chuang Wang 외 1명",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "KAIST-IBM연구소, 인간 뇌 처리 방식 활용 ‘AI 강화 학습’ 논문 발표",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204761",
+    "source": "AI Times",
+    "published": "2025-12-14",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "KAIST-IBM 연구의 인간 뇌 기반 강화 학습은 목표 변화에 강건한 AI 시스템 개발 가능성을 열어 산업 현장의 AI 적용 안정성을 높일 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "구글, ‘제미나이 2.5 플래시 네이티브 오디오’ 공개...\"실시간 음성 에이전트로 진화\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204770",
+    "source": "AI Times",
+    "published": "2025-12-13",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Gemini",
+     "에이전트"
+    ],
+    "summary": "구글의 제미나이 2.5 플래시 네이티브 오디오는 실시간 음성 AI 에이전트 시대를 가속화하여, 대화형 AI 서비스 경쟁 심화를 예고합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[AI의 역사] 96 접근조차 어려운 방대한 파라미터의 경쟁 – 초거대 AI의 시대",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204771",
+    "source": "AI Times",
+    "published": "2025-12-13",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "초거대 AI 시대는 막대한 자본과 컴퓨팅 파워를 가진 소수 기업에게 AI 기술 주도권이 집중될 가능성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "코히어, 검색 정확도 높인 AI 에이전트용 모델 ‘리랭크 4’ 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204781",
+    "source": "AI Times",
+    "published": "2025-12-14",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "코히어의 리랭크 4는 확장된 컨텍스트 창을 통해 AI 에이전트의 검색 성능을 향상시켜 기업 생산성 증대에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "OpenAI's GPT-5.2 is here: what enterprises need to know",
+    "url": "https://venturebeat.com/ai/openais-gpt-5-2-is-here-what-enterprises-need-to-know",
+    "source": "VentureBeat AI",
+    "published": "2025-12-11",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT",
+     "LLM"
+    ],
+    "summary": "GPT-5.2 출시로 OpenAI는 기업용 LLM 시장 경쟁력을 강화하며 AI 기술 상용화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "엇갈린 'GPT-5.2' 평가 \"전문 작업 역대 최강...일반 채팅 개선 적어\"",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1adG1IUzRoYmh3ZlZudk02dlNSM2Z4TmNTYU9DNVJYN0ZvdlA2bDNqMFAzbmprLTBycVVjaHdRNUx4dUlMdGljU3gybVozVm9jck1wQnNtb2stdjhWZEw2OWVRSFlqSVdGNEE?oc=5",
+    "source": "AI타임스",
+    "published": "2025-12-14",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.2는 전문 영역 특화로 AI 산업의 B2B 시장 경쟁력을 강화하는 반면, 대중적인 챗봇 사용성 개선은 미미하여 기술 양극화 심화 가능성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "GPT-5.2 first impressions: a powerful update, especially for business tasks and workflows",
+    "url": "https://venturebeat.com/ai/gpt-5-2-first-impressions-a-powerful-update-especially-for-business-tasks",
+    "source": "VentureBeat AI",
+    "published": "2025-12-11",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.2는 기업 업무 자동화 및 워크플로우 개선에 기여하며, AI 기반 생산성 향상 경쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "동물백신 연구에 AI(인공지능) 기술 접목한다",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB3UW53V3RWZ1pVcGRObmt6cWc4NjdkRnRHRVZjZEsyQzNXYUZOUEZxaVFsU0xFcVZOb3EzaFZwQjY0cmJiYTBWMFRVS0RsWlk1SnIyNGczWWlHeXRfR09RV0tB?oc=5",
+    "source": "돼지와사람",
+    "published": "2025-12-14",
+    "keyword": "인공지능",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 기술이 동물 백신 연구에 적용됨으로써 바이오 산업의 혁신을 가속화하고 관련 AI 기술 시장 성장을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "연세대, \"AI-RAN 연구 허브로 도약\"...IEEE 글로브컴에서 '6G AI-RAN' 핵심 기술 대규모 시연",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvczRESG9hTnNIMnoyYkdxdVVISUJXTVFvNFBURkptbDhiT2hBMHowRXJYdWpHNHRHRzlGaGViZ3hGcVhuM1J4djlmM0JrVmJaam9nUmZWNWZZdFJaOE9YaC1nUUk0N28?oc=5",
+    "source": "인공지능신문",
+    "published": "2025-12-14",
+    "keyword": "AI연구",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "연세대의 6G AI-RAN 기술 시연은 AI와 통신 융합 연구를 가속화하고 차세대 통신 시장 경쟁력 확보에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "\"GPT도 제미나이도 무료\" 전남대, 생성형AI 8종 무료 제공",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NMTNLeDNVU3V3dndiVlZoS3R1dE5ieDJfdF8zZUhYVGNlVXliaDZFWXJZUG9VSHA2N3Y3RWZrUUk1YUpiM28xS3Z0VFdrTU1Ic3k1Z0s3ems4TWEyclI0?oc=5",
+    "source": "뉴스1",
+    "published": "2025-12-14",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Gemini",
+     "생성형 AI"
+    ],
+    "summary": "전남대의 생성형 AI 무료 제공은 지역 대학 경쟁력 강화와 AI 기술 저변 확대에 기여할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 인재 육성, 미래 교육 기술 도입, 교원 정책 변화 모색과 함께 교육 혁신을 위한 리더십 경쟁이 본격화되며, 대한민국 교육은 긍정적인 방향으로 대전환을 맞이하고 있습니다.",
+  "tech": "AI 기술은 인간 뇌 모방, 실시간 음성 에이전트, 검색 정확도 향상, 특정 작업 능력 강화, 다양한 분야 융합, 그리고 접근성 확대 등 다방면으로 발전하며 더욱 강력하고 유용하게 진화하고 있습니다."
+ }
+}

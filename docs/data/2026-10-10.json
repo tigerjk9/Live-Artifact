@@ -1,0 +1,423 @@
+{
+ "date": "2026-10-10",
+ "generated_at": "2026-11-02T11:44:41+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "“교사 반발만으로 교육정책 뒤집나”…학부모들, 국교위에 자료 공개 촉구",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0ZEhpUVRoTXpQWGJLdUxwaUtpYlo1ZEFlVlljUVFRSFF0REtoTVIyQUNLLXJXQ05Ca09ZTDBWSlZNU3lfRW5oLUk0Z1AwQUpTa19LOWN6SWxxWG9Dcjhwc3pvT0JzNWlM?oc=5",
+    "source": "한국NGO신문",
+    "published": "2026-10-09",
+    "keyword": "교육정책",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [],
+    "summary": "학부모들이 “교사 반발만으로 교육정책 뒤집나”라며 국교위에 관련 자료 공개를 촉구했습니다.",
+    "implication": "학부모의 교육정책 참여는 교사가 수업에서 사회 현안을 다루며 다각적 관점을 제시할 소재가 될 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "안민석 경기도교육감, 취임 100일 맞아 현장교사와 교육현안 소통",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RcFk0WHlLT1RPTGZnQ2pLOGYtQUJ6a3NEdWlRMmttMHJDc1JIb2dDYjBxMHNfLTFxbWhIeGtqQTNKQjRySEZ0c1ZMc25DX2FUVlF4NkZwajFSejhaNW5MRmJNc3FyUmdJZ2hlR0VSTmdRU0dn?oc=5",
+    "source": "글로벌뉴스통신GNA",
+    "published": "2026-10-09",
+    "keyword": "교육정책",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "안민석 경기도교육감이 취임 100일을 맞아 현장 교사들과 교육 현안에 대해 소통했다.",
+    "implication": "현장 교사들은 교육감과의 소통을 통해 수업 개선에 필요한 현장 의견을 전달할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "교사의 거의 60%가 교수법 관련 전문성 개발에 대한 필요성이 매우 높습니다.",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMWhhRXdPZDQtMTRlNnhHeWxOU21Vd1AyNlQ3X2pteVZ1a2RKcG1rN1VIX2tYYmo5Y0RrMzlBMlV4OGhUNDBHa2VDUlFrWGtvbFI5bmdwTDhabTh0OFVDNFd0QVhxeHk4Q2NVdUs0ZU9jZVozUjR1YTZZZ010TjhCdmwteFFFRmh4X09IM0d1aw?oc=5",
+    "source": "Vietnam.vn",
+    "published": "2026-10-09",
+    "keyword": "디지털교육",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "베트남 교사의 약 60%가 교수법 관련 전문성 개발에 대한 강한 필요성을 느끼고 있습니다.",
+    "implication": "많은 동료 교사들이 교수법 개선에 공감하므로 새로운 수업 방식을 함께 모색할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "안민석 교육감 “AI시대 필요 교육, 공교육에서 책임있게 실행”",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5lXzIwQlZVazdsdjhhVXpYRVZYNnc4Wjc1MUk5TlV5Y3BiaEkyVlcwQzNZenBZV1dwaVFJZE5PWEdmRkFOcVhZWHltcjZNTTZxckRpeWpfNjdEb3JLT1pqQlJiRk1EcGpBS3hGQg?oc=5",
+    "source": "베이비타임즈",
+    "published": "2026-10-09",
+    "keyword": "AI교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "안민석 교육감은 AI 시대에 필요한 교육을 공교육이 책임지고 실행하겠다고 밝혔습니다.",
+    "implication": "AI 시대 교육의 중요성을 인지하고 수업에 AI 관련 학습 요소를 접목할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "교사 약 63%, 수업·평가에 생성형 AI 활용…평가원은 5대 원칙 제시",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BQjVyVU5qWjAxUWhUMFNycWtKMGlzbHRhUUFoTmFVczRjWkdxUXdISlRqYkoyenNJcEpCd3plQzVLVkJKb25PVUU2V1B3VkdyV3hNb056dVpXOVdDakY1VG9CT3Iydw?oc=5",
+    "source": "교육을 비추다",
+    "published": "2026-10-09",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "평가원"
+    ],
+    "summary": "교사 약 63%가 수업·평가에 생성형 AI를 활용하며, 평가원은 관련 5대 원칙을 제시했습니다.",
+    "implication": "평가원이 제시한 5대 원칙을 바탕으로 생성형 AI를 수업에 효과적으로 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "임종식 교육감 취임 100일을 돌아보고 내일을 그리다",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrUTM5QlZWSldNcDlwQ0JmLXM1Vkd2djc1c2NhQ1QtMWlkUHBRQ2pibFlZWHNPMXpMbDY0OU5jcmQ5X3oyT0p6blNTSC1aYm1qWTkwWEMyaWZSUGRpVDQ0Vg?oc=5",
+    "source": "경북투데이",
+    "published": "2026-10-09",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "경북투데이가 임종식 교육감의 취임 100일을 맞아 그간의 활동을 되짚고 미래 비전을 다룹니다.",
+    "implication": "학생들과 교육감의 취임 100일 성과를 공유하고 우리 지역의 미래 교육을 함께 탐색하는 활동을 해볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "안민석 경기도교육감 “경기북부 교육격차 줄이고 교육의 질 높이겠다”",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93VGtfTVhBRVg0Q24yNXhkNEluWnBfNnotLTl2UTVOVkdFdEpLY2p2WHNXQVBNT3hhREpuM0FYZldrOWE3S2tZZFFYMGdRRWRjZ3dOUS1UM1dMaDZuak9Vbkp1dmgtdWV6UXR3?oc=5",
+    "source": "CNB뉴스",
+    "published": "2026-10-09",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "안민석 경기도교육감은 경기북부 지역의 교육격차를 줄이고 교육의 질을 높이겠다고 밝혔다.",
+    "implication": "경기북부 교육격차 해소와 질 향상 약속으로 우리 학교에도 더 나은 교육 기회가 생길 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "경기도교육청, 경기직업교육 대전환 위한 학과 재구조화 시동",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9CX3FvSDVrWnhUaS0xOEd0b1JkUW1QVUp0STRWZUJSVWVGMDFpSE1rNjNvSk5LaFpiRTJpZ2htVU5BbGpPbjJzMnFMeG1KSUJjNVd0MEtvb0FjcjdOU1R2c002blk4RllmcUtUNGU3LTR3T0kx?oc=5",
+    "source": "글로벌뉴스통신GNA",
+    "published": "2026-10-09",
+    "keyword": "교육혁신",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청이 경기직업교육의 큰 변화를 위해 학과 재구조화를 시작합니다.",
+    "implication": "학생들에게 변화하는 직업교육 동향을 설명하며 관련 산업 정보를 전달할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "초중등학교 교육부, 생물 다양성 보존에서 교육의 중요한 역할 강조",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1Fd3BJdTd1NkZITGNQTUloUXQtcUttNEktUTNQMzd4RHAwZzMwc1VHdjdHNWF4ekNINTZVbEtvbDdFSGd5UWfSAUJBVV95cUxONEY0QmVTVUZqRk04TWpZWkdsYjRUa2FoRVBDUmF0WXVrVGt1TU83VVhxU2hPSlp3VjA1d1kxWDF5Z0E?oc=5",
+    "source": "VOI.ID",
+    "published": "2026-10-09",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "초중등학교 교육부가 생물 다양성 보존 교육의 중요한 역할을 강조했습니다.",
+    "implication": "생물 다양성 보존의 중요성을 학생들이 탐구하고 실천할 수 있는 수업을 구성할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "인천환경공단, 생성형 AI 도입해 위험성평가 자동화 프로세스 구축",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTWU9hdkpDbGhpd240Wm4zZUhsMFZDYmlkYTdLSnRkNXJGcXBvYWZGcDZ0TmRsdkc2UHFCVWxLN3VVMW1qTGNiNEhIUmppSlRlY2xGZTg1U0hDRDczUjkyRg?oc=5",
+    "source": "메트로신문",
+    "published": "2026-10-09",
+    "keyword": "생성형AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "인천환경공단은 생성형 AI를 도입하여 위험성평가 자동화 프로세스를 구축했습니다.",
+    "implication": "학생들에게 생성형 AI가 자동화 및 문제 해결에 활용되는 구체적인 예시로 제시할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Reimagining Inquiry Through AI: Emerging Technologies for Scalable Complex Problem-Solving",
+    "url": "https://doi.org/10.1007/s10758-026-10034-3",
+    "source": "openalex",
+    "published": "2026-10-07",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "본 연구는 K-12 학생의 복잡한 문제 해결을 위한 탐구 학습을 지원하고자, 맞춤형 AI 챗봇을 개발하여 개인화된 지원과 인지 부하 감소를 통해 학습 경험 확장에 기여할 잠재력을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Andrew A. Tawfik, Shelbi Laura Kuhlmann 외 1명",
+    "pdf": "https://link.springer.com/content/pdf/10.1007/s10758-026-10034-3.pdf"
+   },
+   {
+    "n": 2,
+    "title": "Unpacking individual differences in AI teachable agent engagement: Associations with engagement and mathematics exam performance across learner groups",
+    "url": "https://doi.org/10.1016/j.lindif.2026.103009",
+    "source": "openalex",
+    "published": "2026-10-07",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "에이전트",
+     "문해력",
+     "AI 튜터"
+    ],
+    "summary": "중학교 학생들이 AI 티처블 에이전트를 활용한 수학 학습에서 개별 특성(인종, 성별, 문해력)과 학습 전략이 학업 성과에 미치는 영향을 분석하여, 최적의 학습을 위한 맞춤형 AI 튜터링 시스템 설계의 중요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Yinqi Zhang-Kopf, Chenglu Li 외 1명",
+    "pdf": "https://www.sciencedirect.com/science/article/pii/S1041608026001433/pdf"
+   },
+   {
+    "n": 3,
+    "title": "Improving Educational Outcomes Through Adaptive Learning Systems using AI",
+    "url": "https://www.semanticscholar.org/paper/865134d2c20ad2b10974ac9cd634b8132909eef5",
+    "source": "semantic_scholar",
+    "published": "2024-11-06",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "이 연구는 AI 기반 적응형 학습 시스템이 혼합 연구 방식으로 학생 성과를 유의미하게 향상시키고 참여도를 높여 교육의 질과 형평성을 크게 증진함을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Herva Emilda Sari, Benelekser Tumanggor 외 1명",
+    "pdf": "https://journal.pandawan.id/italic/article/download/647/487"
+   },
+   {
+    "n": 4,
+    "title": "An Adaptive e-Learning System for Enhancing Learning Performance: Based on Dynamic Scaffolding Theory",
+    "url": "https://www.semanticscholar.org/paper/fd4f98a7ffdac0d3d3d8aece2ed10b774399d7c0",
+    "source": "semantic_scholar",
+    "published": "2017-12-07",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "동적 스캐폴딩 이론과 자기 평가 루브릭 기반의 적응형 이러닝 시스템을 개발하고 그 효과를 실험적으로 입증하여, 학생들의 학습 성과와 인지 능력 향상 및 개인 맞춤형 교육 환경 조성에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Chun-Hui Wu, You-Shyang Chen 외 1명",
+    "pdf": "https://www.ejmste.com/download/an-adaptive-e-learning-system-for-enhancing-learning-performance-based-on-dynamic-scaffolding-theory-5314.pdf"
+   },
+   {
+    "n": 5,
+    "title": "Integrating Differentiated Instruction and Understanding by Design: Connecting Content and Kids",
+    "url": "http://shop.ascd.org/productdisplay.cfm?productid=105004",
+    "source": "eric",
+    "published": "2006-01-01",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "차별화된 교수법과 설계에 의한 이해를 통합하여 모든 학생의 학습을 극대화하고, 역방향 설계를 통해 맞춤형 교육과정을 개발하여 교사에게 명확하고 유연한 교육 목표 달성 방안을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Tomlinson, Carol Ann 외 2명",
+    "pdf": "http://shop.ascd.org/productdisplay.cfm?productid=105004"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "오픈AI 해고 연구원 3인 \"AI 추론 감시 기능 보존해야\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216093",
+    "source": "AI Times",
+    "published": "2026-10-09",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "오픈AI 연구원들의 주장은 AI 개발 경쟁 속에서 투명한 AI 추론 감시 기능 보존이 산업계의 핵심 윤리적, 기술적 과제가 될 것임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "구글, 기업용 '제미나이 에이전트' 출시…'아르곤'·'클로드' 동시 탑재",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216096",
+    "source": "AI Times",
+    "published": "2026-10-09",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Gemini",
+     "에이전트",
+     "Claude"
+    ],
+    "summary": "구글의 기업용 제미나이 에이전트 출시는 복수 AI 모델을 통합 활용하는 플랫폼 전략이 AI 산업의 핵심 경쟁 우위가 될 것임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "OpenAI GPT-5.6 출시됐지만 대부분의 이용자는 여전히 차단된 상태",
+    "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPWUpaa0VjRktLZHdEOUY5MXJUN2xfUHZjTGd4MEpTOUNNQll0aVpJU3ExYlVVWGE3bnFhQ0hzcFNVa0VXUVh1d3J6TlNhTmRYSEI2eWFkTmFsWXUwNzkzSTFxcElkX0tqT04za3dzaHNNcS1aTEw1dURsYTBBMEdHN1dIZjRVeDB6bHNjMHRYeHFCdjN0aXZxTmpOcmtwMDRSeVlDakN6Y3A0NGVlUXowSnlvS3RydDhzWGVtU25aLVczd0xqd1U1QTBrWnc0WUY5NnM2b1RBV21Fd1NkZDhHcW50M0hHNGpOS1l1RXRpX01zc1podWZuQk1rdHVXSV9xbmpSNlpLOG52c0JQYmdyQTJmLUlxWDJfZ1FuMzVtUXcxNzVWcEV2MU9kdTNQUDlOa3d5eXdTQ0J5NjR3Ync?oc=5",
+    "source": "Yellow.com",
+    "published": "2026-10-09",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.6의 제한적 출시는 최첨단 AI 모델의 전략적 공급 통제가 시장 선점 경쟁을 심화시키고 접근성 격차를 유발할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "Chatham scales its capital markets expertise with OpenAI",
+    "url": "https://openai.com/index/chatham-financial",
+    "source": "OpenAI Blog",
+    "published": "2026-10-02",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "OpenAI를 활용한 자본 시장 전문성 확장은 AI가 고도로 전문화된 산업에서 인간의 역량을 증강하고 확장하는 핵심 도구가 될 것임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "앤트로픽 '클로드 사이언스', 인류 최초 자외선 전체 하늘 지도 완성",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216106",
+    "source": "AI Times",
+    "published": "2026-10-09",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude"
+    ],
+    "summary": "AI가 과학적 발견을 가속화하는 핵심 동력임을 입증하며, AI 기술의 고부가가치 응용 분야 확대를 이끌 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "“인형과 대화하며 영어 배운다”…스카이, GPT-5-mini 기반 ‘AI 판다’ 선보여",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2ODBobmE4aUZLMHpxb29lZ0tGd2RGeDIweUxOX0J1bGNMYkt2X2gzUXBzQ2t0M1JKUXd2bnE2c0dlblpnZ3NMSjY5TkQxNmp6MV9WQy1EeXdpOF83eENkbEY1RFRVR1RnTHNnTw?oc=5",
+    "source": "뉴스탭",
+    "published": "2026-10-09",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-5-mini 기반 AI 판다는 LLM의 소형화와 물리적 제품 접목을 통해 AI의 일상화를 가속화하며 새로운 시장을 창출할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "How Albertsons Companies is reimagining retail from the inside out",
+    "url": "https://openai.com/index/albertsons-reimagining-retail",
+    "source": "OpenAI Blog",
+    "published": "2026-10-01",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [],
+    "summary": "알버트슨즈의 내부 혁신은 AI가 유통 산업의 운영 및 비즈니스 모델 전반을 재정의하며 필수적인 AI 기술 생태계 수요를 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "I Hid Four Traps in a Forecasting Task. Here Is What Four AI Assistants Did.",
+    "url": "https://towardsdatascience.com/i-hid-four-traps-in-a-forecasting-task-here-is-what-four-ai-assistants-did/",
+    "source": "Towards Data Science",
+    "published": "2026-10-06",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "예측 과제 속 함정에 드러난 AI의 한계는, AI 기술 신뢰성 확보를 위한 비판적 사고력 및 견고함 강화가 필수적임을 강조합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "\"6~12개월 내 터진다\"…주요 AI 기업, 최악의 AI 재난 시나리오 가동",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216112",
+    "source": "AI Times",
+    "published": "2026-10-10",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제"
+    ],
+    "summary": "주요 AI 기업들의 재난 시나리오 가동은 AI 안전 및 규제 논의를 가속화하고 산업의 기술 개발 및 책임 방향에 중대한 영향을 미칠 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "Anthropic, Claude Dashboards와 Motion을 출시하고 Docs를 베타에서 해제합니다",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT0xXQlhpNng5V0pCdExlSzhabXd0MVdwT1Y2ZEJReGYtT3FjTlQza0tSejk0RWVOaWEtZU56eFFCMXN0cVpzbXBYdUgyNlF3dnlQOS1CbkJnNmNtUTRCeWJjMmpOMWZwM3IyZHdvUzNsLWxKZ2IyRXZ1TkFxT2hNTmNzSGZWRGFsSnJURjN6Y3UyTk03YlE2bFZUYw?oc=5",
+    "source": "Unite.AI",
+    "published": "2026-10-09",
+    "keyword": "Anthropic",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude"
+    ],
+    "summary": "Anthropic의 Claude 기능 강화는 AI 모델의 기업 도입 장벽을 낮추고 실질적인 비즈니스 활용을 촉진하여 AI 시장 경쟁을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

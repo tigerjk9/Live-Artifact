@@ -1,0 +1,416 @@
+{
+ "date": "2026-03-19",
+ "generated_at": "2026-11-02T11:53:40+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[칼럼] AI 중점학교, 공교육 혁신의 출발점이 되어야 한다",
+    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1YdmNjVWNVekZwMG15c19tOGhiZm1TQVhlTzBBaXFqUUZ0XzhMdXFjLXVHS21FU0NYOVJ1QTY2SXh2QXdL?oc=5",
+    "source": "케이에스피뉴스",
+    "published": "2026-03-18",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 2,
+    "title": "[사경희 이사장 칼럼] 호기심이 사라지면 배움도 멈춘다",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yRzNwM0tOSHNVUVVNeXVraEJJRFJFbUpKVmhVNjQ1c3M3c0RDYS1za1UwX0d3dFFtZWRWTHhqaGtCMFhQSGNKR01hY21aR0prekxBeVpsLV9ON3NpS2puTms1RmE1ZUgyMzhyNA?oc=5",
+    "source": "캐어유 뉴스",
+    "published": "2026-03-18",
+    "keyword": "디지털교육",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 3,
+    "title": "[사설] 울산폴리텍 ‘피지컬 AI 중심’ 선언이 반가운 이유",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZTk16RFB5TmM0Q2RyekVqOXpJWWFNenlIcV92aUNLeVltcks2NEZWWWhSWl9RWmt6Tm1oWFg5U2ZDZGExY0JnbFl0WlFCV3h2ZEFQU3ptdXZ6cWxiYUhnclg1eThMVFFHZ0HSAW5BVV95cUxPa1NaRjdDRHBwOE1vWDdzbXpydkpNMVMxYmx3elpLczNPX2JGb2VXejNfaG5mdDZDM2hBQXNGQXI0WEVTYm9Tb2kwV2owWXBMYWl0b3EzRmVSeTE2LUpMSFMwX0t3bmVZTDU4UjFzUQ?oc=5",
+    "source": "울산매일",
+    "published": "2026-03-18",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 4,
+    "title": "[교육단신] 교육부, 초·중등 인공지능 교육 담당교원을 위한 연수과정 최초 개발",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ac1p3dUd1Ql9LeEo0M25MQU1TYzVFckUwdWpSNlpVeXo1cDl3ckY1cWNFelJ1UFRDRnplZjlNXzJpdjczNTdWSlNBam82V2pVMGxRY215RjFWajZJRXo0WGJCWER2ZlJt0gFrQVVfeXFMTzZXMkUzMmdnVUlTdHczaDRBOXVSYlFKOThHZFctdXg0VkplSjFVYmNUa29ib3lDY05sTlRPTlVKOTA3Z2ZJV1dlWno2TkJ4YzBvWEN6SlN3NnZsbE1EOUdaY3FJVVlJb3REcEU?oc=5",
+    "source": "고려대학교",
+    "published": "2026-03-18",
+    "keyword": "인공지능교육",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 5,
+    "title": "서울 시내 폐교, AI교육센터·특수학교로 탈바꿈…“미래교육 거점”",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iVXRGS19BVGpWb0ljaFZzazlQMlBPaVNhM2U5aGRGcktjMDhqMnhFbGhLNzg2akhTU2RZUmVjbXp6MVc5TmNqaUMxaWtNODVIby1qSFZn?oc=5",
+    "source": "중앙일보",
+    "published": "2026-03-18",
+    "keyword": "인공지능교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 6,
+    "title": "\"AI 활용 넘어 'AI 원어민'으로… 대학 교육부터 바꿔라\" [논설실의 뉴스 진단]",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xbTV6dDREX1kzY0ZYaEo4d2JBc0ZIVUtvQW1hWTBzdDZwRVlxYXB4LXhtUGxCTWxETWtBR1FZWktLTHFmYlY3Q1U2THNPeVk?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-03-18",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 7,
+    "title": "'AI 교육부터 실무까지 한 번에' 서울시, 청년 인턴 기회 늘린다",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjSnBrd1VSWmYzRkFoWTM1cDVnYzlCZklpX25jaE80M1NLYzJxYXVjQmN4aGlSVk1uWElhMjQ4ZlhsbHRvTEJndGl4dlJCQjV5cFpEMGNicWpIS0VwTTBaanM0dlB6dVJj?oc=5",
+    "source": "더쎈뉴스",
+    "published": "2026-03-18",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "안광식 예비후보, 세종 교육개혁 청사진 공개…AI국제교육원·체육중고 신설 추진",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WcDhsc0hUbXZRMnI3QnNyR3RZaHZfYURhaHIycW10RXROMnhSbHR1Wkk2clFvNThWb2RONjctZS1Ucm9EQmRpWm4tb0dESllWandfdzdVR0xaRkpXREg3TUxXc1psMU94?oc=5",
+    "source": "미래세종일보",
+    "published": "2026-03-18",
+    "keyword": "교육혁신",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [
+     "교육감 선거",
+     "세종시교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "서울시교육청, “폐교를 미래 교육 거점으로”, ‘공간 혁신’ 5개년 전략 시동",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5UnBBbU1RWTBWdHVoY0RJWkczdVhXTUp4aFpaRW5CS2lhZ1YtcGZVVjIzRUZGTUcwbEU3cFlzQldhSlF0THBBcTR5akdRMjRXWHA4RURLZUFpVV9jRWNUV0lqbC13MW02TldBYzRSMUfSAXRBVV95cUxOeDloeVVYZEZQU3BWNFE5TzZKMTJaX0R3REtFTXBIR3ZZUi1PdV83Ukk5MWFQSGczQzg4RUF2UWF5N2FPcTE1QmRiVU44SjFaeThCZlhPSHlGeWpjUVRrajRBR0IyV05pcEtEejl3eHZCU1NsbA?oc=5",
+    "source": "이뉴스투데이",
+    "published": "2026-03-18",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "서울시교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 10,
+    "title": "경기도교육청, 인공지능 전환 시대 대응 경기직업교육 대전환 도모",
+    "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQeVFyRnIyVERTb1UwMGlaOXpLa0t3NnRMbGdxZWdCbUxza3hZd2xjMlNaUnJJZlI3dHBScDZoZ09jMTNKRmdtbUlmak9KSDJnc1BKYmpheHE1OW1vMHQwakZDQXp2YTZrR3F4clVEQmhwY3g2dUY0NWF5ajVRLVFmUDBOQld5OUd2dktvSU5XUk5jajZoVlljZk1NVkVRQzd5ajRiQS1UVGxlZ3M3dzAtRHZXU2xSY01WcmttTnlWU2E2eTQtSnJ1VlBNMVhTdUJQTktDRVVWQ29iLVI1TVh0TG5acS0tMjRuaEpyNUVuUTdCX3otWlNlZGpUUmo4V1V3eUJzWGVzcWVER0Q5Ml9ROFhEYnlGU1dFbkZCNTk3SXkwejVka0HSAaYCQVVfeXFMUHlRckZyMlREU29VMDBpWjl6S2tLdzZ0TGxncWVnQm1Mc2t4WXdsYzJTWlJySWZSN3RwUnA2aGdPYzEzSkZnbW1JZmpPSkgyZ3NQSmJqYXhxNTltbzB0MGpGQ0F6dmE2a0dxeHJVREJocGN4NnVGNDVheWo1US1RZlAwTkJXeTlHdnZLb0lOV1JOY2o2aFZZY2ZNTVZFUUM3eWo0YkEtVFRsZWdzN3cwLUR2V1NsUmNNVnJrbU55VlNhNnk0LUpydVZQTTFYU3VCUE5LQ0VVVkNvYi1SNU1YdExuWnEtLTI0bmhKcjVFblE3Ql96LVpTZWRqVFJqOFdVd3lCc1hlc3FlREdEOTJfUThYRGJ5RlNXRW5GQjU5N0l5MHo1ZGtB?oc=5",
+    "source": "데일리안",
+    "published": "2026-03-18",
+    "keyword": "교육혁신",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Emotion-Aware Classroom Quality Assessment Leveraging IoT-Based Real-Time Student Monitoring",
+    "url": "http://arxiv.org/abs/2603.16719v1",
+    "source": "",
+    "published": "2026-03-17",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 IoT 기반 실시간 학생 감정 모니터링을 통해 교실 내 학습 환경을 개선하고 교사-학생 간 상호작용을 증진하여 교육 효과를 높이는 감정 인식 교실 품질 평가 시스템을 제안하고 Classroom Emotion Dataset을 구축하여 검증합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Hai Nguyen', 'Hieu Dao' 외 3명",
+    "pdf": "http://arxiv.org/pdf/2603.16719v1"
+   },
+   {
+    "n": 2,
+    "title": "The Landscape of Teaching Resources for AI Education",
+    "url": "https://www.semanticscholar.org/paper/bb90bfd7e7fde04bac8830ec94e931951517dcb4",
+    "source": "semantic_scholar",
+    "published": "2022-07-07",
+    "keyword": "AI education",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 교육 자료에 대한 체계적인 분석을 통해, 대부분의 자료가 능동적 학습을 지원하지만 AI4K12 가이드라인을 충족하지 못하고 평가 및 피드백 기능이 부족하며, 교사 지침 접근성이 떨어져 AI 교육과정 설계 시 포괄적인 지원과 융통성을 고려해야 함을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Stefania Druga, Nancy Otero 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Including multiple languages in secondary education: A translanguaging approach",
+    "url": "https://www.semanticscholar.org/paper/43c97fcd6b6f3bb37731093c33da21f04d7c9780",
+    "source": "semantic_scholar",
+    "published": "2020-01-22",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "다문화"
+    ],
+    "summary": "네덜란드 프리지아 지방의 다중언어 교육 사례 연구를 통해, 언어 분리 교육에서 벗어나 학생들의 모든 언어 자원을 활용하는 초언어적 접근이 다문화 교실에서 효과적임을 밝히고, 교사 양성 프로그램에 이러한 내용을 통합할 것을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Mirjam Günther-van der Meij, J. Duarte 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "RETRACTED: A study on the evaluation method of foreign language classroom teaching process from the perspective of neuroeducation",
+    "url": "https://www.semanticscholar.org/paper/63e15ca9be694839ead67d3d405d0e9019f531e3",
+    "source": "semantic_scholar",
+    "published": "2021-01-24",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "(취소된 논문) 신경교육 관점에서 외국어 수업 과정을 평가하기 위해 신경과학적 평가 방법을 적용하여 교사의 교수 능력, 학생의 학습 능력 및 효과, 교육 과정 내용 선택 등 객관적인 평가 기준을 제공하고자 시도합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ruifeng Luo, Qiaoyun Liao 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "Taking social media to a university classroom: teaching and learning using Twitter and blogs",
+    "url": "https://www.semanticscholar.org/paper/0115087aa9b31fb0db2fa25829420514fe3c1159",
+    "source": "semantic_scholar",
+    "published": "2017-01-25",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "말라위의 한 대학교에서 트위터와 블로그를 활용한 교육 실험 결과, 인터넷 환경의 제약에도 불구하고 학습자 중심 교육을 촉진하고 학생들의 적극적인 참여와 상호작용을 유도하여 고등 교육에 긍정적인 영향을 미칠 수 있음을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "W. Chawinga",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "구글, 검색·제미나이 앱·크롬에 개인화 기능 ‘퍼스널 인텔리전스’ 전면 확대",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208057",
+    "source": "AI Times",
+    "published": "2026-03-18",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Gemini",
+     "개인화 학습"
+    ],
+    "summary": "구글의 퍼스널 인텔리전스 확대는 개인 맞춤형 AI 서비스 경쟁을 심화시키고, 사용자 데이터 활용의 중요성을 더욱 부각할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "타코마한인회 ‘AI와 친구되기’ 특강 성황...노희진 부회장 강사로 챗GPTㆍ제미나이 활용법 소개",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMTWEwN0tFV3p3RzhkeTRYMnkxMFM0SGhzTDhBNTJYX2V4MWJGek9vc2tkNmJLa1ZKNHJ2ZmRYX2lNc1ctbnJLS3UxTlE1ZlR0OVZsVTg3MDhMbDYzWmMw?oc=5",
+    "source": "미주한국일보",
+    "published": "2026-03-18",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Gemini"
+    ],
+    "summary": "지역 사회 대상 AI 교육 확산은 디지털 격차 해소와 더불어 AI 기술 대중화 및 활용 저변 확대에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "AI를 ‘차별하지 말라’는 AI 여배우의 뮤직비디오",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208058",
+    "source": "AI Times",
+    "published": "2026-03-19",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 여배우의 뮤직비디오는 AI 권리 및 윤리적 논쟁을 촉발하며 엔터테인먼트 산업의 미래에 중요한 화두를 던지는 사례입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "황인호 바운드포 대표 \"물리 데이터 풀 스택 서비스로 피지컬 AI 혁신\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208013",
+    "source": "AI Times",
+    "published": "2026-03-18",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "로봇·휴머노이드"
+    ],
+    "summary": "바운드포의 물리 데이터 풀 스택 서비스는 피지컬 AI의 실질적 발전을 가로막는 데이터 품질 문제를 해결하여 로봇 자동화 및 AI 기술의 산업 현장 적용을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[펜타곤이 Anthropic의 AI 기술을 대체하기 위한 자체 대안을 개발 중] 펜타곤은 OpenAI와 별도 계약을 체결, 분류된 네트워크에 AI를 배치하기로 했다. OpenAI는 안전 원칙(대량 감시·자율무기 금지)을 계약에 반영",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1ucVY3bkJlUXByOFh2NHY3a0gyQ0JSNkltUHVFQ2NTUFNFMm9WdUxYWEhYTXA4NFY1UGxHVUUzNjM?oc=5",
+    "source": "AI넷",
+    "published": "2026-03-18",
+    "keyword": "Anthropic",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "OpenAI"
+    ],
+    "summary": "국방 분야에서 AI 기술 주도권 경쟁 심화 및 윤리적 사용에 대한 정부의 직접적인 개입이 더욱 강화될 것으로 예상됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "국민대 연구진, 생성형AI 기반 공공 R&D 평가 의사결정 프레임워크 연구",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02Z3JiWUR3LURZN21oSUZ3VE9YSll2djQ2SjdIM2NRUnVnMHEtX3Nick03XzNBVk9lVnMxdjZkeHM1d1FNNXVOSkF1b3Q5QVpxdk9CS01QTUp5NjBCSktpMThBOU5Ecm15VGI5eVN5UQ?oc=5",
+    "source": "mt.co.kr",
+    "published": "2026-03-18",
+    "keyword": "AI연구",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "AI 기반 R&D 평가 프레임워크는 공공 R&D 효율성을 높이고 AI 기술 발전 방향을 제시하는 데 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "Introducing ChatGPT for Excel and new financial data integrations",
+    "url": "https://openai.com/index/chatgpt-for-excel",
+    "source": "OpenAI Blog",
+    "published": "2026-03-05",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "ChatGPT의 Excel 통합과 금융 데이터 연동은 AI가 규제 환경의 금융 분석 효율성을 극적으로 향상시키는 중요한 진전입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "오픈AI, 2026년 내 IPO 추진…챗GPT는 생산성 도구로 전환",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE82bWZPcGt3QWRwOE1kdU81elZHckRodmJVekdRbHo5a01sNjUtUkpmN1hGaEJyWGtVMnVDOC13OHFmakpvOTctN0J6M25JRi0ta2tpVUZqQ2V3UjlpbjJwMGFjd1ZSbDM2TFZFTzZOV2lkTlE?oc=5",
+    "source": "디지털투데이",
+    "published": "2026-03-18",
+    "keyword": "GPT",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "오픈AI의 IPO 추진은 AI 기술 상업화 가속화와 투자 유치 확대로 이어져 AI 산업 전반의 경쟁 심화 및 혁신 촉진을 가져올 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "고객 전환율 높이는 AI 분석...챗GPT·LLM 유입이 매출로 이어지는 구조 추적",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3ZXJ1enAzQzdQZGtHbGl4WXExNkZlaFQyWURvQlNVa1FBS2FtQjNBUGYybXdKOXp4NVc1RWdtYUhVTmJCMkVGcjBuVXlTdThPY0xKRFl1aU1PRGc4V1VCZjc4RlJFcTkwcUE?oc=5",
+    "source": "지티티코리아",
+    "published": "2026-03-18",
+    "keyword": "GPT",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "LLM"
+    ],
+    "summary": "챗GPT와 LLM을 활용한 고객 전환율 분석은 AI 기반 마케팅의 효율성을 높여 실질적인 매출 증대에 기여할 수 있다는 것을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "[DP’s 모닝픽] 브리태니커, 오픈AI에 발끈 … \"챗GPT, 10만건 무단 활용\"",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hNmU5NlRhcktPNVN4UllpOGc0eFRYanU2Q1Azc0Z6MG9WRlI0QlVFWU9wSWxsVm4wY05vMVVYeEx0Y0NvY2J3R3d1Qy1FTk1Yc01IVUVTZ0l2cWhiaWVnaGpyUW9ST0tfc1NR?oc=5",
+    "source": "디지털포스트(PC사랑)",
+    "published": "2026-03-18",
+    "keyword": "GPT",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "저작권·소송"
+    ],
+    "summary": "브리태니커의 소송은 AI 학습 데이터의 저작권 문제에 대한 중요한 선례를 만들고, 데이터 활용 계약 및 투명성 강화 압력을 높일 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "tech": "AI 기술이 개인 맞춤형 서비스 확장, 다양한 분야 융합, 그리고 자체 기술 개발 경쟁 심화 속에서 생산성 향상과 혁신을 가속화하며 진화하고 있지만, 동시에 데이터 활용 윤리 문제에 대한 경각심도 높아지고 있다."
+ }
+}

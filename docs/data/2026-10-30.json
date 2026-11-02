@@ -1,0 +1,428 @@
+{
+ "date": "2026-10-30",
+ "generated_at": "2026-11-02T11:45:46+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[투데이기고] IB교육 확대, 공교육 혁신의 대안이 될 수 있나",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JUDJhQi1ZUVFVLTZQSDdxNjM3QUJ4SEhobEEzQmFYaElIZ29PSVlwNVBUM3Jib3lLQzlZOFVpTU5HcjRFeXJDVEZtSjREaXZMaWl3cnRLYmpwa0JwZjVCVVAxUXVIVThJUEg1RmVB?oc=5",
+    "source": "www.cctoday.co.kr",
+    "published": "2026-10-29",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [
+     "IB"
+    ],
+    "summary": "IB 교육 확대가 공교육 혁신의 대안이 될 수 있을지 그 가능성을 탐색한다.",
+    "implication": "공교육 혁신의 대안으로 거론되는 IB 교육의 교수법을 수업에 참고할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "재능대학교, 4개 대학 교육혁신 협력체계 구축 모색하며 AI 교수법·산학협력 사례 교류",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yWi1WNC11YmhHSmNDcE9NcEFhbkRITjlYc25rNHR6V1BMTnpTMlg2VjBMNVM3bnFYM3RyOFc3RmwzX1V0bnJ1UUZTd2p5ZmFNRHFRbHBPeXdUUE5FY2pIbUxEM1Fvb3Q4?oc=5",
+    "source": "경인매일",
+    "published": "2026-10-29",
+    "keyword": "교육혁신",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "재능대학교가 4개 대학과 교육혁신 협력을 모색하며 AI 교수법 및 산학협력 사례를 교류했다.",
+    "implication": "AI 교수법 사례를 탐색하여 학생 맞춤형 학습이나 효율적인 수업 설계에 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[교육타파] 국교위 '교직 개방' 논의에 현장 반발…교사노조연맹 \"교원자격은 인력난 해소 수단 아니다\"",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jQ1JVT3FCMXU3SUdkRWtvM0ZLUUczbFM3dXdBdm1KT0NVQmpkeU1EYnJKRzcxNmFmSmtDbDlkbDQ1Q3hYVmYzbWo2ZnFVcmFKTWFNamU3eldZTmJhNHFV?oc=5",
+    "source": "전북미래교육신문",
+    "published": "2026-10-29",
+    "keyword": "현장교사",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "교원단체"
+    ],
+    "summary": "국교위의 교직 개방 논의에 현장이 반발하며 교원자격이 인력난 해소 수단이 아님을 주장한다.",
+    "implication": "교직 자격 논의는 교사의 전문성 가치를 되짚어보며 수업의 질적 향상에 집중할 기회가 될 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "천재교과서, 인니에 'K에듀테크' 소개…디지털교육 협력 모색",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40dWJmU2Z5aHVwN2lqTUhSMlNWQjZFUFJoZWkzNnpMME1tQzFIa3ROdGI1Z3A3R1F3cFZCSFNuTmFIc0g1THZRUlpwdjNYTUNteUkxaWFNMThwSzFWODQwOVk5blNVWmdMTXo1WDJET0s?oc=5",
+    "source": "신아일보",
+    "published": "2026-10-30",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "천재교과서"
+    ],
+    "summary": "천재교과서가 인도네시아에 K에듀테크를 소개하며 디지털 교육 협력을 모색합니다.",
+    "implication": "K에듀테크로 학생들이 인도네시아 등 해외 학생들과 디지털 협력 수업을 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "인도네시아 교육부가 찾은 천재교과서…AI 디지털 교육 기술에 관심",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLWElWVXFjQ2Y2ajdEdjdMSGZBZFltbm9MOWhxOUNIWjJJejNrMTg0cHdxQUhObkdhTDhPR2JwRlJ6a2FLZjU4RXVFejB3OGltNVltZEU2cDFxRzMyRm5CX1J5WFdFZFpyaGNSOQ?oc=5",
+    "source": "뉴스탭",
+    "published": "2026-10-29",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "교육부",
+     "천재교과서"
+    ],
+    "summary": "인도네시아 교육부가 AI 디지털 교육 기술에 관심을 보이며, 천재교과서 사례를 주목하고 있습니다.",
+    "implication": "'천재교과서'처럼 AI를 활용한 디지털 학습 자료를 탐색하여 학생 맞춤 수업에 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "스마트폰 과의존에 AI 교육까지…서울시교육청, 안전한 디지털 교실 해법 모색",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YLWw1UmU5YjZzUmVRZHlPS3NPaGxkbGNobHNWeFRLd0dPRHh1WVJJREZxTkJOVkEyeHA3U1ZOeGxQT0RfNWw0UXBtdS1PQm1oX2FXQ19WaWhwTS1H?oc=5",
+    "source": "뉴스핌",
+    "published": "2026-10-29",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "서울시교육청"
+    ],
+    "summary": "서울시교육청은 스마트폰 과의존과 AI 교육 환경에서 안전한 디지털 교실 해법을 모색 중이다.",
+    "implication": "스마트폰 과의존 예방과 AI 교육 활용 지침 마련에 대비하여 학생들과 안전한 디지털 환경을 함께 고민할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "광주AI교육원서 인공지능 미래교육박람회 열린다",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzV1NfOWJuem8td1FVZE5lMlB3RUtUUk1OQ1BCZXphYnA0S0ZYRFB3LVI4LUhHZncySVB3VG5tVXhPVHFDVVpXLUZYRndtR0xfVXNNTFBDS0JvSGdxM2dYRmtuaDRNalNyczVrb2J4Ni16R0RXUmpOZNIBeEFVX3lxTFBzV1NfOWJuem8td1FVZE5lMlB3RUtUUk1OQ1BCZXphYnA0S0ZYRFB3LVI4LUhHZncySVB3VG5tVXhPVHFDVVpXLUZYRndtR0xfVXNNTFBDS0JvSGdxM2dYRmtuaDRNalNyczVrb2J4Ni16R0RXUmpOZA?oc=5",
+    "source": "뉴시스",
+    "published": "2026-10-29",
+    "keyword": "에듀테크",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "광주AI교육원에서 인공지능 미래교육박람회가 개최됩니다.",
+    "implication": "박람회에서 수업에 적용할 인공지능 도구나 교육 아이디어를 얻을 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "대구창조경제혁신센터, AI 교육부터 창업까지 `실전형 인재` 키운다",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1FSmRQc2hVRHl0OVowQW5WX3JQdmFoa1RRamV6MDBXOXJleFlZb0M5UVhfQVpDWjBGRk1fSnFfZUdmcDdRa1BCX0hoNnNZUUx1QThIeC1CTm1XUHRUa0xlcXd3?oc=5",
+    "source": "매일신문",
+    "published": "2026-10-29",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "대구창조경제혁신센터는 AI 교육부터 창업까지 지원하며 실전형 인재를 양성합니다.",
+    "implication": "학생들에게 AI 교육과 창업을 연계한 실전형 프로젝트 학습을 제안할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "논산, 간부 공무원 50명 생성형 AI 실무교육",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1EZkx4U0ljUnE0UGlOSEJFdUNHU01nZlB1OUxaU2JrNGtKMkhENzhZUmpzYVBDc2ttS09SSHRNOERBYnJBdGROV0xIT0ctdkktdEh6MmFUWER4WU9OTGFWcndzQy0xM3lBVmtzUFR3NWhYZw?oc=5",
+    "source": "투데이충남",
+    "published": "2026-10-30",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "논산시가 간부 공무원 50명을 대상으로 생성형 AI 실무교육을 진행했다.",
+    "implication": "학생들이 자료 조사 및 과제 수행에 생성형 AI를 활용하는 방법을 실질적으로 지도할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "전남광주통합특별시교육청, 'AI시대, 더 깊이 읽고 써야' 한승원 작가·김대중 교육감 교육대담",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1OZ1FyWlFvOGVvQnFES3J5bElQMEthdkdfTE1NeXI5VU1KVkMyaHAzTVg2dlNtZHNFa2R5ejYzVFowMU0yalVhNUZQUGt5LWN1dU9sc1BxUGxEcE5KRlN5TTFwTQ?oc=5",
+    "source": "경남도민뉴스",
+    "published": "2026-10-30",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": "interview",
+    "entities": [],
+    "summary": "전남광주통합특별시교육청이 한승원 작가, 김대중 교육감과 AI 시대에 깊은 읽고 쓰기의 중요성을 주제로 교육대담을 진행했습니다.",
+    "implication": "수업에서 AI가 생성한 정보에 대해 깊이 탐구하고 자신의 생각을 쓰는 활동을 도입할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Enhancing Students Academic Performance Using Organization Development Interventions (ODI): A Case Study of Business Management Major Students in Zhejiang Yuexiu University in China",
+    "url": "https://assumptionjournal.au.edu/index.php/odijournal/article/view/10019",
+    "source": "openalex",
+    "published": "2026-10-28",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "질적·양적 연구를 통해 조직 개발 개입(ODI) 및 긍정적 탐색(AI) 등을 수업에 통합하여 직업고 출신 학생들의 학업 성과를 유의미하게 향상시켰으며, 이는 고등 교육기관의 교육 혁신을 위한 효과적인 방안을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "马丽霞",
+    "pdf": "https://assumptionjournal.au.edu/index.php/odijournal/article/download/10019/5136"
+   },
+   {
+    "n": 2,
+    "title": "Teachers Emotional Responses to Critical Incidents in Digital Entrepreneurial Learning Environments",
+    "url": "https://doi.org/10.34306/att.v9i1.931",
+    "source": "openalex",
+    "published": "2026-10-26",
+    "keyword": "edtech",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "AI 튜터"
+    ],
+    "summary": "본 연구는 SFL 감정 평가 프레임워크로 교사의 디지털 교육 환경 내 비판적 사건에 대한 성별 감정 반응을 분석하여, 공감형 AI 튜터와 교육 인적 자원 최적화를 위한 Edu-Affective Analytics 프레임워크를 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ika Lusi Kristanti, Bambang Yulianto 외 1명",
+    "pdf": "https://att.aptisi.or.id/index.php/att/article/download/931/570"
+   },
+   {
+    "n": 3,
+    "title": "Metacognitive awareness in music education: an empirical investigation of personal, educational, and practice-related correlates",
+    "url": "https://doi.org/10.3389/fpsyg.2026.1994193",
+    "source": "openalex",
+    "published": "2026-10-28",
+    "keyword": "",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [],
+    "summary": "음악 교육생 1,000명을 대상으로 한 실증 연구는 메타인지 인식이 성별, 연령, 연습에 의해 형성되고 인지 지식 차원이 성취도를 예측하여, 선언적 자기 지식이 교수법의 중요한 초점임을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "ŞEHRİBAN KOCA, Aslıhan BAYRAM 외 1명",
+    "pdf": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1994193/pdf"
+   },
+   {
+    "n": 4,
+    "title": "BIM-based graphic instruction: Implications for its integration into architectural drawing education",
+    "url": "https://doi.org/10.36680/j.itcon.2026.053",
+    "source": "openalex",
+    "published": "2026-10-27",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 건축 도면 교육에 BIM을 통합하기 위한 교수학적 틀과 의제를 제시하고, 기존 연구 및 실제 교육 과정을 분석하여 공간 추론 및 협력적 저작 능력 강화를 목표로 합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Manuel Ramos Martín",
+    "pdf": "http://www.itcon.org/papers/2026_53-ITcon-Ramos-Martin.pdf"
+   },
+   {
+    "n": 5,
+    "title": "Beyond Assistance: Embracing AI as a Collaborative Co-Agent in Education",
+    "url": "https://www.semanticscholar.org/paper/14a33a87931a77e11be043f57e99df0eafe25778",
+    "source": "semantic_scholar",
+    "published": "2025-08-06",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "이 연구는 학생들이 AI 도구를 활용하여 예술적 표현을 만들고 교실 활동에 참여하는 하이브리드 민족지학적 방법론을 통해, AI가 비판적 사고와 창의성을 심화시키는 협력적 학습 파트너로서 교육의 질을 향상하고 미래 교육 전략에 긍정적인 영향을 미친다고 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Rena Katsenou, Konstantinos Kotsidis 외 1명",
+    "pdf": "https://www.mdpi.com/2227-7102/15/8/1006/pdf?version=1754475627"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "오픈AI, 연내 '챗GPT' 대화·업무 기능 통합…별도 모드 전환 없앤다",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216804",
+    "source": "AI Times",
+    "published": "2026-10-29",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "오픈AI의 기능 통합은 AI의 일상 업무 침투를 가속화하며, 사용자 중심 AI 생태계 구축의 새 표준을 제시할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "딥시크·문샷 AI, 앤트로픽 방어 강화로 'GPT-6 아스트라' 집중 증류",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216820",
+    "source": "AI Times",
+    "published": "2026-10-30",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "DeepSeek",
+     "Moonshot",
+     "Anthropic",
+     "ChatGPT"
+    ],
+    "summary": "딥시크·문샷 AI의 움직임은 선두주자 추격 및 차세대 프론티어 AI 개발 경쟁이 격화되는 글로벌 AI 기술 생태계의 가속화를 시사할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "AAII 평가 대폭 개편에 순위 변동…구글 1위·오픈AI 약진",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216802",
+    "source": "AI Times",
+    "published": "2026-10-29",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Google",
+     "OpenAI"
+    ],
+    "summary": "AAII 평가 개편에 따른 순위 변동은 AI 기술 리더십의 기준이 단순히 기술력뿐 아니라 실제 적용 및 시장 파급력으로 확장되고 있음을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "오픈AI, 프로·기업용 AI 사용량 최대 2배 확대…연속 업데이트 막바지",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216823",
+    "source": "AI Times",
+    "published": "2026-10-30",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "오픈AI의 기업용 AI 사용량 확대는 AI의 비즈니스 핵심 통합을 가속화하고, AI 서비스 시장의 주도권 경쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "source": "OpenAI Blog",
+    "published": "2026-10-23",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "수십억 사용자 AI 서비스는 모델 성능을 넘어선 인프라 확장성이 핵심 성공 요인임을 시사하며, 이는 AI 산업의 새로운 경쟁 우위가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "오픈AI·앤트로픽, 미 중간선거 앞두고 AI 악용 감시 강화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216803",
+    "source": "AI Times",
+    "published": "2026-10-29",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Anthropic"
+    ],
+    "summary": "AI 산업 주요 기업들의 악용 감시 강화는, 기술 생태계의 지속 가능한 성장과 사회적 신뢰 확보를 위해 책임 있는 자율 규제가 핵심이 될 것임을 의미합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+    "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+    "source": "OpenAI Blog",
+    "published": "2026-10-27",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Oracle",
+     "ChatGPT"
+    ],
+    "summary": "이번 협력은 AI 모델의 기업 핵심 업무 직접 통합을 가속화하여, AI 기술 생태계의 비즈니스 적용 범위를 획기적으로 확장할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "How to Add Guardrails to a Local LLM Agent",
+    "url": "https://towardsdatascience.com/how-to-add-guardrails-to-a-local-llm-agent/",
+    "source": "Towards Data Science",
+    "published": "2026-10-24",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "LLM",
+     "에이전트"
+    ],
+    "summary": "로컬 LLM 에이전트의 가드레일 기술은 AI의 안전한 분산형 배포 및 신뢰성 확보에 결정적입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "Google Deepmind releases Gemini 4 Carbon just two weeks after Argon with gains across the board",
+    "url": "https://the-decoder.com/google-deepmind-releases-gemini-4-carbon-just-two-weeks-after-argon-with-gains-across-the-board/",
+    "source": "The Decoder",
+    "published": "2026-10-28",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Gemini"
+    ],
+    "summary": "구글의 2주 간격 AI 모델 출시는 기술 발전 가속화와 시장 경쟁 심화를 극대화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "카카오, 개인화 AI 에이전트 기반 기술 ‘Kanana-2-embedding’ 모델 2종 오픈소스 공개… 동급 글로벌 모델 대비 우수한 한국어 성능 보여",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Pem9uZHdOU2lKcENLdnFQbmF3R2Q2QWdrdnZrR0RRRHNxQlgzSTlMTUVWZVM3NkxHdHI3bzAtaWo1RXIxcUVVdEFBaXZRSnhzOHNOS1hQTW9jNGkyOFJBMWQ3N213blk?oc=5",
+    "source": "일간대한뉴스",
+    "published": "2026-10-29",
+    "keyword": "오픈소스",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "카카오",
+     "개인화 학습",
+     "에이전트",
+     "오픈소스"
+    ],
+    "summary": "카카오의 우수한 한국어 성능 AI 모델 오픈소스 공개는 국내 AI 개발 장벽을 낮춰 관련 기술 생태계의 혁신과 발전을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

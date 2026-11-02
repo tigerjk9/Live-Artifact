@@ -1,0 +1,423 @@
+{
+ "date": "2026-08-12",
+ "generated_at": "2026-11-02T11:41:27+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[백승진 칼럼] 교육교부금 개편 논쟁 교착, 열쇠는 교육감이 쥐고있다",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpeWRWVU1sbHZMcjNlbzFCTTNhLTAwbjBCRWs0dV95eF9Va0dlak9Pall1MUhNTTJZVUxUenVCZ3ZGZGRuRFJFQXFudzFxYlhOaDRXN01TYVJLUDZYSy01TVRLSFRRa3di?oc=5",
+    "source": "에듀프레스",
+    "published": "2026-08-11",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [
+     "교육 예산"
+    ],
+    "summary": "교육교부금 개편 논쟁이 교착 상태에 빠졌고, 그 해결의 열쇠는 교육감이 쥐고 있습니다.",
+    "implication": "교육교부금 논쟁이 학교 예산 및 교육 자원에 미치는 영향을 학생들이 이해하도록 토론 주제로 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[사설] 학교 현장 외면하는 정부의 교원 감축",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nMVl2bWlVdzNqbUtEWGJySng4RmNlWlVvSXBsRzI0bVhHVmhHcnpzckt0OVVmbHNMTjNYVEZXbmFqVW9IZ3VMSkZ1aW40VkhoMmJPbG05cTVDR2xSMTgxLUZ6ajBXa3M?oc=5",
+    "source": "제민일보",
+    "published": "2026-08-11",
+    "keyword": "현장교사",
+    "topic": "teacher",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "제민일보는 정부가 학교 현장을 외면하며 교원을 감축하고 있다고 지적하는 사설을 게재했습니다.",
+    "implication": "교원 감축 논의를 통해 우리 주변의 교육 정책이 개인에게 미치는 영향을 분석하는 수업 활동을 진행할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "AI 에이전트: 에이전틱 AI 아키텍처와 거버넌스 가이드",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrU0hwWEpQZXVWRDFSNmJWV1g1MjR2X3VGNEFPLU83amhVczY0WDBkaVpaMGg4dlREeFEtUWRaaFRKMUZNYnVmTlFDWHdBSUNZNWw2d01pS3VVc0xhV2RrNWJiSHdocWJzZHBoSw?oc=5",
+    "source": "Snowflake",
+    "published": "2026-08-11",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "Snowflake가 AI 에이전트의 에이전틱 아키텍처 및 거버넌스 가이드를 제시합니다.",
+    "implication": "AI 에이전트의 구조와 책임 있는 활용을 가르쳐 미래 사회 역량을 키울 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "화성 청소년들 의회서 정책 제안… AI교육부터 통학로 안전까지",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkRm1uYzFhYTFfRHFodVBxdVdCUzN5czgtZW44SHZPRzdsTDkyWTJfQ1NJbDF6N0V2ZFYzRTY4RENZV25KZm9CMmdxeE9iT1Z3ZUFOXzlKanBGQm1WY0RlQlM1ZnZOT0syWVE?oc=5",
+    "source": "천지일보",
+    "published": "2026-08-11",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "화성 청소년들이 의회에서 AI 교육부터 통학로 안전까지 다양한 지역 정책을 제안했다.",
+    "implication": "학생들이 지역 사회 문제 해결을 위한 정책 제안 활동을 수업 내용으로 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "도성훈 인천교육감 “읽걷쓰 AI교육으로 학생성공시대 완성하겠습니다”",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95Ykx3aVBBR21Mc0VuaXdKNktHZG9TTTg4bjAwMEQwSXVscy1vRjN1eHk2d3pHS3JBY29mZktNZDVLd0ZFUjNNc2ZneDJqbWR2MUZyTTkwVWdPajdyREhiTFJRZFVtUk9vWERqMkh30gFuQVVfeXFMT3liTHdpUEFHbUxzRW5pd0o2S0dkb1NNODhuMDAwRDBJdWxzLW9GM3V4eTZ3ekdLckFjb2ZmS01kNUt3RkVSM01zZmd4MmptZHYxRnJNOTBVZ09qN3JESGJMUlFkVW1ST29YRGoySHc?oc=5",
+    "source": "imaganews.com",
+    "published": "2026-08-11",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천교육감은 읽걷쓰 AI 교육을 활용하여 학생 성공 시대를 구현하겠다고 밝혔습니다.",
+    "implication": "수업에서 읽기, 쓰기 활동에 AI 도구를 접목하여 학생 참여를 유도할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "조용식 울산교육감, 현장 소통으로 교육혁신 앞장",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ibmp1b1ktSWVLWFdrcEtBUkxZa015OVhseFVIVWhBMzk5UHFkTzVhandYSm9COTBJTnVXdVJkQWMwZ0ZLWldiazl3dXdVM19sU2YtNWJVMjI3RXRqRW1VcjlwbnowUQ?oc=5",
+    "source": "울산제일일보",
+    "published": "2026-08-11",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "울산시교육청"
+    ],
+    "summary": "조용식 울산교육감은 현장 소통을 통해 교육혁신을 주도하고 있습니다.",
+    "implication": "학생들의 목소리에 귀 기울여 수업 방식을 혁신하는 데 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "부산시교육청·부산시, 교육혁신선도지역 공모 공동 대응",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tcHpRR0UyZEtzM1RVTFNYbS0yc3M4S3BtR2pJc3FBQzB2cFFoQk10M09EOWV1TDJyLVlONmU1UDZCcGpDTE85MG5rZTY0S05IMS1iOHpqeWlNa1hvNVEzM0ZfVlRielRs?oc=5",
+    "source": "2news.co.kr",
+    "published": "2026-08-11",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "부산시교육청"
+    ],
+    "summary": "부산시교육청과 부산시가 교육혁신선도지역 공모에 함께 대응하며 협력하고 있습니다.",
+    "implication": "향후 교육혁신선도지역 정책을 통해 제공될 새로운 교수 자료나 방법을 수업에 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "부산시-교육청, 교육부 ‘교육혁신 선도지역’ 공모 참여",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDUndBZ2NZR3M3cEpSSEtDeWFCY0FqMXlhaU5nV216VkxrNXc3QXVqdmh6eFkwTU13bFV6UUFrMG0wU1doWmFMVEtXOXo1RFJSQTdaREJ3?oc=5",
+    "source": "헤럴드경제",
+    "published": "2026-08-11",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "부산시와 교육청이 교육부의 ‘교육혁신 선도지역’ 공모에 공동 참여합니다.",
+    "implication": "우리 지역 교육이 앞으로 어떻게 변화할지 학생들과 함께 예측해보는 수업을 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "경기도교육청, 탄소중립 교육으로 교육현장 넓힌다",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3M2pfSXFvdHFrRGVZYWYwaXZBUC1ma20xaGQwNHVETi1TQ2NEM1RpZkR3NjZuSmx2aHQyazkxM2M3QS00bDdyU3ZsWWNvVTA1QWdwR1J1UWVKeEs2T2xublltQ0ptY2RMYkNOaGtGc3M?oc=5",
+    "source": "인천일보",
+    "published": "2026-08-11",
+    "keyword": "교육현장",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청은 탄소중립 교육을 활용해 교육 현장을 확장합니다.",
+    "implication": "탄소중립과 관련한 다양한 활동을 교과 수업이나 창의적 체험활동에 연계하여 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "임팩터스, 미래교육박람회서 ‘교수평기 일체화 AI 에이전트’ 플랫폼 선보여",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYYlpVRTRGSF9GN1BuYmNlaWs1NWxsMUZyN1MtWVBkbDZfTmxRQkQ4VnZxcUpPTUx1RHRMM3BualRGY3J0cXdhT2Y5M1g2MVJiTkhqMS1n0gFWQVVfeXFMUFhiWlVFNEZIX0Y3UG5iY2VpazU1bGwxRnI3Uy1ZUGRsNl9ObFFCRDhWdnFxSk9NTHVEdEwzcG5qVEZjcnRxd2FPZjkzWDYxUmJOSGoxLWc?oc=5",
+    "source": "gosiweek.com",
+    "published": "2026-08-11",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "임팩터스가 미래교육박람회에서 교수평기 일체화 AI 에이전트 플랫폼을 선보였다.",
+    "implication": "이 AI 에이전트로 교수, 평가, 기록을 연계하여 수업 업무를 효율적으로 관리할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "A Bibliometric Analysis of Interaction in Digital Learning over Sixteen Years",
+    "url": "http://dx.doi.org/10.1007/s11159-025-10198-7",
+    "source": "eric",
+    "published": "2026-01-01",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 디지털 학습 상호작용 요인들을 서지학적으로 분석하여 AI가 학습자-교사 및 학습자-학습자 상호작용과 관련 있음을 밝히고, 효과적인 디지털 교육을 위해 AI 협업 및 AI 기반 평가 강화를 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Qianqian Cai",
+    "pdf": "http://dx.doi.org/10.1007/s11159-025-10198-7"
+   },
+   {
+    "n": 2,
+    "title": "The Contributions of AI-Assisted Instruction to Language Growth, Growth Mindsets, and Creativity in Chinese EFL Context: Evidence From a Mixed-Methods Study",
+    "url": "https://www.semanticscholar.org/paper/6d7904dfdfa1853abd5d80d53c57c9eba6ab1047",
+    "source": "semantic_scholar",
+    "published": "2026-07-01",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "중국 EFL 맥락에서 혼합 연구 방법론을 통해 AI 기반 교육이 학습자의 언어 성장, 성장 사고방식, 창의성을 유의미하게 증진시켜 교육 실무 및 정책에 중요한 함의를 제공함을 입증합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Jingjing Lin",
+    "pdf": "https://doi.org/10.1177/21582440261475448"
+   },
+   {
+    "n": 3,
+    "title": "AI-assisted writing's differential impact on EFL learners and implications for adaptive instruction",
+    "url": "https://www.semanticscholar.org/paper/c864ecf2bf16676cf67527167096a30403a2910e",
+    "source": "semantic_scholar",
+    "published": "2026-03-20",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 쓰기 도구가 EFL 학습자 숙련도에 따라 미치는 차등적 영향을 실험한 결과, 저숙련 학습자는 언어적 보상으로 큰 향상을 보인 반면 고숙련 학습자는 미미한 개선을 보여, 숙련도별 맞춤형 AI 교육의 중요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Shaobo Liang, Yingyu Wang 외 1명",
+    "pdf": "https://publicera.kb.se/ir/article/download/64196/51873"
+   },
+   {
+    "n": 4,
+    "title": "The Role of Generative Artificial Intelligence in Korean Language Learning: Applications, Challenges, and Instructional Strategies",
+    "url": "https://pub.respai.de/articles/1-2/5ywu.html",
+    "source": "openalex",
+    "published": "2026-12-31",
+    "keyword": "K-12 education",
+    "topic": "language",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "개념적 서술 검토를 통해 이 논문은 생성형 AI가 한국어 학습에 미치는 긍정적 영향과 함께 문화적, 윤리적 도전 과제를 분석하며, 교실 내 신중한 활용 전략을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Yundong Wu",
+    "pdf": "https://pub.respai.de/articles/1-2/is2-5.pdf"
+   },
+   {
+    "n": 5,
+    "title": "Teaching Data Science in the GenAI Era: GDD Triad and Reverse-Engineering",
+    "url": "https://aisel.aisnet.org/treos_amcis2026/47",
+    "source": "openalex",
+    "published": "2026-08-15",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "문해력"
+    ],
+    "summary": "이 논문은 AI 시대 데이터 과학 교육에서 학생들이 생성형 AI를 비판적으로 활용하도록 GDD 삼원론(생성형 AI 활용 능력, 데이터 과학 문해력, 도메인 지식)을 제시하고, 역공학 평가를 통해 AI 결과물 검증 능력을 길러 학제 간 교육에 적용 가능한 효과적인 방법론을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Pornpat Sirithumgul",
+    "pdf": "https://aisel.aisnet.org/context/treos_amcis2026/article/1046/viewcontent/1251_doc.pdf"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "기업 AI 비용 올해 '최저치'로 하락...글로벌 가격 경쟁에 중국 오픈소스까지",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213818",
+    "source": "AI Times",
+    "published": "2026-08-11",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "오픈소스"
+    ],
+    "summary": "AI 비용 최저치 하락은 AI 기술의 대중화와 산업 전반의 도입을 가속화하며, AI 생태계의 경쟁 심화와 재편을 야기할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "모티프, 독파모 모델 ‘모티프 3’ 기술보고서 공개…챗봇 체험도 가능",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213808",
+    "source": "AI Times",
+    "published": "2026-08-11",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "모티프의 독파모 모델 기술보고서 공개와 챗봇 체험은 AI 연구 투명성과 실제 응용의 접점을 넓혀 AI 산업의 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "OpenAI launches GPT-5.6-Cyber to help defenders find vulnerabilities before attackers do",
+    "url": "https://the-decoder.com/openai-launches-gpt-5-6-cyber-to-help-defenders-find-vulnerabilities-before-attackers-do/",
+    "source": "The Decoder",
+    "published": "2026-08-10",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "OpenAI의 GPT-5.6-Cyber 출시는 AI가 사이버 보안 등 특정 산업 분야의 난제를 해결하는 전문 솔루션으로 진화하는 중요한 전환점입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "OpenAI introduces $125 Premium Seats for ChatGPT Business as agentic AI burns through more tokens",
+    "url": "https://the-decoder.com/openai-introduces-125-premium-seats-for-chatgpt-business-as-agentic-ai-burns-through-more-tokens/",
+    "source": "The Decoder",
+    "published": "2026-08-11",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT",
+     "에이전트"
+    ],
+    "summary": "에이전트 AI의 고도화된 기능이 토큰 소모를 늘려 서비스 비용 상승을 야기하고, 이는 AI 산업의 수익 모델과 기업의 AI 도입 전략에 영향을 줄 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "북한 해커 김수키, 로컬 LLM 구축…Ollama·GPT4All 흔적 확인",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE94VmhjQXVLZEplZTlnUEUySzhvakRMN203aEJTOTB2TUlKaXN4NU5wTUpjZXBkSlM2WG9Kd1N6WV9Ec1FYemw2SnJVWnFmeXlwQjI2VUh3?oc=5",
+    "source": "지디넷코리아",
+    "published": "2026-08-11",
+    "keyword": "LLM",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "LLM",
+     "ChatGPT",
+     "오픈소스"
+    ],
+    "summary": "오픈소스 LLM의 높은 접근성은 국가 지원 해커의 AI 악용 가능성을 높여 AI 보안 및 통제 강화의 시급성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "\"AI가 석유·가스 생산 대폭 확대...친환경 배출 감축 효과 상쇄한다\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213816",
+    "source": "AI Times",
+    "published": "2026-08-11",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [],
+    "summary": "AI의 생산 효율화가 환경 목표 상쇄를 야기하며, AI 산업은 지속가능성 기여와 기술 윤리적 책임에 대한 근본적 성찰을 요구받을 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "[NUS, AI 교육 혁명 선언…전교생 ChatGPT 접근·신입생 AI 필수과목 도입] 모든 학생, 교수진, 직원들에게 ChatGPT Edu 접근 권한이 부여되며, 동시에 모든 신입 학부생들은 입학 후 2주 이내에 필수 생성형 AI 과목을 이수해야",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBvODZGTW1hNWhyWUR6OTc3cU9WbUF3VmNKSG41a2d3eXRFYWM0dE43NWdKZFBkazdOTTcwbVQ2b0c?oc=5",
+    "source": "AI넷",
+    "published": "2026-08-11",
+    "keyword": "생성AI",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "생성형 AI"
+    ],
+    "summary": "NUS의 AI 교육 혁명은 대규모 AI 활용 인재를 공급하여 AI 기술 생태계의 성장과 전 산업의 AI 전환을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+    "url": "https://openai.com/index/zapier",
+    "source": "OpenAI Blog",
+    "published": "2026-08-10",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "이 사례는 AI가 기존 자동화 플랫폼과 결합해 기업 핵심 업무의 생산성을 혁신적으로 높이는 핵심 동력이 될 것임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "AI 검색 확대에 구글, 네이버 앞섰다···챗GPT도 이용자 폭증",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ERGFFRllQYUJwLWUyZzNva1lDbVVxdjlaaldyZFNDNF8tMHRoQjRPaThoZXYtVUFHSlVhY1dvdkNWWGNadHVPcF8xakFtcFJ4Wmh2ekl6ZzZ0dlhGbE52S2FKTm01aUhPSkE?oc=5",
+    "source": "뉴스웨이",
+    "published": "2026-08-11",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "AI 검색",
+     "Google",
+     "네이버",
+     "ChatGPT"
+    ],
+    "summary": "AI 검색 및 챗GPT 이용자 폭증은 AI 기술 주류화의 가속을 의미하며, 이는 AI 서비스 시장의 경쟁 심화와 새로운 생태계 확장을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "삼성SDS, 국가 AI 연구에 엔비디아 블랙웰 공급",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9PdUxYVlVkZWhGb1dHWVVsLW5SdF8tU051MS1LN0YzdThPRkl3UTR4eW10WWx0WUtlVFlWQkIzbVNqZTNJc09jYWw3T0ZJRGwtWU1QUmJURVZSZEJN?oc=5",
+    "source": "뉴스핌",
+    "published": "2026-08-11",
+    "keyword": "AI연구",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "삼성",
+     "NVIDIA"
+    ],
+    "summary": "삼성SDS의 엔비디아 블랙웰 공급은 국내 AI 기술 생태계를 고도화하고, 글로벌 AI 경쟁력을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

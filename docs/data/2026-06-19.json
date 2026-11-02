@@ -1,0 +1,418 @@
+{
+ "date": "2026-06-19",
+ "generated_at": "2026-11-02T11:38:28+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[특별기고] AI 에코시스템에 적응하는 교육적 실천",
+    "url": "https://news.unn.net/news/articleView.html?idxno=593668",
+    "source": "한국대학신문",
+    "published": "2026-06-19",
+    "keyword": "",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "AI 등장으로 대학 교육은 지식 전달을 넘어 학생 역량 함양을 위해 학문 간 경계를 허물고 유연한 전공 선택을 지원하는 방향으로 변모하고 있습니다.",
+    "implication": "교실에서 AI를 활용해 다양한 교과를 연결하고 학생들이 스스로 탐색하며 융합적 사고를 기르는 활동을 장려할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[기고] 에이전틱 AI, CPU와 GPU의 공식을 바꾼다",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5FUVZCWS00X2FvTUtnRUxfUVFkdGJSTG1PYldmajAwMUtaWjUyTEVFNHBaWGoyUWJDcnVicHZvVEJFZGt2WE42NHp1czBjMkU?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-06-19",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "에이전틱 AI가 기존 CPU와 GPU의 연산 공식 및 활용 방식에 근본적인 변화를 가져올 것으로 전망됩니다.",
+    "implication": "AI 기술 발전이 컴퓨터 핵심 부품의 역할에 어떤 변화를 가져올지 학생들과 함께 토론해 볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[특별기고] 교육감, 지방의회 청문 거쳐 지자체장이 임명하자",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeU5Sbm5pS2pxTEZNem5mWFE3RnN5Z2JDdVcyaUxvWDZQNmk2Z2dLd182WHNfM3ozV0lJWjdaRTBBT3dnMHhyQ2JaWW9mS1ZYNEpscWZsRFZhTWt4enBOYjlDT2x0dERpaGlOb2ZHT0tlUThHcHltdVV1ZjUzbEhQLU00ekkxN0lRNDZCZ3FUYXI?oc=5",
+    "source": "조선일보",
+    "published": "2026-06-18",
+    "keyword": "교사기고",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "교육감을 지방의회 청문 후 지자체장이 임명하는 방안을 제안하는 특별기고입니다.",
+    "implication": "교육감 임명 방식 변경 제안으로 지방의회와 지자체장의 권한 관계를 수업에서 다룰 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "한국교육학술정보원, 아랍에미리트 교육부 차관단과 AI·디지털 교육 협력 논의",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wZU5CZHlUcG9hamEzVWZsbjZKN2pBT04zSTl3dTFRaXBqdGpCc0pQbFR2b1ZnOU9tN1ZmODVvNUtkWFluZGJPem1XQnIxX1d6UG1GbzBzcTZMOXpKSjljam5TRnNGUQ?oc=5",
+    "source": "한국대학신문",
+    "published": "2026-06-18",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "KERIS",
+     "교육부"
+    ],
+    "summary": "한국교육학술정보원이 아랍에미리트 교육부 차관단과 AI·디지털 교육 협력을 논의했다.",
+    "implication": "국제적인 AI·디지털 교육 협력 논의를 학생들과 공유하며 미래 교육 방향을 탐색할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "2026년도 제4회 학습과학 세미나(Arthur C. Graesser 교수, University of Memphis) 안내",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9JU1J6eFVvcHJhWmFaRDNqcV83MjNBdThCQnA4ek0zV1Z1NTQ1Sk94bnBCTDNucHNUTUowcVVGVktJdnBxTEl1MENXSS0tcjAwSDYwNWJLVVlrZEsyeVdjOGtNVHM?oc=5",
+    "source": "서울대학교",
+    "published": "2026-06-18",
+    "keyword": "학습과학",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "서울대학교는 2026년 제4회 학습과학 세미나에 Arthur C. Graesser 교수를 초청해 강연을 진행함을 안내합니다.",
+    "implication": "Arthur C. Graesser 교수의 학습과학 연구를 통해 학생 중심의 효과적인 수업 방법을 모색할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "IBK기업은행, 직원이 만든 AI 에이전트로 업무혁신 본격화",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBOY0lOQng4dF9vSEIzLTJZbkdRWnptRFNiVnUtYjBfYU1NOEFybDVkemUzWlF3bF9ZME1oV0JMeUJkekFRN2x1UGU5ZEJKR3lEVDEybUtEeEluMU4wZXVPRGRFaWRZYmJI?oc=5",
+    "source": "테크월드",
+    "published": "2026-06-18",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "IBK기업은행은 직원이 개발한 AI 에이전트를 활용하여 업무 혁신을 본격적으로 추진하고 있습니다.",
+    "implication": "학생들이 직접 AI를 개발하여 문제를 해결하는 역량이 미래 사회에서 중요해질 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "대전교육정책연구소, 교육현장 최신 정책 트렌드 담은 ‘교육동향’ 발간",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA1RUxKUEJkSF85YjBDZmt1LXByTUFRaHJfa0JKekFvLXJKVEdrV1kxbmlucTlhZkVOMDVzZUQ0RXpqMnRUZ1NVWTA3RnQ1Z1NxLWR4UkhJakFYYzFxdVp1UW05WXd5OXJIcFozaU53?oc=5",
+    "source": "뉴스홈(newshome)",
+    "published": "2026-06-19",
+    "keyword": "교육정책",
+    "topic": "global",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "대전교육정책연구소가 교육현장의 최신 정책 트렌드를 담은 '교육동향'을 발간했다.",
+    "implication": "최신 교육 정책 트렌드를 수업 내용에 반영하여 학생들과 함께 현재 교육 방향을 탐색할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "인천시교육청, 학생·시민기자단 출범…교육현장 소통 강화",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRcDdZcWRVdno3d1czcFEyOVdMTzFMRHBpZDBtNklsMnBZOGZMWURyckdZU1NNaGxYSHdOdDZBU0VteWJmNVp6a19XS09NU1ZXY3Rab3Q0bDNNV0ZhTE4wLXhQVVFKUzY1emVWOXV3?oc=5",
+    "source": "뉴스타운",
+    "published": "2026-06-18",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청이 교육현장 소통 강화를 위해 학생 및 시민기자단을 출범시켰다.",
+    "implication": "학생들이 직접 교실이나 학교 현장의 소식을 취재하고 기자처럼 발표하는 활동으로 수업에 흥미를 더할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "2기 윤건영호 교육정책 로드맵 설계",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwekpueGE2ZG91TE80UU40eHo3RFBvSkdQajN0dlpOcW9iQXk2bm92SE5ETzRlamVoM1RXV1lsR29FeE5kRTg0UE1seDlLUFBkbGRkbzN5NUNYZnhFdjQwWXdHalVTVnZTQUE?oc=5",
+    "source": "충청매일",
+    "published": "2026-06-18",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "윤건영 교육행정의 2기 교육정책 로드맵이 현재 설계 중이라는 내용입니다.",
+    "implication": "2기 교육정책 로드맵 설계 과정에서 발표될 수업 관련 변화들을 주시하며 미리 수업 계획에 반영할 준비를 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "김대중 K-교육특별시 시민소통위원회 17일 공식 출범…시민과 함께 교육정책 만든다",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9QVHEyRDhPQ0dxMmVQZklKZ080OHRNVnJNLUhDZmRvNTJXR3FjdEQ4RkpjbkVyU2VMOWVzTk4wRmU0cHpiMEk1Sm12WHBJenlxaEZYa1NaejUwX3dFa2JHcWRZMFFMTlhKREpsSlUyc0R6N1XSAXdBVV95cUxNMkxpdmxTeWltaDNMX2FCcVNKemd4c2pCaGZlb3hid3FveHI2SENzSks3OHlWSnVhclF2QW5WUEZGX2c3b2llNE9lYnoxczRCWE0xZTZsV3pfdkpsUVFpcms0VkNXOW9GdTJIaUpLUWRNNEpBOGd0VQ?oc=5",
+    "source": "한국시민기자협회 뉴스포털1",
+    "published": "2026-06-18",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "김대중 K-교육특별시 시민소통위원회가 17일 공식 출범하여 시민과 함께 교육정책을 만들 예정입니다.",
+    "implication": "시민이 교육 정책 결정에 직접 참여하는 사례를 통해 민주 시민의 역할을 탐구할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "INNOVATIVE MONITORING MECHANISMS IN EDUCATION: THE ROLE OF ARTIFICIAL INTELLIGENCE, LEARNING ANALYTICS, AND BIG DATA IN ENHANCING EDUCATIONAL QUALITY",
+    "url": "https://doi.org/10.70286/eoss-15.06.2026.015.451-459",
+    "source": "openalex",
+    "published": "2026-06-15",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "이 연구는 AI, 학습 분석, 빅데이터 기반의 혁신적 모니터링 시스템이 체계적 문헌 검토를 통해 교육의 질을 지속적으로 향상시키고 개인화된 평가와 의사결정 개선으로 교육 혁신을 이끌 수 있음을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Zulfali Aliyev, Solmaz Cabbarova",
+    "pdf": "https://doi.org/10.70286/eoss-15.06.2026.015.451-459"
+   },
+   {
+    "n": 2,
+    "title": "Unpacking second language writing teacher knowledge through corpus-based pedagogy training",
+    "url": "https://www.semanticscholar.org/paper/ef7290c2c680b319a1713ab0f6dc0aa0582d08ff",
+    "source": "semantic_scholar",
+    "published": "2022-07-04",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "제2언어 쓰기 교사 대상 온라인 코퍼스 기반 교수법 워크숍을 통해 교사들이 DDL 활동 계획을 개발하며 지식을 통합하는 두 가지 경로를 보였고, 코퍼스 활용 자신감을 높였으나 지속적인 지원이 필요함을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "N. Schmidt",
+    "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/6B69F3E4592982711296F6587DD000ED/S0958344022000106a.pdf/div-class-title-unpacking-second-language-writing-teacher-knowledge-through-corpus-based-pedagogy-training-div.pdf"
+   },
+   {
+    "n": 3,
+    "title": "Acceptance of a flipped classroom to improve university students’ learning: An empirical study on the TAM model and the unified theory of acceptance and use of technology (UTAUT)",
+    "url": "https://www.semanticscholar.org/paper/69ac404e9986490009c3304078c7ec88ff42d440",
+    "source": "semantic_scholar",
+    "published": "2022-12-01",
+    "keyword": "",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [],
+    "summary": "플립드 러닝을 경험한 213명의 대학생을 대상으로 TAM 및 UTAUT 모델 기반의 구조방정식 모델링을 통해 플립드 러닝의 인지된 유용성과 사용 용이성이 수용 태도를 매개하며, 태도와 행동 의도가 학습 활용에 긍정적으로 영향을 미쳐 고등 교육에서의 플립드 러닝 도입을 지지함을 실증적으로 분석합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "I. Alyoussef",
+    "pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9816777"
+   },
+   {
+    "n": 4,
+    "title": "Assessment and Technology: Mapping Future Directions in the Early Childhood Classroom",
+    "url": "https://www.semanticscholar.org/paper/c8420a886fae00068d3a27811d16a30ee6e60c25",
+    "source": "semantic_scholar",
+    "published": "2019-10-18",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 유아기 교육에서 AfL과 AoL 관점으로 기술 기반 평가의 잠재력과 도전 과제를 검토하며, 미래 교육 평가 시스템의 성공적 구현을 위해 교육 주체 간 긴밀한 협력이 필수적임을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "M. Neumann, Jason L. Anthony 외 1명",
+    "pdf": "https://www.frontiersin.org/articles/10.3389/feduc.2019.00116/pdf"
+   },
+   {
+    "n": 5,
+    "title": "Artificial Intelligence and Modern Pedagogy: Opportunities, Challenges, and the Need for a Hybrid Educational Model",
+    "url": "https://doi.org/10.47191/ijmei/v12i6.08",
+    "source": "openalex",
+    "published": "2026-06-16",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 ICT 활용의 도전과 교육학의 변화를 질적 연구와 2차 자료 분석을 통해 탐색하며, 전통 교육과 AI 기반의 혁신적 학습을 융합한 하이브리드 모델이 미래 사회에 필요한 역량을 함양하는 포괄적이고 효과적인 교육 생태계를 조성할 것을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "B.V. Krishnaji Rao",
+    "pdf": "http://rajournals.in/index.php/ijmei/article/download/2087/1614"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "오픈AI, 모델 출시 전 '배포 시뮬레이션' 도입…\"부작용 사전 포착\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211876",
+    "source": "AI Times",
+    "published": "2026-06-18",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "AI 안전·규제"
+    ],
+    "summary": "오픈AI가 차세대 AI 모델을 출시하기 전에 실제 서비스 환경을 가상으로 재현해 위험성을 예측하는 새로운 안전성 평가 기법인 '배포 시뮬레이션(Deployment Simulation)'을 공개했다. 이 방법을 통해 모델이 실제 사용자 환경에서 어떤 방식으로 작동할지 사전에 분석하고, 기존 평가 방식으로는 발견하기 어려운 새로운 위험 요소까지 찾아낼 수 있다",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "엔비디아, '자율 연구' 에이전트 로봇 공개...GPU 조립까지 독학",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211871",
+    "source": "AI Times",
+    "published": "2026-06-18",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "에이전트",
+     "로봇·휴머노이드",
+     "GPU·데이터센터"
+    ],
+    "summary": "엔비디아가 연구자나 엔지니어가 일일이 동작을 프로그래밍하지 않아도 로봇이 실제 환경에서 스스로 실험을 반복하고 관련 논문을 학습하며 서로 협력해 고난도 정밀 작업을 습득하는 '자율 연구(AutoResearch)' 개념을 구현했다고 밝혔다. 엔비디아는 17일(현지시간) 실제 환경에서 스스로 시행착오를 거쳐 새로운 작업을 학습하는 차세대 에이전트 로봇 기술을",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "제논, ‘제노스 2.0’ 플랫폼 출시…”기업 데이터 연결해 자연어로 AI앱 제작”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211879",
+    "source": "AI Times",
+    "published": "2026-06-18",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "에이전트"
+    ],
+    "summary": "생성 AI 전문 제논(대표 고석태)은 AX 플랫폼 ‘제노스(GenOS)’의 기능을 고도화한 ‘제노스 2.0’을 정식 출시했다고 18일 밝혔다.제노스는 운영 환경 구축부터 데이터 분석, 에이전트 설계까지 AI 서비스 구현에 필요한 모든 과정을 통합 제공하는 엔터프라이즈 AI 플랫폼이다. 2024년 첫 출시 이후 금융·발전·에너지 등 다양한 산업 분야 AX 프",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "3B 모델로 '제미나이 3 프로' 수학 실력 능가..웨이보, 벤치마크 논쟁 촉발",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211862",
+    "source": "AI Times",
+    "published": "2026-06-18",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Gemini",
+     "벤치마크"
+    ],
+    "summary": "중국 소셜미디어 기업 시나 웨이보 연구진이 공개한 AI 모델 '바이브싱커-3B(VibeThinker-3B)'가 글로벌 AI 업계에 큰 파장을 일으키고 있다. 30억(3B) 개의 매개변수를 가진 초소형 모델이 수천억개 이상의 매개변수를 보유한 최첨단 AI 모델들과 비슷하거나 일부 영역에서는 더 높은 성능을 기록했다고 주장했기 때문이다.웨이보 연구진은 15일(",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "오픈AI, '트랜스포머' 노암 샤지어 영입...트럼프 AI 고문도 합류",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211891",
+    "source": "AI Times",
+    "published": "2026-06-19",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Gemini",
+     "Google"
+    ],
+    "summary": "'트랜스포머(Transformer)' 개발의 주역이자 '제미나이' 공동 책임자인 노암 샤지어가 구글을 떠나 오픈AI에 합류했다. 샤지어는 17일(현지시간) 소셜미디어 X를 통해 구글을 떠나 오픈AI에 합류한다고 밝혔다. \"떠나는 결정은 쉽지 않았지만, 오픈AI의 뛰어난 팀과 함께 일하게 되어 기대된다\"라고 말했다.구글도 \"수년간 구글에 기여한 의미 있는 공",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "앤트로픽 “코딩 몰라도 업무 전문가라면 개발자 못지않게 AI 잘 쓴다”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211874",
+    "source": "AI Times",
+    "published": "2026-06-18",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "코딩 AI",
+     "Claude",
+     "에이전트"
+    ],
+    "summary": "앤트로픽이 '클로드 코드' 사용 세션을 분석한 결과, 코딩 실력만큼 업무 분야에 대한 전문성이 좋은 결과를 얻어내는 요인이라는 연구 결과를 발표했다. 특정 분야에 대한 이해도가 높은 사용자는 AI와의 협업 성공률이 크게 높았으며, 문제 발생 시에도 효과적으로 해결책을 찾아냈다.앤트로픽은 16일(현지시간) '에이전트 코딩과 전문성의 지속적인 회복(Agenti",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "구글이 선보이는 ‘안드로이드 17’… AI 기능 어떤지 봤더니",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211878",
+    "source": "AI Times",
+    "published": "2026-06-19",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "AI타임스 조예주 기자 joyejuoffice@aitimes.com",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "ChatGPT's new health upgrade beats doctor-written answers, OpenAI says",
+    "url": "https://the-decoder.com/chatgpts-new-health-upgrade-beats-doctor-written-answers-openai-says/",
+    "source": "The Decoder",
+    "published": "2026-06-18",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "OpenAI"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "[게시판] 삼쩜삼, 전용 AI 라인업으로 고객 상담 9만건 처리 등 단신",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211858",
+    "source": "AI Times",
+    "published": "2026-06-18",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "■ 환급 플랫폼 '삼쩜삼' 운영사 자비스앤빌런즈(대표 김범섭)는 자체 ‘AI 라인업’을 통해 총 9만건 이상의 고객 문의를 안정적으로 처리했다고 밝혔다. 삼쩜삼은 음성 기반 AI 컨택센터(AICC) ‘점삼이’와 세무 전문 AI 질의응답 서비스 ‘삼쩜삼Q’, 앱 내 AI 에이전트 ‘삼쩜삼AI’을 통해 종합소득세 신고 기간인 5월 한달간 9만건 이상의 고객 문",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+    "url": "https://openai.com/index/ai-chemist-improves-reaction",
+    "source": "OpenAI Blog",
+    "published": "2026-06-17",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+    "implication": "",
+    "ai": false
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

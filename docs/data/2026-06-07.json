@@ -1,0 +1,428 @@
+{
+ "date": "2026-06-07",
+ "generated_at": "2026-11-02T11:37:48+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "생성형 AI, ‘사고력 촉진’↔‘생각 대행’…수업 설계·교수 전략이 좌우한다",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6OFNvelcwTVlJT0l3S3lfSXI1cnd6ejhob096cDFEU3p2d3hQeVpLS1gtRy04Q200em5pSUh1VkZWNDhxV0JWeTRKWUFjNk1uLVkzcFhGQVQxZ0VKR3RhY3VFel9NbGtYQkxn0gFuQVVfeXFMT1ZhQ2o4NHZNU1ZRclVRa3h2eW52OENIcEh6TmN5aGhuamNKdms4QmhYblFEMGlsMVltVHA3YnJVaUVlaElqRU55eHJuWGkxTjVhOC1qNVNLVzdwS3pNMlhnY3JKSHZ0ZFRoM2Vxd0E?oc=5",
+    "source": "넷제로뉴스",
+    "published": "2026-06-06",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "생성형 AI가 학생의 사고력 촉진 또는 생각 대행을 좌우하는 것은 수업 설계와 교수 전략에 달려있다.",
+    "implication": "생성형 AI를 활용할 때 사고력 촉진을 목표로 수업을 설계할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "학부모와 손잡은 태백교육… 현장 중심 미래 교육정책 토론회 열려 > 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13VW50MjZwallPaU1oM1RocVB5RkpYanpsVWNCTjc1V0xJYnVObWpHWS0wVzNoV2pQcXhVX3FuTVphc29OTEJZNG45eENPSmstZl90WjdudkpZV2NPTm1lZ3FkTElwZHBOblJvVVlOazQ?oc=5",
+    "source": "더코리아",
+    "published": "2026-06-06",
+    "keyword": "교육정책",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "태백교육은 학부모와 함께 현장 중심 미래 교육정책 토론회를 개최했습니다.",
+    "implication": "학부모와 함께 현장 중심 활동을 구성하여 학생들의 미래 역량을 함양할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "테크빌교육 '체더스', 세종시교육청 AI 교수학습플랫폼 특화 서비스 수주",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xaTg5UXpjdTZZaG1WQno3YnBPUXlKZ2wwOHdKS056Y3BLcHREMjJVTGpWR0pvMm82azhIY19vZC13NVVqX2JYUmZJdmVxdnBRSmFxVUtuM1FoWllZMDhQVDZJVVNTb0wyNlE?oc=5",
+    "source": "컨슈머타임스",
+    "published": "2026-06-06",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "세종시교육청",
+     "개인화 학습"
+    ],
+    "summary": "테크빌교육이 세종시교육청에 AI 교수학습플랫폼 특화 서비스를 수주했습니다.",
+    "implication": "AI 교수학습플랫폼을 활용하여 학생 맞춤형 학습 자료를 수업에 쉽게 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "AI 활용 수업 배우는 교사들, 교실은 아직 따라오지 못했다",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5rNEdnenNQdVdJRWhENzBsQ0NSQjVYYS0zRC10cmxBTWFpZ0lIMnZxRXRza2ZWY0x0ZHkyRFc0clNxYm5FM2c?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-06-06",
+    "keyword": "인공지능교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "교사들이 AI 활용 수업을 배우고 있으나, 실제 교실 현장 적용은 아직 미진합니다.",
+    "implication": "AI 학습으로 얻은 지식을 수업 준비나 자료 제작에 활용해 효율성을 높일 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "충남교육청 찾아가는 특수교육대상학생 AI·SW 꿈키움 교실 운영 > 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QMFVlT3lXZEg5RUloZHJ0QjZIMHI0NWpwY3E5UHF3SUcxcldkRVdyVjBJclQzYnJHbkdfbDQzUlVyTTNLaXNhbkQ1MjZORDZZVV95c2VHNm9lMHc1eVdmSXFGa2xRWHNQa3ZXV0FmQzk?oc=5",
+    "source": "더코리아",
+    "published": "2026-06-06",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "충남교육청",
+     "특수교육"
+    ],
+    "summary": "충남교육청이 특수교육대상학생을 위한 찾아가는 AI·SW 꿈키움 교실을 운영합니다.",
+    "implication": "우리 반 특수교육대상학생을 위한 찾아가는 AI·SW 교육 연계 방안을 모색할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "충북교육청, ‘충북형 AI 윤리 기준‧가이드라인’ 개발‧보급",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82WThkeUxpTlIxQkp3SkwtUk9zNHAwTk5jNWE4YUlzLVJHdGk0Z0tmeUpERl9tcU81UHlQUTQ4LTlITVRhQjg5OC1fMmxIbnhEUV85OVV5cnBBQUJyQi1rbjJfUi1JUnQ5NXZMTVBIVDbSAXBBVV95cUxPNlk4ZHlMaU5SMUJKd0pMLVJPczRwME5OYzVhOGFJcy1SR3RpNGdLZnlKREZfbXFPNVB5UFE0OC05SE1UYUI4OTgtXzJsSG54RFFfOTlVeXJwQUFCckIta24yX1ItSVJ0OTV2TE1QSFQ2?oc=5",
+    "source": "내외뉴스통신",
+    "published": "2026-06-06",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "충북교육청",
+     "AI 안전·규제"
+    ],
+    "summary": "충북교육청이 ‘충북형 AI 윤리 기준 및 가이드라인’을 개발하여 보급했습니다.",
+    "implication": "학생들과 함께 충북형 AI 윤리 기준을 살펴보고 책임감 있는 AI 활용법을 토론할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "임종식 경북교육감 3기 출범···\"'사람 중심 AI 대전환 교육' 완성\"",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0xTEQwMlFQTFFDNkVDUHI1Z1pKQWdxb2RpWVdJa2lhbWR1QzNsckRGWHBXZlItUGNUaldGb3R0TzFLX0I5QWxHUVRscUM?oc=5",
+    "source": "대구MBC",
+    "published": "2026-06-06",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경북교육청"
+    ],
+    "summary": "경북 임종식 교육감 3기가 출범하며 '사람 중심 AI 대전환 교육' 완성을 다짐했습니다.",
+    "implication": "AI 활용 교육에서 학생 개개인의 역량 발달을 지원하는 맞춤형 수업을 계획할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "[특집] 상촌중, 교육공동체 책으로 함께 성장하다··· 경기도교육청 지역중심교로 우뚝!",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE16VFR0em5OeHN4cjU2UVNzX0dYSUxkdWt1NUdFcWIzNXZzQzJScWpxbTEzcUFDTEg3ZjZ0LWV4RU15MVprdGVFZTFIWmpzSy1TQV9Ba1E4dGVHaVFQU2ZCcWR3?oc=5",
+    "source": "경기남부뉴스",
+    "published": "2026-06-06",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": "feature",
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "상촌중은 교육공동체가 책으로 함께 성장하는 활동을 통해 경기도교육청 지역중심교로 선정되었다.",
+    "implication": "책을 활용한 협력 독서 및 토론 활동으로 학생 간 상호작용과 성장을 유도할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "동덕여대 특수대학원, 방과후지도교육학과 신설…7월 원서접수",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KRC1oRlJ5c25iN185ZXJzR0xBU2YxdjItNnhEZDdIT25aRnh2UTJkakVXaS1vUzFJS0JyNGEzYlB5RlFSVDgwUTF6VW9JVWZuRVNycWVtTHZkaWdqSmQ4?oc=5",
+    "source": "뉴스1",
+    "published": "2026-06-06",
+    "keyword": "디지털교육",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [
+     "사교육"
+    ],
+    "summary": "동덕여대 특수대학원에서 방과후지도교육학과를 신설하고 7월에 원서접수를 시작합니다.",
+    "implication": "현장 교사는 방과후 지도 교육 전문성 함양 기회를 파악하여 수업에 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "도성훈, 인천교육감 3선 고지 올라…진보 우세 속 첫 직선 3선 기록",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pTWhnYms5SDhRSlF0bXNUVzl6LUx2d3ptd2RFSTlqTnJraDktcElvbEVZWWp3XzRxWHhMZTd1TURKQ1FvNGt4X0daeWpnM2xROTBLMjFhc0gyZHFqdWxidFRXT2lOUkk?oc=5",
+    "source": "경인신문",
+    "published": "2026-06-06",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "도성훈 인천교육감이 진보 우세 속에 첫 직선 3선 고지에 오르며 기록을 세웠습니다.",
+    "implication": "지역 교육감의 3선 연임이 교육 정책의 안정성과 변화에 미칠 영향에 대해 학생들과 토론해볼 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "&lt;b&gt;Autism spectrum disorders, artificial intelligence, and personalized learning among learners with special needs in Oyo State, Nigeria: Implications for special education practice&lt;/b&gt;&lt;b&gt;&lt;/b&gt;",
+    "url": "https://doi.org/10.64726/48tyxg92",
+    "source": "openalex",
+    "published": "2026-06-04",
+    "keyword": "",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "나이지리아에서 상관관계 조사를 통해 AI 기반 개인 맞춤형 학습이 자폐 스펙트럼 장애(ASD) 학생의 학업 참여와 사회적 의사소통 능력을 향상시키지만, 인프라 및 교사 훈련 부족으로 실제 적용에 한계가 있음을 밝혔습니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ugochi Nnenna Ndoh, Rufus Olanrewaju Adebisi",
+    "pdf": "https://akasa.com.ng/ojs/index.php/journal/article/download/513/568"
+   },
+   {
+    "n": 2,
+    "title": "Toward a disruptive neuroepistemological pedagogy: a conceptual framework for STEM education",
+    "url": "https://doi.org/10.3389/fcomp.2026.1852475",
+    "source": "openalex",
+    "published": "2026-06-04",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 과학적 혁신 과정을 통해 STEM 개념을 가르치고 인식론적 혁신, 신경교육적 유의미성, 윤리-사회적 책임을 통합하는 DNEP(Disruptive Neuroepistemological Pedagogy) 개념 프레임워크를 개념적 통합 검토 방법론으로 제안하며, 이를 통해 학생들이 과학 지식의 변화와 의미, 윤리적 책임을 깊이 이해하도록 돕습니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Julián Roa González, Celia Ortega-Gómez 외 1명",
+    "pdf": "https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2026.1852475/pdf"
+   },
+   {
+    "n": 3,
+    "title": "Learning Analytics and Educational Data Mining in Augmented Reality, Virtual Reality, and the Metaverse: A Systematic Literature Review, Content Analysis, and Bibliometric Analysis",
+    "url": "https://www.semanticscholar.org/paper/c67387409eb98a13ed4333699e33e4e7b426dbee",
+    "source": "semantic_scholar",
+    "published": "2025-01-20",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "이 연구는 확장 현실 기술과 학습 분석, 교육 데이터 마이닝의 결합을 체계적 문헌 검토와 서지학적 분석을 통해 심층적으로 분석하여, 교육을 풍요롭게 하고 학습 효과를 증진하며 맞춤형 학습을 지원하는 잠재력을 확인합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Georgios Lampropoulos, Georgios Evangelidis",
+    "pdf": "https://doi.org/10.3390/app15020971"
+   },
+   {
+    "n": 4,
+    "title": "Negotiating mandate and practice: University EFL teachers’ learning through new textbook use in China",
+    "url": "https://doi.org/10.65961/ajelt-2026-3-006",
+    "source": "openalex",
+    "published": "2026-06-05",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "Alibaba",
+     "교사 연수"
+    ],
+    "summary": "CHAT를 활용하여 중국 EFL 교사들이 새 교과서 사용 중 겪는 다양한 모순이 어떻게 변혁적 학습을 유발하고, 이때 교수법 전통이 학습 과정과 결과에 미치는 매개적 역할을 규명하여, 개혁 시기 교사 전문성 개발 이해에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Yuqi Li, Lawrence Jun Zhang",
+    "pdf": "https://ajelt.ojhhk.com/EN/PDF/10.65961/AJELT-2026-3-006"
+   },
+   {
+    "n": 5,
+    "title": "Educational technology and mathematical problem-solving skills in Grade 3: evidence from a stimulated recall study",
+    "url": "https://doi.org/10.3389/feduc.2026.1830065",
+    "source": "openalex",
+    "published": "2026-06-03",
+    "keyword": "edtech",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "질적 사례 연구를 통해 3학년 수학 문제 해결에 에듀테크가 학습 참여와 개념 이해를 향상시키지만, 그 효과는 교사의 교수 설계와 체계적 지원에 의해 매개되므로, 효과적인 에듀테크 통합을 위한 교사 역량 강화 및 전문성 개발의 중요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Mmakgabo Angelinah Selepe, Thokozani Ndlovu",
+    "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1830065/pdf"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "월마트가 직접 만든 AI 코딩 에이전트 인기...\"빅테크 종속 깬다\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211414",
+    "source": "AI Times",
+    "published": "2026-06-06",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "코딩 AI",
+     "에이전트"
+    ],
+    "summary": "월마트 사례는 비기술 기업들의 AI 솔루션 내재화 추세를 가속화하여 AI 생태계의 다변화와 빅테크 종속 탈피를 이끌 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "Florida's lawsuit against OpenAI and CEO Altman treats ChatGPT as a defective product and public nuisance",
+    "url": "https://the-decoder.com/floridas-lawsuit-against-openai-and-ceo-altman-treats-chatgpt-as-a-defective-product-and-public-nuisance/",
+    "source": "The Decoder",
+    "published": "2026-06-05",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "저작권·소송",
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "AI를 결함 제품이자 공공 골칫거리로 간주하는 이번 소송은 AI 개발사의 법적 책임 및 규제 방향에 중대한 선례가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "구글, ‘젬마 4' 온디바이스 버전 QAT 공개…“메모리 1GB로 압축”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211418",
+    "source": "AI Times",
+    "published": "2026-06-06",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Gemini",
+     "온디바이스 AI"
+    ],
+    "summary": "구글 젬마 4의 초경량 온디바이스 구현은 에지 AI 확산과 AI 서비스 대중화를 가속화하는 핵심 동력이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "구글, 연주자 입력에 실시간 반응하는 AI 악기 ‘마젠타 리얼타임 2’ 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211417",
+    "source": "AI Times",
+    "published": "2026-06-06",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "이 기술은 실시간 상호작용 AI가 인간 창작 활동을 증강하는 새로운 협업 시대를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "메타, 구글 따라 '대규모 주식 발행' 검토 중…AI 자금 조달 총력전",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211412",
+    "source": "AI Times",
+    "published": "2026-06-06",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Meta",
+     "Google"
+    ],
+    "summary": "메타의 대규모 AI 자금 조달은 거대 기술 기업 간 AI 경쟁을 격화시키고 기술 개발 및 산업 전반의 고도화를 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "\"한국, AI 비싸게 쓴다\"…한국어 토큰 소모, 영어 최대 2.59배 높아",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211350",
+    "source": "AI Times",
+    "published": "2026-06-06",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [],
+    "summary": "한국어 AI의 높은 토큰 소모는 국내 AI 서비스 비용 부담을 가중시켜 기술 생태계 혁신과 산업 경쟁력 확보를 어렵게 할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "MUFG aims to become AI-native with OpenAI",
+    "url": "https://openai.com/index/mufg",
+    "source": "OpenAI Blog",
+    "published": "2026-05-28",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "전통 금융 대기업 MUFG의 AI 네이티브 전환은 AI가 전 산업의 핵심 경쟁력으로 자리 잡는 변혁을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "SpaceX signs $920 million per month deal with Google for 110,000 Nvidia AI chips ahead of IPO",
+    "url": "https://the-decoder.com/spacex-signs-920-million-per-month-deal-with-google-for-110000-nvidia-ai-chips-ahead-of-ipo/",
+    "source": "The Decoder",
+    "published": "2026-06-06",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Google",
+     "NVIDIA",
+     "GPU·데이터센터"
+    ],
+    "summary": "SpaceX의 구글 협력 대규모 AI 칩 확보는 AI 인프라 구축 경쟁 심화와 엔비디아 GPU의 전략적 중요성을 극명하게 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "엔비디아 RTX 스파크, 에이전트형 AI PC 시대 열다",
+    "url": "https://www.itworld.co.kr/article/4179589/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-rtx-%ec%8a%a4%ed%8c%8c%ed%81%ac-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ed%98%95-ai-pc-%ec%8b%9c%eb%8c%80-%ec%97%b4%eb%8b%a4.html",
+    "source": "ITWorld 코리아",
+    "published": "2026-06-02",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "에이전트",
+     "온디바이스 AI"
+    ],
+    "summary": "엔비디아 RTX 스파크는 에이전트형 AI를 PC에 본격 도입하며 온디바이스 AI 생태계의 확장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "모건스탠리, 스페이스X 2040년 매출 5300조 전망...\"초대형 성장 핵심은 AI 사업\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211413",
+    "source": "AI Times",
+    "published": "2026-06-06",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [],
+    "summary": "이번 전망은 AI가 미래 초대형 기업 성장의 핵심 동력이자, 기술 생태계 및 산업 전반의 확장과 진화를 주도할 것임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

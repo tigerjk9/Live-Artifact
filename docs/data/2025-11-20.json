@@ -1,0 +1,434 @@
+{
+ "date": "2025-11-20",
+ "generated_at": "2026-11-02T11:47:58+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[이낙종 칼럼] 교원의 정치기본권 제한: 해외 교육현장에서 던지는 질문",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=21407",
+    "source": "에듀프레스",
+    "published": "2025-11-19",
+    "keyword": "",
+    "topic": "teacher",
+    "kind": "opinion",
+    "entities": [
+     "다문화"
+    ],
+    "summary": "교원의 정치기본권 제한 문제는, 다문화 사회로 진입하는 교육 현장에서 유연하고 균형 잡힌 시각을 갖춘 교원 양성의 필요성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[의정칼럼] AI 디지털시대, 제주교육이 나아갈 길: 실행 전략 중심의 미래 교육 제언",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHbWFVZlE5QkEzZ2xORkgycGdPUk5tSC1XYkpoRHZlM0F0ZGRnZ1VYd052b2lwTlRlY2l0OWxRNWNnR2ItTExmOWdlU3YyMmhNUkQyWlpNMVFMYXJmbXBHdzdXSkZYeUU?oc=5",
+    "source": "제민일보",
+    "published": "2025-11-19",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [
+     "제주교육청"
+    ],
+    "summary": "제주 교육은 AI 디지털 시대에 발맞춰 실행 전략 중심의 미래 교육으로 전환하여 학습 효과를 극대화해야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[교육칼럼] AI(인공지능)시대, 교사의 가치를 흔들지 말라",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Ucm5HbGVESFZEWGNSQU9ZNll0R2dsZzdhUUo2ZmxzUlpwdWRoWTNsUHI1SUlWekN5dHFxTFlGSG4ycVp6OUpySjNUbTlQanVrVjQ3ZFFMODB1TlBDV3I1eXRWQnNxRFhWX09Ia1FYcw?oc=5",
+    "source": "경북일보",
+    "published": "2025-11-19",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "AI 시대에도 교사의 고유한 역량 강화와 인간적인 소통 능력 함양이 중요하며, 이를 통해 교육의 본질을 지켜나가야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "디지털 전환 속 산업·금융 경계 허물어져…낡은 금산분리 제도 손봐야[기고]",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tdUlTa0VuOEFlUVVrSW1XaHFGWlRBd29VdzBkTmRnU1lrRDktVkRFMlg3M2JRU1MycWVkUGNTRTEwSUlBRnVYcVJoV3VYLVFDZFlj?oc=5",
+    "source": "네이트",
+    "published": "2025-11-19",
+    "keyword": "디지털전환",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "금산분리 완화 논의는 미래 금융 환경 변화에 발맞춰 금융-IT 융합 인재 양성을 위한 교육 과정 혁신의 필요성을 제기합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "칼럼 | AI가 특별하게 느껴지지 않을 때, 변화는 현실이 된다",
+    "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPZnNCeGNDeWdnc3NPZE8zYmp3LWJ1ZllFS1haOG04eURsMk9UeGtneWFBVG9KcUZza2lNSEI5QTloc1hXeTZLOUdCMUdjRGdhWUYwRllTSDlxbmh6THRJR3ctcVBJT2p6N2N6YkRvZ3luak5ySExZYmVod0RYSmttRzVEU2Q1YkZScGQ4Wjh5SXFZWmxORHkwZ1VkWmJRLWRVbFhCUUM2aUxNZDN1d25jVENwYXc0cGZmV3FzNFRrc0NlOUtVYmRYX2FISHl5QmEyWGlIUjhQbFZKb2p5cFFZN3NvSzJ2dWRXbGtPLWNYeEhYdlhKQmdlaDhhX1h1c0EwQWVLamhWdVNueTNDbm5CUEIyODVWanJJa3NpZXFMU1pha3EyYmdnNHNJa2hnWGtUV2xXTTFFeVFVWU9FY1ZHeUsteUVzeFI2V2h5QnhVOA?oc=5",
+    "source": "cio.com",
+    "published": "2025-11-19",
+    "keyword": "미래기술",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "AI가 더 이상 특별하게 느껴지지 않는 시대가 오면, 교육은 AI 활용 능력을 필수 역량으로 포함하는 실질적인 변화를 맞이해야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "경기도교육청-아주대, AI·에듀테크로 배우는 성교육…성지초 ‘생명 체험’ 큰 울림",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZS3hUdkQzNzc4WEsxUlN4bmtMdVBuM3IzbVZ0TEs0bllvaWpIaXhWSTUxcnBJcmZiUUhzd05DZktjOWFCS2doa184MlBTaFBmc080a0IzRDF6QQ?oc=5",
+    "source": "데일리엔뉴스",
+    "published": "2025-11-19",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "AI·에듀테크 기반 성교육은 학생들의 자기 주도적 학습 능력 향상 및 긍정적 성 가치관 함양에 기여할 수 있을 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "대전시교육청 설동호 교육감, 2026년도 대전교육 정책방향 발표",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB5R1Q5TTBjQzg2eXZ2b3laNDQ5N2FOaG9vWmxjTlhiYldSX2lmaDVsWlpnRWZxNTdiRlpEWVp1aXdGOExubTZiWDhNcDQ?oc=5",
+    "source": "시사일보",
+    "published": "2025-11-19",
+    "keyword": "에듀테크",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "설동호 교육감의 2026년 대전교육 정책방향 발표는 미래 교육 환경 변화에 대한 선제적 대응과 대전 교육의 질적 향상을 목표로 하는 것으로 보입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "설동호 대전교육감, 2026년도 정책 방향 발표",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GZ3BfTVVBZVNRY0xpTEZpSGVCYmZmUWpJUXFiS1JvODJQbDVWbUJwQTBaazNNRWRUaW1RbU9FbnRyYjQ2b1Jxd2pfdFN0QjZtNVJKSW1vOWRubFdic1hxX0h5TlVaS0VWQkE?oc=5",
+    "source": "금강일보",
+    "published": "2025-11-19",
+    "keyword": "에듀테크",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "설동호 교육감의 2026년 정책 방향은 대전 교육의 미래를 위한 장기적 비전 제시라는 점에서 긍정적이지만, 구체적인 실행 계획과 현장 적용 가능성을 면밀히 검토해야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "설동호 대전교육감 “시대 변화에 진화된 교육정책 실현할 것”",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YbUZXTFdFMVQ4TUNfSTBndVVRNE9DUG4xUjd6S2hCVnZNN1c5X1c0MmIzc0F1OWpSZVhfZTJqUU9RY3dJU0lkdVFSdXlhYk1ieFBWblp6cnlvX1I5UEQ4eWJMTy1nVVBKbmFrQ2lR0gFuQVVfeXFMT1htRldMV0UxVDhNQ19JMGd1VVE0T0NQbjFSN3pLaEJWdk03VzlfVzQyYjNzQXU5alJlWF9lMmpRT1Fjd0lTSWR1UVJ1eWFiTWJ4UFZuWnpyeW9fUjlQRDh5YkxPLWdVUEpuYWtDaVE?oc=5",
+    "source": "충청신문",
+    "published": "2025-11-19",
+    "keyword": "에듀테크",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "설동호 교육감의 발언은 급변하는 시대에 발맞춰 교육 혁신을 지속적으로 추진하겠다는 의지를 보여주는 것으로, 미래 교육에 대한 기대감을 높이는 동시에 현장 교사들에게는 변화에 대한 능동적인 대처를 요구하는 메시지입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "교육부, 모두를 위한 인공지능(AI) 인재양성 방안 발표",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE13QlVocUxad1E4aGctN3BVLVF2djZYamthSnhJTzM1aEMtRW55YVQ5cFYwSDRJTXZpeXhwLUkyLWsyTGg3ZXFOSkY3UmFXTWdueUJBVGp5UHRVaU5OQ09CTXd3RQ?oc=5",
+    "source": "대한민국교육신문",
+    "published": "2025-11-19",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "교육부의 AI 인재 양성 방안은 디지털 전환 시대에 발맞춰 교육 전반의 혁신을 가속화하는 중요한 발걸음입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Report on the Scoping Workshop on AI in Science Education Research 2025",
+    "url": "http://arxiv.org/abs/2511.14318v1",
+    "source": "",
+    "published": "2025-11-18",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "AI가 과학 교육 연구, 교육 방법, 학습에 미치는 영향과 기회를 분석하고, 시스템적 사고를 통해 윤리적 고려사항을 강조하며, 책임감 있는 AI 활용을 위한 실행 가능한 권고 사항을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Marcus Kubsch', 'Marit Kastaun' 외 20명",
+    "pdf": "http://arxiv.org/pdf/2511.14318v1"
+   },
+   {
+    "n": 2,
+    "title": "Prompting the Professoriate: A Qualitative Study of Instructor Perspectives on LLMs in Data Science Education",
+    "url": "http://arxiv.org/abs/2509.12283v1",
+    "source": "",
+    "published": "2025-09-14",
+    "keyword": "pedagogy",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "LLM",
+     "코딩 AI",
+     "AI 튜터"
+    ],
+    "summary": "2025년 전 세계 데이터 과학 교육자 42명과의 인터뷰를 통해 LLM이 코딩, 글쓰기 교육에 미치는 긍정적 활용 가능성과 탈숙련화 우려를 확인하고, AI 활용 평가 및 튜터링 등 교육 혁신 사례를 제시하여 데이터 과학 교육과정의 발전적 변화를 모색합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Ana Elisa Lopez-Miranda', 'Tiffany Timbers' 외 1명",
+    "pdf": "http://arxiv.org/pdf/2509.12283v1"
+   },
+   {
+    "n": 3,
+    "title": "Examining teaching assistant pedagogies in traditional laboratories and recitations",
+    "url": "http://arxiv.org/abs/2509.09136v1",
+    "source": "",
+    "published": "2025-09-11",
+    "keyword": "pedagogy",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "물리 교육 조교들의 수업 방식 관찰 연구 결과, 전통적인 실험 수업에서는 조교 간 유사한 상호작용 패턴이 나타났지만, 토론 수업에서는 편차가 컸으며, 학생 관찰 시간이 активное обучение 기반 수업과 차이를 보여, 교육 개혁 노력에 시사점을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Eric M. Hickok', 'Cassandra A. Paul']",
+    "pdf": "http://arxiv.org/pdf/2509.09136v1"
+   },
+   {
+    "n": 4,
+    "title": "AI instructional agent improves student's perceived learner control and learning outcome: empirical evidence from a randomized controlled trial",
+    "url": "http://arxiv.org/abs/2505.22526v1",
+    "source": "",
+    "published": "2025-05-28",
+    "keyword": "MOOC",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "AI 교수 에이전트가 학생의 학습자 통제감과 학습 성과를 향상시키며, 무작위 대조 시험 결과 개인 맞춤 속도와 실시간 상호작용을 지원하는 AI 에이전트가 교육 효과를 높일 수 있음을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Fei Qin', 'Zhanxin Hao' 외 3명",
+    "pdf": "http://arxiv.org/pdf/2505.22526v1"
+   },
+   {
+    "n": 5,
+    "title": "Bridging the Skills Gap: A Course Model for Modern Generative AI Education",
+    "url": "http://arxiv.org/abs/2511.11757v1",
+    "source": "",
+    "published": "2025-11-13",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "생성형 AI 도구 활용 교육 부족 문제를 해결하기 위해 컴퓨터 과학 전공 학생 대상의 응용 과정 개발 및 적용 결과를 분석하고, 교육 효과 검증을 통해 AI 활용 능력 향상 및 교육 확대를 위한 방안을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Anya Bardach', 'Hamilton Murrah']",
+    "pdf": "http://arxiv.org/pdf/2511.11757v1"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "구글 CEO \"AI 버블 터지면 모든 회사 영향 받을 것\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204101",
+    "source": "AI Times",
+    "published": "2025-11-19",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "AI 투자 거품 붕괴는 구글을 포함한 기술 기업 전반에 위협 요인이 될 수 있으며, 옥석 가리기를 통한 산업 재편이 예상됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "\"우리는 AI 버블이 아닌 'LLM 버블' 속에 있다\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204105",
+    "source": "AI Times",
+    "published": "2025-11-19",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "LLM"
+    ],
+    "summary": "LLM에 편중된 AI 투자는 거품 붕괴 위험을 내포하지만, AI 기술 혁신의 잠재력은 여전히 크다는 점을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "네이버플러스 스토어, 구글플레이 ‘올해를 빛낸 수상작’ 선정...”AI 쇼핑 기능 탁월”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204096",
+    "source": "AI Times",
+    "published": "2025-11-19",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "네이버",
+     "Google"
+    ],
+    "summary": "네이버플러스 스토어의 수상은 AI 쇼핑 기능의 성공적인 시장 안착을 보여주며, AI 기술 기반 서비스 경쟁력 강화의 중요성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[AI넷] [11월 18일 AI뉴스 모음] 마이크로소프트의 AI \"운영체제\". 제프 베조스, 새로운 AI 스타트업 CEO로 복귀 xAI의 Grok 4.1, 개성 개편 ChatGPT 기록 모드를 사용하여 회의 통찰력을 캡처하세요. Anthropic CEO, AI에 대한 추가 경고 발표 제프 베조스, 62억 달러 규모",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFA2ZFI1dXc1S1JaNTVNc1lnZWlkUzZjSXZTaDkzQVZIblo2RDZWMlVvdGxBSnBxdEJLZ25iaXE1WDk?oc=5",
+    "source": "AI넷",
+    "published": "2025-11-19",
+    "keyword": "Anthropic",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Microsoft",
+     "Amazon",
+     "xAI",
+     "ChatGPT",
+     "Anthropic"
+    ],
+    "summary": "AI 기술 경쟁 심화 속에서 마이크로소프트, 아마존, 앤트로픽 등 거물들의 AI 투자는 AI 운영체제 경쟁과 더불어 산업 전반의 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "제미니 3 vs ChatGPT: AI 벤치마크 압도적 승리",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5TN20tdVpsWDFyRUdHVkppWWdXZzV2ck4yZlRfQ1VhZV9JQlhCUlFOUlZFUTc3LV9NNElUZlFWWTEtWnhPSXZlRmRn?oc=5",
+    "source": "티스토리",
+    "published": "2025-11-19",
+    "keyword": "벤치마크",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Gemini",
+     "ChatGPT",
+     "벤치마크"
+    ],
+    "summary": "제미니 3의 벤치마크 압승은 AI 기술 경쟁 심화를 예고하며, 산업 전반의 혁신 가속화를 의미합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "OpenAI releases GPT-5.1-Codex-Max to handle engineering tasks that span twenty-four hours",
+    "url": "https://the-decoder.com/openai-releases-gpt-5-1-codex-max-to-handle-engineering-tasks-that-span-twenty-four-hours/",
+    "source": "The Decoder",
+    "published": "2025-11-19",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT",
+     "코딩 AI"
+    ],
+    "summary": "GPT-5.1-Codex-Max는 엔지니어링 자동화를 가속화하여 생산성 향상 및 개발 비용 절감에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "구글, 차세대 AI '제미나이3' 공개...GPT-5 능가한 '추론형 AI' 시대 선언",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YUGM1OVYtQVVka0pQQ3J4bTBoZF9ma2RWdjNOV2R2bXlwbkotS0g0U2wyZFFCSVkyamNJcHJ1cFJndFBkc09zX3B4V1dZVldCSHpEanF4cmNWR2d4SHU3ZQ?oc=5",
+    "source": "KBC광주방송",
+    "published": "2025-11-19",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Gemini",
+     "ChatGPT",
+     "추론 모델"
+    ],
+    "summary": "제미나이3 공개는 AI 추론 능력 경쟁 심화와 함께, 산업 전반에 걸쳐 더욱 고도화된 AI 활용 가능성을 제시하는 중요한 전환점입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "OpenAI, 교사용 무료 ChatGPT 2027년 6월까지 제공 By Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwYVc4YWt2dkVwd2RzUjFBTG1fcjViWTJtNE9xeWRMSkVIc3Rmcy1sdGotaUZHX0gtSzgzeHo4SDhlS1lLaFh5Z0JMbE41OGVzUkNRbEk4TGNvbUtzSVJuRmE5d2NRTUx4dTRCSnhtcGs?oc=5",
+    "source": "Investing.com 한국어",
+    "published": "2025-11-19",
+    "keyword": "오픈AI",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "OpenAI의 교육 지원은 미래 인재 양성에 기여하고 AI 활용 저변을 확대하는 긍정적 시도입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "AI가 위험이 있다는 걸 알면서도… 앤트로픽이 안전을 걱정하는 이유",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204108",
+    "source": "AI Times",
+    "published": "2025-11-20",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "Anthropic"
+    ],
+    "summary": "앤트로픽의 안전 중시 행보는 AI 경쟁 심화 속에서도 장기적인 기술 지속가능성과 사회적 책임에 대한 중요성을 강조하는 움직임입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "“제미나이 3로 2026 수능 풀어보니”...GPT-5.1 누르고 압도적 1위",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hb2hsZGF0Y3hZVHN6aXFHRmNGN0cwdmNIaVJHLXc0NnVaSUpKdkRsakNTOS1rcFJIZzBtSFZLc09fWjV3WUF5NkRaMDA3VkVWMVBFZ1VtSVZhSmhPYkdvZUxZSVRMWmVFcUE?oc=5",
+    "source": "AI타임스",
+    "published": "2025-11-19",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Gemini",
+     "수능·대입",
+     "ChatGPT"
+    ],
+    "summary": "제미나이 3의 수능 압도적 1위는 AI 기술 경쟁 심화와 교육 산업 혁신 가능성을 동시에 보여주는 중요한 지표입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 시대에 발맞춰 교육계는 교사의 역할 재정립, AI·에듀테크 활용 확대, 그리고 미래 교육 정책 구체화를 통해 혁신적인 변화를 적극적으로 추진하며 발전하고 있습니다.",
+  "tech": "AI 기술 경쟁이 심화되는 가운데, 특히 LLM과 차세대 AI 모델(제미나이3, GPT-5 등)이 성능 혁신을 거듭하며 교육 및 쇼핑 등 다양한 분야에 적용되고 있지만, AI 버블 및 안전성에 대한 우려도 공존하며 지속적인 발전과 성장을 기대하게 한다."
+ }
+}

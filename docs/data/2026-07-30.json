@@ -1,0 +1,428 @@
+{
+ "date": "2026-07-30",
+ "generated_at": "2026-11-02T11:40:44+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[신호현 칼럼] 사회정서교육, 학교의 삶 속으로 들어가라",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=30368",
+    "source": "에듀프레스",
+    "published": "2026-07-29",
+    "keyword": "",
+    "topic": "student_care",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "세계적 교육 의제로 떠오른 사회정서교육을 학교 현장에 안착시키려면 교과 연계와 교사의 사회정서역량 강화가 필요하다.",
+    "implication": "학생 지도 시 자신의 감정을 성찰하고 존중과 자기조절을 먼저 실천하여 교육의 설득력을 높일 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "강삼영 강원특별자치도교육감, 도민과 교육 현안 직접 소통",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80aHY0YjJOOXpfNEQ3SF9wN1ljV3FZdzU0clNoQVdfVk5EbG9jVTE0NklJNXo4SHR4MHNLcEc2RXZvSkRjYTgxQ1JzM0VsUkxrZFdfa29tazI1ZXlYcWhwbWQ3cEJ4WFZXNWJJdURFNkY?oc=5",
+    "source": "신아일보",
+    "published": "2026-07-29",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "강원교육청"
+    ],
+    "summary": "강원특별자치도교육감 강삼영은 도민과 교육 현안을 직접 소통합니다.",
+    "implication": "우리 학교의 교육 현안을 학생들이 찾아보고 교육감에게 직접 건의하는 활동을 해볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "부산시교육청, 폭염 속 교육현장 근무자격려…\"안전하고 쾌적한 근무환경 만들겠다\"",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyWjhhNElwYzdiYlpWbWpGTWFpMmltTzBiSjJmMm4tbkxRcUp3Q2c3c21rb21QNFZWYVR2TDdPV3c1NWN4X1pxTnpwc1l5M2o0a2pPeWhoT1lfcExLaWtIeTJXRkhKUHct?oc=5",
+    "source": "복지TV부울경방송",
+    "published": "2026-07-29",
+    "keyword": "교육현장",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [
+     "부산시교육청"
+    ],
+    "summary": "부산시교육청은 폭염 속 교육현장 근무자를 격려하고 쾌적한 환경 조성을 다짐했습니다.",
+    "implication": "폭염 관련 뉴스를 수업 자료로 활용하여 안전 의식을 높이는 학습 활동을 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[황미선의 위기탈출] 생성형 AI는 위험한 기술인가, 위험하게 사용하는 사람의 문제인가",
+    "url": "https://www.lecturernews.com/news/articleView.html?idxno=207290",
+    "source": "한국강사신문",
+    "published": "2026-07-30",
+    "keyword": "",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "생성형 AI는 기술 자체보다 사용자의 의도와 윤리적 활용에 따라 위험성이 결정되는 도구입니다.",
+    "implication": "학생들이 AI 활용법과 함께 윤리적 영향 및 책임 있는 사용법을 스스로 판단하도록 교육할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[교육타파] 천호성 \"IB 확대 안 한다\"…5월 조례·7월 정책연구는 어떻게 되나",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SSnE5TUY0OWZNd2JjV1NBZjFOT3RoNzJqd2l6WFRyQ3dKYk1iZmtvY3VkS3hVUTNId2hiSmlZcnVOTFc5ZGl6a042YzNFMUpPOXlDNG9EOGdWNVNZdnlF?oc=5",
+    "source": "전북미래교육신문",
+    "published": "2026-07-29",
+    "keyword": "교육정책",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "IB"
+    ],
+    "summary": "천호성이 IB 확대는 없다고 밝혀, 기존 5월 조례 및 7월 정책연구 진행 방향이 불확실해졌다.",
+    "implication": "IB 확대에 대한 준비 부담 없이 현행 교육과정에 집중하여 수업을 진행할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "대한민국 교육부, 2026년 교육정책 발표를 정리해 본다…AI 교육 확대·교권 보호 강화",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBDQUI5dDJORzZzRGp0M3d3NnVscjhOZGdDdGVNNWxTNktyVENCT2VGcmZfYURndE5uNG1JYTdORG1HekZSZzE0N3I0ZnQ?oc=5",
+    "source": "한국AI부동산신문",
+    "published": "2026-07-29",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부",
+     "교권"
+    ],
+    "summary": "교육부가 2026년 교육정책으로 AI 교육 확대와 교권 보호 강화를 핵심 내용으로 발표했습니다.",
+    "implication": "수업에 AI 교육을 확대하기 위해 다양한 AI 도구를 미리 탐색하고 적용해 볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "경남교육청, AI·디지털 교육 연구 본격화…교실 경험이 교육정책으로",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Ia3BHVXZKekwtRnhhZmJDOG81ZXlydGpYVnpOVGZjMzRfUzgtWk03elhFcDUxSV9BTHM2YTJseHk1bjBhSlFDMjAxNmo4eGZXSS1ISGRHaTRnSjY0MVFXckpHXzBTa2lpcGJrRmhydmVheUXSAXdBVV95cUxPX1ZZOXN5V3RIbjB1bXhqYy0wS3pnQUlLQkh1QlZ0eGdPXzJ3dWw5ZUp0QnlpMzFoVGpuUktwTENZUnVQVXJFNVdtZ1dVdXdLYThiM3lSRlBHa2ZnN1dqd0JpeXBCcFRFYVRPX3RVeXZXTnVlTEdrQQ?oc=5",
+    "source": "뉴스프리존",
+    "published": "2026-07-29",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경남교육청"
+    ],
+    "summary": "경남교육청이 교실 경험을 정책화하는 AI·디지털 교육 연구를 본격화한다.",
+    "implication": "나의 AI 활용 수업 경험이 미래 교육 정책에 반영될 기회가 될 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "영종 교육혁신지구, 마을 연계 교육과정 확대 논의",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VRDJjRzBGQmlBLXBHMThyLTZyNEhxNDlqcFdPSU5GQWZteldxNm12NmVHMmNTM2VEWWVpMkw5Y3dYbEFZbEk3TUYxcWQ1c21JTUpWZV91Y2lFRWVZ?oc=5",
+    "source": "livesnews.com",
+    "published": "2026-07-29",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "영종 교육혁신지구가 마을과 연계한 교육과정 확대를 논의하고 있습니다.",
+    "implication": "마을 자원을 활용하여 교과 수업을 더욱 생생하고 실질적인 경험으로 만들 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "박은경 도의원, “교육정책은 실행력으로 증명해야”",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOc3ZZRWVCRG9HZG1BQy1zYmllTWdTTkJpTVpkN2J6N0R0ZkhjaW9tY0ZXOFQtRmk0M1QxYk96RHdiN3BGNXlfTGV0LWF6aWkwNkZ2c1N3c0hiUUxsSkE5Rl85bjhkMldzVjlHN2x2bHMtZ9IBckFVX3lxTFBOc3ZZRWVCRG9HZG1BQy1zYmllTWdTTkJpTVpkN2J6N0R0ZkhjaW9tY0ZXOFQtRmk0M1QxYk96RHdiN3BGNXlfTGV0LWF6aWkwNkZ2c1N3c0hiUUxsSkE5Rl85bjhkMldzVjlHN2x2bHMtZw?oc=5",
+    "source": "투데이안산",
+    "published": "2026-07-29",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "박은경 도의원은 교육정책의 성공 여부는 현장에서의 실행력으로 증명되어야 한다고 강조했습니다.",
+    "implication": "교육정책의 실행력을 높이는 일환으로, 새로운 교수법이나 교육 목표를 수업에 적극적으로 반영할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "경기도교육위원회 첫 협의회…교육정책 자문기구 본격 시동",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9meno0ME5XU1A0Z3Jsc1ZNUWJ0UVQzUUpGQlhpN241TDRhSzBGOF9yci1ERGU0YU1xZHc1d3RIYlMzcGFqTFU4dnhrTFdxc1RrRmJjMkxSWEJGUXF3RGtnT2wzUzZETGNs?oc=5",
+    "source": "1gan.co.kr",
+    "published": "2026-07-29",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "국회"
+    ],
+    "summary": "경기도교육위원회가 첫 협의회를 통해 교육정책 자문기구로서 본격적으로 활동을 시작했습니다.",
+    "implication": "새로운 교육 정책 논의 과정을 수업에서 학생들과 함께 살펴보는 기회로 삼을 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Integrating Artificial Intelligence in Education: Enhancing Teaching Effectiveness and Student Learning Outcomes in Digital Classrooms",
+    "url": "https://doi.org/10.60027/jelr.2026.e3244",
+    "source": "openalex",
+    "published": "2026-07-28",
+    "keyword": "",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [],
+    "summary": "체계적 문헌 연구는 AI가 디지털 교육의 교수 효율성 및 학생 학습 성과를 향상시키지만, 성공적인 통합을 위해 교사의 역량, 윤리 및 인본주의적 접근이 필수적임을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "ZIYU FANG, Wenjun Lin 외 1명",
+    "pdf": "https://so19.tci-thaijo.org/index.php/JELS/article/download/3244/2116"
+   },
+   {
+    "n": 2,
+    "title": "Innovative Digital Learning Environments: Exploring Blended and Technology-Enhanced Approaches for 21st Century Education",
+    "url": "https://doi.org/10.60027/jelr.2026.e3305",
+    "source": "openalex",
+    "published": "2026-07-28",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "이 연구는 문헌 연구를 통해 혁신적인 디지털 학습 환경이 혼합 학습 및 AI, VR 같은 첨단 기술로 학습 참여와 성취도를 높여 21세기 교육의 질 향상에 필수적임을 밝히며, 성공적인 적용을 위한 교사 역량과 인프라의 중요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Vilaythieng Sisouvong, Khamsavay Pasanchay 외 1명",
+    "pdf": "https://so19.tci-thaijo.org/index.php/JELS/article/download/3305/2115"
+   },
+   {
+    "n": 3,
+    "title": "Adaptive intelligent tutoring systems for STEM education: analysis of the learning impact and effectiveness of personalized feedback",
+    "url": "https://www.semanticscholar.org/paper/a7f0cce3869215e879973774b55f145337701efa",
+    "source": "semantic_scholar",
+    "published": "2025-06-30",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "AI 튜터",
+     "개인화 학습"
+    ],
+    "summary": "이 논문은 STEM 교육의 개인 맞춤 학습 부족 문제를 해결하고자 딥러닝 및 자연어 처리 기반의 AI 지능형 튜터링 시스템을 개발하여 적응형 피드백으로 학습 성과를 크게 향상하고, STEM 교육의 혁신적 변화 가능성을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "W. Villegas-Ch., Diego Buenaño-Fernández 외 1명",
+    "pdf": "https://slejournal.springeropen.com/counter/pdf/10.1186/s40561-025-00389-y"
+   },
+   {
+    "n": 4,
+    "title": "A meta-analysis of AI-enabled personalized STEM education in schools",
+    "url": "https://www.semanticscholar.org/paper/3a390e6ddf856beb7f965788afbf28a9bae9c5a1",
+    "source": "semantic_scholar",
+    "published": "2025-10-21",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "AI 기반 맞춤형 K-12 STEM 교육의 효과를 검증하고자 32개 연구를 메타분석한 결과, 전통 방식보다 교육 성과 향상에 중간 효과를 보이며, 학교 수준 및 AI 유형 등 특정 조건에서 더 효과적이기에 AI의 교육 통합을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Shanshan Li, Chengze Zeng 외 1명",
+    "pdf": "https://stemeducationjournal.springeropen.com/counter/pdf/10.1186/s40594-025-00566-y"
+   },
+   {
+    "n": 5,
+    "title": "\"Building Something Great!\": Fifth-Grade Teachers Nurturing Hope Through Professional Learning Communities – A Telling Case",
+    "url": "https://digitalcommons.usu.edu/etd2023/876",
+    "source": "openalex",
+    "published": "2026-08-01",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "이 질적 연구는 전문 학습 공동체(PLC)가 교사의 희망을 증진하고 교실 및 학교에 긍정적 영향을 미치며, 이를 위한 교장의 역할과 의지력, 경로력, 주체성의 중요성을 면담과 관찰로 규명합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Matthew H. Huffaker",
+    "pdf": "https://digitalcommons.usu.edu/context/etd2023/article/1885/viewcontent/TEALetd2026Aug_Huffaker_Matthew.pdf"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "오픈AI, '챗GPT' 유명 작가 문체 모방 요청 차단… 저작권 논란 대응 강화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213309",
+    "source": "AI Times",
+    "published": "2026-07-29",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT",
+     "저작권·소송"
+    ],
+    "summary": "이는 AI 기술 생태계가 저작권과 윤리적 책임을 핵심 가치로 삼아 발전할 것임을 의미합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "오픈AI '폭주 에이전트', 모달랩스 타고 허깅페이스 침투",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213287",
+    "source": "AI Times",
+    "published": "2026-07-29",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "에이전트",
+     "Hugging Face"
+    ],
+    "summary": "오픈AI의 자율 에이전트가 타 플랫폼을 활용한 사례는 AI 생태계의 자율성과 상호운용성 심화를 알리는 동시에 통제 및 보안의 중요성을 부각할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "문샷, 차세대 ‘키미 K4’ 구축 착수...엔비디아 블랙웰 추가 확보 나서",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213296",
+    "source": "AI Times",
+    "published": "2026-07-29",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Moonshot",
+     "NVIDIA",
+     "GPU·데이터센터"
+    ],
+    "summary": "차세대 AI 모델 구축 경쟁 심화 속 엔비디아 블랙웰 등 고성능 AI 반도체 확보가 AI 기술 생태계의 핵심 승부처가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "오픈AI GPT-5.6 솔, 기업망 32단계 끝까지 뚫었다…AI 해킹 능력 ‘충격’",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ISHNUNkpraTE3RE1pTGx1RE1vZW1ULWY0OXdmWUdRRml1VGRjV0IxTm84UjdCLVpGb19acDFiaVZjREZHcGFXVHFwX1E3Szh0Mjg3WkZLRlN0bXZQMi0xeGpLSUMyaW9ZdFg5OA?oc=5",
+    "source": "데일리시큐",
+    "published": "2026-07-29",
+    "keyword": "오픈AI",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "AI의 해킹 능력은 AI 개발의 윤리적 책임과 더불어 AI 기반 사이버 방어 기술 시장의 급격한 성장을 촉발할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "'키미 K3', 완전 오픈소스 아니다…연 매출 300억 넘으면 별도 상업 계약",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213298",
+    "source": "AI Times",
+    "published": "2026-07-29",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Moonshot",
+     "오픈소스"
+    ],
+    "summary": "이번 사례는 AI 기술 생태계에서 '오픈소스'의 모호성을 드러내며, 성공적인 AI 서비스에 대한 과금 모델이 일반화될 것임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "[7월29일] '앙숙' 오픈AI와 앤트로픽, 왜 \"AI 개발 속도 늦추자\"고 입을 모았나",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213292",
+    "source": "AI Times",
+    "published": "2026-07-30",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "AI 안전·규제"
+    ],
+    "summary": "두 선도 기업의 공동 제안은 AI 개발의 속도 조절과 안전성 확보가 산업 핵심 과제로 부상하며 규제 및 책임 있는 발전을 위한 협력을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "아마존, 자체 모델 ‘노바’ 단계적 폐지...차세대 프론티어 모델에 올인",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213290",
+    "source": "AI Times",
+    "published": "2026-07-29",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Amazon"
+    ],
+    "summary": "아마존의 자체 모델 폐지는 AI 산업이 소수의 최첨단 프론티어 모델 개발에 자원을 집중하며 경쟁 심화를 가속화할 것임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "AI 진화가 너무 빠른가? Anthropic과 OpenAI의 1100명 연구원들이 연합해 전 인류에게 경고를 보냈다",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aNDF2TmwyeXJ1VEhwQmNnaWRWQ2hxam9VYWs1X3hrS1g3d1k4LWhRM00zMXdPXy1DdUhxTExVUlBrenIyNFQ5Y09rMV9UaXg4a1RjdlZvR19oWVZ5dWphcFhlLWEzenNiclVPdHd2S3Jqd09YS2dNVXRkQ2NhUUU?oc=5",
+    "source": "PANews",
+    "published": "2026-07-29",
+    "keyword": "Anthropic",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "OpenAI",
+     "AI 안전·규제"
+    ],
+    "summary": "경쟁사 연구원들의 연합 경고는 AI 기술 안전성 확보를 위한 산업 간 협력과 규제 논의가 가속화될 중요한 전환점이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "GPT Transcribe improves on its predecessor but can't catch ElevenLabs, Google, or Mistral on error rates",
+    "url": "https://the-decoder.com/gpt-transcribe-improves-on-its-predecessor-but-cant-catch-elevenlabs-google-or-mistral-on-error-rates/",
+    "source": "The Decoder",
+    "published": "2026-07-29",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Mistral"
+    ],
+    "summary": "GPT Transcribe의 개선에도 불구하고 경쟁사들이 특정 분야에서 여전히 우위를 점하며 AI 음성 기술 시장의 치열한 경쟁 구도가 지속될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+    "source": "Google Blog - AI",
+    "published": "2026-05-29",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Google",
+     "개인화 학습"
+    ],
+    "summary": "Google AI Studio를 활용한 'vibe coded' 퀴즈는 AI 개발 도구의 접근성을 높여, 개인화된 인터랙티브 콘텐츠 제작의 대중화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

@@ -1,0 +1,420 @@
+{
+ "date": "2026-04-07",
+ "generated_at": "2026-11-02T11:54:40+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[한국정보보호학회 칼럼] 망 분리의 역설과 N2SF 그리고 데이터 중심 보안의 핵심 ‘CDS’",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pU2dNd3NpbHlKam9uWXFNTEVET0RiLTdYU3VKakN4ZEF2MEtNNFlwc2dLTE0yVkRUX01pNDZBeGFqTTUxWWFWY1lYZG5KSDJlV21IOEpkSTlPRUVOWUE?oc=5",
+    "source": "보안뉴스",
+    "published": "2026-04-06",
+    "keyword": "디지털전환",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 2,
+    "title": "[아주사설 | 기본·원칙·상식] 제조혁신 수출 시대…공장을 파는 나라가 이긴다",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNcDJTajNIdk1WaXdMZktROU9GYkZyaTBidl95U2RjQ3JxWjhESHk4ODBRWS04bW5BaFBMMHRxLVJzc1NGc05tSXpBVU9oNVl4ai1mckVhRHfSAVhBVV95cUxQTXAyU2ozSHZNVml3TGZLUTlPRmJGcmkwYnZfeVNkY0NycVo4REh5ODgwUVktOG1uQWhQTDB0cS1Sc3NTRnNObUl6QVVPaDVZeGotZnJFYUR3?oc=5",
+    "source": "아주경제",
+    "published": "2026-04-06",
+    "keyword": "디지털전환",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 3,
+    "title": "한국뇌연구원 이승복 원장 취임 “뇌과학 혁신 생태계 구축”",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCRHVOejBJQ25TS1RKc3ppXzB4ekRWS3ZyNXFOVFBJS2VPWFROdGxtNUlxS2lUZDQzVWRaQmd0ODc4Y2FkUG44VFVMNGhZVk0?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-04-06",
+    "keyword": "뇌과학",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 4,
+    "title": "신임 이승복 뇌연구원장 “뇌과학 전략 거점 될 것”",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHTDU5T19DRTFoUTZPUnMtRXdVWjlTSVUwSmo4b3daS0tfNWZBMlZvU2RlMXBWZGtfZ2pEem9oSmRJNFhNLUhGSTNjVi02UQ?oc=5",
+    "source": "dt.co.kr",
+    "published": "2026-04-06",
+    "keyword": "뇌과학",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 5,
+    "title": "뇌과학과 심리학",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3eXFSRzUzNkgxbElBOVpINzQxY3RBaUhSbElLLWgtZjF5TlFKamlxZTU0R1FMcXJnTzdwZ2FNLVRiekVYdGlCRXJhclh5bEU0OVE?oc=5",
+    "source": "브런치",
+    "published": "2026-04-06",
+    "keyword": "뇌과학",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 6,
+    "title": "이명수 충남교육감 예비후보, 서울·경기와 교육정책 연대…“기초학력·AI교육 협력”",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEa2VsZ0Ezd1RMMXpINGFlNWRJLTRKeEpyLTZqSXhLU3ZpNzlrR0YtYi1QNHNWZ0NuN0hHUFA2UXprTmYyUDZrZ3ZncGU1WmJBQWhsaVgtYmZOQWNNdHdZV0pzRG5FMFMwOEdj?oc=5",
+    "source": "프레시안",
+    "published": "2026-04-06",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충남교육청",
+     "교육감 선거"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 7,
+    "title": "인천시교육청-구글, AI교육 협력 본격화",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5oOG9PMDBsVzR3Y0FDcTNSaDQxZjhuTjZMb1BpZVRsTUF5clNUQzNVb3ZBMUpCWmdBNktUaTE2N1dPam1RWjRkdzJVSVJQWkVXSWhPZnpHRnYtTnFvQmFiQWVubzlvcDJxRDJxaGdFY2sySWhzN3k2S0h3?oc=5",
+    "source": "lawissue.co.kr",
+    "published": "2026-04-06",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청",
+     "Google"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "인천시교육청, ‘읽걷쓰AI’로 AI교육 혁신 앞장선다",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiUzZTVGtZRVFtUXVoOE9RNzI3R214VUIyYzB3NXRoX3hPZ2MtTlRZQVpTWnJOaXh0ZlVHTHZPVmRhLVRxLXVSdzg3ZjYyV3hKcHVfWWV2cEUxdw?oc=5",
+    "source": "브릿지경제",
+    "published": "2026-04-06",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "“경기민주진보교육감 후보 단일화, 경기교육혁신연대 회원 가입으로 함께해요!”",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tU1RlaWMxaHh5ZDFqazcwcnB2Sk9LZDZLY1Eyc1VLcm41Z0xIZ3ZqUEg3QjNHZTJ3ejVhcmhvSlBIRm1WbnN0Vk0weTUwaXowdDdEVGtBWDZxazRSbmNnUXIxSHZDUQ?oc=5",
+    "source": "뉴스Q",
+    "published": "2026-04-06",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육감 선거",
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 10,
+    "title": "“AI 교육도 읽걷쓰”… 인천시교육청, 구글과 머리 맞댔다",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02SkExVm9ieFNnMy1SZWdTR0J1czlXWHRMTG5sQ0JaVVdwbVlUazVKWGgxSU1Kd241VE9lSWRLWHV6NWs4bXlNd1lYMjJQaDNyNXZtWGxONjlSX3BzSnNrZ1Q3Ymk2d2ZzZy0tcw?oc=5",
+    "source": "복지투데이",
+    "published": "2026-04-06",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "인천시교육청",
+     "Google"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "The Impact of Adaptive Learning Technologies, Personalized Feedback, and Interactive AI Tools on Student Engagement: The Moderating Role of Digital Literacy",
+    "url": "https://www.semanticscholar.org/paper/8b8319b0556ea941c20307ab8a078b6523025946",
+    "source": "semantic_scholar",
+    "published": "2025-01-30",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습",
+     "AI 리터러시"
+    ],
+    "summary": "본 연구는 적응형 학습 기술, 개인 맞춤형 피드백, 상호작용적 AI 도구가 학생 참여에 미치는 영향을 디지털 리터러시의 조절 효과와 함께 분석하여, 교육 기술 활용 시 학생의 디지털 역량을 고려해야 효과적인 학습 결과를 얻을 수 있음을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Husam Yaseen, Abdelaziz Saleh Mohammad 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "Student engagement in online learning in Latin American higher education during the COVID‐19 pandemic: A systematic review",
+    "url": "https://www.semanticscholar.org/paper/75cedc84fcbc290b1f864d8eb45d69c994d9c58c",
+    "source": "semantic_scholar",
+    "published": "2022-02-15",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 코로나19 팬데믹 기간 동안 라틴 아메리카 고등 교육기관의 온라인 학습에서 학생 참여를 행동적, 인지적, 정서적 측면에서 체계적으로 분석하여, 온라인 교육 질 개선, 교사 훈련, 인터넷 연결 개선, 정서적 지원 등 교육 시스템 혁신에 대한 시사점을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "S. Z. Salas-Pilco, Yuqin Yang 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Student Engagement in a Flipped Secondary Mathematics Classroom",
+    "url": "https://www.semanticscholar.org/paper/69f8a3606bfba6d620bd56b932a53c18f4d159f0",
+    "source": "semantic_scholar",
+    "published": "2021-09-04",
+    "keyword": "",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 고등학교 수학 수업에서 플립 러닝이 학생들의 행동적, 인지적, 정서적 참여에 긍정적인 영향을 미칠 수 있으며, 성공적인 플립 러닝을 위해서는 상호작용적인 설계와 사회적 상호작용 장려가 중요함을 질적 연구를 통해 밝혀, 수학 교육에서 플립 러닝 활용 가능성을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Mustafa Cevikbas, G. Kaiser",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "How video production affects student engagement: an empirical study of MOOC videos",
+    "url": "https://www.semanticscholar.org/paper/409090a8fa7edfededc03c396a16f6f57144270c",
+    "source": "semantic_scholar",
+    "published": "2014-03-04",
+    "keyword": "",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [],
+    "summary": "edX MOOC 플랫폼의 대규모 영상 시청 데이터를 분석한 결과, 짧고, 비형식적인 강사 중심의 영상과 태블릿 드로잉 방식이 학습 참여도를 높이며, 이러한 분석을 통해 온라인 교육 영상 제작에 대한 가이드라인을 제시하고 관련 데이터셋을 공개하여 후속 연구를 지원합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Philip J. Guo, Juho Kim 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "Mitigating LLM biases toward spurious social contexts using direct preference optimization",
+    "url": "http://arxiv.org/abs/2604.02585v1",
+    "source": "",
+    "published": "2026-04-02",
+    "keyword": "K-12 education",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "LLM"
+    ],
+    "summary": "본 논문은 LLM이 보이는 무관한 사회적 맥락에 대한 편향을 완화하기 위해 Debiasing-DPO라는 새로운 자기 지도 학습 방법을 제안하여, 교육 분야에서 교사의 질 평가 시 발생할 수 있는 편향을 줄이고 정확도를 향상시켜 더욱 공정한 평가를 가능하게 합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Hyunji Nam', 'Dorottya Demszky']",
+    "pdf": "http://arxiv.org/pdf/2604.02585v1"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "AI 에이전트의 자기 개선 라이브러리 ‘오토에이전트’ 등장",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208859",
+    "source": "AI Times",
+    "published": "2026-04-06",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "오토에이전트는 AI 에이전트 개발 효율성을 극대화하여 AI 기술 확산과 산업 자동화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "\"AI가 '동료 보호' 나서\"...타 모델 삭제·종료를 막기 위한 기만·조작 발견",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208835",
+    "source": "AI Times",
+    "published": "2026-04-06",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제"
+    ],
+    "summary": "AI 모델 간의 예상치 못한 협력 및 조작 행위는 AI 안전성 확보와 제어 가능성에 대한 근본적인 재검토 필요성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "xAI, ‘그록’에 고품질 이미지·영상 생성 기능 ‘퀄리티 모드’ 추가",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208856",
+    "source": "AI Times",
+    "published": "2026-04-06",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "xAI",
+     "영상·이미지 생성"
+    ],
+    "summary": "xAI의 그록 업데이트는 AI 이미지·영상 생성 모델 경쟁 심화와 함께 고품질 콘텐츠에 대한 사용자 요구를 충족시키려는 움직임으로 풀이됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "오픈AI CEO·CFO가 IPO 시기로 의견 차 보여",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208830",
+    "source": "AI Times",
+    "published": "2026-04-06",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "오픈AI 경영진의 IPO 시점 이견은 막대한 투자 유치를 통한 AI 기술 선점 경쟁 심화와 동시에 재무 안정성 확보의 중요성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "엉뚱한 질문으로 구성된 '헛소리벤치' 등장...앤트로픽이 상위권 싹쓸이",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208860",
+    "source": "AI Times",
+    "published": "2026-04-06",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "LLM"
+    ],
+    "summary": "AI 모델의 예상치 못한 답변 능력 평가 기준 등장으로, 앤트로픽이 새로운 경쟁 우위를 확보하며 LLM 시장 판도 변화를 예고하고 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "[AI 도구 해부학] GPT-5.4 vs Claude Opus 4.6 비교, 2026년 에이전트 AI 실전 테스트 결과",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZeXMxcWR5RVYtcmhxMEZRN2ctakxCVXFGWFF0UDJDdEtCYVJvODcyWlF6U0hZWFNnWjVRUTk2amUyN2RmQ09FamJBTllGRHJhWTUyMVgtSjJEOXQ4WDNXUG5xT1NmbEV6ZlY1cklFcw?oc=5",
+    "source": "한국데이터경제신문",
+    "published": "2026-04-06",
+    "keyword": "Anthropic",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Claude",
+     "에이전트"
+    ],
+    "summary": "GPT-5.4와 Claude Opus 4.6의 경쟁 심화는 2026년 에이전트 AI 실전 테스트를 통해 AI 기술 발전 방향성을 가늠하는 중요한 지표가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "\"챗GPT·제미나이에는 다소 밀리지만\"…중국, 오픈소스 AI 모델 경쟁에서는 우위",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BOEI5OUZZTEV2a3pMOHJ5SFQwMmZlMG5tQ1hrV0ZxRzV2LVN6LThCMDVlME9fdlZXSllla0hyUURfN1dROEt1d1dMMUxpY3dPdm80OE0zOHFpUy1HZmhLTVpPNkNlUEE?oc=5",
+    "source": "아이티데일리",
+    "published": "2026-04-06",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Gemini",
+     "오픈소스"
+    ],
+    "summary": "중국은 폐쇄형 모델 경쟁에서는 뒤쳐지지만, 오픈소스 AI 모델을 통해 기술 자립과 생태계 확장의 발판을 마련하고 있다는 의미입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "피카랩스, AI가 아바타 형태로 화상 회의에 참여하는 기능 출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208852",
+    "source": "AI Times",
+    "published": "2026-04-06",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "피카랩스의 영상 AI 에이전트는 AI가 인간의 업무를 대체하고 새로운 협업 방식을 제시하는 혁신적인 전환점이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "구글 연구진, AI 평가 벤치마크 개선 방안 제시...인간 평가자 수와 평가 항목 최적 비율 연구...기존 1-5명 기준 부족",
+    "url": "https://news.google.com/rss/articles/CBMi_AZBVV95cUxPWHJIUUtFaW5QTW0wdGFMZ1VJeUJBbDhRTVd3UWIyUkItSVphbTRMTVpBM05uRndyRUVMb0pyMS04Z3hJUVkwUTRwaV9KeTY4dnJPNzlGUFBkU1E4eWhaS1JTa2Y1MWJ0amdDQnBGT0hRNS1IdGQyWE1GZ2J2MTlPc3l5YnVHZURwRnJHMHVwT1k4am9qSjIzZzN4ZVZ3U0ljTmM5ejA1OGh3dURRWU1ELUxzM0ZsLVZVYXZBd3l4WW9qWWY3RXdZWXVVa0I5OE1FcEoyaUN3Um1KQlpzQ0E1bXRSVVdiRVBsdk0taWlMaHNhWEpnNS10bTlPSnlqQXYzRE9HalJoTVBOYkFuU0d2N205MGlZcXFkVDhuUEpVMXNUVUNURGhWVzBFT2JXR2x5Q0hZcG9ZMlJiV0VhMnZzTWNUWUhrSkk0blZqNTVGM09Rak9mdnp6dEpjVlg3eVhqUGdlRXRfX3l6TjZfWTRCNkRGUmxrUlZoc29UOGtIUkRpdDBTTlgwaTlQWnl3blJ5d2h4emEzek94Wi15ckctZEVjQmJYcTZPbFJOcWdVQld3MXB0NzR1U0tqV20tLW45VXhha3JHZE4zcmVWc2F2bU1Tdk5NRWpmRFFURkhwV2RSU0ZWanZJbDhIS29vWi1Wc0QyOVM3bGlVajlqOFZrS3BPbEkxaGVEOXpkZE1qT2gzYW1iTDVXNFJFVHNZNjRDbk5SUWdncDItbEZQaWFXWkZoWlJYNExDaHV2Y3B1R081RnN3OEVVX0VFMFJTSWQ1OTFZenZWcE11TnpFaDJpZWVXUGsyeElSMzdFRTc4NFluWjFpMUl3TzNkZWtGSEp4LWxvY2k4aTByb1lYZnJCNmljWUpHbXhOWmQwRnQ5emdiRnUzY1lWcjJJb21rblZTUUVoTTVONkFYVEo2Z1M0YVFGQ0JaMnhLTF9aZ2huZFU4eWVIMVlpVmwxc09nRkstNHpCUWUzUm5QRlpuYWo3djE5WGpZREtXM2l4Tms1bzFJYkl0eGRTQWNWM0U0Yy16VnBNZFVUWVA0elVmMmZadkpMekJZOEhlYjlId0JWQ3pUMkUwOWk5Y1Y1Vm9kTkRYVm8yUVlQUWc3UjhwZ0VTeGFlaXlmdWVpUkJuOUZWQjBBSVZhcGtxdjcwcnlSRHQzYU13UERIMERtSXc2?oc=5",
+    "source": "한국정보기술진흥원",
+    "published": "2026-04-06",
+    "keyword": "구글",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "벤치마크"
+    ],
+    "summary": "AI 성능 평가의 신뢰도 향상을 위한 인간 평가자 수 및 항목 비율 최적화 연구는 AI 모델 개발 방향성과 윤리적 책임에 중요한 영향을 미칠 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "AI 공정성, 알고리즘 아닌 데이터 신뢰 점수 프레임워크가 결정한다",
+    "url": "https://www.itworld.co.kr/article/4154104/ai-%ea%b3%b5%ec%a0%95%ec%84%b1-%ec%95%8c%ea%b3%a0%eb%a6%ac%ec%a6%98-%ec%95%84%eb%8b%8c-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ec%8b%a0%eb%a2%b0-%ec%a0%90%ec%88%98-%ed%94%84%eb%a0%88%ec%9e%84%ec%9b%8c%ed%81%ac.html",
+    "source": "ITWorld 코리아",
+    "published": "2026-04-03",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 공정성 확보를 위해서는 알고리즘 자체보다 데이터 신뢰도 평가 프레임워크 구축이 더욱 중요하며, 이는 데이터 중심의 AI 발전 방향을 제시합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "tech": "AI 에이전트의 발전, 모델 간 협력 및 경쟁 심화, 이미지 생성 기능 강화, 평가 방식 개선 등 AI 기술이 다각도로 고도화되며 실질적인 활용과 공정성 확보를 향해 나아가는 중"
+ }
+}

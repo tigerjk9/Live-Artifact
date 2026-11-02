@@ -1,0 +1,419 @@
+{
+ "date": "2026-04-01",
+ "generated_at": "2026-11-02T11:54:22+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[의학칼럼] 뇌과학으로 풀어보는 스트레스 관리법",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sM3kyanN1RU11RmVSRV8zUTJjMXBGbmdaVXJud3hrak9lVVE2dDJXRnV1WG9vNmRVejhUQU1jUktSUEJ2allJNWQ2cFlmcnJOc2dOdmZpdVpnQlFtOE52S0EzbWt4bEFKNVBZcVNWUXJFT2dLZUE5T2p3?oc=5",
+    "source": "뉴데일리 경기",
+    "published": "2026-03-31",
+    "keyword": "뇌과학",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 2,
+    "title": "[기고] 도구를 넘어 교실의 본질로: 에테연이 그리는 미래교육의 청사진",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4bF8tckUzUlFZYUNwYXBBR09NM2VFaGVsaXNmQnFtQVJBWkZOX0RvdE5zXy1ESjdCYmZYczNnYWo1WGE1SWIyYlA0YUd3cmdxTVNRZ1I0TnQ3UnpTVmFOMkFGYldpLU42?oc=5",
+    "source": "edupress.kr",
+    "published": "2026-03-31",
+    "keyword": "에듀테크",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 3,
+    "title": "[이영웅 과학칼럼] 마음과학: 돌변하는 뉴노멀 시대, 불안의 파도를 넘는 ‘마음의 탄성’",
+    "url": "https://www.lecturernews.com/news/articleView.html?idxno=199768",
+    "source": "한국강사신문",
+    "published": "2026-04-01",
+    "keyword": "",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [
+     "수능·대입"
+    ],
+    "summary": "오늘날 우리 교육 현장의 풍경은 마치 거대한 폭풍 전야와 같습니다. 중고등학생들은 촘촘한 내신과 입시라는 현실적인 압박에 짓눌려 있고, 대학생들은 학점과 스펙이라는 성벽을 쌓으면서도 인공지능(AI)이라는 미지의 존재가 가져올 불확실한 미래에 떨고 있습니다.특히 최근의 중동 전쟁과 같은 지정학적 위기와 에너지대란, 하루가 다",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[교육칼럼] 학습동아리가 만드는 지속 가능한 내일",
+    "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2266258",
+    "source": "대전일보",
+    "published": "2026-03-31",
+    "keyword": "",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "꽃들이 앞다투어 피어나는 4월, 우리 평생교육원 어린나무에서도 잔망스러운 꽃망울이 터지기 시작했다. 세상에 예쁘지 않은 꽃이 어디 있으랴마는 겨울을 버텨내고 봄의 전령으로 찾아오는 꽃은 유독 귀하고 예쁘다. 이렇듯 귀하고 예쁜 피움을 준비하는 꽃이 여기 또 있다. 바로 배움의 꽃 '학습동아리'이다. 책상 앞에 앉아 지식을 채우던 개인의 시간이, 마음 맞는",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "AI 시대라서 뇌과학을 공부합니다",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yaEU5d2xReXdocTk1aDczWEwtVG05MTViQWFiektWNkZxRnVSemJBMUhkV2hoV0ZQQ0xWZXY1U2xOdXpzMWdXTGhvdTF2SDQ?oc=5",
+    "source": "brainmedia.co.kr",
+    "published": "2026-03-31",
+    "keyword": "뇌과학",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 6,
+    "title": "​[뇌과학 행복제어] 행복을 완벽히 제어할 수 있다면",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tV2tJU2Z0RVF3LXJ3WE03MHJETmdWaUZQYWw5VmZDWElpUXRjYWdsNFY2S0VVRUdydFpMY3RaSHc1TnVuSWxCVUgyTFZrb2RiTUI0?oc=5",
+    "source": "브런치",
+    "published": "2026-03-31",
+    "keyword": "뇌과학",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 7,
+    "title": "전북교육청, AI교육플랫폼 도입...교육혁신",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Fc0RCV1FjWk0xcjBvVlRNZE9PSzNPRjNkQzczdEdOTzJqRUp0YnNlVUE5b242QzBSdGd4NUVyX2trLUZQemZRenZoTFhIM3V0c185d01OMUxyb0do?oc=5",
+    "source": "뉴스핌",
+    "published": "2026-03-31",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "전북교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "전남교육청-광주교대, 지역 맞춤형 교원양성‧임용 협력 ‘맞손’",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oYUtDUDZ4dmlWMUl4Yk16c2RGaEwyU0N3U3NVZGh1TWFpczRxOGh0d1R0S1diWUhBVExVeFZFbHBlVWVRZ0lqN1Jjejg3Y2I4Y3RTMGJ1VUtWNWc0eXRDZk9JUlpxdmRFeVdWdmFlSnLSAXBBVV95cUxOaGFLQ1A2eHZpVjFJeGJNenNkRmhMMlNDd1NzVWRodU1haXM0cThodHdUdEtXYllIQVRMVXhWRWxwZVVlUWdJajdSY3o4N2NiOGN0UzBidVVLVjVnNHl0Q2ZPSVJacXZkRXlXVnZhZUpy?oc=5",
+    "source": "엔디엔뉴스",
+    "published": "2026-03-31",
+    "keyword": "교육혁신",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "전남교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "2027 수능, ‘현행 체제 마지막’ 승부수… 지역의사제·사탐런이 흔드는 ‘역대급’ 입시",
+    "url": "https://news.unn.net/news/articleView.html?idxno=591206",
+    "source": "한국대학신문",
+    "published": "2026-03-31",
+    "keyword": "",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [
+     "수능·대입",
+     "교육부",
+     "평가원"
+    ],
+    "summary": "2028학년도 대입 제도 전면 개편을 앞둔 현행 통합형 수능 체제의 마지막 관문, 2027학년도 대학수학능력시험(이하 수능)의 구체적인 청사진이 확정됐다. 교육부와 한국교육과정평가원은 31일 ‘2027학년도 수능 시행기본계획’을 발표하며 오는 2026년 11월 19일 시험을 실시한다고 밝혔다.이번 시험은 현 교육과정의 마무리를",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "캠토, 디지털교육플랫폼 '오늘도' 누적 방문자 200만명 돌파",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sZTRvdll1MXM0YTUyaXc0ckVUYzZZS25LbHcyMFNlZmVLMDhraG92QmtEVWRLbUxOSGl5TGVRTU4weUpGVDZFY1ZMb0l6anA1QTZVUnN2SmVOQ1htRXhyZnI1dy1sQ2lrcnJIZA?oc=5",
+    "source": "mt.co.kr",
+    "published": "2026-03-31",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Pedagogical Paradigms in teaching EFL classroom: evaluating approaches of cognitivism, constructivism, pragmatism, and connectivism",
+    "url": "https://www.semanticscholar.org/paper/53525118c107ab3425f8672d9dff7a29d1fcb9b8",
+    "source": "semantic_scholar",
+    "published": "2023-02-08",
+    "keyword": "Connectivism",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 영어 교육에서 인지주의, 구성주의, 실용주의, 연결주의적 접근법을 활용하여 학생들의 듣기, 쓰기, 말하기 능력을 향상시키고, 협력 학습 및 비판적 사고 능력 함양을 통해 공동체 지향적인 학습 환경을 조성하는 데 기여함을 입증합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Jeanelly Cecilia Aguilar Parra, Byron Carlos Reasco Garzón 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "Real-Time Attention Monitoring System for Classroom: A Deep Learning Approach for Student's Behavior Recognition",
+    "url": "https://www.semanticscholar.org/paper/0c8c608eb19f6898404a6359385c18cbe72075e8",
+    "source": "semantic_scholar",
+    "published": "2023-03-09",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "본 논문은 딥러닝 기반의 실시간 시선 추적 시스템을 개발하여 학생들의 얼굴 표정 및 행동 인식을 통해 마스크 착용 여부와 관계없이 학습 집중도를 파악하고, 교사에게 학생 중심의 맞춤형 교육 환경을 제공하여 교육 효과를 향상시키는 데 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Z. Trabelsi, F. Alnajjar 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Teaching AI Interactively: A Case Study in Higher Education",
+    "url": "http://arxiv.org/abs/2603.28679v1",
+    "source": "",
+    "published": "2026-03-30",
+    "keyword": "K-12 education",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "대학 AI 입문 강좌에서 추상적인 개념과 다양한 배경의 학생들 문제를 해결하기 위해 CS Unplugged 방식의 상호작용적 수업을 설계하고 실험한 결과, 학습 효과는 유지하면서 학생 참여도와 긍정적 경험을 향상시킬 수 있음을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Jennifer M. Reddig', 'Scott Moon' 외 2명",
+    "pdf": "http://arxiv.org/pdf/2603.28679v1"
+   },
+   {
+    "n": 4,
+    "title": "A Human-Centered Approach to Ethical AI Education in Underresourced Secondary Schools",
+    "url": "http://arxiv.org/abs/2603.26004v1",
+    "source": "",
+    "published": "2026-03-27",
+    "keyword": "K-12 education",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [
+     "AI 리터러시"
+    ],
+    "summary": "본 논문은 소외된 환경의 고등학생들을 대상으로 윤리적 AI 교육 과정을 개발 및 적용하여, AI 리터러시뿐 아니라 윤리적 판단 능력을 함양하고 대학 수준의 학업 역량 자신감을 높여 교육 불평등 해소에 기여함을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Valentina Kuskova', 'Sonia Howell' 외 2명",
+    "pdf": "http://arxiv.org/pdf/2603.26004v1"
+   },
+   {
+    "n": 5,
+    "title": "Teachers and AI: Understanding the factors influencing AI integration in K-12 education",
+    "url": "https://www.semanticscholar.org/paper/a7ec600b20077aebe10a74ed68d18e3bd99e8958",
+    "source": "semantic_scholar",
+    "published": "2025-03-20",
+    "keyword": "K-12 education",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "교사 연수",
+     "개인화 학습"
+    ],
+    "summary": "튀르키예 사립학교 교사들을 대상으로 AI 활용 전문성 개발 프로그램을 통해 AI가 교육 효율성과 개인화 학습을 지원하지만, 기술적 문제, 윤리적 문제, 문화적 차이 등으로 인해 성공적인 통합을 위해서는 지원과 윤리 지침이 필요함을 밝힙니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ozan Filiz, M. H. Kaya 외 1명",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "[3월31일] \"지능의 본질은 '학습 능력'...2030년대 초에는 AI가 인간 따라잡을 것\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208622",
+    "source": "AI Times",
+    "published": "2026-04-01",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "벤치마크"
+    ],
+    "summary": "AI의 학습 능력 발전은 AGI 도달 시점을 앞당길 수 있지만, 벤치마크 점수만으로 AGI 달성을 단정하기는 어렵습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "OpenAI, Anthropic의 Claude Code 내부에서 실행되는 Codex 플러그인 출시",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOelJ1dDFOMzhhR1NtemlKVlRTRzFfQTNGdU81VG9uS3hWbFJLa2NJNHRrSVpNZWlZUU1zUWx0SnZQZ3hNSGNjekt4NTVSbi1MWkc2b0dOQXVobVY5czgzRzBabTlRSVRLRFNFbUxvM0xKSlQ1R1NOdlRTRlpwbVdUNEdLX1RuTVA1anhLVkp1bUxXbGc4aXRIRQ?oc=5",
+    "source": "Unite.AI",
+    "published": "2026-03-31",
+    "keyword": "Anthropic",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Anthropic",
+     "Claude",
+     "코딩 AI"
+    ],
+    "summary": "OpenAI의 Codex 플러그인 출시는 AI 모델 간 상호 운용성 확대를 가속화하여, 개발자에게 더 넓은 선택지를 제공할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[게시판] 센드버드, AI컨시어지 글로벌 활용 사례 공개 등 단신",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208644",
+    "source": "AI Times",
+    "published": "2026-03-31",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [],
+    "summary": "센드버드의 AI 컨시어지 성공 사례는 AI 챗봇이 고객 경험 혁신과 운영 효율성 증대에 기여하며, 산업 전반의 AI 도입 가속화를 촉진할 것임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "텐센트 클라우드, '컴피UI'와 오픈소스 3D 생성형 AI 워크플로우 혁신",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44LWtaWmF0WnZ0Uzg0SkptSHRod25UMnM5LV93MUxZOGxCd2xHWnlCcTdSOVhTRUhPSGt6dEpNTmt2em9mVE5QZUVHeExzUUdSVWNMMjZIcFFpRk5FeVYtN1RrREIteTQ?oc=5",
+    "source": "인공지능신문",
+    "published": "2026-03-31",
+    "keyword": "생성AI",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "오픈소스",
+     "생성형 AI"
+    ],
+    "summary": "텐센트 클라우드의 ComfyUI 기반 3D 생성형 AI 워크플로우는 3D 콘텐츠 제작 진입 장벽을 낮춰 관련 산업 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "“GPT가 보고서 쓰고, 클로드가 논평한다”… MS, 연구 에이전트 AI 신기능 공개",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEQlNQNjVPWXpPREVkVEN1eDc1Z2RIUjVOTVhrSzA1R3NvaENBekVWMUgxR0JyR2U2bjhMSDFkV3JUWE5XclYtUndtdUdfNWs?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-03-31",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Claude",
+     "Microsoft",
+     "에이전트"
+    ],
+    "summary": "MS의 연구 에이전트 AI는 기업 업무 자동화를 가속화하고, AI 협업 모델의 새로운 가능성을 제시한다는 점에서 의미가 큽니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "챗GPT 오픈AI, 투자 규모 180조원 확정…하반기 IPO 드라이브",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93VnhIMmhUYnR0c2N5QUY2N1NHWldCTmZIT2J1bGh2cFJVWGFvQk9kMHhOMWhqYlhDdktCckRCZTJmWHdQLVdhWE16OXhULXFFT1RybFhiMlNrLTR5a1ZWQm9ZMjd3Zw?oc=5",
+    "source": "싱글리스트",
+    "published": "2026-03-31",
+    "keyword": "GPT",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "OpenAI"
+    ],
+    "summary": "오픈AI의 대규모 투자 유치는 AI 경쟁 심화와 시장 확대를 가속화하며, 관련 기술 및 인프라 투자에 대한 필요성을 증대시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "KAIST 교수, \"알고리즘 하나가 AI 판 흔들었다\"… 구글 '터보퀀트' 파장",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90WmxsMkdrV0VLbFNtR1FRSVJ0cTNfWnNQUnZpeUNURnY5bVh2QVM3eTRKOXprUTBWV2FPU0ZqcXFqeEJ4Z3M3dVI1UjhzNmRTY3ZQaVVhVmR4UmI5QklUbVVULWVFSjBseWc?oc=5",
+    "source": "kmjournal.net",
+    "published": "2026-03-31",
+    "keyword": "구글",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "구글 터보퀀트는 알고리즘 혁신을 통해 AI 모델 경량화 및 효율성 향상에 기여하며, AI 기술 확산 및 산업 경쟁 심화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "크로마, '컨텍스트 핵심'만 걸러내는 검색 특화 에이전트 '컨텍스트-1' 출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208629",
+    "source": "AI Times",
+    "published": "2026-03-31",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "에이전트",
+     "LLM"
+    ],
+    "summary": "크로마의 컨텍스트-1 출시는 LLM 검색 기술의 효율성을 높여 AI 에이전트 기반 서비스 확산에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "Accelerating the next phase of AI",
+    "url": "https://openai.com/index/accelerating-the-next-phase-ai",
+    "source": "OpenAI Blog",
+    "published": "2026-03-31",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "OpenAI의 대규모 투자 유치는 AI 기술 경쟁 심화와 동시에 차세대 AI 모델 개발 및 상용화를 가속화할 것으로 예상됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "숙명여대, 구글 클라우드와 AI 역량 향상 위한 교육·연구 협력",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iZWJhY0dsbFRNTTVRUEQ0eS1jLU1qcE1TZ25yam1kamVMUG93WnhVYTBCbWlEMGxadGhWYi1mZUxjTktqSElBamI2QkVEU0NvWVJrbE55dkoxbGVXV1RGT2MwaFluRnc?oc=5",
+    "source": "한겨레",
+    "published": "2026-03-31",
+    "keyword": "AI연구",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "숙명여대와 구글 클라우드의 협력은 여성 AI 인재 양성을 촉진하고, 나아가 국내 AI 기술 생태계의 다양성 확대에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "tech": "AI 기술은 학습 능력 향상, 다양한 분야 적용, 투자 확대, 그리고 새로운 알고리즘 개발을 통해 빠르게 발전하며, 기업과 교육기관의 협력을 통해 더욱 혁신적인 미래를 향해 나아가고 있다."
+ }
+}

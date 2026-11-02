@@ -1,0 +1,431 @@
+{
+ "date": "2026-10-21",
+ "generated_at": "2026-11-02T11:45:17+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[기고] AI 에이전트가 설계한 흙막이 H빔, 현장을 바꾼다",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55MXZFeUV6N1RkRWQ0MWhpUVQ0SzFUbnp4SFRJenNZVnQwWGtfZUZaeE5XU3FkZUV1d25EdWpBZGdPSkpqWldCZkx2bHR6SWhVY1FCMDRXUEFfdkJOZ3U2MGh4Zy1fSjRyMTQtNA?oc=5",
+    "source": "페로타임즈",
+    "published": "2026-10-20",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "AI 에이전트가 흙막이 H빔 설계를 통해 건설 현장에 변화를 가져옴.",
+    "implication": "AI가 실제 건설 현장 설계에 적용되어 미래 직업 변화를 탐구하는 자료로 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[기고] 폭행당한 교사가 피의자가 된 교실, 이제 교육감이 고발권을 꺼낼 때",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GMERfOTU0dlJjcDk4Wk5IdTN2VHZ6dWt1Q1pNaWRYUUpnMDFFeTdqM0c5T3FhOS02Q19yUXlLZ2VDYjJrSENwTlRzVnFPWUhYQUV3RnJmOEc4eWhIbDhwNEpQQUtnalo2Zmc?oc=5",
+    "source": "충청매일",
+    "published": "2026-10-20",
+    "keyword": "현장교사",
+    "topic": "teacher",
+    "kind": "opinion",
+    "entities": [
+     "교권"
+    ],
+    "summary": "폭행당한 교사가 오히려 피의자가 되는 상황에서 교육감이 교사 보호를 위해 고발권을 행사해야 한다는 기고.",
+    "implication": "현장 교사는 문제 발생 시 폭행 피해자임에도 피의자가 될 수 있는 상황에 대비할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[변영임  칼럼 ①] 교감은 왜 존재하는가?",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=30545",
+    "source": "에듀프레스",
+    "published": "2026-10-20",
+    "keyword": "",
+    "topic": "teacher",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "힘든 교감 직무는 교사 수업 보호, 비전 실행 매개, 갈등 중재를 통해 학교 공동체를 유지하는 필수적 역할입니다.",
+    "implication": "교감 선생님이 외부 충격을 흡수해 주셔서 교사로서 수업에 더욱 집중할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[기획] 미래교육 해답 찾기 나선 충남교육청 '전문적학습공동체'(3)",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUeUhEeG1OV1JSNzQ0ZGplYmZSSVZLQVNsZTRINFZUbnc0VDhMaGc2X25zS1Y4X3NRazhDeWVQV3c1T0ZPOEdKX0Z4NXF1TG4wVTBzaWVXUGFodXRKRjBueWQ4enZIQ0Q4X2JR?oc=5",
+    "source": "디트NEWS24",
+    "published": "2026-10-21",
+    "keyword": "과정중심평가",
+    "topic": "classroom",
+    "kind": "feature",
+    "entities": [
+     "충남교육청",
+     "교사 연수"
+    ],
+    "summary": "충남교육청은 미래 교육의 해답을 모색하고자 전문적학습공동체를 운영하는 중입니다.",
+    "implication": "전문적학습공동체에서 동료 교사들과 미래 교육에 필요한 수업 아이디어를 함께 찾아 수업에 바로 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "대전교육청, 동부권 IB 교육지구 수업 혁신 잰걸음",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83UmV4SGh4bi1tVzFQYnlKaERoSDR0S1dnbkQ2VGRVZnczTU5DYlpFbWFmWklLXzNkeUxTVmxPamRFeC1xLURjeEFreEVPbWJWR1IwVGlFLW1UNTRJ?oc=5",
+    "source": "뉴스핌",
+    "published": "2026-10-20",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "대전시교육청",
+     "IB"
+    ],
+    "summary": "대전교육청은 동부권 IB 교육지구 내 수업 혁신을 위한 노력을 가속화하고 있습니다.",
+    "implication": "교사들은 IB 교육의 특징인 탐구 기반, 학생 중심 수업 방식을 실제 수업에 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "[2027수시] 면접/논술 대비 시사이슈.. 생성형AI 지역의사제 고교학점제 통상갈등 등",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KNEFKQzg0eDBGYkNaMWtkZkRpM091M1BkUzJIb1hGRk04Q2JNaTZOWk85LUx5NVZOejJYeXNHUWFvcXhCazk5bEZRaWttM2pQMUZOZ3BtdS0yZm5UTzJBU3RXaTRHRWdtTkV3Yg?oc=5",
+    "source": "베리타스알파",
+    "published": "2026-10-20",
+    "keyword": "생성형AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "수능·대입",
+     "생성형 AI",
+     "고교학점제"
+    ],
+    "summary": "2027학년도 대입 수시 면접·논술 대비를 위해 생성형 AI, 지역의사제 등 주요 시사 이슈가 다뤄집니다.",
+    "implication": "생성형 AI, 지역의사제 등 최신 시사 이슈를 활용하여 학생들의 토론 및 논술 역량을 강화할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "[OECD] 교사 빠진 교육혁신은 한계…교사 중심 정책 전환 촉구",
+    "url": "https://www.edpl.co.kr/news/articleView.html?idxno=21822",
+    "source": "교육플러스",
+    "published": "2026-10-19",
+    "keyword": "",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "OECD"
+    ],
+    "summary": "OECD는 미래 교육의 성공을 위해 교사의 전문성과 자율성을 보장하고 교육정책 결정 과정에 교사의 참여를 확대해야 한다고 제언했습니다.",
+    "implication": "OECD가 제시한 교사 중심의 교육혁신 방향을 바탕으로, 교실을 떠나지 않고도 수업 전문가로 성장하여 동료들과 혁신적인 교수법을 개발하고 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "대전·세종·충남교육감 \"AI교육은 키우고 교부금 지켜야\"",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CWnBaR0JoaXBmRzJfdmNybjBfZ1l3RWpVVUJ4aGx3ck9xQ2xLTUI0STNQU1hvcU9idGlxRHpiaS1LRUpXbmRuMmt0VkhzRmI5OFJFSDYwa0tkNGRuVGVCX244SzFiTk1qd1E3NmpRU0htb3ZTdS1wY9IBeEFVX3lxTE5CWnBaR0JoaXBmRzJfdmNybjBfZ1l3RWpVVUJ4aGx3ck9xQ2xLTUI0STNQU1hvcU9idGlxRHpiaS1LRUpXbmRuMmt0VkhzRmI5OFJFSDYwa0tkNGRuVGVCX244SzFiTk1qd1E3NmpRU0htb3ZTdS1wYw?oc=5",
+    "source": "뉴시스",
+    "published": "2026-10-20",
+    "keyword": "인공지능교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "충남교육청",
+     "교육 예산"
+    ],
+    "summary": "대전, 세종, 충남 교육감들이 AI 교육은 키우고 교부금은 지켜야 한다고 밝혔습니다.",
+    "implication": "AI 교육 활성화 방침에 따라 수업에 적용할 AI 학습 도구 활용 기회가 많아질 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "권순기 경남교육감 \"교육현장 외면 일방 재정개편 혼란 초래\"",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iSmhhR2VaUGtFbGUzQzY3Y3J3X0tuX1ZLYV9raC1fSFVTOVl5d1NVZHNtZU40eFA3UFhjQWNsV05PanF4YjVOUWxBQTNsVmdjZDZEUXFrRnVraHh4Sm5rb2NKYzRfaDQ0T0HSAW9BVV95cUxNbk5NZjFaNl92d3pSbFZSNmN5VUQ2U3ZpTUdkclFmSXZZTzhLM2gyblEwUGNZQ2VCMTd2SDQyT3VTRVpmZ2prd2VTdVBJVUhuSHlvTk5PMzU0S3hPUGlaYUJZcUVTLTFRRmx4XzRaMEE?oc=5",
+    "source": "머니투데이",
+    "published": "2026-10-20",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경남교육청"
+    ],
+    "summary": "권순기 경남교육감은 일방적 재정개편이 교육현장 외면과 혼란을 초래한다고 주장했습니다.",
+    "implication": "이 뉴스를 바탕으로 교육 정책이 실제 현장에 미치는 영향을 탐구하는 수업을 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "인천시교육청, 세계 교육현장 연결해 민주주의 실천 모색… 22개국 2,000여 명 참여",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5UNENLMkdHTUhDR2JVeTBmM01vNmV5aW1iaEFBcjFER1hvMXlZcmRZUEtpaE1XLWtOZkc4ZmNTbnk3M0dtRjZEUlFGRWpZYUoxUTRGeWNMOThoNzJ5TXBaelZSd2tWMUszcFJ2NU85MDU1a0VFX0I2ZHpR?oc=5",
+    "source": "로이슈",
+    "published": "2026-10-20",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청이 세계 교육현장 연결로 민주주의 실천을 모색하며 22개국 2천여 명이 참여했습니다.",
+    "implication": "학생들에게 세계 교육현장의 민주주의 실천 사례를 수업에 도입할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Enhancing the professional competence of physical education teachers through personality-oriented training: A competency-based approach to educational transformation",
+    "url": "https://doi.org/10.68574/sportk.479",
+    "source": "openalex",
+    "published": "2026-10-18",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "카자흐스탄 체육 교사를 대상으로 한 개인 중심 역량 기반 연수 프로그램이 교사의 전문성, 동기, 공감 능력을 혁신적으로 향상시켜 교육 개혁을 주도할 효과적인 교사 개발 모델임을 혼합 연구로 증명합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Yerik Stambekov, Nurzhan Tolegenuly 외 1명",
+    "pdf": "https://sportk.eu/article/download/479/107"
+   },
+   {
+    "n": 2,
+    "title": "INTEGRATING ARTIFICIAL INTELLIGENCE TO SUPPORT READING COMPREHENSION IN INDONESIAN EFL CONTEXTS",
+    "url": "https://doi.org/10.21274/ls.2026.18.2.231-265",
+    "source": "openalex",
+    "published": "2026-10-18",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "인도네시아 EFL 학습자들을 대상으로 4가지 AI 도구를 활용한 혼합 연구 결과, 학생들의 영어 읽기 이해도와 학습 태도가 크게 향상되었음을 보여주며, AI 기반 도구가 교사 중재하에 개별 맞춤 학습 지원에 효과적임을 입증합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Puspita Mayaratri, Nany Soengkono Madayani",
+    "pdf": "https://ejournal.uinsatu.ac.id/index.php/ls/article/download/12347/3326"
+   },
+   {
+    "n": 3,
+    "title": "Leveraging Digital Transformation Tools to Enhance Conceptual Understanding in Secondary School Mathematics: A Systematic Review of Pedagogy, Equity and Human Capital Development",
+    "url": "https://doi.org/10.36096/ijbes.v8i5.1381",
+    "source": "openalex",
+    "published": "2026-10-18",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "이 체계적 문헌 검토는 디지털 도구가 중등 수학의 개념적 이해를 향상시키는 조건을 분석하고, 교사 역량 및 인프라 등 교육 시스템 전반의 개혁적 투자가 필요함을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Thabisa Maqoqa",
+    "pdf": "https://bussecon.com/ojs/index.php/ijbes/article/download/1381/923"
+   },
+   {
+    "n": 4,
+    "title": "Business Studies Pre-Service Teachers' Implementation of Learner-Centred Teaching Methods During Teaching Practice",
+    "url": "https://doi.org/10.36096/ijbes.v8i5.1564",
+    "source": "openalex",
+    "published": "2026-10-18",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "남아공 비즈니스학 예비교사 25인의 포트폴리오를 질적 분석한 본 연구는 협동학습 등 다양한 학습자 중심 교수법이 학습자의 비판적 사고 발달에 효과적임을 밝히며 교사 교육에 중요한 시사점을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Nduduzo Brian Gcabashe, Lesiba Lesley Motseta",
+    "pdf": "https://www.bussecon.com/ojs/index.php/ijbes/article/download/1564/927"
+   },
+   {
+    "n": 5,
+    "title": "Artificial intelligence empowering mathematics education in higher education: model reconstruction and pathways analysis",
+    "url": "https://doi.org/10.1117/12.3129520",
+    "source": "openalex",
+    "published": "2026-10-18",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "이 논문은 AI 기술이 고등 교육 수학의 교수 과정 재편과 맞춤형 학습 지원 등 실제 적용 사례 분석을 기반으로, 학생 중심의 지능형 교육 환경을 구축하여 혁신 인재 양성에 기여할 모델과 경로를 탐색합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Delu Tian",
+    "pdf": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/14371/3129520/Artificial-intelligence-empowering-mathematics-education-in-higher-education--model/10.1117/12.3129520.pdf"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "[AI리더의 서가] LLM을 활용한 데이터 분석",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216343",
+    "source": "AI Times",
+    "published": "2026-10-21",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "LLM"
+    ],
+    "summary": "LLM 기반 데이터 분석은 기업의 데이터 활용 장벽을 낮춰 전 산업의 데이터 기반 혁신을 가속화하는 핵심 동력이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "Trump’s FTC Subpoenas OpenAI and Anthropic. Inside the $500 Billion Threat Faced by Microsoft, Amazon, and Google",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVDE5RlBaNFFMRER3UG9IZVhDYmZQR2pBTkFLS1JDVW5ZVVc2NXUtOEc5WkFrVWdmRmxSQ2d3MDJ2d3dnYVdWS2pHY1cyQUk4QkhLNkJXcUJkT2o5YTI5a0t3T19rdE5aVmlwNW5XNmdRbXZqXzFZS2NKSElrRkhCV0lSTzA2SHFZNWNidXNod1F4ZF91b1RiSzZobVFuZ3gxNXVyMWR5Q1ZTMDhLdHdTTVQ2NU04aC1WaS1Fbmg0YVBxNnNhNG5xd2tlMmkyRy1kRTUw?oc=5",
+    "source": "TIKR.com",
+    "published": "2026-10-20",
+    "keyword": "Anthropic",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Anthropic",
+     "Microsoft",
+     "Amazon",
+     "Google"
+    ],
+    "summary": "FTC의 AI 선두 기업 소환은 AI 시장 경쟁 독점 및 거대 기술 기업의 역할에 대한 규제 감시를 강화하여, AI 생태계의 재편을 가져올 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[10월20일] AI는 과학 연구를 얼마나 잘할까…일반 업무와 달랐던 성능 순위",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216432",
+    "source": "AI Times",
+    "published": "2026-10-21",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "AI가 과학 연구 분야에서 일반 업무와 다른 성능을 보이는 것은, AI 기술 생태계가 전문 분야 특화 모델 개발 및 평가 기준 정립의 중요성을 인식하게 될 것임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "딥시크, 플래그십 모델 사전학습에 화웨이 칩 본격 투입...국산 AI 자립 속도",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216439",
+    "source": "AI Times",
+    "published": "2026-10-20",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "DeepSeek",
+     "GPU·데이터센터"
+    ],
+    "summary": "딥시크의 화웨이 칩 투입은 AI 기술 생태계의 국가별 자립을 가속하고 글로벌 AI 반도체 공급망 재편을 촉발할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "구글, 제미나이 노트북 개편…\"슬라이드·영상 생성 전 구성 검토\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216438",
+    "source": "AI Times",
+    "published": "2026-10-20",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Gemini",
+     "영상·이미지 생성"
+    ],
+    "summary": "구글 제미나이 노트북 개편은 AI가 복합 멀티모달 콘텐츠 생성 과정에 대한 정교한 제어력을 제공하며, 결과물의 품질과 활용도를 높이는 방향으로 진화함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+    "url": "https://openai.com/index/pollo-ai",
+    "source": "OpenAI Blog",
+    "published": "2026-10-08",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "OpenAI 기반 AI가 마케팅 캠페인 자동화를 넘어 창의 산업 전반의 생산성 혁신을 가속화하며 AI 응용 서비스 확대를 견인할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "카카오, 비전 AI 2종 오픈소스 공개…구글·메타·애플 제쳤다",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBES1pzRFU1RDVwYmRhYmM4VUxoRWVSWEpIVGZDNWY4UGFfZVJoNzRjajFheDFuN0dyMmc5UHN4SVlzcXhXYnh0dVJaTWtSS1Itbklsb0N5NllTQQ?oc=5",
+    "source": "파이낸셜뉴스",
+    "published": "2026-10-21",
+    "keyword": "구글",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "카카오",
+     "오픈소스",
+     "Google",
+     "Meta",
+     "Apple"
+    ],
+    "summary": "카카오의 비전 AI 오픈소스 공개는 국내 기술의 글로벌 경쟁력을 입증하며, AI 생태계의 성숙과 혁신을 가속화할 중요한 계기가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "llm-d 1.0 출시… 레드햇·IBM·구글·엔비디아가 건 승부수 “AI의 진짜 비용은 추론”",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ3ZoRWk5LUY2NFctMzJTZGNRRWhnXzYzSFM4YUJBdUtWRXhHSFdZdThBQklfS3VzY3g3a01Oc183VXRYaktKVEJ0eG5kLW94SWhOejRDS29iU2l3OE54Mi1PdGpiaG85dFh6anc2YUhBendjSG5GY3BhcTkxNng1NXctcEhzcDNJT3NfVndkR1hpVGxBeERnaU1BSQ?oc=5",
+    "source": "Martin Cid Magazine",
+    "published": "2026-10-20",
+    "keyword": "LLM",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "NVIDIA"
+    ],
+    "summary": "주요 빅테크 기업들이 llm-d 1.0을 통해 AI 추론 비용 효율성을 극대화하여 LLM의 산업 전반 확산과 실용화를 가속화할 전략적 전환점이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "오픈소스 AI 코딩 도구 ‘OpenCode’ 해킹…API 키 유출로 사용자 1.4% 피해",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yYlhDd05pc3Ffc3hnMWtWT2g4Uy1KOEE3U05Sa2VlZUZBdHZlM0owZ0ZRZlNBWS16Q0dJcHFVTGtBWFpWQWZtM1NBRVNycWs?oc=5",
+    "source": "데브타임즈",
+    "published": "2026-10-20",
+    "keyword": "오픈소스",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "오픈소스",
+     "코딩 AI"
+    ],
+    "summary": "오픈소스 AI 도구 해킹으로 인한 API 키 유출은 AI 생태계 전반의 보안 강화와 신뢰 유지가 필수적임을 보여주는 사례입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "메타(META.O) AI 앱 '뮤즈', 美 다운로드 1,000만 돌파…초기 다운로드 챗GPT 앞질러",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aekZSVXBhczU0bDJMcklkU2NjSFFsdG5sbzNjUGN5Y1BUcGlsRTdPbVE4UEIyM3JuQ0hndmJMN0JqUXc4ZE9ZSmdQSENLZGwtMjUzX2NjZDhJY1RIR1NsOW9zdjg2U3Y5Y2xkNg?oc=5",
+    "source": "메디컬투데이",
+    "published": "2026-10-20",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Meta",
+     "ChatGPT"
+    ],
+    "summary": "메타 AI 앱의 초기 성공은 거대 기술 기업의 플랫폼 강점이 AI 대중화를 가속하고 시장 주도권 경쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

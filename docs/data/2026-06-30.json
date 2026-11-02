@@ -1,0 +1,413 @@
+{
+ "date": "2026-06-30",
+ "generated_at": "2026-11-02T11:39:05+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[기고] AI 에이전트, '도메인의 깊이'가 승부 가른다",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Yekc0RXNIMWk2X0ZnZ3F5WTBDYWN6UDVnN0xySkQ1cUFPMWxKazktZTY5M09kUGFiSHpFMlhIWkhEd1BxdTVoSXlDUG1RR05jdmI1dHpfMjRlRUMwbVgweWlZZUswanJiLXEwUg?oc=5",
+    "source": "유니콘팩토리",
+    "published": "2026-06-29",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "AI 에이전트의 성패는 특정 도메인에 대한 깊이 있는 지식 확보에 달려있습니다.",
+    "implication": "수업에서 학생들이 특정 분야 지식을 깊이 있게 탐구하고 숙련하는 경험을 제공할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "제12대 대전시교육감직 인수위, '학생 1인 1 AI 튜터' 구축 추진",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aR0lqRDA4UnB4X19PQlo2TzVkODVQa1RBOFo3WDM1RU9lY3lxVHVxQ285Ql9tSW9Ed1U4WVVDbDF0VGxoNlBRbTlRTDlKX3JLTVBB?oc=5",
+    "source": "네이트",
+    "published": "2026-06-29",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "대전시교육청",
+     "AI 튜터",
+     "개인화 학습"
+    ],
+    "summary": "제12대 대전시교육감직 인수위는 학생 1인 1 AI 튜터 시스템 구축을 추진합니다.",
+    "implication": "교사는 학생 개개인의 AI 튜터 활용을 바탕으로 맞춤형 학습을 유도하고 심화 지도를 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "박형덕 동두천시장, 교육부 '교육혁신선도지역' 전환에 우려 표명",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vOWQ1S3dPZnBYR3JGUm9SRGIxUkVuRElscEc5RHh5dzZmenV5QTBkeElNVXhpNndxUUxsVUNzaHQ2Y3YzM1ExbkVsdE43Wk80T1NzaDRTT1dENldFcG5GeDZSMFdqemY5OVpZ0gFvQVVfeXFMTVBqRk1oajRYNmdJVVg5NF8zZlJRY00yMmZ2Sk9QMDdxQUFtSjMwdXBhVkJMYWg1TkVxWjc3LV9ha1pJN2pWV3N3Y21lckVlUEhzcVVSdnR5ZzNiSkF1UVNqczdJRFd6YlY3NlEyUmZR?oc=5",
+    "source": "한스경제",
+    "published": "2026-06-29",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "동두천 박형덕 시장이 교육부의 '교육혁신선도지역' 전환 추진에 대해 우려를 표명했습니다.",
+    "implication": "교육부의 교육혁신선도지역 전환이 학교 교육 환경에 미칠 영향을 학생들과 함께 탐색할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "지역 문화가 교실로... 경기도교육청북부유아체험교육원 교육혁신 시동",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaMGN4U2xTVThPeXNtUmYwZl9hbGQwOVo2WVk5RWhaaUZzZHozV3J0TnYwMDQ2RFFHZk4zTXZTMEFENjhaWFJRbmI2Vk5TemRSOGV4Ym9fbWhyS21WVXlTOHhLTjZNQ2tIMnRTdEpSOF_SAXRBVV95cUxPUi0yYW9OSERtZUo4Ulp6LS1VZzN5WUJzX3FIR2VKZmxyM2JMSkthRFJjR01KNjNSbUlhbG1IVkxVUm5uMmpZWWl0YUJEQjBWVjN6UjFvTEd2Mm1sZkJ6bmdSWVhzRHQ3OW9NV2FoaFFRYkt1TQ?oc=5",
+    "source": "포인트데일리",
+    "published": "2026-06-29",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청북부유아체험교육원이 지역 문화를 활용하여 교육혁신을 시도합니다.",
+    "implication": "우리 지역의 고유한 문화 요소를 활용하여 유아들이 직접 체험하는 활동을 구성할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "이병도 교육감 인수위, 교육혁신 밑그림 완성",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAwNS1XbllzUUYzb0dvUmdOdGJ0M2x6TzBhRm1VRUFlRnd1V0tGaXoteEtrM1Vjb3BqUjFJUVIyWElpZWJYWDMtNDF6ZHhlRjZraFFfU1FnR2MyLWFpYjY0aTBtY1lYX25wR2VhUWp1OEY2QQ?oc=5",
+    "source": "투데이충남",
+    "published": "2026-06-29",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "이병도 교육감 당선인의 인수위가 앞으로 추진할 교육혁신에 대한 밑그림을 완성했습니다.",
+    "implication": "이 밑그림을 통해 변화될 수업 환경을 예측하고 다양한 수업 방식을 구상할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "소지니어스, 사교육 현장에서 한국형 IB 교육의 길을 열다...“정답의 시대는 가고, 질문의 시대가 온다”",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuN253YTRMU2hOOE5zWEJWMTZVRzluVVdkQmNtOU1JbkdDMU9hVmw5bXB4cTkwbTUxRGd2MG82bWdra09LWWtGZ1RvUGRKR3YzbkhjR0Z5OW1WQ3JrYi1FdHhaTEpIWG03UGl0TW9pWWI?oc=5",
+    "source": "한국강사신문",
+    "published": "2026-06-29",
+    "keyword": "과정중심평가",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "사교육",
+     "IB"
+    ],
+    "summary": "소지니어스가 사교육 현장에서 한국형 IB 교육을 도입하며 질문 중심 교육 시대를 열었습니다.",
+    "implication": "정답을 묻기보다 학생들이 스스로 질문하고 탐구하는 활동을 설계할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "고의숙 교육감, 취임식 대신 학교 현장으로…'등교부터 하교까지 함께'로 첫 행보",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zLWpWdUFQbWlkQzFKcGdIcDM2TWs3VU50S3JyRkhDYXAxMW0zVmJjaEN3M2lXVXpNckpYT3ltUG5RV1VJVXdPdWNMbVBqQV9JTTBBUUpISWUzaDc1c1BRZzNNWnpmM3kzQXhv0gFuQVVfeXFMTURPOFdIVHFHWlpPY21KRGwtX3JVc2JPdlNGdmpucVFPU2NxSGhnZ1d1SExjWHVLRk5BWXJnM1h1VWpuNXNOT0E3dlZndk9maDF1RjlXcFJsNnJ4ZXh0eDlzcldBcW5SbVRsWldUaWc?oc=5",
+    "source": "제주뉴스",
+    "published": "2026-06-29",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "고의숙 교육감은 취임식 대신 학교 현장에서 등교부터 하교까지 학생들과 함께하며 첫 행보를 시작했습니다.",
+    "implication": "새 교육감의 첫 행보를 보며 학교 현장과 소통하는 리더십의 중요성에 대해 이야기해 볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "경북교육청, 농어촌 교육혁신 본격화…전국 첫 산·들·바다 공동교육과정 운영",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2N1E3R1EzOTZLLTVoTmZULVB4MXVhb1BDQXkxNHM4WkJEQ2pDUk1neEl5V3Rnb0FBX1hQZkhJeGRxS2pqMU50bjNGdkY4ZTdxOGFkVW5SR3pQdW5xeWlqa3ZON2lSNFpwMzlwWGpyTQ?oc=5",
+    "source": "경북일보",
+    "published": "2026-06-29",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "경북교육청"
+    ],
+    "summary": "경북교육청은 전국 최초 산·들·바다 공동교육과정으로 농어촌 교육 혁신을 본격 추진합니다.",
+    "implication": "산·들·바다 공동교육과정을 통해 교실 밖 현장 중심 교육 활동을 기획할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "강삼영 교육정책 \"밑그림 나왔다\"",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAtX0l2LThKVUQtQndOWmdmLThzLVdiT0JDbjdXVGlMM3F1NGtHUVNMRFJzcEVMSzNYZDdoZXdnX1hBWGRMSmZJNExySTZua1VLOWI1cU5CUkI5TUVnSEN2Ykw4TDktbnVmSTJNRDRwdnFFQnpRSjdjZXh3?oc=5",
+    "source": "G1방송",
+    "published": "2026-06-29",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "강삼영 교육정책의 초기 구상인 '밑그림'이 나왔습니다.",
+    "implication": "새 교육정책의 방향을 미리 파악하여 학생들과 미래 교육의 변화에 대해 토론할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "교육정책 국민청원 문턱 낮춰…국교위, 동의 기준 10만→5만명",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWF9xR01mSVhzNGd0OXcxMWxoNzQtV204bURqekZxU0gxZC1fVmh5MGI5ZzZsMHQxRU1BeFhhMmEyNlo0Y1d4NjJ3UW1VdHRBRmFVUVNpTlZuNEpHMHptUzVvZEdLTDcxRERsREdDTzZ0aVBZX1VKeHB2QlRsSzVWWg?oc=5",
+    "source": "이데일리",
+    "published": "2026-06-30",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "국교위는 교육정책 국민청원 동의 기준을 10만 명에서 5만 명으로 낮췄습니다.",
+    "implication": "학생들에게 교육정책에 대한 의견을 직접 제시할 수 있는 기회가 확대되었음을 알려줄 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Assessing the competencies of future early childhood educators",
+    "url": "https://doi.org/10.63498/injelps86",
+    "source": "openalex",
+    "published": "2026-06-27",
+    "keyword": "Connectivism",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "이 연구는 111명의 유아교육과 학생들의 TPACK 역량과 인지된 학업 성취도를 기술-상관 연구로 평가하여, TPACK 역량이 미래 유아교사의 학업 준비도와 전문성 향상에 중요함을 확인하고 교육과정 강화를 위한 역량 기반 훈련 프로그램을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "",
+    "pdf": "https://doi.org/10.63498/injelps86"
+   },
+   {
+    "n": 2,
+    "title": "Perceptions of English Language teachers and learners on the educational affordances and challenges of Artificial Intelligence in language classrooms",
+    "url": "https://doi.org/10.63498/ijlestcr9",
+    "source": "openalex",
+    "published": "2026-06-28",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "설문조사 기반 정량 연구로 영어 교사 및 학습자의 언어 교육 AI 인식(이점과 도전 과제)을 분석한 결과, AI를 인간 교육을 보완하는 가치 있는 도구로 긍정적으로 인식하며 효과적인 통합을 위한 제도적 지원이 중요함을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "",
+    "pdf": "https://doi.org/10.63498/ijlestcr9"
+   },
+   {
+    "n": 3,
+    "title": "The Possibilities of Enhancing Intercultural Competence Through AI Simulations While Teaching English as a Foreign Language",
+    "url": "https://doi.org/10.31489/2026phi2(122)/6-16",
+    "source": "openalex",
+    "published": "2026-06-27",
+    "keyword": "Connectivism",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 시뮬레이션 플랫폼을 활용한 외국어 교육은 학생들이 가상 아바타와 상호작용하며 상호문화 역량과 학습 동기를 효과적으로 향상시켜 실제적 의사소통에 대비하게 합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "A.S. Nabidullin, Ch. Ordabayev 외 1명",
+    "pdf": "https://philology-vestnik.buketov.edu.kz/philology-vestnik/article/download/1335/541"
+   },
+   {
+    "n": 4,
+    "title": "Artificial Intelligence in Teaching: From the Experiences of High School Teachers",
+    "url": "https://doi.org/10.65138/ijresm.v9i6.3473",
+    "source": "openalex",
+    "published": "2026-06-26",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "현상학적 연구를 통해 고등학교 교사들의 AI 활용 경험과 과제를 분석한 결과, AI는 교육 효율을 높이는 보완적 도구이나 정확성, 윤리성 등의 과제 해결과 교사의 전문성을 대체할 수 없으므로 지속적인 역량 강화와 명확한 지침이 필요함을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Emevie R. Pelicano-Abiero, Maedel Joy V. Escote",
+    "pdf": "https://journal.ijresm.com/index.php/ijresm/article/download/3473/3583"
+   },
+   {
+    "n": 5,
+    "title": "When Engagement Misleads: A Dual-Process View of Learning in Generative AI Environments",
+    "url": "https://aisel.aisnet.org/treos_amcis2026/107",
+    "source": "openalex",
+    "published": "2026-08-15",
+    "keyword": "educational AI",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "생성형 AI 환경에서 학습자의 인지 처리와 성과를 EEG로 측정하여, 정보에 대한 능동적인 '끌어당김' 상호작용이 심리적 요구 충족과 몰입을 촉진해 학습 성과를 높이는 핵심 요소임을 밝혀 AI 교육 시스템 설계에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ya-Ling Wu, Che-Fu Lin",
+    "pdf": "https://aisel.aisnet.org/context/treos_amcis2026/article/1106/viewcontent/1367_doc.pdf"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "앤트로픽 출신 베테랑들, ‘과학자용 AI’ 스타트업 설립…역대급 시드 투자 유치",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212244",
+    "source": "AI Times",
+    "published": "2026-06-29",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Anthropic"
+    ],
+    "summary": "AI 최고 인재와 자본이 과학 분야 특화 AI로 집중되며, 도메인 전문 AI가 AI 산업의 새로운 성장 동력이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[게시판] 위로보틱스, 휴머노이드 ‘알렉스’ 시뮬레이션 모델 공개 등 단신",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212243",
+    "source": "AI Times",
+    "published": "2026-06-29",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "로봇·휴머노이드"
+    ],
+    "summary": "위로보틱스의 휴머노이드 시뮬레이션 모델 공개는 AI 기반 로봇 개발을 가속화하여 로봇 산업 생태계 성장에 크게 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "'카르파시 AI 코딩 지침' 확산…\"프롬프트에서 루프 시대로 진화\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212236",
+    "source": "AI Times",
+    "published": "2026-06-29",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "코딩 AI"
+    ],
+    "summary": "프롬프트에서 루프 시대로의 진화는 AI가 자율적으로 코드를 생성·개선하며 AI 기술 생태계의 개발 패러다임을 혁신할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+    "source": "OpenAI Blog",
+    "published": "2026-06-26",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.6 Sol은 AI 기술의 새로운 이정표를 제시하며 산업 혁신과 경쟁을 한층 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "Anthropic, 엔비디아 GB300 GPU 탑재 마이크로소프트 Azure에 Claude 모델 출시",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4eXM1N2tHd0EyQm9GRmFvUzhwTjNQTGc2a0ozMFpLRHdteEJMOU9feHk5OHR5b0lEdVdleVVWa05HUnFMd00yZkhvaVFpZGFUX2tvamdjZzZOXzFtQ19lWFVuNTBZTi02N1JnSmVuTXA?oc=5",
+    "source": "Investing.com 한국어",
+    "published": "2026-06-29",
+    "keyword": "Anthropic",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "NVIDIA",
+     "GPU·데이터센터",
+     "Microsoft",
+     "Claude"
+    ],
+    "summary": "Anthropic의 Azure 출시는 최신 GPU를 기반으로 클라우드 기반 AI 서비스 경쟁을 가속화하며, AI 모델-클라우드-하드웨어 생태계의 전략적 협력을 심화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "KAIST 제18대 총장에 배충식 교수 선임",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212247",
+    "source": "AI Times",
+    "published": "2026-06-29",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "KAIST의 AI 기술 생태계는 신임 총장의 전문성을 바탕으로 미래 모빌리티 및 친환경 에너지 분야와의 융합을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+    "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "source": "OpenAI Blog",
+    "published": "2026-06-21",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "삼성",
+     "ChatGPT",
+     "코딩 AI",
+     "생성형 AI"
+    ],
+    "summary": "삼성전자의 생성형 AI 도입은 AI 기술의 기업 활용을 가속화하며 산업 전반의 생산성 향상과 혁신을 이끌 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+    "url": "https://openai.com/index/ai-chemist-improves-reaction",
+    "source": "OpenAI Blog",
+    "published": "2026-06-17",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "준자율 AI가 의약화학 난제 해결로 AI의 자율적 문제 해결 역량을 입증하며 복잡한 과학 연구 및 산업 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "From Local LLM to Tool-Using Agent",
+    "url": "https://towardsdatascience.com/from-local-llm-to-tool-using-agent/",
+    "source": "Towards Data Science",
+    "published": "2026-06-26",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "LLM",
+     "에이전트"
+    ],
+    "summary": "로컬 LLM이 도구 활용 에이전트로 진화하며 AI는 자율적 문제 해결 능력을 갖춰 산업 전반의 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "url": "https://openai.com/index/daybreak-securing-the-world",
+    "source": "OpenAI Blog",
+    "published": "2026-06-22",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [],
+    "summary": "전 세계 조직의 보안 강화 수요는 AI 기술 생태계 내 AI 기반 사이버 보안 솔루션 시장을 급격히 확장할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

@@ -1,0 +1,433 @@
+{
+ "date": "2026-07-10",
+ "generated_at": "2026-11-02T11:39:38+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "대구·대전교육감 \"IB 교육 확산에 협력 확대\"",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WMjZBbTNha3VUT1RrbUJ3OERERUpHYzJhZ2NMcUZXb09RbC1nTDJoYWkwYkN2SEc3X3J1djloZEZDUWdRMW1SdzhCbW5scFJuZkpHUjljUnJpaXPSAWBBVV95cUxOZU0well2Yk83cnVqVXRCd21NZUd6X1drZHNiOEV6T002LUxtRlFJY05RaXJ1SWR3MkN4N0gyb0JKVzhtdVNxSkR6VnQ5b3RwYWVRaHhZMmRvUXhlME5Hc2w?oc=5",
+    "source": "연합뉴스",
+    "published": "2026-07-09",
+    "keyword": "교육현장",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "대전시교육청",
+     "IB"
+    ],
+    "summary": "대구·대전교육감이 IB 교육 확산을 위해 협력을 확대하기로 했습니다.",
+    "implication": "IB 교육 확산은 교실에서 학생 주도 탐구 활동을 강화하는 수업 변화를 준비할 기회가 됩니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "고의숙 제주교육감 첫 추경 383억원… 새 학교·AI교육에 재정 집중",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxMkRTMmlFbTVzMTMzWW10SThUbHhZUk13UFVaWVdUb2xoREQ1YkdiN0pJdHJ0Zy1Ya2YxVUMwWlAwQjgzUndvSExDXy1HcG8?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-07-09",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "제주교육청"
+    ],
+    "summary": "고의숙 제주교육감이 첫 추경 383억원을 편성해 새 학교와 AI 교육에 재정을 집중합니다.",
+    "implication": "AI 교육에 대한 재정 집중으로 수업에 활용할 수 있는 AI 도구나 프로그램이 더 많아질 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "충남교육청, ‘인공지능 디지털교육 트렌드 리포트’ 저자 이어가기 특강",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5td2FrcUxvdXhHQlFuSUd0cVMzenV4OGl1NUFjQkY5WXd6YUNBSXRsLVdCYlRORkJ0VVJDd1ZFcGNPdHJsUjZIaDhnQzhMY1ZzbXo5U3FKYTF1TVZ2OFJxMHRid0diT0FSODA3cEQyWErSAXBBVV95cUxObXdha3FMb3V4R0JRbklHdHFTM3p1eDhpdTVBY0JGOVl3emFDQUl0bC1XQmJUTkZCdFVSQ3dWRXBjT3RybFI2SGg4Z0M4TGNWc216OVNxSmExdU1WdjhScTB0YndHYk9BUjgwN3BEMlhK?oc=5",
+    "source": "woorinews.co.kr",
+    "published": "2026-07-09",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "충남교육청이 ‘인공지능 디지털교육 트렌드 리포트’ 저자를 초청해 특강을 개최합니다.",
+    "implication": "이 특강을 통해 AI 교육 최신 동향을 파악하고 수업에 활용할 구체적인 아이디어를 얻을 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "대전교육감직 인수위, 공약 이행계획 발표…교권보호·AI교육 등 5대 핵심과제 제시",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XTmJ5ZVBIWThtdGRZcnptc3dYVUhWdFlVUlJPVUU4aGphdlBPY0x6aVYxenVWSUZTc1RfNlJPN2tkVjlLUWsySWhYeklwTVB4MjIyeGpOOWtEbDNUekY3RWxzU3dLdGM?oc=5",
+    "source": "행정수도뉴스",
+    "published": "2026-07-09",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대전시교육청",
+     "교권"
+    ],
+    "summary": "대전교육감직 인수위는 교권보호 및 AI 교육 등 5대 핵심과제를 포함한 공약 이행계획을 발표했습니다.",
+    "implication": "AI 교육이 강조되므로 수업에서 AI 활용 방안을 미리 구상할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[소셜톡] “도의회와 함께 대전환”…안민석 교육감, 실용 중심 교육혁신",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tc1JPSWk5dWhPenpLczdObndCejBURlVXMVdtb2VLYXpsZVZHTlVvOEdYa2dzNEVkMk9Qd3pRU3prQ2djSlBFZThZX1lHU0NMdl84REZnMUdpYTdvMzVpWDN0X2k3aFRjMkHSAW5BVV95cUxPcXlhMmwzekwybE1DZ3FBZTRFbWlGZ2ZuZEFQdmdqdnoxdXBQMzYyZGEzSUVOUTA1SEhWdkFOemVkb2J2NVZta01Fa3d0al92dzdTaURERlpnVFFKbC1ad2k2U2JjRjE0WDhBc2lwdw?oc=5",
+    "source": "fnnews1.com",
+    "published": "2026-07-09",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "안민석 교육감이 도의회와 협력하여 실용 중심의 교육 혁신을 추진합니다.",
+    "implication": "실용 중심 교육혁신에 따라 학생들의 실제 생활과 연관된 탐구 활동이나 문제 해결 과제를 수업에 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "김대중 전남광주교육감, 학교 현장과의 소통 확대···'대중교통 학교방문' 프로젝트 시행",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43S3lGNmhtOEZrQTF6M2RRcmQzU1U3T3FUQU1wNGp3MFBmdnZIY2JfMVJZNE8teHpSZTVVUTlvalI3cktXandWbVhCYzF1eF8yempVcU9pQjU2LURsVzdzUWRHOEU1eWs?oc=5",
+    "source": "녹색경제신문",
+    "published": "2026-07-09",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "광주시교육청"
+    ],
+    "summary": "김대중 전남광주교육감은 학교 현장 소통 확대를 위해 '대중교통 학교방문' 프로젝트를 시행한다.",
+    "implication": "교육감의 현장 방문으로 학생들은 교육 정책과 학교의 밀접한 관계를 직접 느낄 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "김대중 교육감, 성덕초·성덕중 방문···교육현장 의견 청취",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5LY2o4V2hFMnhTc0s0TmxRLVl2YWtsbWlNbVJWbnRvNFVsWi0zMzhTQlBaVk1PWkRoMW1XaHFkaHNZUU11OTVhOXV2ckltNDhMeGlnSVQ0ZmVVSGlOQkVHOUpSbERMaFJ5RDBQanFHWdIBb0FVX3lxTE5LY2o4V2hFMnhTc0s0TmxRLVl2YWtsbWlNbVJWbnRvNFVsWi0zMzhTQlBaVk1PWkRoMW1XaHFkaHNZUU11OTVhOXV2ckltNDhMeGlnSVQ0ZmVVSGlOQkVHOUpSbERMaFJ5RDBQanFHWQ?oc=5",
+    "source": "빛가람뉴스",
+    "published": "2026-07-09",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "김대중 교육감이 성덕초와 성덕중을 방문하여 교육 현장의 다양한 의견을 청취했습니다.",
+    "implication": "교육감의 현장 방문 소식을 학생들과 공유하며 학교에 대한 자긍심을 높일 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "김석준 부산교육감, ‘부산 미래교육 완성’ 본격 시동",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1fR2lZQ1NQZWVwQkRrdTc5RE9iUVhDSlBSZ3prb1FfcFpON1BTNkV5MFVnRnJmcml5NzNGcjVaQjN4ZEtTaWoweVNvZURtRE9mVUNoMnczVXFaQ0VXLXc2emN4Yw?oc=5",
+    "source": "대한민국교육신문",
+    "published": "2026-07-09",
+    "keyword": "과정중심평가",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "부산시교육청"
+    ],
+    "summary": "김석준 부산교육감이 부산 미래교육 완성을 위한 본격적인 시동을 걸었습니다.",
+    "implication": "미래교육 방향성에 맞춰 수업에서 학생 참여와 자기 주도성을 강화할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "대전·대구교육청, IB 프로그램 기반 미래교육 협력 강화",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE52bi1XeTNjMzU3TVFFZmFMZHVxVFBaNWIxSTZWOWhvMnFSVHFoTlJXN0UyWWJTYmU5U2ltZnJ2SU5WbkJHMVNBUkF5Tzd4UTdWdGFlRTM3NndWeF9LZ3FlNUtQTQ?oc=5",
+    "source": "대한민국교육신문",
+    "published": "2026-07-09",
+    "keyword": "교육정책",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "대구시교육청",
+     "IB"
+    ],
+    "summary": "대전·대구교육청이 IB 프로그램을 기반으로 미래교육 협력을 강화합니다.",
+    "implication": "IB 기반 미래교육 흐름에 맞춰 수업에서 학생 주도 탐구 활동을 더 시도할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "‘교권보호 5법’ 이후 과제는… “교사 혼자 감당하는 구조 바꿔야”",
+    "url": "https://news.unn.net/news/articleView.html?idxno=594560",
+    "source": "한국대학신문",
+    "published": "2026-07-09",
+    "keyword": "",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "교권"
+    ],
+    "summary": "국교위와 KEDI는 ‘교권보호 5법’ 이후에도 교사들의 무력감이 심각하다는 진단 아래 교육활동 보호 강화 방안을 모색하는 포럼을 열었습니다.",
+    "implication": "우리 반의 긍정적인 학습 환경 조성을 위해 모두가 서로 존중하고 협력하는 태도를 가질 수 있도록 안내할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Selective psychological benefits of small-group teaching model in junior high school physical education: a randomized pretest–posttest controlled study of physical self-esteem and self-efficacy",
+    "url": "https://doi.org/10.3389/fpsyg.2026.1873632",
+    "source": "openalex",
+    "published": "2026-07-08",
+    "keyword": "",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [],
+    "summary": "이 연구는 중학생 체육 교육에 소그룹 지도 모델을 적용한 무작위 대조 연구를 통해 학생들의 신체적 자존감과 일반적 자기효능감을 효과적으로 향상시켜 교육 현장에 긍정적인 심리적 영향을 줄 수 있음을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Deke Liu, Quanhong Lu 외 1명",
+    "pdf": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1873632/pdf"
+   },
+   {
+    "n": 2,
+    "title": "Evaluating the impact of artificial intelligence in mathematics education: A systematic literature review",
+    "url": "https://doi.org/10.34105/j.kmel.2026.18.016",
+    "source": "openalex",
+    "published": "2026-07-08",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 지난 5년간의 체계적 문헌 검토를 통해 수학 교육 내 AI 통합의 동향, 유형, 영향 및 과제를 분석하여 인지적, 정서적 능력 향상과 교육 불평등 심화 가능성을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Lukman Hakim Muhaimin, Turmudi Turmudi 외 1명",
+    "pdf": "https://www.kmel-journal.org/ojs/index.php/online-publication/article/download/667/662"
+   },
+   {
+    "n": 3,
+    "title": "Learning needs analysis for differentiated instruction in Indonesian elementary education",
+    "url": "https://doi.org/10.65881/integration.v1i2.115",
+    "source": "openalex",
+    "published": "2026-07-07",
+    "keyword": "SEL education",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "문헌 검토를 통해 인도네시아 초등학생의 다차원적 학습 요구를 분석하고 차별화된 교육에 적용하는 과정의 문제점과 해결책을 제시하며, 교사를 위한 개념적 틀을 제공하여 교육 개선에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ratna Novita Punggeti, Raden Firman Nurbudi Prijambodo",
+    "pdf": "https://ejournal.scmdigi.id/index.php/integration/article/download/115/109"
+   },
+   {
+    "n": 4,
+    "title": "Enhancing vocational students’ professional competencies through AI agent-supported human–AI collaborative learning",
+    "url": "https://www.semanticscholar.org/paper/de32774501ba834977dab775ab44ebc3c87a6dfb",
+    "source": "semantic_scholar",
+    "published": "2026-05-08",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "직업 교육에서 AI 에이전트 기반의 협력 학습 시스템을 구축하여 학생, 교사, AI 간 구조화된 상호작용으로 교수 품질과 역량 개발을 효과적으로 향상시키는 인간 중심 프레임워크를 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Huizhu Tan",
+    "pdf": "https://journals.calstate.edu/ijaipil/article/download/7311/5481"
+   },
+   {
+    "n": 5,
+    "title": "Designing AI-powered learning: adult learners’ expectations for curriculum and human-AI interaction",
+    "url": "https://www.semanticscholar.org/paper/25dbc68a5a8bcfa1c1f748175d03125ac31e6b30",
+    "source": "semantic_scholar",
+    "published": "2025-09-26",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "성인 학습자의 e-포트폴리오 분석 및 심층 인터뷰를 통해, 본 연구는 AI 기반 학습에서 내용 숙달과 평생 학습 습관 형성을 목표로, 개인화된 학습과 윤리적 상호작용이 중요함을 밝혀 교육 AI 및 교수 설계에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Jinhee Kim, Seongryeong Yu 외 1명",
+    "pdf": "https://link.springer.com/content/pdf/10.1007/s11423-025-10549-z.pdf"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "AA 순위 뒤흔든 GPT-5.6 시리즈…‘루나’, 대세 GLM-5.2 위협",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212604",
+    "source": "AI Times",
+    "published": "2026-07-10",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "신규 모델들의 등장으로 AI 기술 경쟁이 격화되며 기존 강자들의 지배적 위치가 빠르게 재편될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "오픈AI 강력한 \"GPT-5.6\" 3종 공개, 코딩 벤치마크 80점 신기록 경신",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMX2NsX1ZDeTl4QTdFSlo3cnc0a0VET1RPX0pfaXpZM2NodWVDZW1rOU5haGR5Ml8tNXpjVFdINkhCcndJX0hSb1VtNzJBTEt1TjViV0RKOUZIZ2hsTmFYQ0FIMHhzUmJFWUJqMXd4OW8?oc=5",
+    "source": "디지털포커스",
+    "published": "2026-07-09",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT",
+     "코딩 AI",
+     "벤치마크"
+    ],
+    "summary": "오픈AI GPT-5.6의 코딩 성능 신기록은 AI 기반 소프트웨어 개발의 생산성을 극대화하며 AI 산업 전반의 혁신을 가속할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "구글 포토, '비디오 리믹스' 출시...\"터치 몇 번으로 영화 같은 영상 변환\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212592",
+    "source": "AI Times",
+    "published": "2026-07-09",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Google",
+     "생성형 AI"
+    ],
+    "summary": "AI가 복잡한 영상 제작을 일반에 대중화하여 생성형 AI의 일상 속 활용과 시장 확대를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+    "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "source": "OpenAI Blog",
+    "published": "2026-07-09",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Microsoft",
+     "LLM"
+    ],
+    "summary": "GPT-5.6의 코파일럿 적용은 AI 기술의 빠른 진화와 기업용 LLM 시장의 주도권 경쟁 심화를 보여주는 지표입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "머스크 ‘그록 4.5’ 등판에 올트먼 ‘GPT-5.6’ 맞불…AI 정면대결",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sLXpOdlFmdkd4NzJEQ0NSUTl1VDF0THVCOEI5OU12T3hIYV9YSUNGQmJZM0hicHR6RVExa0VFSnNOTUdsdVllMVppYi1DQ2RTNEJCZThvWEtCYjFsVlZkbNIBeEFVX3lxTFB1eGpzMGUyY3dYV1o4Z2lUY2VZc3A5bkZHVERWOEVlVWRWSTllbS1xeGtjQWFjTkZROFpEUnZEcWJlWHdwXzEyT1pzR05Mc3pubXVtU2Y3RDhpQmZGSnhZdWtKcW1BLS1CYk1HMXpEbXBCUWVMR2Zieg?oc=5",
+    "source": "뉴시스",
+    "published": "2026-07-09",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "xAI",
+     "ChatGPT"
+    ],
+    "summary": "거대 AI 기업 간 치열한 경쟁은 기술 발전 속도를 극대화하며 AI 생태계의 재편을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "오픈AI, 몇 시간 업무도 척척…기업용 에이전트 ‘ChatGPT 워크’ 공개│Global Money Club",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KUDZJMzJaY0FKU181d3hTM2UwWkpSZnJvS2Jlb0lKaExuSGw0ZkdUSjNJLW5EM2gzc2VJbThXRHdZWDlfdE5CZXhJVW5fbnpfQTd4bFhBdG11aXM?oc=5",
+    "source": "중앙일보",
+    "published": "2026-07-09",
+    "keyword": "인공지능",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "에이전트",
+     "ChatGPT"
+    ],
+    "summary": "오픈AI의 기업용 에이전트 출시는 AI가 단순 보조를 넘어 실제 업무 과정을 자동화하는 핵심 주체로 자리매김하며 산업 전반의 생산성 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "미니맥스, 2.7조 매개변수 차세대 LLM 개발…중국 역대 최대 규모",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212584",
+    "source": "AI Times",
+    "published": "2026-07-09",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "LLM"
+    ],
+    "summary": "중국 미니맥스의 역대 최대 규모 LLM 개발은 글로벌 AI 패권 경쟁 심화와 모델 대형화 추세를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "[단독] 삼성전자, PC용 AI칩 출사표…엔비디아·퀄컴과 '맞짱'",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9pa1pFNmwzYXpSeS11c2ZqcFFCeVlRb3dxNFBoMndyX25wVkJLdldUM1hraGN6a0lGOWNtZzhkX1hmVTllY1JCcFMxbDBsSEVhdDF1OUMwSzJVdw?oc=5",
+    "source": "구글 뉴스 AI",
+    "published": "2026-07-09",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "삼성",
+     "GPU·데이터센터",
+     "NVIDIA",
+     "온디바이스 AI"
+    ],
+    "summary": "삼성전자의 PC용 AI칩 출시는 온디바이스 AI 시장 경쟁을 격화하고 관련 산업 생태계 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "엔비디아, 로봇용 오픈소스 AI모델 개발 추진…허깅페이스와 협력",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE44cmlnVHlfdVNzTU5oYVYzTHIwbUIyUEswbWJPSXpXYlQwSkJ2RXZrdzJENmdXbm9SWXJ4NUZlcmhnQlAzbXRjb1lYN3Jpdkdr?oc=5",
+    "source": "블루밍비트",
+    "published": "2026-07-09",
+    "keyword": "AI모델",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "로봇·휴머노이드",
+     "오픈소스",
+     "Hugging Face"
+    ],
+    "summary": "엔비디아가 로봇용 오픈소스 AI 모델을 추진하며 하드웨어 우위를 넘어 AI 생태계 소프트웨어 표준화를 선도할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "OpenAI and Anthropic Offer Up to $3 Million in Startup Credits as AI Ecosystem Battle Intensifies",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fMjk2OWwtWUVNZE1xc3BPQ0wtWVpmdlVkbUxucEtKVnBSVnVzMjU4R1AwUzBGUW9LckJ1SUFaUVdtZHBYOXZoVXRfWkRHdG9JTlAxV1BBMi1fTV9HSVVFYXdvQjVSX2RkMko0?oc=5",
+    "source": "kmjournal.net",
+    "published": "2026-07-09",
+    "keyword": "Anthropic",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Anthropic"
+    ],
+    "summary": "거대 AI 기업의 스타트업 크레딧 경쟁은 자사 플랫폼 기반 AI 생태계의 성장을 가속하고 주도권을 강화할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

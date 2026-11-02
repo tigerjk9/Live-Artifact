@@ -1,0 +1,424 @@
+{
+ "date": "2026-05-09",
+ "generated_at": "2026-11-02T11:36:13+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[미래진로교육혁신]경기도교육청학생교육원, 미래형 진로교육 역량 강화 연수 운영…“교사 진로코칭 전문성 높인다”",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhUTBWNWtUeVRBSHUyeGh3LWk4bmNZams1YlVDYUlRbkdYX1hlRVFuMXljbjUtZWEwNTdjLXFLeTAzeld6THJaM0VqQndSNzc0ZmJlVldmR3F5OVN1eUZiU1JvNExSVjFMUEI1TzlxMEs?oc=5",
+    "source": "전국뉴스",
+    "published": "2026-05-08",
+    "keyword": "디지털교육",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 2,
+    "title": "경기도교육청, 직업계고 AI 실무인재 양성 본격화",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE56dlhYc1FpdUhzc0d2elJwRnAzSTRDYy1JMkpTS1R0NnA4c0RjOFdOUzAyYXBQaUVnbVBXaUVTWXBpai0xcDJtQjlIOHF4Ylh6MklQQzdpUU1zNGV2WXgzNEdtTFJkSmkxSUdPdDZfRnU2US1Z0gF0QVVfeXFMTnp2WFhzUWl1SHNzR3Z6UnBGcDNJNENjLUkySlNLVHQ2cDhzRGM4V05TMDJhcFBpRWdtUFdpRVNZcGlqLTFwMm1COUg4cXhiWHoySVBDN2lRTXM0ZXZZeDM0R21MUmRKaTFJR090Nl9GdTZRLVk?oc=5",
+    "source": "이뉴스투데이",
+    "published": "2026-05-08",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 3,
+    "title": "대전수학문화관 AI와 디지털 도구 활용한 중등 수학 수업 혁신 연수 실시 > 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1VSTgzeG1YOWFabnJfTlBqUkN3dGJCM2xid1JzcmpZTl9FREhyNHhfajhnbGpmTUZvMzlWSWtlYmowcTA?oc=5",
+    "source": "더코리아",
+    "published": "2026-05-08",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 4,
+    "title": "AI 에이전트 시대, 웹 에이전시는 어떤 역할을 해야 할까?",
+    "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPZ2xGUXM5cGxvUk8tWWdjR0E2T19xenlFUDNQejRjZ21LXzBIa3dGdkVxczhPUjRWQ1dWaU1OaFVFaHp6cmxXS192Z1dRVVBZaC1GMU96UnVLTTNvcXpieVg3dFVNWk1tbFd5N1hmc2hfYW8zTmZKU1FYUlY4RTYzcFd1WjNSM1RITlZDeXNtQ1lZeUw4WXRwZ3RTNG5IV0JJWlRVS1VURzM1MVdiRDJ2b2lMdzNKWmQ0M25XYUMzZF9WMHhWdmdUdWdvLUJEQjZ2VnZUa0psbU1Rbk9EUDVweW1wYUFVdS1UcXI1RTkwR1drcDJoRXFWZUIyM2dpYVVYRnMtMTRGdFFXRDBwYlVBSzdJajJaeUtzRkZxLTZsWUJyY0Q5cllQeDJ2X1paTGNYYjJhU3B2RUFJaXR2VEc2UmV3?oc=5",
+    "source": "디지털 인사이트 DIGITAL iNSIGHT",
+    "published": "2026-05-08",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 5,
+    "title": "AMD CEO \"에이전틱 AI서 CPU·GPU 비율 1대1 수준...CPU가 더 커질 수도\"",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5saGltSDVtUjYtYnNHd21rR3JMOHhUdDZwdFVqeUlnOHdwY1FhOWg3SEh1aGI5STM4MVR1cFk1cGZUVGx6dHBGSDdadFFOMUZLTG9nR29wc3FNdUx0SkNmeTZRMGdxbXczRG1GWXgxT3dBMW8?oc=5",
+    "source": "디지털투데이",
+    "published": "2026-05-08",
+    "keyword": "AI디지털도구",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "GPU·데이터센터"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 6,
+    "title": "[단독] 서울대 ‘AX인재육성案’ 교육부가 퇴짜",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xQnBCNmRXbGx1SjJvRlloZW5pWGZYZ3gtSWt3Ylh6SlI3OVhXcHVLeURHMjhZb0w2NzdXcWItdnpOSXQ3WnNoN2dJS0xDNW1lTlHSAVNBVV95cUxPd1JYeUduWDN4eW5QOVk4REVmemRXRHE3MGFmN3JZOFd4cHRWdWFzd2h2M3B3bG1LaThtM3RsYnh4SkNVVW5DSGFaLWFHWkp1djEtRQ?oc=5",
+    "source": "서울경제",
+    "published": "2026-05-08",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 7,
+    "title": "충북대 학생 68%, 생성형 AI 이틀에 한 번 이상 사용",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBQc2o3MHZicUt6cWRVZVJqQ0lhTmI1US00SkZqOFQxX25udUI2aGEteEZReTU3bFpsUVhFbTVhMVMzTTlyX3hhVUNaajZmUQ?oc=5",
+    "source": "전자신문",
+    "published": "2026-05-08",
+    "keyword": "생성형AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "경산시 시니어, 생성형 AI로 동화 만든다…국제 영상제 전시까지",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMWGJaWlVjWVduWEJTS1VQSHdpZG5wTjA4SUxrdm1vTlF2amtTaDNITGh3cGVHLU5HNE5PM0t3T0tCWlBiNjRUQTJHVEVrLVFWby1BakJNTE56ckZUbU9ZYzZLVjh0UDY0R0YzdE5QVdIBc0FVX3lxTE5BQk5pS0RNdFhvODNmQkpVTnlNeUlZRGxIbmxWeXYwSVNMRFJ6bzFKcnZTdkFiMFVoMGlZUXBNRERHNXhYR3lZdWhjV1NrVW9ET0VEbEdUbFJhV3ZZaVhHSUpWbXVUWmxTQlBDc1RvY3FLbU0?oc=5",
+    "source": "데일리한국",
+    "published": "2026-05-08",
+    "keyword": "생성형AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "의사과학자 양성부터 지역실습까지…교육부, 의대 혁신모델 찾는다",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1NU5OTzJteUlYY1lwZWZvUnZVaThVcjlhcEZoYnJGSDJlQWtQaG5DN2JTUWRqTlphX1ppbjV2YUx3YlQ4dC1CbUpLQW9fdTZFQUdfbW5obXRXODUweHFzVXd3Z2hHTzRNWjFjR051c9IBc0FVX3lxTFB1aFRKNktRLUV3c2NCVEM0djdyS21UOWl3SmhLRHNRQ1I5aWxsbUV2MVVNeGNNWWJfcnJtaEttQXpURTQ5OG5DQUFGQ1BNSEJxR1FOWGl0b0NiYllLU0NHRDFmeVlvbUIweUlNSmZod0JXSTA?oc=5",
+    "source": "청년의사",
+    "published": "2026-05-08",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 10,
+    "title": "'강원교육 혁신을 위한 교육감 단일후보 추진위원회' 출범",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ELXJDREFmMGNoNkhYNmdhY0tIMmZTVDNXZ0RRNW5mNU9zY2x3VFJOUDBvVmJKOTEyWkFseGVwV2lmcTAwQkZmZzdqeXFOR2ZpbDhvZWZnbjVMVTFxYnlyd9IBYEFVX3lxTE5ELXJDREFmMGNoNkhYNmdhY0tIMmZTVDNXZ0RRNW5mNU9zY2x3VFJOUDBvVmJKOTEyWkFseGVwV2lmcTAwQkZmZzdqeXFOR2ZpbDhvZWZnbjVMVTFxYnlydw?oc=5",
+    "source": "연합뉴스",
+    "published": "2026-05-08",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "강원교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Impact of Artificial Intelligence on Education",
+    "url": "https://doi.org/10.22214/ijraset.2026.81506",
+    "source": "openalex",
+    "published": "2026-05-07",
+    "keyword": "edtech",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "개인화 학습",
+     "AI 튜터"
+    ],
+    "summary": "인공지능은 교육 분야에서 개인 맞춤형 학습, 자동화된 평가, 지능형 튜터링 시스템 등 다양한 도구를 통해 교육의 질을 향상시키고 있으며, 교육 기관의 운영 방식까지 변화시키고 있습니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Krishna Raj Mitra",
+    "pdf": "https://doi.org/10.22214/ijraset.2026.81506"
+   },
+   {
+    "n": 2,
+    "title": "Codify",
+    "url": "https://doi.org/10.32473/flairs.39.1.141554",
+    "source": "openalex",
+    "published": "2026-05-06",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "LLM",
+     "AI 튜터"
+    ],
+    "summary": "Codify 논문은 대규모 언어 모델, 역량 추적, 적응형 평가를 활용하여 학생 맞춤형 프로그래밍 교육을 제공하고 소크라테스식 교수법으로 학습 효과를 높이는 지능형 튜터 시스템 AI Tutor를 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Allan Ilyasov, G. Bardelli 외 1명",
+    "pdf": "https://journals.flvc.org/FLAIRS/article/download/141554/147183"
+   },
+   {
+    "n": 3,
+    "title": "Kahoot!, YouTube, and Blackboard to enhance English for specific purposes motivation: insights from a Saudi university",
+    "url": "https://doi.org/10.51302/tce.2026.24509",
+    "source": "openalex",
+    "published": "2026-05-06",
+    "keyword": "",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [],
+    "summary": "사우디 대학의 ESP 수업에서 Kahoot!, YouTube, Blackboard 활용이 학생들의 자율성, 능력, 관계성 욕구를 충족시켜 동기를 향상시키고, ESP 기술 동기 부여 매트릭스(ETMM)를 제시하여 디지털 교육 환경 구축에 기여함을 질적 연구를 통해 밝혀냅니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Khaled Khader Oraby, Salameh S. Mahmoud 외 1명",
+    "pdf": "https://www.tecnologia-ciencia-educacion.com/index.php/TCE/article/download/24509/24921"
+   },
+   {
+    "n": 4,
+    "title": "Model Pembelajaran Inklusif Berbasis Hadis dalam Mewujudkan Pendidikan yang Adil dan Setara",
+    "url": "https://doi.org/10.54437/irsyaduna.v6i1.3063",
+    "source": "openalex",
+    "published": "2026-05-05",
+    "keyword": "SEL education",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 하디스 가치에 기반한 포용적 학습 모델을 제시하여, 이슬람 교육 맥락에서 공정하고 평등한 교육을 실현하고, 하디스 분석을 통해 도출된 평등, 정의, 연민의 가치를 교육 과정에 통합함으로써 학생들의 전인적 발달을 지원합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Agus Mujiono, Abdul Muhid",
+    "pdf": "https://pondokjurnal.uwj.ac.id/index.php/irsyaduna/article/download/3063/1593"
+   },
+   {
+    "n": 5,
+    "title": "Between Policy Silence and Classroom Reality: Assessing Social and Emotional Learning in Public Secondary Schools in Nyamagana District, Tanzania",
+    "url": "https://doi.org/10.70232/jrep.v3i2.164",
+    "source": "openalex",
+    "published": "2026-05-04",
+    "keyword": "SEL education",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [],
+    "summary": "탄자니아 니아마가나 지역 공립 중등학교에서 사회정서학습(SEL) 평가의 어려움을 질적 연구를 통해 밝히고, 교사 교육 부족, 표준화된 도구 부재, 교육과정 문제 등으로 인해 학생들의 SEL 평가가 제대로 이루어지지 못함을 지적하며, 교육과정에 SEL 포함을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Mahona Joseph Paschal, Kasara Belias Ngoboka 외 1명",
+    "pdf": "https://spm-online.com/jrep/index.php/journal/article/download/164/83"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "OpenAI Unveils GPT-5.5-Cyber as AI Cybersecurity Race Heats Up Against Anthropic’s Mythos",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Vc1dsb2pIYnlBLTdBOW0zemhNeW8zdExQNmZaU2hvcWdnUS1fYjBCaE1BQ21JaW40SGRFMW5HR2N2a0NGeVlrUTA5VHQxQmQ5Qkc5SkxvTU9BSXAyZzJYQzJzR1Vxd2c1MVZz?oc=5",
+    "source": "kmjournal.net",
+    "published": "2026-05-08",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT",
+     "Anthropic",
+     "Claude"
+    ],
+    "summary": "OpenAI의 GPT-5.5-Cyber 공개는 AI 사이버 보안 경쟁 심화를 촉발하며, AI 기술이 사이버 위협 방어의 핵심 요소로 자리매김할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "\"알트먼에 테슬라 이사 제안\"… 머스크, 2018년 오픈AI 흡수 시도 드러나",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210283",
+    "source": "AI Times",
+    "published": "2026-05-08",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "xAI"
+    ],
+    "summary": "머스크의 오픈AI 흡수 시도는 AI 기술 주도권 경쟁 심화와 잠재적 독점 시도 가능성을 보여주는 단적인 사례입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "소프트뱅크, 엔비디아·폭스콘과 '일본산' AI 서버 구축 추진",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210272",
+    "source": "AI Times",
+    "published": "2026-05-08",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA"
+    ],
+    "summary": "소프트뱅크의 행보는 일본 내 AI 인프라 자립을 가속화하고, 글로벌 AI 기술 경쟁 구도에 새로운 변수로 작용할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "xAI, '커서' 인수로 10여명 추가 이탈...법인 해체하고 '스페이스XAI'로 통합",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210288",
+    "source": "AI Times",
+    "published": "2026-05-09",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "xAI",
+     "코딩 AI"
+    ],
+    "summary": "xAI의 커서 인수는 인재 확보 경쟁 심화와 함께 AI 스타트업 간 기술 및 인력 통합 가속화를 의미합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "Apple, ChatGPT 통합을 통해 iOS 27에서 다양한 AI 도우미 출시",
+    "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOd09QUEJqTEhTclBHZGdyMU8xS1dFNVRIbFZzYlhLaFJTU3BaZnRqcWI5X1VtS1RZR29IM3lVdVhlZlRta29MNF8xUWprZzFQUWxIZmx4S3pBYlBUdTk0UDF2NnpJTGhrTHVnWDEtdldOWGdYRjk5X0xmWGZUR3c1RktvRUtrbXktOHBBT3hqSGJRT3JPX283TW1rRkx6ZF9XU1dzV2h4a2x3MGlJZFFGN3E2VWI0M2c4Y3pMTG84RzJIX24xMWxXU1hNRWIzS1FwMkhIQWY3dXk1a1pOaktselRhbFl0Rl80MUpRQk9DRmhXNUMxVUJIYXU5Tm56d00yMW43ZGpFNVhGakl1TzVkSkdLMnBTWlQyal8xWDV5SVhXVXo2V1Bud0hmRjduXzdUZEJN0gGzAkFVX3lxTE53T1BQQmpMSFNyUEdkZ3IxTzFLV0U1VEhsVnNiWEtoUlNTcFpmdGpxYjlfVW1LVFlHb0gzeVV1WGVmVG1rb0w0XzFRamtnMVBRbEhmbHhLekFiUFR1OTRQMXY2eklMaGtMdWdYMS12V05YZ1hGOTlfTGZYZlRHdzVGS29FS2tteS04cEFPeGpIYlFPck9fbzdNbWtGTHpkX1dTV3NXaHhrbHcwaUlkUUY3cTZVYjQzZzhjekxMbzhHMkhfbjExbFdTWE1FYjNLUXAySEhBZjd1eTVrWk5qS2x6VGFsWXRGXzQxSlFCT0NGaFc1QzFVQkhhdTlObnp3TTIxbjdkakU1WEZqSXVPNWRKR0sycFNaVDJqXzFYNXlJWFdVejZXUG53SGZGN25fN1RkQk0?oc=5",
+    "source": "Mix Vale",
+    "published": "2026-05-08",
+    "keyword": "Anthropic",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Apple",
+     "ChatGPT"
+    ],
+    "summary": "애플의 ChatGPT 통합은 AI 경쟁 심화와 더불어 자사 플랫폼의 매력도를 높여 AI 기술 생태계에 큰 영향을 미칠 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+    "url": "https://openai.com/index/gpt-5-5-instant",
+    "source": "OpenAI Blog",
+    "published": "2026-05-05",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "개인화 학습"
+    ],
+    "summary": "GPT-5.5 Instant는 더욱 스마트해진 개인 맞춤형 AI 경험을 제공하며, 이는 AI 활용 영역 확대 및 경쟁 심화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "엔비디아, 데이터센터 아이렌·광섬유 코닝에 잇달아 투자",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210246",
+    "source": "AI Times",
+    "published": "2026-05-08",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "GPU·데이터센터"
+    ],
+    "summary": "엔비디아의 데이터센터 인프라 투자는 AI 연산 능력 확대를 위한 필수적인 하드웨어 기반 강화 전략의 일환이며, AI 기술 발전과 산업 성장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "기업 AI 운영 전략: 멀티 AI 시대의 AI 하네스 프레임워크 | 인사이트리포트 | 삼성SDS",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTkhQcVFUMlhJMVljdFRmU2lReDBFaE1mcUZBTElHUVIyMHRyYlpZcUxkT1plSGwyWWFodVVHNEt1MFU3eWl2NGRySDdiME5HWWMwU1dGMjh1TzFzTnBEakFVMl9WUmhEOTZ1WHNMcUk0Nlk4RHEtOXptY2dMUnVWS1J3cExkTkZzblV5Tw?oc=5",
+    "source": "Samsung SDS",
+    "published": "2026-05-08",
+    "keyword": "AI기술",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "삼성"
+    ],
+    "summary": "삼성SDS의 AI 하네스 프레임워크는 기업들이 멀티 AI 환경에서 AI 운영 효율성을 높이고, 특정 플랫폼 종속성을 줄여 AI 기술 도입 및 활용을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "[AI카툰] Bob, Senior IT guy",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210287",
+    "source": "AI Times",
+    "published": "2026-05-09",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [],
+    "summary": "어린 시절부터 AI를 접한 세대가 산업 현장에서 AI 활용 능력을 극대화하여, AI 기술 발전과 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "Testing ads in ChatGPT",
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "source": "OpenAI Blog",
+    "published": "2026-05-07",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "ChatGPT 광고 도입 실험은 AI 챗봇 수익화 모델을 본격적으로 시험하며, 향후 AI 서비스 시장 경쟁 심화 및 광고 기반 수익 모델 확산을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

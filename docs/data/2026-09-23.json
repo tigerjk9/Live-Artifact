@@ -1,0 +1,314 @@
+{
+ "date": "2026-09-23",
+ "generated_at": "2026-11-02T11:43:45+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "교육부·한국교육개발원, 수업에서 스포츠 경험으로 「데이터로 읽는 우리 교육」 제14호 발간",
+    "url": "https://www.lecturernews.com/news/articleView.html?idxno=211000",
+    "source": "한국강사신문",
+    "published": "2026-09-23",
+    "keyword": "",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "교육부와 한국교육개발원이 학교체육의 변화를 '수업에서 스포츠 경험으로' 주제로 분석한 「데이터로 읽는 우리 교육」 제14호를 9월 20일 발간했습니다.",
+    "implication": "학교체육을 단순 수업에 그치지 않고 학생들의 다양한 스포츠 경험과 연계하는 활동을 수업에 바로 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "학교폭력 심의 5년 새 88% 증가… 학교장 자체해결은 절반 이하로[2026 국감]",
+    "url": "https://news.unn.net/news/articleView.html?idxno=597893",
+    "source": "한국대학신문",
+    "published": "2026-09-23",
+    "keyword": "",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [
+     "학교폭력",
+     "국회"
+    ],
+    "summary": "학교폭력 접수 감소에도 학폭위 심의는 5년간 88% 증가하고, 자체해결은 절반 이하로 떨어졌습니다.",
+    "implication": "따돌림과 강요 등 비신체적 학폭 증가에 대비해 학생 관계를 면밀히 살피고 조기 개입을 준비할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "라이너, AI로 정책연구 전 과정 실험한다…KAIST di-Lab과 ‘AI for Policy Research’ 협력",
+    "url": "https://www.venturesquare.net/1115896/",
+    "source": "벤처스퀘어",
+    "published": "2026-09-22",
+    "keyword": "",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "라이너와 KAIST di-Lab이 AI '라이너 스콜라'를 정책연구 전 과정에 적용, 연구 생산성 변화를 실험합니다.",
+    "implication": "학생들에게 AI 도구가 단순 검색을 넘어 복잡한 연구 과정에 적용될 수 있음을 보여줄 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Artificial Intelligence (AI) in Teaching and Learning of History and Social Studies: An Interdisciplinary Approach",
+    "url": "https://doi.org/10.56201/jhsp.vol.12.no2.2026.pg123.130",
+    "source": "openalex",
+    "published": "2026-09-18",
+    "keyword": "edtech",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "이 논문은 나이지리아 고등 교육기관에서 AI 도구를 활용하여 역사 및 사회과학 교육의 학제 간 접근을 촉진하고, 맞춤형 학습과 교사 역량 강화를 통해 포괄적인 기술 기반 교육 환경을 구축할 수 있음을 탐색합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Olatunji John Omotoso",
+    "pdf": "https://iiardjournals.org/get/JHSP/VOL. 12 NO. 2 2026/Artificial Intelligence (AI) in Teaching 123-130.pdf"
+   },
+   {
+    "n": 2,
+    "title": "Modelling Students' Emotional Engagement in AI-Augmented English Reading: Mediation of AI Learning Interest and Reading Enjoyment",
+    "url": "https://doi.org/10.64152/10125/73684",
+    "source": "eric",
+    "published": "2026-01-01",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [
+     "AI 리터러시"
+    ],
+    "summary": "AI 활용 영어 읽기 학습에서 650명의 대학생을 대상으로 한 연구를 통해 AI 리터러시 및 또래 상호작용이 정서적 몰입을 높이고 AI 학습 흥미와 독서 즐거움이 이를 매개함을 밝혀 AI 기반 교육 설계에 실질적인 기여를 합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Honggang Liu, Jiqun Fan",
+    "pdf": "https://doi.org/10.64152/10125/73684"
+   },
+   {
+    "n": 3,
+    "title": "Multi-Purpose Teaching Implements",
+    "url": "https://doi.org/10.65339/ijsis.v1.i2.99",
+    "source": "openalex",
+    "published": "2026-09-18",
+    "keyword": "edtech",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "이 연구는 교실 조직, 교수, 저장, 이동성, 멀티미디어 기능을 통합한 다목적 교육 도구를 개발하고 정량적 연구로 높은 수용도를 확인하여, 기술 지원 학습 환경 구축을 통한 교육 품질 향상에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Angel Grace Arciaga Datulayta, Joel Vocales Misanes",
+    "pdf": "https://graspepress.com/ijsis/article/download/114/105"
+   },
+   {
+    "n": 4,
+    "title": "From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning",
+    "url": "http://arxiv.org/abs/2609.24083v1",
+    "source": "",
+    "published": "2026-09-21",
+    "keyword": "K-12 education",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "AI 튜터"
+    ],
+    "summary": "본 연구는 교육학적 원리를 전 과정에 통합한 PIVOT 프레임워크를 통해 스토리보드 생성부터 평가 및 오개념 교정까지 STEM 학습을 지원하는 생성형 비디오 튜터를 개발하여, 학습자 이해와 교습 활동을 향상합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Xinchen Ma', 'Shuimu Wang' 외 5명",
+    "pdf": "http://arxiv.org/pdf/2609.24083v1"
+   },
+   {
+    "n": 5,
+    "title": "AI in inclusive education: teachers’ visions of future-oriented practices",
+    "url": "https://doi.org/10.3389/feduc.2026.1890925",
+    "source": "openalex",
+    "published": "2026-09-18",
+    "keyword": "edtech",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "리투아니아 고등학교 교사들의 에세이 분석을 통해, AI가 통합 교육에 미칠 2040년 미래 비전을 탐색하며, 교사들이 AI를 단순한 기술 수용을 넘어 개인 맞춤 학습, 사회적 책임, 전문성 변화를 형성하는 주체적 역량으로 인식함을 밝힙니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Laura Daniusevičiūtė-Brazaitė, Lina Gaižiūnienė 외 1명",
+    "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1890925/pdf"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "오픈AI, 'GPT-6 솔·루나' 공개…\"필요한 성능만 올리고 가격은 반값\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215584",
+    "source": "AI Times",
+    "published": "2026-09-23",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "GPT-6의 성능 최적화와 반값 정책은 AI 기술의 접근성을 높여 산업 전반의 AI 활용 및 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[AI리더의 서가] LLM 마스터: 모델 × 시스템 엔지니어링",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215467",
+    "source": "AI Times",
+    "published": "2026-09-23",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "LLM"
+    ],
+    "summary": "LLM 시대에는 모델 지식과 시스템 엔지니어링 역량의 결합이 AI 기술의 실용화와 산업 경쟁력 확보에 필수적입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "샤오미, 오픈 모델 ‘미모-V2.6’ 공개…중국 AI 중 역대 최고 성적",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215552",
+    "source": "AI Times",
+    "published": "2026-09-22",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "샤오미의 역대 최고 성능 오픈 모델 공개는 중국 AI 기술 경쟁을 심화하고 생태계 전반의 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "에포크 AI, 벤치마크 검증 착수...\"15개 중 9개 결함\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215568",
+    "source": "AI Times",
+    "published": "2026-09-22",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "벤치마크"
+    ],
+    "summary": "AI 기술 벤치마크 검증에서 드러난 결함은 AI 생태계 전반의 신뢰성 확보를 위해 투명하고 엄격한 검증이 필수적임을 의미합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "xAI launches Grok 4.7 at bargain prices, but benchmarks reveal a wide gap to Claude and GPT-6",
+    "url": "https://the-decoder.com/xai-launches-grok-4-7-at-bargain-prices-but-benchmarks-reveal-a-wide-gap-to-claude-and-gpt-6/",
+    "source": "The Decoder",
+    "published": "2026-09-21",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "xAI",
+     "벤치마크",
+     "Claude",
+     "ChatGPT"
+    ],
+    "summary": "성능 격차에도 불구하고 xAI의 저가 전략은 AI 시장의 가격 경쟁을 심화하고, 성능과 비용 효율성 간의 선택지를 확대할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "AMD, AI 붐 타고 시가총액 '1조달러' 돌파...반도체 기업 4번째",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215564",
+    "source": "AI Times",
+    "published": "2026-09-22",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "GPU·데이터센터"
+    ],
+    "summary": "AMD의 시가총액 1조 달러 돌파는 AI 반도체 시장의 경쟁 심화와 공급망 다변화를 통해 AI 산업 전반의 혁신 가속화를 이끌 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "Claude가 Anthropic AI 연구 26%를 주도한 의미",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM19pSnB0eXpSUExtS29VV0tFRzBMNGtTN0VqcENfS2JUdkRHVzNNblQ1MDNPcG9lcXN1eXFSdXdyRkg3TDhobnYxUTNTc3BwWkp5a2xSWWtfMGRGQ3E2WVJzejZoNnZLTnNiRFFmRHE0bGtNR2sxd2FMN25MOHRGblgwcnVZcFkyR3Qxd0ZuRWp1LWoyemc?oc=5",
+    "source": "quasa.io",
+    "published": "2026-09-22",
+    "keyword": "Anthropic",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Claude",
+     "Anthropic"
+    ],
+    "summary": "AI가 AI 연구 개발을 주도하며 전반적인 기술 발전의 가속화와 효율성을 획기적으로 증대시키는 새로운 패러다임이 도래할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "생성AI에 대한 역습? “순차적 LLM 무시한 모델” 등장",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VODZ3YUNjbGNrOEh3UURnZTB3eDdOY19ZR0kxTTZHSkJSV1ZEYUpaaVBTcDh1VnpVU2IzT2pRSjZPcHV0bUVBSlVZQUQ4ZGc3dlhMN05XbWROSUtVdWJsaWNTbVR5WDVZMTA2WlJkUHo?oc=5",
+    "source": "애플경제",
+    "published": "2026-09-22",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "LLM"
+    ],
+    "summary": "순차적 LLM 방식을 탈피한 새로운 모델 등장은 AI 기술 혁신 경쟁을 촉발하며 아키텍처 다변화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "How V7 gives AI agents institutional memory",
+    "url": "https://openai.com/index/v7",
+    "source": "OpenAI Blog",
+    "published": "2026-09-21",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "AI 에이전트의 기관 기억 구현은 이들의 누적 학습 및 장기적 의사결정 능력을 고도화하여 AI 산업의 실용성을 혁신할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "메타 독주하는 AI 글래스…구글·삼성·애플 추격 예고",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uRlFGd0VfN3dYdEwzZ2NfRGl5dHREdEs2RXBiVG8wRXNvUFdjNXVxM1RoTTN0eWJIc25MV2M1V1U0M1BKRVNlc1pZMnJwR3BDZ2RuVy1FYVhrclnSAWBBVV95cUxPS0p1SVdvakg2bWRFNlJUNVRfd19pSll1cGhFMkZEQ1RtNWV6d3FlNkJEamQ1N3d3VVRmcDVrRzJZa1lZWWlWbTI3anZBSUZVdUU5NmJONWRtR1ZyQ2xEd2g?oc=5",
+    "source": "연합뉴스",
+    "published": "2026-09-22",
+    "keyword": "구글",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Meta",
+     "Google",
+     "삼성",
+     "Apple"
+    ],
+    "summary": "메타의 AI 글래스 독주는 빅테크의 추격을 예고하며, AI 기반 차세대 컴퓨팅 플랫폼 시장의 경쟁 심화와 기술 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

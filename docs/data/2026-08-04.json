@@ -1,0 +1,380 @@
+{
+ "date": "2026-08-04",
+ "generated_at": "2026-11-02T11:41:00+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "다이퀘스트, AI·에듀테크 역량 결집해 동국대 차세대 교육 플랫폼 구축 나선다",
+    "url": "https://www.lecturernews.com/news/articleView.html?idxno=207718",
+    "source": "한국강사신문",
+    "published": "2026-08-04",
+    "keyword": "",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "다이퀘스트는 동국대 DaDAM 프로젝트에 솔트룩스 그룹 AI 기술(RiSaa, LUXIA)을 결합해 차세대 지능형 교육 플랫폼을 구축, 학생 맞춤형 학습 지원 및 성장 데이터 관리를 추진한다.",
+    "implication": "AI가 학생 개인별 학습 경로와 진로를 추천하고 근거를 제시하면, 교사는 맞춤형 수업 설계 및 학습 상담에 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[신호현의 교육칼럼] 늦게 출발한 아이들에게 다시 달릴 기회",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=30375",
+    "source": "에듀프레스",
+    "published": "2026-08-03",
+    "keyword": "",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "2025학년도 고교 내신 5등급제 전환으로 학생 성장의 어려움과 성적 회복 불가능성이 커져 학업 중단을 유발할 수 있다는 우려가 제기됩니다.",
+    "implication": "내신 등급 변동이 어려울 수 있는 상황에서 학생들이 학습 보람을 느끼도록 개인별 성취에 집중하여 지도할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "교육부 “목포대·순천대, 예산·교원 확보 고려해 통합 신속히 진행해야”",
+    "url": "https://news.unn.net/news/articleView.html?idxno=595503",
+    "source": "한국대학신문",
+    "published": "2026-08-03",
+    "keyword": "",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "목포대·순천대 통합 지연에 교육부는 의대 신설 예산 확보 등을 위해 신속한 통합 진행을 당부했습니다.",
+    "implication": "대학 통합 및 의대 신설과 관련된 복잡한 이해관계와 의사결정 과정을 학생들과 함께 탐구하며 시사 토론 수업에 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "전주부설초·군산 회현초, IB 초등과정 PYP 월드스쿨 인증",
+    "url": "https://news.unn.net/news/articleView.html?idxno=595478",
+    "source": "한국대학신문",
+    "published": "2026-08-03",
+    "keyword": "",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "IB"
+    ],
+    "summary": "전주부설초와 군산 회현초가 학생 탐구 중심의 IB PYP 월드스쿨 인증을 받아 전북도 내 8, 9호 학교가 되었습니다.",
+    "implication": "학생 스스로 질문하고 탐구하는 수업과 성장 중심 평가를 교실에서 실천할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "인천대 김진수 상임감사 취임",
+    "url": "https://www.veritas-a.com/news/articleView.html?idxno=621823",
+    "source": "베리타스알파",
+    "published": "2026-08-03",
+    "keyword": "",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "인천대는 교육부 및 주요 교육청 고위직을 역임한 김진수 감사가 8월1일 신임 상임감사로 취임했다고 밝혔습니다.",
+    "implication": "학생들에게 교육 분야 공공기관에서 일하는 교육행정 전문가의 역할을 소개하며 진로 탐색에 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "[정책이 현장과 만날 때] 지역교육력③ 615일의 수학여행…단체활동이 멈춘 자리",
+    "url": "https://www.edpl.co.kr/news/articleView.html?idxno=21219",
+    "source": "교육플러스",
+    "published": "2026-08-03",
+    "keyword": "",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "Alibaba"
+    ],
+    "summary": "한 학부모의 민원으로 615일간 학교가 혼란을 겪은 끝에, 초등학교의 1박 2일 수학여행이 당일 현장학습으로 대체되었습니다.",
+    "implication": "학부모와의 오해를 줄이기 위해 수업 활동과 학생 관리에 대한 명확한 소통이 중요합니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "국교위 ‘수능 절대평가·서논술형’ 보도에 교육계 촉각…“확정안 아냐”",
+    "url": "https://www.edpl.co.kr/news/articleView.html?idxno=21218",
+    "source": "교육플러스",
+    "published": "2026-08-03",
+    "keyword": "",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [
+     "수능·대입"
+    ],
+    "summary": "국교위가 2033학년도 대입부터 수능 전 과목 절대평가 및 서·논술형 도입을 추진한다는 보도에 교육계가 우려하자, 국교위가 확정된 바 없다고 진화에 나섰습니다.",
+    "implication": "서·논술형 평가 확대 논의를 보며, 학생들이 다양한 관점에서 깊이 있는 사고를 전개하도록 유도하는 수업 설계가 중요합니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "바이트댄스, '시댄스'로 에듀테크 진출…학습 앱 '가우스'에 AI 영상 도입",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213458",
+    "source": "AI타임스",
+    "published": "2026-08-03",
+    "keyword": "",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "영상·이미지 생성"
+    ],
+    "summary": "바이트댄스가 AI 영상 생성 모델 시댄스를 학습 플랫폼 가우스에 적용, 'AI 코스'를 출시하며 에듀테크 시장에 본격 진출했다.",
+    "implication": "이 서비스는 복잡한 역사 개념을 영화 같은 AI 영상으로 학생들에게 몰입감 있게 제시하여 학습 효과를 높일 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "THE ART AND AGONY OF DIFFERENTIATION: STRATEGIES OF ELEMENTARY TEACHERS IN TEACHING MAKABANSA",
+    "url": "https://doi.org/10.36713/epra31111",
+    "source": "openalex",
+    "published": "2026-08-01",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "이 질적 연구는 필리핀 초등 교사들이 마카반사 교과에서 사용하는 차별화된 교수 전략, 난관 및 대처 방안을 심층 면담을 통해 탐색하여, 학생 중심의 유연한 교수법이 학습 효과를 증진하고 교육 현장의 지원 시스템 개선에 기여함을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Apple Dean A. Paguya, Christy Joy R. Decrepito",
+    "pdf": "https://cdn.eprapublishing.org/article/1785606348612-122.EPRA 31111.pdf"
+   },
+   {
+    "n": 2,
+    "title": "From Objectives to Outcomes: A Theoretical Framework for Realigning Curriculum, Pedagogy, and Assessment with Industrial Revolution 5.0",
+    "url": "https://doi.org/10.54938/ijemdss.2026.05.2.706",
+    "source": "openalex",
+    "published": "2026-08-02",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 산업혁명 5.0 시대에 맞춰 교육 목표, 교수법, 평가를 재정렬하기 위한 이론적 틀을 제시하며, 블룸 분류법과 다양한 최신 교육 모델을 통합해 학생들의 고차원적 역량 강화를 지향합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Rahat Rizvi",
+    "pdf": "https://ojs.ijemd.com/index.php/SocialScience/article/download/706/397"
+   },
+   {
+    "n": 3,
+    "title": "Academic Experiences and Best Practices in Utilizing AI-Powered Learning Tools: Inputs to Policy Framework Development",
+    "url": "https://doi.org/10.65339/ijsair.v2.i3.833",
+    "source": "openalex",
+    "published": "2026-08-01",
+    "keyword": "",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [],
+    "summary": "이 연구는 혼합 연구 방법론으로 학생과 교사의 AI 교육 도구 활용 경험 및 모범 사례를 조사하여, 교육적 효과와 윤리적 도전 과제를 밝히고 책임감 있는 AI 통합을 위한 정책 프레임워크 개발에 실증적 기반을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Abegail Calimag",
+    "pdf": "https://ijsair.com/index.php/ijsair/article/download/972/955"
+   },
+   {
+    "n": 4,
+    "title": "Filling the Gaps Formal Systems Leave Behind: How Professional Development Compensates for Weak Pre-Service Preparation in Luganda Literature Teachers' Content Knowledge",
+    "url": "https://doi.org/10.36948/ijfmr.2026.v08i04.84759",
+    "source": "openalex",
+    "published": "2026-08-01",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "우간다 루간다 문학 교사 대상 심층 연구 결과, 교사 전문성 개발이 미흡한 대학교육을 보완하며 학위 수준이 경력보다 내용 지식 깊이를 더 잘 예측함을 밝혀 교사 양성 정책에 시사점을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "LEONARD JJUUKO, MATHIAS MULUMBA 외 1명",
+    "pdf": "https://www.ijfmr.com/papers/2026/4/84759.pdf"
+   },
+   {
+    "n": 5,
+    "title": "The Perceptions of Faculty and Students Regarding Artificial Intelligence Usage in Education at an Academic Medical Center",
+    "url": "https://doi.org/10.14434/josotl.v26i2.38849",
+    "source": "openalex",
+    "published": "2026-07-31",
+    "keyword": "",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 설문 및 인터뷰를 통해 교수와 학생들이 AI의 교육적 잠재력을 긍정적으로 평가하나, 의존성과 윤리적 문제 해결을 위한 포괄적 지침과 교육이 필수적임을 강조하며 미래 교육에 미칠 영향을 분석합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Xiaoshan Z. Gordy",
+    "pdf": "https://scholarworks.iu.edu/journals/index.php/josotl/article/download/38849/58951"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "엔비디아, '코스모스3 4스텝' 증류 모델 출시...\"추론 90% 줄여도 오픈웨이트 최고 성능\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213460",
+    "source": "AI Times",
+    "published": "2026-08-03",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "추론 모델"
+    ],
+    "summary": "엔비디아의 고효율 추론 모델 출시는 고성능 AI 배포 비용을 대폭 절감하여 AI 기술의 광범위한 상용화와 산업 적용을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "오픈AI \"GPT-5.6 Sol Ultra\", 양자암호 난제 풀었다…AI가 바꾸는 과학 연구의 새로운 풍경",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15YWw5cHN1bHo4cDJPdFMyRVI2UGpQcHVaaFNuSWR5WWpNS3Qtd0NCbDJWUU9LWXJWVTBlQlVZb0pkUkMwTld2aVZ2aTFfQmFCbWJhZUItblZJZTNYQWhZSUpSSFlYYjZ1Q2ZGOWp4bHQ?oc=5",
+    "source": "디지털포커스",
+    "published": "2026-08-03",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.6 Sol Ultra가 양자암호 난제를 해결하며 AI가 과학 연구의 패러다임을 혁신, AI 기술 생태계와 산업의 무한한 확장 가능성을 보여줄 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "스페이스XAI, '콜로서스' 미허가 가스터빈 69대 철거...1.2GW 청정 발전소로 전환",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213470",
+    "source": "AI Times",
+    "published": "2026-08-03",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "스페이스XAI의 청정 발전소 전환은 AI가 대규모 물리 인프라 및 지속 가능한 에너지 전환의 핵심 동력으로 진화하는 산업 트렌드를 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "바이트댄스, '시댄스'로 에듀테크 진출…학습 앱 '가우스'에 AI 영상 도입",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213458",
+    "source": "AI Times",
+    "published": "2026-08-03",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [],
+    "summary": "바이트댄스의 AI 영상 도입을 통한 에듀테크 시장 진출은 AI 기술의 적용 범위 확대 및 영상 기반 학습 솔루션 경쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "Advancing the price-performance frontier with GPT-5.6",
+    "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "source": "OpenAI Blog",
+    "published": "2026-07-30",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.6의 가격 성능 혁신은 AI 기술 활용의 문턱을 낮춰 산업 전반의 혁신과 확산을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
+    "url": "https://arxiv.org/abs/2607.28629",
+    "source": "arXiv.org AI",
+    "published": "2026-08-03",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "에이전트 AI의 발전은 완전 자율적이고 확장 가능한 시스템을 구현하여, AI 산업의 혁신과 광범위한 자동화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "딥시크 V4 플래시 공개…GPT-5.6급 성능에 API 가격은 4분의 1",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tZ2Y5UUJtcmstNkdlc0NtNkN2dHBRQkZwcVE1TFZKam80bzhuelRWRWprUW40WExSM0Q4RHJVRkg4bjN0OFBkNmZkd0pKaXhVS09wTjRud0hTYmd3WlJGaDNpZklQSDZtcWMw?oc=5",
+    "source": "kmjournal.net",
+    "published": "2026-08-03",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "DeepSeek",
+     "ChatGPT"
+    ],
+    "summary": "고성능 AI의 접근성을 획기적으로 높이고 시장의 가격 경쟁을 촉발하여 AI 기술 생태계의 확장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+    "source": "Google Blog - AI",
+    "published": "2026-05-29",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "구글 AI Studio를 통한 체험형 AI 콘텐츠 제작은 AI 개발의 대중화와 감성적 활용 확대를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "How AI is expanding what people do at work",
+    "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+    "source": "OpenAI Blog",
+    "published": "2026-07-27",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [],
+    "summary": "AI가 인간의 업무 영역을 확장시킴에 따라 AI 기술 생태계는 단순 자동화를 넘어 인간 역량 증진 및 협업 솔루션 개발에 주력할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "오픈AI, AI 브라우저 '아틀라스' 8월 9일 종료…브라우저 AI 기능은 ChatGPT로 통합",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04dldKeldYdUs5TG9PUjMza2hDMkNON0xMdUZweVdsRml4ZUdFbUhLbkJlUHp0bVRYVnJDeEZtS2kydUZ5NVJjcVZDaWpyLVhxa01tbWVCTWxJUjN5VkRFbjd1emhLQ0pRU25JMHhWZVY?oc=5",
+    "source": "디지털포커스",
+    "published": "2026-08-04",
+    "keyword": "오픈AI",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "오픈AI는 챗GPT를 핵심 AI 플랫폼으로 통합 강화하며, AI 서비스 생태계의 집중화와 주도권 경쟁을 심화할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

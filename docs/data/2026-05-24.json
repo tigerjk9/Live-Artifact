@@ -1,0 +1,420 @@
+{
+ "date": "2026-05-24",
+ "generated_at": "2026-11-02T11:37:02+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[Pocus 칼럼] AI중점학교 확대, 정답 도출 너머 비판적사고 과정 평가해야",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3RGFsRGJPY2JLa2MtMHpqdGh1aU1TcTRCU0ZEeGdYdzFxYi1ITGV0MkhNN0JGRlNlMVNYV2JrODJXWTJBYWM5cEtaeUc?oc=5",
+    "source": "한국AI부동산신문",
+    "published": "2026-05-23",
+    "keyword": "인공지능교육",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "AI중점학교 확대에 따라, 정답 외 비판적 사고 과정 평가 필요성이 제기됨.",
+    "implication": "AI 활용 수업에서 학생들의 문제 해결 과정과 논리적 사고를 평가 기준으로 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "교원교육학회 ·교원대 경영연구소 공동포럼, 수습교사제·교권 회복 방안 논의",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=30250",
+    "source": "에듀프레스",
+    "published": "2026-05-23",
+    "keyword": "",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "교권"
+    ],
+    "summary": "한국교원교육학회·교원대 경영연구소 공동포럼에서 수습교사제 운영 분석과 교권보호 5법에 대한 교원 인식 분석을 통해 교권 회복 방안을 논의했다.",
+    "implication": "교권 보호 5법에 대한 교사들의 인식을 참고하여 학생 생활지도 시 발생할 수 있는 법적 문제에 대한 대비를 강화할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "교육부·개인정보위, 합동으로 교육정보기술(에듀테크) 개인정보 보호 실태점검",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wUlNwMWZNdHFWVGdoSXhZTHFxcE5fQ0hDa1l4V1pHV1psQ3A3STNBNzdaOUdhOEpOSElKNUJHekZuYnpCMlZhU1dIWlE1WDFEaGZtUnlSLWkwUUdlU1NnRkZMbw?oc=5",
+    "source": "대한민국교육신문",
+    "published": "2026-05-23",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "교육부와 개인정보위가 에듀테크 업체의 개인정보 보호 실태를 합동 점검한다.",
+    "implication": "수업에서 사용하는 에듀테크 서비스의 개인정보 처리방침을 꼼꼼히 확인하고, 학생 개인정보 보호에 더욱 신경 써야겠습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[2026 전북교육감] \"떠나는 전북교육, 찾아오는 명품교육으로\"…이남호, 첫 주말 전주·완주·남원 릴레이 유세",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBqakQxQlcwdEtpNHY0Wk1TTDVyRmtpbGY1V2JTcmJpRmNzaUxGT3N2clh3UG5CX29MTXk3OE1JOVdMbUtkVW1mMGFlQzZ1bGRDT3VHeU1GNkVfTFlxYll3?oc=5",
+    "source": "전북미래교육신문",
+    "published": "2026-05-23",
+    "keyword": "에듀테크",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "전북교육청",
+     "교육감 선거"
+    ],
+    "summary": "이남호 전북교육감 후보가 전북 교육을 명품 교육으로 만들겠다며 주말 동안 전주, 완주, 남원에서 유세를 펼쳤습니다.",
+    "implication": "교육감 후보의 공약을 통해 지역 사회 연계 교육과정 운영 방안을 고민해 볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[2026 전북교육감] \"성적표가 아닌 성장표로\"…천호성, 미래형 평가 정책 발표하며 정읍·고창 민심 공략",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUU19jWFJIdXhfWmE5Wjg1VnBjUmhUR21aX2dmYngwYWYteTR3OUJTQkZmYVphQmFnLVJLS25SUDYyaS1fQ2NjNTFWaXJCczZTM3FPOVIxdC1RVy0wYi1F?oc=5",
+    "source": "전북미래교육신문",
+    "published": "2026-05-23",
+    "keyword": "AI활용수업",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "전북교육청",
+     "교육감 선거"
+    ],
+    "summary": "천호성 전북교육감 후보가 정읍·고창에서 성적표가 아닌 성장표 중심의 미래형 평가 정책을 발표하며 민심을 공략한다.",
+    "implication": "학생의 성장을 기록하고 피드백하는 성장 중심 평가 방법을 수업에 도입하여 학생 개개인의 발전 과정을 지원할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "“스마트팜으로 키운 채소, 씨글라스로 만든 공예”…매교초병설유치원, 생태환경교육 눈길",
+    "url": "https://www.edpl.co.kr/news/articleView.html?idxno=20716",
+    "source": "교육플러스",
+    "published": "2026-05-23",
+    "keyword": "",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "매교초병설유치원은 스마트팜과 업사이클링 체험을 결합한 생태·환경교육 프로그램을 운영하여 미래형 유아교육 모델로 주목받고 있다.",
+    "implication": "유치원 스마트팜 운영 사례를 참고하여, 교실 내 작은 텃밭이나 수경재배 키트를 활용한 생태 교육을 시도해 볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "광주교육시민연대, 통합특별시 교육정책 제안",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE52MjNTZjJfZWNLM2lWZFlPMlhhVTNENWE1SkVWalMxU25QVlNTS3gyeTktTG8yNnpjdHlDTVhyMVNtM1kwOTJmUA?oc=5",
+    "source": "브런치",
+    "published": "2026-05-23",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "광주시교육청"
+    ],
+    "summary": "광주교육시민연대가 광주 통합특별시에 적용할 교육 정책을 브런치에 제안했다.",
+    "implication": "지역 통합에 따른 교육 불균형 해소 방안을 고민하고, 수업에서 지역 사회 연계 활동을 강화할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "[K-VIBE] 임기범의 AI혁신 스토리…AI가 쓴 논문보다 무서운 것-②",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzVC0zdHZRWlBqRkZiRlBJcXYyeUUxTHJpM0s2OVNUNXF4eGhHR2IyMjRoUnY1R2RmdGNLRFJFNzVUai1EVFpQQnQ0V3hFbng0c1dSdEJuUXVobGctcG9aVdIBYEFVX3lxTFBzVC0zdHZRWlBqRkZiRlBJcXYyeUUxTHJpM0s2OVNUNXF4eGhHR2IyMjRoUnY1R2RmdGNLRFJFNzVUai1EVFpQQnQ0V3hFbng0c1dSdEJuUXVobGctcG9aVQ?oc=5",
+    "source": "연합뉴스",
+    "published": "2026-05-23",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "임기범의 AI 혁신 스토리 두 번째 기사로, AI가 작성한 논문보다 더 무서운 점에 대해 다룬다.",
+    "implication": "AI 활용 윤리 및 비판적 사고 교육의 중요성을 강조하여 학생들이 정보 분별력을 키우도록 지도할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "군포시, 시니어 대상 '생성형 AI 자서전 만들기' 무료 교육 6월 9일 개강",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBNRFVRaUxGQ194dGZYQzIxRHVGTnQwbUV0Vl96TXRaVHpUQjQxT3NmWFZvOElKMms3X3hqQnFnbFFjUEE?oc=5",
+    "source": "한국공공정책신문",
+    "published": "2026-05-23",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "군포시가 6월 9일부터 시니어를 대상으로 생성형 AI를 활용한 자서전 만들기 무료 교육을 실시합니다.",
+    "implication": "학생들에게 AI를 활용하여 자서전을 쓰도록 하는 활동을 통해 자기 이해 및 표현 능력을 향상시킬 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "전남교육청, 모로코 교원과 AI·디지털수업…교류 확대",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTTBJQ2F3MUNGUDR3b1BOTGpLUjBIMnJ0V2NGZW5laGNwdGFaSUdUUjRRR3BkTi03VXFadnNOMEZNVC02b3RfNzNHaW9pb1JwdzZvM0hWZU9OWU1BdW5xUExTZEZaTTBMVE1RNzJ6YnBxaV9rX3BUdWRDUW9KVngzdWwzZEVNakxGX0JTWWlJNA?oc=5",
+    "source": "호남교육신문",
+    "published": "2026-05-23",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "전남교육청"
+    ],
+    "summary": "전라남도 교육청이 모로코 교원과 인공지능 및 디지털 수업 관련 교류를 확대한다.",
+    "implication": "모로코 교사들의 AI·디지털 수업 활용 사례를 벤치마킹하여 수업에 적용해 볼 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "INCLUSIVE INSTRUCTIONAL STRATEGIES FOR A FASHION PRACTICUM COURSE IN UNIVERSITY",
+    "url": "https://doi.org/10.21831/hej.v10i1.96944",
+    "source": "openalex",
+    "published": "2026-05-22",
+    "keyword": "",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [
+     "특수교육"
+    ],
+    "summary": "본 연구는 패션 실습 수업에서 차별화된 과제, 간소화된 지침, 개인 맞춤형 감각 자극을 통해 인지적, 정서적, 감각적 차원을 통합하는 적응형 교수 설계가 특수 교육 요구 학생들의 참여와 학습 접근성을 향상시켜 지속 가능한 포용과 취업 준비를 가능하게 함을 밝혀냅니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Siti Zahro, Didik Nurhadi 외 1명",
+    "pdf": "https://journal.uny.ac.id/index.php/hej/article/download/96944/25499"
+   },
+   {
+    "n": 2,
+    "title": "Research on the Factors Influencing the Impact of Artificial Intelligence (AI) Applications on the Learning Process of Students at Selected Universities in Hanoi",
+    "url": "https://doi.org/10.62225/2583049x.2026.6.3.6357",
+    "source": "openalex",
+    "published": "2026-05-21",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 하노이 대학생들의 학습 과정에 인공지능(AI) 활용이 미치는 영향 요인을 분석하여, 베트남 교육 문화에 적합한 AI 교육 모델 개발 및 법적, 실질적 문제 해결 방안을 제시하고, 궁극적으로 고등 교육의 질을 향상시키는 데 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Nguyen Kieu Anh, Ngo Thuy Linh 외 1명",
+    "pdf": "https://www.multiresearchjournal.com/admin/uploads/archives/archive-1779350625.pdf"
+   },
+   {
+    "n": 3,
+    "title": "From rules to language models: a comparative study of chatbot learning assistants",
+    "url": "https://doi.org/10.3389/feduc.2026.1794807",
+    "source": "openalex",
+    "published": "2026-05-21",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "LLM"
+    ],
+    "summary": "본 연구는 대학생 대상 챗봇 학습 보조 시스템의 효과를 준실험적으로 분석하여, 학업 성취도 향상은 미미하지만 긍정적인 사용자 경험과 LLM 기반 챗봇의 향상된 참여 유도 가능성을 확인했으며, 이는 교육적 활용 가치를 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Pavel Smutný, Petra Schreiberova",
+    "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1794807/pdf"
+   },
+   {
+    "n": 4,
+    "title": "Integrating AI into undergraduate medical education: an exploration of learner-centered approaches through AI",
+    "url": "https://doi.org/10.3389/fmed.2026.1824069",
+    "source": "openalex",
+    "published": "2026-05-22",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [
+     "추론 모델"
+    ],
+    "summary": "AI 기반 환자 시뮬레이션이 의대생의 학습 참여도와 임상 추론 능력 향상에 긍정적인 영향을 미치며, 효과적인 커리큘럼 통합 및 윤리적 고려에 대한 교육이 필요함을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Blaine A. Jacobs, Leslie Cano 외 1명",
+    "pdf": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1824069/pdf"
+   },
+   {
+    "n": 5,
+    "title": "GENERAL EDUCATION COURSES OF DIGITAL ARCHITECTURE AND URBAN COGNITION IN ARCHITECTURE UNIVERSITIES BASED ON KNOWLEDGE GRAPHS",
+    "url": "https://doi.org/10.61784/wjit3105",
+    "source": "openalex",
+    "published": "2026-05-22",
+    "keyword": "",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 지식 그래프 기반의 \"디지털 건축 및 도시 인지\" 교양 교육 과정 프레임워크를 제시하여 디지털 도구 활용 능력뿐 아니라 도시를 복합적이고 인지 가능하며 문화적으로 의미 있는 환경으로 이해하도록 돕고, 건축 교육의 새로운 생태계를 형성하는 데 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Lei Zhang, JieQing Xu 외 1명",
+    "pdf": "https://upsjournals.com/wjit/article/download/2568/2301"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "엔비디아 차세대 AI 서버 한대에 '118억'... 메모리 값만 30억 육박",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210866",
+    "source": "AI Times",
+    "published": "2026-05-23",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA"
+    ],
+    "summary": "엔비디아 차세대 AI 서버의 초고가는 AI 개발 비용 상승을 가속화하여, 자본력을 갖춘 소수 기업 중심으로 AI 기술 경쟁이 심화될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "오픈AI, '코덱스' 업데이트로 맥락 파악·자율성 강화...\"맥북 닫아도 작동\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210864",
+    "source": "AI Times",
+    "published": "2026-05-23",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "코딩 AI"
+    ],
+    "summary": "오픈AI의 코덱스 업데이트는 AI 코딩 도구의 자율성 강화와 활용 범위 확대를 통해 개발 생산성을 혁신적으로 향상시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[AI 이슈트렌드] 삼성전자 파업·스타벅스 '5·18 비하' 파문에 관심 집중",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210867",
+    "source": "AI Times",
+    "published": "2026-05-23",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "삼성"
+    ],
+    "summary": "삼성전자 파업과 스타벅스 논란은 AI 기술 도입과 무관하게 기업의 사회적 책임 및 윤리 경영이 기술 경쟁력만큼 중요해지는 시대임을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "피차이 \"구글 코딩, 타사에 뒤져...데이터 선순환 구조로 역전할 것\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210871",
+    "source": "AI Times",
+    "published": "2026-05-23",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Google",
+     "코딩 AI"
+    ],
+    "summary": "구글이 데이터 선순환 구조를 통해 코딩 경쟁력 열세를 극복하겠다는 전략은 AI 모델 성능 향상 및 생태계 확장에 중요한 변수가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "스포티파이, ‘AI 리믹스’ 시대 선언...“음악 감상 넘어 직접 만든다”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210865",
+    "source": "AI Times",
+    "published": "2026-05-23",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [],
+    "summary": "스포티파이의 AI 리믹스 기능은 음악 산업의 창작 패러다임을 변화시키고 사용자 참여를 극대화하여 AI 기반 콘텐츠 플랫폼 경쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "앤트로픽, FDE 담당할 스타트업 인수로 기업용 AI 시장 공략",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210860",
+    "source": "AI Times",
+    "published": "2026-05-23",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Anthropic"
+    ],
+    "summary": "앤트로픽의 FDE 스타트업 인수는 기업 데이터 보안 및 개인 정보 보호를 강화하여, 엔터프라이즈 AI 시장 경쟁력을 높이는 전략적 행보입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "[오늘의 게임·IT 소식]두나무, AI 에이전트용 API 활용 지침 '업비트 스킬' 출시 外 : 네이버 블로그",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPalJLRnN2OUNNNGNzUFpySHhQZHl4VWFGLVg2cmxaeUZLMjVtQjVGNUc0MFB2U0xrUmVnVm5mdW1FQl8wYkk0RXgxTlR6bDBCeTNLb0hiX1FMS0NpOEd1YnNmZ2l4M0VMei1KemJPLUpxVUU3NHFLWVpBNm11VGJETi1zeHp0LWdLa1FKMFBRaw?oc=5",
+    "source": "Naver Blog",
+    "published": "2026-05-24",
+    "keyword": "API",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "에이전트",
+     "네이버"
+    ],
+    "summary": "두나무의 '업비트 스킬' 출시는 금융 AI 에이전트 시장 활성화 및 API 경제 확산을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "\"재주는 챗GPT가 넘고 돈은 애플이?\"…AI 앱 수수료로만 1조원 `훌쩍`",
+    "url": "https://news.google.com/rss/articles/CBMiggdBVV95cUxPeUNXV1pCaDhPWEZBVmRzTUZvdkM2UWJvR2lJb0FWYk83dlRIbkcyN3AxTjR4Q1FWejBONmV1VEJKMG9NVkVFeGZGemFMeXdXcHJ5ci1ja2VqUWk3OEpwQ2d6M3VySjZ3VUJZNHpvTGpMY2RLbmhVenVuLTRZbjVVVzliN1RTTmpaaWZMVE1XTzVXNkZpS3NWNVpfZEtQTW1oNlVINEtBek5QbTExbTFBbzBNMFI4azdYbVpCR3dKM1ppTlFzNU9LQ3F2cU5zcEpuMmdfcEtDRkV5Y3lrVDlidEcydEdLenVsMEQ0WkNhT2pHdjZKMExiTWYtX1BJS2R1Nk9ET2RwTUdxR25BUXlrWm9FWHFYcFUzTDV5NFB4enI3aVpmbU1TbF9sQjg2VGtEWkxHQlItaVJza29ac3NrV3MzOWFqWWdEbjZmREYzOUpERVpsa1REbEtaaTRNV3Z3QWNPUHhwck5sU1JxanBkaC1sd2tGSDVCVnNyU0xxeXdXQU1aV2d6S3Q3NjJFM0RaN2Q0WXF2NDFsLVg3eHlTOTRMa3I0SFl4bEJEcUd3Y1VUQ0F4TzVwaHBKTVUtMDVfRUplSEVKR1gwYVgwZkFGaFdTcVYzZ2dpTGQ1RWw4YWQ3UVlxLWQtcW94TTBESXFTaG1mVjByTVZPM093T3pZNHBpeEVzdHpYZjBBVENJa0dIYXNvYm12OUp5dURXNDBIVVNiNDVYZV9yeUxqZlNnMXRTeVJjcVo2LVNvZkhoY3BCMFZMeGVkT3prN0N6TWw1SmxhLXVfcGpKZXNUOWNCNmxyYm84US1zaTRSSHJ2UnVMZDZkb1IzY3pRUmJDVWV6UENYdXhtVzlVb1NfYTRUbWNpaDNMaFRPZVB6NmN3Ym4yRUFJQVBJbXlCSXdfeTdhUEw3MUZxX0labWI2ZEdyQXhXOWQtazB1NFY5MWRQTUNoWTJZQS12SmQ2TFFiVDh5Q2xVcjRpZUxWZWMyNlpIcmt1Rk9vRGg0NUFQZFJScElqUlU2eEdGZFFCcl9sLVRVMHJHYTVCeWRucUhqZ0JBcDFBY3k5TndNTmJNRTlZRWVaOXFQbFlfbEhvTEJfMnhac1d4NFdub0x6NGFzZlNKMVFBTVUtZDB1b1l6QkhpenNmYkVmaDdmOGxubm9qMTZQd0xkQmtjZzFFZ1pWNU1md2R3?oc=5",
+    "source": "디지털데일리",
+    "published": "2026-05-23",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Apple"
+    ],
+    "summary": "AI 앱 생태계에서 플랫폼 사업자의 수수료 정책이 AI 기술 개발 주체보다 더 큰 수익을 가져갈 수 있어, 장기적으로 AI 기술 혁신 동기를 저해할 수 있다는 점을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "[인공지능 줌인] 엔비디아가 밀던 AI 에이전트, 치명적 약점은 데이터 휘발성",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Kam9vNklsbGx2YlFPcndIVThTSGZkUDhBQ01VQ2l6RnUwRVlIX2E3NlpqaDNBYmx5M0lnSzBLa3dHSnZtc0tkNm9zNXg1dEpoaDNMZE8zZ0tEQTNkaUlxdjVfTTBOQ0k2NG1reTRGYw?oc=5",
+    "source": "위키리크스한국",
+    "published": "2026-05-23",
+    "keyword": "인공지능",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "에이전트",
+     "개인화 학습"
+    ],
+    "summary": "엔비디아가 추진하는 AI 에이전트의 데이터 휘발성 문제는 지속적인 학습 및 개인화된 서비스 제공에 제약으로 작용하여 AI 에이전트 발전의 중요한 과제가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "Deepseek makes its 75 percent discount permanent, pricing output tokens at least 34x below GPT-5.5",
+    "url": "https://the-decoder.com/deepseek-makes-its-75-percent-discount-permanent-pricing-output-tokens-at-least-34x-below-gpt-5-5/",
+    "source": "The Decoder",
+    "published": "2026-05-23",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "Deepseek의 파격적인 가격 정책은 AI 모델 시장 경쟁 심화를 촉발하고, 비용 효율성을 중시하는 고객층을 중심으로 시장 재편을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

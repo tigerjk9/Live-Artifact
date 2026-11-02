@@ -1,0 +1,417 @@
+{
+ "date": "2026-07-31",
+ "generated_at": "2026-11-02T11:40:47+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[홍산로 오피니언] 일본 유토리 교육의 교훈, 전북교육 혁신정책이 새겨야 할 것",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LSXg4U0VkZGctZVVFdnVxd1hUQi1DSkRCeGVSNldvdzRDazdqS1pQME5fTVRGR0Izd1ZGT2VjSWdCdFF5NW9FN203VFlRTFZabWw0ZHJ1MElDR3JyN2I0?oc=5",
+    "source": "전북미래교육신문",
+    "published": "2026-07-30",
+    "keyword": "교육혁신",
+    "topic": "global",
+    "kind": "opinion",
+    "entities": [
+     "전북교육청"
+    ],
+    "summary": "전북 교육 혁신 정책이 일본 유토리 교육의 교훈을 새겨야 할 필요성을 다룹니다.",
+    "implication": "유토리 교육의 교훈을 참고하여 학생 참여 중심의 다양한 수업 방식을 모색할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "예비교사도 AI로 수업 설계한다… 제주대, 교육부 사업비 3억3000만원 확보",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtanRBQ1E4cEpRTkZ6QUFPVGltcGl3empNS09qVE1mSmhpT012c0pJZi1hQ3g5Y2RLM0sycVhCanFHeEFHeWxRNTh5MnJjVVk?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-07-30",
+    "keyword": "인공지능교육",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "제주대가 교육부 사업비 3억 3천만원을 확보하여 예비교사에게 AI 활용 수업 설계 교육을 제공합니다.",
+    "implication": "현장 교사들도 AI를 활용하여 수업 준비 시간을 단축하고 수업의 질을 높일 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "고교학점제 만족도 3.80점 발표에 교사노조 \"숫자의 착시\" 반박",
+    "url": "https://www.edpl.co.kr/news/articleView.html?idxno=21205",
+    "source": "교육플러스",
+    "published": "2026-07-30",
+    "keyword": "",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "고교학점제",
+     "교원단체",
+     "평가원"
+    ],
+    "summary": "평가원이 고교학점제 만족도 3.80점을 발표했으나, 교사노조는 소인수 과목 제외 및 조사 방식의 한계를 지적하며 신뢰성에 의문을 제기했다.",
+    "implication": "고교학점제에서 학기 단위로 나뉜 과목들의 연속성 단절 문제를 인지하고, 수업 설계 시 학생들의 학습 흐름을 고려할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "지역인재부터 AI 교실혁신까지…강원교육, 미래교육 생태계 구축 속도",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RSnhMVDhRNE9BeVU0MGJfX0JKQnRoTFFMOW01clNmWUd2Q194cUx3WHFENlZFQ1B0UnpMcVRHN0Z2dDhNZ2hoMkVxRGZreHpHR0tfQVdoc3V1VWlSeFhsS0Q5UzNORUdG?oc=5",
+    "source": "강원신문",
+    "published": "2026-07-30",
+    "keyword": "AI교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "강원교육청"
+    ],
+    "summary": "강원교육은 지역인재 육성과 AI 교실 혁신을 아우르는 미래교육 생태계 구축에 속도를 내고 있습니다.",
+    "implication": "AI 교실혁신 흐름에 맞춰 다양한 AI 도구를 활용하여 학생 맞춤형 수업을 설계할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "백영현표 교육정책 결실…사교육 없는 포천형 교육도시 실현 속도 내",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPNl96d1hFLUU4NlNLQVl1LUM0UnROd09CdzVUb00yQmdXMmE2TjlUT2NTckh6Ym5vR3pQZml4N3c5UlNvS1k0eHV4eUtFUVNoYmNTV1d1NGQwNUF6ejk1cDBZU3hBZw?oc=5",
+    "source": "포천일보",
+    "published": "2026-07-30",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "사교육"
+    ],
+    "summary": "백영현표 교육정책이 사교육 없는 포천형 교육도시 실현에 속도를 내며 결실을 맺고 있다.",
+    "implication": "학교가 사교육 의존도를 낮추기 위해 지역 특색을 살린 수업 방안을 모색할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "엄승용 보령시장, 학부모와 타운홀미팅…'아이 키우기 좋은 보령' 교육정책 소통",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DSnRlSnQ4aGhUbmVyMlhfTlJ5MnE0aWJPcUprd3FlSGhUNFpxSWtlZUtFaFJsSGxEMHVvZmpUSHlXVHpqR2YyR09CakFkYzVrRVhQeExn?oc=5",
+    "source": "뉴스21 통신",
+    "published": "2026-07-30",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "엄승용 보령시장이 학부모와 타운홀미팅을 통해 '아이 키우기 좋은 보령' 교육정책을 소통했습니다.",
+    "implication": "지역 교육의 현안을 학생들이 직접 찾아보고 토론하는 학습 활동으로 연결할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "전남광주통합특별시교육청 시민소통위원회, 교육정책 114건 미래 청사진 제시",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55R2hDeHRaNnFmemVwWG9YYXA3SVM1MnlWZUlHLTAxbXlIMVl3ME1HTkhQRzg5YTUxZmZMUXJDVGE0S3RlWDlTZkpLOHFiR2dkNEhCemptWnFhQnUzeVpxdzl3YzBLUnFLTFNYMXlB?oc=5",
+    "source": "전국매일신문",
+    "published": "2026-07-30",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "전남광주통합특별시교육청 시민소통위원회가 114건의 교육정책 미래 청사진을 제시했다.",
+    "implication": "시민소통위원회가 제시한 교육정책을 통해 우리 지역의 미래 교육 방향을 학생들과 논의할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "경남교육청, 인공지능(AI)·디지털 기반 ‘깊이 있는 수업’ 설계 역량 강화",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNWjlNYy1VMWZwcS1XQjdzTVBfNHloX0w4U21ES0dQcHc3TGZiR3dmY1Z2T2hzV1hJYmhlYldBUlhfUTRSOTJiUDF6YlV4WWtPazVsUUVnblBCclB3NEh2eGJUenR1V2FZbnc?oc=5",
+    "source": "경남도민일보",
+    "published": "2026-07-30",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경남교육청"
+    ],
+    "summary": "경남교육청은 AI·디지털 기반 '깊이 있는 수업' 설계를 위한 역량 강화에 나섭니다.",
+    "implication": "AI·디지털 도구를 활용해 교과 내용을 심화하고 학생 맞춤형 활동을 설계할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "부산시교육청, 전국 최초 AI 통합 로그인 '펜즈(PENZ)' 전면 도입",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjVHdydUdKY2VxU3dKWmcyZVNubkNjcWFadkNJMDYycmhTbF9nY3c2LURFaGpLbS1mbVVLTkhOeVhZUnU5OXdmRnNiQ1E5M1ZoWlJYSklDclp1RnFhMU5FMjRvR0IybVN5?oc=5",
+    "source": "복지TV부울경방송",
+    "published": "2026-07-30",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "부산시교육청"
+    ],
+    "summary": "부산시교육청이 전국 최초로 인공지능(AI) 기반 통합 로그인 시스템인 '펜즈(PENZ)'를 모든 학교에 전면 도입했습니다.",
+    "implication": "AI 통합 로그인 시스템을 활용하여 학생들이 수업 중 디지털 학습 자료에 쉽고 빠르게 접근하도록 지원할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "경기도의회 조병진 의원, 경기도교육청 업무보고서서 안심 에듀버스 및 기본계획 정밀 점검 > 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5NZjQ0ZUtNdWwyYnE5dVJQRjYydTBoY3V2VzlvUF9WU3FNNEZxNV9nNENsUkVVLXZneVdUYUIwYVpBUE0?oc=5",
+    "source": "더코리아",
+    "published": "2026-07-30",
+    "keyword": "에듀테크",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도의회 조병진 의원이 경기도교육청 업무보고 중 안심 에듀버스 및 기본계획을 정밀 점검했습니다.",
+    "implication": "안전한 통학 버스 이용의 중요성을 학생들과 함께 이야기해 볼 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "A study of Hong Kong home economics teachers’ adoption of information and communication technologies",
+    "url": "http://eprints.usq.edu.au/19535/2/Ho_2010_whole.pdf",
+    "source": "openalex",
+    "published": "2026-07-28",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "이 연구는 홍콩 가정과 교사들의 ICT 도입에 영향을 미치는 요인과 장애물을 설문조사, 인터뷰, 관찰로 분석하여, 21세기 학생 중심 교육을 위한 효과적인 ICT 통합 방안을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Kitty Ho",
+    "pdf": "http://eprints.usq.edu.au/19535/2/Ho_2010_whole.pdf"
+   },
+   {
+    "n": 2,
+    "title": "Editorial: Educational leadership and sustainable development",
+    "url": "https://doi.org/10.3389/feduc.2026.1937258",
+    "source": "openalex",
+    "published": "2026-07-28",
+    "keyword": "Connectivism",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 지속가능발전교육(ESD) 실현을 위한 교육 리더십의 필수적인 연관성을 강조하며, 다양한 연구 사례 분석을 통해 지속가능하고 포용적인 교육 시스템 구축에 리더십이 미치는 영향을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Mayra Urrea-Solano, Gisela Cebrián 외 1명",
+    "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1937258/pdf"
+   },
+   {
+    "n": 3,
+    "title": "Post-Pandemic Mathematical Learning Recovery: A Narrative Review of Targeted Intervention Strategies in United States Secondary Education",
+    "url": "https://doi.org/10.65150/ep-jsshrs/v2e7/2026-41",
+    "source": "openalex",
+    "published": "2026-07-28",
+    "keyword": "edtech",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "팬데믹 이후 수학 학습 회복을 위한 교육 개입은 불평등과 데이터 기반 예측을 통합적으로 고려하는 조정 문제이며, AI 플랫폼 활용을 포함하여 형평성 있는 학습 지원을 목표로 해야 함을 논합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Gabriel Acheampong, Adwoa Agyeiwaah Ampomah Britwum",
+    "pdf": "https://jsshrs.ep-journals.org/index.php/jsshrs/article/download/294/233"
+   },
+   {
+    "n": 4,
+    "title": "Optimizing the Application of Artificial Intelligence in High School Learning Communication Strategies",
+    "url": "https://doi.org/10.61194/ijss.v7i3.2076",
+    "source": "openalex",
+    "published": "2026-07-29",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "질적 혼합 연구로 고등학교 AI 학습 소통 전략 최적화를 탐구한 이 논문은 AI가 맞춤형 교육과 실시간 피드백으로 학습을 심화시키지만, 인프라와 교사 역량 강화를 통해 포괄적이고 데이터 기반의 학습 환경을 구현해야 함을 제언합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Daniari Setiawati, Ahmad Fitriasari 외 1명",
+    "pdf": "https://ilomata.org/index.php/ijss/article/download/2076/1258"
+   },
+   {
+    "n": 5,
+    "title": "Perspectives of special education teachers on AI-enabled technologies: accessibility, inclusion, and professional development needs",
+    "url": "https://doi.org/10.1007/s10209-026-01370-3",
+    "source": "openalex",
+    "published": "2026-07-28",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "교사 연수",
+     "특수교육"
+    ],
+    "summary": "특수교사들은 AI 기술이 개인 학습에 유용하지만 접근성, 데이터 프라이버시, 편향성 문제를 제기하며, 특수교육의 형평성과 포괄성 증진을 위해 미래 AI는 맞춤 개발과 전문성 함양이 필요하다고 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Marie Sakowicz, Foad Hamidi",
+    "pdf": "https://link.springer.com/content/pdf/10.1007/s10209-026-01370-3.pdf"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "스페이스XAI, 차세대 음성 모델 '그록 보이스 싱크 패스트 2.0' 출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213360",
+    "source": "AI Times",
+    "published": "2026-07-30",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "xAI"
+    ],
+    "summary": "오피니언: 스페이스XAI의 차세대 음성 모델 출시는 AI의 다중 모달 능력을 강화하여 대화형 AI의 상호작용 경험을 혁신할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "PwC, AI '환각 보고서' 파문...존재하지 않는 논문·가짜 출처 수두룩",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213362",
+    "source": "AI Times",
+    "published": "2026-07-30",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "AI가 생성하는 정보의 신뢰성 확보와 인간 검증의 중요성이 AI 산업의 핵심 과제가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "OpenAI claims GPT-5.6 Sol beats Opus 5 on ARC-AGI-3 with its latest API and two additional settings",
+    "url": "https://the-decoder.com/openai-claims-gpt-5-6-sol-beats-opus-5-on-arc-agi-3-with-its-latest-api-and-two-additional-settings/",
+    "source": "The Decoder",
+    "published": "2026-07-30",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "OpenAI의 최신 모델이 API 및 설정 최적화로 경쟁 우위를 점한 것은 AI 성능 경쟁 심화와 시스템 활용 전략의 중요성을 부각할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "챗GPT의 아버지… 인류는 이미 ‘AI 특이점’에 진입했다",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213368",
+    "source": "AI Times",
+    "published": "2026-07-31",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "AI 특이점 진입은 산업 생태계를 근본적으로 재편하고 혁신 경쟁을 극대화하며 새로운 가치 창출 기회를 폭발적으로 증대시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "LG AI연구원, 7500억 파라미터 'K-엑사원 2.0' 오픈소스 공개",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uRmI5N3p4ZXhfcTNZT3hVclhhdGJRVWI3MzdHSmEtd3N6NmRkcDduU2FuRkNIYlM3QnFsRmZ0Wjg2Q2xmUktxZ2F5dU5VTHFpRklV?oc=5",
+    "source": "네이트",
+    "published": "2026-07-31",
+    "keyword": "오픈AI",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "LG",
+     "오픈소스"
+    ],
+    "summary": "LG K-엑사원 2.0 오픈소스 공개는 초거대 AI 기술의 접근성을 높여 국내 AI 생태계 혁신과 성장을 크게 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "How AI is expanding what people do at work",
+    "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+    "source": "OpenAI Blog",
+    "published": "2026-07-27",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [],
+    "summary": "AI는 인간 업무의 확장 및 재정의를 통해 AI 기술 생태계의 새로운 시장과 성장 동력을 창출할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "'모두의 AI' 공모 마감 일주일 연장…8월18일까지",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213374",
+    "source": "AI Times",
+    "published": "2026-07-30",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "\"모두의 AI\" 공모 마감 연장은 AI 기술 저변을 확대하고 다양한 참여와 혁신 아이디어를 발굴하여 AI 생태계 성장을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "AI 실적, 구글·MS 웃고 메타 울었다…아마존·엔비디아로 이어지는 시험대",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GRVhZQTdZTzRxVmhILU1HQmdCTTBfMElkeVU1ZlZUeVRCSEVQdTVXdEVXN1JHQThqVHdNemFRLWM5dGVqQnYxR1ZGX0F5SkNqOU4wMS1TTTlLQ19DU2pPLUtfaXp6ekN5SGFMN0JB?oc=5",
+    "source": "중소기업신문",
+    "published": "2026-07-30",
+    "keyword": "구글",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Microsoft",
+     "Meta",
+     "Amazon",
+     "NVIDIA"
+    ],
+    "summary": "AI 시장의 성패는 기술 개발을 넘어 실질적 비즈니스 성과와 수익성을 입증하는 능력에 달려있을 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+    "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+    "source": "OpenAI Blog",
+    "published": "2026-07-29",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "ChatGPT의 학술 연구 활용은 AI가 전문 분야 생산성을 극대화하고, AI 산업의 수직적 확장 및 고부가가치 창출을 가속할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "Introducing the ChatGPT for small business program",
+    "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+    "source": "OpenAI Blog",
+    "published": "2026-07-21",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "중소기업 시장 진출은 AI 기술의 상업적 확산과 대중화를 가속화하여 AI 생태계의 성장을 견인할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

@@ -1,0 +1,417 @@
+{
+ "date": "2026-04-06",
+ "generated_at": "2026-11-02T11:54:37+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[시론] 태재대는 왜 ‘한국형 미네르바’가 되어야 했나",
+    "url": "https://news.unn.net/news/articleView.html?idxno=591014",
+    "source": "한국대학신문",
+    "published": "2026-04-06",
+    "keyword": "",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [
+     "교육부"
+    ],
+    "summary": "태재대학교를 둘러싼 다양한 관점과 평가가 있다. 3년 전 교육부의 인가를 받은 태재대는 하나의 새로운 대학 출현 이상의 의미가 있다. 한국 사회는 오래전부터 대학의 비효율, 암기 위주의 학습, 산업 변화에 뒤처진 교육과정, 경직된 구조를 비판해 왔다. 이 가운데 우리나라에서 미네르바대학교는 강력한 마케팅·브랜딩 전략을 앞세워 어느덧 가장 혁신적인 대학의 상",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[아주사설 | 기본·원칙·상식] 교육부는 이제 환골탈태의 정신으로 개혁에 나서라 ③",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40dVlDUEJfbHU1ZnF4TFpJUUpOMnR2eFk3R0ExaHNUTTV5d19zOXMyQlVnYjVPcTBSay1OWVBQaGw0M0MzMGVwN1UzUHFqeFplUGI0?oc=5",
+    "source": "네이트",
+    "published": "2026-04-05",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [
+     "교육부"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 3,
+    "title": "[Pocus 칼럼] 혁신이라 믿었던 K-교육 AI 플랫폼, 멈칫한 굥교육 틈이 위험하다",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wM2MyZTNGSjczRE9uT0Q5NkdiSHpUOHZTZU5sV2daWVpqMW9MVk9vY3o3X0xQWFVwWEF0d09vMmVORGx6X1EtZ0t6MXl3ekk?oc=5",
+    "source": "환경감시일보",
+    "published": "2026-04-05",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 4,
+    "title": "[강민경의 뇌과학연구소]33장. 장난과 무례함 사이, 내 마음의 신호 읽기",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoZlRGay1JSlBJTEh2ang2VGpJSE0zb3praHQ4blJXNFUwWE5CVHh0V2pFejc4d25qbnNoWlNGRHRjdXhHZnMtZm1jazJjc2dqS3ZmdjBfSEM5WEJ0cEVhY0NZMmJXRXh5VUHSAW5BVV95cUxQRlBMVlR0bVdCYWY5eDFBYTNXcU5fekFoWTNsNVZ5YXgwVFZheEdFS2ZHNmxYUlE2Vy1IWGR6a3JuM1pIdGtEN2pHakxJMGdlTy1uUnFOeTlyeWdZckdrcWxjR2d5eDJGQVlfakJpUQ?oc=5",
+    "source": "주간평택",
+    "published": "2026-04-05",
+    "keyword": "뇌과학",
+    "topic": "global",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 5,
+    "title": "뇌과학과 심리학",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3eXFSRzUzNkgxbElBOVpINzQxY3RBaUhSbElLLWgtZjF5TlFKamlxZTU0R1FMcXJnTzdwZ2FNLVRiekVYdGlCRXJhclh5bEU0OVE?oc=5",
+    "source": "브런치",
+    "published": "2026-04-05",
+    "keyword": "뇌과학",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 6,
+    "title": "경기도교육청, 중등 수학교사 연수 실시…AI·에듀테크 수업 확대",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55M04taHpvMVc1azk5aUNnUm9mUXNSZEtPWHBTQUNTRUlZMFdmeURza2RteVllc2J4Ukx3SWZnd0ZnUlFUdlBUZWlVV0F6TmtXQmdkNl9wMjVPeGkzQkhwLVZ5TUFZMU5mVGhr?oc=5",
+    "source": "비즈월드",
+    "published": "2026-04-05",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "교사 연수"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 7,
+    "title": "경기도교육청미래과학교육원, AI·에듀테크 수학연수 실시",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tcEcxaVgydG80ZWVOckZNTXlKZ0c0NlFFUGlIbjdTbDJCVDBGNV8yUHFZTDNLVldiV3B4LTA5SWtIY2RlSkxxcE5xcVFEeTFOLVRWTXp0Qy1MaUd0VGg5OA?oc=5",
+    "source": "메트로신문",
+    "published": "2026-04-05",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "경기도교육청미래과학교육원, ‘2026 중등 수학교사 직무연수’ 운영",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1EV3pPaVpiVzNTbS1wTk9ma25hc1MxdWJZT1g1RWV0d2lsd3dQQzZGX29IMXl4dDFuLVFUWng3dXBYQUJ2VER2S0s2NDhNTFhiT0JQd1hnWUQzbTJJMlFPMEtKWk9TbmM2YTlMUjFJTQ?oc=5",
+    "source": "기호일보",
+    "published": "2026-04-05",
+    "keyword": "에듀테크",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "전교조 세종지부 “교육부 AI기술 도입… 학교를 사교육 복제물로 만들어”",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sVFZkeFE0eE9xMnFEVk9nWnA3em5ySUJJNDRnVTVwczRnTWNkN3ZpZjNqNnJwejBVSlRrQlN1bnJWMWRoN3htOTNKVFhVOXF1R1BLZ0JSM0JheXF6TkFEZHZldFlYclBYMXRxekhR0gFuQVVfeXFMT2xUVmR4UTR4T3EycURWT2dacDd6bnJJQkk0NGdVNXBzNGdNY2Q3dmlmM2o2cnB6MFVKVGtCU3VuclYxZGg3eG05M0pUWFU5cXVHUEtnQlIzQmF5cXpOQURkdmV0WVhyUFgxdHF6SFE?oc=5",
+    "source": "중부매일",
+    "published": "2026-04-05",
+    "keyword": "에듀테크",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교원단체",
+     "교육부",
+     "사교육"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 10,
+    "title": "유은혜, 경기도교육감 단일화 토론서 ‘준비된 후보’ 강조",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tMFFwbEg0LUhIOC1kWlJHNFo1aEtKOEl2MXA4UFJweHRsVVZIblItUjV3V2ZuOFhlUjBxbGZqNnU5XzZKR1ZVYmlac1I1Y2M?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-04-05",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Personalized Education through Individualized Pathways and Resources to Adaptive Control Theory-Inspired Scientific Education (iPRACTISE): Proof-of-Concept Studies for Designing and Evaluating Personalized Education",
+    "url": "https://www.semanticscholar.org/paper/4bceb454d1c93bd689fb96f326bcb0ea39dd8dab",
+    "source": "semantic_scholar",
+    "published": "2024-01-08",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "iPRACTISE는 적응 제어 이론에 기반하여 개인별 맞춤 학습 경로 및 자료를 제공함으로써, 통계, 수학, 데이터 과학 교육의 불균형을 해소하고, 대규모 학습 환경에서도 지속 가능한 개인 맞춤형 교육을 가능하게 하는 웹 앱 도구이며, 교육 효과를 향상시키는 데 기여할 수 있습니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Sy-Miin Chow, Jungmi Lee 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "[Retracted] Personalized Education Based on Hybrid Intelligent Recommendation System",
+    "url": "https://www.semanticscholar.org/paper/ace1939abf788aa56a3199faed471ea0e013dbfb",
+    "source": "semantic_scholar",
+    "published": "2022-01-17",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "본 논문은 학생 개인의 학습 준비도, 스타일, 흥미를 고려한 맞춤형 교육을 위해 통합 표준 교육 계획을 기반으로 인공지능 기반 하이브리드 추천 시스템을 제안하여, 교사가 학생 개개인의 요구에 최적화된 유연한 교육 프로그램을 제공하도록 지원합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Fang Zheng",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Using an adaptive learning tool to improve student performance and satisfaction in online and face-to-face education for a more personalized approach",
+    "url": "https://www.semanticscholar.org/paper/0937113c16be93e9414e9a5e8b698e06b36f293a",
+    "source": "semantic_scholar",
+    "published": "2024-02-05",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "본 연구는 대학 통계 강좌에서 적응형 학습 도구(CogBooks®)를 활용한 FIT 방식이 학습 성취도 향상에 기여하며, 특히 온라인보다 오프라인 환경에서 효과적이고, 학생 만족도 또한 높이는 것을 보여줌으로써 개인 맞춤형 교육의 가능성을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Monica F. Contrino, Maribell Reyes-Millán 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "A CEFR-Inspired Classification Framework with Fuzzy C-Means To Automate Assessment of Programming Skills in Scratch",
+    "url": "http://arxiv.org/abs/2604.00730v1",
+    "source": "",
+    "published": "2026-04-01",
+    "keyword": "pedagogical",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "본 논문은 스크래치 프로젝트 평가를 자동화하기 위해 CEFR 레벨 기반의 퍼지 C-평균 군집화 프레임워크를 제안하여 학습자의 역량 수준 진단 및 맞춤형 교육 경로 설계를 지원하고, 교육 과정 개선에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Ricardo Hidalgo-Aragón', 'Jesús M. González-Barahona' 외 1명",
+    "pdf": "http://arxiv.org/pdf/2604.00730v1"
+   },
+   {
+    "n": 5,
+    "title": "Smart Learning based on Moodle E-learning Platform and Digital Skills for University Students",
+    "url": "https://www.semanticscholar.org/paper/ce046948211815210341aef97f3f08fd55c93611",
+    "source": "semantic_scholar",
+    "published": "2022-03-16",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 코로나 팬데믹 이후 중요성이 증대된 무들(Moodle) 기반의 온라인 학습 플랫폼을 설계하고, 이를 통해 교수자와 학습자 모두에게 효과적인 교육 서비스 제공 및 디지털 기술 활용 능력 향상에 기여함을 목표로 합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "H. Alrikabi, N. A. Jasim 외 1명",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "넷플릭스, 물리 기반 AI 영상 모델 '보이드' 오픈소스 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208815",
+    "source": "AI Times",
+    "published": "2026-04-05",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "오픈소스"
+    ],
+    "summary": "넷플릭스의 '보이드' 오픈소스 공개는 AI 기반 영상 편집 기술 혁신을 가속화하고 콘텐츠 제작 산업 전반에 큰 영향을 줄 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "브록먼 오픈AI 사장 \"차세대 모델 '스퍼드'로 AGI 가시권 확보\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208809",
+    "source": "AI Times",
+    "published": "2026-04-04",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "오픈AI의 '스퍼드' 모델 개발은 AGI 실현 가능성을 높여 AI 기술 경쟁 심화와 산업 지형 변화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "아르시, 추론 모델 ‘트리니티-라지-싱킹’ 출시...에이전트 성능은 '클로드급'",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208804",
+    "source": "AI Times",
+    "published": "2026-04-04",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "추론 모델",
+     "에이전트",
+     "Claude"
+    ],
+    "summary": "아르시의 고성능 추론 모델 출시는 폐쇄형 모델에 대한 대안을 제시하며 AI 모델 생태계 경쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "메타 MSL, 스마트 안경과 별개로 'AI 전용 장치' 개발 중",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208807",
+    "source": "AI Times",
+    "published": "2026-04-04",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Meta"
+    ],
+    "summary": "메타의 AI 전용 장치 개발은 AI 비서 경쟁 심화와 함께 새로운 사용자 인터페이스 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "AI 공정성, 알고리즘 아닌 데이터 신뢰 점수 프레임워크가 결정한다",
+    "url": "https://www.itworld.co.kr/article/4154104/ai-%ea%b3%b5%ec%a0%95%ec%84%b1-%ec%95%8c%ea%b3%a0%eb%a6%ac%ec%a6%98-%ec%95%84%eb%8b%8c-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ec%8b%a0%eb%a2%b0-%ec%a0%90%ec%88%98-%ed%94%84%eb%a0%88%ec%9e%84%ec%9b%8c%ed%81%ac.html",
+    "source": "ITWorld 코리아",
+    "published": "2026-04-03",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 공정성 확보는 알고리즘 자체보다 데이터 신뢰도 관리에 달려 있으며, 이는 데이터 품질 관리의 중요성을 부각하고 산업 전반의 데이터 거버넌스 강화로 이어질 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "Gradient Labs gives every bank customer an AI account manager",
+    "url": "https://openai.com/index/gradient-labs",
+    "source": "OpenAI Blog",
+    "published": "2026-04-01",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "Gradient Labs의 AI 은행 계좌 관리자 솔루션은 금융 서비스의 개인화 및 자동화를 가속화하여 AI 기반 금융 혁신 경쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "Accelerating the next phase of AI",
+    "url": "https://openai.com/index/accelerating-the-next-phase-ai",
+    "source": "OpenAI Blog",
+    "published": "2026-03-31",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "OpenAI의 대규모 투자 유치는 AI 기술 경쟁 심화와 더불어 산업 전반에 걸쳐 AI 도입 및 활용을 가속화할 것으로 예상됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "The New York Times drops freelancer whose AI tool copied from an existing book review",
+    "url": "https://the-decoder.com/the-new-york-times-drops-freelancer-whose-ai-tool-copied-from-an-existing-book-review/",
+    "source": "The Decoder",
+    "published": "2026-04-05",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "저작권·소송"
+    ],
+    "summary": "AI 활용 시 저작권 침해 및 윤리적 문제가 불거지며, 언론의 AI 활용 가이드라인 및 검증 강화가 시급합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "AI chatbot traffic grows seven times faster than social media but still trails by a factor of four",
+    "url": "https://the-decoder.com/ai-chatbot-traffic-grows-seven-times-faster-than-social-media-but-still-trails-by-a-factor-of-four/",
+    "source": "The Decoder",
+    "published": "2026-04-05",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 챗봇 트래픽 성장세는 빠르지만, 기존 소셜 미디어와의 격차를 좁히기 위해서는 사용자 경험 개선 및 차별화된 가치 제공이 중요합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "[Pocus 칼럼] 혁신이라 믿었던 K-교육 AI 플랫폼, 멈칫한 굥교육 틈이 위험하다",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wM2MyZTNGSjczRE9uT0Q5NkdiSHpUOHZTZU5sV2daWVpqMW9MVk9vY3o3X0xQWFVwWEF0d09vMmVORGx6X1EtZ0t6MXl3ekk?oc=5",
+    "source": "환경감시일보",
+    "published": "2026-04-05",
+    "keyword": "인공지능",
+    "topic": "policy_safety",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "정부 정책 변화에 민감한 국내 교육 AI 플랫폼 시장은 기술 혁신과 더불어 정책적 지원 및 방향성이 중요함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "tech": "AI 모델의 오픈소스 공개, 차세대 모델 개발 경쟁, AI 에이전트 성능 향상, AI 전용 장치 개발, 데이터 신뢰성 확보 노력, AI 기반 서비스 확장 등 AI 기술이 빠르게 발전하며 다양한 분야에 적용되고 있고, 교육 플랫폼에서의 활용과 윤리적 문제에 대한 고민도"
+ }
+}

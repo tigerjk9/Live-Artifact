@@ -1,0 +1,427 @@
+{
+ "date": "2025-12-23",
+ "generated_at": "2026-11-02T11:49:37+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[기고] AI 융합인재 양성에 국가의 미래 달려 있다",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdmk3cjhqNUpjNUxqdGVHem1SajJKTE9mdTVXT2JqdzRUWUlpc1pmeFZlYnZ0ZGE1WUZtYTFheDBwS0FMSEVsV0s5T0JGNjZpQ3VpeDBhamNveWVZd3BtU1dJTlJpTERGWWdQX1hxdl9BR2hsbWtuM1B1Y0NONEpLY2NZMTg4UEszVFHSAZ4BQVVfeXFMTTVlQ2FYQWZmZXhhZDZ2WkU4OEczQVdKcmlSdHF2UVJybmNZM3kyOW1adnFObHl6TFZuclZMRm5mQThqS0RsTVd1ZmRreXQ5X2RQS3FMaEFnR0hyNWNEUzZDWVBvMVZrVmFkODNEZE1pYWdTSTFKZl9vUEpCdU55ZGNnZEllc2FIbkZGTmdDRzBjWHBIdmwwLXdZak9zT3c?oc=5",
+    "source": "조선일보",
+    "published": "2025-12-22",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "AI 융합인재 양성은 미래 국가 경쟁력 확보를 위한 필수 과제이며, 교육 시스템 전반의 혁신적인 변화와 투자가 시급합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "칼럼 | CIO의 기술 투자 커뮤니케이션, ROI·리스크·미래 전략으로 답하라",
+    "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPOWlhSllEZzAtbFNvUmxBYmsxRkRhbXdxaE9oLS1MY3prbXJUT1hxNzhZcHBDdnYzLTRWR1h0OFE2QmtGdFdyRmtPQ3RsSmZBblV2YWRpcWUzb1E1TVRjUVljVHMzanVnb21EcmlJUGhQV1RyWDQzZDBGeVRPV1YxY19PNjR3ZEFZSmQweExpV2dsSjA1TUwzTnVydTVmaE81ei1OUF9oNk5ybjlMTzJZSWxQVVNTSlpTNmFLbnZpWDlJbHBlZzR6MU5pZDNwclF4OExiMHc4ZGRoWUNBTGZPaGxrZmlOeFF6VmNjR2liSzc4U1RvZXhNeDRrazJ4VFU5SG5MWFR0Y3EzVjZDX0ZkempaRk9uWTJhak5wYmxLN2J1cVlra3VEcEtwMFoyX1AxZHRrcUN1U29Wdl9qWHU5STVLQVY1T3N0ZndmbmViSmlXNHptNWVZ?oc=5",
+    "source": "cio.com",
+    "published": "2025-12-22",
+    "keyword": "미래기술",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "교육기관 CIO는 ROI, 리스크, 미래 전략에 기반한 기술 투자 커뮤니케이션을 강화하여 교육 효과를 극대화해야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[기고] 다중 위험이 중첩되는 ‘메타럽션’ 확산...미래 불확실성 대응 프레임워크 주목",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDRFZXMEE4SktBLXF3d3UwVzZMVURmdmo3STE2U1pFQVRTNzZ1eGFSdjlNRnUzRnJsTUdMVTRzVFFKLVc4MzltaGtFRFFKUm1NUjRQVHRHcGRzcG5TYmJRd3A1UjBnNUMwV2c?oc=5",
+    "source": "지티티코리아",
+    "published": "2025-12-22",
+    "keyword": "미래기술",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [
+     "Meta"
+    ],
+    "summary": "미래 교육은 메타럽션 시대의 불확실성에 대비하여 유연하고 적응력 높은 학습 프레임워크 구축에 집중해야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[김지호 칼럼 ⑦] 놀이와 학습의 경계를 허무는 교육공간",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3OWVNU3NSTGtQZWFWTXpCMkROQjBpOEJfdGh1a3ZTSDhvNm04Ml9rbXpPTFpQOFhFTW52X18yc3VtLVdCMThfU3ZWTFBuX25iOVVRUVFmdFQ2TmJCQzBZM1lMaW45QUhEQ2c?oc=5",
+    "source": "Queen 이코노미퀸",
+    "published": "2025-12-22",
+    "keyword": "뇌과학",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "놀이와 학습 융합 공간 조성은 학생들의 자발적 참여와 창의성을 증진시키는 혁신적인 교육 환경 조성에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "충북 교실에 스며든 에듀테크 수업 혁신",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE54TzR5Qm1iMFJLclJDQ2pYVTdqWmtIOXN2UmNyLXN3aTZrdlVRN011WDlNM3IzaWZyNlk2em9hMkZuWGdZNlRqOUZPV0xSdnZtZk0wMjRIcm05OUhESHVyWkxB?oc=5",
+    "source": "충북일보",
+    "published": "2025-12-22",
+    "keyword": "에듀테크",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "충북 에듀테크 수업 혁신은 교사의 역량 강화와 맞춤형 교육 실현을 통해 공교육 경쟁력을 높이는 중요한 발걸음입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "인천광역시교육청AI융합교육원, ‘인공지능(AI)디지털 도구활용 수업설계 직무연수’ 운영",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZalJ0UXpWTGIwSDZzTmNvUmtNM2pXSW9ESUdNY2NIYkFMam5FWFhiN0dqMlQ3TDFvQ0tHVHdXRFdfNUlYdFRVU2JFYWNWa2JNbHJyTlVmaEZJeEFWUmFUM0NJTlFwSUNH?oc=5",
+    "source": "인천교육일보",
+    "published": "2025-12-22",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "교사 대상 AI 디지털 도구 활용 연수는 미래 교육 역량 강화와 수업 혁신을 위한 필수적인 투자입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "교육부, 2028학년도 대학입시 관련 정보 제공",
+    "url": "https://www.lecturernews.com/news/articleView.html?idxno=193473",
+    "source": "한국강사신문",
+    "published": "2025-12-22",
+    "keyword": "",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [
+     "교육부",
+     "수능·대입"
+    ],
+    "summary": "2028학년도 대입 관련 정보 제공은 변화된 교육과정에 따른 입시 준비에 대한 불안감을 해소하고, 학생과 학부모에게 예측 가능한 정보를 제공하여 교육 현장의 혼란을 최소화하는 데 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "강진 전문적학습공동체의 미래…‘청자빛교사수업연구회’ 출범 예고",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54MUNicVVoLTVWN2hraTg4bE8xU2d1N3dZLU44ZE5icTh2ZXRNNG1idjYxUWU1WU85MFBLZzVxNngzZ3d4YWVRZ3F5QjNyLUw0UlRNSUhRcTBkMENaSGxMQmpKVV91d2lHWXfSAWpBVV95cUxOeDFDYnFVaC01Vjdoa2k4OGxPMVNndTd3WS1OOGROYnE4dmV0TTRtYnY2MVFlNVlPOTBQS2c1cTZ4M2d3eGFlUWdxeUIzci1MNFJUTUlIUXEwZDBDWkhsTEJqSlVfdXdpR1l3?oc=5",
+    "source": "전남교육통",
+    "published": "2025-12-22",
+    "keyword": "에듀테크",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "교사 주도의 전문적학습공동체 활성화는 교사의 전문성 신장과 자발적 수업 혁신을 통해 학교 교육력 제고에 긍정적인 영향을 미칠 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "안민석, 경기도교육감 출마 선언...“경기교육 대전환···AI·무상통학·교권보호로 12대 교육혁명” 출사표",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rcmdJZTdyaHdmemNKQ3pBZnRSb3NKUlVDeDF2VlktUWFFQlVYdU1JaWhCOVhacjJlM0VDd3ZFNUlEYjdJbjgwUGV3U0M4M1MtV1lTOGRnWkdyLTdmQzE1b3VNWkhqbThfWlo0cnVhVdIBb0FVX3lxTE1rcmdJZTdyaHdmemNKQ3pBZnRSb3NKUlVDeDF2VlktUWFFQlVYdU1JaWhCOVhacjJlM0VDd3ZFNUlEYjdJbjgwUGV3U0M4M1MtV1lTOGRnWkdyLTdmQzE1b3VNWkhqbThfWlo0cnVhVQ?oc=5",
+    "source": "한스경제",
+    "published": "2025-12-22",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "교권"
+    ],
+    "summary": "안민석 후보의 공약은 AI 교육 강화, 무상통학, 교권 보호 등 주요 교육 현안에 대한 긍정적 접근을 시사하나, 구체적인 실현 방안과 재원 확보 계획이 중요해 보입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "인천시교육청, 인천 창의융합교육 몽골 옵스에 전파",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02UkZZdENvZ01TRkZDdTk1NTFTcGlvT3RnS19Dbk5JVFR0cW9TdjZQcm81dGQ1V1VDQkI0SWktM3ZfMlVhWHQtY3BXaTBWcHZpNms2NU5QeksxeEk?oc=5",
+    "source": "경기일보",
+    "published": "2025-12-22",
+    "keyword": "AI교육",
+    "topic": "global",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천 창의융합교육의 해외 전파는 국내 교육 모델의 국제적 확장 가능성을 시사하며, 교사 역량 강화 및 교육 콘텐츠 국제 교류의 중요성을 부각합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "An Experience Report on a Pedagogically Controlled, Curriculum-Constrained AI Tutor for SE Education",
+    "url": "http://arxiv.org/abs/2512.11882v1",
+    "source": "",
+    "published": "2025-12-08",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [
+     "AI 튜터",
+     "ChatGPT"
+    ],
+    "summary": "RockStartIT Tutor는 GPT-4 기반으로 교육 과정 제약 하에 맞춤형 지원을 제공하는 AI 튜터로, 학생들의 질문 부담을 줄이고 교사의 인지적 부담을 경감시켜 교육 효과를 향상시킬 가능성을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Lucia Happe', 'Dominik Fuchß' 외 3명",
+    "pdf": "http://arxiv.org/pdf/2512.11882v1"
+   },
+   {
+    "n": 2,
+    "title": "Application of Mobile Information System Based on Internet in College Physical Education Classroom Teaching",
+    "url": "https://www.semanticscholar.org/paper/f7295b04c18988854d7d20ce78732b360f6db7eb",
+    "source": "semantic_scholar",
+    "published": "2021-12-10",
+    "keyword": "",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 대학 체육 수업에서 인터넷 기반 모바일 정보 시스템을 활용하여 교사의 수업 통제 능력 향상, 학생의 정보 수집 및 공유 능력 강화, 평생 스포츠 의식 함양에 기여하고 있으며, 설문 데이터 분석, 사례 분석, 비교 연구 등을 통해 대학 체육 교육의 문제점을 해결하고 발전 방향을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Jiayi Li",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Empowering Education with Generative Artificial Intelligence Tools: Approach with an Instructional Design Matrix",
+    "url": "https://www.semanticscholar.org/paper/2eeff0f534d303581bc1199671600fbd04a2d01c",
+    "source": "semantic_scholar",
+    "published": "2023-07-25",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "개인화 학습"
+    ],
+    "summary": "본 연구는 4PADAFE 교수 설계 매트릭스와 생성형 AI 도구를 활용하여 교육 효과를 증진하고 MOOC 가상 교실 개발에 기여하며, 궁극적으로 대학 교육의 개인 맞춤형 학습 경험을 강화하여 21세기 디지털 시대의 교육 혁신을 지원합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Lena Ivannova Ruiz-Rojas, Patricia Acosta-Vargas 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "Exploring the Potential of an Intelligent Tutoring System for Sketching Fundamentals",
+    "url": "https://www.semanticscholar.org/paper/98733e4f3d5ce5c983715bd9606147c2424571fe",
+    "source": "semantic_scholar",
+    "published": "2020-04-21",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "AI 튜터"
+    ],
+    "summary": "Sketchtivity라는 지능형 튜터링 시스템을 고등학교 및 대학교에 적용하여 스케치 기초 교육에 대한 효과를 분석한 결과, 교사와 학생 모두에게 교육적 이점과 한계를 확인했으며, 이는 스케치 교육 방식 개선에 기여할 수 있음을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Blake Williford, Matthew Runyon 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "Integration of AI in STEM Education, Addressing Ethical Challenges in K-12 Settings",
+    "url": "http://arxiv.org/abs/2510.19196v1",
+    "source": "",
+    "published": "2025-10-22",
+    "keyword": "pedagogy",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "본 논문은 K-12 STEM 교육에 AI를 통합할 때 발생하는 윤리적 문제들을 분석하고, 편향성 감사, 저자원 적응 전략, 정책 조정을 통해 공정하고 인간 중심적인 AI 교육을 위한 단계별 로드맵과 교사 연수 모델을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Shaouna Shoaib Lodhi', 'Shoaib Lodhi']",
+    "pdf": "http://arxiv.org/pdf/2510.19196v1"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "아이엔소프트, KT와 AI 에이전트 사업 협력 MOU...\"기업 AX 전환 가속\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204992",
+    "source": "AI Times",
+    "published": "2025-12-23",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "아이엔소프트와 KT의 협력은 기업 AX 전환을 가속화하고 AI 에이전트 생태계 확장에 기여할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "OpenAI는 혁신적인 GPT-5.2-Codex를 통해 소프트웨어 생성 및 디지털 방어를 강화합니다.",
+    "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQbVMyVnR2QkNkd04xc19MUFFuZ05PdHZSd3dLdV9nb0xHMlE0elFxaGN3UU9pWm9CMDBZY0tvUVlSTzlGeDJoRl9nS2p4Nk00aU03T3BQTkVRX09JQXBmYjJiejFubWNHOF9hSV9kcW9zNzBlZWU4QkJjM1ZmRFVFWkN4M1hURlJOTHJYcF9MQkFRdlBiYktGY2lDQmlqMEtIYlpydDFNU3dSbUZya1BxOFBIRWU2UDRuU2lPQU1VZWMwblRMWDVoYTdzX0hJM2hDOVVzcldHM05yMThGWWhvOXV1cHAxandHLWZCTTd6a2pnYkNSX0JIbUZtMDQ3MDFzb3BPV1NtRTZIRkUyX2dhX0FFbTFJMkxvUWFfUGhRdWU4REM5aWs1U0VYLWVsRzBtenhBWTlGRDg1OHU3RlNEZWxCS2VGUExVRlJOcG9Ddk5NY190amVKSURaTdIB2wJBVV95cUxQbVMyVnR2QkNkd04xc19MUFFuZ05PdHZSd3dLdV9nb0xHMlE0elFxaGN3UU9pWm9CMDBZY0tvUVlSTzlGeDJoRl9nS2p4Nk00aU03T3BQTkVRX09JQXBmYjJiejFubWNHOF9hSV9kcW9zNzBlZWU4QkJjM1ZmRFVFWkN4M1hURlJOTHJYcF9MQkFRdlBiYktGY2lDQmlqMEtIYlpydDFNU3dSbUZya1BxOFBIRWU2UDRuU2lPQU1VZWMwblRMWDVoYTdzX0hJM2hDOVVzcldHM05yMThGWWhvOXV1cHAxandHLWZCTTd6a2pnYkNSX0JIbUZtMDQ3MDFzb3BPV1NtRTZIRkUyX2dhX0FFbTFJMkxvUWFfUGhRdWU4REM5aWs1U0VYLWVsRzBtenhBWTlGRDg1OHU3RlNEZWxCS2VGUExVRlJOcG9Ddk5NY190amVKSURaTQ?oc=5",
+    "source": "Mix Vale",
+    "published": "2025-12-22",
+    "keyword": "오픈AI",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.2-Codex는 소프트웨어 개발 자동화와 사이버 보안 수준을 동시에 향상시켜 AI 개발 경쟁 심화 및 관련 시장 성장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "비상교육, 크리에이티브옐로우와 MOU…AI 에듀테크 기업들과 교육 생태계 구축 본격화",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9US213M3pGMGJCXy0yX2F5S2RwWFRZUWdVcjlJdHZZNEdlNE1sWERDNVBGajRqcm9URV95bXo1M0xFYVEtbVlVcGNHNkY4LVVkY2Nv?oc=5",
+    "source": "네이트",
+    "published": "2025-12-22",
+    "keyword": "교육AI",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [],
+    "summary": "비상교육의 이번 MOU는 AI 에듀테크 생태계 확장을 가속화하며 교육 시장의 디지털 전환 경쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "구글 클라우드, 애니펜 생성형 AI 플랫폼 ‘룸룸’에 제미나이 3 모델 통합 제공",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RVzJwTlJXNXo4eVRxZVEtdGRYWU5BWkotRWhsd0lUdHdJSlcxdXRUaEQyNXJYUWllOE93TllZYmNFdUo2eVFCZS1KZjk3aDNTWTFFVFhNbkhaVDFmRmc?oc=5",
+    "source": "투데이안",
+    "published": "2025-12-23",
+    "keyword": "구글",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "생성형 AI",
+     "Gemini"
+    ],
+    "summary": "구글 클라우드의 제미나이 3 모델 통합은 생성형 AI 플랫폼 경쟁 심화와 더불어 애니펜의 시장 경쟁력 강화에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "챗GPT, 모바일 앱 소비자 지출 30억달러 최단기간 달성",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Vb1N0bFpJUWlvUFQxUXZzTmVacVJHNFIwanQ3RW5aYjF2eVVkelBIa1d3c25hV0Qxd3IyYUJsMnFqaEhBdkhPbmR0N2ItR1Z4RW1JNXVsaVVHdmtfSHVPNWE0cktTcG5xamc?oc=5",
+    "source": "AI타임스",
+    "published": "2025-12-22",
+    "keyword": "오픈AI",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "챗GPT의 빠른 소비자 지출 증가는 AI 앱 시장의 성장 가능성을 입증하며, 수익 모델 확보 경쟁을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "카카오, ‘챗GPT 포 카카오’와 ‘메리톡마스’ 캠페인 진행",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0weFowQ3ZwMmM0TzBxemVsZlRDUkF0dUZvZW9QbDJPRXNXalFlQTJ3b0t5cVNQSEZWcGpiQjhOYXREQ1ZQODNmUFFyelQ0NG9UWVd4aG42U1NMOVV6SXExTnFzUTMzNTZpRnc?oc=5",
+    "source": "AI타임스",
+    "published": "2025-12-22",
+    "keyword": "오픈AI",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "카카오",
+     "ChatGPT"
+    ],
+    "summary": "카카오의 '챗GPT 포 카카오'와 '메리톡마스' 캠페인은 AI 기술의 대중화와 카카오 생태계 내 AI 서비스 확장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "[일상AI] GPT 안에 App, APP 안에 GPT (2)",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmUXhqSVVvWlR0bmh3RTI3R09hbC02U0Z6UzZOWHBmVDJlSWhJMy1rTW11WGxKS2xZVUJOZENtWG9uOVk0VjNyM2s1ejRiTndCcW5BaDBxSFFfQlo0MW1j?oc=5",
+    "source": "mobiinside.co.kr",
+    "published": "2025-12-22",
+    "keyword": "오픈AI",
+    "topic": "product",
+    "kind": null,
+    "entities": [],
+    "summary": "GPT를 품은 앱 생태계 확장은 AI 기술의 접근성을 높여 사용자 경험을 혁신하고, 앱 시장 경쟁 구도에 큰 변화를 가져올 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "AI 써본 사람, 4명 중 3명꼴...챗GPT 강세 속 제미나이·뤼튼 약진",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84ZWJUUGhaX2gxbDF4TGcyQ0YxSlZvV2lJcU5QZnJTMUJpN1FNdnQzNEZfemZRZEg2bmZ5Um1TYThxRXB0X09xckdRRmVQakdVZGU3WTIyeE8yTlNtcHBEeHFNaERXLUx3RGxIUw?oc=5",
+    "source": "브랜드뉴스",
+    "published": "2025-12-22",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Gemini",
+     "뤼튼"
+    ],
+    "summary": "AI 사용 경험 확산 속에서 특정 플랫폼 쏠림 현상 완화는 AI 기술 경쟁 심화와 서비스 다양화에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "챗GPT·제미나이도 예외없다…불완전할 수밖에 없는 'AI 안전 필터'",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1uOEoyU3lBRHhpb3hxZjdpc2FCbVhsdEJqRXk0RkFjYzZXSVlPZjFjUERWY2lIQUdFakc1Z1hxbE5GalJ2ZTlOaHE1Z3h4UHhvWFFqNnd0RTY?oc=5",
+    "source": "동아사이언스",
+    "published": "2025-12-22",
+    "keyword": "GPT",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Gemini",
+     "AI 안전·규제"
+    ],
+    "summary": "AI 안전 필터의 불완전성은 AI 기술의 발전과 동시에 윤리적 문제 해결 및 지속적인 개선 노력이 필수적임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "[AI 리더스] GPT가 쓰고 제미나이가 검증한다…AI교차 토론으로 정확성 '↑'",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NczVHb3V3am9wTkR0b0JERU1PMnBXbWFEdW15X3R1OWJnX2V0ZHRQQ3pXQVpvLVBBVmluWkM4aWItOHVoWFJYYUctM2JRUXpaLUMxMV9B?oc=5",
+    "source": "지디넷코리아",
+    "published": "2025-12-22",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Gemini"
+    ],
+    "summary": "AI 모델 간 교차 검증은 AI 정확도 향상과 더불어 신뢰성 높은 AI 서비스 및 콘텐츠 생산에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 융합 교육과 에듀테크 혁신이 교육 현장에 스며들고 있으며, 미래 인재 양성과 불확실성에 대비하는 교육 시스템으로의 전환이 가속화되고 있습니다.",
+  "tech": "AI 기술이 다양한 산업 분야에 빠르게 통합되고 있으며, 챗GPT를 중심으로 경쟁 구도가 심화되는 가운데, 정확성과 안전성을 높이기 위한 AI 간 협력 및 에이전트 사업 확장이 가속화되며 AI 생태계가 더욱 풍성해지고 있다."
+ }
+}

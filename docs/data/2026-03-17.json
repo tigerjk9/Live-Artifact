@@ -1,0 +1,410 @@
+{
+ "date": "2026-03-17",
+ "generated_at": "2026-11-02T11:53:33+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[기고] 에이전틱 AI, 보험 산업 디지털 전환 이끈다",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jWFExTllQQjFaS0p6aHhBejhfMk42azUzYjFGaVdUb1dULW1aVWJIVWtIVUZTbnlEQTh6MFZ2aVhVYzNKeUJ0cUdYRnBia1ZMX1pyUGF3?oc=5",
+    "source": "지디넷코리아",
+    "published": "2026-03-16",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 2,
+    "title": "[ET시론]AI 커머스 시대의 완성, 속도보다 '신뢰'에 달렸다",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE12TDBmWXBhTXdoMDNiaXN5RnFTWHRReVdLc1Q5M1NGTWtNLWI4N1pTN0hrc2tuOXFGOUVNaXNncDNtYVpTSE0yTExkRFY?oc=5",
+    "source": "전자신문",
+    "published": "2026-03-16",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 3,
+    "title": "[김현태 칼럼] AI 교사 1만 명’이라는 숫자의 함정, 교육의 본질은 ‘개방’에 있다",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HTU1FeVNPVEp6ck56TDR1NGxjdk85UDZDWmM2YkJ0OWZwWE0zbXBGV0J5ZVNwN3NhMTlxVnFGNVYya185RHdvUzFWTk9vYzc4SmFMaC1Qb3hwUlBrTGEzb2kyeE45NGNB?oc=5",
+    "source": "에듀프레스",
+    "published": "2026-03-16",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 4,
+    "title": "[경상시론]AI가 채점하는 시대, 교육은 무엇을 해야 하는가?",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9IdkMyOEJPcjRXUHluZE1KTEEyZ3l6aWYzQ2xHRmhmNUdnZmg4YU1kb21nNHUyZExsa2hOMy1ORXh5RGZKdFhxcl9nRGhtdktiWUZiVjRQYi1PczJTZ3g4bzlIYmdRRVdhT3BHRQ?oc=5",
+    "source": "경상일보",
+    "published": "2026-03-16",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 5,
+    "title": "[김수진 칼럼] 시절인연(時節因緣) .. 알고리즘이 읽지 못하는 마음",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=30006",
+    "source": "에듀프레스",
+    "published": "2026-03-16",
+    "keyword": "",
+    "topic": "teacher",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "불가(佛家)에는 ‘시절인연(時節因緣)’이라는 말이 있다. 이는 모든 만남에는 적절한 시기와 운명적인 기회가 있다는 뜻이다.매년 봄 새로운 아이들을 맞이하고 겨울이면 작별을 고하는 교사들에게, 교실은 1년이라는 한정된 시간 동안 가장 찬란한 시절인연을 맺는 공간이라고 할 수 있다.아이들에게도 이러한 ‘학창’시절의 인연은 특히 각별하다. 삶의 윤곽을 그리는 시",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "'늙지 않는 뇌를 만드는 감각의 뇌과학'",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3czBwcjJGUnZCWjBBNGc1YXpncWZ4TFV6dGVmd0NYcWNQNnJzVTBFNm40dFJ1blFhVm5aM3I3V2ZSN1FRaDYyTi0wY3Q3a01GcVI3LV91MGhmQ3NrN1ZHXzhMWmJ1Slh0NWfSAW5BVV95cUxPUVRyOWpzYTVfelBMemUxZzN0cUhlTzh6bzhwQVZobkppNVpxZmZGVU9IaldFT3pSWmhsM2ZnMzhFVnJCbHRNOUhJNWZGbkQySjUtWDF4Zk91YVdsTE1nd2pJYkptTkl3dkNEdzBVZw?oc=5",
+    "source": "마음건강 길",
+    "published": "2026-03-16",
+    "keyword": "뇌과학",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 7,
+    "title": "나답게 산다는 것의 뇌과학, 자아정체감이 만드는 ‘자유’",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ibHpBUjV5ZW1KYUJlcXF5TmpmeWFkdHhQemtqcWlfeDE4dUhOM3VFc2JfdzRPNU1CcFFPeDJMamlSenBpaEJFTnBkalg0bVdFcXJmWXVOZm5FbHVIY201ZktZcS12alVLaV9wMG92WdIBc0FVX3lxTE9fTEE0UVFrZTVmU0NCY1hSeUtyMkRKWGN2eFdkS25GbFBDZEJWUUY4TDBqVnhGTDhsaTZWUW9HWmRkamU0MF9Rb1RXd1RIYW4tclB2b2FjM3NySDJtd0xPWjB3S0NzM3lScElXTlMwc3BlYVE?oc=5",
+    "source": "K스피릿",
+    "published": "2026-03-16",
+    "keyword": "뇌과학",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "김영춘 충남 교육감 예비후보, ‘AI기반 맞춤형 미래 인재 육성 및 에듀테크 강화’ 발표",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PaUd1d0tFcHFicTgyblJKbG8yNW53anBQemM2dUN2VFUwRGFhd3ZacXRRa0FyZ3hSVTlXQ0pod1dUbFJYVWpLcy1lNU1OV2RDZnB6RV9oVkZmODlmZWFhRlQxLTVNenpYY214dQ?oc=5",
+    "source": "충청뉴스",
+    "published": "2026-03-16",
+    "keyword": "에듀테크",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충남교육청",
+     "교육감 선거"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "성기선 경기교육감 예비후보, 에듀테크 개인정보 유출 사태 비판 “학교에만 책임 떠넘기는 보안 체계 바꿔야”",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tQ3ZiRXNyMEx5eEpPQkMwZlg3cXNxM0ZZSjg0QURDTm05ckVyQjBleFVNa01hT1FnekFWN1NTYXk3VWFJdVJUYU9iTTE4SkRiSTM3MGFleFBsNkE?oc=5",
+    "source": "교육연합신문",
+    "published": "2026-03-16",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "교육감 선거"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 10,
+    "title": "교육부, AI교육 교원 역량강화 연수과정 개발…5월부터 운영",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA3NlFVRFdTR2wyd0tjMm1maExPeENYSEJwcmVDdk51NjNhNjM1eXpkU2swWUJBbloyeURERXVVNEE2eUE2Uy1pT0pxY3pROV9Ya3dkMTBGZGlmMFBwakJoNzlR?oc=5",
+    "source": "강원일보",
+    "published": "2026-03-16",
+    "keyword": "AI교육",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Three Decades of Culturally Relevant, Responsive, & Sustaining Pedagogy: What Lies Ahead?",
+    "url": "https://www.semanticscholar.org/paper/c8b8f71bd62aea46511a8b04af23fd7ec0769e39",
+    "source": "semantic_scholar",
+    "published": "2021-07-21",
+    "keyword": "pedagogy",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "문화적으로 적절한 교육학에서 문화적으로 지속가능한 교육학으로 발전해온 지난 30년간의 연구는 학생들의 학습 향상, 문화적 역량 개발, 비판적 의식 함양을 목표로, 특히 소외된 학생들에게 효과적인 교육 방법론을 제공하고 교육 현장에 지속적인 영향을 미칩니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Gloria Ladson-Billings",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "Creativity in Education: Teaching for Creativity Development",
+    "url": "https://www.semanticscholar.org/paper/d1b805446b5df09aef8a876d1614100e58b96dc0",
+    "source": "semantic_scholar",
+    "published": "2019-02-01",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 교사 교육생들에게 창의성 이론을 교육하고, 이를 바탕으로 학습자의 창의성을 증진시키는 수업 및 프로젝트 설계를 하도록 함으로써 교육 현장에서의 창의성 함양 가능성을 탐색합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Danielle Kaplan",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Distance Learning and Multilingual Education: A Case Study of Challenges and Pedagogical Perspectives in the Greek Border Region",
+    "url": "http://arxiv.org/abs/2603.00128v1",
+    "source": "",
+    "published": "2026-02-23",
+    "keyword": "pedagogical",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "그리스 국경 지역의 외국어 교사 인터뷰를 통해 원격 교육이 다국어 학습을 지원할 잠재력이 있지만, 맞춤형 피드백 부족, 문화적 맥락 부재 등의 문제점을 지적하며, 교사 지원 및 지역 맞춤형 디지털 자원 개발의 필요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Ariadni Mandala', 'Alexandros Gazis' 외 1명",
+    "pdf": "http://arxiv.org/pdf/2603.00128v1"
+   },
+   {
+    "n": 4,
+    "title": "Llama-Polya: Instruction Tuning for Large Language Model based on Polya's Problem-solving",
+    "url": "http://arxiv.org/abs/2602.10597v1",
+    "source": "",
+    "published": "2026-02-11",
+    "keyword": "pedagogy",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "Meta",
+     "LLM",
+     "추론 모델",
+     "AI 튜터"
+    ],
+    "summary": "Llama-Polya는 폴리아의 문제 해결 4단계 프레임워크를 LLM에 적용하여 수학적 추론 능력을 향상시키고, 교육적으로 의미 있는 방향으로 LLM 튜터링 시스템의 교육적 정합성과 추론 투명성을 개선할 수 있음을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Unggi Lee', 'Yeil Jeong' 외 5명",
+    "pdf": "http://arxiv.org/pdf/2602.10597v1"
+   },
+   {
+    "n": 5,
+    "title": "Teachers and AI: Understanding the factors influencing AI integration in K-12 education",
+    "url": "https://www.semanticscholar.org/paper/a7ec600b20077aebe10a74ed68d18e3bd99e8958",
+    "source": "semantic_scholar",
+    "published": "2025-03-20",
+    "keyword": "K-12 education",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "튀르키예 사립학교 교사들을 대상으로 AI 교육 연수 참여 과정을 분석한 결과, AI는 효율성과 상호작용성 측면에서 긍정적이지만, 기술적 문제, 윤리적 문제, 문화적 장벽 등의 해결 과제가 남아 있으며, 성공적인 AI 교육 통합을 위해 맞춤형 지원과 윤리 지침이 필요함을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ozan Filiz, M. H. Kaya 외 1명",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "흄 AI, 첫 오픈소스 TTS 모델 ‘TADA’ 공개...\"속도·효율성 탁월\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207929",
+    "source": "AI Times",
+    "published": "2026-03-16",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "오픈소스"
+    ],
+    "summary": "흄 AI의 TADA 공개는 고성능 TTS 모델 접근성을 높여 음성 AI 기술 발전 및 관련 서비스 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "“클라우드 엔지니어 부족”…그렙, 리눅스재단APAC과 AI 인프라 실무 교육 확대",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207924",
+    "source": "AI Times",
+    "published": "2026-03-16",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 인프라 구축 경쟁 심화 속 클라우드 엔지니어 양성 투자는 AI 기술 발전과 산업 성장의 필수 요소입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "프렌들리AI, GPU 플랫폼 ‘인퍼런스센스’ 출시…”GPU 100% 활용”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207941",
+    "source": "AI Times",
+    "published": "2026-03-16",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "GPU·데이터센터",
+     "LLM"
+    ],
+    "summary": "프렌들리AI의 '인퍼런스센스' 출시는 LLM 서비스의 비용 효율성을 높여 AI 모델 상용화 확산에 기여할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "구글 \"에이전트, 상대와 싸우면서 훈련할 때 협력하는 법 배워\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207850",
+    "source": "AI Times",
+    "published": "2026-03-16",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Google",
+     "에이전트"
+    ],
+    "summary": "AI 에이전트 협력 학습 방식의 발전은 복잡한 시스템 설계 없이도 자율적인 협업 능력 확보 가능성을 제시하며, AI 기술 적용 범위 확대에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "AI 직원 '젠스파크 클로' 출시...\"클라우드 컴퓨터에서 안전하게 구동\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207939",
+    "source": "AI Times",
+    "published": "2026-03-16",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "젠스파크 클로 출시는 AI 에이전트가 실제 업무 영역으로 확장되어 생산성 향상과 새로운 비즈니스 모델 창출에 기여할 가능성을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "아이 얼굴·부모 목소리로 동화 완성…AI 에듀테크 ‘꿈틀꿈틀’ 멀티모달 개인화 플랫폼 공개",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaM2pLRGJVNldVYlAtQmVYU183d3luSXRZQzZ5RUpKZmlVQWFxZXJWcTNXbFZVRlpLdzlIeVNRanRIN0Q1TjdXT283M3FHRFNJMUhlb3g4UVFKMi1Ya3pKd1YtNWgyUmJt0gFsQVVfeXFMT3BiOTg1bzFRc1RZUTY5LTdWRXVaNHJpLW5CS3dIQVpEckx6anBlOVQzQVBZQTZaT1BWc0FjLUV4MHJ5alRRTjI0UWVickxXeEpac29aVzJ3VnYwX1RyWkNjbjBoanRSQUotbEJM?oc=5",
+    "source": "스타트업엔",
+    "published": "2026-03-16",
+    "keyword": "생성AI",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "AI 에듀테크는 멀티모달 개인화 기술로 교육 혁신을 가속화하고, 맞춤형 학습 경험 제공 경쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "OpenAI's biggest problem may not be building AI but getting companies to actually use it beyond ChatGPT",
+    "url": "https://the-decoder.com/openais-biggest-problem-may-not-be-building-ai-but-getting-companies-to-actually-use-it-beyond-chatgpt/",
+    "source": "The Decoder",
+    "published": "2026-03-16",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "OpenAI는 AI 모델 개발 넘어 기업들이 ChatGPT 외 다양한 분야에서 AI를 활용하도록 설득하는 데 어려움을 겪을 수 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "인텔리빅스 “영상 분석에서 ‘피지컬 AI’ 기업으로 진화…로봇 관제 본격화”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207938",
+    "source": "AI Times",
+    "published": "2026-03-16",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "로봇·휴머노이드"
+    ],
+    "summary": "인텔리빅스의 로봇 관제 진출은 AI가 물리적 영역으로 확장되며 안전 및 자동화 산업 전반에 새로운 가능성을 제시할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "바이낸스, AI 에이전트 'BinanceAI' 내부 테스트 시작…어떤 기능이 있나 (+CRYPTO, OpenClaw, Anthropic, Claude Sonnet 4.5)",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51VDRTNmViU2x1ODl2VFIxOGt2MkxOZDV1THRtZkFNblhnZ0IyV3EyU2oySlBYbWVQRm81eEdPVm11T1RzUkVVMmNXNUtNMHpORXlaQ0pOMm1qMHdLQTk5OXBfOEZYNS1rX2xVdg?oc=5",
+    "source": "민심뉴스",
+    "published": "2026-03-16",
+    "keyword": "Anthropic",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "에이전트",
+     "Anthropic",
+     "Claude"
+    ],
+    "summary": "바이낸스의 AI 에이전트 개발은 암호화폐 거래 플랫폼의 사용자 경험을 혁신하고 AI 기술 경쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "일레븐랩스, 영상·음성 통합 원스톱 콘텐츠 제작 플랫폼 출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207933",
+    "source": "AI Times",
+    "published": "2026-03-16",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [],
+    "summary": "일레븐랩스의 통합 플랫폼 출시는 AI 콘텐츠 제작 시장의 진입 장벽을 낮추고 제작 효율성을 극대화하여 산업 전반의 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "tech": "AI 기술이 TTS 모델 공개, 인프라 교육 확대, GPU 활용 극대화, 에이전트 협력 학습, AI 직원 출시, 멀티모달 플랫폼 등장, 기업 도입 장벽 극복, 피지컬 AI 진화, AI 에이전트 테스트, 원스톱 콘텐츠 제작 플랫폼 출시 등 다양한 분야에서 빠르게 발전하며"
+ }
+}

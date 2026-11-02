@@ -1,0 +1,416 @@
+{
+ "date": "2025-12-13",
+ "generated_at": "2026-11-02T11:49:08+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[칼럼] 왜 베토벤은 작곡 도중 산책을 나갔을까? : 쉼표가 없으면 악보도 완성되지 않는다",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZanBYTGI4bzZrbFZsVkpfZXpZM2M5ZGJKd0ctTGZzaVp2VXpJbXVnb1YtbHEydEo3UG1UeWt0VndkNHB4RTdqX21JWWkxMzYwQ2c?oc=5",
+    "source": "유스연합",
+    "published": "2025-12-12",
+    "keyword": "뇌과학",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "베토벤의 산책처럼, 교육 현장에서도 학생들의 창의적 사고와 문제 해결 능력을 위해 적절한 쉼과 여유를 제공해야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[신간] 마음챙김 실천에 필요한 모든 것…'마음챙김의 뇌과학'",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55MnM2bUgyTElobzJUbkRvajZDbUIxU0xMMW1lR19xUC1oX0ZkUlp5OFdNaHgxX2tubGFlVTFnQjNIU3RSOXgzSnZZaWc5MkZqcVUw?oc=5",
+    "source": "네이트",
+    "published": "2025-12-12",
+    "keyword": "뇌과학",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [],
+    "summary": "'마음챙김의 뇌과학'은 학생들의 집중력 향상과 정서적 안정에 기여하여 긍정적인 학습 환경 조성에 도움이 될 수 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "뇌과학이 밝힌 스트레스의 정체 : 불안·피로를 해소하는 호흡의 힘",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CWUEzTy1TZlJEeG1kWXpNQjUyZXYtbzZzMm43NWhZRnNONVhjVUliZkkxNEhucWFZUFBnd09SSm1raWVqQzJQSjBnQmdRdXZadkZOQU1FRXg0QVp0LV9yMzlxbDZDMWpQMUZ1MXFzZ9IBc0FVX3lxTFBxZjhMNFJqUENBUVVUY1lvYmhfQlFGYVY5WjdLUGF3RzNkUElLOHFONFVEWUZsa0ZhNVI2SnVEU2hGMHU5c1RXV016cmVaVWlSTEVKaW9CLWdGY3VEUDNVT1JNcldiSFRhemowN2s3bzBlYnc?oc=5",
+    "source": "K스피릿",
+    "published": "2025-12-12",
+    "keyword": "뇌과학",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [],
+    "summary": "뇌과학 기반 스트레스 해소법(호흡) 교육은 학생들의 정서적 안정과 집중력 향상에 기여하여 긍정적 학습 환경 조성에 도움이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "'대충영어' 뇌과학 기반 영어 학습법의 새로운 지평 열다",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5LZUtveTMtWDBkWW8xZV9sblh0QktoT1p5TDVzZzh0WENRNW9KTGtIRTRnNkxwOTA1ZzNDMkhpWHhNN3VtOVlSSUd5MS1BS1l2dWZVUTM3S3lsbUtFc21sZDhaVWJMMm9oaGN3SnFTaw?oc=5",
+    "source": "우먼스토리뉴스",
+    "published": "2025-12-12",
+    "keyword": "뇌과학",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "'대충영어'의 뇌과학 기반 학습법은 인지적 효율성을 높여 영어 교육의 새로운 가능성을 제시한다는 점에서 주목할 만합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "김지철 교육감의 충남교육 12년…해마다 교육혁신",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NTjMwVEd2ZFpIcFBTQmxTOFlHbW02dER0N3RabE9IeXBqVEkzOTY1S3NMZ0c3b0J5bFh0OUpZWXJwTENJeXVSOWxSdEJPSnNpYjZr?oc=5",
+    "source": "네이트",
+    "published": "2025-12-12",
+    "keyword": "AI디지털도구",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "김지철 교육감의 12년 충남교육 혁신 사례는 지속적인 교육 변화 시도가 지역 교육 발전에 긍정적 영향을 미칠 수 있음을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "'수업 혁신 우수사례' 교사 100인... 손팻말과 AI의 공존 전략까지",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE50b29KUEVVSThfcFRJNlJ5MUx4TDQtQS02Y0hhdnhMZEJ0WHpYcHVuaWdwWDNjTG5HdklpZUNScGNzVUZkaklsSU5uUjVUMUg3V0dhdFQ4dDY3NzBvWDZYVmltNkg1QQ?oc=5",
+    "source": "교육을 비추다",
+    "published": "2025-12-12",
+    "keyword": "AI디지털도구",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [],
+    "summary": "교사의 자발적 수업 혁신 사례 공유는 AI 시대에도 아날로그적 소통과 기술 활용의 균형을 모색하는 교육 방향을 제시합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "교육부 'K교육 AI' 내년 공개···李 \"기본도구로 쓰게 해야\"",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kRElmMVp4aHBUVGtaNWhUeXpMUGpZeVdyQkRaSGVhejdzUzJ5M0JGakZ4M1hUQzlYQXpJbXpyelJ5cUEzVm16cDEzMENHdHNwRWlv?oc=5",
+    "source": "네이트",
+    "published": "2025-12-12",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "교육부",
+     "개인화 학습"
+    ],
+    "summary": "K-교육 AI는 교사의 역할 변화를 촉진하고 학생 맞춤형 학습을 지원하는 중요한 도구가 될 수 있다는 점에서 긍정적입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "경기도교육청-아주대, 여주 흥천중 체험형 성교육…농촌 교육격차 해소",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ULTB2eC1Rb2dpUUNWX1FGNTBKazRORnAwMy1pOGFnMmQ0cjVRZnFqWE16OHNMdUpRV3BwU3VsYlNqNnFXS0NWcFBTaXhoX0w0alpxNHZpaFdTdw?oc=5",
+    "source": "데일리엔뉴스",
+    "published": "2025-12-12",
+    "keyword": "에듀테크",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "체험형 성교육 확대를 통해 농촌 교육격차를 해소하려는 시도는 긍정적이며, 지역사회 연계 교육 모델 확산에 기여할 수 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "[단독]교육부, 처음으로 '인공지능' 넣은 부서 신설…AI 인재양성 박차",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zdFpGR1VsNWhLMElVU0RfSlFIZ2NGYml4UVVCSFZLMzF1cGtaTFd0Y2xha3BCcmdkQ0Y0SVNETEdyMENIMzVLQ212OWJESXlya1VF?oc=5",
+    "source": "네이트",
+    "published": "2025-12-12",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "교육부의 AI 부서 신설은 AI 인재 양성을 위한 정부 차원의 본격적인 투자와 교육 현장의 AI 교육 도입 가속화를 의미합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "최교진 교육부 장관 \"AI시대 '서·논술형' 평가 확대\"",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpeHFJOTlRX3J3cXlmSHVnNUIxVGRBN0M4S2xYSjN4dG1Ta3VkdmNmc1RPM0UwNndEdmE4QXo2THExRE01VE00V091a1lVek00VEU4N0hVNnlqRURfb3l5Qg?oc=5",
+    "source": "아시아경제",
+    "published": "2025-12-12",
+    "keyword": "인공지능교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "AI 시대에 발맞춰 서·논술형 평가 확대를 통해 학생들의 고차원적 사고력과 문제 해결 능력을 향상시키는 교육 혁신이 필요합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Decoding Student Minds: Leveraging Conversational Agents for Psychological and Learning Analysis",
+    "url": "http://arxiv.org/abs/2512.10441v1",
+    "source": "",
+    "published": "2025-12-11",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "에이전트",
+     "LLM",
+     "개인화 학습"
+    ],
+    "summary": "본 논문은 LLM, KG-BERT, LSTM 기반의 심리 인지적 대화형 에이전트를 통해 학생의 학습 성취도 향상 및 스트레스 감소를 유도하고, 멀티모달 데이터를 융합하여 학생 맞춤형 교육을 제공하는 가능성을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Nour El Houda Ben Chaabene', 'Hamza Hammami' 외 1명",
+    "pdf": "http://arxiv.org/pdf/2512.10441v1"
+   },
+   {
+    "n": 2,
+    "title": "Teachers’ digital competencies in higher education: a systematic literature review",
+    "url": "https://www.semanticscholar.org/paper/bea4b103903b4153750a0a8d062dcbb2e8f180f8",
+    "source": "semantic_scholar",
+    "published": "2022-02-10",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 Web of Science와 Scopus에 등재된 2000-2021년 논문을 체계적으로 분석하여 대학 교사의 디지털 역량 수준이 낮거나 중간 정도이며, 특히 교육 평가 관련 역량이 부족함을 밝히고, 실질적인 맞춤형 연수 프로그램 개발의 필요성을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Verónica Basilotta-Gómez-Pablos, M. Matarranz 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Higher education and the Sustainable Development Goals",
+    "url": "https://www.semanticscholar.org/paper/d4a3170180c7c2bb00e6a8dbd43e1b5f63f1b607",
+    "source": "semantic_scholar",
+    "published": "2020-11-06",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 고등 교육이 SDG 4를 넘어 인재 양성, 지식 창출, 혁신을 통해 지속가능발전목표(SDGs) 달성에 기여하는 중요한 역할을 분석하고, 대학의 사회적 기여 확대를 위한 다양한 사례를 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "M. Chankseliani, T. McCowan",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "Transitioning to E-Learning during the COVID-19 pandemic: How have Higher Education Institutions responded to the challenge?",
+    "url": "https://www.semanticscholar.org/paper/b1afdfd732dee86efd9498b14141e3a81fbcf349",
+    "source": "semantic_scholar",
+    "published": "2021-06-23",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 COVID-19 팬데믹으로 인한 고등 교육 기관의 온라인 교육 전환 과정에서 겪는 어려움(기술 접근성, 역량 부족 등)을 분석하고 성공적인 온라인 교육을 위한 전략(학습 공동체 조성, 혼합형 학습 확대 등)을 제시하며, 기술 강화 학습 허브 모델을 제안하여 교육 환경 개선에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "D. Turnbull, R. Chugh 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "Balancing Technology, Pedagogy and the New Normal: Post-pandemic Challenges for Higher Education",
+    "url": "https://www.semanticscholar.org/paper/8a1b65d4c497562b4b280874b0750f16c3a6a93f",
+    "source": "semantic_scholar",
+    "published": "2021-08-09",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "코로나19 팬데믹으로 인한 비자발적인 온라인 교육 경험을 바탕으로, 고등 교육은 디지털화보다는 교육학적 접근을 강조하여 능동적이고 유연한 학습을 위한 물리적/디지털 도구의 조화로운 통합을 추구해야 합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Chrysi Rapanta, L. Botturi 외 1명",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "구글, AI ‘사실성’ 표준 벤치마크 공개...\"실 성능 맞춰 적절한 모델 사용해야\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204751",
+    "source": "AI Times",
+    "published": "2025-12-12",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "벤치마크"
+    ],
+    "summary": "구글의 사실성 벤치마크 공개는 AI 모델의 신뢰도를 높여 사용자에게 적합한 모델 선택을 유도하고, AI 기술 발전 방향에 중요한 지침을 제공할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "타임, 올해의 인물로 젠슨 황·알트먼 등 'AI 설계자들' 선정",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204738",
+    "source": "AI Times",
+    "published": "2025-12-12",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "OpenAI"
+    ],
+    "summary": "타임의 AI 설계자들 선정은 AI 기술 발전의 주역들을 조명하고, AI 생태계 성장에 대한 기대감을 높이는 상징적인 사건입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "GPT-5.2 lands to top Google's Gemini 3 in the AI benchmark game just four weeks after GPT-5.1",
+    "url": "https://the-decoder.com/gpt-5-2-lands-to-top-googles-gemini-3-in-the-ai-benchmark-game-just-four-weeks-after-gpt-5-1/",
+    "source": "The Decoder",
+    "published": "2025-12-11",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Google",
+     "Gemini",
+     "벤치마크"
+    ],
+    "summary": "GPT-5.2의 성능 향상은 AI 모델 경쟁 심화를 보여주며, 기술 리더십 확보를 위한 기업들의 투자 및 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "OpenAI, GPT-5.2 공개…“코드 레드 상황 속 최첨단 추론 AI로 반격 나서”",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14TlpCbFRlNElqYlF3ZzFMcmtnQTRsM1JwZndaVWJKNVhmQW5yaFo3MUlTUkhtTGRwMlQ1QUpoV01HTmdwSDd1Y1lhNWpjTkU?oc=5",
+    "source": "데브타임즈",
+    "published": "2025-12-12",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT",
+     "추론 모델"
+    ],
+    "summary": "OpenAI의 GPT-5.2 공개는 더욱 치열해지는 AI 경쟁 속에서 추론 능력 강화를 통해 시장 주도권을 유지하려는 전략적 움직임입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "페이페이 리 “AI 협업 능력이 학위보다 중요”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204754",
+    "source": "AI Times",
+    "published": "2025-12-12",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 시대에는 학위보다 AI 협업 능력이 인재 평가의 핵심 기준으로 부상하며, 기업은 실질적인 AI 활용 역량 중심의 채용 전략을 강화해야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "세계 최고 AI모델은? ‘제미니 3’ 대항마 ‘GPT-5.2’ 등장",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QNkZXcGRqWlNvczBCd3NsaXA3M19DeFZiUjhCU2dpLUZfMDZaMFltc3liTlJXYnZLdjYzbXBtQ0xGSnBrQ3hYZDBXRWctSXFPTWV2aGxnQnZ5ZkV4TmdlYWRUQ1ZJeDlG0gFsQVVfeXFMUE92WEFvSnVyMTROckt6TkhCTnBWcnl2TjVVcXdNd24tcS15Nzl5TGFnakRZMzgwSWxTa05tS2VTaXVGV2xsMjV3VXRFRGJvRXY4ME1jUFVaN3Y4NFlMbk1JTHFhbnloOUJvN3Jq?oc=5",
+    "source": "중소기업투데이",
+    "published": "2025-12-12",
+    "keyword": "오픈AI",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Gemini",
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.2의 등장은 AI 모델 경쟁 심화를 예고하며, 산업 전반의 혁신 가속화와 동시에 기술 종속 심화 우려를 낳습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "서울대·구루미·교원대, 에듀테크 ‘진짜 효과’ 입증한다… AI 기반 실증 연구 착수",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMbTFObkVDS0JGN3pMdW0xWUF1eWNIN01JSnhQajd5Z3BuNGFxQzF5QUFXa21DTTk1Z2Jhblpud3kwR1ZhTUxCdnhza0NCOER3WG1ydWJzSUFEV2JCZUdYdDZqcFhmdWs?oc=5",
+    "source": "인공지능신문",
+    "published": "2025-12-12",
+    "keyword": "AI연구",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "에듀테크 실증 연구는 AI 교육 효과 검증을 통해 시장 신뢰도를 높이고 맞춤형 교육 AI 기술 발전을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "[AI웹툰] 사랑하면그사람이된다 : 4화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204758",
+    "source": "AI Times",
+    "published": "2025-12-13",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 웹툰의 발전은 콘텐츠 제작 방식 혁신을 가속화하고, 관련 기술 및 플랫폼 시장 성장을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "구글, 웹페이지 맥락 읽고 바로 관련 앱 생성하는 '디스코' 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204744",
+    "source": "AI Times",
+    "published": "2025-12-12",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "구글 디스코는 웹 앱 개발 간소화로 AI 기반 앱 생태계를 확장하고, 사용자 맞춤형 웹 경험을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "교육부, \"'K교육 AI' 개발하고 지역별 교육·연구 허브 구축\"",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fRDdlRGFrcHo3RUx5UnIwcTJuQU13QllGd1VMZ2RINk5WaW1QRDA0eXFKb1BoMkQyUHVCcWJXY1lEMWdaQmVFREtDU1h5TXg2SHkxNHp2UWU5UQ?oc=5",
+    "source": "뉴스1",
+    "published": "2025-12-12",
+    "keyword": "AI연구",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "K-교육 AI 개발 및 허브 구축은 에듀테크 산업 활성화와 교육 격차 해소에 기여할 수 있는 중요한 발걸음입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 기술과 뇌과학 기반 학습법이 교육 혁신을 주도하고, 교육 불평등 해소 및 AI 인재 양성에 힘쓰며 미래 교육을 향해 나아가는 긍정적인 변화가 돋보입니다.",
+  "tech": "AI 기술 경쟁이 심화되는 가운데, AI 모델 성능 향상과 활용 분야 확대를 위한 연구 및 투자가 활발히 이루어지며, 교육 분야를 중심으로 AI의 실질적인 효과를 검증하고 적용하려는 움직임이 가속화되고 있다."
+ }
+}

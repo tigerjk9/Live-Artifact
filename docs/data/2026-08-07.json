@@ -1,0 +1,417 @@
+{
+ "date": "2026-08-07",
+ "generated_at": "2026-11-02T11:41:10+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[사설] 교육현장 의견 무시 교부금 개편 안된다",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xamNMZ09YNEQ3S2d4NzJmYjRKRlNPcVhVbzZJWGZpS1l6bXlDZFNmdVp2RkVER0JTS0Y2Xzk3eE5DbkdhZk5fdFNLZlNRMVByMTZ6ZGJyVS14akZCWlhSYUFnN00xWE0?oc=5",
+    "source": "제민일보",
+    "published": "2026-08-06",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [
+     "교육 예산"
+    ],
+    "summary": "교육현장의 의견을 무시하는 교부금 개편은 이루어져서는 안 된다는 주장이 제기되었습니다.",
+    "implication": "학생들이 교육 정책이 학교 현장에 미치는 영향을 실제 사례로 인식할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "한국IB교육학회, 국교위 대입 서·논술형·절대평가 공론화 추진 환영",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rMmNiUFBkaTZnM0QweGFkWHZWUzA0ZVZEeXd6eUg2M1hyZ1hOZm9melk0ZVBoRjBvVlo5ZU1Yd0NIUDZCV3ZFemxjWVRZbFRidERfWmxLSktxenVwMEhNWVJVeGpGT1pVVFRCQnNn?oc=5",
+    "source": "자연치유일보",
+    "published": "2026-08-06",
+    "keyword": "과정중심평가",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [
+     "수능·대입"
+    ],
+    "summary": "한국IB교육학회는 국교위의 대입 서·논술형·절대평가 공론화 추진을 환영했습니다.",
+    "implication": "대입 서·논술형 및 절대평가 공론화에 따라 학생들의 심층적 사고와 표현 능력을 키우는 데 집중할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "인천시교육청AI융합교육원, AI 수업설계 전문가 양성",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40cHZVanZzX0VtUjFubExjX0hIdVdkbFc5bFhBbHcyRzV2M1huOEhHZG9PWnltNmJxQ0hYQ1JScnZYLWxLaUh6OHdxWFZYU2NVNXBpVzNKRHVoX2d3ckZqNWV6Wnc?oc=5",
+    "source": "매일일보",
+    "published": "2026-08-06",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청AI융합교육원에서 AI 수업설계 전문가를 양성한다.",
+    "implication": "AI 수업설계 전문가들이 양성되어 교사가 AI로 수업을 설계하고 자료를 만들 수 있을 것입니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "인천시교육청 AI융합교육원, 교원 AI 수업설계 연수·초등생 STEAM 캠프 운영",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uMjlzdFR3V1JXcndwYVUtdmxaMlFfV3hXeHp3ZU0wR0MxS1dNMWdmZzc4VmFKYzNEUzhXWFVQSkJLR3BVZVBkMTJKd3hhcThWOU1pLXk2MXVaVlUtZE5MRTBkZXFGd2M2N1E?oc=5",
+    "source": "비즈월드",
+    "published": "2026-08-06",
+    "keyword": "인공지능교육",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청 AI융합교육원은 교원 AI 수업설계 연수와 초등생 STEAM 캠프를 운영합니다.",
+    "implication": "인천시교육청의 AI 수업설계 연수를 통해 AI를 활용한 수업 방안을 배울 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "대전시교육청, 초등 교원 대상 탐구수업 설계 직무연수 운영",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE15STJsVjJCR2l3anpwamcyU29ET3hGWjluN2h3V3RSVlh0ZF91bV9wdktYcFM1SzBrdkhQcTBaUU05WlVpTWx0VlJuX2J2MDBJWW5lTVFlX1ZyUFdJZTY2YUUwTmhfblNGcVNXeGttMjdoUQ?oc=5",
+    "source": "웹이코노미",
+    "published": "2026-08-06",
+    "keyword": "수업이야기",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "대전시교육청이 초등 교원을 대상으로 탐구수업 설계를 위한 직무연수를 운영합니다.",
+    "implication": "이 연수를 통해 탐구수업을 계획하고 학생들의 능동적인 참여를 유도할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "전남광주특별시교육청, 2022 개정 교육과정 대비 초·중등 체육 교수역량 강화",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5yRXJNUDI2UmpFM1hYWlM4c1RiWmF0a1RwSm5IRDU5Ym94T3kzQnllRUJpQVFqWXNMWWQtVzAxR1R2a3FCRjlGWQ?oc=5",
+    "source": "브레이크뉴스",
+    "published": "2026-08-06",
+    "keyword": "에듀테크",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "광주시교육청"
+    ],
+    "summary": "전남광주 교육청이 2022 개정 교육과정 대비 초·중등 체육 교수역량 강화를 추진합니다.",
+    "implication": "이번 교육으로 2022 개정 교육과정을 반영한 체육 수업을 효과적으로 운영할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "경기도교육청, 한국어 교육 국제협력 확대… 뉴질랜드 교육현장과 교류 강화",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5hV3VSLUd4bE1USEpDN1pvamhGWXZjdV9ZRlZiNEhtYkJFTDJxRVhzRWFWcDRmZk1XWC1tNU1NQVBkY0tCVzBHVVVnVkNwQW1VMHJOSjhnVWVGUFUxRXNlTFNPSUU0VEZWV2UyeFJGdWZuemVDWms4anBR?oc=5",
+    "source": "로이슈",
+    "published": "2026-08-06",
+    "keyword": "교육현장",
+    "topic": "global",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청이 뉴질랜드 교육현장과의 교류 강화를 통해 한국어 교육 국제협력을 확대합니다.",
+    "implication": "이 소식을 통해 학생들에게 뉴질랜드 문화와 한국어 교육의 국제적 위상을 소개할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "AI 기반 수업설계 뒤엎은 선도교사 1만명, 부산 벡스코 콘퍼런스서 고백",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE96Y2hNYUpZejJLcTR0bzZ4VlRvSHlqMVIyLUk1bDVILVNySTBhSHNYSGl5NHFKMkZWaXVCQkNEdVZOTlY4RTR5SVJvQzQ?oc=5",
+    "source": "한국AI부동산신문",
+    "published": "2026-08-06",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "선도교사 1만 명이 부산 콘퍼런스에서 AI 기반 수업설계를 뒤엎었다고 고백했습니다.",
+    "implication": "AI 수업설계 활용 시 현장 교사의 경험과 판단을 기반으로 학생 상황에 맞춰 수정 보완할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "전북교육청, 인공지능(AI)로 전국 교육정책 동향 빠르게 읽는다",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkQnIxa0RMOUhWWkt3ZVY2VnZaU3ZoMWxQTlZweldpcHRkWUt0anktdmhBZGF4YVc3UlppYmpJUE9uM3pYaVdtNkh1WFNKYmJhM0JldjBHcnVDRVlY?oc=5",
+    "source": "아시아뉴스통신",
+    "published": "2026-08-07",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "전북교육청"
+    ],
+    "summary": "전북교육청이 인공지능(AI)을 활용하여 전국의 교육정책 동향을 신속하게 파악합니다.",
+    "implication": "학생들에게 AI가 실제 교육행정 분야에서 정책 분석에 활용되는 사례로 소개할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "울산교육정책연구소, 연구 용역 중간 보고회",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE84UV9pMnNSZll4SlI1dmliUFNZSUNEbGt0M2FHdGdhY3lZSnlQRHB0R1lzekJhakJNREV0ZzB4UzQ1RjNwUER1Um4xdV9ocWdvcjdyMHkwZVlMTFN0bFUtdXV6SHRQZw?oc=5",
+    "source": "울산제일일보",
+    "published": "2026-08-06",
+    "keyword": "교육정책",
+    "topic": "global",
+    "kind": null,
+    "entities": [
+     "울산시교육청"
+    ],
+    "summary": "울산교육정책연구소에서 진행 중인 연구 용역의 중간 보고회가 개최되었습니다.",
+    "implication": "교육정책연구소의 새로운 교육 정책 방향을 미리 확인하여 수업 개선에 참고할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Artificial Intelligence in English Language Education: Transforming Writing, Pedagogy, and Academic Integrity",
+    "url": "https://doi.org/10.71317/kjard.2.8.2026.320",
+    "source": "openalex",
+    "published": "2026-08-04",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "영어 교육 분야에서 AI가 작문, 교수법, 학업 윤리에 미치는 영향을 학생 및 교사 인터뷰로 분석하여, AI의 긍정적 잠재력과 윤리적 과제를 동시에 제시하고 새로운 교육 지침 및 평가법 도입을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Mubeen Ijaz, Madiha Sadiq",
+    "pdf": "https://rjsaonline.org/index.php/KJARD/article/download/320/470"
+   },
+   {
+    "n": 2,
+    "title": "Development and preliminary evaluation of a digital platform for surgical anatomy education",
+    "url": "https://doi.org/10.1038/s41598-026-64564-y",
+    "source": "openalex",
+    "published": "2026-08-04",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "모바일 기반의 디지털 수술 해부학 플랫폼 'Anatomy Unlocked'는 3D 모델과 전문가 노트를 활용하여 단기 해부학 학습 및 학습자 참여를 향상시키며, 기초 해부학 교육과 응용 수술 해부학 교육의 연결을 강화하는 데 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Hairul Ahmad, Joyce El Haddad 외 1명",
+    "pdf": "https://www.nature.com/articles/s41598-026-64564-y_reference.pdf"
+   },
+   {
+    "n": 3,
+    "title": "Exploring Collaborative Learning in English Classrooms: Teachers’ Challenges on Peer-Assisted Instruction",
+    "url": "https://doi.org/10.38124/ijisrt/26jul1546",
+    "source": "openalex",
+    "published": "2026-08-04",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "현상학적 질적 연구를 통해 영어 교사들이 동료지원 학습(PAI) 운영 시 겪는 도전과 대처 방안을 심층 분석하여 학생 준비성, 행동, 평가 문제를 밝히고 교육 현장의 제도적 지원 및 교사 역량 강화의 중요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Wenie Jane L. Rubillar",
+    "pdf": "https://www.ijisrt.com/assets/upload/files/IJISRT26JUL1546.pdf"
+   },
+   {
+    "n": 4,
+    "title": "Curriculum Development and Teaching Reform of the Architectural Design Methods Course in the Context of Urban Renewal",
+    "url": "https://doi.org/10.26689/jcer.v10i7.15735",
+    "source": "openalex",
+    "published": "2026-08-05",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "도시 재생 맥락에 맞춰 건축 설계 방법론 과정을 6개 모듈로 재구성하고 프로젝트 기반 블렌디드 학습 및 전문가 공동 교육을 도입하여 학생의 학습 성과와 실무 역량을 향상시키는 전이 가능한 교육 개혁 모델을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Wei Chang, Yifan Gao 외 1명",
+    "pdf": "https://ojs.bbwpublisher.com/index.php/JCER/article/download/15735/13839"
+   },
+   {
+    "n": 5,
+    "title": "Exploring Fraction Comprehension and Interest in Elementary Education Through AI-Powered Personalized Learning",
+    "url": "http://arxiv.org/abs/2608.04892v1",
+    "source": "",
+    "published": "2026-08-05",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "본 논문은 AI 기반 맞춤형 학습(Mathbot)이 초등학생의 분수 이해도를 향상시켰으나 교사의 핵심적 역할은 유지됨을 준실험 연구로 입증하며, AI 교육의 가능성과 한계에 대한 논의에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Kenneth Holman']",
+    "pdf": "http://arxiv.org/pdf/2608.04892v1"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "MS, 사내 개발자 기본 모델로 'GPT-5.6 솔' 지정...\"효율 최우선\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213604",
+    "source": "AI Times",
+    "published": "2026-08-06",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Microsoft",
+     "ChatGPT"
+    ],
+    "summary": "MS의 사내 AI 모델 표준화는 개발 효율을 극대화하며, 기업 전반의 AI 활용 및 생산성 혁신을 가속화하는 전략적 전환점입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "바이트댄스, 전이중 AI '시드리얼타임' 출시...\"실시간 멀티모달 모델\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213615",
+    "source": "AI Times",
+    "published": "2026-08-06",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "바이트댄스의 실시간 전이중 멀티모달 AI 출시는 인간과 같은 자연스러운 AI 상호작용의 시대를 열어 대화형 AI 시장의 혁신과 경쟁을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "OpenAI improves GPT-5.6 Sol in ChatGPT and restricts free users to its weakest model",
+    "url": "https://the-decoder.com/openai-improves-gpt-5-6-sol-in-chatgpt-and-restricts-free-users-to-its-weakest-model/",
+    "source": "The Decoder",
+    "published": "2026-08-06",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "오피니언: OpenAI의 유료화 전략은 AI 기술 생태계에서 최첨단 모델 접근이 유료 구독 기반의 계층화된 서비스 모델로 전환될 것임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "하태진 버넥트 대표 \"제조 AX 열쇠는 AI 안경…안전·로봇까지 확장\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213579",
+    "source": "AI Times",
+    "published": "2026-08-07",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "로봇·휴머노이드"
+    ],
+    "summary": "AI 안경은 AI와 AR 기술을 융합, 제조 현장의 AX를 가속하며 AI 기술의 적용 범위를 안전 및 로봇 영역으로 확장할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[OpenAI API 입문 튜토리얼: 첫 AI 애플리케이션 만들기] OpenAI는 이제 단일 질문에 답하는 수준을 넘어 복잡한 멀티스텝 작업을 자율적으로 완수하는 AI 에이전트에 주목하고 있다. 에이전트는",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBYWFdya3NEZElxS2JLYUdrQkpTMHhycVFPMEJHRWNBSHFKcGxNeW5CZEpqRjVVaVdKNDVuOWNuYlg?oc=5",
+    "source": "AI넷",
+    "published": "2026-08-06",
+    "keyword": "API",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "에이전트"
+    ],
+    "summary": "OpenAI의 AI 에이전트 집중은 AI 기술이 단순 질의응답을 넘어 복잡한 작업을 자율 수행하며 산업 전반의 자동화 및 혁신을 이끌 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "오픈AI ‘아스트라’ 내주 출시되나…GPT-5.7 유력, GPT-6 가능성도",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HOEJiN0pTUkpEa2dKa1FFMW94TXpWQVdLUHVpS1dPQ0NLRmhaVG9mbU1NMEtCM2tpcVRGbWNFcnJ0VHdPOFg4MEZ2U01LeFBSRHZnSmlyTWFvalJrZlAwWTZmeG9DZ2NxbmJFRGhwYUdLdTdPdjRN?oc=5",
+    "source": "이코노미트리뷴",
+    "published": "2026-08-06",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "오픈AI의 차세대 모델 출시는 AI 기술 생태계의 혁신을 가속화하고 산업 경쟁 구도 재편을 이끌 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "LGU+, 2분기 영업익 3445억 달성...\"AIDC 투자, 현금흐름 내 안정적 진행\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213607",
+    "source": "AI Times",
+    "published": "2026-08-06",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "LG"
+    ],
+    "summary": "LGU+의 안정적인 AIDC 투자는 국내 AI 산업의 기반을 강화하고 생태계 성장을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "Advancing the price-performance frontier with GPT-5.6",
+    "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "source": "OpenAI Blog",
+    "published": "2026-07-30",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.6은 AI 모델의 가격 대비 성능을 혁신하여 AI 기술의 대중화와 상업적 활용을 가속하고 시장 경쟁을 심화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "엔비디아,자율주행용 VLA 모델 '알파마요 2 슈퍼' 공개...로보택시 상용화 겨냥",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213616",
+    "source": "AI Times",
+    "published": "2026-08-06",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA"
+    ],
+    "summary": "엔비디아의 VLA 모델 공개는 자율주행 AI의 행동 지능을 통합 고도화하며 로보택시 상용화의 핵심 전환점이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "\"소송도 인공지능(AI) 시대\" 아산시, 챗지피티(ChatGPT) 활용 소송실무 교육 실시",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1FSGpIQm1sZXQ5RDFLRVpyQmlYeTllMVNtQ1E1MlZFYXhmS1dGVXU1dk1Tdm9FUHdZeFozcGxWeTNaSXZQSTQzNDRxdlJ4bDZBeHVDWXdFd1FkTTFuSzczcXBRMGhuQQ?oc=5",
+    "source": "한국미디어뉴스",
+    "published": "2026-08-06",
+    "keyword": "인공지능",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "저작권·소송",
+     "ChatGPT"
+    ],
+    "summary": "공공기관의 법률 분야 AI 활용 교육은 AI 기술의 전문 직무 영역 확산과 관련 시장의 성장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

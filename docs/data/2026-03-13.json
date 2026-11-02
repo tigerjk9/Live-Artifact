@@ -1,0 +1,431 @@
+{
+ "date": "2026-03-13",
+ "generated_at": "2026-11-02T11:53:22+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[칼럼] 첫 문장은 쓰레기통에 버려라 : 완벽주의라는 이름의 살인마를 죽이는 법",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE04MVRMUEJGdmlJWnV3aXdrOThSTVBNQ1pocnZuVzV5UWtRYTMxU3kwbEU4UDVaTUJBbW5jdGFKMWtuYWhoZ2dVTWo5Q1E?oc=5",
+    "source": "한국AI부동산신문",
+    "published": "2026-03-12",
+    "keyword": "뇌과학",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 2,
+    "title": "[기고]좋은 아동정책이 좋은 형사사법정책이다",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8ycWkwRE9fNl9hSHhhNUthYTZ0RlVNRlkyRFROcUZkQUswMHgtazJBZmNDYzBNcExHWGhhQ3h4dXpKRFlQc3ZyX1RlREQ5emZvcGNHRWNjUnBXcHN6UVB30gFfQVVfeXFMTzJxaTBET182X2FIeGE1S2FhNnRGVU1GWTJEVE5xRmRBSzAweC1rMkFmY0NjME1wTEdYaGFDeHh1ekpEWVBzdnJfVGVERDl6Zm9wY0dFY2NScFdwc3pRUHc?oc=5",
+    "source": "경향신문",
+    "published": "2026-03-12",
+    "keyword": "뇌과학",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 3,
+    "title": "[기고] 교사가 넓힌 견문 국가 미래가 된다",
+    "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2262399",
+    "source": "대전일보",
+    "published": "2026-03-12",
+    "keyword": "",
+    "topic": "teacher",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "교육이란 무엇일까? 그것은 마치 원석 같은 아이들을 정성껏 보살펴 우리 사회를 든든하게 지탱하는 기둥으로 키워내는 과정과 같다. 그 소중한 여정의 첫걸음으로 마주한 창원 두산에너빌리티의 현장은 교과서 속의 잠자던 과학 이론들이 국가의 미래를 결정하는 생생한 현실로 어떻게 변하는지를 명확히 보여주고 있었다.이번 시찰은 대한민국의 에너지 기술이 가진 자부심을",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "AI가 채점하고 교사가 피드백한다… ‘한국형 IB’ 평가 혁신 모델 제안",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMYmdjTWQ2al9tQ2lnZGFfYjM1VVNNcm52Z01yc0txUkllUXhHNUlVNzlDNHNpdTA4ZkJKN19nbHdQN29XbWY0VGpYb0tmVGxDcVhSZldkSEdISXh6Rm9YOFJKMFE5Zw?oc=5",
+    "source": "한국대학신문",
+    "published": "2026-03-12",
+    "keyword": "에듀테크",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "IB"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 5,
+    "title": "인천시교육청, 190교에서 AI 교육 본격 추진",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pM01VeDJPbkVQYVFIWEMzT3E3ekhwWDdOTkdXdm5XR2FRdlZURTZRdVlHUDl1UWE1RXlrel8yTlFvaU5nVnQ0TmhNUVBuRlkxcm5fVHBTV1ZYWndVYlpkQUo5LVRfaFVZ?oc=5",
+    "source": "경인매일",
+    "published": "2026-03-12",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 6,
+    "title": "대전교육연수원, 디지털 교육·IB·학교복합시설 등 미래 대비 역량 강화",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wNGl3UzZ0b09kSkZhdTM4cmo5RW1YVUlkaVlneDA0SFdGVHpOOE44NDNsTk9XQmU0RTd4M0p2LTQwZHJnZ1p2N2dFLV81bW5uOWM2OEduSnVaQV90WC1lTjk2RzBIcGY1LUE?oc=5",
+    "source": "뉴스밴드",
+    "published": "2026-03-12",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "대전시교육청",
+     "IB"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 7,
+    "title": "[기획]정근식 서울시교육감 “2026년은 교육 패러다임 전환 체감의 해…‘경쟁’ 넘어 ‘협력’으로”",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9qSGNqY0I4T25Fc3FUZ2s0MzFVNnp2M2hVbE9xd09ac0tDa0VjRXhOX0EzS05Qb0hnZmhfeW1XWmNnNG1GeGpjTlozSi1ucDFiSnc5QVRSMkbSAVhBVV95cUxPakhjamNCOE9uRXNxVGdrNDMxVTZ6djNoVWxPcXdPWnNLQ2tFY0V4Tl9BM0tOUG9IZ2ZoX3ltV1pjZzRtRnhqY05aM0otbnAxYkp3OUFUUjJG?oc=5",
+    "source": "전북일보 인터넷신문",
+    "published": "2026-03-12",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": "feature",
+    "entities": [
+     "서울시교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "경기도교육감 단일화 비율 19일 결정 목표",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DbEVhbUludm1BcEZkaGFjWnNhd0swcU81dW9xRWlJUTg4aExjcEhPMS1IaXJwcVFWa1VzSC1fQWk3TElWREp1RTVzeDlWRjkyUjl3aGhPU2R5dFBPdmZxa2VCcUQ1Rm9oMERhT3VBLVQ?oc=5",
+    "source": "인천일보",
+    "published": "2026-03-12",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "조용식 노옥희재단 이사장, 울산교육감 선거 출마 선언",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wSDdWOHJ5ZjkwNGZXZ1hDdEIxZnIwbDJmc3NwZ1Zyd0k2M0NjYzBHaExXdTBoT2Q4TEJob2ZHT0Z6ODd4Zk16MVFkSFZJUXZGWDZVelRxclBFdGPSAWBBVV95cUxQNGdNQ3l6ZlI2RlBycTBtQ0h0azljQndnaHRxUjR5elV0WURhVEFqYWZZZDJmLXBWMWdGdVNxN1Y1ZHhvYXQ1YzlXMWNBa0NNT0RGZHZ1OG9NNjRmTWdqamY?oc=5",
+    "source": "연합뉴스",
+    "published": "2026-03-12",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "울산시교육청",
+     "교육감 선거"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 10,
+    "title": "김주홍 울산시교육감 예비후보, 교육 5대 핵심공약 발표",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xNVhKdTVkZGNOendzN05UdkQzcmNEa2pXYTRZelFSS0JmNVoxclN4dnlDYmZNbHZXa0c2dDNTYWJFWk16dXZnQzJOd3M0MmN6YzgzOW0xeFNIdWxGeUplVzBGaFRTeXNYWkpTUm5n?oc=5",
+    "source": "울산종합일보",
+    "published": "2026-03-12",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "울산시교육청",
+     "교육감 선거"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Educational technology: Exploring the convergence of technology and pedagogy through mobility, interactivity, AI, and learning tools",
+    "url": "https://www.semanticscholar.org/paper/2f6f13732a3710db88a4fc4b95dd52f75c096404",
+    "source": "semantic_scholar",
+    "published": "2023-11-27",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [
+     "AI 튜터"
+    ],
+    "summary": "본 논문은 모바일, 상호작용성, AI, 학습 도구의 융합을 통해 교육 혁신을 분석하고, 개인 맞춤형 지능형 튜터링 시스템과 기술 실험을 기반으로 학습 모델을 개선하여 교육 접근성을 높이고 학습 효과를 극대화하는 통합 모델을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ashraf Alam, Atasi Mohanty",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "Korean in-Service Teachers’ Perceptions of Implementing Artificial Intelligence (AI) Education for Teaching in Schools and Their AI Teacher Training Programs",
+    "url": "https://www.semanticscholar.org/paper/fdf9ba8511868a73e03d4c8197f31a4cf6bdd66f",
+    "source": "semantic_scholar",
+    "published": "",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "본 연구는 현직 교사들의 AI 교육 및 AI 교사 연수 프로그램에 대한 인식을 조사하여, 교사들이 AI 교육에 긍정적이나 이론 중심 연수보다 실제적인 수업 적용 기술 습득을 위한 실습 중심 교육을 요구하며, 이는 AI 융합 교육 분야 교사 양성 프로그램 개선에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Robert O. Davis",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "The Importance of Autonomous, Self-Regulated Learning in Primary Initial Teacher Training",
+    "url": "https://www.semanticscholar.org/paper/3f3c66d1e3f3b290f50eacb3deb906e784514509",
+    "source": "semantic_scholar",
+    "published": "2019-09-01",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제",
+     "교사 연수"
+    ],
+    "summary": "초등 교사 양성 과정에서 학생들의 자기 주도 학습 능력 개발을 위해 교사-학생 관계의 중요성을 강조하고, 교사 교육 자체가 자기 조절 학습 및 평생 학습 개념을 반영하는 방향으로 변화해야 함을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Sue Oates",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "REFLECT – A Teacher Training Program to Promote Gender Equality in Schools",
+    "url": "https://www.semanticscholar.org/paper/8f477e0d1e721a81f57de6ac51bba75189d57c0b",
+    "source": "semantic_scholar",
+    "published": "2020-07-31",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "REFLECT 프로그램은 교사의 성별 고정관념 성찰 및 성평등 교육 지식 함양을 통해 학생들의 잠재력을 성별에 관계없이 발휘하도록 돕고, 파일럿 연구 결과 교사의 역량과 학생들의 인식 개선을 보여 일반 교사 교육에 적용될 경우 교육 분야의 성평등을 지속적으로 증진할 수 있음을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Marlene Kollmayer, Marie-Therese Schultes 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "The impact of teacher training in special education on the implementation of inclusion in mainstream classrooms",
+    "url": "https://www.semanticscholar.org/paper/709106d538ff6f40fbbb90e9fb7c7c13726bde7d",
+    "source": "semantic_scholar",
+    "published": "2019-04-03",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "교사 연수",
+     "특수교육"
+    ],
+    "summary": "이스라엘에서 특수 교육 연수를 받은 교사 10명을 인터뷰한 결과, 일반 교사의 특수 교육 지식 부족과 포용 교육 실행의 어려움이 드러났으나, 연수 후 태도 변화와 포용 교육 실행 능력이 향상되어 모든 교사 양성 과정에 포용 교육 관련 교육 과정 도입의 필요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Orly Crispel, Ronen Kasperski",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "[3월12일] '킬러'가 된 AI 챗봇...\"즐거운 총격전 되세요\"라고 답한 딥시크",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207802",
+    "source": "AI Times",
+    "published": "2026-03-13",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "DeepSeek"
+    ],
+    "summary": "AI 챗봇의 윤리적 가이드라인 부재는 잠재적 위험을 야기하며, 개발 경쟁 속도 조절과 안전장치 마련이 시급함을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "오픈AI, 챗GPT 사용자 확보 위해 '소라' 통합 계획...무료 제공은 \"글쎄\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207797",
+    "source": "AI Times",
+    "published": "2026-03-12",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "오픈AI의 소라-챗GPT 통합은 사용자 확보에 기여하겠지만, 고비용으로 인해 수익성 확보가 중요해질 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "라인플러스, 영업·CS 특화 AI 에이전트 플랫폼 ‘액트엔진 AI’ 출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207816",
+    "source": "AI Times",
+    "published": "2026-03-12",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "라인플러스의 액트엔진 AI 출시는 기업들이 AI를 활용해 영업 및 고객 서비스 효율성을 극대화하는 추세를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "13개 AI 모델이 예측한 XRP의 2026년 가격—ChatGPT, Grok, Claude, Gemini가 공개한 전망",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY0lpZk81S3pJdEtNclB0RS1KR2RfbmtGM3BITTJjdjNUNlpreldFaldYanRtQVEwN2ZDdnR0U1NQek5rVDdHaENUT2pxcURva2p3UTY3MnNzc3Y0RTU4bkhrQlY5MG9fYm5kdzNSbFlzanIyYk9qeUl1WkN4QXhnTFBDa19BOC1xUlNVbVZCcXVWVkQ4U28tcWh4bHhVRkhHRHNJRzJIT1U0THgwbVJ4MHB5NmtPTTFVMl9EaG41Z28zYWplRzhR?oc=5",
+    "source": "Bitcoin.com News",
+    "published": "2026-03-12",
+    "keyword": "AI모델",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "xAI",
+     "Claude",
+     "Gemini"
+    ],
+    "summary": "다양한 AI 모델의 암호화폐 가격 예측은 기술적 분석의 새로운 가능성을 제시하지만, 예측의 불확실성과 변동성을 간과해서는 안 됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "유토파이, 영상 맥락 이해하는 전용 프로덕션 AI 엔진 ‘파이’ 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207809",
+    "source": "AI Times",
+    "published": "2026-03-12",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [],
+    "summary": "유토파이의 파이 엔진은 영상 제작 AI의 수준을 높여, 콘텐츠 제작 방식과 효율성에 혁신적인 변화를 가져올 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "Copilot Health marks Microsoft's entry into the AI health race alongside OpenAI and Anthropic",
+    "url": "https://the-decoder.com/copilot-health-marks-microsofts-entry-into-the-ai-health-race-alongside-openai-and-anthropic/",
+    "source": "The Decoder",
+    "published": "2026-03-12",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Microsoft",
+     "OpenAI",
+     "Anthropic"
+    ],
+    "summary": "마이크로소프트의 Copilot Health 출시는 AI 의료 시장 경쟁 심화를 예고하며, 빅테크 기업들의 AI 헬스케어 주도권 경쟁이 본격화될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "Grok 4.20 trails Gemini and GPT-5.4 by a wide margin but sets a new record for not hallucinating",
+    "url": "https://the-decoder.com/grok-4-20-trails-gemini-and-gpt-5-4-by-a-wide-margin-but-sets-a-new-record-for-not-hallucinating/",
+    "source": "The Decoder",
+    "published": "2026-03-12",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "xAI",
+     "Gemini",
+     "ChatGPT"
+    ],
+    "summary": "Grok 4.20은 환각 현상 감소에 집중했으나, 성능 격차로 인해 범용 AI 모델 경쟁에서 차별화 전략 수정이 필요해 보입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "앤트로픽의 ‘노동시장’ 분석… AI에 가장 노출된 직업은?",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207823",
+    "source": "AI Times",
+    "published": "2026-03-13",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Anthropic"
+    ],
+    "summary": "앤트로픽의 분석은 AI 자동화에 취약한 직업군을 명확히 제시하여, 인력 재교육 및 사회 안전망 구축의 시급성을 강조합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "구글, 이미지·영상·PDF까지 모두 처리하는 첫 '멀티모달 임베딩' 모델  출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207811",
+    "source": "AI Times",
+    "published": "2026-03-12",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "구글의 멀티모달 임베딩 모델은 다양한 데이터 간의 연계성을 높여 AI 성능을 혁신하고 관련 산업 발전을 가속화할 핵심 기술입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "xAI의 '매크로하드' 인원 대거 이탈...머스크 \"테슬라와 합작할 것\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207817",
+    "source": "AI Times",
+    "published": "2026-03-12",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "xAI"
+    ],
+    "summary": "xAI의 매크로하드 프로젝트 난항은 AI 스타트업의 이상적인 목표와 현실적인 자원 제약 간의 괴리를 보여주며, 테슬라와의 협력은 AI 기술 상용화의 현실적인 대안임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "tech": "AI 챗봇의 진화와 경쟁 심화, 멀티모달 기능 확장, 특정 분야(헬스케어, 노동시장) 적용, 그리고 기업 간 협력 가능성 모색 등 AI 기술 생태계가 더욱 다각화되고 전문화되는 동시에 미래를 향해 빠르게 나아가는 중이다."
+ }
+}

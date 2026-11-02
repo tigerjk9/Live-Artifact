@@ -1,0 +1,419 @@
+{
+ "date": "2026-02-19",
+ "generated_at": "2026-11-02T11:52:19+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[사경희 이사장 칼럼] 디지털 세대 갈등: 능력의 차이가 아닌 '경험의 시차'",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qdkN0cTdLM1h4WlI0UUZiaUF2VmxibHhzWFBpU3dPMUItM3UtN3NQVFUta0w1b253WDMwM0J2OWtGdnBNVGwtcjZ5UTVTNjRJaERvVW5UMWtFQ1dkMDVZRWRyTTdGb1FkR1Zmaw?oc=5",
+    "source": "캐어유 뉴스",
+    "published": "2026-02-18",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "디지털 세대 갈등 해소를 위해 교육은 디지털 경험 격차를 이해하고 포용하는 방향으로 나아가야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[칼럼] 정완 로스쿨 교수 “디지털페르소나의 통제와 피해구제”",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PTk8xLXRya0Q0TmhBR1hjblZreU80MkpGclB0QnJ3ZXhtT3VqVXN6MC1KbVo1TUhCNEpSaHNxTmVIb2FvVUpsWXFKS3MwMk9QU2djaXBoSmI2VkFwTTZvSW9SVU9tNnpmYjM1S9IBcEFVX3lxTE5fdFVyNjh5ZEoyTmY0azQwWEcwdlhWY1hwQzl6OHJham1aX3pqbVlIaGNiQXBVNXVmdXRnV3FJdGNsU0F6UXJ0RXB0bmF6SmsxZXBKNmF3WlY3VlhlU2Y1OHExWGpWSTZTR042SXZtbTU?oc=5",
+    "source": "로리더",
+    "published": "2026-02-18",
+    "keyword": "디지털전환",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [
+     "AI 리터러시"
+    ],
+    "summary": "디지털 페르소나에 대한 통제 및 피해 구제 논의는 학생들의 온라인 활동과 사이버 윤리 교육의 중요성을 강조하며, 교육 현장에서 디지털 리터러시 교육 강화의 필요성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[법률칼럼] 학습권보호",
+    "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2257969",
+    "source": "대전일보",
+    "published": "2026-02-18",
+    "keyword": "",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [
+     "학교폭력"
+    ],
+    "summary": "학교폭력 가해자로 지목된 학생의 학습권 보호 또한 간과해서는 안 될 중요한 문제이며, 공정한 조사 과정과 균형 잡힌 교육적 접근이 필요합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "경기도교육청, 올해 'IB 교육 일반화 정책' 본격화 추진",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1OVDNUZG9SSWVlMU4xS3JiamlZeDZSUGdVblczYnpNLWVTeWM5V19idWlLR0tESnJmNHBSakdHQ1VCSk1SaEVzWUk1UXY5czVoNmEyWmZwUdIBWEFVX3lxTFBFNFdQTGNVY21Td3BvcFlublFOTFBzS2Vld2xGYUduVkp1bW8tTl9IUFNOYkthVlZDSmJQN3ZFTld6YnhvSFZmZUhWVUJhR3UxY3ZQcU91QXQ?oc=5",
+    "source": "데일리안",
+    "published": "2026-02-18",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "IB"
+    ],
+    "summary": "경기도교육청의 IB 교육 일반화 정책 추진은 공교육 혁신에 기여할 수 있으나, 교사 역량 강화 및 평가 방식 개선 등 철저한 준비가 필요합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "“과학과 음악, 두 마리 토끼 잡는다” 피아노치는 ‘뇌과학자’…KAIST 화제의 졸업생",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11NE9JSlZUZmpYWWRDbWVKSERXa2RTMjZua3dUM01QLXFVT2J6U1RLLXpNQkhKVVhzdVVJVUxjN2d6NVVqUFZqNWw0blBrcEUwazFLSk5B?oc=5",
+    "source": "헤럴드경제",
+    "published": "2026-02-18",
+    "keyword": "뇌과학",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [],
+    "summary": "융합적 사고와 창의성을 길러주는 교육 모델의 가능성을 보여주는 사례로, 학생들의 다양한 잠재력을 발휘할 수 있도록 교육과정 혁신이 필요함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "국교위, AI 교육과정 틀 재구성…개념 정의·방향성 연구 착수",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE44V0ZITk01X19OZ000Q0NzU3Rsc1NnckZobXFFd1ZXVlV1amRaOGU3Vnp4cFU3SzIzUC1Qd3ZKLXRhbWlmT01IVDNxOUU4UQ?oc=5",
+    "source": "전자신문",
+    "published": "2026-02-18",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "국회"
+    ],
+    "summary": "국가교육위원회의 AI 교육과정 재구성은 미래 사회 대비 역량 강화의 중요한 발걸음이며, 교사의 전문성 함양 및 학교 현장의 적용 가능성을 높이는 방향으로 추진되어야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "경북 '공동교육과정 2.0'... 고교학점제 안착 속 대입 게임 체인저로 도약",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wNXg2bkNOVEtYU3pYYXc2c3Blc2xETkJzcjFtRUl3eFJnN0JCQjJ6S1hpQXZfRWl5TVFzeFhmRFJld3hhSFNxOWtfY1RPbGVDdWZwbGtwUU13MmNOVlIzR3NiWG9OQQ?oc=5",
+    "source": "교육을 비추다",
+    "published": "2026-02-18",
+    "keyword": "에듀테크",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "고교학점제",
+     "수능·대입"
+    ],
+    "summary": "경북 공동교육과정 2.0은 고교학점제 안착을 넘어 학생 선택권 확대와 대입 경쟁력 강화에 기여할 수 있는 긍정적인 변화입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "경기도교육청국제교육원, AI연계 G-LINK 도입",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LZVFBYlFuQXl0UGtRXzlUU0hRTzlBZ05Rc1lSRnoyWWlsN1RwXy04OFdydEkyb3lMNGFUQmVrbmNQRDFkSTJjb0dKS05XdlljYnY2cWJKREVBMWlrOUxKOEY0ZkJmQS01QmsxVWdB?oc=5",
+    "source": "전국매일신문",
+    "published": "2026-02-18",
+    "keyword": "AI교육",
+    "topic": "global",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "AI 연계 G-LINK 도입은 학생 맞춤형 국제 교육 기회를 확대하고 교사의 역량 강화에 기여할 수 있을 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "경기도교육청, 인공지능 기반 교원 역량 개발 시스템 ‘ G-LINK’ 도입",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nWHQwYUd1T2lJWjhGOWg2dC1KTGZaNUhtUFhfTjVkclZIb0FVdzh5S3NWNXF3SDRrcXFEZnViTV9SWkp3Wm5vYkIzY20zMWxhc252TmM5QXJMYzVCWHNxN2Y2dU1nUjhMbnc?oc=5",
+    "source": "부천포커스",
+    "published": "2026-02-18",
+    "keyword": "AI교육",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "G-LINK 도입은 교사 맞춤형 역량 개발을 지원하여 궁극적으로 공교육의 질을 향상시키는 데 기여할 수 있을 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "홍제남 \"서울교육감은 서울교육호의 선장, 나처럼 현장 알아야 운항 가능\"",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHa1FPRFpqQXRUZEZvTnFub3BFLVpnM1RheGlDY1VnbWZ2MkJjV3Jhd2d0VWFyRC1OLTYwZ19xZWxsVmVNOVhDenhyeXRPS0Vpd2ppdWVOWW5YMjB0N2V3RQ?oc=5",
+    "source": "네이트",
+    "published": "2026-02-18",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "서울시교육청"
+    ],
+    "summary": "서울 교육감은 현장 경험을 바탕으로 교육 정책을 수립해야 서울 교육의 실질적인 변화를 이끌어낼 수 있다는 점을 강조한 발언입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Application of Mobile Information System Based on Internet in College Physical Education Classroom Teaching",
+    "url": "https://www.semanticscholar.org/paper/f7295b04c18988854d7d20ce78732b360f6db7eb",
+    "source": "semantic_scholar",
+    "published": "2021-12-10",
+    "keyword": "",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 대학 체육 수업에서 인터넷 기반 모바일 정보 시스템을 활용하여 교육 과정 및 교사의 역량 강화, 학생들의 자발적인 학습 및 건강 증진을 도모하고, 설문 조사, 사례 분석, 비교 연구 등의 방법론을 통해 대학 체육 교육의 문제점을 분석하고 개선 방안을 제시하여 평생 스포츠 의식 함양에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Jiayi Li",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "Educational technology: Exploring the convergence of technology and pedagogy through mobility, interactivity, AI, and learning tools",
+    "url": "https://www.semanticscholar.org/paper/2f6f13732a3710db88a4fc4b95dd52f75c096404",
+    "source": "semantic_scholar",
+    "published": "2023-11-27",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [
+     "AI 튜터",
+     "개인화 학습"
+    ],
+    "summary": "본 논문은 모바일, 상호작용, 인공지능, 학습 도구의 융합을 통해 교육 혁신을 모색하고, 지능형 튜터링 시스템과 기술 실험을 활용하여 개인 맞춤형 학습을 지원하고 교육 모델을 발전시키는 방안을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ashraf Alam, Atasi Mohanty",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Empowering Education with Generative Artificial Intelligence Tools: Approach with an Instructional Design Matrix",
+    "url": "https://www.semanticscholar.org/paper/2eeff0f534d303581bc1199671600fbd04a2d01c",
+    "source": "semantic_scholar",
+    "published": "2023-07-25",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "본 연구는 4PADAFE 교수 설계 매트릭스와 생성적 AI 도구를 결합하여 MOOC 기반 교육에서 개인 맞춤형 학습 경험을 제공하고, 교육 효과를 향상시켜 21세기 디지털 교육의 요구를 충족시킬 수 있음을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Lena Ivannova Ruiz-Rojas, Patricia Acosta-Vargas 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "Exploring the Potential of an Intelligent Tutoring System for Sketching Fundamentals",
+    "url": "https://www.semanticscholar.org/paper/98733e4f3d5ce5c983715bd9606147c2424571fe",
+    "source": "semantic_scholar",
+    "published": "2020-04-21",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "AI 튜터"
+    ],
+    "summary": "Sketchtivity라는 지능형 튜터링 시스템을 개발하여 고등학교 및 대학교에서 스케치 기초 교육에 활용한 결과, 스케치 교육 경험을 개선하고 학생들의 자신감과 동기를 향상시키는 가능성을 확인했으며, 교육 현장에서의 기술 활용 가능성을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Blake Williford, Matthew Runyon 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "Handbook of Research on Science Education",
+    "url": "https://www.semanticscholar.org/paper/632a4ad39813444ebe48233680e701281de4b2c9",
+    "source": "semantic_scholar",
+    "published": "2023-01-25",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 과학 교육의 학습, 문화, 교수, 교육과정, 평가, 교사 교육 등 다양한 측면에 대한 연구를 종합적으로 분석하여 과학 교육 분야의 발전 방향을 제시하고 실질적인 영향을 미치는 지침을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Sandra K. Abell, Norman G. Lederman",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "카르파시,파이썬  200줄로 GPT 핵심 구현한 ‘마이크로GPT’ 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=206917",
+    "source": "AI Times",
+    "published": "2026-02-17",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "마이크로GPT는 LLM의 접근성을 높여 AI 교육 및 연구를 가속화하고, 경량화된 AI 모델 개발에 기여할 가능성이 높습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[IEEE, ChatGPT의 번역 실력은 대부분의 인간 번역가와 유사하다.] 10년 이상의 경력을 가진 전문가들이 LLM 과정보다 더 나은 성과를 보였다.",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9XZ25NUG5GMS02MzJkYTVMRldDRjRubW5ULTg2Q0V6MXVtYW93cXMzWEJ4MlpON1lYZHRoVVdLNTE?oc=5",
+    "source": "AI넷",
+    "published": "2026-02-18",
+    "keyword": "머신러닝",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "LLM"
+    ],
+    "summary": "ChatGPT 번역 성능이 인간 번역가에 근접했지만, 전문성이 요구되는 영역에서는 여전히 인간의 경험적 지식이 중요함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "‘독립 AI 아티스트’ 등장…”자본 의존 최소화한 음악 활동 가능해”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=206918",
+    "source": "AI Times",
+    "published": "2026-02-17",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 독립 아티스트의 등장은 창작 주체의 다양성을 확대하고 음악 산업의 자본 의존도를 낮추는 혁신적인 시도입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "구글 AI 음악 생성기 Lyria 3, Gemini에 탑재돼 30초 트랙 제작 가능",
+    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE52WkFxRTNXcG5qc05oeVRNVFZMNEZLdWFYVHFmRUdFSXpIZ2pmSlRaRDJjY2R0WThJVnNpdG1zNA?oc=5",
+    "source": "월간 믹싱",
+    "published": "2026-02-18",
+    "keyword": "구글",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Gemini"
+    ],
+    "summary": "구글 Lyria 3의 Gemini 탑재는 AI 음악 창작 대중화를 가속하며 음악 산업의 창작 및 소비 방식에 혁신을 가져올 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "“연구자 70% 이미 AI로 논문 쓴다…당신은?”",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QSE1tNWlrTnVHNmlIRWhvQlg3dmpiblQyUHlweHhna3p5dFJIYWtIZm5XYV8yOUhvRkxUeTR2VURJYlM4b2lrcEFySjBmYTI5eFB2SHA3bWNaanRUN1VDdGU2YW1LLXJiYk1v0gFuQVVfeXFMTnJwMkd4clFYcTBfaVlEN1lvSjlHNWZjcDZJZlpDTVNRTkxETEo1VlliZlBVTWNRaTBqdW9mYmNkdU40UG5vblV0dG5zT0lqSGl6TzJTQUh3YURsN2I4NTN0ejF3MmhEUzJ3S2o4bnc?oc=5",
+    "source": "넷제로뉴스",
+    "published": "2026-02-18",
+    "keyword": "AI도구",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 활용 논문 작성 확산은 연구 생산성 향상과 지식 접근성 확대를 가속화하며, 학술 생태계의 혁신을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "Google brings AI music generation to Gemini with Deepmind's Lyria 3",
+    "url": "https://the-decoder.com/google-brings-ai-music-generation-to-gemini-with-lyria-3/",
+    "source": "The Decoder",
+    "published": "2026-02-18",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Gemini"
+    ],
+    "summary": "구글의 Lyria 3 기반 AI 음악 생성 기능은 제미나이를 통해 음악 콘텐츠 시장의 경쟁 심화와 AI 작곡 기술 대중화를 가속할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "Pentagon Weighs Break With Anthropic Over Military AI Use, Ethical Limits at Center of Rift",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4Q0VObHlMQmswMllpc01kaTE4N0F2OWNJcFpmazdjRUN6UGVReUxrbDVfdEQ4SE8xTlZZalpLVXYxdzkwWE5Ha2RTSmxsLWZoc20wVGZoRzdSTFBGbFhuYzNLZDg0RG9OR1E?oc=5",
+    "source": "kmjournal.net",
+    "published": "2026-02-18",
+    "keyword": "Anthropic",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "AI 안전·규제"
+    ],
+    "summary": "미 국방부와 Anthropic의 갈등은 군사 AI 윤리 기준 설정에 대한 어려움을 보여주며, 향후 AI 기술 개발 및 정부 협력에 중요한 선례를 남길 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "AI 안전성, 문제로 점검···셀렉트스타, AI·머신러닝 최상위 학회 ‘ICLR 2026’ 메인 트랙 논문 채택",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jNjVHRk9nZnN1SzJrTGRaOGk5NThtdUVBZzhta0lqUkVPMFVoWVZwUDlCeXZSUEMxVEtnbVFhek5oM0tUS3FpRTNUWHZQeDg?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-02-19",
+    "keyword": "인공지능",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제"
+    ],
+    "summary": "AI 안전성 논의와 함께 셀렉트스타의 ICLR 채택은 AI 기술 발전의 윤리적 책임과 기술적 성과가 균형을 이루어야 함을 강조합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "[이용호의 손에 잡히는 인공지능] AI가 탐정의 돋보기처럼 본다, 구글 에이전틱 비전",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sb0M5Umk5bHQ1Z1ZMX0tRZElwWVRLWVg3UERDVDNBQTlDekN5M2dVd0ZIdEVmNm5vNEFsWWlUTTRscGNpVFM1UURSVUFQWW1xazFmenBTcjVGdXhhS29CeVNtZHFENU9VYWphV09GcGs?oc=5",
+    "source": "한국강사신문",
+    "published": "2026-02-18",
+    "keyword": "구글",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "추론 모델"
+    ],
+    "summary": "구글 에이전틱 비전은 AI의 시각적 추론 능력을 탐정처럼 활용하여 산업 전반에 새로운 가능성을 제시할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "‘헐크’ 러팔로도 “큇GPT”···AI 기업들 향한 ‘사회적 책임 준수’ 목소리 불붙었다",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16OXZFRmp5WGNsaHhUUmV1RExwTkVkNjhZTmZmN2R4Qkg5NENnc2hfdlJTSTBmdk91amg0WkJuMW1mOFJZM0NFWHVzTHBRSlJJWVZscVRVSlNOUdIBX0FVX3lxTE9WVHBwa3NjRTYxby0zZVR1Ul9jVngyVUcyNXFEZy1kVEVCQm9lSzJaSUlXdWtNaVQ4M1hOTEw2dXkyQmxsaVNaUDQ5bU5RNmpZZ0VHUmJJYkVkNWJWMGRN?oc=5",
+    "source": "경향신문",
+    "published": "2026-02-18",
+    "keyword": "GPT",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 기술 발전과 함께 사회적 책임에 대한 요구가 높아짐에 따라, 기업들은 지속 가능한 AI 생태계를 위해 윤리적 기준 준수 및 투명성 확보에 더욱 힘써야 할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 기술을 교육과정에 통합하고, 디지털 격차 해소 및 교원 역량 강화를 통해 고교학점제 안착과 학습권 보장을 추구하며 미래 교육으로 나아가는 긍정적인 변화가 가속화되고 있다.",
+  "tech": "AI 기술이 더욱 발전하고 다양한 분야에 융합되면서, 윤리적 책임과 안전성을 강조하며 창작, 연구, 군사 등 광범위한 영역에서 혁신을 가속화하고, 독립적인 AI 생태계를 구축해 나가는 긍정적인 방향으로 진화하고 있습니다."
+ }
+}

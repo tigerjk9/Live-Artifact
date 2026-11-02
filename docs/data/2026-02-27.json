@@ -1,0 +1,416 @@
+{
+ "date": "2026-02-27",
+ "generated_at": "2026-11-02T11:52:43+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[기고]AX 시대, 대학의 'AI 기본교육'이 답이다",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MZXFkRm05VnlCMEJTSE9yUUJRX0lDRDJ2TEZ4QldUcWJqNkhkN3pNeWRLTmxjZl9hT2tsS18wcUdvYi1qLWJzMUlpMEtpLW1Rejl6dExKNWFHdFNCeVN5b0tQWFdIWFVZdGZ0enBCTjc?oc=5",
+    "source": "mt.co.kr",
+    "published": "2026-02-26",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "AX 시대에 대학은 AI 기본 교육을 강화하여 모든 학생들이 미래 사회에 필요한 핵심 역량을 갖추도록 해야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[춘추칼럼] 순국선열·호국영령, 보훈용어 이대로 괜찮을까",
+    "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2259886",
+    "source": "대전일보",
+    "published": "2026-02-26",
+    "keyword": "",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "보훈 용어에 대한 명확한 개념 교육 부재는 역사 교육의 피상적 이해를 심화시킬 수 있으므로, 용어의 정확한 의미와 맥락을 가르치는 교육 방안 마련이 시급합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "대전시교육청, 2026학년도 교육정책 발표 “교육과정·AI·돌봄 동시 개편”",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZVUJ3RUd0OWFyTVg4clkxSWtXaWs4c1RiUDVjRlAtWENqNUhBamhYcHpLLTRuVkUyN2wwSjdacjVxNjJSVTl2UndzTDNxOGYxY1hwUXNxQ3pubUd2Y2tRQUZoeEtsMDV4VzVaTHhuZEZhclRWbGJZ0gF3QVVfeXFMTllVQndFR3Q5YXJNWDhyWTFJa1dpazhzVGJQNWNGUC1YQ2o1SEFqaFhwekstNG5WRTI3bDBKN1pyNXE2MlJVOXZSd3NMM3E4ZjFjWHBRc3FDem5tR3Zja1FBRmh4S2wwNXhXNVpMeG5kRmFyVFZsYlk?oc=5",
+    "source": "스트레이트뉴스",
+    "published": "2026-02-26",
+    "keyword": "AI디지털도구",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "대전시교육청의 교육과정, AI, 돌봄 동시 개편은 미래 교육 환경 변화에 선제적으로 대응하려는 긍정적인 시도이지만, 현장 교사와의 충분한 소통과 지원이 성공의 핵심입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "교육과정 혁신·민주시민교육 강화…대전교육청, 2026 주요 교육정책 발표",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE85dDhQbE1waTB4d01ELUliZE1FTlJGUTg2R3hyVGQwUUN5OHhLaS1jM0VjLUdtUDdDQzBjMjJhU1dGWEhwcG5iRTRvSQ?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-02-26",
+    "keyword": "AI디지털도구",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "대전교육청의 교육과정 혁신 및 민주시민교육 강화 정책은 학교 현장의 자율성과 학생 참여를 확대하는 중요한 전환점이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "AI 수업혁신·고교-대학 연계 강화…대전교육 2026 전면 개편",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IZmhLM3gzZmRTUkVQVjJvdkNJMHFnX3RWel9RNDhhVkc2aHhncFZKeFN4YmhwVi02RWc3M2Z3cXpSdVpudUJYYVJReGtMazBiNlh1R2xySm1xWWk1RGNFMTFYTDU2akFOakZXNVRydTROSkx4a1h0Njl3?oc=5",
+    "source": "뉴데일리 충청세종",
+    "published": "2026-02-26",
+    "keyword": "AI디지털도구",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "대전교육의 AI 수업 혁신과 고교-대학 연계 강화는 미래 교육 체제 전환을 위한 긍정적 시도이나, 교사의 역량 강화와 교육 불평등 해소 방안 마련이 중요합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "천호성 전북교육감 예비후보, 전북형 AI미래교육 비전 제시",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsTmtMbTBFVjRKMXFBUVNJcEJGQ3JPUkNkVWVjd19HUFFXb20xd0h4aU9RcGVFTFRFZENIcVpRckZfaWY5QmEycklUYXByUjJuLUtRZERhYkpHaEM3UWE5cFN1ZHN2cnhEOC1GWjYyQk82TmEwSTJheg?oc=5",
+    "source": "네이트",
+    "published": "2026-02-26",
+    "keyword": "인공지능교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "전북교육청",
+     "교육감 선거"
+    ],
+    "summary": "천호성 예비후보의 전북형 AI미래교육 비전은 지역 교육 격차 해소와 미래 교육 경쟁력 강화에 기여할 수 있을지 주목됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "오천고, ‘카를로 아쿠티스관’ 개관…AI·IB 융합 미래교육 인프라 구축",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sa3lMVjI3dWZRYWRCa1BacVhEcUNYOW9idnZuQmx5WkRWUDdubUhtdlB5d2ZmdE5fTkJueGtXOHBYcmllTFBkWG9VOUJSajVobTg2c1JTQWg?oc=5",
+    "source": "경북신문",
+    "published": "2026-02-26",
+    "keyword": "AI디지털교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "IB"
+    ],
+    "summary": "오천고의 AI·IB 융합 교육관 개관은 미래 교육 혁신을 위한 학교의 적극적인 투자 의지를 보여주는 사례입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "대전광역시교육청, 2026학년도 주요 교육정책 발표",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OV0dkamZoRFV4N19vYjk0WmhpNTd4WUpzOVlhZkxUd2VZWVYxbjBlTlNHaTdUX2UtcHVRbEdONHlNdlRXVFowSUdFeU1sTVZtSURWOXVTcWdzaEx0TEpJR0RFdFI2a3M?oc=5",
+    "source": "호남매일뉴스",
+    "published": "2026-02-26",
+    "keyword": "AI디지털도구",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "대전광역시교육청의 2026학년도 교육정책 발표는 미래 교육 수요를 반영한 변화를 예고하며, 학교 현장의 선제적 준비와 적응을 요구합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "\"미래사회 이끌 인재 키운다\"…대전시교육청, 2026년도 교육정책 발표",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFTm8ya0FTNWphckstOFVHWnpUUng3M0k2RVlLNzBqeGlCV1I4YjFYWExrSHc1czVCOG9RcHh5WXo3a1BPNUhPaFB3V3NpTmNNWXk4Tk03cjVfUGNZ?oc=5",
+    "source": "뉴스핌",
+    "published": "2026-02-26",
+    "keyword": "AI디지털도구",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대전시교육청",
+     "개인화 학습"
+    ],
+    "summary": "대전시교육청의 미래 인재 양성 정책은 지역 특성을 반영한 맞춤형 교육 혁신을 통해 공교육 경쟁력을 강화하는 데 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "‘미래형 교실 혁신’ 대전교육청, 전국 최초 ‘특수학교 파견학급’ 신설…디지털 교육도 앞장서",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jczBkcURWdVJZQS1JNmpwS1VJMHVpM0dZUDU2NjdvQjZudHZ0bUtpTFBuU0JtOEtFVXd4V2VmZGFZYlM0WmYwZlAxVmZpMzBRQjV6WlF4bWRWQ3FFY291UVZJQUtwQlRXdFppdDl1NNIBc0FVX3lxTE43OG9lWjNfTmVIUkFuNUlUYWJZMnRZcTdPQnc5d1lScXZFaVF2b21rYllsZ2c1VHVtcnlFM1F5Z1lucTZuWXpGOW1XSkdkV3JzWm4tSUpZWW13MFRRYjFfb2JaeDNtVEFKbS1GNnY5UVN2YzQ?oc=5",
+    "source": "대전투데이",
+    "published": "2026-02-26",
+    "keyword": "AI디지털도구",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대전시교육청",
+     "개인화 학습"
+    ],
+    "summary": "대전교육청의 특수학교 파견학급 신설과 디지털 교육 강화는 교육 혁신의 중요한 시도로, 통합 교육 확대와 개별 맞춤형 교육 접근성 향상에 기여할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Online Teaching in K-12 Education in the United States: A Systematic Review",
+    "url": "https://www.semanticscholar.org/paper/82486be86747a74692d83df7598a5dc18e51741b",
+    "source": "semantic_scholar",
+    "published": "2022-08-03",
+    "keyword": "K-12 education",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 미국 K-12 온라인 교육에 대한 체계적 문헌 고찰을 통해 학생 학습을 지원하는 맥락적 조건 및 교수 실행의 핵심 요소들을 밝혀내어 교육 정책 결정 및 교사 교육에 중요한 시사점을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Carla C. Johnson, Janet B. Walton 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "Creativity in Education: Teaching for Creativity Development",
+    "url": "https://www.semanticscholar.org/paper/d1b805446b5df09aef8a876d1614100e58b96dc0",
+    "source": "semantic_scholar",
+    "published": "2019-02-01",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 교사 양성 과정에서 창의성 이론 교육을 통해 학습 설계에 창의성을 적용하는 능력을 향상시키고, 이는 교육 현장에서 학생들의 창의성 발달을 촉진하는 데 기여할 수 있음을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Danielle Kaplan",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Data driven pedagogy in physical education a new paradigm in teaching effectiveness",
+    "url": "https://www.semanticscholar.org/paper/6dd6f7d112edc3eebd42cc28f8c8d867301a7dc7",
+    "source": "semantic_scholar",
+    "published": "2025-11-29",
+    "keyword": "",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 체육 교육의 효과를 높이기 위해 T-구형 퍼지 집합과 Aczel-Alsina 통합 방식을 활용한 새로운 데이터 기반 교수법을 제시하여, 즉각적인 피드백과 수치적 성과 정보를 통해 교수법 개선에 기여하고 교육 프로그램 향상에 도움을 줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Yong Wu",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "Exploring the Efficacy of AI Passion-Driven Pedagogy in Enhancing Student Engagement and Learning Outcomes: A Case Study in Philippines",
+    "url": "https://www.semanticscholar.org/paper/7c9528d000978a5f871224c102d53288d6a79256",
+    "source": "semantic_scholar",
+    "published": "2024-05-02",
+    "keyword": "",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [],
+    "summary": "The purpose of this study is to examine students' perceptions of the integration of artificial intelligence (AI) into educational settings as well as its impact on learning outcomes. Students are posi...",
+    "implication": "",
+    "ai": false,
+    "authors": "",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "Investigating How AI Tools Can Assist Teachers in Refining Their Pedagogy and Enhancing Student Learning Experiences",
+    "url": "https://www.semanticscholar.org/paper/ee79bdeb41bce75df271cdab7418ee54313d8f9a",
+    "source": "semantic_scholar",
+    "published": "2025-04-12",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "파키스탄 교사들을 대상으로 AI 도구 활용이 교사의 업무 부담을 줄여주지만, 교수법 및 학생 동기 부여에는 유의미한 영향을 미치지 못하며, 데이터 프라이버시 등의 문제점에도 불구하고 차별화된 학습 경험 제공 가능성을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "I. Khan, Muhammad Tufail 외 1명",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "Anthropic acquires Vercept to give Claude sharper eyes for reading and controlling computer screens",
+    "url": "https://the-decoder.com/anthropic-acquires-vercept-to-give-claude-sharper-eyes-for-reading-and-controlling-computer-screens/",
+    "source": "The Decoder",
+    "published": "2026-02-26",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude",
+     "에이전트"
+    ],
+    "summary": "앤트로픽의 Vercept 인수는 Claude가 시각적 정보 이해 및 제어 능력을 강화하여 AI 에이전트 경쟁에서 우위를 확보하려는 전략적 움직임입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "‘거의 그대로’ 재현 가능… AI의 무서운 책 암기 능력",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207324",
+    "source": "AI Times",
+    "published": "2026-02-27",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "저작권·소송"
+    ],
+    "summary": "AI의 뛰어난 암기 능력은 콘텐츠 산업 전반에 혁신을 가져올 수 있지만, 동시에 저작권 및 지적 재산권 관련 문제에 대한 심도 있는 논의를 촉발할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "서울시교육청, 인간 중심 AI 교육 실현을 위한 ‘AI·에듀테크 공교육 도입 및 활용 가이드라인’ 배부",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84eDBmMVcxNzh2aXlYY2IzQUMzYm1yYVlQUTZpUVpRZ0dfTUR0Z0JmRF80M3FiTi1zQUVERHZRMXBfLUJKWG9wSmVMNFhrNXhHYnlROW45M2UzZ3ozcmZLOFJER3c4TGlaSHRfYnVUcnI?oc=5",
+    "source": "한국강사신문",
+    "published": "2026-02-27",
+    "keyword": "에듀테크",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "서울시교육청"
+    ],
+    "summary": "서울시교육청의 AI·에듀테크 가이드라인은 공교육 시장의 AI 기술 수요를 촉진하고 관련 산업 성장에 긍정적 영향을 미칠 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "구글, ‘알파이볼브’로 인간보다 뛰어난 AI 알고리즘 개발",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5NE9ja2tTR0pxLTNoZlBqczZOTWtfaXlVekdOa1VidGNJSnNhdzA4OTFDMTF5T2QyM3JBaEx6NjV6RHBhTzFYeE9WSzJ6WXNaMEYxU3I3UXNFZzMzZXNqOUQ1TElDc1hiZUE?oc=5",
+    "source": "AI타임스",
+    "published": "2026-02-26",
+    "keyword": "알고리즘",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "알파이볼브는 AI 알고리즘 개발 자체를 혁신하여, 향후 AI 기술 발전 속도를 가속화하고 새로운 산업 응용 가능성을 제시할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "경남교육청, 인공지능(AI)·디지털 활용 연구·선도학교 오리엔테이션",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SZGkxUDN5X3dDWHZPd1RDWkxfcURCeDBwYk5DQ2xveWZ5aHBiWldpUEZNQmRXdEdpLWdKazFCVGJFV1NKcWpOaTJTX3BMd2tuMzVWWDNBaXdzTk5oV2dKMmIzMk40UV81eVcxZW9QUS1MTzVwSFU40gF3QVVfeXFMT1JkaTFQM3lfd0NYdk93VENaTF9xREJ4MHBiTkNDbG95ZnlocGJaV2lQRk1CZFd0R2ktZ0prMUJUYkVXU0pxak5pMlNfcEx3a24zNVZYM0Fpd3NOTmhXZ0oyYjMyTjRRXzV5VzFlb1BRLUxPNXBIVTg?oc=5",
+    "source": "스트레이트뉴스",
+    "published": "2026-02-26",
+    "keyword": "AI연구",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "경남교육청"
+    ],
+    "summary": "경남교육청의 AI 연구·선도학교 운영은 교육 분야 AI 기술 적용 확산을 촉진하고 관련 산업 발전에 긍정적 영향을 줄 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "서울시립대-단국대 연구진, AI 학회 'CVPR 2026' 논문 채택",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kbmJuQmVkMHhQb0ZrSTIzY1RqcTU4cWFxb29RWmdFd0docXdvNFFqeUo5OG1vcEJvdnRvdlhSaFU0Z2xmTkF2by1ZMjRUb3owZ3daWlhudS05cXVUalVKT9IBeEFVX3lxTE85SkIzX250bnplRUNEQ0tDQTlCamJ6MW4yZXRqYzIzTEI2bTlESkhGWlc3cTU4Q01tV1RfeTRNOFZadm1qZmZYbm9hNXFhbV9mSkdFb1oxempFdVJyNzdGMnBPRXRtcVZtS3ozN3dUWUVuRmgyaWJXWQ?oc=5",
+    "source": "뉴시스",
+    "published": "2026-02-27",
+    "keyword": "AI연구",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "국내 대학 연구진의 CVPR 논문 채택은 AI 기술 경쟁력 강화 및 관련 산업 발전에 긍정적 신호탄입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "국립농산물품질관리원 시험연구소 , 인공지능(AI) 기술을 바탕으로 농산물 품질평가 과학화에 앞장서다!",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZQ0hKWXlWUThDY1hvWjd6ZnBvSk96Wnhjc1NTQTBDQTc4Skl5YVNScGZIS09GdlNxV20xQjZIWDZxdG5hMDhWSGFDUkhqR2hIRF96NHBoeVRyNEk3T2hlUXR2YzV1MERHZG9EetIBcEFVX3lxTE9KWW5ZMHBWXzN2dFY2TnA5djlDSTVyTXJMNk8xYzB0Q3hudlV2a0FtZVR2N1FGTXEybk5xd2RTV280TmI4eWU5MlRDZmlCTjRpZEdMeDEzYnhzWTh1a2R2eEg2RkR6UjlGVURKOVYxRkw?oc=5",
+    "source": "엔디엔뉴스",
+    "published": "2026-02-26",
+    "keyword": "AI연구",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 기반 농산물 품질 평가 기술은 농업 분야의 디지털 전환을 가속화하고, 정밀 농업 및 스마트 농업 생태계 확장에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "“챗GPT, 어디까지 책임져야 하나” 캐나다 총기참사가 남긴 생성형 AI 논쟁",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aSlp6c2IwZkNlSWtFWFppdW50b2pGX1JjZ0tOZm9vQVpXR3ZIQ2tMVk81bFUxUC10Z1IxYW1VNUl1cURqNmpjdHpKMGFaQlNtWVE?oc=5",
+    "source": "더나은미래",
+    "published": "2026-02-27",
+    "keyword": "GPT",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "생성형 AI"
+    ],
+    "summary": "생성형 AI의 책임 범위 논쟁은 AI 기술 발전과 동시에 사회적 안전망 구축의 중요성을 부각하며, 산업계의 자율 규제 및 윤리적 가이드라인 정립을 촉구하는 계기가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "챗GPT, 통계학 교육 뒤흔든다…대학 강의실의 AI 혁명",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kcV9EdnhTaHVpSFJCRzFic1ZhZ1hZVmtMMVJNenVQSnZNQ3VXcEt3djdlR2g0UjN0djVJbHNwTjJWeTBSNzFnaEtzVWlsTnVzdHE2bldR?oc=5",
+    "source": "지디넷코리아",
+    "published": "2026-02-26",
+    "keyword": "GPT",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "개인화 학습"
+    ],
+    "summary": "챗GPT는 통계학 교육을 혁신하여, AI 기반 교육 콘텐츠 개발과 맞춤형 학습 경험 제공에 대한 수요를 증대시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "성남시에 인공지능 특화 연구시설 들어선다...KAIST 김재철AI대학원 첫 삽",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBsRWw1ejdISGNrbW0tNTJpd0g2NldLRE03T2U3NlJkU2tMUllhUlRUdlV5RVdyZldWTmZHY2p0dmlmNEdMRThnRTNkNWxKaWx1ZlZ2dmY4bEJxSW14Q3ktVHNNQVVqUQ?oc=5",
+    "source": "일요신문",
+    "published": "2026-02-27",
+    "keyword": "AI연구",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "사교육"
+    ],
+    "summary": "KAIST 김재철AI대학원의 성남시 연구시설 설립은 수도권 AI 인재 양성 및 기술 혁신 가속화에 긍정적 영향을 줄 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 기술을 교육에 적극 도입하고, 미래 사회에 필요한 역량을 키우기 위한 교육과정 혁신 및 인프라 구축이 전국적으로 활발하게 추진되며, 특히 대전광역시가 선도적인 역할을 하고 있습니다.",
+  "tech": "AI 기술이 다양한 분야(농업, 교육, 연구, 스크린 이해 등)에 빠르게 통합되고, 인간 능력을 뛰어넘는 알고리즘 개발과 책임에 대한 논의가 활발해지면서 AI 생태계가 혁신적으로 확장되고 있다."
+ }
+}

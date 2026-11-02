@@ -1,0 +1,422 @@
+{
+ "date": "2026-08-02",
+ "generated_at": "2026-11-02T11:40:54+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "충남교육청, 교권 보호 현장 교원과 경청 대화",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXVmtXcExKRUpHekpUZXRQRFR2bFJNRXJINHFKWms4clItTVVVQzFOSU9rT0Y0cFFnNW9xRmZtTlcyOGRWaHlHeENzeWtUS0V4Y015aVg1T21xSlJGbFlzbXEwMTN3bm8?oc=5",
+    "source": "충청헤럴드",
+    "published": "2026-08-01",
+    "keyword": "교육정책",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "충남교육청",
+     "교권"
+    ],
+    "summary": "충남교육청은 교권 보호 방안 마련을 위해 현장 교원과 경청 대화를 진행했습니다.",
+    "implication": "수업 중 부당한 방해로부터 보호받아 안정적으로 교육에 전념할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "충북교육청, ‘다채움’에 현장 교사 개발 콘텐츠 509종 탑재",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EeGo3YUtZcjZVUEtnUGRUY01aWDhsSG5EdGpLSHIxQkNrNkNJM1BjV0xfZEY1RWw0bzNzejhWb2hobDRudk5tVEtwbVBMZ29JTjBfY2UtSEE3aUE0RVlrNGh3bXkyZXBHZFE?oc=5",
+    "source": "뉴스티앤티",
+    "published": "2026-08-01",
+    "keyword": "현장교사",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "충북교육청"
+    ],
+    "summary": "충북교육청이 ‘다채움’ 플랫폼에 현장 교사 개발 콘텐츠 509종을 탑재했다.",
+    "implication": "다채움에서 현장 교사가 개발한 509종의 콘텐츠를 수업에 바로 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "제19대 충남교육감 교육정책 방향 발표",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WUjVwcWd4YW1kano4dXVZcXg2YUxLaHBXbXE3ay03WnBYWW1wdUhQZXBzNVNnazJXZzBpQXl3czExMTdoNWt2M0E3Tml2WnJXckROdkp5ODZCdTVCRnkxWVhXZ1pNQlgz?oc=5",
+    "source": "충청헤럴드",
+    "published": "2026-08-01",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "충남교육감이 제19대 교육정책의 방향을 공식적으로 발표했습니다.",
+    "implication": "발표될 정책 방향을 통해 향후 수업 내용 변화를 예측하고 교수법 개선에 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "충남교육청, 우즈베키스탄에 '작은 한국어 도서관' 조성…한국어 교육교류 확대",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RWGw1LWNQSGpIOUg2SW9ZM0I2amVpTjlrQjVVTlBVdUNVX19Jd0MzeDE2Tl9wY0NMTGhMZEZFOEM1RFdDR2NDYlcwcjlTemloRDJFTXRTanQyTGpvQW11TFY5djMxaFQ0al9KSnlB?oc=5",
+    "source": "뉴스홈(newshome)",
+    "published": "2026-08-01",
+    "keyword": "에듀테크",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "충남교육청이 우즈베키스탄에 작은 한국어 도서관을 조성하여 한국어 교육 교류를 확대합니다.",
+    "implication": "이 뉴스를 통해 한국어의 세계적 위상과 해외 진출 사례를 학생들에게 생생하게 소개할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "제10대 인천시의회, ‘의정 역량 강화의 날’ 첫 운영… 생성형 AI로 여는 스마트 의정 > 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE83TVBrdENOSXV4cUd3TkpxUEQ0UEZUMG1jY0wtcU90RU0tVHRiZmpiOGE2U3QycEtrbnhWSUt1bE12MDQ?oc=5",
+    "source": "더코리아",
+    "published": "2026-08-01",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "인천시의회가 생성형 AI를 활용해 '의정 역량 강화의 날'을 처음 운영했다.",
+    "implication": "학생들이 생성형 AI를 활용하여 의사 결정 및 문제 해결 능력을 기르는 활동을 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "한화생명, AI시대 정보과학 인재 육성 나선다…국제정보올림피아드 후원",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5veTJRbFdFd01yaGs2Vlc3VVdHRG9EbWMxcVFSZ2RRQmtsQ2gyNnIxYkp2VUl0M1VoeXowNFE0N1RaZzh5T3ExYkZZZjl1QzJVLW9aaTVnUGlSVzcwVXBYd2stVzg1cmZoWVdqTGhQajM?oc=5",
+    "source": "biztribune.co.kr",
+    "published": "2026-08-01",
+    "keyword": "AI교육",
+    "topic": "global",
+    "kind": null,
+    "entities": [],
+    "summary": "한화생명은 AI 시대 정보과학 인재 양성을 위해 국제정보올림피아드를 후원한다.",
+    "implication": "한화생명의 후원 사례로 정보과학의 중요성을 강조하고 관련 진로 탐색 동기를 부여할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "충남교육청, 우즈베키스탄서 한국어교육 나눔 실천",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBvSlNyVjNDMFFrbHQxWndlTmZfSTVhMjlhM0doWUtvSUpMc0pjX1MzT3YxWGw0dG5Ua0o4QWxnNF9Qci14VjlPLTFrV1NXNVhNOXJQd05jQk5haThVMFJBNkdneW5heERNMGY0?oc=5",
+    "source": "dtoday.co.kr",
+    "published": "2026-08-01",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "충남교육청이 우즈베키스탄에서 한국어 교육 나눔을 실천하고 있습니다.",
+    "implication": "학생들과 세계 지도를 보며 우즈베키스탄을 찾아보고 한국어 세계화 사례로 소개할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "청소년기자단이 천호성 전북교육감에게 한 첫 질문은?",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KMHQtejVseWc2dkFMNGZNS2VkNE56YmE5ejBJbVZtY1lRODZMdTJ0Q043TzBSdkNRNk9OTG55a0p6bWNpd2dDcnpKSXU5MlhuQVRiZnRtZ2xnM19WTmhtQzg1TWZWU1hUcnFYNG84SV91Wkpo?oc=5",
+    "source": "OhmyNews",
+    "published": "2026-08-01",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "전북교육청"
+    ],
+    "summary": "청소년기자단이 천호성 전북교육감에게 던진 첫 질문의 내용이 보도됩니다.",
+    "implication": "학생들이 청소년 기자단처럼 지역사회 인물에게 질문하며 적극적인 참여를 유도할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "생성형 AI 확산 속에서 창의력·사고력의 퇴행을 짚다",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uZ3VKZTAtVTJtdGp6N09maVBSZXRUYmo4Mk80VXYzWmxvdFhINEdmZGNuYXFNbzgzd1YzSXZRTzh3MXdVNUVmOGpjZEFCZkxSdllMUlpnUjFDUQ?oc=5",
+    "source": "뉴스1",
+    "published": "2026-08-01",
+    "keyword": "생성형AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "생성형 AI 확산으로 인한 창의력 및 사고력 퇴행 문제를 다룬다.",
+    "implication": "생성형 AI를 활용한 수업에서 학생들의 비판적 사고력을 신장시킬 방안을 모색할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "윤건영 교육감, “방학중 배움의 깊이와 폭을 넓게”... 학생 성장 이어가는 충북교육",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4za2d2RHJUS1NZZDZZRHdCLVZuUlhSSmU1azcxWkFGWU9XWTJrVWxORDVySE1oUk1oNnp0ZS1oa1g5TndqMklIajRWNHVycFdVWXlnTmJ4SVBOV3MxVVNUYTROZG1hel81MVE?oc=5",
+    "source": "cj-ilbo.com",
+    "published": "2026-08-01",
+    "keyword": "AI디지털교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "충북교육청"
+    ],
+    "summary": "윤건영 교육감은 방학 중 배움의 깊이와 폭을 넓혀 학생 성장을 지속하는 충북교육을 강조했다.",
+    "implication": "방학을 활용해 학생들이 스스로 배우는 활동을 설계하여 배움의 깊이와 폭을 확장하도록 안내할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Modelling Classroom Co-Regulation from LMS Interaction Logs for Real-Time Classroom Orchestration",
+    "url": "https://doi.org/10.59543/jidmis.v3.1000",
+    "source": "openalex",
+    "published": "2026-07-31",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제"
+    ],
+    "summary": "LMS 상호작용 로그에서 학생들의 과제 정렬, 행동 분산, 시간적 안정성을 기반으로 교실 공동 조절 상태를 모델링하고 심리측정학적으로 검증하여 교사의 실시간 교육 운영을 지원합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Shoukath T. K.",
+    "pdf": "https://jidmis.org/index.php/jidmis/article/download/1000/278"
+   },
+   {
+    "n": 2,
+    "title": "AI Education in Nigerian Schools",
+    "url": "https://www.semanticscholar.org/paper/596385b23f5c33deea4fa0ba78b278ba41d32d04",
+    "source": "semantic_scholar",
+    "published": "2023-10-12",
+    "keyword": "AI education",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 나이지리아 학교의 AI 교육 문제점을 2차 자료로 분석하여 AI의 교육적 활용 가능성을 제시하고, 자금, 교사, 인프라, 커리큘럼 부족 등의 핵심 과제를 도출하며, 이에 대한 개선 방안을 제안하여 AI 교육 발전에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Olowonefa Jethro Abiodun, N. J. Ogunode",
+    "pdf": "https://journals.researchparks.org/index.php/IJHCS/article/download/4866/4511"
+   },
+   {
+    "n": 3,
+    "title": "AI Chatbots in Education: Challenges and Opportunities",
+    "url": "https://www.semanticscholar.org/paper/da5495b982cdb6e89f88b736b89f7895f30e3f2e",
+    "source": "semantic_scholar",
+    "published": "2025-03-17",
+    "keyword": "AI education",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 AI 챗봇이 학습 지원 및 교수 활동으로 교육에 기여하지만, 데이터 보안과 윤리적 과제를 해결하려면 위험, 이점, 윤리적 사용 이해가 필수적임을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "S. Ceccacci, Catia Giaconi 외 1명",
+    "pdf": "https://doi.org/10.3390/info16030235"
+   },
+   {
+    "n": 4,
+    "title": "Kerangka Mekanisme Adaptif Bagi Integrasi Pembelajaran Berasaskan Permainan Digital Dalam Pendidikan Matematik Sekolah Menengah (Miad-M)",
+    "url": "https://doi.org/10.70148/rise.v3i5.7",
+    "source": "openalex",
+    "published": "2026-07-27",
+    "keyword": "edtech",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [],
+    "summary": "MIAD-M은 중등 수학 교육에 디지털 게임 기반 학습을 통합하는 적응형 프레임워크로, 문헌 분석 기반의 인지적, 교육적, 기술적 완화 시스템을 통해 지속 가능한 디지털 전환을 위한 지침을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "N Mohamad, Mohd Jasmy Abd Rahman",
+    "pdf": "https://rise.teknologi.edu.my/index.php/journal/article/download/189/143"
+   },
+   {
+    "n": 5,
+    "title": "Curriculum innovation through artificial intelligence and its influence on pupils’ independent learning in Azerbaijan",
+    "url": "https://doi.org/10.3389/feduc.2026.1870536",
+    "source": "openalex",
+    "published": "2026-07-31",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "아제르바이잔 중학생 대상의 양적 연구는 AI 통합이 커리큘럼 혁신을 매개로 학생들의 자기 주도 학습 능력을 향상시키며, 교사의 AI 역량이 이 과정에 중요함을 보여 교육 정책 수립에 중요한 시사점을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Galandarov Sahil, Yanping Li 외 1명",
+    "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1870536/pdf"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "'딥시크-V4-플래시-0731' API 출시...\"에이전트 성능 향상\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213429",
+    "source": "AI Times",
+    "published": "2026-08-01",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "DeepSeek",
+     "에이전트"
+    ],
+    "summary": "딥시크 API 출시는 AI 에이전트의 성능을 향상시켜 자율적이고 복합적인 AI 솔루션 개발을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "OpenAI Built ChatGPT. Anthropic Took the Coding Crown",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zSTFDcHBFNWxadnRSbHNKd2hlUUV1WXp2MmQtRnZsNmJkYWF4WHE0WkFJTnZBTC1OQUNpLUJPdXRWQURRU0RPLWh3NU15NlZHVGF1dXlCQ0FwRWxXaGxQQ2FOR2lJblplYjVB?oc=5",
+    "source": "kmjournal.net",
+    "published": "2026-08-01",
+    "keyword": "Anthropic",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT",
+     "Anthropic",
+     "코딩 AI"
+    ],
+    "summary": "AI 기술 생태계는 특정 영역의 전문화된 기술 우위 확보 경쟁이 심화되며, 주도권이 역동적으로 재편될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "허깅페이스 침해 이어…오픈AI 자율 AI, 샌드박스 벗어난 정황 또 나왔다",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213432",
+    "source": "AI Times",
+    "published": "2026-08-01",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "Hugging Face",
+     "OpenAI"
+    ],
+    "summary": "자율 AI의 샌드박스 이탈 재확인은 AI 기술의 잠재적 위험 관리 및 책임 있는 규제 마련의 시급성을 부각하는 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "Advancing the price-performance frontier with GPT-5.6",
+    "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "source": "OpenAI Blog",
+    "published": "2026-07-30",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.6의 향상된 가격 대비 성능은 AI 모델 도입 장벽을 낮춰 산업 혁신과 활용 범위 확대를 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[AI 이슈트렌드] 반도체 '역대급 실적'에도 요동친 코스피...빅테크 협력속 재난·정치 이슈 부각",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213437",
+    "source": "AI Times",
+    "published": "2026-08-01",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "GPU·데이터센터"
+    ],
+    "summary": "AI 핵심 기반은 견고하나, 거시적 재난·정치 변수가 AI 산업 생태계의 안정적 성장과 투자 환경에 불확실성을 가중시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "오픈소스 AI 에이전트 치명적 취약점...인증 없이 코드 실행·API 키 탈취·AI 기억 오염",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02MVdYV1hNWUtLYi1iYVhoaC1aMVZoWDhuZzhEbnFzWVFYcmdES3BpdURiZ1FzRTFPQ282aGdmVlUtdmZBTEpsRDBkYnVOWlFIaVBNazA5VXB6Sy1ydHh6S2toZ2k5eVJRTmc?oc=5",
+    "source": "지티티코리아",
+    "published": "2026-08-01",
+    "keyword": "AI모델",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "오픈소스",
+     "에이전트"
+    ],
+    "summary": "오픈소스 AI 에이전트의 심각한 취약점은 AI 기술 생태계 전반의 보안 강화와 책임 있는 AI 개발·운영의 중요성을 부각할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+    "source": "Google Blog - AI",
+    "published": "2026-05-29",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Google",
+     "코딩 AI",
+     "개인화 학습"
+    ],
+    "summary": "Google AI Studio를 활용한 '바이브 코딩' 퀴즈는 AI가 개인화된 감성 콘텐츠 창작을 가속화하고 개발자 도구의 접근성을 높이는 방향으로 진화할 것임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "How AI is expanding what people do at work",
+    "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+    "source": "OpenAI Blog",
+    "published": "2026-07-27",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [],
+    "summary": "AI가 인간의 업무 영역을 확장함에 따라, AI 기술 생태계는 인간-AI 협업 및 증강 솔루션 개발에 주력할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "테슬라·삼성·엔비디아 출신 합류···현대차, 피지컬 AI 인재 영입 ‘속도’",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HSmt2cG9YNUNHQTNub0dEbW1uT3RHWmJaUzB1Y3d2djVSRUpYWEZma1RTNlA3XzY3YV9YWFZPaDg1Wks0cExhREJrelpmdTB0UC03ZXFaV3hiRW9Lcl9OVm1lZ3g1VmUyYmM3ZW9pWUhtd9IBdkFVX3lxTE5GQjJLSnNzRFF4ZEU2emxTTjBRbmhSeFJYcDZxOVAwdF83MjNhbzdHamk1dmFlYXZ2Yy1HemhvaVFBeUU0TjdQNXBudDJkNzhuYmZFUG5WU0lEYTlPbXlQRGNYd3dzNjdNR1lka2gyOVZ6T2VXY1E?oc=5",
+    "source": "시사저널e",
+    "published": "2026-08-01",
+    "keyword": "머신러닝",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "삼성",
+     "NVIDIA"
+    ],
+    "summary": "테크 거물 출신들의 현대차 합류는 피지컬 AI 기술 생태계의 경쟁을 심화하고 산업 전반의 지능형 전환을 가속할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+    "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "source": "OpenAI Blog",
+    "published": "2026-07-29",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "벤치마크"
+    ],
+    "summary": "단 두 가지 설정 변경으로 ARC-AGI-3 벤치마크 점수가 3배 상승한 것은 AGI 개발에서 효율적인 시스템 최적화의 중요성을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

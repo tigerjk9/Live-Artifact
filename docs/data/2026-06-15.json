@@ -1,0 +1,420 @@
+{
+ "date": "2026-06-15",
+ "generated_at": "2026-11-02T11:38:15+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[시론] 생성형 AI 시대, 교육의 목표를 거꾸로 생각해야 한다",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HRVNWSHpHTXIzbk9wQUwzMGZ5eThMczRZY2J5ZUYtc2dkWEN4Ri1XYU01ek5TeU9KUDRsSXczb1ltYlR1UTZQQUkzM250a1RiSklIZ2lLc19xQmFUT2ctMWdRSTc0Zw?oc=5",
+    "source": "한국대학신문",
+    "published": "2026-06-14",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "생성형 AI 시대에는 기존 교육 목표를 역발상으로 재고해야 한다는 주장이 담긴 시론이다.",
+    "implication": "수업에서 생성형 AI가 제공한 답을 비판적으로 평가하고 더 나은 질문을 만드는 활동을 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[김희철칼럼] 시도교육감협의회장에 정근식 서울시교육감이 적격인 이유",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Yd0M1R20xSHZFb2NEc2VJNXM2aDZaZlRJRjQ4M1ctbWFlay1yOVoxa1VOVE1GX0dVeGFnNV9RbWg5cXhpVV84QnM4cHctTVVCeW9OSUlGV0lMZTNHSUhIM0dTYnhERTNlQnpLYg?oc=5",
+    "source": "베이비타임즈",
+    "published": "2026-06-14",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [
+     "서울시교육청"
+    ],
+    "summary": "김희철 칼럼은 정근식 서울시교육감이 시도교육감협의회장으로 적합한 이유를 제시합니다.",
+    "implication": "우리 지역 교육 방향이 교육감협의회장의 리더십과 비전에 따라 달라질 수 있음을 학생들에게 설명할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[현장기고] 학교의 시간 지키는 교육감 바란다",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tSUZWdEZ4X1FIRE95WTRYc0VFdmJwNzQwNzV1aWRPUUszSTN4RnRNYXdkVWNfWWp6a1ZiYXNkcWVIcDIyNTVzRjBpU2NQZWg3Z09zV0ttTk10R2FBczZZ?oc=5",
+    "source": "한국교육신문",
+    "published": "2026-06-15",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "현장 기고는 교육 본질에 집중할 수 있도록 학교 시간을 지켜줄 교육감을 바라는 내용입니다.",
+    "implication": "교육감이 학교 시간을 지켜주면 수업 시간 내 교육 활동에만 집중하여 학생과 깊이 있는 상호작용이 가능합니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "교육부 '교육혁신선도지역' 추진…세종시 참여 준비 속 읍면학교 변화 주목",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBEaVNydHR3aWUzMjIycTJDd2VYd3Q4ZXdDeGE1QWZMb3Vpb1lVWDNlZkJ1OFl3TWVDUXBZWWxiX3JDZ1hnaGlHdmthRWY?oc=5",
+    "source": "대전인터넷신문",
+    "published": "2026-06-15",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부",
+     "개인화 학습"
+    ],
+    "summary": "교육부가 '교육혁신선도지역' 사업을 추진하고 세종시가 참여를 준비함에 따라 읍면학교의 변화가 주목됩니다.",
+    "implication": "지역 맞춤형 교육 혁신으로 학교 현장에서 활용 가능한 새로운 교수법이나 자료가 생겨날 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "학습과학으로 키우는 기초학력, 교사·학부모 함께 배운다",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KdGdodkxtUmNoa1h3bk5BMnlTazU2dVpjSW9ZNlJTNU1PZ0haV2pReUUyZElabGFMM1EzN1hFLTl3NUxQN3dBX2Vzemt2M0ZCOVRDZWdGSGVHZDBMZ3VCNmxpZjBJZWd2OWRMUlVR?oc=5",
+    "source": "영남신문",
+    "published": "2026-06-14",
+    "keyword": "학습과학",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [],
+    "summary": "학습과학 기반으로 학생 기초학력 향상을 위해 교사와 학부모가 함께 배운다는 내용입니다.",
+    "implication": "학습과학을 공동으로 배운 학부모와 협력하여 가정과 연계된 학습 지도를 강화할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "[본지-대교협 공동기획㊥] 생성형 AI 기반 수업 혁신 확산 속 “인간 고유 역량·윤리 교육 병행해야”",
+    "url": "https://news.unn.net/news/articleView.html?idxno=593399",
+    "source": "한국대학신문",
+    "published": "2026-06-15",
+    "keyword": "",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "생성형 AI 확산에 따라 대학 교육의 질적 성장과 인간 고유 역량, 윤리 교육 병행이 시급하지만, 한국의 AI 인재 양성은 구조적 취약성을 보인다.",
+    "implication": "AI를 도구로 활용해 학생들이 상호작용하며 비판적 사고력과 윤리적 판단력을 기르도록 융합 멘토로서 지원할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "경북교육청, AI·에듀테크 ‘수학 수업 혁신’ 연수",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9kSFo3dmhwd1ZLblY3TFNKU0Rod0VXTkVUZG1TT2NndHNKUHFHeTlfanRPbTlLTUVZYUNVTmFQMXQ5b3A1Q0cwaTR3WEptVE04M2k1bkt1TUN1djBMakdFTnZkZ3lNNk50emZHUG9INA?oc=5",
+    "source": "시사포커스",
+    "published": "2026-06-14",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경북교육청"
+    ],
+    "summary": "경북교육청은 AI와 에듀테크를 활용하여 수학 수업을 혁신하기 위한 연수를 진행합니다.",
+    "implication": "이 연수로 AI·에듀테크 도구를 활용해 학생 수준별 맞춤형 수학 문제 풀이 및 개념 설명을 시도할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "개정 교육과정 첫해… 교육업계 '수요자 맞춤' 총력전",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YSV9QQmNhLTRENHZ0YWp2VGg2LWUyXzJMTFRtTE4zWk9UaG4wQUdZQjUzR283c1J6VWZjRDQyZEo5b2xrOUE4SXcwWHpCSmZESENMaUpKbm5GUdIBXkFVX3lxTE12SjlvSWpqNFM4cUJhN3A5YWZwSi02MDlGdjhQWGxNUnI3UzNnWkRCeE94RlVyYnZDN1k0TmtjSksyLXVHR1Y5dEhjU0NXLVFkMW50OVpzdHNUWEtUbmc?oc=5",
+    "source": "파이낸셜뉴스",
+    "published": "2026-06-15",
+    "keyword": "인공지능교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "개정 교육과정 첫해를 맞아 교육업계가 수요자 맞춤형 서비스를 제공하기 위해 총력을 기울이고 있습니다.",
+    "implication": "업계의 수요자 맞춤 전략에 발맞춰 학생 개개인의 필요에 맞는 다양한 외부 학습 자료를 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "대구·경북 대학 규제 빗장 푼다…교육부, 고등교육혁신특화지역 특례 확대",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04ejBnTG4wNzlrdWRfWFpUT2pndjNOVlVLVzJSa3N4dlhxQVBrTXNQdkVXamk1SlJxa1paLUpqWEVHTXQ4ZDNqOUY5SG1zdTBTVjJTcG9MR3ktZw?oc=5",
+    "source": "경북매일",
+    "published": "2026-06-14",
+    "keyword": "교육혁신",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "교육부가 대구·경북 대학의 규제를 완화하여 고등교육혁신특화지역 특례를 확대합니다.",
+    "implication": "대구·경북 대학의 자율성 확대로 지역 특화된 새로운 교육 기회가 생길 수 있음을 학생들에게 안내할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "교육부, 교육혁신선도지역 5년간 100억씩 투입…\"지역 내 양질의 교육 보장\"",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zd3JQbEJNZmVaZmZJUVFhaGJ2MGlEZjNOeWl1VEMtRG9KSmtmcnFNSm5RVzhEYnRFY3YyZzZGREVWTThQeElJS05BMG1JOE1LcWRaUlFMYk0ydGZCM1c3d0RB?oc=5",
+    "source": "매일신문",
+    "published": "2026-06-14",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "교육부가 교육혁신선도지역에 5년간 매년 100억 원을 투입, 지역 내 양질의 교육을 보장한다.",
+    "implication": "지역 특성을 반영한 새로운 교육 자료나 프로그램을 수업에 직접 활용할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "A DIGITAL ADAPTIVE TEXTBOOK FOR SECONDARY BIOLOGY EDUCATION: DEVELOPMENT AND TESTING",
+    "url": "https://doi.org/10.20319/pijtel.2026.101.2029",
+    "source": "openalex",
+    "published": "2026-06-12",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "AI 디지털교과서"
+    ],
+    "summary": "중등 생물 교육용 적응형 디지털 교과서를 개발하고 시험하여, 기존 콘텐츠를 멀티미디어 모듈과 적응형 학습 경로로 전환해 학생 학업 성취도 및 교육 품질을 향상시킵니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Boris Yarmakhov, Sergey Sumatokhin",
+    "pdf": "https://grdspublishing.org/index.php/PUPIL/article/download/3219/3044"
+   },
+   {
+    "n": 2,
+    "title": "METHODOLOGICAL POSSIBILITIES OF USING ARTIFICIAL INTELLIGENCE IN TEACHING NATURAL SCIENCES AND TECHNOLOGY (on the example of primary education)",
+    "url": "https://doi.org/10.66301/jusr/vol4_issm/art80",
+    "source": "openalex",
+    "published": "2026-06-12",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 초등 교육의 자연 과학 및 기술 수업에서 인공지능을 활용하여 개별화, 시각화, 상호작용적 학습을 구현함으로써 교수 학습의 방법론적 가능성을 분석하고 효과적인 활용 방안을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Navro‘za Saloxitdinova",
+    "pdf": "https://universalpublishings.com/index.php/jusr/article/download/19201/35888"
+   },
+   {
+    "n": 3,
+    "title": "Effectiveness of Backward Design Lesson Planning in Teaching and Learning Physics: A Case Study",
+    "url": "https://www.semanticscholar.org/paper/6c1432dbaca2940fcf3beefe5568d51a52c2b8ce",
+    "source": "semantic_scholar",
+    "published": "",
+    "keyword": "backward design",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "부탄 물리 교사 8명을 대상으로 한 질적 사례 연구는 역진 설계 수업 계획이 학생들의 개념 이해와 참여를 증진하고 교사의 학습 진단 능력을 향상시켜 교육의 효과성을 높임을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Phuntsho Gombu, Karma Utha 외 1명",
+    "pdf": "https://ijels.com/upload_document/issue_files/3IJELS-10920221-Effectiveness.pdf"
+   },
+   {
+    "n": 4,
+    "title": "A Systematic Review of Artificial Intelligence (AI) Assistants in Education",
+    "url": "https://doi.org/10.46787/ijaipil.v3i1.7330",
+    "source": "openalex",
+    "published": "2026-06-12",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "이 체계적 문헌 검토는 교육 분야 AI 비서의 교수학적 기능과 학습 지원 역할을 분석하여 현재 연구의 기회와 한계를 제시하고 미래 교육에 미칠 영향을 탐색합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Bahar Memarian, Tenzin Doleck",
+    "pdf": "https://journals.calstate.edu/ijaipil/article/download/7330/5703"
+   },
+   {
+    "n": 5,
+    "title": "CIPP-Based Evaluation of the Learning Process in Vocational High Schools: Student and Teacher Perspectives",
+    "url": "https://doi.org/10.58740/juwara.v6i1.783",
+    "source": "openalex",
+    "published": "2026-06-13",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "이 연구는 직업고등학교 학습 과정을 CIPP 모델로 학생과 교사 관점에서 평가하여, 기술 활용 미흡 등 개선이 필요한 영역을 식별하고 인도네시아 직업 교육 정책 및 교수 개선에 대한 근거 기반 권고를 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Almes Gangga, Hasan Maksum 외 1명",
+    "pdf": "https://jurnal.smpharapanananda.sch.id/index.php/juwara/article/download/783/429"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "문샷 AI, 오픈소스 코딩 모델 ‘키미 K2.7-코드’ 공개…“추론 비용 30% 절감”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211691",
+    "source": "AI Times",
+    "published": "2026-06-13",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Moonshot",
+     "오픈소스",
+     "코딩 AI"
+    ],
+    "summary": "오픈소스 코딩 모델의 추론 비용 절감은 AI 기술 접근성을 확대하여 생태계 혁신과 SW 산업 경쟁력 강화를 이끌 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "OpenAI Prepares GPT-5.6 as Race for AI Supremacy Heats Up",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9taW9lSzR1OFNVbGZOZm9mang0OFM5V1FLRExKTEtOR0lwNmp2UVVqT0s5eDdXV3BUdU9yS1RhdmxKMW5pZUVWZTlZR20wMHpQOURCRzh5WGJWMlVmV0J6Rm80S3FrdzZRQVhN?oc=5",
+    "source": "kmjournal.net",
+    "published": "2026-06-14",
+    "keyword": "Anthropic",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "AI 패권 경쟁 심화 속 OpenAI의 GPT-5.6 출시는 AI 기술 생태계의 급진적 진화와 산업 재편을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "하드웨어 벤치마크 ‘AA-에이전트퍼프’ 등장...블랙웰, 전력 효율 1위",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211703",
+    "source": "AI Times",
+    "published": "2026-06-14",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "벤치마크",
+     "에이전트"
+    ],
+    "summary": "블랙웰의 전력 효율 1위는 AI 인프라 구축 및 운영의 핵심으로 자리 잡으며, AI 기술 생태계의 지속 가능성과 경제성에 큰 영향을 미칠 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "Microsoft's SkillOpt boosts GPT-5.5 by using nothing but a trained Markdown file",
+    "url": "https://the-decoder.com/microsofts-skillopt-boosts-gpt-5-5-by-using-nothing-but-a-trained-markdown-file/",
+    "source": "The Decoder",
+    "published": "2026-06-13",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Microsoft",
+     "ChatGPT",
+     "LLM"
+    ],
+    "summary": "훈련된 마크다운 파일만으로 LLM 성능을 높이는 SkillOpt는 AI 모델 최적화의 자원 효율성을 획기적으로 개선하며 활용성을 확장할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "아티피셜 애널리시스, ‘딥SWE’ 벤치마크 도입...'페이블 5' 코딩 1위 등극",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211706",
+    "source": "AI Times",
+    "published": "2026-06-14",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "벤치마크",
+     "코딩 AI"
+    ],
+    "summary": "딥SWE 벤치마크 도입으로 AI의 소프트웨어 개발 역량 평가가 심화되며, AI 산업의 혁신과 고도화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "베이조스의 AI 스타트업 프로메테우스, 몸값 62조 기록…\"인공 일반 엔지니어 개발 중\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211708",
+    "source": "AI Times",
+    "published": "2026-06-14",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "베이조스 AI 스타트업의 막대한 가치 평가는 '인공 일반 엔지니어' 개발을 통해 AI가 산업 전반의 혁신을 자율적으로 주도하는 시대를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "[AI카툰] Bob, Senior IT guy",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211699",
+    "source": "AI Times",
+    "published": "2026-06-13",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "다중인격 에이전트는 AI가 다양한 역할과 페르소나를 유연하게 수행하며 활용 범위를 획기적으로 확장할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "\"테슬라, 엔비디아 이어 구글까지\"…삼성전자, 구글 차세대 AI칩 수주 유력",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9INm5FVUt6QlFVNlZLeWJkVkNfQjRLMEdZWFBkZk16TEUzN3Z0ZlJ3cy12WnNrODhTYXEyNlAwU1dOeUpXM0VTRjJhbWkzalBWdk5kTjJJRUNmdGZhWHRmcmZOUmhLaXM?oc=5",
+    "source": "서울STV뉴스",
+    "published": "2026-06-14",
+    "keyword": "구글",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "Google",
+     "삼성",
+     "GPU·데이터센터"
+    ],
+    "summary": "주요 AI 기업들의 맞춤형 AI칩 개발 경쟁 심화 속에서 삼성전자가 핵심 파운드리 공급자로 부상하며 AI 산업 발전을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "Subtitled News: Anthropic AI Model Access Blocked for Foreigners Following Amazon Tip-off",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tb1ZmdlNZcFFWaDRvaFVHY1g1Z0dFa3R4b09kSkhTbWtKQ29QOWtaaksxVGVXeFhfNXUyU1kyeEVYaEJFMFo1NjYxRWJaM2IwekFxdTdlenphQUp2WHhKRXdFOWZ4OENaUUE?oc=5",
+    "source": "SBS 뉴스",
+    "published": "2026-06-14",
+    "keyword": "Anthropic",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Amazon"
+    ],
+    "summary": "이번 사건은 AI 모델이 국가 안보 핵심 자산으로 인식되며, 국제적 기술 통제 및 접근 제한이 심화될 것임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "데이터다이나믹스, AI·Data·API 통합 카탈로그 'Argus Catalog' 오픈소스로 공개",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tVURDZm9FZ0xEZW0ycmRHZTBiYngxcFlpOTJVN2ZybVRHX1hWUy1FQnpicXcydHIzOTIxQXJmaTVsd2VlZnVHVnFrLVZ5dw?oc=5",
+    "source": "전자신문",
+    "published": "2026-06-15",
+    "keyword": "LLM",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "오픈소스"
+    ],
+    "summary": "오픈소스화된 AI·Data·API 통합 카탈로그는 AI 개발의 진입 장벽을 낮춰 생태계 전반의 효율성과 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

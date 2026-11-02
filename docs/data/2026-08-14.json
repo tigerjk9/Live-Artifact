@@ -1,0 +1,425 @@
+{
+ "date": "2026-08-14",
+ "generated_at": "2026-11-02T11:41:34+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[경제인칼럼] AI가 삼킨 ‘축적의 시간’",
+    "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2294459",
+    "source": "대전일보",
+    "published": "2026-08-13",
+    "keyword": "",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "미국 교수 실험에서 학생들이 AI 답변을 그대로 제출하고, 한국 대학생도 AI 활용이 늘어 전문가의 '축적의 시간'이 사라지고 있습니다.",
+    "implication": "학생들이 AI 결과물을 비판적으로 검토하고 자신의 사고를 덧붙이도록 하는 과제를 설계할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "AI 에이전트 결제망 잡자…골드러시 시작[디센터 기고]",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HMldQY1VwaGhwOVZ3eFZrdi1rbkxJT0EwZEhFYjB3V3Z3WkZXYkNsY0hhY2Y1aUZEcEU1TGlHMXFxdHBGUzlQbVVudjhpTjQ1U1A0?oc=5",
+    "source": "네이트",
+    "published": "2026-08-13",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "AI 에이전트가 결제망에 진출하며 새로운 사업 기회의 골드러시가 시작됐다.",
+    "implication": "학생들이 AI 기술 발전이 가져올 미래 직업 변화와 새로운 사업 기회를 탐구할 수 있는 수업을 구성할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "경기, 디지털교육정책과→AI교육정책과 개편…“플랫폼 보완·확대”",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tVzFWODdPb0RoZVp0VUwwWmZGd3BIWUV2RTBfUmVJVEdyd0tOQmE2VUx2YlYyY2dTX1J3d1VNZ0VSZ0JDTjE3MUdCVl9rTXd5c0d1X3lyRmlreE9nQ1hoNmV4RW1NcHc?oc=5",
+    "source": "교육플러스",
+    "published": "2026-08-13",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기 교육청이 디지털교육정책과를 AI교육정책과로 개편하여 교육 플랫폼을 보완하고 확대합니다.",
+    "implication": "학교에서 AI 기반의 새로운 교육 플랫폼과 자료를 수업에 적극 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "대전시교육청, ‘AI교육 1번지’ 실현 위한 미래교육추진단 본격 가동",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CMEFfeU1vZ0pwci04MWVESG5laXpPdTRBTTdfby1GQnVsb2twbEstQTk1RFRIS2xCYkphRXJLUy1EMm9vQXB3Z2ppY3Bzel9WY3NCYTBhS3FxQ0ZxdThKMVcwTzhPdEJxWUVGcTdn?oc=5",
+    "source": "뉴스홈(newshome)",
+    "published": "2026-08-13",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "대전시교육청이 'AI교육 1번지' 실현을 목표로 미래교육추진단을 본격적으로 가동했습니다.",
+    "implication": "대전시교육청의 AI 교육 추진으로 교실 수업에 AI 도구를 적극 활용할 방안을 모색할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "BC카드, 뤼튼과 기업 AI 사업 확대…교육부터 AI 에이전트 개발까지",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yOGhrdHNZQkZmNlZVdEZVTXYtMU9vVTIycEc3UVYzaVZZcUhlLXpMRVdSNnd4UXlrYnlKRnRrZFk2MW5fV05GNVlmZERpQ2kzemFPbW95R0I1WGdzMW5IZ2MzeEcyVVlqTXlGNFZwcw?oc=5",
+    "source": "이코노미사이언스",
+    "published": "2026-08-13",
+    "keyword": "생성형AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "뤼튼",
+     "교육부",
+     "에이전트"
+    ],
+    "summary": "BC카드와 뤼튼이 협력하여 기업 AI 사업을 교육 분야부터 AI 에이전트 개발까지 확대합니다.",
+    "implication": "뤼튼 등 기업의 AI 교육 사업 확대로 학생들과 AI 활용 및 미래 직업 탐색 수업을 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "고 교육감, 싱가포르 IB현장 방문 “자율적 교육-높은 전문성 필요”",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQcEFIRXh2OFFkR1lGNlhTZm5Mel9OYnlZSUpRWWVVSFZNOVk4eDFLNHRGVFdwN1E0NHV3WjU2eTM3Ri1TYjQ1d2Q0ZzZCTTZQblhHag?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-08-13",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "IB"
+    ],
+    "summary": "고 교육감이 싱가포르 IB 현장 방문 후 자율적 교육과 교사의 높은 전문성 필요성을 강조했습니다.",
+    "implication": "학생들에게 더 많은 자율권을 부여하고, 제 전문성을 발휘하여 수업 혁신을 시도할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "포천시, 포천형 교육정책 성과… 교육혁신선도지역 도전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfbkM0Zzh5blAyZjc0QVRCa3IwV3Juc0dZdGZGVU93akJ0RFhoWGt2S3hMZnhuRkJwZ1RqZ2IxMGNTRFYzbEFSU2psWW04MWJxRnpnYURNNG12QVJiSDRSbmxSTGlkX0RUcUNJ0gFrQVVfeXFMUF9uQzRnOHluUDJmNzRBVEJrcjBXcm5zR1l0ZkZVT3dqQnREWGhYa3ZLeExmeG5GQnBnVGpnYjEwY1NEVjNsQVJTamxZbTgxYnFGemdhRE00bXZBUmJINFJubFJMaWRfRFRxQ0k?oc=5",
+    "source": "서울매일",
+    "published": "2026-08-13",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "포천시가 자체 교육정책 성과를 바탕으로 교육혁신선도지역에 도전한다.",
+    "implication": "교육혁신선도지역 도전에 맞춰 학생 참여형 혁신 수업을 시도할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "경기도교육청특수교육원, 특수교사 200명 대상 AI·에듀테크 연수 실시",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtcDI0X1FOek9CUVI4MkFwcVRuY0doMklQdko4NkVZNnhVczVOWDdJMUY2Rm9Zem9VbGR2NHphM3JNY2VOSV9lcEkyckxyTndxRGNhZGlQRDFQU1llZTl0SmI4V1hsWXQ3NHc?oc=5",
+    "source": "퍼블릭뉴스통신",
+    "published": "2026-08-13",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "특수교육"
+    ],
+    "summary": "경기도교육청특수교육원은 특수교사 200명을 대상으로 AI 및 에듀테크 활용 연수를 실시합니다.",
+    "implication": "이 연수를 통해 AI와 에듀테크를 활용하여 학생 개개인에게 맞는 특별한 교육을 제공할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "고운동, 생성형 AI·디지털교육…주민자치 역량 강화",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Sd180bXlkSVdzVmxBMEtRZU55aDRBTFlDdzhtblVJVG9KY1lIdk1DbGthUENLdTZzWFZsbldMRno3bzRZNlh0M3ZLQmxTUkN3aUZvcnA2R1JDMmZNOGFXUWlsbk9ybERvSVp4S1JPdVcwWXPSAXNBVV95cUxOUndfNG15ZElXc1ZsQTBLUWVOeWg0QUxZQ3c4bW5VSVRvSmNZSHZNQ2xrYVBDS3U2c1hWbG5XTEZ6N280WTZYdDN2S0JsU1JDd2lGb3JwNkdSQzJmTThhV1FpbG5PcmxEb0laeEtST3VXMFlz?oc=5",
+    "source": "daejonilbo.com",
+    "published": "2026-08-13",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "고운동 주민들이 생성형 AI와 디지털 교육을 통해 주민자치 역량을 강화합니다.",
+    "implication": "지역 사회의 AI/디지털 교육 수요를 파악하여 수업에 생성형 AI 활용 방안을 모색할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "평창군, 교육부 「교육혁신선도지역」 공모사업 준비에 박차!",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxS2hhVm5ZQTVUTTZxWWdVTEczZVR0YkFMb2pycHdGNmYtN1ZsNW1LOUVLRlNVN1dRMjh4b1BqMVB2Y09CU0VhaWJQZF9VdXFLLU9BcF8talJ2RlFsdUlxM2tqQVdaTlROY2xv?oc=5",
+    "source": "영서신문",
+    "published": "2026-08-13",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "평창군이 교육부의 '교육혁신선도지역' 공모사업 선정을 위해 준비에 박차를 가하고 있다.",
+    "implication": "우리 지역이 교육혁신선도지역으로 선정되면 수업에서 활용할 수 있는 새로운 교육 프로그램이 늘어날 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Reading Intervention for Struggling Readers: Supporting Diversity of Learners",
+    "url": "https://doi.org/10.38124/ijisrt/26aug070",
+    "source": "openalex",
+    "published": "2026-08-12",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "이 질적 연구는 초등교사 10명의 경험을 분석하여 읽기 부진 학생을 위한 다양하고 문화 반응적인 개입 전략과 교사의 대처 방안을 제시하며, 향후 교육 정책 및 프로그램 개선에 실질적인 통찰을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Claridel V. Bijis",
+    "pdf": "https://www.ijisrt.com/assets/upload/files/IJISRT26AUG070.pdf"
+   },
+   {
+    "n": 2,
+    "title": "ІНТЕЛЕКТУАЛЬНІ МЕТОДИ КОМП’ЮТЕРНОГО НАВЧАННЯ ДЛЯ ВИКЛАДАННЯ ВІДМОВОСТІЙКИХ БОРТОВИХ ОБЧИСЛЮВАЧІВ БПЛА ТА НАНОСУПУТНИКІВ",
+    "url": "https://doi.org/10.32620/reks.2026.2.11",
+    "source": "openalex",
+    "published": "2026-08-11",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "AI 튜터"
+    ],
+    "summary": "이 논문은 적응형 지능형 튜터링과 정형 검증 기법을 결합하여 학생들이 임베디드 시스템 신뢰성 알고리즘의 정확성을 엄격하게 증명하도록 돕는 AI 교육 방법론을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ihor Turkin, Andrey Chukhray 외 1명",
+    "pdf": "https://nti.khai.edu/ojs/index.php/reks/article/download/reks.2026.2.11/3188"
+   },
+   {
+    "n": 3,
+    "title": "Teachers' Attitudes Toward Tablet Integration in Teaching: Evidence from Public Primary Schools in Ubungo Municipality, DSM, Tanzania",
+    "url": "https://doi.org/10.61227/arji.v8i3.838",
+    "source": "openalex",
+    "published": "2026-08-12",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "탄자니아 초등학교 교사들의 태블릿 교육 통합 태도를 혼합 연구 방법으로 조사하여 불확실한 태도와 훈련, 인프라 부족 등의 제약을 밝힘으로써, 성공적인 디지털 교육 도입을 위한 종합적 지원의 중요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Agness B Mafuja, Prospery M. Mwila",
+    "pdf": "https://journal.nahnuinisiatif.com/ARJI/article/download/838/764"
+   },
+   {
+    "n": 4,
+    "title": "Exploring Ethnomathematics at the Islamic Center Mosque in Lhokseumawe as a Learning Resource for Arithmetic Sequences and Series in Junior High School",
+    "url": "https://doi.org/10.33122/ejeset.v7i1.1403",
+    "source": "openalex",
+    "published": "2026-08-12",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "르곡세우에 이슬람 센터 모스크 건축물에서 등차수열 및 급수와 관련된 민족수학적 원리를 질적 탐색을 통해 발견하고, 이를 중등 수학 교육 자료로 활용하여 학생들의 개념 이해와 참여를 증진할 수 있음을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Rohantizani Rohantizani, Nuraina Nuraina 외 1명",
+    "pdf": "https://ejeset.saintispub.com/ejeset/article/download/1403/537"
+   },
+   {
+    "n": 5,
+    "title": "Methodology for the Formation of Speech Competence of Primary School Students Based on An Integrative Approach",
+    "url": "https://doi.org/10.61227/9v857t90",
+    "source": "openalex",
+    "published": "2026-08-12",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "이 연구는 통합적 접근법이 초등학생의 말하기 역량과 어휘력을 유의미하게 향상시키는 과학 기반 교육 방법론임을 실증하여, 교차 교과 과정 통합을 통한 효과적인 기초 교육 방안을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Mamatraimova Dilshoda Chorshanbiyevna, Mukhtarova L.A",
+    "pdf": "https://journal.pusmedia.com/GJBE/article/download/398/262"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "오픈AI·앤트로픽 암호화 '사고 과정' 통째 유출...API 설계 허점 파문",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213894",
+    "source": "AI Times",
+    "published": "2026-08-13",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Anthropic"
+    ],
+    "summary": "선두 AI 기업의 API 설계 허점은 AI 모델의 보안 및 데이터 보호에 대한 업계 전반의 경각심과 표준 강화 요구를 촉발할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "오픈AI, \"8달러 내면 사용량 리셋\"...챗GPT 플러스 유료 재설정 기습 테스트",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213889",
+    "source": "AI Times",
+    "published": "2026-08-13",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "오픈AI의 유료 재설정 테스트는 AI 서비스가 구독을 넘어 사용량 기반의 세분화된 수익 모델을 도입하며 시장 표준을 제시할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "실무 분석 에이전트 벤치마크 ‘AA-애널리스트에이전트’ 공개…'클로드 오퍼스 5' 1위",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213916",
+    "source": "AI Times",
+    "published": "2026-08-13",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "에이전트",
+     "벤치마크",
+     "Claude"
+    ],
+    "summary": "실무 분석 에이전트 벤치마크 공개는 AI의 실제 업무 적용을 가속화하고 전문화된 에이전트 개발 경쟁을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "구글, '픽셀 11' 공개…'제미나이 인텔리전스'로 애플과 승부",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213913",
+    "source": "AI Times",
+    "published": "2026-08-13",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Gemini",
+     "Apple",
+     "온디바이스 AI"
+    ],
+    "summary": "구글의 픽셀 11 공개는 온디바이스 AI 기반 서비스 경쟁을 심화시키고, 모바일 AI 생태계 전반의 혁신을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "xAI, 차세대 AI 모델 '그록 4.6' 출시…\"AI 모델 평가서 'GPT-5.6 Sol'과 동급\"",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iWUx2NDlPY0w2LWkwYmpqUV9ON2JtS1ZYRExCdVl6MUFuZnNqbk5jblc4ZXBGMTFJVEZ1OW44VTkxYkh5YVBMN20tX2Y1UUhnMzMtT3JxVDVneWZwQVUwTDlDUTJWT0ZKM0FIMTRn0gFyQVVfeXFMTTFHLVdtLVFBMVpHazJuWDJGWjM2YlBoS3hhYmhfckpnQlFFX0g0SlpZZE5PQmsxNkotMzZBSW1ZS3YtQ1hraTJwSk9mOTZSUWU2el9fWVNqcFNBSmtDcS1lcWNTeVRvWVFUVzBKVjExNXZB?oc=5",
+    "source": "AI포스트",
+    "published": "2026-08-13",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "xAI",
+     "ChatGPT"
+    ],
+    "summary": "xAI 그록 4.6 출시로 최상위 AI 모델 경쟁이 심화되어 기술 혁신과 산업 생태계의 다변화가 가속화될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "케빈 웨일 전 오픈AI 부사장, AI 과학 스타트업 창립…몸값 1조 목표",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213917",
+    "source": "AI Times",
+    "published": "2026-08-13",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "오픈AI 핵심 인재의 독립 창업은 AI 기술 생태계의 혁신 경쟁을 심화시키고 새로운 기술 영역을 개척할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "머스크 \"스페이스X 전체 데이터로 그록 학습...직원들이 AI의 '부모' 될 것\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213900",
+    "source": "AI Times",
+    "published": "2026-08-13",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "xAI"
+    ],
+    "summary": "특정 산업의 방대한 독점 데이터와 전문가 참여를 통한 AI 학습은 향후 도메인 특화 AI 개발의 핵심 경쟁력으로 부상할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "토스증권, 챗GPT로 주식 주문한다…AI 연동 오픈API 정식 출시",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5aVXg5R3BPbkYzRXVDN1l0ZzZ4dWYzd19MN2VQUU5FaE1ITGVYSk9YSE9JVnZJVFdWR3RNUU8yQm51dVBETlhmTGlrb25aQUVpalQ1N2JkaGFYc2loTkJOeGhZRDV0eFViMFhYWnZESQ?oc=5",
+    "source": "이코노미사이언스",
+    "published": "2026-08-13",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "챗GPT를 통한 주식 주문은 AI가 금융 거래의 핵심 영역으로 확장되어, AI 기반 서비스 생태계의 실질적 진화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "[8월13일] 클로드 워터마크 도입에 불붙은 논쟁…\"AI가 썼다와 AI가 처리했다는 다르다\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213884",
+    "source": "AI Times",
+    "published": "2026-08-14",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Claude"
+    ],
+    "summary": "AI 워터마크 논쟁은 AI 생성 및 처리 콘텐츠의 명확한 구분과 투명성 확보가 AI 생태계 신뢰 구축의 핵심이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "AWS, AI 에이전트 행동 통제하는 오픈소스 정책 언어 도그우드 공개",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qSnZaSllKV3VYbEhWdHR5TGNsRF96NUVyV1dCU0xlU1ptdG1nUlQ5Y2tnOEN4Qlc5aEpnM2xZSWJtWjZhLVd4MlEwd2tVUlNmREJSWnA5Ulg0VGFYOFZjZmdwZmhydEsxOC1oZg?oc=5",
+    "source": "데일리시큐",
+    "published": "2026-08-13",
+    "keyword": "오픈소스",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Amazon",
+     "에이전트",
+     "오픈소스"
+    ],
+    "summary": "AWS의 오픈소스 정책 언어 도그우드 공개는 AI 에이전트의 안전한 행동 통제와 책임 있는 AI 개발을 위한 산업 표준화 노력을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

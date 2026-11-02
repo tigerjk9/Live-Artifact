@@ -1,0 +1,416 @@
+{
+ "date": "2025-11-14",
+ "generated_at": "2026-11-02T11:47:39+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[기고] 중국 하이테크 페어(CHTF) 개막 …기술의 미래는 도시의 미래",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jYzA3ZlRXSy1nZ2ZhTVlDYnVSWmNrYnhzT3JtclU2ZkktNlFFRF9ibUZrSmozOEdjcUNQZmhEa2VzbU8yaHBucmxLTWd3NF93MGJXU1R0b045QdIBWEFVX3lxTFBZUEVjaDBZcW42ZjFValpWdXA0QTZWWEtsUG4zNktQOVhyZUhfdFR3SlJlM0tEejlLNHRSOXB6dXRBZ21tZEpjcDU3M2NiMXVwRDZQSDU1Ujg?oc=5",
+    "source": "아주경제",
+    "published": "2025-11-14",
+    "keyword": "미래기술",
+    "topic": "global",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "중국 하이테크 페어는 미래 도시 기술 트렌드를 보여주며, 교육은 융합 기술 인재 양성을 위한 혁신적 커리큘럼 개발에 힘써야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[김학준 칼럼] 대학 개편이 절실해진 새 시대: 과학과 기술의 경이로운 발전에 상응하는 인재들을 키워야",
+    "url": "https://news.unn.net/news/articleView.html?idxno=586190",
+    "source": "한국대학신문",
+    "published": "2025-11-14",
+    "keyword": "",
+    "topic": "higher_ed",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "새 시대에 필요한 융합적 인재 양성을 위해 대학은 학문 간 경계를 넘어 교육과정을 혁신해야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[사설] K-edu, 한류의 새로운 지평을 열 때다",
+    "url": "https://news.unn.net/news/articleView.html?idxno=586232",
+    "source": "한국대학신문",
+    "published": "2025-11-14",
+    "keyword": "",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "K-edu의 세계적 관심은 한국 교육이 지닌 강점을 활용하여 교육 시스템 혁신과 미래 인재 양성에 집중해야 함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[2025 충북에듀테크 콘펙스] 엘라인 \"맞춤형 미래교육 컨설팅 받으러 오세요\"",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYYWtmbU5MSGxOdFQyZEkzZzJyeEpIaG5RdGVxNEtBaXhucEtBRWJrb1hIMk1ESlhPcVBadDFxLUNFbFhrYXBtX3ZSWU5PbXRSU0xTdWljTDMxbDA?oc=5",
+    "source": "더에듀",
+    "published": "2025-11-14",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "2025 충북에듀테크 콘펙스는 맞춤형 미래 교육 컨설팅을 통해 교사들이 에듀테크 활용 역량을 강화하고 개별 학생에게 최적화된 교육을 제공하는 데 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "국회 교육위원회, 교육부 2026년도 예산안 ㆍ기금운용계획안 등 의결",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xMnN2MFJyb2hteER2SlB4OHplVWUyRzR4YkxacWZwNERNR19iRlY4OGowSFNGbUpLMFRwNHZxQVNlQnprLXRoQTVwZ1MyN0t4bk5EVXphU1cyZHJsUERTeC1hRkQ1OEdlQVB2eHVKQXVvcmRP?oc=5",
+    "source": "글로벌뉴스통신GNA",
+    "published": "2025-11-14",
+    "keyword": "AI디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "국회",
+     "교육부"
+    ],
+    "summary": "2026년 교육부 예산안 의결은 미래 교육 투자 방향성을 제시하는 동시에, 구체적인 실행 계획 및 현장 적용 가능성을 면밀히 검토해야 할 과제를 안고 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "양원숲초 교육실습 현장 찾은 정근식 서울교육감 “행복한 배움에 감동”",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=21392",
+    "source": "에듀프레스",
+    "published": "2025-11-13",
+    "keyword": "",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "서울시교육청",
+     "교권"
+    ],
+    "summary": "서울시교육감의 교육실습 현장 방문은 교권 존중과 행복한 배움 환경 조성에 대한 의지를 보여주는 긍정적인 신호입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "1급 전원 교체 임박, 술렁이는 교육부",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=21390",
+    "source": "에듀프레스",
+    "published": "2025-11-12",
+    "keyword": "",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "교육부 1급 인사 전면 교체는 새로운 교육 정책 방향을 예고하며, 현장과의 소통 및 정책 실행의 효율성을 높이는 데 주력해야 할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "“대통령님, 정서적 아동학대에서 교사를 지켜주세요” 전주M초 교사의 호소",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=21389",
+    "source": "에듀프레스",
+    "published": "2025-11-11",
+    "keyword": "",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "교권"
+    ],
+    "summary": "교사의 정당한 교육 활동이 무분별한 아동학대 신고로 위축되지 않도록 대통령을 비롯한 사회적 차원의 교권 보호 시스템 구축이 시급합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "[교육정책 우문현답] 위기의 교단, 교사리더십이 필요하다",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=21386",
+    "source": "에듀프레스",
+    "published": "2025-11-10",
+    "keyword": "",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [],
+    "summary": "교사 리더십 함양을 통해 교사의 주체성을 회복하고 학교 신뢰를 구축하는 것이 공교육 위기 극복의 핵심 과제입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "AI 인재, 대학입학 후 5.5년에 박사 취득…‘학‧석‧박 패스트트랙’ 신설",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=21381",
+    "source": "에듀프레스",
+    "published": "2025-11-10",
+    "keyword": "",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 인재 양성을 위한 학·석·박 패스트트랙은 융합적 사고와 도전 정신을 갖춘 인재 육성을 촉진하는 긍정적 시도입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Can AI support student engagement in classroom activities in higher education?",
+    "url": "http://arxiv.org/abs/2506.18941v1",
+    "source": "",
+    "published": "2025-06-22",
+    "keyword": "",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "본 연구는 대규모 수업에서 ChatGPT와 같은 대화형 AI 도구를 활용하여 학생들의 학습 참여도를 높일 수 있음을 보였으며, 이는 고등 교육에서 AI 기반 학습 지원의 가능성을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Neha Rani', 'Sharan Majumder' 외 2명",
+    "pdf": "http://arxiv.org/pdf/2506.18941v1"
+   },
+   {
+    "n": 2,
+    "title": "Disseminating and Using Student Assessment Information in Russia",
+    "url": "https://www.semanticscholar.org/paper/1f3a2b4d8608d820d8ff1f752e42137dc8b6c983",
+    "source": "semantic_scholar",
+    "published": "",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "러시아의 학생 평가 시스템(USE 및 국제 평가) 활용 사례 연구를 통해, 평가 목적, 설계, 신뢰도, 접근성 등 다양한 요인이 교육 개혁에 미치는 영향을 분석하고, 효과적인 평가 활용을 위한 교훈을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Yulia Tyumeneva",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Yixue Adaptive Learning System and Its Promise on Improving Student Learning",
+    "url": "https://www.semanticscholar.org/paper/affa2b88be5bebf620a6f183e53f9d48a2aee32d",
+    "source": "semantic_scholar",
+    "published": "",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "중국에서 개발된 적응형 학습 시스템 YiXue의 효과를 검증하기 위해 영어 교육 과정에서 비교 학습 플랫폼과 비교한 결과, 학생들의 학습 효율성이 유의미하게 향상되었으며 학습 경험에 대한 긍정적인 인식도 높아 교육 분야에 적응형 학습 시스템의 가능성을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Haoyang Li, Wei Cui 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "Educational Data Mining to Support Programming Learning Using Problem-Solving Data",
+    "url": "https://www.semanticscholar.org/paper/ed091dbf2512f19f346f06cf189ee719a5a4fb42",
+    "source": "semantic_scholar",
+    "published": "",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 온라인 저지 시스템의 문제 해결 데이터를 활용하여 비지도 학습 기반 교육 데이터 마이닝 프레임워크를 제안하고, 이를 통해 프로그래밍 학습자의 약점을 파악하고 개선 방향을 제시하여 프로그래밍 교육을 지원합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Md. Mostafizer Rahman, Yutaka Watanobe 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "IntelliDaM: A Machine Learning-Based Framework for Enhancing the Performance of Decision-Making Processes. A Case Study for Educational Data Mining",
+    "url": "https://www.semanticscholar.org/paper/8a7a84f161dbceb9fca44977b6cb3d6423b1afb6",
+    "source": "semantic_scholar",
+    "published": "",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [],
+    "summary": "IntelliDaM 프레임워크는 머신러닝 기반의 기능 분석, 비지도 및 지도 학습을 통해 교육 데이터 마이닝 성능을 향상시켜 의사 결정을 개선하고, 실제 대학 데이터를 활용한 연구에서 학생 성적 분석을 통해 교육 과정 설계 및 평가 개선에 기여할 수 있음을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "G. Czibula, G. Ciubotariu 외 1명",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "무하유 ”GPT킬러 활용 3.9배 급증...AI 부정행위 논란 최소화 기여”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=203984",
+    "source": "AI Times",
+    "published": "2025-11-14",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "GPT킬러 사용량 증가는 교육 현장에서 AI 활용 윤리 및 공정성 확보에 대한 요구가 높아지고 있음을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "OpenAI launches GPT-5.1 API with improved coding capabilities and new developer features",
+    "url": "https://the-decoder.com/openai-launches-gpt-5-1-api-with-improved-coding-capabilities-and-new-developer-features/",
+    "source": "The Decoder",
+    "published": "2025-11-13",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT",
+     "코딩 AI"
+    ],
+    "summary": "GPT-5.1 API는 개발 생산성 향상과 AI 활용 확대를 가속화하여, AI 개발 경쟁 심화를 야기할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "GPT-5.1 전격 공개… ‘대화형 인공지능의 재미’ 되살린 OpenAI의 반전 업데이트",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5BajNZV1hyWDEtS05NQ1RuZm0zQUxkb3pJSkFRM2VvTG80UkpKWlBGMk1oMjVSNDRPQWgwSVBkYXpjazBNOWdNcGhLRU4?oc=5",
+    "source": "한국AI부동산신문",
+    "published": "2025-11-14",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "OpenAI"
+    ],
+    "summary": "GPT-5.1 공개는 대화형 AI 경쟁 심화와 함께 사용자 경험 혁신을 가속화하며 관련 시장 성장을 견인할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "구글, 가상세계서 추론·행동하는 '시마 2' 공개...\"AGI 향한 진일보\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=203978",
+    "source": "AI Times",
+    "published": "2025-11-14",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "로봇·휴머노이드"
+    ],
+    "summary": "구글 시마 2는 가상 환경에서의 추론 및 행동 능력을 통해 AGI에 한 걸음 더 다가섰으며, 이는 게임, 로봇, 시뮬레이션 등 다양한 산업에 AI 적용 가능성을 확대하는 중요한 진전입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "OpenAI, 챗GPT '그룹채팅' 국내 우선 도입",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TSjgyZzlRZThNWkY0Nlk2Y0dmZWpDWUpfMDU5TXc1Mmhza2c0NWZmNkdDQ1plTVdkcGpkanNvWFozRnJ1ZnVqQkdJanB5Yk5VZnFn?oc=5",
+    "source": "네이트",
+    "published": "2025-11-14",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "OpenAI의 그룹채팅 국내 우선 도입은 한국 AI 기술 시장의 중요성을 부각하고, 협업 기반 AI 서비스 경쟁을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "[거꾸로 읽는 경제] EU는 왜 구글의 AI·뉴스검색 알고리즘에 메스를 대려하는가",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42ZTh6NUhmUG04VHZseUQ2cnVhUnJuZEJrcW9tbkFiNXF1RW82N1c1RkIxYU9YWUxQeFRtMmVfT1gtWlFPWHMzTGRNVm9Fd2FEeUEtbjl1bGJaU0pSdXc?oc=5",
+    "source": "뉴스투데이",
+    "published": "2025-11-13",
+    "keyword": "구글",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "EU의 구글 AI 알고리즘 규제 시도는 혁신 저해 우려에도 불구하고, AI 알고리즘 투명성 및 공정 경쟁 환경 조성이라는 중요한 가치를 추구하는 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "성균관대–KAIST–연세대 공동연구팀, 초고효율 실험과 인공지능 결합한 ‘차세대 촉매반응 개발 플랫폼’ 구축",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TZk85ZW52YnBEWlpFSlBLS2xEQXk5cUREN0RDbGt6bkRfT2E5UkZHZkhsNDVNcjczNVAyMU1TNWlyWmpZTjRmQlFKZ3JYU1p1ZnRSN3NNLXhyaHBXYjl0UzBNODU0YmVFeV8yLVhNVUlyQQ?oc=5",
+    "source": "중앙이코노미뉴스",
+    "published": "2025-11-14",
+    "keyword": "인공지능",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 기반 촉매 개발 플랫폼은 신소재 개발과 화학 산업 혁신을 가속화하여 관련 AI 기술 및 시장 성장에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "Anthropic bets $50 billion on US AI data centers",
+    "url": "https://the-decoder.com/anthropic-bets-50-billion-on-us-ai-data-centers/",
+    "source": "The Decoder",
+    "published": "2025-11-12",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "GPU·데이터센터"
+    ],
+    "summary": "앤트로픽의 대규모 데이터센터 투자는 AI 경쟁 심화 속에서 데이터 주권 확보와 AI 모델 성능 향상을 위한 필연적인 전략입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "\"엄마, 챗GPT로 숙제했어요!\" AI에 당황한 부모를 위한 실전 가이드 'AI시대, 우리 아이 나침반 되기' 출간",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE81R2FBZW9nVTJkaVdyUXgyUjJiX0Q0WndERVN4aXZMNjRvcTUxZFR5TWpCSkNxRmQ5bTExcXFKNDM5UEZhSVNrUXRqcVlqeTNiNDZQc2dHMHcyZUM2STk3NVVpaw?oc=5",
+    "source": "abcn.kr",
+    "published": "2025-11-13",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "AI 리터러시"
+    ],
+    "summary": "AI 활용 교육의 현실화는 교육 방식 변화와 더불어 AI 리터러시 교육의 중요성을 부각하며 관련 시장 성장을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "[구글, AI로 온라인 쇼핑 경험 전면 강화... 대화형 검색·에이전트 결제· AI 전화 도입] 대화형 쇼핑 검색, Gemini 앱 내 쇼핑 기능, 에이전트 결제 시스템, 그리고 매장에 직접 전화를 걸어 재고를 확인해주는 AI 도구 등이 포함",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBFWXc2dmFMOXBJUE1VcW9NVGxoZF91NThxY3ZDTnZjdnV5dS1jdXVfS2JISFo2WTlteVBGajhUeFc?oc=5",
+    "source": "AI넷",
+    "published": "2025-11-13",
+    "keyword": "구글",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Google",
+     "에이전트",
+     "Gemini"
+    ],
+    "summary": "구글의 AI 쇼핑 강화는 사용자 경험 혁신과 더불어 AI 기반 상거래 경쟁 심화를 예고합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 기술 발전과 함께 K-edu의 세계화, 에듀테크 맞춤형 컨설팅 확대, 교사 리더십 강화, AI 인재 육성 패스트트랙 신설 등 교육 혁신을 통해 미래 시대에 발맞춘 인재 양성에 박차를 가하고 교사의 행복한 배움을 지원하며 교육 현장의 긍정적인 변화를 모색하고 있습니",
+  "tech": "AI 기술은 GPT 모델의 발전, 다양한 분야와의 융합, 사용자 경험 향상, 그리고 윤리적 문제 해결 노력을 통해 더욱 고도화되고 있으며, 실생활 적용 범위 또한 빠르게 확장되고 있다."
+ }
+}

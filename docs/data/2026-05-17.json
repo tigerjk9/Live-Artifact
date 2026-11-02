@@ -1,0 +1,420 @@
+{
+ "date": "2026-05-17",
+ "generated_at": "2026-11-02T11:36:39+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "“질문이 배움이 되는 현장”…충남교육청 상상이룸 나눔마당, 미래교육 실험장으로",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12MFlQRnFLZll6OV9jLWJhWERjVjQ3UzlZX04zLXFCa0NIM3hmUVl3NzF5b29ZY0Zya1pOWnNJUHk0VTdwVl9fdE12NlFqZmNsWWhr?oc=5",
+    "source": "아산데일리",
+    "published": "2026-05-16",
+    "keyword": "AI디지털교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "충남교육청 상상이룸 나눔마당은 미래교육 실험장으로, 질문 중심 학습법을 공유하고 확산하는 행사입니다.",
+    "implication": "학생들의 질문을 이끌어내고, 이를 바탕으로 탐구 활동을 설계하여 학생 주도적인 배움을 촉진할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[6·3 지선 주자] 장상기 \"강서, 명품교육도시 만들 것…AI교육혁신지구 추진\"",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Yb0hFczF4MjU2RXF0XzdWM0oySTQ1dGs5VUprbWFZX09KZTlMZDd3WEsxbDFoN1RGNlNLTmVjUFRPLXpNUGRJRjFXUFlYajNuNlZ3V3VINnM1RnUx?oc=5",
+    "source": "뉴스핌",
+    "published": "2026-05-16",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제"
+    ],
+    "summary": "장상기 강서구청장 후보는 강서를 AI교육혁신지구로 지정하여 명품 교육 도시를 만들겠다고 공약했습니다.",
+    "implication": "AI 교육 관련 정책 변화에 따라, 교사는 학생들에게 AI 윤리 교육 및 활용법 교육을 강화해야 합니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "경기도교육청미래과학교육원, 초·중등교원 대상 ‘피지컬 컴퓨팅 중심 연수’ 운영",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jdzhhakx0ZzVsMkxNZ2Q5Vjd5YWNaVEpCelFERVhuVUdvS18taTQ5Z0llQ1dxYlZJbEhpbmNKVzZPSkp2M2Y1N2NoOUYydmVkeV9HaUFjdE9MeDhqQ2lTNW8ycjdHUTZRUlE?oc=5",
+    "source": "경기시사투데이",
+    "published": "2026-05-16",
+    "keyword": "인공지능교육",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청미래과학교육원에서 초·중등 교사를 대상으로 피지컬 컴퓨팅 중심 연수를 운영한다.",
+    "implication": "피지컬 컴퓨팅 연수를 통해 센서, 액추에이터 활용 교육과정을 직접 설계해볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "태안교육청, 학생 안전 지키는 교사 역량 강화",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wM1ZkMWdHZDRRbnVWUlZydXFTTW14WFdEbVJfamNnX0VvdVNtR0VkMmQ1NUVDdUhuamwxZTFtMXVVSjYzX2V4RUZoc1ktS1JQcFpqUzg2SmZpX1prNjBkU29pX1g1OUMzQWRHdXln0gFuQVVfeXFMTjAzVmQxZ0dkNFFudVZSVnJ1cVNNbXhYV0RtUl9qY2dfRW91U21HRWQyZDU1RUN1SG5qbDFlMW0xdVVKNjNfZXhFRmhzWS1LUlBwWmpTODZKZmlfWms2MGRTb2lfWDU5QzNBZEd1eWc?oc=5",
+    "source": "충청신문",
+    "published": "2026-05-16",
+    "keyword": "인공지능교육",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [],
+    "summary": "태안교육청은 학생 안전을 위해 교사의 역량 강화 교육을 실시합니다.",
+    "implication": "학생 안전 사고 발생 시 침착하게 대처할 수 있도록 안전 교육 내용을 수업에 녹여낼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "경기도교육청, ‘디지털 시민’, ‘인공지능 윤리’ 인정도서 3종 추가 개발·보급",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RWGNXNG9DalFzOEdpU0VGVG00WGxtd3hZZlhxQlU0enN2bm9ZMVhncGxoQ3V6TjNRME9pZi11WDhncGd4MmNyX0RydV9pazA0Vjl5S2U5dlliSkR6UUJXeHRYSVNfWmo2S3hXVA?oc=5",
+    "source": "성남포커스",
+    "published": "2026-05-16",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청이 디지털 시민 및 인공지능 윤리 관련 인정도서 3종을 추가 개발하여 보급합니다.",
+    "implication": "디지털 윤리 및 AI 활용 교육 자료가 늘어 학생들과 관련 주제 토론 수업을 진행할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "충북교육청 키르기스스탄과 디지털 교육 협력 첫걸음 > 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFA0UWc0M3dXRkc0Q1pRenhJVHpYUTZrT0tfMUo2U1pUbHcxQUZYVFZpaHI1aVVQbDB5MERBVVpoS014UTQ?oc=5",
+    "source": "더코리아",
+    "published": "2026-05-16",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "충북교육청"
+    ],
+    "summary": "충북교육청이 키르기스스탄과 디지털 교육 협력을 시작하여 향후 교육 자료 공유 및 교사 교류 등이 예상됩니다.",
+    "implication": "키르기스스탄과의 디지털 교육 협력 사례를 통해 우리 반 학생들에게 국제적인 교육 콘텐츠를 소개할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "금융지주, AX 전환 속도전…생성형 AI 경쟁 본격화",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtNjRVamFJVERySlAtR1l0T2lONWpia1M0bzVaVmwteFRzcndRNGtBMEVMX2RTT2VCeDFUUDBVMkxxX2tRT3BIMWx3bU1MXzNRODdYYjdoNWZiaUtZcmVTcmw0NEtwYVExMlhGZ3o5SdIBb0FVX3lxTFBtNjRVamFJVERySlAtR1l0T2lONWpia1M0bzVaVmwteFRzcndRNGtBMEVMX2RTT2VCeDFUUDBVMkxxX2tRT3BIMWx3bU1MXzNRODdYYjdoNWZiaUtZcmVTcmw0NEtwYVExMlhGZ3o5SQ?oc=5",
+    "source": "한국아이닷컴",
+    "published": "2026-05-16",
+    "keyword": "디지털전환",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "금융지주들이 인공지능(AI) 기술, 특히 생성형 AI를 활용한 디지털 전환(AX) 경쟁에 본격적으로 돌입하고 있다.",
+    "implication": "금융 분야의 AI 활용 사례를 탐구하고, 이를 통해 미래 사회 변화에 대한 학생들의 예측 및 대응 능력을 길러줄 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "내안에교회 콘텐츠 활동 참가자 최정이 씨, 생성형 AI로 3년간 찬양곡 148곡 제작",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iQXExQkd2TlZsYk1wSlprUE82WC1sUVVsRzJqYWNBd1VRRW9nUzhQQi1LSUx5WXFYaVhRMmIxVzFSU2JETjRpRnBURnVKZ2VIOXNfb1dfY25KSmphNGZvUHotc9IBZ0FVX3lxTFBGQmRBbmxUOFJwLW04T2lsZURoUmN4YUFUbG0zTV80MU5XYXBGbVJxNXZaQXpkaXpPMW9BSm91aVloRk4zbmI4R19wcUFBZDl0aFBwSGJEZGl4RHhVNzYtc3FXWUlBSG8?oc=5",
+    "source": "국민기자뉴스",
+    "published": "2026-05-16",
+    "keyword": "생성형AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "내안에교회 최정이 씨가 생성형 AI를 활용해 3년간 148곡의 찬양곡을 제작했습니다.",
+    "implication": "학생들에게 생성형 AI를 활용한 창작 활동 사례를 보여주고 음악 수업에서 새로운 시도를 장려할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "이명수 “‘전교조 편향 교육 끝내겠다’”… 충남교육감 본선 행보 돌입",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFekNneDdDZ3pvUHE0eDdfaEpUMXhCRDlqWWhNTzBlaVQ2VXo4RGJFbDZDT3phYnY1OFoxSzZrSWdIQnFGWTVQUXJ6MUpHUUJqRDE3U0JDYktfTUNfMjZtV2p0SzFkbm5VUllWcg?oc=5",
+    "source": "공뉴스",
+    "published": "2026-05-16",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교원단체",
+     "충남교육청",
+     "교육감 선거"
+    ],
+    "summary": "이명수 충남교육감 후보가 전국교직원노동조합 편향 교육 종식을 내세우며 본격적인 선거 운동에 돌입했습니다.",
+    "implication": "특정 이념 편향 논란에서 자유로운 균형 잡힌 시각을 가지고 교재를 선정하고 수업을 설계해야겠습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "워크데이, 업무용 에이전틱 AI 공개…\"100% 정확도 제공\" : 네이버 블로그",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQjh4OTV6ci0wYUU2WS1DTkRSVEtHeFVPVFRTSmZyYkphMFZ4c1RLYnNzT0cwc2ZhTVNYdTdjTjRxMl9tcVdFTHN6ZUNaTmFSUkVQSk1xTHo0a1Y3Z0IwQ0VHYjkzNGRiSmFfbDRVaUM1SVlYOXc5ck1HaFhlSVhFTUJWc0haWEZIYUo0TDJ3QQ?oc=5",
+    "source": "Naver Blog",
+    "published": "2026-05-16",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "네이버",
+     "AI 튜터"
+    ],
+    "summary": "워크데이가 업무용 에이전틱 AI를 공개하며 100% 정확도를 제공한다고 밝혔습니다.",
+    "implication": "워크데이 AI처럼, 학생들의 학습 과정을 돕는 개인 맞춤형 AI 튜터를 수업에 활용할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Editorial: Emerging technologies and digital innovations: recent research and practices in technology-enhanced learning environments",
+    "url": "https://doi.org/10.3389/feduc.2026.1826863",
+    "source": "openalex",
+    "published": "2026-05-15",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 AI, VR, 게임 기반 학습 등 다양한 디지털 기술을 활용한 교육 환경 연구 동향을 분석하고, 기술 수용 모델을 통해 기술 통합 학습 환경 설계 및 구현 관련 과제를 제시하며, 교육 효과를 높이는 데 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Yu-Chun Kuo, Nikleia Eteokleous 외 1명",
+    "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1826863/pdf"
+   },
+   {
+    "n": 2,
+    "title": "Editorial: Positive higher education: empowering students through learning and wellbeing",
+    "url": "https://doi.org/10.3389/fpsyg.2026.1850140",
+    "source": "openalex",
+    "published": "2026-05-15",
+    "keyword": "",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [],
+    "summary": "긍정심리학 기반의 고등교육은 학생의 심리적 자원, 사회적 관계, 교육 환경을 융합하여 학습과 웰빙을 증진시키고, 이는 대학의 교육적 책무를 강화하여 사회에 기여하는 인재 양성에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Maggie Yue Zhao, Ronnel B. King 외 1명",
+    "pdf": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1850140/pdf"
+   },
+   {
+    "n": 3,
+    "title": "Innovative Research and Practice on the Teaching Model of the Course “School Physical Education” in Colleges and Universities Empowered by Artificial Intelligence",
+    "url": "https://doi.org/10.26689/jcer.v10i4.14754",
+    "source": "openalex",
+    "published": "2026-05-15",
+    "keyword": "",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 AI 기술을 활용하여 대학 체육 교육의 핵심 이론 과목인 \"학교 체육\"의 교수 모델 혁신 방안을 탐색하고, AI 진단과 교사 주도 지도를 결합한 혼합형 교수 모델 및 스마트 교육 환경 구축을 통해 교육 효과를 높이고자 합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Songwei Zhong, Zhongjun Chen 외 1명",
+    "pdf": "https://ojs.bbwpublisher.com/index.php/JCER/article/download/14754/12926"
+   },
+   {
+    "n": 4,
+    "title": "A Matter of Race and Gender: An Examination of an Undergraduate Music Program through the Lens of Feminist Pedagogy and Black Feminist Pedagogy",
+    "url": "http://dx.doi.org/10.1177/1321103X19863250",
+    "source": "eric",
+    "published": "2020-01-01",
+    "keyword": "pedagogy",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 여성주의 및 흑인 여성주의 교육학 관점에서 스펠만 대학의 음악 프로그램의 내용, 맥락, 교수법을 분석하여 음악 교육자들이 모든 학생을 포용하는 사회문화적으로 포괄적인 환경을 설계하고 가르칠 수 있는 방안을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Grissom-Broughton, Paula A.",
+    "pdf": "http://dx.doi.org/10.1177/1321103X19863250"
+   },
+   {
+    "n": 5,
+    "title": "Empowering Educational Development and Faculty Growth with AI",
+    "url": "http://doi.org/10.4018/979-8-3373-4129-3",
+    "source": "eric",
+    "published": "2025-01-01",
+    "keyword": "educational AI",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "AI는 교육 개발과 교수 성장을 촉진하여 맞춤형 학습, 효율적인 행정, 혁신적인 교육 전략을 지원함으로써 교육기관과 교수진 모두의 역량을 강화하고, 교육 분야 발전에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Nathan Pritts, Editor",
+    "pdf": "http://doi.org/10.4018/979-8-3373-4129-3"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "'바이브 코딩' 레플릿, 애플과 4개월 갈등 끝에 iOS 업데이트 재개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210598",
+    "source": "AI Times",
+    "published": "2026-05-16",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "코딩 AI",
+     "Apple"
+    ],
+    "summary": "레플릿-애플 간 갈등 해소는 개발 플랫폼 생태계 안정화에 기여하고, AI 코딩 도구의 모바일 접근성을 확대하여 사용자 경험을 개선할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "억만장자 애크먼, MS에 3.5조 베팅…”MS 오피스는 AI로 대체 불가능”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210596",
+    "source": "AI Times",
+    "published": "2026-05-16",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Microsoft"
+    ],
+    "summary": "애크먼의 투자는 AI가 기존 소프트웨어 시장을 완전히 대체하기보다 공존하며 발전할 가능성이 높다는 것을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function and Execution Topology",
+    "url": "https://arxiv.org/abs/2605.13850",
+    "source": "arXiv.org AI",
+    "published": "2026-05-16",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "AI 에이전트 설계 패턴의 체계화는 개발 효율성을 높이고 다양한 산업 분야에 AI 적용을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+    "url": "https://openai.com/index/databricks",
+    "source": "OpenAI Blog",
+    "published": "2026-05-15",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "에이전트"
+    ],
+    "summary": "Databricks의 GPT-5.5 도입은 엔터프라이즈 AI 에이전트 시장 경쟁 심화와 동시에 데이터 중심 AI 솔루션의 중요성을 부각할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "장수지 원티드랩 PO \"AI 시대의 '프로덕트 오너', 정답 대신 시험지를 설계해야\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210603",
+    "source": "AI Times",
+    "published": "2026-05-16",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 시대에는 프로덕트 오너가 정답 제시보다 실험 설계 능력을 갖춰 불확실성 속에서 혁신을 주도해야 할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "[AI카툰] Bob, Senior IT guy - 밥, 치열한 3자 대결 멕시칸 스탠드오프를 벌이다",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210592",
+    "source": "AI Times",
+    "published": "2026-05-16",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 카툰은 기술 복잡성 심화 속에서 IT 전문가들이 AI, 자동화, 기존 시스템 사이의 균형을 맞추기 위한 끊임없는 경쟁에 직면하고 있음을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "How NVIDIA engineers and researchers build with Codex",
+    "url": "https://openai.com/index/nvidia",
+    "source": "OpenAI Blog",
+    "published": "2026-05-12",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "코딩 AI"
+    ],
+    "summary": "엔비디아의 Codex 활용 사례는 AI 개발 생산성 향상을 가속화하여 AI 기술 발전 및 산업 적용 확대를 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "삼성·LG 이어 SK까지… SI 업계, 오픈AI와 ‘실행형 AI’ 경쟁 본격화",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZY1M2UjVEZlE1VnNVYTNoclZBRkI2bDZuSE9HdzVGNVBvbmlsYm9qZGRvaVlGOFpPZzgtMFhESzFKOFJZWlVuVDJmUG5xTmM4SGNLRGt5OFQ4OW45d0lUM05PSmx3cVV1Uy14SzZB0gFuQVVfeXFMTlljUzZSNURmUTVWc1VhM2hyVkFGQjZsNm5IT0d3NUY1UG9uaWxib2pkZG9pWUY4Wk9nOC0wWERLMUo4UllaVW5UMmZQbnFOYzhIY0tEa3k4VDg5bjl3SVQzTk9KbHdxVXVTLXhLNkE?oc=5",
+    "source": "파이낸셜투데이",
+    "published": "2026-05-16",
+    "keyword": "오픈AI",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "삼성",
+     "LG",
+     "OpenAI"
+    ],
+    "summary": "국내 SI 기업들의 오픈AI 협력 경쟁 심화는 기업 맞춤형 AI 솔루션 시장 확대와 동시에 기술 경쟁력 확보를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "오픈AI, 몰타 국민 대상 챗GPT 플러스 1년 제공",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FWVdtN3N3eF92VC1IVTRqU3M3TkRzc0ZtZTRpbTJYZXZtdnZwNmRuTWRZVkVRUXE0cjA4Q01CLWJqakJlSDFmMF9nVklvMXhKSlpTMEw3eG9KSGliNlJ1Q2dpVTdlRUh4dUMybkZnTHBZQ00?oc=5",
+    "source": "디지털투데이",
+    "published": "2026-05-16",
+    "keyword": "오픈AI",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "오픈AI의 몰타 대상 챗GPT 플러스 제공은 AI 기술 확산과 시장 테스트를 통해 유럽 시장 진출을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "아마존, AI 데이터센터 투자 전면 확대...AWS 중심 ‘초거대 인프라 경쟁’ 가속",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00YUVhSURoaGxsSWNNcF9uUzJwUGxHMU9jRXVzRGxmTm1rdzJUeTRoc1ZSdUFKUTZXbC11QzkxMFdkYzdLMGhQZFczTzQwZEpwSl9Hai10cVFzTlViNk55RUhmdFlDd3Y4?oc=5",
+    "source": "레디앙",
+    "published": "2026-05-16",
+    "keyword": "AI모델",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Amazon",
+     "GPU·데이터센터"
+    ],
+    "summary": "아마존의 AI 데이터센터 투자는 AWS를 통해 AI 인프라 경쟁을 심화시키고 AI 기술 발전 및 산업 성장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

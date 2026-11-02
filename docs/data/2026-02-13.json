@@ -1,0 +1,431 @@
+{
+ "date": "2026-02-13",
+ "generated_at": "2026-11-02T11:52:05+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "첨단 뇌과학 체험하는 교육 환경 조성",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBTbWtOWHI3MjVjY1Y2TGtoLUthdlUtdHUwSnJsWVdmSHRkdVBCcXVkM3NieGphZlVLaFEtV3g0NktLNTByNnQ4MVB3YkRkZHZBMUdHR3lsM2tTNWc2RVNVeVpqbjVrT2hrX1ZtRy1WeWxsZw?oc=5",
+    "source": "동방일보",
+    "published": "2026-02-12",
+    "keyword": "뇌과학",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "뇌과학 기반 교육 환경 조성은 학생 개개인의 특성에 맞는 최적화된 학습 경험을 제공하여 교육 효과를 극대화할 수 있다는 점에서 긍정적입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "경기도교육청 직업계고 교원 '인공지능 융합 교육과정' 비대면 연수",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43dEdqd2djcVE2RTFCWGJUemhIMHJKRWFHSjQ0YWhNLWZJR21xbjA5aEI1OWFFT05BbGZQb1R3RmhFRG02dXR1X1puV1k5TmFqVUZrd21YdC1BQ25STjNXVTF1SFU?oc=5",
+    "source": "열린뉴스통신",
+    "published": "2026-02-12",
+    "keyword": "AI교육",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "직업계고 교원의 AI 융합 교육 역량 강화 연수는 미래 사회에 필요한 실무 인재 양성에 기여할 수 있을 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "이화여대 사범대학, 교육부 6주기 교원양성기관 역량진단서 6회 연속 A등급 획득",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nbFI3UW9jUFNsbkRLMTYtOEd4dXlOaEZpNUlSWlRObkpGTS1RTjBjX1R1dW83SUxsdnBCYjZPZ0phVUFrN2w4X1o3ZVZEX3Q2enNVYjhYeHlBeVNDUDZwMklZR3ZfZ9IBaEFVX3lxTE1OUmVZTm9IZzEzRWNMenMzbjMyWUtpWVJaTTdTS2w3cEU4bG90ZTA5bmRqUGd0MHQwTkYtOFFSejVmWHFmUkxZTm9BMGxFOUh2MUJuTlhqZG1QS0hPZElLWE1UZzJKOHF4?oc=5",
+    "source": "usline.kr",
+    "published": "2026-02-12",
+    "keyword": "AI디지털교육",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "이화여대 사범대학의 지속적인 A등급 획득은 교원 양성 시스템의 우수성을 입증하며, 예비 교사 교육의 질적 향상에 긍정적인 영향을 미칠 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "인천시교육청평생학습관, 학부모 교육 체계 개편",
+    "url": "https://www.lecturernews.com/news/articleView.html?idxno=196750",
+    "source": "한국강사신문",
+    "published": "2026-02-13",
+    "keyword": "",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청평생학습관의 학부모 교육 체계 개편은 학부모의 능동적 참여를 유도하고 학교 교육과의 연계를 강화하는 긍정적인 시도입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[한국사회적경제신문] 디지털 수업 확산 이끈다”…경기도교육청, 하이러닝 선도교원 200명 본격 가동",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84S1oxUVk1RTA2YnM2YlBraE9IZXRrRzlOckkxS09XY1pXZXF6R1FoLVFpNHFUdENtZW9RbHpvb0ZVNC02eTlvNDJnR20tRWhoUzZuZnFXOVo5UDN4MXYw?oc=5",
+    "source": "한국사회적경제신문",
+    "published": "2026-02-12",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청의 하이러닝 선도교원 양성은 디지털 교육 혁신을 학교 현장에 효과적으로 확산시키는 중요한 발걸음입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "서울교육감 \"행정통합에도 교육 재정 안정적 확보 필요\"",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnWkNsMDl6SFlpS3BwYTYxLVdUNXFXSll5eHhBRmtBYnVZMkdKMG1ZVE1XMHJuaHM3eWd3X2J0N29vWmFzaHdsZ284RTAxY1lXTVltSjhWZUxmQWJpMGFaYdIBeEFVX3lxTFBxZzZLaHZmWmtqeGNaOHBwMEVDUDV6bEVFQnJvb3lubm5fYmpXeFBnY1ZBNGk3cTlfTnUwS1hSUGRhTnhxb1RieERlY1M0WUd1Sm9feW5tRmdvNWltb25RMExUeE9qWnQtRkZoRUQ5ZzVNalRpYjZwWg?oc=5",
+    "source": "뉴시스",
+    "published": "2026-02-12",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "서울시교육청"
+    ],
+    "summary": "서울-경기 행정통합 논의 시 교육 재정 확보 방안을 명확히 하여 교육의 질 저하를 막고 안정적인 교육 환경을 유지하는 것이 중요합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "정근식 서울시교육감 \"행정통합에도 교육재정 총량은 유지돼야\"",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FMGpYZksyb2dRWGZzMDlnQjYtX3Y0TFFXVVBlX3c4OUhoUVdfLW1CQlJWOGprWjBzNm9XVXpWLU10ZDBPY0xueFFweG1na05PRmowQkU2bl82aExfSE9DTg?oc=5",
+    "source": "네이트",
+    "published": "2026-02-12",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "서울시교육청"
+    ],
+    "summary": "행정통합 논의 시 교육재정 확보를 강조하는 정 교육감의 발언은 지역 교육 격차 심화를 막고 교육의 질을 유지하기 위한 필수적인 요구입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "경기도교육청, 초등 신규교사 350명 직무연수...\"AI 활용 등 역량 강화\"",
+    "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPekJIRWpob1lyWDl2S29LMHdHMnBMSUtwYjcybGRJa18welI2TElib3RxRkdLT2sxT09WT3oybjJCd05ENmJDM2o2TzdTYndzYzJZUXZuT0JfaTgwNENZV3NxTU9RclV2aWtmd0d3T0lpN0hVZVRnd2xISUphZFFSNlFTcUF3VzlnNlZ0QmVScjJjVGtaNVNkdy12UDN0bE5Td25VVUxhYk8yWGUtaW9mTnBhUHpyVTlPWWl2N1k4WGVaNUdYLUdGMTVxNjFFSDM3TF9QTHNta1FuQ1I2eXZma2tfcmxxaFRBSk8yRlczUV9pb2s4X2M4MVRGc1A1M2dvYzJ3ejlLcW5XdlVqZmIxeHFlMFlrOVdZWHZBVnZqb2JYaktaaldVNmhnOHNmclV3QUtVTDIySXFKRGUzQ3gxMGZIc0VyUVk2YXYwYzc5dFdUdnA0RkpjblF1SkVIbkc4SnZFRTVwalpNMFBoMHB0UzByUUFFY2NFSmpKRjVPblU5YzBHb3VoZEhyV3F6Tnc?oc=5",
+    "source": "MSN",
+    "published": "2026-02-12",
+    "keyword": "에듀테크",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청의 초등 신규교사 AI 활용 직무연수는 미래 교육 환경 변화에 발맞춰 교사의 디지털 역량 강화에 필수적인 투자입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "안민석 경기교육감 예비후보, “AI 로봇 동행은 퍼포먼스 아닌 교육 전환 선언”",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10aGkxRjU1RlVHeUR6cE80VjVBc0tCUVJwWXo3cWpqRVRYcENiLWpYMnE4OWFGZFJLRG9YdnRPc2tYNEhnWHJmX3AxcTBkZXRZbkwxTGMzU2FpaFE?oc=5",
+    "source": "교육연합신문",
+    "published": "2026-02-12",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "교육감 선거",
+     "로봇·휴머노이드"
+    ],
+    "summary": "AI 로봇 활용 교육은 단순한 시연을 넘어, 교육 패러다임 전환을 알리는 중요한 시발점이 될 수 있다는 점에서 주목할 만합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "이대형 교수, 인천시교육감 출마 선언…“무너진 공교육 정상화할 것”",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSRzdicWFwWmJlTlpFd0lkTlZpYjVDUEhNWXg1R2RZeVJmX2t4a1Y5VExLRmZPVTUzdENXRlQ1amFvemExRU5XZV9ZS0wxckQybHRLbnNVWm1ua0E?oc=5",
+    "source": "경기일보",
+    "published": "2026-02-12",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "이대형 교수의 인천시교육감 출마 선언은 무너진 공교육 정상화에 대한 교육계의 요구를 반영하며, 향후 교육 정책 방향에 대한 논의를 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Computer-Aided Personalized Education",
+    "url": "https://www.semanticscholar.org/paper/6901f37bc1eee20e1ba17e3e6d92b39f0299af1a",
+    "source": "semantic_scholar",
+    "published": "2020-07-07",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "STEM 분야 인력 부족 문제를 해결하기 위해, 논리 추론, 데이터 분석, 자연어 처리 등 AI 기술과 학습 과학 연구를 융합하여 개인 맞춤형 교육을 제공하고, 자동 평가, 피드백, 콘텐츠 생성 등을 통해 교육 효과를 극대화하는 컴퓨터 기반 개인화 교육 방안을 모색합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "R. Alur, Richard Baraniuk 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "Differentiated pedagogy for early-grade learners with executive function and visual processing challenges",
+    "url": "https://www.semanticscholar.org/paper/ec52207e4b15532c1d4dd2cd0c132c862181a311",
+    "source": "semantic_scholar",
+    "published": "2025-02-28",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "본 연구는 초등학생의 실행 기능 및 시각 처리 어려움을 겪는 학생들을 위한 차별화된 교수법을 질적 연구 방법으로 탐색하여, 교사의 전문성 개발, 자원 배분 개선, 학부모 협력 강화 등을 통해 학습 격차를 줄이고 포용적 교육을 증진하는 데 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Martin Chukwudi Ekeh",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "A hybrid teaching factory model towards personalized education 4.0",
+    "url": "https://www.semanticscholar.org/paper/706796ba1abfe24796f4031129f4a7ddec4025ca",
+    "source": "semantic_scholar",
+    "published": "2022-11-30",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "본 논문은 팬데믹 시대에 디지털 트윈 기술과 티칭 팩토리 모델을 결합한 하이브리드 교육 모델을 제시하여, 공학 교육에서 원격 협업, 사이버 안전, 지속적인 지원을 강화하고 맞춤형 교육 4.0으로의 발전을 촉진합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "D. Mourtzis, N. Panopoulos 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "Korean in-Service Teachers’ Perceptions of Implementing Artificial Intelligence (AI) Education for Teaching in Schools and Their AI Teacher Training Programs",
+    "url": "https://www.semanticscholar.org/paper/fdf9ba8511868a73e03d4c8197f31a4cf6bdd66f",
+    "source": "semantic_scholar",
+    "published": "",
+    "keyword": "AI education",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "본 연구는 현직 교사들을 대상으로 설문 및 인터뷰를 통해 AI 교육과 교사 훈련 프로그램에 대한 인식을 조사하여, 이론 중심의 교육보다 실제 교실 환경에 적용 가능한 실습 중심 커리큘럼의 필요성을 강조하며 AI 융합 교육 발전에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Robert O. Davis",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "AI literacy as a core component of AI education",
+    "url": "https://www.semanticscholar.org/paper/18fbb8fcfd5ac004c1392a3bcd644ab1e82fb0d8",
+    "source": "semantic_scholar",
+    "published": "2025-06-01",
+    "keyword": "AI education",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [
+     "AI 리터러시"
+    ],
+    "summary": "이 논문은 다양한 배경의 학생들이 AI 기술의 범위, 윤리적 사용, 사회적 영향력을 이해하고 비판적으로 상호작용할 수 있도록 4가지 핵심 축을 중심으로 설계된 AI 리터러시 교육 과정 설계 프레임워크를 제시하여 AI 교육의 민주화에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Sri Yash Tadimalla, Mary Lou Maher",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "[2월12일] \"파비오에서 클로드로 바뀐 로맨스 주인공\"...소설을 장악해 가는 AI",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=206778",
+    "source": "AI Times",
+    "published": "2026-02-13",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Claude"
+    ],
+    "summary": "AI 글쓰기 능력 향상은 콘텐츠 산업 전반의 생산성을 높이는 동시에, 창작자의 역할 변화와 새로운 협업 모델 모색을 요구합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "﻿[게시판] 뿌리오, 2026 지방선거 대비 ‘AI 문자 자동생성 서비스’ 강화 등 단신",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=206797",
+    "source": "AI Times",
+    "published": "2026-02-12",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "뿌리오의 AI 문자 자동생성 서비스 강화는 선거 캠페인 분야에서 AI 기반 초개인화 메시지 기술의 활용 가능성을 보여주는 사례입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "OpenAI는 GPT-5.2 및 고급 전체 화면 보고를 통해 ChatGPT에 대한 Deep Research를 업데이트합니다.",
+    "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOdGNxNzhzWUpZaS0xV08yX3hDNGY5cVNuNHdrdXFKQi00WTRWNHhqXzlxV1FheTZ4Nno4aTJ1Q0VzazM4WjRiN0RLWmE5OERNdXFvdlZsWEllNnE0Z0NMZWZqQ1FWUjJlQVBwQWVGSFZmT244YkdvelQwSnFIaE8za09uZGdOdll4VVVEbFdYVWY1bXgzS2ViT21acGdWNmNVQ180dVZiR01ndGV1SDhJalFtaE9DR0lMUWRDTTdJUEVkZ0o5VEJIemhqWWh0RTgzcXdCQV9Fb215VE9ydWVTVHJ5MXNfSTFHc21Ec0RDYk00UWk5UjhkMEpDQjBRR1JHOFlDY3BoeWlGTGh2a3pnWDBZckZIN3k4X2w2cGNnLUZFcTRqZmZQUzJwWUlhYTNpRnpHNmJ1eGVBcnprU2NOMEI4WlB5OC1ySTZQbVViUF9KV25XOWJySlJB0gHfAkFVX3lxTE9ubGwyZW82bkRNblNXUnJTSkVTTXAyNDFLQkR0TE9OOUlIMlZnaHBpZFIyYWxVVnpjNlBKa1JmRVhCblR3YXVKTWdZbG5YakhDZnRHR2FsQjFmX09la1d3OXN2T2pSSHlHT05QTmlSY1JYb1JkUEJMamVhVEpnQmsxOXN6STBiMGNoczJqbmtpQWFrOU15T3diTXpJQ0V3SjZIenY2aUZVSmNRcE9fb19kejFqaHFuT2lzUmVzRU05RVlBUEFxdXAwVU01bGxWVmJPeGstU0Ntb0dZazRISUxGX2pIRkQ1c1EyNWFvYXhNQjNhSXBaZ1VDWlZPbV9aWEU5ZVR6dG9DazRKTkVKQVZ0ZEVacjdobjdzTkVZVnh2QVJmVzFfUHdxX2p1VWtHOHVkLXVoN0VaNGRlZXNMcWFVRVF6bndlYUdSM05ULXVYZXZFd3g3RC1hYTdpZWM4Yw?oc=5",
+    "source": "Mix Vale",
+    "published": "2026-02-12",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "OpenAI의 GPT-5.2 및 보고 기능 업데이트는 ChatGPT의 성능 향상과 더불어 AI 연구 및 활용의 심층화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "OpenAI is retiring GPT-4o and three other legacy models tomorrow, likely for good",
+    "url": "https://the-decoder.com/openai-is-retiring-gpt-4o-and-three-other-legacy-models-tomorrow-likely-for-good/",
+    "source": "The Decoder",
+    "published": "2026-02-12",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "OpenAI의 구형 모델 지원 종료는 AI 모델 성능 향상 및 유지보수 효율성 증진을 위한 불가피한 선택이지만, 특정 사용 사례에 의존하던 사용자들에게는 단기적인 혼란을 야기할 수 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "치열해지는 ‘피지컬 AI’경쟁…휴머노이드가 실제 세계로",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=206810",
+    "source": "AI Times",
+    "published": "2026-02-13",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "로봇·휴머노이드"
+    ],
+    "summary": "휴머노이드 로봇 기술 경쟁 심화는 AI가 실제 세계로 확장되며 다양한 산업에 혁신적인 변화를 가져올 것임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "머스크, xAI 인원 이탈에 팀 재편...최근 공동 창립자 2명 포함 7명 퇴사",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=206779",
+    "source": "AI Times",
+    "published": "2026-02-12",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "xAI"
+    ],
+    "summary": "xAI의 조직 재편은 AI 경쟁 심화 속에서 속도와 효율성을 높이려는 머스크의 의지를 보여주지만, 핵심 인력 이탈은 장기적인 성장 동력에 대한 우려를 낳습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "바이트댄스, 자체 AI 칩 ‘시드칩’ 개발…삼성과 생산 협의",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=206800",
+    "source": "AI Times",
+    "published": "2026-02-12",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "GPU·데이터센터",
+     "삼성"
+    ],
+    "summary": "바이트댄스의 자체 AI 칩 개발은 중국 기술 자립 노력의 일환이며, 삼성과의 협력은 AI 반도체 시장 경쟁 심화를 예고하는 움직임입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "[Threads의 새로운 'Dear Algo' AI 기능은 피드를 개인화] 다른 이용자들은 누가 어떤 요청을 했는지 그대로 볼 수 있고, 마음에 드는 요청이 있으면 이를 리포스트(재게시)해 자신의 피드에도 동일한 알고리즘 조정을 적용할 수",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE0yUTl6RzdqYkFZWDVKT0haQ0VWV0U3bkJ1UTQ3aGJXQlR4SzFUZGI1MWtWXzlBLWk1YzEzZXBVVjQ?oc=5",
+    "source": "AI넷",
+    "published": "2026-02-12",
+    "keyword": "알고리즘",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "Threads의 'Dear Algo' 기능은 사용자 데이터 공유를 통한 알고리즘 개인화로 소셜 미디어의 투명성과 참여도를 높이는 실험적 시도입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "Anthropic, OpenAI의 정치적 공작에 맞서기 위해 2천만 달러 투자 약속",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYkxCTkoxbGFvRUlDOVhibGQyLVdnejRGNEEySXgzVWt3V1FhTXFfWl8xdkpxaEE0OVF3WXVnaG44N05kalBZQ2RXc2NlRnNNTnhlaDkxUGR5QkEzU1U5V0I2YkdHd0dUVlliVlhyUFdscEdFQzhTQWxjYXRaRVI2RUpfaHZ5TGQtV2c4Wlg3TGdMaTNTR1lVeUQ2WWVTT0lf?oc=5",
+    "source": "Cryptopolitan",
+    "published": "2026-02-12",
+    "keyword": "Anthropic",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "OpenAI"
+    ],
+    "summary": "Anthropic의 투자는 AI 개발 경쟁 심화 속에서 정치적 영향력 확대를 위한 기업들의 노력을 보여주는 사례입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "대구대학교, 전교생에 GPT-5 등 최신 유료 AI 무료 제공",
+    "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNWGNyVUl0TlpUSFlkZlhyTTZUMFQtUzd5NDNHRG16cEp1eEJPNVFLc0t6ZUZwWDR5WFJvRWl1VHR2M1JsbDhiSkFYbXlBUHVoVXVZV3BTQU52Q19NN0hyUmhqbDhkZ2NKVG9FNmVkTE9ycFczSDlyLWJUX01zSWt3MFBHRmNESjZFS2JENURabTBHbjg3eDZrZF9SZUNKc05sTEVyNGRVMXJHOUdNRmdMa1BpREFESEVnWFJBZ2lrU010aEFBOWE3UUdySGdIajNva2cxMXVTcWVxS1JPaGdkNXVqVURZcjFaQ3FBUFRIRWdTNlVPV3U1S3lya2otREp6ZUFPWlhxWExGS1pncHdsYkl0N3huWGd2aWNSa3l0MmlKdDBHNXZaN1dpX2dzS1doMjU4VEtSdzhjRHFHT050LVFPLWsyRU00M2VhTmN3?oc=5",
+    "source": "MSN",
+    "published": "2026-02-12",
+    "keyword": "GPT",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "대구대학교의 전교생 대상 최신 AI 무상 제공은 AI 활용 교육 확산과 잠재적 AI 인재 양성에 긍정적 영향을 줄 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 기술 융합, 디지털 교육 확산, 교원 역량 강화, 교육 재정 안정 확보 등 교육 혁신을 위한 다각적인 노력이 활발하게 이루어지고 있으며, 미래 교육으로의 전환을 가속화하고 있습니다.",
+  "tech": "AI 기술이 소설 창작, 선거, 칩 개발, 피드 개인화 등 다양한 분야로 확장되고, 기업들의 경쟁 심화 및 모델 변화가 가속화되는 가운데, AI 윤리 문제에 대한 투자와 사용자 접근성 확대 노력이 활발하게 이루어지며 AI 생태계가 더욱 풍성해지고 있다 🚀."
+ }
+}

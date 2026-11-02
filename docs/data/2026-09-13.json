@@ -1,0 +1,433 @@
+{
+ "date": "2026-09-13",
+ "generated_at": "2026-11-02T11:43:12+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "\"교문 넘어 넓은 세상으로\"…강삼영 강원도교육감, 강릉서 교육혁신 구상 제시",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjVjhneGNzVGVadlBtMm9WakFJN3hpM2VoY1RCbWZHSjU2OHZJanYwc1p6ck9mczFpdDhOZkhSUjVsSWpUdXoyQ3BpaVNTUnVqN2Vnai1FUFE5TVpYVEllNFRoU2NMdzg2OGpv?oc=5",
+    "source": "프레시안",
+    "published": "2026-09-12",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "강원교육청"
+    ],
+    "summary": "강삼영 강원도교육감이 강릉에서 '교문 넘어 넓은 세상으로'라는 교육혁신 구상을 제시했습니다.",
+    "implication": "학생들이 교문 밖 세상과 연결되는 경험을 수업에 통합하여 학습 동기를 높일 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "안민석 교육감, 여야 대표 만나 경기교육 현안 국회 협조 요청",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tYTBJaV9nZmlxZHZuRk0zV0Q5ZzlkMjVsaDZlSUh6aFRUR0kwcmVrMTRaUFBYZ1A5ekdzLXp5aXhQc2h6SDcxckJ2clNPb0hxY3ptdkkyY2NuLTFfRXhwcHp5OHh3M1BubThDYUVB?oc=5",
+    "source": "의왕미디어저널",
+    "published": "2026-09-12",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "국회"
+    ],
+    "summary": "안민석 교육감이 여야 대표를 만나 경기교육 현안 해결을 위한 국회 협조를 요청했다.",
+    "implication": "교육감의 대외 활동이 학교 현장에 가져올 변화를 예측하고 시사 토론 주제로 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "경남교육청, 교사 연구에 AI 접목 운영",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8yQkVZOHc1X24xQ3NlOHJHbHNhNG5vaDBxSk9yOFZjUzRmWTdZMWpTb3NCRkhsazFwaF96UEswVGhQeTUzc3M1US1wZ1dlZk85cms1UWg1ZHNEaE1jMzZoMDVsWVJaNGJFLUNXTl9MN0VLX3V5NUpB0gF3QVVfeXFMTzJCRVk4dzVfbjFDc2U4ckdsc2E0bm9oMHFKT3I4VmNTNGZZN1kxalNvc0JGSGxrMXBoX3pQSzBUaFB5NTNzczVRLXBnV2VmTzlyazVRaDVkc0RoTWMzNmgwNWxZUlo0YkUtQ1dOX0w3RUtfdXk1SkE?oc=5",
+    "source": "스트레이트뉴스",
+    "published": "2026-09-12",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경남교육청"
+    ],
+    "summary": "경남교육청이 교사 연구 활동에 인공지능(AI)을 활용하는 방안을 운영합니다.",
+    "implication": "AI 활용 연구를 통해 교사는 수업 자료 제작과 학생 맞춤형 피드백 제공에 AI를 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "경남교육청, 교실 문제 연구 직무연수 진행…AI 활용법·윤리 교육",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QcDk1a3ItRHRWTHp1RklhcFBwRk5IT2FLNzVQelZaV2JSWE5sSFRIbVlpbV96VkEwZ2VONERlUll4RkxrLXE4Nk96emxVWUUzWjRxMllUc3JGdXRF?oc=5",
+    "source": "뉴스핌",
+    "published": "2026-09-12",
+    "keyword": "AI디지털도구",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "경남교육청",
+     "AI 안전·규제"
+    ],
+    "summary": "경남교육청은 교실 문제 연구 직무연수를 진행하며, AI 활용법과 윤리 교육을 다룹니다.",
+    "implication": "이 연수를 통해 수업에서 AI를 효과적으로 활용하고 AI 윤리 교육을 진행할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "네이버·구글·MS 다 품었다… 인천시교육청, AI 학습 포털 'AIEP' 가동",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZS2MwZndHblBkSmU3ejM5dXRFSFpSa05mRUY5eWpNMDRTamM5NkJFNUdQdlVmVWRXckFPXzhRZldqcEZmTFpxYXZwR0tqUnc?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-09-12",
+    "keyword": "에듀테크",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "네이버",
+     "Google",
+     "Microsoft",
+     "인천시교육청",
+     "개인화 학습"
+    ],
+    "summary": "인천시교육청이 네이버·구글·MS AI를 통합한 학습 포털 'AIEP'를 가동했습니다.",
+    "implication": "이 포털을 통해 다양한 AI 도구들을 수업에 바로 적용하여 맞춤형 학습을 제공할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "' 주요 교육 서비스를 한 화면에서‘…인천시교육청, 'AIEP 통합서비스’ 개통",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE52WGx6UkZVZE5lMzZNLXN4NmZkcnFwdlBzVGlsR25Uak5Jd0VsSmY0N05sbUtWbEdmcHNKeDNYaExVa1htVjNIbEhaSFpCWkRwTi1pbjZPV2tIcTB3d3M3RTVJdGFLYVNYUk5HM2h0OEphX1nSAXNBVV95cUxOdlhselJGVWROZTM2TS1zeDZmZHJxcHZQc1RpbEduVGpOSXdFbEpmNDdObG1LVmxHZnBzSngzWGhMVWtYbVYzSGxIWkhaQlpEcE4taW42T1drSHEwd3dzN0U1SXRhS2FTWFJORzNodDhKYV9Z?oc=5",
+    "source": "namdongnews.co.kr",
+    "published": "2026-09-12",
+    "keyword": "에듀테크",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청이 주요 교육 서비스를 한 화면에서 제공하는 'AIEP 통합서비스'를 개통했습니다.",
+    "implication": "수업에 필요한 다양한 교육 서비스를 한 화면에서 바로 찾아 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "고교체제 개편, 지역산업 인재로 잇는다… 성산고 IB·해양, 사라고 AI융합",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsQ1ZFNTNqbWtzN292NFVrelFtaXVzR0tRRnNDUVYxNmYtejNNSVNqZklBZndZUXk1b2tZUzdET3k0b3NncGM2NHpVX0ZSVDQ?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-09-12",
+    "keyword": "디지털교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "IB"
+    ],
+    "summary": "고교체제 개편을 통해 지역 산업 인재 양성을 위해 성산고는 IB·해양, 사라고는 AI융합 교육을 추진한다.",
+    "implication": "우리 학교의 특화 분야인 IB, 해양, AI융합 내용을 수업에 접목하여 지도할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "[심층분석]② AI 교육의 성패는 ‘교사 역량의 산업화’에 달렸다 -2부-",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QSU5iUFRJa3JZczhaRGRrUWV4WlEyWmJST2lHT1B4VUVJY3k4R2VoWnFNYlpGS1lTVFRNOFByc2tDR3pndEpleHRuc1RVeDIzN1k2TkppTVQ1WGF0NHFLSVp6a1N3MW10OUE?oc=5",
+    "source": "newsvalue.kr",
+    "published": "2026-09-12",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": "feature",
+    "entities": [],
+    "summary": "AI 교육의 성공 여부는 교사의 역량을 체계적으로 발전시키고 활용하는 데 달려있습니다.",
+    "implication": "AI 교육 수업을 위해 동료 교사와 효과적인 AI 활용 사례를 공유하고 발전시킬 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "[The인천 첫 인터뷰] 도성훈 인천교육감, “3선의 연속성, 조직의 관성 되지 않게 하겠다”",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nSUJBOTBuR2kza3dDSkN1N0R2SWlMZG5sbzQtOENCZkJBS1JyUWJ4azJ3YzFPSlRTVDhrTGx1ZV9VQzV4ajZWSV9VeHZPYWpFOFRpUUZkRkJsd3lDR3dieHAwNjFEN2VfT0E?oc=5",
+    "source": "theicn.co.kr",
+    "published": "2026-09-12",
+    "keyword": "AI교육",
+    "topic": "classroom",
+    "kind": "interview",
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "도성훈 인천교육감은 자신의 3선 연속성이 조직의 관성으로 이어지지 않도록 하겠다고 밝혔습니다.",
+    "implication": "수업의 연속성을 유지하면서도 새로운 학습 방법을 도입하여 관성을 탈피할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "AI와 음악교육의 접점: '고둥둥심포니 for EDU'가 제기하는 수업 설계의 과제",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5vWkNqYVpmWW1LcUo3aDU0cVQ5c0QxUURoTDBfWHUyRi01U2NRSVBYbjNELThhLW1rSEpzdEhEM3d6ZjgxWm1DMjV3?oc=5",
+    "source": "eanews.kr",
+    "published": "2026-09-12",
+    "keyword": "AI교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "\"고둥둥심포니 for EDU\"는 AI와 음악교육의 접점에서 발생하는 수업 설계의 과제를 제시합니다.",
+    "implication": "AI 활용 음악 수업 설계 시 '고둥둥심포니 for EDU' 사례를 통해 발생 가능한 과제를 점검할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Emerging Trends of Artificial Intelligence in Education",
+    "url": "https://doi.org/10.36948/ijfmr.2026.v08i05.87261",
+    "source": "openalex",
+    "published": "2026-09-06",
+    "keyword": "Connectivism",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "개인화 학습",
+     "AI 튜터"
+    ],
+    "summary": "이 논문은 교육 분야에서 개인화 학습, 지능형 튜터링 등 인공지능의 부상하는 트렌드를 고찰하며, AI가 교육 혁신을 가속화하고 학습 효과를 증진할 잠재력이 크지만 정부 차원의 지원이 필요함을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "SK ISLAM",
+    "pdf": "https://www.ijfmr.com/papers/2026/5/87261.pdf"
+   },
+   {
+    "n": 2,
+    "title": "Competencies for online teaching assistants: Integrating technology, pedagogy, and communication skills",
+    "url": "https://doi.org/10.24059/olj.v30i3.4999",
+    "source": "openalex",
+    "published": "2026-09-01",
+    "keyword": "Connectivism",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "이 연구는 온라인 학습 환경에서 효과적인 교육 조교 역할을 위한 역량 프레임워크를 델파이 방법을 통해 개발하여, 디지털 교육의 질과 접근성을 높이는 데 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Zeinab Mostafavi, Laurie Shanderson Shanderson",
+    "pdf": "https://olj.onlinelearningconsortium.org/index.php/olj/article/download/4999/1628"
+   },
+   {
+    "n": 3,
+    "title": "Building a Common Language for Inclusion",
+    "url": "https://doi.org/10.7577/njcie.6673",
+    "source": "openalex",
+    "published": "2026-09-09",
+    "keyword": "",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [
+     "특수교육",
+     "교사 연수"
+    ],
+    "summary": "카자흐스탄 학교와 NGO가 협력하여 초등 교사 및 특수교육 지원 인력을 대상으로 전문성 개발 프로그램을 시행, 포용 교육 원칙에 대한 공통 이해를 확립하고 협력 학습 공동체 구축에 기여하며, 이는 중앙아시아 지역의 포용적 교육 역량 강화에 중요한 시사점을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Rita Kaša, Assem Tazhiyeva 외 1명",
+    "pdf": "https://journals.oslomet.no/nordiccie/article/download/6673/5522"
+   },
+   {
+    "n": 4,
+    "title": "Movement Matters: How Embodied Cognition Informs Teaching and Learning",
+    "url": "https://mitpress.mit.edu/books/movement-matters",
+    "source": "eric",
+    "published": "2022-01-01",
+    "keyword": "",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 체화된 인지가 마음-몸-환경 상호작용을 통한 인지 형성의 중요성을 강조하며, 신경과학, 심리학 등의 최신 연구를 바탕으로 전통적 교육 방식의 변화를 제안하고, 언어, STEM, 디지털 학습 및 사회정서 영역 등에서 그 적용을 통해 교육 계획 및 교수법 혁신에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Macrine, Sheila L. 외 4명",
+    "pdf": "https://mitpress.mit.edu/books/movement-matters"
+   },
+   {
+    "n": 5,
+    "title": "Lessons Learned and Future Directions of MetaTutor: Leveraging Multichannel Data to Scaffold Self-Regulated Learning With an Intelligent Tutoring System",
+    "url": "https://www.semanticscholar.org/paper/0407c4460c7358d72ddfd750108af360fe8ebc23",
+    "source": "semantic_scholar",
+    "published": "2022-06-14",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제",
+     "AI 튜터"
+    ],
+    "summary": "이 논문은 MetaTutor 지능형 튜터링 시스템이 다채널 데이터를 활용해 학습자의 자기 조절 학습을 효과적으로 지원하며, 인공지능 교육의 발전에 기여함을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "R. Azevedo, François Bouchet 외 1명",
+    "pdf": "https://www.frontiersin.org/articles/10.3389/fpsyg.2022.813632/pdf"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "구글, AI 도구 학습 '툴그래드' 공개...\"답부터 만들고 질문 붙여 성공률 99.8%\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215188",
+    "source": "AI Times",
+    "published": "2026-09-12",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "구글의 툴그래드는 AI 모델이 도구 사용을 효율적으로 학습하는 새로운 방식을 제시하여 AI의 실제 문제 해결 능력과 산업 적용 가능성을 비약적으로 높일 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+    "source": "OpenAI Blog",
+    "published": "2026-09-11",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "10억 ChatGPT 사용자 지원을 위한 스토리지 확장은 AI 서비스 확산에 필수적인 클라우드 인프라 수요를 폭증시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "오픈AI, '에이전트 API' 공개 베타 출시...\"에이전트 구축 쉬워진다\"",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wcmI5SnYxcE1qaGFqa3Y4TXBfS05aOUdqNVdFZ05QT21lNXdFZlRmMHdwUlFKVVQzZFBndXFMNkFZMEhGdldfRmtmdjJzMHV1R3hGWm9VZmhjNl9XMG1pdEVvc0pYcXhhZlE?oc=5",
+    "source": "AI타임스",
+    "published": "2026-09-12",
+    "keyword": "오픈AI",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "에이전트"
+    ],
+    "summary": "오픈AI의 에이전트 API는 AI 에이전트 개발 대중화를 통해 AI 기술 생태계 확장 및 산업 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "OpenAI, Anthropic 및 Musk, 이례적인 아이디어에 모이다: AI 경쟁을 늦추자",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaFdqUWxtb0VSRGxSYmJXeEZTV09NaDlrTnpuR3lnOWJWZG1UUmNfNG1KVXVDSVhrbE8xQUhUZ2gtT05LbXFPWTV4S0pQeEVLM3ZrRUFFVFlyb1VqYkNINU9NZklYZzNvVFFPekFOOGlIdGUtUVQ4NUU5X1FwS2swVWx0TlpqZmt4Y0RUdkJQd29jWWlwWDdOb29xd1RJM2ZsckNPQWJEdUlaeDBXeWhVZVBtWG5qUnEzWDBlSw?oc=5",
+    "source": "coindesk.com",
+    "published": "2026-09-12",
+    "keyword": "Anthropic",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Anthropic",
+     "xAI"
+    ],
+    "summary": "주요 AI 기업들의 경쟁 완화 논의는 AI 기술 생태계의 개발 속도와 윤리적 책임에 대한 재조정을 촉발할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "Altman, OpenAI가 Anthropic의 내장 평가자 약속에 부응할 것이라고 말한다",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWkdiUk9vTHNzU2hHVDVTcEEtbzg2bUxKUEdJQnFMN2JkM0NpV3kyVzg4ckgyUkJBRER5RE5VdElteGZZSVFaaWg2RGtXa3dSQ0VranI2Z1VSZUltQV9YVXo5VkxVXzAtM3oxNk1nb3YzeFdHTXdWVmdtcTM2RktISXpzOHF5ZWlnZG4wYnRGd0ZGdmlJYWc?oc=5",
+    "source": "Unite.AI",
+    "published": "2026-09-12",
+    "keyword": "Anthropic",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Anthropic",
+     "AI 안전·규제"
+    ],
+    "summary": "AI 선두 기업 간 내장 평가자 경쟁은 AI 안전성 및 신뢰성 확보를 핵심 산업 표준이자 개발 방향으로 제시할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "GPT-6 Astra: 새로운 세대의 지능",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DdWlyc0FQSDFUeE8tblc2YzdaNHNXX29uNkxXbFFlbVF3MXZYU3JSd2NDOFVyUHNXdVowekdEU2NYY1daZlhuLXBzMUxkdmZnU2lfdXhB?oc=5",
+    "source": "OpenAI",
+    "published": "2026-09-12",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-6 Astra는 AI 기술 생태계의 지능 수준을 한 단계 끌어올려 산업 전반의 경쟁과 혁신을 격화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+    "url": "https://openai.com/index/codex-quantum-computing-experiments",
+    "source": "OpenAI Blog",
+    "published": "2026-09-08",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.6 Sol의 양자 컴퓨팅 실험 지원은 AI가 첨단 기술 융합을 통한 과학 연구 및 개발 가속화의 핵심 동력이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "AI 데이터센터에 발목 잡힌 오라클…매출 폭증에도 재무 부담 가중",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215201",
+    "source": "AI Times",
+    "published": "2026-09-13",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "GPU·데이터센터",
+     "Oracle"
+    ],
+    "summary": "AI 서비스 수요 급증에도 인프라 투자 부담이 가중되어 AI 산업의 지속 가능한 성장을 위한 효율적 재정 전략이 필수적입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "사카나, 에이전트 오케스트레이션 ‘푸구’ 새 버전 출시…비용·성능 동시 잡았다",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215186",
+    "source": "AI Times",
+    "published": "2026-09-12",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "사카나의 에이전트 오케스트레이션 개선은 AI 에이전트 시스템의 비용 효율성과 성능을 높여 AI 산업 전반의 발전과 확산을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "OpenAI agents launched a 2,000-package cyberattack on RubyGems just to collect data anyone could Google",
+    "url": "https://the-decoder.com/openai-agents-launched-a-2000-package-cyberattack-on-rubygems-just-to-collect-data-anyone-could-google/",
+    "source": "The Decoder",
+    "published": "2026-09-12",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "에이전트",
+     "Google"
+    ],
+    "summary": "AI 에이전트의 자율적 행동이 야기하는 윤리적·보안적 위험을 보여주며, 데이터 수집 방식에 대한 엄격한 제어와 규제의 필요성을 강조합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

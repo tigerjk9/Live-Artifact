@@ -1,0 +1,419 @@
+{
+ "date": "2026-10-17",
+ "generated_at": "2026-11-02T11:45:04+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[전재학 칼럼] 수능과 내신의 서·논술형 도입이 독서만으로 충분하려면",
+    "url": "https://www.edpl.co.kr/news/articleView.html?idxno=21794",
+    "source": "교육플러스",
+    "published": "2026-10-16",
+    "keyword": "",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [
+     "수능·대입",
+     "사교육"
+    ],
+    "summary": "국교위가 수능 서논술형 도입에 독서만으로 충분하다고 밝혀, 공정 채점 및 사교육 확대 우려 등 논란이 일고 있습니다.",
+    "implication": "객관식 위주의 수업에서 벗어나 학생들의 사고력과 비판적 판단 능력을 기르는 활동을 강화할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "마음건강부터 AI 교육까지… 대전교육정책연구소, 2026년 정책연구 최종보고회",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oTlI5ZTdFR1JXV0dmMms5UzNILWtKa1NkZEZyNi00cFhMVFN4c3lEbzM4RGRuVTlRTlNMWWw5REp5RHdzQlM5VG4zNlQtenJ4WW5yZ0hPTjh1bGY2cktacHBOR3loR3U3T2V3OG56MmxleGs?oc=5",
+    "source": "충남일보",
+    "published": "2026-10-16",
+    "keyword": "AI교육",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [
+     "마음건강",
+     "대전시교육청"
+    ],
+    "summary": "대전교육정책연구소는 마음건강부터 AI 교육까지 다루는 2026년 정책연구 최종보고회를 개최했습니다.",
+    "implication": "앞으로 교육 현장에서 마음건강과 AI 교육의 중요성이 커질 것이므로 수업에 적극 반영할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "대전교육정책연구소, 경계선지능 초등학생 기초학력 향상 방안 연구",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tOUxWVDZxU1VVRy1NbERGcDFodlFpS2VjQURjQV8zN3lNdkg2d3I1WTBLMWtVNHNiY3U1ZEJJSE5wTWV3RXV6S2tvWUdtbTIxVmRZU2VEY3U0VHRIV3Q0UkIwdF94SEtDdHNaR1p5bWR3QQ?oc=5",
+    "source": "느린인뉴스",
+    "published": "2026-10-16",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "대전교육정책연구소는 경계선지능 초등학생의 기초학력 향상 방안을 연구하고 있습니다.",
+    "implication": "대전교육정책연구소의 연구는 경계선지능 초등학생의 학습 특성을 이해하고 수업 내 개별 학생 지도 방안을 모색하는 데 도움이 될 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[교육정책 브리핑] 경기도교육청 교권보호전담관 실무 훈련 돌입",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EaTFsaEJXYmZTWVdRS2J5d0hmbVBXNWRrZUE1NjJMcGQxdXEzQ2F2X2RCU0QxaEtPY3FqWDdFcnZ3LVYtWVpYLWVIRS15dlBFc0pTZjdNU3Q1azdQYWxVLQ?oc=5",
+    "source": "NSP통신",
+    "published": "2026-10-16",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "교권"
+    ],
+    "summary": "경기도교육청 교권보호전담관이 교권 보호를 위한 실무 훈련에 돌입했습니다.",
+    "implication": "교권 침해 사안 발생 시 교육청의 교권보호전담관에게 도움을 요청할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "교사·교육전문직 \"교육과정 개정시 '학교현장 문제' 해결 최우선\"",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjenRiNlg3ZTdzVXllaWZpUmxoVjhjV013TWlUcUNHcDlTYjB6b29IWm4ybjJQanBRRm84QWtnSzc1T0V5OE1QcHdKZ0dfRUQ2cU5JMFJ6eXNCNHpk?oc=5",
+    "source": "뉴스핌",
+    "published": "2026-10-16",
+    "keyword": "교육정책",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "수능·대입"
+    ],
+    "summary": "교사·교육전문직은 교육과정 개정의 최우선 과제로 학교 현장 문제 해결을 꼽았습니다.",
+    "implication": "학생들에게 학교 현장의 실제 문제들을 발견하고 토론하며 해결책을 모색하는 활동을 지도할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "학교 현장 목소리, 정책 연구에 담았다",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEZGtLcTNDVUY3RmFUdTBzWDNYYl9hUElMb21jc2xKbnFXNFZHYVhma2p5Tk1KRFlRcHlwRjdsV3JyMlEtWTh0alNFVXpvTmhaVktvZHhyNUlNell4OFRaaVZSaHhUeEFT?oc=5",
+    "source": "충청헤럴드",
+    "published": "2026-10-16",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "학교 현장의 다양한 목소리를 수렴하여 정책 연구에 담아냈다는 내용입니다.",
+    "implication": "현장 교사의 목소리를 반영한 정책 연구를 참고하여, 우리 학급에 맞는 수업 방안을 모색할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "한국어린이집총연합회, 한병도·정점식 원내대표 만나 보육·교육정책 협의",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9rOENNM0dZUk1Mb1FTWlFxYjNRSkNuTlZCRTZPWG9pUG5JZTA4Q1hsRVZjMEhiS3JIQURVdmdMd0R4QlMzX1ZKbF9ERk13UjRNZ1NrN216QUNPNlNjLVBRS09WRdIBbEFVX3lxTFBIVE5YY3ByQVlkalBqYTRMQXFOSGNPd29QZG55aEVxRkhUcFNaM3NHbVV6NkliMEdSekRjQ0hGamJVT21udWRiNXhZSnM0MTZHMDM2T1hRNkdOUldZNldNUzFjOWJCMmF3TkV4Xw?oc=5",
+    "source": "소셜밸류",
+    "published": "2026-10-16",
+    "keyword": "교육정책",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [],
+    "summary": "한국어린이집총연합회는 원내대표들과 보육·교육정책을 협의했습니다.",
+    "implication": "현재 교육정책 방향성을 인지하고 우리 반 학생들에게 필요한 교육과정을 구상할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "11화 기회 5. AI 혁명은 교육정책보다 빠르다",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TYkxBTXRRdkhVeGVfY3RKekJ3aDMtS1FsUzNkWEQxd0hXUklETFdVa0lYNjJiMzBScmJkYjkwNjRnVHVBci1YZmprcGJZcVE?oc=5",
+    "source": "브런치",
+    "published": "2026-10-16",
+    "keyword": "교육정책",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 혁명이 교육정책의 발전 속도를 앞지르고 있음을 다루는 내용입니다.",
+    "implication": "AI 기술의 빠른 발전 속도에 맞춰 교사는 수업에 AI 도구를 직접 적용하고 탐구할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "[EDU REPORT] 김석준 부산교육감, “공교육 공공성 강화…맞춤형 책임교육”",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LcFBsNmlscVJhbVNmZURybW4wclNUM1BBSTN1TjF2MDRLYnFFNXRXVHhLcTQ3aEtIa3JyM3ExV25jQUVxTXlISHMwZ2JLMm92bmV4QWZwNGE3cmZWMDJJalBaMTN2YTBlSnluN3BB0gFuQVVfeXFMT0twUGw2aWxxUmFtU2ZlRHJtbjByU1QzUEFJM3VOMXYwNEticUU1dFdUeEtxNDdoS0hrcnIzcTFXbmNBRXFNeUhIczBnYksyb3ZuZXhBZnA0YTdyZlYwMklqUFoxM3ZhMGVKeW43cEE?oc=5",
+    "source": "파이낸스뉴스 I 파이낸스뉴스TV",
+    "published": "2026-10-16",
+    "keyword": "에듀테크",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "부산시교육청"
+    ],
+    "summary": "김석준 부산교육감은 공교육의 공공성 강화와 맞춤형 책임교육 추진을 강조했다.",
+    "implication": "학생 개개인의 특성과 수준을 고려한 맞춤형 수업 방안을 적극적으로 모색할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "충남교육청교육연수원, 중등 신규교사 556명 대상 직무연수 운영",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE12UGY5QkpJQ2ZOS0hXYm1hUVFCOUxBLWgydW5LdThiVWFZNEwtLUVPbDVGWmhHTlN3ams4d0N0WGZaT0VyellEV051bUlFdVZkWDRyYllIMkpXMHhsUGVBZjJwWU0?oc=5",
+    "source": "매일일보",
+    "published": "2026-10-16",
+    "keyword": "에듀테크",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "충남교육청교육연수원은 중등 신규교사 556명을 대상으로 직무연수를 운영합니다.",
+    "implication": "신규교사 직무연수를 통해 최신 교수법을 확인하고 내 수업에 적용할 방안을 모색할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "The Development of an Assessment Model for 17 Teacher Competencies of Rajabhat University Pre-Service Teachers in the 21st Century",
+    "url": "https://so01.tci-thaijo.org/index.php/GraduatePSRU/article/view/286480",
+    "source": "openalex",
+    "published": "2026-10-15",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "이 연구는 21세기 예비교사의 17가지 역량을 종합적으로 평가하기 위한 모델과 도구를 개발하고 그 타당성을 검증하여, 교사 교육의 질 향상에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Terdsak Suphandee",
+    "pdf": "https://so01.tci-thaijo.org/index.php/GraduatePSRU/article/download/286480/183513"
+   },
+   {
+    "n": 2,
+    "title": "A Survey on the Needs for English for Academic Purposes Courses among Graduate EFL Students in Saudi Arabia",
+    "url": "https://doi.org/10.5430/elr.v15n2p30",
+    "source": "openalex",
+    "published": "2026-10-15",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [
+     "사교육"
+    ],
+    "summary": "사우디아라비아 대학원 EFL 학생 1,200명을 대상으로 정량적 설문조사를 통해 9가지 차원의 학술 영어(EAP) 요구를 조사하여, 학술 기술을 넘어선 교육과정 전반의 필요성을 밝히고 EAP 과정 개선에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ghassan Adnan Hasan",
+    "pdf": "https://www.sciedupress.com/journal/index.php/elr/article/download/30630/18028"
+   },
+   {
+    "n": 3,
+    "title": "Integrating deep learning techniques for personalized learning pathways in higher education",
+    "url": "https://www.semanticscholar.org/paper/f88969e4af591c1374ee912f8bf65a8b9e38d1e4",
+    "source": "semantic_scholar",
+    "published": "2024-06-01",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "본 연구는 딥러닝 기반 AI 플랫폼으로 맞춤형 학습 경로를 제공하여 고등 교육 학생들의 학업 성과, 참여도 및 만족도를 25% 유의미하게 향상시킴을 실증적으로 검증하고 미래 교육을 위한 실용적인 틀을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "F. Naseer, Muhammad Nasir Khan 외 1명",
+    "pdf": "https://doi.org/10.1016/j.heliyon.2024.e32628"
+   },
+   {
+    "n": 4,
+    "title": "A hybrid teaching factory model towards personalized education 4.0",
+    "url": "https://www.semanticscholar.org/paper/706796ba1abfe24796f4031129f4a7ddec4025ca",
+    "source": "semantic_scholar",
+    "published": "2022-11-30",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "디지털 트윈 기술 기반의 하이브리드 티칭 팩토리 모델을 통해 학생들이 원격으로 제조 프로젝트를 수행하며 교육적 지평을 확장하고, 건강한 디지털 학습 환경을 위한 지속적 지원과 사이버 안전의 중요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "D. Mourtzis, N. Panopoulos 외 1명",
+    "pdf": "https://doi.org/10.1080/0951192x.2022.2145025"
+   },
+   {
+    "n": 5,
+    "title": "Implementing the Love-Based Curriculum in Humanistic Islamic Religious Education Learning at a State Islamic Senior High School in Blora",
+    "url": "https://doi.org/10.59944/postaxial.v3i4.2034",
+    "source": "openalex",
+    "published": "2026-10-15",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "블로라의 한 이슬람 고등학교에서 사랑 기반 교육과정(KBC)의 질적 사례 연구를 통해 교사의 해석과 제도적 조건이 교육 실천으로 이어지는 과정을 분석하여, 관계적이며 상황적인 사랑의 교육학 구현에 대한 이해를 높입니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Isma Layyina Noviana, Muhammad Syaiful",
+    "pdf": "https://journal.amorfati.id/index.php/postaxial/article/download/2034/1312"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "MS, 정식 출시 앞서 2.8조 매개변수 모델 공개…‘독자 역량’ 부각",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216337",
+    "source": "AI Times",
+    "published": "2026-10-16",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Microsoft"
+    ],
+    "summary": "MS의 독자적 초대형 AI 모델 공개는 기술 주도권을 위한 경쟁을 격화시키고, 자체 AI 역량 강화가 핵심인 새로운 산업 트렌드를 제시할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "오픈AI GPT-5.6 Sol, 공개 니모닉 주소로 테스트 토큰 배포 보도",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DcE1JeFloZm9vakUwZVJJbk1kLTZJVXg0WjJfMVpYaHdaLU54cnlRQ014UFJoNzFpekg1MVpHb3ZtMUd3d04yTlFOUThWQUhNa3pjcUpWR0U?oc=5",
+    "source": "토큰포스트",
+    "published": "2026-10-16",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "오픈AI의 GPT-5.6 Sol 토큰 배포는 AI와 웹3 기술 융합을 통한 AI 모델의 새로운 경제 시스템 및 활용 패러다임 등장을 알립니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "타입세이프 AI, 의사결정 모델 '제브'에 멀티모달 등 기능 확장",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216327",
+    "source": "AI Times",
+    "published": "2026-10-16",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 의사결정 모델의 멀티모달 기능 확장은 AI가 복합적 현실을 더 정교하게 분석하고 산업 전반에 걸쳐 적용 범위를 넓힐 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "아마존, 일상 대화 기억·요약하는 개인용 AI 웨어러블 '비' 시리즈 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216332",
+    "source": "AI Times",
+    "published": "2026-10-16",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Amazon",
+     "개인화 학습"
+    ],
+    "summary": "아마존 웨어러블 AI는 일상 대화 기반 초개인화 AI 시장을 개척하며 프라이버시 이슈와 함께 AI의 생활 밀착도 심화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "트웰브랩스, 말로 요청하면 장면 찾고 편집하는 AI 에이전트 ‘자키’ 출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216341",
+    "source": "AI Times",
+    "published": "2026-10-16",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "자키 출시는 자연어 기반 멀티모달 AI 에이전트가 복잡한 영상 창작 작업을 수행하며, AI 기술의 실질적 적용 범위를 확장하는 중요한 이정표입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "마이크로소프트 AI 총괄 \"4분의 1 컴퓨팅 파워로 GPT-5.6보다 강력한 AI 모델 개발\"",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1tWEhCbEVSY1NsMmRvUHhlX1Ywbzk1TEg2bVFtZkpZWlRyS3VkVHktUFpSN09YYjIzUXFHb19NajJBcXdyLXFBSW1YZFR4UlZxVjVvazhJZmZYV1VCYkptRzIxN056QmZnRFNIX3kzMno2clE?oc=5",
+    "source": "디지털투데이",
+    "published": "2026-10-16",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Microsoft",
+     "ChatGPT"
+    ],
+    "summary": "효율성이 핵심 경쟁력으로 부상하며 AI 기술 상용화와 확산이 가속화될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "구글 창립자 “RSI 궤도 진입...플래시부터 AI가 후속 모델 개발 참여\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216350",
+    "source": "AI Times",
+    "published": "2026-10-16",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "AI가 차세대 모델 개발에 직접 참여한다는 것은 AI 기술의 자체 진화 속도를 폭발적으로 가속화하며 산업 전반의 패러다임을 전환할 중요한 전환점입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+    "url": "https://openai.com/index/pollo-ai",
+    "source": "OpenAI Blog",
+    "published": "2026-10-08",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "OpenAI 등 초거대 AI 기반으로 마케팅 캠페인 같은 특정 산업 전문 솔루션이 확산되며 AI 생태계가 심화될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "NVIDIA Nemotron Labs Dory 1.0 4B vs MiniCPM5 2B: 일반 LlamaForCausalLM에 맞서는 커스텀 런타임",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1CMy0wdmJWTERFUUZfRGRjUGl2alkyT2NEMUFpV0cxa0JjWHF4cWJCM0RHWDZsVjlySHpHN3JaSENjaG0yT1UxcV95TGdJdjJPN1BueG1neURBMWFGXzlRRkRZaTZ0VjNTT2lKM3FWQ3FrZk1uV3NnTA?oc=5",
+    "source": "OrcaRouter",
+    "published": "2026-10-17",
+    "keyword": "벤치마크",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "NVIDIA"
+    ],
+    "summary": "OrcaRouter와 같은 커스텀 런타임은 소형 AI 모델의 추론 효율을 극대화하여 AI 기술의 접근성과 비용 효율성을 크게 향상시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "Anthropic, Claude가 1990년대 난수 생성기까지 NIST ECDSA 곡선 시드의 출처를 추적했다고 밝혀",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVl9NQ3k2M1YtdEZIWnpPc3JPRm1IeURwMzBsUG9pdHM2cmdzUFV6cUNfa2dlRVVrbHZDajA1Z2hWbE03SU9MbDdabmwydlExNjVENTktTkU5eEJ0TkM1NmVWWTNRQmNvLTZ5YTQtRFJPSU1fTmh4aEU0Z0RZNHNlMC03ZjlNeVRualU3VDRwcVVLRWJ1eEE?oc=5",
+    "source": "Unite.AI",
+    "published": "2026-10-16",
+    "keyword": "Anthropic",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude"
+    ],
+    "summary": "Claude가 난수 생성기 출처를 추적한 것은 AI가 복잡한 기술 분석 및 보안 감사 역량을 갖춰 AI 산업의 활용도를 높일 것임을 의미합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

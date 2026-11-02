@@ -1,0 +1,390 @@
+{
+ "date": "2026-05-01",
+ "generated_at": "2026-11-02T11:35:46+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[일본] AI 교육지침 전면 개정·연 60만명 재교육 추진",
+    "url": "https://www.edpl.co.kr/news/articleView.html?idxno=20456",
+    "source": "교육플러스",
+    "published": "2026-04-29",
+    "keyword": "",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "일본 정부가 생성형 AI 시대에 대응하기 위해 교육정책 전반을 대대적으로 손질하고, 동시에 성인 재교육 규모를 대폭 확대하는 ‘인재 전략 대전환’에 나섰다. 교육 현장에서의 AI 활용 기준을 빠르게 정비하는 한편, 2030년까지 연간 60만 명 규모의 재교육 체계를 구축하겠다는 구상이다.27일 NHK 보도에 따르면, 다카이치 일본",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[이슈 제안] 현장체험학습, ‘교육감 책임 보장제’가 해법이다",
+    "url": "https://www.edpl.co.kr/news/articleView.html?idxno=20458",
+    "source": "교육플러스",
+    "published": "2026-04-29",
+    "keyword": "",
+    "topic": "classroom",
+    "kind": "feature",
+    "entities": [],
+    "summary": "학교 현장에서 소풍, 수련회, 수학여행과 같은 현장체험학습은 학생들에게 평생 잊지 못할 추억이자 교실 밖에서 이루어지는 소중한 교육의 연장선이다. 교사들 또한 체험학습의 의미와 소중함을 누구보다 잘 알고 있기에 그 교육적 가치에 깊이 공감하고 있다. 그러나 최근 교육 현장에서는 현장체험학습에 대한 우려와 위축의 목소리가 그 어느 때보다 높다.이러한 기피 현",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "전남교육청, 교육과정 연계 ‘이중언어 교육’ 내실화",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PMU8yMVhMMkpTUzVaYmE2UW8zMU9FOE0wT0tmXzctUHJLc2Uzb0pocEVsSFZnaTV1NUVjQkQ4TUVJNk1nREpXUkxPTWJwQktTLUcyZ0J1ajE0ZDZYcHUzdWRvSQ?oc=5",
+    "source": "대한민국교육신문",
+    "published": "2026-04-30",
+    "keyword": "교육정책",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "전남교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 4,
+    "title": "김상동 “교사 행정업무 완전 분리”…현장 중심 교육개혁 승부수",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpdFczbWZnRklaWWt0ZEs4SmcxLTRBLTNYVDAtLVJPSVQyV2NXcEVhY3hXMVBuSHhwNjl3eGFyVnh0dDFpWVpLaDVDV0lUem11ZVZoOG1ZX0tLczNBaHJnLUwtOEZHMGdkY0N2RHJUQQ?oc=5",
+    "source": "kyongbuk.co.kr",
+    "published": "2026-04-30",
+    "keyword": "현장교사",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 5,
+    "title": "영양수업, 탐구학습으로 바뀐다",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MSTBKWG9ZcVluTU9qYUpXWW9ka0F4QlU4eEIyMVRUYTBSalNIUnEyNGF1ZUhPZ2pycl9qZTRBYjROWHdoSUd1WThuUVA0NllvaHdKY0hybldhd0tnZUk5TXliVy1YRnd1?oc=5",
+    "source": "대한급식신문",
+    "published": "2026-04-30",
+    "keyword": "현장교사",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 6,
+    "title": "대전시교육청, 중부권 AI 미래교육 거점 구축 위한 교육기관 협력 확대",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE54X2QtMEcyVUNkaWx2NjViSlBRZjhhS0JHVmJFbDNpbW9YejIzbi1jMjUxMmNmajBIbU5fYnJ4NDV6NzFKMzRGTEYwaFRrQ1hpOFczNFN1Ykd2aTJYUmk0ZnoyWVZhY0E?oc=5",
+    "source": "세종의소리",
+    "published": "2026-04-30",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 7,
+    "title": "[교육타파] 교사노조연맹, 청와대·교육부 앞 1인 시위…\"교사 책임 구조 개선하라\"",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85UnhtMnplcUdtS0tqOTdBSVlocW1xN2pwXzdwaXNjYnEwc1A0eFZ5cHE5cnVzbm1ZTVpyNTlVVFQ0VUUyOVVYNEZ0T2xGVlBDN0JFSFpiZXc5VmNuekY4?oc=5",
+    "source": "전북미래교육신문",
+    "published": "2026-04-30",
+    "keyword": "현장교사",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "교원단체",
+     "교육부"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "부산시교육청 부산유아교육진흥원, ‘디지털 역량 강화 직무연수’운영",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WVjJIaHJZUGRWSDlUSnhQSDI1b0JQMHFOS2dmaTF5akdtN0d0SENvVE9PZHRFSjB1VXNYVm1qR1h3REIxenBrMFlSUnMxRFZLdURRdldlYzBMR0dZ?oc=5",
+    "source": "누리일보",
+    "published": "2026-04-30",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "부산시교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "경기도교육청, 학부모 대상 AI·소프트웨어 교육 8회 운영",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9vTW9rblc2ZUQ1czJUY2gwYkktWENQNnkzQnk5UWQzZ0FPeThjQkJxM3p1bTl2SmplUUtJNTVNVC1HLTJOT0EyVFBLM01sZ01PQmh3?oc=5",
+    "source": "네이트",
+    "published": "2026-04-30",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 10,
+    "title": "북촌초, ‘생성형 AI와 함께하는 학부모 디지털 리터러시 교육’ 실시",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PVXRpRUh1d0hxRUlEZkNQc3djSHc0YUFpbDB1dS1Tc0dWSWx2U1ZHVnRTVFBpRjJqSDNrT2NkM2NWeVZ0aHFrc3FkWnZJTUI4Ry1TSkloRHRVb2J5V1Z0UC11dFlReEkx?oc=5",
+    "source": "DWBNEWS",
+    "published": "2026-04-30",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "AI 리터러시"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "A systematic review of generative artificial intelligence in education: Pedagogical impacts, ethical risks, and future directions",
+    "url": "https://doi.org/10.70593/deepsci.0202055",
+    "source": "openalex",
+    "published": "2026-04-28",
+    "keyword": "",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [],
+    "summary": "The development of Generative Artificial Intelligence within learning institutions has presented both groundbreaking prospects and both serious issues on teaching quality, academic integrity, ethical ...",
+    "implication": "",
+    "ai": false,
+    "authors": "Jovita Nkeiruka Ololoh",
+    "pdf": "https://deepscipub.com/ijars/article/download/89/115"
+   },
+   {
+    "n": 2,
+    "title": "A Flipped Classroom model implementation towards professional development in biology teaching",
+    "url": "https://doi.org/10.3926/jotse.3665",
+    "source": "openalex",
+    "published": "2026-04-28",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "This study, conducted at Shymkent University, evaluated the effectiveness of the Flipped Classroom (FCR) paradigm compared to Conventional Lecture-based Learning (CLL) in teaching biology to third-yea...",
+    "implication": "",
+    "ai": false,
+    "authors": "Saltanat Zhaiynbayeva, Assiya Maimatayeva 외 1명",
+    "pdf": "https://www.jotse.org/index.php/jotse/article/download/3665/1066"
+   },
+   {
+    "n": 3,
+    "title": "The impact of artificial intelligence on personalized learning, student engagement, and motivation in higher education: A systematic review",
+    "url": "https://doi.org/10.70593/deepsci.0202048",
+    "source": "openalex",
+    "published": "2026-04-26",
+    "keyword": "edtech",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "본 연구는 체계적 문헌 고찰을 통해 고등 교육에서 인공지능이 개인 맞춤 학습, 학생 참여 및 동기 부여에 미치는 영향을 분석하여 적응형 평가, 맞춤형 피드백, 실시간 콘텐츠 추천 등을 촉진하고 상호 작용, 유연성, 개인화된 지원을 장려함을 밝혀냅니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ojo Amos Adewale",
+    "pdf": "https://deepscipub.com/ijars/article/download/82/107"
+   },
+   {
+    "n": 4,
+    "title": "Analyzing the integration of MOOCs into educational practice: insights from the AshykBilim platform",
+    "url": "https://doi.org/10.3389/feduc.2026.1827321",
+    "source": "openalex",
+    "published": "2026-04-24",
+    "keyword": "Connectivism",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "카자흐스탄 AshykBilim 플랫폼의 MOOC 활용에 대한 교수진의 인식 조사 결과, 지식 공유, 교수 역량 강화, 가시성 확보 등의 동기가 확인되었으며, 이는 디지털 교육 전환에 기여하고 학습 결과 인정 강화를 요구함을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Nazira Ospanova, Akerke Akanova 외 1명",
+    "pdf": "https://public-pages-files-2025.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1827321/pdf"
+   },
+   {
+    "n": 5,
+    "title": "Совершенствование образовательных технологий на примере преподавания дисциплины «Биоорганическая химия» для студентов — выпускников медицинских колледжей. Первые итоги",
+    "url": "https://doi.org/10.37724/rsu.2026.1.77.002",
+    "source": "openalex",
+    "published": "2026-04-22",
+    "keyword": "Connectivism",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 의대생 중 화학 기초가 부족한 의료 전문대 졸업생을 위해 생체 유기 화학 선수 과목을 개발 및 적용하고 설문 조사를 통해 효과를 분석하여, 선수 과목의 보완 필요성을 확인하고 향후 화학 기초 부족 학생 대상 교육 개선에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "И.А. Сычев, Т.Ю. Колосова 외 1명",
+    "pdf": "https://doi.org/10.37724/rsu.2026.1.77.002"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "[4월30일] GPT-5.5의 ‘고블린’ 논란…AI는 왜 엉뚱한 말을 하게 됐나",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=209975",
+    "source": "AI Times",
+    "published": "2026-05-01",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "최근 오픈AI에서는 '고블린'이라는 단어가 화제가 됐습니다.arb8020이라는 X 사용자가 28일(현지시간) 밝힌 바에 따르면, 'GPT-5.5'의 시스템 프롬프트에는 \"고블린, 그렘린, 너구리, 트롤, 오우거, 비둘기 또는 기타 동물이나 생물에 대한 이야기는 사용자의 질문과 절대적으로 명확하게 관련이 있는 경우가 아니면 절대 하지 말라\"라는 지침이 포함돼",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "한컴, PDF 접근성 태그 자동 생성 AI 도구 오픈소스 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=209984",
+    "source": "AI Times",
+    "published": "2026-04-30",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "오픈소스"
+    ],
+    "summary": "한글과컴퓨터(대표 김연수)는 '오픈데이터로더 PDF'에 접근성 태그 자동생성 기능을 탑재했다고 30일 밝혔다.AI가 제목과 표, 목록, 이미지 등 문서 구조를 분석해 태그 형태로 PDF 내부에 자동 반영하는 방식이다. PDF는 전 세계에서 가장 널리 쓰이는 디지털 문서지만, 상당수가 접근성 태그 없이 유통되며 기존 도구도 내용 추출에 그치는 한계를 해결했다",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "LG-KETI, ‘엑사원 4.5’로 ‘AI 안전신문고’ 시범 서비스 연내 시작",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=209994",
+    "source": "AI Times",
+    "published": "2026-04-30",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "LG",
+     "AI 안전·규제"
+    ],
+    "summary": "LG AI연구원(원장 이홍락, 임우형)은 한국전자기술연구원(KETI)과 AI 모델 ‘엑사원(EXAONE)’을 중심으로 행정안전부의 ‘AI 안전신문고’ 1단계 연구 개발을 완료, 연내 시범 서비스를 준비 중이라고 30일 밝혔다. 행정안전부는 ‘국민 안전 보장을 위한 재난 안전 관리 체계 확립’의 핵심 사업인 AI 안전신문고의 두뇌로 엑사원을 낙점했다. AI",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "OpenAI available at FedRAMP Moderate",
+    "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
+    "source": "OpenAI Blog",
+    "published": "2026-04-27",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 5,
+    "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+    "url": "https://openai.com/index/openai-on-aws",
+    "source": "OpenAI Blog",
+    "published": "2026-04-28",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "코딩 AI",
+     "에이전트",
+     "Amazon"
+    ],
+    "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 6,
+    "title": "카카오, ‘PlayMCP’로 AI 에이전트 생태계 확장…오픈소스 ‘오픈클로’까지 연동",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONkxaRThWbzJ6aGdrWmo0bllzT2g0Qlo4MHF2b3dNUjJRd1VraU1RM09maUU4T2YwWHFyRERXRjNDdTZjb1VtWHh3bWtJTjNxQnhnSHR4QkdSOXFhYXdWd1UyTkRUdmNMdFo3SnhnWmxVU0h4QTNtQW4tNThFenpRVw?oc=5",
+    "source": "이데일리",
+    "published": "2026-05-01",
+    "keyword": "오픈소스",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "카카오",
+     "에이전트",
+     "오픈소스"
+    ],
+    "summary": "카카오의 PlayMCP와 오픈클로 연동은 AI 에이전트 생태계 확장과 오픈소스 기반 협력을 통해 AI 기술 발전 및 산업 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "테슬라, 스페이스X와 xAI로부터 5억 달러 이상 수익…(+BTC, Tesla, SpaceX, xAI)",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JdXhGMVpTOGZCR2hPNFRxQy1OUTRqckJQSDVlOVF6bTg1cUlLX1NtSEJMYmo3cUFVMFNMZDAtbFZPWTlkcS1RMlFKM1RHQTVIZ0dCeUJQd1VrRDNrWWR4ZUFTVXBQNS0ydUZxUQ?oc=5",
+    "source": "민심뉴스",
+    "published": "2026-05-01",
+    "keyword": "벤치마크",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "xAI"
+    ],
+    "summary": "테슬라의 xAI 투자는 AI 기술 내재화 및 사업 다각화를 통해 장기적 경쟁력 강화에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "GPT-5.5 System Card",
+    "url": "https://openai.com/index/gpt-5-5-system-card",
+    "source": "OpenAI Blog",
+    "published": "2026-04-23",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.5 System Card 공개는 AI 모델의 투명성 및 책임성 강화 추세를 가속화하고, 개발 경쟁 심화와 동시에 윤리적 문제에 대한 논의를 더욱 활발하게 할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

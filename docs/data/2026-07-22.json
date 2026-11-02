@@ -1,0 +1,425 @@
+{
+ "date": "2026-07-22",
+ "generated_at": "2026-11-02T11:40:17+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "고의숙 교육감 \"383억 원 추경 편성…학교 안전·AI교육·내년 개교 준비 집중\"",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBla2Z1aThTcVVxQ1ZXdzJEN091QUN0dUp4WU1ubWs0RUdIYkNxcHpBeHRBWkh4RW9TSDZmcUxVbE1kdGN6UzhYX1Q4VGRCclZWek9ZRGs0YjNVUWJzMWdmYjNVTWVCaXVoeWd5Zw?oc=5",
+    "source": "뉴스N제주",
+    "published": "2026-07-21",
+    "keyword": "AI디지털도구",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육 예산"
+    ],
+    "summary": "고의숙 교육감은 383억 원 추경을 학교 안전, AI 교육, 내년 개교 준비에 집중 편성했습니다.",
+    "implication": "AI 교육 예산이 증액되어 수업에 필요한 AI 관련 자료나 도구를 적극적으로 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "최교진 교육부 장관, 아시아 AI교육 이끈다",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jRmtPbzgyNHVuY0RfRzZ6aFBLdFJsbXJsWFB5eFRoTW5JV3hiUGw2Z3kxS1ZwcVlQbUdQXzl4Mm05dGlaMzYzVkdWTEg3NkY4TEpvaTlTcFdrdFZrRF9ZUlhZTU9jZFhiR2JQTkxB?oc=5",
+    "source": "아시아투데이",
+    "published": "2026-07-21",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "최교진 교육부 장관이 아시아 AI 교육 분야의 리더십을 맡아 주도할 예정입니다.",
+    "implication": "장관의 AI 교육 리더십에 발맞춰, 수업에서 AI 기술 활용 방안을 탐색하고 학생들과 토론해 볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "전북교육감직인수위 ‘교육인권·AI교육’ 등 10대 핵심과제 제안",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QZ2hkN0ZTRUNjU3h5cGVfUWVaWVAxUHc5MjFRUHFlNjB0U2wxN19fdW1mMS01UkdyV3RGaGxraVVacnhnQzFTOU1lNFRlUVFTaVF6VnF5ckh2UUtvN1Fxb0QxTVhHYXFKM0lMZklR?oc=5",
+    "source": "아시아투데이",
+    "published": "2026-07-21",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "전북교육청"
+    ],
+    "summary": "전북교육감직인수위가 교육인권과 AI 교육 등을 포함한 10대 핵심 과제를 제안했다.",
+    "implication": "교육인권 존중 및 AI 활용 방안에 대한 학생 참여형 수업을 계획할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "강미애 세종교육감, 한솔고서 교육현장 소통",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03SU5LbmpfVmFUQlFucklIdE45dVh4Q1E4QThCU3c0RWV3VHJSWTd3dTBGM3piSzIyb0habFBlTW1SYzkxbFJKdDFhY2JLYXVpZl9yMXpIQUswNUR5NnZNRGZTaWVVUkhSRXlnZtIBb0FVX3lxTE5JTHNKNXlOUlBseFhOTjlYOG5DWUkxUUgxMGxnNDlIODFOcmlmZ05mcUdiamJmOWxLeUpRS1RMZU11NGZORFlHWWZOMFZqWW1JWWJUWjNvWDQ2ZS1PTUwtbWNpQ1JOYndfMzh3bkluWQ?oc=5",
+    "source": "뉴스세상",
+    "published": "2026-07-21",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "세종시교육청"
+    ],
+    "summary": "강미애 세종교육감이 한솔고를 방문하여 교육현장과 소통했습니다.",
+    "implication": "교육감의 현장 소통은 우리 교실의 목소리를 전달할 수 있는 통로입니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "해남군 '농촌유학 지역 정주형 교육정책' 성과",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVMmZfaE9iTHdyZlBSOWlSeVhueWFGTjJNVVFDZG16UzdSRzgxcWhacG5ZenZZTHk0WUw0MXlvVXk2aE42ZTd3NFpVYVBtOTJ4VU81TGZGbWZSR01FZWl0Z1h1blBMYmJYcFhN0gFvQVVfeXFMUHZkZDNOUWN3TkYtME45QmZtUHdtc0w4Q3p6YWRqWHcwcWxPdGdKelZJbHRWeEhlTGNKQ2NtME5ZWm5fTlR5T1JReHZOMnNrbk5Qa3k0NnN5NEtwUGlUVXVYZUV0UHV5ejYwaktoc3JB?oc=5",
+    "source": "한스경제",
+    "published": "2026-07-21",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "해남군은 '농촌유학 지역 정주형 교육정책'을 성공적으로 추진하여 긍정적인 성과를 거두었습니다.",
+    "implication": "이 뉴스를 통해 학생들이 농촌 지역의 교육 정책 성공 사례를 분석하고, 지역 활성화 방안을 토론할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "대전시의회 교육위원회 교육정책전략국 주요 현안 집중 점검 > 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5reEVHay1lOWZVVm8wTEpURjRyaWNEdldnYzNPdWEyejhpVmZGTXMtOW9Mak84dDB0M0VWWXZickJ2V0hteklyU3UtYVo3RVR4emF6aVNPWGFPVjQwcHh2SlhlYWJTZHZ5R2wtdmVseS0?oc=5",
+    "source": "더코리아",
+    "published": "2026-07-21",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "국회"
+    ],
+    "summary": "대전시의회 교육위원회가 교육정책전략국의 주요 현안을 집중 점검했습니다.",
+    "implication": "우리 지역의 교육 현안이 시의회에서 논의 중임을 학생들과 함께 시사 토론 자료로 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "충북교육청, 시카고한국교육원과 국제교육 협력 강화",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ITFU4d2RXWDhONVdaS2FHV19IWnBUY29USTUxWE9nUVhqQTF6a3Rya0xZYzk1X2tjbHpZSkt4c290YWJhZzBVRVI5amRCRm9lN0g2V1BnaG80NUZPci04OFhYLUt4bkNLREJLQ2t3?oc=5",
+    "source": "시민행정신문",
+    "published": "2026-07-21",
+    "keyword": "에듀테크",
+    "topic": "global",
+    "kind": null,
+    "entities": [
+     "충북교육청"
+    ],
+    "summary": "충북교육청은 시카고한국교육원과 국제교육 협력을 강화합니다.",
+    "implication": "학생들과 시카고 한국 학생들 간의 온라인 문화 교류 수업을 진행할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "경북교육청, AI 윤리·수업 혁신 관리자 역량 강화 > 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVekwzV0pTenVmdEQ5UGNjQ2pMTFdWXzNjbHY1enBHa3dJTVNrd2J0Y0JKY3N1eWpmYjh1UFZpVURTbHZOMHVLME02R1VfZDZmeGdNbkZxM0hJc0VoUGtnTGxaQ2w?oc=5",
+    "source": "중앙 마인드인 심리상담센터",
+    "published": "2026-07-21",
+    "keyword": "AI디지털도구",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "경북교육청",
+     "AI 안전·규제"
+    ],
+    "summary": "경북교육청은 AI 윤리와 수업 혁신 분야에서 관리자의 역량을 강화합니다.",
+    "implication": "관리자 역량 강화로 교실에서 AI 윤리 교육 및 수업 혁신을 위한 지원이 확대될 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "도구에서 파트너로...WAIC에서 빛난 'AI 에이전트' 기술 -Xinhua",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Jd1R5eVhoQlNQSUc2OUdzb21RRHkyLThhUUFRLTEzWVJTYzFOZXRmUmlHTmxWZTlWZ2NLU194TkZ3U0F6UkZMZXE4c1lNdFJEZFN4dl9BSmJQNmJ4UUJUeG9kUlc3MlZBaWY4VWptZzR4YjUw?oc=5",
+    "source": "신화망",
+    "published": "2026-07-21",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "에이전트",
+     "개인화 학습"
+    ],
+    "summary": "WAIC에서 AI 에이전트 기술이 도구를 넘어 파트너로서의 가능성을 보여주며 주목받았습니다.",
+    "implication": "AI 에이전트를 학생들이 개별 학습 파트너로 활용하여 맞춤형 학습을 지원할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "“텍스처 점검부터 렌더링까지”…AI 에이전트, 크리에이티브 도구 안으로",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51ZXdFNWwzQVBsOE9ZWGJ5Mmo0NTF3Vm1naUp0WWdMSy1GWUpKV19kc1JhSV92MDZpVDlzNC1aRmdGbGlLaUdyRU5EZGxNQWg0cEtVVll5R2FqTGFtVVpiUzBPYW9VLUxobk90Vw?oc=5",
+    "source": "뉴스탭",
+    "published": "2026-07-21",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "AI 에이전트가 텍스처 점검부터 렌더링까지 창작 도구에 통합되어 활용되고 있습니다.",
+    "implication": "학생들이 AI 기술이 통합된 창작 도구를 활용하여 효율적인 작업 방법을 배울 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Instructional Leadership in Elementary Schools: Enhancing Learning Quality in The Digital Era",
+    "url": "https://doi.org/10.51494/mpf.v4i3.3273",
+    "source": "openalex",
+    "published": "2026-07-20",
+    "keyword": "edtech",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "초등학교 교장들의 교수적 리더십과 디지털 전환 통합 전략을 체계적 문헌 검토로 분석하여 학습의 질을 높이는 데 기여하며, 디지털 격차를 해소할 하이브리드 리더십 모델을 제안하여 교육 분야 리더십 훈련 프로그램 재설계에 영향을 미칩니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Suyono Suyono, Ari Setiawan 외 1명",
+    "pdf": "https://e-journal.unmuhkupang.ac.id/index.php/mpf/article/download/3273/1536"
+   },
+   {
+    "n": 2,
+    "title": "Development of Teaching Materials For Receptive Language Skills In The Area of Listening Comprehension Using Thunkable",
+    "url": "https://doi.org/10.58218/alinea.v6i2.3193",
+    "source": "openalex",
+    "published": "2026-07-20",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "인도네시아어 교육에서 부족한 듣기 이해 능력 교수 자료의 한계를 극복하고자 Thunkable 앱 기반 교수 자료를 7단계 R&D 방법으로 개발했으며, 이는 전문가 검증을 통해 87.43%의 매우 좋은 평가를 받아 디지털 학습 자원 다양화와 학생 참여 및 이해도 증진에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Rosmaini Rosmaini, Ika Febriana 외 1명",
+    "pdf": "https://ejournal.baleliterasi.org/index.php/alinea/article/download/3193/1986"
+   },
+   {
+    "n": 3,
+    "title": "The Urgency of Integrating Digital Pedagogy and EdTech in TVET Curriculum to Prepare for Environmentally Friendly Jobs in the 21st Century",
+    "url": "https://www.semanticscholar.org/paper/504569d728b0842ab099f37d54a79bccfdc9d38c",
+    "source": "semantic_scholar",
+    "published": "2025-07-29",
+    "keyword": "edtech",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "이 연구는 21세기 친환경 일자리 대비를 위해 직업훈련(TVET) 교육과정에 디지털 교수법 및 에듀테크 통합이 시급함을 질적 사례 연구와 문서 분석으로 밝히고, 기술적, 디지털적, 생태학적 역량을 갖춘 인재 양성을 위한 교육과정 혁신 방안을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Abil Fida Muhammad Qois Al Hadi, Muthohharun Jinan 외 1명",
+    "pdf": "https://prosiding.utp.ac.id/index.php/ICEETE/article/download/244/132"
+   },
+   {
+    "n": 4,
+    "title": "Promoting Prospective Teacher Competencies for Designing, Implementing, Evaluating, and Adapting Interactive Formative Feedback Strategies",
+    "url": "http://dx.doi.org/10.1177/1475725720971887",
+    "source": "eric",
+    "published": "2021-01-01",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "이 연구는 교사들이 형성적 피드백 전략을 설계, 실행, 평가, 개선하는 역량을 증진하기 위해 사례 기반 학습과 마이크로 티칭을 결합한 세미나를 개발 및 평가했으며, 이를 통해 교사 학생들이 관련 지식과 역량을 크게 향상했음을 입증합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Narciss, Susanne 외 4명",
+    "pdf": "http://dx.doi.org/10.1177/1475725720971887"
+   },
+   {
+    "n": 5,
+    "title": "The Role of Struggle in Pre-Service Elementary Teachers' Experiences as Students and Approaches to Facilitating Science Learning",
+    "url": "http://dx.doi.org/10.1007/s11165-011-9221-x",
+    "source": "eric",
+    "published": "2012-01-01",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 예비 초등교사들이 과학 학습에서 겪는 '교육적 또는 해로운 불편함(struggle)'이 개혁 지향적 과학 교수법 접근 방식에 미치는 영향을 사례 연구로 분석하며, 교사들의 불편함 관리 역량 강화가 의미 있는 과학 학습 촉진의 핵심임을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Wilson, Rachel E. 외 2명",
+    "pdf": "http://dx.doi.org/10.1007/s11165-011-9221-x"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "미세조정 없이 토큰 38% 절감…라이터, '에이전트 하네스' 비용 혁신 기술 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212983",
+    "source": "AI Times",
+    "published": "2026-07-21",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "미세조정 없이 AI 에이전트의 토큰 비용을 획기적으로 절감하는 기술은 AI 개발 및 서비스 운영의 경제성을 높여 AI 산업 전반의 대중화를 가속할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "오픈AI, 새 모델 성과로 2차 시장서 부활… 수요 '2대 5'로 앤트로픽 추격",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212993",
+    "source": "AI Times",
+    "published": "2026-07-21",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Anthropic"
+    ],
+    "summary": "오픈AI의 부활은 AI 기술 혁신이 시장 경쟁과 투자 심리를 직접 좌우하며 산업 역동성을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+    "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "source": "OpenAI Blog",
+    "published": "2026-07-09",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Microsoft"
+    ],
+    "summary": "GPT-5.6의 MS 365 코파일럿 적용은 최신 AI 모델이 기업 솔루션의 핵심 경쟁력으로 빠르게 자리 잡으며, AI 기술 진화 경쟁을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "오픈AI, 'GPT-5.6 솔' 사용자 후기 1만건 공개…\"워크플로우 중심으로\"",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1eUFXcjFqTkw3MXh5dEtWZjk4SnczR1lKUFB2YkZnX1BOcjZva0ZvMG5tYk9rTmluUDVnZmNJMUtJT0F3WmNFRzVXbTN0aXhidU4tNXBFQm14YXBnNkZqQ05hLVF4dm9IQmc?oc=5",
+    "source": "AI타임스",
+    "published": "2026-07-21",
+    "keyword": "GPT",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "오픈AI의 사용자 후기 공개와 워크플로우 중심의 강조는 AI 기술 생태계가 실제 산업 적용 및 생산성 향상을 위한 사용자 경험 중심으로 진화할 것임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "AI뉴스 - GLM-5.2 열풍, 구글 심각한 위기, GPT-5.6 소식, Codex Record & Replay, Mythos 논란, 미드저니 근황 등 Coin Stock (TUIvnvuGEe)",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Zb0ZSR3BHcnJwZ1lUc2FmaXFDX0V2RDBNUGdMd3lwVXh0b3puVkEtOW44anBOM1A1UTdrLUpIRjIyTE5hTGVnMHhfR3pjU3VDWGJLdlFYZVozRUVsLVdzWQ?oc=5",
+    "source": "Mshale",
+    "published": "2026-07-21",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "ChatGPT",
+     "코딩 AI",
+     "Claude"
+    ],
+    "summary": "여러 신규 AI 모델과 급진적 발전은 치열한 경쟁을 심화시키며, AI 기술 생태계의 판도를 재편하고 기존 거대 기업들에게 중대한 도전을 안겨주고 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "How to Work Effectively with GPT-5.6",
+    "url": "https://towardsdatascience.com/how-to-work-effectively-with-gpt-5-6/",
+    "source": "Towards Data Science",
+    "published": "2026-07-17",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.6의 효과적 활용은 AI 생태계 전반에 걸쳐 인간-AI 협업의 최적화를 촉진하고 새로운 경쟁 우위를 창출할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "AI 마케팅 플랫폼 '더글로이', 네이버·구글·ChatGPT 검색을 위한 AI 콘텐츠 자동 발행 서비스 선보여",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82NGd5bDFWYjhGTTBzNFF6UUFqa2RaUTlJVmV1b1JEaDV1MmJhR1ZwcVRuZ3VBMnpmWGZRRkxMSk91YUxtdWV5aWxuUUt5UlFQVWdxaTRQNHNfalJYQ05yczlLb3BqTlhoMVNKLWFnQ0xZOTVz?oc=5",
+    "source": "e뉴스페이퍼",
+    "published": "2026-07-21",
+    "keyword": "구글",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "네이버",
+     "Google",
+     "ChatGPT"
+    ],
+    "summary": "AI 콘텐츠 자동 발행 서비스는 AI 기술이 실질적인 비즈니스 효용성을 입증하며 산업 전반에 걸친 AI 도입 가속화를 이끌 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "\"문샷 '키미 K3' 파장에 앤트로픽·오픈AI 기업 가치 6~7% 증발\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212975",
+    "source": "AI Times",
+    "published": "2026-07-21",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Moonshot",
+     "Anthropic",
+     "OpenAI"
+    ],
+    "summary": "문샷 키미 K3의 등장은 AI 산업이 신규 경쟁자만으로도 기존 강자 가치를 급변시키는 초경쟁 구도임을 보여줄 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+    "source": "Google Blog - AI",
+    "published": "2026-05-29",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "구글이 자사 AI 스튜디오로 개발자 참여를 유도하며 AI 도구의 실용성과 생태계 주도권을 강화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "고양시, 생성형 AI 평생학습 운영…ChatGPT부터 영상·음악 제작까지 무료 교육",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LTlAyTkd6Wk1qT2gzenBUU1pEcW5uQWFKTEw0amMyejhsNU9LN3dxek5zRGVhSF9RLTBxRHJuMzYyNEZSMEx3aFRpSTJPSG5jUDRSd0gzWEVhc3duLWJtWTZWRDgwN3B0cXNncV96MWVsSknSAXdBVV95cUxQdVgxaU5ucmZPODZ5dWdwSnJlcVhSY24teEVlbHFMSURRdFRfSVQ4WXUyMjluRDJkWGhjaXVtRGdpeTZNai1hTEU0OXUzNi03Sm4ycGEybmczWUlNcEhRaktnRTEzV1B2Q2VWY25hLU1NR25aN18wZw?oc=5",
+    "source": "뉴스프리존",
+    "published": "2026-07-21",
+    "keyword": "생성AI",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "ChatGPT"
+    ],
+    "summary": "고양시의 AI 평생학습은 생성형 AI의 대중적 확산을 촉진하여 AI 기술 생태계 확장과 산업 경쟁력 강화에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

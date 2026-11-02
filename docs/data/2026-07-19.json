@@ -1,0 +1,419 @@
+{
+ "date": "2026-07-19",
+ "generated_at": "2026-11-02T11:40:07+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "충남교육청, 학생 평가 교사 주도성 강화 위한 전문가 양성 나선다",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DVFhOdXR3aDN1UEdPTjE5LWlxZ2owRWo1WkUxMmxkUVJHc2VWVzJSMHhHSXNpSHJuOV9CZVRCeE9td1Jmb2JJdlFhX3VkVXNKZEY1T2x6bnJQOXJKM09idkp0RXpGeUdiZWEyRkNiVGvSAXBBVV95cUxNQ1RYTnV0d2gzdVBHT04xOS1pcWdqMEVqNVpFMTJsZFFSR3NlVlcyUjB4R0lzaUhybjlfQmVUQnhPbXdSZm9iSXZRYV91ZFVzSmRGNU9sem5yUDlySjNPYnZKdEV6RnlHYmVhMkZDYlRr?oc=5",
+    "source": "뉴스체크",
+    "published": "2026-07-18",
+    "keyword": "과정중심평가",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "충남교육청은 학생 평가에서 교사 주도성 강화를 위해 전문가 양성에 나섭니다.",
+    "implication": "평가 전문성 강화를 통해 수업과 연계된 학생 평가를 주도할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "부산시교육청, 교육혁신선도지역 공모 준비 착수…TF 구성",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MWUF6bGpybzVZRUZpT1lvZTNiTFljekdJSk0wUGNZNFk5NXd1ZUNHcFFSVXFpeDdQbHItMTJqbWF0Xy1nUDJtZHUzaUtXR0JWY0VN?oc=5",
+    "source": "네이트",
+    "published": "2026-07-18",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "부산시교육청"
+    ],
+    "summary": "부산시교육청이 교육혁신선도지역 공모 준비에 착수하고 TF를 구성했습니다.",
+    "implication": "교육혁신선도지역 공모로 학생 참여형 수업 개발 기회가 늘어날 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "곡성군-전남교육청, 지역특화 교육혁신 추진",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QTmpTZkt6RXFDWlQ4M0w5VDZDSEduczZPSjdFVGNLMnZOaHhvRGExWnFkQjZnazhrM1llTnRFV05DTnczX3llNTBFMnNyd2h1R2NqOExFQXdNd0xHQnZlWWJvSmlTR3RlR2lGQ2xRd0VYQQ?oc=5",
+    "source": "스포츠동아",
+    "published": "2026-07-18",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "전남교육청"
+    ],
+    "summary": "곡성군과 전남교육청이 지역 특화 교육 혁신 추진을 위해 협력합니다.",
+    "implication": "지역 특화 교육 혁신을 통해 곡성 지역의 문화나 산업을 수업 주제로 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "한글학교 교사 초청 연수, ‘AI 활용 교수법’으로 폐막",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JODlETmhtOV9WSWhXTmw2SVVmQTdfZ1NLQ2pua0hIUFg4YXMwRlRDaXpvRXNTc21BY3gxa3pTZDllY3RUbHY1ajZqY09uN2xOSC1MQ2Y0Tjh0ajZqN0VUZEdmNWZ6RHAwbEhiOEh2N3o?oc=5",
+    "source": "호주 톱뉴스",
+    "published": "2026-07-18",
+    "keyword": "에듀테크",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [],
+    "summary": "한글학교 교사 초청 연수가 인공지능(AI) 활용 교수법을 주제로 진행된 후 폐막했다.",
+    "implication": "인공지능(AI) 활용 교수법을 우리 반 수업에 적용하여 학생들의 학습 흥미를 높일 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "인천시교육청, 옹진군 도서 지역 학생 대상 맞춤형 AI 진로체험 프로그램 운영 > 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fdmFGU2ctcGJ2bWEtWTdVNF82SEdMRDdueHFkR1ptSGpiVlZoaTM0RUV3RnQ4V0RzMll0S01SR2p1UDZzUlZTX3ZUVHBiYXpRODFjQi1mRzlMRFlsZzM2SUNHMV9KanI4RDNIQzJuRVQ?oc=5",
+    "source": "더코리아",
+    "published": "2026-07-18",
+    "keyword": "AI교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청은 옹진군 도서 지역 학생을 대상으로 맞춤형 AI 진로체험 프로그램을 운영합니다.",
+    "implication": "학생들의 특성과 흥미에 맞춰 AI 관련 진로 탐색 활동을 수업에 도입할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "강미애 세종시교육감, ‘탄탄한 실력, 안전한 학교, 미래는 담대하게’",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85MGUtaHhYeHoxYkRVOFFGcUJIcE1GQmdlemlyMnBkdTJLbHpjTWpNdUwzbDJoQnRjcE9DMDNTQlpCYURPUWdySFJXV2NqdjJGcG5weGlpSnR1Zmx2cmFIeG0wRDluRXN6TmFSZQ?oc=5",
+    "source": "충청뉴스",
+    "published": "2026-07-18",
+    "keyword": "AI교육",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [
+     "세종시교육청"
+    ],
+    "summary": "강미애 세종시교육감은 ‘탄탄한 실력, 안전한 학교, 미래는 담대하게’를 교육 비전으로 제시했습니다.",
+    "implication": "학생들의 탄탄한 실력과 미래를 위한 담대한 사고력을 키우는 탐구 중심 수업을 진행할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "안민석 경기교육감 인수위, 5대 목표·32개 과제 백서 전달",
+    "url": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNcTREQy05TjBfMC1sam9JWFNEclhDaHVtOVJIelpvTURUQ19jOElfWXFOR3dDSW1BemFnSmZEQ1E3QTlCWXpZdzF5Sk1hcVBEWTVMWXlzdUNWU0VjZVJ4MkVIMm84eGhIYkRKUjRSdlROckdLMFdOQUZhZnJ5eTRsOHQ0cVpvSmUtZkRLc3JkdDNoQjR5bDV1cFhfSVhLWGhoY2ZGclNVTEh5ZjJfcHN3bGExaldsZDBxMzBGdVA1MDZWMkgwYWtXOVNjVEtqNXhSVkJQM2REOUNZNno4eU1FUkdVOUhQUGJZdVlHZWQ5em9zUkpzVUJ3OFRTdFJpV1hzOTFjTWVIdmlCcjJSYlEwN3RycXVBc091VGJiSm83TXZSaEZONEdEMnJIOFN3OHB2empZU0NuRldnNVRhNEFiR3dHTjBXZ1pYcFdPZVpwRlE2dWEtWTNNTnZ1cF9jVmJnNUNIOEQxNG54V0ZfTGpsLTM2dGVWVHp2aFdn?oc=5",
+    "source": "MSN",
+    "published": "2026-07-18",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "안민석 경기교육감 인수위가 5대 목표와 32개 과제를 담은 백서를 전달했다.",
+    "implication": "새롭게 제시된 교육 방향과 과제를 바탕으로 수업 계획에 반영할 부분을 미리 구상할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "충북교육청, 운영 : 네이버 블로그",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZWJ3WFktbndDR0dTY1c1Q3NBbGRHU2Jaem9haENObDBPWFJETjRZa2JsSVJ3YmpHdWdaeFJSUS1acGlpWkJLeGZjbXJsaW4xZXNTdDM2XzlhUzd2QnB4M1NqQW0wRG9LRElENFdoNFM5dlVFYlUtX1JzUVdrQ0stYW1fbTFxN0taR0Zickpydw?oc=5",
+    "source": "Naver Blog",
+    "published": "2026-07-18",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충북교육청",
+     "네이버"
+    ],
+    "summary": "충북교육청이 네이버 블로그를 운영하고 있습니다.",
+    "implication": "충북교육청 네이버 블로그에서 교육 자료나 소식을 찾아 수업에 바로 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "대전시교육청, 학교전담경찰관과 손잡고 '찾아가는 디지털 성범죄 예방교육' 확대",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WaEpQbUhqMkgxMXV4THpxZ2NfeHI0NXA2QnBJTTRobnpQMFNkNk1NdFlMNTBRYWhKWDJHbFJEa2NwN1FUVXBRaGplVjI0Nm8wY3d0VDM5LXB4TFdjMG93bWRBNWh5ZlhUN3h2RjRwT1E?oc=5",
+    "source": "한국강사신문",
+    "published": "2026-07-18",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "대전시교육청은 학교전담경찰관과 협력하여 찾아가는 디지털 성범죄 예방교육을 확대 시행합니다.",
+    "implication": "학교전담경찰관과 연계된 전문 교육으로 학생들은 실제적인 디지털 성범죄 예방 지식을 배울 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "충남교육청, 시민성 함양 매체 문해교육 자료 개발 본격화",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBucDZGUjUtQ3ZYcW1pb0FiZFhsOUhwN0swbVFEY291c0ZlSlFEV1NfOGJ4XzlvUnJCQW8yZlh5N1FVZkY0Z09pdzY3RS1LWVRZYTFscGRLQVVRWlo0T1ZTR1lQaGY3ZXdja2fSAWxBVV95cUxPVzNjVU83UlRVTVZEakFneEJNN3JqYlR0TTJJOWFNZkloQktNLVhzbWNqM0VKQjdhaGxySS1wU1pjZDNOMDBfMjdncFJPUTIwbWR1TUFrcUpQcDM3RV9qUkQ1aFB3dGU3ckdncUc?oc=5",
+    "source": "충남문화신문",
+    "published": "2026-07-18",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "충남교육청이 시민성 함양을 위한 매체 문해교육 자료 개발을 본격적으로 시작합니다.",
+    "implication": "개발될 자료를 활용하여 학생들이 미디어로 시민성을 기르는 수업을 할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Academic digital applications supporting vocabulary instruction for university students: How do English instructors perceive their use?",
+    "url": "https://doi.org/10.29140/jaltcall.2026.102797",
+    "source": "openalex",
+    "published": "2026-07-16",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "이 연구는 TAM 모델 기반 혼합 방법론으로 ESL 강사 106명의 학술 디지털 애플리케이션 어휘 교육 인식을 조사하여 긍정적 효과를 확인하고, 커리큘럼 및 연수 지원을 통한 효과적인 교육 통합 방안을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Asmaa Muwafaq Alkhazraji",
+    "pdf": "https://www.castledown.com/journals/jaltcall/article/download/jaltcall.2026.102797/1225"
+   },
+   {
+    "n": 2,
+    "title": "Development of listening, speaking, reading and writing in professional foreign language training of future hospitality and tourism professionals",
+    "url": "https://doi.org/10.66556/2786-586x.57.zhumbei-m",
+    "source": "openalex",
+    "published": "2026-07-16",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "환대·관광 분야 외국어 교육에서 듣기, 말하기, 읽기, 쓰기 기술의 통합 발달을 위해 실제 서비스 상황에 기반한 교수법적 지침과 실용 연습을 제안하여, 미래 전문가의 직무 의사소통 능력을 효과적으로 강화합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Маріанна Жумбей, Halyna Apelt",
+    "pdf": "https://academy-vision.org/index.php/av/article/download/3344/3171"
+   },
+   {
+    "n": 3,
+    "title": "Crossing Boundaries: Filipino Teachers’ Lived Experiences of Language and Culture in Teaching Physical Education in Thailand&lt;!--a=1--&gt;",
+    "url": "https://doi.org/10.67167/vertex.617",
+    "source": "openalex",
+    "published": "2026-07-16",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "태국에서 체육을 가르치는 필리핀 교사들의 언어 및 문화적 장벽 경험을 질적 현상학으로 탐구하고, 정서적 안전과 문화적 감수성을 강조하는 TEACH 프레임워크를 제안하여 학생 참여 증진과 문화적으로 반응하는 교육학 발전에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Dahlia Sanchez, Jacklyn Toldoya",
+    "pdf": "https://vertexcorp.org/index.php/irmr/article/download/617/412"
+   },
+   {
+    "n": 4,
+    "title": "Understanding Pre-Service Vocational Teachers’ Perceptions of GenAI Using ChatGPT Through the Lens of Perceived Benefit",
+    "url": "https://doi.org/10.1007/s10758-026-10016-5",
+    "source": "openalex",
+    "published": "2026-07-16",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "ChatGPT"
+    ],
+    "summary": "예비 직업 교사 266명 대상 설문 및 구조방정식 모델링 분석 결과, 생성형 AI의 인지된 이점이 AI 지식, 가치, 비용을 유의미하게 예측하고 AI 채택 준비에 핵심적임을 밝혀, 직업 교육에서 AI 통합을 위한 이점 중심 교육의 중요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Andri Setiyawan, Soeharto Soeharto 외 1명",
+    "pdf": "https://link.springer.com/content/pdf/10.1007/s10758-026-10016-5.pdf"
+   },
+   {
+    "n": 5,
+    "title": "The 3D4E strategic approach: Can GAI improve visual thinking skills in STEM high schools?",
+    "url": "https://doi.org/10.1007/s10639-026-14093-y",
+    "source": "openalex",
+    "published": "2026-07-16",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "본 연구는 3D4E 전략적 접근법을 통해 STEM 고등학생의 시각적 사고 능력 향상에 생성형 AI 시각화 도구의 전략적 통합이 효과적임을 준실험 연구로 입증하여 교육 혁신에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Yousri Attia Mohamed Abouelenein, Shaimaa Abdul Salam Selim 외 1명",
+    "pdf": "https://link.springer.com/content/pdf/10.1007/s10639-026-14093-y.pdf"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "애플-엔비디아, 시총 1위 두고 '초박빙' 접전…장중 한때 애플 선두 탈환",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212906",
+    "source": "AI Times",
+    "published": "2026-07-18",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Apple",
+     "NVIDIA"
+    ],
+    "summary": "애플과 엔비디아의 시총 1위 경쟁은 AI 인프라와 AI 서비스/애플리케이션 양대 축이 AI 산업 성장을 주도할 것임을 보여주는 징표입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+    "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "source": "OpenAI Blog",
+    "published": "2026-07-09",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Microsoft"
+    ],
+    "summary": "GPT-5.6의 코파일럿 적용은 엔터프라이즈 AI의 성능 기준을 높이고 대규모 AI 도입을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "How to Work Effectively with GPT-5.6",
+    "url": "https://towardsdatascience.com/how-to-work-effectively-with-gpt-5-6/",
+    "source": "Towards Data Science",
+    "published": "2026-07-17",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.6의 효과적 활용법은 AI 기술의 실제적 가치 극대화와 산업 전반의 생산성 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+    "source": "Google Blog - AI",
+    "published": "2026-05-29",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Google",
+     "코딩 AI"
+    ],
+    "summary": "구글 AI 스튜디오를 활용한 '바이브 코딩' 퀴즈는 AI 개발 플랫폼의 창의적 콘텐츠 제작 역량을 보여주며, AI 기술의 대중화를 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "MUFG aims to become AI-native with OpenAI",
+    "url": "https://openai.com/index/mufg",
+    "source": "OpenAI Blog",
+    "published": "2026-07-07",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "거대 금융사의 'AI-native' 선언은 전 산업의 AI 기반 혁신 경쟁을 가속화하고, 선도 AI 솔루션이 기업의 핵심 경쟁력임을 증명할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "Why teens deserve access to safe AI",
+    "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+    "source": "OpenAI Blog",
+    "published": "2026-07-16",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [],
+    "summary": "청소년의 안전한 AI 접근성 확보는 AI 산업의 장기적 신뢰와 지속 가능한 성장을 위한 필수적인 윤리 및 기술적 과제입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "Anthropic slashes Claude Fable 5 limits in Max and Team Premium and pushes Pro users toward API pricing",
+    "url": "https://the-decoder.com/anthropic-slashes-claude-fable-5-limits-in-max-and-team-premium-and-pushes-pro-users-toward-api-pricing/",
+    "source": "The Decoder",
+    "published": "2026-07-18",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude"
+    ],
+    "summary": "Anthropic의 정책은 AI 서비스의 높은 운영 비용으로 인해 API 중심의 차등 요금제 전환을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "[AI 이슈트렌드] 반도체발 코스피 쇼크 속 홈플러스 파산 위기 주목",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212904",
+    "source": "AI Times",
+    "published": "2026-07-18",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "GPU·데이터센터"
+    ],
+    "summary": "반도체발 경제 충격은 AI 인프라 투자 위축을, 전통 산업 위기는 AI 기반 디지털 전환 가속화의 시급성을 강조할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "[AI카툰] Bob, Senior IT guy",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212886",
+    "source": "AI Times",
+    "published": "2026-07-18",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "AI의 발전은 인간 네트워킹의 본질적 가치와 역할을 재정의하며, 새로운 협력 생태계를 구축하게 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "[얼리어답터에서 일상 필수품으로… 챗GPT 주사용층 ‘학부모·장년층’으로 이동] 35세 이상 이용자 늘고 청년층 감소, 오픈AI 가족 통합 요금제 및 특화 서비스 개발 전망",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBlVlpfdXp5bjJCZG13bV9WUG5GUzQzNlJzekxnelc4NzZXT3V3S2VXSU03RndDeHRFT2FkRTZPSms?oc=5",
+    "source": "AI넷",
+    "published": "2026-07-18",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "OpenAI"
+    ],
+    "summary": "챗GPT 주사용층 이동은 AI 대중화와 함께 AI 산업이 일상생활 맞춤형 서비스 개발에 집중할 것임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

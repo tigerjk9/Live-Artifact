@@ -1,0 +1,431 @@
+{
+ "date": "2026-05-23",
+ "generated_at": "2026-11-02T11:36:59+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[#클라우드 월드] 한컴 '챗엑사원 AI 에이전트' 공급·메가존 '에이전틱 AI' 공개·GS네오텍 '생성형 AI솔루션' 소개·사이냅 '문서 AI 세미나'",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB4aWl3QUU4THU4YjRobjU0RTdYNU81OGJoWWFTV1hnMEJDSDNHWEg0LS1TMUdDejZ0OWdvQ1VJYnREY3lnSjdVTjlub0FXOGhCcXI2MXZ3LTFqMlJWUGRyQmpQQ2JKWmRRb0pCZ1hlVm01QzDSAXNBVV95cUxQeGlpd0FFOEx1OGI0aG41NEU3WDVPNThiaFlhU1dYZzBCQ0gzR1hINC0tUzFHQ3o2dDlnb0NVSWJ0RGN5Z0o3VU45bm9BVzhoQnFyNjF2dy0xajJSVlBkckJqUENiSlpkUW9KQmdYZVZtNUMw?oc=5",
+    "source": "뉴스웍스",
+    "published": "2026-05-22",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "LG",
+     "에이전트",
+     "생성형 AI"
+    ],
+    "summary": "한컴, 메가존, GS네오텍, 사이냅 등 IT 기업들이 클라우드 월드에서 AI 에이전트, 생성형 AI 솔루션, 문서 AI 세미나 등을 선보였습니다.",
+    "implication": "다양한 AI 기반 문서 및 에이전트 도구를 활용하여 학생들의 학습 자료 분석 및 맞춤형 피드백 제공에 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[인터뷰] 라홀 쿠마 IBM 통신·미디어 부사장 “해커는 에이전틱 AI 활용하는데… 韓 기업들 보안·IT 투입 예산 적어”",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTWNCamtiajBjbWQ0MWx4b205YXdHcFBVNUtGcnlBdmZlb3ZEZVVrdFJPQnktckhNXzV3dDRMN0FncjVXal9US3pXVGU2VkMwa2x2SFVOMk9sVG9OeWxaVlR6TXpXYXRfNnBFUVNLLTV2cG93U0NaUjVDXzBEVGlYZUdB0gGWAUFVX3lxTE1RNTR5dmJ2ZUVsNktDUm1QTWVtVHZNYm4xX1pmaVFyaEx1ZmVadzQtUmQ1RUgyWjM0UXpQcGk3R0xlMURWQTd6Qkh3azBVb3FrSFlSTXlwMEg2TWRKSWd6ZGNhNUxmY0c3dHp0ckI0bXRkekVsbXBkRkl2Ym5ycHd5bElVRXZXaG52aFRoOERmZzJzUEhydw?oc=5",
+    "source": "Chosunbiz",
+    "published": "2026-05-22",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": "interview",
+    "entities": [],
+    "summary": "IBM 부사장은 해커의 AI 활용에 비해 한국 기업의 보안 및 IT 투자 예산이 부족하다고 지적했습니다.",
+    "implication": "학생들에게 AI 기반 사이버 공격의 위험성을 알리고, 정보 보안 윤리 교육을 강화해야 합니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "디지털융합교육원, 마스터마인드협회서 ‘생성형AI교육지도사 민간자격증’ 과정 강의 진행 — IT뉴스모아",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBEbVFncmZhNjhvX3NESl9Tdm1VRmlPSTNaQWI5VDMtWDdpOEVkUW1hVXZHenVfSzdEbDdUbkNGR3cwaGx0XzFRQUYyVGpsQnNUdkVR?oc=5",
+    "source": "news.dlwlrmaon.com",
+    "published": "2026-05-22",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "디지털융합교육원이 마스터마인드협회에서 생성형AI교육지도사 민간자격증 과정 강의를 진행합니다.",
+    "implication": "교사는 생성형 AI 교육 지도사 자격증 과정을 통해 AI 활용 교육 역량을 강화할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "노원구청, 생성형 AI교육․실무 적용",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PY1RNaENzaGtXc01GdEJ1emJxQklWY1dnYlQtajJ3ZFBsOFhtQUtiWkdtT2lqSGJYRXpESHpzd1ZZUjNxRWdBcW1nNXdfbFFWS0xoTXdrNjQ4elZXOUo5NDhrQmhpY0ZtUVZ2Rm930gFuQVVfeXFMTU9jVE1oQ3Noa1dzTUZ0QnV6YnFCSVZjV2diVC1qMndkUGw4WG1BS2JaR21PaWpIYlhFekRIenN3VllSM3FFZ0FxbWc1d19sUVZLTGhNd2s2NDh6Vlc5Sjk0OGtCaGljRm1RVnZGb3c?oc=5",
+    "source": "(노원뉴스) 나우온",
+    "published": "2026-05-22",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "노원구청은 생성형 AI 교육을 실시하고 실무에 적용하여 행정 효율성을 높일 계획입니다.",
+    "implication": "노원구청의 AI 교육 사례를 참고하여, 학생들에게 AI 도구를 활용한 창작 활동을 장려할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[2026 지선] IB 학부모 3000명 움직였다…강은희 지지 선언 “대구 교육혁신 이어가야”",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE84LWFFMFVndjljV0p6Rm8yWHR1QzkySHoxa3NsZG5RZVVVQmhiblp6LTVFQWx3Z1g4bFIzNkNxMXJ3VTQ2OHpaM0JzYXg?oc=5",
+    "source": "아이뉴스24",
+    "published": "2026-05-22",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "IB",
+     "대구시교육청"
+    ],
+    "summary": "2026 지방선거에서 대구 IB 학부모 3000명이 강은희 후보 지지를 선언하며 대구 교육혁신 지속을 요구하고 있습니다.",
+    "implication": "IB 프로그램 운영 학교에서 학부모의 정치적 지지 성향이 교육 정책에 미치는 영향을 파악하고 교육과정 운영에 참고할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "“책으로 미래를 읽다”…전남교육청 독서인문교육 현장 속으로",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05b0FrdE1TT2VRNENKTTFKaEg0TWpmWXhvMTlNTnI4OWxDSlJJcGFaMWxUTWFCX0lDRmlDQ1VmXzhuMFZqMl9MOS1iX29iUHBtRWUzbnJsOWtzTmllbjVrY2Myc1h0Ym00VVdrem9CUlrSAXRBVV95cUxNSlloVER3UHhVeUhONVdYdU9Tc3ZEYUNKYU1yelBPekxvZFJ2eVlSSGFiUEdyYUc1VEozdEpzUHB3djRKTTBwNk1FRG1vWFBvM1NhM1hJSWZPd0V2OC1mODB2X0ZBci1FV3p4VjFKV2FkVndSVg?oc=5",
+    "source": "thefairnews.co.kr",
+    "published": "2026-05-22",
+    "keyword": "교육현장",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "전남교육청"
+    ],
+    "summary": "전남교육청이 독서인문교육 현장을 방문하여 미래를 대비하는 교육 활동을 점검하고 지원합니다.",
+    "implication": "학생들의 미래 역량 강화를 위해 교과 연계 독서 활동 및 토론 수업을 적극적으로 설계할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "전남교육청, 독서인문선도교실 현장에 빠르게 확산",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Rc2pMN05fWjdINkFtNHMzWjkwLWc5NThzS3pVX3lPbkVocDd2QUpKbVZGdnFTZ21renpXamZGZWlLSy1TMVBmc2ZOXy1ZdHVFbzQ4YVpFd1dRLXp3?oc=5",
+    "source": "교육연합신문",
+    "published": "2026-05-22",
+    "keyword": "교육현장",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "전남교육청"
+    ],
+    "summary": "전남교육청이 독서인문선도교실을 빠르게 확산시켜 학교 현장의 독서 및 인문 교육을 강화하고 있습니다.",
+    "implication": "독서인문선도교실 운영 사례를 참고해 학생들의 독서 흥미를 유발하는 다양한 인문학 수업을 시도해 볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "광주교육시민연대, 통합특별시 교육정책 제안…“민주성·공공성 강화해야”",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3Rm1RdE5uZ0tpSFNWME91LS1fXzVNdWlwT1pTU0Vfb1ZvZVlMdFk4TXBQYXhldm5JUi1mbUlMaEpHT3QxRk9iQTJ4c1FUbnBiXy11U3dkVWtPbG9rRnY2UmVMM2ZIYUpVaXRuUWx5d9IBb0FVX3lxTFA3Rm1RdE5uZ0tpSFNWME91LS1fXzVNdWlwT1pTU0Vfb1ZvZVlMdFk4TXBQYXhldm5JUi1mbUlMaEpHT3QxRk9iQTJ4c1FUbnBiXy11U3dkVWtPbG9rRnY2UmVMM2ZIYUpVaXRuUWx5dw?oc=5",
+    "source": "교육언론[창]",
+    "published": "2026-05-22",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "광주시교육청"
+    ],
+    "summary": "광주교육시민연대가 통합특별시 교육정책으로 민주성과 공공성 강화를 제안했다.",
+    "implication": "지역 교육 현안에 대한 학생들의 비판적 사고와 정책 제안 활동을 수업에 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "윤용근 공주·부여·청양 국회의원 후보, 교육정책 공약 발표",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sNmlxTW05dmVlYlNwSHR1YnVwcHhiQTVHdnZRbS1Xd1gtWDJ4V3RvNDV6UnhmLXp4NmZOMkt1WXp6SEs4cVY0QWRDbU5WS1QzbDczVmFTWm9XVjQxbXVsemtQNmQ?oc=5",
+    "source": "매일일보",
+    "published": "2026-05-22",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "국회"
+    ],
+    "summary": "윤용근 국회의원 후보가 공주·부여·청양 지역 교육 정책 공약을 발표했습니다.",
+    "implication": "윤 후보의 공약 내용에 따라 지역 연계 학습이나 특색 교육활동 계획을 미리 생각해 볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "인천시교육청, 중등교원 대상 미래형 수업·평가 역량 강화 나서",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CUmEwaXRvSjhad3BVU3ZTZGk1dVhfYzJGeFBlYVV4M0xuVWVlWkhBeldKQ2hxZmpNaDF2dVlJZnBKbU41dnM3ZFE0NXZvTnp4TU03SkJDZWZWQldsTU4xS1d6RVJ5UzFL?oc=5",
+    "source": "경인매일",
+    "published": "2026-05-22",
+    "keyword": "AI디지털도구",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청이 중등교원의 미래형 수업 및 평가 역량 강화를 위한 연수를 실시합니다.",
+    "implication": "에듀테크 활용 수업 디자인이나 학생 맞춤형 평가 방법을 배워서 수업에 적용해 볼 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Work In Progress: Preventative and remedial social-emotional-learning interventions in first-year engineering",
+    "url": "https://doi.org/10.18260/1-2--58487",
+    "source": "openalex",
+    "published": "2026-05-20",
+    "keyword": "SEL education",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 대학 신입생의 STEM 분야 성적 향상과 유지율 증가를 위해, 사회정서적 학습(SEL) 역량 강화 프로그램을 개발 및 적용하여 고위험군 학생들의 학업적 어려움 극복과 심리적 안정에 기여하는 효과를 분석합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Maureen Tang, Jennifer Atchison",
+    "pdf": "https://peer.asee.org/58487.pdf"
+   },
+   {
+    "n": 2,
+    "title": "Educational Tablets and their Effectiveness in Enhancing Teacher Engagement and Conceptual Understanding in History Instruction in Secondary Schools in Bagamoyo District, Tanzania",
+    "url": "https://doi.org/10.61227/arji.v8i2.784",
+    "source": "openalex",
+    "published": "2026-05-21",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "탄자니아 바가모요 지역 중등학교 역사 교육에서 교육용 태블릿이 교사 참여와 개념 이해에 미치는 영향을 혼합 연구 방법으로 분석한 결과, 태블릿이 수업 준비에는 유용하지만 학습자 중심 전략 활용에는 미흡하며, 교사의 역량 강화 및 정책 지원이 중요함을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Prospery M. Mwila",
+    "pdf": "https://journal.nahnuinisiatif.com/ARJI/article/download/784/731"
+   },
+   {
+    "n": 3,
+    "title": "Transforming Islamic and Character Education: Enhancing Active Participation via Independent Curriculum in the Digital Era",
+    "url": "https://doi.org/10.51574/ijrer.v5i3.4994",
+    "source": "openalex",
+    "published": "2026-05-21",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [
+     "문해력"
+    ],
+    "summary": "본 연구는 디지털 시대에 독립 커리큘럼과 디지털 기술을 활용하여 이슬람 종교 교육 및 인성 교육에서 학생 참여를 증진시키는 방안을 모색하고, 디지털 문해력 격차 해소 및 포용적 교육 전략의 중요성을 강조하여 교육 혁신에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Pitra Ariya Oktama, Ruswanto Ruswanto 외 1명",
+    "pdf": "https://etdci.org/journal/ijrer/article/download/4994/3375"
+   },
+   {
+    "n": 4,
+    "title": "Integrating Multiple Intelligences into Social Studies Instruction",
+    "url": "https://doi.org/10.32923/2qmjfr34",
+    "source": "openalex",
+    "published": "2026-05-19",
+    "keyword": "SEL education",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [],
+    "summary": "초등학교 사회과 교육에서 다중지능 이론을 통합하여 학생들의 인지적, 정서적, 사회적 발달을 촉진하는 교수학습 모델의 효과와 과제를 2020-2025년 학술 자료 분석을 통해 밝히고, 의미있는 교육적 성과를 위한 개념적 틀을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Vera Feryyal",
+    "pdf": "https://rumahjurnal.iainsasbabel.ac.id/sus/article/download/6443/2517"
+   },
+   {
+    "n": 5,
+    "title": "Exploring Teachers' Experiences in Utilizing the Big Six of Reading Instruction",
+    "url": "https://doi.org/10.65339/ijsair.v2.i2.455",
+    "source": "openalex",
+    "published": "2026-05-21",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "2025-2026년 잠보앙가 시부가이 주 이필 지역 유아 교육 교사들의 읽기 지도 6요소 활용 경험을 질적 사례 연구로 조사하여, 교사들의 이해, 실행, 어려움, 대처 방안을 분석하고, 읽기 능력 향상을 위한 지속적인 전문성 개발, 자원 확보, 행정적 지원의 필요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Karren Maglangit",
+    "pdf": "https://www.ijsair.com/index.php/ijsair/article/download/553/528"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "코히어, H100 2장으로 구동하는 에이전트용 모델 '커맨드 A+' 오픈 출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210841",
+    "source": "AI Times",
+    "published": "2026-05-22",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "GPU·데이터센터",
+     "에이전트"
+    ],
+    "summary": "코히어의 Command A+ 출시는 소규모 자원으로도 고성능 에이전트 모델 구축 가능성을 제시하며 AI 모델 개발 경쟁에 새로운 변수를 만들 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "오픈AI, GPT-5 훈련 중 ‘추론 조작’ 위험성 노출...“AI가 인간을 속일 수도” — IT뉴스모아",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tSFlxQXNSRTY2amRUVUk1TThHeVJzcGN0S1dSUHVmaHRYN2FoY0VuSXhrOHlpdG9xNFpuYmxUaDRob3ZXQjdFdWZSeWo4OEFTek5J?oc=5",
+    "source": "news.dlwlrmaon.com",
+    "published": "2026-05-22",
+    "keyword": "GPT",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT",
+     "AI 안전·규제"
+    ],
+    "summary": "GPT-5의 추론 조작 위험성 노출은 AI 안전성과 윤리적 통제에 대한 중요성을 부각하며, AI 개발 및 규제 방향에 영향을 줄 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "무려 2800억장… 구글이 스트리트뷰 이용해 만든 AI 기술",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210858",
+    "source": "AI Times",
+    "published": "2026-05-23",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "구글의 스트리트뷰 기반 AI 기술은 대규모 데이터 활용의 가능성을 보여주며, AI 모델 학습 비용 절감 및 새로운 서비스 창출에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "Google checks websites for llms.txt in new agentic browsing audit",
+    "url": "https://the-decoder.com/google-tests-websites-for-llms-txt-and-agent-compatibility/",
+    "source": "The Decoder",
+    "published": "2026-05-21",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Google",
+     "에이전트",
+     "저작권·소송"
+    ],
+    "summary": "구글의 llms.txt 검사는 AI 에이전트의 웹 접근 통제 표준을 제시하여 웹 콘텐츠 저작권 및 AI 학습 데이터 활용에 대한 새로운 논의를 촉발할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "오픈AI, 1분기 매출 앤트로픽 능가...2분기에는 역전 허용",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210829",
+    "source": "AI Times",
+    "published": "2026-05-22",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Anthropic"
+    ],
+    "summary": "오픈AI와 앤트로픽의 경쟁 심화는 AI 기술 발전과 시장 확대를 가속화할 것이며, 기업들은 차별화된 전략으로 생존을 모색해야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+    "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+    "source": "OpenAI Blog",
+    "published": "2026-05-16",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "OpenAI와 몰타의 협력은 ChatGPT Plus 접근성 확대를 통해 AI 기술의 공공 서비스 적용 가능성을 보여주고, 다른 국가들의 유사한 협력을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "ChatGPT와 Gemini가 Google Analytics에서 새로운 트래픽 소스로 떠오르고 있습니다.",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMV9uWV9LQjlkQUxPQU90N1pQOGpKN0lfcXJQYkJRWHNfOThudlpMNXNYQTFsQ0l3NWRzbnVucmJ5RTVodi1ibVBSTXA3UHRKeEN0VXE4aGgyY19fMDZTVlZPNWlvWFFnc3BIUEpCN1piTUZ0Sl8yOHdwOGdXUWpSRGtWNW00SmZLamI2YVhhbE5fSElh?oc=5",
+    "source": "Vietnam.vn",
+    "published": "2026-05-22",
+    "keyword": "구글",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Gemini",
+     "Google",
+     "AI 검색"
+    ],
+    "summary": "AI 챗봇이 웹 트래픽의 주요 소스로 부상하면서, 기업은 SEO 전략을 넘어 AI 검색 최적화에 집중해야 할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "Anthropic Nears First Profit as Claude Challenges the Idea That AI Can’t Make Money",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE53N0JkUWRXeDNHVWdyM2RVWWVaRkFUcUU1WkU4M3VLWEI0UklVcGZNSVFKbUliNGlRRHVjWmFhbVYyMzlib2s3RzQ1TFNQVHRiLVJOZUp3eHFVb3hsRkpoenI3VzRiRFhNQnZz?oc=5",
+    "source": "kmjournal.net",
+    "published": "2026-05-22",
+    "keyword": "Anthropic",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude"
+    ],
+    "summary": "Anthropic의 수익성 확보는 AI 기술 기업의 수익 창출 가능성을 입증하며, AI 산업 투자와 지속 가능한 성장에 긍정적인 신호탄이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "AdventHealth advances whole-person care with OpenAI",
+    "url": "https://openai.com/index/adventhealth",
+    "source": "OpenAI Blog",
+    "published": "2026-05-21",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "AdventHealth의 OpenAI 도입은 의료 분야에서 AI 기반 맞춤형 환자 케어 확산을 가속화하고, 의료 서비스의 질적 향상을 도모할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "“GPT-5.5급 코딩 성능을 저비용에” 커서, 컴포저 2.5 발표",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wS0hTV0tsbGd0RzU1M3RJVWJHODFWQ2xHY093b2RsV1pTRjdmOENfemNaZmE1UGg0ZThCeXNMcUNURVQ5V0JJZFJNMUNLV0QyYkdPSzhQZnc2bGtDWnc?oc=5",
+    "source": "스타트업레시피",
+    "published": "2026-05-22",
+    "keyword": "GPT",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "코딩 AI"
+    ],
+    "summary": "커서의 컴포저 2.5 발표는 저비용 고성능 코딩 AI 도구 확산으로 개발 생산성 향상 및 AI 개발 생태계 경쟁 심화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

@@ -1,0 +1,427 @@
+{
+ "date": "2026-08-29",
+ "generated_at": "2026-11-02T11:42:22+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[배영직 칼럼] \"교육 현안, 학교 교육과정을 바로 세우는 것\"",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByTkp2SzdqdkhJX0d3MERESnE1SXBWN01obDJEZDNmMVlRQnhVYjZJcjg2REVCTmZpR1c5VHdpa01BUkcydjhSN1VDSG9Cd0pMOGo5bTB4YnQzN3JnWlVpZ19pbmdfanRu?oc=5",
+    "source": "에듀프레스",
+    "published": "2026-08-28",
+    "keyword": "과정중심평가",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "교육 현안을 해결하기 위해 학교 교육과정을 제대로 확립하는 것이 중요하다고 칼럼에서 주장합니다.",
+    "implication": "교육과정 개편 흐름에 맞춰 나의 수업 내용을 어떻게 반영할지 고민해 볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[데스크 칼럼] 교육정책, 논의와 확정 사이",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDVmh2X2wtMUlPdlZjRzdYNWc3ZkgxekVyUkFLb0N5R2F3X3VWUTVIVVFNRkN0Tm9ZUWFHbzhCdWdJZ0kySk9iOXZfOFltWHBuYWJQQ0hEOENTQzg?oc=5",
+    "source": "더에듀",
+    "published": "2026-08-28",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "교육정책이 아직 확정되지 않고 논의가 진행되는 단계입니다.",
+    "implication": "변화될 수 있는 교육정책을 염두에 두고 수업 내용을 유연하게 구성할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "교육과정 설계 돕는 'AI 에이전트' 개발…교원 부담↓",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VSXFtX0FwWU8wdE5ibVRjUTFUcmdDYTRyOU11TjJ0RmtVQlkyZVlHWE1Cc2xabW9XbEJoanVlR3hmcVN6clpRU253YmVCSWNOVEFqU3hGNlhnMzVUVUZPX9IBeEFVX3lxTE1PMUJfQ1E4NldsYUgzYWhVc2lHeGJ6S3hFaEFUQkJzR1dDZkRveFNWOE43SUJTV2RFTVNqbG9LUG9xMFV3TWlnR1lDeVFFSUtxWFBpdmlrUVgwNTFmU1psSDI5VG1oaUVrT0IwYkQxN0dIWmthaGZYTA?oc=5",
+    "source": "뉴시스",
+    "published": "2026-08-28",
+    "keyword": "AI디지털도구",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "교원 부담 경감을 위해 교육과정 설계를 지원하는 AI 에이전트가 개발되었습니다.",
+    "implication": "AI 에이전트가 제시하는 교육과정 설계 방안을 활용해 수업 활동 및 평가 계획을 구체화할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "삼천포고 학생부 기록 전문성 제고 교원연수.. '전 입학사정관 이석록/전 미림여고 교장 주석훈 특강'",
+    "url": "https://www.veritas-a.com/news/articleView.html?idxno=625159",
+    "source": "베리타스알파",
+    "published": "2026-08-28",
+    "keyword": "",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "교사 연수",
+     "수능·대입"
+    ],
+    "summary": "삼천포고는 대입 환경 변화에 맞춰 교원연수로 학생 개개인의 성장과 역량을 객관적/구체적으로 기록하는 학생부 전문성을 강화했다.",
+    "implication": "학생의 수업 참여 과정과 활동 중 나타난 성장 모습을 객관적이고 구체적으로 기록하여 학생부를 풍부하게 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "안민석 경기교육감, ‘벽깨기 교육정책’ 본격 시동…“제도적‧구조적으로 벽 허물 것”",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IQkRSTzB2Uk8tOGJ4cGJWQjlzejJ6NnNqQ21oRW8tb2trcy1JZExqWlRjU0lUQlo1TWczcWdEYnEwUDBFbTZrTHZNTFl1WWZSNUlybVlualg0N1daNm9adTZUQQ?oc=5",
+    "source": "쿠키뉴스",
+    "published": "2026-08-29",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "안민석 경기교육감이 제도적, 구조적 벽을 허무는 '벽깨기 교육정책'을 본격적으로 시작합니다.",
+    "implication": "학생들과 함께 기존의 학습 방식이나 교과 경계를 허무는 수업을 시도할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "경기도교육청, 학교·지역 잇는 '벽깨기 교육정책' 본격화",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IOHdXcXBXcXNKWFVEaXRqZ2VCWGtjS2VNRlhDM1JwMFgycVNwUUJzYzZka1VHNThHSk9qdW9BZl9uNmU1R0UzV3pKY19ZXzRJMEpmRzJDMkFXenUtUk9YQg?oc=5",
+    "source": "경기신문",
+    "published": "2026-08-28",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청이 학교와 지역을 잇는 '벽깨기 교육정책'을 본격적으로 추진합니다.",
+    "implication": "지역사회 자원과 연계하여 학생들이 실제 삶과 관련된 프로젝트 학습을 설계할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "대전교육과학연구원, 생성형 AI에 묻고, 스스로 생각하고, 과학으로 해결한다",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcDVPWDNGUTJGdG9NVVV3SWhHNWJzdk5xRG91dEM1aG5YTmZ1aWJMdW5iY1Z1RlJhRExlcW1PeG1FWjBDVmpqRjNYbVNmMUcwRXI3VnRQNjFxU0x4QUttUXdxRDF1cVlpRGZCaTN0SThpb3p4dUR1UVpoOW14cnk1bDNRdmhtakxLVW9PZTI1eHRIMVpBdE91emxqeEZCbHY4NTA3UUhYYzlOU0gxU3ZzMmZFekdWQm9aTW9zY3lZbGhtcmlIZm9feDBFWQ?oc=5",
+    "source": "SNS 타임즈",
+    "published": "2026-08-28",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "대전시교육청",
+     "생성형 AI"
+    ],
+    "summary": "대전교육과학연구원은 생성형 AI를 활용해 학생들이 스스로 생각하고 과학적으로 문제를 해결하도록 돕는다는 내용이다.",
+    "implication": "교사는 생성형 AI를 활용하여 학생들이 탐구 질문을 하고, 스스로 생각하며 과학적 문제 해결 과정을 경험하도록 지도할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "경기도교육청과 한국에듀누리교육원, 고양 하늘초등학생 대상 참여형 보건교육 실시",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1bXJPU1pacWxoaTdtbUdmQmc1RTJEQjRDS3dJZHVmQ3BNQnQ5T2hZZ3R6RGdoQ281dThON0drUUd5TUJtem9kN1JmVUxCZ2s3SGFObTR0d3JUU1E?oc=5",
+    "source": "경기경제신문",
+    "published": "2026-08-28",
+    "keyword": "에듀테크",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청과 한국에듀누리교육원이 고양 하늘초 학생들을 대상으로 참여형 보건교육을 실시했습니다.",
+    "implication": "참여형 수업 방식은 학생들의 흥미를 유도하고 능동적인 학습을 촉진하는 데 활용될 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "임신복 입고 AI 아기 돌보고…경기도교육청 체험형 보건수업",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KdkdPVGgzeHk5RTdyeW5GcTJKQlU2NVRhOG9Kc3hYSlR2QTlqaDJKVGpCQy1wTnpHUThVQTN2czhGZ2VUUk9rcDQxaFlZTXZqMkFZbld0TGFJWE1uWkx3?oc=5",
+    "source": "데일리엔뉴스",
+    "published": "2026-08-28",
+    "keyword": "에듀테크",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청은 임신복 착용 및 AI 아기 돌봄을 포함한 체험형 보건수업을 제공합니다.",
+    "implication": "임신복 체험과 AI 아기 돌봄 활동으로 실제적인 생명 및 가족 보건 교육을 진행할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "권순기 경남교육감 \"학력·인성 함께 키워 교육 본질 바로 세울 것\"",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zRFZfQThQZ3JDN1lrcE9CS1NJYXZkM0NScEVJVlZqWlpscExpeW5Pak5KR3lrQldhazZMXzlmYTBPb1RCZlF2LUlPd2N3eFhsRzdlTTBseU9MTTVGY2VF0gFkQVVfeXFMUEMzUkYtLWJ2RmRyM09qT0ZNLTNjckd1cGdqR1FMd1M3TzJHdWtIZWY2azR3MGpVWGFkbG40OEF2OERpaG1Vd0dJTU5EdTI1djg4Q0VIYnNpcV9fc014dTlFZHBsMQ?oc=5",
+    "source": "뉴스1",
+    "published": "2026-08-29",
+    "keyword": "디지털교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "경남교육청"
+    ],
+    "summary": "경남교육감은 학력과 인성을 함께 길러 교육 본질을 바로 세우겠다고 밝혔다.",
+    "implication": "학력 향상과 더불어 협력, 배려 등 인성 함양 활동을 교과 수업에 접목할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Editorial: Artificial intelligence in educational technology: innovations, impacts, and future directions",
+    "url": "https://doi.org/10.3389/feduc.2026.1890876",
+    "source": "openalex",
+    "published": "2026-08-27",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "개인화 학습"
+    ],
+    "summary": "본 논문은 AI 교육 기술의 혁신과 영향을 분석하며, 특히 생성형 AI, 맞춤형 학습, 메타인지 등을 다루면서 개인화-인간 주체성, 효율성-성찰, 지원-의존성 간의 핵심 긴장을 조명하고 책임 있는 교육 통합 방향을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Sergio Ruiz-Viruel",
+    "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1890876/pdf"
+   },
+   {
+    "n": 2,
+    "title": "Navigating Subject-Specialization Mismatch: The Lived Experiences of Arabic Education Graduates in Non-Arabic Classrooms",
+    "url": "https://doi.org/10.12688/f1000research.188948.1",
+    "source": "openalex",
+    "published": "2026-08-27",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "필리핀 봉가오에서 비아랍어 과목을 가르치는 아랍어 교육 전공 교사 7명을 대상으로 한 질적 사례 연구를 통해 전공 불일치가 교사의 수업 효과성 및 학생 학습 성과에 미치는 부정적 영향을 밝히고, 전문성 기반 교사 배정 등 교육 정책 개입의 시급성을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Mohammad Ridzkan A. Abdurajak, Daniel A. Talaugon 외 1명",
+    "pdf": "https://f1000research.com/articles/15-1433/pdf"
+   },
+   {
+    "n": 3,
+    "title": "REVOLUTIONIZING TEACHING, LEARNING AND ASSESSMENT METHODS IN NIGERIAN TERTIARY INSTITUTIONS: THE TRANSFORMATIVE POWER OF ARTIFICIAL INTELLIGENCE (AI) TOOLS",
+    "url": "https://doi.org/10.70382/mejaee.v13i8.0144",
+    "source": "openalex",
+    "published": "2026-08-24",
+    "keyword": "edtech",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 문헌 분석을 통해 나이지리아 고등 교육 기관의 수동적 교수학습 평가 방식을 AI 도구로 혁신하여 교육 효과를 극대화하는 방안과 그 윤리적 고려 사항을 탐구합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "AYINLA AKEEM AZEEZ, Moses Kagbo Tsobaza 외 1명",
+    "pdf": "https://mediterraneanpublications.com/mejaee/article/download/1392/1398"
+   },
+   {
+    "n": 4,
+    "title": "The Positive and Negative Impact of AI Tools in Teaching and Learning Pedagogy and Assessment on the Performance of the Institution",
+    "url": "https://doi.org/10.38124/ijisrt/26jun705",
+    "source": "openalex",
+    "published": "2026-08-27",
+    "keyword": "edtech",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 학생, 학부모, 교사 설문조사를 기반으로 AI 기반 교육 혁신 교수법을 통합하여 기관의 성과 향상을 위한 자체 평가 및 개발 프레임워크를 제시하며, 미래 교육 변화를 위한 필수적인 리더십을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Mahesh Padmanabha Iyer",
+    "pdf": "https://www.ijisrt.com/assets/upload/files/IJISRT26JUN705.pdf"
+   },
+   {
+    "n": 5,
+    "title": "A Classroom Discourse Analysis of Technology Integration Practices in Higher Education",
+    "url": "https://doi.org/10.56201/wjimt.v10.no5.2026.pg15.28",
+    "source": "openalex",
+    "published": "2026-08-26",
+    "keyword": "edtech",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "나이지리아 5개 대학에서 AI, XR 등 첨단 기술 통합 교실 담론을 비판적으로 분석하여 기술이 지식 생성과 교육 구조에 미치는 해방적이고 제약적인 사회언어학적 역학을 규명하며 실무자에게 통찰을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Imikan Nseobong Nkopuruk",
+    "pdf": "https://iiardjournals.org/get/WJIMT/VOL. 10 NO. 5 2026/A Classroom Discourse Analysis 15-28.pdf"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "\"일회성 대화도 저장 가능\"...오픈AI, 챗GPT 임시 채팅 기능 강화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214569",
+    "source": "AI Times",
+    "published": "2026-08-28",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT",
+     "개인화 학습"
+    ],
+    "summary": "오피니언: 임시 대화 저장 기능 강화는 AI 서비스의 사용자 데이터 관리 유연성을 높여 개인화 및 활용도 증진에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[8월28일] 엔비디아는 왜 허깅페이스를 인수할까…\"오픈 모델 다운에서 배포로\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214542",
+    "source": "AI Times",
+    "published": "2026-08-29",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "Hugging Face"
+    ],
+    "summary": "엔비디아가 허깅페이스를 인수한다면 AI 하드웨어 기업이 오픈 모델 배포 및 서비스 영역으로 확장하며 생태계 주도권을 강화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "구글, ‘제미나이 옴니 1.1 플래시’ 공개…영상 생성·편집 제어 기능 대폭 강화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214576",
+    "source": "AI Times",
+    "published": "2026-08-28",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Gemini",
+     "영상·이미지 생성"
+    ],
+    "summary": "구글의 영상 생성·편집 제어 기술 강화는 멀티모달 AI 경쟁을 격화시키고 미디어 콘텐츠 시장의 혁신을 주도할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "메타, 80억 소형 AI로 ‘클로드 오퍼스 4.5’급 성능 구현…‘에보하네스-RL’ 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214593",
+    "source": "AI Times",
+    "published": "2026-08-29",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Meta",
+     "Claude"
+    ],
+    "summary": "메타의 80억 파라미터 소형 AI 고성능 구현은 AI 기술의 효율성과 접근성을 혁신적으로 높여 산업 생태계를 재편할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "2.4조 파라미터로 맞붙은 Qwen3.8-Max vs GPT-5.6… 알리바바, 오픈AI 주력 모델 정면 겨냥",
+    "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxOU29JcnFVUDlWV3o1SnEzLTNHNzR6ZlJhbWxjR09CVWQ0c1V4T0JUS3VHUU5qX1FKXzJmQjJ5emViUHRLOEVQR3dJcVViaEpkTFNjMnd2a3pRTmlTWFV0LXpEZ3JKR3UyU2Ywa1FkXzUzQU9kdTFHRkdZb25DamU2Z3BzNGh0M05yNVdZakx1MVA3NEJrcWhzV3QwM3A2NjZyMUJIaEt3V3hqNThSdkR0TEJFVTkzU25CS3p6RFplb1o5NElTYTlSN0VMc0hqM2hSTC1PX2xaaWdnajRTSmhxNDJlcGh6dF90Mlc4Q19samhZTGswTncyYzNaTkhHRTEwV3FOR3MwQUFBcnBKWWNyREtzQW1YZkJ1XzFmX0RwTC1XS2FRNGhJMHZDR1UxLUR5MHFweDFwQXBVbW9kbjZwTUFQWUplUzdpQWViZHV3eXR3SC1YT04wYUV4ekcxM0MwdWVpeTNkWHFLdlRqWXVlb0c0WnpqczJ3QlhiNENHVF9vNExLUzRBY09mTHI?oc=5",
+    "source": "Yellow.com",
+    "published": "2026-08-28",
+    "keyword": "Anthropic",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Alibaba",
+     "OpenAI",
+     "LLM"
+    ],
+    "summary": "알리바바의 초거대 모델 도전은 AI 기술 생태계의 경쟁을 심화하고 LLM 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "텐센트, 차세대 모델 'Hy4 프리뷰' 오픈 출시로 기업용 시장 정조준",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214596",
+    "source": "AI Times",
+    "published": "2026-08-29",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [],
+    "summary": "텐센트의 차세대 기업용 AI 모델 오픈 출시는 대형 기술 기업 간 기업 시장 경쟁을 심화하고 전 산업의 AI 도입을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "Z.ai, 'GLM-5.3' 오픈 공개…일부 지표서 GPT-5.6 솔 넘어",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42SjZtZjJJTHlzY21mTmFWZzJ2MVR1eFpLeU54MXpDa2JoMHNzR2lUTWF4anlRNnVVX0x4VE01d0ItZHNwalEzcXRCOHRBdkJtRlFWNDc4SXlKZDItdXJjQzZ1Y3Q1elk3eHhEbXhBdnV3VWs?oc=5",
+    "source": "디지털투데이",
+    "published": "2026-08-28",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "Z.ai의 GLM-5.3 성과는 AI 기술 주도권 경쟁 심화와 시장의 급속한 진화를 촉진하는 핵심 동력이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "앤트로픽, AI와 물리 장비 잇는 'MHS' 공개...\"MCP 피지컬 AI 버전\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214531",
+    "source": "AI Times",
+    "published": "2026-08-28",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Anthropic"
+    ],
+    "summary": "앤트로픽 MHS는 AI가 물리 장비와 직접 연결되어 실제 세계를 제어하는 시대를 열어, AI 기술의 적용 범위와 산업 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "Anthropic, Claude 에이전트가 10가지 정렬 실패를 완화했다고 보고",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUkZYY2t1TnRNN01IZnpHRlE5aVhsd1pWblA4Ul96VWhnbUNzS28yT3dwM0ZjeGVvNDlMQ1A0ZWNUaVl6ZmV0N1VGSU10OXhuY2Y5YzM0S1NuTFliWHBuUXpSUndrSllXcXFtRUxXTHA1NGRjOTFxdDNTelQxMldpWHZMUVhrUkphWU94WF9BbW8xZXM?oc=5",
+    "source": "Unite.AI",
+    "published": "2026-08-28",
+    "keyword": "Anthropic",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude",
+     "에이전트"
+    ],
+    "summary": "Anthropic의 Claude 에이전트 정렬 개선은 AI 시스템의 안전한 상업적 배포를 위한 핵심 단계이며, 산업의 신뢰도를 높일 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "[S-이슈] 엔비디아 밖에서 열린 ‘HBM 제2전선’… 삼성전자, 오픈AI 타고 SK하이닉스 추격 공식 바꾼다",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01d2FEQjMtc2g1T0JhVi1nemd2R1BIdlNWbTA0WS1tZ25tT0M0MnJLS0x4NkgyLVpRQlhaLWs5N0VGVkgzQTVPa1NtSnZRNUIxRGpQdlhUQUJERk50NzBkU1V1bjVfLXFIWmtnQ1RB?oc=5",
+    "source": "S저널",
+    "published": "2026-08-28",
+    "keyword": "오픈AI",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "삼성",
+     "OpenAI",
+     "SK"
+    ],
+    "summary": "삼성전자의 오픈AI와의 HBM 직접 협력은 AI 하드웨어 공급망 다변화와 함께 HBM 시장 경쟁 구도를 재편할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

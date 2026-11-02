@@ -1,0 +1,409 @@
+{
+ "date": "2026-04-18",
+ "generated_at": "2026-11-02T11:55:15+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[조학규 칼럼] 지금 우리에게 필요한 교육감의 조건",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5haFRsUU1iWVotbzBZY3NNcVNKWTVGU0J3SmFuY0ZzMDZ0RHRXSUVpNXROdUNaelNVTGhUVUp0cG81NHFWaHBVYWpSSkxQbkJSLVdiWWZWbl81eG0zMklLRi1TdUhmN0ZL?oc=5",
+    "source": "에듀프레스",
+    "published": "2026-04-17",
+    "keyword": "현장교사",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 2,
+    "title": "생성형 AI에서 에이전틱 AI로 - 자율제조를 위한 AI 에이전트 시스템과 정책적 시사점",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUG1oYXhmZU96anFCVkxWMTlZU1BtMDdPbzN3NlJIZzllamdTV2UtQ083dUtNMUVsUTZ0elVEQThNaGZONlRqNjdodWhMNzhSdTU4V2JYcjhiTy1wQWNNbjN1WkNyZHoyZ2l5MUd1aWxyNjZsZEwtck1GbUlaVWY2bw?oc=5",
+    "source": "KDI 경제교육·정보센터",
+    "published": "2026-04-17",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "에이전트"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 3,
+    "title": "AI로 진로교육 바꾼다…인천시교육청 교사 역량 강화 본격화",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ObDFqMUU0cFJwRmxucFNLdkdnZjhPcXNhX1RHVnJoMjBub1Q5WjNKQlhwbHJUWFlBemJOOWQ3QVhHU3FXam1GalE0dTNwaWlyVmlqZVZnRFk5WklLbmhUdXg5VVJGMzc1eThwdjNfaWlpdVhvSjVLb2pB?oc=5",
+    "source": "로이슈",
+    "published": "2026-04-17",
+    "keyword": "생성형AI교육",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 4,
+    "title": "대전시교육청,‘질문하는 힘’키우는 IB로 미래 교육의 해법 찾는다",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE15MFdfam9ETE45YnZoMjB1QkJwTGRTX1k2eWxyVjYxSG54NDV3TFhTdlZESUpJMm5yWnlHQl9GSmlwbmV4Z2t3MjByazM?oc=5",
+    "source": "시사일보",
+    "published": "2026-04-17",
+    "keyword": "교육정책",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 5,
+    "title": "인천시교육청, ‘강화에듀투어’ 운영…미래교육 현장 연수 확대",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOQ3BqZDJydWs5bkMxSDBPNmpaT193cy0wRmQ1TjlHaV9ONmtOOFV0X0oybTZRcWxVYmowUFZESE5keGNZTlJNMW12Mk54YmQzMThKVGwxNE50cGNKeV82WXQwNjk?oc=5",
+    "source": "매일일보",
+    "published": "2026-04-17",
+    "keyword": "교육현장",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 6,
+    "title": "충남교육청, 2026년 신규 임용 체육교사 역량강화 배움자리 운영",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zSTVBWl9yQl9aYzJMOEVEdXVaV1pFbDh0Q2JUazlXQ1JQZTU2WWFZYzNTRldFLVZ1dFpUMmo4NjF6Vy1Udmd6WXV5MFM5T1lURUNXdTJzTkVoS0lwN2Q4cU1fel9aeWlrSGVB?oc=5",
+    "source": "일간투데이",
+    "published": "2026-04-17",
+    "keyword": "현장교사",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 7,
+    "title": "경기도교육청, 에듀테크 활용 수업 연구의 장 마련",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBfWGUwS2hhZXNhZ2FyaFJhNzgtTlkwQ2dNWHVxWXFaZzF1N01mTkNvUERlN255U1U1UXFxN195dHNxYUQyVUh0Y09fSG9HalZNQUt6bVV3WDJ2c0pqd0RzOVZINA?oc=5",
+    "source": "매일일보",
+    "published": "2026-04-17",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "충남교육청평생교육원, “교실 밖 배움의 즐거움” 문해교육 현장체험학습 실시",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXd0R0eXAzdGRKY3JXQ19zcUlEbTJxaXJCQTVTTS1ScUQ4S0RueXJsU3lGZW5LdnFZcjZFRUlXZi1aQTdGQnU3eElqSURXZGQxWG1GMEQ1bFNfY0NxZkgzanNXQ05uNEN0WUE?oc=5",
+    "source": "뉴스밴드",
+    "published": "2026-04-17",
+    "keyword": "교육현장",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "대전교육정책연구소, 공동연구진 협의회 운영…현장 중심 정책연구 강화",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hM3NGMzJMRVFmWVVKaHlCMllud1BnSkdxcmY5VHBpX2JfRmJPWFcxYXpaanc1TGxwMGo5am11d1NfTEE1d00tenMxVmxsckVUekgzbWRFdno3QVR5Z0Y0cDFjdkpaLXJFWVFhT29QcDRrNXc?oc=5",
+    "source": "충남일보",
+    "published": "2026-04-17",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 10,
+    "title": "몽골 유치원·중·고등학교 교사 및 학생 80명, ‘AI 새로운 새대의 교육정책 방향’포럼에 참여",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KR2x3aFc3RHhNTENmYUNDZVhDMzh4VlllZFU1MDBNRHl0eDNadTZ2eDBJWTBIQUY2VnFaSEEyM29URjhpelVVREVHenEyRXlkeUp5SkJhLXpnSlJ6SEFkU1Z3T1YtQVk?oc=5",
+    "source": "파주에서신문",
+    "published": "2026-04-17",
+    "keyword": "교육정책",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Backward Design – An Innovative Instructional Model in Planning Higher Education Courses",
+    "url": "https://www.semanticscholar.org/paper/0f3915b025590bf64caef54ac2a3048fbbb3341a",
+    "source": "semantic_scholar",
+    "published": "2025-02-07",
+    "keyword": "backward design",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 Backward Design 모델을 활용하여 예비 영어 교사 교육 과정 개발 사례를 분석하고, 학습 결과 중심의 교육 설계가 고등 교육의 효과적인 학습 경험 창출에 기여함을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "I. Lungu",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "EdTech Startups and Their Impact on Traditional Learning ModelsHybrid Classrooms: Redefining the Role of Teachers and Learners",
+    "url": "https://www.semanticscholar.org/paper/2f9193814e801992a55580f0c9e716058845c549",
+    "source": "semantic_scholar",
+    "published": "2025-04-22",
+    "keyword": "edtech",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "인도네시아 자카르타의 학교와 EdTech 허브에서 질적 연구를 통해 EdTech 스타트업이 전통적 학습 모델에 미치는 영향과 하이브리드 교실이 교사와 학습자의 역할을 재정의하며, 디지털 불평등 등의 과제 속에서도 학습자 자율성과 맞춤형 학습을 증진함을 밝힙니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Digvijay Pandey, Khurshed Iqbal",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Integrating Character Values and EdTech Media: A Study of Arabic Teachers' Pedagogical Competence in Bandung Raya",
+    "url": "https://www.semanticscholar.org/paper/d1337ae43a01dc6994acece40330a255ce4b3abb",
+    "source": "semantic_scholar",
+    "published": "2025-08-30",
+    "keyword": "edtech",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "AI 리터러시",
+     "교사 연수"
+    ],
+    "summary": "반둥 라야 지역 아랍어 교사들의 수업에서 종교적 가치 강화는 활발하지만, 디지털 리터러시 부족과 접근성 제한으로 에듀테크 활용이 미흡하여, 교사 연수와 제도적 지원을 통해 디지털 역량과 인성 교육 융합을 강화해야 함을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Yayan Nurbayan, A. Sanusi",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "Leveraging Interactive Learning by Integrated Assessment Software in EdTech: Enhancing Sustained Learning Outcomes with Mentimeter",
+    "url": "https://www.semanticscholar.org/paper/b8f923e71956268c003d41de7bfe6ca27f3acf68",
+    "source": "semantic_scholar",
+    "published": "2025-05-12",
+    "keyword": "edtech",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 교육 현장에서 멘티미터와 같은 상호작용적 프레젠테이션 소프트웨어를 활용하여 실시간 피드백 및 평가를 제공하고, 학생 참여도와 협업을 증진시켜 지속적인 학습 성과를 향상시키는 교육적 효과를 데이터 기반으로 분석하고, 디지털 교육으로의 전환을 가속화할 수 있음을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "S. Deshmukh, Vinay Kulkarni 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "EdTech as a Tool for Promoting Student Autonomy",
+    "url": "https://www.semanticscholar.org/paper/8ae7adc60a65943e446c942d3ddcf361adfa4f7b",
+    "source": "semantic_scholar",
+    "published": "2025-06-27",
+    "keyword": "edtech",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 아체 지역 고등학생 및 교사 인터뷰와 관찰을 통해, 교육 기술이 자료 접근성, 즉각적인 피드백, 자기 주도 학습을 지원하여 학생 자율성을 증진하며, 교사의 지침과 학생의 의견이 EdTech 활용에 시너지 효과를 낸다는 점을 밝혀 교육과정 설계에 시사하는 바가 큽니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ulfa Suwadini, Nyak Mutia Ismail",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "오픈AI, '코덱스' 데스크톱 앱 대폭 업데이트...\"맥에서 컴퓨터 조작\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=209392",
+    "source": "AI Times",
+    "published": "2026-04-17",
+    "keyword": "",
+    "topic": "product",
+    "kind": "opinion",
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "오픈AI의 코덱스 업데이트는 개발 생산성 향상과 AI 기반 자동화 확대로 이어져, 소프트웨어 개발 방식의 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "‘AI 시대’ 속 어도비의 전략은?… 챗봇에 들어간 에이전트형 AI",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=209421",
+    "source": "AI Times",
+    "published": "2026-04-18",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "에이전트",
+     "개인화 학습"
+    ],
+    "summary": "어도비의 에이전트형 AI 도입은 창작 도구의 자동화 및 개인화를 심화시켜 AI 기반 생산성 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "알리바바, '에이전틱 코딩' 강화한 고효율 오픈소스 '큐원3.6-35B-A3B' 출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=209406",
+    "source": "AI Times",
+    "published": "2026-04-17",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Alibaba",
+     "코딩 AI",
+     "오픈소스"
+    ],
+    "summary": "알리바바가 적은 연산 자원으로도 높은 성능을 구현하는 초고효율 AI 모델을 선보였다.알리바바는 16일(현지시간) 전체 350억개의 매개변수 가운데 약 30억개만 연산에 사용하는 희소 전문가 혼합(MoE) 구조를 적용한 오픈소스 AI 모델 ‘큐원n3.6-35B-A3B’를 출시했다.가장 큰 특징은 압도적인 효율성이다. 전체 매개변수 규모는 대형 모델 수준이지만",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+    "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
+    "source": "OpenAI Blog",
+    "published": "2026-04-13",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "에이전트",
+     "OpenAI",
+     "ChatGPT",
+     "코딩 AI"
+    ],
+    "summary": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 5,
+    "title": "엔비디아, 양자 컴퓨팅 시대를 이끌 세계 최초 오픈소스 양자 AI 모델 공개",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE02bHFSVmhTbE9JQi1NcmxQZGczd1pRTVZkX0lWX1d5VUV5WG1zaF92amZfQklEcE9HT0FlYnItRWQ3bXUxdWJUS2ZqaHFJZ0xxYjhkLXFaT0tZbVEtWnVBb0NHeE1nR2RkdFN1dFh1SFB5YWtrN0JZ0gF3QVVfeXFMTTZscVJWaFNsT0lCLU1ybFBkZzN3WlFNVmRfSVZfV3lVRXlYbXNoX3ZqZl9CSURwT0dPQWVici1FZDdtdTF1YlRLZmpocUlnTHFiOGQtcVpPS1ltUS1adUFvQ0d4TWdHZGR0U3V0WHVIUHlha2s3Qlk?oc=5",
+    "source": "머니네버슬립",
+    "published": "2026-04-17",
+    "keyword": "AI모델",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "오픈소스"
+    ],
+    "summary": "엔비디아의 오픈소스 양자 AI 모델 공개는 양자 컴퓨팅과 AI 융합 연구를 가속화하고, 관련 기술 혁신 및 산업 발전에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "구글, 크롬에서 탭 전환 없이 웹 탐색하는 'AI 모드' 기능 확대",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=209394",
+    "source": "AI Times",
+    "published": "2026-04-17",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "구글의 AI 모드 확대는 웹 브라우저의 AI 통합 경쟁을 심화시키고 사용자 경험 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "앤트로픽, 런던 사무소 대규모 확장…오픈AI와 유럽 AI 허브 경쟁",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=209408",
+    "source": "AI Times",
+    "published": "2026-04-17",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Anthropic"
+    ],
+    "summary": "앤트로픽의 런던 사무소 확장은 유럽 AI 시장 선점을 위한 오픈AI와의 경쟁 심화와 동시에, 유럽을 미래 AI 기술 허브로 육성하려는 움직임을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "기술 17/4: OpenAI, 생의학 연구를 위한 GPT-Rosalind 출시.",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNam9scU12dkNuVVNYRnE3V3VqMnV3WWhQdTNqRWk2bU5RVngtS2o0c2JaaEExLWhzcGpzTzVoc3FEY3R5VG5zVlBsbFhEeWNaVHcyQjM2SzI0YkVEYVl2dS03UTljV3NRMk8tVl9HeUNGbnFiaUlLMGQ4WEc3N2FObFNUS0daeXdhYVpKWWNGODZ5NWtTdlJ3?oc=5",
+    "source": "Vietnam.vn",
+    "published": "2026-04-17",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "OpenAI의 GPT-Rosalind 출시는 AI가 생명과학 연구 혁신을 가속화하고 신약 개발 및 질병 연구에 지대한 영향을 미칠 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "Accelerating the cyber defense ecosystem that protects us all",
+    "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
+    "source": "OpenAI Blog",
+    "published": "2026-04-16",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "Leading security firms and enterprises join OpenAI’s Trusted Access for Cyber, using GPT-5.4-Cyber and $10M in API grants to strengthen global cyber defense.",
+    "implication": "",
+    "ai": false
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

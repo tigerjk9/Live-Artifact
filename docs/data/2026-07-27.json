@@ -1,0 +1,416 @@
+{
+ "date": "2026-07-27",
+ "generated_at": "2026-11-02T11:40:34+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[데일리 AI 뉴스 | 특별기고] AI 산업, '에이전트'를 넘어 '에이전틱 AI' 시대로…",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA3NHotbFZGYUF3dVZ1RWNYX3BOZVpaY1BTSGFIU2RHTjlVSDFpR2NkV09KQ0l3TTdnNktYYnMxTlVpWTktdlJPM2lZdFdNc3RQLU40UkFWV0R4OUlzaUM3RXFMOGN6dFczSmIzcXRfUGtTLXPSAXNBVV95cUxQNzR6LWxWRmFBd3VWdUVjWF9wTmVaWmNQU0hhSFNkR045VUgxaUdjZFdPSkNJd003ZzZLWGJzMU5VaVk5LXZSTzNpWXRXTXN0UC1ONFJBVldEeDlJc2lDN0VxTDhjenRXM0piM3F0X1BrUy1z?oc=5",
+    "source": "데일리뉴스",
+    "published": "2026-07-26",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "AI 산업은 기존 에이전트 AI를 넘어 스스로 목적을 설정하고 행동하는 에이전틱 AI 시대로 진화하고 있습니다.",
+    "implication": "학생들에게 AI가 단순 명령 수행을 넘어 자율적으로 목표를 추구하는 에이전틱 AI의 발전 방향을 설명할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "충남교육청, 수학수업 설계·평가 방법 등 논의",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93ZWtaX0JoNG9SeVVtZUFtZTE4c2FSUUtjX19BNEREVUNmSDFXRS1YaGxNYzhYZ1BoWEtlWTA5VWtNS0UwTnZaSU1iWnItUWNwZHV2LWk2SUJ6RVVxTHBqemU5Q09mNDRBemc?oc=5",
+    "source": "금강일보",
+    "published": "2026-07-26",
+    "keyword": "현장교사",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "충남교육청이 수학수업의 설계 및 평가 방법에 대해 논의했습니다.",
+    "implication": "교육청에서 논의된 수학수업 설계 및 평가 방안을 수업에 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "경기도의회 김영희 의원, 교육정책은 철저히 학교 현장 기준으로 설계돼야 > 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wWTlNakUyNUg0RU5iMDZoT2RGcVVKVlQ4RVRySEJoelBWMF9nZkFSVFJLdWhPeDFDN2xrQXJhX015X3B1NVFCOW5JamVNN05lYjk5TUhJbGthRVhoSzZjWUkzdFh2bS1MRjJEU2RIZnM?oc=5",
+    "source": "더코리아",
+    "published": "2026-07-26",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "경기도의회 김영희 의원은 교육정책이 학교 현장의 기준에 맞춰 철저히 설계되어야 한다고 강조했습니다.",
+    "implication": "이러한 정책 방향은 현장 교사들이 수업 방식과 내용을 더 자율적으로 결정할 수 있는 기회입니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "경북교육청, AI교육·책임교육 등 미래교육 과제 심의",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04aGtGc2Q4VnVkbU4wWnlpZ3hoWkplT2hjMUMwVTdEcVJOT2pvUWpPalRSb1A0WV9BaGFUNXFDWG40V3pSa2NUTGRfRkJNQWtLS0FKWEVGaUU?oc=5",
+    "source": "경북신문",
+    "published": "2026-07-26",
+    "keyword": "인공지능교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "경북교육청"
+    ],
+    "summary": "경북교육청이 AI 교육과 책임 교육 등 미래 교육 과제를 심의했습니다.",
+    "implication": "경북교육청의 AI 교육 심의로 우리 반 수업에 AI 도구를 적용해 볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "김영희 경기도의원, 교육정책 실행력 강화 주문",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10Y2g5aHhLdGVvaXJmQ2o3cV9BQlpiZ242X3laU0FieXF0TG9jbGs1d0hYMDJjZWxGWE9HOHFWLV9mdWRCMmluUjdrTU5vMWRHVEdSNWczZWhzSWZKLTd0Njc3aGMtVFZ2WDJZcnpNVDY?oc=5",
+    "source": "신아일보",
+    "published": "2026-07-26",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "김영희 경기도의원은 교육정책의 실행력 강화를 주문했습니다.",
+    "implication": "교육정책 실행력 강화로 수업에 적용될 정책 변화를 미리 파악하고 준비할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "[기획특집/미국이 강대국인 이유(6)] 대학을 국가전략의 중심에 둔 교육정책",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1wTFdQTHNmdWdIWTZHbHFGZFpWRVlVMzkzZjZONXY4QVdTelJSazJWMFlRSUF3TFh3cDlHR2ZhX0NvTVllQWk3RkM2c2ItYW5HZ1FBY0tNMDRoMHQ4X3p6Z1pKT1hUZzlNR01rS0pn?oc=5",
+    "source": "전국시민의소리",
+    "published": "2026-07-26",
+    "keyword": "교육정책",
+    "topic": "higher_ed",
+    "kind": "feature",
+    "entities": [],
+    "summary": "미국 교육 정책이 대학을 국가 전략의 중심에 두어 강대국이 된 이유를 설명한다.",
+    "implication": "학생들에게 배움이 미래 국가 경쟁력과 연결될 수 있음을 안내하여 학습 동기를 유발할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "교육청, 'AI 기반 맞춤형 수업 설계 연수’",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBib25YbWI1UXdxRmFwbDhNeTBPcS1oSVlqRjI3aktfeUxob29PNGdpS0JzaThuWkNxTFV0ZWFqOGxkVnRRM3FWSkZpT2FqZTBDUU5qcDliQjlUQXZBZmFjcmM1ZkxJVHk1Z1hocnphdw?oc=5",
+    "source": "하동뉴스",
+    "published": "2026-07-26",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "교육청이 AI 기반 맞춤형 수업 설계를 위한 연수를 개최합니다.",
+    "implication": "AI 연수를 통해 학생 수준에 맞는 맞춤형 수업을 직접 설계할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "경기도교육청, '폰 프리 스쿨' 300교 추진…학생자치 중심 운영",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JbGVqRzc3WlFBUFl2NXRpcEd2WElJcldKeFNXa3pKQlExLTlkNGwwQWhrM2U2Wl9Ta2tYenVSMW5YWTFXOHJOZ21oOFRLeWtLT0F3anI3Z0JBdjB5OHZUNmstSkJKdzU0YnpwX01rREJoV28?oc=5",
+    "source": "오늘경제",
+    "published": "2026-07-26",
+    "keyword": "에듀테크",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청은 300개 학교에서 학생자치 중심으로 '폰 프리 스쿨'을 추진합니다.",
+    "implication": "학생들이 주도적으로 휴대폰 사용 자치 규칙을 정하는 수업 활동을 진행할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "울산교육청, “나만의 수업 빛깔 찾는다” …중등 교원, 학생 중심 수업 역량 높여",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwaElrVUd5OURhYndRbE1VdDNlLVByT3lXTUYwMkFlSTlhOV8zcGZZSHdIR1RvSVpJUUVNYmJ6MEoxSzBhOWlmS3VfN2FsRnR4X3ZxSkkyUjlra0dUMWt5WFpJMA?oc=5",
+    "source": "경남도민뉴스",
+    "published": "2026-07-26",
+    "keyword": "AI디지털도구",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "울산시교육청"
+    ],
+    "summary": "울산교육청은 중등 교원의 학생 중심 수업 역량 강화를 통해 개성 있는 수업을 찾도록 지원합니다.",
+    "implication": "학생 중심 수업을 위해 저만의 개성 있는 교수 방법을 찾아 수업에 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "안퐁구는 직원과 공무원의 디지털 역량을 강화하기 위해 AI 에이전트 응용 프로그램 교육을 실시하고 있습니다.",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSV9PR3NhZnc4NmFrSjAtS2poN1ZQdUJpc3NJd0ttbWQ5aFRtdG5KSXFVZkc1N3Q4V0c4U1o2eHgyZmlOYjdQNUkwdW1ERHVUbjRfZDBReXg1aG9Zc05DYU0yNGpETzk1M3pvMmx3cC1acWRUOGI0b1NyS19XN3g5ckdwdGdBdHNyYlY1WnZQZmlIYUlIYVQ1bHlpTlVEQm9OalFlYVVGbmtMUnc4cHRMcDN6elViQ3ZrYXc?oc=5",
+    "source": "Vietnam.vn",
+    "published": "2026-07-26",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "안퐁구는 직원과 공무원의 디지털 역량 강화를 위해 AI 에이전트 응용 프로그램 교육을 실시하고 있습니다.",
+    "implication": "학생들이 미래 사회에서 AI 에이전트를 효과적으로 활용하도록 수업에서 관련 도구를 탐색해 볼 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Evidence-Based Differentiated Instructional Methods: Foundation for an Intervention Programs in Social Studies",
+    "url": "https://doi.org/10.65339/ijsair.v2.i3.804",
+    "source": "openalex",
+    "published": "2026-07-25",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "정성적 탐색 연구를 통해 사회과 차별화 교수법이 학습자 성과에 긍정적이나 교사 구현에 어려움이 있음을 밝히고, 포괄적 교육 강화를 위한 중재 프레임워크와 지원 방안을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Arvin Nikko Tacorda",
+    "pdf": "https://ijsair.com/index.php/ijsair/article/download/938/924"
+   },
+   {
+    "n": 2,
+    "title": "Utilizating Artificial Intelligence Magic School Apps and Invideo. Ai In Designing Lesson Plans",
+    "url": "https://doi.org/10.24903/sj.v11i2.1893",
+    "source": "openalex",
+    "published": "2026-07-24",
+    "keyword": "SEL education",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "이 연구는 Magic School 앱과 Invideo.ai를 활용한 혁신적 수업 설계의 잠재력을 TELL 과정 학생 6명의 질적 사례 연구를 통해 탐구하며, AI가 학습을 개인화할 수 있지만 효과적인 활용을 위해 교수자 감독이 중요함을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ratu Sarah Pujasari, Melisa Sri 외 1명",
+    "pdf": "https://jurnal.fkip-uwgm.ac.id/index.php/Script/article/download/1893/1216"
+   },
+   {
+    "n": 3,
+    "title": "From Evidence to Impact: Supporting Sensemaking and Instructional Revision in STEM Classrooms",
+    "url": "https://digitalcommons.usu.edu/etd2023/869",
+    "source": "openalex",
+    "published": "2026-08-01",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 전통적 교육 방식의 한계를 극복하고자 STEM 교사가 모델링, 탐구, 의미 형성 등 과학적 사고력을 증진하는 교수법을 적용하도록 지원하며, 협력적 도구 개발을 통해 학생들의 깊은 이해와 과학적 소양 함양에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Bonni Jones",
+    "pdf": "https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1879&context=etd2023"
+   },
+   {
+    "n": 4,
+    "title": "Artificial Intelligence and the Transformation of Islamic Education: AI-Mediated Communication and Ethical Challenges",
+    "url": "https://doi.org/10.24090/komunika.v20i2.15012",
+    "source": "openalex",
+    "published": "2026-07-23",
+    "keyword": "edtech",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 문헌 검토를 통해 인공지능이 이슬람 교육의 교수법, 윤리적 과제, 소통 방식을 어떻게 변화시키는지 분석하며, 학습 강화와 동시에 제기되는 오용 위험을 제시하고 신중한 전략적 도입을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Mawi Khusni Albar, Mahmud Arif 외 1명",
+    "pdf": "https://ejournal.uinsaizu.ac.id/index.php/komunika/article/download/15012/5013"
+   },
+   {
+    "n": 5,
+    "title": "The Platformized Classroom: Communicative Identity Labor, Staged Presence, and Platform Capitalism in HyFlex Learning",
+    "url": "https://doi.org/10.11114/jets.v14i4.8939",
+    "source": "openalex",
+    "published": "2026-07-22",
+    "keyword": "edtech",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 하이플렉스 교육 환경을 \"플랫폼화된 교실\"로 규정하고, 교수-학습 정체성 자본, 연출된 현존감, 교육 플랫폼 자본주의를 핵심 개념으로 하는 '물신화된 학습 경제(FLE)' 프레임워크를 통해 교육 정체성이 조작되는 현상을 분석하며, 공정하고 인간 중심적인 교육 방안을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Nur Atirah Kamaruzaman",
+    "pdf": "https://redfame.com/journal/index.php/jets/article/download/8939/7398"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "KAIST-엔비디아, 피지컬 AI 테크놀로지센터 설립…파운데이션 모델 공동 연구",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213187",
+    "source": "AI Times",
+    "published": "2026-07-26",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "NVIDIA"
+    ],
+    "summary": "KAIST와 엔비디아의 협력은 파운데이션 모델 기반 피지컬 AI 기술 개발을 가속화하여 AI 산업의 다음 핵심 성장 동력이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "엔비디아, LLM 배포 가속 '모델익스프레스' 발표...\"서버 대기 8분에서 1분대로 단축\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213179",
+    "source": "AI Times",
+    "published": "2026-07-26",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "LLM"
+    ],
+    "summary": "LLM 배포 가속화로 AI 기술의 상용화 문턱을 낮춰 산업 전반의 AI 서비스 개발과 도입을 크게 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "이젠 AI 가성비 전쟁? 오픈AI, GPT-5.6으로 판 뒤집을까 [스프]",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzVEctSl8xRzNrSGQtMnRraEMwbWFvZmVYOHUtNF9DcjBVb0dxaEFZcTBlNS1rSm16bjVKVjFRam5yQkltSHFBcUp6aXRiRW8?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-07-27",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "오픈AI의 GPT-5.6 출시는 AI 시장의 가성비 경쟁을 심화시키고, 전체 AI 산업의 기술 및 비용 효율성 표준을 재정립할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "Anthropic's Opus 5 blows past Fable 5 and GPT-5.6 Sol on the benchmark designed to measure real intelligence",
+    "url": "https://the-decoder.com/anthropics-opus-5-blows-past-fable-5-and-gpt-5-6-sol-on-the-benchmark-designed-to-measure-real-intelligence/",
+    "source": "The Decoder",
+    "published": "2026-07-26",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "ChatGPT",
+     "벤치마크"
+    ],
+    "summary": "Anthropic Opus 5의 지능 벤치마크 압도는 AI 경쟁을 격화시키고 전반적인 기술 발전을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "OpenAI, ChatGPT, 스마트 안경 및 웨어러블 장치에 진입",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE14V3N6eGo1OGZBNVRieUpONUtGSllBcDMtUVpROWNrcGF0Nmd6SEtiVGE4emZIU1NRMWdaVHA5bFhud0x2b29UdGpn0gFCQVVfeXFMTTJ2amV5SngwbVZ1djJJMndGLVhSQVJzaFczOUFjQjNoX3k4OE4xeFkxTXlkNGxaZDNhbjdFa2pjWDF3?oc=5",
+    "source": "VOI.ID",
+    "published": "2026-07-26",
+    "keyword": "AI도구",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "OpenAI의 웨어러블 진출은 AI가 소프트웨어를 넘어 일상 하드웨어에 깊이 통합되며, AI 기술 생태계를 '앰비언트 AI' 중심으로 재편할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+    "source": "Google Blog - AI",
+    "published": "2026-05-29",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Google",
+     "코딩 AI"
+    ],
+    "summary": "구글 AI 스튜디오로 'vibe'를 코딩한 퀴즈는 AI가 감성적 상호작용 콘텐츠를 손쉽게 구현하는 시대의 도래를 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "오픈AI CEO, 챗GPT 새 에이전트 기능 시연",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hZzZhWjRiQ29kcE8taUozSy1NdmxwakphTVhaVEN1cklfN0tmaVByNHU4a3pZNU5yTzd2UElVVmJPRDRyTVhJYTd3UjZ4aHRCb0k0VGVneEnSAV5BVV95cUxORnJ0cHJqWm9JcTVFMXdkWmktaV9QaWMwZkEweVpxMEhNMTE5aFdVYjhLUEVmYnZ0OU1EM2dUVElKNnJqcXV4VzFwNVFUaGU0OWJadi03Q1dhN01LRGtR?oc=5",
+    "source": "tokenpost.kr",
+    "published": "2026-07-26",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT",
+     "에이전트"
+    ],
+    "summary": "오픈AI의 챗GPT 새 에이전트 기능은 AI가 단순 대화형 서비스를 넘어 자율적 작업 수행자로 진화하며 AI 산업 전반을 재편할 핵심 동력이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "김동환 포티투마루 대표 \"국내 AI, 단순 추격 넘어 전략적 AX 필요\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212917",
+    "source": "AI Times",
+    "published": "2026-07-26",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "국내 AI 산업은 단순 추격을 넘어 산업 전반의 전략적 AI 전환(AX)을 통해 독자적 경쟁력을 확보해야 할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "엔비디아·마이크로소프트, 오픈소스 AI 공개 지지 : 글로벌",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9VVDlOUUlvbjV6REVEdGt6MUI1NVR0MjBZSjZSbEEyelNNZmZLaVlMVXNjclNBYWl0WG5BUDlpOWVrT1JocGZnYUFB?oc=5",
+    "source": "재경일보",
+    "published": "2026-07-26",
+    "keyword": "오픈소스",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "Microsoft",
+     "오픈소스"
+    ],
+    "summary": "엔비디아와 MS의 오픈소스 AI 지지는 기술 생태계 확장 및 혁신 가속화와 더불어, 자사 플랫폼 중심의 주도권 경쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "Introducing the ChatGPT for small business program",
+    "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+    "source": "OpenAI Blog",
+    "published": "2026-07-21",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "ChatGPT의 중소기업 프로그램은 AI 기술이 특정 시장에 맞춰 세분화되고 대중화되며, 산업 전반의 생산성 혁신을 가속화할 중요한 전환점입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

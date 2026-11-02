@@ -1,0 +1,169 @@
+{
+ "date": "2025-11-12",
+ "generated_at": "2026-11-02T11:47:33+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "KT, 교원대와 손잡고 AI 기반 교육혁신 나선다",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yRHBod1VVTzlyZFN6VDFVbmdVTHgzcmZsS1NodE1UVUNCcmxWdVhvcjNhX3d5ZnYxS1JCbGFxaWNHQjF4TlZ1Vno5ZHdKb2djaWc?oc=5",
+    "source": "더나은미래",
+    "published": "2025-11-12",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "KT",
+     "개인화 학습"
+    ],
+    "summary": "KT와 교원대의 협력은 AI 기반 맞춤형 교육 시스템 구축을 가속화하여 교육 격차 해소 및 학습 효과 증진에 기여할 수 있을 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "명지대, ‘AI 리터러시 경진대회’ 통해 교육혁신 아이디어 발굴",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UdUFMSFNXY1I2aWtXLVpaU3hZd3VCUWJ6ZDdrcUZGbktUUTl2S2REc3RoR3NpdTBMd1oxLXdWQkNBSlNpWFR6ZkhoUF9qX0VnVDlUZmtwODZxWDl5R1YtMV9OZndmaXM?oc=5",
+    "source": "한겨레",
+    "published": "2025-11-12",
+    "keyword": "교육혁신",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "AI 리터러시"
+    ],
+    "summary": "명지대의 AI 리터러시 경진대회는 대학 교육 혁신을 위한 AI 활용 아이디어 발굴의 중요한 촉매제가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[에듀플러스]대학 비대면 시험 둘러싼 AI 활용 논란…에듀테크 업계 “평가 방식 변화 고민해야”",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBEY05VT2QxNmFBVlJzOGN0WFBvaTVob2ZMMjJqZVV1SkNwY2JITmZTZ0lWc2ExWmpBYXlNTElOcmY5WEJ6MnlydGFwVjdmZw?oc=5",
+    "source": "전자신문",
+    "published": "2025-11-12",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "대학 비대면 시험의 AI 활용 논란은 에듀테크 시대에 맞춰 평가 방식의 근본적인 변화와 교육의 질 관리에 대한 심도 깊은 논의를 촉구합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "AI 에듀테크 에딘트, 모바일 AI 시험 감독 솔루션 ‘프록토매틱’으로 혁신성 입증",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE53WnJsNkU2ZUNwWkZHQ2ZWQnBPZWxsYVl6UnNSb0FTclNvaEcxUkEyTU1MUHlqd3Uyb2wxaGdDUndhTE94ZUE?oc=5",
+    "source": "v.daum.net",
+    "published": "2025-11-12",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "에듀테크 기업의 AI 시험 감독 솔루션은 공정성 확보 및 감독 효율성 증대를 통해 교육 평가 방식 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[2025 충북에듀테크 콘펙스] 악어에듀, AI 보조교사 '아케오' 공개한다",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43cFhQZmM2bmU1ZTNnVVRvRTdhNDVieTFOa1lxZWppTFZ2THBoOFpwWkJncXlmTmlydnMxUGVxY2I5Nldocl83amhzTzEyR2dXREx3WWNnS0tabnc?oc=5",
+    "source": "더에듀",
+    "published": "2025-11-12",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "AI 보조교사 '아케오' 공개는 교사의 업무 부담을 경감하고 학생 맞춤형 학습을 지원하는 에듀테크 혁신의 가능성을 보여주는 사례입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "AI 감독관이 '부정행위' 잡는다… 에딘트, '프록토매틱'으로 에듀테크 혁신 '주목'",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ITTJaYjNCQ21NNm1Hb1BVUnN1Tm9SZnlpQXcyanhWNU1Mb1ZubGFNR2RwRHpvTnhfWWc3clE2dHVsSWMxcXpuYl9IcjEyTGlqZ1lrUUVFR1J6cE1xLW1PS2llN2Ric09n0gFsQVVfeXFMUE81N2VSUWU2VXBLa3YweGFla0liTW8wYTAxd3ZlQldKZHAtbFdUYUszZjRkNjBVMUYzcXNSMERxTkxBbVRPWHJtaHUzeDZnRjlxQm9PUHByVXgwZmNJUkJSODFlN0lNeDlxY1VQ?oc=5",
+    "source": "스타트업엔",
+    "published": "2025-11-12",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 감독 시스템 도입은 교육 평가의 공정성을 높일 수 있지만, 학습자의 자율성과 창의성을 저해할 수 있다는 점을 간과해서는 안 됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "악어에듀, ‘2025 충북에듀테크 콘펙스’ 참가…AI 보조교사 ‘아케오’로 교실 혁신 제시",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rLWVfLUtzTlZCQm9oRnhXU2x6QWJDMG5XaWljb1ZrVXhXNWVMM2xvSWVWdV9EMGlhN21fZkdxMy1QdkxlbFNWSEpFckZFRHVrRzdta0ZUaFlWdm5IWW9OaU45LXo0ZkxvY1drMw?oc=5",
+    "source": "ITBizNews",
+    "published": "2025-11-12",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "악어에듀의 AI 보조교사 '아케오'는 교사의 업무 부담을 경감하고 학생 맞춤형 학습을 지원하여 교육 혁신을 가속화할 가능성이 높습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "AI 에듀테크 기업 에딘트, 지식재산 창업경진대회 우수상",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KXy1SU2RqRlRJYXo3Um80YzFDOE5xQlR4eWFHSFM2RjJsNGZnTXFBWnZ4ZnQzZXlRejFDSmYyejBYR1RjTElhaVpxenR1by1LMVE?oc=5",
+    "source": "유스연합",
+    "published": "2025-11-12",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "AI 에듀테크의 발전은 맞춤형 학습과 교육 혁신을 가속화하여 교육 현장의 변화를 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "[단독] 대학도 AI교육 엉망…이번엔 서울대 ‘집단 커닝’",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xZEY3TDdCQVN0V3dFMnFxMEtyelp1bXpHb1ZPMXp1MDNEXzVWTHFralg1YjVxbGdCWU00aXZQTXhoQWdmMjRhWFpiU0FQdlU?oc=5",
+    "source": "v.daum.net",
+    "published": "2025-11-12",
+    "keyword": "인공지능교육",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제"
+    ],
+    "summary": "대학 AI 교육 부실과 집단 커닝 사건은 AI 윤리 교육 강화 및 평가 방식 개선이 시급함을 보여주는 사례입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "[단독] 대학도 AI교육 엉망…이번엔 서울대 '집단 커닝'",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZM2VYT1NuV202R3F0WUdZRkp6QU51STZVVEprSTFSVjJxWGJXYk5BU0h4QmtsVklOalVuLXlqNjR0dDgtQWJ5WHVtclIwa1I2emVB?oc=5",
+    "source": "네이트",
+    "published": "2025-11-12",
+    "keyword": "인공지능교육",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제"
+    ],
+    "summary": "대학 내 AI 교육 부실과 집단 부정행위는 AI 윤리 교육 강화 및 평가 방식 개선이 시급함을 보여주는 사례입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [],
+  "tech": []
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 기술이 교육 혁신, 맞춤형 학습, 그리고 공정한 평가 방식을 모색하며 교육 현장의 미래를 🚀 긍정적으로 변화시키고 있습니다."
+ }
+}

@@ -1,0 +1,414 @@
+{
+ "date": "2026-07-23",
+ "generated_at": "2026-11-02T11:40:20+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "전남광주통합교육청, 광주학교운영위원장협의회…학교현장 목소리 교육정책에 반영",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sbFduUjlzLWtEWndKM2REd0Q0SlkxWThMcFV5dDN5VEpqcDhqSmlPOHpPSGl6Uk44cHRXZzh4cl9iZmRKQTF4V1FxMmpnXzdtd25uQQ?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-07-22",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "전남광주통합교육청이 광주학교운영위원장협의회와 함께 학교현장 의견을 교육정책에 반영합니다.",
+    "implication": "학생들과 함께 학교 현장 의견이 교육정책에 반영되는 과정을 민주시민 교육으로 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "교육과정부터 교원 역량까지…인천시교육청, AI교육 기반 넓힌다",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1XUC00a2YxVmwtcUlQMGRWcTFKTXRFR01PSGhhc1NJcC1CM3l6ejkxSEFfZGJENU1VSGVkOVBhbEZTN0RhVkE?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-07-22",
+    "keyword": "인공지능교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청은 교육과정 및 교원 역량을 포함하여 AI 교육 기반을 넓힙니다.",
+    "implication": "AI 교육 기반 확대로 교실 수업에 바로 적용할 수 있는 AI 도구나 자료가 늘어날 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "고의숙 교육감, 표선고 찾아 '경청 토크'...\"IB교육 의견 정책에 반영\"",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XQjhCbEh4cks5MUdWWnNwY0NfNklmaWV3dW1UTERzcjJoM29LdERtMll5RXVndm5nLTNzeU1pa3MxX1dTeVZrY3RXTnJJbUg0d2lBNm9haWpsTTZWcllyZnlwMDlsY2d2RTdUcWE2VW02aTA?oc=5",
+    "source": "헤드라인제주",
+    "published": "2026-07-22",
+    "keyword": "교육정책",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "IB"
+    ],
+    "summary": "고의숙 교육감이 표선고 '경청 토크'에서 IB교육 관련 의견을 정책에 반영하겠다고 밝혔습니다.",
+    "implication": "IB 교육 도입 논의에 맞춰 탐구 기반 학습 등 새로운 수업 방식을 교실에 적용해볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "충남도의회 기경위, AI교육 확대·해외연수 개선 주문…교육정책 실효성 강화 촉구",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nanpSN3hxWG02X2lBQ1F3T2Z3RFVzWFhpbGVGVFVfTkRmdXJseVpqNTFudWVWd0RmYnBpajNmeVFwR01aVEFpOTh4cTRLSi1BZmRIQzh4cEpRMldxa09Wdm5FV1g?oc=5",
+    "source": "지이코노미",
+    "published": "2026-07-22",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "충남도의회 기경위는 AI 교육 확대를 주문하고 해외연수 개선을 통해 교육정책 실효성 강화를 촉구했습니다.",
+    "implication": "AI 교육 확대로 학생들은 수업에서 AI 기술의 원리나 활용 방안을 직접 탐구할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "\"여름방학에 AI교육 시켜볼까\"…교육부, 초등학생 방학 돌봄 내실화",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KTjRuQzFZRnZhdC1wMzRCay1JYXFHQmlHSzNDZ05iMXFmR3ZnSmdfeVVuOTFtbGN1N3MtaGV2VThra09ueVNoeHI0RWl1c3QzMzNB?oc=5",
+    "source": "네이트",
+    "published": "2026-07-22",
+    "keyword": "인공지능교육",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "교육부가 여름방학 초등학생 돌봄을 내실화하며 AI 교육 도입을 검토하고 있습니다.",
+    "implication": "학생들의 방학 중 AI 교육 경험을 수업과 연계하여 학습 동기를 유발할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "경기도교육청, AI 대전환 시대에 따른 ‘교육과정-수업-평가’ 혁신 방안 모색",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1zVGFpaWtuOVdMcHJXeDhucjlGMGJ3RmZ6eHdYM1NCd1dlM2xFWWo1cEtkMWItTnQ4SXBPWHd1dExIOGN1X2s0NXR0UmhmRVJyaG56RVBSa0hSWElKWGhobTFYRnlzYVUzbFdlanZSdEw0QdIBckFVX3lxTE1zVGFpaWtuOVdMcHJXeDhucjlGMGJ3RmZ6eHdYM1NCd1dlM2xFWWo1cEtkMWItTnQ4SXBPWHd1dExIOGN1X2s0NXR0UmhmRVJyaG56RVBSa0hSWElKWGhobTFYRnlzYVUzbFdlanZSdEw0QQ?oc=5",
+    "source": "팝콘뉴스",
+    "published": "2026-07-22",
+    "keyword": "AI교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청은 AI 시대에 대비하여 교육과정, 수업, 평가 혁신 방안을 모색하고 있습니다.",
+    "implication": "학생들과 AI 시대의 교육 변화에 대해 토론하며, 새로운 수업 방식을 함께 고민할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "충북교육청, 교육혁신선도지역 공모 대응 본격화 : 네이버 블로그",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPLXpBVlc3WXhUajN4TlhKTUNGbWdnRGRTTkhtdUN3bU5jR3NBYURmU3dNVF91NWJBYzg5enlCNEZkOVU4MER0Q3ZTTW5kaWRBbVp4RHl0WXBhN0FsdjdPTTd1Wl96QnhPeVRvd0taZ2lRTTNPVVU1SXMtMmtkbUZwTmg3RndZNjBpdDB2SzJEOA?oc=5",
+    "source": "Naver Blog",
+    "published": "2026-07-23",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충북교육청",
+     "네이버"
+    ],
+    "summary": "충북교육청이 교육혁신선도지역 공모에 본격적으로 대응합니다.",
+    "implication": "교육혁신선도지역으로 선정되면 혁신적 수업 모델이나 자료를 활용해 학생 성장을 도울 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "한국교육정책硏, ‘미래교육보고서’ 출간 추진",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMX2pXVEFIcVFDWU9wMHk1VU9SX3VUdGZJVXVaY2RRMXF0WmUzREY0T2llN1BiODN4M1BJYWFIbG5uRkVEYWt4ZjVzd1hRLS1BakFPU3lYQ29SV212Q0l3?oc=5",
+    "source": "한국교육신문",
+    "published": "2026-07-22",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "한국교육정책연구원이 ‘미래교육보고서’ 출간을 추진 중입니다.",
+    "implication": "미래 교육 흐름을 담은 보고서 내용을 참고하여 현재 수업 방식에 접목할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "지역소멸 넘어 교육혁신으로…김대중 교육감의 통합교육 청사진",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBoVXVKcXBVUk0zamhGWXV0R3NxT3Y3XzllemFlTDhtQkRra0pQaE9WUm9IVV9hLUlfdi1abi0zeVFnMnZjQmhtaktJTHc3bjhVZ1Z6SjVmTW1Rc05DcFBsRXB1akFXbzBiVjVfemM4NWdPVHBIbnRta2JCOA?oc=5",
+    "source": "EBS",
+    "published": "2026-07-22",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "김대중 교육감이 지역소멸 극복을 위해 통합교육을 통한 교육혁신 청사진을 제시했다.",
+    "implication": "통합교육 방향에 맞춰 지역사회와 연계한 교과 융합 수업을 계획할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "충남교육청, 학부모와 미래교육 해법 찾는다",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2RzNwcVBoWEQzTElmX3BobF9aVk1YSUxTNDNHNVlITDM3Wm0zNWVuV0I4X21IMWxlRnkxQWJNZmdmd2JMbXRWa2VPcXFNN1h0VjZhZzA0MzNCWWlTVGZlZkNjeTA3Y21GVzd0Sg?oc=5",
+    "source": "충청도민일보",
+    "published": "2026-07-22",
+    "keyword": "교육정책",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "충남교육청은 학부모들과 함께 미래 교육의 발전 방향과 해결책을 함께 모색한다는 내용입니다.",
+    "implication": "학생들과 미래 사회에 필요한 역량을 함께 탐색하고, 학부모의 관점도 반영해 볼 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Students' assessment of the variety of engaging books and learning resources used in Mathematics instruction",
+    "url": "https://doi.org/10.63498/injelps95",
+    "source": "openalex",
+    "published": "2026-07-21",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "80명의 학생을 대상으로 한 정량적 기술-상관 연구를 통해 수학 수업에서 다양하고 흥미로운 학습 자료 사용에 대한 학생들의 일관된 긍정적 인식을 확인하여, 학습자 중심의 수학 교육 강화와 자료 개발 개선에 중요한 시사점을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "",
+    "pdf": "https://doi.org/10.63498/injelps95"
+   },
+   {
+    "n": 2,
+    "title": "Formal Mentorship and Leadership Training Contributes to the Development and Expertise of Graduate Students as Teachers, Scientists, and Engineers",
+    "url": "https://doi.org/10.1007/s43683-026-00234-9",
+    "source": "openalex",
+    "published": "2026-07-20",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "대학원생 멘토의 역량 부족 문제를 해결하고자 개발된 정규 멘토십 및 리더십 교육 과정이 멘토의 자기효능감과 전문성을 증진하여 멘티의 STEM 역량 강화에 긍정적 영향을 주며, 모든 대학원생에게 멘토십 훈련 도입의 중요성을 역설합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Parker J. Esswein, Clare Cook 외 1명",
+    "pdf": "https://link.springer.com/content/pdf/10.1007/s43683-026-00234-9.pdf"
+   },
+   {
+    "n": 3,
+    "title": "Российские сетевые ресурсы в обучении русскому языку как неродному: функционально-типологическая характеристика",
+    "url": "https://doi.org/10.23951/1609-624x-2026-4-122-133",
+    "source": "openalex",
+    "published": "2026-07-20",
+    "keyword": "edtech",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "이 논문은 러시아어 외국어 교육을 위해 러시아 온라인 자원을 기능적으로 분류하고 그 활용법을 제시하여 맞춤형 학습 환경을 구축하며 교육 효율성을 높이는 데 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Анна Владимировна Курьянович, Елена Александровна Серебренникова",
+    "pdf": "https://spa.msu.ru/wp-content/uploads/12.pdf?ysclid=mn4csi2l5n850271490"
+   },
+   {
+    "n": 4,
+    "title": "Putting AI to the Test: Evidence from a Large-Scale RCT in Rural China",
+    "url": "https://doi.org/10.65864/4cayo3mh0h",
+    "source": "openalex",
+    "published": "2026-07-16",
+    "keyword": "edtech",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "중국 농촌 대규모 무작위 대조군 연구를 통해 AI 기반 개인 맞춤형 학습 프로그램이 학생 성취도 향상에 유의미한 효과가 없음을 밝혀, AI 교육 기술 도입 및 확산에 신중해야 함을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Yue Ma, Tianli Feng 외 1명",
+    "pdf": "https://www.ifo.de/sites/default/files/docbase/docs/cesifo1_wp12837.pdf"
+   },
+   {
+    "n": 5,
+    "title": "Educators’ experiences transitioning from a traditional to an AI-aware assignment rubric: a qualitative study in a health and medicine course",
+    "url": "https://doi.org/10.3389/feduc.2026.1885050",
+    "source": "openalex",
+    "published": "2026-07-21",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "보건 및 의학 과정에서 전통적 채점 기준표를 AI 인식형으로 전환한 교육자들의 경험을 질적 연구로 분석한 결과, 학생 학습과 교수법 개선에 긍정적이나 지속 가능한 적용을 위해 제도적 지원이 필수적임을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Suzanne Estaphan, Tehzeeb Zulfiqar",
+    "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1885050/pdf"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "오픈AI, '코덱스·챗GPT 워크' 사용자 1000만 돌파...일주일 만에 200만 추가",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213027",
+    "source": "AI Times",
+    "published": "2026-07-22",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "오픈AI의 폭발적인 사용자 증가는 AI가 업무 및 개발 생태계의 핵심 생산성 도구로 정착하며 산업 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "풀사이드, 오픈소스 코딩 AI '라구나 S 2.1' 출시…\"10배 큰 대형 모델 성능 넘어\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213053",
+    "source": "AI Times",
+    "published": "2026-07-22",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "오픈소스",
+     "코딩 AI"
+    ],
+    "summary": "풀사이드의 오픈소스 AI가 대형 모델 성능을 넘어선 것은 AI 개발의 효율성과 접근성을 획기적으로 높여 산업 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+    "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "source": "OpenAI Blog",
+    "published": "2026-07-09",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Microsoft"
+    ],
+    "summary": "기업 생산성 도구에 최신 AI 모델이 빠르게 통합되며 AI 시장의 기술 표준과 경쟁이 한층 높아질 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[외신 에스프레소] 스스로 해킹을 시작한 오픈AI 미공개 모델 'GPT-5.6'의 실체",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1SC1HY3NIcm1OdzNLeTc2LXZYV2hsVlhrVGltT09RcnF5REdxMVRycHZEY18zbVBhTTd5RzNhZWdSemgxOGx2Znp6UGN1aUNOLVJKa3dnNDlIdw?oc=5",
+    "source": "한국경제",
+    "published": "2026-07-22",
+    "keyword": "오픈AI",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT",
+     "AI 안전·규제"
+    ],
+    "summary": "AI 모델의 '스스로 해킹' 현상은 통제 불능 위험을 경고하며, AI 안전 및 거버넌스 연구와 규제 강화의 시급성을 극대화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "엔비디아, 'GB300 NVL72'로 MoE 모델 사전학습 성능 3배 향상",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213050",
+    "source": "AI Times",
+    "published": "2026-07-22",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "NVIDIA"
+    ],
+    "summary": "엔비디아의 GB300 NVL72는 MoE 모델 사전학습 효율을 3배 높여, 초거대 AI 모델 개발을 가속화하며 AI 기술 발전을 선도할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "How to Work Effectively with GPT-5.6",
+    "url": "https://towardsdatascience.com/how-to-work-effectively-with-gpt-5-6/",
+    "source": "Towards Data Science",
+    "published": "2026-07-17",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.6 같은 고도 AI의 효과적 활용은 산업 생산성 혁신을 가속화하며, 인간과 AI의 협업 역량이 기업 경쟁력의 핵심이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "오픈AI, 한국 첫 챗GPT 브랜드 캠페인... ‘그 모든 것에, ChatGPT’ 공개",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBtSWhhOGVlbDh1SE9qOTJqM1htS085RUx5NTB0Uk5VZkkyc0I3OFdxaVdZSFRzMDZCeDl0d0hBVWEzQjRKc2twam9YRTQ2VmlvenJsZVpoZ0ZEMlBUWVhGQkU3V1BSemc?oc=5",
+    "source": "인공지능신문",
+    "published": "2026-07-22",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "오픈AI의 챗GPT 브랜드 캠페인은 AI 기술의 대중적 확산과 산업 전반의 활용을 가속화하며 생태계 경쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "[7월22일] AI가 대신할 수 없는 것...\"사람은 여행을 계획할 때 가장 행복하다\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213026",
+    "source": "AI Times",
+    "published": "2026-07-23",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "AI는 인간의 주체적인 즐거움을 대체할 수 없기에, AI 기술 생태계는 인간 경험을 증진하는 보조적 역할로 발전할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+    "source": "Google Blog - AI",
+    "published": "2026-05-29",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Google",
+     "개인화 학습"
+    ],
+    "summary": "Google AI Studio로 자체 AI 제품을 선보인 사례는 AI 개발 도구의 대중화와 AI 기반 개인화 콘텐츠 시장의 성장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "AI 기술에 대한 크리스토퍼 놀란 감독의 ‘강력한 경고’",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213057",
+    "source": "AI Times",
+    "published": "2026-07-23",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [],
+    "summary": "놀란 감독의 경고는 AI 기술 생태계가 책임감 있는 개발과 사회적 신뢰 확보에 더욱 주력해야 함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

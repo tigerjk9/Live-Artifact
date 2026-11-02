@@ -1,0 +1,420 @@
+{
+ "date": "2026-08-08",
+ "generated_at": "2026-11-02T11:41:13+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "(개념기반탐구학습4탄)\"저 장소엔 어떤 이야기가 있을까\" 서로의 마을을 상상한 아이들 |",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wNnNnS1lvLXhld1RwbkxWNDVDNVZhRHZUU2QwbGxXeXdEMXAzZEw3Y1JiYndELTh0MmhVQjl2YlUzT0g4M3IxS1pkczRKc0xIamhlMVBDOTRiQnBxQWFDU2FRcWxiRDhxaFBmUw?oc=5",
+    "source": "jngjedu.kr",
+    "published": "2026-08-07",
+    "keyword": "수업이야기",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "아이들이 '저 장소엔 어떤 이야기가 있을까' 질문으로 개념기반탐구학습을 하며 서로의 마을을 상상했습니다.",
+    "implication": "'저 장소엔 어떤 이야기가 있을까'와 같은 질문으로 아이들의 상상력과 탐구심을 자극할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "도성훈 교육감, 주민직선 5기 공약 실행계획 점검…교육 현장 체감도 높인다",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hbjZIM3NlOGwtd3FCS21naU45UVA5S0JUSk13aUNSdThTSDlZUzY0Wk1uTkUwWmJySElqNUYwVWlJM2lnNy11Tzl0XzVNN0taeGRZb0dsRGNlMFJjRUNQWTlWOTRJQQ?oc=5",
+    "source": "인천게릴라뉴스",
+    "published": "2026-08-07",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "도성훈 교육감은 주민직선 5기 공약 실행계획을 점검하며 교육 현장의 체감도 향상을 추진한다.",
+    "implication": "교육감 공약 실행계획에서 우리 반 학생들을 위한 새로운 교육 프로그램이나 지원책을 찾아 수업에 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "윤건영 교육감, \"AI 대전환 시대, 몸근육·마음근육·예술근육으로 미래교육 준비해야\" : 네이버 블로그",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSUhLUWpldUxQZUVuQ1N6Z2JERWhCWUZFSUdFazJjNGZhRWFETGZ1cHlpNTVEb1hEQTZXVU1VaHhIV2xwdEppQzZyNEtkQnlBcTMyanMwUjZ6ZjZkc1k2bGZHMnJwS0NnZFJwVUFWOXZLRTdnaVJVSWx3dVdMOG5fV1BpQkowZGtCM25Hd2FMcw?oc=5",
+    "source": "Naver Blog",
+    "published": "2026-08-07",
+    "keyword": "교육정책",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "네이버"
+    ],
+    "summary": "윤건영 교육감은 AI 대전환 시대 미래교육 준비를 위해 몸근육·마음근육·예술근육의 중요성을 강조했습니다.",
+    "implication": "학생들이 몸과 마음, 예술 근육을 기르도록 융합적인 활동을 수업에 도입할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "도성훈 인천시교육감, \"100개 공약\" 추진 방향 살핀다…'미래교육 정책 실행력' 강화",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqRTJlQjY2YkdNc3pyTGpka3FqbC1qY0VZYXNMTlhwOUhjRko1Wld1NTZxVnhpUVdpR1lmTXl6NTZNc2tzMEYxLXBwN0RDcXQ2MEFoQzRYSFZtQXdSaENzV0Y4RW84NmpIX1E?oc=5",
+    "source": "뉴스티앤티",
+    "published": "2026-08-07",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시 도성훈 교육감이 '미래교육 정책 실행력' 강화를 위해 '100개 공약' 추진 방향을 점검한다.",
+    "implication": "교육감의 미래 교육 정책 추진 방향을 파악하여 수업 콘텐츠 및 방법 변화를 미리 준비할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "전북교육청, 인공지능(AI)로 전국 교육정책 동향 빠르게 읽는다",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkQnIxa0RMOUhWWkt3ZVY2VnZaU3ZoMWxQTlZweldpcHRkWUt0anktdmhBZGF4YVc3UlppYmpJUE9uM3pYaVdtNkh1WFNKYmJhM0JldjBHcnVDRVlY?oc=5",
+    "source": "아시아뉴스통신",
+    "published": "2026-08-07",
+    "keyword": "생성형AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "전북교육청"
+    ],
+    "summary": "전북교육청은 인공지능을 활용하여 전국 교육정책 동향을 신속하게 파악합니다.",
+    "implication": "교육청의 AI 정책 분석으로 최신 교육 동향 정보를 더 빠르게 파악하여 수업에 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "대전시교육청, 교육국장 명달호·교육정책과장 김옥세 교장 발령",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5scmZTQ25yNV80ci1tVGEyTTV4VXRybUhHNTZaVklLNDhiLVlFZ19fWWU4d0hjdk0zRkJLeTY4Yk5mYVdSZldxNUNvS1BkM2RqeDhBN1FXTkxSZmJQZnJNNw?oc=5",
+    "source": "네이트",
+    "published": "2026-08-07",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "대전시교육청이 명달호 교장을 교육국장, 김옥세 교장을 교육정책과장에 발령했습니다.",
+    "implication": "새로운 교육정책과장 발령을 통해 대전 교육 방향과 관련된 정보를 얻어 수업에 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "백영현 포천시장 \"교육정책이 재선 동력…방산·관광 육성\"",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1USnY5YlRxN2lZbEJzU0NzMk9BUU96NVhRWGo0NEk2SjRUZXpWVlFway1Nd1ZWNm9YNzhTY1huYWg5aGp6YUxPQ19tZG5sWENRT0F1dFJFMUJaUXhaR1FzUg?oc=5",
+    "source": "네이트",
+    "published": "2026-08-07",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "백영현 포천시장은 교육정책을 재선 동력으로 삼고 방산·관광 산업 육성 의지를 밝혔습니다.",
+    "implication": "우리 지역 시장의 교육 정책이 지역 발전 및 학생들의 미래 진로와 어떻게 연결되는지 토의해 볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "[인터뷰 ②] “한 사람의 가능성을 발견하고, 자신의 힘으로 성장할 수 있도록 도울 수 있는 교육” — 대덕초 교사 이민재",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RbVNiYjVBUzdZekE4MV9mbDNmbGJhZjFmbXdVc04wdV9QdHFQU3FtZDNRY3o5LWM0WkJNREM5dExuNXBlVXdlSVZ0RFZiTkc3eGIwWG9COFF0RDU4Tk9OYTg1b2dLeWRfQWdLbg?oc=5",
+    "source": "ibrandnews.com",
+    "published": "2026-08-07",
+    "keyword": "에듀테크",
+    "topic": "teacher",
+    "kind": "interview",
+    "entities": [],
+    "summary": "대덕초 이민재 교사는 인터뷰에서 개개인의 잠재력을 발견하고 자율 성장을 돕는 교육의 중요성을 강조합니다.",
+    "implication": "학생마다 가진 고유한 가능성을 발견하고, 자신의 힘으로 배우고 성장하는 경험을 제공할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "조폐공사, 생성형 AI로 공공구매 교육 혁신...조달 실무자가 직접 게임 앱 구현",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aR0dpSkVTQnRCMy13cHYyUVNNUTNsdVBtb0RkZ2l2RzVzU25rVFRGTEQtOGtFLW5TSmdwSFFuR1dhSk5feXIxV3JKQ3RhWU5jbEtmcmpTQnZsWlB5dnJlR2ZUTzNDQlBWdG1xdFZXN0nSAXBBVV95cUxNWkdHaUpFU0J0QjMtd3B2MlFTTVEzbHVQbW9EZGdpdkc1c1Nua1RURkxELThrRS1uU0pncEhRbkdXYUpOX3lyMVdySkN0YVlOY2xLZnJqU0J2bFpQeXZyZUdmVE8zQ0JQVnRtcXRWVzdJ?oc=5",
+    "source": "뉴스체크",
+    "published": "2026-08-07",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "조폐공사가 생성형 AI로 공공구매 교육을 혁신하고, 조달 실무자가 직접 게임 앱을 구현했습니다.",
+    "implication": "생성형 AI와 게임 앱 제작으로 학생들이 직접 학습 내용을 익히는 수업을 만들 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "교육부, 글로벌 청소년 결합 ‘건강·웰빙’ 웹앱 발표",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VWGFLclB3NG5ZczN6a2Z4UWxWNV96VEMwR0tmOEpZZTBKTUxuX3N1eFRJa1NPc1BQOFZwb0dXWjl0SXhhalQ4alhJZ0Zrd0hQOGdERTZ6dl9iY2pMTndUajVPbExRamt2Z04w?oc=5",
+    "source": "라이센스뉴스",
+    "published": "2026-08-07",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "교육부가 글로벌 청소년을 위한 '건강·웰빙' 웹앱을 발표했습니다.",
+    "implication": "학생들이 이 웹앱을 활용하여 글로벌 건강 이슈를 탐구하고 토론할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Question-Guided Learning for Mathematics Education: An Autonomous Online Inquiry-Based Approach",
+    "url": "http://arxiv.org/abs/2608.01340v1",
+    "source": "",
+    "published": "2026-08-02",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 교사 개입 없이 적응형 질문으로 수학 개념을 가르치는 자율 온라인 탐구 학습 애플리케이션이 학생들의 인지적 이해를 높이는 데 효과적임을 입증하며, 미래 AI 교육이 능동적 사고와 문제 해결 중심 접근을 지향해야 함을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Borbála Neogrády-Kiss']",
+    "pdf": "http://arxiv.org/pdf/2608.01340v1"
+   },
+   {
+    "n": 2,
+    "title": "From SQL Errors to Concept Gaps: An AI-Powered Knowledge Graph Analytics Platform for Personalized Feedback",
+    "url": "http://arxiv.org/abs/2608.03118v1",
+    "source": "",
+    "published": "2026-08-04",
+    "keyword": "K-12 education",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "AI 기반 지식 그래프 플랫폼은 SQL 오류를 학생의 개념적 격차에 연결하여 심층적인 오개념 진단과 개인화된 피드백을 제공함으로써 데이터베이스 교육의 질을 향상합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Abdulrahman AlRabah', 'Weijian Zhou' 외 2명",
+    "pdf": "http://arxiv.org/pdf/2608.03118v1"
+   },
+   {
+    "n": 3,
+    "title": "Ethical and regulatory challenges of Generative AI in education: a systematic review",
+    "url": "https://www.semanticscholar.org/paper/4f612a9fc54b8c03e2820a99d05a9e4e923f281a",
+    "source": "semantic_scholar",
+    "published": "2025-06-30",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제",
+     "생성형 AI",
+     "개인화 학습"
+    ],
+    "summary": "본 체계적 문헌 검토는 2020-2024년 동료 심사 논문 53편을 분석하여, 생성형 AI가 교육에 개인화 학습 등 기회를 제공하나 데이터 오용, 인지 자율성 상실 등 윤리적·규제적 과제를 제기하므로, 책임감 있는 활용을 위한 포괄적 규제와 교수 전략 마련의 시급성을 역설합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "I. García-López, Laura Trujillo-Liñán",
+    "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1565938/pdf"
+   },
+   {
+    "n": 4,
+    "title": "Promoting Ethical Use of Generative AI in Education",
+    "url": "https://www.semanticscholar.org/paper/ea077f87effc03e03704c35dc69e11bab48cdca3",
+    "source": "semantic_scholar",
+    "published": "2024-07-31",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "AI 안전·규제"
+    ],
+    "summary": "이 논문은 교육에서 생성형 AI의 윤리적 문제점들을 지적하며, 비판적 사고 저해 및 편향성 문제를 해결하고자 5가지 AI 윤리 원칙을 기반으로 한 접근 방식과 교실 AI 활용 정책 수립을 제안하여 윤리적 AI 사용을 촉진합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "X. Deng, K. Joshi",
+    "pdf": "https://dl.acm.org/doi/pdf/10.1145/3685235.3685237"
+   },
+   {
+    "n": 5,
+    "title": "Partner models of explainers: a qualitative interview study",
+    "url": "https://doi.org/10.3389/feduc.2026.1891741",
+    "source": "openalex",
+    "published": "2026-08-05",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [],
+    "summary": "이 연구는 설명 전문가 26명 인터뷰를 통해 설명자가 청중의 이해도를 높이고자 사전 지식, 기술, 참여도 등 다차원적 파트너 모델을 형성함을 밝혀, 교사 교육 및 적응형 AI 설명 도구 개발에 중요한 시사점을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Viviane Gladow, Heike M. Buhl",
+    "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1891741/pdf"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "[8월7일] “챗GPT 충격 이후 최대 개편”…구글, AI 경쟁 ‘두 번째 대전환’ 나섰다",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213652",
+    "source": "AI Times",
+    "published": "2026-08-08",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Google"
+    ],
+    "summary": "구글의 AI 대전환은 AI 기술 생태계의 판도를 재편하고 주요 기업 간 주도권 경쟁을 격화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "오픈AI, '봉제인형'으로 조류 식별하는 오픈소스 프로젝트 '버딩팔' 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213668",
+    "source": "AI Times",
+    "published": "2026-08-07",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "오픈소스"
+    ],
+    "summary": "오픈AI의 봉제인형 AI는 오픈소스 기반 물리적 AI 시대의 시작을 알리며, AI 기술의 대중화와 응용 생태계 확장에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "구글, 허리케인 예측 AI '웨더넥스트' 공개...\"골든타임 하루 더 벌었다\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213676",
+    "source": "AI Times",
+    "published": "2026-08-07",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "구글 웨더넥스트는 AI가 복잡한 자연재해 예측 정확도를 혁신적으로 향상시켜 인류 안전과 산업 효율성을 극대화할 새로운 AI 응용 생태계를 확장할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[OpenAI, ChatGPT 무료 사용자 대상 텍스트 채팅 제한 전면 해제] 이번 업데이트의 핵심은 새롭게 선보이는 GPT-5.6 루나(Luna) 모델이다. 해당 모델은 무료 사용자와 Go 요금제 사용자를 위한 기본 모델로 자리 잡으며, 기존의 GPT-5.5를 대체",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE83OWxuLXE2RXlkRGJWbTNyNTVZOHF0emFGNkRaeW1jdDQ4ei1YdGdoT0NXWHcyWW8xRU0yUU1VaHA?oc=5",
+    "source": "AI넷",
+    "published": "2026-08-07",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "무료 사용자에게 최신 GPT-5.6 모델을 제공하는 것은 AI 기술의 대중적 접근성을 크게 높여 산업 전반의 경쟁을 심화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "\"큐원3.8-맥스, 벤치마크 비해 경쟁력 없어\"...AI 모델의 '숨은 비용' 함정",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213665",
+    "source": "AI Times",
+    "published": "2026-08-07",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Alibaba",
+     "벤치마크"
+    ],
+    "summary": "AI 모델 도입 시 초기 성능 외에 숨겨진 운영 비용과 벤치마크 대비 경쟁력을 종합적으로 평가하는 것이 산업의 핵심 의사결정 기준이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "엔비디아의 자율주행 AI 모델… ‘알파마요 2 슈퍼’",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213678",
+    "source": "AI Times",
+    "published": "2026-08-08",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA"
+    ],
+    "summary": "엔비디아의 자율주행 AI 모델은 AI 생태계 주도권을 강화하며 자율주행 기술 상용화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "OpenAI가 더 많은 사용자에게 GPT-5.6 Sol에 대한 접근 권한을 제공하면서 AI 경쟁이 더욱 치열해지고 있으며, AMD는 Taalas를 인수했습니다.",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQ29FQWxaLUt3dFl6WnFka0Nzb0FDSVhHZkZtTDQxRzYxQlBXZlltY1RLVVhwWkJ3VXR5djRmTXIzZjBRWjREUGJIdTlwNFJHWVRIMi1CT2lHc294VVdVT1EtdHhnczdyRE1JSVVxRGNtZE1fLVB2aFo3SXZtY2lHeXVTZ0JFaFpaSl9hcnc0c2RoWHlGdU54elpZa0w1QmlHOXk4T3pOaUgyZGxLNUwzdm5zQUo4NU92cF9DWGd1a29DclBYQlJJSVVweXhLN0tkWXRXTHRrMVNycmtMWnlMQUNR?oc=5",
+    "source": "Brave New Coin",
+    "published": "2026-08-07",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "OpenAI의 모델 확산과 AMD의 전략적 인수는 AI 모델 및 인프라 경쟁을 심화시켜 AI 생태계 전반의 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "AMD, AI 모델 회로 직접 구현 스타트업 '탈라스' 인수…추론 칩 시장 공략",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213674",
+    "source": "AI Times",
+    "published": "2026-08-07",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [],
+    "summary": "AMD의 탈라스 인수는 AI 모델 회로 직접 구현을 통해 추론 칩 시장 경쟁을 심화하고 하드웨어 최적화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "PPT·엑셀도 영상으로...알리바바, 30초 영상 생성 AI ‘완 3.0’ 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213660",
+    "source": "AI Times",
+    "published": "2026-08-07",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Alibaba",
+     "영상·이미지 생성",
+     "생성형 AI"
+    ],
+    "summary": "알리바바의 AI는 정적 문서의 동영상 변환을 통해 AI 기반 콘텐츠 생성의 대중화와 활용 범위 확장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "Advancing the price-performance frontier with GPT-5.6",
+    "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "source": "OpenAI Blog",
+    "published": "2026-07-30",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.6의 가격 대비 성능 향상은 AI 기술의 대중화를 이끌어 산업 전반의 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

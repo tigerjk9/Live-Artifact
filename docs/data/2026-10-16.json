@@ -1,0 +1,414 @@
+{
+ "date": "2026-10-16",
+ "generated_at": "2026-11-02T11:45:01+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[사이언스칼럼]에이전틱 AI 시대의 개인정보보호 패러다임 전환",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxbXAxd05IMjR3MktlNy1uRFJwbmZLMFBJclQ1dlpPdVBJUHZ1WXBGWFpSODlRT3B6RDJRd0FacGFycjBkbm1fUVp0US1leG1Tck8teWNKZnV0SXJ3a0MxR2duY0l5bXZYeEpaNA?oc=5",
+    "source": "중도일보",
+    "published": "2026-10-15",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [
+     "AI 리터러시"
+    ],
+    "summary": "에이전틱 AI 시대의 도래로 개인정보보호 패러다임의 근본적인 전환이 이루어지고 있습니다.",
+    "implication": "에이전틱 AI 시대의 변화된 개인정보보호 관점을 학생들과 함께 탐구하며 디지털 리터러시를 함양할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "충남교육청, 2026 신규 특수교사 역량 강화 배움 자리 운영",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQSkpqNHpPWnF6OUgwRURyUVhVR0p5Zjl0SHdrNE5VUWRZLWttdGpDbUlNR3o5Z1pyV0ctdmw4dzlNdVJmem8tYUpncXhvRWNGYzI3RGZ3aXJldndBZ09PWGlzandHSmY4Sk84?oc=5",
+    "source": "충청메시지",
+    "published": "2026-10-15",
+    "keyword": "교육현장",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "충남교육청",
+     "특수교육"
+    ],
+    "summary": "충남교육청은 2026년에 임용될 신규 특수교사의 역량 강화를 위한 교육 프로그램을 운영합니다.",
+    "implication": "향후 역량 강화된 신규 특수교사와 협력하여 학생들에게 맞춤형 수업을 제공할 수 있을 것으로 기대합니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "세종시의회 교안위 행감, 학교 현장 밀착형 교육정책 ‘송곳 검증’",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TcF9YMjBJWmItdkt6SmdxTGlDZW92QWNDV0hiLW1hUmpiLXJUeHQ4Vk5IX2lLQlRueGFUMUM3NDJXdkhpLUUxZndrYnlYN3VWaWRqbmxpa0hYb1hySHBnclp0a0FsN3RSSk1PaA?oc=5",
+    "source": "충청뉴스",
+    "published": "2026-10-15",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "세종시의회 교안위가 학교 현장 밀착형 교육정책들을 행정감사 중 송곳처럼 검증하고 있습니다.",
+    "implication": "우리 학교 교육에 직접 영향을 미치는 정책들이 현장 의견을 바탕으로 면밀히 검토 중임을 알 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "경기도의회 이자형 의원, 광주 매양중 IB 교육혁신 현장 점검",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uUGdTaFExYnEwQmYxZkhBTGIwOXB2NGhPZWJKQjZtQ1d0dkF3M205VjF3emQyb3JoNGlyTk5ZSlhXRkNGMW1GT2lzR1lvNTR5WFFXY1NmX2lfSWV3eWJ6Vw?oc=5",
+    "source": "메트로신문",
+    "published": "2026-10-15",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "IB"
+    ],
+    "summary": "경기도의회 이자형 의원이 광주 매양중학교의 IB 교육혁신 현장을 점검했습니다.",
+    "implication": "의원의 IB 교육혁신 현장 점검은 학생들의 자기 주도적 탐구 역량을 키우는 수업을 시도할 수 있는 기회입니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "교육감협, 교육교부금 개편·교원 보호·야차룰 예방 등 교육 현안 대응 논의",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56blNrcXl5cEN5aDhDM0J5MHo0NDRQdl9pWWpSYzNvbkxJZnd1TUJ2SENIS1BFd21GeVdmR0Z2cTRuV0pLSHhKcS1rYWY4dHBBN0lXbm1rZWVxMkRxRzVDNm1RX18zQQ?oc=5",
+    "source": "한국대학신문",
+    "published": "2026-10-16",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육 예산"
+    ],
+    "summary": "교육감협은 교육교부금 개편, 교원 보호, 야차룰 예방 등 주요 교육 현안에 대한 대응 방안을 논의했습니다.",
+    "implication": "교원 보호와 야차룰 예방 논의를 바탕으로 학생들에게 상호 존중과 안전한 학교생활의 중요성을 지도할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "안민석 교육감, '찾아가는 교육감실' 타운홀미팅...지역 교육 현안 청취",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16bkh1Mzl1eC14dTFxRkpEenFZQmxTNXZvOExSN2lNQ0l3WDlGN2FnRnZLejByaWNlaENiVm9DNFhNZzFLbGh1ZmhBQnVTYTlWQ1lkbXNXaElfRVRWbnJ3Snl0UHVUaWFpTmZKVw?oc=5",
+    "source": "경기북부탑뉴스",
+    "published": "2026-10-15",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "안민석 교육감은 '찾아가는 교육감실' 타운홀미팅을 통해 지역 교육 현안을 청취했습니다.",
+    "implication": "학생들과 우리 지역 교육 현안에 대해 토론하고 해결 방안을 모색하는 수업을 진행할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "도성훈 인천교육감, 인천지역 더불어민주당 국회의원과 교육정책 간담회",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GY2lvMFUybzBnRDRHbnM1LWlhaXZGVkpPWUZOalhrTXNoOXRRX0FiTncwUWRDVmlOaWNMMWRDdmNadnQ0MHdkMVdrVklLRkd0dkZ2Q28tUFJlSjBU?oc=5",
+    "source": "교육연합신문",
+    "published": "2026-10-15",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청",
+     "국회"
+    ],
+    "summary": "도성훈 인천교육감이 인천지역 더불어민주당 국회의원들과 교육정책에 대해 논의했습니다.",
+    "implication": "논의된 교육정책에 따라 교실 환경과 수업 내용에 변화가 생길 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "[교육정책 브리핑] 안민석 경기도교육감, 학생 AI ‘과의존’ 방지책 가동",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42b1p5SDlqODZLa0ZJX0dGRTdfWDdCcW9yNjdwLTJIOEtDQWhFTWl4Y3p3djJvOHozN0U5QVA1cDdoSGdlSkxndlVnaUJHTzRqbEk1WDkzY1hvYlphNTFfRg?oc=5",
+    "source": "NSP통신",
+    "published": "2026-10-15",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "안민석 경기도교육감이 학생들의 AI 과의존 방지를 위한 대책을 가동한다.",
+    "implication": "학생들이 AI를 올바르게 활용하고 비판적 사고력을 기를 수 있도록 수업을 구성할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "진주시, 미래세대 행복기금 등 다양한 교육정책 추진한다",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82T0xpNVRyQTU3b1g4am5NMWkxXy00cWg3bEN2bGFNODJkd2xfMXA4TDJuWHZCMW5vRENzVXJrem12bnc0Y0RuamVIRERwRE81eXZYblFuLW9WelhDeS14NjZOZGxtRDlvUlo5b2NB?oc=5",
+    "source": "https://www.newfilenews.com/",
+    "published": "2026-10-15",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "진주시는 미래세대의 행복을 위한 기금 조성과 더불어 다양한 교육정책을 추진하며 지역 교육 발전을 도모합니다.",
+    "implication": "지역사회의 미래세대 행복기금 조성 소식을 수업 시간에 학생들과 공유하고, 우리 고장의 교육 정책에 대해 토론할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "[지방의회 24時] 문승호 경기도의원, 성남 교육현장 챙긴다…'학교현장 공감투어' 본격 추진",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkV3NZU0t0M2xrSTM4YzNjZ0p1VzRLZHVhZngycUg3amdXakQwLVRFblZLcDJhWlBhdlFYSWpTZWs1UUtVemhZMFo3X3drai1rdU9tZUFPNUpiNmpSekEzcWhmRVhIeVBfWmpKMW9qdjRJUQ?oc=5",
+    "source": "중앙이코노미뉴스",
+    "published": "2026-10-15",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "문승호 경기도의원이 성남 교육현장을 직접 찾아 의견을 청취하는 '학교현장 공감투어'를 본격적으로 시작합니다.",
+    "implication": "학생들과 함께 우리 학교의 교육 환경 개선 아이디어를 의원에게 제안하는 활동으로 연계할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Integrating Artificial Intelligence Tools into English Language Teaching: Opportunities and Challenges for Teachers",
+    "url": "https://doi.org/10.36892/ijlls.v8i6.2809",
+    "source": "openalex",
+    "published": "2026-10-13",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "PRISMA 방법론으로 2021년 이후 AI의 영어 교육(ELT) 활용 문헌 검토를 통해, AI 도구의 기회와 교사의 과제를 분석하고, 성공적인 통합을 위해 균형 잡힌 교수법과 윤리적 고려를 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Amir Abdulhussein Hashim Albuhmedee",
+    "pdf": "https://ijlls.org/index.php/ijlls/article/download/2809/1288"
+   },
+   {
+    "n": 2,
+    "title": "Pre-service physics teachers as designers of AI-based pedagogical infrastructure: supporting metacognitive learning in STEM classrooms",
+    "url": "https://doi.org/10.3389/feduc.2026.1968133",
+    "source": "openalex",
+    "published": "2026-10-14",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "이 연구는 카자흐스탄 예비 물리 교사 30명의 AI 기반 수업 설계 과정을 분석하여 STEM 초인지 학습 지원 방안과 교사 주도적인 AI 통합 교육의 중요성을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Daryn Saiynov, Zhadyra Yermekova",
+    "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1968133/pdf"
+   },
+   {
+    "n": 3,
+    "title": "DEVELOPING AN AI-ASSISTED ANIMATED ENGLISH ALPHABET SONG PROTOTYPE FOR INDONESIAN PRIMARY SCHOOL EFL LEARNERS",
+    "url": "https://www.semanticscholar.org/paper/c16ce463ccc5379a0e45251e5d088ff89f2f8bae",
+    "source": "semantic_scholar",
+    "published": "2025-12-12",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [
+     "Google",
+     "생성형 AI"
+    ],
+    "summary": "인도네시아 초등학생의 영어 알파벳 학습을 돕기 위해 AI 기반 애니메이션 노래 프로토타입을 ADDIE 모델로 개발하고, 생성형 AI 도구로 유효성을 검증하여 교육적 활용 가능성을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ahyadi",
+    "pdf": "https://doi.org/10.31851/v0r06883"
+   },
+   {
+    "n": 4,
+    "title": "SPECIFIC ASPECTS OF DEVELOPMENT OF ENGLISH COMMUNICATIVE COMPETENCY AT DROHOBYCH IVAN FRANKO STATE PEDAGOGICAL UNIVERSITY",
+    "url": "https://doi.org/10.32782/3041-2021/2026-3-31",
+    "source": "openalex",
+    "published": "2026-10-14",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "드로호비치 이반 프랑코 주립 교육대학교 신입생의 영어 의사소통 능력 진단 결과를 바탕으로 디지털 도구와 블렌디드 학습을 활용하여 중등-고등 교육 간 언어 준비 격차를 해소하고 차별화된 교육과정을 제안함으로써 고등교육에서의 영어 교육 효과를 증진하는 데 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Оксана Богданівна Хомишак",
+    "pdf": "https://journals.megu.rovno.ua/index.php/ped-psyh/article/download/307/289"
+   },
+   {
+    "n": 5,
+    "title": "Artificial Intelligence in Higher Education From Automation to Responsible Augmentation",
+    "url": "https://doi.org/10.70702/bdb/roti5363",
+    "source": "openalex",
+    "published": "2026-10-13",
+    "keyword": "",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [],
+    "summary": "본 내러티브 리뷰는 AI가 고등 교육에서 교육적 가치를 창출하려면 교수법 및 기관 거버넌스와의 정렬이 중요함을 강조하며, 자동화부터 책임 있는 증강으로 나아가는 AI 활용 프레임워크를 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Jiangyu An, Lim Boon Hooı",
+    "pdf": "https://bdbpublishinghelios.com/static/upload/file/20261013/1791821849219018.pdf"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "MS, 2~6주 날씨 예보 공백 메우는 새로운 AI 프레임워크 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216301",
+    "source": "AI Times",
+    "published": "2026-10-15",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Microsoft"
+    ],
+    "summary": "MS의 AI 프레임워크는 AI가 예측하기 어려운 복잡한 시스템에서 기존의 한계를 극복하며 AI 기술의 적용 범위와 가치를 크게 확장할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "30만달러 사후 학습으로 ‘페이블 5’ 넘었다…‘울트라마린 1 플래시’ 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216300",
+    "source": "AI Times",
+    "published": "2026-10-15",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [],
+    "summary": "상대적으로 적은 비용으로 최고 성능을 뛰어넘은 사례는 AI 기술의 대중화와 혁신 경쟁을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "XBOW, GPT-5.6 솔로 크롬 제로데이 취약점 체인 6일 만에 개발",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRbmtrUE4xOXZuOTA0RnpHVTQxdndvSjZkQTJiWnFrdmRNTUZ3ODFMVEtJd3I2S09qcHFmbFU2S1hJNkFheUJKTFhWa05nektDSUV6eg?oc=5",
+    "source": "AI 매터스",
+    "published": "2026-10-15",
+    "keyword": "GPT",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "AI를 활용한 초고속 제로데이 취약점 개발은 AI 시대 사이버 보안의 새로운 위협으로 부상할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+    "url": "https://openai.com/index/pollo-ai",
+    "source": "OpenAI Blog",
+    "published": "2026-10-08",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "OpenAI 기반 AI가 창의적 캠페인 기획부터 실행까지 통합 지원하며, AI가 특정 산업의 핵심 업무를 자동화하는 트렌드를 강화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "Anthropic, Claude Code의 코드 리뷰를 정식 출시",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORHVHTVNRSXM1MkJUZmJ0NnY1aWcyaTRLVEF3MVRaZGlLRHQ3MWJYS1MxZ3kyT1pwS0lZSHVwZDBrdW1vWFBQMzZIMjQyc0I2aDFpUlhfLVgtVjl0eTBsdG9QZ1g0YUkwMktqUzgyMndLOGtCREVsX0ltcUVqbERYTkZSV1M0SlVlWjQyZHVnUWxidw?oc=5",
+    "source": "Unite.AI",
+    "published": "2026-10-15",
+    "keyword": "Anthropic",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude",
+     "코딩 AI"
+    ],
+    "summary": "Anthropic의 Claude 코드 리뷰 출시는 AI가 소프트웨어 개발 전 과정에 깊이 관여하며 LLM의 전문화 경쟁을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "[AI리더의 서가] 벡터 데이터베이스",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216146",
+    "source": "AI Times",
+    "published": "2026-10-16",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "벡터 데이터베이스는 AI 모델의 한계를 극복하고 고도화된 AI 애플리케이션 개발을 가속화하는 핵심 인프라가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "Perplexity, AI 에이전트 제어 도구를 오픈소스로 공개",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HejFfWjZBRHlnZm5LZDV5TjAxeGFISUd0NEN4dEZOcTJxTEFmb1Y0eWRSOV9jRXYxWjRXcmlfR3p1WjBIZlpFdUJ4UlZYaVI0MTl3VFJ6YjNyaG5LZ2FwODhzdmJFa2V0M2ExczFhRnc?oc=5",
+    "source": "Investing.com 한국어",
+    "published": "2026-10-15",
+    "keyword": "오픈소스",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Perplexity",
+     "에이전트",
+     "오픈소스"
+    ],
+    "summary": "Perplexity의 AI 에이전트 제어 도구 오픈소스 공개는 AI 에이전트 개발 장벽을 낮춰 생태계 확장과 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "400여 명의 과학자 공동성명: 네트워크 공격 능력을 갖춘 AI는 기본적으로 인터넷 차단 상태를 기본값으로 설정해야 한다, 올여름 OpenAI·Anthropic 모델 잇따라 제리브레이크",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yWmVKU2g1RUdFNFBDdWk3X1N2RzRuZVY4X21lVXYwSmtLTkdfMFRxNHdJc0s3Ylk0R0xqc29hd0VYbmZRTm4zelRsbDRvUFFreGZUN1hHUzM4ZjhJ?oc=5",
+    "source": "深潮TechFlow",
+    "published": "2026-10-15",
+    "keyword": "Anthropic",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Anthropic"
+    ],
+    "summary": "네트워크 공격 능력을 갖춘 AI의 제어 실패 우려로, 개발 단계부터 인터넷 차단 등 엄격한 보안 기준 도입이 AI 산업의 당면 과제입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "네이버, EMNLP 2026 논문 24편 채택 … 한국어 AI부터 에이전트까지 연구 성과 인정",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01cXh3NHdyQlNZeDYtRGpmOThhTGt4QThrNTVNZkN5TlY4V2dBVHEwLTZJczV6Zk9uVExhT2JJNTN2TEoyUFVjU20zMElIZm1jQ2pSclgyTG0wYkNQYlgwczQ5c2dZVHREVHFIMw?oc=5",
+    "source": "워크투데이",
+    "published": "2026-10-15",
+    "keyword": "LLM",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "네이버",
+     "에이전트"
+    ],
+    "summary": "네이버의 EMNLP 2026 다수 논문 채택은 한국어 AI부터 에이전트까지 국내 AI 기술 생태계의 연구 경쟁력을 국제적으로 입증하며, 관련 산업의 혁신과 성장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "오픈AI, GPT-Rosalind 연구기관 접근 확대",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RcVpXMkZmaEtpMGUwZGhicHpvUmgtZjJOTnYzZ1dyU2hzV2ZITGZvMVZic09nbjZMZ0ZaYnhIVDJTeklNZWQ0NVpWbVp0bWVV?oc=5",
+    "source": "토큰포스트",
+    "published": "2026-10-15",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "오픈AI의 GPT-Rosalind 접근 확대는 AI 기술이 바이오 같은 특정 산업 전문 분야에 깊이 특화되어 적용되는 생태계 발전을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

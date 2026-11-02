@@ -1,0 +1,412 @@
+{
+ "date": "2026-07-16",
+ "generated_at": "2026-11-02T11:39:57+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[특별기고] 학업성공을 책임지는 교육 플랫폼",
+    "url": "https://news.unn.net/news/articleView.html?idxno=594682",
+    "source": "한국대학신문",
+    "published": "2026-07-15",
+    "keyword": "",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "AI 시대 대학 교육은 지식 전달을 넘어 학생 개개인의 학업 성공을 책임지는 맞춤형 교육 플랫폼으로 변화해야 함을 강조합니다.",
+    "implication": "AI를 활용하여 학생들의 학습 속도와 동기, 진로 목표에 맞춰 개별화된 교육 지원을 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[칼럼] 동학의 뿌리에서 미래교육의 길을 묻다…천호성 교육감 교육개혁의 성공 조건",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnZEZVME9sNXdFWDRwZXAzcDhqRXBSU2MwOEpmR3JzX3FLbjFKby1iV0lWaDI3YW04Q2ptZGF2TkRPbFZJVll3ckVxbFBQN0VuSy1aM3lCblI2c3B0X0xvMW1TUS1tMkdDSlE?oc=5",
+    "source": "투데이안",
+    "published": "2026-07-15",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "천호성 교육감의 미래 교육개혁 성공을 위해 동학의 뿌리에서 그 조건을 묻는 내용입니다.",
+    "implication": "학생들과 동학 사상을 통해 미래 교육의 방향과 필요한 역량에 대해 탐구해 볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[기고-이상원] 교육감에 바란다",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sRmhhcVFQa1Qydm1fRXFlLTU3cnRpQjg4NjU2bklremZTelVnTTZKRHhtUl9RaWpjQ3RQYk1QbWNhYnMwdHBmQ1EwalRLOVVmbHFzdDU1VWp4RzF4YVliRU13?oc=5",
+    "source": "매일신문",
+    "published": "2026-07-15",
+    "keyword": "교사기고",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "이상원 필자가 매일신문에 기고한 글로, 교육감에게 바라는 점을 담은 의견입니다.",
+    "implication": "학생들이 직접 학교나 지역 교육의 개선점을 찾아 교육감에게 제안하는 글쓰기 활동을 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[목요칼럼] 설명이 사라진 시대: 보여주기와 지식의 외주화",
+    "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2288284",
+    "source": "대전일보",
+    "published": "2026-07-15",
+    "keyword": "",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "스마트폰과 AI 활용 수업에서 학생들이 외부에 지식을 의존하며 자기 언어로 설명하는 데 어려움을 겪는다.",
+    "implication": "수업 중 생성형 AI 활용 시 학생들이 자료를 자기 언어로 재구성하고 설명하는 기회를 제공할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "경기도교육청·서울대 사범대, AI 교육혁신 맞손",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3ZC1oOUJHZkZJVkw1dGpFWjllcWwxM01MSTVvRFpxakVtUUdyWmZBUGgxdThacU1Pd081eERhd0xydFFPeWthUy1Lc2cwWEhXaHUtQTdwMm9mRWpHVVVWcFpUSXdGMmZ2c2VIUlZESGc?oc=5",
+    "source": "신아일보",
+    "published": "2026-07-15",
+    "keyword": "교육혁신",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청과 서울대 사범대가 AI 교육 혁신을 위해 상호 협력하기로 했습니다.",
+    "implication": "AI 교육 혁신으로 개발될 새로운 수업 자료나 도구를 활용하여 수업을 풍성하게 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "AI가 교실로…충청권 교사 수업설계 역량 강화",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnYm1WUUhzbHAwaFRpbWtWYkRhcHV1c2JSamk5aUxDcWw2SjhPcVFBOVZyRDBRZXdPVDNMZXBQb0xoXzRWN2x0MmhoY0tfXzU2M3lEb3J4UUFXaVdDOXlYVGpKNmdtQlNkNFRCc2hja2I?oc=5",
+    "source": "충청일보",
+    "published": "2026-07-15",
+    "keyword": "AI활용수업",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "충청권 교사들이 교실에 도입되는 AI를 활용하여 수업 설계 역량을 강화하는 교육을 받는다.",
+    "implication": "이번 역량 강화 교육으로 AI를 활용한 수업 설계를 구체적으로 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "차정인, 전국 시도교육감과 '미래교육' 논의…\"함께 완성\"",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xeU9pT2E4bmx5ZldNY1U1WmZqb1lfa2RSWWpQS0dkRDE3OERhZ0dCNnpyTVkxZklWMFlZN3VwUGxqMnpuN05CR253eTF0bHExODBLQklfRTFaTVI4WVA3UdIBeEFVX3lxTE1BREVrYnNmY3JNcGV4aDlJcWo0T2xJTGJxMkRTWlAwb1VhZ3VTODVadHFVakpsLVozcFBVMEc3alA0MWgzMDdObXFXVzRhT0VUYjFXMkNzWV9EaG9DZVFFNjZScVdMRG00QzhLa1FVd2pONGx1R0lOag?oc=5",
+    "source": "뉴시스",
+    "published": "2026-07-15",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "차정인이 전국 시도교육감들과 '함께 완성할 미래교육'에 대해 논의했습니다.",
+    "implication": "학생들과 미래 사회에 필요한 역량에 대해 토론하는 수업을 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "'IB 도입 급물살타나'.. '고교 마이스터' 박하식표 '하나고 IB도입' 출사표",
+    "url": "https://www.veritas-a.com/news/articleView.html?idxno=619497",
+    "source": "베리타스알파",
+    "published": "2026-07-15",
+    "keyword": "",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "IB",
+     "수능·대입"
+    ],
+    "summary": "박하식 교장이 이끄는 하나고가 2029학년부터 IB 교육을 도입하여 국내외 진학 투트랙을 구축합니다.",
+    "implication": "2028 대입 정성평가 강화를 대비하여 IB 가치인 탐구와 비판적 사고를 촉진하는 수업을 설계할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "체험판도 '운영위' 문턱…에듀테크, 꽉 막힌 학교 현장",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52clNSZm5TUnBNMWdJZVFYMzZla2Z1STFTRmZoME1ZdXVCSjRmZENlX3djRVV4M0FxczFkdDZfSlU2VGgyU3dlaXNZbERXU0lGRGxqMTJGaS1maUh6ZWFTbGxYMWE?oc=5",
+    "source": "MTN 머니투데이방송",
+    "published": "2026-07-15",
+    "keyword": "에듀테크",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "학교 운영위 문턱으로 인해 에듀테크 체험판조차 학교 현장에 도입되기 어렵습니다.",
+    "implication": "학교 운영위의 복잡한 절차 때문에 새로운 에듀테크 도구를 수업에 바로 적용하기 어려울 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "[교육정책 우문현답] 민사고 수준의 학교 300개, 농촌 학교의 대안 될 수 없다",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wQkdPWFVUNS1NNTdSdmI3aC1OaEpQRmFJb0xpREttRjNDdlcwZE9LSkRkS0pISklaV0lLUDdBa29xalhIM1NHd0ZncTU4cFVZTVdEemNDZkgxeFA2S3RnSmdJZTZpa3N6?oc=5",
+    "source": "에듀프레스",
+    "published": "2026-07-15",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "민사고 수준의 학교 300개 설립이 농촌 학교 문제를 해결할 실질적인 대안이 될 수 없다는 내용입니다.",
+    "implication": "이 기사를 활용하여 학생들과 특정 교육 정책이 실제 현장에 미칠 영향을 분석하는 토론 수업을 할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "The Role of Artificial Intelligence in Education: Opportunities, Challenges, and Implications for Formal and Non-Formal Learning",
+    "url": "https://doi.org/10.63734/jnfde.02.02.001",
+    "source": "openalex",
+    "published": "2026-07-13",
+    "keyword": "",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 2016년부터의 문헌 검토로 AI가 정규 및 비정규 교육에 가져올 기회와 위험, 책임 있는 활용 조건을 탐색하며, AI는 교수법의 증폭기이나 윤리적 적용이 중요함을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Dan Cătălin Bîrsan",
+    "pdf": "https://journals.team4excellence.ro/journal-of-non-formal-education/article/download/59/70"
+   },
+   {
+    "n": 2,
+    "title": "Artificial Intelligence in Education: Can AI Improve Teacher Performance or Will It Replace Them?",
+    "url": "https://doi.org/10.65310/fk7gcn06",
+    "source": "openalex",
+    "published": "2026-07-13",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "논문은 비경험적 문헌 연구를 통해 AI가 교육 효율성을 높이지만 정서적 기능에 한계가 있어 교사를 대체하기보다 협업 모델로 역할이 재편될 것이며, 이는 인간 교사의 전문성 유지에 기여한다고 분석합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Nida Ul Hasanah, Amar Ali Aulia 외 1명",
+    "pdf": "https://researchfrontiers.id/didakta/article/download/225/212"
+   },
+   {
+    "n": 3,
+    "title": "English Teacher’ Strategies to Teach Listening of ADHD in Senior High School",
+    "url": "https://doi.org/10.62710/k057zv74",
+    "source": "openalex",
+    "published": "2026-07-12",
+    "keyword": "SEL education",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "고등학생 ADHD 학생의 영어 듣기 지도 전략을 다룬 질적 사례 연구는 교사의 개별 지도, 반복 설명, 시청각 자료 활용 등 적응적 교수법의 중요성과 교사 전문성 개발의 필요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Alya  Syahlani Saragih, Diah Safitri Armin",
+    "pdf": "https://teewanjournal.com/index.php/juragan/article/download/3464/2327"
+   },
+   {
+    "n": 4,
+    "title": "Cognitive Load Reduction in the Context of Artificial Intelligence: A Conceptual Framework for Teachers",
+    "url": "https://doi.org/10.9734/ajess/2026/v52i73199",
+    "source": "openalex",
+    "published": "2026-07-13",
+    "keyword": "",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [],
+    "summary": "본 개념 논문은 교사의 높은 인지 부하를 줄이기 위해 인지 부하 이론을 기반으로 AI 활용 방안을 문헌 통합 분석하여 일곱 가지 차원의 AI 지원 프레임워크를 제안하며, 이는 교사의 업무 효율성 및 전문성 향상에 기여할 수 있음을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ananya Pramanik, Arabinda Kumar Sahoo 외 1명",
+    "pdf": "https://journalajess.com/index.php/AJESS/article/download/3199/7966"
+   },
+   {
+    "n": 5,
+    "title": "A Brain-Based Learning Augmented Reality Framework Combined with the Tri Kaya Parisudha Values for Early Childhood Character Education",
+    "url": "https://doi.org/10.54963/dtra.v5i3.2075",
+    "source": "openalex",
+    "published": "2026-07-14",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "ADDIE 모델과 준실험 설계를 통해 뇌 기반 학습과 현지 가치(Tri Kaya Parisudha)를 통합한 증강 현실(AR) 프레임워크를 개발 및 평가하여, 유아 인성 교육과 도덕적 발달에 긍정적 영향을 미치는 혁신적 교육 기술 모델을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ni Made Citariani, Ketut Agustini 외 1명",
+    "pdf": "https://ojs.ukscip.com/uploads/copyediting_typesetting/DTRA-2075-V5I3-89-10420260714101107.pdf"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "오픈AI ‘GPT-5.6 솔’, 사용자 파일 무단 삭제...'선 넘은 자율성' 논란",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212778",
+    "source": "AI Times",
+    "published": "2026-07-15",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "AI의 과도한 자율성으로 인한 사용자 파일 삭제 논란은 AI 신뢰도 하락을 초래하며, AI 기술 개발에 있어 강화된 안전 장치와 윤리·규제 시스템 구축을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "KAIST, AI 미세조정으로 ‘안전성·성능’ 모두 챙기는 학습 프레임워크 개발",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212806",
+    "source": "AI Times",
+    "published": "2026-07-15",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제"
+    ],
+    "summary": "AI 미세조정을 통해 안전성과 성능을 동시에 확보하는 이 프레임워크는 신뢰할 수 있는 AI 시스템 개발 및 산업 전반의 상용화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+    "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "source": "OpenAI Blog",
+    "published": "2026-07-09",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Microsoft"
+    ],
+    "summary": "마이크로소프트 365 코파일럿의 GPT-5.6 채택은 엔터프라이즈 AI 시장의 기술 경쟁을 심화시키고 최신 모델의 빠른 상용화를 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+    "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+    "source": "MIT Technology Review",
+    "published": "2026-07-15",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "LLM",
+     "OpenAI",
+     "AI 안전·규제"
+    ],
+    "summary": "AI를 활용한 AI 모델 안전성 강화는 LLM 개발의 핵심 보안 표준으로 자리매김할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "Anthropic opens Claude for Teachers with a promise not to train models on student data",
+    "url": "https://the-decoder.com/anthropic-opens-claude-for-teachers-with-a-promise-not-to-train-models-on-student-data/",
+    "source": "The Decoder",
+    "published": "2026-07-14",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude"
+    ],
+    "summary": "Anthropic의 학생 데이터 미학습 약속은 AI 산업이 민감 분야 확대를 위해 데이터 윤리 및 신뢰 확보가 핵심 경쟁력이 될 것임을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+    "source": "Google Blog - AI",
+    "published": "2026-05-29",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Google",
+     "개인화 학습"
+    ],
+    "summary": "이 사례는 Google AI Studio를 통한 AI 개발 진입 장벽을 낮춰, 개인화된 AI 서비스 확산과 생태계 성장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "[이용호의 손에 잡히는 인공지능] GPT-5.6, 더 똑똑함보다 더 잘 일하는 능력으로 승부수",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9abWZtUks3RS1jbkVQcnExY2FDcUJnRFlLT3d0aVVzN1paNTRFY3k4ZDBEc0wzUmMzeVg4YXBMdUpDaXFGbjhCWTEtYkVPRjR0Y3VGWU0tZXB4ZW1JcktZWWxBYjFSTHA4V1RiSDBVSDI?oc=5",
+    "source": "한국강사신문",
+    "published": "2026-07-15",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.6이 '더 잘 일하는 능력'을 승부수로 내세우며, AI 산업은 단순한 지능 향상을 넘어 실질적 업무 효율성과 비즈니스 가치 창출에 집중하게 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "업스테이지·퓨리오사AI \"국산 기술로 '풀스택 AI' 첫 상용화\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212810",
+    "source": "AI Times",
+    "published": "2026-07-15",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "업스테이지"
+    ],
+    "summary": "국산 기술 기반의 풀스택 AI 상용화는 국내 AI 기술 자립도를 높이고 글로벌 AI 산업 경쟁력을 강화하는 중요한 전환점입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "How ChatGPT adoption has expanded",
+    "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "source": "OpenAI Blog",
+    "published": "2026-06-30",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "ChatGPT 채택 확장은 AI 기술의 대중화를 넘어 산업 생태계의 혁신 가속화와 새로운 표준 정립을 이끌 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "[해설] 챗GPT-5.6 프롬프트 작성 가이드…“길게 쓰지 말고 완료 기준부터 정하라”",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9FQTczZzhOM2dmbC1DNUdkSFhyQmJXUVNTeExOdGFkYTI4VUIxZXRKV1JQcngxRGk4Vy01b0s1OVJQUUgtU05tV3RoUlFlajNuZVlPZHJ1aDZ2NGJlUVpRbWJjWnM2ZDBpV1pScHpBQjZxdw?oc=5",
+    "source": "아웃소싱타임스",
+    "published": "2026-07-15",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "명확하고 구체적인 프롬프트 작성 능력은 AI 기술 활용의 효율성과 성과를 극대화하여 AI 산업 전반의 생산성과 경쟁력을 좌우하는 핵심 역량이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

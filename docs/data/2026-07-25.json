@@ -1,0 +1,423 @@
+{
+ "date": "2026-07-25",
+ "generated_at": "2026-11-02T11:40:27+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "대전교육정보원, 드론부터 생성형 AI까지 디지털 교실 혁신 집중 연수 운영",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4M2RYbDdsS0lDR1Q1YVpVSzcxUnIxb0dGal9QSXhVREVRNlM5RGtrSUgzZzltaDVIdVlRWFdfMGVtbGdyWnRqWnNiZUNlU2taVEI5RDVMcnhXcFJ2U0k3V1B6bWtoUlhuMXc?oc=5",
+    "source": "코리아타임뉴스",
+    "published": "2026-07-24",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "대전시교육청",
+     "생성형 AI"
+    ],
+    "summary": "대전교육정보원이 드론부터 생성형 AI를 활용한 디지털 교실 혁신 집중 연수를 운영합니다.",
+    "implication": "현장 교사는 연수를 통해 드론 및 생성형 AI를 수업에 활용하는 방법을 익힐 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "“AI교육 확대·해외연수 운영 개선 등 교육정책 보완 주문”",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ucXRZS1I4WDN1SHlyRXlQOEVhNk9YUExVbW5ORy1aelBHN3BJZWlaUEdqUGtSSTkwMnVaZmxGWEVyU0VXcUwzZlNYcWFwLXZVN3dNbHRTUXBnbDlkaThrVkhnYmxEal9L?oc=5",
+    "source": "홍주포커스",
+    "published": "2026-07-24",
+    "keyword": "AI교육",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 교육 확대 및 해외연수 운영 개선 등 교육정책 보완이 주문되었습니다.",
+    "implication": "AI 교육 확대에 맞춰 수업 자료 제작이나 학생 활동에 AI 도구를 시범 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "남원 덕과초, IB 월드스쿨 인증… 작은학교의 교육혁신 전국에 알렸다",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBETEVfMUVTY3NySTBGaDJaQUtnZnRWVGRSdmVIek4tRkpPWUt2WXZvOFBSRkNHUFpwaHZIQWZGZjlBT0UzWjROTVg5R1JxZWJFbnRpUzRndmFnSUlKbTk0RS04blpvWlZiRnc?oc=5",
+    "source": "투데이안",
+    "published": "2026-07-24",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "IB"
+    ],
+    "summary": "남원 덕과초가 IB 월드스쿨로 인증받아 작은학교의 교육 혁신 사례를 전국에 알렸습니다.",
+    "implication": "남원 덕과초의 사례를 통해 우리도 학생들이 주도적으로 탐구하고 행동하는 수업을 설계할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "\"교육 현장 망친 교육부 장관 사퇴하라\"",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5na0d5cndjQVZyRjBmUTFlQ2ZfQVF0ZllDOUxyZTNPMUVIaEltUWFpQUlSbWk5Z3pUNTUycGM0ZFM4WjNGa09kNktneDBtQURzY2U3V3pYeGJUT2t3Nk0ySzNNQlFUUXJhV2kwazdydlNVdV91cGFsSdIBeEFVX3lxTE5na0d5cndjQVZyRjBmUTFlQ2ZfQVF0ZllDOUxyZTNPMUVIaEltUWFpQUlSbWk5Z3pUNTUycGM0ZFM4WjNGa09kNktneDBtQURzY2U3V3pYeGJUT2t3Nk0ySzNNQlFUUXJhV2kwazdydlNVdV91cGFsSQ?oc=5",
+    "source": "뉴시스",
+    "published": "2026-07-24",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "교육 현장을 망쳤다는 비판을 받는 교육부 장관에게 사퇴를 요구하는 주장입니다.",
+    "implication": "이러한 뉴스를 통해 학생들이 사회 현안에 관심을 갖고 토론하는 활동으로 연결할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "AI 교육혁신 확산 나선 한림대·중원대, 에듀테크 협력 강화",
+    "url": "https://news.google.com/rss/articles/CBMihwZBVV95cUxOTmdqQmZ0SlhVUEF0QkV6TlNKM3Ryb3hibG85UXlnajUyQW9aMHYyV1pXZ01MbWN0Q3o0cXF4YmU2NnpXZ1dIUlRJcVphNm5UVllkdnBlUklYbG81dHF5WXZnSVZSUEUxM3JFWnhHRHZHbkNSWFVOZl82Zkh2b0k5cTJmOV9kMXUzbDc2T1hoZkJZU3VLeVZKRFF0bGoxTWd2d09fUldGTnBLekk5OFZjZTc5Q1V1Mzl3b3dpcDdoTlF2VkRDdDZ0VS1rTFlhMG9weGN3clNnanRNTjVveWtzcUFzRTdmTHdoeEtUdTdwcTA1TFRZVU9pSkEtWFBJUVp3dU9ZQV9kWEN4S2RlZjV1SlFxNUVnaUttbFUtY2JncHFDRTFhel9RcnF5NGw0VnhwZ1BTRWF1OXJYTWpOWEZkWURKaTF2MTZKNTRkT1RaWk9SSE1lOVEwX1l1UExQWEJMX25pMFQwWE9KcW5XajdKbTJSV0c3LWJ0NzJ3bnBFbVRUaEJkV0M3dWdfcXRxd0s2SEx0NnJXNkZrX3NCbnVNV2dISTUyeGd4cmlndDgwc3FOWnkzc3JuU0Vlb3NOLWRoQUI5eVdxcUVTMDRXNWsxWmdfdUpPLWY1Vm9XZ2lpMnEtMWc3X1N1YzlyWmw5c3pBWVVxVTFFazNPYzRUd3M1bnp1STRFWFJSMEhTcTM3S2hUaHVXTlNMNDZMTzJqSi14Q1VoYjdYeGxkYjVWUDNvS0ljTEo4N0xZa3B0ZXQ3WElfeDIzR3p2b3NZczBYYjAwdTJkOEV2Y29xNkhQZmh1cXI2NlVXbi1rQUJ6WDYtZzQzUDRJRkoybzlkWkdKV0UyRU5xenpDYzBXcmpWcmxmbWtKWHNtbUJxeEtsMnNNdEJ3bTZWWnQweENGSFNMQ1pzMEQ1aDV4UWZRa2R0UTV3aVJDdy1KQXE1dURCRVppMm1QMDVvRjhDeTkwYnNtZ3ZrUFA5LVFFQkRVVVJ2Q29qNU13OTRWQTdXbkNqV3RBTng2ZVN5Z09B?oc=5",
+    "source": "전자신문",
+    "published": "2026-07-24",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "한림대와 중원대가 AI 교육 혁신 확산을 위해 에듀테크 협력을 강화한다.",
+    "implication": "대학들의 AI 교육혁신 움직임을 통해 학생들에게 미래 교육에서 AI와 에듀테크 역량의 중요성을 설명할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "인천시의회 교육위, 교육현장 직접 뛰었다…AI교육·학교시설 개선 해법 찾기",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0RjdNZ2o0dVJrSzI4bmJGZGtjTDhBN1hhQlpVRFRLZHhJb0ZBcmZQbTRhd0NuS25aZGpVX0NqWDhRd0hjZmRZeVZ3aUVmQ09rY29fcWxtZ21WZw?oc=5",
+    "source": "브릿지경제",
+    "published": "2026-07-24",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "국회"
+    ],
+    "summary": "인천시의회 교육위원회가 AI 교육 및 학교 시설 개선을 위한 해법을 찾고자 교육 현장을 직접 방문했습니다.",
+    "implication": "시의회가 AI 교육 해법을 찾는 만큼, 학생들에게 AI 기술을 활용한 수업 과제를 적극적으로 제시할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "영광군의회, '원전 건식저장·교육정책' 군민 체감 해법 주문",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTanNxOGhPRjNwRHpIRXhBWFpobnBWQ0QzaU5kV2k4bVVEdGNsTXEyZG80RTdfQTdkUHRYd3NuemV6ZHR6UTZhRWp4M1lPTTJsV0RUN3ZxdkRCZFo1OWlqT0x2aTNJaHlzX09aYm9qRHUwVUHSAXNBVV95cUxQU2pzcThoT0YzcER6SEV4QVhaaG5wVkNEM2lOZFdpOG1VRHRjbE1xMmRvNEU3X0E3ZFB0WHdzbnplemR0elE2YUVqeDNZT00ybFdEVDd2cXZEQmRaNTlpak9MdmkzSWh5c19PWmJvakR1MFVB?oc=5",
+    "source": "뉴스워커",
+    "published": "2026-07-24",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "영광군의회는 원전 건식저장과 교육정책에 대해 군민이 체감할 수 있는 실질적 해법을 요구했습니다.",
+    "implication": "지역의 교육정책 논의를 활용하여 학생들이 지역 현안과 자신의 삶의 연관성을 탐색하는 수업을 진행할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "박은경 의원 (안산6) 교육정책 현장 실행력 향상 강조",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43SVBjVGluRnQ1MzVSVXZDLUR6eVZVTkpaMzY5dnJwQWxlR1VGU0dLeGxDMTIzdmo0cnE1ZXZiZ2Y0UTlfTGQwYmFydnFxZDdqX1dIZHpVVHNndWRpd19qaFJjcmtwTTZUdEx0eU5R?oc=5",
+    "source": "현대일보",
+    "published": "2026-07-24",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "박은경 의원은 교육정책의 현장 실행력 향상을 강조했습니다.",
+    "implication": "교육정책의 현장 실행력 향상에 따라 교사는 수업 본질에 더욱 집중할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "김영희 경기도의원 “교육정책은 현장을 기준으로 설계돼야”",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTUluT0x0QUoyVWtlcVFxSkxqZDJ3R2ltUHhrNjhSaFJvS3JSZm9vY0xxaFJhLTlFRHlRaXZ2aGlXTXhuRm5SaDIxdEFjd1l1U3dWRFBkakJUMnZyUnQ2ZFZlVEFJdjdmMnYwOGprR25nLWtmalRZa3ZLWm9fTTkxR05GX2Uzejg0a3BKSUFNWGVJSDA?oc=5",
+    "source": "서울신문",
+    "published": "2026-07-24",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "김영희 경기도의원은 교육정책이 현장을 기준으로 설계되어야 한다고 강조했습니다.",
+    "implication": "교실 현장의 생생한 목소리를 반영하여 학생 맞춤형 교육 활동을 계획할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "‘충북교육청 SNS 2관왕’…교육정책보다 ‘공감’이 통했다",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5Z012WjBIM1ZnckNTVV80d1BOek5lek1xamZwTjQzSjdKb1FTOFlSSlF3Q3VGTGZEUHVlUHFndi1ib19QTGtFT1BxUEoyTU84WDBTR0NCMHNfS19lSkg1ZUNtcTdCRkszUGkzQg?oc=5",
+    "source": "공뉴스",
+    "published": "2026-07-24",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충북교육청"
+    ],
+    "summary": "충북교육청 SNS가 교육정책 홍보보다 공감 콘텐츠로 소통하며 2관왕을 달성했습니다.",
+    "implication": "학생들의 눈높이에서 공감할 수 있는 소재를 활용하여 수업 몰입도를 높일 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Experiential Versus Instructional Approaches for Eliciting Metacognitive Awareness in AI-Assisted Learning: A Short-Term Longitudinal Study",
+    "url": "http://arxiv.org/abs/2607.20047v1",
+    "source": "",
+    "published": "2026-07-22",
+    "keyword": "K-12 education",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 활용 학습에서 경험적 접근법이 지시적 접근법보다 초기 참여도와 인지 지식에 효과적이며, 메타인지 조절 능력은 지연되지만 지속적인 향상을 보여 AI 교육 설계에 경험적 접근의 중요성을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Pau Benazet i Montobbio', 'Janne Rotter' 외 1명",
+    "pdf": "http://arxiv.org/pdf/2607.20047v1"
+   },
+   {
+    "n": 2,
+    "title": "A REVIEW OF AI-ENABLED INTELLIGENT ASSISTANTS FOR PERSONALIZED AND ADAPTIVE LEARNING IN HIGHER EDUCATION",
+    "url": "https://doi.org/10.56726/irjmets96012",
+    "source": "openalex",
+    "published": "2026-07-22",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "이 논문은 AI 및 NLP 기술을 활용하여 고등 교육에서 개인화되고 적응적인 학습을 지원하는 새로운 AI 기반 지능형 조교(AIIA) 프레임워크를 제시하며, 이는 학생의 학습 성과와 만족도 향상에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "",
+    "pdf": "https://doi.org/10.56726/irjmets96012"
+   },
+   {
+    "n": 3,
+    "title": "Research on Teaching Strategies for High School English Writing Instruction Assisted by Generative Artificial Intelligence",
+    "url": "https://doi.org/10.63313/esw.9157",
+    "source": "openalex",
+    "published": "2026-07-21",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "개인화 학습"
+    ],
+    "summary": "생성형 AI 기반 고등학교 영어 쓰기 교육 전략을 연구하여, 개인화된 피드백과 다각적 지원으로 학생의 언어 능력과 사고력 향상을 돕고 교사의 업무 부담을 경감시키는 방안을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Huilin Hu, Min Deng",
+    "pdf": "https://doi.org/10.63313/esw.9157"
+   },
+   {
+    "n": 4,
+    "title": "Editorial: Multidisciplinary aspects and performance in racket sports-volume III",
+    "url": "https://doi.org/10.3389/fpsyg.2026.1907776",
+    "source": "openalex",
+    "published": "2026-07-22",
+    "keyword": "",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [
+     "마음건강"
+    ],
+    "summary": "본 논문은 심리, 인지, 전술, 발달, 사회심리적 측면 등 라켓 스포츠의 다학제적 요인들을 분석하고, 개별화된 훈련과 정신 건강 증진, 첨단 분석 기법의 중요성을 강조하며 스포츠 교육에 이바지합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Jesús Ramón-Llín, Bernardino Sánchez-Alcaraz 외 1명",
+    "pdf": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1907776/pdf"
+   },
+   {
+    "n": 5,
+    "title": "DATA-DRIVEN DECISION MAKING DALAM PEMBELAJARAN: SEBUAH TINJAUAN SISTEMATIS TENTANG PERAN, TANTANGAN, DAN PRAKTIK GURU",
+    "url": "https://doi.org/10.51878/teaching.v6i3.13561",
+    "source": "openalex",
+    "published": "2026-07-22",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "문해력"
+    ],
+    "summary": "본 연구는 체계적 문헌 고찰을 통해 교실 수준 데이터 기반 의사결정(DDDM)의 주요 저해 요인과 성공적 실천 방안을 규명하며, 교사의 데이터 문해력 및 협력적 학교 문화 강화를 통한 교육 정책 개선에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Luthfi Yacob, Adam Pinaria 외 1명",
+    "pdf": "https://www.jurnalp4i.com/index.php/teaching/article/download/13561/8645"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "오픈AI, 데스크톱 앱에 'GPT-라이브' 음성 제어 도입",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213129",
+    "source": "AI Times",
+    "published": "2026-07-24",
+    "keyword": "",
+    "topic": "product",
+    "kind": "opinion",
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "오픈AI의 음성 제어 데스크톱 앱 도입은 AI의 일상적 상호작용성을 높여 사용자 편의와 생산성 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[게시판] 오픈AI, 챗GPT 워크·코덱스로 25일 미니해커톤 진행 등 단신",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213155",
+    "source": "AI Times",
+    "published": "2026-07-24",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "오픈AI의 해커톤은 챗GPT 워크·코덱스 기반 AI 생태계를 확장하고 실용적인 애플리케이션 개발을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "새로운 중국 AI GLM-5.2, 모든 ChatGPT 모델을 제치고 Anthropic의 Claude Fable에만 근소한 차이",
+    "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNLXZBb3BLUlRkbGJKNTZWcWJaajF5TmN3amxaaVNPeWlOd1RnSm14ZzdXclF2bEk2cWxhdmtTVU01RVNtSHFZN3BjRzhtRzgyRXh3MVhlYVVubGNLdGJUR0djTHN3dVlPNG93N2luOXJqWEtBNEZ1MnBxU1NvNHZQWWJWU3cyaUlsUi1ldE5zZm05QWttbW9FX3djZGZaXzVyZ2sxUTlwcWVNYUZ3UzhZZ2ZrMzZGZjdESGZpbFlJU2V6XzNYNFp0cllGdVppMUhBbU9UeHVqQTBpUGVGWjhMNVpqOUdMWGMtNC1yaVZjZ0V6V3poQ1FTRlBCYkNybF95cEg3aVVDQkZ6SXYwQTJHLUxBSzRFZ3UwZlJ4RlZYNFhaRV93aDhpX1NpWmFFR0wwNU9tVlU5eGlsNERzUTNkXzNZc2pKeUJsNG13?oc=5",
+    "source": "Yellow.com",
+    "published": "2026-07-24",
+    "keyword": "Anthropic",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Anthropic",
+     "Claude"
+    ],
+    "summary": "중국 AI GLM-5.2의 부상은 글로벌 AI 기술 경쟁을 격화시키고, AI 생태계 선두권 지형을 재편할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "앤트로픽, '가성비' 앞세운 AI '오퍼스5' 출시…GPT-5.6 능가",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnS0psUzM3OHJhRWJ1bkpvbGVDTS0xUjlSMGtwNDFJNzN2bURqZVZnNVJDTmNLa192QUloemdteVNNSmp2X0JxSGFzOFNRZTM5M2l5Z2dSaFVLMlhUWWpyTdIBYEFVX3lxTFBnS0psUzM3OHJhRWJ1bkpvbGVDTS0xUjlSMGtwNDFJNzN2bURqZVZnNVJDTmNLa192QUloemdteVNNSmp2X0JxSGFzOFNRZTM5M2l5Z2dSaFVLMlhUWWpyTQ?oc=5",
+    "source": "연합뉴스",
+    "published": "2026-07-24",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "ChatGPT"
+    ],
+    "summary": "고성능 AI의 비용 효율성 경쟁은 AI 기술 보급을 확대하고 시장의 핵심 경쟁력을 성능과 가성비로 재편할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[Anthropic, Claude 음성 모드 대폭 업그레이드…업무용 연결 강화] 이번 개편으로 사용자는 Opus, Sonnet, Haiku 중에서 선택할 수 있고, Gmail, Google 캘린더, Slack, Canva, Notion과 연동해 실제 업무까지 음성으로 처리할 수",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1vR3dtdEh1ZFNBMHNUY1ZIVXBVWkdCUW8zTzlkRlZ1NG5lYjVkX2M0Q2d0NWNNQzVxQWpJMWwzblg?oc=5",
+    "source": "AI넷",
+    "published": "2026-07-24",
+    "keyword": "Anthropic",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude",
+     "Google"
+    ],
+    "summary": "클로드의 업무용 음성 AI 강화는 AI가 실제 비즈니스 작업을 직접 처리하며 기업 생산성 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "테크타카, 180억 규모 후속 투자 유치…”AI 물류 운영 솔루션 고도화”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213152",
+    "source": "AI Times",
+    "published": "2026-07-24",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [],
+    "summary": "이번 투자는 AI가 물류 산업 혁신의 핵심 동력임을 입증하며, 특정 산업군에 특화된 AI 솔루션 시장의 성장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
+    "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes/",
+    "source": "The Decoder",
+    "published": "2026-07-23",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "에이전트"
+    ],
+    "summary": "AI 시스템의 취약점을 악용하여 악성 에이전트가 지속적으로 제어될 수 있음은 AI 생태계의 신뢰와 안전을 위협할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "[속보]젠슨 황 \"한국 위한 LLM 개발…엔비디아 AI 연구원 韓 이주\"",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9reG1QanUzeGo4Rm9zNEpMS3dxX1h6SGw4TjhCVzRDNzZ5UjZGUW5mdWtvaVhES0cwaUluSURJWmFfcjNiMWxsZG9TVHlReVVMR2R6SWU5YlJBTWc?oc=5",
+    "source": "뉴스1",
+    "published": "2026-07-24",
+    "keyword": "LLM",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "LLM"
+    ],
+    "summary": "엔비디아의 한국 LLM 개발 및 연구원 이주는 한국 AI 생태계 강화는 물론, 하드웨어 기업의 AI 소프트웨어 직접 진출 가속화를 의미합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "제로원에이아이 'ZEO Med 2', 한·미 의사 국가고시 벤치마크 1위…챗GPT 5.2·제미나이도 앞섰다",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PcThiVXBUczh2VHRZTUlFMy1uU0hEVy05OVJyNzM3dUJYSk5CSExpQ015N2tZc0haMjZXNEd1eUNLVnRWSGZpeGY1TmtWUWxJd3RuVQ?oc=5",
+    "source": "AI 매터스",
+    "published": "2026-07-24",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "벤치마크",
+     "ChatGPT",
+     "Gemini"
+    ],
+    "summary": "국내 전문 AI의 약진은 특정 분야에 특화된 AI가 글로벌 범용 AI를 능가하며, 전문 AI 시장 경쟁과 산업 적용을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "AMD·세레브라스, AI 추론 플랫폼 협력...\"프롬프트-토큰 생성 분리로 성능 5배 높인다\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213143",
+    "source": "AI Times",
+    "published": "2026-07-24",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "AMD·세레브라스의 협력은 프롬프트-토큰 분리 기술로 AI 추론 효율을 극대화하여 AI 산업의 대중화를 이끌 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

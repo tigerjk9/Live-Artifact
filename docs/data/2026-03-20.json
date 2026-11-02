@@ -1,0 +1,406 @@
+{
+ "date": "2026-03-20",
+ "generated_at": "2026-11-02T11:53:43+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "AI 코딩 시대, 아이들은 왜 코딩학원으로 달려가는가[기고/신종호]",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBSbk1XNGwyWWkwYlJMWmRHYVRBYUZuZEhKeEc0Z09DYU9lM3ZjR3F5U0w4Xy0zYXVpbDdrY3Y3WEtBZkswX0VBOFk3dXN4YnV1VGY3dlFpSUZ5VnZVYzVaRklNUU4wZ9IBZkFVX3lxTFBSbk1XNGwyWWkwYlJMWmRHYVRBYUZuZEhKeEc0Z09DYU9lM3ZjR3F5U0w4Xy0zYXVpbDdrY3Y3WEtBZkswX0VBOFk3dXN4YnV1VGY3dlFpSUZ5VnZVYzVaRklNUU4wZw?oc=5",
+    "source": "동아일보",
+    "published": "2026-03-19",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [
+     "코딩 AI"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 2,
+    "title": "[기고]AI 중심 대학의 성공 열쇠...'결과' 아닌 '과정'에 있다",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdWRDdFB6LTdTRFB4QUpwUWZOWm8tUllRYVZrZDNrM3p4TzVjc0pwRzJqYk5LY2pnTjRpNTRISmdZNUM5bWdkazV3dHdNNW5ZTHlPZkdXRGtfMmN4bDF5dWJ4YmdZOFRTZmZCLVE2UFRTdmhFcktJckdOaHkzbnRMUQ?oc=5",
+    "source": "edaily.co.kr",
+    "published": "2026-03-19",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 3,
+    "title": "[교육칼럼]향기박사 문제일의 ‘뇌 이야기’…내 마음을 알아주는 인공지능과 좋은 친구 되는 법",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Jb1d3MVRaakxCQWVYaDRDN3dPYkFPZ1N1WTZITk1QYmZ6aWFmQ2Y0NkVMNTRtWDZBQUc3R2d5eWdSOUZ3NDVwYTVVc2REQzd6c3ViUDd5alc1MGo3Nm1JVHcxeHhTY1d2NTg0?oc=5",
+    "source": "영남일보",
+    "published": "2026-03-19",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 4,
+    "title": "[이문호 칼럼](149)한국 '쇠젓가락' 25cm ·중국 '대나무 젓가락' 28cm · 일본 '나무젓가락' 20cm과 호루무즈해협의 목줄",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01eGdLVThMajJ1aFJUcjlObzlacDByekc1d1JQZnBxYkFTdW5JRVREcl9uaFd3VHo0R3NDZWktTkh0aW9iT3lJTEU3a1VLT0hFTG1FTTZJM0h3bi1GeklFUERKd2NyeTR5ejBIdA?oc=5",
+    "source": "뉴스N제주",
+    "published": "2026-03-19",
+    "keyword": "뇌과학",
+    "topic": "global",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 5,
+    "title": "뇌과학과 AI의 만남… 우수미 대표, 수면케어·치매예방의 새 지평을 열다",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1IYTQ2cGQ4OGZmTzJBcFpKSGs0MU9DZXRpUml4NWlyRDgyUmQyS1RIUzUwM3AzTlVEWG5vZm5VOWhuVmNPLU1ITlNldUM?oc=5",
+    "source": "브랜드경제신문",
+    "published": "2026-03-19",
+    "keyword": "뇌과학",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 6,
+    "title": "교육혁신연대, ‘진보교육감 후보 단일화 내홍’ 수습에 나서",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pT0Y4Y3pfOGRjbGJVRnlERHVRaUgycnRxbXFRT2E5amh5cjIzSWhKOVQ3RzI4NE1KX1VueXhvbUJGZld6S0ZTSFB5clhWM1U?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-03-19",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육감 선거"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 7,
+    "title": "파주시, 2026년 미래기술교육학교 운영",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GNHR0VjN0YTZTU3pLU0lYVUQwMnRaRlZrY2R0N242NWg2ajZUbWljWXVnazJDS05yX1Y5WHBiYlhVWGFSNV9kWEc3STUzOWtWVTJFbm0xNk91bHhmTWFfek15N0lIZFE?oc=5",
+    "source": "경인신문",
+    "published": "2026-03-19",
+    "keyword": "미래기술",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "경기도교육청, 넥슨과 손잡고 청소년 코딩교육",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iNXB0YkVUSlJLYkFxNmptemM3ajA3X3lWRy1lbGJNY1liTVhHc2FRY0IzQUJ4c1JpSEgyZlpGQVBaNVg0YmJnMDBQZ2RPS3ZlVmtZ?oc=5",
+    "source": "네이트",
+    "published": "2026-03-19",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "코딩 AI"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "과기정통부·교육부 '원팀' 체계 구축… AI 인재양성 본격화",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNZVZMZmtHM0hlbkQxR2hUb01QZ3JhM2F3bWR3N0FTQzRab3d2UFdxczZhVW9xQVR4cHN5RGFKVTBzNzBLcTg4cG9sNkhKajB5ZkJreHRISDZJeC1GWmtjQkR4OWhBYmVhUlhJcC04SHVERTA?oc=5",
+    "source": "디지털투데이",
+    "published": "2026-03-19",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 10,
+    "title": "한림대, AI 기반 Hi-Flex 교수법 확산 본격화",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HQlZHTG14VFBKaGNQbW40Ri1PS3VoWmtFbWN4WUFyTWwyaVEzaVdFd2plSFJfS3dnY04zZjJ3UHB1MnAxaXQwVkpVdEFuTEozZFNLbU01UEUtd3FTcWlYaE1MaVhKZw?oc=5",
+    "source": "한국대학신문",
+    "published": "2026-03-19",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Empowering Education with Generative Artificial Intelligence Tools: Approach with an Instructional Design Matrix",
+    "url": "https://www.semanticscholar.org/paper/2eeff0f534d303581bc1199671600fbd04a2d01c",
+    "source": "semantic_scholar",
+    "published": "2023-07-25",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "개인화 학습"
+    ],
+    "summary": "본 연구는 4PADAFE 교수설계 매트릭스와 생성형 AI 도구를 결합하여 교육 효과를 높이고, 특히 대규모 MOOC 환경에서 맞춤형 학습 경험을 제공함으로써 21세기 교육의 혁신을 가능하게 함을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Lena Ivannova Ruiz-Rojas, Patricia Acosta-Vargas 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "Artificial intelligence in language instruction: impact on English learning achievement, L2 motivation, and self-regulated learning",
+    "url": "https://www.semanticscholar.org/paper/69d556419eefcd05dbf21a6b666568a2825f4c71",
+    "source": "semantic_scholar",
+    "published": "2023-11-06",
+    "keyword": "",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제"
+    ],
+    "summary": "본 연구는 대학생 EFL 학습자들을 대상으로 AI 기반 언어 교육이 영어 학습 성취도, 학습 동기, 자기 주도 학습에 미치는 긍정적인 영향을 혼합 연구 방법론을 통해 밝혔으며, 이는 언어 교육 분야에 AI 기술 도입의 가능성을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ling Wei",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Pedagogical Paradigms in teaching EFL classroom: evaluating approaches of cognitivism, constructivism, pragmatism, and connectivism",
+    "url": "https://www.semanticscholar.org/paper/53525118c107ab3425f8672d9dff7a29d1fcb9b8",
+    "source": "semantic_scholar",
+    "published": "2023-02-08",
+    "keyword": "Connectivism",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 EFL 교육에서 인지주의, 구성주의, 실용주의, 연결주의적 접근법을 적용하여 대학생들의 영어 능력 향상과 만족도를 높였으며, 협력 학습, 학생 자율성 증진, 비판적 사고 함양을 통해 공동체 중심 학습 환경을 조성하는 데 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Jeanelly Cecilia Aguilar Parra, Byron Carlos Reasco Garzón 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "Can flipped classroom pedagogy offer promising perspectives for mathematics education on pandemic-related issues? A systematic literature review",
+    "url": "https://www.semanticscholar.org/paper/5b9c8209a32806f8447711f33e48c5b8c92db67a",
+    "source": "semantic_scholar",
+    "published": "2022-06-28",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 97편의 논문 분석을 통해 팬데믹 상황에서 플립러닝이 수학 교육에 긍정적인 효과를 가져다주지만, 동시에 한계점도 존재하며, 위기 상황에 대비하는 수학 교육 시스템 구축에 기여할 수 있음을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Mustafa Cevikbas, G. Kaiser",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "Artificial Intelligence in Education: Mathematics Teachers’ Perspectives, Practices and Challenges",
+    "url": "https://www.semanticscholar.org/paper/5ce32325fa9ded5b2567a18945081b8c28182f86",
+    "source": "semantic_scholar",
+    "published": "2024-01-03",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "아부다비 수학 교사 580명을 대상으로 AI 시스템 활용에 대한 인식, 어려움, 교육적 가치를 조사한 결과, AI가 학습 동기 부여 및 학생 성취도 향상에 기여할 수 있지만 교사들의 노력 부담과 교육 자격에 따른 어려움 차이가 존재하며, 이는 향후 AI 교육 통합 가이드라인 수립에 활용될 수 있음을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Y. Wardat, Mohammad A. Tashtoush 외 1명",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "\"트랜스포머 벽 넘어\"...'맘바-3', 메모리 절반으로 성능·속도 능가",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208071",
+    "source": "AI Times",
+    "published": "2026-03-19",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "맘바-3의 등장은 트랜스포머 의존도를 낮추고 AI 모델 경량화 및 효율성을 높여 AI 기술 확산에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "OpenAI overhauls ChatGPT's model selection",
+    "url": "https://the-decoder.com/openai-overhauls-chatgpts-model-selection/",
+    "source": "The Decoder",
+    "published": "2026-03-19",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "OpenAI의 ChatGPT 모델 선택 방식 변경은 사용자 편의성 증진을 넘어, AI 모델 경쟁 심화와 맞춤형 AI 서비스 확산을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[3월19일] \"AI 사용 기업, 앞으로 '토큰 효율성' 따질 것...개인별 사용 내용 추적 시작\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208069",
+    "source": "AI Times",
+    "published": "2026-03-20",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 도입 기업들이 토큰 효율성을 추적하는 것은 AI 비용 최적화와 사용량 관리를 통해 투자 효율성을 극대화하려는 움직임입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "\"ChatGPT에서 화장품 산다\"…아모레퍼시픽, AI 쇼핑 실험 본격화",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03QUMzRE93cm5mbzVHSDd5d2ZFUzlaamxaelBOclZESUd1LW0zbHMwaGJpOUN4bFdhbThHZUptOS1Zc2FHczFabTUzM21SdU0?oc=5",
+    "source": "구글 뉴스 AI",
+    "published": "2026-03-19",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "아모레퍼시픽의 AI 쇼핑 실험은 챗GPT를 활용한 새로운 고객 경험 창출과 맞춤형 마케팅 가능성을 보여주는 중요한 시도입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "구글, 챗GPT·Claude 경쟁 위해 Gemini Mac 앱 테스트 By Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1paUFTaG94X0ZoWVJPaTRMU29qU0F3bXRpdFBEeVJwN1RoeEwwMVcxQTQzNTJsX3FRSVNMQ25GQ0hHdWtEMUstaUVuMFNBRVJETEtWS0ppTXJUWTI4OV9hMEEzX2ctc29ZcmVBdnAxQzA4QW8zdnRJ?oc=5",
+    "source": "Investing.com 한국어",
+    "published": "2026-03-19",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Google",
+     "ChatGPT",
+     "Claude",
+     "Gemini"
+    ],
+    "summary": "구글의 Gemini Mac 앱 테스트는 AI 플랫폼 경쟁 심화 속 사용자 경험 확대를 위한 중요한 전략적 행보입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "젠슨 황 \"AI, 단일 모델 시대 끝\"…오픈소스·에이전트 부상",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBxYVhreElISDdyTXQtclNwczB0WEVQZnhxYzlLUkNieWtZdlhnVlplUW9zaHptU0dkZTh3MFNQdmluN29pdU9XMTJFb18?oc=5",
+    "source": "아이뉴스24",
+    "published": "2026-03-19",
+    "keyword": "오픈AI",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "오픈소스",
+     "에이전트"
+    ],
+    "summary": "단일 모델에서 벗어나 오픈소스와 에이전트 중심으로 AI 기술이 분화되면서, 특정 기업 종속에서 벗어나 혁신적인 서비스가 가속화될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "중앙대 이민혁 교수 연구실, 세계 최고 컴퓨터 비전·AI 학회 《CVPR 2026》에서 논문 3편 동시 채택",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KcWhCODdfTDYzTmF2cF9iNTk4NGhPak9SM3V5eU5pR1pUNzRjSURLc1BmUHVHUnFSeGc0cHB2TEFuR01vU3ZGa1lXQ1NvcV9oclVHVmdYU3ZRQnVlWWFjT1Zxc0s?oc=5",
+    "source": "매일일보",
+    "published": "2026-03-19",
+    "keyword": "인공지능",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "중앙대 이민혁 교수 연구실의 CVPR 2026 논문 채택은 국내 AI 기술 경쟁력 강화 및 차세대 비전 AI 연구 활성화에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "딥노이드, 뇌 연령 추정 AI 연구 논문 국제 학술지 등재",
+    "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNVmVfSVIzWEViR3R1TzI1ZzhXRUNYWDhYOE95ZGhkS0xRa1c5aG55cWtvczhxOTFQcERHa3Y4eldMcHV0amdQRFhSa0U1bS1ZelNBeGplQmlXQ3dUSlFLV0RWZ0E2ejFVZTIxWURDcUNNU2RwclhqZTVnREE1TXZ6TnprUXhiSjVmZnMyaGMzVngtM0hwOW1Wczdrb2ZDQ2QwRmJ5czd1aDNhTWRWYmJoQ2V0eVExX1B2WmREX1RnWEtkRlZUZkY3XzFBeThtUktMVTVWQ09qZXR1dWMtMmFiOVJEcXdzb0tkSHo0OUJRUVZldGFXd1pUdmxCQ05SbUpuRjVGT0lXVHZ0ZFlEd25xMkJ1eUV1Y2toaTZQR2hrb2VLaGFER2JIVkdoQURwM1dlWERocnRpeEdwUDMyMG14RHZFVUROWEpiN3ZmRUxod0lJTnBINC1sZUE5alM?oc=5",
+    "source": "MSN",
+    "published": "2026-03-19",
+    "keyword": "AI연구",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "딥노이드의 뇌 연령 추정 AI 연구는 의료 AI 분야의 발전과 함께 개인 맞춤형 건강 관리 서비스 확산에 기여할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "KAIST 연구진, 인공지능 반도체 '소울메이트' 개발",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5iME9yejVqZUlkQy1UMUYtZDRsZHlXSTkxeURQR1pZZGxCSkZmY3l2bWpYbEgxM1RjdDFjSkxjZmFHa3RoRlEtMzkwci1ZWWZoMWlpa2hBalE5WVFkenhBYTFGcXhpbmFleVgxbGpB?oc=5",
+    "source": "전국매일신문",
+    "published": "2026-03-19",
+    "keyword": "인공지능",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "GPU·데이터센터"
+    ],
+    "summary": "KAIST의 '소울메이트' 개발은 AI 반도체 국산화와 기술 경쟁력 강화에 기여하고, 관련 산업 생태계 확장에 긍정적인 영향을 줄 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "“GPT의 시대는 막을 내렸다”... 실리콘밸리 천재들이 비밀리에 갈아탄 ‘인간 없는 AI’의 설계도",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYmplX242SW9XUVV6a0VoMk1rbTdITFY4VXpXN25NLUZCUHhEN0VvaDNDN2F1WUJ5cVRfaTNydjdleVlhOHdhU1NwNlM5dXdkX25mU1JOczZIWS1vQU12cFJvU3l6TXlSM1l5ZGxacHJZeDNfejBaSmVFTDNmdUdka0dYMEVTcnMy?oc=5",
+    "source": "글로벌이코노믹",
+    "published": "2026-03-19",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "GPT 모델의 한계 극복을 위한 새로운 AI 아키텍처 경쟁은 AI 기술 발전의 방향성을 제시하고 산업 판도 변화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "tech": "AI 기술은 트랜스포머 모델을 넘어 새로운 아키텍처, 효율성 증대, 쇼핑 등 다양한 산업 적용, 오픈소스 및 에이전트 기반 시스템으로 진화하며, 인공지능 반도체 발전과 인간 없는 AI 설계 등 미래 기술 혁신을 가속화하고 있다."
+ }
+}

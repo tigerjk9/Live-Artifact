@@ -1,0 +1,434 @@
+{
+ "date": "2026-08-22",
+ "generated_at": "2026-11-02T11:41:59+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[AI칼럼] AI보다 먼저 배워야 할 것 - 50·60대를 위한 생성형 AI 리터러시",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBfaUdMTnVwbTZoSm1rOG9HcFVGY3lHdXRyU2ozTDQ4cllMa2VULWdrUFcwazJobWxFMXYza0dZWUx0OEQ4TGFLM3pR?oc=5",
+    "source": "뉴스N연합",
+    "published": "2026-08-21",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [
+     "생성형 AI",
+     "AI 리터러시"
+    ],
+    "summary": "AI 칼럼은 50·60대가 생성형 AI를 활용하기 위해 필요한 기초 리터러시 교육의 중요성을 다룹니다.",
+    "implication": "교실에서 학생들에게 생성형 AI 활용에 필요한 기초 리터러시를 가르칠 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "“부모의 경제력이 아이의 실력이 되지 않도록”…김석준 부산교육감, ‘공교육찬스’로 미래교육 대전환",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55cnhwZ0JKbFg2Y1NWbG5UTmgtcFlTc0FyOHhUNnJxVExkeGMtNEZBVVdpUlR2eExMT0xxME5fNTdzR1hWUEJKSVd1bzIwWFZoOUN5aVlzbm01bFRwcUlfbHNzQ0hKaGFJU3d2a0RNaw?oc=5",
+    "source": "웰페어뉴스",
+    "published": "2026-08-21",
+    "keyword": "AI교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "부산시교육청"
+    ],
+    "summary": "김석준 부산교육감은 ‘공교육찬스’를 통해 부모 경제력과 무관하게 미래교육을 대전환하겠다고 밝혔다.",
+    "implication": "학교에서 제공하는 다양한 교육 자료와 프로그램을 활용하여 학생들에게 균등한 학습 기회를 제공할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "교육교부금 연동 55년만에 폐지…대구교육청 \"교육정책 추진에 막대한 영향\"",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XY0dUVEpsM3ZmNDlUQVpkWmNuZDR0UE8yYm00UjdfNmRDdTY5Q0ZqVE9lM3F4UjhmUjdfS3RvanZwVVAzdkxIZFpTQnhYcWxCcEktSUhTRE1GZUF1N2tZSVl3?oc=5",
+    "source": "매일신문",
+    "published": "2026-08-21",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육 예산",
+     "대구시교육청"
+    ],
+    "summary": "55년간 유지되던 교육교부금 연동이 폐지되어 교육정책 추진에 막대한 영향이 예상됩니다.",
+    "implication": "교육교부금 폐지 뉴스를 바탕으로 학교 예산 변화와 교육 정책 영향을 학생들과 토론할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "장상기 서울시의원, 수명중·수명초 '교육현장 목소리' 청취",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Ib3lxdHBJeU5ObTZPUmJWbDRwRXVPZEoxcm92dGpobEJPNFF5cEprRU41SGJDYmRrZkwzcXc3dnlFYXI1eHFWMGZ0UncyTzZ4d2NXVktCVVVEUG82UkxyNDlsakZBYVRr0gFoQVVfeXFMTUhveXF0cEl5Tk5tNk9SYlZsNHBFdU9kSjFyb3Z0amhsQk80UXlwSmtFTjVIYkNiZGtmTDNxdzd2eUVhcjV4cVYwZnRSdzJPNnh3Y1dWS0JVVURQbzZSTHI0OWxqRkFhVGs?oc=5",
+    "source": "서울복지신문",
+    "published": "2026-08-21",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "장상기 서울시의원이 수명중·수명초 교육현장의 목소리를 청취했습니다.",
+    "implication": "수업 현장의 실질적인 문제점과 개선 방안을 정리할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "김대중 교육감 'K교육특별시'…\"전남광주가 대한민국 교육 표준 만들겠다\"②",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3dW1Eb3NiVHBYbWEtelNpcVdtV3ZvR1FFbTVCM1V1SGNnSFZxbzM1elNZeFkwWFN6bGJleGxOR3phQXJnYkVMek1kSk1QYWEtbnc5U2FQaml6cFliSHIwSUVDMkdpNkh6UW9UTnlB0gFyQVVfeXFMTXlRWThUOEk2QjNVc2lpdVdxVUFRYlNFeURUTngyV0VkNmZocjdmRGljdllqZEJlZFl3Vmd5czF2ejZHRHh6TWJFdUprYnFJZldlTWxaRWlxM2dpQjMxY1FKbUdIU1JzVjV3MnFKNFVnN3VB?oc=5",
+    "source": "폴리뉴스 Polinews",
+    "published": "2026-08-21",
+    "keyword": "에듀테크",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "광주시교육청"
+    ],
+    "summary": "김대중 교육감이 'K교육특별시'를 통해 전남광주가 대한민국 교육 표준을 만들겠다고 밝혔다.",
+    "implication": "전남광주 교육 현장에서 시도되는 새로운 교육 방법론을 수업에 적용해 볼 기회가 될 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "홍사협 ‘생성형 AI 실무 활용법’ 교육",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBVMWhHQXhELVR6US03bmdxV29aY1lFZHJRcl9sbzQ2ZG5fdkVodnJyX3ZKRzhVVHFnZzBCVVdaSEJIVnFtTGd6alFVWGF4NVBmbmRKd3lrMThtQVZYNmUyR3RlQU1HU2RHTkRMUXVB0gFyQVVfeXFMT1Vqa3VQMlZHLVRZNG8tU2l5MlBtQTBPbFQzWXJjQS1hMzd5S1RVbzZ1aGt6bFdJZXh5SlY2ZDRCM0dCV01UV0pwYURVV1ZnQ0RVU0N3OHcwV0ZIYU5BWngzaHBON1ZFcnBwanFHMGhuX3l3?oc=5",
+    "source": "더뉴스24",
+    "published": "2026-08-21",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "홍사협은 생성형 AI의 실무 활용법에 대한 교육을 실시합니다.",
+    "implication": "수업 자료 제작, 학생 활동 아이디어 구상 및 피드백 제공에 생성형 AI를 바로 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "교육감협의회 “지방교육재정교부금 내국세 20.79% 연동 유지해야”",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xQU82ZkRUZlYwRHg5Nlk5aHBwUFA0WUlRWnhnV0Y1QVpqS0R1LWQ0OXNoN0kzUUY0by1fMkNManhBMTdsY2tvendhc0ZfWWs?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-08-21",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육 예산"
+    ],
+    "summary": "교육감협의회는 지방교육재정교부금이 내국세의 20.79%에 연동되도록 현행 유지를 촉구했습니다.",
+    "implication": "학교에 지원되는 교육 재정이 국가 세금과 어떻게 연관되는지 학생들에게 설명하며 실생활 경제 교육 자료로 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "대구시교육청 “교육교부금 현행 유지해야”",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BRHJIUVNMWjFpOTJ1a3VxRUFDRUpPYmduQUxMcGZpWVNZRHl2dm9HZUpsekpnX2ppZnJjNzdUazZPZnJkajN6TnVLeU1qdUlYZ0FYWXZhbXFTMlE?oc=5",
+    "source": "KBS 뉴스",
+    "published": "2026-08-21",
+    "keyword": "디지털교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "대구시교육청",
+     "교육 예산"
+    ],
+    "summary": "대구시교육청은 교육재정의 핵심인 교육교부금을 현재 수준으로 유지해야 한다고 주장합니다.",
+    "implication": "교육교부금 현행 유지로 교실 내 기존 학습 자료와 교육 프로그램을 안정적으로 활용하여 수업을 진행할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "\"20.79% 폐지, 사실상 교육재정 축소\"…교육감·교원단체 일제히 반발",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kWlBSNjkyaXpwc2pLRHZ3M25TM3R1T1JYZHFEUGp6dnYya2ZUb2tXSzhZSFBvRkkyMEowNDBBajRkRmI5dVphcW43bVd6LXdENlFqcVRZM3c0dw?oc=5",
+    "source": "한국경제",
+    "published": "2026-08-21",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교원단체",
+     "문해력"
+    ],
+    "summary": "20.79% 폐지로 사실상 교육재정이 축소되자 교육감 및 교원단체가 일제히 반발하고 있습니다.",
+    "implication": "학생들에게 학교 예산과 교육 정책 변화에 대해 토론하며 경제적 문해력을 높일 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "\"학생 줄었다고 교육예산까지 줄이나\"…안민석 경기교육감, 정부안 비판",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6VzdhOU1ydWNjSDVVaWtDNlA3bm5CNFU2dWRXNktFUzRCYm1nSkdqTTVrQ0Y4ZlVaMEU2dGV6bUp6R2d6WnFrSG9mbHZRc2dBUFE3M0VaaGh0QQ?oc=5",
+    "source": "한국경제",
+    "published": "2026-08-21",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육 예산",
+     "경기도교육청"
+    ],
+    "summary": "안민석 경기교육감은 학생 감소를 이유로 한 정부의 교육예산 삭감안을 비판했다.",
+    "implication": "학생 수 감소에 따른 교육 예산 논의는 인구 변화가 사회에 미치는 영향을 토론하는 주제가 될 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Preservice teachers and artificial intelligence (AI): Factors influencing interest in AI-related training and the need for curriculum development in higher education",
+    "url": "https://doi.org/10.1080/21532974.2026.2715651",
+    "source": "openalex",
+    "published": "2026-08-19",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제"
+    ],
+    "summary": "예비 교사 157명 대상 연구에서 AI 도구 사용 역량 인식이 AI 교육 관심의 유일한 예측 변수로 밝혀져, AI 윤리 등을 포함한 통합 AI 교육 과정을 교사 양성 커리큘럼에 개발해야 함을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Dana-Kristin Mah, Fabian Hoya",
+    "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/21532974.2026.2715651?needAccess=true"
+   },
+   {
+    "n": 2,
+    "title": "Teachers' Experiences with AI in K-12 Education: Opportunities and Challenges",
+    "url": "http://dx.doi.org/10.1177/00472395261415889",
+    "source": "eric",
+    "published": "2026-01-01",
+    "keyword": "K-12 AI",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "K-12 교사 16명의 심층 인터뷰 연구는 AI의 교육적 이점과 윤리적 문제를 교사들이 어떻게 인식하고 활용을 기대하는지 밝히며, 인간 중심적이고 윤리적인 AI 교육을 위한 정책 및 지원의 중요성을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Kevser G&#x00FC;ne&#x015F; Metin, M&#x00FC;nevver &#x00C7;etin",
+    "pdf": "http://dx.doi.org/10.1177/00472395261415889"
+   },
+   {
+    "n": 3,
+    "title": "Incorporating Student-Centered Learning in an Ecosystems Course",
+    "url": "https://www.nsta.org/journal-college-science-teaching/journal-college-science-teaching-novemberdecember-2021-0",
+    "source": "eric",
+    "published": "2021-01-01",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 학습 효과와 비판적 사고를 향상시키는 학생 중심 학습의 대학 교육 도입 방안을 모색하며, 생태학 강좌에서 강의, 실험, 평가에 이를 적용한 구체적인 방법론을 제시하여 타 강사들의 활용을 장려합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Arif, Suchinta",
+    "pdf": "https://www.nsta.org/journal-college-science-teaching/journal-college-science-teaching-novemberdecember-2021-0"
+   },
+   {
+    "n": 4,
+    "title": "Research on the Application of AI in Personalized Education",
+    "url": "https://www.semanticscholar.org/paper/1b54a640d5bb928a34469f6fd7c35f7793a6f6a6",
+    "source": "semantic_scholar",
+    "published": "2023-12-22",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "본 연구는 AI 기술(자연어 처리, 지식 그래프)을 통해 학습 상황 분석, 맞춤형 지시, 교육 관리 등 개인화 교육의 핵심 요소를 구현하는 스마트 교육 프레임워크를 제시하여 효율적인 맞춤형 교육의 실현을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Guibin Zhu, Bo Zhao 외 1명",
+    "pdf": "https://dl.acm.org/doi/pdf/10.1145/3660043.3660172"
+   },
+   {
+    "n": 5,
+    "title": "CADA: a teacher-facing learning analytics dashboard to foster teachers’ awareness of students’ participation and discourse patterns in online discussions",
+    "url": "https://www.semanticscholar.org/paper/3b2b5278a9fb62dd2535e683d2bab0103abf0b06",
+    "source": "semantic_scholar",
+    "published": "2022-04-05",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [],
+    "summary": "온라인 토론에서 학생 참여를 분석하는 교사용 대시보드 CADA를 교사와의 협력적 디자인 기반 연구로 개발 및 평가하여, 교사 주도적 학습 분석 도구 개발이 현장 채택을 촉진하고 교육 개선을 위한 실행 가능한 통찰을 제공함을 입증합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Rogers Kaliisa, J. Dolonen",
+    "pdf": "https://link.springer.com/content/pdf/10.1007/s10758-022-09598-7.pdf"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "오픈AI, 맥용 챗GPT에 '애플 메시지' 플러그인 탑재...\"아이메시지 읽고 답장까지\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214219",
+    "source": "AI Times",
+    "published": "2026-08-21",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT",
+     "Apple",
+     "에이전트"
+    ],
+    "summary": "AI가 개인 소통에 직접 개입하는 에이전트 AI 시대를 열고, 타 플랫폼과의 심층 통합 경쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "\"챗GPT 등장 이후 웹페이지 35%에 AI 흔적\"...인터넷 생태계 지각변동",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214213",
+    "source": "AI Times",
+    "published": "2026-08-21",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "AI가 웹 콘텐츠 생산의 핵심 동력으로 자리 잡으며 인터넷 생태계 전반의 AI 기술 통합과 새로운 산업 표준 경쟁이 본격화될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "GPT-5.6 Sol drives OpenAI's revenue surge as it regains ground on Anthropic",
+    "url": "https://the-decoder.com/gpt-5-6-sol-drives-openais-revenue-surge-as-it-regains-ground-on-anthropic/",
+    "source": "The Decoder",
+    "published": "2026-08-21",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "OpenAI",
+     "Anthropic"
+    ],
+    "summary": "OpenAI의 GPT-5.6 Sol 성공은 AI 시장 경쟁이 신모델 혁신을 통해 급변하며, 기술 주도권이 곧 시장 지배력과 수익으로 직결됨을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "아마존, 오픈AI GPT-5.6 품었다…25개 리전 동시 공급",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tRWhySXBvb2dLNjBXUWV4TE1CQmtWLVMtclIwYzFZblZkalpzd2RKa1N1SnM5OHh6LS05bkI3eXNsQzUzVWFPdHp4TG5iYWZZbXVhcVppRXZZWUxjZ295SnBUS0I4OGdRZHlz?oc=5",
+    "source": "솔루션뉴스",
+    "published": "2026-08-21",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Amazon",
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "아마존의 GPT-5.6 광범위한 공급은 최신 AI 모델의 대중화를 촉진하여 AI 생태계 전반의 기술 혁신과 산업 적용을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[8월21일] 오픈AI가 ‘컴퓨터 유즈’에 보인 자신감…9년간 이어온 ‘행동하는 AI’의 현재",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214199",
+    "source": "AI Times",
+    "published": "2026-08-22",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "오픈AI의 ‘컴퓨터 유즈’ 자신감은 AI가 디지털 환경에서 직접 행동하는 에이전트 시대를 열어, AI 생태계의 패러다임을 바꿀 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "웨이모, 로보택시용 맞춤형 자체 칩 개발...외부 의존 낮추고 주행 판단 강화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214217",
+    "source": "AI Times",
+    "published": "2026-08-21",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [],
+    "summary": "웨이모의 자체 칩 개발은 자율주행 AI의 성능 최적화 및 외부 의존성 감소를 위한 하드웨어 수직 통합 경쟁 가속화를 의미합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "The builder’s guide to GPT‑5.6",
+    "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+    "source": "OpenAI Blog",
+    "published": "2026-08-13",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.6의 빌더 가이드는 차세대 AI 모델의 산업 적용을 가속화하며 개발 생태계의 혁신을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "[\"질문만 하던 시대는 갔다\"… 오픈AI, '챗GPT 워크'로 기업 지식 업무 공략 본격화] 코딩 에이전트 '코덱스' 기반으로 자료 조사부터 보고서 작성까지… 출시 두 달 만에 합산 사용자 1,000만 돌파",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBfU2RTb3JBRGJHT2VsOEN4d2t4VTZKdUx3UF9FRTNqM2ZpRjl2bXIzSjIxaTQxdXhMcWpXTmlRLTg?oc=5",
+    "source": "AI넷",
+    "published": "2026-08-21",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT",
+     "코딩 AI",
+     "에이전트"
+    ],
+    "summary": "오픈AI의 '챗GPT 워크'는 AI가 단순 질의응답을 넘어 기업 지식 업무에 통합된 핵심 생산 도구로 진화하며 AI 산업의 경쟁 구도를 재편할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "오픈AI 협업 효과 훨훨…'챗GPT 포 카카오' 누적 이용자 1300만명",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIRzhSNnd0bm02VThjY2tpdzZvSTFCdXpRTkRTYzZiN0pXRVlqUGk5TGl6STBwcFhMWVVrcHZQRVJsTlVlSXJCS19oUXg1WmprLTVR?oc=5",
+    "source": "네이트",
+    "published": "2026-08-21",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT",
+     "카카오"
+    ],
+    "summary": "오픈AI 모델과 카카오 플랫폼의 성공적 통합은 AI 기술의 대규모 사용자 확산과 상업적 가치를 높이는 핵심 전략이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "GS Neotek의 Claude Code on Amazon Bedrock 도입기: LLM Gateway 없는 경량화 사용자 통제 방안",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV2JGSHNkMUw3VXNpSkdCaVpkTFNvTUZiX1pLSjFRSS1jS0hLN2RXV093UHJOUUxEVEh2eGNTSzVWWlVCRmNMbktxaWJMLUVHOVJGQ2M4UmFWMUkyU0hvcHczcWVyS01WUm9PR2VuZXVCWHpzQzRGcUc0WkFORWg0Sm5UaDNMNHZK?oc=5",
+    "source": "Amazon Web Services (AWS)",
+    "published": "2026-08-21",
+    "keyword": "LLM",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Claude",
+     "코딩 AI",
+     "Amazon",
+     "LLM"
+    ],
+    "summary": "LLM 게이트웨이 없는 경량화된 사용자 통제 방식은 기업의 LLM 도입을 가속화하고 비용 효율성을 높이는 핵심 전략이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

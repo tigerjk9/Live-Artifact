@@ -1,0 +1,424 @@
+{
+ "date": "2026-07-04",
+ "generated_at": "2026-11-02T11:39:18+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[특별기고] 한국 대학교육이 진화하는 길",
+    "url": "https://news.unn.net/news/articleView.html?idxno=594301",
+    "source": "한국대학신문",
+    "published": "2026-07-03",
+    "keyword": "",
+    "topic": "higher_ed",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "AI 등장은 대학 교육의 전제와 역할을 바꾸며, 지식 전달 중심의 한계를 넘어 학생의 역량과 학업 성공을 위한 교육 혁신을 요구합니다.",
+    "implication": "학생의 실제 역량을 확인하고 학업 진실성을 높이기 위해 수업에 과정 중심 수행 평가를 늘릴 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[전재학 칼럼] 안민석 경기교육감이 쏘아 올린 교육혁명",
+    "url": "https://www.edpl.co.kr/news/articleView.html?idxno=21022",
+    "source": "교육플러스",
+    "published": "2026-07-03",
+    "keyword": "",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [
+     "경기도교육청",
+     "문해력"
+    ],
+    "summary": "안민석 경기교육감은 스마트폰 중독 해결을 위해 폰 프리 스쿨 추진 및 문해력·예술·체육 중심의 LAS 통합 교육을 시작합니다.",
+    "implication": "문해력, 예술, 체육 활동을 수업에 융합하여 학생들이 스마트폰 없이도 몰입할 수 있는 다양한 학습 경험을 제공할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "인천시교육청, 이주배경학생 한국어교육 현장 점검 나서",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NR18yeE5lWUZaUmhjUWE2dEt6YjlzV3R6VWRZLS13Zm52RHBoclZTQVhfREUydzFYa2hOUDByR0h1TVhNcUdQNW0yV2I2aHUxbXVpdnJwOG5lX0tydV91aUhabEtmRWdJaGFpMnFWTnfSAXRBVV95cUxPV2poUVZ6VGhGeHpWdjNOcDR3M29ydGF6dUZaZGRCaVA5TWxjU0c5Z010TW5JbTdqNW05TDBuN3ZkUHZhYkZCbnZwUFR6YU5WVHNySnVpZzNqc1hsNzhibHAyNENoUzYwUHB0aTE2eHY2WWUzMw?oc=5",
+    "source": "포인트데일리",
+    "published": "2026-07-03",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청",
+     "다문화"
+    ],
+    "summary": "인천시교육청이 이주배경학생 한국어교육 현장을 점검합니다.",
+    "implication": "교육청 점검을 계기로 이주배경학생 맞춤형 한국어 수업에 더 집중할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "강미애 교육감, 세종과학예술영재학교·세종국제고 찾아 학교 현장과 소통",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaMTc2dm1kZHVOZ3F4UGpQVDVNMGQ4SnFXT3MxU05NMzJOOGpaakJNSmlKdlBZWGdMZFo2Z0tsSGhyUDlaVmYxN0Y0ZHl5MlpfVkVKWmxWQUE4SXF3Rm5fNzFvWEsyWmwzSEwyZnV2YmR0aDR1MXc?oc=5",
+    "source": "굿뉴스365",
+    "published": "2026-07-03",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "강미애 교육감이 세종과학예술영재학교와 세종국제고를 찾아 학교 현장과 소통했습니다.",
+    "implication": "교육감의 현장 소통을 통해 학생들이 학교 발전 방안을 논의하고 제안하도록 지도할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "서울시교육청, 2027년 모든 학교에 지능형 과학실 구축 'K-STEM 기반 AI·디지털 미래형 과학교육' 본격 추진",
+    "url": "https://www.lecturernews.com/news/articleView.html?idxno=205533",
+    "source": "한국강사신문",
+    "published": "2026-07-03",
+    "keyword": "",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "서울시교육청"
+    ],
+    "summary": "서울시교육청은 2027년까지 모든 학교에 지능형 과학실을 구축하여 K-STEM 기반 AI·디지털 미래형 과학교육을 본격 추진한다.",
+    "implication": "디지털 센서와 K-STEM Bank를 활용해 학생 주도형 데이터 기반 탐구 활동 중심의 수업을 활성화할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "[인터뷰] 전국 첫 4선 김석준 부산교육감 \"AI 미래교육·공교육 혁신으로 부산 교육 새 도약\"",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBYjJqTmg0aWNuNGI3RTFuYW9EdG82bEhJRnJqSmxiSkFUOVhvQzk4eFFjNU1jUUJPc0ppdEpmN0V0cmtPTjFpeDhObnkySjdlaUlR?oc=5",
+    "source": "네이트",
+    "published": "2026-07-03",
+    "keyword": "인공지능교육",
+    "topic": "classroom",
+    "kind": "interview",
+    "entities": [
+     "부산시교육청"
+    ],
+    "summary": "전국 첫 4선 김석준 부산교육감이 인터뷰에서 AI 미래교육과 공교육 혁신을 통한 부산 교육 도약을 밝혔다.",
+    "implication": "AI 미래교육 강조에 따라 우리 수업에서도 AI 도구를 활용해 학생들의 참여를 유도할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "대전시교육청, 지방공무원 300명 인사 단행…“미래교육 전환 실행력 강화”",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BQVM4aHVzNVFRUkxHTmltSW95ZFZjQ0l4V041V1lqUzA5V3hnbENMSFBpNnlySC1jRjIzNWxhMWdwX0ZDa1BUeXBaQ0ttSGJOQXRoZW95ZnlKdmtGNVFLRE1vYXd5Qy1KdHNobHdRSTMweW_SAXdBVV95cUxOcXF0b21oNkJBeWtiTWxGbTRKcnEwU0JJZ1lRWWo2SWdLUmwyTjZLd3BCai1IVGRmbTVBdzRtVHRqR29YdHY0ODZHV29kaTVhMV9pQm9zbkl4clM4dlRSN0Fxb0xQQmN5Ri1MZko3UWVTVVVUZkh6NA?oc=5",
+    "source": "뉴스프리존",
+    "published": "2026-07-03",
+    "keyword": "교육정책",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "대전시교육청이 미래교육 전환 실행력 강화를 위해 지방공무원 300명의 인사를 단행했습니다.",
+    "implication": "이번 인사를 통해 미래교육 전환 가속화로 수업에 새로운 교육 방향을 적용할 기회를 얻을 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "교육부, AI 접목한 글로벌 한국어 교육 확산 체계 고도화",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4Wi03VlY0WHk2X0dkSXdraDZCU2pWczY5VXlaSnNobXNVYVpIMjZfNWUxdmZIYU1YTEh4cVJnQmJvbExMdmd4NTh5TUE1cnhBVFBhWVp6bE1tSlpKYm1IM042WlVRYW41Rl84?oc=5",
+    "source": "라이센스뉴스",
+    "published": "2026-07-03",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "교육부가 AI를 접목하여 글로벌 한국어 교육 확산 체계를 고도화하고 있습니다.",
+    "implication": "AI를 활용한 한국어 교육 자료를 찾아 수업에 적용해 볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "경남교육청, ‘교육 정보 기술 기업 이음의 날’운영",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kWFlpeVRCLW0wR0RtTDRlci1XYTNRdVFaQ29qNWJKXzVNYkEtZHlMUDctc1p6TEpCMTRudXZxVGhaTzJPYWVIOFZrSnRta09GRVJjNWZFRERHQ1lrdHpDSGZOa3padS1OaDNkUzlqY9IBb0FVX3lxTE5kWFlpeVRCLW0wR0RtTDRlci1XYTNRdVFaQ29qNWJKXzVNYkEtZHlMUDctc1p6TEpCMTRudXZxVGhaTzJPYWVIOFZrSnRta09GRVJjNWZFRERHQ1lrdHpDSGZOa3padS1OaDNkUzlqYw?oc=5",
+    "source": "경남저널",
+    "published": "2026-07-03",
+    "keyword": "에듀테크",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경남교육청"
+    ],
+    "summary": "경남교육청은 교육 정보 기술 기업과의 연계를 위한 '이음의 날'을 운영합니다.",
+    "implication": "교육청에서 운영하는 IT 기업 이음의 날을 통해 수업에 활용할 새로운 에듀테크를 찾아볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "경남교육청, 'AI·디지털 활용 학교 교류의 날' 열어",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TSnh5SVpVMHhySVV2ZTIwdEtsS3RIdHdJTW5mZ2luYWhPUzNhYXVBR1E3ajc0NDNJOGFlM0xfYUNJLXBFa3RGVEFsNGdHbndjWm9vaGVoZGFyaC0zYVBIUktDcTg1UV90Wmd0RVF3QnRIYUF4QVHSAXZBVV95cUxOU0p4eUlaVTB4cklVdmUyMHRLbEt0SHR3SU1uZmdpbmFoT1MzYWF1QUdRN2o3NDQzSThhZTNMX2FDSS1wRWt0RlRBbDRnR253Y1pvb2hlaGRhcmgtM2FQSFJLQ3E4NVFfdFpndEVRd0J0SGFBeEFR?oc=5",
+    "source": "LG헬로비전",
+    "published": "2026-07-03",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경남교육청"
+    ],
+    "summary": "경남교육청이 인공지능과 디지털 기술 활용을 위한 학교 간 교류의 날을 개최했습니다.",
+    "implication": "다른 학교에서 효과적으로 쓰고 있는 AI·디지털 활용 수업 아이디어를 얻어 바로 적용할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Sociology Teachers’ Comprehension of Ecological Literacy in Sociology Learning in Senior High Schools in Indonesia: A Critical Pedagogic Study",
+    "url": "https://doi.org/10.23960/jpp.v16i2.pp1237-1262",
+    "source": "openalex",
+    "published": "2026-07-02",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "문해력"
+    ],
+    "summary": "인도네시아 고등학교 사회학 교사들의 생태 문해력 이해와 적용 실태를 혼합 연구로 분석하여, 비판적 교육학을 통해 환경 책임 의식을 고취하는 생태 교육의 실제적 과제와 발전 가능성을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ghufronudin, Siany Indria Liestyasari 외 1명",
+    "pdf": "https://jpp.fkip.unila.ac.id/index.php/jpp/article/download/1759/822"
+   },
+   {
+    "n": 2,
+    "title": "Innovative Learning Designs and Delivery Systems: Enhancing Pedagogical Practices in English Language Classrooms in Nigeria",
+    "url": "https://doi.org/10.65760/rijessu.v5.4.5",
+    "source": "openalex",
+    "published": "2026-06-30",
+    "keyword": "Connectivism",
+    "topic": "language",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "나이지리아 영어 교육에서 혁신적인 학습 설계와 전달 시스템이 교수법을 유의미하게 향상시킨다는 것을 상관 연구로 밝혀내었으며, 이는 교사의 전문성 개발과 기술 통합을 통해 교육 발전에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Lilian Chioma UGADUH",
+    "pdf": "https://doi.org/10.65760/rijessu.v5.4.5"
+   },
+   {
+    "n": 3,
+    "title": "Methodological foundations of virtual reality integration in primary computer science education: a brief research report",
+    "url": "https://doi.org/10.3389/feduc.2026.1830729",
+    "source": "openalex",
+    "published": "2026-07-02",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "초등 컴퓨터 과학 교육에 VR을 통합하는 방법론적 패턴을 분석한 결과, 체험·게임·문제 기반 학습을 통한 3단계 수업 설계와 교사의 촉진자 역할이 중요하며, 교육적 가치는 기술보다 교수 설계와 교실 통합에 있음을 밝혀 관련 연구자와 실무자에게 유용한 지침을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Жандос Зулпыхар, Aitgul Azamat 외 1명",
+    "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1830729/pdf"
+   },
+   {
+    "n": 4,
+    "title": "Subjectification and the role of chance-seeking in film editing education",
+    "url": "https://doi.org/10.1080/25741136.2026.2693665",
+    "source": "openalex",
+    "published": "2026-06-28",
+    "keyword": "vibe coding",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 기술을 넘어선 편집자의 주체 형성을 위해 지각적 몰입과 우연성 추구를 강조하는 사건 기반 교수법을 제안하며, 이는 학습자의 변혁적 깨달음을 통해 새로운 의미 생성을 가능하게 합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Liis Nimik, Emanuele BARDONE",
+    "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/25741136.2026.2693665?needAccess=true"
+   },
+   {
+    "n": 5,
+    "title": "AI-Powered Gamification in Peer-to-Peer Learning: Enhancing Engagement and Outcomes in Digital Education",
+    "url": "https://doi.org/10.22214/ijraset.2026.83898",
+    "source": "openalex",
+    "published": "2026-06-30",
+    "keyword": "edtech",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "본 논문은 디지털 교육 환경에서 AI 기반 게이미피케이션을 P2P 학습에 통합하여 학습자의 참여와 동기를 높이고 맞춤형 학습 경로와 적응형 피드백을 제공함으로써 학습 성과를 획기적으로 향상시키는 혁신적 틀을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Aditya Kumar",
+    "pdf": "https://doi.org/10.22214/ijraset.2026.83898"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "xAI, 코드 없이 음성 AI 만드는 '보이스 에이전트 빌더' 베타 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212402",
+    "source": "AI Times",
+    "published": "2026-07-03",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "xAI",
+     "에이전트"
+    ],
+    "summary": "xAI의 코드 없는 음성 AI 빌더 공개는 비개발자도 손쉽게 음성 AI를 구축하여 관련 산업 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "소프트뱅크, 미국서 10GW AI 클라우드 서비스 게획…\"제2의 창업\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212407",
+    "source": "AI Times",
+    "published": "2026-07-03",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [],
+    "summary": "소프트뱅크의 10GW AI 클라우드 투자는 대규모 연산 인프라 경쟁을 심화시키고 AI 기술 개발 가속화에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "알리바바, 에이전트 도구 선택 프레임워크 ‘스킬위버’ 공개… “토큰 사용량 99.9% 절감”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212408",
+    "source": "AI Times",
+    "published": "2026-07-03",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Alibaba",
+     "에이전트"
+    ],
+    "summary": "알리바바 스킬위버는 AI 에이전트의 토큰 효율을 획기적으로 개선하여, AI 개발 및 상용화 비용 절감과 확산을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "구글, 차세대 '제미나이 플래시' 테스트 중...LM 아레나서 포착",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212397",
+    "source": "AI Times",
+    "published": "2026-07-03",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Gemini"
+    ],
+    "summary": "구글의 차세대 제미나이 플래시 테스트는 AI 기술 생태계 내 고성능 및 경량 모델 경쟁을 가속화하여, 다양한 응용 분야에서 AI 모델 활용을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "삼성, 영남에 60조 투자…‘글로벌 피지컬 AI 혁신 클러스터’ 선언",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212420",
+    "source": "AI Times",
+    "published": "2026-07-03",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "삼성"
+    ],
+    "summary": "삼성의 대규모 투자는 AI 기술의 물리적 구현을 가속화하여 실물 기반의 AI 산업 생태계 확장과 글로벌 경쟁력 강화를 견인할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "Microsoft follows Anthropic and OpenAI into the AI super app race with overhauled Copilot and AutoPilot agents",
+    "url": "https://the-decoder.com/microsoft-follows-anthropic-and-openai-into-the-ai-super-app-race-with-overhauled-copilot-and-autopilot-agents/",
+    "source": "The Decoder",
+    "published": "2026-07-03",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Microsoft",
+     "Anthropic",
+     "OpenAI",
+     "에이전트"
+    ],
+    "summary": "마이크로소프트의 AI 슈퍼 앱 경쟁 합류는 통합 에이전트 기반 플랫폼 선점 경쟁을 심화시키고 AI 산업 생태계 재편을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "네이버, 재난·기상특보 '세이프티' 페이지 오픈…AI로 안전 정보 상시 제공",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212414",
+    "source": "AI Times",
+    "published": "2026-07-03",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "네이버"
+    ],
+    "summary": "AI가 공공 안전 정보 제공 분야의 핵심 기술로 부상하며, 새로운 서비스 시장과 산업 수요를 창출할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "메타 워터멜론 AI 모델, GPT-5.5 따라잡아…알렉산더 왕, 직원들에게 밝혀",
+    "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxPT1V5NGlJWGNrRnU5SVFaTnFnT2NDTy1PSHczeEgxanJCaVo2dmtzcnc3NXRfWXhWa0JkRVFVT2VkUVNLVXZESXdDVzRBQ0FYNGhvZExPa2VhdGlFUWZhbE1YV2pLakhuMXJESkFoVlFNRlNwLUR5bHVjZzBpUTR3SmlJMUdIWXl0V0lrNjFLelJwWFM5eEpNSTZxYTFwRkpwNUxaNXp5U2Y1OTZaaHEwM25xOXA3VkZ3Y3RUSm9YQWNkTnoyNHFkZnAwUXdVWjBsNlZ2VVNPd0pwUldVSm16Z1ZaMTRxUm0zcThacndlamVrQ2JUN01LN09wVS1kNHlFcmNZU245MnpoRTRjaFVHbjF3SzhIZHFZNVczcDdXbFNGcDM5Unp6RXMyMXVwalhZelhhWmlRQm53WmpNWGxTRGhYU251MndETVJVY094RGtxNzhLby1VcG11UFFjTGpFYlB2cmlpTFRxTDZxQW5RaER6T2s0TnJ2eFpraF9fb0VrZw?oc=5",
+    "source": "Yellow.com",
+    "published": "2026-07-03",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Meta",
+     "ChatGPT"
+    ],
+    "summary": "메타가 GPT-5.5급 모델을 선보이며 거대 AI 기술 경쟁이 심화되고 혁신 속도가 가속화될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+    "source": "OpenAI Blog",
+    "published": "2026-06-26",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.6 Sol은 AI 성능의 새 기준을 제시하며 기술 생태계의 경쟁과 산업 혁신을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "GLM-5.2: 중국산 저가형 AI 무기가 ChatGPT와 Claude에 상당한 압박을 가하고 있습니다.",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNelNINzlTSEZRUGhucU82b0xoenEta05Sd19oSER6TVY3MG1xSmQ2MUFhY3VQYmRmLXI4aFFKOEJlMVhYb1hORkQzd25TcjhHb2owQk5CRUxaeVVsVzFDNThDU2dNTjduaGw5V0pxd0RIT29RdVFEV0ZoSWs5OGVBcDRwU0ZWT2lQck80OHJJdWJXXzR1ZE9kcjQzQzc4YnljdGd3?oc=5",
+    "source": "Vietnam.vn",
+    "published": "2026-07-03",
+    "keyword": "Anthropic",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Claude"
+    ],
+    "summary": "GLM-5.2와 같은 저가형 중국 AI의 부상은 글로벌 AI 시장 경쟁을 격화시키고 기술 접근성을 높여 생태계 변화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

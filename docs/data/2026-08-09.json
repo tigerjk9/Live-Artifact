@@ -1,0 +1,423 @@
+{
+ "date": "2026-08-09",
+ "generated_at": "2026-11-02T11:41:17+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "경남교육청, '디지털 교육혁신' 유공 교원 24명 미국 연수",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CeFdFTE9hdjZocWdGNnZ1TG5pbllSbjIzVWV1cXBBX3NjS3ZXUG54MXZoNVFZREgtQi1lZTMxSmlzeWtuRnc0d2htYlU0cjRBd1VfUWFwaUVPbmPSAWBBVV95cUxQVmt3Y1lCcFNPSllwdWhKSnZXRXhfLXlqZ0lCc2Z2QXAxRkxSMjkyQ1FMSk9HcEl2REVFeWpZbVE0aEU1R2ZJSDRTSTVfdXVIazFpT3c4V2JWZFlNMEN5ZGo?oc=5",
+    "source": "yna.co.kr",
+    "published": "2026-08-08",
+    "keyword": "AI디지털도구",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "경남교육청"
+    ],
+    "summary": "경남교육청은 '디지털 교육혁신'에 기여한 교원 24명을 미국 연수에 보냅니다.",
+    "implication": "디지털 교육 혁신이 주요 흐름이므로, 수업에 적용할 새로운 디지털 도구를 탐색할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "동신대 교수학습센터, '계열별 맞춤형 AI교육' 호응…실습 중심 교육 진행",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBwYkhzRFdFcDl3NGk5dGxkWDlqYmdqT3VMS0Z1Z05TT0ZhdEtVX1VWN2dVNnRXN1BYVzRPMUcwUzV0X1FyUVQ2RkpaSjVydw?oc=5",
+    "source": "전자신문",
+    "published": "2026-08-08",
+    "keyword": "인공지능교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "동신대 교수학습센터가 계열별 맞춤형 실습 중심 AI 교육을 진행하여 호응을 얻었다.",
+    "implication": "학생들의 흥미를 고려한 실습 중심 AI 교육은 수업 참여를 높이는 데 활용될 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "전북자치도 14개 시군, 교육부 ‘교육혁신선도지역’ 공모 도전",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93ZFdXVEtiRWprcGdkV3NQUUY5OElZb28ya1NtcEhWRG9wVVZNUjhGOEVzalJCUnZUUmJJRzE1Z21qVV8xa04xWmE4RzN3T25HX1JzSE1RV3daWGZ0azBWWFVtUWJZWmxvb2c?oc=5",
+    "source": "전북도민일보",
+    "published": "2026-08-08",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "전북자치도 14개 시군이 교육부의 ‘교육혁신선도지역’ 공모에 도전합니다.",
+    "implication": "선도지역 사업을 통해 수업에 적용할 새로운 교육 콘텐츠가 제공될 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "윤건영 충북교육감, \"AI 대전환 시대, 몸근육·마음근육·예술근육으로 미래교육 준비해야\"",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBScTFEOHM1UlVmc1JOSFJyNEZRekN5REhzZ21lT3llU3UycnhNOFFTa0Y4eTNWc0ZXT1NKT29ycUtqUUFxb1p5QmZZcjMydldUbFowbjBQQ3VleF9GZFpOV2p6Zl9RQmlv?oc=5",
+    "source": "글로컬타임스",
+    "published": "2026-08-08",
+    "keyword": "AI교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "충북교육청"
+    ],
+    "summary": "윤건영 충북교육감은 AI 시대 미래 교육 준비를 위해 몸, 마음, 예술 근육 강화를 강조했다.",
+    "implication": "수업 중 신체 활동, 감성 나누기, 예술적 표현 기회를 제공하여 학생들의 다면적 역량을 키울 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "대전시교육청, 교육국장 명달호·교육정책과장 김옥세 교장 발령",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1yeU9VT2pGMXpoVmUwWWh2MUx0X3lGOGtRc184bHNJcnFQUFFWOWRxOG12NjZjb0RMY3BIX21QeDNRNVhhOW9TQVFDQm5VcDI0QzFGT3VjU0NlYmp5SHp5azF5ZVNMWGJJTTNfV0ZSWEIwc1HSAXNBVV95cUxNcnlPVU9qRjF6aFZlMFlodjFMdF95RjhrUXNfOGxzSXJxUFBRVjlkcThtdjY2Y29ETGNwSF9tUHgzUTVYYTlvU0FRQ0JuVXAyNEMxRk91Y1NDZWJqeUh6eWsxeWVTTFhiSU0zX1dGUlhCMHNR?oc=5",
+    "source": "데일리한국",
+    "published": "2026-08-08",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "대전시교육청이 명달호 교장을 교육국장으로, 김옥세 교장을 교육정책과장으로 발령했습니다.",
+    "implication": "교육정책과장 발령 소식을 계기로 학생들과 앞으로의 교육 방향에 대해 토론할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "공립초의 IB PYP 도입, 90%의 저항을 어떻게 공감대로 바꿨을까?",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oeE05ZlgycUlmc0NFaG1iYWM1QUxxV0huT2ZoY3U3cHY3SDZyM250bmhseUF3UU0yTTk4eG4yMm02ampmYmU2UEx2R2NzQi1oNE9oc2FJam91ZWxoMWJjQkljZ1BmQVYwT2gteQ?oc=5",
+    "source": "브랜드뉴스",
+    "published": "2026-08-08",
+    "keyword": "에듀테크",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "IB"
+    ],
+    "summary": "공립초가 IB PYP 도입 과정에서 90%에 달하는 저항을 극복하고 공감대를 형성한 방식에 대한 내용입니다.",
+    "implication": "새로운 교육 방식 도입 시 학생이나 학부모의 공감을 얻는 전략을 참고할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "경남교육청, 미국 학교·애플파크서 AI 교육 해법 찾는다",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1rYzdZU2Q0Sno5WF9sa1J0d3FZb3JmQnN0dHF3QTQtU042c1RleFpUR2NlZjNNY3RsUWczUU9tZ1RBa29TQlVYaVNCOFh4bkdlMnZwYzFrLVQ4UkdpbVFFREtSRjNEc1lwQU03ZmY0enBMWWk3MXRR0gF3QVVfeXFMTWtjN1lTZDRKejlYX2xrUnR3cVlvcmZCc3R0cXdBNC1TTjZzVGV4WlRHY2VmM01jdGxRZzNRT21nVEFrb1NCVVhpU0I4WHhuR2UydnBjMWstVDhSR2ltUUVES1JGM0RzWXBBTTdmZjR6cExZaTcxdFE?oc=5",
+    "source": "스트레이트뉴스",
+    "published": "2026-08-08",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경남교육청",
+     "Apple"
+    ],
+    "summary": "경남교육청이 미국 학교와 애플파크에서 AI 교육 해법을 모색합니다.",
+    "implication": "우리도 AI 교육의 중요성을 알고 실생활에 적용하는 연습을 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "대구시교육청 10개 공공도서관, 유아부터 어르신까지 평생교육 프로그램 운영 > 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vTVRLZVJxeWRTMW1BaFBVUUg1UFdlYnFBelFyeHJLalp1SDJ4QkQ3MWVBNEZwbm1QWU96ejVCVm1TaE9JYTZlT2I2N2R3MUdXR216SXAyams3UV91UGxSN2dtcTZudlQ2Z191ZzJLWGI?oc=5",
+    "source": "더코리아",
+    "published": "2026-08-08",
+    "keyword": "디지털교육",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [
+     "대구시교육청"
+    ],
+    "summary": "대구시교육청 산하 10개 공공도서관이 유아부터 어르신까지 모든 연령층을 위한 평생교육 프로그램을 운영합니다.",
+    "implication": "학생들에게 대구 공공도서관에서 제공하는 유아부터 어르신까지 다양한 평생교육 프로그램을 소개할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "국가교육위원회 활동 제대로 굴러가고 있는가?",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yS3JnVW1YUW5WOXFqWWJTVU9Rc3lpVU1JY2RXNUFGRU9Cd290OWRfS0tYdkF4aWJ2WENMckstX3BzNW01VFNKQ2hULWJKcGEwVndjNW5DckE3NHl3VXJOTnIzZ2JtanFlVGk2Mg?oc=5",
+    "source": "대학지성 In&Out",
+    "published": "2026-08-08",
+    "keyword": "인공지능교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "국회"
+    ],
+    "summary": "국가교육위원회의 활동이 제대로 진행되고 있는지에 대한 의문이 제기되고 있음.",
+    "implication": "국가 교육 정책의 현황과 미래에 대해 학생들이 탐구하고 토론하는 자료로 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "전남정보문화산업진흥원, 생성형 AI 기반 콘텐츠 제작 전문인력 본격 양성",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5iNEx2aTlGT2lPX21nOWtkX1VJN2p1by05OFI5dXZQWV9ESFoxWEZVWTZSVFhVeEVRSlpMVTRXcU9ickJuVU4yTzhJTEthQQ?oc=5",
+    "source": "전자신문",
+    "published": "2026-08-08",
+    "keyword": "생성형AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "전남정보문화산업진흥원은 생성형 AI 기반 콘텐츠 제작 전문인력 양성을 본격적으로 시작합니다.",
+    "implication": "학생들에게 생성형 AI를 활용한 콘텐츠 제작 활동을 제안하여 미래 역량을 키울 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "&lt;b&gt;Rethinking Higher Education Pedagogy for Generation Z: Strategies, Challenges, and Theoretical Perspectives on Artificial Intelligence Integration&lt;/b&gt;&lt;b&gt;&lt;/b&gt;",
+    "url": "https://doi.org/10.66635/9a8bbs13",
+    "source": "openalex",
+    "published": "2026-08-06",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 2015-2026년 Scopus 및 Web of Science 논문을 체계적으로 검토하여 Gen Z 학생들을 위한 AI 기반 고등 교육의 효과적인 활용 전략과 과제를 논하며, AI가 인간 교육을 보완할 때 교육적 잠재력이 극대화됨을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Sunny Seth, Disha Grover",
+    "pdf": "https://asiaentrepreneurshipjournal.com/index.php/jaes/article/download/538/401"
+   },
+   {
+    "n": 2,
+    "title": "Effectiveness of a “5E+AI” teaching model on science communication in medical students: a contribution to global health literacy",
+    "url": "https://doi.org/10.3389/fpubh.2026.1916714",
+    "source": "openalex",
+    "published": "2026-08-07",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [
+     "문해력"
+    ],
+    "summary": "\"5E+AI\" 교육 모델이 의대생의 과학 커뮤니케이션 능력, 학습 참여도, 의학 지식 습득을 효과적으로 향상시켜, 글로벌 보건 문해력 증진을 위한 의학 교육 개혁에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Huiru Dai, Minling Liu 외 1명",
+    "pdf": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1916714/pdf"
+   },
+   {
+    "n": 3,
+    "title": "Artificial intelligence usage in the teaching-learning process: perception and challenges",
+    "url": "https://doi.org/10.11591/ijere.v15i4.38964",
+    "source": "openalex",
+    "published": "2026-08-01",
+    "keyword": "edtech",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "본 연구는 15명의 중등교사 심층 인터뷰를 통해 AI의 교육적 가치에 대한 긍정적 인식과 인프라, 훈련 등 활용의 어려움을 분석하여 AI 기반 교사 연수 및 교육과정 개발에 시사점을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Basak Ishani, Benny Thomas 외 1명",
+    "pdf": "https://ijere.iaescore.com/index.php/IJERE/article/download/38964/15159"
+   },
+   {
+    "n": 4,
+    "title": "Scaffolded role-play for cross-text integrative writing in elementary Chinese: a teacher-vetted AI-drafted materials classroom study",
+    "url": "https://doi.org/10.3389/fpsyg.2026.1837762",
+    "source": "openalex",
+    "published": "2026-08-07",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "교사 검토 AI 생성 자료와 비계 설정 역할극을 통합한 교수법이 초등 중국어 다중 텍스트 통합 글쓰기 능력과 학습 경험을 효과적으로 향상시킴을 입증합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Min Hui",
+    "pdf": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1837762/pdf"
+   },
+   {
+    "n": 5,
+    "title": "AI-Supported Literacy Ecosystems in Elementary Education: Preparing Future Skills for Lifelong Learning and Vocational Development",
+    "url": "https://doi.org/10.12688/f1000research.187792.1",
+    "source": "openalex",
+    "published": "2026-08-06",
+    "keyword": "edtech",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 기반 리터러시 생태계가 초등학생의 미래 역량, 평생 학습 능력, 직업 준비도 향상에 미치는 긍정적 영향을 혼합 연구로 분석하여, 교육 현장에 통합적 시스템 구축을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Arik Umi Pujiastuti, Ali Mustadi 외 1명",
+    "pdf": "https://f1000research.com/articles/15-1310/pdf"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "xAI's Imagine Image 2.0 lands just behind OpenAI's GPT-Image-2 in Arena benchmarks",
+    "url": "https://the-decoder.com/xais-imagine-image-2-0-lands-just-behind-openais-gpt-image-2-in-arena-benchmarks/",
+    "source": "The Decoder",
+    "published": "2026-08-08",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "xAI",
+     "OpenAI",
+     "ChatGPT",
+     "벤치마크"
+    ],
+    "summary": "xAI가 OpenAI에 근접하며 이미지 AI 시장의 경쟁 구도가 다극화되고 기술 발전이 촉진될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "챗GPT 스피커 내년 출시 전망... 오픈AI \"인간과 소통 가능\"",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSE1ZUmd6ZGQxVXdCWXpYbUdRYk1NbEd5QmJXRi1tNkM2WGw2VGJGbVlvMGt2NkxvWkYxbnRQSGE4UlVWRGpjYVY3WW9FR0JFbDlRV3g1RW14eGZMV2lGVzk3ZjJMVjJuai1UWXRhMEZYcXFuakMzeFNLeFlIMERXSWRUZw?oc=5",
+    "source": "구글 뉴스 AI",
+    "published": "2026-08-07",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "OpenAI"
+    ],
+    "summary": "챗GPT 스피커는 대화형 AI가 하드웨어 시장으로 본격 확장되어 기존 스마트 기기 산업을 재편하고 AI 생태계 발전을 가속화할 중요한 계기가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "SK텔레콤 AI 에이전트, 사우디 연구 벤치마크로 주목받다",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YOEw0VWswcFBjYndUekFmZGtrVVhnUWhaYlNLbElpdkRMQ0E2cGgyemRRQjZZRTRTUXBsR1Y4eC1LbVBqMDRwWE51SFdJNkZua1JKTGNJWVZxNkhzdExrNlhSWmd4WjJF?oc=5",
+    "source": "gokorea.kr",
+    "published": "2026-08-08",
+    "keyword": "AI연구",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "SK",
+     "에이전트",
+     "벤치마크"
+    ],
+    "summary": "SK텔레콤 AI 에이전트의 사우디 연구 벤치마크 채택은 국내 AI 기술의 글로벌 경쟁력과 해외 시장 확장 가능성을 입증하는 중요한 사례입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+    "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "source": "OpenAI Blog",
+    "published": "2026-07-29",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "벤치마크"
+    ],
+    "summary": "AI 모델의 설정 최적화만으로 ARC-AGI와 같은 복잡한 추론 벤치마크 점수를 크게 높여, AGI 구현 가능성을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "오픈AI, 챗GPT 무료 이용자에 최신모델 무제한 개방",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mTWhnb0xXS09FV0dqQW1SVXZJVkNBVFg5MkI5YzFmVVg3ZTJrMnpXNHpsSFlNekM3VXNsX3Q0ZURhb0tyVHNMaHN3Z1FGNVNWSFNZaEdyU0FxZVRzQVpQZ9IBeEFVX3lxTFBXajJtN0JEdVVSeWNqWU1hZEljNURtRGFVU2JaekxaMDVVcHpXNkZuTDNSYjYzenotUl9GWjFISTRYa1hUdm1MbkVyczRIcHZ4WUVOMURfNDJ2YWFqUVNPSDRQQy1uaTBRN0xTQmJGTmdPS1B0SEQyWA?oc=5",
+    "source": "구글 뉴스 AI",
+    "published": "2026-08-08",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "오픈AI의 최신 모델 무료 개방은 AI 기술 대중화를 가속하여 생태계 확장을 이끌고, 시장 내 경쟁 구도를 재편할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "업스테이지가 아마존웹서비스(AWS)를 통해 자사 차세대 거대언어모델(LLM) '솔라 프로'를 정식 출시했다. [사진=업스테이지 제공]",
+    "url": "https://news.google.com/rss/articles/CBMihwlBVV95cUxNbEhGMUpSRFJPN1ZzWkp6amR4WWNwUS1CWEpuLTN1aDhGVU1Ed1hIRWpKZ1FqeTlqcFRpZTRJV2xtamNYb1gybjNNOWhIOWw3bktSOGxjRkpkU1dEd2pYWEl4OEtCOVFYc2cxQ1lRZExoc3M3UHhXVFhwQ3dMX3J4V2VQdkQwdTJQZ2w2SmRTQllqZk1TNVp6NEplZzVWSi0yU1ZZSXdFZTcxN3N1ZTd5bUh6a1Q0X2oyMlFFQnl6MFRXZXhsd2pDampPZWE4cndmZmY1ZG9KUExReFZWODFSWjFxVUcta1MtMFRsemZkOF9PTXFtdEtnX3lWOFN4SUdma0sta3FSUHpZWVltSHk5dnNoMFp5dmhBYkM0eDVyYWlfNmdqcEY5YTAwYXFVUjdZYll0MHBTM0xiRG5VMGhXb2ZXaEV0UldvRUtQX3lKSHVzT0lVRWZpZUtqZDQ0N3JxM2tCcWlCVi1RWTUxSS13VmxHMHJETUFUM3IzQXhzeXhwZWpKbFlmRXYtZ0hlbVJKVzM1SmJDSGh2dzdOMVp0MmJpbUpqdm1WZkVjR3BNTDgtTkMzMGEzT3l3d0VQVTRGYTNVSk5VY0MwUGZHS2RiU1l2aGp0S0lDY1M4Q0dyQWltdnBxRGZKV3l6ZHdiQkVucW9EV0JtVHV6dnBTSDE1UDJtMjdwNHRnSlExZEVZU1BpRi1OY1YyZlJQOGZHbXlCNWdNLXlmN2s0MVZrc3gyQmVuc1p2djN1VlFVOUFlb1RQYWo0OWExRGRHUmZ0RXNtaGVwMUNGbGduYWJKTUNRckYwQXExWTRfQnhmRmJsa0JGZ3dkSWg4YVVUWHdHR0c4YUtLWGtJaTN3OHFPT1BKSDduOHRydEQ2SW90UkZVMGpOaW14eEdiN0JWdFBScjVRUHN4ZTdwLXAzRTZnVjhPVDVseXZ2aThTd0hpbFJJN2VoWWZpcExPVFh6WkJjSG9GT2VPcGV1OVd0UThCZWNIYmtpYW5oaXVqTThNUEt5WFc4N1hCOHhXOTJ6S0wxOFFLZDlwUHJMemo5dkdlR0xySVItdm1WS3FyaWRzaVMyWHNIdlhiZXZGWkpnQ09ocUhvaFVxUGhMZWpKYTI2dC1Dckp3bExpYW1Yd2pQdThzMzRPYkVjai1BVk5FWXJybV9MZ3NTTlh0UTNHMGJNMFZ2eWJzLWdxTTYwTVI2WmpSd3kzb3hlbS13Vll2UGtfajV3cmFJQnVhUUtWZWxLdHRIZ3R1eTlDSnhBY1g0dVlEcDdwcUVrdDVDT3BXcUdHcXNpOGJkMS1odUd2QTFjeGMyeFA0dmotekhZNFZDM05obHVFWmkxWHVzbDlCY294bzh1ZHlPbk9yaDVsUXl5MFBGM2Rnc0QzdWxaQmJuQ1JzM0lrM280ZTZiQjFOSVhtNnJyLWtHNXBDYWlybnh6WjVzOGRmMHlYMlEyTEdWcFVhVEI5NmRicmdxMGwzcHlIMWdYeGFDZm9oVm1HcmhIWHFyNUVwNjZSZXhjaEdnZmlsNlItTUpkZmQ0?oc=5",
+    "source": "전자신문",
+    "published": "2026-08-08",
+    "keyword": "LLM",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "업스테이지",
+     "Amazon",
+     "LLM"
+    ],
+    "summary": "AWS를 통한 LLM 출시는 클라우드 기반 AI 모델 유통 가속화와 접근성 증대로 AI 산업 경쟁을 심화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "From asking to doing: How the world is putting ChatGPT to work",
+    "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+    "source": "OpenAI Blog",
+    "published": "2026-08-06",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "AI가 단순 탐색을 넘어 실제 업무에 통합되며, AI 기술 생태계는 실질적 가치 창출 중심으로 빠르게 전환될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+    "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+    "source": "OpenAI Blog",
+    "published": "2026-07-29",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "생성형 AI"
+    ],
+    "summary": "생성형 AI가 학술 연구 생산성 혁신에 기여하며 AI 기술의 전문화 및 산업 내 고부가가치 상용화 모델 발전을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "'사스포칼립스' 공포 지나자…SaaS 업계, AI 대응 여부로 희비 엇갈렸다",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213710",
+    "source": "AI Times",
+    "published": "2026-08-08",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 도입이 SaaS 기업의 생존을 가르는 핵심 변수가 된 것은 AI가 모든 산업의 경쟁력과 미래를 결정할 핵심임을 보여주는 사례입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "[AI 이슈 트렌드] 갤럭시 Z8 흥행 속 차가원 사기·하이닉스 HBF·스페이스X 달 충돌 눈길",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213708",
+    "source": "AI Times",
+    "published": "2026-08-08",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 기술은 소비자 경험 혁신 및 인프라 고도화를 견인하나, 사기 위험 및 복잡성 증대에 대한 사회적 관리가 요구될 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

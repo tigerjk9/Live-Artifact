@@ -1,0 +1,428 @@
+{
+ "date": "2025-11-15",
+ "generated_at": "2026-11-02T11:47:42+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[데스크 칼럼] 무인택시 시대, 제주가 마주한 ‘기술 혁신의 갈림길’",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QbE5IZkUtNkNfdzgxZkZPQ2tITlVQNTMzTkJ0OFM2d1FEejluYURhZXFRRUc4RXJ5WVY5WDljY2lVbkJfY01VSHh5czhvdnZhUmNxM3lRRW8zeU1wWjVOZVY2SWxrVTN5elZYeA?oc=5",
+    "source": "뉴스N제주",
+    "published": "2025-11-15",
+    "keyword": "미래기술",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "제주 무인택시 도입 논의는 미래 사회 변화에 발맞춰 교육 시스템이 기술 변화 수용 능력과 새로운 직업 역량 함양을 목표해야 함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "뇌과학과 인공지능의 만남",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE54Sm15TXU0N0tUYzdrRS10NjgwRnZEa2RIVUxYUmpWUTloMkx0eVFiUC1pMDRHQl9EWnM2Wi1YbGxMT212Vmc?oc=5",
+    "source": "브런치",
+    "published": "2025-11-15",
+    "keyword": "뇌과학",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "뇌과학과 인공지능 융합은 개인 맞춤형 학습과 효과적인 교육 방법론 개발에 혁신적인 가능성을 제시하여 교육의 질을 향상할 수 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[박남기의 교육戀歌] AI 활용 수준별 교수학습법 모형(SAIR Model)",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5T1BJbWN2YnQ1MllqSFpqcHk0WXpSdF9HdWE2SDlGaFgwczYwa2ZNU1ZGdHVsd2RSOElVeEo4V3VoWFp2dzBtczRtYmNhaE9DQjhyaHlWaXBMckZMX3hKdk1DNkhCamhI?oc=5",
+    "source": "에듀프레스",
+    "published": "2025-11-15",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "AI 활용 수준별 교수학습법 모형(SAIR Model)은 교사의 AI 활용 역량 강화 및 맞춤형 교육 실현에 기여할 수 있을 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[최연혁 교수의 정치분석](하) AI 시대를 넘어 100년을 준비하는 교육개혁",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kRGlLUk50U0Y3NnJDMnE3SkUwenVQeldTaS1kT3NyYXdNVVpOTmxDVDN6THJkYVp3M2U3NXJXV016dXczZ016ZDY1ZzhHcEVYd2FzbWtXcmpDOWZtRVpOTg?oc=5",
+    "source": "네이트",
+    "published": "2025-11-15",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 시대에 발맞춰 100년 후를 내다보는 교육개혁 논의는 미래 사회에 필요한 역량을 키우는 교육 시스템 구축의 시급성을 강조합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[영상]공직사회 AI 대전환, 교육부터 바뀐다",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsNTRIemUtUktRSTBUd1BwWEhLLUNCSl9fdnBkdDl6X01XcWJfSDdIaFgwekRaaWNnS2Iya09WMXBlWDN6d3RFZy1PZTh6SWF6N05B?oc=5",
+    "source": "네이트",
+    "published": "2025-11-15",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "교육부",
+     "개인화 학습"
+    ],
+    "summary": "공직 사회의 AI 전환은 교육 분야에서 AI 활용 역량 강화와 맞춤형 교육 시스템 구축을 가속화할 중요한 계기가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "임태희 교육감 \"경기교육은 대한민국 교육 이끄는 선도자\"",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5iQktvVkQ4d1N0UTVkZkhvSzdVdHoxUXpNeDItMnl1aHBRX09JdjFYTFBQUHFqUmlNT1laZEdUaHFMX0d2N1ZIT3FXd3VJbXdYcHdKU29fM05MVlpBd2NnYnJSRngzWlpRWnVv?oc=5",
+    "source": "퍼블릭뉴스통신",
+    "published": "2025-11-15",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "임태희 교육감의 발언은 경기 교육이 혁신적 모델을 제시하고 전국 교육의 질적 향상을 주도해야 할 책임을 강조하는 것으로 해석됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "인천시교육청AI융합교육원, ‘STEAM클럽 꾸러미’ 교수·학습 자료집 배포",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RMlNpVUdKSlJXZUM3ZlloSm9EVDgwLUJjWWFpeERqYzhLaW1OUGtnMnFVNFpSUklCWGxfOHVWdG0yRVFDdVJZeUo0bENxN2pqYlNYTGJDNkswSkZXUHlJb3pjS2t1ODUyQUE0NE9HNjg?oc=5",
+    "source": "한국강사신문",
+    "published": "2025-11-15",
+    "keyword": "인공지능교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청의 STEAM클럽 꾸러미 자료집 배포는 교사들의 AI 융합 교육 역량 강화와 학생들의 창의적 문제 해결 능력 향상에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "‘대전환 시대’, 공교육 패러다임 바꿀 IB의 ‘혁신’을 논하다",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA1bzRqUS1LeS1rcWdIRkJRVGJqbmV1VmxDY1czOUNNem90bXVKb01idkJZRVc4amFsYzVYVU1WVmNYNWFfSU1qSmhKU01qZTBXZmMtX3c5bzR4V1ZROTBJeTA0Y1poQQ?oc=5",
+    "source": "한국대학신문",
+    "published": "2025-11-15",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "IB"
+    ],
+    "summary": "IB 교육 모델은 대전환 시대에 공교육이 지향해야 할 혁신적인 교육 패러다임 전환의 가능성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "양원숲초 교육실습 현장 찾은 정근식 서울교육감 “행복한 배움에 감동”",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=21392",
+    "source": "에듀프레스",
+    "published": "2025-11-13",
+    "keyword": "",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "서울시교육청",
+     "교권"
+    ],
+    "summary": "서울시교육감의 교육실습 현장 방문은 교권 존중과 행복한 배움 환경 조성에 대한 의지를 표명한 것으로, 예비 교사들의 사기 진작과 긍정적 교육 환경 조성에 기여할 수 있다는 점에서 긍정적입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "1급 전원 교체 임박, 술렁이는 교육부",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=21390",
+    "source": "에듀프레스",
+    "published": "2025-11-12",
+    "keyword": "",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "교육부 1급 인사 전면 교체는 교육 정책 방향 전환의 신호탄으로 해석될 수 있으며, 현장 혼란을 최소화하고 정책 연속성을 확보하는 노력이 필요합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Simulating Students with Large Language Models: A Review of Architecture, Mechanisms, and Role Modelling in Education with Generative AI",
+    "url": "http://arxiv.org/abs/2511.06078v1",
+    "source": "",
+    "published": "2025-11-08",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "LLM",
+     "생성형 AI",
+     "에이전트"
+    ],
+    "summary": "본 논문은 교육 환경에서 학생 행동을 시뮬레이션하기 위해 대규모 언어 모델(LLM)을 활용하는 연구들을 검토하여, LLM 기반 에이전트가 학습자 유형을 모방하고 교육적 상호작용에 적응함으로써 교육과정 개발, 교수 평가, 교사 훈련에 기여할 수 있음을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Luis Marquez-Carpintero', 'Alberto Lopez-Sellers' 외 1명",
+    "pdf": "http://arxiv.org/pdf/2511.06078v1"
+   },
+   {
+    "n": 2,
+    "title": "Understanding Pedagogical Content Knowledge of Data Science Instructors: An Inaugural Framework",
+    "url": "http://arxiv.org/abs/2508.14009v2",
+    "source": "",
+    "published": "2025-08-19",
+    "keyword": "pedagogy",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "데이터 과학 입문 강좌 강사들의 배경이 교수학적 내용 지식(PCK)에 미치는 영향을 현상학적 인터뷰로 분석하여, 데이터 과학 교육 역량 강화 및 맞춤형 교육과정 설계에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Sinem Demirci', 'Mine Doğucu' 외 2명",
+    "pdf": "http://arxiv.org/pdf/2508.14009v2"
+   },
+   {
+    "n": 3,
+    "title": "Perspectives and potential issues in using artificial intelligence for computer science education",
+    "url": "http://arxiv.org/abs/2509.13730v1",
+    "source": "",
+    "published": "2025-09-17",
+    "keyword": "pedagogy",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "개인화 학습",
+     "AI 튜터"
+    ],
+    "summary": "본 논문은 ChatGPT와 같은 AI 기술이 컴퓨터 과학 교육에 개인화된 학습, 지능형 튜터링, 자동 평가 등 긍정적 영향을 미칠 수 있지만, 기술 의존성 심화, 인지 능력 저하, 접근성 불균형 등의 문제점을 지적하며, 교육기관이 AI 기술을 적극적으로 검증하고 통합하여 교육자와 학습자가 변화하는 교육 환경에 적응할 수 있도록 지원해야 함을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Juho Vepsäläinen', 'Petri Juntunen']",
+    "pdf": "http://arxiv.org/pdf/2509.13730v1"
+   },
+   {
+    "n": 4,
+    "title": "Bridging MOOCs, Smart Teaching, and AI: A Decade of Evolution Toward a Unified Pedagogy",
+    "url": "http://arxiv.org/abs/2507.14266v1",
+    "source": "",
+    "published": "2025-07-18",
+    "keyword": "pedagogy",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "본 논문은 MOOC, 스마트 교육, AI 학습의 장점을 통합하여 학습자 참여를 높이고 맞춤형 학습을 가능하게 하는 3계층 교육 프레임워크를 제안하며, 프로젝트 기반 교육과정 설계를 통해 그 실현 가능성을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Bo Yuan', 'Jiazi Hu']",
+    "pdf": "http://arxiv.org/pdf/2507.14266v1"
+   },
+   {
+    "n": 5,
+    "title": "CS Educator challenges and their solutions : A systematic mapping study",
+    "url": "http://arxiv.org/abs/2511.02876v1",
+    "source": "",
+    "published": "2025-11-04",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 최근 5년간의 논문을 체계적으로 분석하여 CS 교육자들이 겪는 교수법, 감정, 기술, 제도적 어려움과 해결책을 제시하고, 미흡한 부분을 밝혀내어 교육 효과성 향상 및 교사 지원을 위한 통찰력을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Anjali Chouhan', 'Sruti Srinivasa Ragavan' 외 1명",
+    "pdf": "http://arxiv.org/pdf/2511.02876v1"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "무하유 ”GPT킬러 활용 3.9배 급증...AI 부정행위 논란 최소화 기여”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=203984",
+    "source": "AI Times",
+    "published": "2025-11-14",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "GPT킬러 사용량 증가는 교육 현장에서 AI 활용 윤리 문제에 대한 경각심을 높이고 AI 기술의 건전한 발전 방향을 모색해야 함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "OpenAI launches GPT-5.1 API with improved coding capabilities and new developer features",
+    "url": "https://the-decoder.com/openai-launches-gpt-5-1-api-with-improved-coding-capabilities-and-new-developer-features/",
+    "source": "The Decoder",
+    "published": "2025-11-13",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT",
+     "코딩 AI"
+    ],
+    "summary": "GPT-5.1 API는 개발 생산성 향상과 AI 적용 확산을 가속화하여 AI 개발 생태계 경쟁 심화를 예고합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "NIA \"AI를 잘 쓸수록 AI 활용에 대한 기대 높아\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204000",
+    "source": "AI Times",
+    "published": "2025-11-15",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 이해도가 높은 국민의 긍정적 인식은 AI 기술 확산과 산업 발전의 강력한 동력이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "로앤컴퍼니, ‘리걸테크 브레이크스루 어워즈 2025’ AI 부문 수상",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=203998",
+    "source": "AI Times",
+    "published": "2025-11-15",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [],
+    "summary": "로앤컴퍼니의 수상은 AI 법률 서비스의 혁신성을 인정받아 리걸테크 시장 성장을 가속화할 중요한 계기가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "OpenAI tests group chats in ChatGPT",
+    "url": "https://the-decoder.com/openai-tests-group-chats-in-chatgpt/",
+    "source": "The Decoder",
+    "published": "2025-11-14",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "ChatGPT 그룹 채팅 기능은 AI 협업 도구를 확장하여 생산성 향상 및 새로운 비즈니스 모델 창출 가능성을 제시합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "앤트로픽 \"클로드 정치 편향 제거 위해 노력...GPT-5보다 더 중립적\"",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NOWxLVnUxTGExaWJCWjl1VzkzN2JsYjEtMnpXRkNkR0xGa3VuV0tVTDRXc045ekxFbGJUZFBqbGJvM0I2Z3J3Mlc3aTJ5Z3J6V3otTDdvZUx0YV9EUF9Pbzk5M3ZMQnJDWGc?oc=5",
+    "source": "AI타임스",
+    "published": "2025-11-14",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude",
+     "ChatGPT"
+    ],
+    "summary": "앤트로픽의 중립성 강화 노력은 AI 모델의 사회적 영향력 확대를 위한 필수적인 과정이며, 향후 AI 경쟁의 중요한 차별화 요소가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "중국 AI, GPT-5를 이긴다",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zX1BLbkVmVFdOZFk1a3pzSUo3VndDYmlaUE5CaWRzOHVLN2VrdkVpQm5NVFMwdmNQdVNtNDJ5R1FETFZldlNrcnkwN3NNRjFsUDFkUHBKeENtc2dTZFNIYWdDU0U?oc=5",
+    "source": "Vietnam.vn",
+    "published": "2025-11-14",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "중국 AI 기술 발전은 미국 중심의 AI 패권 경쟁에 새로운 변수를 만들고, 글로벌 AI 산업 지형 재편을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "“AI 전문가가 알려 주는 자녀교육 해법” [주간 에듀테크]",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DOG9IeGFQWGVrN1hPMVlROVpmRmVUa0JadFdFNUFYb2ZyM1ZEa2Z6SmpaTFVKdXRaUmtYaE1PdFFpV0hOankyVV9BQmtKcWw0Y0hBZ0JmRTVKaDFVd2JmMDlzSEVYT1EwcG9PQXRtWF9zTGF60gF0QVVfeXFMTUM4b0h4YVBYZWs3WE8xWVE5WmZGZVRrQlp0V0U1QVhvZnIzVkRrZnpKalpMVUp1dFpSa1hoTU90UWlXSE5qeTJVX0FCa0pxbDRjSEFnQmZFNUpoMVV3YmYwOXNIRVhPUTBwb09BdG1YX3NMYXo?oc=5",
+    "source": "IT조선",
+    "published": "2025-11-14",
+    "keyword": "교육AI",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "AI 전문가의 교육 해법 제시는 에듀테크 시장 성장을 가속화하고 맞춤형 교육 콘텐츠 개발 경쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "Google DeepMind is using Gemini to train agents inside Goat Simulator 3",
+    "url": "https://www.technologyreview.com/2025/11/13/1127921/google-deepmind-is-using-gemini-to-train-agents-inside-goat-simulator-3/",
+    "source": "MIT Technology Review",
+    "published": "2025-11-13",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Gemini",
+     "에이전트"
+    ],
+    "summary": "구글 딥마인드의 SIMA 2는 범용 에이전트 개발 경쟁을 가속화하고 게임 외 다양한 3D 환경에서의 AI 활용 가능성을 확장할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "OECD ‘AI정책 통합조직’ 의장에 강하연 정보통신정책연구위원",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUkFpVTlsVGlES2tmZ3NoT01ibXduRWp0MV9GeXAtcXY5NWRTQW42SENkaTN2SlRlc2Z4NTMtb0tyc0xVdG01SW1DOGZUM0JhV1NmTkpEVUNYdlNWaVo0WU43MlEyQWRWODNvcmowMFZnZzZOOENhMmtPc2NNbDVJTEpvb9IBlwFBVV95cUxPMlo3WnV2NldXdkZLNl9jS0tOcWNnZmZxRGIyb1JOcTZWQW9DenNIM3dzN3hab3lCTldDSnBXNjRYM0lWUUpGX09kU0hNaHY1NGdKRXdmZlhXWHhsMTBFYjhOMWw5TDE5dHpzZ0d4cnQyVWdqaHZuaG5aTHBCa09lUWVCbENsd09jenRySHhBM0FnVTRrdzln?oc=5",
+    "source": "조선일보",
+    "published": "2025-11-14",
+    "keyword": "인공지능",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "OECD"
+    ],
+    "summary": "강하연 위원의 OECD AI 정책 통합 조직 의장 선임은 한국 AI 정책의 국제적 위상 강화와 글로벌 협력 확대를 의미합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 기술이 교육 혁신을 주도하며, 뇌과학 융합, 맞춤형 학습 모델 개발, 공교육 패러다임 전환 등 미래 교육을 위한 다각적인 노력이 활발히 이루어지고 있다.",
+  "tech": "AI 기술은 GPT-5를 중심으로 성능 향상, 활용 확대, 윤리적 문제 해결, 교육 분야 적용 등 다방면으로 발전하며 긍정적인 미래를 향해 나아가고 있습니다."
+ }
+}

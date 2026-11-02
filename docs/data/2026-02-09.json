@@ -1,0 +1,411 @@
+{
+ "date": "2026-02-09",
+ "generated_at": "2026-11-02T11:51:54+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[칼럼] 교육정책은 기술이 아닌 사람을 중심으로 두어야 한다",
+    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBuZGdBM0UxQmhmemRhSUx6UGFfa25FOF9fU1I5ZDQtVU9FWm1qTFpfQi05R192SEI2STV6RWJyQ0NEUkdf?oc=5",
+    "source": "케이에스피뉴스",
+    "published": "2026-02-08",
+    "keyword": "에듀테크",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "교육 정책은 기술 도입에 앞서 학생 개개인의 성장과 역량 강화를 최우선으로 고려해야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[사설] 16세 선거권보다 '민주시민교육'이 먼저다",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VZ3lJRW5PZ1c3azJnTk5xeDhBR2RuTGNuYlc3dGphQWd1WHhjcURvNzNRdk5GX0c4bU5BT2ZVTGZlTVV2WmVvVE9iR1NjZlRmY1Jwa2FiOTV4bTlVRHRV?oc=5",
+    "source": "전북미래교육신문",
+    "published": "2026-02-08",
+    "keyword": "에듀테크",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "16세 선거권 논의에 앞서, 민주시민교육 강화는 학생들의 비판적 사고력과 책임감을 함양하여 건강한 민주주의 발전에 기여하는 필수적인 선행 과제입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[최병문 칼럼] 특별교부금 논쟁, 교육자치 원칙이 더 중요하다",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE42SGJUUDhDWG5keTd4UWttY1dnazZIS3BNb2pUVGN4bHBsblMwLV9aLTVOSVFxUG5sazFabHhNbzdxM3JpOVU5MFZVSUsxY2x5VDZWVVZoUkg0MHo1MF9TTlBBX1RBQQ?oc=5",
+    "source": "울산제일일보",
+    "published": "2026-02-08",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [
+     "교육 예산"
+    ],
+    "summary": "특별교부금 논쟁은 교육 자치 원칙을 훼손할 수 있으며, 지역 교육 격차 심화 방지를 위한 균형 잡힌 재정 운영이 중요합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[아주사설 | 6·3 지방선거, AI 선수를 뽑자] ③공무원은 배우는데, 단체장은 왜 예외인가",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84WFpGcUNGWUZocllHdG1WZGF4TE5uclI2dmQ5NEVwWEpNQzZZdWc1VjNkalc4WXpaTHZrUlV5RDRIdWtQTDQxWVR3Q0tQNjdSRHlUZzNfUmU5QdIBWEFVX3lxTE9CRVVfRllRNDBLcDJQeDVTUmJHTkJDeXZ2alNDLW5lZG1uZ2RqRjhTV0k2V29KbWhwTG1ScTR6YVBHQ2pXeEE3S29QbkFwb1YzTG12NFlXN08?oc=5",
+    "source": "아주경제",
+    "published": "2026-02-07",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "AI 활용 교육 확산과 더불어, 교육 행정 책임자인 단체장 역시 데이터 기반 의사결정 역량 강화를 위한 교육이 필요하다는 점을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "뇌과학자 “AI시대 수능 무쓸모”…초6·초1 아들에 추천한 게임",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzU2g2a1pwVWdvYUc3UXpENXJ0WTVEOGg3NDBHbnlRVEtVbGh4eWtZQVl0LW93Q2VQdk01REh4Qlh3eE13WVV3Rk9HRGczN2dBUUZpbkRB?oc=5",
+    "source": "joongang.co.kr",
+    "published": "2026-02-08",
+    "keyword": "뇌과학",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [
+     "수능·대입"
+    ],
+    "summary": "AI 시대에 필요한 역량 강화를 위해 수능 위주 교육에서 벗어나, 창의적 사고와 문제 해결 능력을 키우는 교육 시스템 전환이 시급함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "[2026 전북교육감] \"광장의 빛을 교실로\"...노병섭, 34년 교사의 꿈과 현실",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE11SGQ0UlBFekVJNG1vNWlCTXRWZ1FRUWtaQl9Kb3BIY3hZTjl5U1VhdDcxNjdFSERsX0lsQjFUSTZ1cVhtYm5CLUF4NDNkUkxabGpGQWgyS0ZXU01ndGRN?oc=5",
+    "source": "전북미래교육신문",
+    "published": "2026-02-08",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "전북교육청"
+    ],
+    "summary": "34년 교사 경험을 바탕으로 한 노병섭 후보의 교육감 출마는 현장 중심 교육 정책에 대한 기대감을 높이는 동시에, 이상과 현실 간의 균형점을 찾는 과제를 제시합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "경기도교육청, ‘국제교류협력 네트워크’ 본격 가동",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBocVAtN1dGSFRGNjNVckVCVERkTVR5cnNVQnkyQU9TWTFoclhSUmZqNkVxLXBqYzY3REg1ZG41N09ZQndFTWJ1SmxVNDVWdksydDFobzVjNzl6V2F1NXZRaENUQWhCcGdmbDIxRVNTdw?oc=5",
+    "source": "기호일보",
+    "published": "2026-02-08",
+    "keyword": "에듀테크",
+    "topic": "global",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청의 국제교류협력 네트워크 가동은 학생들에게 글로벌 역량 함양 기회를 확대하고, 교육의 국제적 경쟁력 강화에 기여할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "'초개인화'가 확실한 트렌드로... 고교학점제, 기술과 결합하다",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mU0VERjNlTzFicVB5c3NYb1F6VlpCVmRPZTM0MzZMbnpUa1dHYXBlb3NnVjQxTEhvbWZ6Si1mUjdYWGZTX2lMT2RqbWI0bS0zWUdVTzNrOXJsZGRRUGttS21BYklWZw?oc=5",
+    "source": "교육을 비추다",
+    "published": "2026-02-08",
+    "keyword": "에듀테크",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "개인화 학습",
+     "고교학점제"
+    ],
+    "summary": "고교학점제와 기술의 결합은 학생 맞춤형 교육을 심화하여 개별 성장 지원의 중요성을 강조하는 방향으로 나아갈 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "“세계가 학교다”…경기도교육청, 글로벌 교육 네트워크 본격화",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkRjREclFpQkFWdzNQaFdHZVpfd3MwN2ZtbzhqQ2RPYV9JRUVISVJkWVhtNnphXzlHU1lqeDZLQVQ4RkFhSzhybkFreU1CbkFQbUROT19QbDJfX3pBV2hXQ29sNE5YR2tYeU1iZVdVdFdLQQ?oc=5",
+    "source": "스포츠동아",
+    "published": "2026-02-08",
+    "keyword": "에듀테크",
+    "topic": "global",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청의 글로벌 교육 네트워크 강화는 학생들에게 국제적인 시각과 협력 능력을 길러주는 중요한 발판이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "서울시교육청, 전 학교 '2026 탄소중립 실천' 추진…자가진단 도구 새 도입",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9STDdzSzFUOFFQLW5MUEFNdDBfZ0hGUncxZGpFX3BCRHktbGQzcENpdVBGUnRIYzlGTGhINjNET0VCdm5fekNxZUY5YS1YY2VWc3FUME1EZDFuUQ?oc=5",
+    "source": "newspim.com",
+    "published": "2026-02-08",
+    "keyword": "에듀테크",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "서울시교육청"
+    ],
+    "summary": "서울시교육청의 탄소중립 실천 노력은 학생들의 환경 감수성 함양과 지속가능한 미래 교육에 긍정적인 영향을 줄 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Crafting innovative paths in non-linear professional learning for bilingual education: the role of connectivism in the age of AI",
+    "url": "https://www.semanticscholar.org/paper/fadb0d5ce66c9b46218878148d33740fc688c16a",
+    "source": "semantic_scholar",
+    "published": "2024-10-29",
+    "keyword": "Connectivism",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 K-12 이중 언어/ESL 교사 대상의 커넥티비즘 기반 AI 연수를 통해 교사들의 AI 활용에 대한 긍정적 태도 변화와 협력적 학습 네트워크 구축을 촉진하고, AI를 활용한 교육 환경 개선의 가능성을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Amin Davoodi",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "Internationalization of the curriculum: Connectivism approach supported by relational leadership.",
+    "url": "https://www.semanticscholar.org/paper/098f4620545ae7ef46d90fb99bce45446694bbe1",
+    "source": "semantic_scholar",
+    "published": "2024-03-06",
+    "keyword": "Connectivism",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [],
+    "summary": "멕시코 공립 고등교육기관에서 코로나19 팬데믹 상황에서 기관과 노조, 교수진의 협력을 통해 교육 플랫폼 활용을 제도화하고 디지털 역량 강화를 위한 온라인 교육을 제공함으로써, 교육 주체들의 참여가 교육 목표 달성과 새로운 협력적 행정 문화를 구축하는 데 기여함을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "María Cruz Cuevas Álvarez, Marcos Pérez Mendoza 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Systematic review of research on artificial intelligence applications in higher education – where are the educators?",
+    "url": "https://www.semanticscholar.org/paper/04de4d9eb0d53025c8ab6c99d1e743f4c1bc1eb6",
+    "source": "semantic_scholar",
+    "published": "2019-10-28",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 고등 교육 분야 AI 활용 연구에 대한 체계적 고찰을 통해, AIEd가 주로 컴퓨터 과학 및 STEM 분야에 집중되어 있으며, 교육적/윤리적 고려와 비판적 성찰 부족, 그리고 교육 현장에서의 활용 방안 모색이 필요함을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Olaf Zawacki-Richter, Victoria I. Marín 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "A scoping review on how generative artificial intelligence transforms assessment in higher education",
+    "url": "https://www.semanticscholar.org/paper/de0ee1e7970e9ffff4add57f1fe72623453dae19",
+    "source": "semantic_scholar",
+    "published": "2024-05-24",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "생성형 AI가 고등 교육 평가에 미치는 영향을 PRISMA scoping review 방법론으로 분석한 결과, 학생의 자기 주도 학습 능력 함양, 교사의 AI 및 평가 역량 강화, 그리고 기관의 평가 정책 재고와 융합 교육 확대가 필요함을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Qi Xia, Xiaojing Weng 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "Teachers’ digital competencies in higher education: a systematic literature review",
+    "url": "https://www.semanticscholar.org/paper/bea4b103903b4153750a0a8d062dcbb2e8f180f8",
+    "source": "semantic_scholar",
+    "published": "2022-02-10",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 Web of Science 및 Scopus 데이터베이스를 활용한 체계적 문헌 고찰을 통해 대학 교사의 디지털 역량 수준을 분석하고 자기 평가에 집중된 기존 연구의 한계를 지적하며, 교사의 요구에 맞는 맞춤형 디지털 역량 강화 교육 프로그램 개발의 필요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Verónica Basilotta-Gómez-Pablos, M. Matarranz 외 1명",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "구글, 논문 일러스트 생성 AI ‘페이퍼바나나’ 공개...\"환각 낮추고 미적 기준 올려\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=206553",
+    "source": "AI Times",
+    "published": "2026-02-08",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "생성형 AI"
+    ],
+    "summary": "페이퍼바나나는 학술 분야 AI 활용의 새로운 가능성을 제시하며, 향후 연구 생산성 향상 및 시각적 커뮤니케이션 혁신에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "구글, 연구 에이전트 ‘마스’ 공개...\"스스로 ‘교훈’ 얻어 실험 전략 수정\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=206555",
+    "source": "AI Times",
+    "published": "2026-02-08",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Google",
+     "에이전트"
+    ],
+    "summary": "마스의 등장은 AI가 단순 도구를 넘어 연구 혁신을 가속화하고 새로운 과학적 발견 가능성을 높이는 핵심 주체가 될 수 있음을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "이승준 트웰브랩스 CTO “글로벌한 영상 분석 기술로 '소버린 AI' 실현”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=206537",
+    "source": "AI Times",
+    "published": "2026-02-07",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [],
+    "summary": "트웰브랩스의 글로벌 경쟁력을 갖춘 영상 분석 기술은 국내 AI 기술 생태계에 혁신 동기를 부여하고, 소버린 AI 실현 가능성을 보여주는 중요한 사례입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "OpenAI and Anthropic become AI consultants as enterprise customers struggle with agent reliability",
+    "url": "https://the-decoder.com/openai-and-anthropic-become-ai-consultants-as-enterprise-customers-struggle-with-agent-reliability/",
+    "source": "The Decoder",
+    "published": "2026-02-07",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Anthropic",
+     "에이전트"
+    ],
+    "summary": "AI 모델 신뢰성 문제 해결을 위한 OpenAI와 Anthropic의 컨설팅 사업 진출은 AI 시장 성숙과 함께 전문 서비스 수요 증가를 의미합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "전남대 인공지능연구팀, 인간 '공감 흐름' 읽는 AI기술 구현",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzejkyMnNYejMyNmRkS0FWZktCQnBUR3hOMnhpOFdsWjdvMmNYdks0ZEhGdEpVN1d1Z2w3T2M1YUlBdWFFalZMT0JmaU9oMngxY1pj?oc=5",
+    "source": "네이트",
+    "published": "2026-02-09",
+    "keyword": "인공지능",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "전남대 AI 연구팀의 공감 흐름 분석 기술은 감성 AI 및 인간-AI 상호작용 분야 발전에 기여하고, 관련 서비스 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "이동주 모두싸인 CTO “전자계약에 AI 결합으로 국내 1위 지킬 것”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=206558",
+    "source": "AI Times",
+    "published": "2026-02-08",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [],
+    "summary": "모두싸인의 AI 기반 전자계약 고도화는 계약 관리 효율성을 높여 관련 시장 성장을 가속화할 것으로 예상됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "\"머스크, 스페이스X·xAI 초대형 합병으로 부채·법적 리스크 피해\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=206541",
+    "source": "AI Times",
+    "published": "2026-02-07",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "xAI"
+    ],
+    "summary": "머스크의 스페이스X와 xAI 합병은 AI 기술 경쟁 심화 속에서 자금 확보와 법적 책임을 회피하는 동시에 미래 기술 주도권을 강화하려는 전략적 움직임입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "﻿[AI 이슈트렌드] 김선호 탈세·제미나이 오작동 등 연예·AI 이슈에 관심 집중",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=206542",
+    "source": "AI Times",
+    "published": "2026-02-07",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Gemini"
+    ],
+    "summary": "AI 기술의 사회적 영향력이 커짐에 따라 윤리적 문제와 더불어 대중의 관심도가 높아지는 현상을 보여주는 사례입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "[AI웹툰] 사랑하면그사람이된다 : 휴재공지",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=206538",
+    "source": "AI Times",
+    "published": "2026-02-07",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 웹툰의 휴재는 창작 과정의 현실적인 어려움을 보여주며, AI 기술과 인간 창작자의 협업 모델 구축 필요성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "대구대, GPT-5 등 유료 생성형 AI 전교생에 무료 제공",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1fbk9FaUhnMldPeEhFNDNCb29ja1MzUGlabDUxN05BN2VNR1NidTdETVZ6cUpJTzFEYlNnZWQxZFJPbWdxaWc1UXBMeEthWnRDVFRPY3pPb2lzd3NoVGZ4MUY3NA?oc=5",
+    "source": "쿠키뉴스",
+    "published": "2026-02-09",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "생성형 AI"
+    ],
+    "summary": "대구대의 GPT-5 무료 제공은 대학 교육 혁신과 AI 기술 접근성 확대를 통해 미래 인재 양성에 긍정적 영향을 줄 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 시대에 발맞춰 교육은 기술과 결합하여 개인 맞춤형 학습을 강화하고, 민주시민 교육, 국제 교류, 탄소 중립 실천 등 미래 사회를 위한 역량 함양과 책임감 있는 시민 양성에 집중하며 발전하고 있습니다.",
+  "tech": "AI 기술이 논문, 연구, 영상 분석, 계약, 웹툰 등 다양한 분야에 적용 및 발전하며, 기업과 교육 기관의 투자와 관심 속에 빠르게 확산되고 있고, 신뢰성과 윤리적 책임에 대한 고민도 함께 진행 중이다."
+ }
+}

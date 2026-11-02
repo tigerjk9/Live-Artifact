@@ -1,0 +1,429 @@
+{
+ "date": "2026-07-11",
+ "generated_at": "2026-11-02T11:39:41+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "생성형 AI 10개 모듈, 전국 전문대학 교육혁신 성과로",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wNTNRYUFyVlFPanFxRlFkYXg1ODIyODEzaUt4SUVhUVhDbWtJZC1wSlRUUDkzQ0NzSzFVZ2Z4MGtRZTJaT0QzZW1HdU1SUmJIOFFMVEJBQ05xcXBINlg4SlZkcXJJVXpTSlRxMHNGN3M?oc=5",
+    "source": "충청일보",
+    "published": "2026-07-10",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "전국 전문대학의 생성형 AI 10개 모듈이 교육 혁신 성과로 인정받았습니다.",
+    "implication": "전국 전문대학의 생성형 AI 모듈 교육 성과를 참고하여 우리 반에서도 AI 활용 능력을 단계적으로 가르칠 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "경남교육청, 6,841억 원 추경 편성…AI교육·학교환경 개선에 중점",
+    "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9OWDdOLVdQQWExcER1SUhvUGNzR0FZVmtVUE9oZ28weFhSUGFndTZybzBvWElGY2tGemJXSUVMWllKdw?oc=5",
+    "source": "브레이크뉴스",
+    "published": "2026-07-10",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경남교육청"
+    ],
+    "summary": "경남교육청은 6,841억 원의 추경을 편성하여 AI 교육과 학교 환경 개선에 중점을 둡니다.",
+    "implication": "학교 환경 개선과 AI 교육 지원 확대로 수업의 디지털 전환을 시도할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "인천교육청, 도성훈 교육감 백령 예술교육 현장 찾아 격려",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1lb2tBc1FnYjRONGFXNnVDR0N4VGhRZ3BYNkhydXlBaUI3YnJvektKWDBoVHRvYWZoaENRSVN3M2hmNkgzY1BRUXBmZTdXQ1g2V05vVVVYZE42YkNRZzM4c2l4VWs?oc=5",
+    "source": "매일일보",
+    "published": "2026-07-10",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천교육청 도성훈 교육감이 백령 예술교육 현장을 방문하여 관계자들을 격려했습니다.",
+    "implication": "교육감의 현장 방문으로 예술교육에 대한 관심과 지원을 활용해 더욱 풍부한 수업을 계획할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "안민석 교육감, 평택 호우 피해 학교·특수교육 현장 방문",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Pc0tka2dtYzBDdHFfNnp2SzRRc2MzdEpFYkJ5UHJEVTZzM3VlbEVJa1JuMkVLQmpYcWNoRlFhZ0RUdko3RmEtY2JHRnFCTVVzZXJUaE5aQmVKcTl4SUllS2p0bHZjVnlNQjg40gFvQVVfeXFMTm9zVHNGR1R1am1TdlNKYzgwRy1wY2VXUEhTSWdOM2duUWFhY1kxdTNRaV9DX1Uwbm8tQ29ZQi1HVkRlMUJRY3dRZ2tsaHZHYWFaTUJvYVZvZk1sV2xWUFV1Q3BoLTdmazc5eTFrd1Fv?oc=5",
+    "source": "글로벌E",
+    "published": "2026-07-10",
+    "keyword": "교육현장",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [
+     "특수교육"
+    ],
+    "summary": "안민석 교육감이 평택 호우 피해 학교 및 특수교육 현장을 방문했습니다.",
+    "implication": "재난 발생 시 학생들의 심리적 안정과 학교의 지원 방안을 함께 이야기할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[교육타파] \"신고되면 교사의 일상은 멈춘다\"…국교위·한국교육개발원, 교권보호 해법 놓고 3시간 난상토론",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45M1drWGdNQU1lQTNDUHhObmdacndBMENEcmtzY0Fkc19rbFYwZ0duMFdqT0YtTW1qc3VaeUE1MUhCeUFKME1vQUdqMHV2SklUMmZPZkRtNjNFQ2poUkU0?oc=5",
+    "source": "전북미래교육신문",
+    "published": "2026-07-10",
+    "keyword": "교육정책",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "교권"
+    ],
+    "summary": "신고로 교사 일상이 멈추는 문제에 대해 국교위와 한국교육개발원이 교권보호 해법을 3시간 토론했습니다.",
+    "implication": "교권 보호 논의가 진행되면서 향후 교실 운영 및 생활 지도 관련 새로운 지침이 나올 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "수능 감독관에 올해부터 ‘키높이 의자’ 제공… 교원단체 “수당 현실화 필요”",
+    "url": "https://news.unn.net/news/articleView.html?idxno=594624",
+    "source": "한국대학신문",
+    "published": "2026-07-10",
+    "keyword": "",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "수능·대입",
+     "교원단체",
+     "교육부"
+    ],
+    "summary": "교육부가 수능 감독관 처우 개선책으로 키높이 의자 제공 등을 발표했으나, 교원단체는 여전히 부족하다며 수당 현실화와 근무 여건 개선을 요구했다.",
+    "implication": "올해 수능 감독관으로 참여 시 키높이 의자와 인상된 식비로 근무 부담을 덜 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "충남 학생인권 한마당… 학생 목소리가 교육정책과 만났다",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvcHZHZ01LdVR3YWJHZW1XV2JMeVZTU2ZrQ2psWk5zYmhQNGRVMHc1RWJQOGVRRWEwQll4Y2JUNzNNM0dEVi1uSC1tMjJCRTNpYW1F?oc=5",
+    "source": "아산데일리",
+    "published": "2026-07-10",
+    "keyword": "교육정책",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [],
+    "summary": "충남 학생인권 한마당을 통해 학생들의 목소리가 교육정책과 연결되는 기회가 마련되었습니다.",
+    "implication": "학생들이 자신의 의견을 제안하고 그 영향력을 경험하게 하는 참여형 수업을 설계할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "전주학생의회 교육정책 제안, 학생자치 역량 키워",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Ea0hhRVNLa0tjQnVMN1VSanJWdXNhUzFJV0k0aHZTbWVUSFZVaUNBTVU4OUQ5R3FFRHB0V2lZdXJGMzlhR1FDTlFKNW1ULUxSUDMzWGZKVFdaZlY2bkhZWFNvQVhxX0dTYXlr0gFuQVVfeXFMT0szbTY1d3hqN3RwVmhEZENreno3NUtTQ21jZl96b2dOWjZWZjNIdDFGN2hqTG1TYkg3SGlBMkF2VlkzR2Y1VlZSbjdxVEpDZmJ0WVhOZUNjZHc3akNJMWhSMktmemItd3FoS1d2RWc?oc=5",
+    "source": "아시아뉴스전북",
+    "published": "2026-07-10",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "전주학생의회는 교육정책을 제안하는 활동으로 학생자치 역량을 강화했습니다.",
+    "implication": "수업에서 학교 정책을 토의하고 제안하는 활동으로 학생 자치 역량을 키울 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "이병도 충남교육감 \"학생 의견, 교육정책에 반영 노력할 것\"",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE11eG50cXF1QUVDOUpOTUNUOHVtaTFORXhSSUdrVlA2MUdaZExJQW1MLTlwRWlTYklxc3FhOW1WdW9WYzl1cjJ4V0xxN0VZMnFNMXF5SGVxaUk1WHZ0SUFtbDNSZDRQV096ZlZjVlBR?oc=5",
+    "source": "gukjenews.com",
+    "published": "2026-07-10",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "충남 이병도 교육감은 앞으로 학생들의 의견을 교육 정책에 반영하기 위해 노력할 것이라고 밝혔다.",
+    "implication": "학생들의 다양한 의견을 듣고 수업 및 학교 운영에 연계할 수 있는 기회가 될 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "대한노인회 우정연수원서 시니어 디지털 교육… 생성형 AI 활용 큰 호응",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9fUHRCR3J0RWFCQzBIeDVoUXlmLXM1bTR3X0pJUlVJYzh0VU4wbm02LXFSN0lYVlAyN0RNVkY1ZlB3MGpsVW5sX1l2Ti1ZdG1FTE5wOXpHTG9WRS1BcExxRjFUeUtXaGxuTnVzeUY4WWx1OGlR0gF3QVVfeXFMTmZialBuRlVfWjlUMUlaeWhXekVfQUZ2R0tFZUZrb3AzZVBLZVBxOTF3N0NVX2JvQ2xVdUlXWHdlQmdCeWFlcWlnb2ZHcVZNZ2tIQy1EVk56YzB5UHlNamRMM3hfSFJKaUVnMjFRSk8zZU9Vdk96bW8?oc=5",
+    "source": "한국시민기자협회 뉴스포털1",
+    "published": "2026-07-10",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "대한노인회 우정연수원에서 시니어 대상 생성형 AI 활용 디지털 교육이 큰 호응을 얻었습니다.",
+    "implication": "생성형 AI를 활용한 교육은 학생들의 높은 참여와 흥미를 유발할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Cultivating Tomorrow's Minds: Faculty Perspectives on Technology-Enhanced Pedagogy in Punjab's Private Universities",
+    "url": "https://doi.org/10.32996/fcsai.2026.5.9.10",
+    "source": "openalex",
+    "published": "2026-07-08",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "파키스탄 펀자브 사립대 교수 50명 심층 인터뷰를 통해 AI/AR 기반 교육의 잠재력과 학생 참여 증진 및 개인화 학습 등 이점, 그리고 기술 인프라 부족 같은 기관적 장벽을 밝혀내어 미래 교육 시스템 구축을 위한 교수진 관점을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Jogy Jose, Adnan Mohammed Bataineh 외 1명",
+    "pdf": "https://al-kindipublisher.com/index.php/fcsai/article/download/13059/11740"
+   },
+   {
+    "n": 2,
+    "title": "Editorial: Innovative approaches to developing technology awareness, competence, and skills across academic disciplines",
+    "url": "https://doi.org/10.3389/feduc.2026.1909720",
+    "source": "openalex",
+    "published": "2026-07-09",
+    "keyword": "",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 AI를 포함한 급변하는 기술 환경 속에서 학생들이 기술 인식, 역량 및 윤리적 사고를 갖추도록 돕는 혁신적인 교육 접근법을 탐구하며, 메이커 교육, 게임화, 디자인 픽션 등을 통해 다학제적 미래 교육에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Henry Mainsah, Laurence Habib 외 1명",
+    "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1909720/pdf"
+   },
+   {
+    "n": 3,
+    "title": "Exploring the Impact of Artificial Intelligence on the Transformational Leadership Practices of Selected Private Secondary School Leaders: Basis for Crafting School Leadership Training Program",
+    "url": "https://doi.org/10.54536/jpp.v3i1.7780",
+    "source": "openalex",
+    "published": "2026-07-08",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "이 연구는 사립 고등학교 리더들의 변혁적 리더십에 미치는 AI의 매우 높은 영향을 기술-상관 및 혼합 방법으로 분석하고 정책 부재를 주요 과제로 제시하며, AI를 활용한 교육 환경 조성 및 리더십 훈련 프로그램 개발의 토대를 마련합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Efren Labitag Burgos",
+    "pdf": "https://journals.e-palli.com/home/index.php/jpp/article/download/7780/3532"
+   },
+   {
+    "n": 4,
+    "title": "Distance learning using artificial intelligence: insights from educational analytics and student interaction data",
+    "url": "https://doi.org/10.3389/feduc.2026.1856574",
+    "source": "openalex",
+    "published": "2026-07-08",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "AI 원격 학습 플랫폼에서 학생들의 콘텐츠 기반, 시스템 및 행동 상호작용 데이터를 분석하여 5가지 학습자 프로파일을 식별하고, 몰입 지수를 활용한 분석 프레임워크가 맞춤형 교육 설계를 가능하게 함을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Maxot Rakhmetov, Bayan Kuanbayeva 외 1명",
+    "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1856574/pdf"
+   },
+   {
+    "n": 5,
+    "title": "Beyond mental health awareness: Evaluating a blended mental health literacy program to improve adolescents’ coping with school bullying",
+    "url": "https://doi.org/10.1016/j.ssaho.2026.103240",
+    "source": "openalex",
+    "published": "2026-07-09",
+    "keyword": "",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [
+     "마음건강",
+     "문해력",
+     "학교폭력"
+    ],
+    "summary": "이 연구는 준실험 설계를 통해 혼합형 정신건강 문해력(MHL) 프로그램이 청소년의 학교폭력 대처 행동을 유의미하게 향상시키고, 이는 MHL 지식을 적절한 행동으로 전환하는 데 효과적인 교육 맥락을 제공함을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Thipphawan Lokittithonkul, Charin Suwanwong 외 1명",
+    "pdf": "https://www.sciencedirect.com/science/article/pii/S2590291126008053/pdf"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "애플, 오픈AI에 ‘AI 하드웨어 영업비밀 도용’ 소송 제기",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212652",
+    "source": "AI Times",
+    "published": "2026-07-11",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "Apple",
+     "저작권·소송"
+    ],
+    "summary": "애플의 AI 하드웨어 영업비밀 침해 소송은 AI 기술 생태계 내 지식재산권 보호와 경쟁 구도 재편을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "커서, 코딩 도구 넘어 업무용 에이전트 시장 도전... 코드명 '샌드' 개발",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212632",
+    "source": "AI Times",
+    "published": "2026-07-10",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "코딩 AI",
+     "에이전트"
+    ],
+    "summary": "코딩 AI 전문 기업의 업무용 에이전트 시장 진출은 AI 기술이 특정 도구를 넘어 범용 업무 자동화의 핵심 솔루션으로 진화하는 추세를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+    "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "source": "OpenAI Blog",
+    "published": "2026-07-09",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Microsoft"
+    ],
+    "summary": "최신 AI 모델의 엔터프라이즈 솔루션 빠른 적용은 AI 기술의 상용화 가속과 지속적인 성능 업그레이드 경쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "SK하이닉스, 나스닥 상장 첫날 13% 급등…\"로봇·에이전트로 수요 폭발\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212651",
+    "source": "AI Times",
+    "published": "2026-07-11",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "SK",
+     "로봇·휴머노이드",
+     "에이전트",
+     "GPU·데이터센터"
+    ],
+    "summary": "로봇 및 에이전트발 AI 수요 폭발은 AI 기술 생태계 발전을 위한 고성능 반도체 산업의 핵심적인 역할을 재확인하는 시그널입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "메타, 9월 자체 AI 칩 '아이리스' 양산...내년 컴퓨팅 14GW로 2배 확대",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212614",
+    "source": "AI Times",
+    "published": "2026-07-10",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Meta",
+     "GPU·데이터센터"
+    ],
+    "summary": "메타의 자체 AI 칩 양산은 거대 기술 기업 간 AI 인프라 주도권 경쟁을 격화시키며 AI 반도체 생태계의 다양성을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "NYT, 법원에 오픈AI 제재 요청…“데이터 검색 능력 숨겼다\" 고발",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212638",
+    "source": "AI Times",
+    "published": "2026-07-10",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "이번 고발은 AI 모델 개발사의 데이터 활용 투명성 및 책임에 대한 법적·규제적 감시를 강화하며, 산업 전반의 준수 기준을 높일 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "‘페이블5’·‘GPT-5.6’에 견제구? 빅테크들의 ‘스타워즈’",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QYmFtQWtrS2FKQXhaLTY2MmR2QzdtVFQ2Wk1Wc2hfNXd5M05ySmtIbXBPOVNZZnNxbXVYb0VQdktybG1GX3NRNXlnWFRyTHZSNFZ4YnZJVm4tY0ZXbTRxZU9SV1hvOUhhWlZnNEp3Wjg?oc=5",
+    "source": "애플경제",
+    "published": "2026-07-10",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "빅테크 간 AI 모델 경쟁 심화는 기술 발전 가속화와 생태계 재편을 가져올 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+    "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+    "source": "MIT Technology Review",
+    "published": "2026-07-10",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Claude",
+     "OpenAI"
+    ],
+    "summary": "AI 산업은 기술적 이해도 심화와 사용자 통합 경험 제공을 통해 시장 주도권 경쟁이 격화될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "How ChatGPT adoption has expanded",
+    "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "source": "OpenAI Blog",
+    "published": "2026-06-30",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "ChatGPT 채택 확대는 AI가 산업 전반의 필수 동력으로 자리 잡으며 기술 혁신과 시장 경쟁을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "올트먼 “GPT-5.6 솔, 코딩 토큰 효율 54% 높였다”",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUMi1QU1VGaldlRUxYTDhrNHRIN0l2Y3dZM0NQUEg2UnlrRWcyR0lMeHM4UlR3RFQ2Y2lkRWlPU2thaUZUbi1jbkM3TlpvOGEtQUVLTXhkLVFrSWVZNUstc1dFaVVIbFBTUjRxa3A5a0zSAXRBVV95cUxQOXNWNlZNX2VSTUVrTzhOMTVzM1ZxWFJ2dHpLX0xBRk1Da244TFZFVkVCa3NnQXlPdXV6NVRYQ3hlSm5HNGd0VnBfOVkxajhsNENkNFlsdHhQNUJXeDktemtnU0dkdmhlSlh1Mll5RlJRZHRtZw?oc=5",
+    "source": "IT조선",
+    "published": "2026-07-10",
+    "keyword": "GPT",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "코딩 AI"
+    ],
+    "summary": "GPT-5.6 Sol의 코딩 토큰 효율 54% 향상은 AI 기반 소프트웨어 개발의 생산성과 비용 효율을 획기적으로 높일 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

@@ -1,0 +1,427 @@
+{
+ "date": "2026-03-22",
+ "generated_at": "2026-11-02T11:53:49+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[손기서 칼럼] BTS 광화문 공연’ .. 교실 속 ‘국제공동수업’으로 이어져야",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40dkRteDZiSW1ZS05YdmpFblZUQk5lSGc3NGR4b3REaUJWRzFkaU12YzFKdXVac3BwQ3M3OHVhVXJRM3VSOC14aDRrUlV2OXF6WUdoV0g0UFlyMUNKOEt2WGlVbFZWMjFq?oc=5",
+    "source": "에듀프레스",
+    "published": "2026-03-21",
+    "keyword": "인공지능교육",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 2,
+    "title": "[강민경의 뇌과학연구소]32장. 받아들여진 경험에서 시작된 변화",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lVnZtSWRjSVFYX2ptNFVnU1FEd3FXT09IOTRyTTMwSVFOVm01TkJqeGtPSFBzYlp1TWo1ZEpZbjVDd19hV0xBS1lPNmkyVFBfR01remdySmJrOVk5MHExaWs2a1d5VEZyMU5J0gFuQVVfeXFMUHpJaC1JemRkRjB5YWNRVmxYOTUxOGxTZU8tT2twZ2llcVhPbE5lNVdGVzU0QTRKUWVRZkNVd3lOM1BESElqREdlTEUwQ0cyb0hSbExYSVh4bktiMklnVkpzNVh0SVZGT0FpNEI1Q0E?oc=5",
+    "source": "주간평택",
+    "published": "2026-03-21",
+    "keyword": "뇌과학",
+    "topic": "global",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 3,
+    "title": "[뇌과학 정서 09] 이별 후 가장 빨리 일어서는 사람",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpaFVCQ2ZmSkpULXAtNUZQWmJ3LUcyVml4WFQ2VzJkemZCN1FwWUUtNDV4LUg3WDJFTUlCRjB6NTk2cURhQXVwcWZFMFk4S0RnTkE?oc=5",
+    "source": "브런치",
+    "published": "2026-03-21",
+    "keyword": "뇌과학",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 4,
+    "title": "천호성 전북교육감 예비후보, 전북형 ‘지역기반 AI 인재 육성’ 공약 발표",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcTVzWUZhRW4wVFRNNm5sU1U5YlRqb1cybmRueHRzRWJYOVlsVjNHeWdxRV84TC1CQTFuS3EzMDBka18yMXdHVDB1anFyUDVENWx5R0lfX3ZzVHoxNWlpLTdCRTdCVGxGeDN2OVl6Yk9KNThwVTZ6Qzdpc1J1cG04TFlHRWh6T2Nv?oc=5",
+    "source": "전북도민일보",
+    "published": "2026-03-21",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "전북교육청",
+     "교육감 선거"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 5,
+    "title": "안민석 경기도교육감 후보 경기교육 판갈이, 교권 회복과 벽깨기부터...입시체제 개편까지 선봉 서겠다",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDbzhwTU04bm55cXJhbDM1Xzc1Z2h3bDEteHhFNE9OZDJQVThQTnpOeDY0QzZQQ3Z1RzJ5dkpiby0zUVN4N1lpOTZlMDZLZDc4Tzd2VE5yV1fSAVhBVV95cUxQQ284cE1NOG5ueXFyYWwzNV83NWdod2wxLXh4RTRPTmQyUFU4UE56Tng2NEM2UEN2dUcyeXZKYm8tM1FTeDdZaTk2ZTA2S2Q3OE83dlROcldX?oc=5",
+    "source": "아주경제",
+    "published": "2026-03-21",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "교육감 선거",
+     "교권",
+     "수능·대입"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 6,
+    "title": "[세종교육 리더에게 묻다] 김인엽 교육감 예비후보에게 묻는다",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TUmNwWWoxcmU2U05vU0x5Z3UyUlV2WWJrbGFZOGhFRzd6cHNnT2FYTkVGMTZxcVc2T3g1aFdEeldMalU4RjhfZWFyS0xJSHR1N0xqYmVmQjBHdndNelRidVJqWk52QQ?oc=5",
+    "source": "capnews.kr",
+    "published": "2026-03-21",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "세종시교육청",
+     "교육감 선거"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 7,
+    "title": "본격 출격한 거물, 대세 굳히기? 이병학...충남교육감 출마 선언",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVZnNXWW9iYjdoVzBJQ1VGTV8xLURpazRRcDg2bXdDbmE4azlpc3BmeHA2dFNLcUQ3czRGLUQ3elpUUm5Dd05NNk8xc0xRMFJLdGlKQ0hrb1ZOUmYzQkpoamd0aHdYMDR2encxQUR0eTE?oc=5",
+    "source": "모빅경제",
+    "published": "2026-03-21",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "이번에도 '단일화 내홍'…경기교육감 진보 후보, 갈등 재연되나",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1aQlc1STFpN0x2T211LW80ZUh1ZWcyWHJiX2xpNWt6T21FYnRhVW40dGd3Rkk3SUhRMXBrOEMxMmJGRGZHeld1Q19VVkdCOHNrTmtz?oc=5",
+    "source": "네이트",
+    "published": "2026-03-21",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "인천시교육청평생학습관, AI를 활용한 한 해 기록하기 '특강'",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wS1JTUHpmUWhPYWlNRW1iM1hMaEFoZjI0bktGRlJoZEFjeG9XOG1IMnpLUHRQblotYWRBamFyMUJNalN5eVd0U2ZGS2ZTTElhYXNLNnpucUdwYy1VRzBJN3Y3UFFoQ2xQZjNvSllR?oc=5",
+    "source": "gukjenews.com",
+    "published": "2026-03-21",
+    "keyword": "AI디지털교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 10,
+    "title": "한국국악교육학회, 제8대 회장에 서승미 교수 선임",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=30029",
+    "source": "에듀프레스",
+    "published": "2026-03-22",
+    "keyword": "",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [],
+    "summary": "에듀프레스 장재훈 기자 = 한국국악교육학회는 최근 이사회와 총회를 열고 제8대 회장에 서승미 경인교육대학교 교수를 선임했다고 밝혔다.학회는 창립 회장 장사훈을 시작으로 이성천·권오성·조운조·홍종진·문재숙·안성우 교수 등으로 이어지며 약 50년간 국악교육 연구의 기반을 다져온 대표 학술단체다.서 신임 회장은 국립국악원 연주자 출신으로 교육·정책 연구·대학 행",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Empowering Education with Generative Artificial Intelligence Tools: Approach with an Instructional Design Matrix",
+    "url": "https://www.semanticscholar.org/paper/2eeff0f534d303581bc1199671600fbd04a2d01c",
+    "source": "semantic_scholar",
+    "published": "2023-07-25",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "개인화 학습"
+    ],
+    "summary": "본 연구는 4PADAFE 교수설계 매트릭스와 생성형 AI 도구를 활용하여 MOOC 강좌를 통해 교육 효과를 증진시키고, 특히 맞춤형 학습 경험을 제공하여 21세기 시대에 필요한 교육 혁신을 가능하게 함을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Lena Ivannova Ruiz-Rojas, Patricia Acosta-Vargas 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "Embracing Generative AI in Education: Exploring Teachers' Perceptions, Practices, and Potential Impact",
+    "url": "https://www.semanticscholar.org/paper/09905d5234d80b61bd6ff1bcdaabf208dfb0e8be",
+    "source": "semantic_scholar",
+    "published": "2024-08-31",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "개인화 학습",
+     "교사 연수"
+    ],
+    "summary": "본 연구는 교사들의 인식, 활용, 잠재적 영향에 대한 설문 및 인터뷰 기반의 혼합 연구를 통해 생성형 AI가 교육 현장에서 개인 맞춤형 학습, 교사 지원 등의 긍정적 영향을 미칠 수 있지만, 연령별 맞춤형 교육과 지속적인 전문성 개발이 필요함을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Jimson Ananayo Echave, Vicelyn Joy Par Donato 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Designing Online Learning Environment: ICT Tools and Teaching Strategies",
+    "url": "https://www.semanticscholar.org/paper/f45178ac2959120a44b248f227387d732af8923c",
+    "source": "semantic_scholar",
+    "published": "2021-11-03",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "러시아 대학의 ICT 및 e-러닝 도구 활용 현황을 조사하여 온라인 학습 환경 설계 및 블렌디드 러닝의 특징을 분석하고, 학생들의 언어 및 직업 능력 개발에 미치는 영향을 밝혀냈습니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "N. Samoylenko, L. Zharko 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "General relativity in upper secondary school: Design and evaluation of an online learning environment using the model of educational reconstruction",
+    "url": "https://www.semanticscholar.org/paper/388cf68b573654c6647db4b17cc46bd397569722",
+    "source": "semantic_scholar",
+    "published": "2018-05-25",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "노르웨이 고등학생들을 대상으로 일반 상대성 이론 온라인 학습 환경을 교육적 재구성 모델에 기반하여 설계하고 평가한 결과, 적절한 학습 자료와 교사 및 동료와의 상호작용을 통해 고등학생들이 일반 상대성 이론에 대한 질적 이해를 얻을 수 있음을 보여주며, 교육 설계 원칙을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Magdalena Kersting, E. K. Henriksen 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "Teaching Plan Generation and Evaluation With GPT-4: Unleashing the Potential of LLM in Instructional Design",
+    "url": "https://www.semanticscholar.org/paper/0c12d7e60dc407a91d66e6e24797263d15af0777",
+    "source": "semantic_scholar",
+    "published": "",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "LLM",
+     "교사 연수",
+     "개인화 학습"
+    ],
+    "summary": "본 연구는 GPT-4를 활용하여 수학 문제 체인 기반의 교수 설계 프레임워크를 만들고, LLM의 교육적 활용 가능성과 한계를 평가하여, 교사 연수 및 맞춤형 교육 설계에 LLM을 통합하는 방안을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Bihao Hu, Longwei Zheng 외 1명",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "MS, 윈도우에서 '코파일럿' AI 기능 축소...\"사용자 편의에 집중\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208172",
+    "source": "AI Times",
+    "published": "2026-03-21",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Microsoft"
+    ],
+    "summary": "MS의 코파일럿 기능 축소는 AI 기능의 무분별한 확산보다 사용자 효용성에 기반한 AI 통합 전략이 중요해지고 있음을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[OpenAI, ChatGPT·아틀라스·코덱스 통합한 'AI 슈퍼앱' 개발… 파편화된 생태계 하나로 묶는다] 생성형 AI 선두 주자인 OpenAI가 자사의 모든 AI 도구를 하나의 플랫폼 아래 통합하는 'AI 슈퍼앱' 프로젝트를 공식화했다.",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFAxT1JxdUg0WFNSbHJVSU5Sb2xabTRIVG1rVnN0bDBsVF95aW0tWUFQb3ZfNG5uYUhJWGRuM1BQWnI?oc=5",
+    "source": "AI넷",
+    "published": "2026-03-21",
+    "keyword": "오픈AI",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT",
+     "생성형 AI"
+    ],
+    "summary": "OpenAI의 슈퍼앱 전략은 AI 생태계 장악력을 강화하고 사용자 편의성을 증대시켜 AI 서비스 경쟁의 새로운 기준을 제시할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "아마존, 12년 만에 스마트폰 시장 재도전...음성 기반 AI 장치 개발 중",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208176",
+    "source": "AI Times",
+    "published": "2026-03-21",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Amazon"
+    ],
+    "summary": "아마존의 음성 기반 AI 스마트폰 재도전은 AI 생태계 경쟁 심화와 더불어, 새로운 인터페이스 혁신을 촉발할 가능성을 보여주는 시도입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "미국, AI 칩 중국 밀수 혐의로 슈퍼마이크로 창립자 등 3명 기소",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208164",
+    "source": "AI Times",
+    "published": "2026-03-21",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "GPU·데이터센터"
+    ],
+    "summary": "미국의 AI 칩 중국 밀수 기소는 AI 기술 경쟁 심화 속에서 글로벌 공급망 재편과 기술 주권 확보를 위한 규제 강화 추세를 보여주는 사례입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[AI카툰] Bob, Senior IT guy",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208144",
+    "source": "AI Times",
+    "published": "2026-03-21",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 기술이 일상에 자연스럽게 녹아들면서, IT 전문가뿐 아니라 모든 세대가 AI 친화적인 사용자 경험을 기대하게 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "OpenAI vs Anthropic 손잡지 않는다",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZU3YycXVZUnFjRHZqVDB3M0xLMnYxbGlLaUFVbVgtbGlISGhKeFMzRTQzbjNoQ0hJQUhmaXktSzQ5SXQzek52SU80dW55Zw?oc=5",
+    "source": "브런치",
+    "published": "2026-03-21",
+    "keyword": "Anthropic",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Anthropic"
+    ],
+    "summary": "OpenAI와 Anthropic의 협력 불발은 AI 기술 경쟁 심화와 각자도생 전략 가속화를 의미하며, 산업 표준 정립의 지연을 초래할 수 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "Anthropic turns Claude Code into an always-on AI agent with new channels feature",
+    "url": "https://the-decoder.com/anthropic-turns-claude-code-into-an-always-on-ai-agent-with-new-channels-feature/",
+    "source": "The Decoder",
+    "published": "2026-03-20",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude",
+     "코딩 AI",
+     "에이전트"
+    ],
+    "summary": "Anthropic의 Claude Code Channels 기능은 AI 에이전트의 활용성을 높여 개발 및 운영 자동화 영역에서 경쟁 우위를 확보하려는 시도로 풀이됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "대화형 캐릭터 생태계에 부는 운세 바람… 사주GPT, 독창적 비즈니스 모델 주목",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBhRHZwNkt0MlVCc0ZyckVWZm5QVWUtaURGa05HVDBydEoyOG1RdFU1Yk5ybmxoSmNlQTdfdnM4NDFPSS1sYUpJb1JUNzY?oc=5",
+    "source": "한국AI부동산신문",
+    "published": "2026-03-21",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "사주GPT는 대화형 AI의 새로운 비즈니스 모델 가능성을 제시하며, 운세 콘텐츠 시장의 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "오픈AI, 완전 자동화된 AI 연구원 개발 착수…AI 과학자의 시대 열린다",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wdFpIamRJVkdIclJfWkhrREhJeWk5aDljdVZHQVBWNEpVRlEwdzdaNDJZU0x2dEpFM2N0S0E5QXNHVEFSdUdYb1hJdkZMMHNjT0FFZ1V4WmE2b1hRWS1SSFp6UWROelB3aXUtZTE2RGV3ZVk?oc=5",
+    "source": "디지털투데이",
+    "published": "2026-03-21",
+    "keyword": "GPT",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "AI 과학자 개발은 연구 생산성 극대화와 동시에 인간 고유의 창의성 및 윤리적 문제에 대한 심도 있는 논의를 촉발할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "How Balyasny Asset Management built an AI research engine for investing",
+    "url": "https://openai.com/index/balyasny-asset-management",
+    "source": "OpenAI Blog",
+    "published": "2026-03-06",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "GPT 모델과 에이전트 워크플로우를 활용한 투자 분석 자동화는 금융 산업 전반의 AI 도입 가속화 및 경쟁 심화를 예고합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "tech": "AI 기술 경쟁이 심화되는 가운데, 사용자 편의성을 높이고 생태계를 통합하려는 움직임이 활발하며, 새로운 AI 기반 서비스와 투자 모델이 등장하여 미래를 개척하고 있다."
+ }
+}

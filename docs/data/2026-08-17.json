@@ -1,0 +1,415 @@
+{
+ "date": "2026-08-17",
+ "generated_at": "2026-11-02T11:41:43+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "강원대학교, 현장·문제 해결형 P3L 교수법 확산 위한 교육혁신 특강",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zSVYybnNrZUJabC1SSjNfek1GTTZCdjNwWnA0ZjBUWnR0bXZqWjFJQk43T3RYQnduaXpvM3UxNVlNbDhRNmFlaldnci1MRzlIU2FrWmRVZjdFV2pLdU5JMnBkODBWRGVCeVdxVFJxVnE?oc=5",
+    "source": "한국강사신문",
+    "published": "2026-08-16",
+    "keyword": "교육혁신",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [],
+    "summary": "강원대학교는 현장·문제 해결형 P3L 교수법 확산을 위해 교육혁신 특강을 진행했습니다.",
+    "implication": "우리 반 학생들이 현장 문제를 직접 해결하며 배우는 수업을 시도할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "울산교육청, ‘우리 아이’ 맞춤형 교수학습 역량 강화 연수 운영 > 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DWnNKUFJDYmNhcmFwazNKMWFmNDN6YUJiMXlyVmx0ekdFMy0ycWpRTWNzTzlLbWszVEg1MkcyX0pTMEZXc2xUSEFGWEd3MXBucXdUX1dNdElSYkFKaE82Y2M2ZzBob2h3N3RTUUtGY2U?oc=5",
+    "source": "더코리아",
+    "published": "2026-08-16",
+    "keyword": "에듀테크",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "울산시교육청"
+    ],
+    "summary": "울산교육청은 개별 학생 맞춤형 교수학습 역량 강화를 위한 연수를 운영합니다.",
+    "implication": "학생 개개인의 흥미와 수준에 맞는 차별화된 교수법을 수업에 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[2026 재계 인물 탐구 ㉚] 장평순 교원그룹 회장, ‘빨간펜’ 밑거름으로 ‘라이프케어 왕국’ 세워",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jSnpmRE16MlBWY0llc3NzejJOMEh5bGlaUXNMbld6WjdtSnZfVUl2TkFGVzEtZ1JHX3d6TkljdWtwZmJJeFVtVDZtR2F6SkFjLWFOUVRqNk9yYThEZl9VdnhUWjJnVkZ6eHhGLVE5S180Vkt5S0RZ?oc=5",
+    "source": "economytribune.co.kr",
+    "published": "2026-08-16",
+    "keyword": "에듀테크",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [],
+    "summary": "장평순 교원그룹 회장은 ‘빨간펜’을 밑거름 삼아 ‘라이프케어 왕국’을 세웠습니다.",
+    "implication": "학생들과 함께 익숙한 기업이 어떻게 변화하고 발전하는지 탐색하는 자료로 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "경북교육청, 2026 생성형 AI 및 학교교육 저작권 역량강화 연수 실시 > 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KbUk0dzZGV0d6T1hIWEtyc0tpcFdOblFZQ3JhdUs2VVBOTUFDQ01fT0k0Y1JXS0VyaW5xY1AyeW93M21yNGRGRDFuaG84VHJ6cXF3eVNBTU0yUUx0QlB2R0FsVUg2X1Y1X1ZMRWplR18?oc=5",
+    "source": "더코리아",
+    "published": "2026-08-16",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경북교육청",
+     "생성형 AI",
+     "저작권·소송"
+    ],
+    "summary": "경북교육청은 2026년 생성형 AI 및 학교교육 저작권 역량강화 연수를 실시합니다.",
+    "implication": "교사로서 생성형 AI 활용 수업 시 저작권 존중과 윤리적 사용을 강조할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "인천AI융합교육원, 교사 대상 ‘미래형 교수학습 전문가 과정’ 운영",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qdUR4V1M3YVdvb1E0VHpmYVNiQzVCY1p2U3dERVBqd1hXUTdfa3hLODQyY1JxTHBjd0MtWVpsWDZaN0lCenpXdkhvREpYN2xCdkE?oc=5",
+    "source": "유스연합",
+    "published": "2026-08-16",
+    "keyword": "AI디지털도구",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "인천AI융합교육원이 교사를 대상으로 미래형 교수학습 전문가 과정을 운영합니다.",
+    "implication": "AI를 활용한 미래형 교수법을 익혀 학생 참여 수업에 바로 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "안민석 교육감, 베이징 유리창서 실학 정신 되새겨...AI·RAS 교육 구상",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBRVNaNjdHeG5KVWdaOUJldk05bHZPVzdwUHRJZ3VVRm44MENPbGd3R0M2S1NoNHpUcnZFLTdyaFZFTWZrNGFSTExxNndyMXkwT2RNQWdwb0_SAVhBVV95cUxQQUVTWjY3R3huSlVnWjlCZXZNOWx2T1c3cFB0SWd1VUZuODBDT2xnd0dDNktTaDR6VHJ2RS03cmhWRU1mazRhUkxMcTZ3cjF5ME9kTUFncG9P?oc=5",
+    "source": "아주경제",
+    "published": "2026-08-16",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "안민석 교육감이 베이징에서 실학 정신을 되새기며 AI 및 RAS 교육 구상을 밝혔습니다.",
+    "implication": "실학 정신을 바탕으로 학생들이 AI와 같은 미래 기술을 활용해 실제 문제를 해결하는 실용적인 수업을 구성할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "울산교육연구정보원, 교원 대상 ‘인공지능·로봇 활용’ 수업 혁신 연수 진행 > 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zZUc5SGlha2Nnem1iZVZfX1ZSVm9qYlQ4dlZSdktXZ3dvM3E0UDhpWDI0UkJMaTJXb0pqUDVOWGl1OGRLd01hQ3VxZHNVWmxlYWoxWHJNV3VzYVpzNHEyWUV4bkdWcWR3Q1plcHJ1c28?oc=5",
+    "source": "더코리아",
+    "published": "2026-08-16",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "울산시교육청",
+     "로봇·휴머노이드"
+    ],
+    "summary": "울산교육연구정보원이 교원을 대상으로 인공지능과 로봇을 활용한 수업 혁신 연수를 진행한다.",
+    "implication": "이 연수를 통해 인공지능과 로봇을 활용한 새로운 수업 방식을 바로 내 교실에 적용해 볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "덕양구, 생성형 AI·엑셀·스마트폰 정보화교육 운영",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TNjVDbF9TNWl4UVZmQjQ2a2xQeXpRaUxUUG5VYm9Qc1RheHF5Z2ZSWGx4d3BnRFg4clNWRWl5MG9oSDk5aXRvaXRJeHRPWWIyRXhndmtDaWVEdW9wWHozbnM1WHRoNVRUY3c?oc=5",
+    "source": "고양신문",
+    "published": "2026-08-16",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "덕양구는 생성형 AI, 엑셀, 스마트폰 정보화 교육을 운영하고 있습니다.",
+    "implication": "지역에서 운영하는 AI, 엑셀 교육 사례를 참고하여 수업에 디지털 활용 역량 강화 내용을 접목할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "교사용 생성형 AI 지침, 수업에서는 어떻게 적용할까",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5kdmx1RnJIV0lvbGhMc2Zodkg2MHpuWlRTYlFtV3BjbGo0REpBOWVweWk5dVQ1N1pENUhEMDVNeVhkUmM?oc=5",
+    "source": "한국공공정책신문",
+    "published": "2026-08-16",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "교사용 생성형 AI 지침이 마련되었고, 이를 실제 수업에 적용하는 구체적인 방안을 모색합니다.",
+    "implication": "교사용 생성형 AI 지침을 바탕으로 AI를 활용한 효율적인 수업 준비 및 학생 활동 지원에 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "경기도교육청, 9월 조직개편 단행…‘RAS교육·벽깨기협력·민주시민교육’ 체계 강화",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FTGlKYUdrVzhDTkNoMHNKaS0wdWp6eUhXbTlKUGs2Rm9PbXFDRXVHY2Qzb2JKYUhQRTFmcHF5SU1JWGpjZGs2MmtlVl9wZGJORk0tdWhSVzBkcjFZSXpfZmkwemV0UXQwS005S3Eya2M?oc=5",
+    "source": "한국강사신문",
+    "published": "2026-08-16",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청이 9월 조직개편을 단행하여 'RAS교육, 벽깨기협력, 민주시민교육' 체계를 강화합니다.",
+    "implication": "이번 개편 방향에 맞춰 벽깨기 협력 활동과 민주시민교육 요소를 수업에 적극적으로 연계할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Transforming Education Through ICT-Driven Pedagogical Practices",
+    "url": "https://doi.org/10.59543/jidmis.v3.1805",
+    "source": "openalex",
+    "published": "2026-08-14",
+    "keyword": "Connectivism",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "지능형 디지털 기술 기반의 교수법은 학습자 중심의 참여 교육을 촉진하고 교사 역할을 재정립하며, 미래 사회를 위한 역량 강화를 통해 포괄적이고 적응적인 교육 시스템을 구현합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "S. Archana",
+    "pdf": "https://jidmis.org/index.php/jidmis/article/download/1805/748"
+   },
+   {
+    "n": 2,
+    "title": "Exploring the use of mathematics observation tools across the contexts of the United States, Norway, and Finland: how can observation instruments shape our understanding of instructional quality when applied across contexts?",
+    "url": "https://doi.org/10.1007/s11092-026-09497-w",
+    "source": "openalex",
+    "published": "2026-08-15",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "이 연구는 미국, 노르웨이, 핀란드의 수학 수업 관찰 도구를 사용하여 관찰자가 교육적 품질을 해석하는 과정에서의 문화적, 도구적 변이를 분석하여, 관찰 도구의 국제적 적용 가능성과 해석적 타당성에 대한 중요한 통찰을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Christie Martin, Jeléna Radišić 외 1명",
+    "pdf": "https://link.springer.com/content/pdf/10.1007/s11092-026-09497-w.pdf"
+   },
+   {
+    "n": 3,
+    "title": "PEMANFAATAN KECERDASAN ARTIFISIAL (KA) DALAM PEMBELAJARAN IPAS UNTUK MENINGKATKAN KUALITAS PEMBELAJARAN DIKELAS V SD NEGERI 2 LATIHAN SPG AMBON",
+    "url": "https://doi.org/10.51878/edutech.v6i3.11591",
+    "source": "openalex",
+    "published": "2026-08-15",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "이 질적 연구는 초등 IPAS 수업에 AI를 통합하여 학생의 참여도, 동기 부여 및 맞춤형 학습을 효과적으로 증진하고 학업 성취도를 향상함을 보여주며, 성공적인 적용을 위해 인프라와 교육 지원의 필요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Alberthina Permaha, Ode Abdurrachman 외 1명",
+    "pdf": "https://jurnalp4i.com/index.php/edutech/article/download/11591/9215"
+   },
+   {
+    "n": 4,
+    "title": "DEVELOPING LEARNER AUTONOMY IN ENGLISH LANGUAGE TEACHING: A KEY TO IMPROVING EDUCATIONAL QUALITY IN UZBEKISTAN",
+    "url": "https://doi.org/10.47390/ydif-y2026v2i15/n15",
+    "source": "openalex",
+    "published": "2026-08-14",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "우즈베키스탄의 영어 교육 품질 향상을 위해 학습자 자율성을 핵심 목표로 삼아 교사가 자기 평가, 협력 학습 등 실용적인 교실 전략을 통해 학생의 독립적 학습 능력과 미래 성공을 지원합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Sevinchkhon Malikova",
+    "pdf": "http://www.konferensiyalar.com/index.php/yd/article/download/606/576"
+   },
+   {
+    "n": 5,
+    "title": "The effects of a PLC model using lesson study with mentoring to develop assistant teachers’ competency in active learning management for fostering students’ creative innovation ability",
+    "url": "https://doi.org/10.69598/hasss.26.2.282947",
+    "source": "openalex",
+    "published": "2026-08-14",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "보조 교사의 능동적 학습 관리 역량 및 학생의 창의적 혁신 능력 함양을 위해 수업 연구와 멘토링을 결합한 전문 학습 공동체 모델을 개발하고 그 효과성을 입증하여 교원 역량 강화에 이바지합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Mutita Eamtip, chanasith Sithsungnoen",
+    "pdf": "https://so02.tci-thaijo.org/index.php/hasss/article/download/282947/189955"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "오픈AI, 맥용 챗GPT '컴퓨터 히스토리' 출시...앱·웹 활동 기억한다",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213986",
+    "source": "AI Times",
+    "published": "2026-08-15",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "오픈AI의 맥용 챗GPT '컴퓨터 히스토리'는 AI가 사용자의 디지털 활동 전반을 기억하며 운영체제 수준으로 통합되는 AI 비서 시대로의 전환을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "IBM·오픈AI 맞손…GPT-5.6·코덱스로 기업 핵심업무 AI 전환 가속",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12dFdVRTB6RmVmY0Y2LVQ1LUZOc1hlN3Z3RFYtSmczMzFfQzh0SWJJM0JhTFpVR3Z5ZnZUNTZPZC1ZVXR4d094c19vdHJYTEVMQUtuMXB1dEJDZ1dyT1lHN2tvS3pnYW8?oc=5",
+    "source": "인공지능신문",
+    "published": "2026-08-16",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "IBM과 오픈AI의 협력은 엔터프라이즈 AI 시장의 주류화를 가속하며 기업 핵심 업무의 AI 전환을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "\"IPO 앞두고 흔들리는 리더십\"… 오픈AI, 인원 이탈·안전성 후퇴 지적",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214006",
+    "source": "AI Times",
+    "published": "2026-08-16",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "AI 안전·규제"
+    ],
+    "summary": "오픈AI의 리더십 불안정과 안전성 후퇴는 AI 기술 생태계의 신뢰도를 저해하고, AI 산업의 책임 있는 발전과 투명한 거버넌스 요구를 증폭시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+    "url": "https://openai.com/index/previewing-ultrafast",
+    "source": "OpenAI Blog",
+    "published": "2026-08-13",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.6 Sol의 압도적인 속도 향상은 AI 서비스의 비용 효율성을 높이고 실시간 상호작용 및 신규 응용 분야의 혁신을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "Investor pressure forces Nvidia to shrink its OpenAI bet just as Anthropic's numbers defy bubble warnings",
+    "url": "https://the-decoder.com/investor-pressure-forces-nvidia-to-shrink-its-openai-bet-just-as-anthropics-numbers-defy-bubble-warnings/",
+    "source": "The Decoder",
+    "published": "2026-08-15",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "OpenAI",
+     "Anthropic"
+    ],
+    "summary": "AI 시장은 투자 리스크 관리가 강화되며, 실질적 성과를 입증하는 기업으로 자본이 재분배되는 성숙 단계에 접어들었습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "KAIST, 저전력으로 두뇌 구조 모사하는 ‘뉴로모틱 뉴런’ 구현",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214012",
+    "source": "AI Times",
+    "published": "2026-08-16",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "온디바이스 AI"
+    ],
+    "summary": "저전력 두뇌 모사 뉴로모픽 뉴런 구현은 엣지 AI 및 고효율 AI 시스템 발전을 촉진하여 AI 산업의 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+    "url": "https://openai.com/index/zapier",
+    "source": "OpenAI Blog",
+    "published": "2026-08-10",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "AI가 플랫폼 내에서 핵심 업무를 자동화하고 혁신하는 필수적인 도구로 자리매김하며 산업 전반의 생산성 향상을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "알리바바, '큐원3.8-맥스' 가중치 공개…상업적 이용엔 라이선스 필요",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213997",
+    "source": "AI Times",
+    "published": "2026-08-15",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Alibaba",
+     "오픈소스"
+    ],
+    "summary": "알리바바의 모델 가중치 공개는 AI 기술 활용을 확대하지만, 상업적 라이선스 요구는 오픈소스와 기업 수익 모델 간의 새로운 균형을 제시할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+    "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+    "source": "OpenAI Blog",
+    "published": "2026-08-10",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [],
+    "summary": "사이버 방어 취약점 심화는 AI 기반 보안 기술 수요를 증폭시키며 관련 산업 성장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "Testing ads in ChatGPT",
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "source": "OpenAI Blog",
+    "published": "2026-08-11",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "AI 챗봇에 광고가 적용됨은 고비용 AI 서비스의 대중화를 위한 필수 수익 모델이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

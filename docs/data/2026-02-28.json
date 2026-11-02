@@ -1,0 +1,167 @@
+{
+ "date": "2026-02-28",
+ "generated_at": "2026-11-02T11:52:46+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[사설] 응답하라, 교육부",
+    "url": "https://news.unn.net/news/articleView.html?idxno=590364",
+    "source": "한국대학신문",
+    "published": "2026-02-27",
+    "keyword": "",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [
+     "교육부"
+    ],
+    "summary": "한국대학교육협의회가 192개 회원대학 총장을 대상으로 실시한 ‘2026 대학 총장 설문(Ⅰ)’ 결과가 발표됐다. 140개교가 응답한 이 조사는 매년 정기총회를 앞두고 실시되는 연례 설문이다. 매년 같은 시기, 같은 방식으로 현장의 목소리가 수집되고, 교육부는 ‘경청하겠다’고 답한다. 그러나 정작 정책으로 반영되는 것은 별로 없다. 교육부는 대학 현장의 절박",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[신간] 한성진 박사가 소개하는 파크골프, 골프코칭, 그리고 골프뇌과학",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE82cHF2cEFUVlRZVC1leEU4bjhoYlV4VzFSV2Yxd21NUW1yUmhrZ0dEZ2FiMDBWLVFPalJnbHhoeDA1T2d1MUE?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-02-27",
+    "keyword": "뇌과학",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 3,
+    "title": "MC 서경석·초아·허성범, 뇌과학자 홍석준·과학 커뮤니케이터 미나니와 함께하는 지적 수다 ‘지적인 잡담’",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CMTNUSVVwWlhfNlpacmlNNG92cGZtVllIMWFPUXUwZ19WdFFhczRqU2xaUEMtVF9taUYtc3k4M2NsX0hLQkhobUk4VGtxTm1FVUhVaDJnb01nTVhYTkFZUUZra1dUc2NBbEk0MUdaZGw?oc=5",
+    "source": "한국강사신문",
+    "published": "2026-02-27",
+    "keyword": "뇌과학",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 4,
+    "title": "“AI 조교 에이전트가 개별 맞춤형 피드백 제공” [주간 에듀테크]",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kUUJYZGV0Z1gxODhUYjBhVm50aHR4Y1FTNTZpTjNuX3NqZzRKcDEtcWVCaFFiWFVYUzY1cXRKaWZMY2oyV2IyTHMwZ0steTFfcEUyVmtVYkJTOFhsTUNwY203OEJDaHoydW1kVUIxQjbSAXRBVV95cUxPOFRHWXVVV2RoY1E4TlB0TEUwcWVIcU9CRzVJYUNLSVg5STlmM3pCM3d4Z2RQR2hMMHpwUThzZjlYSEQ2aFZJZThVeFk0YXh0VkxwU05HTE40OFVyeHdSWG5UZVcySVEwd0tVRU1NZ3FuR2JRTg?oc=5",
+    "source": "IT조선",
+    "published": "2026-02-27",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 5,
+    "title": "서울시교육청, ‘AI·에듀테크 가이드라인’ 배포",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmcmU0S3htd3lWdktKNVhpWDZ5Z0JyWDRBV05zck14M3Y0OVU2Z2xmODJMWGd6VHd6am0tUmw1d2wwN0p1YjA4VlF0UWluZkhwWHNvQnF0MGNKVkFtRUlBMk1VRXZaNXp2R2JyQnNQUQ?oc=5",
+    "source": "대한일보",
+    "published": "2026-02-27",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "서울시교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 6,
+    "title": "[교육타파] 2026년 3월, 교실이 바뀐다 : 달라지는 교육정책",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VTTRRRUwtNF9xbkJtVXJlQXQ1WGhjby0ySzQyTWI3VmhGVENFSmxOUk9IVDdvd1RQV3RkYjBpWXd6MmtkeGM2RmlMMHhLT0FlWWVQTUVEdUJqc3BJZnow?oc=5",
+    "source": "전북미래교육신문",
+    "published": "2026-02-27",
+    "keyword": "AI교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 7,
+    "title": "교육부, '대학 AI 활용 윤리 지침' 시안 발표... 학사 공정성 확보 나선다",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZQmYyeTByNXlRZmRIUUQ2M1JSUlNvZGxRYzZaZ1hTVlpVQ1RSWjktbVpoT2oyVGVFbm5jNGd0S1YwLVpMSzBkcUpXQTcxN2oxbnhvYWQtTnJuRTY5T0xSVnNOSzNVUQ?oc=5",
+    "source": "교육을 비추다",
+    "published": "2026-02-27",
+    "keyword": "에듀테크",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "경기도교육청, 인공지능(AI)･디지털 활용 선도학교 350교 운영, 학생 맞춤형 수업 본격화",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ySUNqZ2lOTkJhUExubmlKelhEZ3JtM1F1OXhXRDRLN05TRHBkNmQ1bHFfbmdBeE5zWTJScFZ1Vm9QSGNDVkQ2bzBVYndzRVI5SkN6Z0I4LVBodXBWaDl2VXR4WQ?oc=5",
+    "source": "대한민국교육신문",
+    "published": "2026-02-27",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "미래디지털AI협회, AI자격증과정 4기 4차시 ‘바이브코딩(Vibe Coding)’ 강사 역량 강화의 장 마련",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBvQXVXOXhjMWtQMWRaN18tT3B1Q1FZdUczaHJ3NnF2R2o3UVVJOWRMWjFQM0R6MUtWVXQxQm55X1ViS0JqTVNHUjI1ZGk?oc=5",
+    "source": "한국AI부동산신문",
+    "published": "2026-02-27",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "코딩 AI"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 10,
+    "title": "대전시교육청, 2026학년도 주요 정책 발표…“수업 혁신과 맞춤형 교육 공간 조성에 총력”",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Zci1hSC1Bb0ZKRVFqaUNSUXhjZEo2Rmw3Q0RHWV9Lb2R2TGhLVXd2TFNWWE1WR1MwSVNuVDJlRWJ0aWZMdHdvanBzTWVBQXJwcHJ3MWJ0ZHVRWWJqU1pZODBVM19WMlVWalRDSdIBcEFVX3lxTE91Q2pZYXZkS0I3RVEtWHVtX2I3bWRhVVhZa2twcHA5MjhsQmFRYzZXYTRKRE56S2M1dEc3dWVJb3Z3aHJ5NnF5UnFOWTFWcklyWDRiaXNBS3RISlNMdmlsLXUzdXllU0Fma09fRmRWNS0?oc=5",
+    "source": "뉴스체크",
+    "published": "2026-02-27",
+    "keyword": "AI디지털도구",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대전시교육청",
+     "개인화 학습"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   }
+  ],
+  "paper": [],
+  "tech": []
+ },
+ "fallback": {},
+ "notes": {}
+}

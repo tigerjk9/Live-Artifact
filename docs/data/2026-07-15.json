@@ -1,0 +1,423 @@
+{
+ "date": "2026-07-15",
+ "generated_at": "2026-11-02T11:39:54+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[기고] '교육혁신선도지역'은 소규모 학교 통폐합 정책인가 교육부에 물었더니...",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1mRWNLRE1aOFFSQkVoZW9UVV9CTXktYlZSQmRqcW9CMEZpR1cxNlVHMDRzLXpzUmZ0Y3ZYdXo2WEI4R20xWnVtRWc0VQ?oc=5",
+    "source": "campaigns.do",
+    "published": "2026-07-14",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [
+     "교육부"
+    ],
+    "summary": "'교육혁신선도지역' 정책이 소규모 학교 통폐합을 위한 것인지 교육부에 질의한 내용입니다.",
+    "implication": "학생들과 현재 교육 정책의 숨겨진 의도와 다양한 영향에 대해 토론하며 비판적 사고력을 키울 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "대전시교육청, IB 연구회 중간 점검…교실수업 혁신 현장 확산 속도",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKVUp3UHZJbHF5bWRJeEY4QUhKMURhc19IYnoxZjFGZ2I2SG9jRDM3ckZjbWktYlRaR2g2UTdKclRBS0JVQzY2eUFZNy1mMjA?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-07-14",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "대전시교육청",
+     "IB"
+    ],
+    "summary": "대전시교육청은 IB 연구회 중간 점검을 통해 교실수업 혁신 현장 확산 속도를 확인하고 있습니다.",
+    "implication": "IB 교육이 현장에 확산될 가능성이 크므로, IB 기반 교실수업 혁신 아이디어를 미리 구상할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "테크빌교육 '체더스', 인천시교육청 'AI 맞춤형 교수학습 플랫폼' 사업 2년 연속 수주",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGcFY1S29YV1VRSXlobUlkb3ZNcjlGQjZEMzJETmtTQ3JYR2ZNT2tENHoxc0tTRzVOQjhQN19KLVlCT3dRSmluVUNQZ3o0TnZuQ2dhRmpyVTJCV3VpbGdIUGRwTUNnakljZHpNbnNHNVhTd9IBckFVX3lxTFBGcFY1S29YV1VRSXlobUlkb3ZNcjlGQjZEMzJETmtTQ3JYR2ZNT2tENHoxc0tTRzVOQjhQN19KLVlCT3dRSmluVUNQZ3o0TnZuQ2dhRmpyVTJCV3VpbGdIUGRwTUNnakljZHpNbnNHNVhTdw?oc=5",
+    "source": "머니투데이",
+    "published": "2026-07-14",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "테크빌교육 '체더스'가 인천시교육청 AI 맞춤형 교수학습 플랫폼 사업을 2년 연속 수주했습니다.",
+    "implication": "AI 맞춤형 교수학습 플랫폼으로 학생별 맞춤 학습 지도에 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "충북교육청, 에듀테크 시대 미래 교사의 길을 열다",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53WTJlNVFFbl91UDdGNXpzQW4zZmpJeDZXRVdoT1gwVnFXS1BCczBMWnU5Ym0zZzkxX3E2MGFFVUx3NFhjdE8wUldQMHI1OGhUdXB2YmNhQmZIQQ?oc=5",
+    "source": "브릿지경제",
+    "published": "2026-07-14",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "충북교육청",
+     "개인화 학습"
+    ],
+    "summary": "충북교육청은 에듀테크 시대를 대비하여 미래 교사의 역량 개발 및 진로 개척을 지원합니다.",
+    "implication": "에듀테크 기술을 활용하여 학생들의 참여를 높이고 맞춤형 학습을 제공할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "이병도 충남교육감 “‘교권 바로 세우고 AI교육 속도…학생 성장 흔들림 없게 하겠다’”",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1JREx4VW44dHFobm1qTDdFOHFzWE9EeGl4S3YtMzdjRVYzaGFaN3lmbG16akJISUJuZUxzZkxJU2VXWWZSRDF2dl9rNXBaZkV3a2dsLTRtQzA2aDI0cTdsdHk2VzJtWnNaOGZaLQ?oc=5",
+    "source": "공뉴스",
+    "published": "2026-07-14",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충남교육청",
+     "교권"
+    ],
+    "summary": "이병도 충남교육감은 교권 확립, AI 교육 가속화, 학생 성장 안정화를 추진하겠다고 밝혔습니다.",
+    "implication": "교육감의 AI 교육 강화 방침에 따라 수업에서 AI 도구 활용을 시도하거나 관련 내용을 접목할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "안민석 교육감, 서울대와 AI 교육혁신 맞손… “경기교육 대전환 함께 만든다”",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82MTlJTDk0QVZuMzlLLTl1SnpubGhNU2hRc05HS29FZE1QQTBMSDgxdHZlQ2JFMjRyemphTDB3ZlgxQl8zM2JqYzRWWW9YMndBeHdnVTdBMDc3dk5fOF82d3N1SG50cExaMFE?oc=5",
+    "source": "천지일보",
+    "published": "2026-07-14",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "개인화 학습"
+    ],
+    "summary": "안민석 교육감과 서울대가 경기교육 AI 혁신을 위해 협력합니다.",
+    "implication": "AI 도구를 활용하여 학생 맞춤형 학습을 제공할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "충남교육청, 충남교육 미래전략회의 출범…교육 현안 대응 본격화",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1aVHJYZVZ6ekJxZ3FyRUpUSm9WMHdObHlpMXNwRERUekxEbmVYYUcwR1RSTWNWak4zZHN6Y3FQTEZPMEFZREE?oc=5",
+    "source": "뉴스충청인",
+    "published": "2026-07-14",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "충남교육청은 충남교육 미래전략회의를 출범해 교육 현안 대응을 본격화합니다.",
+    "implication": "앞으로 충남교육의 변화 방향을 학생들이 함께 이야기해 볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "충북교육청, 초등 통합교육 현장 애로 해소···‘특수교육대상자 비율 따른 학급 분반’ 기준 마련",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4tSUZzV0t0SEdNRE5INmJEQ3lJWWFsY0hPMlNKenZxbmZqczdZX3pOb2hBN1VkWWxSd19RdWtEUjJZczhXOVI3WnNuUl9mRjVaTktiSkdLalNHQ2pQalVrdFcwSW0yN1NzMnRMQVg2VGhmazV60gF0QVVfeXFMTi1JRnNXS3RIR01ETkg2YkRDeUlZYWxjSE8yU0p6dnFuZmpzN1lfek5vaEE3VWRZbFJ3X1F1a0RSMllzOFc5Ujdac25SX2ZGNVpOS2JKR0tqU0dDalBqVWt0VzBJbTI3U3MydExBWDZUaGZrNXo?oc=5",
+    "source": "이뉴스투데이",
+    "published": "2026-07-14",
+    "keyword": "교육현장",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [
+     "충북교육청",
+     "특수교육"
+    ],
+    "summary": "충북교육청이 초등 통합교육 현장의 어려움 해소를 위해 특수교육대상자 비율에 따른 학급 분반 기준을 마련했습니다.",
+    "implication": "특수교육대상자 비율에 따른 학급 분반으로 개별 학생에게 더 집중하는 수업을 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "글로벌 교육 격차 해소에 투입되는 에듀테크... 베스트텍, 필리핀에 'AI·XR 스마트교실' 구축",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WdFRnSl9GQ2RJZ2F6ZVdhRUJ0Sk4xZVZnQTRwQjZYYU4wa0JwbWxtQnlSRXhTOWFoSW0yWVBYNG0wcEJHUTFldk9FMklHWm55em50YXVvSVR5T0h3cEdXY2xuY0h4Y2VfTWk2NmVOdk82RF9r0gF0QVVfeXFMTlZ0VGdKX0ZDZElnYXplV2FFQnRKTjFlVmdBNHBCNlhhTjBrQnBtbG1CeVJFeFM5YWhJbTJZUFg0bTBwQkdRMWV2T0UySUdabnl6bnRhdW9JVHlPSHdwR1djbG5jSHhjZV9NaTY2ZU52TzZEX2s?oc=5",
+    "source": "한국데이터경제신문",
+    "published": "2026-07-14",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "베스트텍이 글로벌 교육 격차 해소를 위해 필리핀에 에듀테크 기반 AI·XR 스마트교실을 구축합니다.",
+    "implication": "AI·XR 기술을 활용하여 학습 부진 학생에게 맞춤형 콘텐츠를 제공해 학습 격차를 줄일 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "대전교육청, 현장연구·학생 참여로 교육정책 혁신 '속도'",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpNi1sZkxtUEFDUHYwdE0xdjlxT0poMXNReEdnUmhfVTlSR1Q2RzVmNlJfaHBoWTllUGFlNS1XNGFNRFBDY0NnMG16NjZrVE1tQ25sRko2cHVUdU9KYVhIY3ROQnV5aERaeXpuZg?oc=5",
+    "source": "충청뉴스",
+    "published": "2026-07-14",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "대전교육청은 현장연구와 학생 참여를 통해 교육정책 혁신에 속도를 내고 있습니다.",
+    "implication": "수업에서 학생 의견을 적극 수렴하여 활동을 개선하고 교육 정책 제안에 활용할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Artificial intelligence literacy education in primary schools: a review",
+    "url": "https://www.semanticscholar.org/paper/a4741755f41e4448f579921a07fa451c77f0b0d4",
+    "source": "semantic_scholar",
+    "published": "2025-04-29",
+    "keyword": "",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [
+     "AI 리터러시"
+    ],
+    "summary": "초등학생을 위한 AI 리터러시 교육의 이론적 틀, 교수 전략, 도구, 평가 및 성과를 25편의 연구를 체계적으로 검토하여 포괄적으로 분석하고, 미래 교육 설계에 필요한 핵심적 통찰을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "I. H. Y. Yim, Jiahong Su",
+    "pdf": "https://link.springer.com/content/pdf/10.1007/s10798-025-09979-w.pdf"
+   },
+   {
+    "n": 2,
+    "title": "Transforming Traditional Pedagogy through Intelligent Technologies with AI-Enabled Teaching &amp; Learning in Ayurveda Education",
+    "url": "https://doi.org/10.70593/978-93-7185-643-0_2",
+    "source": "openalex",
+    "published": "2026-07-10",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 전통적인 아유르베다 교육의 현대적 난제 해결을 위해 적응형 학습, NLP 도구 등 AI 기술을 분석하여, 학습 효과를 높이고 전통을 보존하며 교육을 세계적이고 기술적으로 발전시키는 방안을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Bhawana Joshi, Nupur Shukla 외 1명",
+    "pdf": "https://deepscienceresearch.com/dsr/catalog/download/729/3157/5686"
+   },
+   {
+    "n": 3,
+    "title": "“METHODOLOGY, RESEARCH PROCEDURES, AND PEDAGOGICAL RECOMMENDATIONS FOR ENHANCING STUDENT MOTIVATION THROUGH PLAY-BASED TECHNOLOGIES",
+    "url": "https://doi.org/10.52058/2786-6165-2026-6(48)-1080-1097",
+    "source": "openalex",
+    "published": "2026-07-11",
+    "keyword": "",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [],
+    "summary": "고등 교육에서 놀이 기반 기술로 학생 동기를 높이는 방법론을 제시하고, 참여도와 자율성 향상을 입증하며, 교사 훈련과 같은 교육적 권고로 학생 중심 학습 발전에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Iryna Maksymova",
+    "pdf": "https://perspectives.pp.ua/index.php/vno/article/download/46575/46601"
+   },
+   {
+    "n": 4,
+    "title": "Learning Style-Specific Discourse Patterns in K-12 Mathematics Classrooms: An-AI Based Multimodal Analysis of 1,136 Instructional Videos",
+    "url": "http://dx.doi.org/10.1007/s10639-026-13897-2",
+    "source": "eric",
+    "published": "2026-01-01",
+    "keyword": "agentic AI",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "이 연구는 AI 기반 다중 모드 분석으로 K-12 수학 수업 1,136개 비디오에서 학생 학습 양식별 담화 패턴을 미시·중시·거시 수준에서 분석하여, 맞춤형 차별화 교육을 위한 지능형 기술 활용 방안을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "HaiKuo Su, Xiuhong Li 외 1명",
+    "pdf": "http://dx.doi.org/10.1007/s10639-026-13897-2"
+   },
+   {
+    "n": 5,
+    "title": "FOSTERING EMOTIONAL INTELLIGENCE IN LANGUAGE EDUCATION",
+    "url": "https://doi.org/10.52058/3041-1572-2026-6(26)-90-103",
+    "source": "openalex",
+    "published": "2026-07-13",
+    "keyword": "",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [],
+    "summary": "급변하는 환경 속 언어 교육에서 정서 지능 함양의 중요성을 다룬 이 논문은 의사소통 중심 교수법 및 상호작용 활동을 통해 정서 지능을 통합할 때 학습 불안 감소, 공감 능력 향상 등 긍정적 교육 효과가 있음을 실증적으로 밝힙니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Svitlana Makukhina",
+    "pdf": "https://perspectives.pp.ua/index.php/sni/article/download/46694/46720"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "실행 결과 학습해 진화하는 '동적 피드백' 라우터 등장...\"AI 비용 2.6배 절감\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212744",
+    "source": "AI Times",
+    "published": "2026-07-14",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [],
+    "summary": "실행 학습 기반 라우터는 AI 기술을 인프라에 내재화하여 전체 시스템 효율을 극대화함으로써 AI 생태계의 운영 비용 절감에 크게 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "\"실패 원인만 골라 강화학습\"…4분의 1 데이터로 상용 모델 넘은 '트레이스' 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212746",
+    "source": "AI Times",
+    "published": "2026-07-14",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "실패 기반 강화학습은 AI 모델 개발에 필요한 데이터와 컴퓨팅 자원을 획기적으로 줄여, AI 산업의 효율성과 접근성을 크게 높일 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "'모두의 AI' 사업에 카카오·이통사·스타트업 잇달아 출사표",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212751",
+    "source": "AI Times",
+    "published": "2026-07-14",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "카카오"
+    ],
+    "summary": "카카오, 이통사, 스타트업 등 다양한 주체들의 '모두의 AI' 참여는 기술 대중화를 가속하고, 혁신 경쟁을 통해 AI 생태계의 폭넓은 성장을 이끌 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "제네시스코텍스AI, ChatGPT·Claude·Gemini 토론시키는 ‘AI Debate Engine’ 상용화",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TcFBuTFlsVTNkMTZRei1tVmtRUTFWRjlQMlN1YzdwTm1oR0FtMGlrR2pLV25jUVdkNkZjZzEyblBMaDdWVkN4SXphcFRqSHN4YVhQbXBEeFIwVTEweTZ0TXducEVGZkdYTE5QNVVTblJwWEnSAXNBVV95cUxNU3BQbkxZbFUzZDE2UXotbVZrUVExVkY5UDJTdWM3cE5taEdBbTBpa0dqS1duY1FXZDZGY2cxMm5QTGg3VlZDeEl6YXBUakhzeGFYUG1wRHhSMFUxMHk2dE13bnBFRmZHWExOUDVVU25ScFhJ?oc=5",
+    "source": "핀테크투데이",
+    "published": "2026-07-14",
+    "keyword": "AI모델",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Claude",
+     "Gemini"
+    ],
+    "summary": "다양한 AI 모델 간의 상호작용과 토론을 통한 검증은 AI 기술 고도화 및 생태계 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "IOSG: AI의 기로, 왜 월스트리트는 ChatGPT와 Claude에게 '아니오'라고 말하고 있는가?",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjOHFWZjI4RG9HcXpPT2VDc180NUVDT2lkekR1My0zbEpPaGducWNpNTVyQnFUZkdGNGNyMUtMSHVyNWpXWkJxWm5sb2U4Yk92OGp5UmdjWEZXZzhsNWROTUs3Y1NmUExPVmEtVlB3b2kwalljNjZJRU5UclN4SFU?oc=5",
+    "source": "PANews",
+    "published": "2026-07-14",
+    "keyword": "오픈소스",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Claude"
+    ],
+    "summary": "월스트리트의 거부는 범용 AI의 한계를 드러내며, 산업별 맞춤형 및 실질적 가치 창출 AI 솔루션의 중요성을 부각할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "AI 에이전트로 로봇 학습용 가상세계 자동 생성…MIT·도요타연구소, '씬스미스' 오픈소스로 공개",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hQk52Smp2LTJJbnNWS1dqSTFOMHlqcHU4VWxIaHFjd1dGVUJldTJhYVZEcXhRbU1kX1ZBdFpONFRPMUp5X0JaWFprRG9WMWptdllobm93TU5FSTNGeGRDUXRad3VQUFE?oc=5",
+    "source": "인공지능신문",
+    "published": "2026-07-14",
+    "keyword": "생성AI",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "에이전트",
+     "로봇·휴머노이드",
+     "오픈소스"
+    ],
+    "summary": "AI 에이전트의 가상세계 자동 생성 기술은 로봇 학습 및 개발 효율성을 극대화하여 AI 로봇 산업 전반의 혁신과 성장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "ChatGPT returns to WhatsApp in Europe after EU forces Meta to open the door to rival AI bots",
+    "url": "https://the-decoder.com/chatgpt-returns-to-whatsapp-in-europe-after-eu-forces-meta-to-open-the-door-to-rival-ai-bots/",
+    "source": "The Decoder",
+    "published": "2026-07-14",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Meta"
+    ],
+    "summary": "EU의 규제 압박으로 대형 플랫폼의 AI 서비스 개방이 가속화되며 AI 기술 생태계의 경쟁과 상호운용성이 증대될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "나델라의 경고 “AI 기업에 노하우 넘겨주는 ‘역정보의 역설’ 막아야”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212736",
+    "source": "AI Times",
+    "published": "2026-07-14",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "Microsoft"
+    ],
+    "summary": "AI 활용 기업이 독점적 노하우를 AI 개발사에 제공하며 경쟁 우위를 잃을 수 있다는 경고입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+    "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+    "source": "MIT Technology Review",
+    "published": "2026-07-10",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Claude",
+     "OpenAI"
+    ],
+    "summary": "AI 생태계는 클로드의 기술 투명성 확대와 OpenAI의 플랫폼 전략을 통해 기술 고도화 및 시장 주도권 경쟁이 심화될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "Anthropic opens Claude for Teachers with a promise not to train models on student data",
+    "url": "https://the-decoder.com/anthropic-opens-claude-for-teachers-with-a-promise-not-to-train-models-on-student-data/",
+    "source": "The Decoder",
+    "published": "2026-07-14",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude"
+    ],
+    "summary": "학생 데이터 미학습 정책은 AI의 책임감 있는 확산과 교육 등 민감 분야 시장 진입을 위한 신뢰 확보의 핵심 전략이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

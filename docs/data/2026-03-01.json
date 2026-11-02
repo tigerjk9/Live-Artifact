@@ -1,0 +1,415 @@
+{
+ "date": "2026-03-01",
+ "generated_at": "2026-11-02T11:52:48+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[함영기 칼럼] 정책 과잉의 시대, 학교의 위기",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=21823",
+    "source": "에듀프레스",
+    "published": "2026-03-01",
+    "keyword": "",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "지금 학교 현장은 교육과정을 통해 구현되어야 할 삶의 가치들이 심각하게 훼손되고 있다. 특정 분야의 교육을 강제하는 법률이 ‘의무’의 이름으로 켜켜이 쌓이면서 학교 현장은 여백을 잃었다.교육적 권고와 자율적 실천의 영역이 어느새 법적 이행의 대상이 됐고, 이에 따라 교육은 본연의 역동성을 잃고 행정적 처리의 대상으로 전락하고 있다.선출직 교육감 시대에 들어",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[사설] AI 교육, 윤리 갖춘 디지털시민 양성하자",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kRzFOZEM0M2tDV0UtOUdmUndKbU15YUIwUEIwanRUTnNLWlYwUUNoWlo2cGhlNVB2TGVWdE9XZFZPcVA2ZkxaNGItb2Y3a3M?oc=5",
+    "source": "환경감시일보",
+    "published": "2026-02-28",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 3,
+    "title": "[Pocus 칼럼] 과제에 AI 썼다가 적발되면?\" 2026년 'AI 필수과목' 의무화 시대, 캠퍼스 생존과 진짜 경쟁력",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA4X0dqN3phTmV1YmVPamFyRW1UeHVsdFJ1bjN4alBIN2dKZnZMVjFBcTEzMW1TaWF3R01rTzN0R0dwWDBtT1g4S3NBRXA?oc=5",
+    "source": "한국AI부동산신문",
+    "published": "2026-02-28",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 4,
+    "title": "[김현태 칼럼] ‘5년소계’ .. 교육은 왜 정권의 전리품이 되었나",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZcjlKUlI0bDlUQ3BhX2JFa1RCZ3VVV2NNWnhwdzQteWlDMmZrVHdYUUZSVXVSdlF1T0ppYzRlSVdaTFVTMkFFM2lDNmo2Z08wYjR5VUhrVW9FQ1lVNW53RFpnVjdhSm9n?oc=5",
+    "source": "에듀프레스",
+    "published": "2026-02-28",
+    "keyword": "AI디지털교육",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 5,
+    "title": "GIST, ‘몸-뇌 연결 비밀’ 규명할 IBS 연구단 출범… 광주를 뇌과학 연구 거점으로 육성",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxRV9JQUtDOGQ4MENzX092enVOdGxFZUhSSG9HMndGcHhOd2lSWnJuSzVpV1BPTVpFck5aN0RtMVBKR1VtLVRpSFhyQW5rcms?oc=5",
+    "source": "환경감시일보",
+    "published": "2026-02-28",
+    "keyword": "뇌과학",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 6,
+    "title": "[2026 북6/100]이토록 뜻밖의 뇌과학",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1kZmlZTV82NXJFQS1DUWo3N01XZTBVa0p6bVFiRWZ5SFJTcF9TT1lzdGlrZzZZWVlWR2lfbElBSlJRQk5PRW1EQS0zbzU?oc=5",
+    "source": "브런치",
+    "published": "2026-02-28",
+    "keyword": "뇌과학",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 7,
+    "title": "서울시교육청, 'AI·에듀테크 가이드라인' 일선 학교 배부... 인간 중심 교육 안착 이끈다",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5vY2o4ZFM4NkhkRF96M2hsakZZcl9JbnlNOGEyb2RxakxmMlNjUkZ0NkhrYkRWYnVIVTd1azB4bHBCMW8wSFEtdTdYc2hzbXZ1YzBFRFU0akdfNDZuQWZpX0VUT19TQQ?oc=5",
+    "source": "교육을 비추다",
+    "published": "2026-02-28",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "서울시교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "“AI 조교 에이전트가 개별 맞춤형 피드백 제공” [주간 에듀테크]",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kUUJYZGV0Z1gxODhUYjBhVm50aHR4Y1FTNTZpTjNuX3NqZzRKcDEtcWVCaFFiWFVYUzY1cXRKaWZMY2oyV2IyTHMwZ0steTFfcEUyVmtVYkJTOFhsTUNwY203OEJDaHoydW1kVUIxQjbSAXRBVV95cUxPOFRHWXVVV2RoY1E4TlB0TEUwcWVIcU9CRzVJYUNLSVg5STlmM3pCM3d4Z2RQR2hMMHpwUThzZjlYSEQ2aFZJZThVeFk0YXh0VkxwU05HTE40OFVyeHdSWG5UZVcySVEwd0tVRU1NZ3FuR2JRTg?oc=5",
+    "source": "구글 뉴스",
+    "published": "2026-02-27",
+    "keyword": "",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "\"학생 맞춤형 수업 본격화\" 경기도교육청, 'AI･디지털 활용 선도학교' 350교 운영",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YbEY3Nk1zcHRBVE1GU1FJekhSMVRIaEpvcmJ6eEpYSXgzbUUtTXdpeVYxU0lnWVNPNWk3TVROM2lkNlVOX3BYZUt2cmg2eVBHUmtGUHhBbnhRUlQtdl9raFlKOTJsRVdKTGc?oc=5",
+    "source": "컨슈머타임스(Consumertimes)",
+    "published": "2026-02-28",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 10,
+    "title": "교육부, 'AI 영재학교' 2027년 개교 확정··· IT 강국 도약할 디지털 인재 육성",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5NmJOMTJQck44Y1FBOXhtRGtMcXQ4cHh5NXloT05UbWtJeDk2VlVHLUhodmFxbGVLaFhZYmpFUFJGYW90WGtjeEYzWnFkLUs0UUdIQS1SUkVULVVvem1ic2JtamFRdw?oc=5",
+    "source": "교육을 비추다",
+    "published": "2026-02-28",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Artificial Intelligence-Enabled Intelligent Assistant for Personalized and Adaptive Learning in Higher Education",
+    "url": "https://www.semanticscholar.org/paper/f80e7b5baa6adf0cd5dddb5ba973fed9d8a216cf",
+    "source": "semantic_scholar",
+    "published": "2023-09-19",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "본 논문은 고등 교육에서 개인 맞춤형 학습을 지원하기 위해 AI와 자연어 처리 기술을 활용한 지능형 보조 시스템(AIIA)을 제시하며, 학습 부담을 줄이고 학생들의 학습 효과, 참여도, 만족도를 향상시킬 수 있는 AI 기반 가상 조교(VTA) 설계에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ramteja Sajja, Y. Sermet 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "Online teaching-learning in higher education during lockdown period of COVID-19 pandemic",
+    "url": "https://www.semanticscholar.org/paper/543e9279c746bdf000d477a19502d82e535d54e6",
+    "source": "semantic_scholar",
+    "published": "2020-09-10",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 코로나19 팬데믹 봉쇄 기간 동안 인도 미조람 대학의 온라인 교육-학습 방식의 시행 과정과 교사 및 학생들의 인식을 양적, 질적으로 분석하여, 향후 위기 상황 발생 시 교육 기관의 온라인 교육 전환 및 교육 활동 재개에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "L. Mishra, Tushar Gupta 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Impact of blended learning on learning outcomes in the public healthcare education course: a review of flipped classroom with team-based learning",
+    "url": "https://www.semanticscholar.org/paper/570e58b2969d09a4b9e6984d863c60973b56edf6",
+    "source": "semantic_scholar",
+    "published": "2021-01-28",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "플립러닝과 팀 기반 학습을 결합한 블렌디드 러닝은 전통적 강의 방식에 비해 간호학과 학생들의 공중 보건 교육 과정에서 지식, 문제 해결 능력, 학습 만족도를 향상시켜 간호 교육의 효과적인 대안으로 활용될 수 있음을 입증합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Hee-Young Kang, H. Kim",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "Crafting innovative paths in non-linear professional learning for bilingual education: the role of connectivism in the age of AI",
+    "url": "https://www.semanticscholar.org/paper/fadb0d5ce66c9b46218878148d33740fc688c16a",
+    "source": "semantic_scholar",
+    "published": "2024-10-29",
+    "keyword": "Connectivism",
+    "topic": "language",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "본 논문은 K-12 이중언어/ESL 교사의 AI 활용 역량 강화를 위해 커넥티비즘에 기반한 비선형 전문성 개발 모델을 제시하고, 교사들의 AI에 대한 긍정적 태도 변화와 교육 현장 적용 가능성을 확인하여 디지털 시대 교육 혁신에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Amin Davoodi",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "Internationalization of the curriculum: Connectivism approach supported by relational leadership.",
+    "url": "https://www.semanticscholar.org/paper/098f4620545ae7ef46d90fb99bce45446694bbe1",
+    "source": "semantic_scholar",
+    "published": "2024-03-06",
+    "keyword": "Connectivism",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [],
+    "summary": "멕시코 공립 고등교육기관에서 코로나19 팬데믹으로 인한 디지털 교육 환경 변화에 대응하기 위해, 교육 플랫폼 도입과 관계적 리더십을 기반으로 한 연결주의적 접근을 통해 교수진의 디지털 역량 강화 및 협력적 행정 문화를 구축하여 교육 국제화를 추진하고 있습니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "María Cruz Cuevas Álvarez, Marcos Pérez Mendoza 외 1명",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "KAIST,‘뇌를 닮은 AI’개발.. 예측이 틀려도 한번 더 생각한다",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207400",
+    "source": "AI Times",
+    "published": "2026-03-01",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "KAIST의 뇌 닮은 AI 개발은 에너지 효율성과 예측 능력 향상을 통해 차세대 AI 기술 경쟁력 확보에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "KT, MWC26서 로봇 플랫폼 ‘K RaaS’ 공개...\"VLA 기반 피지컬 AI\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207415",
+    "source": "AI Times",
+    "published": "2026-03-01",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "KT",
+     "로봇·휴머노이드"
+    ],
+    "summary": "KT의 K RaaS는 로봇 플랫폼 생태계를 확장하고, 피지컬 AI 기반 자동화 서비스 시장을 선점하려는 전략적 움직임으로 보입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[기고] “그래프 RAG 열풍, 기업 AI 대부분은 아직 자동화에 실패하고 있다”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207411",
+    "source": "AI Times",
+    "published": "2026-03-01",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "기업 AI 도입은 검색 중심의 RAG 시스템을 넘어, 업무 자동화를 위한 근본적인 접근 방식 전환이 필요함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "Google Deepmind and OpenAI employees demand Anthropic-style red lines on Pentagon surveillance and autonomous weapons",
+    "url": "https://the-decoder.com/google-deepmind-and-openai-employees-demand-anthropic-style-red-lines-on-pentagon-surveillance-and-autonomous-weapons/",
+    "source": "The Decoder",
+    "published": "2026-02-27",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "Google",
+     "OpenAI",
+     "Anthropic"
+    ],
+    "summary": "AI 기술의 군사적 활용에 대한 윤리적 경계 설정 요구는 AI 개발 기업의 사회적 책임 강화와 기술 발전 방향에 중요한 영향을 미칠 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "OpenAI가 미국 전쟁부에 인공지능 솔루션을 제공하는 업체로서 Anthropic을 '대체'하게 되었습니다.",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcXpmMXNjOHJlWDA5cU13cTFEeERlc2NHd01obUJqRF9UZThGWkJvRTExWTJoVVc2dGZIajlLTWExZ053YWZvTWoxYVkzUmFhQWNQLW1QVFg2dTNFN2x0Uk5PM0ZzZWx0QUtLN2NlQl9oc2sxYTR1dVdtRmltUTZnSnlyWVAzeWRHX3duUTl3?oc=5",
+    "source": "Vietnam.vn",
+    "published": "2026-02-28",
+    "keyword": "Anthropic",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Anthropic"
+    ],
+    "summary": "OpenAI의 미국 국방부 협력 확대는 AI 기술의 군사적 활용 가속화와 함께, AI 기업의 윤리적 책임 논쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "Neu: Claude Remote Control, Claude Code Security, Perplexity Computer, OpenAI Frontier und Microsoft Copilot Tasks",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLVFKVnpDNmQyRjhHTUktcDNuR2x3S3oyUGhWLVUwTDRMbGhQSk9RWURtYlRzV1Ixb0RWcF9Fck5hR2c3bVNrNTF5UEJhc3AtbFQtOW5SYzV1c19QdTRIZEVoWnlDemtqZmR1V0VEOTRtNm1JUWpvMzY1eXJYaFhPQU9n0gGKAUFVX3lxTE92eG12cE1MdHRueTFxLWktUGNzVDJLVHVBN0JIZzB5VG1VLXNta1FEM2luNmV3ZG1yQzNWN25hbVRYdkpTcDRuWkltb2VPZ0w1UWtqaEIxMkV0Q3Rlb3pKUFlWVXo4Wk9TUEF3TEFTX0tvbFdpZVNWSUxhNjB3NTdIRWt6UXlMaDc3dw?oc=5",
+    "source": "Xpert.Digital - Konrad Wolfenstein",
+    "published": "2026-02-28",
+    "keyword": "오픈AI",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "Claude",
+     "코딩 AI",
+     "Perplexity",
+     "OpenAI",
+     "Microsoft"
+    ],
+    "summary": "AI 모델 제어, 보안 강화, 경쟁 심화 등은 AI 기술 발전과 동시에 산업 주도권 경쟁이 더욱 치열해질 것임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "OpenAI promises Canada tighter safety protocols after ChatGPT flagged a shooter's violent chats but never called police",
+    "url": "https://the-decoder.com/openai-promises-canada-tighter-safety-protocols-after-chatgpt-flagged-a-shooters-violent-chats-but-never-called-police/",
+    "source": "The Decoder",
+    "published": "2026-02-28",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT",
+     "AI 안전·규제"
+    ],
+    "summary": "OpenAI의 이번 사건은 AI 안전 프로토콜 강화 필요성을 보여주며, 향후 AI 개발 및 운영에 있어 사회적 책임과 윤리적 고려가 더욱 중요해질 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "﻿[AI 이슈트렌드] 김동완 성매매·은마아파트 화재 등 사회적 파장",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207403",
+    "source": "AI Times",
+    "published": "2026-02-28",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제"
+    ],
+    "summary": "AI 윤리 및 사회적 책임에 대한 논의가 더욱 중요해짐에 따라, AI 시스템 개발 및 적용 시 사회적 맥락과 잠재적 파급효과에 대한 심층적 고려가 필요함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "Trump “Anthropic are left-wing fanatics; don’t use Claude in government agencies”···Retaliation for rejecting an ‘AI weapon’",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41bm1tVk5tMnUwRHlmazJBNjdKR3g3STRSVGFBUEhrcExvUDMwdHdsd0RrRENsVnBPeUNid1Y4bTZsUUo5SEd0NnZ6c1pSeWpDRlpKbXg0dEtHZjFsQkE?oc=5",
+    "source": "경향신문",
+    "published": "2026-03-01",
+    "keyword": "Anthropic",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude"
+    ],
+    "summary": "정치적 편향 논란이 AI 기술 경쟁력 약화와 산업 발전을 저해할 수 있다는 우려를 낳는 사례입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "서울시교육청, 인간 중심 AI 교육 실현을 위한 ‘AI·에듀테크 공교육 도입 및 활용 가이드라인’ 배부",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyZ21XX0FGWWVLaTU5ZGJveGw1OGxqNFRpZ1o1bkpudEhqZHJxSW1HVWdDZzllekRXYXViLVR6dzlRTnZBOGozR3ZTZk9GQTNuS3ZCMm5Jd21sLXByQWQ4MTZWQktQckk4?oc=5",
+    "source": "인천교육일보",
+    "published": "2026-02-28",
+    "keyword": "교육AI",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "서울시교육청"
+    ],
+    "summary": "서울시교육청의 AI·에듀테크 가이드라인은 공교육 시장의 AI 기술 수요를 촉진하고 관련 산업 발전에 긍정적 영향을 줄 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "tech": "뇌를 닮은 AI 개발부터 로봇 플랫폼 공개, 그리고 교육 분야 AI 도입까지, AI 기술은 안전 및 윤리적 문제와 함께 다양한 산업 분야로 확장되며 더욱 인간 중심적인 방향으로 발전하고 있습니다."
+ }
+}

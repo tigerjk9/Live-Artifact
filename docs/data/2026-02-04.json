@@ -1,0 +1,432 @@
+{
+ "date": "2026-02-04",
+ "generated_at": "2026-11-02T11:51:40+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[박시은 AI 교육전문가 칼럼] 굿바이 GPT-4o - AI는 왜 스스로의 과거를 정리하는가?",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBob3VpekIzS1JvZTdyVkNGY2ZobU50eGZEMDcwTElZRjhuZ29qbU8xQk9CQ1dMZGxLUG5CMnFvMEVyMnpBY1JNaWpBVGRjM1g2Q2VjbndHNXJYZk5YNDRpV2lHLUJVMU0?oc=5",
+    "source": "파이낸스투데이",
+    "published": "2026-02-03",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "AI의 빠른 진화 속도를 고려하여 교육은 AI의 변화에 유연하게 적응하고 학생들의 비판적 사고 능력을 함양하는 데 집중해야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[기자칼럼] 서비스와 제조의 경계 허무는 ‘디지털 평행이론’",
+    "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQTTA1SG11b3M3LWI2NVZ0WHRUQ0NGTkJiSHFtbkRQWmVqRG5seUJPc19xMWtRZmpOUF9VSTVoR25mbzlDNzY3ZVNPRU1KYmE1SVprcU9xTDR0VERjRWRzX0RfendOVG5fQWd4RVU0cVJfVk4yR01wTXlPRnNPdFA5VGk5Mmx3MjA3ZGU5SHg4OG9KMFVUcDV3dXpuNmswTXZpUmQ0Z1FjV0FKX0FsV3R4WWVsazNLSWd5amcxS2ZqM1dzXzVzLTV1T1dQVG5vajJnVFJFcDVZMVZIdFFIM1FSZE1ZbEtrS05lM0lKd0xFS0tzSTNsUW9TM3g3b1ktQlo4cWVWVmZxM3B0OG0zdmhwTDNucHBmRkdiSkF1cHlUU1lEcGwzU3daTlA3RTQ3NlVYSDROYU83ZnBtd3ds?oc=5",
+    "source": "아이씨엔매거진",
+    "published": "2026-02-03",
+    "keyword": "디지털전환",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "디지털 전환 시대에 서비스와 제조의 융합은 교육 콘텐츠와 방법 혁신을 가속화해야 함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[칼럼] 단순한 이동을 넘어 지능형 협업으로, AMR이 그리는 산업 자동화의 미래",
+    "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQSjREbjZFYl9rUl9Kd1p1NEdyWFdEdFJBY0ZkNjF2Z3pRZkhZcmdHSzl0LWE0MUd2a2hXaGI4TU1GVHZ5NkJkc2U1M3NVcXZnNmJ2NkFYS1U1Mmo0U04tZFJXVVVtQUUxcVJYTVowekVDMHNIdXZha29ack52MVhrMkM2cVI3V3cxZXFBVEF6UmU1akpqT2tLZnBXa0tVM2llT0lDa3pmeDNmdlZOOTJyV2h3X0RNSVZrRHNSUFJNc01KN1EwTndxajQ4OHJrRjhYcVdTbndOTFlCbUJqUVB4WkxRZVRrc3hZNm9KbWJCUVpSNXR3Rk54WVhnWlZWbXlaYXpwQmJNMlB3UE1fVjBwYXFabUZiSGFqa3l0cTV0R0ZlQ0dFc25rRW1fUW90bE1GN2UyYTFLRFhnNnFVVUJUZUxtRzZQY09uM0k0LTh3?oc=5",
+    "source": "아이씨엔매거진",
+    "published": "2026-02-03",
+    "keyword": "미래기술",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "AMR 기술 발전은 교육 현장에서 학생들의 문제 해결 능력과 협업 능력을 향상시키는 새로운 교육 모델 도입의 필요성을 강조합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "교육감 선거 예비후보 첫날 40명 등록…행정통합·AI교육 ‘최대 변수’",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81SEJJUlpvRnpSVUNHTXk1NnctQnBNYjFqVWZaTDJoeUFGRDI2OGhtSDYzeThsd2tjdlM4Sjd1Q0ZUeEE4bkl1UVM1MnNFVzRyNm5KQy1FRTB2NmhkZF8zZGtMaUg4Wk0?oc=5",
+    "source": "교육플러스",
+    "published": "2026-02-03",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육감 선거"
+    ],
+    "summary": "교육감 선거에서 행정통합 및 AI 교육 이슈는 교육계 변화에 대한 요구를 반영하며, 미래 교육 방향 설정에 중요한 변수가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "유은혜 경기도교육감 후보, 교육부에 AI교육·지방자치 등 7대 과제 제시",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9oWTZCSDVuUVhITjFRaGJSUmRTRTRvNUtxLTRCZFRPd1ZCT3dJRVVEOVVwQ0M5SFVtdFRQbG5TSkc4UVJWZTdFb1VzbHJoZw?oc=5",
+    "source": "전자신문",
+    "published": "2026-02-03",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "교육감 선거",
+     "교육부"
+    ],
+    "summary": "유은혜 후보의 7대 과제는 미래 교육과 지역 특성을 반영하려는 시도로 보이나, 구체적인 실행 계획과 재원 확보 방안이 중요합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "“공교육의 실행력을 묻다” 최윤홍 전 부산부교육감 인터뷰",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YYTVtWDgzd3JHckRhc1JXN2dISG56dkJCSXhDQXQ5UG42WlI0dC1JMUFmSEFhcGFWY3djX0dHci1CdG9mOEF3OG1IcVJkajdGUDVHM183UHdiRW1raDRZNlpkZw?oc=5",
+    "source": "대한민국교육신문",
+    "published": "2026-02-03",
+    "keyword": "AI디지털도구",
+    "topic": "policy",
+    "kind": "interview",
+    "entities": [],
+    "summary": "최윤홍 전 부교육감 인터뷰는 공교육 실행력 강화를 위한 정책 설계와 현장 적용 간의 괴리 해소 필요성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "경기도교육청, 1만2421명 인사…서은경 디지털인재국장 임명",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fX0hIdWowT1NhVFJVdHB1cVpjeGgxX1NnM2JmTHNlOTJhZmRmdThqamVwMFE3MEFSRlNTOHRSaXBnem9WMUQxZVJzRFA3UDFnZy13eFpxSlg2M09TNmdBclpzbDNHamZNY1R5R25ZYks?oc=5",
+    "source": "인천일보",
+    "published": "2026-02-03",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청의 대규모 인사와 디지털인재국장 임명은 디지털 교육 강화 의지를 보여주며, 학교 현장의 디지털 전환 가속화 및 관련 지원 확대가 예상됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "경기도교육청, 3월 1일 자 교원·전문직 '1만 2421명' 인사 단행…'역량·미래' 중심",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLcll0Z2EyT1B5OGJjVjlrMms3cHlVMHU2cGV1YXNTX2I4SndINjRmY2daSGlHQjBDbWJmcnlrQndzYlVXakhkRl9KeDFheThwSFlaN2l5WWRPY1dCeFlQNVVLZG02U19MUFJ5aExyTFY4QQ?oc=5",
+    "source": "중앙이코노미뉴스",
+    "published": "2026-02-03",
+    "keyword": "디지털교육",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청의 대규모 인사 발령은 교원의 역량 강화와 미래 교육 준비에 대한 의지를 보여주지만, 안정적인 교육 환경 조성을 위한 지속적인 지원과 평가가 중요합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "구연희 세종교육감 권한대행 “철저한 새학기 준비, AI역량강화 교육” 강조",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EaDQ1ZlNCeWJlMmFhUGxHRWRwZVBtODUwSDJWTVNNeHdJNDI3QmJaZFoxWVVBXzlfSDltak5oN2NVb2ZTOVpMR0ZZMVNMdk54bUlKaFlELTdmSkRmM1ExVkNmajV6RTJ1?oc=5",
+    "source": "충청타임즈",
+    "published": "2026-02-03",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "세종시교육청",
+     "교사 연수"
+    ],
+    "summary": "구연희 권한대행의 발언은 AI 역량 강화 교육을 통해 미래 교육 환경 변화에 적극적으로 대응하겠다는 의지를 보여주는 것이며, 이는 교사 연수 및 교육 과정 개발 등 구체적인 실행 계획 수립이 필요함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "구연희 세종교육감 대행 “AI 선택 아닌 필수…행정·수업 활용 역량 강화해야”",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TWmp1WGx5UHE4NHFRUzU1d2Yyd201dU5LZkpMS3REX2d3TFExVV9UeGcyS1pVNlA3YmZWNVpGSVhneXQ4NzVIM2FJa1gwMGc1VzQzSXFzLXlUQXExZERJVVBwU2ktU0pQS2pmazZR0gFuQVVfeXFMT1NaanVYbHlQcTg0cVFTNTV3ZjJ3bTV1TktmSkxLdERfZ3dMUTFVX1R4ZzJLWlU2UDdiZlY1WkZJWGd5dDg3NUgzYUlrWDAwZzVXNDNJcXMteVRBcTFkRElVUHBTaS1TSlBLamZrNlE?oc=5",
+    "source": "중부매일",
+    "published": "2026-02-03",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "세종시교육청",
+     "개인화 학습"
+    ],
+    "summary": "AI 활용 역량 강화는 교육 행정 효율화와 더불어 학생 맞춤형 학습 지원을 위한 필수적인 과제입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "An innovating approach to teaching applied to database design. Improvement of Action Learning in Lifelong Learning",
+    "url": "http://arxiv.org/abs/2601.22175v1",
+    "source": "",
+    "published": "2026-01-26",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "앙제 대학의 평생 교육 프로그램인 액션 러닝은 데이터베이스 설계 교육에 실무 프로젝트와 컨설턴트 경험을 결합하여, 정보 처리 경험이 없는 학습자에게도 실질적인 역량을 키워주는 혁신적인 교육 방법론을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Christophe Béchade']",
+    "pdf": "http://arxiv.org/pdf/2601.22175v1"
+   },
+   {
+    "n": 2,
+    "title": "FACET: Multi-Agent AI Supporting Teachers in Scaling Differentiated Learning for Diverse Students",
+    "url": "http://arxiv.org/abs/2601.22788v1",
+    "source": "",
+    "published": "2026-01-30",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "에이전트",
+     "개인화 학습"
+    ],
+    "summary": "FACET은 교사의 업무 부담을 줄이면서 동기, 수행 능력, 학습 차이를 고려한 맞춤형 교육을 지원하는 교사 중심의 다중 에이전트 프레임워크로, 교육 현장의 요구를 반영하여 개발되었으며 포용적 교육에 기여할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Jana Gonnermann-Müller', 'Jennifer Haase' 외 4명",
+    "pdf": "http://arxiv.org/pdf/2601.22788v1"
+   },
+   {
+    "n": 3,
+    "title": "Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use",
+    "url": "http://arxiv.org/abs/2602.00447v1",
+    "source": "",
+    "published": "2026-01-31",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "AI 튜터",
+     "개인화 학습"
+    ],
+    "summary": "본 연구는 10개 대학 200개 수업에서 11,406명의 GenAI 튜터 사용 로그를 분석하여 피상적인 참여를 보이는 학생이 심층적 참여 학생보다 덜 유연하게 학습하며, 대학 수준 및 과목별로 참여 양상이 달라 맞춤형 교육 및 책임감 있는 GenAI 활용이 중요함을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Youjie Chen', 'Xixi Shi' 외 4명",
+    "pdf": "http://arxiv.org/pdf/2602.00447v1"
+   },
+   {
+    "n": 4,
+    "title": "FoundationalASSIST: An Educational Dataset for Foundational Knowledge Tracing and Pedagogical Grounding of LLMs",
+    "url": "http://arxiv.org/abs/2602.00070v1",
+    "source": "",
+    "published": "2026-01-20",
+    "keyword": "pedagogical",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "LLM",
+     "개인화 학습"
+    ],
+    "summary": "LLM의 교육적 활용 연구를 위해 질문, 학생 답변, 오답 선택 기록, 교육 표준 연계 정보를 담은 대규모 데이터셋 FoundationalASSIST를 구축하고, LLM의 지식 추적 및 교육적 기반 능력 평가 결과, 현재 LLM은 학생 맞춤형 학습 지원에 필요한 이해 능력이 부족함을 밝혀냅니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Eamon Worden', 'Cristina Heffernan' 외 2명",
+    "pdf": "http://arxiv.org/pdf/2602.00070v1"
+   },
+   {
+    "n": 5,
+    "title": "Still w(\n AI\n )ting for the automation of teaching: An exploration of machine learning in Swedish primary education using\n Actor‐Network\n Theory",
+    "url": "https://www.semanticscholar.org/paper/cff621b65bc23f5f95a129fdce25a2221e43919a",
+    "source": "semantic_scholar",
+    "published": "2022-10-30",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [],
+    "summary": "AI )ting for the automation of teaching: An exploration of machine learning in Swedish primary education using Actor‐Network Theory 스웨덴 초등 교육에서 AI 수학 학습 도구 도입 과정에 대한 행위자-네트워크 이론 분석 결과, AI의 예측 불가능성과 알고리즘 학습 방식에 대한 불확실성으로 인해 교사의 역할이 여전히 중요하며, AI 자동화에 대한 기대와 현실 간의 괴리를 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Katarina Sperling, Linnéa Stenliden 외 1명",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "OpenAI가 ChatGPT-4o 서비스를 공식적으로 종료했습니다.",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5lekM5NWtsV1R3SVRzeF9iQ3oza1dEQmVXeG10SjhQVjlZcldBbHVMNE1BMFJaakdDU0RWTGdLRk5Ea1JTQkc2YkNudHNxeE5YSFI5UjQ0Y0xBenNvZXozY2RRNVZnb3BmcU5OQjMwbw?oc=5",
+    "source": "Vietnam.vn",
+    "published": "2026-02-03",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "ChatGPT-4o 서비스 종료는 OpenAI의 차세대 모델 개발 집중 전략을 보여주며, AI 모델 성능 경쟁 심화와 기술 혁신 가속화를 예고합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "OpenAI는 장기적인 AI 연구를 포기하고 ChatGPT 성장에 더욱 집중하기로 했습니다",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02NnlicUhSdFdRRUZpSUo3cFdaOWZhZm9zVFZvZUJEc3B0eTFZVTVCZVRjWXp4bHZmbU41WExRZmhfMjE4TjAteEZXSmpncVdQV2V3bkluTk52MnJoYjVzb09KcDdua0sxNlpETzF4ajlKaHd6b2ZaNU5NNA?oc=5",
+    "source": "Cryptopolitan",
+    "published": "2026-02-03",
+    "keyword": "AI연구",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "OpenAI의 결정은 단기적 수익 극대화에 집중하며, AI 기술 발전의 장기적 혁신 동력 약화를 초래할 수 있다는 우려를 낳습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[게시판] 코리아교육그룹-EBS미디어, AI 콘텐츠 사업 파트너십 등 단신",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=206324",
+    "source": "AI Times",
+    "published": "2026-02-03",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [],
+    "summary": "코리아교육그룹과 EBS미디어의 협력은 AI 교육 콘텐츠 시장 확대와 공교육 분야 AI 기술 적용 가속화에 기여할 것으로 예상됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "아이티센엔텍, 교육 AI 플랫폼 구축…공공·민간 에듀테크 연계",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83U0ZiRTM4eWpSN29tekpvVldxX0xSdXk4VWNJSmJ6TTZOb2NseWotSVpwcElMY29VSG5wZWxNTXhHVkVSMnI0UTlwQ2pFX1R3Xy0w?oc=5",
+    "source": "네이트",
+    "published": "2026-02-04",
+    "keyword": "AI기술",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "아이티센엔텍의 교육 AI 플랫폼 구축은 공공-민간 에듀테크 연계를 통해 교육 분야 AI 생태계 확장 및 맞춤형 교육 서비스 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "OpenAI, ChatGPT 집중으로 고위 직원 이탈 – FT Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTWFrbmVfRzltMUZxeDlKb1NEdnFyaVdEa2J1U3N1dktPM0had2I5bHZwNjc0dk9pZ1pOdWozODlIbFpEZDBvRVFWVmtwSXFkNE1ucnZsTWpUdmNHQTdxU19KcFlERUdXbmRyLU1ZRW5XRk5GeTVFTGhBQVN2Wjh6QmxRWUt6WTg?oc=5",
+    "source": "Investing.com 한국어",
+    "published": "2026-02-03",
+    "keyword": "Anthropic",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "OpenAI의 인재 유출은 ChatGPT 성공에 가려진 내부 불안정성을 드러내며, AI 기술 경쟁 심화 속 리더십 및 전략 재정비 필요성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "르노코리아, 필랑트 '팁스(Tips)'에 ChatGPT 기반 생성형 AI 기술 적용",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aNU1nVGF3SE9fM01ZVjJYcENqN0pGZC1JeTRHV2xDSTV1aDZmZFNaUl9kVWVjdjlJbkt6SUNzblZaWjh4V094ZmttQVpPWElmVEZ0MWVZUFMtc2dwT1Q1ZEtKN3gxaVhQLUdzdEhURQ?oc=5",
+    "source": "비즈니스플러스",
+    "published": "2026-02-03",
+    "keyword": "AI기술",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "생성형 AI"
+    ],
+    "summary": "르노코리아의 ChatGPT 활용은 자동차 산업에 AI 적용 확산을 가속화하고, 사용자 경험 혁신 경쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "카카오, LLM 오케스트레이션 평가 벤치마크 ‘ICLR 2026’ 논문 채택…에이전틱 AI 검증 기준 제시",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aMWprczByUHltek1oN0lzTXRrMHd2WkZENlJyX19rU2lMWGhjREJlQ1JqN3k1MlpvOF9xZnJCY3VzQUJ5VmJBOU13cDVRTEU4aTFSZ0EtNWRBUXh6Q1ktQmhhUVdyZ2hj?oc=5",
+    "source": "테크월드뉴스",
+    "published": "2026-02-03",
+    "keyword": "LLM",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "카카오",
+     "LLM",
+     "벤치마크",
+     "에이전트"
+    ],
+    "summary": "카카오의 LLM 오케스트레이션 벤치마크 채택은 에이전틱 AI의 성능 검증 기준을 제시하며, 향후 AI 에이전트 기술 발전과 산업 활용에 중요한 기여를 할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "How to Run Claude Code for Free with Local and Cloud Models from Ollama",
+    "url": "https://towardsdatascience.com/run-claude-code-for-free-with-local-and-cloud-models-from-ollama/",
+    "source": "Towards Data Science",
+    "published": "2026-01-31",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Claude",
+     "코딩 AI",
+     "Anthropic"
+    ],
+    "summary": "Ollama의 Anthropic API 호환성 제공은 폐쇄형 AI 모델 접근성을 확대하여 로컬 및 클라우드 기반 AI 생태계 경쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "[박시은 AI 교육전문가 칼럼] 굿바이 GPT-4o - AI는 왜 스스로의 과거를 정리하는가?",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBob3VpekIzS1JvZTdyVkNGY2ZobU50eGZEMDcwTElZRjhuZ29qbU8xQk9CQ1dMZGxLUG5CMnFvMEVyMnpBY1JNaWpBVGRjM1g2Q2VjbndHNXJYZk5YNDRpV2lHLUJVMU0?oc=5",
+    "source": "파이낸스투데이",
+    "published": "2026-02-03",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": "opinion",
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-4o의 등장과 과거 모델 정리 움직임은 AI 기술 발전 가속화와 동시에 효율성 및 비용 최적화 경쟁 심화를 의미합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "논문 속 분자 구조 보고 화학반응 예측…LG AI연구원, '길목 특허' 선점",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wVko5VEtrem90OWNGZ0hsQkYxU3FqWHA4VEFORzVXYkNmZUgtTUxfUk44eWgyQm8xZi1heW5OTHJld041bzJ0Rms0NTlJWEthckY0bVdB?oc=5",
+    "source": "지디넷코리아",
+    "published": "2026-02-03",
+    "keyword": "AI연구",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "LG"
+    ],
+    "summary": "LG AI연구원의 화학 반응 예측 기술은 AI 기반 신소재 개발 경쟁에서 중요한 지적 재산권을 확보하고, 향후 화학 및 소재 산업 전반의 혁신을 가속화할 가능성이 높습니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 기술이 교육 현장에 빠르게 스며들면서, 디지털 인재 양성과 AI 역량 강화 교육이 미래 교육의 필수적인 요소로 자리 잡고 있으며, 교육 시스템 전반의 혁신을 가속화하고 있습니다.",
+  "tech": "OpenAI의 방향 전환과 더불어 다양한 분야에서 AI 기술 적용 및 고도화가 활발히 진행되며, AI 생태계는 더욱 다각화되고 전문화되는 방향으로 빠르게 진화하고 있습니다."
+ }
+}

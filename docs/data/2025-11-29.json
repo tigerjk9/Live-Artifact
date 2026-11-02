@@ -1,0 +1,162 @@
+{
+ "date": "2025-11-29",
+ "generated_at": "2026-11-02T11:48:25+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[안민석 칼럼] 국민주권정부의 교육자치 3가지 방안",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=21444",
+    "source": "에듀프레스",
+    "published": "2025-11-28",
+    "keyword": "",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "재정 권한 이양을 포함한 실질적인 교육 자치 강화는 지역 특성에 맞는 교육 혁신과 공교육 정상화를 위한 필수적인 과제입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[특별기고] 인공지능이 몰고 온 초생산성의 역설 - MCP 서버가 털리면 기업의 디지털 뇌가 위태로워진다",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBWS21odVZpU0pMY0MxbFFqc2l4TV90TFhxcFZCN1UtLXRqX2JGVVhLR1pNcUF0VG1zWHF3dzhkN1BCN2ZaLVRWUEhyaDlVa3UzbkdCM1dzVklvbVRTX0VfWFJRRmFPNDBmdFE5Zw?oc=5",
+    "source": "데일리시큐",
+    "published": "2025-11-28",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "인공지능 기반 초생산성 환경에서 데이터 보안 실패는 교육 시스템의 안정성과 학생 정보 보호에 심각한 위협이 될 수 있음을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "아이스크림미디어, 2022 개정 교육과정 초등 교과서 점유율 1위",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KVl8xNUxqR2Fsc1pLRG9WWjY0R1I0bEN5R3FMWFZLV3J4VnNMMmxpazMzOFV0TVBnR0lGOHdTSnZBaXJZblhKX1lmd0FYNnJrTERmNU5USUd3WWF4cEdDM1N5NUhQRGtQRGfSAW5BVV95cUxOcWY1am5JWVFZZFNQVlVzbXYwQkV5bzd4Rko1Z2hTcUZ2R21lS1RlOHU1TmU3V1pmUnZkOUU0eE9TMGVtZ3Zkb29nNUs2aW4ydEh4TFAtSmd1b0M0WVlDMkpKTHhqZ2VCaUpfUnlsUQ?oc=5",
+    "source": "newstheai.com",
+    "published": "2025-11-27",
+    "keyword": "AI디지털도구",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "아이스크림미디어의 초등 교과서 점유율 1위는 디지털 교육 자료 접근성 및 활용 편의성이 교사 선택에 중요한 영향을 미치고 있음을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "국교위 ‘AI시대 교육 특별위원회’ 출범… AI교육 의제 논의",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xNGRfUEZPM0ZjS1dRdTR5T1dmTFluLV9sbXQzeVc4bzlnTjR4Yk9QMGYxZEhUeFQ2bTJDMno1LV9NbXVlOVQ2MHo4Ym1mWXlkclVsUXU1RnZoeEtEMzFzM2tmdnlEQQ?oc=5",
+    "source": "한국대학신문",
+    "published": "2025-11-28",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "국회"
+    ],
+    "summary": "국가교육위원회의 AI시대 교육 특별위원회 출범은 AI 교육 방향성 정립과 교육 현장 적용에 대한 심도 깊은 논의를 촉발할 중요한 계기가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "교육부, 싱가포르와 맞손...AI‧디지털 교육 등 미래교육 협력",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWOTFyaEptTFo4SXo2SThqekk2QlZxeVotV0Q0UERqSExESzZjcUNHdlFYSHBJS3Bpck51OGFGYm9XMkNGaGZaN3Fabkh6TTRNUnEyZ0ZaQlFwMEE4dzBPNGhlZmFfQmxjc3lR0gFvQVVfeXFMTUtEa0s3blhZTWE1cVVDWDhfS2g4ODRtcmd0U19GODRPZXV2Ql9SMnpEWGpPejA3dWpjSy1TUXdfVGtmMG1OaTc0Z3VvbnZSUVNpWWhmb1dhVzRidElTdWRsbXFodjVuYjNRQ1FoSmNN?oc=5",
+    "source": "교육언론[창]",
+    "published": "2025-11-28",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "싱가포르와의 협력은 국내 AI·디지털 교육 혁신을 가속화하고 미래 교육 경쟁력 강화에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "대학 이어 고교도 'AI커닝'…교육부 \"가이드라인 내년 3월 배포\"",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SWFZqQVdPSFJObFdGMVd2dWluY2xVLWNTUzJNbnV5dzJvekdlTC1wV2drU3NRb1RuMERuMGd3NFZJV05FWjVUQjYtbmFnWWY2MVQybDBCcnFzeVVCUE1QSdIBYEFVX3lxTE9SWFZqQVdPSFJObFdGMVd2dWluY2xVLWNTUzJNbnV5dzJvekdlTC1wV2drU3NRb1RuMERuMGd3NFZJV05FWjVUQjYtbmFnWWY2MVQybDBCcnFzeVVCUE1QSQ?oc=5",
+    "source": "연합뉴스",
+    "published": "2025-11-28",
+    "keyword": "AI교육",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "AI 커닝 문제는 고교 교육 현장에도 AI 활용 교육과 평가 방식 혁신의 필요성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "IBM, 핀테크 미래 기술 집중 조명: AI 거버넌스 및 2026년 '양자 우위' 단계 진입 선언",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QYkt0QkdwZzZxWERzamtzN2duRzVRbkYyYXZoRUxqX3NEQl91OG84cFAxdm9iU1VKRXhlTFJla0N6U3VuTG1uSzJvUDBmelh1c2hzWE5FRm1YTG1Sa3ZYMW5KTTA2UzJMbGpz0gFvQVVfeXFMTVhuWkh5OVVlY1BSbmhPdElOOWJ3dzBCdHA5WkZVdW1mc2lNRktycHpJYWZWQlFMN1YwQjNTMDFKTGMxYVpYUkIwZElRNDFuanBDYUxVMW81REFRN0VBU28tUWx4OE1jd00xc18tRTVR?oc=5",
+    "source": "내외뉴스통신",
+    "published": "2025-11-28",
+    "keyword": "미래기술",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "IBM의 AI 및 양자 기술 발전 전망은 미래 교육이 기술 윤리 및 첨단 기술 이해를 필수적으로 포함해야 함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "[인사] 교육부",
+    "url": "https://news.unn.net/news/articleView.html?idxno=586860",
+    "source": "한국대학신문",
+    "published": "2025-11-28",
+    "keyword": "",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "이진우 신임 중등직업교육정책과장 임명은 고졸 취업 활성화 및 직업 교육 혁신에 대한 교육부의 의지를 보여주는 중요한 인사입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "연세대학교 K-NIBRT사업단, 중저소득국 대상 GTH-B mRNA 백신 생산공정교육 성료",
+    "url": "https://www.lecturernews.com/news/articleView.html?idxno=191692",
+    "source": "한국강사신문",
+    "published": "2025-11-28",
+    "keyword": "",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [],
+    "summary": "연세대학교 K-NIBRT사업단의 mRNA 백신 생산공정 교육은 중저소득국의 백신 자급자족 역량 강화에 기여하는 중요한 발걸음입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "와이즈교육, 한국열린사이버대학과 AI교육 협력",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xMVo2cXo2cnhuVHFwVFR3S3JRWVJteXBjeWZHdlRWX2VwajFsWk5BZU43cV9lYzROOXNnbnkyRFl4U3o4a3k1WVd4Z3JfOVhpaDZn?oc=5",
+    "source": "네이트",
+    "published": "2025-11-28",
+    "keyword": "인공지능교육",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 교육 협력은 에듀테크 활용 역량 강화와 교육 방식 혁신을 통해 미래 교육 경쟁력을 높이는 데 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [],
+  "tech": []
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 시대에 발맞춰 교육 자치 강화, 디지털 교육 협력 확대, AI 교육 의제 논의 활성화 등 교육계 전반에서 AI와 디지털 기술을 적극적으로 도입하고 미래 교육으로 나아가기 위한 노력이 가속화되고 있다."
+ }
+}

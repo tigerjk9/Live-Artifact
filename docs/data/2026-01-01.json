@@ -1,0 +1,160 @@
+{
+ "date": "2026-01-01",
+ "generated_at": "2026-11-02T11:50:03+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[전문가 기고] 생성형 AI 성과, 결국 ‘사람’이 좌우한다",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PRzFHNldubkl1NDdsdHY4M1JJbVJhVjNvekIxdDZUNEFFS0tkOUl4Z3hrSjFDOEdkV0xBaHFXTHJkb05udzVSbEMxdklLZzlVTGxEbUgzdjNPTGxtRll1ZDhGeG54MWtfOVkwdQ?oc=5",
+    "source": "컴퓨터월드",
+    "published": "2025-12-31",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "생성형 AI의 교육적 효과는 결국 교사의 역량 강화와 학생의 비판적 사고 능력 함양에 달려 있다는 점을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[데스크 칼럼] AI 강국의 조건, 속도보다 권리다",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IUldiNE5OUVhaaVByWmNWeE9OcVFKMGdxWUZNNnIwaWxzaEQzV1BtMHZBYURSTXd2MlFYSHpFZ2UxSWt0VTdGSmlMZDJ2cG44UF9z?oc=5",
+    "source": "네이트",
+    "published": "2025-12-31",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "AI 교육은 속도 경쟁보다 윤리적 책임과 데이터 활용 권리에 대한 심도 깊은 교육을 통해 미래 사회의 민주시민을 양성하는 방향으로 나아가야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "수요칼럼",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wZEdaWWk3eHdWZTVJR2dfT2dvdW0wWHpjR1czTXpFMUJyVTdxNmxOcElFX2NVYUI3cnRFUFVHT1VXYnFQcU1xNk5LbEpiVHM5UkdCRkxhdUxzM1puX3FpRjRlSDNOc3B0MGJZ0gFrQVVfeXFMTjBkR1pZaTd4d1ZlNUlHZ19PZ291bTBYemNHVzNNekUxQnJVN3E2bE5wSUVfY1VhQjdydEVQVUdPVVdicVBxTXE2TktsSmJUczlSR0JGTGF1THMzWm5fcWlGNGVIM05zcHQwYlk?oc=5",
+    "source": "평택시사신문",
+    "published": "2025-12-31",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "AI 시대에는 단순 지식 암기보다 문제 해결 능력과 창의성을 길러주는 교육 시스템으로 전환해야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[칼럼] 새해, 아이들의 하루가 다시 흔들리지 않기를 바라며",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mM3RqU0g0U0ZoeUlXMmtzblZCNTJRVDUza2FqUUVBRGNpbklUSndqSEp3VmJmRVBfZ3I0aFpndWZ6a00xWmFWMC0zdFdLUzM0Q0YySXpGTFZWOHk3ZEpRT2ptcFF5TTZQX25DTjdB?oc=5",
+    "source": "geumsan-news.com",
+    "published": "2025-12-31",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "새해에는 아이들의 안정적인 일상 회복을 위해 학교와 가정, 지역사회가 더욱 긴밀하게 협력해야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[기고] 개인정보 침해사고가 드러낸 기업용 키 관리 체계(KMS)의 중요성",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14VGFqR1pIZy1YUzdGY0tKaUh1Njg5T0duekxTeXIyd0FrWlBmNmFjS3Y3WFpsVWhBWDVidkJJd2h6Y2NXeGwyWDJvRUVvT1ZWSUJXcjdneVpSRXFYZ1dubnY1YXZxVjhZZExzNw?oc=5",
+    "source": "컴퓨터월드",
+    "published": "2025-12-31",
+    "keyword": "미래기술",
+    "topic": "teacher",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "교육 현장에서도 학생 및 교직원 개인정보 보호를 위해 기업 수준의 강력한 키 관리 체계 구축이 시급하다는 점을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "[주하영 365칼럼] ‘복종’을 선택하는 사회의 ‘비극’...연극 '타지마할의 근위병'",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1TFh4c3lNRlFiZm8xeDZUaElzSERES0F0eWdGV2wzTjMtRGlPUWVFc0Ixd0hqWjNyNTgtZGZxSkZGUjFsb0s2OF8yX0gweXBTVEgxZTIyY0pzZHR2UzYxa3E4eUdRWXFSSE93X0VneElRMTTSAXNBVV95cUxQNUxYeHN5TUZRYmZvMXg2VGhJc0hEREtBdHlnRldsM04zLURpT1FlRXNCMXdIalozcjU4LWRmcUpGRlIxbG9LNjhfMl9IMHlwU1RIMWUyMmNKc2R0dlM2MWtxOHlHUVlxUkhPd19FZ3hJUTE0?oc=5",
+    "source": "인터뷰365",
+    "published": "2025-12-31",
+    "keyword": "뇌과학",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "연극 '타지마할의 근위병'은 맹목적 복종 문화에 대한 비판을 통해, 교육 현장에서 비판적 사고와 주체적 판단 능력을 길러야 함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "\"과몰입하는 좌뇌에 속지 마라\"…뇌과학이 주는 마음의 평화",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oYWlrckRhSzljMldjYlNEY0dHSHFlTkFvVEFDMmRmWXRsdDZLcExhdTVYX1JqWHhRM0RzZEtiWXRESmQ2OXUtZFZIWlFycnV3QzhFTEQ5UDRGWFHSAWBBVV95cUxNZF9DeGpWdUhFdXdvSjhPRFY2Qk5VYm03R3dPa1N1aVBIMzdORVlNQVdzclVadWhJMld5d21Ua3JTWlRNTjBWU1RvYXlUQkNXQTRyc201WkxRaEwwMFpXYjY?oc=5",
+    "source": "연합뉴스",
+    "published": "2025-12-31",
+    "keyword": "뇌과학",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "뇌과학적 이해를 바탕으로, 교육은 좌뇌 중심의 과도한 경쟁적 학습에서 벗어나 전뇌 발달을 촉진하는 방향으로 나아가야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "이현· 김용 ·반상진 등 국교위원 추가 위촉",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=21599",
+    "source": "에듀프레스",
+    "published": "2025-12-31",
+    "keyword": "",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "국회"
+    ],
+    "summary": "국가교육위원회 위원 추가 위촉은 교육계 다양한 전문가와 현장 의견을 수렴하여 국가 교육 정책의 균형과 실효성을 높이는 데 기여할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "임태희 교육감 “경기미래교육 흔들림 없이 이어 갈 것”",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Eb1lRSzh1cVl1ZnZBYjVMcFQ3clN5YkhMeVVFd0JvSnhRZmRmcDZiaWJFRktwX3RlMWlPTnJtMkVZOXF0NGs3dzI5d21aVDdiRkFWNHdHVVVwNUFObWFVWDNYZElNZFdV?oc=5",
+    "source": "환경일보",
+    "published": "2025-12-31",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "임태희 교육감의 발언은 경기미래교육 정책의 연속성을 통해 안정적인 교육 환경을 유지하겠다는 의지를 보여주는 것으로 해석됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "김대중 전라남도교육감, “AI는 필수 역량” 전남형 미래교육 청사진 제시",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41cTA1dHlKanpqRWVDOUJQQTFvcjlnWTBNaHdONi1OajBQd09JUEhuRHQ1Q3RnYTVLYlNxYU5VY3VwZGN2NTJKT2xHRmRsRl9lcnQxUS1BVktCSTVsN1h2LWVXQXFXdHZmTTJobg?oc=5",
+    "source": "시사종합신문",
+    "published": "2025-12-31",
+    "keyword": "AI교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "전남교육청"
+    ],
+    "summary": "김대중 교육감의 AI 필수 역량 강조는 전남 교육이 미래 사회 변화에 발맞춰 혁신적인 교육 시스템을 구축하겠다는 의지를 보여주는 중요한 신호탄입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [],
+  "tech": []
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 시대에 필요한 역량과 윤리적 고민을 바탕으로, 미래 교육은 인간 중심 가치를 강화하며 혁신을 지속하고 개인별 맞춤 교육을 확대하는 방향으로 나아갈 것이다."
+ }
+}

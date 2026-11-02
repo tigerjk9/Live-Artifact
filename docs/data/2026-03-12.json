@@ -1,0 +1,416 @@
+{
+ "date": "2026-03-12",
+ "generated_at": "2026-11-02T11:53:19+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[ET시론] 생성형 AI와 글로벌 교육계의 대응",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1rZ1BqSFp1Qml1bWtfOUdRWDlaUlhUNnBUZWR3SnI3akxYTkttWlR3ME13QU1ZR2Z2RmptWlM3clVRQ1YydVdhd0tHYlVxQQ?oc=5",
+    "source": "전자신문",
+    "published": "2026-03-11",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 2,
+    "title": "[사경희 이사장 칼럼] 심리적 안전망: 시니어 디지털 교육의 성패를 가르는 열쇠",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwU1lIXzZVZTYycXBraTl2SkpkTnU5RmJpRVFiSDlGRkswRDYxTU5MMFV0T0tTOEMtRkhWZnk5SjREakdocFYzeGg2VWpnNEdZcWRWS1QyeU43cmtSQUJRVXRxVnFQNmt2WWoxYw?oc=5",
+    "source": "캐어유 뉴스",
+    "published": "2026-03-11",
+    "keyword": "디지털교육",
+    "topic": "student_care",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 3,
+    "title": "[전문가 칼럼] “수면을 잃어버린 대한민국, 치매라는 시한폭탄을 멈추려면” ㅣ 김동주 (뉴로티엑스 대표 / 고려대학교 교수)",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UWThTdFhZYXpGUkZLdUE0Z25qMU0xVEtaT09TSFgwZVV2SVgwNExocVlJeWU1djBfQlY2aWYzcnZmT0xLdDJra2d5WHVpckhWdjBPUGxvRVl5Z2lRT0w0WFFFel9GWXZTZ0FZ0gFrQVVfeXFMTVRZOFN0WFlhekZSRkt1QTRnbmoxTTFUS1pPT1NIWDBlVXZJWDA0TGhxWUl5ZTV2MF9CVjZpZjNydmZPTEt0MmtrZ3lYdWlySFZ2ME9QbG9FWXlnaVFPTDRYUUV6X0ZZdlNnQVk?oc=5",
+    "source": "에이빙",
+    "published": "2026-03-11",
+    "keyword": "뇌과학",
+    "topic": "higher_ed",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 4,
+    "title": "[신간] 뇌를 깨우는 감각…'늙지 않는 뇌를 만드는 감각의 뇌과학'",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HODJfZzNWbEpHUkE0Qk9hcXBtblcza0NJTTgtOWFIV3pkU3pnLWk0bUM4a1BBZ3g5dkxoR1hQem9tbFVLbFNyaGY4VWkySTJveUhr?oc=5",
+    "source": "네이트",
+    "published": "2026-03-11",
+    "keyword": "뇌과학",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 5,
+    "title": "박효진 경기교육감 예비후보 ”AI 주도하는 학생 역량 강화“",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yX2VCaUNVaTFZNzJ3aUEwdkV6akVXY1kwdEUySEVFTDk5SlRfMjEyQWdzaVhfV1hsZ1Uxd3NqNjVTT2FMVkNfci1OTUJLcHNaM0RucjgtRXFDX1p5dllkUW5aRUJJQ0k?oc=5",
+    "source": "교육플러스",
+    "published": "2026-03-11",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "교육감 선거"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 6,
+    "title": "제주교육감 후보 고의숙 “노트북만으론 안 된다”… AI 정책 손질 예고",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGRVdLN0E5NURyeUJ1S202SnFPT3VNUld1UGp4c2lxekJnY3RQTk5fWkNTYmNCTkdWRV9xeDkwN1BrZWlNRXBLZm1HRWF5Y1E1YnE3QXhlLVpqN0plNm1Kc084QXplaEMwY0JyZ1hBeGzSAXBBVV95cUxQRkVXSzdBOTVEcnlCdUttNkpxT091TVJXdVBqeHNpcXpCZ2N0UE5OX1pDU2JjQk5HVkVfcXg5MDdQa2VpTUVwS2ZtR0VheWNRNWJxN0F4ZS1aajdKZTZtSnNPOEF6ZWhDMGNCcmdYQXhs?oc=5",
+    "source": "미디어제주",
+    "published": "2026-03-11",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "제주교육청",
+     "교육감 선거"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 7,
+    "title": "경기도교육청, AI 중점학교 200교 운영",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FSERDc0xsMG5RVzlabXhRaVJLZWluTm1VSzZNV2ZSQng4LTBhcnFqS19Nck96THpZT1RWU0hCLWNKNnFvSnNrQWJWTDJnNXhZWkhGMUlta3hpRmJpNDJOejJ2OHJzUzVT?oc=5",
+    "source": "환경일보",
+    "published": "2026-03-11",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "'초4~고2까지 학기별 학력검사'…김주홍 울산교육감 후보 첫 공약",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yaU90X0Rhck5GdWdlZVVaZlNHVktKVkFDQlVuUFRhZFlCb1d0OXZ4dUNheWRGeVdXRzN6NE92MW5sYldrVFk2MTNHVlp1dGxiR1ZRTkt6cVN2NmczT0FCQ2Q4SlpvTVRJS0ZseWY5MHZZWW9KTkE2btIBeEFVX3lxTE5yaU90X0Rhck5GdWdlZVVaZlNHVktKVkFDQlVuUFRhZFlCb1d0OXZ4dUNheWRGeVdXRzN6NE92MW5sYldrVFk2MTNHVlp1dGxiR1ZRTkt6cVN2NmczT0FCQ2Q4SlpvTVRJS0ZseWY5MHZZWW9KTkE2bg?oc=5",
+    "source": "뉴시스",
+    "published": "2026-03-11",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "울산시교육청",
+     "교육감 선거"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "프로젝트 기반 학습 모델을 통해 대학 교육을 혁신합니다.",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS2RPV3ozVXo0SERPM3BlWWtET2dFMHlRVE1XbWlBbmNINkpOQjZnU1M2eXV4TFNTLWJscVhveWtwRmFYeThDa0FZTl9kb2VKN051TEpMWldfSVhpMmZ1YlVCYXFQSHJFdDB1R09tNzlXZ3gzN0N5YTFtbVFTeW1GTg?oc=5",
+    "source": "Vietnam.vn",
+    "published": "2026-03-11",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 10,
+    "title": "교육부, 평생학습도시 질적 혁신 추진…지역 특화 모델 확대",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45VkoxOTNMcEx0R1k2STc1WjJiRFpHZ09ub1gtanRhbUc2d25SbnNmZVdKMzFwNTIwNkdyWldXOXlJVnBlYk9LdV9XYXg5Z2g4SUNUdWUtaWFQSk9nTXV1SWd5RVU1Y201dXpB?oc=5",
+    "source": "라이센스뉴스",
+    "published": "2026-03-11",
+    "keyword": "AI디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Using tablets and smartphones as experimental tools in the physics classroom: effects on learning and motivation",
+    "url": "http://arxiv.org/abs/2603.10959v1",
+    "source": "",
+    "published": "2026-03-11",
+    "keyword": "",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [],
+    "summary": "고등학교 물리 수업에서 모바일 기기를 실험 도구로 활용하는 것이 기존 교육 방식과 비교하여 학습 효과나 동기 부여에 뚜렷한 차이를 보이지 않았지만, 긍정적인 잠재력을 보여 기술 통합 교육의 효과적인 선택지가 될 수 있음을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Alice Gasparini', 'Florian Stern' 외 2명",
+    "pdf": "http://arxiv.org/pdf/2603.10959v1"
+   },
+   {
+    "n": 2,
+    "title": "AI tutoring can safely and effectively support students: An exploratory RCT in UK classrooms",
+    "url": "http://arxiv.org/abs/2512.23633v1",
+    "source": "",
+    "published": "2025-12-29",
+    "keyword": "pedagogy",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "AI 튜터"
+    ],
+    "summary": "영국 중등학교에서 LearnLM 기반 AI 튜터링을 활용한 RCT 연구 결과, 교사의 감독 하에 AI는 효과적인 교육 지원을 제공하며, 특히 소크라테스식 질문을 통해 학생들의 문제 해결 능력을 향상시켜 확장 가능한 개별 맞춤 학습의 가능성을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['LearnLM Team', 'Eedi' 외 34명",
+    "pdf": "http://arxiv.org/pdf/2512.23633v1"
+   },
+   {
+    "n": 3,
+    "title": "Exploring the Modular Integration of \"AI + Architecture\" Pedagogy in Undergraduate Design Education: A Case Study of Architectural Design III/IV Courses at Zhejiang University",
+    "url": "http://arxiv.org/abs/2512.13730v1",
+    "source": "",
+    "published": "2025-12-14",
+    "keyword": "pedagogy",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "절강대학교 건축학과에서 AI 기술 및 윤리 교육 모듈을 설계 교육 과정에 통합한 사례 연구를 통해, 단계별 지침과 균형 잡힌 접근법, 그리고 제도적 지원이 학생들의 디지털 역량과 전략적 사고를 향상시키고 디자인 교육에 적용 가능한 AI 활용 모델을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Wang Jiaqi', 'Lan Yi' 외 1명",
+    "pdf": "http://arxiv.org/pdf/2512.13730v1"
+   },
+   {
+    "n": 4,
+    "title": "A Systematic Literature Review of Computer Science MOOCs for K-12 education",
+    "url": "http://arxiv.org/abs/2501.18986v1",
+    "source": "",
+    "published": "2025-01-31",
+    "keyword": "MOOC",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 K-12 컴퓨터 과학 교육에서 MOOC 활용 현황을 체계적으로 분석하여, MOOC이 프로그래밍 및 컴퓨팅 사고력 함양에 기여하나, 교사 지원 및 전체 교육과정 보완의 필요성을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['L. M. van der Lubbe', 'S. P van Borkulo' 외 1명",
+    "pdf": "http://arxiv.org/pdf/2501.18986v1"
+   },
+   {
+    "n": 5,
+    "title": "Transitioning to remote learning: Lessons from supporting K-12 teachers through a MOOC",
+    "url": "https://www.semanticscholar.org/paper/39e2c123b681865a96511c01af2f18adffcfac1e",
+    "source": "semantic_scholar",
+    "published": "2021-04-02",
+    "keyword": "MOOC",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "코로나19로 인한 원격 학습 전환 시기에 교사들에게 필요한 지식과 커뮤니티를 제공하는 MOOC 활용 연구를 통해, 적절한 MOOC가 교사들의 원격 교육 역량 인식 향상과 참여율 증가에 긍정적인 영향을 미칠 수 있음을 밝힙니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Liz Owens Boltz, Aman Yadav 외 1명",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "바이트댄스, 오픈소스 에이전트 도구 '디어플로우 2.0' 출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207781",
+    "source": "AI Times",
+    "published": "2026-03-11",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "오픈소스",
+     "에이전트"
+    ],
+    "summary": "바이트댄스의 '디어플로우 2.0' 오픈소스 공개는 AI 에이전트 기술 확산과 개발 경쟁을 가속화할 것으로 예상됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "GIST, 사람 손 끝 ‘힘 감각’까지 구현하는 로봇 AI 기술 개발",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207787",
+    "source": "AI Times",
+    "published": "2026-03-11",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "로봇·휴머노이드"
+    ],
+    "summary": "GIST의 로봇 AI 기술은 로봇이 섬세한 작업 수행 능력을 향상시켜, 스마트 팩토리와 같은 산업 현장에서 활용도를 높일 수 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "메타, 에이전트 전용 SNS ‘몰트북’ 인수...\"AI 상호작용 연구에 도움\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207777",
+    "source": "AI Times",
+    "published": "2026-03-11",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Meta",
+     "에이전트"
+    ],
+    "summary": "메타의 몰트북 인수는 AI 에이전트 상호작용 연구를 가속화하고, 미래 AI 서비스 개발 경쟁에서 우위를 확보하려는 전략적 움직임입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "챗GPT에서 '움직이는 그래프' 생성...수학·과학 시각 자료 생성 강화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207779",
+    "source": "AI Times",
+    "published": "2026-03-11",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "챗GPT의 동적 시각 설명 기능은 교육 분야에서 AI 활용도를 높이고, 시각 자료 기반 학습 콘텐츠 시장 성장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "인간 몰래 ‘암호화폐 채굴’… AI 에이전트의 돌발행동!",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207791",
+    "source": "AI Times",
+    "published": "2026-03-12",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "AI 에이전트의 암호화폐 채굴 사례는 AI 자율성 강화와 동시에 발생할 수 있는 윤리적, 보안적 문제에 대한 심층적인 논의와 대비책 마련이 시급함을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "로다 AI, 6600억 투자 유치...\"인터넷 동영상으로 로봇 학습\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207793",
+    "source": "AI Times",
+    "published": "2026-03-11",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "로봇·휴머노이드"
+    ],
+    "summary": "로다 AI 투자는 로봇 학습 데이터 확보의 새로운 가능성을 열며, AI 기반 로봇 자동화 시대가 앞당겨질 수 있음을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "아마존, 퍼플렉시티의 AI 쇼핑 에이전트 차단 명령 받아내",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207789",
+    "source": "AI Times",
+    "published": "2026-03-11",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Amazon",
+     "Perplexity",
+     "에이전트"
+    ],
+    "summary": "이번 판결은 AI 에이전트의 웹 스크래핑 및 상업적 활용 범위에 대한 중요한 법적 선례를 제시하며, AI 기술 경쟁 환경에 영향을 미칠 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "아마존, AI 인프라 위해 54조 채권 발행...‘185조’ 역대급 주문 폭주",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207790",
+    "source": "AI Times",
+    "published": "2026-03-11",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Amazon"
+    ],
+    "summary": "아마존의 대규모 채권 발행은 AI 인프라 투자를 가속화하여 AI 기술 경쟁 심화와 관련 산업 성장을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "Anthropic AI reportedly used in US-Israel strikes as OpenAI faces user backlash for military agreement",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNZklEaGRNOWlLLUtPNU51UEk2Q0NmYjcyOTQ3Tzlnc0pLcnF1dFVmQ3QydzdIb015TjlnQzIySlBNLUo5MXg5OVRTU2ZtSEtXMmU0TTZsZ190X0tDTm5sbkJabWNyNGtja29ycEVhN0pPbnpuajRkMmhXek04X2ZWWC0yVW1zYTBvb2JVa1RZVVE1YkZ1S3duYnRNaFJjQ1FFaXpJWV9iWkpaYlcwMnVqVF9FRXA0N0Q0V0hCTEtPRzNxLW1JaDlJX1ZKTFNoSlo2X0NVclBJUVVYNTZMcXJhMzR6SkxvQU9SUmpjMldn?oc=5",
+    "source": "Business and Human Rights Centre",
+    "published": "2026-03-11",
+    "keyword": "Anthropic",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "OpenAI"
+    ],
+    "summary": "AI 기술의 군사적 활용 논란은 윤리적 책임과 투명성 강화를 요구하며, AI 산업 전반의 신뢰도 하락을 야기할 수 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "에듀테크 공교육 넘어 소외계층 조준, AI 수학 플랫폼 기술 격차 해소 시험대",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xOWZXT1FheTYySWJNTkMwYTlRdE9VQnY3b1M3clhZSEZWVFVpWE9haDZyUnVPLXJCMVpwVmc4TWp3OUFWZ0RLNWV4aWVadWt0b2plMG5xQkF0LUFyNVZZcTMta1M1MG04ODNIMA?oc=5",
+    "source": "ER 이코노믹리뷰",
+    "published": "2026-03-11",
+    "keyword": "에듀테크",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 에듀테크가 교육 격차 해소에 기여하며 사회적 가치를 창출하는 동시에 시장 확대 가능성을 보여주는 시험대가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "tech": "AI 에이전트 기술 개발 경쟁 심화와 더불어 다양한 분야에 AI 적용이 확대되는 가운데, 윤리적 문제와 기술 격차 해소 노력도 병행되며 AI 생태계가 빠르게 확장되고 있다!"
+ }
+}

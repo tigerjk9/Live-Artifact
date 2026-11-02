@@ -1,0 +1,420 @@
+{
+ "date": "2026-03-28",
+ "generated_at": "2026-11-02T11:54:09+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[교육칼럼] 인간과 인공지능(AI)-돌봄의 전 생애적 관점",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9abXE1NjFfRVp6dUU1UEFhZmV4Z1RKQ1AwRk1VNDVDQ3huMXZuYXdseG4wVmdjQ3hCdUktZTVnRW1yUmV6VlhzbDFuOERKNEVHelJManlhbmxGWG0wdjAtRkVwSV8?oc=5",
+    "source": "동양뉴스",
+    "published": "2026-03-27",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 2,
+    "title": "​[응원의 뇌과학] 내가 WBC 한국야구를 안봐야~",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OdnBvR2xEcWUwQUk2aG9WRmNGbUxKN2hLUjRqM3NqQjh4WTQtbUl4RnhnbVNZSGNieFJJVkFzd2ZUX3FtLV9BUHZWWGVPR2ZjOGZN?oc=5",
+    "source": "브런치",
+    "published": "2026-03-27",
+    "keyword": "뇌과학",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 3,
+    "title": "04화 #4[뇌과학기획] 칭찬보다 무서운 보상의 유혹",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5fdG4yMkdQWUFKN3YwVjQ5aFZiaGVMdnVZVFpONUtMSDJVZkhrUFZCTFd2QzFvUDFpYWlyNlpucENkN3M4UzROeERR?oc=5",
+    "source": "브런치",
+    "published": "2026-03-27",
+    "keyword": "뇌과학",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 4,
+    "title": "윤건영 충북교육감 “국가 AI교육 플랫폼, 공존이 답”… 상생 특위 제안",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02Z05iRC12NmxsX3VsbEZXOTRCaDhYLTZjWk1tWDdkVk0wRTU2eGpKUVdiUnN1SHpuX1cxb2JPUzIxSlAtajZDUUM1dWRFYm9BQTRiTVhMSmwzall3bU0yVGE1MHlRRUU?oc=5",
+    "source": "교육플러스",
+    "published": "2026-03-27",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "충북교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 5,
+    "title": "경기교육혁신연대, 교육감 진보후보 단일화 방식 확정...후보들은 엇갈린 반응",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBaWFBUTjI4XzYzdWJpUTBidDBZSTlaeWp0N29pNFRWYUNEU0cxM0g1V0d3UHNnQ3B1TWoyYWhCU3E3ZnNXNmI1WTcxMWtHRk16bmpyVE9pQTltb04yZnFYeFloNy1XRFJD0gFoQVVfeXFMUFpYUFROMjhfNjN1YmlRMGJ0MFlJOVp5anQ3b2k0VFZhQ0RTRzEzSDVXR3dQc2dDcHVNajJhaEJTcTdmc1c2YjVZNzExa0dGTXpuanJUT2lBOW1vTjJmcVh4WWg3LVdEUkM?oc=5",
+    "source": "경인방송 뉴스",
+    "published": "2026-03-27",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 6,
+    "title": "경기교육혁신연대, 경기도교육감 진보 단일후보 추대방식 확정",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1M1hiTlB2ZTd1Q1k4Sks0WnZlcThpbTVyUE9LZEhXUHgzQk9WUnlpTWtCSld6Tkh1WXA4cmhiZGN0S1VlUUhpTE1jWjU0TWNvSTMzZFo3YWFianBJbzJpYnl2TWR3bkExcnd4YWR2cw?oc=5",
+    "source": "중부일보",
+    "published": "2026-03-27",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 7,
+    "title": "경기교육혁신연대, 경기민주진보교육감 단일화 비율 결정",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wQVA5OW5EWmR1N1ljNTBLU203amNvaU1jcVlTTTZvcjVWd3NYbDVxTlJjcnJNU3N0NGVlc0todFN5OFRObzc4RVd3akV4UzdQcHpxTkZzblgtVzVSQTdlM0pFNjZoU1UwT2N4QXgzNjE?oc=5",
+    "source": "인천일보",
+    "published": "2026-03-27",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "민주진보교육감 경선 룰 확정…유은혜 ＂경기교육혁신연대 노고에 감사＂",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85WUQ1NTFxQUYxdEh4RXJ6aWtXanlmUHJOVGFIQ0pHWXBlQlJ0cmlhRzFJZzRhMkZnRkJhVGRLUEdNd0VqakNVSDJYSFZtX0N6MVJR0gFTQVVfeXFMTzlZRDU1MXFBRjF0SHhFcnppa1dqeWZQck5UYUhDSkdZcGVCUnRyaWFHMUlnNGEyRmdGQmFUZEtQR013RWpqQ1VIMlhIVm1fQ3oxUlE?oc=5",
+    "source": "KPI뉴스",
+    "published": "2026-03-27",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "경기도교육청미래과학교육원, 인공지능‧·디지털 기반 연수 시스템 '하이-사이클' 도입",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIM19mc1QwUmN3UkhuRGNwRlcyS3hjWGRLQ3kyR3Fkbmd6dXE5aFRaWDhCb2x1NEIyamQwTnAwTVY2ellLTGZQel85RFM1Z3FRdU4zbGxmRmtzNURQcFlCQ2JSb1I0TVNuS2fSAWpBVV95cUxQSDNfZnNUMFJjd1JIbkRjcEZXMkt4Y1hkS0N5MkdxZG5nenVxOWhUWlg4Qm9sdTRCMmpkME5wME1WNnpZS0xmUHpfOURTNWdxUXVOM2xsZkZrczVEUHBZQkNiUm9SNE1Tbktn?oc=5",
+    "source": "새한일보",
+    "published": "2026-03-27",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 10,
+    "title": "AI 수업 맡을 교사 키운다…교육부, 인공지능 연수과정 첫 도입",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5VcFpxS2g0Y2swVENCWFVBb2RxMVhXTEJXR1lOeXVadHhRaHZfaWpLRm9SY1NmRlprUkVsdnR5clY1ZGwwTVYyV1pGVXU?oc=5",
+    "source": "한국AI부동산신문",
+    "published": "2026-03-27",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Group-Differentiated Discourse on Generative AI in High School Education: A Case Study of Reddit Communities",
+    "url": "http://arxiv.org/abs/2603.24972v1",
+    "source": "",
+    "published": "2026-03-26",
+    "keyword": "K-12 education",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "고등 교육 관련 레딧 커뮤니티 분석 결과, 교사는 AI의 교육적 활용에 대한 상반된 시각을, 학생은 성적 및 단속 관련 전술적 논의를 주로 하며, AI 탐지기 사용은 부정적 감정을 유발하여, AI 활용 교육 환경에서 공정한 평가 방식 도입이 필요함을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Parth Gaba', 'Emiliano De Cristofaro']",
+    "pdf": "http://arxiv.org/pdf/2603.24972v1"
+   },
+   {
+    "n": 2,
+    "title": "RETRACTED: A study on the evaluation method of foreign language classroom teaching process from the perspective of neuroeducation",
+    "url": "https://www.semanticscholar.org/paper/63e15ca9be694839ead67d3d405d0e9019f531e3",
+    "source": "semantic_scholar",
+    "published": "2021-01-24",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "신경교육학적 관점에서 외국어 수업 과정을 평가하기 위해, 뇌과학적 평가 방법을 적용하여 교사의 지도 능력, 학생의 학습 능력 및 효과, 교과 내용 선정 등 수업 관련 여러 측면을 객관적으로 평가할 수 있는 방법을 제시하고, 기존 수업 평가 방법의 문제점을 해결하는 데 기여할 것으로 기대합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ruifeng Luo, Qiaoyun Liao 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Taking social media to a university classroom: teaching and learning using Twitter and blogs",
+    "url": "https://www.semanticscholar.org/paper/0115087aa9b31fb0db2fa25829420514fe3c1159",
+    "source": "semantic_scholar",
+    "published": "2017-01-25",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "말라위의 한 대학교에서 트위터와 블로그를 활용한 수업을 분석한 결과, 적절히 활용하면 학습자 중심 교육을 촉진하고 학생들의 적극적인 참여를 유도할 수 있지만, 인터넷 환경과 장비 부족 등의 과제 해결이 필요함을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "W. Chawinga",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "From Untamed Black Box to Interpretable Pedagogical Orchestration: The Ensemble of Specialized LLMs Architecture for Adaptive Tutoring",
+    "url": "http://arxiv.org/abs/2603.23990v1",
+    "source": "",
+    "published": "2026-03-25",
+    "keyword": "K-12 education",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "LLM",
+     "AI 튜터"
+    ],
+    "summary": "ES-LLMS 아키텍처는 전문화된 LLM들을 활용하여 교육적 결정을 명확히 분리하고, 해석 가능한 학생 모델 기반으로 제약을 준수하며 힌트 효율성을 높여 기존 모델의 과도한 도움 문제를 해결하고 신뢰성 높은 AI 튜터를 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Nizam Kadir']",
+    "pdf": "http://arxiv.org/pdf/2603.23990v1"
+   },
+   {
+    "n": 5,
+    "title": "How to Engage Active Pedagogy with Physics Faculty: Watch Out for Powerlessness",
+    "url": "http://arxiv.org/abs/2601.02493v1",
+    "source": "",
+    "published": "2026-01-05",
+    "keyword": "pedagogy",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "물리/천문학과 교수들이 강의식 교수법을 고수하는 이유를 분석한 결과, 많은 교수가 교수법 결정에 대한 무력감을 느끼며, 이는 재정적 압박으로 인한 학교의 결정 때문이며, 교수 개발 프로그램은 교수들에게 자율성을 부여하여 학생 중심 교육을 장려해야 함을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Andria C. Schwortz', 'Michael Frey' 외 1명",
+    "pdf": "http://arxiv.org/pdf/2601.02493v1"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "사카나 AI, AI 작성 논문이 사상 첫 '네이처'에 게재",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208446",
+    "source": "AI Times",
+    "published": "2026-03-27",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "AI가 과학 연구의 전 과정을 자동화하여 학술지에 게재된 것은, AI 기반 연구 혁신과 과학 기술 발전 가속화의 중요한 전환점이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "미스트랄, 기업 시장 겨냥한 3B 텍스트-음성 변환 모델 오픈 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208462",
+    "source": "AI Times",
+    "published": "2026-03-27",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Mistral",
+     "온디바이스 AI"
+    ],
+    "summary": "미스트랄의 경량 TTS 모델 공개는 기업들이 온디바이스 AI 음성 서비스를 구축하고 활용하는 데 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "딥페이크 방어·탐지 AI 스타트업 ‘스틸컷’, 딥페이크 탐지 AI 모델 공개…자체 벤치마크 정확도 93.9% 기록",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBBWlR0YmFLblBUbW43OGtjSkcwVXBwOFRkVUxFU3AzazJoOUdwdnpjWVBmWnhFVHIxZVhjazJhMVItcnRramc?oc=5",
+    "source": "beSUCCESS",
+    "published": "2026-03-27",
+    "keyword": "AI모델",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "딥페이크",
+     "벤치마크"
+    ],
+    "summary": "스틸컷의 딥페이크 탐지 AI 모델은 기술 경쟁 심화와 함께 딥페이크 위협에 대한 신뢰성 있는 방어 수단 마련에 기여할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "베슬AI “엔비디아 최신 GPU, 빅테크 대비 최대 80% 저렴한 비용으로 제공”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208486",
+    "source": "AI Times",
+    "published": "2026-03-27",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "GPU·데이터센터"
+    ],
+    "summary": "베슬AI의 엔비디아 최신 GPU 기반 GPUaaS 제공은 국내 AI 개발 비용을 낮춰 AI 기술 혁신과 경쟁력 강화에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[게시판] 인텔리빅스, 애스앤이노와 전기차 화재 예방 AI 개발 협력 등 단신",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208456",
+    "source": "AI Times",
+    "published": "2026-03-27",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제"
+    ],
+    "summary": "AI 화재 감지 기술과 배터리 열폭주 방지 기술의 결합은 전기차 안전성을 강화하고 AI 기술의 활용 범위를 넓히는 긍정적인 사례입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "네덜란드 법원, xAI '그록'의 성적 이미지 제작·배포 세계 최초 금지 명령",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208470",
+    "source": "AI Times",
+    "published": "2026-03-27",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "xAI",
+     "AI 안전·규제"
+    ],
+    "summary": "이번 판결은 AI 모델 개발 및 배포 시 동의 기반 콘텐츠 생성에 대한 책임 강화와 유럽 AI 규제 준수의 중요성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "금오공과대 고재필 교수 연구팀, 세계 최고 AI 학회 CVPR서 혁신적 딥러닝 논문 채택",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40UmpNSHpOcjNLZ3VaVHg5SG9sS2tONlB3RzRubTdyb3lXaUJfYVBnQnJxbHBYU0dVU3hZbFRuUGhtb0diblAtd0E4aTIyaTRzcm5YMS11Ui1XbEo0dGVEenpIc0ZHSWJN?oc=5",
+    "source": "대구일보",
+    "published": "2026-03-27",
+    "keyword": "딥러닝",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "금오공대 연구팀의 CVPR 논문 채택은 국내 AI 기술 경쟁력 강화와 딥러닝 기반 산업 발전에 긍정적인 신호탄입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "Prompt Caching with the OpenAI API: A Full Hands-On Python tutorial",
+    "url": "https://towardsdatascience.com/prompt-caching-with-openai-api-full-hands-on-python-tutorial/",
+    "source": "Towards Data Science",
+    "published": "2026-03-22",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "AI 튜터"
+    ],
+    "summary": "OpenAI API의 프롬프트 캐싱은 AI 애플리케이션 성능 향상 및 비용 절감을 통해 AI 서비스 대중화에 기여할 수 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "“구글·아마존 베팅 AI”…앤스로픽, IPO로 챗GPT 아성 흔드나",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40WVpLQ2hpUkVYak9IQmNra3R6Q1dGVk5lSmxBQ2ZEYXhMT1poal9YVHVPQ2EwdWh6S243M0ZWQzNBaEdZV0hETVJoLU1seWZSZHNSaXNCNnZ3cnZvUGtuNTVuRXJPUUFH?oc=5",
+    "source": "ebn.co.kr",
+    "published": "2026-03-27",
+    "keyword": "오픈AI",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Amazon",
+     "Anthropic",
+     "ChatGPT"
+    ],
+    "summary": "앤스로픽의 IPO 추진은 AI 경쟁 심화를 예고하며, 구글과 아마존의 지원을 등에 업고 오픈AI의 시장 지배력에 균열을 낼 잠재력을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "[어제미장] 웨스턴디지털, 주가 273.35달러, 7.70% 하락: 구글 AI 알고리즘 여파로 변동성 확대 : 금융",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE83QzZ3ZHVOYjJlSGdLdE5IZ0k0SXdUbUt0UlhFWnlwVE5hX3RzRXVRZno1TXdoRUplWlVBTnVIcG5HZG9pNHZ4NGFR?oc=5",
+    "source": "재경일보",
+    "published": "2026-03-27",
+    "keyword": "알고리즘",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "GPU·데이터센터"
+    ],
+    "summary": "구글 AI 알고리즘의 영향은 웨스턴디지털 주가 하락을 통해 AI 기술 변동성이 메모리 반도체 산업 전반에 확산될 수 있음을 시사합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "tech": "AI 기술이 학계, 산업계 전반에서 혁신적인 발전을 이루고 있으며, 경쟁 심화 속에서 윤리적 문제 해결과 비용 효율성 추구가 중요해지는 시점이다."
+ }
+}

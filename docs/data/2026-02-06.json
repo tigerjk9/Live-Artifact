@@ -1,0 +1,428 @@
+{
+ "date": "2026-02-06",
+ "generated_at": "2026-11-02T11:51:46+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[아주사설 | 기본·원칙·상식]AI교육 공약의 홍수 속에서, AI 리터러시 선수를 가려내야 한다",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE84am1peklhT0JyNG1QTG5ZR0t3RjcxcHpQUktzYm1ud1RLMkZPR0RJZzBwdXpTYlFtSmtwX3M5RDZfSWVHZHFrdXZrVUNFeXo5WnpnVEp6bnlaUdIBWEFVX3lxTFBEUXhQQTYtdkYzM3VZcnZiZjVpZjNIbE1EWVp6ZTVycHZoS3ZWS1N2RzJ4MmdJa3lLZFRKZzVZRGw2VlE5QWwybG5aZHhISGRkZS1CRzA1RjY?oc=5",
+    "source": "구글 뉴스",
+    "published": "2026-02-04",
+    "keyword": "",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [
+     "AI 리터러시"
+    ],
+    "summary": "AI 교육 공약 경쟁 속에서 AI 리터러시 교육의 본질을 꿰뚫고, 학습 격차를 심화시키지 않도록 교육 정책 설계 및 실행에 신중을 기해야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[기고] 디지털 신원 지갑 및 교육·의료·여행·무역 분야 검증 가능한 자격증명 구축 사례",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3WGhLa21oQzJualF6QUVrbWdxM09pS1lQWld3NkloYTFodkx2bFBrX1cwOUQ0RVlnUXdCeVhyclJfbEQwWVM3SVI5aTd6MGdiRzR3YlQ1eVJSMWZkQ3hYZ2Y0bDVlSWQ2M0hLVXJha25hUWtjYUE?oc=5",
+    "source": "블록체인투데이",
+    "published": "2026-02-05",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "디지털 신원 지갑과 검증 가능한 자격증명은 교육 분야에서 학습 이력 관리의 투명성과 신뢰성을 높여 개인 맞춤형 학습을 촉진할 수 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[이권호 변호사의 법률칼럼]주의력 경제Ⅰ",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TTWEzUFlHY3FQemh2LU50RFBzUnREWHFwU2ZCZXRfdmF3YmlkVHNKclBIRVZyWmktU2Z4TFFCUjJndXRLUkprcnVHem5ndW1ZUmtz?oc=5",
+    "source": "네이트",
+    "published": "2026-02-05",
+    "keyword": "뇌과학",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "학생들의 주의력을 분산시키는 환경에 대한 비판적 성찰과 미디어 리터러시 교육 강화가 시급합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[특별기고] 서울대 10개 만들기, 대학 자율로",
+    "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2255632",
+    "source": "대전일보",
+    "published": "2026-02-05",
+    "keyword": "",
+    "topic": "higher_ed",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "'서울대 10개 만들기' 구상은 대학 자율성 확대와 재정 지원을 통해 고등교육 생태계 다양성을 확보해야 한다는 시사점을 던져줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "천창수 울산시교육감, 디지털교육혁신특별교부금 유효기간 연장에 제동 요구",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QMlJfd2pFNTAwT1NQclRGeDBmZklGeFhaRUdIUlV1RUgybFJsY1ZhVHJRMXRZbHpZVnVJU09XVWU1Q1l2c3JOdF9CWlphaTN2b1ctSGNEZkY5Y29FOHpvbG54Nm9ISEp4ZlJYZl93?oc=5",
+    "source": "울산종합일보",
+    "published": "2026-02-05",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "울산시교육청",
+     "교육 예산"
+    ],
+    "summary": "천창수 교육감의 요구는 디지털 교육 격차 해소를 위한 예산 집행의 효율성과 실효성을 높여야 한다는 교육적 책임감을 보여주는 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "야구·뇌과학·AI까지…국립중앙과학관, 시니어 과학문화대학 연다",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04ZGRRc01TbWZIRTJLZ01xOTVRUWRIRWt1NjhOZHRDZUxyQ08yY2JOcm5OcmJEdW9lcXFTRHVLaGkzSjB1VngycXNURVJ3LWNBeC04TFpxQ3lFYXR2TFRKUw?oc=5",
+    "source": "네이트",
+    "published": "2026-02-05",
+    "keyword": "뇌과학",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [],
+    "summary": "국립중앙과학관의 시니어 과학문화대학 운영은 고령층의 과학적 소양 함양과 평생학습 활성화에 기여하는 긍정적인 시도입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "서울시교육청, 서울시립대와 고교생 AI교육 강화한다",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uM3NMa1F4UlhZQkxuak92ODVYT25FNDF1Y3M5SXJsdUR1ZW1PMWRkbWhKUW4wOFJ0aEhHMFBBM0ZaNG9Xbk9GWU01YndEOVFkbnRnUzd1Y3JVQUdUOV90SNIBeEFVX3lxTE5UV1c5M0U0VW1WMXNldHFCU2IzWDRSRUZjakJXdGN5dmVFQ3RZNkhnTWY0TGFVM2pDNlB5dWxSdk1OXzhteVB2Rm5YWUFUMUdjbVdRVGFjdURJaEp0SHM3SEFCTy1NY3I1TnFfSXBVa0NVNWJFY1lQLQ?oc=5",
+    "source": "뉴시스",
+    "published": "2026-02-05",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "서울시교육청"
+    ],
+    "summary": "서울시교육청과 서울시립대의 협력은 고교생에게 실질적인 AI 교육 기회를 제공하여 미래 사회 대비 역량 강화에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "이병학 충남교육혁신연구소 소장 , 충남교육감 선거 예비후보 등록",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KNjVwTnhQRHl4MzA2VkNVQ3pSaWlHZFBrc19GWklRNGhJRTBXeWpKX09VS09oaEFzd25OSTdYZ0U0UEZyemRfeFczN3FIYUFyVWZpRUVZR19POE44amJZeEowaUxoRFA2X2ZJ0gFvQVVfeXFMT2ZTdWZ1dnc2SlRsMldQdVBOZ1hoUFdidTNTWXlTNEFHN1NlZzF2R2F1MnNwX2hDNFplczBPMG8wcUNpX0NlcllCOEloWi1EZXMzWjlhOEVpdlZOckNxWWh6STJUVlNILUxSbXprd3lR?oc=5",
+    "source": "세종충청뉴스",
+    "published": "2026-02-05",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충남교육청",
+     "교육감 선거"
+    ],
+    "summary": "이병학 소장의 교육감 선거 출마는 충남 교육 혁신 방향에 대한 심도 깊은 논의를 촉발할 것으로 예상됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "전남대 사범대학, 교원양성 평가 전국 최상위 ‘A등급’ 받아",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tbXVpa0ZFM3dCdW51a2NjSGNPdUg5SnQtd1kwU1BZSmNaYWR5Uy1PelNjVGhyZWhBdVp0S3Z2cDlyUTNLb2RFSG5LcFNOSWR3TjdQS2F3?oc=5",
+    "source": "위키트리",
+    "published": "2026-02-05",
+    "keyword": "AI디지털도구",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [],
+    "summary": "전남대 사범대학의 교원양성 평가 최상위 등급 획득은 지방 사범대학의 경쟁력 강화와 교육 혁신 노력이 결실을 맺은 긍정적인 신호탄입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "충북교육청, 수업혁신 교사들 성과 격려하며 미래 교육 비전 제시",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBEa1VpbEJYaHAzdHdkX3kzU0lDak5BLVk5ZlRvaTJYd1o2SHVWdE1BemlDREhELUk2ZkFncHB5QUJfRWpDU0x2QlFTb2ZZYkJtOWtr?oc=5",
+    "source": "네이트",
+    "published": "2026-02-05",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "충북교육청"
+    ],
+    "summary": "충북교육청의 수업혁신 교사 격려는 미래 교육 방향 모색과 교사의 자발적 혁신 노력 장려에 긍정적 영향을 줄 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Integrating AI and Learning Analytics for Data-Driven Pedagogical Decisions and Personalized Interventions in Education",
+    "url": "https://www.semanticscholar.org/paper/6454af73dd2e3f05a1ec9fb111383a7103f34a8b",
+    "source": "semantic_scholar",
+    "published": "2023-12-15",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습",
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "본 연구는 OpenAI의 GPT-4를 활용한 학습 분석 도구를 개발하여 학생 참여도, 학습 진행 상황, 교수 전략을 분석하고, 교수의사결정 지원 및 맞춤형 교육 제공 가능성을 제시하며, 데이터 보안 및 정확성 개선의 필요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ramteja Sajja, Y. Sermet 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "How video production affects student engagement: an empirical study of MOOC videos",
+    "url": "https://www.semanticscholar.org/paper/409090a8fa7edfededc03c396a16f6f57144270c",
+    "source": "semantic_scholar",
+    "published": "2014-03-04",
+    "keyword": "",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [],
+    "summary": "edX MOOC 플랫폼의 대규모 영상 시청 데이터 분석을 통해 짧고, 비형식적인 강사 출연 영상, 태블릿 드로잉 영상이 학생 참여도를 높이며, 강의 및 튜토리얼 영상에 대한 학생 반응이 다르다는 것을 밝혀 온라인 교육 영상 제작에 대한 실질적인 지침을 제공하고, 관련 데이터셋을 공개하여 후속 연구를 지원합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Philip J. Guo, Juho Kim 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Towards an interdisciplinary model of practice for participatory building design in education",
+    "url": "https://www.semanticscholar.org/paper/f15e560a825862126e7d561a02cbfc09ea2424b9",
+    "source": "semantic_scholar",
+    "published": "2017-09-01",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 교육 시설 설계 시 건축가, 교육 설계자, 교사, 학생 등 다양한 이해관계자의 참여를 최적화하는 새로운 학제 간 모델을 제시하여, 교육 시설 설계 및 교육과정 공동 창작에 실질적인 영향을 미칠 것으로 기대합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "K. Könings, C. Bovill 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "GAIDE: A Framework for Using Generative AI to Assist in Course Content Development",
+    "url": "https://www.semanticscholar.org/paper/91e3da81707ef3cccb7b60f8721c60f2fda8cb1a",
+    "source": "semantic_scholar",
+    "published": "2023-08-23",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "GAIDE 프레임워크는 생성형 AI를 활용하여 교육 콘텐츠 개발 과정을 간소화하고, 교사의 부담을 줄이며, 더 다양하고 효과적인 학습 자료를 제작하도록 지원하여 교육 혁신에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ethan Dickey, Andres Bejarano",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "Exploring K-12 Physical Education Teachers’ Perspectives on Opportunities and Challenges of AI Integration through Ideation Workshops",
+    "url": "https://www.semanticscholar.org/paper/976de09969f3fcdc780cad09f557548ce9da9db4",
+    "source": "semantic_scholar",
+    "published": "2025-02-25",
+    "keyword": "K-12 AI",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 현직 중등 체육 교사들의 아이디어 워크숍을 통해 K-12 체육 교육에서 AI의 다양한 역할과 가능성을 탐색하고, 데이터 보안, 교사 역량 등 고려 사항을 제시하여 체육 교육 혁신에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Dakyeom Ahn, Hajin Lim",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "“No Ads, Period.” Anthropic Draws a Line as Claude and ChatGPT Face Off in an AI Business Model War",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrSW1jQk9lNXNhNnVTM1JoaG1PZjFrUDNnalFRMHFpY1VOSGl5aXVWRDBFNWlXcU5xQ3FoSEp1d0JWcGVLSzgwWGF0MjRlMjBaN3NkT3hscHdRMFZ4VzRBVWJtTDhNVEtIeVE?oc=5",
+    "source": "kmjournal.net",
+    "published": "2026-02-05",
+    "keyword": "Anthropic",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude",
+     "ChatGPT"
+    ],
+    "summary": "Anthropic의 광고 배제 전략은 AI 챗봇 시장에서 차별화를 꾀하며 유료 서비스 모델 경쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "﻿[게시판] 크라우드웍스, 천안 스마트도시 조성 위한 AI 교육 사업 등 단신",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=206482",
+    "source": "AI Times",
+    "published": "2026-02-06",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [],
+    "summary": "크라우드웍스의 천안시 AI 교육 사업은 지역 스마트도시 조성에 필요한 AI 인력 양성을 통해 AI 기술 생태계를 확장하는 데 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "OpenAI, 차세대 에이전트형 코딩 모델 ‘GPT-5.3-코덱스’ 공개",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZdGJ1ZVR4WGRVT3hPSUZNY3NOMGs2VmtDTC1MREhZU1F6NmxnMUdNbVg1WXFUMmJsY29SYXp4Q1V4cXRLSzR4Wk9QNXU0WjFnbUwzcElIaUxsek9TdEhKcnR2QQ?oc=5",
+    "source": "e4ds news",
+    "published": "2026-02-06",
+    "keyword": "GPT",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "에이전트",
+     "코딩 AI",
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.3-코덱스는 코딩 자동화 수준을 높여 개발 생산성을 혁신하고, AI 개발 경쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[빅테크칼럼] 앤트로픽, 더 강력해진 AI '클로드 오퍼스4.6' 공개…벤치마크서도 챗GPT·제미나이 능가",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfam82QkZPWHJHSDNtX3ZjR2ViYnRFUEVVMzY0NFE2djZvMFVlNEFJQ0dHX3FhZGMzdDRxTS1EM29HWWtEN2pxdEs0a0Y4ejB0ZUFJV0t5UzE1SGNic2tZbQ?oc=5",
+    "source": "뉴스스페이스",
+    "published": "2026-02-05",
+    "keyword": "오픈AI",
+    "topic": "model",
+    "kind": "opinion",
+    "entities": [
+     "Anthropic",
+     "Claude",
+     "벤치마크",
+     "ChatGPT",
+     "Gemini",
+     "Google"
+    ],
+    "summary": "앤트로픽의 클로드 오퍼스 4.6 공개는 AI 모델 성능 경쟁 심화를 예고하며, 특정 분야에서는 오픈AI와 구글의 경쟁 모델을 능가할 수 있음을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "우주 데이터센터에 진지한 머스크 \"36개월 내 AI 인프라 중심 이동할 것\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=206483",
+    "source": "AI Times",
+    "published": "2026-02-06",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "GPU·데이터센터",
+     "xAI"
+    ],
+    "summary": "머스크의 우주 데이터센터 구상은 AI 연산 능력의 물리적 한계를 극복하고 새로운 성장 동력을 창출할 가능성을 제시합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "GPT-5, 2개월 만에 단백질 생산비 40% 낮춰… 약값 인하 기대",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Jd3duNThRaTY4YjBjbnJacndrMmQ0SlN5Tzk0YkJrYVJYcThoblBjSTBpN2lUci1BNXo5SnJEY1dJM2dqekJfRXZUc3FQZWZMOXU1TGo1SlFvY0diX3JJN1BB?oc=5",
+    "source": "aimatters.co.kr",
+    "published": "2026-02-06",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-5의 단백질 생산 비용 절감은 AI 기반 신약 개발 가속화 및 제약 산업 혁신의 잠재력을 보여주는 중요한 진전입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "구글, 제미나이 3 플래시에 ‘에이전트 비전’ 기능 도입",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=206459",
+    "source": "AI Times",
+    "published": "2026-02-06",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Gemini",
+     "에이전트"
+    ],
+    "summary": "제미나이 3 플래시의 에이전트 비전 기능은 AI의 능동적 정보 탐색 능력을 강화하여 특정 산업 분야의 자동화 및 효율성을 크게 향상시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "구글, '제미나이' 앱 월간 사용자 7억5000만명 돌파...'챗GPT' 맹추격",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwVFNCYW84cDdHRHpGYVZqcklHUTE0UzFVemswQjFqLXdVQTNra0tzbHdLQlAxcFE4bXFFU2ZNd2N3b3FMeVkzSGtFUkZ1R3RHbjVzbkgwQTNFclV5UkUzUXZHVTFRNmc0alE?oc=5",
+    "source": "AI타임스",
+    "published": "2026-02-06",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Gemini",
+     "ChatGPT"
+    ],
+    "summary": "구글 제미나이의 빠른 성장세는 AI 챗봇 시장 경쟁 심화를 예고하며, 사용자 확보를 위한 플랫폼 간 혁신 경쟁을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "“기술이 사람에 맞춘다”…구글, AI 접근성 새 패러다임 ‘NAI’ 제시",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEODhhZkhTbFFWV3pJZDBnVmdqdmhoeWlDcXp4NEROc2hDRHU3WjV4X2IyQXVkbEpJOWVRdUhhMncwMWRHVmR4RUNkZE1zRWhab19jT2g2dmppYWxfRms5LW1xdmlqXzQ?oc=5",
+    "source": "인공지능신문",
+    "published": "2026-02-06",
+    "keyword": "구글",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "구글의 NAI는 AI 접근성 향상을 통해 기술 발전의 방향을 인간 중심으로 전환하고, AI 기술 생태계 전반에 새로운 혁신 기회를 제공할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "인하대 김재오 교수팀, 분자 특성 예측 AI모델 연구 성과",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5QT295S25nM1VxOFd5VTM2X21sdzZzZHZ3eUVyRmhTODBoNk1zRWlWRVBxbjZmdzQ1MVRXZjFZX0l6T3BBdjc5bnI3b24zZlhfSEtUbmFPd1pHTHF4VjN3SWU0WFhBRDZpYUp6bHJB?oc=5",
+    "source": "gukjenews.com",
+    "published": "2026-02-06",
+    "keyword": "AI모델",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "인하대 김재오 교수팀의 연구는 AI 기반 신소재 개발 및 맞춤형 분자 설계 가속화에 기여하여 관련 산업 혁신을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 리터러시 강화, 디지털 신원 활용, 대학 자율성 확대 등 교육 혁신을 위한 다각적인 시도가 이루어지는 가운데, 미래 교육 비전 제시와 교원 양성 강화 노력이 활발하게 전개되고 있습니다.",
+  "tech": "AI 모델 성능 경쟁 심화, 에이전트 기능 강화, 사용자 확대, 접근성 향상, 그리고 우주 데이터센터 구축 논의 등 AI 기술이 다방면으로 발전하며 인간 중심의 미래를 향해 빠르게 나아가는 중!"
+ }
+}

@@ -1,0 +1,165 @@
+{
+ "date": "2025-12-06",
+ "generated_at": "2026-11-02T11:48:46+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[기고] 북한학을 언제까지 '고고학'으로 남겨 둘건가",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1VElmaHNNYmU1ODJpOVZQZFY5YUJ3SFBfaVZlQWdaYWZuSFlZbWxjaU82a29xY0dFWGxiNUFfVFVFT3NnUlpmNENmWGJoWXptRnFr?oc=5",
+    "source": "네이트",
+    "published": "2025-12-05",
+    "keyword": "AI디지털도구",
+    "topic": "global",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "북한학 연구의 현실성 결여는 통일 교육의 효과성을 저해하므로, 시대 변화에 발맞춘 교육 내용 업데이트가 시급합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[이영웅 칼럼] 융합하는 지성의 시대: '문(文)'과 '이(理)'의 벽을 넘어 현실을 직시하다",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5faVg3UWh4ZzZWMnVkRGZoUVpNWEREdlk2U2daVVg4cFA1QmtHREFxdnlrcUI1aTdrWnpnZnB3V3FETVJHQjA5RHQxUjMwUGNjeUItT2FFQ2d5TnR6dC1GYjVIZWlzZi1FRjQ0RGQtYm0?oc=5",
+    "source": "한국강사신문",
+    "published": "2025-12-05",
+    "keyword": "뇌과학",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "미래 사회는 문·이과 융합 교육을 통해 복잡한 현실 문제 해결 능력을 키우는 인재 양성이 중요해질 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[사설] 도심대학이라고 안전한 시대는 끝났다 – 일본의 붕괴가 한국 대학에 보내는 경고",
+    "url": "https://news.unn.net/news/articleView.html?idxno=587190",
+    "source": "한국대학신문",
+    "published": "2025-12-05",
+    "keyword": "",
+    "topic": "student_care",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "학령인구 감소 시대, 도심 대학도 예외 없이 혁신과 구조 개혁을 서두르지 않으면 생존을 위협받을 수 있다는 경고입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "글렌피딕, ‘플레이 위스키’ 올해 마지막 에피소드 공개… 심리·뇌과학으로 본 위스키",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE03OWcwSEQ3WXZtNlFHWG9jLXlCLWhucEU1VlV1WTZYY0d6Y1U5NllBNWR5SE50YXFJZVdEV0g1NWk0OTNYUUhKUVFZNnBWTkYzc0h4RFNPZWtXOU1fZ1IyZk1hVnFvd1B2T1NwSnNjUWdUUQ?oc=5",
+    "source": "중앙이코노미뉴스",
+    "published": "2025-12-05",
+    "keyword": "뇌과학",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [],
+    "summary": "위스키 경험을 심리·뇌과학적으로 접근하는 시도는 교육 분야에서도 학습 경험 설계 시 학습자의 인지적, 정서적 반응을 고려해야 함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[기자수첩] 교육부 장·차관 포함 1급 전원 비서울대… 우연인가, 필연인가?",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=21492",
+    "source": "에듀프레스",
+    "published": "2025-12-05",
+    "keyword": "",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [
+     "교육부"
+    ],
+    "summary": "교육부 주요 보직의 비서울대 출신 인사 확대는 학벌 중심주의 완화와 다양한 시각 반영을 통해 교육 정책의 다양성과 포용성을 높일 수 있는 긍정적인 변화의 신호탄입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "경기도교육청, AI 기반 ‘경기외국어미래교육 선도학교’ 성과 나눔회 성료",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DNVY0TjdoNUJxX0hCbnJvYlRKdENJLW5CRDc1RGJPZ1FVOEptTnY0SUZEQlVreEt6cnB1Mm1HUzV1UDgxZFV0ZmcxVmxUdFpkVEVWcWxfYVhxQWJHdEFoS1BGWTNsMWp4?oc=5",
+    "source": "경인경제",
+    "published": "2025-12-05",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청의 AI 기반 외국어미래교육 선도학교 성과 공유는 공교육 AI 활용의 가능성을 보여주며, 미래 교육 모델 확산의 중요한 계기가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "​경기도교육청,미래과학교육원.경기온라인학교에 ‘마인크래프트’ 활용 인공지능·코딩 강좌 탑재",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WLWIwZnpobmVsY09fZW05emlLYWtPcTZSTTdfNEIzZUVpcjYtc3FpMFdfVzVzZXRtT0x4ZVkwSXVHVHp2aklMWnhFLTZiRFVROUpVNHgwM01vNmZHbVFLNUlCd2owM2VSTFh2NUd30gFuQVVfeXFMTVYtYjBmemhuZWxjT19lbTl6aUtha09xNlJNN180QjNlRWlyNi1zcWkwV19XNXNldG1PTHhlWTBJdUdUenZqSUxaeEUtNmJEVVE5SlU0eDAzTW82ZkdtUUs1SUJ3ajAzZVJMWHY1R3c?oc=5",
+    "source": "일간투데이",
+    "published": "2025-12-05",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "코딩 AI"
+    ],
+    "summary": "마인크래프트를 활용한 AI·코딩 교육 콘텐츠 제공은 학생들의 흥미를 유발하고 미래 역량을 강화하는 데 긍정적인 영향을 줄 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "경기도교육청, AI 서·논술형 평가 시범운영 연구 결과 발표",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tVHF1T1IzUGJHclM0ZGxyNDNZeG1RVVUzcDRhaHE3VDEwU0RRSXo3MkNpUmZDZU5waTdMNldEN2NuaE83eGpMTzJxZUFxQlpYY1lCTTRWTW8?oc=5",
+    "source": "데일리안 미디어",
+    "published": "2025-12-05",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "AI 서·논술형 평가 도입은 교사의 평가 부담을 경감하고 학생 맞춤형 피드백을 제공할 가능성을 보여주지만, 평가의 공정성과 타당성 확보가 중요합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "[2025 대학대상/미래교육혁신 우수대학] 경북대, AI·디지털 기반 교육 플랫폼 선도",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5SclZQY1E5ZU5KQ1g2RlNTX29lUjZvX1gxcVFCcmtIY1JsUzRfLTlqeDhVMUQxLWJfY21UNmU2cVJFUzdFc1VvbXBoVHhfc3h4YnJYZG5JUEQ5LVJCOW5wQnZDdUhBdw?oc=5",
+    "source": "한국대학신문",
+    "published": "2025-12-05",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "경북대의 AI·디지털 교육 플랫폼 선도는 대학 교육 혁신의 중요한 모델을 제시하며, 미래 교육 경쟁력 강화를 위한 투자를 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "임태희 교육감, “‘특수교육 절벽’ 없도록 졸업 후 자립, 자활 해법 마련할 것”",
+    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBESjBFMjJqMlFMd3ZRMURxTWV5eF8xbzdsc3YxWVBFLWprT29jSGZFTTBVS1FWdTNnZmZUZ2F3aw?oc=5",
+    "source": "사회적경제뉴스",
+    "published": "2025-12-05",
+    "keyword": "에듀테크",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [
+     "특수교육"
+    ],
+    "summary": "임태희 교육감의 발언은 특수교육 대상 학생들의 졸업 후 자립 지원 강화를 통해 교육의 책무성을 확대하겠다는 의지를 보여주는 긍정적인 신호입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [],
+  "tech": []
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 기술을 교육에 적극적으로 도입하고, 미래 교육 혁신을 위한 대학들의 노력이 가속화되는 가운데, 융합적 사고와 특수 교육 지원 강화의 중요성이 부각되며 교육의 미래를 향한 변화가 빠르게 진행되고 있다."
+ }
+}

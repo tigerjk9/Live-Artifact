@@ -1,0 +1,398 @@
+{
+ "date": "2026-04-08",
+ "generated_at": "2026-11-02T11:54:43+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[Pocus 칼럼] 혁신이라 믿었던 K-교육 AI 플랫폼, 멈칫한 공교육 틈이 위험하다",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0wM2MyZTNGSjczRE9uT0Q5NkdiSHpUOHZTZU5sV2daWVpqMW9MVk9vY3o3X0xQWFVwWEF0d09vMmVORGx6X1EtZ0t6MXl3ekk?oc=5",
+    "source": "환경감시일보",
+    "published": "2026-04-07",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 2,
+    "title": "[박근필 소장 칼럼], 오늘부터 화요일 아침에 게재",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92TlZVWVMxY0tiOTVKTC1zVkFKdkhmVFBNakM5dE82WmRnYzdCM1FlMTJVWkEweGp4eG5sRHJGMlpQdWhqYldBSjRSWXF1djBTWE5mYzMySGtvQUVkUUdJ?oc=5",
+    "source": "캐어유 뉴스",
+    "published": "2026-04-07",
+    "keyword": "뇌과학",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 3,
+    "title": "[교육칼럼] 가라앉지 않은 말씨 하나가 싹을 틔울 때",
+    "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2267474",
+    "source": "대전일보",
+    "published": "2026-04-07",
+    "keyword": "",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "교단에 선 지 12년. 서툰 초임 티는 벗었다지만, 평생 헌신하신 선배님들 앞에서는 여전히 배울 것 투성이인 연차다. 분필 가루 날리던 칠판이 매끄러운 스크린으로 바뀌는 변화 속에서도 교실에는 첨단 기술로도 닿지 못하는 외로운 섬이 존재한다. 이맘때면 내 얕은 지식만으론 품어내기에 버거워 유독 시리게 남은 한 아이가 떠오른다.감정 조절이 어려워 작은 알약의",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "04화 #4[뇌과학기획] 칭찬보다 무서운 보상의 유혹",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5fdG4yMkdQWUFKN3YwVjQ5aFZiaGVMdnVZVFpONUtMSDJVZkhrUFZCTFd2QzFvUDFpYWlyNlpucENkN3M4UzROeERR?oc=5",
+    "source": "brunch.co.kr",
+    "published": "2026-04-07",
+    "keyword": "뇌과학",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 5,
+    "title": "제9대 전주교대 장지성 총장 “교원양성 넘어 평생교육까지”",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SWnZFZ1g3OFhkZjZ0alcwQ1hMOFVDVkxnVDJVTU9yQWc0cG44UXRYcEE2X0xfSDhiWGpUeHU3cGphNTVFR2VaN0Z5VTlDSjh3Q2ExQmFIcGs1UXZxc2d2dmE4WTJpa3dILTdQeEZpclHSAXBBVV95cUxPUlp2RWdYNzhYZGY2dGpXMENYTDhVQ1ZMZ1QyVU1PckFnNHBuOFF0WHBBNl9MX0g4YlhqVHh1N3BqYTU1RUdlWjdGeVU5Q0o4d0NhMUJhSHBrNVF2cXNndnZhOFkyaWt3SC03UHhGaXJR?oc=5",
+    "source": "전라일보",
+    "published": "2026-04-07",
+    "keyword": "교육혁신",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 6,
+    "title": "강미애 ‘교사 전문성’ 공약 발표… “AI·수업 혁신 함께 가야 세종교육 산다”",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3QVdIRDZSSUdaeFlBN3Z3RlcyNlExSnpaLVV1ODhZZWwyTUplSllWZ3ZGTGxVeVg0OWhsR1Z1Umk2cTd1eHlmTkRHUEJwNjlOdmg5TERZYjhlVVN4RmJrWllsT2djcnoxY2c?oc=5",
+    "source": "천지일보",
+    "published": "2026-04-07",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "세종시교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 7,
+    "title": "경기교육감 진보 단일화, 이번엔 여론조사 대상 두고 잡음",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14MUVSR3p6Z0hqVFdjZ1NCNGJnTld0ODVPb0x4Nk9BTUlBam5ESE9uSi1HTTM1SnU0XzBKZnVFeVJWMVlMRUNGcGJJU1hwUDdraXFWUW0xNHhGX21uTVhOcNIBYEFVX3lxTE14MUVSR3p6Z0hqVFdjZ1NCNGJnTld0ODVPb0x4Nk9BTUlBam5ESE9uSi1HTTM1SnU0XzBKZnVFeVJWMVlMRUNGcGJJU1hwUDdraXFWUW0xNHhGX21uTVhOcA?oc=5",
+    "source": "연합뉴스",
+    "published": "2026-04-07",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "천안교육청, 수업 혁신 시동",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nbEZDcjRkZ1pYRzlQaEp5dFhJSmFqS0ZsNWxyc2JFalBnajNBcHpEZXpyUDZpcTRVaFdXR3VtV3R5cG5FeGtLN1VJZjQxcUdyOTJ6dGNRVG5KeS1Dc3JhSWdFRHdwSnpIcVE?oc=5",
+    "source": "충청매일",
+    "published": "2026-04-07",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "“보수 교육감 하려면 빠져라”…유은혜 경선 룰 문제 제기에 3명 후보 '반박'",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CMkt2TFNPaFF5WVBoOXRNNGwwaU5uRVJHTWZod1JLZDZhQ2FJSEc4Qk9HOXRmS1N3VGdEZDVIX3RSUTBOY3VrejlpYUFjVzlCckcwMDU0eGxjVXNSZDFIQW5FSmR3VDA?oc=5",
+    "source": "교육플러스",
+    "published": "2026-04-07",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 10,
+    "title": "‘민주·진보 道교육감 단일화’ 여론조사로 또 충돌",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xSDdKRGpUelZpRjM2WEVhRzhiT3BKOFJQUzE3T3hrQWd6Yk9ieHZISnQ0aUU1VU1vUVVSaEhtOFQ0VmNLMHY3eE5iLUQwNXBOcGI0SzdsT21iaWowYWh6VHhvT0RzU0hYZk9DOG14SQ?oc=5",
+    "source": "기호일보",
+    "published": "2026-04-07",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Artificial Intelligence Applications in K-12 Education: A Systematic Literature Review",
+    "url": "https://www.semanticscholar.org/paper/f35ea3543312b4145c292a5c8521fc45872524f5",
+    "source": "semantic_scholar",
+    "published": "",
+    "keyword": "K-12 education",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 Web of Science, Scopus 데이터베이스를 활용한 체계적 문헌 고찰을 통해 K-12 교육 분야에서 AI의 적용 현황을 분석하고, 학생 성적, 교수, 선별, 행동 과제 등 다양한 영역에서 AI의 잠재력을 확인하여 향후 AI 기반 교육 시스템 구축에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Mostafa Zafari, J. Bazargani 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "A systematic review of teaching and learning machine learning in K-12 education",
+    "url": "https://www.semanticscholar.org/paper/7685f8cec8165a9a1c6d052ec61a230ad6c51991",
+    "source": "semantic_scholar",
+    "published": "2022-11-07",
+    "keyword": "K-12 education",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "본 연구는 K-12 교육에서 머신러닝 교육 및 학습 관련 논문 43편을 체계적으로 분석하여, 교육과정, 기술, 교수법 개발 및 교사 연수 측면에서 현황과 부족한 점을 파악하고 미래 연구 방향을 제시하여, 관련 분야 발전에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "I. Sanusi, S. Oyelere 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "A Systematic Review on Design Thinking Integrated Learning in K-12 Education",
+    "url": "https://www.semanticscholar.org/paper/581d2beb56eae5c8e99288c4cfa6017a82016902",
+    "source": "semantic_scholar",
+    "published": "2022-08-12",
+    "keyword": "K-12 education",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 K-12 교육에서 디자인 씽킹 통합 학습(DTIL)에 대한 SSCI 등재 논문 43편을 체계적으로 분석하여 DTIL의 교육적 잠재력을 확인하고, 효과성에 대한 제한적인 경험적 증거와 미래 연구 방향을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Tingting Li, Zehui Zhan",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "A study of the impact of project-based learning on student learning effects: a meta-analysis study",
+    "url": "https://www.semanticscholar.org/paper/62a083ea55ae0b7bcb659bba3159fada89e8945f",
+    "source": "semantic_scholar",
+    "published": "2023-07-17",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 메타분석을 통해 프로젝트 기반 학습이 전통적인 교수 모델보다 학생들의 학업 성취도, 정서적 태도, 사고 능력 향상에 긍정적인 영향을 미치며, 특히 아시아, 공학/기술 분야, 소규모 그룹, 고등학교 수준에서 9-18주간 진행될 때 효과가 더 크다는 것을 밝혀 교육 분야에 시사하는 바가 큽니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Lu Zhang, Yan Ma",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "The Physics of Gudeg: Learning the Mechanics and Thermal Properties Using Collaborative Project based Activities for the High School Physics",
+    "url": "http://arxiv.org/abs/2604.03326v1",
+    "source": "",
+    "published": "2026-04-02",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 인도네시아 전통 음식 구덱 제작 과정을 중심으로 고등학교 물리 개념(밀도, 영률, 열전도 등)을 협력적 프로젝트 기반 학습으로 연계하여 학생, 교사, 구덱 장인이 함께하는 교육 모델을 제시하고, 전통 지식 활용을 통해 교육적 효과를 증진할 수 있음을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Bayu Setiaji', 'Pramudya Wahyu Pradana' 외 4명",
+    "pdf": "http://arxiv.org/pdf/2604.03326v1"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "소크라 AI, 중고등 교육 플랫폼 출시...\"여러 AI 답변 비교하며 사고력 증진\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208892",
+    "source": "AI Times",
+    "published": "2026-04-07",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [],
+    "summary": "소크라 AI의 플랫폼은 AI 교육의 새로운 방향을 제시하며, 학생들의 비판적 사고 능력 향상에 기여할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "구글, 스마트폰에서 다운받아 쓰는 음성 인식 AI 앱 출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208878",
+    "source": "AI Times",
+    "published": "2026-04-07",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "구글의 오프라인 AI 음성 인식 앱 출시는 기기 내 AI 활용을 확대하고, 통신 환경 제약 없는 AI 서비스 제공 경쟁을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "노타, AI 반도체 기업의 ‘최적화’ 기술 수요 증가로 매출 확대",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208902",
+    "source": "AI Times",
+    "published": "2026-04-08",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "GPU·데이터센터"
+    ],
+    "summary": "노타의 매출 증가는 AI 반도체 성능 최적화 기술의 중요성이 부각되며 관련 시장이 성장하고 있음을 보여주는 긍정적인 신호입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "한국투자증권, AI 연동 알고리즘 트레이딩 오픈소스 확대",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CZmZJRDdma0VweXpmdUNBR2pZNmtJYTVnUU9Ib0VBdm5xcEUzaE9RRkNNOVdZQjlDZ21OclVJNm9XQUp0ckxmeHVMRzFDN0VSc0JnVUJFeTRXNzhp?oc=5",
+    "source": "뉴스핌",
+    "published": "2026-04-07",
+    "keyword": "알고리즘",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "오픈소스"
+    ],
+    "summary": "한국투자증권의 AI 트레이딩 오픈소스 확대는 금융 AI 기술 접근성을 높여 혁신적인 서비스 개발을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "구글 '제미나이'·오픈AI '챗GPT'... 유통 업체들이 선호하는 AI는 무엇?",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HZWo2Y2RvRVdkUzZwaUhvbGNJcnJCWlNRNTNsR1h6MVpWaWtCeGJ5Wm9VOFlzZ0N0bVl0bVZwVTh0UlZoblJja2p0dkdzMVpKVzdZRlN1cUJzS1BXdjY0SHljRHRMbGpi?oc=5",
+    "source": "녹색경제신문",
+    "published": "2026-04-07",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Gemini",
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "유통업계 AI 선호도 경쟁은 특정 모델 우위를 넘어, 산업 맞춤형 AI 솔루션 및 데이터 활용 역량 강화의 중요성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "[연구자가 알아야 할 AI 활용법] SaaS 플랫폼 개발하는 변호사가 AI 환각률 70% 낮추는 실무 커스터마이징 하는 방법",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdDBSYTFpTFhvV3pfdjZKd2VLZFlaWmVOWjZsZmNCU0lYM0s1ek1uZnYwalZseDdFalpiTG5zZnBBOWtobWk1YU0ycTVxVDY3ZlhJT3l4NUs4OUY0ckpKY2dCNm5fTXB1SFB3SDBDSHh3MndCS0drV2tDX1VuSmVBT2NkX2NwdGpCTHJuMlF6Uzk2UjhZTVYwZDJmR2NMTG9ROVYyODVSTXFoYlk0U0d5S20yTUs3QnEweklTbjF0WXlYbk0wOHc?oc=5",
+    "source": "BRIC",
+    "published": "2026-04-07",
+    "keyword": "활용법",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [],
+    "summary": "법률 분야 SaaS 플랫폼 개발 사례는 AI 환각 문제 해결을 위한 실무 맞춤형 접근 방식이 특정 산업의 AI 활용도를 높이는 데 중요함을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "AI 공정성, 알고리즘 아닌 데이터 신뢰 점수 프레임워크가 결정한다",
+    "url": "https://www.itworld.co.kr/article/4154104/ai-%ea%b3%b5%ec%a0%95%ec%84%b1-%ec%95%8c%ea%b3%a0%eb%a6%ac%ec%a6%98-%ec%95%84%eb%8b%8c-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ec%8b%a0%eb%a2%b0-%ec%a0%90%ec%88%98-%ed%94%84%eb%a0%88%ec%9e%84%ec%9b%8c%ed%81%ac.html",
+    "source": "ITWorld 코리아",
+    "published": "2026-04-03",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 공정성 확보를 위해서는 알고리즘 자체보다 데이터 신뢰도 평가 프레임워크 구축이 더욱 중요하며, 이는 데이터 중심의 AI 거버넌스 확립에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "AI 코딩, GPT-5.1·오푸스 4.5 이전과 이후로 나뉜다…하루 1만줄도 거뜬",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92UHQ4Y05yTlI1SVg1N2lEeDZtd2NheGp5X3pxOFV2RmNXbFVwWk9NMzdIYzlIZmVDNEVJNW5Na2gtU0t6WWZIMWg0RVNhd193SU9tc0UzOGQxR0tCME9uTDIyRVA2Sm96OWdjNHNabGdoS2M?oc=5",
+    "source": "디지털투데이",
+    "published": "2026-04-07",
+    "keyword": "GPT",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "코딩 AI",
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.1과 오푸스 4.5는 AI 코딩 생산성을 획기적으로 향상시켜 개발 패러다임 전환을 가속화하고, 개발 인력 구조 변화를 초래할 수 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "오픈AI '사람 중심' AI 산업 정책 프레임워크 전격 공개",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zYndmYmEtN3J5cXphUWtuNlBiNTllMXAyMUFfZnNFYmIwVnNUenRPVlA5bzZmU215aGl3dmduWHVScWFsTFpNUVJzNm44Q0hxQ1Q5MURPVnJROG9NVHpqZTZFNmtPamw5TVlKVzNrWk1xM00?oc=5",
+    "source": "디지털투데이",
+    "published": "2026-04-07",
+    "keyword": "오픈AI",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "오픈AI의 사람 중심 AI 정책 프레임워크는 AI 발전 방향에 대한 사회적 논의를 촉발하고, 책임감 있는 AI 생태계 조성의 중요한 이정표가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "서울대, 올인원 옴니모달 모델 ‘다이닌-옴니’ 개발...\"기존 모델 대비 우수\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208903",
+    "source": "AI Times",
+    "published": "2026-04-08",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "다이닌-옴니는 멀티모달 AI 기술의 발전과 함께, 다양한 산업 분야에서 더욱 효율적인 AI 솔루션 개발을 가속화할 가능성을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "tech": "AI 기술이 교육, 금융, 유통 등 다양한 산업 분야에 적용되고 있으며, 성능 향상, 활용성 증대, 공정성 확보를 위한 연구 및 정책 개발이 활발하게 이루어지면서 AI 생태계가 더욱 확장되고 고도화되고 있다."
+ }
+}

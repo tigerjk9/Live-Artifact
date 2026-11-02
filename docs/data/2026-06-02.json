@@ -1,0 +1,436 @@
+{
+ "date": "2026-06-02",
+ "generated_at": "2026-11-02T11:37:32+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[수업이야기 연속기획] ⑦ 학교-마을교사가 '개념 기반 탐구학습'을 만들어 가는 여정",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11djFtazU4OV91MUU4dTJ5Wm9yYW0wd0N3eGpyM3ZVdzRSRHlTNm8wb3B4cmxyaEg0TElJWFl3M292UTMtQVBNOFFHNlNxSkxKMzBnTHBxQlp1dDB6WW5HZTBZN2p4aHB1WFlmMEc0ONIBb0FVX3lxTE11djFtazU4OV91MUU4dTJ5Wm9yYW0wd0N3eGpyM3ZVdzRSRHlTNm8wb3B4cmxyaEg0TElJWFl3M292UTMtQVBNOFFHNlNxSkxKMzBnTHBxQlp1dDB6WW5HZTBZN2p4aHB1WFlmMEc0OA?oc=5",
+    "source": "교육언론[창]",
+    "published": "2026-06-01",
+    "keyword": "수업이야기",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 2,
+    "title": "도성훈 후보, 검단신도시 학부모들과 교육정책 간담회",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBRYTRva1FlTFJwdEdIOXI3aVZncm9BQWxtdXcyMDVtVVZJcHpmajJ2VWZocHQzNGJNU1dVZWU1bUV1cER5MXNoME9yMHh4LTdOSV81R1dDVVAwNUVBTTRRWnlodVdScGvSAWtBVV95cUxNODJMQnA2WmNab05jcFdpVXF5aTkybVVDZEd0RlplWkYzb1dTTDZJN3ZjaHhzUnFoa2V4eUFfTEZHY1RhTElkWlNwUXluY2NKd1VwQVpfbXJSN2FUM2pfQzE0Q2Z2d3Z3ZWpnRQ?oc=5",
+    "source": "서울매일",
+    "published": "2026-06-01",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 3,
+    "title": "안민석 \"평균값 내기 어려운 경기북부…맞춤형 교육정책 시행할 것\"",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWjJJV3dJYnhPbllNSnBDMnRnUUc3dENiWENiQVI0VDhjZWcxZnJtWG5QWVhSdUZ2STN5Q3RBTW5JWjZ0R2k1WTlkS3Z6cUc0eVZJZzN3cS1sblhGUjV6MThaaHRzNUtBUExMRFV2enJHX2pVLW9xUlQ2SGoxN1M4bA?oc=5",
+    "source": "이데일리",
+    "published": "2026-06-01",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 4,
+    "title": "전남교육청, 'AI시대 질문수업'... 교원 200명 참여 콘서트 성황",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTczJOa1lETXRMcURMeUdVd2tRNF9ZeGxTMlVacl9aYkhqcnBTRHFFRzYwRWJlSkR4V01fTF9tRm9TUVVoeEVPZFhBRzlpYjFfOHJYcWlGMnBsVVo5c2RmN3NVM000djhqMHZfcGt2aEw1WG_SAXNBVV95cUxQU3MyTmtZRE10THFETHlHVXdrUTRfWXhsUzJVWnJfWmJIanJwU0RxRUc2MEViZUpEeFdNX0xfbUZvU1FVaHhFT2RYQUc5aWIxXzhyWHFpRjJwbFVaOXNkZjdzVTNNNHY4ajB2X3BrdmhMNVhv?oc=5",
+    "source": "뉴스워커",
+    "published": "2026-06-01",
+    "keyword": "AI디지털도구",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "전남교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 5,
+    "title": "“첨단 교수학습 정보 한번에 제공” KIRD, 미래형 교수학습 아카이브 전면 개편",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0UTZpM3VZbVAtdmU5UzAzaDRfS0w2TUtUN3dicGdzMW9kSDdreGduMk9zX2F1YzdiUXU0dkdtbFdnbC11UmFzdm8wTHZueWNGOWRaX3VqOA?oc=5",
+    "source": "헤럴드경제",
+    "published": "2026-06-01",
+    "keyword": "AI디지털도구",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 6,
+    "title": "충북교육청, 학교로 찾아가는 다채움 활용 연수",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fbDFEa1BFeUs3dW5WTzFwN2ROcVIxYXcxWkJFMzl3ZzI0d044dlIwLWtDak5fTno0OUNVRnVWTG81bV9EQTFFV2YzeHNRYWdjU2tkSHQ4TmhrYnBMZDNxN0tZNUhYNFhpck10cWdxR0JQZEXSAXNBVV95cUxNX2wxRGtQRXlLN3VuVk8xcDdkTnFSMWF3MVpCRTM5d2cyNHdOOHZSMC1rQ2pOX056NDlDVUZ1VkxvNW1fREExRVdmM3hzUWFnY1NrZEh0OE5oa2JwTGQzcTdLWTVIWDRYaXJNdHFncUdCUGRF?oc=5",
+    "source": "대전일보",
+    "published": "2026-06-01",
+    "keyword": "에듀테크",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "충북교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 7,
+    "title": "전남교육청, 동·서부권 ESG 문제해결 AI캠프 본격 운영",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1TNXQ1ZWdkS3puNnVOOW1Kb1JQeDhDLTRWU2dNM3FkVldnTm5PaEFielZMSi1KdlhDYVF5UzBzck9TYkNUVDVEenBWN3FGRjJfUDY0cWprcVBXd1ZkSlVRaHozN3JBc0stVm5YZw?oc=5",
+    "source": "호남교육신문",
+    "published": "2026-06-01",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "전남교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "'전환' 안민석 VS '완성' 임태희…경기교육감 격돌",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5va3d1SzI3blhWcmFscnZlMllldUVGak1sbDZGUjhJdDZCcnQtR0ZpMWlrNnIzYlZIbTJDUVMwWFgyZUpucTRadGxVcjlvdExrNXVF?oc=5",
+    "source": "네이트",
+    "published": "2026-06-01",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "경기도교육청미디어교육센터, 디지털 역량 강화 직무연수 운영",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jZF85OVZzS2lFYzdLZlNsR3ZKNGRGMGJMUGFUQW9EWG9oaHBMVGpGdTNYSll5YmxRVjNqcW03UVQ2eFg2RXNPUXNaTE96eEcxXzNXclE1S2loRS01OU13YWhhTjBsRmxGc1hXRmhONm41SjFPdDhLNGVB?oc=5",
+    "source": "로이슈",
+    "published": "2026-06-01",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 10,
+    "title": "서일대 평생교육원 '중랑아카데미 50플러스' 강좌.. 생성형 AI로 축제 콘텐츠/게임 제작",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UQThzemFKSmlHWGxsbVgxOVFjUGdSS003Z2tEeV9hTUpPbUhGQ0VET3hvUkhyaHYwcTJxSkR4U0w0NVlBRUJ5b2JzU2s1bVJLa0dnQlR6MFkyVUx1RWFDNHRyNHNYRV9rMzRiWg?oc=5",
+    "source": "베리타스알파",
+    "published": "2026-06-01",
+    "keyword": "생성형AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Virtual Tutors and AI-Powered Instructional Tools in K-12 Settings",
+    "url": "http://doi.org/10.4018/979-8-3373-2637-5",
+    "source": "eric",
+    "published": "2026-01-01",
+    "keyword": "K-12 AI",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "AI 튜터",
+     "개인화 학습"
+    ],
+    "summary": "The integration of virtual tutors and AI-powered instructional tools in K-12 education transforms the classroom experience by offering personalized, adaptive learning. As schools adopt digital technol...",
+    "implication": "",
+    "ai": false,
+    "authors": "Stamatios Papadakis, Editor",
+    "pdf": "http://doi.org/10.4018/979-8-3373-2637-5"
+   },
+   {
+    "n": 2,
+    "title": "AI Literacy in K-12: A Systematic Literature Review",
+    "url": "http://dx.doi.org/10.1186/s40594-023-00418-7",
+    "source": "eric",
+    "published": "2023-01-01",
+    "keyword": "K-12 AI",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [
+     "AI 리터러시"
+    ],
+    "summary": "The successful irruption of AI-based technology in our daily lives has led to a growing educational, social, and political interest in training citizens in AI. Education systems now need to train stud...",
+    "implication": "",
+    "ai": false,
+    "authors": "Casal-Otero, Lorena 외 4명",
+    "pdf": "http://dx.doi.org/10.1186/s40594-023-00418-7"
+   },
+   {
+    "n": 3,
+    "title": "Evaluating the Integration of Artificial Intelligence (AI) in K-12 Education",
+    "url": "https://www.learntechlib.org/p/224682/",
+    "source": "eric",
+    "published": "2024-01-01",
+    "keyword": "K-12 AI",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "This study explored K-12 teachers' perceptions of using artif icial intelligence (AI) in the classroom, aiming to understand their preparedness for professional development focused on AI integration. ...",
+    "implication": "",
+    "ai": false,
+    "authors": "Aslihan Unal, Zafer Unal",
+    "pdf": "https://www.learntechlib.org/p/224682/"
+   },
+   {
+    "n": 4,
+    "title": "Factors that Predict Quality Classroom Technology Use",
+    "url": "http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&res_dat=xri:pqdiss&rft_dat=xri:pqdiss:3393088",
+    "source": "eric",
+    "published": "2009-01-01",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [],
+    "summary": "Despite technological advancements intended to enhance teaching and learning in the 21st century, numerous teacher and school factors continue to impede quality classroom technology use. Determining t...",
+    "implication": "",
+    "ai": false,
+    "authors": "Hastings, Tricia A.",
+    "pdf": "http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&res_dat=xri:pqdiss&rft_dat=xri:pqdiss:3393088"
+   },
+   {
+    "n": 5,
+    "title": "Upgrade Your Teaching: Understanding by Design Meets Neuroscience",
+    "url": "https://shop.ascd.org/Default.aspx?TabID=55&ProductId=224301756&Upgrade-Your-Teaching:-Understanding-by-Design-Meets-Neuroscience",
+    "source": "eric",
+    "published": "2019-01-01",
+    "keyword": "",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [],
+    "summary": "How can educators leverage neuroscience research about how the human brain learns? How can we use this information to improve curriculum, instruction, and assessment so our students achieve deep learn...",
+    "implication": "",
+    "ai": false,
+    "authors": "McTighe, Jay 외 2명",
+    "pdf": "https://shop.ascd.org/Default.aspx?TabID=55&ProductId=224301756&Upgrade-Your-Teaching:-Understanding-by-Design-Meets-Neuroscience"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "'클로드 오퍼스 4.8' 딥SWE 벤치마크에 첫 등장...1위는 여전히 'GPT-5.5'",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211211",
+    "source": "AI Times",
+    "published": "2026-06-01",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Claude",
+     "벤치마크",
+     "ChatGPT",
+     "Anthropic",
+     "코딩 AI"
+    ],
+    "summary": "앤트로픽의 최신 모델 '클로드 오퍼스 4.8'이 새로운 코딩 벤치마크에 처음 포함됐지만, 'GPT-5.5'를 제치지는 못했다.스타트업 데이터커브는 30일(현지시간) AI 코딩 평가 시스템 ‘딥SWE(DeepSWE)’의 업데이트를 통해 클로드 오퍼스 4.8을 포함했다.이에 따르면, 클로드 오퍼스 4.8은 58%의 정답률을 기록, 이전 버전인 '클로드 오퍼스",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "오픈AI GPT-5.5·GPT-5.4, AWS 아마존 베드록 출시…기업용 생성형 AI 도입 가속",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBEbnFSUWhySHYxWjNBZ0t6c3R3Rkh6YWNDa01EZ290cUstR3g2NVI0ZnFZTHhlTFMtTXBnUVZ1VWhIRkVxd2Q5cy1JNkpsQ1NBVmsxNjB1c0t5S2V2MzZ4Qlc5aw?oc=5",
+    "source": "더테크",
+    "published": "2026-06-02",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT",
+     "Amazon",
+     "생성형 AI"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 3,
+    "title": "\"LLM 비용 90% 줄인다\"…넷플릭스 엔지니어가 개발한 '토큰 다이어트' 도구 화제",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211214",
+    "source": "AI Times",
+    "published": "2026-06-01",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "LLM",
+     "오픈소스"
+    ],
+    "summary": "넷플릭스의 한 엔지니어가 개발한 오픈소스 프로젝트가 AI 운영 비용을 획기적으로 줄이는 해법으로 주목받고 있다.30일(현지시간) 더 레지스터에 따르면, 넷플릭스 수석 엔지니어인 테자스 초프라는 최근 오픈소스 서밋(Open Source Summit)에서 자신이 개발한 오픈소스 프로젝트 ‘헤드룸(Headroom)’을 소개했다.그는 이 도구가 사용자들에게 지금까",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "엔비디아, 윈도우용 DGX 스테이션 공개…”1조 매개변수 모델 로컬로 실행”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211219",
+    "source": "AI Times",
+    "published": "2026-06-01",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "Microsoft",
+     "에이전트"
+    ],
+    "summary": "엔비디아가 세계 최고 성능 데스크사이드 AI 슈퍼컴퓨터 ‘윈도우용 엔비디아 DGX 스테이션(DGX Station for Windows)’을 공개했다. 엔비디아는 1일 열린 ‘엔비디아 GTC 타이베이’에서 마이크로소프트(MS)와의 협력으로 개발된 윈도우용 DGX 스테이션이 전용 에이전트 인프라 역할을 수행한다고 발표했다.최대 1조 매개변수 규모의 AI 모델을",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "아마존, 직원들의 '토큰 맥싱' 경쟁 막기 위해 AI 순위표 폐지",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211198",
+    "source": "AI Times",
+    "published": "2026-06-01",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Amazon"
+    ],
+    "summary": "아마존이 직원들의 AI 사용량을 경쟁적으로 비교하던 내부 순위표를 폐지했다. 일부 직원들이 순위를 올리기 위해 불필요한 AI 작업을 대량 생성하면서 컴퓨팅 비용이 급증했기 때문이다.29일(현지시간) 파이낸셜타임스에 따르면, 아마존은 최근 직원들에게 AI 개발 플랫폼 '키로(Kiro)' 사용 현황을 집계하던 내부 서비스 '키로랭크(KiroRank)'를 중단했",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "SKT, 'GTC'서 엔비디아 옴니버스 기반 디지털 트윈 선보여",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211217",
+    "source": "AI Times",
+    "published": "2026-06-01",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "SK",
+     "NVIDIA",
+     "GPU·데이터센터"
+    ],
+    "summary": "SK텔레콤(대표 정재헌)은 엔비디아 '옴니버스(Omniverse)'를 활용해 SK하이닉스 반도체 팹에 디지털 트윈을 적용, 복잡한 대규모 제조 환경에 최적화했다고 1일 밝혔다.SKT는 1일(현지시간) 대만에서 열린 'GTC 타이베이(GTC Taipei)' 기조연설에서 제조 피지컬 AI 분야 엔비디아 주요 협력 파트너로 소개됐다. 대표 사례로 엔비디아 옴니버",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "엔비디아, 피지컬 AI 위한 대규모 오픈소스 에이전트 도구·스킬 모음 공개",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PVFozaXRqTXVpcHNrQkJxcURYc2w0RG5nbE5SeHRoMUR1WjRQdnNNNFdwMzZqRlVqeE5oa0pFYjlDZEZnRlN6YXVpaEljdWJqWl9OWUxETTVseE5IaDBZT1liN0Nfdmc?oc=5",
+    "source": "인공지능신문",
+    "published": "2026-06-01",
+    "keyword": "AI도구",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "오픈소스",
+     "에이전트"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "Warp’s big bet on building open source with GPT-5.5",
+    "url": "https://openai.com/index/warp",
+    "source": "OpenAI Blog",
+    "published": "2026-05-27",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "오픈소스",
+     "ChatGPT",
+     "OpenAI",
+     "코딩 AI",
+     "에이전트"
+    ],
+    "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "\"GPT-5.5 넘었다?\" 중국 미니맥스 M3가 공개한 오픈소스의 반전",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tOUw3c2E5a29TNjd3LXNLNUlnNmM2eTBIME9vcUxpQjNkQlFUVGx3VkxjZDR4VWtWM1NTRnd2eDZXTkJUZUdkTmMzeGEzdGNncWZpdTNMTmQ3eUdSRHQwSVFtNzRhTjVLa0xGVGpLTUM?oc=5",
+    "source": "디지털포커스",
+    "published": "2026-06-01",
+    "keyword": "GPT",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "오픈소스"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 10,
+    "title": "플로리다주, ChatGPT가 아동을 위험에 빠뜨렸다며 OpenAI를 상대로 소송 제기.",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMVpCMXdfNkNqUVNkUER4R3h4US1iOFdQTXM5dmxmYTdmQjBIcUlGTzhQcjZFVXd0STlwd1pUb1FORlo2czBIZWRNYjJ5Z3l1VzRUeDh0em5VUFJPS09DOFVGVGxrdmhqb0RmQ2xtVzJuVWRGN19sM2hRR1JMZEFKbzdzMGI0SDFpaWJLREhERm0?oc=5",
+    "source": "Vietnam.vn",
+    "published": "2026-06-02",
+    "keyword": "오픈AI",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "OpenAI",
+     "저작권·소송"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

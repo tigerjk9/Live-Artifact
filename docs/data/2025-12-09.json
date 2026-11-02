@@ -1,0 +1,411 @@
+{
+ "date": "2025-12-09",
+ "generated_at": "2026-11-02T11:48:54+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[정재석 칼럼] '23시간 수업·아동학대 피소’의 나라… \"초등 3권을 회복하자”",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=21510",
+    "source": "에듀프레스",
+    "published": "2025-12-08",
+    "keyword": "",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "초등 교사의 전문성 강화와 함께 과도한 업무 부담 경감을 통해 교육의 질을 높여야 할 필요성이 제기됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[사설] “韓학생들 사교육 탓에 AI역량 약해진다”는 OECD의 경고",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9HUS1kdmNvRDFxUUhjb0RTOUpmMGR1TGN5NzJWdGJDR2VBZ0lVdEtVRWdsY0ZQbnJRX0UxUkFjNXp5TDQ1ODlTUkdWUllEUW5XVk9BZ2R30gFXQVVfeXFMTnFLemZuOG1CeVR4VEtDcExQRXJMVjY5d1ZTS1lvOWl0eE5kTTlPd0tuWkJMRTNDSW1xeGJoUjgxMjBSajVuSWNRSGVoQzNGNVd6WnUtb0xn?oc=5",
+    "source": "서울경제",
+    "published": "2025-12-08",
+    "keyword": "AI교육",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [
+     "사교육"
+    ],
+    "summary": "과도한 사교육 의존은 학생들의 자기 주도적 학습 능력과 창의적 문제 해결 역량을 저해하여 미래 사회에 필요한 AI 역량 강화에 걸림돌이 될 수 있다는 점을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[김학일 칼럼] 학교폭력, 예방만이 답이다",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=21500",
+    "source": "에듀프레스",
+    "published": "2025-12-08",
+    "keyword": "",
+    "topic": "student_care",
+    "kind": "opinion",
+    "entities": [
+     "학교폭력"
+    ],
+    "summary": "학교폭력 피해 학생들에게 학교가 지옥이 되지 않도록, 예방 중심의 적극적인 개입과 공감 능력 향상 교육이 시급합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "타이밍랩, 심리·뇌과학 접목한 ‘현대적 사주 해석’ 모델 제시한다",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DeExvTUpMT3dXd2ZpLUsxbDBMRlIxNXM2SG8zOUZkN1hlWWR4T3ltUm9JRHJzdTY5eWxqYXpmYnE4SWpXaWZYLXJNUURGeDJTM3FQQkVOYmdZdVBKZVBQVmhZRlAwVlFrYVJJMg?oc=5",
+    "source": "한국미디어뉴스통신",
+    "published": "2025-12-08",
+    "keyword": "뇌과학",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "심리 및 뇌과학 기반 사주 해석 모델은 학생 이해를 위한 새로운 도구로서 활용 가능성을 제시하며, 교육 방식 개인화에 대한 시사점을 던져줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "충북교육청, 교사와 AI가 함께 이끄는 수업혁신",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wZkU2b2NfZzdrZ3VEXzhMMVpPXzQ0Mk15V2xaVm9sQ2EzNkdQaVRkRTkyZkk0OXdkMk1uNzNoS2NLc21KdHNZeS1zR0E0MmNPUG1hSXB5aFg3RnE1bXZ4Z3NtdXFtcHhOeDRFUw?oc=5",
+    "source": "중도일보",
+    "published": "2025-12-08",
+    "keyword": "에듀테크",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "충북교육청"
+    ],
+    "summary": "교사와 AI 협력 수업은 교사의 역할 변화와 AI 활용 역량 강화를 통해 미래 교육 혁신을 가속화할 수 있는 중요한 시도입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "경기도교육청 ‘경기미래교육 국제포럼’ 개막",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tTUswR1l5blI4aWRLdWJtdjNrdjBHMVgwR205bUNCV1B6TnNZNnZKeVhBYkJRQ1ZCZWQ2UnhJa3RlcWs1d2syakVuNzhsd3VEcXhxRmUtclB1U0ZmWkpBOHlWbXBocnRfandfWGZ30gFuQVVfeXFMTy1NSzBHWXluUjhpZEt1Ym12M2t2MEcxWDBHbTltQ0JXUHpOc1k2dkp5WEFiQlFDVkJlZDZSeElrdGVxazV3azJqRW43OGx3dURxeHFGZS1yUHVTRmZaSkE4eVZtcGhydF9qd19YZnc?oc=5",
+    "source": "천지일보",
+    "published": "2025-12-08",
+    "keyword": "AI디지털도구",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기미래교육 국제포럼은 미래 교육 방향 설정을 위한 국제적 논의의 장을 마련, 교육 정책 수립 및 현장 적용에 긍정적 영향을 줄 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "장신호 서울교대 총장, 전국교원양성대총장협의회 회장 선출",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=21504",
+    "source": "에듀프레스",
+    "published": "2025-12-08",
+    "keyword": "",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "장신호 총장의 협의회장 선출은 교원 양성 기관 간 협력 강화와 초등교육 발전을 위한 정책 공조에 긍정적 영향을 미칠 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "경기도교육청, 싱가포르 벤 렁 교수와 함께 AI 시대 교육 혁신 방향 모색",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Qd0g4aUFldTh0dkpuNi1SU0RIaDc4OEtlaVZHTW1vVXVfOThoamJBZVg4czBENTV0RTRnbjhSbDZ4QnVDX2tURWkwRF9WLXhRTE4zemZfZXliZU1VOS1LdF9RamMzNFRLSlE4dtIBb0FVX3lxTE9nVHpQU3VraDU2RTZrMFNhSTFWMzZydWdVMnFGMkxDeUdhb0x2VHdSSFVFcnJwNndob01oSWpaMWttclg1OV9JTXZPNGRLQkpxN0luNzJHRnBncmZyaG1xcmhWQTlmMzQ0T0QtQkZPMA?oc=5",
+    "source": "한스경제",
+    "published": "2025-12-08",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청의 이번 행보는 AI 시대에 발맞춰 교육 혁신을 위한 선제적 노력을 보여주는 것으로, 교사 역량 강화 및 교육 과정 재설계에 시사하는 바가 큽니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "인천시교육청 ‘읽걷쓰’ 세계화...콜롬비아 교육부 장관과 협력",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GMGE3YXBnLU5sLXpESS1XXzZ1X2lkRHlRaVZUa044RUtfQk9tSTI3c3JvNVpOMXMyU0JpZEZsZ0VwTnVPbVVhazRrNUFwVHppV04yd2QtR3FnMG5saEF4YURGOWQ4Y1Jt?oc=5",
+    "source": "전국매일신문",
+    "published": "2025-12-08",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청",
+     "교육부"
+    ],
+    "summary": "인천시교육청의 '읽걷쓰' 교육 모델 세계화는 한국 교육의 국제적 위상을 높이고, 교육 콘텐츠 수출 가능성을 보여주는 긍정적인 사례입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "서울시교육청, '서울형 작은학교' 내년 확대···중학교 첫 포함",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBQ05vbTZCNmxlQUdvSTFWQTNiV1FaZUtiYnRnNFBJUUU0SlhpM1l4ZUxiNnJCSzB3TVVNaWRMUUlqXzhySkZQR3AyRkVKdUlIVEhB?oc=5",
+    "source": "네이트",
+    "published": "2025-12-08",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "서울시교육청"
+    ],
+    "summary": "서울형 작은학교 확대는 학교 선택권 다양화와 교육 공동체 활성화에 기여할 수 있지만, 중학교 적용에 따른 학력 격차 및 자원 배분 문제를 신중히 고려해야 합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Educational Game Design Based on Experiential Learning Theory",
+    "url": "https://www.semanticscholar.org/paper/a85fb77c70de9bb1c63d61c6b9c29be4f3a3747c",
+    "source": "semantic_scholar",
+    "published": "2021-03-27",
+    "keyword": "",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 경험 학습 모델 기반 교육 게임 설계 원리를 분석하고, 소개-시연-조작-검증 모듈을 제안하여 실제 교육 게임 설계 및 개발 과목에 적용한 결과 학습 동기 부여 및 문제 해결 능력 향상에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Yatao Li",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "When Scaffolding Breaks: Investigating Student Interaction with LLM-Based Writing Support in Real-Time K-12 EFL Classrooms",
+    "url": "http://arxiv.org/abs/2512.05506v1",
+    "source": "",
+    "published": "2025-12-05",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [
+     "LLM"
+    ],
+    "summary": "본 논문은 한국 중학교 영어 수업에서 LLM 기반 글쓰기 지원 도구를 활용한 결과, 문법 정확도는 향상되었으나 학습 동기 저하 및 교실 내 상호작용 문제점을 발견하고, 실시간 교육 환경에 적합한 LLM 설계 방향을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Junho Myung', 'Hyunseung Lim' 외 7명",
+    "pdf": "http://arxiv.org/pdf/2512.05506v1"
+   },
+   {
+    "n": 3,
+    "title": "Interdisciplinary Integration of Computational Thinking in K-12 Education: A Systematic Review",
+    "url": "https://www.semanticscholar.org/paper/39d39fd4048c709c8af9ffe7e130bb7f55d19b3d",
+    "source": "semantic_scholar",
+    "published": "2023-09-04",
+    "keyword": "K-12 education",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 K-12 교육에서 컴퓨팅 사고(CT)가 과학, 수학 중심으로 주로 대체 수준으로 통합되고 있으며, 평가가 기술 태도에 치중되어 있음을 체계적 문헌 고찰을 통해 밝히고, 효과적인 CT 통합을 위한 교육 전략 및 정책 수립에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Sabiha Yeni, Nataša Grgurina 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "Using Augmented Reality in K-12 Education: An Indicative Platform for Teaching Physics",
+    "url": "https://www.semanticscholar.org/paper/33952204e2baf99dd5d4320e6734a3a537405488",
+    "source": "semantic_scholar",
+    "published": "2022-07-12",
+    "keyword": "K-12 education",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 초등 및 중등학교 물리 교육을 위한 증강 현실(AR) 기반 플랫폼을 개발하고, 교사와 학생들의 사용성 평가와 긍정적인 반응을 통해 AR 기술이 학습 경험 향상 및 교육 현장 적용 가능성을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "C. Volioti, E. Keramopoulos 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "Learning with technology during emergencies: A systematic review of K-12 education",
+    "url": "https://www.semanticscholar.org/paper/f6371a95cdf1799d2eaf9330a9d0cfe4136afd29",
+    "source": "semantic_scholar",
+    "published": "2021-05-23",
+    "keyword": "K-12 education",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 2010년부터 2020년까지의 K-12 긴급 원격 교육(ERE) 관련 연구를 체계적으로 분석하여 기술 활용 전략, 기술 유형, 그리고 교육 현장 및 정책에 대한 시사점을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "H. Crompton, D. Burke 외 1명",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "AI 설문조사 도구 ‘앤트로픽 인터뷰어’ 공개...1250명 인터뷰 결과 발표",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204608",
+    "source": "AI Times",
+    "published": "2025-12-08",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": "interview",
+    "entities": [
+     "Anthropic"
+    ],
+    "summary": "앤트로픽 인터뷰어는 AI 기반 설문조사 도구로서, 대규모 데이터 분석을 통해 AI 영향력 연구를 가속화하고 관련 산업 발전에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "24세 스탠포드 중퇴자가 최고 AI연구진·수학자 영입한 비결은 '초지능'",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204612",
+    "source": "AI Times",
+    "published": "2025-12-08",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "젊은 창업가의 비전 제시와 빅테크 구조조정이 맞물려 AI 인재 이동을 가속화하며, 특정 분야에 특화된 AI 스타트업의 성장 가능성을 보여주는 사례입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[AI넷] [12월 4일 AI뉴스 모음] DeepSeek의 새로운 모델, GPT-5, Gemini-3 Pro와 경쟁 런웨이, 4.5 릴리스로 비디오 리더보드 1위 차지 Pomelli로 브랜드 마케팅 캠페인을 만들어보자. 구글 진전 이후 OpenAI의 '코드 레드' Amazon, re:Invent에서 AI 에이전트, 모델, 칩 공",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBNcV84Ym42bW9kVTJRazRxZFBXSFdKZ1liWDJoUzloUEhSbzJCSVVEdlBYbXFLWGpkN1VDNE9XUjQ?oc=5",
+    "source": "AI넷",
+    "published": "2025-12-08",
+    "keyword": "Anthropic",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "DeepSeek",
+     "ChatGPT",
+     "Gemini",
+     "Google",
+     "OpenAI",
+     "Amazon",
+     "에이전트"
+    ],
+    "summary": "AI 모델 경쟁 심화와 더불어 기업들의 AI 에이전트, 모델, 칩 개발 투자가 가속화되며 AI 기술 주도권 확보 경쟁이 더욱 치열해질 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "﻿[게시판] 크라우드웍스, 천안 스마트 도시 AI 교육사업 선정​ 등 단신",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204620",
+    "source": "AI Times",
+    "published": "2025-12-08",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [],
+    "summary": "크라우드웍스의 천안 스마트 도시 AI 교육사업 선정은 지역 AI 인재 양성과 솔루션 적용을 통해 스마트 도시 구축에 기여할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "스토리닥터 “감정·논리·철학 동시 사고하는 하이브리드 AI 개발”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204614",
+    "source": "AI Times",
+    "published": "2025-12-08",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "스토리닥터의 하이브리드 AI 개발은 감성, 논리, 철학 융합을 통해 AI의 인간적 공감 능력과 복잡한 문제 해결 능력을 동시에 향상시키는 중요한 진전입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "슈퍼브에이아이 “AI 학습 데이터 선별 기술 한·미·일 특허 등록”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204603",
+    "source": "AI Times",
+    "published": "2025-12-08",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [],
+    "summary": "슈퍼브에이아이의 데이터 선별 및 경량화 기술 특허는 AI 개발 효율성을 높여 산업 전반의 혁신을 가속화할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "'AI 대모' 페이페이 리 \"AI 관련 주장 너무 극단적...종말 아니면 유토피아\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204594",
+    "source": "AI Times",
+    "published": "2025-12-08",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 담론의 양극화된 과장 경쟁은 기술의 잠재력을 흐리고, 건전한 AI 발전 및 규제 논의를 저해할 수 있다는 점을 지적한 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "“GPT-5.1의 적응형 추론도 이 원리”...MIT, ‘문제 난이도에 따라 스스로 계산량 조절하는 LLM 추론 기술’ 개발",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tMWhQZ0dHU3lpQ2pqZE5zYVdURWx3eExMa0czeEoyUzEzM19VWWt4TzZhT1pzU2NpV3l4UXRPbVFxU0haSFRORmRObFB3Ylh5X0paOXdQQ2M4VUpreHdidng5RVFoT00?oc=5",
+    "source": "인공지능신문",
+    "published": "2025-12-08",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "LLM"
+    ],
+    "summary": "LLM 추론 효율성 향상은 AI 모델 운영 비용 절감 및 다양한 분야 적용 확대를 가속화할 핵심 기술입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "신한은행, 금융권 최초 OpenAI GPT 기반 수출서류 심사 서비스 시행",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoS05IVzdjbU5zUTFuSDV6QXJ5S1AweFBsa1J1N0hialhxTXhPSzRxMi1VamVwUFdpUkJaUUtZX1hJMDVLeG5qOGFnV3M2RTZ4TlNIc2t0Uk1Sb2lzeGtRS19IUE1sMzVnZUpDU2Z3Q0s?oc=5",
+    "source": "Korea IT Times",
+    "published": "2025-12-09",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "신한은행의 GPT 기반 수출 심사 서비스는 금융권 AI 도입을 가속화하고 업무 효율성을 높이는 중요한 이정표입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "동원산업, '동원GPT' 도입…디자인·생산·물류에 AI 솔루션 전면 적용",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZWmxYWS1iV0JSdTlwa29XQXMzS1UwY3lwRHMxQUJWUTg1alBoRFVYRE80cUluZnBvVHVwZ1lqYVViRkp6SWlGUEZ1OURGalc0WVhxbdIBVEFVX3lxTE5ZWmxYWS1iV0JSdTlwa29XQXMzS1UwY3lwRHMxQUJWUTg1alBoRFVYRE80cUluZnBvVHVwZ1lqYVViRkp6SWlGUEZ1OURGalc0WVhxbQ?oc=5",
+    "source": "hankyung.com",
+    "published": "2025-12-08",
+    "keyword": "GPT",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [],
+    "summary": "동원산업의 동원GPT 도입은 식품 산업 전반에 AI 혁신을 가속화하고, 데이터 기반 의사결정 경쟁력을 강화하는 중요한 사례가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 시대에 발맞춰 교육 혁신, 교사의 역할 재정립, 학생 역량 강화, 학교폭력 예방, 국제 협력 확대 등 다각적인 노력을 통해 미래 교육을 위한 긍정적인 변화가 가속화되고 있습니다.",
+  "tech": "AI 기술이 다양한 분야에 적용되고 있으며, 기업들은 자체적인 AI 솔루션 개발 및 도입에 박차를 가하며, AI 성능 향상 및 윤리적 측면에 대한 논의도 활발히 진행되는 등 AI 생태계가 전방위적으로 확장 및 고도화되고 있다."
+ }
+}

@@ -1,0 +1,429 @@
+{
+ "date": "2026-10-08",
+ "generated_at": "2026-11-02T11:44:35+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "부산 초중고에 생성형 AI 보급…사회정서교육 3배로 늘려",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMnhkY1lXWnJFUmYwNi1Ua3pWcEpJQWxzdFNkWlNvY3VkazZpZmJlbHBvRXkwVWVWbERxSE5pRGl0OEN4V2lSd3Uxd3J2WjhBemY5ZWhYNjRDVGNRLU9tUXNuNUJWal9ZazVqWlJfeVNJR01ZRVF6VnFPcGhJaExyX19CLUtZZkNXa05Ud0tR?oc=5",
+    "source": "국제신문",
+    "published": "2026-10-07",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "부산 지역 초중고에 생성형 AI 보급과 함께 사회정서교육이 기존 대비 3배 확대됩니다.",
+    "implication": "생성형 AI를 활용하여 학생 맞춤형 사회정서 교육 콘텐츠를 손쉽게 개발할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "경기도 안민석 교육감, 교육격차 해소·AI교육·사교육비 대책 제시",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mME9GRjNyMmd2cHFWazFNVjlHLTNLSENleGZjSWlQZ1YxTDF2Njd5d18ycm5fc3NjSmNfaHMyRzJwdWVDRW91TG1KUzF1bzdmcmpFLUhRQjd0MlFhd1ZxeQ?oc=5",
+    "source": "메트로신문",
+    "published": "2026-10-07",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "사교육"
+    ],
+    "summary": "경기도 안민석 교육감이 교육격차 해소, AI 교육, 사교육비 대책을 제시했습니다.",
+    "implication": "AI 교육 정책에 맞춰 수업 시간에 AI 도구를 활용한 새로운 학습 활동을 계획할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "【인터뷰】안민석 경기도교육감, “교육 중심은 사람”...학교 현장 바꾸는 공교육 대전환",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxVW9ZZ1daci01aTdna3EyUmZkd1hySk8xR203aEM0aWhqdTdlTWs2dHhXUTZudkZTR2V4SlBZQTZaRXF0NnBRZ2tfWTN5NlJudkN1WGRYZnZWWF91VGxfcE0tZGItVkhYblHSAW5BVV95cUxQRUdoOVQzeEVzaE1ld3A3bmdDTEJRZzRkckRrZFJsbnZ0V0pKWW9KcFZoX2wxaGtBZnlfWnprZVZoX25HVnZ1OTJMREtZWFFfMlpoVEQ1aGI2Tkx0N0R0YXd2SGgySkNkaXByU0RMdw?oc=5",
+    "source": "파이낸스뉴스 I 파이낸스뉴스TV",
+    "published": "2026-10-07",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": "interview",
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "안민석 경기도교육감은 인터뷰에서 '사람 중심 교육' 철학을 바탕으로 학교 현장을 바꾸는 공교육 대전환을 추진한다고 밝혔다.",
+    "implication": "교육의 중심이 사람이라는 점을 바탕으로, 개별 학생들의 성장을 돕는 수업을 기획할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "유네스코·코드마오 협력·에듀테크 인다바 1500명 집결…아프리카 AI 교육 현장이 증명한 것",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9xY2p2V1Qwb0Fvdjdpb2N3eF8ySXZfVXN6MXQ2SGxESmNWY1FWeTNKcWNlOC1DNkhnN2NWbzJadWdWaDg?oc=5",
+    "source": "한국공공정책신문",
+    "published": "2026-10-07",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "유네스코"
+    ],
+    "summary": "유네스코와 코드마오의 협력으로 아프리카 에듀테크 인다바에 1500명이 모여 AI 교육 현장의 성과를 입증했습니다.",
+    "implication": "AI 교육이 아프리카 현장에서 성과를 증명했으니, 우리 수업에도 AI 도구를 활용하여 학습 효과를 높일 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "최순자 의원, 포천시 교육정책 주요사업 점검",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uV194NS01ZmtyY1QteEhOOUlQZEhzZHlEaU5yMjljcC1ydTRDZjVfdkZocE9kQjNpWHI1TjBNRm1uMnQtWEhoUy1jbmk5LWFtRVJray0wWmRka0JvYUR6MWdrMjFNZmdWNm5OdtIBbEFVX3lxTE1uV194NS01ZmtyY1QteEhOOUlQZEhzZHlEaU5yMjljcC1ydTRDZjVfdkZocE9kQjNpWHI1TjBNRm1uMnQtWEhoUy1jbmk5LWFtRVJray0wWmRka0JvYUR6MWdrMjFNZmdWNm5Odg?oc=5",
+    "source": "광교신문",
+    "published": "2026-10-07",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "최순자 의원이 포천시의 주요 교육정책 사업들을 점검했습니다.",
+    "implication": "학생들이 지역 교육 정책 점검에 대해 토론하며 지역사회와 학교 교육의 연관성을 이해하는 기회로 삼을 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "안민석 \"교사 지지 없인 교육정책 실패\"…교사 300명과 '마라톤 토론'",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVZVNLbUFDUkVKbjYzRFM2VEJPOGNWVkR4bUxxVHBzVGRUUlBYUVdqVDZsMXZlVmhTQmxBT0doZkxRSTRRbWxjMjZRcGlxcThEWXVnOW1n?oc=5",
+    "source": "뉴스1",
+    "published": "2026-10-07",
+    "keyword": "교육정책",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [],
+    "summary": "안민석은 교사 지지 없이는 교육정책이 실패한다고 강조하며 300명의 교사들과 마라톤 토론을 진행했습니다.",
+    "implication": "교육 정책 성공에 교사 지지가 필수임을 확인하고, 교실 수업 개선 및 학생 지도에 대한 주체적인 아이디어를 적극적으로 모색할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "부산교육청, 10월 교육정책 아카데미‘이주배경학생’에 방점",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1mU3J2cVdlOXc4WkJyWVpiT1hqQ1pFS1RidzRoTGJMRWxRSFU0cU1ENnMyOVNETGNWU0VfajhSeGlpd1VFUlhBZmRB?oc=5",
+    "source": "미디어투데이",
+    "published": "2026-10-07",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "부산시교육청",
+     "다문화"
+    ],
+    "summary": "부산교육청이 10월 교육정책 아카데미에서 이주배경학생 교육을 중점적으로 다룰 예정입니다.",
+    "implication": "수업에서 이주배경학생의 문화적 다양성을 존중하는 활동이나 자료를 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "도성훈 인천광역시교육감, 교육정책 간담회에서 인천 지역 더불어민주당 국회의원과 교육재정 안정화 위해 머리 맞대",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42MVBLZEpPc1lNS3BoeFFOVlo2ekRZZXQ4WlNfOFZxOHBtX0tmdXc1bFljYXhLWEI3ZnB1LVE1Tl80VS02UnBBd2s0ZXh3WjczX3dkbEJpRUtxSlpUSHlaSk9NVVJiVm0wVzBR?oc=5",
+    "source": "일간투데이",
+    "published": "2026-10-07",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청",
+     "국회"
+    ],
+    "summary": "도성훈 인천 교육감과 지역 민주당 국회의원이 교육재정 안정화를 위해 정책 간담회를 열었다.",
+    "implication": "교육재정 안정화 논의로 학교 교육 여건 개선에 대한 기대감을 가질 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "“우리 학교는 우리가 바꾼다” 진천 학생들 교육정책 제안",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uOEFyWjUzRVZMN2FDa2NjcUtMOUxGRGFEVmFtYXNieFlzSlhjZmlxd1FFbnhtcTFqVnVBTDN5cDZCMkdpNFR0amhFQzFaeFVqMHExVGFUVWhaZ0NZX2hocC1iWXdKUXZoU1HSAW5BVV95cUxPNmxoTkNsenl1M3l1TEYyWFBobTVXQ2NOWWZqU3J6ZFVFdWFiTDdXNl9obUdwRVdUVUpZRnRwOHM0MHl0QzhvekEzenZkeTJfQ0ZQZ19kNmVOa1NoTDRFTjhtdmRFQXBKdVdsRmRvdw?oc=5",
+    "source": "중부매일",
+    "published": "2026-10-07",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "진천 학생들이 자신들의 학교를 바꾸기 위한 교육정책을 직접 제안했습니다.",
+    "implication": "학생들이 학교의 주체로서 교육정책을 직접 제안하는 활동을 수업에 도입할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "충북도의회 교육위원회, 사립학교 현장 목소리 청취",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GVmF5M2V2TDlnNkV4Y2FHaDhldDl2V2pzOXkyYWNuVXd4ODc0RFQxYWFNRUZlU1JtblU0djlUOG5oQnJ5WDV6V21ub1ZBRUVUZXV3MXNjYXMxVWlXN0JhMDBOd3RldWhtVGhr?oc=5",
+    "source": "서울뉴스통신",
+    "published": "2026-10-07",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "국회"
+    ],
+    "summary": "충북도의회 교육위원회가 사립학교 현장을 방문하여 교육 관계자들의 의견을 청취했습니다.",
+    "implication": "현장의 목소리가 반영되어 수업에 필요한 교육 자원이나 정책적 지원을 기대할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Empowering Education with Generative Artificial Intelligence Tools: Approach with an Instructional Design Matrix",
+    "url": "https://www.semanticscholar.org/paper/2eeff0f534d303581bc1199671600fbd04a2d01c",
+    "source": "semantic_scholar",
+    "published": "2023-07-25",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "이 연구는 4PADAFE 교수설계 매트릭스를 결합한 생성형 AI 도구가 설문으로 MOOC 및 맞춤형 대학 교육을 강화하여 21세기 학습에 효과적임을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Lena Ivannova Ruiz-Rojas, Patricia Acosta-Vargas 외 1명",
+    "pdf": "https://www.mdpi.com/2071-1050/15/15/11524/pdf?version=1690354809"
+   },
+   {
+    "n": 2,
+    "title": "Empirical Study on Generative Artificial Intelligence-Driven Project-Based Learning in Health Big Data Course Education",
+    "url": "https://www.semanticscholar.org/paper/8c401ce9dfd233a49d5baf463d9fc52e5a58ca4b",
+    "source": "semantic_scholar",
+    "published": "2025-09-19",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "개인화 학습"
+    ],
+    "summary": "본 연구는 생성형 AI 기반 프로젝트 학습 시스템이 보건 빅데이터 교육에서 학생 참여도, 비판적 사고, 분석 역량, 문제 해결 능력을 크게 향상시키고 교사 업무를 감소시켜 효과적인 맞춤형 교육 환경을 제공할 수 있음을 입증합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Wan-Jing Li",
+    "pdf": "https://dl.acm.org/doi/pdf/10.1145/3775073.3775133"
+   },
+   {
+    "n": 3,
+    "title": "A Smart ICT-based E-Learning Model Using Artificial Intelligence Tools",
+    "url": "https://doi.org/10.21275/sr261004194028",
+    "source": "openalex",
+    "published": "2026-10-05",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "AI 튜터",
+     "개인화 학습"
+    ],
+    "summary": "이 논문은 인공지능 도구를 활용한 스마트 ICT 기반 이러닝 모델을 제안하여 고등 교육에서 지능형 튜터링, 개인화된 학습, 자동 평가를 통해 유연하고 효율적인 교육 경험을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Lt Imam Hussain Mirji",
+    "pdf": "https://www.ijsr.net/archive/v15i10/SR261004194028.pdf"
+   },
+   {
+    "n": 4,
+    "title": "A systematic review of artificial intelligence in mathematics education: The emergence of 4IR",
+    "url": "https://www.semanticscholar.org/paper/50e8628d661b0ff7302e58d4ff1c456ef61ca147",
+    "source": "semantic_scholar",
+    "published": "2024-07-01",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "개인화 학습"
+    ],
+    "summary": "2015-2023년 문헌을 체계적으로 검토하여 수학 교육 내 AI 활용 양상과 주요 도구(ChatGPT)를 분석하고, AI가 맞춤형 학습과 격차 해소로 4차 산업혁명 시대 교육을 혁신할 잠재력을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "O. Opesemowo, H. Adewuyi",
+    "pdf": "https://www.ejmste.com/download/a-systematic-review-of-artificial-intelligence-in-mathematics-education-the-emergence-of-4ir-14762.pdf"
+   },
+   {
+    "n": 5,
+    "title": "Can flipped classroom pedagogy offer promising perspectives for mathematics education on pandemic-related issues? A systematic literature review",
+    "url": "https://www.semanticscholar.org/paper/5b9c8209a32806f8447711f33e48c5b8c92db67a",
+    "source": "semantic_scholar",
+    "published": "2022-06-28",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "본 체계적 문헌 연구는 97개 논문을 분석하여 팬데믹 시대 수학 교육에서 플립드 러닝의 기회와 한계를 제시하며, 위기 상황에 대비한 교육 혁신에 중요한 통찰을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Mustafa Cevikbas, G. Kaiser",
+    "pdf": "https://link.springer.com/content/pdf/10.1007/s11858-022-01388-w.pdf"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "\"결정 피로 줄인다\"…오픈AI, 코덱스 2일차 업데이트로 ‘오토리뷰’ 전면 무료화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216032",
+    "source": "AI Times",
+    "published": "2026-10-07",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "오픈AI의 오토리뷰 무료화는 AI 기반 개발 도구의 대중화를 이끌어 소프트웨어 개발 생산성 혁신을 가속화하는 중요한 전환점이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[AI리더의 서가] Agentic AI 구축 개발의 모든 것",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215958",
+    "source": "AI Times",
+    "published": "2026-10-08",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "Agentic AI는 자율적 문제 해결 능력을 기반으로 AI 기술 생태계의 패러다임을 근본적으로 변화시킬 핵심 동력이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "스튜어트 러셀의 경고 \"LLM 정렬 불가능…모방 학습과 RLHF 한계\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216033",
+    "source": "AI Times",
+    "published": "2026-10-07",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "LLM",
+     "AI 안전·규제"
+    ],
+    "summary": "스튜어트 러셀의 경고는 LLM 정렬의 근본적 한계를 지적하며, AI 기술의 안전성 확보를 위한 패러다임 전환을 시급히 요구할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "앤트로픽, API 비용 최대 90% 낮춘 '클로드 하이쿠 5.5' 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216044",
+    "source": "AI Times",
+    "published": "2026-10-08",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude"
+    ],
+    "summary": "앤트로픽의 파격적인 API 비용 인하는 AI 기술의 광범위한 접근성을 높여 산업 전반의 AI 도입과 혁신을 가속화하며 시장 경쟁을 심화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "Chatham scales its capital markets expertise with OpenAI",
+    "url": "https://openai.com/index/chatham-financial",
+    "source": "OpenAI Blog",
+    "published": "2026-10-02",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "AI가 특정 산업의 복잡한 전문성을 스케일업하는 핵심 동력으로 작용하며, 기업용 AI 시장 확대를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "\"AI가 대신 전화 건다\"…구글 제미나이, 개인 통화 대행 정황 포착",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216041",
+    "source": "AI Times",
+    "published": "2026-10-07",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Gemini",
+     "에이전트"
+    ],
+    "summary": "AI의 개인 통화 대행은 AI가 단순 도구를 넘어 복잡한 일상 업무를 자율적으로 수행하는 능동적 에이전트로 진화함을 의미합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "구글, AI 데이터센터 전력 확보 위해 3.6GW 규모 원전 계약 체결",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216038",
+    "source": "AI Times",
+    "published": "2026-10-07",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Google",
+     "GPU·데이터센터"
+    ],
+    "summary": "AI 기술 성장의 최대 걸림돌이 전력 수급 문제임을 보여주며, 안정적 에너지 확보가 AI 산업의 핵심 경쟁 요소로 부상할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "구글, 온디바이스 ‘임베딩젬마 2’ 공개…텍스트·이미지·음성 통합 처리",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216031",
+    "source": "AI Times",
+    "published": "2026-10-07",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Google",
+     "온디바이스 AI",
+     "Gemini",
+     "개인화 학습"
+    ],
+    "summary": "구글의 온디바이스 멀티모달 AI 출시는 엣지 디바이스에서 실시간 개인화 AI 서비스 구현을 가속화하며 새로운 산업 생태계를 열 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "앤트로픽, 구글 워크스페이스 연동...문서 안에서 '클로드' 직접 호출",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216040",
+    "source": "AI Times",
+    "published": "2026-10-07",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Google",
+     "Claude"
+    ],
+    "summary": "구글 워크스페이스에 앤트로픽 클로드가 연동되면서 AI 모델들은 특정 플랫폼을 넘어 생산성 도구에 깊숙이 침투하며 다중 AI 모델 경쟁을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "How Albertsons Companies is reimagining retail from the inside out",
+    "url": "https://openai.com/index/albertsons-reimagining-retail",
+    "source": "OpenAI Blog",
+    "published": "2026-10-01",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [],
+    "summary": "Albertsons의 내부 주도 소매 혁신은 AI 기술을 통한 전사적 운영 및 의사결정 고도화 솔루션 시장을 확장할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

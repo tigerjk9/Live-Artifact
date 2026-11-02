@@ -1,0 +1,420 @@
+{
+ "date": "2026-01-21",
+ "generated_at": "2026-11-02T11:51:01+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "천호성, ‘칼럼 표절’ 깔끔 사과... “뼈를 깎는 성찰로 투명한 교육자 될 것”",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=21662",
+    "source": "에듀프레스",
+    "published": "2026-01-20",
+    "keyword": "",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "교육자의 표절은 윤리적 문제뿐 아니라 학생들의 연구 윤리 및 학문적 정직성 함양에 부정적 영향을 미칠 수 있다는 점에서 깊은 성찰과 개선 노력이 필요합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[교육칼럼] 6·3 교육감 선거, '이념' 대신 '교육'을 선택하자",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=21657",
+    "source": "에듀프레스",
+    "published": "2026-01-20",
+    "keyword": "",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [
+     "교육감 선거"
+    ],
+    "summary": "교육감 선거가 이념 대결로 변질되지 않고, 오직 학생 중심의 교육 발전이라는 본질에 집중해야 교육 현장의 혼란을 막고 미래 교육을 위한 올바른 선택을 할 수 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[조수현 AI전문가 칼럼] (2) AI는 공부를 대체하지 않는다, 공부의 기준을 바꾼다",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxcVh3VW8tWmN3Qm9yQ1dITU5lLU9VOE1xX0FyR2Z5WW5YMDc0ZVFvcEpsa19NUUpPdEFfWE82TEFNLUc0dFk5RFg1TkFlVUNnWmlvcHFJUTVUUU1zbmdla3NXOWxFNS1sXzd4RA?oc=5",
+    "source": "파이낸스투데이",
+    "published": "2026-01-20",
+    "keyword": "AI교육",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "AI 시대에는 학습의 목표를 지식 습득에서 문제 해결 및 창의적 사고 능력 함양으로 전환해야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[조학규 칼럼] AGI 시대 공교육 도약을 위한 교사의 능동적 혁신 전략",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90Mmc4Mm5Yb1FWaHI4UzFWY1ZYNG9BWGF2X1h1OWR4Y05fMWQ3anlxYVdQaUZ0N1FhcVRpMVlwWjdJbHZXal8wTXFLbGsxZVl0LW1mVUtOQVpIbE91UDBmalZtTVJJbWg3?oc=5",
+    "source": "에듀프레스",
+    "published": "2026-01-20",
+    "keyword": "AI디지털교육",
+    "topic": "teacher",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "AGI 시대에 공교육의 도약을 위해서는 교사 스스로가 능동적으로 혁신 전략을 수립하고 실행하는 주체가 되어야 함을 강조합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[교육칼럼] 아이들의 말을 살려내기",
+    "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2252151",
+    "source": "대전일보",
+    "published": "2026-01-20",
+    "keyword": "",
+    "topic": "teacher",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "교사의 의외성 있는 시도가 학생들의 내면적 동기를 유발하고 의미 있는 소통을 이끌어낼 수 있음을 보여주는 사례입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "박보검 \"달릴 때 잡념 사라져\"…우울증·ADHD도 극복하게 만드는 달리기의 뇌과학 [다큐프라임]",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hWjl0MS1qeThRbExUOUFsTkhLRjNneHZxT29fWk90SlRpSGltS21RQ1B4R3dCb3hiYndYSmxxc25ib0QtMGRWQkJXWkIwQ3dxVUhN?oc=5",
+    "source": "네이트",
+    "published": "2026-01-20",
+    "keyword": "뇌과학",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [
+     "마음건강"
+    ],
+    "summary": "달리기가 뇌 기능 개선에 미치는 긍정적 영향은 학교 스포츠 활동 활성화를 통해 학생들의 정신 건강 및 학습 능력 향상에 기여할 수 있음을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "예술 감상과 뇌과학의 만남, ‘미술관에 가면 뇌는 어떻게 쉬는가’",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XS1hoM3hwOEZqSnRfRTFfMGxuQlZOdm8zbng4NTNEVVpucElSdkx6aXFfWDJ2bmxGQTVBQmdhZVVxXzdYS0JnMzBpUlBLdlE?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-01-20",
+    "keyword": "뇌과학",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "미술 감상을 통한 뇌 휴식 효과는 학교 교육에서 예술 활동의 중요성을 재조명하고 창의적 사고력 함양에 기여할 수 있음을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "박보검, EBS 다큐프라임서 전하는 러닝의 뇌과학",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPRUo4YjVuTHZWQkxBUzdzbU51X0JOSkRVYzdZYkQzWXkxYTloSGY5SEc0S1VYVHBqS1Q0QkFDQ1MwVzl5X1ZiNXVZN3hTT3NOWVdpT1luYTdvWUtyVzloUHBNRkVNSmcxdkYzc2Zsd0NBQQ?oc=5",
+    "source": "톱스타뉴스",
+    "published": "2026-01-20",
+    "keyword": "뇌과학",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "EBS"
+    ],
+    "summary": "박보검 씨의 다큐멘터리 참여는 러닝의 뇌과학적 효과를 대중적으로 알리고, 신체 활동을 통한 학습 동기 부여에 긍정적인 영향을 줄 수 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "뇌과학이 밝혀낸 '귀차니즘'과 '번아웃 증후군' 실체",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lNmdROXllMjIxc3hKak90a2drbVhmZ0E1b2FkM3R2UHU3V3VJMXFjQnRiUUdXOHN2TE82dXNUTWF5MDQ4U3JCYnF5TVJKcjU0S1Ytakc1SExweTlPMTlJM3NEYmNiSXhOaGVVVlZ6eENOQW5Ub09F0gF3QVVfeXFMT2U2Z1E5eWUyMjFzeEpqT3RrZ2ttWGZnQTVvYWQzdHZQdTdXdUkxcWNCdGJRR1c4c3ZMTzZ1c1RNYXkwNDhTckJicXlNUkpyNTRLVi1qRzVITHB5OU8xOUkzc0RiY2JJeE5oZVVWVnp4Q05BblRvT0U?oc=5",
+    "source": "여성경제신문",
+    "published": "2026-01-20",
+    "keyword": "뇌과학",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "뇌과학 기반 귀차니즘 및 번아웃 연구는 학생들의 학습 동기 저하와 교사의 소진 예방을 위한 맞춤형 교육 전략 수립의 필요성을 강조합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "'아침마당' 장동선 \"'나는 왜그럴까' 답하는 뇌과학⋯심리학과 맞닿아있어\"",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lMmFpU3pzVVVUYWh3Z2ttZGFMUWJEZW5saVZkZ2Z0STEycHZ6Q2N3d0c1eXFMMmYxZVBRcnRUS2JBWkdPMWlTdGpyTTBHdDg?oc=5",
+    "source": "조이뉴스24",
+    "published": "2026-01-20",
+    "keyword": "뇌과학",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "뇌과학과 심리학의 융합적 이해는 학생들의 행동 원인 파악 및 맞춤형 교육 전략 수립에 중요한 시사점을 제공합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Designing Online Learning Environment: ICT Tools and Teaching Strategies",
+    "url": "https://www.semanticscholar.org/paper/f45178ac2959120a44b248f227387d732af8923c",
+    "source": "semantic_scholar",
+    "published": "2021-11-03",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "러시아 대학의 고등 교육 과정에서 ICT 및 e-러닝 도구 활용 실태를 조사하여, 교육 관리, 의사소통, 평가, 팀 프로젝트 운영 등 다양한 측면에서 온라인 학습 환경 설계에 기여하고, 학생들의 언어 및 전문성 개발에 활용됨을 밝힙니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "N. Samoylenko, L. Zharko 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "General relativity in upper secondary school: Design and evaluation of an online learning environment using the model of educational reconstruction",
+    "url": "https://www.semanticscholar.org/paper/388cf68b573654c6647db4b17cc46bd397569722",
+    "source": "semantic_scholar",
+    "published": "2018-05-25",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "노르웨이 고등학교 학생들을 대상으로 일반 상대성 이론에 대한 온라인 학습 환경을 교육적 재구성 모델 기반으로 설계 및 평가한 결과, 적절한 학습 자료와 교사 및 동료와의 상호작용 지원을 통해 학생들이 일반 상대성 이론에 대한 질적 이해를 얻을 수 있음을 밝혀냈으며, 이는 추후 관련 교육 자료 개발에 기여할 수 있음을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Magdalena Kersting, E. K. Henriksen 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Impact of blended learning on learning outcomes in the public healthcare education course: a review of flipped classroom with team-based learning",
+    "url": "https://www.semanticscholar.org/paper/570e58b2969d09a4b9e6984d863c60973b56edf6",
+    "source": "semantic_scholar",
+    "published": "2021-01-28",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "플립러닝과 팀 기반 학습을 결합한 블렌디드 러닝은 전통적 강의 방식에 비해 간호대생의 공중보건학 지식, 문제 해결 능력, 학습 만족도를 향상시켜 간호 교육의 효과적인 대안이 될 수 있음을 입증합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Hee-Young Kang, H. Kim",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "Fostering students' AI literacy development through educational games: AI knowledge, affective and cognitive engagement",
+    "url": "https://www.semanticscholar.org/paper/9bd78fe9f831c65f9852fedfa15120a32c585beb",
+    "source": "semantic_scholar",
+    "published": "2024-05-16",
+    "keyword": "educational AI",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [
+     "AI 리터러시"
+    ],
+    "summary": "온라인 게임 플랫폼 TreasureIsland를 활용한 게임화 학습이 학생들의 AI 지식, 흥미, 자기 효능감 및 윤리적 이해를 향상시키지만, AI 활용 및 창작 능력 향상에는 한계가 있어 향후 플립러닝, 프로젝트 기반 학습 등 추가적인 교육 요소가 필요함을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "D. Ng, Chen Xinyu 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "The Influence of Affective Feedback Adaptive Learning System on Learning Engagement and Self-Directed Learning",
+    "url": "https://www.semanticscholar.org/paper/567219f90cae6ad3ffa1fe8e24b24c74e75a05a2",
+    "source": "semantic_scholar",
+    "published": "2022-04-27",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "본 논문은 적응형 피드백 감성 컴퓨팅 기술을 활용한 학습 시스템이 학습자의 감정 신호를 이해하고 학습 몰입도와 자기 주도 학습 능력을 향상시켜, 온라인 교육 환경에서 긍정적인 학습 효과를 가져올 수 있음을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Hsin-Lan Liu, Tao-Hua Wang 외 1명",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "경기연구원, 보행안전 위한 AI기술 활용법 제시",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Md0NranNFWGNyS25RWkNWZHNxcG5UdGM4T3Q3Q3J3bjUxOTh1Y01BaHI0ZlFBbDYwWjRXemkxYzBQcVdHaklBYUl6X2E2RDdCWFpZTW00cFFBMHk5WHF0VWpkLUZDMGdHQjJLZzBBNA?oc=5",
+    "source": "기호일보",
+    "published": "2026-01-20",
+    "keyword": "AI기술",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 기술을 활용한 보행 안전 증진 연구는 스마트 시티 구축 및 관련 산업 성장에 긍정적 영향을 미칠 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "OpenAI rolls out age prediction to apply teen safeguards in ChatGPT",
+    "url": "https://the-decoder.com/openai-rolls-out-age-prediction-to-apply-teen-safeguards-in-chatgpt/",
+    "source": "The Decoder",
+    "published": "2026-01-20",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "OpenAI의 연령 예측 기술 도입은 10대 사용자 보호를 강화하는 동시에, AI 서비스의 책임성과 규제 준수 노력을 가속화하는 중요한 발걸음입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "코난테크놀로지, 에이전틱 AI 강화한 ‘코난 LLM’ 신규 모델 공개",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHMmViYUo0c0U5aGRNZkxLcTI2LWJZTWFPZDBkNnBYOGxHbnlYVTUyQzlBWVhGR1pXYklBYm5tb2N2UnhhMUVDYlBneldCNnpnSlJvVTk4SFdkMlN0RDVDMC1EVENnaWtS?oc=5",
+    "source": "테크월드뉴스",
+    "published": "2026-01-21",
+    "keyword": "인공지능",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "LLM"
+    ],
+    "summary": "코난테크놀로지의 에이전틱 AI 강화는 LLM 활용의 새로운 가능성을 제시하며, 산업 전반의 AI 적용 확대를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "한국교통대-청주성신학교, 특수교육 AI 에듀테크 협력 본격화",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9wVFRLNmJUaXBHazBlbUZDTFcxQ2JMeXNva0t3anNOa3BxUmlLR2htNThOR2RxX1NGQzEtc2hwM3N5T3BIN1BlLUZQVGtCX3BOVU9xZHJqOW9uNmQxS1M0X1Z3?oc=5",
+    "source": "inews365.com",
+    "published": "2026-01-20",
+    "keyword": "교육AI",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "특수교육",
+     "개인화 학습"
+    ],
+    "summary": "특수교육 분야 AI 에듀테크 협력은 교육 격차 해소와 맞춤형 학습 지원을 통해 관련 시장 성장 가능성을 보여주는 중요한 발걸음입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "\"엔비디아, AI 학습 위해 불법 복제물 의도적 접근...경영진 승인 받아\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205754",
+    "source": "AI Times",
+    "published": "2026-01-20",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "저작권·소송"
+    ],
+    "summary": "엔비디아의 저작권 침해 의혹은 AI 학습 데이터 확보 경쟁 심화와 함께 데이터 윤리 및 법적 책임에 대한 논쟁을 더욱 가열시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "[딥시크 충격 1년, 중국 AI 씬의 뜨거운 내부 이야기] DeepSeek가 ChatGPT나 미국 주요 대화봇과 맞먹는 성능의 저비용 생성형 AI 모델을 공개하면서, 미국의 AI 우위라는 통설이 깨진 것",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9ySXlQMFJqZzdlbWFDRVNfNkdVRVNXdUdSZGdtMFBTU0dlMEFPYi04ZjFGaTVmRHlIRDZrQnRHLTY?oc=5",
+    "source": "AI넷",
+    "published": "2026-01-20",
+    "keyword": "생성AI",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "DeepSeek",
+     "ChatGPT",
+     "생성형 AI"
+    ],
+    "summary": "DeepSeek의 저비용 고성능 AI 모델 출시는 AI 기술 경쟁 심화와 글로벌 AI 생태계 재편을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "Deepmind and Anthropic CEOs expect AI to hit entry-level jobs and internships in 2026",
+    "url": "https://the-decoder.com/deepmind-and-anthropic-ceos-expect-ai-to-hit-entry-level-jobs-and-internships-in-2026/",
+    "source": "The Decoder",
+    "published": "2026-01-20",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Anthropic"
+    ],
+    "summary": "AI 최고 경영자들의 발언은 AI가 지식 노동 시장, 특히 초급 직무와 인턴십에 빠르게 침투하여 인력 구조 재편을 가속화할 것임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "애플·구글 AI 계약, 50억 달러 규모…챗GPT 통합은 실패할 것",
+    "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxQN2lzUVM4RUE1R2g1dUM5ajRETWJ2cGhWa0tYSHQ2a3N2cUliampfR3lPaE9Sb2RLcjRLTnBSTkFvUDg2aWhzVkFuRlVkVHRnNTN4azVqWWlkUFp3eDVfa0FLMGtkOTljejZRTE9fc1BrQWdKbWhRajNVclBxV3VtRVNzVjliM2xmN2FPbVZzYUxnWFpEcEd1NkZRTFZuWFBmRTBOVjdnNnRVY1drWUl2b052eW9UYnhpTnpUWGt4dFJhYWM4NDhJc1dQYnQxc3k1TWZ2dE0tUWVVVTdkMFJwUWQteGFRX2hpckxHZFIxR3dQUGxKd241TVZRaEx4NkRPdUxCTEpPclhpN2RwRExvUElMX0xzdnF6bmZvZjFza2FVMGNrNWRZUTFFRl9JeENnMHlaakU2OG5UcHhVNUxjc2haSXV6M21Pejg4azJ6TzY5RXdxMzY2TTEwc0dpb3R6NXNFWXZLdDdzU1d1YjZxZkxPRThhT0U2MXBXMjkxejhHZEp2a3hPRk1OdjJ5UVBZZkM4SlVrVU4xcXhkOVpyejNveUFtWS1JR3RRSzlfUk8tRmNPRFFTcEduT0RmSDNXWENLVzBFQ0VIUVFpXzVoZHN5LTVERkRPdWlnVkJpdTJ4VUtzeDRfb2ItOEhyYWliaUEyeVJJN2dIWkk?oc=5",
+    "source": "MSN",
+    "published": "2026-01-20",
+    "keyword": "GPT",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Apple",
+     "Google",
+     "ChatGPT"
+    ],
+    "summary": "애플과 구글의 AI 계약은 검색 광고 수익 증대에는 기여하겠지만, 폐쇄적인 양사 생태계로 인해 AI 기술 혁신과 개방성에는 한계가 있을 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "구글, '제미나이' API 호출 2배로 증가...B2B에서도 약진하나",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02NDJXVU9sN2Q5aW0ybGtrdzJ3dmRzRkJUT0hydmhZWWo0ZE9wNjNYVXN1ZnYtNXZDZVkzUlh0Tm5tUFBUQWdjNmhZR2l2MjVOejFEMGw4bkNEYTFfaVpsYVFwYjVFRE1VU2c?oc=5",
+    "source": "AI타임스",
+    "published": "2026-01-20",
+    "keyword": "구글",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Gemini"
+    ],
+    "summary": "구글 제미나이 API 호출 증가는 B2B 시장에서 AI 플랫폼 경쟁 심화를 예고하며, 기업 맞춤형 AI 솔루션 중요성이 더욱 부각될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "AI 감성 로봇 시스템, 학교현장엥 적용 활용법 시연회 실시",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RdE8weE9abmhrelY2a2xVVi10S1FLXzgwYW5WWTc1Z2J3UWcwNXJTaXhBbkpnZmV5aXpUR0RCaTI3ZTlEWWI1SjZZT0RNR2dPcDEzZUt0emVEWnhucGt3?oc=5",
+    "source": "한국교육신문",
+    "published": "2026-01-20",
+    "keyword": "활용법",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "로봇·휴머노이드",
+     "개인화 학습"
+    ],
+    "summary": "AI 감성 로봇의 교육 현장 도입은 맞춤형 학습과 정서적 지원 가능성을 제시하며, 에듀테크 산업 성장과 교사의 역할 변화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 시대에 발맞춰 교육 혁신 전략이 모색되는 가운데, 뇌과학 연구를 통해 학생들의 심리적 안정과 학습 능력 향상을 돕고, 교사의 능동적인 변화를 촉구하며, 교육의 본질에 더욱 집중하려는 긍정적인 움직임이 나타나고 있다 🚀.",
+  "tech": "AI 기술이 안전, 교육, 기업 경쟁력 강화 등 다양한 분야로 확장되고 있으며, 글로벌 경쟁 심화 속에서 더욱 고도화된 AI 모델 개발과 활용이 가속화될 전망입니다."
+ }
+}

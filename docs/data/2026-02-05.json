@@ -1,0 +1,430 @@
+{
+ "date": "2026-02-05",
+ "generated_at": "2026-11-02T11:51:43+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[아주사설 | 기본·원칙·상식]AI교육 공약의 홍수 속에서, 'AI 리터러시 선수'를 가려내야 한다",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TTjQtendlanBseXM3enUtSlYzMDh0WDJDZUZGODd3ZE5KRnBFb19fUDl4dnpfVXFFSU5Id011emVJRy1tdHRWbXVNNS1sZEhadHlv?oc=5",
+    "source": "네이트",
+    "published": "2026-02-04",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [
+     "AI 리터러시"
+    ],
+    "summary": "AI 교육 공약들이 난무하는 상황에서, 교육계는 AI 리터러시 역량을 갖춘 인재를 선별하고 육성할 수 있는 평가 기준 마련에 집중해야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[칼럼] 인공지능·디지털 전환, ‘도입’이 아니라 ‘체계’가 성패를 가른다",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5TUkNTZ1duNmg4dWI2VzhPdDdCRDZPVHkxSlB5YTgtcmV0VWJEcGxZM3JUMDIydTM0eEV6V2RkcDRxeTUzZmJB?oc=5",
+    "source": "정필",
+    "published": "2026-02-04",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "인공지능·디지털 전환의 성공적 교육 도입을 위해서는 단순 적용을 넘어 교육 체계 전반의 재구성이 필수적입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "LG AI대학원, 다음달 '국가공인 AI' 교육기관으로 개교",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qUE93c1lRQUZ5NW5FUkFuVS1MMURrZy00aWxGRDNSUUc3dk1pLW1YX1gwNjlmWlBJMHVNbkFLSG9NdHE2Q1cxNHFRTDBJbXFlVUlsR3lsc3QwZHJuZzlyYkI3bW1IME9sY0tGVjRKbDlaZw?oc=5",
+    "source": "오피니언뉴스",
+    "published": "2026-02-04",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "LG",
+     "사교육"
+    ],
+    "summary": "LG AI대학원의 국가공인 AI 교육기관 개교는 AI 인재 양성 경쟁 심화와 함께 대학 교육 혁신의 필요성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "AI 시대, ‘지식’보다 중요한 것은 정서… 뇌과학 기반 사회정서학습 해법 제시",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BU1RZMUcyVEZud3ZBVWZOcHBaN3Q4REk2dHdObWxTNThweXU1YjJKN21mMzlCenBrS2JoNjZIR1llNDQyQVR1M3dQTHdURWMxbng1MUtoYkR2a0FsVVgxaW5yY1RGQmNwTEJqc3A1TFgyMWPSAXNBVV95cUxPQVNUWTFHMlRGbnd2QVVmTnBwWjd0OERJNnR3Tm1sUzU4cHl1NWIySjdtZjM5Qnpwa0tiaDY2SEdZZTQ0MkFUdTN3UEx3VEVjMW54NTFLaGJEdmtBbFVYMWlucmNURkJjcExCanNwNUxYMjFj?oc=5",
+    "source": "K스피릿",
+    "published": "2026-02-04",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 시대에는 지식 교육과 더불어 뇌과학 기반 사회정서학습을 강화하여 학생들의 정서적 역량을 키우는 교육 시스템 구축이 중요합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "글로벌사이버대학교, ‘뇌과학에서 뇌활용 시대로의 전환’",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12QXRTdTBHZnFFckw3bDlhdFJaVnEyNmo1Tmxxc1dJNE5wTDhRa18yeG1jTUZqMU83S2hjTXZGOU4wblk0RHRuekprWWJJZE8yVktSeWF2ZHBKZmQtakI3Sm9hczRCaHlEY0NIOA?oc=5",
+    "source": "불교공뉴스",
+    "published": "2026-02-04",
+    "keyword": "뇌과학",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "뇌과학 기반 뇌 활용 교육 모델은 학습 효과 극대화 및 개인 맞춤형 교육 실현 가능성을 높여 교육 패러다임 전환에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "교육부, 전문대 ‘지역 AI교육 거점’으로 키운다",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02eHFJVjhnbmhTX1pqMlRlZEw1VncxcHVWSVZiM0dpWGVQNExiTDNCRUVjaDk4N0lQS3Vxck15WGREbVNvM2s5ZXNhR3hIaU5TNXVnS3VBRUZLZGhoajNnVXkwSDhBakHSAWxBVV95cUxNVjJCdUxoWHEwMDFqUVJ5UmRhQ1E0czlYTVlhb2hHMXlGTXprZWZ0eVA1Q0xWTEJUVWhQMF8zOWpQTnlEeVE4ZUVDU01rR1lwai1OTVlYcUR3NEI2bTFuUUFiN3RyT2x5dVNsTDQ?oc=5",
+    "source": "국민일보",
+    "published": "2026-02-04",
+    "keyword": "인공지능교육",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "전문대 AI 교육 거점 육성은 지역사회 맞춤형 인재 양성과 고등직업교육 혁신에 기여할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "이병학 충남교육혁신연구소장, 충남교육감 예비후보 등록… “현장 중심 교육혁신”",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMV0k4MEk0Qzh5WUFhaVQ0a0o3Y281dEt6SE9rUzBSeGIzUFhUeWZPQWJyXzVUYjJ6Vi02NFBCd05faU8wNDlUZExLMmNFek5zeUVwVXUwTVJTRzY3R0hOeTRwaUlxNVE0dmtFeHNzN1FXVDg?oc=5",
+    "source": "오늘경제",
+    "published": "2026-02-04",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충남교육청",
+     "교육감 선거"
+    ],
+    "summary": "이병학 소장의 교육감 예비후보 등록은 현장 중심 교육혁신에 대한 기대감을 높이며, 정책 방향에 따라 충남 교육계에 큰 영향을 미칠 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "경기교육혁신연대 \"민주진보 교육감 후보 단일화\"…예비후보 4명 등록",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Ic2p6LWJpTUR0TEx5YVJUM3BYWlRQRlZFR3otR3lUQ0x3TXc2MERldXhJbUZnVjVnNC1nWWtKdmlhNFBRZkU3QlliQWJGWmlLVHdfeW13?oc=5",
+    "source": "뉴스1",
+    "published": "2026-02-04",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "교육감 선거"
+    ],
+    "summary": "경기교육혁신연대의 민주진보 교육감 후보 단일화 시도는 교육 정책의 방향성과 혁신성에 대한 논의를 심화시키고, 교육 현장에 새로운 변화를 모색하는 계기가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "교육부, AID 전문대학 육성…AI·디지털 혁신 시동",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4zSUNMZk9ib3E5OTNqaGhHM3gzc3NJWWtVeFhZRVdEWW50Zlp4akFna3g3LWxaQlBla09INTdEV19CUDZNMDkySkxQUXNzdw?oc=5",
+    "source": "전자신문",
+    "published": "2026-02-04",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "AID 전문대학 육성은 AI 및 디지털 교육 혁신을 가속화하여 미래 사회에 필요한 실무형 인재 양성에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "[단독] 최교진, 1조 5천억 디지털 특교 3년 연장 추진 … 교육감들 난색",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CWXhuMTNRWGV2ZHotQVp4M0RCeHRYa3JiR1JEX0p5Sl94TEdkTUR4cVFZSzJkRHRSbDlCVlFzN21udEdyb2tCNDUwRG1rdGhPN25WSXJjQWVRdkw5elh6OHh3UGZjaXhH?oc=5",
+    "source": "에듀프레스",
+    "published": "2026-02-04",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "디지털 교육 격차 해소와 미래 교육 투자는 중요하나, 교육감들의 반발을 고려하여 사업 효과성 검증 및 재정 운영 계획의 투명성을 확보하는 것이 중요합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Evaluation of Large Language Models' educational feedback in Higher Education: potential, limitations and implications for educational practice",
+    "url": "http://arxiv.org/abs/2602.02519v1",
+    "source": "",
+    "published": "2026-01-24",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [
+     "LLM"
+    ],
+    "summary": "본 논문은 고등 교육에서 LLM이 생성하는 피드백을 휴즈, 스미스, 크리즈 프레임워크로 분석하여, 명확한 지침과 맥락 정보가 주어진다면 지속가능하고 의미있는 학습 도구로서 잠재력이 크지만, 교육적 활용에는 한계와 고려 사항이 있음을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Daniele Agostini', 'Federica Picasso']",
+    "pdf": "http://arxiv.org/pdf/2602.02519v1"
+   },
+   {
+    "n": 2,
+    "title": "A Human-Centered Learning and Teaching Framework Using Generative Artificial Intelligence for Self-Regulated Learning Development Through Domain Knowledge Learning in K–12 Settings",
+    "url": "https://www.semanticscholar.org/paper/f710896031d29efc4aaa2abe302db3c6f8332248",
+    "source": "semantic_scholar",
+    "published": "",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제",
+     "생성형 AI"
+    ],
+    "summary": "본 논문은 K-12 환경에서 생성형 AI를 활용한 인간 중심 학습-교수 프레임워크를 제시하여, 교사의 퍼실리테이션 역할 강화 및 학생의 자기 주도 학습 능력 향상, 그리고 AI 통합 교육과정 설계 역량 강화를 통해 교육 혁신을 도모합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Siu-Cheung Kong, Yin Yang",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Learning Analytics to Reveal Links Between Learning Design and Self-Regulated Learning",
+    "url": "https://www.semanticscholar.org/paper/840ad745f747e42e005abf2f4f2d9549dbda00ab",
+    "source": "semantic_scholar",
+    "published": "2021-05-21",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제"
+    ],
+    "summary": "본 논문은 학습 설계와 자기 주도 학습 간의 연결 고리를 밝히기 위해 클러스터 분석, 프로세스 마이닝, 인식론적 네트워크 분석을 결합한 새로운 학습 분석 방법을 제안하고, MOOC 학습자의 학습 전략과 성과 간의 연관성을 분석하여 효과적인 온라인 학습 설계에 대한 시사점을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Yizhou Fan, W. Matcha 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "Differentiated Instruction in Secondary Education: A Systematic Review of Research Evidence",
+    "url": "https://www.semanticscholar.org/paper/4f6dccd83ae1243ca0406e47ed26a448ed0daccf",
+    "source": "semantic_scholar",
+    "published": "2019-11-22",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 2006년부터 2016년까지의 문헌 고찰을 통해 중등 교육에서 차별화된 수업이 학생 성취도 향상에 미치는 긍정적인 효과를 확인하고, 다양한 실행 방식과 효과 크기를 제시하며, 향후 차별화 수업 방식의 효과성에 대한 추가 연구 필요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Annemieke E. Smale-Jacobse, A. Meijer 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "Perceptions on the use of heritage to teach history in Secondary Education teachers in training",
+    "url": "https://www.semanticscholar.org/paper/462f7a3166fe21d76385542bd4e968ed6c9ded5e",
+    "source": "semantic_scholar",
+    "published": "2020-10-14",
+    "keyword": "",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [],
+    "summary": "스페인 예비 중등 교사들을 대상으로 역사 교육에서 문화유산 활용에 대한 인식을 조사한 결과, 교사들은 문화유산의 중요성을 인지하고 있으나 실제 교육 현장에서 활용 부족을 느껴, 대학에서의 관련 교육 강화 필요성을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "María del Mar Felices-de la Fuente, Álvaro Chaparro-Sainz 외 1명",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "﻿카카오 '에이전틱 AI 벤치마크' 공개...국대 AI, 글로벌 모델에 크게 뒤져",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=206387",
+    "source": "AI Times",
+    "published": "2026-02-04",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "카카오",
+     "벤치마크"
+    ],
+    "summary": "카카오의 벤치마크 결과는 국내 AI 기술 경쟁력 강화를 위한 투자 확대와 글로벌 협력의 필요성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "Anthropic pledges to keep Claude ad-free while OpenAI moves forward with ChatGPT advertising",
+    "url": "https://the-decoder.com/anthropic-pledges-to-keep-claude-ad-free-while-openai-moves-forward-with-chatgpt-advertising/",
+    "source": "The Decoder",
+    "published": "2026-02-04",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude",
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "AI 챗봇 시장에서 광고 도입 전략의 양분화는 사용자 경험과 수익 모델 간 균형점을 찾는 경쟁 심화를 예고합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "MS, 에이전트 문맥 강화로 코딩 벤치마크 신기록 달성한 ‘RPG-인코더’ 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=206391",
+    "source": "AI Times",
+    "published": "2026-02-04",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Microsoft",
+     "에이전트",
+     "코딩 AI",
+     "벤치마크"
+    ],
+    "summary": "MS의 RPG-인코더는 코드 이해 능력 향상으로 AI 코딩 자동화의 새로운 가능성을 열며, 개발 생산성 증대와 소프트웨어 개발 패러다임 변화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "아이티센엔텍, 교육 AI 플랫폼 구축…공공·민간 에듀테크 연계",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5TLTZQbVJjcWhLQ20weVlITFhEYUpnc1FkTnFNU25STUlEdHp3TDB5MUlqUlRuWm5mVm03N2hFX2Y3U1hNYlRmQ0F1RFFiM2oyZUpOSnk4elNCNmxKbUFlSGg4X29WTmhNLTJMdzY3bW9Dd2PSAXNBVV95cUxOUy02UG1SY3FoS0NtMHlZSExYRGFKZ3NRZE5xTVNuUk1JRHR6d0wweTFJalJUblpuZlZtNzdoRV9mN1NYTWJUZkNBdURRYjNqMmVKTkp5OHpTQjZsSm1BZUhoOF9vVk5oTS0yTHc2N21vQ3dj?oc=5",
+    "source": "데일리한국",
+    "published": "2026-02-04",
+    "keyword": "교육AI",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [],
+    "summary": "아이티센엔텍의 교육 AI 플랫폼 구축은 공공-민간 에듀테크 연계를 가속화하여 교육 분야 AI 생태계 확장에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "르노, 필랑트 ‘팁스(Tips)’에 ChatGPT 기반 생성형 AI 기술 적용",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLd1R5YWY2TzRjMUFpb1dseWVzSTl5aXQtU2pKeHBzcDh2ejUxREZscUx1eVp0OTREUXJOSFhnR1BwSDAyejlZT3lFWlVPTGJkRkJWY2xNMThCeDI1TkxOUF9qT3AxX3BVSVl3SE9IY2nSAXBBVV95cUxQS3dUeWFmNk80YzFBaW9XbHllc0k5eWl0LVNqSnhwc3A4dno1MURGbHFMdXladDk0RFFyTkhYZ0dQcEgwMno5WU95RVpVT0xiZEZCVmNsTTE4QngyNU5MTlBfak9wMV9wVUlZd0hPSGNp?oc=5",
+    "source": "오토뷰",
+    "published": "2026-02-04",
+    "keyword": "AI기술",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "생성형 AI"
+    ],
+    "summary": "르노의 ChatGPT 기반 AI 기술 도입은 자동차 산업 전반에 걸쳐 사용자 경험 혁신과 AI 경쟁 심화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "‘교사 잡아라’… 공교육 AI 시장으로 몰리는 에듀테크·빅테크",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Gc0lVTThQZWRjbXVYZ1AtZUpvQk9fVEdSSTJ2eXFfZGVjbkZYTFZfdnFfUWtyamRYSjVwbVhpeGNvZWVseHFmOUhlb2p1U1RKWDJ0MDAzUzNRZ3N3X0hhWXRINVZsbWFWLTZGZHhfbEV1MFYy0gF0QVVfeXFMTkZzSVVNOFBlZGNtdVhnUC1lSm9CT19UR1JJMnZ5cV9kZWNuRlhMVl92cV9Ra3JqZFhKNXBtWGl4Y29lZWx4cWY5SGVvanVTVEpYMnQwMDNTM1Fnc3dfSGFZdEg1VmxtYVYtNkZkeF9sRXUwVjI?oc=5",
+    "source": "IT조선",
+    "published": "2026-02-04",
+    "keyword": "인공지능",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "에듀테크와 빅테크의 공교육 AI 시장 진출은 맞춤형 교육 혁신을 가속화하고 관련 기술 표준화 경쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "화성에서 움직이는 AI… 400m 이동 성공의 의미",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=206395",
+    "source": "AI Times",
+    "published": "2026-02-05",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [],
+    "summary": "화성 탐사 AI의 자율 주행 성공은 극한 환경 AI 기술 발전과 우주 탐사 산업 확장에 중요한 기폭제가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "OpenAI, Anthropic의 전직 직원을 준비 책임자로 고용",
+    "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5SYThsWmhkUWp4VDlJV09fZHhnV0Z2M0gxT0RiMW00X3dDVzE1Y18wX0htVFdzQ0FpOUtWUHFrTnFhZ9IBQkFVX3lxTE5SYThsWmhkUWp4VDlJV09fZHhnV0Z2M0gxT0RiMW00X3dDVzE1Y18wX0htVFdzQ0FpOUtWUHFrTnFhZw?oc=5",
+    "source": "VOI.id",
+    "published": "2026-02-04",
+    "keyword": "Anthropic",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Anthropic",
+     "AI 안전·규제"
+    ],
+    "summary": "OpenAI의 이번 인재 영입은 AI 안전 경쟁 심화 속에서 모델 개발과 안전성 확보의 균형을 맞추려는 의지를 보여주는 행보입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "OpenAI accuses Musk's xAI of systematic evidence destruction in antitrust case",
+    "url": "https://the-decoder.com/openai-accuses-musks-xai-of-systematic-evidence-destruction-in-antitrust-case/",
+    "source": "The Decoder",
+    "published": "2026-02-04",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "xAI",
+     "저작권·소송"
+    ],
+    "summary": "OpenAI와 xAI 간의 소송전은 AI 기술 경쟁 심화와 더불어 기술 기업의 데이터 관리 및 투명성 문제가 더욱 중요해지고 있음을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "구글, AI 벤치마크 게임 아레나에 신규 게임 추가…마피아·포커 포함",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QWG1iWExRNjRSdGhJUFRlMGwxX1NRX2RSYmQ1d05YRkVLWUt4RU5CdVNsOTdERmVXR2lrSWRkVzJkOGxHWDY3TW9DYklqT2w2SFdmeEg4VkhZa1FRNVVkMWRtWE5DVm5ILVFlVW9ZSThrNFU?oc=5",
+    "source": "디지털투데이",
+    "published": "2026-02-04",
+    "keyword": "구글",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "벤치마크"
+    ],
+    "summary": "구글의 AI 벤치마크 게임 확장은 AI가 복잡한 사회적 추론과 전략적 사고 능력을 발전시키는 데 중요한 역할을 할 것임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 리터러시 함양, 디지털 전환 체계 구축, 뇌과학 기반 학습 등 AI 시대를 맞아 교육 혁신과 디지털 역량 강화를 위한 다각적인 노력이 교육 현장에서 활발하게 추진되고 있습니다.",
+  "tech": "AI 기술 경쟁 심화 속에서 성능 향상, 활용 분야 확장(교육, 자동차, 우주), 기업 간 인재 이동 및 경쟁 심화, 그리고 AI 윤리 및 안전에 대한 논의가 활발하게 이루어지며 AI 생태계가 다방면으로 발전하고 있다."
+ }
+}

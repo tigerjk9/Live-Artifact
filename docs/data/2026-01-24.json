@@ -1,0 +1,417 @@
+{
+ "date": "2026-01-24",
+ "generated_at": "2026-11-02T11:51:11+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[꽃이되고 나비가되고] 기후위기와 AI시대의 교육",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMWDVHeWROeHpiZWp2R2hEYzBtMVo3R0htX3c4dVBiOHJyMUZrVjlyTXdkT0F3QWg5WTBWdlc1eHhFUGtXaDhVVWxrNS1iMkEtSUQwc3NWVTE0TGozWGktOHR4bS1PRXVVd09IREYzblBnZw?oc=5",
+    "source": "오피니언뉴스",
+    "published": "2026-01-23",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "기후 위기와 AI 시대에 맞춰 교육은 미래 세대가 변화에 유연하게 대처하고 새로운 가치를 창출할 수 있도록 혁신해야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[단독] '7년째 역차별'  2026후기고 사회통합 미달 1037명.. '학비미보전/미충원 이중고' 외면",
+    "url": "http://www.veritas-a.com/news/articleView.html?idxno=595540",
+    "source": "베리타스알파",
+    "published": "2026-01-23",
+    "keyword": "",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "고교 서열화 해소 정책의 부작용으로 나타난 후기고 미충원 문제를 해결하기 위한 정책적 지원과 보완이 시급합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "웅진씽크빅, R&D 속도 조절…에듀테크 투자 결실은 '아직'",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JSnlDQ1Q2dkF4b3RrMF9jbHVaTkJMR2lyVEs5SkdheXFzb0FzbDUzMHB4dTM1QmNCVEFXY2ZtaF9OYmRvSU5hU3RaOFJWX05rSGZoSllB?oc=5",
+    "source": "IB토마토",
+    "published": "2026-01-23",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "웅진씽크빅의 에듀테크 투자 속도 조절은, 교육 기업의 R&D 투자 효율성과 장기적 관점의 교육적 가치 창출 전략 수립이 중요하다는 점을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "강미애 세종미래교육연구소장, 세종시교육감 출마 선언",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10LUVMMGVtUXlXRE8yYlluSnVZbFI0anRWcHlTOVVtRXRRQm1XT214cGJLeV9EOWl6YXlYdVU5dXFySjJsdUFZY3dhcWQxaWFpRDFaNVZLMHVsQzFveTVfcnYyb2hjUFNYVTBVZA?oc=5",
+    "source": "newsntalk.co.kr",
+    "published": "2026-01-23",
+    "keyword": "AI디지털도구",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "세종시교육청"
+    ],
+    "summary": "강미애 소장의 출마는 세종시 교육 혁신에 대한 새로운 비전 제시와 정책 경쟁을 촉진할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "아이스크림에듀, 전남특수교육학회 국제세미나 참여",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtMkcxYWlGX0xpZFVQNHVsX1JyczRFbG13QWhNWnFMRTBqTDN0MzVUNlBQbmlJN1pMNDZfMVlMUU5jdVBvRGFrQ0ZOY0RzaWprZk10NUMxblU1anlFekRpSHJWeThPWmNCR2JJ0gFvQVVfeXFMUGNjNGp0cFpMVU9FVTNfZ3hVaVBLbXNaaERRNElROXZRVUZpb0NIMzR6YUg4V0xQNGFaYUpkM2YtOFZsbmlONkU3Z0xrWEFCYmZaOEdhRHNsTW9ubmJESF9kOU5FWk5seGE3eklUWVZn?oc=5",
+    "source": "한스경제",
+    "published": "2026-01-23",
+    "keyword": "에듀테크",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [
+     "특수교육",
+     "개인화 학습"
+    ],
+    "summary": "아이스크림에듀의 전남특수교육학회 국제세미나 참여는 에듀테크 기업의 특수교육 분야 관심 증대와 맞춤형 교육 콘텐츠 개발 가능성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "충남 '마주온' 안착⋯전국 17개 시도교육청, 네이버 웨일 스페이스 도입",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hTEEwQm5mV2pqNnI4MGREUkxPdUp0QUFJR194aWczMFNyU1otS2pCdE5Na3dHc01ZbVFuRTRZbkUxLVJ6WDZtcFIydXQxSF9vdkFB?oc=5",
+    "source": "네이트",
+    "published": "2026-01-23",
+    "keyword": "에듀테크",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "네이버"
+    ],
+    "summary": "충남 '마주온'의 성공적 안착과 네이버 웨일 스페이스의 전국적 확산은 디지털 교육 환경 구축 및 교육 격차 해소에 긍정적인 영향을 미칠 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "AI시대, 부산교육의 길을 묻다…김석준 교육감이 넘어야 할 세 개의 문턱",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IVnIzdExSMXVETE1LNVdmd3EyZmw4M0xtekMwYjNqNVA5NU51MDBHUW84RmRlYVBMSDdzbDNNYVBXaU4zaHBYSmY1Z254TXd6a0lDS1RUYVFlUlNwSUM4T3dPb1NQdVU?oc=5",
+    "source": "wbcb.co.kr",
+    "published": "2026-01-23",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "부산시교육청"
+    ],
+    "summary": "부산교육은 AI 시대에 발맞춰 교육 시스템 혁신, 교사 역량 강화, 디지털 윤리 교육 강화라는 과제를 안고 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "[울산교육청] 2025학년도 초등·중학 학력 인정 문해교육 과정 이수, 86세 최고령자 포함 152명 학력 인정",
+    "url": "https://www.lecturernews.com/news/articleView.html?idxno=195433",
+    "source": "한국강사신문",
+    "published": "2026-01-24",
+    "keyword": "",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "울산시교육청",
+     "개인화 학습"
+    ],
+    "summary": "고령 학습자들의 학력 취득 증가는 평생교육의 중요성을 부각하며, 교육 기관은 이들의 요구에 맞춘 맞춤형 교육과정 개발에 힘써야 할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "경기도교육청, ‘직속기관 이전․재배치 추진 가이드라인’ 보급",
+    "url": "https://www.lecturernews.com/news/articleView.html?idxno=195428",
+    "source": "한국강사신문",
+    "published": "2026-01-24",
+    "keyword": "",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청의 직속기관 이전·재배치 가이드라인은 교육 기회 균등화와 교직원 연수 여건 개선에 기여할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "‘인간+AI’ 에듀테크가 뜬다…프레플리, ‘인간 주도·AI 강화 학습’으로 2200억 투자 유치, 누적 4255억원",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xbWFRVWRUMk9tV2xKY00wbEJBOWs5eGQxNkkwZmE3bUVXUmo2VTRfWDVtZWtPYWtvWHI3ZXdseEM4ajNQQXZRMkxrZW5WTlVhX015SFZ1Sjl0TFpfbm50ZXlUNlM1bFE?oc=5",
+    "source": "인공지능신문",
+    "published": "2026-01-23",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 기반 에듀테크 투자는 개별 맞춤 학습을 강화하여 교육 효과를 높일 잠재력을 시사하지만, 인간 교사의 역할을 간과하지 않는 균형 잡힌 접근이 중요합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Design and implementation of an AI-enabled visual report tool as formative assessment to promote learning achievement and self-regulated learning: An experimental study",
+    "url": "https://www.semanticscholar.org/paper/9c009b5aad914d8c306c51cc141404e783f6fed4",
+    "source": "semantic_scholar",
+    "published": "2024-01-09",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제"
+    ],
+    "summary": "본 연구는 AI 및 시각화 기술을 활용한 시각 보고 도구가 학생들의 학업 성취도와 자기 주도 학습 능력을 향상시키고 자기 효능감을 증진시키는 효과를 실험적으로 검증하여, 대규모 학급에서 긍정적인 영향을 줄 수 있음을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Xiaofang Liao, Xuedi Zhang 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "Evaluating the Impact of Formative Assessment Intervention and Experiences of the Standard 4 Teachers in Teaching Higher-Order-Thinking Skills in Mathematics",
+    "url": "https://www.semanticscholar.org/paper/fb4645115fdbde1e744ef9b51eb23cbb3567fc27",
+    "source": "semantic_scholar",
+    "published": "2022-02-14",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "보츠와나 초등학교 4학년 학생들을 대상으로 교사 연수를 통해 형성 평가를 적용한 결과, 고차원적 사고 능력 향상에 긍정적인 영향을 미쳤으며, 교사들의 형성 평가 활용을 장려하여 수학교육 개선에 기여할 수 있음을 밝혔습니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Sello E. Moyo, Celeste Combrinck 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Contribution of formative assessment for developing teaching competences in teacher education",
+    "url": "https://www.semanticscholar.org/paper/795e175ff65d4f64bb5ff92b702f3c6b51c87ba3",
+    "source": "semantic_scholar",
+    "published": "2021-07-06",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "교사 교육 과정에서 명확한 기준 제시, 지속적 증거 수집, 적절한 피드백, 학생 참여 유도를 통해 형성 평가를 효과적으로 활용하면 예비 교사의 역량 개발에 기여하며, 이는 교사 교육 평가 방식 개선에 중요한 시사점을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Laura Cañadas",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "Coordinated Translanguaging Pedagogy as Distributed Cognition: A Case Study of Two Dual Language Bilingual Education Preschool Coteachers’ Languaging Practices During Shared Book Readings",
+    "url": "https://www.semanticscholar.org/paper/8546255a4eaa4d619492f3f9916ee753063bd53e",
+    "source": "semantic_scholar",
+    "published": "2016-02-10",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 이중언어 유아 교사들이 공유 읽기 활동에서 상호보완적인 이중언어 사용을 통해 교육 목표를 달성하고, 학생들의 학습을 지원하는 분산적 인지로서의 언어 교차 사용 교육학의 효과를 보여주며, 이중언어 교육 프로그램 정책 및 실천에 시사하는 바가 큽니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "R. Pontier, Mileidis Gort",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "The Effect of Project-Based Learning on Learning Motivation and Problem-Solving Ability of Vocational High School Students",
+    "url": "https://www.semanticscholar.org/paper/f188e5775fedfa691a7bb9f5624545521808d216",
+    "source": "semantic_scholar",
+    "published": "",
+    "keyword": "high school",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "대만 직업고등학교 학생들을 대상으로 프로젝트 기반 학습을 적용한 결과, 전통적인 교수법에 비해 학습 동기 부여와 문제 해결 능력을 향상시키는 효과를 준다는 것을 준 실험 연구 및 질적 분석을 통해 밝혔으며, 이는 직업 교육 교사들에게 PBL의 실제적인 사례를 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "C. Chiang, H. Lee",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "구글, AI 모드에 '퍼스널 인텔리전스' 도입...\"지메일과 구글 포토 연결\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205845",
+    "source": "AI Times",
+    "published": "2026-01-23",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Google",
+     "AI 검색"
+    ],
+    "summary": "구글의 개인 데이터 연동 AI 모드는 사용자 맞춤형 경험을 강화하며 AI 검색 경쟁에서 차별화 우위를 확보하려는 전략입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[1월23일] 실리콘 밸리에서 거론되는 AI 모델 개발 대전환...\"사전·사후 학습 통합해야\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205849",
+    "source": "AI Times",
+    "published": "2026-01-24",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "LLM"
+    ],
+    "summary": "LLM 개발 패러다임 전환 논의는 AI 모델의 효율성과 성능 향상을 위한 새로운 접근 방식 모색의 필요성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "AI는 새로운 ‘핵무기’… 워런 버핏의 우려",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205859",
+    "source": "AI Times",
+    "published": "2026-01-24",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [],
+    "summary": "워런 버핏의 경고는 AI 기술 발전의 양날성을 강조하며, 윤리적 책임과 안전장치 마련의 중요성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "Anthropic Overhauls Claude’s AI Constitution, Shifting From Rules to Judgment",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pNjdyM3IzOUVocnN4ZGFRSGtqRmRmMk5QcmlZamhTTE1jOXAtMFlBeWJJN0F4Y091Ni11SGhJTDV3VVJoT2FoTlpPVHl1UlVUYmVBNVhJWTU2SXBkMDd1R3hXc2ZaTENRMkE?oc=5",
+    "source": "kmjournal.net",
+    "published": "2026-01-23",
+    "keyword": "Anthropic",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude",
+     "AI 안전·규제"
+    ],
+    "summary": "앤트로픽의 클로드 AI 헌법 개정은 AI 윤리 및 안전 방향성이 규칙 준수에서 상황 판단으로 전환되는 중요한 진전입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "OpenAI, Anthropic, Google: Big Tech's Healthcare Hegemony Battle",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtNlU0Sm41TkhyOXJtTUZGdW1wWnZTYjQ3ZVJvSUFIN2pqbGIxQzBhNDFSMDJfWlQtMWRnMm8zVGc5Z19hcHU4VG9TdFpJZVctYnpKR0g5TF9Gc2dSU2FSUUpaUVBNRnRROF9R0gFvQVVfeXFMUF9fVVZxcmVIRDlMTGpOOUxmaEJfeVZlSVI2SXA2M013U0E0eTd3NjUyY25LUFpWeFJIZ1BMaWlKdlhhOUtoV0xOT1NjX3Y1RnVJMk1qZmFWdk5CT19xeUdOY19SR0RSUlluQ3l6RTM0?oc=5",
+    "source": "newstheai.com",
+    "published": "2026-01-23",
+    "keyword": "Anthropic",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Anthropic",
+     "Google"
+    ],
+    "summary": "OpenAI, Anthropic, Google의 헬스케어 경쟁은 AI 기술의 의료 분야 혁신을 가속화하고, 동시에 데이터 보안 및 윤리적 문제에 대한 심도 있는 논의를 촉발할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "GPTZero, AI 학술 논문 100여건에서 허위 인용 발견…동료 검토 시스템 한계 드러나",
+    "url": "https://news.google.com/rss/articles/CBMizwVBVV95cUxQTVhVcV9aTGY4bGVCVXlwbTZDTUtSR1AyTURvVXByR3RMWnZUeVdiZGpiUXlDZlhnZURWOFh0MjF6bTdYSktLS0xfcVhFeEUxRDFFSUdvVzJ2Z1BuUERjVmJ1Y3NKN2x0VG94M3hnUGRxeVRTZUxNX2VDMFdJU0JYc25nZ1Q5TmNYMmFsclBpWFRtX2pRODVuYWN2S3dia2NNc0E4OVpoNmstd1Z0Tm9DSndjaTltdGpGLXA3WlllSng0bUxGTFZTWlNjakxaSnlQVWZRWjJIZ1BCVmhLTjBtdVFrSHMwLVozclRjQk1fUVMwRE1OQ0QzRThvaXV6WXFFSmQ1VG9JNGVzc01YaGZLZjlWMWtGY0x4Z1dLTW9JSWd4WEVUM3FlQUdfUGQwWENseXp2TDRpSUZVbzRrUXdrUlBOZ0M3eGJxTzRhZzZvTFNtSmNpVU5ENmZya0otdFRtMXozV1l6RVZiZVh3OWJ5N21SX3NZckZzS3lyWXVIbVZuMTVRb2xiMFl2dXpDVWhMYTVDbko4U0xJTVZyQzR0akZZcUN6Znp1bkc4QVh6T0tWQ1Ywek5UNk51Q2VpRFZMSUxRSWJsUDlFZXlUNnZ6T0doOW1WR2pIc2VPOUpWUTBpQ09BNEVUMEpmbXZJZUZ0dFJGOVpQT1I3LW90aWZTOThFX1N1YkJ0VTVLb3lEa2N0TVNyaFppNnRYeDh2UlR1cklrYy1RVnJQN09MRTJGT0hRbGhJaUVoM0RRNnlmNGZUYm5xSUNDQlRWWk1tcTA0eEtEZWNWX0tMZzY5bklTcGZRT3JmRUNvY25pWkFBRDljRUxodERfQXBDNVR2WGw4SFZzMWRjYWp4VW9GMWQyaXFySTRjV05UNmFSRlc5dy13dllQZVpVUkpRYTBLc3FTX0ozb3lnM1daQ3JFNjZZb002RFM0TEE0bFlRMFNlSQ?oc=5",
+    "source": "한국정보기술진흥원",
+    "published": "2026-01-24",
+    "keyword": "인공지능",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제"
+    ],
+    "summary": "AI 검출 도구의 한계는 학술 연구의 신뢰성을 위협하며, AI 윤리 및 검증 시스템 강화의 필요성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "구글, 제미나이로 '미국판 수능' SAT 무료 모의고사 서비스",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205866",
+    "source": "AI Times",
+    "published": "2026-01-23",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Gemini",
+     "수능·대입",
+     "개인화 학습"
+    ],
+    "summary": "구글의 SAT 모의고사 서비스는 AI 교육 플랫폼 경쟁을 심화시키고, 맞춤형 학습 콘텐츠 확산에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "‘인간+AI’ 에듀테크가 뜬다…프레플리, ‘인간 주도·AI 강화 학습’으로 2200억 투자 유치, 누적 4255억원",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xbWFRVWRUMk9tV2xKY00wbEJBOWs5eGQxNkkwZmE3bUVXUmo2VTRfWDVtZWtPYWtvWHI3ZXdseEM4ajNQQXZRMkxrZW5WTlVhX015SFZ1Sjl0TFpfbm50ZXlUNlM1bFE?oc=5",
+    "source": "인공지능신문",
+    "published": "2026-01-23",
+    "keyword": "교육AI",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [],
+    "summary": "프레플리의 투자 유치는 에듀테크 시장에서 인간 강사와 AI 기술의 융합이 학습 효과를 극대화하는 핵심 전략임을 보여주는 사례입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "OpenAI's API business grew by $1 billion ARR last month",
+    "url": "https://the-decoder.com/openais-api-business-grew-by-1-billion-arr-last-month/",
+    "source": "The Decoder",
+    "published": "2026-01-23",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "OpenAI의 API 매출 급증은 AI 기술 상용화 및 산업 전반의 AI 도입 가속화를 의미하며, AI 생태계 경쟁 심화를 예고합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "바이두, 중국 최대 '2.4조' 매개변수 멀티모달 모델 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205846",
+    "source": "AI Times",
+    "published": "2026-01-23",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "바이두의 거대 멀티모달 모델 공개는 중국 AI 기술력을 과시하며, 글로벌 AI 경쟁 구도에 중요한 변곡점이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 시대에 발맞춰 에듀테크 투자와 교육 플랫폼 도입이 활발해지고, 기후 위기 대응 교육과 소외 계층을 위한 교육 기회 확대 노력이 이루어지는 가운데, 교육청의 정책 변화와 미래 교육 방향 모색이 활발하게 진행되며 긍정적인 발전을 가속화하고 있다.",
+  "tech": "AI 기술이 개인 맞춤형 서비스 확대, 모델 개발 방식의 진화, 헬스케어 및 교육 분야 침투, 윤리적 문제 제기, 거대 모델 경쟁 심화 등 다양한 영역에서 빠르게 발전하며 혁신을 가속화하고 있다."
+ }
+}

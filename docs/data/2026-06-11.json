@@ -1,0 +1,430 @@
+{
+ "date": "2026-06-11",
+ "generated_at": "2026-11-02T11:38:02+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[사설] ‘교권보호국(가상)’에 목마른 교육현장",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aTnFpVFNjTnhlSGt2M2dPS09SbEdFbXRfT2xoWTdXR250TFhYYVE4Rk1sSmN2R2hTUUVEZ1VBdzAtQmEwYUtBbDBXSWZ3YndNbjg5X2Z6VHdVLVJTcVdCbDJUczdMNkpoUTZDWGlQOA?oc=5",
+    "source": "중부일보",
+    "published": "2026-06-10",
+    "keyword": "교육현장",
+    "topic": "teacher",
+    "kind": "opinion",
+    "entities": [
+     "교권"
+    ],
+    "summary": "교육현장은 교권 보호를 전담하는 가상의 기관에 대한 필요성을 절실히 느끼고 있습니다.",
+    "implication": "교권과 학습권의 중요성을 함께 인식하며 존중하는 교실 문화를 조성할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "대전시교육청, 학생 작가 공모전 개편…생성형 AI 부문 신설",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wSUZPa3hmZm50YVF5bk5mVEwwREdYN3JEX3BsdE5DSVcxQXFYYkpNM2lIaERRTTZ1ZXktUmVySEIxcUxfT1RZRHhRdF9TREJfb2NybQ?oc=5",
+    "source": "타임뉴스",
+    "published": "2026-06-11",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "대전시교육청",
+     "생성형 AI"
+    ],
+    "summary": "대전시교육청이 학생 작가 공모전을 개편하여 생성형 AI 부문을 신설했습니다.",
+    "implication": "수업에서 생성형 AI를 활용한 글쓰기 지도를 통해 학생들의 창의적 역량 개발을 돕고 공모전 참여를 독려할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "인천 초등교육 현장 연구 활발…수업혁신 확산 나선다",
+    "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNM2dEU3l3YnBBMlRpNUdkWkpOWWhRMXJyYzNEbTRPa2NYSGRrWFVmRjZWWTFVTmp6QzJCTklMRmJ3dzltdFlyV3llQTZDUUdIY1MydC1iUUJ4ZUJvOFo4OW54dlB3SWdvcjZpMnBBbzJIcjJtLS15VTZRYW5QS1o5emtRZWxKeG9qUnNwV3B3RlNDQkJEOFNhV1NReFNRNUJQYnY0R1p0RGRQNFc0OTFZRWY0SUppd2RPRlNFdk4yb1pKS3NvcE9NMGw2M1lTMU9OT1JTRnNtcF9tb2c0V1dYbmxCbVNtSWp1enQ0QmlJaVVpby1pdjRocHBhYXFDb21xSVVjd3VKc1RtUFBUX1dRaWgxSlZsRTRjMWRHTU1QVEV2cXBPc0HSAaYCQVVfeXFMTTNnRFN5d2JwQTJUaTVHZFpKTlloUTFycmMzRG00T2tjWEhka1hVZkY2VlkxVU5qekMyQk5JTEZid3c5bXRZcld5ZUE2Q1FHSGNTMnQtYlFCeGVCbzhaODlueHZQd0lnb3I2aTJwQW8ySHIybS0teVU2UWFuUEtaOXprUWVsSnhvalJzcFdwd0ZTQ0JCRDhTYVdTUXhTUTVCUGJ2NEdadERkUDRXNDkxWUVmNElKaXdkT0ZTRXZOMm9aSktzb3BPTTBsNjNZUzFPTk9SU0ZzbXBfbW9nNFdXWG5sQm1TbUlqdXp0NEJpSWlVaW8taXY0aHBwYWFxQ29tcUlVY3d1SnNUbVBQVF9XUWloMUpWbEU0YzFkR01NUFRFdnFwT3NB?oc=5",
+    "source": "데일리안",
+    "published": "2026-06-10",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "인천 초등교육은 현장 연구를 활발히 하여 수업 혁신 확산을 추진합니다.",
+    "implication": "인천 초등 교사들은 현장 연구 결과를 통해 수업에 적용할 혁신적인 아이디어를 얻을 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "생성형 AI·에이전틱 AI·데이터 분석…CIO가 꼽은 2026년 12대 전략 과제",
+    "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOUzJVb2V5ckFDcTNkRjJwcWJvX2hVZXRBV2lVNHF3SWxtZ0E4TUFuenhiS2M2b2lJSjVMYkN0ZG1ia1NTVzRMbWQyOElGZTNNVEZyQWo0S1Z3TUZkRjRiSDlid3d1T3NUc082cm9ILXZOS01sUFRFSlRFeXFUS0xuSEFjMmVLWklhdXJjem9qNFpiTHZtdkZSUHVULTI2T3czZWZMOU4yLXlKWi1HU0lEd21BOGJIbWpXTHBPRWpPa016RURUV0hQSnBWVmFYeUxUdHAxRlJyRW13ZXEzNGVWRkVoMDBFNEtCZW15WlBQaWtKaEY3WTlHaWdXb2ZhNGJEOVJ5blZaQWxtcngxdFNXTWFmUmZBOUpsVXhwMkItcVBzczN5OGhOaWtzMVlFb09ua3BBUHhkcmxQMHd3eDREM18wN2N6Y1dB?oc=5",
+    "source": "cio.com",
+    "published": "2026-06-10",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "CIO들은 2026년까지 생성형 AI, 에이전틱 AI, 데이터 분석을 포함한 12대 전략 과제를 선정했습니다.",
+    "implication": "수업에서 생성형 AI와 데이터 분석을 활용하여 학생들이 미래 핵심 기술을 경험하게 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "충북교육청, 중학교 ‘학교자율시간’ 안착 온힘…교사 역량 연수",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00amJVZlFER3ZJaWZjTUZDYU9INUlORUg1RWhKV2RFYWNDRVItZlRxcVNZOE9yOVIzX2VHRGhwNHFmWm9RMlJKTVhIVGpRN2xzVGVEX1FVVFlRZk02WHFQT3JDcXl6Rm8?oc=5",
+    "source": "충북뉴스",
+    "published": "2026-06-10",
+    "keyword": "현장교사",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "충북교육청"
+    ],
+    "summary": "충북교육청은 중학교 학교자율시간 안착을 위해 교사 역량 연수를 지원합니다.",
+    "implication": "학교자율시간 운영을 위한 교육청 연수를 통해 수업 아이디어를 얻을 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "스마힐 고기현 대표, ‘생성형AI교육지도사’ 자격 취득",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0WWhIRXNxSWg3NTJvbHhOMXJCbnk5VENHcHN3Z0JtMDVVXzduWGR0UjFUTmoxdXdKQnRXYndvZEFTN0lrVTRERXg2MlE3MUlHS0M4WVY4eWl2MmVPN29lR0tlWW5VcTRUdzZpaw?oc=5",
+    "source": "약사공론",
+    "published": "2026-06-10",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "스마힐 고기현 대표가 생성형AI교육지도사 자격을 취득했습니다.",
+    "implication": "생성형AI교육지도사 자격을 갖춘 전문가의 도움으로 AI를 수업에 효과적으로 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "교육부 ‘교육혁신선도지역’ 지정 추진⋯강원 인구감소지역 주목",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1KSkF2YlVZZThOYzhOd2NwcS1RLWlsRTgxSXFDYUNGS3lXYVB2QVl0NkxCQnhxcXg4U21jTzhFaTUxOHR3SGpqcGZMT2gwMU0?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-06-10",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "교육부가 ‘교육혁신선도지역’ 지정을 추진하며 강원 인구감소지역이 주목받고 있습니다.",
+    "implication": "교육혁신선도지역 추진에 따라 학생들과 지역사회 문제를 탐구하는 프로젝트 수업을 시작할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "지역 소멸 위기, 교육부 해답은 '교육혁신선도지역 신설·소규모학교 혁신'",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93M0JiZXBycWFhZU10cldFT1M4aE9YQ3FtaEpyS1pjSUNFY2c3SkpqOGFuMUYycjM4ajVOMmYtY09SSmpWamp6TkxNX1RlbngzMnV6eXl1aFhVbms?oc=5",
+    "source": "더에듀",
+    "published": "2026-06-10",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "교육부가 지역 소멸 위기 극복을 위해 교육혁신선도지역 신설 및 소규모학교 혁신 방안을 제시했습니다.",
+    "implication": "지역 소멸 위기 현상과 교육부의 대응책을 탐구하는 수업 주제로 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "교육부, 지역의 미래를 위한 교육혁신, 지역 내 양질의 교육생태계 조성 추진",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Mdko3T0Nxa2dkTHZxMHhZdUZNMFFMRWg0cy1HRWxLVWl1cXg3TkFYd2tCck8wNVA3ZWhnU2hiLUNiVUVZSHhQYzJ3aHB2V1FXby10bWdaNS1oM2lCd0E1MUw0Zw?oc=5",
+    "source": "대한민국교육신문",
+    "published": "2026-06-10",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "교육부는 지역의 미래를 위해 교육혁신을 통해 지역 내 양질의 교육생태계 조성을 추진하고 있습니다.",
+    "implication": "우리 지역의 특징과 미래를 탐색하며 교실 밖 현장과 연계한 수업을 시도해볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "제주도교육청 성산중, 학교 공개의 날 운영…국제 바칼로레아(IB) 교육과정 공개",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMXzBqSThOUm1TY3lhY1BfSXo2Wi1qS0N0N2pSV0F0QUNsckptY2ZFXzJtX2xaNEFHa3FqbzJBZVl1V3g4VHFrc05hdDdfV3d1MDl2QWpwVE45TUstdzB3dTZRVQ?oc=5",
+    "source": "대한민국교육신문",
+    "published": "2026-06-10",
+    "keyword": "교육정책",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "제주교육청",
+     "IB"
+    ],
+    "summary": "제주 성산중이 학교 공개의 날을 통해 국제 바칼로레아(IB) 교육과정을 공개했습니다.",
+    "implication": "성산중의 IB 교육과정 운영 사례를 참고하여 학생 주도 탐구 수업을 구상할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Integrating Artificial Intelligence in Classroom Learning: Opportunities and Challenges for Student-Centered Pedagogy",
+    "url": "https://doi.org/10.67171/0gqhqw80",
+    "source": "openalex",
+    "published": "2026-06-09",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "인도네시아의 두 교육기관에서 질적 사례 연구를 통해 AI의 교실 학습 통합이 학생 중심 교육에 미치는 기회와 도전 과제를 분석하며, 균형 잡힌 디지털 교육 전환을 위한 제언을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Khaidir Ali, Önder Kutlu",
+    "pdf": "https://ejournal.grafindoscience.com/jed/article/download/248/410"
+   },
+   {
+    "n": 2,
+    "title": "Digital Learning Technologies and Student Engagement: Evidence from Primary and Secondary Education",
+    "url": "https://doi.org/10.67171/z0b0c987",
+    "source": "openalex",
+    "published": "2026-06-09",
+    "keyword": "",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [],
+    "summary": "초·중등 학생들의 디지털 학습 기술 참여도를 질적 사례 연구로 분석한 이 논문은 학습자 중심 전략과 교사 지도가 학생 참여를 증진함을 밝히고, 기술 한계와 방해 요인을 해결하여 지속 가능한 디지털 교육 환경을 구축해야 함을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Hendrik Ismail Syaleh, Nenden Suciyati artika2",
+    "pdf": "https://ejournal.grafindoscience.com/jed/article/download/245/413"
+   },
+   {
+    "n": 3,
+    "title": "Learning Analytics in Higher Education: Enhancing Academic Interaction and Personalized Learning through Digital Platforms",
+    "url": "https://doi.org/10.67171/6kagc468",
+    "source": "openalex",
+    "published": "2026-06-08",
+    "keyword": "edtech",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습",
+     "AI 리터러시"
+    ],
+    "summary": "이 연구는 인도네시아 고등교육기관의 질적 사례 연구를 통해 학습 분석이 디지털 플랫폼에서 학술적 상호작용과 맞춤형 학습을 효과적으로 증진함을 밝히며, 이를 위한 디지털 리터러시 및 윤리 정책 강화의 필요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Abdirahman Abdikadir Farah, Riccardo Pelizzo",
+    "pdf": "https://ejournal.grafindoscience.com/jed/article/download/249/409"
+   },
+   {
+    "n": 4,
+    "title": "Multi scale attention driven GIS framework for geoinformatics teaching applications in technical colleges",
+    "url": "https://doi.org/10.3389/feart.2026.1751070",
+    "source": "openalex",
+    "published": "2026-06-09",
+    "keyword": "",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [],
+    "summary": "기술대학 지리정보학 교육에서 해석 가능한 다중 스케일 분석의 한계를 극복하고자 Multi Scale Attention Driven GIS 프레임워크를 제안하여, 실제 매핑 성능과 학생 학습 성과 및 참여도를 효과적으로 향상합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Dongxue Yu",
+    "pdf": "https://www.frontiersin.org/journals/earth-science/articles/10.3389/feart.2026.1751070/pdf"
+   },
+   {
+    "n": 5,
+    "title": "Harnessing Objective Questions to Enhance Writing Pedagogy and AI Literacy in the Digital Age",
+    "url": "https://doi.org/10.59936/stile.v4i1.204",
+    "source": "openalex",
+    "published": "2026-06-07",
+    "keyword": "",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [
+     "AI 리터러시"
+    ],
+    "summary": "AI 시대 글쓰기 교육에서 객관식 질문을 활용한 8주 실증 연구를 통해 학생들의 논리적 사고, 구조화된 글쓰기 및 AI 리터러시가 효과적으로 향상되어 주관식 평가와 통합된 교육 생태계 구축에 기여함을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "YUAN TAO",
+    "pdf": "https://www.stile.hk/uploads/journals/1/pdf/204/204-3-video-Harnessing Objective Questions to Enhance Writing Pedagogy and AI Literacy in the Digital Age.pdf"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "코히어, 단일 GPU에서 작동하는 코딩 에이전트 ‘노스 미니 코드’ 오픈소스 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211572",
+    "source": "AI Times",
+    "published": "2026-06-10",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "코딩 AI",
+     "에이전트",
+     "오픈소스",
+     "GPU·데이터센터"
+    ],
+    "summary": "단일 GPU 기반 오픈소스 코딩 에이전트의 출시는 AI 개발 대중화와 생산성 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "온체인 AI 투자 열기가 고조되는 가운데, Defillama가 OpenAI, SpaceX, Anthropic을 위한 상장 전 영구채를 추가했다",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUndRMHJBOHYtNnkzMk94QUJucnJqWTlVWEVrVTBmdVR3RW5rS29SOHdCN3d5SlB2dXcyMW53c0FuZ2lWdUhoLTM5UDZjLUplVXFvZmtsejUyS0VPUE9JeGZwaGJZbTd0T0VYdVlrTHliaTB2UW52NTJlS2lOUG91V1kzS1ExMzlZbW03T2JJdEF0RV82UERudXl1azFtMHpxWHBEZFAxRVVjVTFmOGVYZmFwaUoxOXBvZTNQeE5yay11a251X2hSbklBM2RROThJdUVJaE1YOFpkTmVNaWpkT0F0TEJVYVVpOVlRbl82SnZIQQ?oc=5",
+    "source": "Bitcoin News",
+    "published": "2026-06-10",
+    "keyword": "Anthropic",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Anthropic"
+    ],
+    "summary": "DeFi를 통한 비상장 AI 기업 투자는 AI 기술 생태계에 새로운 자본 유입과 가치 평가의 장을 열어 성장을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "OpenAI wants its biggest data center yet, and Nvidia would back the bill",
+    "url": "https://the-decoder.com/openai-wants-its-biggest-data-center-yet-and-nvidia-would-back-the-bill/",
+    "source": "The Decoder",
+    "published": "2026-06-10",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "GPU·데이터센터",
+     "NVIDIA"
+    ],
+    "summary": "AI 기술 고도화를 위한 컴퓨팅 자원 확보 경쟁이 가속화되며, 엔비디아와 같은 하드웨어 기업의 전략적 중요성이 더욱 부각될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "퍼플렉시티 \"오픈AI·앤트로픽과 무관하게 2028년 IPO 추진\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211569",
+    "source": "AI Times",
+    "published": "2026-06-10",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Perplexity",
+     "OpenAI",
+     "Anthropic"
+    ],
+    "summary": "퍼플렉시티의 IPO 추진은 AI 산업이 거대 모델 기업 의존에서 벗어나 응용 서비스 분야의 독자적 가치와 시장 확장을 통해 성숙하고 있음을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "오픈AI 샘 알트먼, 삼성전자·카카오 찾는다…챗GPT 협력 확대 주목",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TSUlUN1RUTmdUT29aN0FTdjUwdkJ4cUFEUHpjdlhmQllkTW1nZFBqdEU2UUFBSXdhVS1sdWlMUzdNcmdNWW90OV9EQjZGTERIYjNHM0NfT3lCazQyYXRnWDYwaHlncGI3Q0dteTZZb0owaU0?oc=5",
+    "source": "디지털투데이",
+    "published": "2026-06-11",
+    "keyword": "오픈AI",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "삼성",
+     "카카오",
+     "ChatGPT"
+    ],
+    "summary": "오픈AI와 삼성전자, 카카오의 협력 심화는 AI 모델-하드웨어-서비스 간 융합을 가속화하여 AI 기술 생태계 전반의 성장과 시장 확대를 견인할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "대구대 SW사업단, 오픈소스SW 업사이클링 위한 AI 에이전트 개발 성과 확산…한국산업정보학회 우수논문상",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBENmIyMkk0U1FvZjQwcVdQTXZ0djFfS0JFeHpSQ3Y4LUxjaURLNDdBQ2J1SUg5S29YUU9zLVUxOEtUZzY1VVRaZHJEUHc2dw?oc=5",
+    "source": "전자신문",
+    "published": "2026-06-11",
+    "keyword": "오픈소스",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "오픈소스",
+     "에이전트"
+    ],
+    "summary": "AI 에이전트가 오픈소스SW를 고도화하여 소프트웨어 생태계의 효율과 가치 창출을 이끌 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "Anthropic releases Claude Fable 5 and Mythos 5 with major gains in coding and science",
+    "url": "https://the-decoder.com/anthropic-releases-claude-fable-5-and-mythos-5-with-major-gains-in-coding-and-science/",
+    "source": "The Decoder",
+    "published": "2026-06-09",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude",
+     "코딩 AI"
+    ],
+    "summary": "Anthropic의 코딩 및 과학 분야 AI 역량 강화는 전문 영역에서 AI의 실용적 가치를 높이며 AI 산업 경쟁을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "LG전자, 오픈AI '앱스 인 챗GPT'에 전용 앱 출시… \"AI 대화하며 가전 쇼핑“",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLUUJrSlBRVml4aU9RM2o0UURTeFkxNDVDeUVfaENORmY2LUpuVHRMa2gyanE5V181YWJjNzB3WVpkanFONFNZeUluNXU4cVg1eXdKbThFLVNzNVlNd2VvNEVCcmZEMHlubHlLUA?oc=5",
+    "source": "워크투데이",
+    "published": "2026-06-10",
+    "keyword": "오픈AI",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "오픈AI 플랫폼이 단순 정보 제공을 넘어 기업의 제품 및 서비스를 직접 판매하는 새로운 상거래 허브로 확장될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "[AI&빅데이터쇼] 슈퍼브에이아이, AI 영상 관제 솔루션 중소기업 문의 잇달아",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211580",
+    "source": "AI Times",
+    "published": "2026-06-10",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [],
+    "summary": "중소기업의 AI 영상 관제 솔루션 도입 문의 증가는 AI 기술의 대중화 및 실질적인 산업 적용 확대를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "[AI&빅데이터쇼] 노타, K-AI 프로젝트 증명 ‘최적화’ 기술…”분야 막론 수요 증가”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211581",
+    "source": "AI Times",
+    "published": "2026-06-10",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 최적화 기술은 AI 모델의 실제 적용과 효율성을 높여 K-AI의 경쟁력 강화 및 산업 전반의 AI 확산을 촉진할 핵심 동력이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

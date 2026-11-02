@@ -1,0 +1,427 @@
+{
+ "date": "2026-06-17",
+ "generated_at": "2026-11-02T11:38:21+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[기고] 경기도교육청 ‘안민석표 교권보호국’ 출범, 교권 회복의 전환점 되려면",
+    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBkUjRDQXRhalgtT3kzbkFlODJDU1d6ODVPd0lDZm5lakJzZG9pUnNQQWVGMnhEX3dkZUU2WTBSREFYVTdS?oc=5",
+    "source": "케이에스피뉴스",
+    "published": "2026-06-16",
+    "keyword": "교사기고",
+    "topic": "teacher",
+    "kind": "opinion",
+    "entities": [
+     "경기도교육청",
+     "교권"
+    ],
+    "summary": "경기도교육청이 ‘안민석표 교권보호국’을 출범시켰고, 이를 교권 회복의 전환점으로 삼으려 합니다.",
+    "implication": "이번 교권보호국 출범을 통해 선생님들은 교육 활동에 더욱 집중할 수 있는 환경이 조성될 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[포토뉴스] 재정부·교육부·고용노동부, 한양대 첨단산업 인재양성 부트캠프 교육 현장 방문",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QNzVZSXdWQlpjMm10VjNna1pab3hneGRDSXM2bExuMUhzODVvSExWODZ4XzBZVEU1ZDVock9FRWFrb1BkNmlSaldnSHlwLU84NTVrOXlteWx2U3FSa3BvRWlHWnBFOUtDLWc?oc=5",
+    "source": "뉴스H",
+    "published": "2026-06-16",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "재정부·교육부·고용노동부가 한양대 첨단산업 인재양성 부트캠프 교육 현장을 방문했습니다.",
+    "implication": "학생들에게 첨단산업 분야 진로 탐색 및 실무 역량 개발의 중요성을 안내할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[교육] 전북미래학교 147곳 집결…수업혁신 해법 찾는다",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00MjZLX3dkUmNXeFdEX2JPVmFyUklXNHkySWhJUkZYbWVvaGhsTXktMEJtZjl1RU05ZHh1X1JJQnpFbXU1OGVDWFQzaTRQLXBJMjZuSEFWM3E4RlVWd2xjZzFyeHhkeWVoUlZCTklFRUFONjTSAXdBVV95cUxQMVBLbm0xVjNSclRNNWs3Q0dNZi05NHlYMnFPYnNvM1d4RnVMWHpRMUpwSEt1cHhmd2NqNi00ek5qS2djeXVTQm1XOVlVYnc2REN0ODdyeHZaMGVaUVZSYnhBRVJmQWVjWTdnal9GYzhXMFMyRGxIaw?oc=5",
+    "source": "뉴스프리존",
+    "published": "2026-06-16",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "전북지역 147개 미래학교가 한자리에 모여 수업 혁신을 위한 해결책을 모색합니다.",
+    "implication": "다른 학교의 수업 혁신 사례를 참고하여 제 수업에 적용할 아이디어를 얻을 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[교육타파] 독감에도 못 쉬다 숨진 부천 유치원 교사…교육부, 대체인력 전면 개선",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQVEY0RU10WXdBQ2hJYVFLVEVqcTlFMHFoM0tWWFFPcmpkOEtzOWgtSjBReWpOME9ZZG5vYXZ1OHYyZUI2Qzc5UXRQVXpfYUlNZmdhWWFJMkd6UDFQc3dV?oc=5",
+    "source": "전북미래교육신문",
+    "published": "2026-06-16",
+    "keyword": "교육정책",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "부천 유치원 교사의 사망 사건을 계기로 교육부가 대체인력 제도를 전면 개선할 예정입니다.",
+    "implication": "교사는 아플 때 대체인력 시스템 활용을 통해 수업의 연속성을 확보할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "최교진, 청년들 만나 교원처우·특수교육 등 교육정책 논의",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MS1pyX0R1aXF3dm1nSmNjeUlka1ZUNDlwRUVZWnI5MkVUejVXeWZZS1BOcnNfV05WRWpIcFVIaDRvZmgtZWVCNEd1cWdYTlFFSjlJdUlFZGVDNlhUSEVQdTdpNzEzdGdDTmtzNXZLSHlrc3hWdHpKWA?oc=5",
+    "source": "네이트",
+    "published": "2026-06-16",
+    "keyword": "인공지능교육",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "특수교육"
+    ],
+    "summary": "최교진이 청년들과 교원처우, 특수교육 등 교육정책에 대해 논의했습니다.",
+    "implication": "청년들의 교육정책 참여를 통해 미래 교육 방향을 함께 생각해 볼 기회입니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "대전시교육청 대전교육정책연구소, 유레카 심화 연수로 데이터 기반 정책 연구 역량 강화",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xVHNnVlpqTFExdExUS29xdlZHV3dXYmc1anozZmQ2X1NBNEhDaWtsVWR4LTBBTnFsRDhZaDB2YVYxdEtjNGVIVWFjVjVrQ3dTVVhWLUdIR3BDUWNMdklBS0k4OFIxZUFremVVODNUaUgtZw?oc=5",
+    "source": "투데이플러스",
+    "published": "2026-06-17",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "대전교육정책연구소가 유레카 심화 연수를 통해 데이터 기반 정책 연구 역량을 강화한다.",
+    "implication": "수업에서 학생들과 실제 데이터를 분석하며 탐구 및 비판적 사고력을 키울 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "전남교육청, ‘성평등’ 교육정책 설계 역량 강화",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uYWVIYW5pdmJmZjRvNGNLNUNyTXNvMWFJOGIxX0xDOXUxbHBveERaWEYwdEtRbnlBYW96M092V3o3LVBkVXB2bk03dGNrM1k?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-06-16",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "전남교육청"
+    ],
+    "summary": "전남교육청이 성평등 교육정책 설계 역량을 강화하고 있습니다.",
+    "implication": "수업에서 성평등의 중요성을 다루는 다양한 활동을 계획할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "강원교육감인수위, 신경호표 교육정책 '송곳 검증' 착수",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vUnVaMEN2MzN1SEU1OEdCYy1EZEF5X2JRckt0Vk1OdngwVTRMaWhHbHVna2lPTVQxUnE2RWdtSThtTk9UdGp1c1c2N1h1SWU3Tlkw?oc=5",
+    "source": "네이트",
+    "published": "2026-06-16",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "강원교육청"
+    ],
+    "summary": "강원교육감인수위가 신경호표 교육정책에 대한 송곳 검증에 착수했습니다.",
+    "implication": "새 교육정책의 검증 결과를 토대로 수업 방향을 유연하게 계획할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "[교육정책] 인천 학생들, 세계를 교실 삼아 미래를 배운다",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE10US1oS05SelBQNGF1Y2Q4OUFrbURwbmY0TGN6Yi1vQTFiRkRzeDlGY1FtVUtCZFJWcVlEQ2p5Qmo0NGhjX2owNFpudXB2anJlbTlMcXAyVXF6U280UFZ4WVl2VzZvSWtHV3pGdF82eVE0MEXSAXdBVV95cUxQTkU2b3N5Q2JaMy1RYnd6OXFpb2NUME9PMVlpbnNnTzJZN0tPX2thdU9hSTVseC1hNlYwR2hPYjIwVV9WdU4wVHdPaUJ2WUNJUDBObGlvSEwzbERwQl95WTVXcFJXR1VpM3I1aldSYXpLWjVDWGk5aw?oc=5",
+    "source": "뉴스프리존",
+    "published": "2026-06-16",
+    "keyword": "교육정책",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천 교육 정책이 학생들이 세계를 교실 삼아 미래를 배우도록 지원하는 것입니다.",
+    "implication": "학생들에게 교실 밖 세상을 연결하여 실제적인 배움을 경험하게 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "생성형 AI 일상화…창작자 4명 중 3명 \"필수 도구\"",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fQ1pwWmNoQm94Ry1SYldUbUZFNlp2MVZDZ2xvZU91dy03WnI1YVF6bVI1bVNzUlZuek5KSVF4a0JoWThEZTdGVnVYc3BkZ0JYaDNz?oc=5",
+    "source": "네이트",
+    "published": "2026-06-17",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "생성형 AI가 일상화되면서 창작자 4명 중 3명이 이를 필수 도구로 인식하고 있습니다.",
+    "implication": "학생들이 창의적인 작업을 할 때 생성형 AI를 보조 도구로 활용하도록 지도할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Application of a virtual simulation experiment system in teaching pain diagnostics and therapeutics in the digital-intelligent era",
+    "url": "https://doi.org/10.61189/355565lnuowp",
+    "source": "openalex",
+    "published": "2026-06-15",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [
+     "추론 모델"
+    ],
+    "summary": "이 연구는 마취과 학생들에게 가상 시뮬레이션과 실제 임상 관찰을 결합한 혼합 학습이 전통적인 방식보다 통증 진단 및 치료 교육의 효과와 임상 추론 능력을 크게 향상시켜 교육 개혁에 긍정적 영향을 줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Shangping Fang, Huaichang Wen 외 1명",
+    "pdf": "https://oss.zentimepublishing.com/upload/asset/20260612/434104be68147949a6bb7a931247994d4f96e41a.pdf"
+   },
+   {
+    "n": 2,
+    "title": "Digital Ethnopedagogy for Cultural Revitalization: A Quasi-Experimental Investigation of Multimedia-Based Electronic Teaching Materials on Malay Local Wisdom Literacy and Cultural Identity Formation",
+    "url": "https://doi.org/10.12688/f1000research.182907.1",
+    "source": "openalex",
+    "published": "2026-06-15",
+    "keyword": "",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [
+     "문해력"
+    ],
+    "summary": "이 연구는 멀티미디어 기반 말레이 문화 전자 교수 자료를 준실험 연구로 개발 및 평가하여, 지역 지혜 문해력과 문화 정체성 형성을 효과적으로 증진하며 디지털 민족교육학 발전에 기여함을 밝힙니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Marwansyah Marwansyah, Zulirfan Zulirfan 외 1명",
+    "pdf": "https://f1000research.com/articles/15-931/pdf"
+   },
+   {
+    "n": 3,
+    "title": "Contextualising Teacher Education Curricula in the Arab Gulf States",
+    "url": "https://doi.org/10.1017/9781009518383",
+    "source": "openalex",
+    "published": "2026-06-15",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 아랍 걸프 지역 교사 교육을 위한 문화적으로 책임감 있는 마즐리스 커리큘럼을 제안하며, 문화적 연속성을 유지하며 국제 교육 담론에 참여할 수 있는 현지 인식론적 기반을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Wisam Kh. Abdul-Jabbar",
+    "pdf": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E07BEC7B7E6DC0E07BD01B75BE0FCB88/9781009518437AR.pdf/contextualising-teacher-education-curricula-in-the-arab-gulf-states.pdf"
+   },
+   {
+    "n": 4,
+    "title": "Media Literacy Education and Curriculum Integration: A Literature Review",
+    "url": "https://www.semanticscholar.org/paper/458c9ab58c26a7ec8eee2b0ee4d4d3415cb284ca",
+    "source": "semantic_scholar",
+    "published": "2020-03-16",
+    "keyword": "",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [],
+    "summary": "미디어 리터러시 교육(MLE)의 교과과정 통합 연구 부족을 해결하고자 지난 30년간의 문헌 98개를 체계적으로 분석하여 MLE의 목표, 학습 경험, 평가 측면에서 국가별 통합 방식의 차이를 밝히고 학생 및 교사 교육을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Lei Zhang, Hui Zhang 외 1명",
+    "pdf": "https://redfame.com/journal/index.php/ijce/article/download/4769/4961"
+   },
+   {
+    "n": 5,
+    "title": "DIGITAL PEDAGOGY IN VOCATIONAL EDUCATION: A SCOPUS-BASED BIBLIOMETRIC ANALYSIS (2016–2025)",
+    "url": "https://doi.org/10.51878/educational.v6i3.11800",
+    "source": "openalex",
+    "published": "2026-06-15",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "이 연구는 2016-2025 스코퍼스 데이터 기반 계량서지학 분석을 통해 직업 교육 디지털 교수법의 급성장과 e-러닝에서 AI 및 몰입 기술로의 전환을 밝혀 교육 전략 수립에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Indah Khoerunnisa",
+    "pdf": "https://www.jurnalp4i.com/index.php/educational/article/download/11800/7714"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "사카나 AI, '가상 CSO' 에이전트 출시…8시간 조사로 100페이지 보고서 작성",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211790",
+    "source": "AI Times",
+    "published": "2026-06-16",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "AI가 고도의 전략 분석 및 보고서 작성 등 지적 업무를 자동화하며 기업의 전략 수립 및 경쟁력 향상을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "머스크, 오픈AI 상대 영업비밀 소송 패소…'비영리' 소송 이어 2연패",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211770",
+    "source": "AI Times",
+    "published": "2026-06-16",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "xAI",
+     "OpenAI",
+     "저작권·소송"
+    ],
+    "summary": "머스크의 잇따른 패소는 오픈AI의 영리-비영리 혼합 모델의 법적 안정성을 확고히 하며, AI 기술 개발 및 IP 전략 수립에 중요한 지표가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "오픈AI GPT-5.6 출시 임박… 수석과학자 \"의미 있는 도약\"",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxeXVZRThCcl9ST2diQXNqYWM5X1NaZTJfbzhMSW8yVHJIRW5OQy00TkN3dFU2NmdaOENKbnlHclhraTJXZk9PU09UM0RyeUM3OEZHMA?oc=5",
+    "source": "AI 매터스",
+    "published": "2026-06-17",
+    "keyword": "오픈AI",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "오픈AI GPT-5.6은 AI 기술 성능 기준을 대폭 상향하며 산업 전반의 혁신과 경쟁을 심화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "카카오, 카톡 채팅방서 '챗GPT' 바로 호출 기능 업데이트",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211791",
+    "source": "AI Times",
+    "published": "2026-06-16",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "카카오",
+     "ChatGPT"
+    ],
+    "summary": "카카오톡의 챗GPT 연동은 AI 기술의 대중 접근성을 획기적으로 높여 플랫폼 기반 AI 활용의 보편화를 앞당길 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "KT, 멀티모달 MLLM 벤치마크 ''KSAFE-MM' 공개…한국형 AI 안정성 평가",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzSFhodGxQbkhDeGUxOGEweXBaek5heWF6RXdIanRBNUtGeHVVcGFhaVZ4ZTdQMmNDcU53WTJKdFBzZUxXN2pobU1qNmJRbE1EYTA3Sl9iQ0htaXVxa0ZFQ1c2WXo4bTY4T0RraA?oc=5",
+    "source": "굿모닝경제",
+    "published": "2026-06-16",
+    "keyword": "생성AI",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "KT",
+     "벤치마크"
+    ],
+    "summary": "KT의 한국형 멀티모달 AI 안정성 벤치마크 KSAFE-MM 공개는 국내 AI 생태계의 신뢰 기반 혁신과 산업 성장을 위한 핵심 평가 표준을 제시할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+    "source": "Google Blog - AI",
+    "published": "2026-05-29",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "Google AI Studio를 통한 창의적·대화형 AI 콘텐츠 제작은 AI 기술의 대중화와 활용 범위 확대를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "url": "https://openai.com/index/bbva",
+    "source": "OpenAI Blog",
+    "published": "2026-06-11",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "BBVA의 OpenAI 핵심 도입은 금융권을 필두로 AI가 전 산업의 핵심 경쟁력이자 필수 인프라로 자리매김할 것을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "구글·엔비디아·AWS가 가르친다…경기도, 미래 AI 인재 60명 양성",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3MW5hdE9FQkI2Wm9BZF92TWp0QTFfbnlPZ29XSV9OMzI0UzhrMm9uV1dUVm4tbEZpWk9WajRKSTlNNTNoM0l0ZzNKY0l5cUwzLXVtY3JvOEXSAVRBVV95cUxOZnRzZ3ktUWc5UE9HTjNzRGV3Ul9jdmlrbW9IRFdKbGNjNGhxdE9sYU53cTNFS0cwU29MNnl4RG5ZTldXMlJzWFJsUFR5b2xOQ3h4TGQ?oc=5",
+    "source": "세계일보",
+    "published": "2026-06-17",
+    "keyword": "구글",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Google",
+     "NVIDIA"
+    ],
+    "summary": "글로벌 빅테크 기업의 직접 참여 인재 양성은 국내 AI 생태계의 실질적 기술 경쟁력을 높일 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "시선AI, AI 스마트 대중교통 국책사업 참여…총 사업비 35.7억원, 온디바이스 LLM 에이전트 및 비전 AI 인식 기술 개발",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mQTFMVmpndlRmOWpteHhnUDBKYm5GTTNMRkMwZVpFVzk1S3dUdlFkNk5jVkI0cHBZeW5ESTNpRll1dFJKc19yWGlpYVBIemdKZFFWNUZ5czVUc2Y4ak9oYldUNW9sNUU?oc=5",
+    "source": "인공지능신문",
+    "published": "2026-06-16",
+    "keyword": "LLM",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "온디바이스 AI",
+     "LLM",
+     "에이전트"
+    ],
+    "summary": "국책사업을 통해 온디바이스 LLM과 비전 AI가 대중교통에 실제 적용됨으로써 AI의 특정 도메인 맞춤형 임베디드 활용이 가속화될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "GPU 의존 낮출까…마인드빔 AI, CPU용 LLM 추론 오픈소스 공개",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CMGswVTNVYjduRUUtc29TV1FNSnp2ZkY5ek5uZFBKYWZiSU40N0NPT2VDS1JVd1UzaDFWeFg1R3VCMmV3NEI5S211Y2VpNTZi0gFWQVVfeXFMTmIyeldsODVOaTFNbmtQd3ZicXJsLWFlZWQ2WGNRcVN2WXlSbkoxZ1ZIUnlGNEVzRzBuNVFfYkFNOXNacTR0eFRfNm4yOGVDMkd2SlEzd2c?oc=5",
+    "source": "tokenpost.kr",
+    "published": "2026-06-16",
+    "keyword": "LLM",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "GPU·데이터센터",
+     "LLM",
+     "오픈소스"
+    ],
+    "summary": "GPU 의존도를 낮추는 CPU용 LLM 추론 오픈소스 공개는 AI 기술의 대중화와 접근성 확대를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

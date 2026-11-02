@@ -1,0 +1,419 @@
+{
+ "date": "2026-01-02",
+ "generated_at": "2026-11-02T11:50:06+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[김창학 칼럼] 교육청, ‘행정 다이어트’가 시급하다",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50aXNoRDV0WlROLXBmWXg5SzRuRnR1ZTFvcXo2am14aTR0RnB0cTlORXBpZ1hHNU13WG1wdmlRa1NRZWRJRHlXVkNFLWdNN2JKblJONWhwd0h1TmFMQjFIa25NZWdCLTl3?oc=5",
+    "source": "에듀프레스",
+    "published": "2026-01-01",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "교육청의 행정 효율성 강화는 교사의 본질적인 교육 활동 집중을 유도하고 궁극적으로 학생 중심 교육 실현에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[김용삼 칼럼] AI 혁명시대, 석기시대로 회귀하는 한국 교육",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kXzZub19LRXZ0enlLM3g0SDhSYXd0WDJFYUNWSV9qanJzTFh6ajFYTHQ4VS1YMGdZLTRKR2dPQlByNWZMRzJWX0hwbmhKNmlaODhvT1FsM2FCY1RPOUtlTjZzODRlN2EtY0tN0gFvQVVfeXFMUFVLc091MDEzY3FBOEVvNm9NZDQ1LXdtcHdhRmpVNzRCMWNKQmh1T3pqS2xzOEp2Sm41MmFnWTJWaGFjQXFqWGdWdFhZUXNzLUY3cXZQU1pDMVhEVXk4SFQ4NXZhbjRWLWwzalRUdFlR?oc=5",
+    "source": "펜앤마이크",
+    "published": "2026-01-01",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "AI 시대에 뒤쳐진 한국 교육은 혁신적인 변화를 통해 미래 사회에 필요한 역량을 키우는 방향으로 나아가야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[신년 특별기고] 전 세계가 'AI 독립전쟁'⋯왕좌의 게임이 시작됐다",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oejZsNUxkZ0ZiNkVUWVEtcjdfV19EX05aWHZSSnBfTjZleUN6QVZaS2Z6emtZcVh2WGRVLUxwbG1RWnM1NWxubjNZWFZQNm5RdlVzYg?oc=5",
+    "source": "이투데이",
+    "published": "2026-01-01",
+    "keyword": "미래기술",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [
+     "AI 리터러시"
+    ],
+    "summary": "AI 독립 경쟁 시대는 교육계에 AI 리터러시 함양과 창의적 문제 해결 능력을 키우는 교육 혁신의 시급성을 강조합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[최재용 AI 칼럼] 강의실의 변화는 이미 시작됐다: AI가 ‘강사를 선택하는 시대’",
+    "url": "https://www.lecturernews.com/news/articleView.html?idxno=194143",
+    "source": "한국강사신문",
+    "published": "2026-01-01",
+    "keyword": "",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "AI가 강사 선택에 영향을 미치는 시대에, 교육자는 AI 활용 능력과 차별화된 전문성을 강화하여 경쟁력을 확보해야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[의료칼럼] 우리 아이 척추 건강의 골든타임은?",
+    "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2248663",
+    "source": "대전일보",
+    "published": "2026-01-01",
+    "keyword": "",
+    "topic": "student_care",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "청소년 척추 건강 악화는 장시간 앉아있는 학습 환경과 관련 있으므로, 학교는 학생들의 활동량 증가 및 바른 자세 교육을 강화해야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "부산시교육청, 고교학점제 지역 대학 연계 교육과정 운영",
+    "url": "https://www.lecturernews.com/news/articleView.html?idxno=194140",
+    "source": "한국강사신문",
+    "published": "2026-01-01",
+    "keyword": "",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "부산시교육청",
+     "고교학점제"
+    ],
+    "summary": "고교학점제의 성공적 안착을 위해 대학의 교육 자원 활용을 확대하고 학생들에게 폭넓은 학습 기회를 제공하는 긍정적인 시도입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "김지철 충남교육감, 2026년 신년사 발표 “혁신교육 토대 위에 지속가능한 미래교육 다진다”",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2RjRfSlhKUGxhTkZKZmdSMGZhVGRxMGdYOENEVkxLdUFQbG93dlVpMU5EZmtHWlBsODBiN0hmYnNGVlpGMEl1ZHk0YkJKS3VBTWhPX1EtLUh2VU4yLXczdjlSSGIzaHJCWWtUcUVXMNIBb0FVX3lxTFA2RjRfSlhKUGxhTkZKZmdSMGZhVGRxMGdYOENEVkxLdUFQbG93dlVpMU5EZmtHWlBsODBiN0hmYnNGVlpGMEl1ZHk0YkJKS3VBTWhPX1EtLUh2VU4yLXczdjlSSGIzaHJCWWtUcUVXMA?oc=5",
+    "source": "연합투데이",
+    "published": "2026-01-01",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "김지철 교육감의 신년사는 혁신교육의 성과를 바탕으로 미래교육 방향을 제시하며, 교육 현장의 지속가능한 발전을 위한 정책 추진 의지를 보여주는 것으로 해석됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "임태희 경기도교육감 “경기 미래교육, 어떤 상황에서도 흔들림 없이 간다”",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Pel9oa2dsdTVGMUdJVEM5UDluSmZZcEZKV0UzbWtGenVteEVsRS1wNElwYUVWR0VfbF93bXZiOXFSSUVyQ3Ruak5VOVdHbVZhN01XYQ?oc=5",
+    "source": "이투데이",
+    "published": "2026-01-01",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "임태희 교육감의 발언은 정책 연속성을 강조하며, 미래교육에 대한 확고한 의지를 보여 교육 현장의 혼란을 최소화하려는 노력으로 풀이됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "설동호 대전교육감 \"창의융합·혁신교육·학교안전 강화…대전형 미래교육 실현하겠다\" |",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8wa0hqM2dBZXBNd3pXV0c0UVhRTGFiRE9HSHVEbTgzY21aSmo5NVJ4Rk1xaVE2alhjV0NzZldJUVljRkdvSEtjSGZTVjNrVmNsNk5kLVVJQXRKSk00MktMdGE5MU1kVTRXWG50a1h4T0tsLVk?oc=5",
+    "source": "대전일보",
+    "published": "2026-01-01",
+    "keyword": "AI디지털교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "설동호 교육감의 미래 교육 비전은 창의융합 교육 강화와 안전한 학교 환경 조성에 초점을 맞추어, 대전 교육의 혁신적 발전을 기대하게 한다는 점에서 긍정적입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "새 정책보다 '안착'…AI·고교학점제·라이즈, 2026년 교육정책 분수령 |",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vNDlLQXllbzRyclUyV0VZbXhpdi1HeHI3ZnlvVjJ1MVFEMC1WTVdEOGhtcmhyWDh3R3kzRUNleml3OTVrdFlSY2o1V0lUY1NyeXRGS2RHRUZ6Y3NpY0U5MXcxTEdTdHRmM2E3T2lBc0RDUQ?oc=5",
+    "source": "eduplusnews.com",
+    "published": "2026-01-01",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "고교학점제"
+    ],
+    "summary": "2026년은 AI, 고교학점제, RISE 등 주요 교육정책의 안착 여부가 교육의 미래를 결정짓는 중요한 시기가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Empowering Education with Generative Artificial Intelligence Tools: Approach with an Instructional Design Matrix",
+    "url": "https://www.semanticscholar.org/paper/2eeff0f534d303581bc1199671600fbd04a2d01c",
+    "source": "semantic_scholar",
+    "published": "2023-07-25",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "개인화 학습"
+    ],
+    "summary": "본 연구는 4PADAFE 교육 설계 매트릭스와 생성형 AI 도구를 활용하여 MOOC 과정에서 교사들을 대상으로 교육 효과를 분석한 결과, 맞춤형 학습 경험을 제공하고 교육 활동의 효과성을 높여 대학 교육 혁신에 기여할 수 있음을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Lena Ivannova Ruiz-Rojas, Patricia Acosta-Vargas 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "The Importance of Autonomous, Self-Regulated Learning in Primary Initial Teacher Training",
+    "url": "https://www.semanticscholar.org/paper/3f3c66d1e3f3b290f50eacb3deb906e784514509",
+    "source": "semantic_scholar",
+    "published": "2019-09-01",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제",
+     "교사 연수"
+    ],
+    "summary": "초등 교사 양성 과정에서 자율적 자기 주도 학습(SRL) 능력을 함양하는 것이 중요하며, 이를 위해 교사 교육 프로그램이 SRL, 자율성, 평생 학습 개념을 통합하고, 교사-학생 관계 중심의 구성주의적 접근 방식을 활용해야 함을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Sue Oates",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Improving Learning Outcomes through Predictive Analytics: Enhancing Teaching and Learning with Educational Data Mining",
+    "url": "https://www.semanticscholar.org/paper/b8ceb9a89ade1ef2f67a6e58cb5d34f3b1a00360",
+    "source": "semantic_scholar",
+    "published": "2023-05-17",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "본 연구는 교육 데이터 마이닝(EDM)을 활용하여 학습 분석 이론, 교육 심리학 이론 등 다양한 교육 이론을 적용하고 학생 맞춤형 학습 환경을 조성하여 학습 성과를 향상시키는 방법을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ashraf Alam",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "A Comparative Analysis of On-Device AI-Driven, Self-Regulated Learning and Traditional Pedagogy in University Health Sciences Education",
+    "url": "https://www.semanticscholar.org/paper/43f52a9cd7e7064ddfe650f581b79dd6786ad54c",
+    "source": "semantic_scholar",
+    "published": "2025-02-10",
+    "keyword": "",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [
+     "온디바이스 AI",
+     "AI 안전·규제"
+    ],
+    "summary": "대학 보건 과학 교육에서 AI 기반 교재를 활용한 자기 주도 학습과 전통적 교수법을 비교 분석한 결과, 학업 성취도에서는 유의미한 차이가 없었지만, AI 학습은 자기 주도 학습을 지원하며 디지털 형평성 등의 과제를 제시하여 향후 AI 교육 도구의 장기적 효과 평가 및 인간 중심 교육과의 균형을 위한 연구가 필요함을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Jiyong Chun, Jeongsoo Kim 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "Flipped Classroom model before and during COVID-19: using technology to develop 21st century skills",
+    "url": "https://www.semanticscholar.org/paper/60546f710302dc7f219a73ddbe0b158c11f8a4ce",
+    "source": "semantic_scholar",
+    "published": "2021-04-06",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 코로나19 전후의 플립러닝이 대학생들의 21세기 역량 개발에 미치는 효과를 설문조사를 통해 분석하고, 플립러닝이 블렌디드 러닝 접근을 용이하게 하여 미래 교육에 기여할 수 있음을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Cecilia Latorre‐Cosculluela, Cristina Suárez 외 1명",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "2026년 AI 주요 이슈를 챗GPT·제미나이에 물어 봤더니",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205219",
+    "source": "AI Times",
+    "published": "2026-01-01",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Gemini",
+     "에이전트"
+    ],
+    "summary": "AI 모델의 예측처럼 2026년에는 AI가 산업 현장에서 실질적인 성과를 창출하며 AI 에이전트, 로우코드/노코드 등의 기술이 확산되는 실행의 해가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "'제미나이 3', IQ 130으로 최고 점수 기록...\"AI IQ, 2년 새 30이나 늘어\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205212",
+    "source": "AI Times",
+    "published": "2025-12-31",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Gemini"
+    ],
+    "summary": "AI IQ의 급격한 증가는 AI 모델 성능 향상의 객관적 지표로 활용될 수 있지만, 실제 산업 적용 가능성과 윤리적 문제에 대한 심층적인 검토가 필요합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "오케스트로, ‘소버린 AI 클라우드 솔루션 패키지' 일본 수출",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205215",
+    "source": "AI Times",
+    "published": "2025-12-31",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [],
+    "summary": "오케스트로의 일본 수출은 국내 AI 기술력이 해외 시장에서 인정받기 시작했다는 중요한 신호탄입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "How to Build an AI-Powered Weather ETL Pipeline with Databricks and GPT-4o: From API To Dashboard",
+    "url": "https://towardsdatascience.com/how-to-build-an-ai-powered-weather-etl-pipeline-with-databricks-and-gpt-4o-from-api-to-dashboard/",
+    "source": "Towards Data Science",
+    "published": "2025-12-26",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-4o를 활용한 날씨 데이터 파이프라인 구축 가이드는 AI 기반 데이터 분석 및 시각화 역량을 강화하여 다양한 산업 분야의 의사 결정을 효율적으로 지원할 수 있음을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "메타의 마누스 인수, 중국 AI에 기회와 경고 동시에 남겨",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205224",
+    "source": "AI Times",
+    "published": "2026-01-01",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "Meta"
+    ],
+    "summary": "메타의 마누스 인수는 중국 AI 기업의 글로벌 경쟁력 입증 기회인 동시에, 기술 독립의 과제를 부각하는 사례입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "엔비디아, 이스라엘 AI21 4조에 인수 협상",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205209",
+    "source": "AI Times",
+    "published": "2025-12-31",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "LLM"
+    ],
+    "summary": "엔비디아의 AI21 랩스 인수는 AI 모델 경쟁 심화 속에서 자체적인 LLM 생태계 구축을 가속화하려는 전략적 움직임입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "OpenAI merges internal teams to fix audio AI accuracy gap ahead of ChatGPT hardware push",
+    "url": "https://the-decoder.com/openai-merges-internal-teams-to-fix-audio-ai-accuracy-gap-ahead-of-chatgpt-hardware-push/",
+    "source": "The Decoder",
+    "published": "2026-01-01",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "OpenAI의 음성 AI 정확도 개선 노력은 향후 ChatGPT 하드웨어 경쟁력 강화에 필수적이며, AI 음성 인터페이스 시장 선점 경쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "[12월31일] '바이브 코딩' 카르파시...\"나조차 AI 발전 속도 따라잡기 어려워\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205204",
+    "source": "AI Times",
+    "published": "2026-01-01",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "코딩 AI"
+    ],
+    "summary": "AI 발전 속도가 프로그래밍 패러다임을 근본적으로 변화시키고 있으며, 개발자의 역할 재정립이 시급함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "중국 IT 대기업, AI 인재 경쟁으로 파격적인 연말 보너스 제시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205211",
+    "source": "AI Times",
+    "published": "2025-12-31",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "중국 빅테크의 AI 인재 확보 경쟁 심화는 글로벌 AI 기술 패권 경쟁의 가속화와 인력 이동을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "에듀테크·뷰티까지 가세…韓, 역대 최다 470곳 출격",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmcVBId3dqakt1NzdtVWpEMmYtenZJUFVER0dkOVVJclJ4T1VGOFpPWFJ2SE9VQjhzYS1KS1VVOFRFcEVIQ3g1bnNaRDVvVmgyMUZCcWhn0gFXQVVfeXFMT1JveXFFS2hnN19lTzJwS2U5TVNBcVNaQ201ckVjRVhMZTFSVm5mOGZKU3I1clJPLU96dkh3YkdCVDUwWEtHVFM2NFBSWTZNWWN3bkVJbkRV?oc=5",
+    "source": "sedaily.com",
+    "published": "2026-01-01",
+    "keyword": "에듀테크",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [],
+    "summary": "국내 AI 기술 스타트업의 다양한 분야 진출은 AI 생태계 확장과 산업 혁신을 가속화할 긍정적 신호입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 시대 속 교육 혁신과 미래 교육을 향한 움직임이 활발하며, 고교학점제와 지역 연계 강화, 교육청의 효율화 노력 등을 통해 지속 가능한 교육 환경 구축을 모색하고 있다.",
+  "tech": "AI 기술 경쟁 심화 속에서 성능 향상, 해외 진출, 인재 확보, 그리고 다양한 산업 분야로의 확장 등 AI 생태계가 빠르게 진화하며 미래를 향해 나아가고 있다."
+ }
+}

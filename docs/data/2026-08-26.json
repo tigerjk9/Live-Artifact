@@ -1,0 +1,411 @@
+{
+ "date": "2026-08-26",
+ "generated_at": "2026-11-02T11:42:12+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "충북교육청 조직개편 시동…“안전국 신설·AI교육 강화”",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1lcndrNW8wX1g1djNFWG1fa3h2VzFNSTN6RUpHRzZaenBGcEhDbTlMdjhOY3dlM3owRjBDTVVXcUp3REF3Zlg0OUluTGM?oc=5",
+    "source": "아이뉴스24",
+    "published": "2026-08-25",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충북교육청"
+    ],
+    "summary": "충북교육청이 조직개편을 추진하며 안전국 신설과 AI 교육 강화를 주요 내용으로 밝혔다.",
+    "implication": "AI 교육 강화에 맞춰 다양한 AI 학습 도구를 수업에 적극 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "안민석 교육감, 경청·소통 행보 박차...“교사 목소리 정책에 담겠다”",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tNldNMVd0Tll1REt5b3ZlcEpGNUZCTUd1WXJ6S2ZNdHpNYzRTN0NVbWctajdxN0RZb2s1dVNEVmZzam9BUGxnWnBZWEI4M0N1UzhjbDJRU09FNndoVWZDeEhka05FWVBq0gFoQVVfeXFMT202V00xV3ROWXVES3lvdmVwSkY1RkJNR3VZcnpLZk10ek1jNFM3Q1VtZy1qN3E3RFlvazV1U0RWZnNqb0FQbGdacFlYQjgzQ3VTOGNsMlFTT0U2d2hVZkN4SGRrTkVZUGo?oc=5",
+    "source": "경인방송 뉴스",
+    "published": "2026-08-25",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "안민석 교육감이 교사들의 목소리를 정책에 반영하기 위해 경청과 소통을 강화하고 있습니다.",
+    "implication": "수업 환경 개선에 필요한 교구, 자료 등 현장의 목소리를 교육감에게 전달할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "강은희 대구교육감 “교부금 축소, 교육 현장 현실과 맞지 않아”",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9VX0EzaUhGaXl0YTVnU2hBZXB1TnZWRjlULVJITm9rVzdWbmVMX05DdVUtQUxHQUNNQmFIWFdfX2ZtTks3NlZzZ0wxX19La2t2T2NYU0RXd01XYzdPek02Q29SWmhZSG1SN3J1dW5wSHZCZm1WUGlKNWRB0gF_QVVfeXFMTldCUnlLbFl3cktuNVFsaVNEaDVCUkhpcG9FNnBTeEpIVDIySUdpVlF6VlBxRGdFVFhYc1JUR3M3emxyWENqT3E5VkhSNVQtYlZuYjV0b0F0cHFCeFRQTm1OVWVHZEJjQ3M5dGlXU3JNV200YWtKZEMzam9aOW5LUQ?oc=5",
+    "source": "뉴데일리 대구경북",
+    "published": "2026-08-25",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대구시교육청",
+     "교육 예산"
+    ],
+    "summary": "강은희 대구교육감이 교부금 축소가 교육 현장 현실과 맞지 않다고 주장했습니다.",
+    "implication": "교부금 축소로 교실 내 기자재나 체험 활동 예산이 제한될 수 있음을 학생들과 이야기 나눌 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "부산 중고교 교원 300명, 25일 부경대서 수업혁신 '수문수답'",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ISXZvZXFGZ1lITHZtRk1aWnVMa0U1cDlGWkQ2Vkh0RnR0RWlKYUtCekxlMC0xQ194LXdJOEExbkFyNTAzRE05T2pZb0UyYmtiZjFLbXl6MFRHdTZmMFc5cmotWFV0WnJpaFpr?oc=5",
+    "source": "NANOOM ENERGY",
+    "published": "2026-08-25",
+    "keyword": "에듀테크",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [],
+    "summary": "부산 중고교 교원 300명이 25일 부경대에서 수업혁신 프로그램 '수문수답'에 참여한다.",
+    "implication": "수업혁신 연수 참여로 새로운 교수법을 배우고 학생 참여형 수업에 바로 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "초등생 수리력 어떻게 키울까…부산서 수업혁신 해법 찾는다",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80WGlDZ3NJZksxRmJycmJELUpCekF3TUtpeXNqRjh3OHJ6N2lYaFFsMElCM0lMQjZpS2pFTFFPRDN0WDNaQjRtMDQyYWJQc3FOeUF1cHptM3Z4VVpTci1CcmRLY3QtQVNi?oc=5",
+    "source": "더쎈뉴스",
+    "published": "2026-08-25",
+    "keyword": "현장교사",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "부산에서 초등학생 수리력 향상을 위한 수업혁신 해법을 모색합니다.",
+    "implication": "부산에서 찾을 수업혁신 해법들을 참고하여 우리 반 수리력 향상을 위한 새로운 시도를 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "교부금 연동제 폐지…대구교육감 \"개악, 미래교육 간과\"",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PRzV2RzlxXzFVVG1saG1QUEdaN1UzUXZOSElEU2NSQjZxV2xmUGlfOWtINDhNcEMxZmFfV1M4ZDVuRENuYzBpd1RLOGE2N1dUTEZORDhFTjFILVRCQ0poajI2d2YwLXNuTDhNYVYzVmhZY3ZUUHhBSdIBeEFVX3lxTE1PRzV2RzlxXzFVVG1saG1QUEdaN1UzUXZOSElEU2NSQjZxV2xmUGlfOWtINDhNcEMxZmFfV1M4ZDVuRENuYzBpd1RLOGE2N1dUTEZORDhFTjFILVRCQ0poajI2d2YwLXNuTDhNYVYzVmhZY3ZUUHhBSQ?oc=5",
+    "source": "뉴시스",
+    "published": "2026-08-25",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육 예산",
+     "대구시교육청"
+    ],
+    "summary": "교부금 연동제 폐지에 대해 대구교육감이 미래교육을 간과한 '개악'이라 비판했다.",
+    "implication": "교부금 연동제 폐지 관련 뉴스를 통해 교육 정책 변화가 학교와 미래 교육에 미치는 영향을 학생들과 토론할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "진주 K-기업가정신재단·교육정책연구소, 교원 역량 강화 '맞손'",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12REtxMTZpemlUVlV3UXRTVG1LT0x3cUphajBlMTlyQXh5OHlTSjRFcWx1TGdqMDdIamUtcnV2N1ItckhBbDA1QXB1Tktubkc2X0NwZ2tTYjFHTXVkbDBnTdIBYEFVX3lxTE12REtxMTZpemlUVlV3UXRTVG1LT0x3cUphajBlMTlyQXh5OHlTSjRFcWx1TGdqMDdIamUtcnV2N1ItckhBbDA1QXB1Tktubkc2X0NwZ2tTYjFHTXVkbDBnTQ?oc=5",
+    "source": "연합뉴스",
+    "published": "2026-08-25",
+    "keyword": "교육정책",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [],
+    "summary": "진주 K-기업가정신재단과 교육정책연구소가 교원의 역량 강화를 위해 협력합니다.",
+    "implication": "교사들은 K-기업가정신 관련 연수나 자료를 활용하여 창의적인 수업을 계획할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "경기도의회 더불어민주당 수석대표단, 현장중심 교육정책 수립을 위한 대장정 시작",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fcjVCWk9iOW12SzZfQXpiLVFZY1BOUk9vRHhEMVI2WFd0d0QxU19GRm00MXlHeUNocHlBblh1cGFpeTVuMUViSUJjZlBxSDFNVXl5QW9nb19rcXl4VTZJag?oc=5",
+    "source": "한국글로벌뉴스",
+    "published": "2026-08-25",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "경기도의회 더불어민주당 수석대표단이 현장중심 교육정책 수립을 위한 여정을 시작했습니다.",
+    "implication": "현장중심 교육정책 수립이 시작되어 수업 경험을 정책에 반영할 기회를 모색할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "세종 교실 목소리 담는 교육정책 협의",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfTmc3OVFzNXpaTHdpMm9uSHZTTDFSZkloZkJNVkYyc0pydXV3N3Jlb3dJYlFnaXZfR0NUQkNYOW5rY1NldmR4LVo0MGZTSHZZbENsWnNBWElNUDE3cXJYOUVXZk9mYXRHVjNGZ1RuQ0I?oc=5",
+    "source": "충청일보",
+    "published": "2026-08-25",
+    "keyword": "교육정책",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "세종시에서 교실 현장의 목소리를 교육정책에 반영하기 위한 협의가 진행됩니다.",
+    "implication": "우리 반 학생들의 의견과 교실 현장의 생생한 경험을 정책에 반영할 기회가 생길 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "경기도의회 민주당 \"현장 중심 교육정책 제시\"...찾아가는 '현장 정책회의' 스타트",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83WFlUeENxYWhhRUdUcHlMenJhSDRiaXQ3eG1LMUZSVnRiVjJpcTFnYTRMaVlFY1BiaUoyTlMzV3RfNFVHS3VsNVpxLVRER05wbjRVQnZGREpQdndyTThhaUdzS0tCb0VGM1MzX1d3?oc=5",
+    "source": "gukjenews.com",
+    "published": "2026-08-25",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "경기도의회 민주당은 현장 중심 교육정책 마련을 위해 찾아가는 현장 정책회의를 시작했다.",
+    "implication": "현장 중심 교육정책을 제시하는 흐름에 맞춰, 수업에서 학생들의 삶과 밀접한 학습 경험을 강화할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Editorial: Life skills in school health promotion: challenges and solutions",
+    "url": "https://doi.org/10.3389/fpubh.2026.1950818",
+    "source": "openalex",
+    "published": "2026-08-24",
+    "keyword": "SEL education",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [
+     "마음건강"
+    ],
+    "summary": "이 논문은 건강 증진, 정신 건강, 신체 활동 영역에서 학생들의 삶의 기술 함양을 다룬 25개 국제 연구를 종합하여 학교 기반 건강 교육의 중요성과 향후 다학제적 연구 방향을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Graça S. Carvalho, Teresa Vilaça 외 1명",
+    "pdf": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1950818/pdf"
+   },
+   {
+    "n": 2,
+    "title": "Visualization Technologies in Geomorphology Education: The Role of 3D Models, GIS, Maps, and VR/AR in Supporting Learning Effectiveness",
+    "url": "https://doi.org/10.48161/qaj.v6n3a2332",
+    "source": "openalex",
+    "published": "2026-08-23",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "지형학 교육에서 3D 모델, GIS, VR/AR 등 시각화 기술을 활용한 준실험 연구 결과, 전통 방식 대비 학습 효과가 크게 향상되어 학생들의 이해, 비판적 사고 및 참여 증진에 기여함을 입증합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Nurkeyev Nurkeyev, Nurbol Ussenov 외 1명",
+    "pdf": "https://journal.qubahan.com/index.php/qaj/article/download/2332/633"
+   },
+   {
+    "n": 3,
+    "title": "Teaching Materials and Pedagogy for the Social Domain in Taiwanese Preschools: Core Themes of Curriculum Design",
+    "url": "https://doi.org/10.65150/ep-jsshrs/v2e8/2026-18",
+    "source": "openalex",
+    "published": "2026-08-22",
+    "keyword": "SEL education",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 대만 유아교육에서 아동의 사회정서 발달의 중요성을 강조하며, 사회성 교육 교수 자료 및 교수법 커리큘럼 설계의 핵심 쟁점을 탐색하여 유아의 전인적 발달과 학습 성과 향상에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Yi-Huang Shih",
+    "pdf": "https://jsshrs.ep-journals.org/index.php/jsshrs/article/download/323/256"
+   },
+   {
+    "n": 4,
+    "title": "AI-empowered smart teaching reform of embedded system courses for disciplinary competitions and industrial needs",
+    "url": "https://doi.org/10.70114/ahmer.2026.5.1.p95",
+    "source": "openalex",
+    "published": "2026-08-24",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 교육 시대에 내장형 시스템 강좌를 학술 대회 및 산업 요구에 맞춰 스마트 계층적 프로젝트 기반으로 개혁하여 학생들의 실무 능력, 혁신적 사고 및 팀워크를 증진하고, 교육 개혁의 효과적인 참고 모델을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Xiaoling Zhang, Jianhui Li 외 1명",
+    "pdf": "https://mcrrf3u4tu.angus-publishing.com/upload/2026/08/24/ed5a6e77-2135-46c8-aa46-a073880fc094.pdf"
+   },
+   {
+    "n": 5,
+    "title": "A systematic review of multimodal emotion and sentiment analysis based agentic AI frameworks in educational systems",
+    "url": "https://doi.org/10.1007/s10791-026-10471-9",
+    "source": "openalex",
+    "published": "2026-08-22",
+    "keyword": "edtech",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "이 체계적 검토는 교육 시스템에서 학생 감정 분석을 위한 에이전트 AI 프레임워크가 다중 모달 학습을 통해 진화하여 지능형 학습 환경으로의 패러다임 전환을 주도함을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Bharati Pujari -, Uttam U. Deshpande 외 1명",
+    "pdf": "https://link.springer.com/content/pdf/10.1007/s10791-026-10471-9.pdf"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "\"비용 82% 절감\"…오픈AI-AWS, 코딩 에이전트 '키로'에 GPT-5.6 탑재",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9EQ1ltOVJPQmpjT1NYOVlxdnhGMEs0UFZfV0JyYW16U1BiWF9vQkF1WnZ4bEI3Nm93dW9ZMjJEb2thLUVDZUJTOUt2eDNPSGRZcnMtZzdtX05tVkZsRmZvcjlkdWtrM1lEUTJ5MFpR0gFyQVVfeXFMUHVrdXdsbklhOGhiWXY4cXpCQzBTbWpPQ2kwVkMzbThBRGI4S3lweTZDTDJBaDRoeDRaWV91Q1ZCS2xxN25QS1NQZHhwTkV4aUIyZ1Ntakw2M0Y4ZTZUT0x6NURlZ3RRX0h5c1l3clV4U1ln?oc=5",
+    "source": "AI포스트",
+    "published": "2026-08-25",
+    "keyword": "GPT",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Amazon",
+     "코딩 AI",
+     "에이전트",
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.6 탑재 코딩 에이전트의 82% 비용 절감은 AI 기반 소프트웨어 개발 생산성을 혁신하며, AI 기술 생태계의 실질적 효용을 극대화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "앤드류 응의 AI 엔지니어링 역량 6가지...“불확실성 제어가 핵심”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214329",
+    "source": "AI Times",
+    "published": "2026-08-25",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "앤드류 응의 '불확실성 제어' 강조는 AI 기술이 실험 단계를 넘어 실제 산업에 안정적으로 적용되기 위한 핵심 역량으로 자리매김할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "바이트댄스, '두바오' 중심 AI 도구 결집...기업용 슈퍼 앱 시장 공략",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214346",
+    "source": "AI Times",
+    "published": "2026-08-25",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [],
+    "summary": "바이트댄스의 '두바오' 중심 AI 통합은 기업용 슈퍼 앱 시장에서 AI 기술의 범용적 활용 및 생태계 확장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "Russia used ChatGPT to run a covert influence campaign pushing pro-Kremlin narratives across the West",
+    "url": "https://the-decoder.com/russia-used-chatgpt-to-run-a-covert-influence-campaign-pushing-pro-kremlin-narratives-across-the-west/",
+    "source": "The Decoder",
+    "published": "2026-08-25",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "AI 기술의 악용 가능성이 현실화됨에 따라 개발 단계부터 강력한 윤리적 책임과 안전 장치 마련이 필수적입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "스페이스X·엔비디아, 우주용 ‘베라 루빈’ 개발…2027년 궤도 투입",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214350",
+    "source": "AI Times",
+    "published": "2026-08-25",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA"
+    ],
+    "summary": "스페이스X와 엔비디아의 협력은 AI 기술 생태계가 우주 극한 환경으로 확장되어 새로운 엣지 컴퓨팅 시장을 창출할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "구글, 금융·법률 특화 AI '제미나이 엔터프라이즈' 출시... 관련주는? (+CRYPTO, Google, Gemini, AI)",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MQ0EzNHBoTDRJcm05UktiM29PWHBza2ttVnpvQUVuV2laeXB2RFo2TEJuU3d1d3FCSjRaTEZtcjJzdlpkQkRGYVExLXI1ZVZ2a3Vmc2FDVllrNGoydVh6Q1Z2UGs4UEctZUwtZg?oc=5",
+    "source": "민심뉴스",
+    "published": "2026-08-25",
+    "keyword": "구글",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Gemini"
+    ],
+    "summary": "구글의 금융·법률 특화 AI 출시는 AI 시장의 수직적 전문화를 가속화하며 산업별 맞춤형 AI 경쟁을 촉발할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "딥시크, 실험용 멀티모달 모델 공개…\"이미지 에이전트 성능 오퍼스 4.8에 근접\"",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LV29UTmF0TnJjWTg2a0RqcmJSQV9zWVJpX1hyXzJFekE3T0IyZC04akhWN3d3MTB5c1d3TUdWXzhjR0xlM0tKVGxXZlpod2J0UWNfdw?oc=5",
+    "source": "AI 매터스",
+    "published": "2026-08-25",
+    "keyword": "벤치마크",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "DeepSeek",
+     "에이전트"
+    ],
+    "summary": "딥시크의 고성능 멀티모달 모델 등장은 AI 선두 모델 경쟁을 심화시키고 전체 AI 기술 생태계의 상향 평준화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "Pew study confirms sharp rise of AI-written text on the web since ChatGPT's launch",
+    "url": "https://the-decoder.com/pew-study-shows-ai-written-text-has-surged-across-the-web-since-late-2022/",
+    "source": "The Decoder",
+    "published": "2026-08-24",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "AI 생성 텍스트의 웹상 급증은 정보 신뢰성 위협에 대응하고 콘텐츠 진위 판별 기술 및 정책을 확립하는 등 AI 생태계의 근본적인 변화를 요구할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "오픈AI, 챗GPT 플러스 '5시간 제한' 부활…프로 요금제는 면제",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XOFhBUjdObTBWYVd1dXU4b094OXRMMll2OG52ZEtDZ0laRW5QQXVKNEJOd1NmUjBLZWtvODl1RUlvMHhxdzRScXdXcWRUejZuS3JvS3VB?oc=5",
+    "source": "구글 뉴스 AI",
+    "published": "2026-08-25",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "오픈AI의 챗GPT 플러스 제한은 AI 서비스의 높은 운영 비용을 시사하며, 헤비 유저를 위한 고가 프리미엄 요금제 전환 유도 전략을 강화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "챗GPT가 대신 문자 보낸다…맥용 애플 메시지 연동 출시, 애플 실리콘 전용",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oOXBySWVpbGZkaXVhVWlweXF0M3gzbE5fRXRSTGlXaEx3NjVzV0JiZk40X2pPOXJzeGVJd041ZGtjNnlBRmg1ZDdtQllfT1VtalEzZQ?oc=5",
+    "source": "AI 매터스",
+    "published": "2026-08-25",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Apple",
+     "온디바이스 AI"
+    ],
+    "summary": "애플 실리콘 전용 챗GPT 통합은 온디바이스 AI의 중요성을 부각하며 AI가 주류 플랫폼에 깊이 내재화되는 산업 트렌드를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

@@ -1,0 +1,418 @@
+{
+ "date": "2026-01-20",
+ "generated_at": "2026-11-02T11:50:57+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[발행인 칼럼] “디지털 전환이 멈춘 곳, 실질적 혁신이 사라진다”",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBna1JaOV90SWFuVmZ1TmxINXlhbmJxMWRvanBleG5VbTVseXFVVjh6dEc1MzdMTnhmWXViZFZublFoYmFFYU1DWXFDdkRvVG80NnBxY19MXzNEZU5zWXBfcHB3R25SVWc?oc=5",
+    "source": "yangpatv.kr",
+    "published": "2026-01-19",
+    "keyword": "디지털전환",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "디지털 전환의 정체는 교육 혁신을 가로막고, 학생 맞춤형 학습과 미래 교육 경쟁력 약화를 초래할 수 있다는 점을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[기고] 스마트폰 속 ‘검은 늪’에서 우리 아이를 구출하라",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01UDR4NmVLWU1oUzNubHhIcWxJaGtHSGJNTkxsaUdHU0dCazBzNWR3eEdZUXdWdk44MFN2RjZlM0tFcnZWWjY1M09GRXJ0Q3lqWEFlRdIBWEFVX3lxTFB1SElOUjRUYTEwMkpKVFlXeWlnX1A5Tkd1WGdGd2IyTUNuTUNpQVBKQ0lHWnRCVHpLVVFlRS15YW01V0stbVNRbDJSaTAwb1o2dUptN19yTXo?oc=5",
+    "source": "전북일보 인터넷신문",
+    "published": "2026-01-19",
+    "keyword": "뇌과학",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "스마트폰 과의존 예방 교육 강화와 가정-학교 연계 지도를 통해 아동의 건강한 디지털 시민성 함양이 시급합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "김석준 부산교육감, “에듀테크로 미래교육 선도”…부산대·동남권 얼라이언스 교류회 참석",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNenc2RTVjeEN3VUZFY2VibzB6UVdCRzNBa3lYeEVPUUxuVnlwWmZwcWE5anlzX2NrRjhYSGhiMnN6cDdrWUZISlJ2dU1JZUJTSTJGalNfZFpTYlJQNWVVSnlXRzNqeEE?oc=5",
+    "source": "복지TV부울경방송",
+    "published": "2026-01-19",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "부산시교육청"
+    ],
+    "summary": "김 교육감의 에듀테크 활용 미래교육 선도 의지는 대학과의 협력을 통해 교육 혁신을 가속화하고, 학생들에게 미래 역량을 길러주는 데 기여할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "국립현대미술관, 뇌과학자 정재승 교수 초청해 ‘미술관에 가면 뇌는 어떻게 쉬는가’ 강연 진행",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPZ1poQThBMG02YU1uUUpfQmMtdGhpTk9RNkhpeDl1OXpXWGh3T1k4Q3Z5RVNfbFJIWHVMVV9OYld4d1JkT2NrNTVscDFBMHFuVk1fMmYwUE81RzRJdEFUeXROa0Nzd1poLWQ1WmtIVUFOTWPSAXdBVV95cUxQZGhBeGRwNzJMRERCcHZWNWFpSkt4M2h5ZTFjcXFDbU1SNlhtQXJ2RHF6cDlBR2dKdHZ0Vi1zdEdRRmhZNzhneC12TUtQcWxlVng4STRVWWg1VTJ2dkFWeDJLZWthSnZTSXdEdTFWc085VWZNYnBPWQ?oc=5",
+    "source": "문화매거진",
+    "published": "2026-01-19",
+    "keyword": "뇌과학",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [],
+    "summary": "미술 감상을 통한 뇌 휴식 효과에 대한 이해는 학생들의 창의적 사고력 및 정서적 안정 증진을 위한 교육 환경 조성에 중요한 시사점을 제공합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "전남 교원들, 겨울방학에 에듀테크로 수업 혁신 준비",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16dHkxNjZ4YzI0VE5mMWhpd1pvNmRrdnktbzNicmJaN1AxUE9xUUlYbF9Mb1VGckZDVGwzVTRlQlV1SjVjSjItSWxlcVZhdGl3OGxmY1g3eWJXV3lrRTFtWlFtNA?oc=5",
+    "source": "국토일보",
+    "published": "2026-01-19",
+    "keyword": "AI디지털도구",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "전남 교원들의 에듀테크 활용 노력은 교실 수업 혁신과 미래 교육 역량 강화에 긍정적인 시발점이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "박대조 국가AI전략위 자문위원, 박종훈 경남교육감과 AI교육 머리맞대",
+    "url": "https://news.google.com/rss/articles/CBMixgRBVV95cUxOZG5qbEM1T3VhRUFrdDhQRWdUeUV2N0dTNDF6aUY5blR3bGVwMnNYU1NFbDdNd3U1MF80eTdveEhCV3lHcl9iTmZxNFJRQU5ydWlkb3hPTzktekI2M0g0VjJLUzlTejhMenF3ODkza3NKTnloeThabVFyU3ZIeGV3d3lOZ2ljQWhJX1ZOMkRzZjJHaUNwYmpvSFRreFliNVYxOTRQRWRxbldHTjdTVGJOMENiTGhkWjcxT2pESld3OXM0VlI5ZVhOUDVkT2dvNVRkTnJSbEhOQjBBanN4ZWRDbTlOeFZuYlBDSHJCUXhYbnBZeW1HLVNsYzRZdTRIcmhuQUN1d1J3bUtwR1FabGRYTkk4djlURnlnNk02TmJ5U19nT3QwaDZ2N09pT0lmTDNBWGdWSzlrWmFURS14X0JsNFkxOHpGd2xaNkFtb1NJZ3dWLUV3aE5Ma1dWUjk2NEduMDVPY2dtb0NVa0hTZUUybEZOWkJvUkNNeHZWRWJMTWJsamhLT2N5N1doVnhVWnppMnlmZ3FOYmRKUk5WMjNQUjdfQTNsTURGWVRkYmd4QzhZdjNWTUpnMjlYemIwcEZ4N1gxTDhWWWE2VmFWU3BFc0hVZXQ5VlFMTVFqUGEtMjVkMk8zM2ZJOEdRc2FESDBxZXcwejJpTFltMk9CaDdCeVlTZmREblQzcjhuUDNRWEt6bkgwbW1WcEIyOXR6UWVUWEhOeW9VNzk2d05jNVBURjdsaEVXREdMUVVxS2FCUXlNSVJQSXc?oc=5",
+    "source": "MSN",
+    "published": "2026-01-19",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경남교육청"
+    ],
+    "summary": "AI 교육 전문가와 교육감의 만남은 학교 현장에 AI 교육 도입 및 적용을 가속화하고, 관련 정책 수립에 긍정적인 영향을 미칠 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "인천시교육청, 교사27명 BettUK2026 참관…미래교육 글로벌 연수 착수",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HV05GM3JscENvcTZGTGpqbVFlMDNCUi1CMEowOHhZVU5FVFFydTJOckpIcmEtbFJhNWVWVVBBZWdGbVkzTl9NME1nOWVLUQ?oc=5",
+    "source": "전자신문",
+    "published": "2026-01-19",
+    "keyword": "AI디지털도구",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청의 BettUK2026 참관 연수는 교사들의 미래 교육 역량 강화와 교육 혁신에 긍정적인 영향을 미칠 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "충북도교육청, AI·디지털 수업 혁신 확산",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ULWpldmg0M2MtczEtNVlSNlZsTlVudEJpN1Z0dzVkRjZpUk42ejYwbnU3TjVDWmJYeEhJdHMwR2E5SDlxT3Awbmk5OVEtSTl0X3ZRU1MzZkdFVlFMTEhoS2Fn?oc=5",
+    "source": "충북일보",
+    "published": "2026-01-19",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "충북교육청",
+     "개인화 학습"
+    ],
+    "summary": "충북도교육청의 AI·디지털 수업 혁신 확산은 미래 교육 환경 변화에 발맞춰 학생 맞춤형 학습을 강화하는 긍정적인 시도입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "경기도교육청, 방학 중 학생 건강 공백 최소화 '건강 체험교육' 운영",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBwak5WQkZsMm9IVldQSE5oNm9vOEl0bk1KNVVpT3lxRlN4LUlBaWVrbFo2Uy12ZF8zSEdLYThJZVNoR0NodDA2aG1oNUhWbmxqS2ZoUEJjVUJDQdIBXkFVX3lxTE5veUc3MGRIeTJZWVBCbG55UE03V3UtXy1SVklBREczR1ZqaXlmZlNub2o2SlZubk44ekJKVUUyTUJLdjVFQktkTTNHd1pESy0zdkJ4dWoxbnFKRHdpMGc?oc=5",
+    "source": "fnnews.com",
+    "published": "2026-01-19",
+    "keyword": "에듀테크",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "방학 중 건강 체험교육은 학생들의 건강한 성장 지원과 교육 격차 완화에 기여할 수 있는 긍정적인 시도입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "경기도교육청, '마이크로디그리형'교원 연수로 역량은 높이고 학위 취득까지",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92TDhUblNtRVhubHpVYXhQZUNxY2pvQ3VJVDcyT2dvQjNjU0FDUFJpVzR3ODhETExiaFB4dFFxY1FQbDlVM1dWTWtjWHNWS2JmUm5Na1dlRG9yb09FZ1VGZ19ueVpkS3JlQjc4cUtkRQ?oc=5",
+    "source": "서프라이즈뉴스",
+    "published": "2026-01-19",
+    "keyword": "인공지능교육",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "교사 연수"
+    ],
+    "summary": "경기도교육청의 마이크로디그리형 교원 연수는 교사의 전문성 강화와 자기 계발 동기 부여에 긍정적인 영향을 미칠 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "RETRACTED: A study on the evaluation method of foreign language classroom teaching process from the perspective of neuroeducation",
+    "url": "https://www.semanticscholar.org/paper/63e15ca9be694839ead67d3d405d0e9019f531e3",
+    "source": "semantic_scholar",
+    "published": "2021-01-24",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "신경교육학적 관점에서 외국어 수업 과정을 평가하기 위해, 뇌과학적 평가 방법을 적용하여 교사의 교수 능력, 학생의 학습 능력 및 효과 등을 객관적으로 평가하고 기존 평가 방법의 문제점을 해결하는 데 기여할 것으로 기대합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ruifeng Luo, Qiaoyun Liao 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "Moodoo: Indoor Positioning Analytics for Characterising Classroom Teaching",
+    "url": "https://www.semanticscholar.org/paper/f2dd568d55400af2483eabc94279ce16e34328c9",
+    "source": "semantic_scholar",
+    "published": "2020-06-09",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "Moodoo 시스템은 교사의 실내 위치 데이터를 분석하여 공간 교수법 이론에 기반한 의미 있는 교육적 구성 개념을 도출하고, 이는 교사의 교수 전략 특성화 및 교육 공간 활용 방식 개선에 기여할 수 있습니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Roberto Martínez Maldonado, Vanessa Echeverría 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Taking social media to a university classroom: teaching and learning using Twitter and blogs",
+    "url": "https://www.semanticscholar.org/paper/0115087aa9b31fb0db2fa25829420514fe3c1159",
+    "source": "semantic_scholar",
+    "published": "2017-01-25",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "말라위 대학교 도서관정보학과 학부 과정에서 트위터와 블로그를 활용한 결과, 학습자 중심 교육을 촉진하고 학생들의 자발적 참여와 상호작용을 증진시키는 효과를 확인했으며, 이는 적절한 소셜 미디어 활용이 교육적 혁신을 가져올 수 있음을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "W. Chawinga",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "Effects of Using Task-Driven Classroom Teaching on Students’ Learning Attitudes and Learning Effectiveness in an Information Technology Course",
+    "url": "https://www.semanticscholar.org/paper/b1e53783bc10583bb9b17c69a9d926611e4ba52a",
+    "source": "semantic_scholar",
+    "published": "2018-10-31",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 중학교 정보 기술 수업에서 과제 중심 학습이 학생들의 학습 태도, 흥미, 창의적 사고 및 학업 성취도 향상에 긍정적인 영향을 미침을 밝혀 정보 기술 교육 개혁에 기여할 수 있음을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "He-Hai Liu, Yu-Sheng Su",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "Teaching Plan Generation and Evaluation With GPT-4: Unleashing the Potential of LLM in Instructional Design",
+    "url": "https://www.semanticscholar.org/paper/0c12d7e60dc407a91d66e6e24797263d15af0777",
+    "source": "semantic_scholar",
+    "published": "",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "LLM",
+     "개인화 학습"
+    ],
+    "summary": "본 연구는 GPT-4를 활용하여 수학 교육 계획 생성 및 평가를 위한 프레임워크와 평가 도구를 개발하고, LLM의 강점(통계, 함수)과 개선점(수학 문화, 융합 평가)을 분석하여 교사 교육 및 맞춤형 교육 설계에 LLM의 잠재력을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Bihao Hu, Longwei Zheng 외 1명",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "스텝펀, 8B 규모로 'GPT-5' 수학 실력 넘는 추론 프레임워크 개발",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205715",
+    "source": "AI Times",
+    "published": "2026-01-19",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "파코레는 소형 언어모델의 잠재력을 보여주며, 비용 효율적인 AI 솔루션 개발 경쟁을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "슈퍼브에이아이 \"국가대표 AI 2차 평가 ‘피지컬 AI’ 구현에 집중\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205713",
+    "source": "AI Times",
+    "published": "2026-01-19",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "슈퍼브에이아이의 피지컬 AI 강화는 로보틱스, 자율주행 등 실제 환경 기반 AI 기술 경쟁력 확보에 중요한 발판이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "MSL, 외부 검색 엔진으로 자문자답하는 자기 진화 시스템 '닥터 제로' 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205714",
+    "source": "AI Times",
+    "published": "2026-01-19",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "AI 검색"
+    ],
+    "summary": "닥터 제로는 AI가 외부 지식 활용 및 자율 학습을 통해 빠르게 발전하여 특정 분야 전문가 수준의 능력을 갖추게 될 가능성을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "‘겨우 1초’ 순식간에 고품질 이미지 생성하는 AI 소형 모델",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205731",
+    "source": "AI Times",
+    "published": "2026-01-20",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "영상·이미지 생성",
+     "생성형 AI"
+    ],
+    "summary": "초고속 이미지 생성 AI 모델은 리소스 제약 환경에서도 AI 활용도를 높여 관련 기술 및 서비스 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "프렌들리AI, LG AI연구원 ‘K-EXAONE’ 모델 API 무료 제공",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB0RGFKeXVGSk5ycXZVUkcxaWcyTWNrS2RVdndQZ3A1NGZhcVhsa3N5TGtIU2d6ZHc1ajk1SGlOS3AxOERrYlJJeQ?oc=5",
+    "source": "플래텀(Platum)",
+    "published": "2026-01-20",
+    "keyword": "API",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "LG"
+    ],
+    "summary": "LG AI연구원의 K-EXAONE 모델 API 무료 제공은 국내 AI 기술 접근성을 높여 관련 산업 혁신을 가속화할 중요한 발걸음입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "제미나이 효과에 구글 AI모델 API 판매 급증...4분기 실적 관심집중",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtMXVmZHlhaGZUVXl5dGE5Qm93bHN4VVE1d2hpdmNyMlZVeGh4NHdxb2hSSTFXNWlITzBMQ25KRGw2clF4RFA1emNPVkRsUThWNHA0d0lacUtKeHJYTnBqOVhaQWVTUTA2ODh5ZTV1TjJKMEE?oc=5",
+    "source": "디지털투데이",
+    "published": "2026-01-19",
+    "keyword": "구글",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Gemini",
+     "Google"
+    ],
+    "summary": "제미나이 API 판매 급증은 구글의 AI 모델 수익화 가능성을 보여주며, AI 기술 경쟁 심화와 생태계 확장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "생성AI스타트업협회, AI 비가시성 워터마크 API 'K-세이프' 무료 공급",
+    "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxOMGRvX25iR0NheDNleml4Y2VRVUNPM0pLWUtYUGRMdzRLZEI0NUZzT0ljQThxM2liTDRvdWtnU0ZPa1Zia0dTTkczeFJMOXdIeTRRV1lDbFc2VV8zOU1PNVlVeG80cnNhX1JqQ1oydjRidjdFaE54NHJNVWJYZ1lrdkt0RXdZdnM4UUNVeVZwV0twdG03NW1ZVmd4cmExRjFtNmtSVHk4VU05WTcwaEtsbVNrVGJSeVY4NnNrNHlZRkxtOXNXc0pkWm5wMFJmamwxZDE1Sm5nUjhoS3FZVV9STXNvY2h5azZvVkQ4aEh1WEM2NGNoNU9WRko1WHJjbkpJQTFPZ3oydUZVb0o5M0hCanNVWm9nOVU5Mkp4aVJvVmpiQmxzSXhLT2xUOGEzWDR0a3FBR3BxRXN5dkhZbWU3cTlWSDBmWHJXRU1VZ3pOTVp5cGRxX19OX0gwdnI0dy0xb2k4eTMyVHloQTFQLWlCSGE5RFFhdTVGenhYLWJNcjBiNktZaUxkaUVrcGh1VDV2a0xRY256NUhWZG92OGVZOXVjd2N1RnJ1N2pCQ3BVQ1Z6OEphQVNrMmlWUy11RVpnbWIwczV0Sk1Vd2xjTm1FVTFNZ0t4dkpDVHNNS1VWN0NFajR0TGJURFBnNE5vd3hhdjNRdE03Z2g0MWN2OWZCWlpLamRPa0gtUkJuSTNSbllVNFdhMm0wUFhueHNJZw?oc=5",
+    "source": "MSN",
+    "published": "2026-01-19",
+    "keyword": "생성AI",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "K-세이프 무료 공급은 AI 콘텐츠 신뢰성을 높여 산업 발전과 윤리적 사용에 기여할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "GPT-5.2 Pro solves another Erdős problem while a new database reveals most attempts still fail",
+    "url": "https://the-decoder.com/gpt-5-2-pro-solves-another-erdos-problem-while-a-new-database-reveals-most-attempts-still-fail/",
+    "source": "The Decoder",
+    "published": "2026-01-18",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.2 Pro의 Erdős 문제 해결 성공과 실패 사례 데이터베이스는 AI 모델의 능력 향상 가능성과 함께 여전한 한계를 동시에 보여주며, 향후 AI 연구 방향 설정에 중요한 시사점을 제공합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "[인간 촉각 학습으로 로봇, ‘사람처럼’ 섬세한 손끝을 갖다] 칭화대학교 연구진이 인간의 촉각 제어 패턴을 로봇이 학습해 다양한 물체를 안정적으로 잡을 수 있도록 하는 새로운 감각 제어 프레임워크를 개발",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE0tRnFsR3ZlbUh4R0VJdW1vclJaMDI1SkJrZjFGTGdOa0tDbGotaG9aWFpmejNTMVlQOG5vOTkyd2M?oc=5",
+    "source": "AI넷",
+    "published": "2026-01-19",
+    "keyword": "프레임워크",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "로봇·휴머노이드"
+    ],
+    "summary": "인간 촉각 학습 로봇 기술은 제조, 의료 등 다양한 산업에서 로봇 활용도를 높여 자동화 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "\"붕어빵 먹는 내 아이가 쬬르디로 변신\" 카카오톡 ChatGPT로 만드는 AI 캐릭터",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAydk1WUmNFS3J2OGFyUm5XcXg1LW5POUVxY0ROVlB5Q0Jjc2puUldQRWRVazd4TnJHNkQ5ZzRCOXhRaDVacGh5UGloaWRvbUpkTXA5cXdBMGdvWXdxekhXQlA0OXVKaHBDNFRIcTFR0gFuQVVfeXFMUDJ2TVZSY0VLcnY4YXJSbldxeDUtbk85RXFjRE5WUHlDQmNzam5SV1BFZFVrN3hOckc2RDlnNEI5eFFoNVpwaHlQaWhpZG9tSmRNcDlxd0EwZ29Zd3F6SFdCUDQ5dUpocEM0VEhxMVE?oc=5",
+    "source": "the-pr.co.kr",
+    "published": "2026-01-19",
+    "keyword": "생성AI",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "카카오",
+     "ChatGPT"
+    ],
+    "summary": "카카오톡 기반 AI 캐릭터 생성은 사용자 경험을 확장하고 AI 기술의 대중화를 가속화하는 중요한 발걸음입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI와 에듀테크를 활용한 미래 교육 혁신을 위해 교사 역량 강화 및 스마트 교육 환경 구축에 힘쓰며, 학생들의 건강과 균형 잡힌 성장을 위한 다각적인 노력이 이루어지고 있습니다.",
+  "tech": "AI 모델 성능 향상, 접근성 확대, 활용 분야 다양화, 그리고 안전성 확보를 위한 노력이 활발하게 이루어지면서 AI 기술 생태계가 더욱 풍성해지고 있다!"
+ }
+}

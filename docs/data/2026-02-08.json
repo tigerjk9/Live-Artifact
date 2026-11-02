@@ -1,0 +1,167 @@
+{
+ "date": "2026-02-08",
+ "generated_at": "2026-11-02T11:51:51+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[칼럼] 영남권의 미래를 견인할 두 축, 해양 과학기술과 항공우주",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5UekFJMkhTOFU4aXloaG9HTi1vbTkzSXBzTkN3R2RLTi0zLVRxVlI3OTd3b0VGR2xUZ3FJOEdTZjFlODE3ZGpz?oc=5",
+    "source": "정필",
+    "published": "2026-02-07",
+    "keyword": "미래기술",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "영남권 해양 과학기술과 항공우주 산업 발전을 위해 미래 인재 양성을 위한 융합 교육과 진로 탐색 기회 확대가 중요합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[조학규 칼럼] 임용시험을 마친 그대에게",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=21731",
+    "source": "에듀프레스",
+    "published": "2026-02-07",
+    "keyword": "",
+    "topic": "teacher",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "교사의 직업적 소명감 약화는 교원 수급 정책과 교사 양성 과정 전반에 대한 재검토 필요성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "대전시교육청, 탐구학습 중심 수업 혁신을 위한 '대전혁신미래교육 3.0' 본격 추진",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yYUpHeWtJZ2RNcXd3WGx5bEhRLVBTOFo3bnpxRFZqRGd0V3NJZFlZbjJncDA2Zk1pa3k3WVFRZ0FrSjM4dDNMdUtBZG5iSGVTaGdTM28wemVnNlNZMlc3RHlURVgzTnZydEQ1bzc1R1I?oc=5",
+    "source": "한국강사신문",
+    "published": "2026-02-07",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "대전시교육청의 '대전혁신미래교육 3.0'은 탐구학습 중심 수업 혁신을 통해 학생 주도성을 강화하고 미래 교육 모델을 제시하는 중요한 시도입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "05화 낭독(朗讀)의 뇌과학(3)",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lbjctcHVEdXM2VWljdS1vWEVya1BQTWhrZXZjZVJ3S0lOVzlEVmhpSWliMlNJcFJPcHZTN1JZMzdKSWNSMnRWSVo1NU5VQWFMbEE?oc=5",
+    "source": "브런치",
+    "published": "2026-02-07",
+    "keyword": "뇌과학",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "낭독의 뇌과학적 효과에 대한 이해는 교육 현장에서 낭독 활동을 적극적으로 활용하여 학생들의 인지 능력 향상을 도울 수 있다는 점을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "김대중 전남교육감, ‘글로컬 미래교육’ 출판기념회 성황",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBSkthblcwOWtlZjZGc0xuaTVRZ0o0N19PNWp2c25BQmktSk40WGZKRk9LWlZxb1FIWEFDVHBpMTBqOFFQRExrV2Y1bTRpRVRhWmJGR1Y2X1k3Ym9WaVI5dkJKTVVxRUdDUG1QSdIBcEFVX3lxTFBfOV9VdWpyajY2S0w5VHgxaGpyUHc2U3BZbHZfTjFvSkVVa2Myc1p1RHpja1FNWXlCRFNKVEp4UGQwUGFlcmpnUXNnT2twNXJLNWVQcTQwM0xQUEh3SFkzXzFEVW9iSzFsZlFpRi1CMFc?oc=5",
+    "source": "남도일보",
+    "published": "2026-02-07",
+    "keyword": "인공지능교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "전남교육청"
+    ],
+    "summary": "김대중 교육감의 '글로컬 미래교육' 출판은 지역 특성을 살린 미래 교육 모델 구축에 대한 논의를 활성화할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "국립공주대 사범대학 '교원양성 역량진단' 5회 연속 A...전국 유일",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiWlMtd21CNEJCZU44OU1tcU9nTDZqOWhqZkF1STZjUWdCRXRfWVpOTnBRdGJBZEczYVFPQ29uTGJxZDlaSkJoNjF5b1BmV0FtWlJjLU9od29hSnFoQ01uVVQtX1ppR216a0JFMmhORTBPdw?oc=5",
+    "source": "굿모닝충청",
+    "published": "2026-02-07",
+    "keyword": "교육혁신",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [],
+    "summary": "국립공주대 사범대학의 교원양성 역량진단 5회 연속 A등급은, 교원 양성 시스템의 질적 우수성을 입증하며 타 대학의 벤치마킹 모델이 될 수 있음을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "이현준 인천시교육감 예비후보, 학산초등학교 앞서 공식 출마 선언",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKeldnR3dMaElKUGhTNksyQ0VvTmFsLThBSHZXeXlYUWQ4bFUzMHB4LWpyYmtHVlIweXRTNmlZUWFaWWROUnZadE1iQlc0MGVmMklBcnFZQ1RJVVZfVERYVlQycnpNbFdieTlDaEJR?oc=5",
+    "source": "전국매일신문",
+    "published": "2026-02-07",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청",
+     "교육감 선거"
+    ],
+    "summary": "이현준 예비후보의 출마 선언은 인천 교육 정책 방향에 대한 논의를 촉발하고, 학산초등학교 앞 선언은 교육 현장과의 소통 의지를 강조한 것으로 해석됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "아이티센엔텍, 'AI 맞춤형 교수학습 플랫폼' 선봬",
+    "url": "https://news.google.com/rss/articles/CBMi1ANBVV95cUxNa205SDNUM0hNME4xMUp6WEh3S19KbFRnZzNHTll2djFKSTRFTlhib0t5Z0U1SmNXY2V3VmUwdUNTQVVvT3E2MnowQUx1LWloTVVTNjVudmhRNklSLV9vNzJKaF84RGQ4Y19kblZGdFFjYm5aVEx3SXJYOWJNaGVuenpLd2JoS3NwNWw0MGFsV2dCN0Y1eXhxSFZvajllcEpzRzBsX1VuQ3BIQlNHc0NUR2wwR0w2cFY5UjhLOUVLRVYxUDdMaF83U1JJNTQzejQtZTFUUEtJRjgwNzZNTXQzNlU5eEZhdVA2WlpVa0xuU21LQWJVd1BMLUdUMHdUY1I3dlh0aWx5eUdNZHBDWWVuOVRYVjhsa3c2YjlsTGRjOU40QTZvN2pWbHpTOFV5RW11WVl3d3ZQNWpWN25QZ2ZXVTlvckROOU12MUhCejdGUFZpd1FFQ3JSVGJZZWQyQ0hqRER6Mnd6YW5RNGNmVVFJZkZFR1gxa3UyRGVZWW5sLXRILVlzSElacnpqMXdGYTR3Z2NpV1VNb3RtdVdqRmNLbWxpWDlVT0tMemtMVWpaZUd4TVVQOHZKbmQ3c1NJRFlWWmd1ZENNZzFrei1iR2RvQ2pIa2U?oc=5",
+    "source": "MSN",
+    "published": "2026-02-07",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "아이티센엔텍의 AI 맞춤형 교수학습 플랫폼은 개별화된 교육을 확대하고 교사의 역량 강화에 기여할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "경기도교육청, 국제교류 네트워크 본격 가동",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94UDNmaDVpTTlGVFFwSTRZSUtfVmw0alU2YVRWR1VaRjZQZjhpS29kd1hNVktyWDM0OThiQm9UZUU2bDU2QTE2N2hqc0kzNXJ4ME9vVFZMLWpKMXM1d3ltLWozakdSdm9DNHNlaHNwc9IBb0FVX3lxTE94UDNmaDVpTTlGVFFwSTRZSUtfVmw0alU2YVRWR1VaRjZQZjhpS29kd1hNVktyWDM0OThiQm9UZUU2bDU2QTE2N2hqc0kzNXJ4ME9vVFZMLWpKMXM1d3ltLWozakdSdm9DNHNlaHNwcw?oc=5",
+    "source": "한스경제",
+    "published": "2026-02-07",
+    "keyword": "에듀테크",
+    "topic": "global",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청의 국제교류 네트워크 가동은 학생들에게 글로벌 역량 강화 및 국제적 시야 확대의 기회를 제공하여 미래 사회에 필요한 인재 양성에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "LG AI대학원 마지막 사내과정 종료…내달 교육부 인가과정 시작",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNFY0cHpuTmx3Z3J4V040ZmxuS1hoY1pFWjFsUG96UnR4NTVSXzBxTEpybUdEWURwbmRPUHRxUmtpczd1dEI2aFJadmMtd2JRVi1OeVlpVFJwcHJYWDk1VGJqSXpnei01U2hwenZRNXptanMwRmRhdzFwcXo3MVMxOXpUVmJCekpsNmZPYTczZUUxamctSmdXb2MwTkhUT1pRVzNWSWJ1OWpVZzJOZEdZVkF5Ym9yaXdENnc?oc=5",
+    "source": "뉴스통",
+    "published": "2026-02-07",
+    "keyword": "인공지능교육",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [
+     "LG",
+     "사교육",
+     "교육부"
+    ],
+    "summary": "LG AI대학원의 사내 과정 종료와 교육부 인가 과정 시작은 기업의 AI 인재 양성 노력이 대학 교육 시스템과 연계되는 중요한 전환점이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [],
+  "tech": []
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "미래 교육은 AI 맞춤형 학습 플랫폼, 글로컬 교육, 혁신적인 탐구학습, 국제 교류 등 다양한 시도를 통해 더욱 발전하고 있으며, 교원 양성 역량 강화에도 힘쓰는 긍정적인 방향으로 나아가고 있습니다."
+ }
+}

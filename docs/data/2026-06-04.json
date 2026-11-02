@@ -1,0 +1,432 @@
+{
+ "date": "2026-06-04",
+ "generated_at": "2026-11-02T11:37:39+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[기고]AI 에이전트의 시대, BI는 대체되는 것이 아니라 '진화'하는 것",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE54c1lSdmNyQ2tOTjdqVGJReEYweUpZckEwU2wtTFI5TkxQRGVKTTVKMWJRUk0xelhJVHloZlBZTHRaWVdDcU5KbEJKM2g4QQ?oc=5",
+    "source": "전자신문",
+    "published": "2026-06-03",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "AI 에이전트의 시대에 비즈니스 인텔리전스(BI)는 사라지는 것이 아니라 더욱 발전하며 진화할 것이라는 내용입니다.",
+    "implication": "AI 시대에 학생들이 새로운 기술이 기존 역량을 대체하기보다 진화시키는 도구임을 이해하도록 지도할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "정근식 서울교육감 재선 성공…“서울교육 변화 안정적으로 이어가겠다”",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HMGZEc3JnanE5RlhoWE5HR01QRm96dHJpcWE1UkVMeHhVcFRHdlBVRDF5UUNBSHVoSWp5UUpTMlp4YVV1ZDB0MDFwZUZObWEwV1I5N2xTOHNRVEhWbTdiLS1KVF8xNTdWMTVV?oc=5",
+    "source": "일간투데이",
+    "published": "2026-06-04",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "서울시교육청"
+    ],
+    "summary": "정근식 서울교육감이 재선에 성공하며 서울 교육의 변화를 안정적으로 이어가겠다고 밝혔습니다.",
+    "implication": "서울교육 정책의 안정적 기조가 유지되어 기존 수업 개선 활동을 지속할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "충북형 AI 윤리 기준·가이드라인 개발·보급",
+    "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2279566",
+    "source": "대전일보",
+    "published": "2026-06-04",
+    "keyword": "",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제",
+     "충북교육청",
+     "생성형 AI",
+     "저작권·소송"
+    ],
+    "summary": "충북교육청은 생성형 AI 확산에 대응하여 학생·교사가 AI를 올바르게 활용하도록 돕는 충북형 AI 윤리 기준과 가이드라인을 개발해 보급했습니다.",
+    "implication": "수업 중 AI 활용 시 학생 개인정보 보호, 저작권, 허위정보 등 실제 사례 중심의 윤리 지침을 학생들에게 지도할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[속보]부산교육감 김석준 당선…교육격차 해소·미래교육 기반에 방점",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1HRHV0RG1rVDQ4N3VhZTl1SjA1SlpQU2FXWENMNkNQX1V4c2FzeFdjVER5cHdETERDWnBoMDJmRUdwWU5mOUFlQnBCU3BVMXZlSEdtUw?oc=5",
+    "source": "이투데이",
+    "published": "2026-06-03",
+    "keyword": "디지털교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "부산시교육청"
+    ],
+    "summary": "김석준 부산교육감 당선인은 교육격차 해소와 미래교육 기반 마련에 중점을 두겠다고 밝혔습니다.",
+    "implication": "교육격차 해소와 미래교육 방향에 맞춰 학생 개별 맞춤형 수업을 계획할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "부산 교육감에 김석준 ‘4선’…AI 미래교육 드라이브",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CeGdCWk9jTHRzSmszRFl0bENhVHZaYWJFMGNJdS1nUVQ2amVaNFA2RVpUTldUOFNJQjNiVTdCZEVuel9oTXBXR0dJRzFZVkU3MWfSAVNBVV95cUxOUVVITVNIWjFhclVUbTJFbEp3T1FmRnBneDA4VHpWamF3ODdSVHFUc3RRQnl3WFFxTzFkeW9heUhwc1NENmk2anRJR2hqeWJ4WDZKYw?oc=5",
+    "source": "서울경제",
+    "published": "2026-06-03",
+    "keyword": "인공지능교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "부산시교육청"
+    ],
+    "summary": "김석준 부산 교육감이 4선에 성공했고, AI 미래교육을 중점 추진합니다.",
+    "implication": "부산 교육감의 AI 미래교육 추진으로 수업에 활용할 AI 자료가 더 제공될 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "이병도 충남교육감 당선…민주진보 교육정책 계승",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PSXg4SFV2V2RzWXYxYlFMeHZleldpVGNWQURuYzFXNzJyUUpvV3g4Um5MV0RlYUdvM1IyQ3p1NHAyWGtSOHYtYVZKekdSNTFKVzIyRjk2U0FWR3dHaDVXLWdaV2syLXNtMDVsYlJCS3JSZTTSAXNBVV95cUxNT0l4OEhVdldkc1l2MWJRTHh2ZXpXaVRjVkFEbmMxVzcyclFKb1d4OFJuTFdEZWFHbzNSMkN6dTRwMlhrUjh2LWFWSnpHUjUxSlcyMkY5NlNBVkd3R2g1Vy1nWldrMi1zbTA1bGJSQktyUmU0?oc=5",
+    "source": "대전일보",
+    "published": "2026-06-04",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "이병도 씨가 충남교육감에 당선되어 민주진보 교육정책을 이어갈 예정이다.",
+    "implication": "민주진보 교육정책 기조에 맞춰 학생 참여 및 토론 중심의 수업을 활성화할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "현장교사 출신이자 전북 교육개혁세력 대표주자",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWcVBCMk9DXzh3TzRZTUtGdklScFlQTFl1SGtKRXp3OWNHc21maUNYZlI3MXNGTzVlMld3U0x2WGhXWVBmQVRZa0h6THA5ajBDMEpkRDh4M3F2NHhZcUNWdzVSWG1NRFVwV05N0gFrQVVfeXFMUFZxUEIyT0NfOHdPNFlNS0Z2SVJwWVBMWXVIa0pFenc5Y0dzbWZpQ1hmUjcxc0ZPNWUyV3dTTHZYaFdZUGZBVFlrSHpMcDlqMEMwSmREOHgzcXY0eFlxQ1Z3NVJYbU1EVXBXTk0?oc=5",
+    "source": "전북중앙",
+    "published": "2026-06-03",
+    "keyword": "교육정책",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "전북교육청"
+    ],
+    "summary": "전북 교육개혁세력의 대표주자가 현장교사 출신임을 알 수 있습니다.",
+    "implication": "나의 교실에서 일어나는 생생한 경험과 아이디어가 미래 교육 개혁에 중요한 밑거름이 될 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "경기도 국민안전체험관-수원대 안전문화 확산·교육정책 교류 맞손",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxY2hXajZRdk9nbEZTRy1KcTBBdTBlYnZfVm1HY0JmeU4wYmNtZEhXY09kcURUMG12Y0dPLXI2TW5nMFRBblU1QURiMkN1dldBY0tqMEgtdktHNFJmeVVaVjRjLUJnR1dxMzg3OTZrZw?oc=5",
+    "source": "기호일보",
+    "published": "2026-06-03",
+    "keyword": "교육정책",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "경기도 국민안전체험관과 수원대가 안전문화 확산 및 교육정책 교류를 위해 협력합니다.",
+    "implication": "이 협력으로 경기도 국민안전체험관의 체험형 안전교육 프로그램을 수업에 적극 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "김대중, 전남·광주 통합교육감 당선 확정… 68만 표심이 선택한 'K-교육특별시'",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1uQXlwdFdhMm5GbURGdGdiYkhFUC1kY3dzWXo3ZVZrSjBGSHpFVWtSM0l4ZTBCNzY4c3BkTUhoV2lOSnhYSTRvVy1zVmhsVENadU54Z3dGVFVsNXZEYk5kRUNDY1dvLW5rODhjZXNiejdYYms?oc=5",
+    "source": "한국언론연합",
+    "published": "2026-06-04",
+    "keyword": "에듀테크",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "김대중 교육감이 68만 표로 전남·광주 통합교육감에 당선되어 'K-교육특별시' 구상이 현실화되었다.",
+    "implication": "두 지역 통합 교육과정 개발 가능성을 탐색하며 교육 협력 수업을 기획할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "경기도교육청특수교육원, 찾아가는 행동중재 연수 운영",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE45dmpCSk1rQXExVnNHeExaYjBGcEI5amg1NUs1RllvT3BEX3c5NWpTVlRTaGhCcHlLTEFkS2NJanRMR2tIYW5nVjdBSmRMcVYtZU05T0JqeXAySzJOUTRoMmJQSHFHUFR6Z3dYcWxmOFZqTkk3Wmp0MVh0ZE8?oc=5",
+    "source": "글로벌에픽",
+    "published": "2026-06-03",
+    "keyword": "에듀테크",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "특수교육"
+    ],
+    "summary": "경기도교육청특수교육원이 학교로 찾아가는 행동중재 연수를 운영합니다.",
+    "implication": "학교 현장에서 학생 행동 지도에 필요한 맞춤형 연수를 직접 받을 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Assessing Differences in Student Motivation, Achievement, and Conceptual Understanding in a Gamified Mathematics Learning Environment",
+    "url": "https://doi.org/10.58578/ijhess.v4i2.9364",
+    "source": "openalex",
+    "published": "2026-06-02",
+    "keyword": "",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [],
+    "summary": "700명 중등학생 대상 준실험 연구 결과, 교과 연계 게임화 수학 수업이 학생들의 동기, 학업 성취도, 개념 이해도를 유의미하게 향상시켜 효과적인 교육 전략으로 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Hassan Muhammad, Sadik Hamagam 외 1명",
+    "pdf": "https://ejournal.yasin-alsys.org/IJHESS/article/download/9364/7579"
+   },
+   {
+    "n": 2,
+    "title": "Digital Participation: Exploring Teacher Integration of Technology and Student Perceptions of Digital Literacy in South Sudan Primary Schools",
+    "url": "https://doi.org/10.65138/ijramt.2026.v7i6.3248",
+    "source": "openalex",
+    "published": "2026-06-02",
+    "keyword": "",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [
+     "AI 리터러시",
+     "교사 연수"
+    ],
+    "summary": "남수단 초등학교의 교사 기술 통합과 학생의 디지털 리터러시 인식에 대한 정량적 연구 결과, 단속적인 기술 활용과 젠더 격차가 확인되어, 디지털 격차 해소 및 오정보 취약성 감소를 위한 인프라 투자와 교사 연수의 중요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Paride O. Lolika, Lilly Odwa 외 1명",
+    "pdf": "https://journals.ijramt.com/index.php/ijramt/article/download/3248/3322"
+   },
+   {
+    "n": 3,
+    "title": "Emotional and motivational effects of automated and personalized formative feedback: The role of reference frames",
+    "url": "https://www.semanticscholar.org/paper/67abe8f4c4597d5ea27168005e0d00c0d6441fef",
+    "source": "semantic_scholar",
+    "published": "2024-06-05",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "자동화된 개인 맞춤형 형성 피드백에서 준거 및 규준 참조 프레임의 효과를 컴퓨터 기반 협력 학습 환경에서 실험하여 동기 및 정서에 미치는 영향을 분석하고 효과적인 피드백 설계 방안을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "J. Weidlich, Aron Fink 외 1명",
+    "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jcal.13024"
+   },
+   {
+    "n": 4,
+    "title": "Digitalization of Multistep Chemistry Exercises with Automated Formative Feedback",
+    "url": "https://www.semanticscholar.org/paper/3c88af491783b80e40a3e208fc1e1c8521caffc4",
+    "source": "semantic_scholar",
+    "published": "2023-03-31",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 개방형 화학 과제를 품질 손실 없이 디지털화하여 자동화되고 개별화된 맞춤형 피드백을 제공함으로써 대학생들의 학업 성과를 유의미하게 향상시킵니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Carolin Eitemüller, Florian Trauten 외 1명",
+    "pdf": "https://link.springer.com/content/pdf/10.1007/s10956-023-10043-2.pdf"
+   },
+   {
+    "n": 5,
+    "title": "Personalized Language Learning Through Technology: Challenges and Strategies",
+    "url": "https://doi.org/10.70382/hujarar.v12i2.052",
+    "source": "openalex",
+    "published": "2026-06-01",
+    "keyword": "edtech",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "AI 활용 개인 맞춤형 언어 학습의 도전 과제와 전략을 문헌 분석으로 제시하며, 지속 가능한 교육을 위한 학제적 협력 및 학습자 중심 접근의 중요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "SULEIMAN SALAMATU KWOKU",
+    "pdf": "https://hummingbirdjournals.com/jarar/article/download/625/612"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "\"AI 목소리도 안 통한다\"…구글, 딥페이크 보이스피싱 차단 기술 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211284",
+    "source": "AI Times",
+    "published": "2026-06-03",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "Google",
+     "딥페이크"
+    ],
+    "summary": "AI 오용 방어 기술 개발은 AI 신뢰성 확보의 필수 요소이며, 이는 전체 AI 산업 생태계 성장의 핵심 동력이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "Anthropic Salip OpenAI, Claude 제작자의 평가는 약 1 조 달러에 도달했습니다.",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAzc2RHazEzNl85OERVeTNUZnZnNUU0d0lDNGlkbWxoSFU0al9MQlF5VmhJMlJTajY3OVRwSkt6eGdQTi1WM3lLR1p0d9IBQkFVX3lxTFB1V1dib3MtNkFCSmNZZE1KZTVKUFhVTjIxZXNnalFqNU5VeklGamZOdWtlOTdRRkUzcHZqQXJTMlh3dw?oc=5",
+    "source": "VOI.id",
+    "published": "2026-06-03",
+    "keyword": "Anthropic",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "OpenAI",
+     "Claude"
+    ],
+    "summary": "Anthropic의 1조 달러 평가는 AI 산업의 경쟁 심화와 차별화된 AI 모델의 막대한 성장 잠재력을 보여줄 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "기술자 없이 앱을 만드는 시대'의 함정 — OpenAI ChatGPT 총괄의 솔직한 경고",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNVozUExXbEJZU1RDc2pOci1yczJUekNPZFFCUjlZSmozMXV0dThRb3ZQZkx2dU1iMUdWR0N0TkdldGtNZE9VRTg4ZkJUb2dzUWEzWDVVbklvdmx2eWhydk5waVJSTzRmWmt1cENjQk1kT1FXSTRLb0RUUDgwLTlUa3JsUUdWOFUzOE4wWU5R?oc=5",
+    "source": "AI 코리아 커뮤니티 뉴스레터",
+    "published": "2026-06-03",
+    "keyword": "API",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "AI는 앱 개발 문턱을 낮추지만, 견고한 AI 기술 생태계 구축을 위해서는 전문 기술자의 역할과 검증이 여전히 중요할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "엔비디아가 만든 가상 세계… ‘감마 월드’",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211264",
+    "source": "AI Times",
+    "published": "2026-06-03",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA"
+    ],
+    "summary": "엔비디아의 가상 세계는 AI 개발 및 시뮬레이션의 핵심 인프라로, 전 산업 분야의 AI 기술 발전과 적용을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "OpenAI expands Codex with role-specific plugins to build a general-purpose app for non-developers",
+    "url": "https://the-decoder.com/openai-expands-codex-with-role-specific-plugins-to-build-a-general-purpose-app-for-non-developers/",
+    "source": "The Decoder",
+    "published": "2026-06-02",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "코딩 AI"
+    ],
+    "summary": "OpenAI의 비개발자용 범용 앱 확장은 AI 기술 활용 장벽을 낮춰 산업 전반의 생산성 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "AWS 오픈AI 모델 출시, 기업 도입비용 아낀다",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iOTRMTXlzV0d4V0V5d0Y1QVY4ZEQ5c1R5eVJCaF9LdUYtc2FlbHBiSVA2clZ4bW9CYzRMSHkwWk80SDI3ckZQYkhaMDlPS0ZHT3VNYkxOQVRnRnR1eElnYlRHSkFZdF96S3hldlkxUmk?oc=5",
+    "source": "디지털포커스",
+    "published": "2026-06-03",
+    "keyword": "오픈AI",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Amazon",
+     "OpenAI"
+    ],
+    "summary": "AWS의 오픈AI 모델 출시는 기업의 최첨단 AI 도입 비용을 절감하며 클라우드 AI 서비스 시장의 경쟁을 심화시켜 AI 기술 확산을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "와이즈넛, 멀티모달 기능 강화 AI 에이전트 첫선… LLM 라인업 확장",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nOXZXMGNFWHhqcWV6ZTZWajNZdzBEaGxtN1VCNW04ZHJKR2o1aGtWOGdheFV1cGZiNjdURGN2NGtaX3dObzJ2OFhtdnl5VFk?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-06-04",
+    "keyword": "LLM",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "에이전트",
+     "LLM"
+    ],
+    "summary": "멀티모달 AI 에이전트의 출현은 LLM의 실질적 활용 범위를 확장하고 AI 생태계의 핵심 동력이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "How Braintrust turns customer requests into code with Codex",
+    "url": "https://openai.com/index/braintrust",
+    "source": "OpenAI Blog",
+    "published": "2026-05-29",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "코딩 AI"
+    ],
+    "summary": "Braintrust 사례는 AI가 고객 요청을 코드로 자동 변환하여 소프트웨어 개발 프로세스 전반의 효율성을 크게 높일 것임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "Anthropic expands access to AI security model ‘Mythos’···including the South Korean government and Samsung, SK",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtamRRMHZXdXNEQXlmQlVDbGhVNGFKcUZoclZFenkycXRLSXRkakg3VXZRdHNrWFBVNUlzNU00ZVFJRDh0dTlaOVhBSVFlQlYyaHdWRUhCNkkxVm1CUEE?oc=5",
+    "source": "경향신문",
+    "published": "2026-06-03",
+    "keyword": "Anthropic",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude",
+     "삼성",
+     "SK"
+    ],
+    "summary": "Anthropic의 AI 보안 모델 확대는 AI의 신뢰성 확보가 기업 및 공공 부문 AI 도입과 시장 확장을 이끄는 핵심 동력이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "[국민의선택] \"저는 OpenAI 비서입니다\"…챗GPT가 전하는 '선거 판도'",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1Rk1zbklJWjFFVFNxeTdya0dkNmlEYzNjeGNXa0FHVkxIeVZrTDVmcGJRa2lsUUVCNGc0RWU3WEpXT1RwemRmZEV0cDdUTUhfYllN?oc=5",
+    "source": "네이트",
+    "published": "2026-06-03",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "AI의 사회적 영향력 확대로 투명하고 책임감 있는 AI 개발이 산업의 핵심 과제가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

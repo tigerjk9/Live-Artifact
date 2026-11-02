@@ -1,47 +1,78 @@
 #!/usr/bin/env python3
 """Daily news fetcher and HTML generator for Live Artifact.
 
-소스 레포 3곳에서 오늘 날짜 JSON을 페치하여 docs/index.html 및
-docs/archive/{today}.html을 생성한다. 28일 초과 아카이브는 자동 삭제.
+소스 레포 3곳에서 날짜별 JSON·요약 TXT를 페치해
+  1) docs/data/YYYY-MM-DD.json  — 정규화된 영구 레코드 (주제·주체 분류 포함, 삭제 안 함)
+  2) docs/archive/YYYY-MM-DD.html, docs/index.html — '오늘의 흐름' 보드가 붙은 페이지
+  3) docs/data/index.json, search.json, docs/assets/dates.json — 아카이브 탐색·흐름 페이지 재료
+를 만든다.
+
+사용법
+  python scripts/fetch_and_generate.py                 # 오늘 생성 (+ 최근 7일 누락분 보강)
+  python scripts/fetch_and_generate.py --backfill-all  # 소스 레포에 남은 전 기간을 data/로 복구
+  python scripts/fetch_and_generate.py --rebuild-archives  # data/ 전부를 현재 템플릿으로 다시 렌더
+  python scripts/fetch_and_generate.py --date 2026-10-30   # 특정 날짜만 (폴백 없이) 재생성
+환경변수
+  NEWS_TOKEN       소스 레포 read PAT (없으면 비인증 — 시간당 60회 제한)
+  GEMINI_API_KEY   있으면 오늘 레코드에 Gemini 종합(헤드라인·흐름 3개)을 붙인다 (선택)
 """
 
 from __future__ import annotations
 
+import argparse
 import base64
 import html
 import json
 import os
 import re
 import sys
-from datetime import date, datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from difflib import SequenceMatcher
 
 import requests
 from dateutil import parser as dateutil_parser
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from insights import (  # noqa: E402
+    SECTIONS,
+    SECTION_SHORT,
+    build_index,
+    build_search,
+    compute_board,
+    list_dates,
+    load_day,
+    record_ai_count,
+    record_total,
+    render_board,
+    save_day,
+)
+from synthesis import synthesize  # noqa: E402
+from taxonomy import classify, detect_kind, extract_entities, topic_label  # noqa: E402
 
 # ---------------------------------------------------------------------------
 # 설정
 # ---------------------------------------------------------------------------
 
 BASE_URL = "https://tigerjk9.github.io/Live-Artifact"
+KST = timezone(timedelta(hours=9))
 
 TOKEN = os.environ.get("NEWS_TOKEN", "")
 HEADERS = (
-    {
-        "Authorization": f"token {TOKEN}",
-        "Accept": "application/vnd.github.v3+json",
-    }
+    {"Authorization": f"token {TOKEN}", "Accept": "application/vnd.github.v3+json"}
     if TOKEN
     else {"Accept": "application/vnd.github.v3+json"}
 )
 
 SOURCES: dict[str, dict] = {
     "edu-news": {
+        "section": "edu",
         "repo": "tigerjk9/Auto-Edu-news-Collector",
         "label": "교육 뉴스",
         "data_dir": "news",
         "file_template": "education_news_{YYYYMMDD}.json",
         "ai_summary_file": "education_news_{YYYYMMDD}_newsletter.txt",
+        # 뉴스레터에 요약이 없던 기간(2026-03~04)의 보조 소스 — RSS 본문 '요약:' 줄
+        "plain_summary_file": "education_news_{YYYYMMDD}.txt",
         "url_field": "link",
         "title_field": "title",
         "summary_field": "summary",
@@ -50,11 +81,11 @@ SOURCES: dict[str, dict] = {
         "keyword_field": "keyword",
     },
     "ai-paper": {
+        "section": "paper",
         "repo": "tigerjk9/Auto-AI-Edu-Paper-Curator",
         "label": "AI 교육 논문",
         "data_dir": "papers",
         "file_template": "ai_edu_papers_{YYYYMMDD}.json",
-        # 일반 .txt 파일에 한국어 AI 요약이 항목별로 있음
         "ai_summary_file": "ai_edu_papers_{YYYYMMDD}.txt",
         "url_field": "link",
         "title_field": "title",
@@ -66,11 +97,11 @@ SOURCES: dict[str, dict] = {
         "pdf_field": "pdf_link",
     },
     "ai-tech": {
+        "section": "tech",
         "repo": "tigerjk9/Auto-AI-Tech-news-Collector",
         "label": "AI 기술 뉴스",
         "data_dir": "news",
         "file_template": "ai_tech_news_{YYYYMMDD}.json",
-        # newsletter.txt에 항목별 한국어 AI 요약 있음
         "ai_summary_file": "ai_tech_news_{YYYYMMDD}_newsletter.txt",
         "url_field": "link",
         "title_field": "title",
@@ -80,11 +111,13 @@ SOURCES: dict[str, dict] = {
         "keyword_field": "keyword",
     },
 }
+SECTION_SOURCE = {cfg["section"]: key for key, cfg in SOURCES.items()}
 
-KEEP_DAYS = 28
-
-# 한국어 AI 요약이 이 비율 미만이면 "미완성"으로 보고 페이지에 안내를 띄우며,
-# 워크플로우 skip 게이트도 통과시키지 않는다 (이후 cron이 재시도하도록).
+# 날짜 pill 정적 폴백 개수 (JS가 dates.json으로 덮어쓴다)
+NAV_DAYS = 14
+# 오늘 실행 때 최근 며칠의 누락 레코드를 보강할지 (소스 커밋이 늦게 떨어지는 날 대비)
+RECENT_BACKFILL_DAYS = 7
+# 한국어 AI 요약이 이 비율 미만이면 "미완성"으로 보고 안내 배너 + 워크플로우 게이트 재시도
 AI_COVERAGE_MIN_PCT = 60
 
 # ---------------------------------------------------------------------------
@@ -101,13 +134,9 @@ def fetch_file(repo: str, path: str) -> str | None:
             print(f"[WARN] 파일 없음: {repo}/{path}", file=sys.stderr)
             return None
         if resp.status_code != 200:
-            print(
-                f"[ERROR] GitHub API {resp.status_code}: {repo}/{path}",
-                file=sys.stderr,
-            )
+            print(f"[ERROR] GitHub API {resp.status_code}: {repo}/{path}", file=sys.stderr)
             return None
         data = resp.json()
-        # Base64 디코딩 (GitHub API는 항상 base64 인코딩 반환)
         content = data.get("content", "")
         return base64.b64decode(content.replace("\n", "")).decode("utf-8")
     except Exception as exc:
@@ -115,75 +144,117 @@ def fetch_file(repo: str, path: str) -> str | None:
         return None
 
 
+def list_source_dates(repo: str, data_dir: str) -> list[str]:
+    """소스 레포의 날짜 디렉터리 목록 (YYYY-MM-DD). Contents API는 최대 1000개."""
+    url = f"https://api.github.com/repos/{repo}/contents/{data_dir}"
+    try:
+        resp = requests.get(url, headers=HEADERS, timeout=20)
+        if resp.status_code != 200:
+            print(f"[ERROR] 디렉터리 목록 {resp.status_code}: {repo}/{data_dir}", file=sys.stderr)
+            return []
+        out = []
+        for ent in resp.json():
+            if ent.get("type") == "dir" and re.fullmatch(r"\d{4}-\d{2}-\d{2}", ent.get("name", "")):
+                out.append(ent["name"])
+        return sorted(out)
+    except Exception as exc:
+        print(f"[ERROR] list_source_dates({repo}): {exc}", file=sys.stderr)
+        return []
+
+
 # ---------------------------------------------------------------------------
 # 파싱
 # ---------------------------------------------------------------------------
 
 
-def parse_items(raw: str) -> list[dict]:
-    """JSON 문자열을 파싱하여 아이템 목록을 반환한다.
+_CONFLICT_LINE_RE = re.compile(r"^(?:<{7}|={7}|>{7}).*$\n?", re.MULTILINE)
+_CONFLICT_BLOCK_RE = re.compile(r"^<{7}[^\n]*\n(.*?)^={7}[^\n]*\n(.*?)^>{7}[^\n]*\n?", re.DOTALL | re.MULTILINE)
 
-    지원 형식:
-      - 배열: [{"title": ...}, ...]
-      - 객체: {"items": [...], ...}  또는 {"data": [...], ...}
+
+def repair_json_variants(raw: str):
+    """소스 레포에 가끔 남는 깨진 JSON(git 충돌 마커 — 2025-12-19 등 4일)을 살리는 후보들.
+
+    마커만 지우기 → 충돌의 뒤쪽(theirs)만 남기기 → 앞쪽(ours)만 남기기 순으로 시도한다.
+    후행 쉼표도 함께 정리한다.
+    """
+    for fixed in (
+        _CONFLICT_LINE_RE.sub("", raw),
+        _CONFLICT_BLOCK_RE.sub(lambda m: m.group(2), raw),
+        _CONFLICT_BLOCK_RE.sub(lambda m: m.group(1), raw),
+    ):
+        yield re.sub(r",(\s*[}\]])", r"\1", fixed)
+
+
+def parse_items(raw: str) -> list[dict]:
+    """JSON 문자열을 파싱하여 아이템 목록을 반환한다 (배열 또는 {items|data|...: [...]}).
+
+    파싱 실패 시 repair_json_variants()로 재시도하고, 충돌 양쪽이 모두 남아 생긴 중복은 URL로 제거한다.
     """
     try:
         data = json.loads(raw)
     except json.JSONDecodeError as exc:
-        print(f"[ERROR] JSON 파싱 실패: {exc}", file=sys.stderr)
-        return []
-
+        data = None
+        for candidate in repair_json_variants(raw):
+            try:
+                data = json.loads(candidate)
+                print(f"[WARN] JSON 복구 후 파싱 (원인: {exc})", file=sys.stderr)
+                break
+            except json.JSONDecodeError:
+                continue
+        if data is None:
+            print(f"[ERROR] JSON 파싱 실패: {exc}", file=sys.stderr)
+            return []
+    items: list | None = None
     if isinstance(data, list):
-        return data
-
-    if isinstance(data, dict):
-        # 배열 값을 가진 첫 번째 키를 사용
+        items = data
+    elif isinstance(data, dict):
         for key in ("items", "data", "results", "news", "papers"):
             if key in data and isinstance(data[key], list):
-                return data[key]
-        # 그 외: 딕셔너리 내의 첫 번째 리스트 값
-        for val in data.values():
-            if isinstance(val, list):
-                return val
+                items = data[key]
+                break
+        if items is None:
+            for val in data.values():
+                if isinstance(val, list):
+                    items = val
+                    break
+    if items is None:
+        print(f"[WARN] 인식할 수 없는 JSON 구조: {type(data)}", file=sys.stderr)
+        return []
+    seen: set[str] = set()
+    out: list[dict] = []
+    for it in items:
+        if not isinstance(it, dict):
+            continue
+        key = str(it.get("link") or it.get("url") or it.get("title") or "")
+        if key and key in seen:
+            continue
+        seen.add(key)
+        out.append(it)
+    return out
 
-    print(f"[WARN] 인식할 수 없는 JSON 구조: {type(data)}", file=sys.stderr)
-    return []
 
-
-# ---------------------------------------------------------------------------
-# 날짜 포맷 유틸리티
-# ---------------------------------------------------------------------------
-
-
-def format_date(date_str: str) -> str:
-    """다양한 날짜 형식을 'M월 D일' 형식으로 변환한다.
-
-    지원 형식:
-      - RFC 2822: "Sun, 10 May 2026 06:50:35 GMT"
-      - YYYY-MM-DD HH:MM:SS: "2026-05-09 18:31:15"
-      - YYYY-MM-DD: "2026-05-08"
-    실패 시 원본 문자열을 그대로 반환한다.
-    """
+def iso_date(date_str: str) -> str:
+    """다양한 날짜 문자열을 YYYY-MM-DD로. 실패 시 ''."""
     if not date_str:
         return ""
     try:
-        dt = dateutil_parser.parse(date_str)
-        return f"{dt.month}월 {dt.day}일"
+        return dateutil_parser.parse(date_str).date().isoformat()
     except Exception:
-        # dateutil 실패 시 간단한 정규식 시도
         m = re.search(r"(\d{4})-(\d{2})-(\d{2})", date_str)
-        if m:
-            month = int(m.group(2))
-            day = int(m.group(3))
-            return f"{month}월 {day}일"
-        return date_str
+        return f"{m.group(1)}-{m.group(2)}-{m.group(3)}" if m else ""
+
+
+def format_date(date_str: str) -> str:
+    """YYYY-MM-DD 또는 임의 형식 → 'M월 D일'. 실패 시 원본."""
+    iso = iso_date(date_str)
+    if iso:
+        y, m, d = iso.split("-")
+        return f"{int(m)}월 {int(d)}일"
+    return date_str
 
 
 def format_authors(authors_raw: str) -> str:
-    """저자 문자열을 최대 2명 + '외 N명' 형식으로 줄인다.
-
-    authors는 쉼표 구분 문자열. 50자 초과 또는 3명 이상이면 축약.
-    """
+    """저자 문자열을 최대 2명 + '외 N명' 형식으로 줄인다."""
     if not authors_raw:
         return ""
     parts = [a.strip() for a in authors_raw.split(",") if a.strip()]
@@ -191,77 +262,27 @@ def format_authors(authors_raw: str) -> str:
         return ", ".join(parts)
     shown = parts[:2]
     rest = len(parts) - 2
-    if rest > 0:
-        return f"{', '.join(shown)} 외 {rest}명"
-    return ", ".join(shown)
+    return f"{', '.join(shown)} 외 {rest}명" if rest > 0 else ", ".join(shown)
 
 
 def escape_html(text: str) -> str:
-    """최소한의 HTML 이스케이프 처리."""
     return (
-        text.replace("&", "&amp;")
-        .replace("<", "&lt;")
-        .replace(">", "&gt;")
-        .replace('"', "&quot;")
+        str(text).replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;").replace('"', "&quot;")
     )
 
 
 def strip_html(text: str) -> str:
-    """HTML 태그/엔티티/잘린 태그를 모두 제거하고 공백 정리한다.
-
-    다중 인코딩 케이스를 포함하여 모두 처리:
-      - 정상 태그: <a href=...>...</a>
-      - 잘린 태그: <img width="..." src="https://..."  (닫는 > 없음)
-      - 단일 인코딩 엔티티: &lt;a&gt; → <a>
-      - 이중 인코딩 엔티티: &amp;lt;img → &lt;img → <img
-      - 미디어 태그(img/figure/picture/video): 내용 전체 제거
-    """
+    """HTML 태그/엔티티/잘린 태그를 모두 제거하고 공백 정리한다 (이중 인코딩 포함)."""
     if not text:
         return ""
-    # 1) 이중 인코딩 대응: 두 번 unescape (안전함 — 단일 인코딩에도 멱등)
     t = html.unescape(html.unescape(text))
-    # 2) 미디어 태그 선행 제거 (img/figure/picture/video — 내용 없는 태그)
     t = re.sub(r"<(?:img|figure|picture|video|source|iframe)\b[^>]*>", "", t, flags=re.IGNORECASE | re.DOTALL)
-    # 3) 정상 태그 제거 (멀티라인 포함)
     t = re.sub(r"<[^>]*>", "", t, flags=re.DOTALL)
-    # 4) 잘린 태그 제거
-    t = re.sub(r"<\w[^<]*$", "", t)          # 끝까지 닫히지 않은 태그
-    t = re.sub(r"<\w[^<]*?(?=<)", "", t)     # 다음 < 전에 닫히지 않은 태그
-    t = re.sub(r"<\w[^>]*", "", t)           # 기타 미완성 태그
-    # 5) 잔여 < > 제거
+    t = re.sub(r"<\w[^<]*$", "", t)
+    t = re.sub(r"<\w[^<]*?(?=<)", "", t)
+    t = re.sub(r"<\w[^>]*", "", t)
     t = t.replace("<", " ").replace(">", " ")
-    # 6) 공백 정리
-    t = re.sub(r"\s+", " ", t).strip()
-    return t
-
-
-def fix_html_artifacts_in_archives(archive_dir: str) -> int:
-    """기존 아카이브 HTML에서 잘못 렌더된 HTML 아티팩트를 제거한다.
-
-    이중 인코딩 버그로 entry-desc에 &lt;img...&gt; 텍스트가 삽입된 경우를 정리.
-    Returns: 수정된 파일 수
-    """
-    artifact_desc = re.compile(
-        r'<p class="entry-desc">\s*&lt;(?:img|figure|picture|video)[^<]*?</p>',
-        re.DOTALL,
-    )
-    fixed = 0
-    for fname in os.listdir(archive_dir):
-        if not fname.endswith(".html"):
-            continue
-        fpath = os.path.join(archive_dir, fname)
-        try:
-            with open(fpath, encoding="utf-8") as f:
-                content = f.read()
-            cleaned = artifact_desc.sub("", content)
-            if cleaned != content:
-                with open(fpath, "w", encoding="utf-8") as f:
-                    f.write(cleaned)
-                fixed += 1
-                print(f"[FIX] HTML 아티팩트 제거: {fname}", file=sys.stderr)
-        except Exception as exc:
-            print(f"[WARN] 아카이브 정리 실패 {fname}: {exc}", file=sys.stderr)
-    return fixed
+    return re.sub(r"\s+", " ", t).strip()
 
 
 def normalize_title(title: str) -> str:
@@ -273,94 +294,8 @@ def normalize_title(title: str) -> str:
     return t.lower()
 
 
-def parse_ai_summary_txt(text: str) -> dict[str, str]:
-    """newsletter/요약 .txt 파일을 파싱하여 {normalized_title: ai_summary} 반환.
-
-    지원 포맷 두 가지:
-
-    Format A (ai-tech newsletter):
-      1. 제목
-         AI 요약 (들여쓰기 한 줄, 한국어)
-         https://...
-
-    Format B (ai-paper):
-      1. 제목
-         - AI 요약 (들여쓰기 + 하이픈)
-         - [논문 보기](URL)
-    """
-    if not text:
-        return {}
-    result: dict[str, str] = {}
-
-    # 번호 항목으로 분할 (각 블록 시작이 'N. ')
-    blocks = re.split(r"(?m)^(?=\d{1,2}\.\s+)", text)
-    for blk in blocks:
-        m = re.match(r"^(\d{1,2})\.\s+(.+?)(?:\n|$)", blk)
-        if not m:
-            continue
-        title = m.group(2).strip()
-        rest = blk[m.end():]
-
-        summary_lines: list[str] = []
-        for line in rest.split("\n"):
-            ln = line.strip()
-            if not ln:
-                continue
-            # 종료 조건: 푸터/섹션 구분자 만나면 이 항목의 요약 수집 중단
-            if (
-                ln.startswith("──") or ln.startswith("━━") or ln.startswith("==")
-                or ln.startswith("# ") or ln.startswith("☕")
-                or "한 줄 요약" in ln or "한줄요약" in ln
-                or re.match(r"^[\s─-╿─━═#]+$", ln)
-            ):
-                break
-            # URL 라인 스킵
-            if ln.startswith("http://") or ln.startswith("https://"):
-                continue
-            # 마크다운 링크 라인 스킵: [...] (...)
-            if re.match(r"^-?\s*\[.+?\]\(.+?\)\s*$", ln):
-                continue
-            # 하이픈 prefix 제거 (Format B)
-            if ln.startswith("- "):
-                ln = ln[2:].strip()
-            elif ln.startswith("-"):
-                ln = ln[1:].strip()
-            if not ln:
-                continue
-            summary_lines.append(ln)
-
-        if summary_lines:
-            result[normalize_title(title)] = " ".join(summary_lines)
-
-    return result
-
-
-def fetch_ai_summaries(key: str, cfg: dict, target_date: str) -> dict[str, str]:
-    """소스의 AI 요약 .txt 파일을 페치하여 {title: summary} 매핑 반환.
-
-    cfg["ai_summary_file"]가 None이면 빈 dict.
-    """
-    pattern = cfg.get("ai_summary_file")
-    if not pattern:
-        return {}
-    yyyymmdd = target_date.replace("-", "")
-    filename = pattern.replace("{YYYYMMDD}", yyyymmdd)
-    path = f"{cfg['data_dir']}/{target_date}/{filename}"
-    raw = fetch_file(cfg["repo"], path)
-    if raw is None:
-        return {}
-    summaries = parse_ai_summary_txt(raw)
-    if summaries:
-        print(f"[OK] {key}: AI 요약 {len(summaries)}건 파싱", file=sys.stderr)
-    return summaries
-
-
 def clean_title(title: str, source: str) -> str:
-    """제목 끝의 ' - 매체명' 중복 접미사를 제거한다.
-
-    Google News RSS는 제목 끝에 ' - 매체명' 형식을 붙이는데,
-    source 필드가 별도로 있으므로 중복이다.
-    """
+    """제목 끝의 ' - 매체명' 중복 접미사를 제거한다 (Google News RSS 형식)."""
     if not title:
         return ""
     t = title.strip()
@@ -368,7 +303,6 @@ def clean_title(title: str, source: str) -> str:
         suffix = f" - {source}"
         if t.endswith(suffix):
             t = t[: -len(suffix)].strip()
-    # 일반 패턴: 끝부분의 ' - XXX' 형태 (XXX가 짧을 때)
     m = re.search(r"\s+-\s+([^\-]{2,20})\s*$", t)
     if m:
         t = t[: m.start()].strip()
@@ -376,175 +310,175 @@ def clean_title(title: str, source: str) -> str:
 
 
 # ---------------------------------------------------------------------------
-# HTML 엔트리 렌더링 (Editorial Brief)
+# AI 요약 TXT 파싱 — 세 가지 포맷
 # ---------------------------------------------------------------------------
 
+_EMOJI_HEAD_RE = re.compile(r"^#\s*(?:([1-9])️?⃣|\U0001F51F)\s*(.+?)\s*$", re.MULTILINE)
+_NOTE_RE = re.compile(
+    r"^>?\s*(?:오늘의\s*(?:한\s*줄\s*요약|AI\s*트렌드|핵심|교육\s*트렌드)|한줄요약)\s*[:：]\s*(.+?)\s*$"
+)
+_FOOTER_RE = re.compile(r"^(?:──|━━|==|# |☕)|^[\s─-╿─━═#]+$")
+# 수집기가 Gemini 실패 시 넣는 상투 문구 — 헤드라인으로 쓸 가치가 없다
+_BOILERPLATE_NOTE_RE = re.compile(r"^(?:교육|AI|인공지능)[을를]?\s*중심으로\s*교육\s*현장의\s*혁신이\s*가속화되고\s*있습니다\.?$")
 
-def render_entry(item: dict, cfg: dict, source_key: str, index: int) -> str:
-    """단일 뉴스/논문 엔트리 HTML을 반환한다 (Editorial Brief 구조).
 
-    HTML 구조:
-      <li class="entry">
-        <span class="entry-num">01</span>
-        <div class="entry-body">
-          <div class="entry-meta">
-            <span class="entry-src">출처</span>
-            <span class="entry-sep">·</span>
-            <span class="entry-dt">날짜</span>
-            <span class="entry-kw">키워드</span>
-          </div>
-          <h3 class="entry-title"><a>제목</a></h3>
-          <p class="entry-by">저자</p>    <!-- 논문 전용 -->
-          <p class="entry-desc">요약</p>
-          <div class="entry-actions">     <!-- 논문 PDF만 -->
-            <a class="entry-pdf">PDF</a>
-          </div>
-        </div>
-      </li>
+def parse_ai_summary_txt(text: str) -> tuple[dict[str, dict], str | None]:
+    """newsletter/요약 .txt → ({normalized_title: {"summary", "implication"}}, 일일 한 줄 요약).
+
+    Format A (2026-04~, 뉴스): `N. 제목` / `   요약` / `   → 시사점`(교육) / `   URL`
+    Format B (논문):           `N. 제목` / `   - 요약` / `   - [논문 보기](URL)`
+    Format C (2025-11~2026-03): `# 1️⃣ 제목` / `오피니언: 요약` / `🔗 링크: URL`,
+                                 머리에 `| 1️⃣ | 제목 |` 표와 `> 오늘의 한 줄 요약: …`
     """
-    raw_title = str(item.get(cfg["title_field"], "제목 없음"))
-    url = str(item.get(cfg["url_field"], "#")).strip() or "#"
-    source_raw = str(item.get(cfg.get("source_field", ""), "")).strip()
-    date_raw = str(item.get(cfg.get("date_field", "date"), "")).strip()
-    keyword = str(item.get(cfg.get("keyword_field", "keyword"), "")).strip()
+    if not text:
+        return {}, None
+    note: str | None = None
+    for line in text.split("\n"):
+        m = _NOTE_RE.match(line.strip())
+        if m:
+            note = re.sub(r"\s*[🚀✨💡📚🎯]+\s*$", "", m.group(1)).strip()
+            if len(note) < 25 or _BOILERPLATE_NOTE_RE.match(note):
+                note = None
+            break
 
-    # 요약 우선순위: ai_summary (newsletter.txt에서 머지된 한국어 요약)
-    # → 그게 없으면 JSON 'summary' 필드 (영문 초록/RSS 본문)
-    ai_summary = str(item.get("ai_summary", "")).strip()
-    json_summary = str(item.get(cfg.get("summary_field", "summary"), "")).strip()
-    used_ai_summary = bool(ai_summary)
-    summary_raw = ai_summary if ai_summary else json_summary
+    result: dict[str, dict] = {}
+    if _EMOJI_HEAD_RE.search(text.replace("\r", "")):
+        # ── Format C
+        cur_title: str | None = None
+        for raw in text.split("\n"):
+            ln = raw.strip()
+            m = _EMOJI_HEAD_RE.match(ln)
+            if m:
+                cur_title = m.group(2).strip()
+                continue
+            if not cur_title or not ln:
+                continue
+            if ln.startswith("🔗") or ln.startswith("http"):
+                cur_title = None
+                continue
+            body = re.sub(r"^(?:오피니언|요약|시사점)\s*[:：]\s*", "", ln)
+            if body:
+                key = normalize_title(cur_title)
+                ent = result.setdefault(key, {"summary": "", "implication": ""})
+                ent["summary"] = (ent["summary"] + " " + body).strip()
+        return result, note
 
-    title_clean = clean_title(raw_title, source_raw)
-    title = escape_html(title_clean) if title_clean else "제목 없음"
-    source = escape_html(source_raw)
-    date_fmt = format_date(date_raw)
-    # strip_html 강화: 잘린 태그/엔티티/HTML 모두 처리
-    clean_sum = strip_html(summary_raw)
-    # 뉴스 기사 서두의 '[매체=기자이름 기자]' 형태 attribution 제거
-    clean_sum = re.sub(r'^\s*\[[^\]]{2,30}\]\s*', '', clean_sum)
-    # 한국어 AI 요약은 전문 표시, 영문 원본(초록/RSS 본문)은 250자로 제한
-    if not used_ai_summary and len(clean_sum) > 250:
-        clean_sum = clean_sum[:250].rsplit(' ', 1)[0] + '…'
-
-    # meta 컴포지션
-    meta_parts: list[str] = []
-    if source:
-        meta_parts.append(f'<span class="entry-src">{source}</span>')
-    if source and date_fmt:
-        meta_parts.append('<span class="entry-sep" aria-hidden="true">·</span>')
-    if date_fmt:
-        meta_parts.append(f'<span class="entry-dt">{date_fmt}</span>')
-    # 키워드 배지: 15자 초과(긴 영문 학술 용어 등)는 표시 안 함
-    if keyword and keyword not in ("press_rss", "None", "") and len(keyword) <= 15:
-        meta_parts.append(f'<span class="entry-kw">{escape_html(keyword)}</span>')
-
-    meta_html = (
-        f'      <div class="entry-meta">{"".join(meta_parts)}</div>\n'
-        if meta_parts
-        else ""
-    )
-
-    # 저자 (논문)
-    by_html = ""
-    if source_key == "ai-paper":
-        authors_raw = str(item.get(cfg.get("authors_field", "authors"), "")).strip()
-        authors_fmt = escape_html(format_authors(authors_raw))
-        if authors_fmt:
-            by_html = f'      <p class="entry-by">{authors_fmt}</p>\n'
-
-    # 요약
-    desc_html = ""
-    if clean_sum:
-        desc_html = f'      <p class="entry-desc">{escape_html(clean_sum)}</p>\n'
-
-    # PDF 링크 (논문 전용)
-    actions_html = ""
-    if source_key == "ai-paper":
-        pdf_link = str(item.get(cfg.get("pdf_field", "pdf_link"), "")).strip()
-        if pdf_link and pdf_link not in ("#", "None", ""):
-            actions_html = (
-                '      <div class="entry-actions">\n'
-                f'        <a class="entry-pdf" href="{pdf_link}" '
-                f'target="_blank" rel="noopener noreferrer">PDF &darr;</a>\n'
-                "      </div>\n"
-            )
-
-    return (
-        f'    <li class="entry">\n'
-        f'      <span class="entry-num" aria-hidden="true">{index:02d}</span>\n'
-        f'      <div class="entry-body">\n'
-        f"{meta_html}"
-        f'        <h3 class="entry-title">'
-        f'<a href="{url}" target="_blank" rel="noopener noreferrer">{title}</a>'
-        f"</h3>\n"
-        f"{by_html}"
-        f"{desc_html}"
-        f"{actions_html}"
-        f"      </div>\n"
-        f"    </li>"
-    )
+    # ── Format A / B
+    blocks = re.split(r"(?m)^(?=\d{1,2}\.\s+)", text)
+    for blk in blocks:
+        m = re.match(r"^(\d{1,2})\.\s+(.+?)(?:\n|$)", blk)
+        if not m:
+            continue
+        title = m.group(2).strip()
+        rest = blk[m.end():]
+        summary_lines: list[str] = []
+        impl_lines: list[str] = []
+        for line in rest.split("\n"):
+            ln = line.strip()
+            if not ln:
+                continue
+            if _FOOTER_RE.match(ln) or "한 줄 요약" in ln or "한줄요약" in ln:
+                break
+            if ln.startswith("http://") or ln.startswith("https://"):
+                continue
+            if re.match(r"^-?\s*\[.+?\]\(.+?\)\s*$", ln):
+                continue
+            if ln.startswith("→") or ln.startswith("->"):
+                impl_lines.append(ln.lstrip("→->").strip())
+                continue
+            if ln.startswith("- "):
+                ln = ln[2:].strip()
+            elif ln.startswith("-"):
+                ln = ln[1:].strip()
+            if ln:
+                summary_lines.append(ln)
+        if summary_lines or impl_lines:
+            result[normalize_title(title)] = {
+                "summary": " ".join(summary_lines),
+                "implication": " ".join(impl_lines),
+            }
+    return result, note
 
 
-def item_description_text(item: dict, cfg: dict) -> str:
-    """아이템의 최종 설명 텍스트를 반환 (없으면 빈 문자열).
+def parse_plain_txt(text: str) -> dict[str, dict]:
+    """수집기 평문 .txt (`N. 제목` / `   출처:` / `   날짜:` / `   링크:` / `   요약: …`) → {norm_title: {...}}.
 
-    render_entry와 동일한 우선순위: ai_summary → json summary → strip_html → attribution 제거
+    요약은 RSS 본문 앞부분이라 AI 요약은 아니지만, 뉴스레터에 요약이 빠진 날(2026-03~04)에는
+    제목만 남는 것보다 낫다. '요약:' 줄이 없는 항목은 건너뛴다.
     """
-    ai_sum = str(item.get("ai_summary", "")).strip()
-    json_sum = str(item.get(cfg.get("summary_field", "summary"), "")).strip()
-    raw = ai_sum if ai_sum else json_sum
-    text = strip_html(raw)
-    text = re.sub(r'^\s*\[[^\]]{2,30}\]\s*', '', text)
-    return text
+    if not text:
+        return {}
+    result: dict[str, dict] = {}
+    for blk in re.split(r"(?m)^(?=\d{1,2}\.\s+)", text):
+        m = re.match(r"^(\d{1,2})\.\s+(.+?)(?:\n|$)", blk)
+        if not m:
+            continue
+        title = m.group(2).strip()
+        sm = re.search(r"(?m)^\s*요약\s*[:：]\s*(.+?)\s*$", blk[m.end():])
+        if not sm:
+            continue
+        body = re.sub(r"\s*\.{3}$|\s*…$", "", sm.group(1)).strip()
+        if len(body) >= 20:
+            result[normalize_title(title)] = {"summary": body, "implication": ""}
+    return result
 
 
-_HANGUL_RE = re.compile(r"[가-힣]")
+def fetch_ai_summaries(key: str, cfg: dict, target_date: str) -> tuple[dict[str, dict], str | None]:
+    pattern = cfg.get("ai_summary_file")
+    if not pattern:
+        return {}, None
+    yyyymmdd = target_date.replace("-", "")
+    raw = fetch_file(cfg["repo"], f"{cfg['data_dir']}/{target_date}/{pattern.replace('{YYYYMMDD}', yyyymmdd)}")
+    summaries, note = parse_ai_summary_txt(raw) if raw is not None else ({}, None)
+    if summaries:
+        print(f"[OK] {key}: AI 요약 {len(summaries)}건 파싱", file=sys.stderr)
+    # 뉴스레터에 요약이 거의 없으면 평문 .txt의 RSS 요약으로 보강 (교육 뉴스만 설정됨)
+    plain_pattern = cfg.get("plain_summary_file")
+    if plain_pattern and len(summaries) < 3:
+        plain_raw = fetch_file(cfg["repo"], f"{cfg['data_dir']}/{target_date}/{plain_pattern.replace('{YYYYMMDD}', yyyymmdd)}")
+        plain = parse_plain_txt(plain_raw) if plain_raw else {}
+        added = 0
+        for k, v in plain.items():
+            if k not in summaries:
+                summaries[k] = v
+                added += 1
+        if added:
+            print(f"[OK] {key}: 평문 요약 {added}건 보강", file=sys.stderr)
+    return summaries, note
 
 
-def has_korean_summary(item: dict, cfg: dict) -> bool:
-    """카드에 실을 만한 한국어 요약이 있으면 True.
-
-    Gemini 요약이 죽었을 때 나타나는 두 증상을 모두 잡는다:
-      - 요약 자체가 없음 — newsletter가 `N. 제목` + URL만 담고 생성됨
-      - 영문 원문만 남음 — 논문의 `[원문 초록]` 폴백, RSS 영문 본문
-    """
-    text = item_description_text(item, cfg)
-    return len(text) >= 20 and bool(_HANGUL_RE.search(text))
-
-
-def filter_described(items: list[dict], cfg: dict, source_key: str) -> list[dict]:
-    """설명이 있는 기사만 반환.
-
-    - ai-paper : 필터 없음 — 항상 AI 요약 보장
-    - edu-news : 필터 없음 — newsletter AI 요약 세팅 완료, 과도기 기사도 제목만으로 표시
-    - ai-tech  : Gemini AI 요약이 1건 이상 매칭됐을 때만 설명 20자+ 필터 적용.
-                 매칭 0건(newsletter 미생성·Gemini 실패)이면 전체 수집 아이템을 그대로 반환.
-    """
-    if source_key in ("ai-paper", "edu-news"):
-        return items
-    # Gemini 요약이 하나라도 매칭됐으면 품질 필터 적용, 없으면 전체 표시
-    has_ai_summary = any(item.get("ai_summary") for item in items)
-    if not has_ai_summary:
-        return items
-    described = [it for it in items if len(item_description_text(it, cfg)) >= 20]
-    return described if described else items
-
-
-def render_section_body(items: list[dict], cfg: dict, source_key: str) -> str:
-    """섹션 본문 (ol.col-list 또는 col-empty)을 반환한다."""
-    if not items:
-        label = cfg.get("label", "데이터")
-        return f'<p class="col-empty">이 날짜의 {label} 데이터가 없습니다.</p>'
-    entries = "\n".join(
-        render_entry(item, cfg, source_key, idx + 1) for idx, item in enumerate(items)
-    )
-    return f'<ol class="col-list">\n{entries}\n  </ol>'
-
-
-# 하위 호환 — 기존 main()에서 render_cards 호출
-def render_cards(items: list[dict], cfg: dict, source_key: str) -> str:
-    return render_section_body(items, cfg, source_key)
+def match_summaries(items: list[dict], cfg: dict, summaries: dict[str, dict]) -> int:
+    """제목 정규화 → 정확/접두/유사도(0.72) 3단계 매칭으로 ai_summary·ai_implication을 붙인다."""
+    if not summaries:
+        return 0
+    keys = list(summaries.keys())
+    matched = 0
+    for item in items:
+        t = normalize_title(str(item.get(cfg["title_field"], "")))
+        if not t:
+            continue
+        hit = None
+        if t in summaries:
+            hit = t
+        else:
+            t_prefix = t[:20]
+            for k in keys:
+                if k.startswith(t_prefix) or t.startswith(k[:20]):
+                    hit = k
+                    break
+            if hit is None:
+                best_r, best_k = 0.0, None
+                for k in keys:
+                    r = SequenceMatcher(None, t, k, autojunk=False).ratio()
+                    if r > best_r:
+                        best_r, best_k = r, k
+                if best_r >= 0.72:
+                    hit = best_k
+        if hit:
+            item["ai_summary"] = summaries[hit]["summary"]
+            item["ai_implication"] = summaries[hit]["implication"]
+            matched += 1
+    return matched
 
 
 # ---------------------------------------------------------------------------
@@ -552,586 +486,352 @@ def render_cards(items: list[dict], cfg: dict, source_key: str) -> str:
 # ---------------------------------------------------------------------------
 
 
-def fetch_today_source(key: str, cfg: dict, today: str) -> list[dict]:
-    """오늘 날짜 JSON을 페치하고, 가능하면 AI 요약 .txt도 머지한다.
-
-    각 아이템에 'ai_summary' 키가 추가될 수 있다 (제목 매칭 성공 시).
-    실패 시 빈 리스트 반환.
-    """
-    yyyymmdd = today.replace("-", "")
-    filename = cfg["file_template"].replace("{YYYYMMDD}", yyyymmdd)
-    path = f"{cfg['data_dir']}/{today}/{filename}"
-    raw = fetch_file(cfg["repo"], path)
+def fetch_today_source(key: str, cfg: dict, date: str) -> tuple[list[dict], str | None]:
+    """날짜 JSON을 페치하고 AI 요약 .txt를 머지한다. (items, 일일 한 줄 요약)"""
+    filename = cfg["file_template"].replace("{YYYYMMDD}", date.replace("-", ""))
+    raw = fetch_file(cfg["repo"], f"{cfg['data_dir']}/{date}/{filename}")
     if raw is None:
-        print(f"[WARN] {key}: {today} 파일 없음 ({path})", file=sys.stderr)
-        return []
+        print(f"[WARN] {key}: {date} 파일 없음", file=sys.stderr)
+        return [], None
     items = parse_items(raw)
     print(f"[OK] {key}: {len(items)}건 로드", file=sys.stderr)
-
-    # AI 요약 머지 (있는 소스만)
-    ai_summaries = fetch_ai_summaries(key, cfg, today)
-    if ai_summaries:
-        matched = 0
-        # 제목 기반 매칭 — 정규화 후 정확/접두 매칭 시도
-        norm_to_summary = ai_summaries
-        norm_keys = list(norm_to_summary.keys())
-        for item in items:
-            t = normalize_title(str(item.get(cfg["title_field"], "")))
-            if not t:
-                continue
-            # 1) 정확 매칭
-            if t in norm_to_summary:
-                item["ai_summary"] = norm_to_summary[t]
-                matched += 1
-                continue
-            # 2) 접두 매칭 (제목 앞 20자 일치)
-            t_prefix = t[:20]
-            found = False
-            for k in norm_keys:
-                if k.startswith(t_prefix) or t.startswith(k[:20]):
-                    item["ai_summary"] = norm_to_summary[k]
-                    matched += 1
-                    found = True
-                    break
-            if found:
-                continue
-            # 3) 유사도 매칭 — 논문 제목처럼 긴 문자열 대응 (임계값 0.72)
-            best_r, best_k = 0.0, None
-            for k in norm_keys:
-                r = SequenceMatcher(None, t, k, autojunk=False).ratio()
-                if r > best_r:
-                    best_r, best_k = r, k
-            if best_r >= 0.72 and best_k:
-                item["ai_summary"] = norm_to_summary[best_k]
-                matched += 1
+    summaries, note = fetch_ai_summaries(key, cfg, date)
+    if summaries:
+        matched = match_summaries(items, cfg, summaries)
         print(f"[OK] {key}: AI 요약 매칭 {matched}/{len(items)}건", file=sys.stderr)
-
-    return items
+    return items, note
 
 
 def fetch_source_with_fallback(
     key: str, cfg: dict, today: str, max_fallback: int = 3
-) -> tuple[list[dict], str | None]:
-    """오늘 데이터를 페치하고, 없으면 최대 max_fallback일 이전까지 재시도한다.
-
-    반환: (items, fallback_date_or_None)
-      - 오늘 데이터가 있으면: (items, None)
-      - 폴백 사용 시:        (items, "YYYY-MM-DD")
-      - 모두 없으면:         ([], None)
-    """
-    items = fetch_today_source(key, cfg, today)
+) -> tuple[list[dict], str | None, str | None]:
+    """오늘 데이터가 없으면 최대 max_fallback일 이전까지 재시도. (items, fallback_date, note)"""
+    items, note = fetch_today_source(key, cfg, today)
     if items:
-        return items, None
+        return items, None, note
     today_dt = datetime.strptime(today, "%Y-%m-%d").date()
     for d in range(1, max_fallback + 1):
         prev = (today_dt - timedelta(days=d)).isoformat()
-        items = fetch_today_source(key, cfg, prev)
+        items, note = fetch_today_source(key, cfg, prev)
         if items:
             print(f"[FALLBACK] {key}: {today} 데이터 없음 → {prev} 폴백", file=sys.stderr)
-            return items, prev
-    return [], None
+            return items, prev, note
+    return [], None, None
 
 
 # ---------------------------------------------------------------------------
-# 날짜 네비게이션
+# 레코드 빌드 (정규화 + 분류)
+# ---------------------------------------------------------------------------
+
+_HANGUL_RE = re.compile(r"[가-힣]")
+_ATTRIB_RE = re.compile(r"^\s*\[[^\]]{2,30}\]\s*")
+
+
+def item_description_text(item: dict, cfg: dict) -> str:
+    ai_sum = str(item.get("ai_summary", "")).strip()
+    json_sum = str(item.get(cfg.get("summary_field", "summary"), "")).strip()
+    text = strip_html(ai_sum if ai_sum else json_sum)
+    return _ATTRIB_RE.sub("", text)
+
+
+def filter_described(items: list[dict], cfg: dict, source_key: str) -> list[dict]:
+    """ai-tech만: Gemini 요약이 1건 이상 매칭됐을 때 설명 20자+ 필터. 나머지는 전체 표시."""
+    if source_key in ("ai-paper", "edu-news"):
+        return items
+    if not any(item.get("ai_summary") for item in items):
+        return items
+    described = [it for it in items if len(item_description_text(it, cfg)) >= 20]
+    return described if described else items
+
+
+def build_item(raw: dict, cfg: dict, source_key: str, section: str, n: int) -> dict:
+    """원본 아이템 → 레코드 아이템 (렌더링·분석에 필요한 것만, 분류 포함)."""
+    source = str(raw.get(cfg.get("source_field", ""), "")).strip()
+    title = clean_title(str(raw.get(cfg["title_field"], "제목 없음")), source) or "제목 없음"
+    url = str(raw.get(cfg["url_field"], "#")).strip() or "#"
+    keyword = str(raw.get(cfg.get("keyword_field", "keyword"), "")).strip()
+    if keyword in ("press_rss", "None") or len(keyword) > 15:
+        keyword = ""
+
+    ai_summary = str(raw.get("ai_summary", "")).strip()
+    used_ai = bool(ai_summary)
+    summary = item_description_text(raw, cfg)
+    if not used_ai and len(summary) > 250:
+        summary = summary[:250].rsplit(" ", 1)[0] + "…"
+    implication = strip_html(str(raw.get("ai_implication", "")).strip())
+    # 구포맷·수동 병합으로 요약 안에 '→'가 남아 있으면 시사점으로 분리
+    if not implication and "→" in summary:
+        head, _, tail = summary.partition("→")
+        if len(tail.strip()) >= 10:
+            summary, implication = head.strip(), tail.strip()
+
+    full_text = f"{title} {summary} {implication}"
+    item = {
+        "n": n,
+        "title": title,
+        "url": url,
+        "source": source,
+        "published": iso_date(str(raw.get(cfg.get("date_field", "date"), "")).strip()),
+        "keyword": keyword,
+        "topic": classify(section, title, f"{summary} {implication}"),
+        "kind": detect_kind(title),
+        "entities": extract_entities(full_text),
+        "summary": summary,
+        "implication": implication,
+        "ai": len(summary) >= 20 and bool(_HANGUL_RE.search(summary)),
+    }
+    if section == "paper":
+        item["authors"] = format_authors(str(raw.get(cfg.get("authors_field", "authors"), "")).strip())
+        pdf = str(raw.get(cfg.get("pdf_field", "pdf_link"), "")).strip()
+        item["pdf"] = pdf if pdf not in ("#", "None") else ""
+    return item
+
+
+def build_day_record(date: str, use_fallback: bool) -> dict:
+    """세 소스를 페치해 하루 레코드를 만든다. 아이템 0개여도 레코드는 반환 (호출자가 판단)."""
+    record = {
+        "date": date,
+        "generated_at": datetime.now(tz=KST).strftime("%Y-%m-%dT%H:%M:%S+09:00"),
+        "sections": {},
+        "fallback": {},
+        "notes": {},
+    }
+    for key, cfg in SOURCES.items():
+        sec = cfg["section"]
+        try:
+            if use_fallback:
+                items, fb, note = fetch_source_with_fallback(key, cfg, date)
+            else:
+                items, note = fetch_today_source(key, cfg, date)
+                fb = None
+            before = len(items)
+            items = filter_described(items, cfg, key)
+            if len(items) < before:
+                print(f"[INFO] {key}: 설명 없는 기사 {before - len(items)}건 제외", file=sys.stderr)
+            record["sections"][sec] = [build_item(it, cfg, key, sec, i + 1) for i, it in enumerate(items)]
+            if fb:
+                record["fallback"][sec] = fb
+            if note:
+                record["notes"][sec] = note
+            covered = sum(1 for it in record["sections"][sec] if it["ai"])
+            if covered < len(items):
+                print(f"[WARN] {key}: 한국어 AI 요약 {covered}/{len(items)}건", file=sys.stderr)
+        except Exception as exc:
+            print(f"[ERROR] {key} {date}: {exc}", file=sys.stderr)
+            record["sections"][sec] = []
+    return record
+
+
+# ---------------------------------------------------------------------------
+# HTML 렌더링
 # ---------------------------------------------------------------------------
 
 
-def build_date_nav(today: str, archive_dir: str) -> str:
-    """최근 28일치 날짜 pill HTML을 생성한다.
+def render_item(item: dict, section: str) -> str:
+    source = escape_html(item.get("source", ""))
+    date_fmt = format_date(item.get("published", ""))
+    topic = item.get("topic", "")
+    meta: list[str] = []
+    if source:
+        meta.append(f'<span class="entry-src">{source}</span>')
+    if source and date_fmt:
+        meta.append('<span class="entry-sep" aria-hidden="true">·</span>')
+    if date_fmt:
+        meta.append(f'<span class="entry-dt">{date_fmt}</span>')
+    if topic:
+        meta.append(
+            f'<button type="button" class="entry-topic" data-topic-filter="{section}:{topic}" '
+            f'title="이 주제만 보기">{escape_html(topic_label(section, topic))}</button>'
+        )
+    if item.get("keyword"):
+        meta.append(f'<span class="entry-kw">{escape_html(item["keyword"])}</span>')
+    if item.get("kind"):
+        meta.append(f'<span class="entry-kind">{escape_html({"opinion": "칼럼", "interview": "인터뷰", "feature": "기획"}.get(item["kind"], item["kind"]))}</span>')
+    meta_html = f'      <div class="entry-meta">{"".join(meta)}</div>\n' if meta else ""
 
-    아카이브 파일이 존재하는 날짜만 pill을 출력하며,
-    오늘은 항상 맨 앞에 표시한다.
-    """
-    today_dt = datetime.strptime(today, "%Y-%m-%d").date()
-    pills: list[str] = []
+    by_html = ""
+    if section == "paper" and item.get("authors"):
+        by_html = f'      <p class="entry-by">{escape_html(item["authors"])}</p>\n'
+    desc_html = f'      <p class="entry-desc">{escape_html(item["summary"])}</p>\n' if item.get("summary") else ""
+    impl_html = (
+        f'      <p class="entry-impl"><span class="entry-impl-k" aria-label="시사점">→</span>{escape_html(item["implication"])}</p>\n'
+        if item.get("implication") else ""
+    )
+    actions_html = ""
+    if section == "paper" and item.get("pdf"):
+        actions_html = (
+            '      <div class="entry-actions">\n'
+            f'        <a class="entry-pdf" href="{escape_html(item["pdf"])}" target="_blank" rel="noopener noreferrer">PDF &darr;</a>\n'
+            "      </div>\n"
+        )
+    ents = "|".join(item.get("entities", []))
+    return (
+        f'    <li class="entry" id="{section}-{item["n"]}" data-topic="{escape_html(topic)}" data-ents="{escape_html(ents)}">\n'
+        f'      <span class="entry-num" aria-hidden="true">{item["n"]:02d}</span>\n'
+        f'      <div class="entry-body">\n'
+        f"{meta_html}"
+        f'        <h3 class="entry-title"><a href="{escape_html(item["url"])}" target="_blank" rel="noopener noreferrer">{escape_html(item["title"])}</a></h3>\n'
+        f"{by_html}{desc_html}{impl_html}{actions_html}"
+        f"      </div>\n"
+        f"    </li>"
+    )
 
-    for delta in range(KEEP_DAYS):
-        target_dt = today_dt - timedelta(days=delta)
-        target_str = target_dt.strftime("%Y-%m-%d")
-        month = target_dt.month
-        day = target_dt.day
 
-        if delta == 0:
-            # 오늘 pill — 항상 출력
+def render_section_body(items: list[dict], section: str) -> str:
+    if not items:
+        label = SOURCES[SECTION_SOURCE[section]]["label"]
+        return f'<p class="col-empty">이 날짜의 {label} 데이터가 없습니다.</p>'
+    return '<ol class="col-list">\n' + "\n".join(render_item(it, section) for it in items) + "\n  </ol>"
+
+
+def date_kr(date: str, weekday: bool = True) -> str:
+    dt = datetime.strptime(date, "%Y-%m-%d")
+    s = f"{dt.year}년 {dt.month}월 {dt.day}일"
+    if weekday:
+        s += " " + ["월", "화", "수", "목", "금", "토", "일"][dt.weekday()] + "요일"
+    return s
+
+
+def build_date_nav(latest: str, dates: list[str], root: str) -> str:
+    """정적 날짜 pill (최근 NAV_DAYS개 + 전체 아카이브 링크). JS가 dates.json으로 다시 그린다."""
+    pills = []
+    for d in sorted(dates, reverse=True)[:NAV_DAYS]:
+        dt = datetime.strptime(d, "%Y-%m-%d")
+        if d == latest:
             pills.append(
-                f'<a class="date-pill today active"\n'
-                f'   href="index.html"\n'
-                f'   aria-current="page">\n'
-                f"  오늘 ({month}/{day:02d})\n"
-                f"</a>"
+                f'<a class="date-pill today active" href="{root}index.html" aria-current="page">오늘 {dt.month}/{dt.day:02d}</a>'
             )
         else:
-            # 과거 날짜 — 아카이브 파일이 있을 때만 출력
-            archive_path = os.path.join(archive_dir, f"{target_str}.html")
-            if os.path.isfile(archive_path):
-                pills.append(
-                    f'<a class="date-pill"\n'
-                    f'   href="archive/{target_str}.html">\n'
-                    f"  {month}/{day:02d}\n"
-                    f"</a>"
-                )
-
+            pills.append(f'<a class="date-pill" href="{root}archive/{d}.html">{dt.month}/{dt.day:02d}</a>')
+    pills.append(f'<a class="date-pill date-pill-all" href="{root}archive/">전체 아카이브 ›</a>')
     return "\n".join(pills)
 
 
-# ---------------------------------------------------------------------------
-# dates.json 관리 (archive_dir 스캔 기반)
-# ---------------------------------------------------------------------------
-
-
-def update_dates_json(today: str, docs_dir: str, archive_dir: str) -> None:
-    """archive_dir를 스캔하여 모든 아카이브 날짜 + 오늘을 dates.json에 기록한다."""
-    json_path = os.path.join(docs_dir, "assets", "dates.json")
-
-    dates: list[str] = []
-    if os.path.isdir(archive_dir):
-        for fname in os.listdir(archive_dir):
-            if not fname.endswith(".html"):
-                continue
-            stem = fname[:-5]
-            try:
-                datetime.strptime(stem, "%Y-%m-%d")
-                dates.append(stem)
-            except ValueError:
-                continue
-
-    # 오늘은 항상 포함 (index.html은 archive에 없을 수도 있음)
-    if today not in dates:
-        dates.append(today)
-
-    dates = sorted(set(dates))
-
-    # 28일 초과 제거
-    cutoff_dt = datetime.strptime(today, "%Y-%m-%d").date() - timedelta(days=KEEP_DAYS)
-    dates = [d for d in dates if datetime.strptime(d, "%Y-%m-%d").date() > cutoff_dt]
-
-    result = {"available_dates": dates, "latest": today}
-
-    os.makedirs(os.path.dirname(json_path), exist_ok=True)
-    with open(json_path, "w", encoding="utf-8") as f:
-        json.dump(result, f, ensure_ascii=False, indent=2)
-
-    print(f"[OK] dates.json: {len(dates)}개 날짜, latest={today}", file=sys.stderr)
-
-
-# ---------------------------------------------------------------------------
-# 단일 날짜 렌더링 (백필/오늘 공용)
-# ---------------------------------------------------------------------------
-
-
-def fixup_archive_paths(html: str) -> str:
-    """archive/ 하위 HTML에서 자산 경로를 ../assets/ 로 보정한다.
-
-    템플릿은 root(docs/index.html) 기준 상대경로 'assets/' 를 사용하므로,
-    archive/YYYY-MM-DD.html에 그대로 저장하면 'docs/archive/assets/' 로
-    잘못 해석된다. 이 함수가 그것을 보정.
-    """
-    return (
-        html
-        .replace('href="assets/', 'href="../assets/')
-        .replace('src="assets/', 'src="../assets/')
-    )
-
-
-def fix_existing_archive_paths(archive_dir: str) -> int:
-    """기존 archive/*.html 파일의 자산 경로를 일괄 보정. 이미 보정된 파일은 스킵."""
-    if not os.path.isdir(archive_dir):
-        return 0
-    fixed = 0
-    for fname in os.listdir(archive_dir):
-        if not fname.endswith(".html"):
-            continue
-        path = os.path.join(archive_dir, fname)
-        with open(path, encoding="utf-8") as f:
-            content = f.read()
-        if 'href="assets/' not in content and 'src="assets/' not in content:
-            continue
-        new_content = fixup_archive_paths(content)
-        with open(path, "w", encoding="utf-8") as f:
-            f.write(new_content)
-        fixed += 1
-    if fixed:
-        print(f"[OK] 기존 아카이브 경로 보정: {fixed}개 파일", file=sys.stderr)
-    return fixed
-
-
-def upgrade_archives_to_v2(
-    archive_dir: str, last_updated_iso: str, last_updated_kr: str
-) -> int:
-    """기존 archive/*.html을 v2 템플릿 수준으로 일괄 업그레이드한다.
-
-    패치 항목 (이미 적용된 항목은 마커 체크로 스킵 — 멱등적):
-    1. <head>: canonical, manifest, theme-color, OG, Twitter, JSON-LD
-    2. <body> 직후: skip-link
-    3. date-nav 직후: 검색바
-    4. brand-tag 텍스트 업데이트
-    5. footer: profile-card가 없으면 전체 교체
-    6. </body> 직전: toast-container
-
-    반환: 실제 수정된 파일 수
-    """
-    if not os.path.isdir(archive_dir):
-        return 0
-
-    SEARCH_BAR = (
-        '  <div class="search-bar-wrap" role="search" aria-label="기사 검색">\n'
-        '    <div class="search-bar-inner">\n'
-        '      <svg class="search-icon" aria-hidden="true" width="15" height="15"'
-        ' viewBox="0 0 15 15" fill="none">\n'
-        '        <circle cx="6.5" cy="6.5" r="5.25" stroke="currentColor" stroke-width="1.4"/>\n'
-        '        <path d="M10.5 10.5L13.5 13.5" stroke="currentColor"'
-        ' stroke-width="1.4" stroke-linecap="round"/>\n'
-        '      </svg>\n'
-        '      <input type="search" id="di-search" class="search-input"\n'
-        '             placeholder="제목, 요약, 출처 검색… (단축키: /)"\n'
-        '             aria-label="기사 검색" autocomplete="off" spellcheck="false">\n'
-        '      <span class="search-count-badge" aria-live="polite"'
-        ' aria-atomic="true" hidden></span>\n'
-        '      <button class="search-clear" type="button"'
-        ' aria-label="검색어 지우기" hidden>✕</button>\n'
-        '    </div>\n'
-        '  </div>'
-    )
-
-    upgraded = 0
-    for fname in sorted(os.listdir(archive_dir)):
-        if not fname.endswith(".html"):
-            continue
-        date_str = fname[:-5]
-        try:
-            dt = datetime.strptime(date_str, "%Y-%m-%d")
-        except ValueError:
-            continue
-
-        fpath = os.path.join(archive_dir, fname)
-        try:
-            with open(fpath, encoding="utf-8") as f:
-                content = f.read()
-        except Exception as exc:
-            print(f"[WARN] 업그레이드 읽기 실패 {fname}: {exc}", file=sys.stderr)
-            continue
-
-        original = content
-        date_kr = f"{dt.year}년 {dt.month}월 {dt.day}일"
-        canonical_url = f"{BASE_URL}/archive/{date_str}.html"
-
-        # 1. <head> 보강 (manifest 유무로 체크)
-        if 'rel="manifest"' not in content:
-            head_block = (
-                f'  <link rel="canonical" href="{canonical_url}">\n'
-                f'  <link rel="manifest" href="../assets/manifest.json">\n'
-                f'  <meta name="theme-color" content="#131a2a">\n'
-                f'  <!-- Open Graph -->\n'
-                f'  <meta property="og:type" content="website">\n'
-                f'  <meta property="og:title" content="Daily Intelligence — {date_kr}">\n'
-                f'  <meta property="og:description"'
-                f' content="교육 뉴스, AI 논문, AI 기술 뉴스 일일 브리핑 — 닷커넥터 김진관">\n'
-                f'  <meta property="og:url" content="{canonical_url}">\n'
-                f'  <meta property="og:image" content="{BASE_URL}/assets/facilitator.png">\n'
-                f'  <meta property="og:locale" content="ko_KR">\n'
-                f'  <!-- Twitter Card -->\n'
-                f'  <meta name="twitter:card" content="summary">\n'
-                f'  <meta name="twitter:title" content="Daily Intelligence — {date_kr}">\n'
-                f'  <meta name="twitter:description"'
-                f' content="교육 뉴스, AI 논문, AI 기술 뉴스 일일 브리핑">\n'
-                f'  <meta name="twitter:image" content="{BASE_URL}/assets/facilitator.png">\n'
-                f'  <!-- JSON-LD -->\n'
-                f'  <script type="application/ld+json">\n'
-                f'  {{\n'
-                f'    "@context": "https://schema.org",\n'
-                f'    "@type": "WebPage",\n'
-                f'    "name": "Daily Intelligence — {date_kr}",\n'
-                f'    "description": "교육 뉴스, AI 논문, AI 기술 뉴스 일일 브리핑",\n'
-                f'    "url": "{canonical_url}",\n'
-                f'    "inLanguage": "ko",\n'
-                f'    "publisher": {{\n'
-                f'      "@type": "Person",\n'
-                f'      "name": "닷커넥터 김진관",\n'
-                f'      "url": "https://litt.ly/dot_connector"\n'
-                f'    }},\n'
-                f'    "dateModified": "{last_updated_iso}"\n'
-                f'  }}\n'
-                f'  </script>'
-            )
-            content = content.replace("</head>", head_block + "\n</head>", 1)
-
-        # 2. skip-link
-        if 'class="skip-link"' not in content:
-            content = re.sub(
-                r'(<body[^>]*>)',
-                r'\1\n\n  <a class="skip-link" href="#main-content">본문으로 건너뛰기</a>',
-                content,
-                count=1,
-            )
-
-        # 3. 검색바 — 첫 번째 </nav>(date-nav) 직후 삽입
-        if 'class="search-bar-wrap"' not in content:
-            idx = content.find('</nav>')
-            if idx != -1:
-                ins = idx + len('</nav>')
-                content = content[:ins] + '\n\n' + SEARCH_BAR + '\n' + content[ins:]
-
-        # 4. brand-tag 텍스트
-        content = content.replace(
-            ">EDU · PAPERS · TECH<",
-            ">EDU · PAPERS · TECH 뉴스 일일 브리핑<",
-        )
-
-        # 5. footer 교체 (profile-card 없는 구버전)
-        if 'class="profile-card"' not in content:
-            new_footer = (
-                '  <footer class="site-footer">\n'
-                '    <a class="profile-card" href="https://litt.ly/dot_connector"'
-                ' target="_blank" rel="noopener noreferrer"'
-                ' aria-label="닷커넥터 김진관의 링크 페이지로 이동">\n'
-                '      <img class="profile-photo" src="../assets/facilitator.png"'
-                ' alt="닷커넥터 김진관" width="64" height="64" loading="lazy">\n'
-                '      <span class="profile-name">닷커넥터'
-                '<span class="profile-name-sub">(김진관)</span></span>\n'
-                '      <span class="profile-bio">배움, 나눔, 성장을 추구하는 연결주의자</span>\n'
-                '      <span class="profile-link-hint">litt.ly/dot_connector ↗</span>\n'
-                '    </a>\n'
-                '    <div class="footer-meta">\n'
-                f'      <span class="footer-updated">갱신'
-                f' <time datetime="{last_updated_iso}">{last_updated_kr}</time></span>\n'
-                '      <a class="footer-link" href="https://github.com/tigerjk9"'
-                ' target="_blank" rel="noopener noreferrer">GitHub ↗</a>\n'
-                '    </div>\n'
-                '  </footer>'
-            )
-            content = re.sub(
-                r'<footer class="site-footer">.*?</footer>',
-                new_footer,
-                content,
-                flags=re.DOTALL,
-            )
-
-        # 6. toast-container
-        if 'toast-container' not in content:
-            content = content.replace(
-                '<script src="../assets/app.js">',
-                '  <div class="toast-container" aria-live="polite" aria-atomic="true"'
-                ' aria-relevant="additions"></div>\n\n  <script src="../assets/app.js">',
-                1,
-            )
-
-        if content != original:
-            try:
-                with open(fpath, "w", encoding="utf-8") as f:
-                    f.write(content)
-                upgraded += 1
-                print(f"[UPGRADE] {fname}", file=sys.stderr)
-            except Exception as exc:
-                print(f"[WARN] 업그레이드 저장 실패 {fname}: {exc}", file=sys.stderr)
-
-    if upgraded:
-        print(f"[OK] 아카이브 v2 업그레이드: {upgraded}개 파일", file=sys.stderr)
-    return upgraded
-
-
-# ---------------------------------------------------------------------------
-# 단일 날짜 렌더링 (백필/오늘 공용)
-# ---------------------------------------------------------------------------
-
-
-def render_date_html(
-    target_date: str,
+def render_page(
+    record: dict,
     template: str,
+    board_html: str,
     date_nav: str,
+    root: str,
+    canonical: str,
     last_updated_iso: str,
     last_updated_kr: str,
-    use_fallback: bool = False,
-) -> tuple[str, int, int]:
-    """target_date의 3개 소스를 페치하여 (HTML, 총 아이템 수, 한국어 요약 건수)를 반환한다.
+    issue_no: int | None = None,
+) -> str:
+    secs = record["sections"]
+    fallback = record.get("fallback") or {}
+    total = record_total(record)
+    covered_all = record_ai_count(record)
+    covered_fresh = record_ai_count(record, fresh_only=True)
+    coverage_pct = round(covered_all * 100 / total) if total else 0
 
-    use_fallback=True: 오늘 데이터 없는 소스는 최대 3일 이전 데이터로 폴백.
-    아이템이 0개여도 HTML은 반환한다 (호출자가 저장 여부 판단).
-    """
-    cards: dict[str, str] = {}
-    counts: dict[str, int] = {}
-    covered: dict[str, int] = {}       # 안내 배너용 — 표시된 카드 기준
-    fresh_covered: dict[str, int] = {} # 게이트용 — 폴백 섹션은 0으로 친다
-    count_labels: dict[str, str] = {}
-    for key, cfg in SOURCES.items():
-        try:
-            if use_fallback:
-                items, fallback_date = fetch_source_with_fallback(key, cfg, target_date)
-            else:
-                items, fallback_date = fetch_today_source(key, cfg, target_date), None
-            before = len(items)
-            items = filter_described(items, cfg, key)
-            after = len(items)
-            if after < before:
-                print(f"[INFO] {key}: 설명 없는 기사 {before - after}건 제외 → {after}건 표시", file=sys.stderr)
-            counts[key] = len(items)
-            covered[key] = sum(1 for it in items if has_korean_summary(it, cfg))
-            # 폴백 섹션은 '오늘 요약이 확보됐다'는 근거가 못 된다. 어제 데이터는
-            # 요약이 온전하므로 그대로 세면 커버리지가 부풀어, 재시도 게이트가
-            # 꺼지고 묵은 데이터가 그대로 굳는다.
-            fresh_covered[key] = 0 if fallback_date else covered[key]
-            if covered[key] < counts[key]:
-                print(
-                    f"[WARN] {key}: 한국어 AI 요약 {covered[key]}/{counts[key]}건 "
-                    f"— 수집기 Gemini 호출 실패 가능성",
-                    file=sys.stderr,
-                )
-            if fallback_date:
-                fb_dt = datetime.strptime(fallback_date, "%Y-%m-%d")
-                count_labels[key] = f"{len(items)}건 ({fb_dt.month}/{fb_dt.day})"
-            else:
-                count_labels[key] = f"{len(items)}건"
-            cards[key] = render_section_body(items, cfg, key)
-        except Exception as exc:
-            print(f"[ERROR] {key} {target_date}: {exc}", file=sys.stderr)
-            counts[key] = 0
-            covered[key] = 0
-            fresh_covered[key] = 0
-            count_labels[key] = "0건"
-            label = cfg.get("label", "데이터")
-            cards[key] = f'<p class="col-empty">이 날짜의 {label} 데이터가 없습니다.</p>'
-
-    total = sum(counts.values())
-    total_covered = sum(covered.values())
-    # meta/게이트에 쓰는 값 — 폴백 섹션 제외. 이 수치가 낮으면 이후 cron이 재시도한다.
-    total_fresh = sum(fresh_covered.values())
-    coverage_pct = round(total_covered * 100 / total) if total else 0
-
-    # 요약 커버리지가 낮으면 카드가 제목만 남아 페이지가 고장난 것처럼 보인다.
-    # 원인(수집기 Gemini 실패)을 독자에게 명시해 오해를 막는다.
     notice_html = ""
     if total and coverage_pct < AI_COVERAGE_MIN_PCT:
         notice_html = (
             '  <div class="brief-notice" role="status">\n'
             '    <span class="brief-notice-icon" aria-hidden="true">⚠</span>\n'
-            "    <span>AI 요약 생성이 일시 중단되어 일부 항목은 제목·링크만 표시됩니다"
-            f" (요약 {total_covered}/{total}건). 원문 링크는 정상 동작합니다.</span>\n"
+            f"    <span>이 날짜는 AI 요약이 일부만 생성되어(요약 {covered_all}/{total}건) 나머지 항목은"
+            " 제목·링크만 표시됩니다. 원문 링크는 정상 동작합니다.</span>\n"
             "  </div>\n"
         )
 
-    dt_obj = datetime.strptime(target_date, "%Y-%m-%d")
-    _WEEKDAYS = ['월', '화', '수', '목', '금', '토', '일']
-    current_date_kr = (
-        f"{dt_obj.year}년 {dt_obj.month}월 {dt_obj.day}일"
-        f" {_WEEKDAYS[dt_obj.weekday()]}요일"
-    )
+    def count_label(sec: str) -> str:
+        n = len(secs.get(sec, []))
+        if sec in fallback:
+            fb = datetime.strptime(fallback[sec], "%Y-%m-%d")
+            return f"{n}건 ({fb.month}/{fb.day})"
+        return f"{n}건"
 
-    html = (
+    out = (
         template
-        .replace("{{CURRENT_DATE}}", current_date_kr)
-        .replace("{{EDU_NEWS_CARDS}}", cards["edu-news"])
-        .replace("{{AI_PAPER_CARDS}}", cards["ai-paper"])
-        .replace("{{AI_TECH_CARDS}}", cards["ai-tech"])
-        .replace("{{EDU_NEWS_COUNT}}", count_labels["edu-news"])
-        .replace("{{AI_PAPER_COUNT}}", count_labels["ai-paper"])
-        .replace("{{AI_TECH_COUNT}}", count_labels["ai-tech"])
+        .replace("{{ROOT}}", root)
+        .replace("{{PAGE_DATE}}", record["date"])
+        .replace("{{CURRENT_DATE}}", date_kr(record["date"]))
+        .replace("{{EDU_NEWS_CARDS}}", render_section_body(secs.get("edu", []), "edu"))
+        .replace("{{AI_PAPER_CARDS}}", render_section_body(secs.get("paper", []), "paper"))
+        .replace("{{AI_TECH_CARDS}}", render_section_body(secs.get("tech", []), "tech"))
+        .replace("{{EDU_NEWS_COUNT}}", count_label("edu"))
+        .replace("{{AI_PAPER_COUNT}}", count_label("paper"))
+        .replace("{{AI_TECH_COUNT}}", count_label("tech"))
         .replace("{{DATE_NAV}}", date_nav)
+        .replace("{{BOARD}}", board_html)
+        .replace("{{BRIEF_NOTICE}}", notice_html)
         .replace("{{LAST_UPDATED_ISO}}", last_updated_iso)
         .replace("{{LAST_UPDATED_KR}}", last_updated_kr)
-        .replace("{{BRIEF_NOTICE}}", notice_html)
-        .replace(
-            "{{AI_COVERAGE_META}}",
-            f'<meta name="ai-summary-coverage" content="{total_fresh}/{total}">',
-        )
+        .replace("{{PAGE_CANONICAL}}", canonical)
+        .replace("{{ISSUE_NO}}", str(issue_no) if issue_no else "·")
+        .replace("{{AI_COVERAGE_META}}", f'<meta name="ai-summary-coverage" content="{covered_fresh}/{total}">')
     )
-    return html, total, total_fresh
+    return out
+
+
+def issue_number(date: str, index_days: list[dict]) -> int:
+    """발행 호수 — 첫 수집일(2025-11-12)을 1호로 센다. 레코드가 없는 날은 그 앞까지의 수 + 1."""
+    dates = [e["d"] for e in index_days]
+    if date in dates:
+        return dates.index(date) + 1
+    return sum(1 for d in dates if d < date) + 1
+
+
+def write_archive_page(record: dict, template: str, index_days: list[dict], archive_dir: str) -> str:
+    """레코드 → docs/archive/{date}.html. 보드의 7일 흐름은 그 날짜 기준 과거만 본다."""
+    board = render_board(compute_board(record, index_days))
+    gen = record.get("generated_at", "")
+    gen_kr = ""
+    if gen:
+        try:
+            g = datetime.fromisoformat(gen)
+            gen_kr = f"{g.year}년 {g.month}월 {g.day}일 {g.strftime('%H:%M')} KST"
+        except ValueError:
+            gen_kr = gen
+    html_out = render_page(
+        record, template, board, "", "../",
+        f"{BASE_URL}/archive/{record['date']}.html", gen, gen_kr,
+        issue_no=issue_number(record["date"], index_days),
+    )
+    path = os.path.join(archive_dir, f"{record['date']}.html")
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(html_out)
+    return path
+
+
+def update_dates_json(docs_dir: str, dates: list[str], latest: str) -> None:
+    json_path = os.path.join(docs_dir, "assets", "dates.json")
+    os.makedirs(os.path.dirname(json_path), exist_ok=True)
+    with open(json_path, "w", encoding="utf-8") as f:
+        json.dump({"available_dates": sorted(dates), "latest": latest}, f, ensure_ascii=False, indent=2)
+    print(f"[OK] dates.json: {len(dates)}개 날짜, latest={latest}", file=sys.stderr)
 
 
 # ---------------------------------------------------------------------------
-# 백필: 과거 27일치 아카이브 자동 생성
+# 백필
 # ---------------------------------------------------------------------------
 
 
-def backfill_archives(
-    today: str,
-    archive_dir: str,
-    template: str,
-    last_updated_iso: str,
-    last_updated_kr: str,
-) -> int:
-    """archive_dir에 없는 과거 27일치 날짜를 페치하여 HTML을 생성한다.
-
-    date_nav는 빈 문자열 — JS가 페이지 로드 시 dates.json 기반으로 채운다.
-    반환: 새로 생성된 아카이브 개수.
-    """
-    today_dt = datetime.strptime(today, "%Y-%m-%d").date()
+def backfill_dates(dates: list[str], data_dir: str, label: str) -> int:
+    """data/에 없는 날짜를 소스에서 페치해 저장 (폴백 없음). 저장 건수 반환."""
     created = 0
-    for delta in range(1, KEEP_DAYS):
-        target_dt = today_dt - timedelta(days=delta)
-        target_str = target_dt.strftime("%Y-%m-%d")
-        archive_path = os.path.join(archive_dir, f"{target_str}.html")
-        if os.path.isfile(archive_path):
+    for d in dates:
+        if load_day(data_dir, d):
             continue
-
-        html, total, _covered = render_date_html(
-            target_str, template, "", last_updated_iso, last_updated_kr
-        )
+        rec = build_day_record(d, use_fallback=False)
+        total = record_total(rec)
         if total == 0:
-            print(f"[SKIP] {target_str}: 데이터 없음", file=sys.stderr)
+            print(f"[SKIP] {d}: 데이터 없음", file=sys.stderr)
             continue
-
-        canonical = f"{BASE_URL}/archive/{target_str}.html"
-        with open(archive_path, "w", encoding="utf-8") as f:
-            f.write(fixup_archive_paths(html).replace("{{PAGE_CANONICAL}}", canonical))
+        save_day(data_dir, rec)
         created += 1
-        print(f"[BACKFILL] {target_str}.html ({total}건)", file=sys.stderr)
-
-    if created:
-        print(f"[OK] 백필 완료: {created}개 아카이브 신규 생성", file=sys.stderr)
-    else:
-        print("[OK] 백필 필요 없음 (전부 존재 또는 데이터 없음)", file=sys.stderr)
+        print(f"[{label}] {d}: {total}건 저장", file=sys.stderr)
     return created
 
 
-def read_archive_coverage(archive_path: str) -> tuple[int, int] | None:
-    """기존 아카이브 HTML에서 (한국어 요약 건수, 총 건수)를 읽는다.
-
-    meta 태그가 없는 구버전 아카이브면 None (판단 불가 → 재생성 허용).
-    """
-    if not os.path.isfile(archive_path):
-        return None
-    try:
-        with open(archive_path, encoding="utf-8") as f:
-            head = f.read(4096)
-    except OSError:
-        return None
-    m = re.search(
-        r'name="ai-summary-coverage"\s+content="(\d+)/(\d+)"', head
-    )
-    return (int(m.group(1)), int(m.group(2))) if m else None
-
-
-# ---------------------------------------------------------------------------
-# 아카이브 정리
-# ---------------------------------------------------------------------------
-
-
-def cleanup_archive(archive_dir: str, keep_days: int = KEEP_DAYS) -> None:
-    """28일 이전 아카이브 HTML 파일을 삭제한다."""
-    if not os.path.isdir(archive_dir):
-        return
-
-    from datetime import timezone
-    KST = timezone(timedelta(hours=9))
-    today_dt = datetime.now(tz=KST).date()
-    cutoff_dt = today_dt - timedelta(days=keep_days)
-    deleted = 0
-
-    for fname in os.listdir(archive_dir):
-        if not fname.endswith(".html"):
-            continue
-        date_part = fname.replace(".html", "")
-        try:
-            file_dt = datetime.strptime(date_part, "%Y-%m-%d").date()
-        except ValueError:
-            continue
-        if file_dt <= cutoff_dt:
-            os.remove(os.path.join(archive_dir, fname))
-            deleted += 1
-            print(f"[DEL] 아카이브 삭제: {fname}", file=sys.stderr)
-
-    if deleted:
-        print(f"[OK] 아카이브 {deleted}개 파일 삭제 완료", file=sys.stderr)
+def all_source_dates() -> list[str]:
+    dates: set[str] = set()
+    for key, cfg in SOURCES.items():
+        ds = list_source_dates(cfg["repo"], cfg["data_dir"])
+        print(f"[OK] {key}: 소스에 {len(ds)}일치 존재", file=sys.stderr)
+        dates.update(ds)
+    return sorted(dates)
 
 
 # ---------------------------------------------------------------------------
@@ -1140,84 +840,117 @@ def cleanup_archive(archive_dir: str, keep_days: int = KEEP_DAYS) -> None:
 
 
 def main() -> None:
-    from datetime import timezone
+    ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap.add_argument("--date", help="생성할 날짜 (기본: 오늘 KST). 지정 시 폴백 없이 그 날짜만 재생성")
+    ap.add_argument("--backfill-all", action="store_true", help="소스 레포의 전 기간 누락 레코드를 복구")
+    ap.add_argument("--rebuild-archives", action="store_true", help="data/ 전체를 현재 템플릿으로 다시 렌더")
+    ap.add_argument("--no-fetch", action="store_true", help="오늘 페치 생략 (기존 레코드로 렌더만)")
+    ap.add_argument("--no-synthesis", action="store_true", help="Gemini 종합 생략")
+    args = ap.parse_args()
 
-    KST = timezone(timedelta(hours=9))
     now_kst = datetime.now(tz=KST)
     today = now_kst.date().isoformat()
+    target = args.date or today
 
-    # 경로 계산
     script_dir = os.path.dirname(os.path.abspath(__file__))
     repo_root = os.path.dirname(script_dir)
     docs_dir = os.path.join(repo_root, "docs")
     archive_dir = os.path.join(docs_dir, "archive")
+    data_dir = os.path.join(docs_dir, "data")
     template_path = os.path.join(docs_dir, "_template.html")
-    output_path = os.path.join(docs_dir, "index.html")
+    os.makedirs(archive_dir, exist_ok=True)
+    os.makedirs(data_dir, exist_ok=True)
 
-    print(f"[START] {today} 뉴스 생성 시작 (KST)", file=sys.stderr)
-
-    # 1. 템플릿 로드
+    print(f"[START] {target} 생성 시작 (KST {now_kst.strftime('%H:%M')})", file=sys.stderr)
     if not os.path.isfile(template_path):
         print(f"[ERROR] 템플릿 없음: {template_path}", file=sys.stderr)
         sys.exit(1)
     with open(template_path, encoding="utf-8") as f:
         template = f.read()
 
-    os.makedirs(archive_dir, exist_ok=True)
+    # 1. 전 기간 복구 (옵션) — 소스 디렉터리 목록 기준
+    if args.backfill_all:
+        dates = [d for d in all_source_dates() if d < today]
+        n = backfill_dates(dates, data_dir, "BACKFILL")
+        print(f"[OK] 전 기간 백필: {n}개 신규", file=sys.stderr)
 
-    # 2. KST 갱신 시각
-    last_updated_iso = now_kst.strftime("%Y-%m-%dT%H:%M:%S+09:00")
-    last_updated_kr = f"{now_kst.year}년 {now_kst.month}월 {now_kst.day}일 {now_kst.strftime('%H:%M')} KST"
+    # 2. 최근 누락 보강 — 소스 커밋이 늦게 떨어진 날을 다음 날 실행이 메운다
+    if not args.date and not args.no_fetch:
+        recent = [(now_kst.date() - timedelta(days=i)).isoformat() for i in range(RECENT_BACKFILL_DAYS, 0, -1)]
+        backfill_dates(recent, data_dir, "RECENT")
 
-    # 2.5. 기존 archive 파일들의 자산 경로 일괄 보정 (구버전 잔재 정리)
-    fix_existing_archive_paths(archive_dir)
-    fix_html_artifacts_in_archives(archive_dir)
-    upgrade_archives_to_v2(archive_dir, last_updated_iso, last_updated_kr)
+    # 3. 대상 날짜 레코드
+    prev = load_day(data_dir, target)
+    if args.no_fetch and prev:
+        record = prev
+    else:
+        record = build_day_record(target, use_fallback=(not args.date))
+        total = record_total(record)
+        if total == 0:
+            if prev:
+                print(f"[KEEP] {target}: 새 데이터 없음 — 기존 레코드 유지", file=sys.stderr)
+                record = prev
+            else:
+                print(f"[ERROR] {target}: 세 소스 모두 데이터 없음 — 페이지 생성 생략", file=sys.stderr)
+                sys.exit(0)
+        elif prev:
+            # 요약 커버리지가 낮으면 이후 cron이 재시도하므로, 그 재시도가 더 좋은 기존
+            # 결과를 덮어쓰지 않게 막는다 (수집기가 하루 중 퇴보할 수 있음).
+            new_key = (record_ai_count(record, fresh_only=True), total)
+            old_key = (record_ai_count(prev, fresh_only=True), record_total(prev))
+            if old_key > new_key:
+                print(f"[KEEP] 기존 레코드가 더 완전함 (요약 {old_key[0]}/{old_key[1]} > {new_key[0]}/{new_key[1]})", file=sys.stderr)
+                record = prev
+            elif prev.get("synthesis"):
+                record["synthesis"] = prev["synthesis"]  # 해시가 같으면 재사용, 다르면 아래서 재생성
 
-    # 3. 백필: archive_dir에 없는 과거 27일치 페치
-    backfill_archives(today, archive_dir, template, last_updated_iso, last_updated_kr)
+    # 4. Gemini 종합 (키가 있을 때만, 오늘만)
+    if not args.no_synthesis and target == today:
+        syn = synthesize(record)
+        if syn:
+            record["synthesis"] = syn
+    save_day(data_dir, record)
+    total = record_total(record)
+    cov = record_ai_count(record, fresh_only=True)
+    print(f"[OK] {target}: 총 {total}건 / 한국어 요약 {cov}건 ({round(cov * 100 / total) if total else 0}%)", file=sys.stderr)
 
-    # 4. 날짜 네비게이션 (정적 fallback — JS가 dates.json 기반으로 덮어씀)
-    date_nav = build_date_nav(today, archive_dir)
+    # 5. 집계
+    index = build_index(data_dir)
+    build_search(data_dir)
+    index_days = index["days"]
+    all_dates = [e["d"] for e in index_days]
+    print(f"[OK] index.json: {len(index_days)}일 / {index['total_items']}건", file=sys.stderr)
 
-    # 5. 오늘 렌더링 (소스 미수집 시 최근 데이터 폴백)
-    html, total, covered = render_date_html(today, template, date_nav, last_updated_iso, last_updated_kr, use_fallback=True)
-    pct = round(covered * 100 / total) if total else 0
-    print(f"[OK] 오늘({today}): 총 {total}건 / 한국어 요약 {covered}건 ({pct}%)", file=sys.stderr)
+    # 6. 대상 날짜 페이지
+    write_archive_page(record, template, index_days, archive_dir)
+    print(f"[OK] 아카이브 저장: archive/{target}.html", file=sys.stderr)
+    latest = all_dates[-1] if all_dates else target
+    if target == latest:
+        last_iso = now_kst.strftime("%Y-%m-%dT%H:%M:%S+09:00")
+        last_kr = f"{now_kst.year}년 {now_kst.month}월 {now_kst.day}일 {now_kst.strftime('%H:%M')} KST"
+        board = render_board(compute_board(record, index_days))
+        nav = build_date_nav(latest, all_dates, "")
+        html_out = render_page(record, template, board, nav, "", BASE_URL + "/", last_iso, last_kr,
+                               issue_no=issue_number(target, index_days))
+        with open(os.path.join(docs_dir, "index.html"), "w", encoding="utf-8") as f:
+            f.write(html_out)
+        print("[OK] index.html 갱신", file=sys.stderr)
 
-    # 6. archive/{today}.html 저장 (경로 보정 + canonical 적용)
-    archive_path = os.path.join(archive_dir, f"{today}.html")
-    archive_canonical = f"{BASE_URL}/archive/{today}.html"
+    # 7. 아카이브 전체 재렌더 (옵션 — 템플릿 바뀐 날)
+    if args.rebuild_archives:
+        n = 0
+        for d in all_dates:
+            if d == target:
+                continue
+            rec = load_day(data_dir, d)
+            if rec:
+                write_archive_page(rec, template, index_days, archive_dir)
+                n += 1
+        print(f"[OK] 아카이브 재렌더: {n}개", file=sys.stderr)
 
-    # 요약 커버리지가 낮으면 이후 cron이 계속 재시도하므로, 그 재시도가
-    # 더 좋은 기존 결과를 덮어쓰지 않도록 막는다 (수집기가 하루 중 퇴보할 수 있음).
-    prev = read_archive_coverage(archive_path)
-    if prev and prev > (covered, total):
-        print(
-            f"[KEEP] 기존 아카이브가 더 완전함 (요약 {prev[0]}/{prev[1]}건 "
-            f"> {covered}/{total}건) — 덮어쓰기 생략",
-            file=sys.stderr,
-        )
-        update_dates_json(today, docs_dir, archive_dir)
-        cleanup_archive(archive_dir)
-        print(f"[DONE] {today} 완료 (기존 유지)", file=sys.stderr)
-        return
-    with open(archive_path, "w", encoding="utf-8") as f:
-        f.write(fixup_archive_paths(html).replace("{{PAGE_CANONICAL}}", archive_canonical))
-    print(f"[OK] 아카이브 저장: {archive_path}", file=sys.stderr)
-
-    # 7. index.html 갱신 (root canonical)
-    with open(output_path, "w", encoding="utf-8") as f:
-        f.write(html.replace("{{PAGE_CANONICAL}}", BASE_URL + "/"))
-    print(f"[OK] index.html 갱신: {output_path}", file=sys.stderr)
-
-    # 8. dates.json 업데이트 (archive_dir 스캔)
-    update_dates_json(today, docs_dir, archive_dir)
-
-    # 9. 28일 초과 아카이브 삭제
-    cleanup_archive(archive_dir)
-
-    print(f"[DONE] {today} 완료", file=sys.stderr)
+    # 8. dates.json — 레코드가 있는 모든 날짜 (삭제 없음)
+    update_dates_json(docs_dir, all_dates, latest)
+    print(f"[DONE] {target} 완료", file=sys.stderr)
 
 
 if __name__ == "__main__":

@@ -1,0 +1,417 @@
+{
+ "date": "2026-08-30",
+ "generated_at": "2026-11-02T11:42:25+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "정근식 서울시교육감, 서울학생참여단 정책제안 청취",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82Si1qU0hyZ1BYVXpJWThsdnNfWF84QkRMQnptWWJsR2JlSHdhd0RJZzEzTkxPWVFHVHhaTkRXYWlPOVA4dVF4c0E5MElMbVRBR3pCWnJPdFM4NWZPeFo1Vw?oc=5",
+    "source": "뉴시스",
+    "published": "2026-08-29",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "서울시교육청"
+    ],
+    "summary": "정근식 서울시교육감이 서울학생참여단이 제안한 정책 내용을 청취했습니다.",
+    "implication": "학생들의 목소리가 정책에 반영될 수 있음을 보여주어 교실 토론에 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "안민석 경기교육감, ‘벽깨기 교육정책’ 본격 시동…“제도적‧구조적으로 벽 허물 것”",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IQkRSTzB2Uk8tOGJ4cGJWQjlzejJ6NnNqQ21oRW8tb2trcy1JZExqWlRjU0lUQlo1TWczcWdEYnEwUDBFbTZrTHZNTFl1WWZSNUlybVlualg0N1daNm9adTZUQQ?oc=5",
+    "source": "쿠키뉴스",
+    "published": "2026-08-29",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기 안민석 교육감이 제도적·구조적 벽을 허무는 '벽깨기 교육정책'을 본격적으로 추진합니다.",
+    "implication": "벽 허물기 정책은 융합 수업이나 학생 주도 프로젝트를 시도해 볼 기회가 될 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[당신의 디지털 트윈은 당신보다 오래 살 수 있다] 디지털 트윈은 수동적 대화 상대를 넘어 고인을 대신해 행동할 수 있는 능동적 AI 에이전트로 진화할 수 있다.",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBBUzdOVXZod1Z1YkxlaVl2Z0x1SkRvbFZZT2VYdHBCZXBzWkY3SlpQaUdLWFdYam9RbW91WUMyZ04?oc=5",
+    "source": "AI넷",
+    "published": "2026-08-29",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "디지털 트윈은 본인 사후에도 고인을 대신해 행동하는 능동적 AI 에이전트로 진화하여 오래 존속 가능하다.",
+    "implication": "미래 사회의 디지털 트윈 기술이 가져올 윤리적 질문들을 함께 탐구하는 토론 수업을 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "경남TP, ‘에이전틱 AI’ 실전형 인재 양성 나선다",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GTkQ1WGZjZS1yNXhmU0plQkNoWnlSQmRTWnlNMDBSUUU4c0NFWFBsX1o3OGthMXdHczFSc3NLZkF3NWNWSUprdWtZQmxxSEttYzFjU09OY29XSl9SZVFTNWdFOGxLZW5H?oc=5",
+    "source": "더쎈뉴스",
+    "published": "2026-08-29",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "경남TP가 미래 핵심 기술인 에이전틱 AI 분야의 실전형 인재 양성 사업에 착수합니다.",
+    "implication": "미래 사회에 필요한 에이전틱 AI 기술을 소개하고 학생들의 진로 탐색에 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "충북교육청, AI로 영어 학습 혁신",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zQk54alRtNHZXX21oOGh6aVRKc3BZVkdTUlloLWRyTHhVOW53eHFyc2ZjU2NaQWYzUlFUZTVKOUV5cjE5aVIyck9RSzZobUlQeTl1QzVqMzZDZw?oc=5",
+    "source": "브릿지경제",
+    "published": "2026-08-29",
+    "keyword": "디지털교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "충북교육청"
+    ],
+    "summary": "충북교육청은 인공지능(AI)을 활용하여 영어 학습 방법을 혁신합니다.",
+    "implication": "AI 도구를 활용해 학생별 맞춤형 영어 학습 활동을 수업에 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "[패트롤] 경기도-경기도의회-경기도교육청-경기도평생교육진흥원",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBDcFh4cDdCWlVFMWZQTW9NU0xuWGxEa3VGTlllbGd1NERKUTBJdlEyZno2ai05dm94R2JaSGJOWktNLThIbnV5S2ZnSE1qR0w3eG5reU1DZkxGX3hxRjRpVndaSQ?oc=5",
+    "source": "에너지경제신문",
+    "published": "2026-08-29",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도와 주요 유관 기관들의 활동이 에너지경제신문 패트롤 기사로 보도되었습니다.",
+    "implication": "경기도 교육 관련 기관들의 협력 사례를 통해 지역 사회 참여 학습을 독려할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "인천시교육청, 대한민국 문해교육 정책전시회서 '읽걷쓰AI' 소개",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lQ3Z0WlVMdjlWNVFPNHhFQ3ZiQ2RRR1RPdVNyZGJUb29jVkVibUp1cHBZcEF2VEdNalhETkhvMmlOYjAxdVRxT19YQ2V5djBzNGx2cExkdEs5ZDRGOXJSTw?oc=5",
+    "source": "메트로신문",
+    "published": "2026-08-29",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청은 대한민국 문해교육 정책전시회에서 '읽걷쓰AI'를 소개했습니다.",
+    "implication": "읽걷쓰AI는 학생들의 읽기, 걷기, 쓰기 활동을 AI로 보조하는 혁신적인 수업 도구가 될 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "[패트롤] 인천시-인천여성가족재단-인천시교육청-인천경제청-인천환경공단",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YVFd0YS1ZR0pQSVRrTXhKR084QkVhbkVTSmQyZ2JZVVJib0JEVENlbGVwN2pSZVlDdXZFNGEtM3l0N0hBZE1wblpzNGd2Y1lVckw5RUJtOUFUaEE?oc=5",
+    "source": "에너지경제신문",
+    "published": "2026-08-29",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "에너지경제신문이 인천시 및 여러 공공기관들의 소식을 [패트롤] 코너에서 다루고 있습니다.",
+    "implication": "이 기사 제목을 통해 학생들이 인천 지역 공공기관들의 역할과 협력 관계를 탐구할 과제를 제시할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "“이거 내가 하지 말고 AI한테 시키면 안 되나?”…10년차 기자의 AI에이전트 제작 도전기",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zOGZTczBBTjZNSUJKa0ljWTVHX1Y5a3EyeDFTNVhVSlAtRjM0QTVNQVBLZTJwTEE1b0xlVUhlaEFfZmhpWV9QWUF3UXBlZw?oc=5",
+    "source": "매일경제",
+    "published": "2026-08-29",
+    "keyword": "AI활용수업",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "10년차 기자가 '내 업무를 AI에게 맡기면 어떨까?'라는 생각으로 AI 에이전트 제작에 도전하는 과정을 다룬 기사이다.",
+    "implication": "학생들이 자신의 학습 과제를 AI로 자동화할 방법을 고민하고 실제로 탐색해보는 활동을 진행할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "ETRI, 글로벌 에이전틱 AI 표준 논의 합류…리눅스재단 AAIF 가입",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XR1VrVzF2M3NQUVZ2MDZXbGpXSnR6Ty1zSnFIVGNtUHBuMzI2QzZ0Tkx4WUxaMHZ0YU9PX1J2VGV0NDExUU5UX2NiSHNSSExLdDV1bVZMMUFMV0d4OWtEVFdMcXpzRDA0T1Fv?oc=5",
+    "source": "산학뉴스",
+    "published": "2026-08-29",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "ETRI는 글로벌 에이전틱 AI 표준 논의에 합류하며 리눅스재단 AAIF에 가입했습니다.",
+    "implication": "우리나라가 글로벌 AI 표준 논의에 참여하는 것을 통해 미래 기술 변화와 직업에 대해 논의할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Can Science Games (SGs) Foster Creative Thinking? Evidence from a Mixed-Methods Study of Primary School Students",
+    "url": "https://doi.org/10.71204/xbferv14",
+    "source": "openalex",
+    "published": "2026-08-28",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "초등학생을 대상으로 한 혼합 연구에서 과학 게임(SGs)이 창의적 사고(도전, 상상력, 호기심, 위험 감수)를 유의미하게 향상시키고 전통 과학 교육의 부족함을 보완하며, 과학 교육 혁신과 미래 AI 인재 양성에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Yi Su, Xiuying Liu",
+    "pdf": "https://ie.cscholar.com/article/download/1000484/359"
+   },
+   {
+    "n": 2,
+    "title": "Teaching Standard English through Guyanese Creole: Evidence from a Secondary School Intervention in Guyana",
+    "url": "https://doi.org/10.38124/ijisrt/26aug691",
+    "source": "openalex",
+    "published": "2026-08-27",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "가이아나의 혼합 방법 실행 연구는 가이아나 크리올어를 활용한 이중 언어 교육이 표준 영어 학습자의 성취도와 참여도를 효과적으로 증진시키는 인지적 발판 역할을 하며, 모국어 기반 교육의 공정성과 효율성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Samuel E. Sandy",
+    "pdf": "https://www.ijisrt.com/assets/upload/files/IJISRT26AUG691.pdf"
+   },
+   {
+    "n": 3,
+    "title": "Digital intelligence in dental technology education: curriculum and practical teaching reform",
+    "url": "https://doi.org/10.3389/fmed.2026.1912754",
+    "source": "openalex",
+    "published": "2026-08-27",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "디지털 지능이 AI 기반 구강 건강 관리 시대에 치과 기술 교육의 역량 기반 교육과정 및 실습 교수법 개혁을 지원하는 방안을 문헌 검토를 통해 제안하며, 미래 치과 기술 전문가 양성에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Wang Zhi-fa, Yaoxiang Xu 외 1명",
+    "pdf": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1912754/pdf"
+   },
+   {
+    "n": 4,
+    "title": "Instructional authority, evidence, and the politics of certainty: pedagogy, power, and curriculum reform in contemporary Australia",
+    "url": "https://doi.org/10.1007/s41297-026-00338-w",
+    "source": "openalex",
+    "published": "2026-08-27",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 호주의 교육 개혁이 명시적 교수와 학습 과학을 시스템 논리로 격상하며 지식 권한을 재분배하고 교사 판단을 제약하여 교육적 생명력을 약화시킬 수 있음을 푸코와 프레이리 기반의 비판적 정책 분석으로 경고하며, 전문적 해석과 대화적 참여를 보존하는 거버넌스의 중요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Jason Zagami",
+    "pdf": "https://link.springer.com/content/pdf/10.1007/s41297-026-00338-w.pdf"
+   },
+   {
+    "n": 5,
+    "title": "The Impact of Differentiated Instruction on Students' Critical Thinking Skills in Secondary Science Classrooms: A Quasi-Experimental Study",
+    "url": "https://doi.org/10.58540/pijar.v4i3.2239",
+    "source": "openalex",
+    "published": "2026-08-28",
+    "keyword": "",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [],
+    "summary": "혼합방법 준실험 연구는 8주간 차별화된 교수법이 중학생의 비판적 사고 능력을 유의미하게 향상시켰음을 보여주며, 이는 학습자 다양성을 존중하는 고차원적 사고 함양에 효과적인 교육 방법임을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Kaso Mustamin, Andi Hidayati 외 1명",
+    "pdf": "https://putrapublisher.org/index.php/pijar/article/download/2239/2354"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "오픈AI, '코덱스' 용량 한계 보완 조치 단행…\"사용 효율 최대 50% 개선\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214613",
+    "source": "AI Times",
+    "published": "2026-08-30",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "오픈AI의 코덱스 효율 개선은 AI 기반 개발 도구의 비용 효율성과 접근성을 높여 소프트웨어 개발 생산성을 한층 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "허깅페이스, 55만원짜리 오픈소스 로봇 '마이크로덕' 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214607",
+    "source": "AI Times",
+    "published": "2026-08-29",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Hugging Face",
+     "오픈소스",
+     "로봇·휴머노이드"
+    ],
+    "summary": "허깅페이스의 저가 오픈소스 로봇은 AI 기술의 하드웨어 접근성을 높여 개발 생태계를 확장할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "Anthropic은 OpenAI가 SpaceX와의 계약 문제로 철수함에 따라 Cursor에 Claude를 계속 유지하기로 했습니다",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54OVMzWGJINWI1V3R3ZVFmRWt0T190QjhoTmdVbDZrRmVYTks4Z09hN292X0lqTWFvZGZHT3E3TmxuTkhRSW9idi1XcE5hVmhNSXhmUzJxYlU3d2lQUHRTVUw1OXVfQ21YbjFJTWd1MWJJUVRMT2ZJZ0ZYcTF0QQ?oc=5",
+    "source": "Cryptopolitan",
+    "published": "2026-08-29",
+    "keyword": "Anthropic",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "OpenAI",
+     "Claude",
+     "코딩 AI"
+    ],
+    "summary": "OpenAI의 이탈로 Anthropic이 AI 코딩 도구 시장에서 입지를 강화하며, AI 기술 생태계의 경쟁 구도 변화를 심화시키는 계기가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "오픈AI '아스트라' 성능 포착...웹 개발부터 3D 그래픽까지 원샷 구현",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214611",
+    "source": "AI Times",
+    "published": "2026-08-30",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "웹 개발부터 3D 그래픽까지 아우르는 아스트라의 원샷 구현은 AI가 전문 창작 및 개발 분야의 진입 장벽을 낮춰 산업 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[中 자동차 제조사들, 로봇이 '차세대 먹거리' 될 것이라는 테슬라의 승부수에 합류] 대형 언어 모델(LLM)에 기반한 인공지능(AI) 기술이 거의 모든 종류의 작업을 학습할 수 있는 고도로 정교한 로봇을 탄생시킬 수",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBiZ2kxZ1NzWmlpZGkwMldUOWVYSEN2cHkxck55RXpMZ0ZIaUptaE1NaTduSjdSdE5fYjc3UnF3T1g?oc=5",
+    "source": "AI넷",
+    "published": "2026-08-29",
+    "keyword": "LLM",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "로봇·휴머노이드",
+     "LLM"
+    ],
+    "summary": "대형 언어 모델 기반 AI가 다목적 로봇의 상용화를 가속화하며 AI 로봇 산업의 지형을 변화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "Google Deepmind's AI Co-Scientist now plans experiments, runs lab equipment, and writes scientific papers",
+    "url": "https://the-decoder.com/google-deepminds-ai-co-scientist-now-plans-experiments-runs-lab-equipment-and-writes-scientific-papers/",
+    "source": "The Decoder",
+    "published": "2026-08-28",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "AI가 실험 계획부터 논문 작성까지 과학 연구의 전 과정을 자율적으로 수행하며, AI가 R&D 혁신을 주도하는 핵심 주체로 부상할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "셀렉트스타 \"AI 안전성, 빅테크도 못 다루는 로컬 리스크 해결이 핵심\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214585",
+    "source": "AI Times",
+    "published": "2026-08-29",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제"
+    ],
+    "summary": "AI 안전성 확보는 빅테크가 간과하는 로컬 리스크 해결을 위한 전문화된 기술 및 생태계 조성이 중요함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "엔비디아, 허깅페이스 인수 추진…오픈소스 AI로 반도체 묶는다",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb3l0aUpNX0ZSa2JfZ01nOEtZcTJBVEFGX1lkcGJfX29JY1NuUnB3SVpUMUFDRVZKeVNhVkxGQUJjNHF2eTRRcF83S29WYl9SaWt2XzJIbEFxTXNNdktZZy1fU3gtWFBjX2MzczhMNGR3bThwRkNWYmtZS2tSLWpIMi13M2pYdmpK?oc=5",
+    "source": "글로벌이코노믹",
+    "published": "2026-08-29",
+    "keyword": "인공지능",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "Hugging Face",
+     "오픈소스",
+     "GPU·데이터센터"
+    ],
+    "summary": "엔비디아의 허깅페이스 인수는 오픈소스 AI 핵심 플랫폼을 반도체에 묶어 AI 생태계의 하드웨어 종속성을 심화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+    "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "source": "OpenAI Blog",
+    "published": "2026-08-27",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "AI는 비판적 사고 훈련과 통합되어 인간의 인지 능력 증진을 위한 AI 기술 개발 및 교육 시장의 성장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "Learning never stops: How AI makes learning continuous",
+    "url": "https://openai.com/index/learning-never-stops",
+    "source": "OpenAI Blog",
+    "published": "2026-08-26",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [],
+    "summary": "AI는 '학습의 연속성' 패러다임을 주도하여 AI 기반 교육 시장을 혁신하고 산업 전반의 인력 역량 강화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

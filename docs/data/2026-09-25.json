@@ -1,0 +1,435 @@
+{
+ "date": "2026-09-25",
+ "generated_at": "2026-11-02T11:43:51+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[위클리오늘] 하루 만에 뒤집힌 경남교육청의 교부금 대응…학교 현장 혼란",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16N1MzYy0xaEloNXdvTUw5TUNDUDZ3SGxoZi1neWJ4SGozN0tQeU9DMG5KVjJKaVRxOVoyaXNZRm5uYnVqR3NrRS03NWJvbHJNSlRwV2o4aEVFWTlDWDVxN1lIdlNmSktYSGE5XzZn?oc=5",
+    "source": "위클리오늘",
+    "published": "2026-09-24",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경남교육청",
+     "교육 예산"
+    ],
+    "summary": "경남교육청의 교부금 대응이 하루 만에 뒤집혀 학교 현장에 큰 혼란을 초래했습니다.",
+    "implication": "학교 예산 변화가 수업 활동에 미칠 영향을 염두에 두고 수업 계획을 세울 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "조용식 울산교육감 \"무너진 학교 믿음 되살리고, 초등 기초학력부터 확실히\"",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5vazV4LXM4aHBZQXh1RjloZDJ5TWpWb05ROHFBal82SGd6bGttV1FrY3ZQSXR1Y282dVRvWURWNGdDOG5lR1B0cjlLM2xjLUk?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-09-24",
+    "keyword": "AI교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "울산시교육청"
+    ],
+    "summary": "울산교육감이 학교 신뢰 회복과 초등 기초학력 강화를 핵심 교육 목표로 강조했습니다.",
+    "implication": "초등 기초학력 보장을 위해 개별 학생의 학습 수준에 맞는 자료를 수업에 적극 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "수능 서·논술형 '55.5% 찬성'했지만… 국교위 \"공정성·AI 채점 한계 등 과제 산적\"",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5LbUd4X0M5eUZMWWEyTzRzRV9lbmpmRWxfY3lncWc4YkEtVzd3N1h6aUpJWTUwM2Z3Z29GcW5BdHVqTk9xb0U0Rk1GQUZZSVBQWlRBN2p4OWJyNEh4djhvRGlBbkVFdw?oc=5",
+    "source": "교육을 비추다",
+    "published": "2026-09-24",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "수능·대입"
+    ],
+    "summary": "수능 서논술형 도입에 55.5%가 찬성했으나, 국교위는 공정성 및 AI 채점 한계를 과제로 지적했습니다.",
+    "implication": "미래 수능 서논술형 도입 논의를 바탕으로 학생들의 논리적 사고력과 서술 능력을 키울 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "딥시크, AI 에이전트 '학습 비용 절감 핵심 인프라' DSec 공개",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HYXhoclY5Wkh5ZlA2X0JXVzVvVGdGTEFBV3Y2RFNWSGM0X3FldFptMEwxUklUVWp4RlFuZGJ0Wm02ZU9VWkcxRlI1dV9ZTXVFNERFZTI3TnFUWHZlR09ZRXltczFvT1pKQ0E?oc=5",
+    "source": "AI타임스",
+    "published": "2026-09-24",
+    "keyword": "인공지능교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "DeepSeek",
+     "에이전트",
+     "개인화 학습"
+    ],
+    "summary": "딥시크가 AI 에이전트의 학습 비용을 절감하는 핵심 인프라 'DSec'을 공개했습니다.",
+    "implication": "AI 학습 비용이 줄어들면서 맞춤형 학습을 돕는 AI 도구를 수업에 더 쉽게 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "“내가 말하기 전에 알아서”… 퀄컴이 그린 ‘에이전틱 AI폰’",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVDFldVVRSG9WZmRJdmxHX0h6aDhWbGU5Y0RQMDQwYkZKZlMxc2NjMVgwN044MGE5VzRvbm5xVVVfVElQRF9MWkJhcDctWHkza0VEZkh4UEtKdkdkMVlzYk5vdkJUX0tZR1M1b1dvelNpYmp3d01GQko4VnBnQkZNU2EyLU05MmtoZHNjU3BodWhNT0ZfUFHSAZYBQVVfeXFMTVQxZXVVUUhvVmZkSXZsR19Iemg4VmxlOWNEUDA0MGJGSmZTMXNjYzFYMDdOODBhOVc0b25ucVVVX1RJUERfTFpCYXA3LVh5M2tFRGZIeFBLSnZHZDFZc2JOb3ZCVF9LWUdTNW9Xb3pTaWJqd3dNRkJKOFZwZ0JGTVNhMi1NOTJraGRzY1NwaHVoTU9GX1BR?oc=5",
+    "source": "Chosunbiz",
+    "published": "2026-09-25",
+    "keyword": "에이전틱AI",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "퀄컴은 사용자가 말하기 전에 상황을 파악하여 작동하는 '에이전틱 AI폰' 개발을 구상하고 있습니다.",
+    "implication": "학생들과 미래 사회에서 인간의 의도를 미리 파악하는 AI의 장단점 및 필요한 역량을 탐색하는 수업을 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "카메라로 들어간 AI 에이전트…퀄컴, 사진·영상 편집 패러다임 바꾼다",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10YzJwUDNmeXg1TmI4b3Y4TGxJSGZBTC1ST20ydm9wNWVPaVpvdGpBNk90RHEwMXJ3U1NfaFItOUw0c21FZHM2dUtrSEdNdDM3OHZ2UGNn?oc=5",
+    "source": "지디넷코리아",
+    "published": "2026-09-25",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "퀄컴이 카메라에 AI 에이전트를 도입하여 사진 및 영상 편집 방식을 혁신합니다.",
+    "implication": "AI 카메라로 생성된 콘텐츠를 분석하며 인공지능 윤리와 미디어 리터러시를 교육할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "AI 에이전트 도입해도 성과 없다면...업무 재설계·운영비·책임부터 점검해야",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53aVZqalBTaEtGSUp1NWR4WlhRR1B1WTRWM0l4MXhRRFhySDhfQ2lVcVI2VnI4dllPWGJEMjBuQXRKV2xpWGw1dHVTWFl3dkZuMUQ0MU5uRjNmRnRWNDI0d0Jab0JDM1VhZnc?oc=5",
+    "source": "지티티코리아",
+    "published": "2026-09-24",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "AI 에이전트 도입 후 성과가 없다면 업무 재설계, 운영비, 책임 문제 등을 먼저 점검해야 합니다.",
+    "implication": "AI 기술을 수업에 적용할 때 학습 성과가 미흡하면 도구 자체보다 활용 방안이나 수업 설계를 점검할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "퍼블릭, AI 에이전트로 예측시장 계약 거래",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tX19NamxhUnNMc3p4WU5ibGxpOU9kNEE1Y1FVUkpKc0tKdEN3dFAwbmxRTmpzT0hFeVBLNkJsN2xjS0VBMVRqdlFmdjREZU5S?oc=5",
+    "source": "tokenpost.kr",
+    "published": "2026-09-24",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "퍼블릭이 AI 에이전트를 활용하여 예측 시장에서 계약을 거래합니다.",
+    "implication": "학생들에게 AI 에이전트가 예측 시장에서 계약 거래를 자동화하는 원리를 탐구하게 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "AI 에이전트, 장당 25달러로 60만 장 카드정보 턴다",
+    "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQYXhuQmdqWHlfZGR1bGZubjJseUJEbVpKSEZuZmNCbTIteUV4bVplWjIwc3FNVHZnOTg3dlFwbENtaEpSLTlQX05uRDNGSXlKVURMNVBLVkdxaUhfaWFLY0JDRnhtM1hib3lkVDc3YS1tazNuMXlLZUZWRlFVdGxHZHVyNUtEd0psQ2JNODFrLWJqcm0tNE02dzBmSkdIaE1LZGFGb2JONE5LZlp3eHgtTWZuaVJuUFhvLWZZV2s3el9SQ0hQSHczTVVmM0tfX1ZqS21LTFFHMjBWRHY4bXpMOFJUa2NDdUN4b3pMemJxZmhabWxDOWlZLWdwM1VCZGM4dkNtbmNaVDlvbGQ0dS01d0VkVlpNOUgySXR5ZVlOdGFySXN0UEdlZlhn?oc=5",
+    "source": "Yellow.com",
+    "published": "2026-09-24",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "AI 에이전트가 장당 25달러로 60만 장의 카드 정보를 탈취한 사실이 드러났습니다.",
+    "implication": "AI 기술의 양면성을 보여주며 디지털 세상에서 개인정보 보호의 중요성을 토론할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "BNP Paribas와 Google Cloud, 5년 기간의 에이전트 AI 파트너십 체결",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaEdrRm9YbnF2eE50cXQyQXJTUldoM1RIQ2FEQzd3VWdyMmZGNDVHQnQ1ZE4yeEtWZDNyNmctTnlpWk5keTkySVZPM1BNcnVXdExlRGRHT0JYUEJ2VTAwa0YwZEdEZDFkTVBVZWpldkxweWhGcmZzUzQ2YzM1YW53bDFKLXRaNVMxcHo0eTZXZnFIQQ?oc=5",
+    "source": "Unite.AI",
+    "published": "2026-09-24",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "Google",
+     "에이전트"
+    ],
+    "summary": "BNP 파리바와 구글 클라우드가 5년 기한의 에이전트 AI 파트너십을 체결했습니다.",
+    "implication": "금융 분야에 인공지능이 활용되는 실제 사례로 학생들과 이야기 나눌 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Special education-related practices in regular Taiwanese schools through the lens of Filipino teachers",
+    "url": "https://doi.org/10.63498/injelps108",
+    "source": "openalex",
+    "published": "2026-09-23",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "특수교육"
+    ],
+    "summary": "혼합 연구 방법으로 필리핀 교사들이 인식하는 대만 일반 학교의 특수교육 실천 양상을 분석한 결과, 높은 실천도에도 불구하고 언어 및 문화 적응의 어려움이 확인되어, 교사들의 포용 교육 역량 강화를 위한 문화 적응 가이드 개발을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "",
+    "pdf": "https://doi.org/10.63498/injelps108"
+   },
+   {
+    "n": 2,
+    "title": "Dialogic Pedagogy and EFL Learning: From Teacher Transmission to Collaborative Meaning-Making",
+    "url": "https://doi.org/10.65405/64j0xv12",
+    "source": "openalex",
+    "published": "2026-09-20",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "EFL 교육에서 교사 중심의 지식 전달을 넘어 학습자와 교사의 협력적 의미 구성으로의 전환을 지지하는 대화형 교수법의 효과를 다각적인 연구 종합으로 분석하며, 그 성공적인 적용을 위한 정교한 설계와 교육적 함의를 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Basmah Ahmed Husayn Kashar",
+    "pdf": "https://cjos.histr.edu.ly/index.php/journal/article/download/2511/2197"
+   },
+   {
+    "n": 3,
+    "title": "Artificial Intelligence in Higher Education: Balancing Opportunities, Risks, and Ethical Challenges in the Era of Generative AI",
+    "url": "https://doi.org/10.11648/j.iedu.20260103.13",
+    "source": "openalex",
+    "published": "2026-09-20",
+    "keyword": "",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "체계적 문헌 분석으로 생성형 AI의 고등교육 기회와 위협을 분석한 결과, 교육 향상 가능성과 학술 무결성 위협을 동시에 밝히며, 균형 잡힌 윤리적 거버넌스 및 리터러시 강화를 통한 책임 있는 통합을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Habtamu Teferi",
+    "pdf": "http://article.sciencepg.com/pdf/j.iedu.20260103.13"
+   },
+   {
+    "n": 4,
+    "title": "INFOEX FOR PROFESSIONAL AVALANCHE EDUCATION: USING THE TOOL FOR COURSE RISK MANAGEMENT AND MEETING STUDENT LEARNING OUTCOMES",
+    "url": "https://doi.org/10.15788/1790098842",
+    "source": "openalex",
+    "published": "2026-09-22",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "이 연구는 전문가 산사태 교육에서 InfoEx 도구를 활용한 위험 관리 및 학습 성과 달성 과정의 현황, 문제점, 모범 사례를 분석하여 교육 환경에서의 도구 개선 방안을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Sean Zimmerman-Wall, Karin Pocock 외 1명",
+    "pdf": "https://doi.org/10.15788/1790098842"
+   },
+   {
+    "n": 5,
+    "title": "STUDENTS' REFLECTIVE EXPERIENCES AND THE DEVELOPMENT OF A STRAEGIC MINDSET FOR DECISIONS IN AVALANCE TERRAIN",
+    "url": "https://doi.org/10.15788/1790099406",
+    "source": "openalex",
+    "published": "2026-09-22",
+    "keyword": "",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [],
+    "summary": "눈사태 지형에서의 의사결정 교육을 위해 현장 경험과 구조화된 반성을 결합한 교수 모델을 제시하며, 이를 통해 학생들이 불확실성을 인지하고 협력적으로 전략적 사고방식을 발전시켜 실제 교육 과정에서의 의사결정 역량 강화를 돕습니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Linda Hallandvik, Odd L. Vikene",
+    "pdf": "https://doi.org/10.15788/1790099406"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "오픈AI, '챗GPT 음성'에 에이전트 결합...\"말 한마디로 앱 조작·업무 처리\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215635",
+    "source": "AI Times",
+    "published": "2026-09-24",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT",
+     "에이전트"
+    ],
+    "summary": "오픈AI의 음성 에이전트 결합은 AI가 단순 대화를 넘어 실제 앱 조작 및 업무 처리의 주요 실행자로 진화하며 산업 자동화를 혁신할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "url": "https://openai.com/index/ringg",
+    "source": "OpenAI Blog",
+    "published": "2026-09-23",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "에이전트",
+     "OpenAI",
+     "생성형 AI"
+    ],
+    "summary": "생성형 AI가 고객 서비스의 핵심 문제 해결사로 부상하며, 기업의 AI 기반 자동화 전환을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "알리바바, ‘큐원-오디오-3.1’ 공개...최대 95% 가격 파괴",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215639",
+    "source": "AI Times",
+    "published": "2026-09-24",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Alibaba"
+    ],
+    "summary": "알리바바의 파격적인 가격 인하는 AI 오디오 기술의 진입 장벽을 대폭 낮춰, 관련 생태계의 혁신 가속화와 경쟁 심화를 촉발할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "오픈AI, 외부 계약자에 ChatGPT 대화 전달 의혹 소송",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5Sm9EWkJ6OHY4dElMSnAyZGFZNUNocTR6YVU2NzhNOWhBdnBEX19odXlvN0ZuSkhfV0dJa25YMTc5VFBqLUZ3U0pIeFVwS1FMOVA4SC0xSUE?oc=5",
+    "source": "토큰포스트",
+    "published": "2026-09-24",
+    "keyword": "오픈AI",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT",
+     "저작권·소송"
+    ],
+    "summary": "오픈AI 소송은 AI 기업의 데이터 관리 윤리 및 투명성 강화를 요구하며, AI 산업 전반의 신뢰 확보와 규제 환경 변화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "AWS, 오픈소스 AI에이전트 '스트랜즈 하네스' 발표",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZOXZiU2VKRUZaaWU5QnhRc1Z3UXlySVZIOGN3WE9Sbl9qcE0wY1hKVnlQWGhVRXBsRVp2cVdmbjV5ZDMtVmFYOTg2UWw3TkRKaEwzd250SldodjY1U3BKZjczVXNXR2ZEX3NtaQ?oc=5",
+    "source": "IT비즈뉴스",
+    "published": "2026-09-24",
+    "keyword": "오픈AI",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Amazon",
+     "오픈소스",
+     "에이전트"
+    ],
+    "summary": "AWS의 오픈소스 AI 에이전트 출시는 AI 에이전트 개발의 대중화를 이끌고 클라우드 기반 AI 생태계 내 표준화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "애플 AI에 챗GPT 통합, 기대 이하 실적에 기대치 낮춘 오픈AI",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5nU09tMlBWRXhPZjRqRWhkNG5RWjMzNXRWXzY4a3RodHN1T01ZMVY3LXFFNUdPbHgwTzFvRG9LdlJvSk05RDVnanBqdlFMZjZ6TWtuSjNDUVRlblBtcFA5dGh1ZUVRZG9Gc0V2Vw?oc=5",
+    "source": "민심뉴스",
+    "published": "2026-09-24",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Apple",
+     "ChatGPT",
+     "OpenAI"
+    ],
+    "summary": "애플의 챗GPT 통합은 AI의 플랫폼 종속 심화와 대중화를 가속화하며, 오픈AI의 실적 하향은 독립 AI 서비스의 수익화 난관을 보여주는 현실적인 전환점입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "ARK 인베스트, Securitize(SECZ)와 함께 OpenAI, Anthropic 지분을 이더리움에서 벤처 펀드 토큰화",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVlpJYjhXcGlGd3ZBREVxV18yS2YzX0JCNVk3c2xaV2lkX1dPaGpZd21tcWtjVjBGM2RjNm9rOEVPSDc4QkRjTlhjZXFhdUE0RUl2TDhCaXNkSGVyUkdDb05TOWd2SmM1RkpNa0tkUzNEaTVOVDhUdDMyUFVaV2RnbS1XcmFJRnZFRmJLOFp4V1UtMlhyVE96ZGlmQm1aSmg3alliMVBIemZFSEVnNkl3S1J2QUVTcHM2emZhaXF4cXBoaGZJSmRTSVNLVlI1THNFdnNBOThPUnk?oc=5",
+    "source": "CoinDesk",
+    "published": "2026-09-24",
+    "keyword": "Anthropic",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Anthropic"
+    ],
+    "summary": "선도 AI 기업 지분 토큰화는 AI 산업 투자 접근성을 높여 자금 유입을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "Anthropic, Claude Opus 5.5 가격을 더 긴 코딩 세션에 연계",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOY2N1ZzZjX1RvcEdBd3dLRkFSemMtYUhab1VhaFVmRnVTWmxjU1NZalFSZlZVbzlmZEpqNm5YU1Z5WEZaRWZCVzZhbFZGeklDaEcxWDFwOGEtV3hnYnZwZE8zTnJHUkUxRm5GbUEzb0lLbWlocktxVDdnTDdFUnVVeDdWUmtmWDdhek91N0IxM3VCU2M?oc=5",
+    "source": "Unite.AI",
+    "published": "2026-09-24",
+    "keyword": "Anthropic",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude",
+     "코딩 AI"
+    ],
+    "summary": "Anthropic의 가격 정책은 AI 서비스가 특정 고가치 사용 사례에 최적화된 과금 모델로 진화하는 추세를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "OpenAI와 Anthropic은 AI의 미래에 대해 경고합니다.",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hMm5ONDRURHM2TTFUeWVzdC1zM3hjU2xPR2FCcUdKVFJfbXJub0c5ZWtYNzVsR1BlbzFCd19VeGhVdnhMTXdURjNHVGpxVjhJU1FFZ3Y3R1owU0dNQjlnQ1JRM2JoM2xoOTRxbU5zSUZwTGdITmJ1RlZmQ1Zla2M?oc=5",
+    "source": "Vietnam.vn",
+    "published": "2026-09-24",
+    "keyword": "Anthropic",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Anthropic"
+    ],
+    "summary": "선도 AI 기업들의 경고는 AI 기술 생태계 전반의 책임 있는 개발과 규제 및 거버넌스 논의를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "에어비앤비, GPT-6 Astra 및 OpenAI 프런티어 모델 이용 확대",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1weldkTGZuZUY2MWxmRHNLVDV0TEdiMzF0TV95RFVTa0lUbDdpZHBoNkFnTDNhTWdmTm41NkZoU0xOSzlDUEdwSTFMN0w0enJMclB0cmYyTU4tTDRDZzE0?oc=5",
+    "source": "OpenAI",
+    "published": "2026-09-24",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "OpenAI"
+    ],
+    "summary": "주요 플랫폼 기업의 최첨단 AI 모델 핵심 서비스 통합이 가속화되며 AI 산업 전반의 기술 적용 심화를 이끌 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

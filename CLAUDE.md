@@ -3,22 +3,24 @@
 ## 프로젝트 개요
 
 GitHub Actions + GitHub Pages만으로 운영되는 AI·교육 일일 뉴스 포털.
-매일 KST 10:00, 3개 소스 레포에서 뉴스를 수집해 정적 HTML로 배포.
+매일 KST 오전, 3개 소스 레포에서 뉴스를 수집해 주제·주체를 분류하고 정적 HTML로 배포.
+수집한 모든 날은 `docs/data/`에 JSON으로 **영구 보존**된다 (v3.0, 2026-11-02 — 28일 삭제 폐지).
 
 ## 아키텍처
 
 ```
-GitHub Actions (cron: 10:00 KST)
+GitHub Actions (cron: 10:37/11:13/11:49 KST, watchdog 12:29)
     └─ scripts/fetch_and_generate.py
-            ├─ tigerjk9/Auto-Edu-news-Collector     → education_news_{YYYYMMDD}.json
-            │                                         + education_news_{YYYYMMDD}_newsletter.txt
-            ├─ tigerjk9/Auto-AI-Edu-Paper-Curator   → ai_edu_papers_{YYYYMMDD}.json
-            │                                         + ai_edu_papers_{YYYYMMDD}.txt
-            └─ tigerjk9/Auto-AI-Tech-news-Collector → ai_tech_news_{YYYYMMDD}.json
-                                                      + ai_tech_news_{YYYYMMDD}_newsletter.txt
-                    ↓
-            docs/index.html (오늘)
-            docs/archive/YYYY-MM-DD.html (최대 28일)
+            ├─ tigerjk9/Auto-Edu-news-Collector     → education_news_{YYYYMMDD}.json + _newsletter.txt
+            ├─ tigerjk9/Auto-AI-Edu-Paper-Curator   → ai_edu_papers_{YYYYMMDD}.json + .txt
+            └─ tigerjk9/Auto-AI-Tech-news-Collector → ai_tech_news_{YYYYMMDD}.json + _newsletter.txt
+                    ↓ taxonomy.classify / extract_entities
+            docs/data/YYYY-MM-DD.json      ← 원천 레코드 (삭제 금지)
+            docs/data/index.json           ← 날짜별 집계 (흐름·아카이브 페이지 재료)
+            docs/data/search.json          ← 전 기간 제목 색인
+                    ↓ insights.compute_board / render_board (+ synthesis.synthesize, 선택)
+            docs/index.html (오늘) · docs/archive/YYYY-MM-DD.html (영구)
+            docs/archive/index.html · docs/trends.html (정적 셸 — JS가 data/*.json 로드)
 ```
 
 ## 파일 구조
@@ -26,92 +28,133 @@ GitHub Actions (cron: 10:00 KST)
 ```
 Live-Artifact/
 ├── .github/workflows/
-│   ├── daily-news-update.yml     # cron 3회(10:37/11:13/11:49 KST) + workflow_dispatch
-│   ├── watchdog.yml              # 12:29 KST — 오늘 아카이브 없으면 직접 실행 (복구)
+│   ├── daily-news-update.yml     # cron 3회 + workflow_dispatch (env: NEWS_TOKEN, GEMINI_API_KEY)
+│   ├── watchdog.yml              # 12:29 KST — 오늘 아카이브 없거나 미완성이면 직접 실행
 │   └── keepalive.yml             # 일요일 00:00 KST — 빈 커밋으로 스케줄러 활성 유지
 ├── docs/
 │   ├── index.html                # 오늘 브리핑 (자동 갱신)
-│   ├── _template.html            # HTML 생성 템플릿
-│   ├── archive/                  # 날짜별 아카이브
-│   ├── assets/
-│   │   ├── style.css
-│   │   ├── app.js
-│   │   ├── sw.js                 # Service Worker (cache: di-v3)
-│   │   ├── manifest.json
-│   │   ├── dates.json
-│   │   └── facilitator.png
+│   ├── trends.html               # 흐름 페이지 (정적 셸 + trends.js)
+│   ├── _template.html            # 일일 페이지 템플릿
+│   ├── sw.js                     # Service Worker (cache: di-v6)
+│   ├── archive/index.html        # 전체 아카이브 (정적 셸 + archive.js)
+│   ├── archive/YYYY-MM-DD.html   # 날짜별 페이지 — 레코드에서 재생성 가능
+│   ├── data/                     # ★ 원천 데이터 계층
+│   └── assets/
+│       ├── style.css             # Front Page v5 — 토큰(종이·잉크·섹션색) + 컴포넌트, 단일 파일
+│       ├── app.js                # 공통 + 일일 페이지 (v7)
+│       ├── archive.js · trends.js
+│       ├── manifest.json · dates.json · facilitator.png · og-image.jpg
 └── scripts/
-    └── fetch_and_generate.py     # 핵심 생성 스크립트
+    ├── fetch_and_generate.py     # 진입점: 페치·파싱·레코드 빌드·렌더·CLI
+    ├── taxonomy.py               # 주제 규칙(TOPICS) · 주체 사전(ENTITIES) · BRIDGES
+    ├── insights.py               # load/save_day · build_index/search · compute_board · render_board
+    └── synthesis.py              # Gemini REST 종합 (GEMINI_API_KEY 있을 때만)
 ```
+
+## 데이터 계약 — `docs/data/YYYY-MM-DD.json`
+
+```json
+{"date": "2026-11-01", "generated_at": "...+09:00",
+ "sections": {"edu": [item], "paper": [item], "tech": [item]},
+ "fallback": {"tech": "2026-10-31"},         // 폴백 사용 섹션만
+ "notes": {"edu": "수집기 한 줄 요약"},        // 구포맷 뉴스레터(2025-11~2026-03)에서 수확
+ "synthesis": {"headline","threads","classroom","model","items_hash"}}   // Gemini (선택)
+item = {n, title, url, source, published(YYYY-MM-DD), keyword, topic, kind, entities[],
+        summary, implication, ai(bool), [authors, pdf]}
+```
+- `topic`은 `taxonomy.classify(section, title, summary)` — 섹션별 id (`policy`, `genai_tutor`, `industry` …). 라벨은 `topic_label()`.
+- `ai`는 한국어 요약 20자 이상 여부 → 커버리지 게이트의 분자. 폴백 섹션은 `record_ai_count(fresh_only=True)`에서 0으로 센다.
+- `index.json`의 `days[]` 항목: `{d, n{edu,paper,tech}, ai, fb[], topics{sec:{topic:n}}, ents{name:n}(상위 20), kinds, srcs{"sec:출처":n}, head, head_src}`.
 
 ## fetch_and_generate.py 핵심 구조
 
-### SOURCES 설정
-각 소스에 `ai_summary_file` 패턴을 지정하면 해당 날짜의 AI 요약 txt 파일을 페치해 카드에 반영한다.
-
-### AI 요약 파싱 (`parse_ai_summary_txt`)
-지원 형식:
-- **Format A** (ai-tech / edu-news newsletter): `N. 제목\n   요약\n   → 시사점\n   URL`
-- **Format B** (ai-paper): `N. 제목\n   - 요약\n   - [논문 보기](URL)`
-
-URL·구분선 라인은 스킵, 나머지 들여쓰기 라인은 모두 합쳐 `ai_summary`로 저장.
-
-### `filter_described(items, cfg, source_key)`
-- `ai-paper`, `edu-news`: 필터 없음 (항상 전체 표시)
-- `ai-tech`: Gemini AI 요약이 1건 이상 매칭됐을 때만 설명 20자+ 필터 적용.
-  매칭 0건(newsletter 미생성·Gemini 실패)이면 전체 수집 아이템 반환.
-
-### `fetch_source_with_fallback(key, cfg, today, max_fallback=3)`
-오늘 데이터가 없으면 최대 3일 이전 날짜를 재시도. `(items, fallback_date_or_None)` 반환.
-`render_date_html(use_fallback=True)` 시 활성화 (오늘 렌더링에만 적용, 백필은 제외).
-폴백 사용 시 섹션 카운트에 날짜 표시 예: `5건 (6/3)`.
-
-### `render_entry()` 요약 로직
-- `ai_summary`(AI 생성) 있으면 전문 표시
-- 없으면 RSS/JSON summary 필드 사용, 영문 250자 제한
-- 기자 attribution 패턴 `[매체=기자명 기자]` 자동 제거
-
-### 날짜/시각: 모두 KST 기준
-```python
-KST = timezone(timedelta(hours=9))
-now_kst = datetime.now(tz=KST)
-today = now_kst.date().isoformat()  # date.today() 사용 금지
+### CLI
 ```
+python scripts/fetch_and_generate.py                  # 오늘(폴백 허용) + 최근 7일 누락 레코드 보강
+  --date YYYY-MM-DD    특정 날짜만, 폴백 없이. latest가 아니면 index.html은 건드리지 않음
+  --backfill-all       소스 레포 디렉터리 목록 기준 전 기간 누락 레코드 복구 (오늘 제외)
+  --rebuild-archives   data/ 전체를 현재 템플릿으로 다시 렌더 (템플릿·CSS 구조 바꾼 날)
+  --no-fetch           기존 레코드로 렌더만    --no-synthesis  Gemini 생략
+```
+
+### main() 흐름
+1. `--backfill-all` → `all_source_dates()` ∖ data → `build_day_record(d, use_fallback=False)` 저장 (0건이면 저장 안 함)
+2. 최근 7일 중 레코드 없는 날 보강 (소스 커밋이 늦게 떨어진 날을 다음 날이 메운다)
+3. 대상 날짜: 새 레코드 vs 기존 레코드를 `(fresh ai 수, total)`로 비교 → **더 완전한 쪽 유지**. 세 소스 모두 0건이면 기존 유지 또는 exit 0
+4. 오늘이면 `synthesize()` (키 없으면 None, items_hash 같으면 재호출 안 함)
+5. `build_index` · `build_search` → 대상 날짜 아카이브 렌더 → latest면 index.html → dates.json(전체 날짜)
+
+### 요약 TXT 파싱 (`parse_ai_summary_txt` → `({norm_title: {summary, implication}}, note)`)
+- **Format A** (2026-04~ 뉴스): `N. 제목` / `   요약` / `   → 시사점`(교육만) / `   URL`
+- **Format B** (논문): `N. 제목` / `   - 요약` / `   - [논문 보기](URL)`
+- **Format C** (2025-11~2026-03): `# 1️⃣ 제목` / `오피니언: 요약` / `🔗 링크:` — 감지는 `_EMOJI_HEAD_RE`(**re.MULTILINE 필수**), `> 오늘의 한 줄 요약:`은 `note`로
+- 2026-03 중순~04 교육 뉴스레터는 링크만 있어 요약이 비어 있다 (JSON summary도 빈 문자열). 평문 `education_news_*.txt`의
+  `요약:` 줄로 보강하지만(`plain_summary_file`, 뉴스레터 요약 3건 미만일 때만 1회 추가 페치) Google News RSS 항목엔
+  요약이 거의 없어 수확이 적다 — 그 기간은 `.brief-notice` 배너가 뜨는 게 정상
+- 소스 JSON에 git 충돌 마커가 남은 날이 4일 있다(2025-12-19, 2026-01-06, 2026-02-20 교육 / 2026-03-31 기술) —
+  `repair_json_variants()`가 마커 제거 → theirs → ours 순으로 복구하고 URL 중복을 제거한다
+- 수집기가 Gemini 실패 시 넣는 상투 한 줄 요약("교육을 중심으로 교육 현장의 혁신이 가속화되고 있습니다")은
+  `_BOILERPLATE_NOTE_RE`로 버린다 (헤드라인 연표 노이즈 방지)
+- 매칭은 `match_summaries()`: 정규화 → 정확 → 접두 20자 → difflib 0.72
+
+### `filter_described` / `fetch_source_with_fallback`
+- `ai-paper`, `edu-news`: 필터 없음. `ai-tech`: AI 요약 1건 이상 매칭됐을 때만 설명 20자+ 필터
+- 오늘 데이터 없으면 최대 3일 이전 재시도 → `record["fallback"][sec]`, 건수 라벨 `5건 (6/3)`
+
+### 렌더링
+- 템플릿 플레이스홀더: `{{ROOT}}`(루트 `""` / 아카이브 `"../"`), `{{PAGE_DATE}}`, `{{BOARD}}`, `{{BRIEF_NOTICE}}`, `{{AI_COVERAGE_META}}`, `{{DATE_NAV}}`, 섹션 카드·건수, `{{PAGE_CANONICAL}}`, `{{LAST_UPDATED_*}}`
+- 카드: `<li class="entry" id="{sec}-{n}" data-topic="…" data-ents="A|B">` — 보드 필터·참조 칩·검색 색인이 이 id를 쓴다
+- 아카이브 HTML의 `LAST_UPDATED`는 레코드 `generated_at` → 재렌더가 결정적
+- 날짜/시각은 모두 KST (`datetime.now(tz=KST)`), `date.today()` 금지
 
 ## UI 기능 목록
 
 | 기능 | 구현 위치 |
 |------|-----------|
-| 다크모드 (시스템 연동 + 수동) | app.js `initTheme()` |
-| 실시간 검색 (300ms debounce) | app.js `initSearch()` |
-| 카테고리 필터 (전체/교육/논문/기술) | app.js `initCatFilter()` |
-| 키워드 배지 클릭 필터 | app.js `initKeywordFilter()` |
-| 날짜 네비게이션 | app.js `initDateNav()` |
-| 키보드 단축키 (j/k/0-3//) | app.js `initKeyboard()` |
-| 읽음 추적 (localStorage) | app.js `initReadTracker()` |
-| 날짜 공유 액션바 | app.js `initDateActionBar()` |
-| 헤더 실시간 KST 시각 | app.js `initLiveClock()` |
-| PWA / Service Worker | sw.js (cache: di-v3) |
+| 오늘의 흐름 보드 (접기, 주제/주체 필터, 참조 칩 점프, `#edu-3` 해시 하이라이트) | insights.render_board + app.js `initBoard()` |
+| 사이트 메뉴 (오늘·아카이브·흐름), 모바일 2행 + `--header-h` 실측 | app.js `markSiteNav()` `syncHeaderHeight()` |
+| 날짜 네비 (최근 14일 + 전체 아카이브, 과거 열람일 고정) | app.js `renderDatePills()` |
+| 전체 아카이브 (월별 카드, 전 기간 검색 `?q=`) | archive.js (`data/index.json`, `data/search.json` 지연 로드) |
+| 흐름 (기간 비교 차트, 라이브러리 없음) | trends.js (`data/index.json`) |
+| 다크모드 · 검색 · 카테고리 · 키워드 · 읽음 · 단축키 · 공유 바 · 시계 · PWA | app.js (기존) |
 
 ## 주요 결정 사항
 
-- **SW 캐시 버전**: `di-v3` — CSS/JS 변경 시 버전 올려야 클라이언트 강제 갱신
-- **교육 뉴스 설명**: Gemini 요약이 없어도 전체 표시 (필터 안 함)
-- **과거 아카이브 백필 안 함**: 신규 기능은 앞으로만 적용
+- **데이터는 지우지 않는다.** `docs/data/*.json`이 원천, HTML은 파생물. 과거 아카이브도 `--rebuild-archives`로 현행 템플릿을 따라간다 (v2의 "백필 안 함" 원칙 폐기)
+- **SW 캐시 버전**: `di-v6` — CSS/JS 변경 시 버전 올려야 클라이언트 강제 갱신
+- **분류는 규칙 기반**(LLM 불필요). 규칙 추가는 `taxonomy.TOPICS`/`ENTITIES`에 패턴 한 줄. 바꾼 뒤 `--rebuild-archives`는 선택이지만 index.json은 레코드의 `topic`을 그대로 쓰므로 **과거 레코드의 재분류가 필요하면 레코드를 지우고 백필**해야 한다
+- **Gemini 종합은 선택**. 없으면 결정적 헤드라인("오늘 25건 · 가장 많이 등장한 주체 …")로 대체. 모델은 수집기와 같은 `gemini-2.5-flash`(`GEMINI_MODEL`로 변경), REST 직접 호출
+- 교육 뉴스 설명: Gemini 요약이 없어도 전체 표시 (필터 안 함)
+- `docs/assets/og-image.png`(6.4MB)는 어디서도 참조하지 않는다 (og는 .jpg 사용)
+
+## 디자인 — 신문 1면 (v3.1, 2026-11-02)
+
+디자인 맥락은 `.impeccable.md`가 권위 소스다 (독자·브랜드·원칙). 요지:
+- 종이색 바탕(`--bg` oklch 97.5% 0.009 85)과 잉크(`--ink`), 괘선(얇은 선·두꺼운 선·이중선)으로 위계를 만든다. 박스·그림자·둥근 모서리 금지.
+- 글꼴: 한글 디스플레이 **Hahmlet**(`--font-ko`), 영문 네임플레이트·숫자 **Fraunces**(`--font-en`, opsz·SOFT·WONK 축 요청), 본문·UI Pretendard(`--font`). 세 폰트 모두 CDN(Google Fonts·jsDelivr).
+- 헤더는 두 층: 비고정 `.masthead`(네임플레이트 + 날짜·발행 호수 `제 N호`) + 고정 `.site-header`(발행 바: DI·메뉴·시계·테마). sticky 오프셋은 JS가 `.site-header` 실측 높이를 `--header-h`에 쓴다.
+- 섹션 머리는 원색 띠(`.col-head` 배경 = 섹션색), 호수 숫자는 Fraunces 300 2.1rem. 첫 기사는 제목을 한 단계 키운다.
+- 발행 호수 `{{ISSUE_NO}}` = 첫 수집일(2025-11-12)을 1호로 센 순번(`issue_number()`), 정적 페이지는 "전체 아카이브"/"흐름" 라벨.
+- 다크 모드는 "밤에 읽는 잉크 종이" — 따뜻한 차콜 + 크림, 섹션색은 밝게. 네온·발광 없음.
 
 ## GitHub Secrets
 
 | 레포 | 시크릿 | 용도 |
 |------|--------|------|
 | Live-Artifact | `NEWS_GITHUB_TOKEN` | 소스 레포 read 권한 PAT |
-| Auto-Edu-news-Collector | `GEMINI_API_KEY` | Gemini 요약 생성 |
-| Auto-AI-Edu-Paper-Curator | `GEMINI_API_KEY` | Gemini 요약 생성 |
-| Auto-AI-Tech-news-Collector | `GEMINI_API_KEY` | Gemini 요약 생성 |
+| Live-Artifact | `GEMINI_API_KEY` (선택) | 오늘의 흐름 보드 Gemini 종합 — 2026-11-02 등록됨. 없으면 자동 집계만 |
+| 수집기 3곳 | `GEMINI_API_KEY` | 한국어 요약 생성 |
+
+## 운영 메모
+
+- 로컬 개발: `pip install requests python-dateutil`, `NEWS_TOKEN=$(gh auth token)`; `cd docs && python -m http.server 8765`
+- 큰 파일 쓰기: 이 환경의 Bash heredoc은 `'#'` 등이 든 긴 본문에서 깨진다 — Write 도구로 쓰고 Bash는 짧은 명령에만
+- 시각 확인: Chrome 확장이 없으면 `playwright`(파이썬) 헤드리스 스크린샷으로 대체 가능
 
 ## 트러블슈팅 — Gemini 요약 의존성
 
 한국어 AI 요약은 본 레포가 아니라 **3개 소스 수집기**가 생성한다. 세 레포 모두
-`gemini_summarizer.py` + `config.json`의 `"model"`에 Gemini 모델명을 둔다(config.json이 권위 소스).
+`gemini_summarizer.py` + `config.json`의 `"gemini.model"`에 Gemini 모델명을 둔다(config.json이 권위 소스).
 
 **증상 → 원인:** 요약이 영문(논문 `[원문 초록]`)이거나 누락되면 → 수집기의 Gemini 호출 실패.
 세 레포가 같은 키·모델을 쓰므로 한꺼번에 망가진다. 2차로 `filter_described`가 설명 없는
@@ -126,125 +169,76 @@ ai-tech 기사를 잘라 건수가 급감한다. 원인은 로그의 HTTP 코드
 **진단:** 수집기 Actions 로그에서 `404 ... no longer available` 확인, 실행 시간 급증(재시도)도 단서.
 소스 `.txt`/newsletter 파일을 `gh api`로 직접 받아 한국어 여부 확인.
 
-**복구:** 세 레포 `config.json`의 `"model"`을 살아있는 모델로 교체. 2026-06-03부터
-`GeminiSummarizer._resolve_model()` 폴백이 있어 모델 폐기 시 `list_models()`로 자동 대체된다.
-
 ### 요약 커버리지 게이트 (2026-07-28 도입)
 
 건수만 보는 skip 게이트는 이 장애를 못 잡는다 — Gemini가 죽어도 **건수는 정상**이고
-카드만 제목으로 비기 때문이다. 그래서 첫 실행이 요약 없는 아카이브를 만들면 이후
-cron이 전부 skip해 하루 종일 고착됐다. 이를 막기 위해:
+카드만 제목으로 비기 때문이다. 그래서:
 
-- `has_korean_summary()` — 설명이 20자 이상이고 한글이 포함돼야 "요약 있음"으로 친다.
-  논문의 영문 `[원문 초록]` 폴백도 이 기준에서 걸러진다.
-- 생성 HTML `<head>`에 `<meta name="ai-summary-coverage" content="{요약}/{전체}">` 기록.
+- `item["ai"]` — 설명이 20자 이상이고 한글이 포함돼야 "요약 있음". 논문의 영문 `[원문 초록]` 폴백도 걸러진다.
+- 생성 HTML `<head>`에 `<meta name="ai-summary-coverage" content="{fresh 요약}/{전체}">` 기록.
 - 두 워크플로우의 skip 게이트가 **건수 + 커버리지 60% 이상 + 폴백 섹션 없음**을 함께 요구 →
   요약이 깨진 날은 이후 cron·watchdog이 계속 재시도한다 (수집기 복구 시 자동 반영).
-  폴백 조건은 2026-07-31 추가 — 아래 "폴백 섹션 = 60% 경계 함정" 참고.
-- 커버리지가 낮으면 페이지 상단에 `.brief-notice` 안내 배너 표시 (제목만 있는 카드가
-  고장으로 보이지 않도록).
-- **폴백 섹션은 커버리지 0으로 집계** — 어제 데이터는 요약이 온전하므로 그대로 세면
-  커버리지가 부풀어 게이트가 꺼지고 묵은 데이터가 굳는다.
-- `main()`의 재생성 가드: 기존 아카이브가 더 완전하면(`read_archive_coverage()` 비교)
-  덮어쓰지 않는다 — 재시도가 하루 중 퇴보한 수집 결과로 좋은 페이지를 지우지 못하게.
+- 커버리지가 낮으면 페이지 상단에 `.brief-notice` 안내 배너 표시.
+- **폴백 섹션은 커버리지 0으로 집계** — 어제 데이터는 요약이 온전하므로 그대로 세면 게이트가 꺼진다.
+- `main()`의 재생성 가드: 기존 레코드가 더 완전하면(`(fresh ai, total)` 비교) 덮어쓰지 않는다.
 
 **소스 수정 후 오늘자 강제 갱신** — 요약 장애면 아카이브를 지울 필요가 없다.
-커버리지 게이트가 미완성 아카이브(60% 미만)를 스스로 재시도하므로 수집기만 되살리면 된다:
+커버리지 게이트가 미완성(60% 미만)을 스스로 재시도하므로 수집기만 되살리면 된다:
 ```bash
 gh workflow run "Daily News Collection" --repo tigerjk9/Auto-Edu-news-Collector
 gh workflow run "Daily Paper Collection" --repo tigerjk9/Auto-AI-Edu-Paper-Curator
 gh workflow run "Daily News Collection" --repo tigerjk9/Auto-AI-Tech-news-Collector
-# 수집기 완료 후 (cron을 기다려도 되고 즉시 돌려도 된다)
-gh workflow run "Daily News Update" --repo tigerjk9/Live-Artifact
+gh workflow run "Daily News Update" --repo tigerjk9/Live-Artifact   # 수집기 완료 후
 ```
-2026-07-28 실제 복구 경로 — 캡 상향 → 수집기 3개 재실행 → 본 레포 dispatch에서
-`[RUN] ... (기존 AI 요약 4/25 = 16%)`로 게이트 통과 → 25/25(100%) 재생성.
 
-커버리지가 **정상(60%+)인데도** 강제로 다시 만들어야 하면 그때만 아카이브를 지운다:
+커버리지가 **정상(60%+)인데도** 강제로 다시 만들어야 하면 그때만 **레코드와 아카이브를 함께** 지운다
+(레코드만 남기면 "기존이 더 완전함" 가드가 새 결과를 버린다):
 ```bash
-gh api --method DELETE repos/tigerjk9/Live-Artifact/contents/docs/archive/$(TZ=Asia/Seoul date +%F).html \
-  -f message="regenerate" -f sha="<file-sha>" -f branch=main
+TODAY=$(TZ=Asia/Seoul date +%F)
+for f in docs/data/$TODAY.json docs/archive/$TODAY.html; do
+  SHA=$(gh api repos/tigerjk9/Live-Artifact/contents/$f --jq .sha)
+  gh api --method DELETE repos/tigerjk9/Live-Artifact/contents/$f -f message="regenerate $TODAY" -f sha="$SHA" -f branch=main
+done
 gh workflow run "Daily News Update" --repo tigerjk9/Live-Artifact
 ```
 
 ### 스케줄 설계 근거 (2026-07-31 조정)
 
 소스 수집기 cron은 23:20 UTC(edu·paper) / 23:40 UTC(ai-tech)이고, 실제 데이터 커밋은
-**edu·paper ~00:18 UTC, ai-tech ~01:17 UTC**에 떨어진다(관측 최악값). 본 레포의 이전
-1차 cron은 00:30 UTC라 **ai-tech보다 먼저** 돌 수 있었다 — 지금은 GitHub cron 큐 지연
-(7월 내내 매일 3~4시간)에 가려져 있었을 뿐이다. 그래서 1차를 01:37 UTC(10:37 KST)로
-늦추고, 큐가 가장 혼잡한 정각·30분을 피해 분을 배치했다(지연 자체는 GitHub 사정이라 보장 불가).
+**edu·paper ~00:18 UTC, ai-tech ~01:17 UTC**에 떨어진다(관측 최악값). 그래서 1차를 01:37 UTC(10:37 KST)로
+두고, 큐가 가장 혼잡한 정각·30분을 피해 분을 배치했다. 당일 ai-tech가 늦으면 폴백 섹션이 생기고
+게이트가 재시도한다. 이와 별개로 **다음 날 실행의 "최근 7일 보강"**이 레코드가 없는 날을 메운다
+(단, 이미 폴백으로 레코드가 만들어진 날은 보강 대상이 아니다 — 그날은 당일 재시도에 맡긴다).
 
-### 폴백 섹션 = 60% 경계 함정 (커버리지만으로는 못 막는다)
+### 폴백 섹션 = 60% 경계 함정
 
-`ai-tech`(10건)만 폴백되고 edu(10)·paper(5)가 정상이면 fresh 커버리지가
-**15/25 = 정확히 60%** — `-ge 60` 게이트를 아슬아슬하게 통과해 **묵은 기술 뉴스가
-하루 종일 굳는다**. 섹션 건수(10/5/10)가 하필 경계에 딱 걸린다.
-
-그래서 두 워크플로우 게이트에 **폴백 섹션 검사**를 추가했다. 폴백 섹션은 건수 라벨이
-`10건 (7/30)` 형태이므로 괄호로 판별한다:
+`ai-tech`(10건)만 폴백되고 edu(10)·paper(5)가 정상이면 fresh 커버리지가 **15/25 = 정확히 60%**라
+게이트를 통과해 묵은 기술 뉴스가 굳는다. 그래서 게이트에 **폴백 섹션 검사**가 있다 — 건수 라벨이
+`10건 (7/30)` 형태이므로 괄호로 판별:
 ```bash
 FALLBACK=no
 grep -q 'col-count">[^<]*(' "$ARCHIVE" 2>/dev/null && FALLBACK=yes
-# ... && [ "$PCT" -ge 60 ] && [ "$FALLBACK" = "no" ]
 ```
-폴백이 하나라도 있으면 커버리지와 무관하게 재시도한다.
 
 ### 워크플로우 게이트의 `bash -e` 함정 (2026-07-29~31 전면 중단)
 
-**증상:** 소스 수집기 3개는 전부 정상인데 본 레포 Actions만 매 실행 `failure`,
-아카이브가 하루도 안 생김. 실패 스텝은 `Check if today already updated`,
-로그에는 스크립트 본문만 에코되고 `Process completed with exit code 1`.
+Actions의 `run:`은 `bash -e`로 돈다. `COV=$(grep … | grep -o …)`에서 **grep 매칭 0건이면 exit 1**이
+할당문 종료 코드가 돼 스텝이 즉사한다. 매칭 0건 = "오늘 아카이브가 아직 없다" = 반드시 생성해야 하는 날이라
+영구 고착된다. 모든 grep 추출에 `|| true`. **설계 원칙:** skip 게이트는 불리언 계산 전용, 판정 불가면
+`skip=false`(=작업 수행)로 폴백.
 
-**원인:** Actions의 `run:`은 `bash -e`로 돈다. 커버리지 게이트가 쓰는
-```bash
-COV=$(grep -o '...' "$ARCHIVE" | head -1 | grep -o '[0-9]*/[0-9]*')
-```
-에서 **grep은 매칭 0건이면 exit 1**이고, 이 종료 코드가 그대로 할당문의 종료 코드가 돼
-`-e`가 스텝을 즉사시킨다. 하필 매칭이 0건인 상황이 **"오늘 아카이브가 아직 없다"**
-= 반드시 생성해야 하는 날이라, 게이트가 판정을 내리기도 전에 죽고 이후 생성·커밋
-단계가 전부 `skip != 'true'` 조건에서 스킵된다. 아카이브가 영영 안 생기니
-다음 실행도 똑같이 죽는 **영구 고착**. 2026-07-28 커버리지 게이트 도입 당일은
-아카이브가 이미 있어 통과했고, 다음날부터 터졌다.
+### 소스 레포 로컬 수집 (요약 누락의 또 다른 원인)
 
-**교훈:** 파이프라인 마지막이 `grep`인 명령 치환을 `bash -e` 스텝에서 변수에 대입하지 말 것.
-전부 `|| true`로 막았다 (두 워크플로우의 게이트 + `Validate article counts`의 건수 추출 4곳).
-검증은 반드시 `bash -e script.sh`로 — `bash script.sh`는 셔뱅의 `-e`를 무시해서 재현이 안 된다.
-
-**설계 원칙:** skip 게이트는 **불리언 계산 전용**이며 실행을 실패시키면 안 된다.
-판정이 불가능하면 `skip=false`(=작업 수행)로 폴백하는 것이 안전한 방향이다.
-
-### 추가 함정 — 소스 레포 로컬 수집 (요약 누락의 또 다른 원인)
-
-카드 설명이 비는 증상은 모델 폐기뿐 아니라 **로컬 수집**으로도 발생한다. 소스 수집기를
-**이 PC에서 직접 실행하면 `GEMINI_API_KEY`가 없어** 요약 없는 데이터가 당일 디렉터리를
-덮어쓴다(news_collector.py는 `news/{today}/`를 조건 없이 덮어씀). 정작 시크릿을 가진
-Actions 수집기가 그날 cron 드롭으로 안 돌면 빈 요약이 그대로 남는다.
-
-**구분법** — 소스 레포 커밋 author/메시지로 판별:
-- Actions: `github-actions[bot]` / `📰 자동 뉴스 수집 ...` (요약 정상)
-- 로컬:    `Dot_Connector` / `[Auto] 뉴스 수집 - ...` (요약 누락 위험)
-
-**복구:** 소스 수집기를 Actions로 재실행 → 본 레포 아카이브 삭제 후 재생성(위 절차).
-```bash
-gh workflow run "Daily News Collection" --repo tigerjk9/Auto-AI-Tech-news-Collector
-```
-**예방:** 소스 수집기를 로컬에서 키 없이 돌리지 말 것. `filter_described`가 요약 매칭
-0건이면 필터를 꺼 건수는 안 잘리지만, 카드는 제목만 남는다.
+소스 수집기를 **이 PC에서 직접 실행하면 `GEMINI_API_KEY`가 없어** 요약 없는 데이터가 당일 디렉터리를 덮어쓴다.
+구분: Actions 커밋은 `github-actions[bot]` / `📰 자동 뉴스 수집 ...`, 로컬은 `Dot_Connector` / `[Auto] 뉴스 수집 - ...`.
+복구: 수집기를 Actions로 재실행 → 본 레포 레코드·아카이브 삭제 후 재생성(위 절차).
 
 ## 트러블슈팅 — Pages 배포 실패 (레포는 최신인데 사이트가 옛날)
 
-커밋·푸시가 성공해도 **Pages 배포는 별도 워크플로우**(pages-build-deployment)라
-그것만 조용히 실패할 수 있다. 2026-07-03 장애: deploy 잡이 GitHub 측 일시 장애
-("Deployment failed, try again later")로 실패 후 빌드 상태가 `building`으로 고착,
-이후 실행들은 레포 아카이브만 보고 skip → 사이트가 전날 상태로 방치.
-
-**진단/복구:**
+커밋·푸시가 성공해도 **Pages 배포는 별도 워크플로우**(pages-build-deployment)라 그것만 조용히 실패할 수 있다.
 ```bash
 gh api repos/tigerjk9/Live-Artifact/pages/builds/latest   # errored, 커밋≠HEAD, 10분+ building이면 고착
 gh api -X POST repos/tigerjk9/Live-Artifact/pages/builds  # 재빌드 요청 (즉효)
 ```
-
-**자동화:** daily-news-update.yml·watchdog.yml 마지막의 `Verify Pages deployment`
-단계(`if: always()`)가 최신 커밋 배포를 최대 10분 폴링하고, 실패/고착 시 재빌드를
-1회 자동 요청한다 (`pages: write` 권한 필요).
+두 워크플로우 마지막의 `Verify Pages deployment`(`if: always()`)가 최신 커밋 배포를 최대 10분 폴링하고,
+실패/고착 시 재빌드를 1회 자동 요청한다 (`pages: write` 권한 필요).

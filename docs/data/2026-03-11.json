@@ -1,0 +1,411 @@
+{
+ "date": "2026-03-11",
+ "generated_at": "2026-11-02T11:53:16+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[기고] 기업 철학 가르쳐 'AI 홍보대사' 만들자",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yMWt6Y05jNHdPMWZYWHFBaHFyQk8yaG5vVF9pN1p4OXlRdlRNUF9HcnhmTWRzNi1Pc0ljUlgzdDRyNWhTQzd5a1dvSTd1NkNabHMxMGNZbXBVb1k?oc=5",
+    "source": "매일경제",
+    "published": "2026-03-10",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 2,
+    "title": "[전문인칼럼] 물류의 디지털 전환",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1JbFVqalAwNDF3YjdIQ1BJNDVlXzNEeW1VY1RmMDM2VTlYQkFJeUNJS2ZmQXdWVEI3SkZhdDVfcGd6NENfSU96VnIybVhhWjRBUm1Ham96M2NsdXJGUlhfWHhxQ0lQY1pIYXNQMEdkZ9IBc0FVX3lxTE9WWWd5RHdXakdXWnR2UDNCRWFRcDJodEdMOXd1ZHBicVVBLWg2U3pDMmx6RXh3RnoxRHp1RnRHYVBPLXFBQXdrSmJxQVVBeS1rcnRQMmU5ZTcwbU9kQWlVZEtSLS05NmhJQm9EemZUMks2SFE?oc=5",
+    "source": "대전일보",
+    "published": "2026-03-10",
+    "keyword": "디지털전환",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 3,
+    "title": "[칼럼] 첨단기술을 활용한 위기관리 AI·드론·디지털 트윈이 바꾸는 재난 대응의 미래",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9WQ2ZPN2xJQk05elZkMTJKNTUwS1BvYmRhWjJvdUJlMzgyLVloQ2RBbU5JYlNoZTh4dm1PWGpYeE5YZmFiS1Vr?oc=5",
+    "source": "정필",
+    "published": "2026-03-10",
+    "keyword": "미래기술",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 4,
+    "title": "[금강칼럼] 재난 현장에서 필요한 ‘피지컬 AI’",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zVURCcG9IRVl3RTFtWXlyYWJtWVdSWTJFa05rWWZJS2hTbFBZVkdmMndUbGw5ZXRQQmRrYk1KdWRDSWg3RWpWZUJTWHhLTXFRUTROWHR2cDhGS0ZIeUdYSVNSN2NNQ3V3akE?oc=5",
+    "source": "금강일보",
+    "published": "2026-03-10",
+    "keyword": "뇌과학",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 5,
+    "title": "도교육청, 2022 개정 교육과정 반영 교구·설비 기준 7년만에 전면 개정",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xT0huckd3eHA5WDY0NVFNZzM0RnVqSm81NmZvTUd6YlJpaFQ2Q1Yzc2RsOVprU05tSGZpWndaTjZ1SGgzbC00YVRDbFdwcEljd1BQUWRZUDczN2hHMENRRmJaLUNXYzFvNFHSAW5BVV95cUxOY1cwa2JOaUtyeU53TGFndEJRalZka2JHY1NtWXl1Q1IwdndTNFEtZndUYWhzeG41bmJHdEtXNHIxdFNWZnVjeUxSNUQwX0Qzblo5UU8ydnJvUk5GWnZyS0xzLTk3TFhUY1lKQ1FfZw?oc=5",
+    "source": "제주뉴스",
+    "published": "2026-03-10",
+    "keyword": "디지털교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 6,
+    "title": "설동호 대전시교육감, ‘미래교육’-‘맞춤형 돌봄’ 신학기 학교 방문",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55SGQyci1ab0hiWUtGRzdtSEVYcDBqRHJyaTh3YmhyU3F1SmJQcFY3VTY5YnNVcTdFZmdwdGZrTE5RSHc5WlR5d01oRDA4UDJ2TTljODI2RFJWSGEzNGV4M1hPelk2ZWM?oc=5",
+    "source": "세종의소리",
+    "published": "2026-03-10",
+    "keyword": "디지털교육",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 7,
+    "title": "재미한국학교협의회, '교사 역량 강화' 박차",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAwSTljeXVTOGkyMTVQQWlFSGlmNzI5NmZUNjFkXzVrazRibldjMVgxT2hkNmJrcUtoVElhUTRyQmhHTFZPdl9yWmdyTncwQWJRcl9HZVlMekVzUGV2a1VGdFAzN0NUT0lZMmFKMQ?oc=5",
+    "source": "재외동포신문",
+    "published": "2026-03-10",
+    "keyword": "AI디지털도구",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "경기도교육청, 2026년 인공지능 중점학교 200교 운영, 학교 중심 인공지능 교육 추진",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzMXUtVUNOSnB3b0ZMRDVtb1ZiSUZzUGJCcmhxWkxCR004NWF3b3JrNVVMZjJsRHBvZ1dEd1FfamFmd0lqc0d6VUwwS3Vxbk1ZNVl1eEFBWEt1Q2l5?oc=5",
+    "source": "아시아뉴스통신",
+    "published": "2026-03-10",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "김진균 충북교육감 예비후보 “AI·안전 교육 강화”",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVRUNUX21IRTRaY1BTbXRmenNZVEFycjZRY3hSb1MzZkxsYU5SQ3o4RHVJcDNHaEMzMnJwdGtzdlVmWUNRdExCMkVTNkdPUFVkeHFJNzBVcFY4dWd4NVJWSzRnMDhSVE43WGc?oc=5",
+    "source": "천지일보",
+    "published": "2026-03-10",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "충북교육청",
+     "교육감 선거"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 10,
+    "title": "교육부, 평생학습도시 질적 혁신 추진…지역 특화 모델 확대",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pMTJ6UWc2TjZUbHU3TGFNOVVvSGhQOTQwbF8wMEZ3bXVHSjBRUHkzcmlUWTduQlV1Z3daMGlzeUhJZW1TMndGT1lVM2MwcFVEX3dvME5FZVdxTHV0ZktjWTlBbFJhZ0RJYS1v?oc=5",
+    "source": "라이센스뉴스",
+    "published": "2026-03-10",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "When adaptive learning is effective learning: comparison of an adaptive learning system to teacher-led instruction",
+    "url": "https://www.semanticscholar.org/paper/f296f6a96af6e31a4e6790aac85ad9e9871da980",
+    "source": "semantic_scholar",
+    "published": "2020-08-31",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "중국 8학년 학생들을 대상으로 Squirrel AI Learning 적응형 학습 시스템을 활용한 개별화된 학습이 교사 주도의 대규모 및 소규모 그룹 수업보다 수학 성적 향상에 효과적임을 입증하여, 중국 교육 시스템 내 적응형 학습 시스템의 활용 가능성을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Shuai Wang, C. Christensen 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "Improving Learning Outcomes through Predictive Analytics: Enhancing Teaching and Learning with Educational Data Mining",
+    "url": "https://www.semanticscholar.org/paper/b8ceb9a89ade1ef2f67a6e58cb5d34f3b1a00360",
+    "source": "semantic_scholar",
+    "published": "2023-05-17",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "본 연구는 교육 데이터 마이닝(EDM)을 활용하여 다양한 교육 이론과 연계, 학생의 학습 특성을 파악하고 맞춤형 교육을 제공함으로써 학습 성과를 향상시키는 방안을 제시하고, 이를 통해 교육 현장의 개인화된 학습 환경 구축에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ashraf Alam",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Online Teaching in K-12 Education in the United States: A Systematic Review",
+    "url": "https://www.semanticscholar.org/paper/82486be86747a74692d83df7598a5dc18e51741b",
+    "source": "semantic_scholar",
+    "published": "2022-08-03",
+    "keyword": "K-12 education",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "미국 K-12 온라인 교육에 대한 체계적 문헌 고찰을 통해 학생 학습을 위한 맥락적 조건과 7가지 교수 원칙을 도출하여 정책 결정자, 연구자, 교사에게 온라인 교육의 역할 변화에 대한 지침을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Carla C. Johnson, Janet B. Walton 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "Improving Educational Outcomes Through Adaptive Learning Systems using AI",
+    "url": "https://www.semanticscholar.org/paper/865134d2c20ad2b10974ac9cd634b8132909eef5",
+    "source": "semantic_scholar",
+    "published": "2024-11-06",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "AI 기반 적응형 학습 시스템이 학생 맞춤형 교육을 제공하여 학습 성과를 향상시키며, 양적/질적 연구 결과 학생 성적 향상과 높은 참여율을 입증하여 교육의 질과 형평성을 높이는 데 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Herva Emilda Sari, Benelekser Tumanggor 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "An Adaptive e-Learning System for Enhancing Learning Performance: Based on Dynamic Scaffolding Theory",
+    "url": "https://www.semanticscholar.org/paper/fd4f98a7ffdac0d3d3d8aece2ed10b774399d7c0",
+    "source": "semantic_scholar",
+    "published": "2017-12-07",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "본 연구는 동적 스캐폴딩 이론에 기반한 적응형 e-러닝 시스템을 개발하고, 엑셀 교육 실험을 통해 학생들의 학습 성과와 만족도를 향상시켜 개인 맞춤형 학습 자료를 제공하고 인지 능력을 개발하는 데 효과적임을 입증하여, 학습자 중심의 e-러닝 환경 구축에 기여할 수 있음을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Chun-Hui Wu, You-Shyang Chen 외 1명",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "카르파시, 단일 GPU에서 구동하는 자율 ML 실험 도구 출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207752",
+    "source": "AI Times",
+    "published": "2026-03-10",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [],
+    "summary": "오토리서치는 AI가 스스로 실험하며 모델을 개선하는 자율 ML 연구 시대를 앞당겨, AI 개발 생산성 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "와이즈앱 “국내 AI 시장서 그록·클로드 상승세 두드러져”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207757",
+    "source": "AI Times",
+    "published": "2026-03-10",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "xAI",
+     "Claude",
+     "ChatGPT"
+    ],
+    "summary": "챗GPT의 독점적 지위 속에서 그록과 클로드의 성장세는 국내 AI 챗봇 시장의 경쟁 심화를 예고하며, 사용자 선택권 확대와 서비스 다양화에 기여할 것으로 예상됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "엔비디아-ABB, AI 자율 로봇 개발을 위한 파트너십 체결",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207758",
+    "source": "AI Times",
+    "published": "2026-03-10",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "로봇·휴머노이드"
+    ],
+    "summary": "엔비디아-ABB 협력은 AI 기반 로봇 자동화 솔루션 확산을 가속화하여 제조 및 물류 산업 전반의 생산성 혁신을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "앤트로픽, AI 생성 코드 자동 검토 시스템 '코드 리뷰' 출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207743",
+    "source": "AI Times",
+    "published": "2026-03-10",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "코딩 AI"
+    ],
+    "summary": "앤트로픽의 코드 리뷰는 AI 코딩 시대에 코드 품질 관리 자동화를 통해 개발 생산성을 혁신할 중요한 도구입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "\"온라인 익명 글만으로 LLM이 실제 작성자 70% 찾아내\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207754",
+    "source": "AI Times",
+    "published": "2026-03-10",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "LLM의 발전은 익명성을 심각하게 위협하며, 데이터 보안 및 프라이버시 강화 기술 개발의 시급성을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "AI모델, Llama와 Qwen은 같은 꿈을 꾸는가---\"수렴은 필연, 지능엔 형태가 있다\" |",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGQVRvVnEtclVvUzlGVllXcWVzWXRNOFlzd1NTNzRjWmFReU1TQWFoX2hoWTZIck9JV0ptUmJ0Zm5NVjA5ak9ZeUZnQjRQcXBpa3VacGQ1RjNqUnA3OElwQ2ZaNm5yYzBhbW8xVg?oc=5",
+    "source": "하이테크정보",
+    "published": "2026-03-10",
+    "keyword": "AI모델",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "Llama와 Qwen의 유사성 증가는 AI 모델 발전 방향의 수렴을 가속화하여, 특정 구조와 기능이 효율적인 지능 형태로 자리 잡을 가능성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "Introducing ChatGPT for Excel and new financial data integrations",
+    "url": "https://openai.com/index/chatgpt-for-excel",
+    "source": "OpenAI Blog",
+    "published": "2026-03-05",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "ChatGPT의 Excel 통합 및 금융 데이터 연동은 규제 환경에서 AI 기반 업무 효율성을 높여 산업 전반의 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "애피어, 에이전틱 AI 신뢰성 높이는 ‘리스크 인지 의사결정 프레임워크’ 연구 발표",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fSnl5QXo5RW5GOGxPcWJXeU1oYzVRN05keExKd1RIUjZiOGV4R1VfeWpEZUViZ3ByS2ZOd2xhRlIwZmN5bzI5a050R0VrVm9XLUlJaTRWTXF3UdIBVEFVX3lxTFBRZDZyM1lUYVA2bUdUVW9ZSVZvUHUxZDJMaDRsVFB4NUEzRVZWU3Rkd05sMkN5d18zN09qd1BvQkFmc1Q5bkx5S19ad3lLdmY4UmFBbQ?oc=5",
+    "source": "한국경제",
+    "published": "2026-03-10",
+    "keyword": "AI기술",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [],
+    "summary": "애피어의 연구는 에이전틱 AI의 신뢰성을 높여 AI 의사결정의 투명성과 책임성을 강화하고 산업 전반에 걸쳐 AI 도입을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "오픈AI, 챗GPT에 수학·과학 개념을 시각적으로 설명하는 기능 추가",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE50NzZEZWROQjl0bjdTbm5NLXFVdDFfRTRISXJ6d0VyUnJQemhQQnVXRG9uWVJ6WWRBNFZxb0E3cktLYUQyTkUzSy1YSWtFcGRHOHg4RTRIQ2FPOWN6NUJWTGJnUnlYd3JuZHFFeTdlMllrWmc?oc=5",
+    "source": "디지털투데이",
+    "published": "2026-03-10",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "챗GPT의 시각적 설명 기능 강화는 교육 분야를 넘어, AI 기반 정보 습득 및 활용 방식의 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "“고객 마음 안 열리네” 오픈AI, ‘챗GPT 쇼핑몰’ 야심 한발 물러서",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUODgxeGNXQThGeDNXcDBrVHp5aUpSaXBMVEhRNE5vWXM1RWhRYVhnUlZhc0N1UVQ0S2dNaEo5c0k4bl9HS3JBRjRkZmxLSlhfbnRzc0dnNDdEaXVXTFYxSzRud3dQZEVH?oc=5",
+    "source": "한국섬유신문",
+    "published": "2026-03-10",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "챗GPT의 쇼핑 기능 축소는 AI 기술의 상업적 성공이 사용자 니즈 충족과 실질적 효용성에 달려 있음을 보여주는 사례입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "tech": "AI 기술은 자율성, 효율성, 신뢰성 강화와 더불어, 다양한 산업 분야로의 확장 및 사용자 경험 개선을 통해 더욱 빠르게 발전하고 있습니다."
+ }
+}

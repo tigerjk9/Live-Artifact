@@ -1,0 +1,412 @@
+{
+ "date": "2026-09-20",
+ "generated_at": "2026-11-02T11:43:35+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[조학규 칼럼] 1정 점수 논란 ..  승진제도 큰 그림을 묻다",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=30476",
+    "source": "에듀프레스",
+    "published": "2026-09-19",
+    "keyword": "",
+    "topic": "teacher",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "1정 점수 논란은 호봉제와 연계된 교직 승진 제도의 근본적 문제로, 특정 점수 제거만으로는 다른 변별력이 부각될 수 있음을 지적합니다.",
+    "implication": "승진 제도 논란 속에서 교사들은 점수보다 학생 중심의 진정한 전문성 신장에 집중할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "대학 AI교육 산업현장에 맞춘다…교육부, 인공지능공학 교육과정 논의",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA3SDdhVDIwZkhCd3VSZ1ZYelBrQkJJTzYtLWJqeG9XSTRZZXNLRzJ0bzQ0dlFqR2hrZm1wYXo0czRMUUd3NnZHVTd4UmhVLUwtdE9hMV9FcmJRTnFi?oc=5",
+    "source": "뉴스핌",
+    "published": "2026-09-20",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "교육부가 대학 인공지능공학 교육과정을 산업 현장 수요에 맞춰 개편하기 위한 논의를 진행한다.",
+    "implication": "대학의 산업 연계 AI 교육 논의를 바탕으로, 학생들에게 AI 관련 진로 탐색의 중요성을 안내할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "대전시교육청, 디지털 유아교육 현장 수업 나눔 실시 > 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IRjJ1Mlk0OFNOV3FONmpMOHZBTWM4alZvVFdEb0FYTEljUmxCVWtpM0dkNHkybzFHRjJUMEFaZ3pMTHhpY3gzbTRZQW9sZlNUM2ZaMjNZTHlaWW9vWXIzeDNhcWR1d3JFRDJGeXFiWlk?oc=5",
+    "source": "더코리아",
+    "published": "2026-09-19",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "대전시교육청이 디지털 유아교육 현장에서 수업 나눔을 실시했습니다.",
+    "implication": "디지털 유아교육 현장 수업 나눔에서 얻은 아이디어를 실제 수업에 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "“지역사회와 함께 교육 발전 모색한다”…‘광명시 교육정책협의회’ 출범",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ud0ItWEtqYlFwQmdValBhRGhNX01QOEg3SkhOd0l4VWktVkw5RVpTdjBiSWFUYXFLZ2NPaUQxYlQ3d0hvTDZrU0dkb210U1JTS3hVT0pqT0c5bkVjdzUtQzhrdks4aDlRWkF4eU9n?oc=5",
+    "source": "G밸리타임스",
+    "published": "2026-09-19",
+    "keyword": "학습과학",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "광명시 교육정책협의회가 지역사회와 함께 교육 발전을 모색하기 위해 공식 출범했습니다.",
+    "implication": "학생들이 지역 교육 정책에 관심을 갖고 자신들의 의견을 제시하며 참여하는 활동을 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "대전교육청, 디지털 수업 설계부터 평가·학교 리더십까지 'AI·디지털 시대 맞춤 교감 역량 강화'",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxT2gzSnRLekxfcWtaajBLdXM4d2VuT3Q3dTE0bEJYYnFSbUsyOTQ2TGRPdHJjaXNmUFg4YXBaZXdhdy1uUGx3dTlVR1V0M0FXLURCeVZpQVNqaFZLVXlOUEV6TWhqRlBfQmt1aWE4Z2k?oc=5",
+    "source": "한국강사신문",
+    "published": "2026-09-19",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "대전교육청은 AI/디지털 시대에 맞춘 교감의 디지털 수업 설계, 평가, 학교 리더십 역량 강화를 추진합니다.",
+    "implication": "교감 선생님들의 디지털 역량 강화는 학교의 디지털 교육 전환을 가속화하여, 교사는 AI 및 디지털 도구를 수업에 적극 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "교육부, AI 인재양성 해법 찾는다…산업계·대학 한자리에",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Td3hWYjVhYTMzLXRDVzQyZjc3eko4cVpYWXdJcUstN3JCZUI5Z2NwRXdxOFVDQjY4U0xUY0lqQXlXVFJtdTRfalktOWQ3SUNrSjE3QnAyZXBHMmxrUDhjaVl2d0hpZHlMTU5ya191TdIBb0FVX3lxTE5Td3hWYjVhYTMzLXRDVzQyZjc3eko4cVpYWXdJcUstN3JCZUI5Z2NwRXdxOFVDQjY4U0xUY0lqQXlXVFJtdTRfalktOWQ3SUNrSjE3QnAyZXBHMmxrUDhjaVl2d0hpZHlMTU5ya191TQ?oc=5",
+    "source": "머니투데이",
+    "published": "2026-09-20",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "교육부가 AI 인재 양성을 위해 산업계와 대학 관계자들을 한자리에 모아 해결 방안을 모색합니다.",
+    "implication": "AI 인재양성 흐름에 맞춰 다양한 교과에서 AI 기술과 미래 산업을 연계해 다룰 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "“학생·시민 위한 AI 미래교육 현장 점검”… 천안시의회 복지문화위, AI꿈키움터 방문",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WNldIYi0xNV91NkJ1SzRMa0JpMGZKNGZGT0ZsOW1hVGM3NTZfVVJLc29GZm00WE1VWkZaMjB5QzZHYnJfVTMwZllzQi14ZGlfdnlGcjJQem1QR2ZVQmxob29xVHk?oc=5",
+    "source": "ctnews.kr",
+    "published": "2026-09-19",
+    "keyword": "인공지능교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "천안시의회 복지문화위는 학생·시민 위한 AI 미래교육 현장인 AI꿈키움터를 점검했다.",
+    "implication": "AI 미래교육 현장 점검은 AI 기술을 활용한 수업 자료 개발에 집중할 수 있음을 보여줍니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "인천시교육청, 국가정보원 'CSK 아카데미' 관내 고교생 23명 파견 참여",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE54NVhoQ19YNFIyU2V2a0V6VkFrSkdrQ2lacV9tQjQ1anRpV1hpWXZ3UjlKNEdJd3gwRENLNWZqNmQ4d09CWjhTclhkRGhUZEF2T21qSnZVU29CZHFOblVDMlBCd25IbGNrTGc?oc=5",
+    "source": "컨슈머타임스",
+    "published": "2026-09-19",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청이 국가정보원 CSK 아카데미에 관내 고교생 23명을 파견하여 참여시켰다.",
+    "implication": "학생들에게 국가정보원과 같은 특수 분야 진로를 탐색할 기회가 있음을 소개할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "한국디지털융합진흥원·동북아공동체ICT포럼, ‘제7기 생성형 AI 실전 마스터 과정’ 9월 30일 개강",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iVnN2bm15Mjc5cDFZeGlkRHZaVkVRMjNyZFdjVVNuaU82Uk1kU2NuLURScURPM1MtV05DRTR5YWFHeldQRWwzc3hycTd6d21ZM2xyaWhudTRKMGx6WVFpdGt0MFlzQUxVTHd0bA?oc=5",
+    "source": "파이낸스투데이",
+    "published": "2026-09-20",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "한국디지털융합진흥원과 동북아공동체ICT포럼이 9월 30일 제7기 생성형 AI 실전 마스터 과정을 개강합니다.",
+    "implication": "생성형 AI 실전 교육의 흐름을 반영하여, 수업에 AI 도구 활용 프로젝트를 도입할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "교육교부금 20.79% 연동제 폐지안 국회로…교육감들 “철저 검증” 촉구",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5NbGFpVWlXOVR6d2Z2M0c3UWdjSFEzR2VicHUtTmVpM2ZlVEQ5V2hkSzBldnlHaTVkeDM3R1VON20tMVExNWltd3JRY1d4VXBjRHVkWE40ZXJtX2tZNGVIdjNWT2d5dw?oc=5",
+    "source": "교육을 비추다",
+    "published": "2026-09-19",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육 예산",
+     "국회"
+    ],
+    "summary": "교육교부금 연동제 폐지안이 국회에 제출되자 교육감들이 철저한 검증을 촉구했습니다.",
+    "implication": "교육 재정 변화가 학교 운영에 미칠 영향을 학생들이 예측하고 토론하는 자료로 활용할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Digital learning platform adoption, learner engagement, and achievement in Indian secondary schools",
+    "url": "https://doi.org/10.3389/feduc.2026.1907485",
+    "source": "openalex",
+    "published": "2026-09-11",
+    "keyword": "edtech",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [],
+    "summary": "인도 디지털 학습 플랫폼(DIKSHA)의 교사 채택, 학생 참여, 학업 성취도 향상을 혼합 연구로 분석하고, 이를 바탕으로 공공 교육 기술 평가를 위한 다차원적 프레임워크를 제안하여 교육 현장에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Pratima Mandala, Gagana Bihari Suar 외 1명",
+    "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1907485/pdf"
+   },
+   {
+    "n": 2,
+    "title": "The Challenges for Linguists to Develop Innovative Pedagogy due to the Impact of Artificial Intelligence on Job Opportunities",
+    "url": "https://doi.org/10.48734/akofena.n022.vol.5.25.2026",
+    "source": "openalex",
+    "published": "2026-09-17",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "AI의 직업 시장 영향으로 언어학자의 교육 혁신 필요성을 다룬 이 연구는 혼합 연구를 통해 AI 및 전산 언어학 교육이 학생들의 AI 도구 개발 및 활용 역량을 강화하여 고용 가능성을 높임을 밝히고, 언어학 교육 변화를 제언합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Oyéniran Michel CHABI, Servais Dieu-Donné Yédia Dadjo 외 1명",
+    "pdf": "https://www.revueakofena.com/wp-content/uploads/2026/09/25-S21v05-13-Oyeniran-Michel-CHABI-Servais-Dieu-Donne-Yedia-DADJO-Abdoulaye-HAKIBOU_297-308.pdf"
+   },
+   {
+    "n": 3,
+    "title": "Generative AI Driving the Paradigm Shift in Smart Education: Technology Layering, Application Scenarios, and Collaborative Governance",
+    "url": "https://doi.org/10.70267/aitia.2026498504",
+    "source": "openalex",
+    "published": "2026-09-16",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "개인화 학습"
+    ],
+    "summary": "생성형 AI가 스마트 교육의 패러다임을 전환함에 따라, 본 연구는 서술적 검토를 통해 기술 계층화에 따른 응용 시나리오와 개인화 학습 등의 핵심 적용 분야를 분석하고 기술-교육학-거버넌스 협력 프레임워크를 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Bowen Cai",
+    "pdf": "https://journals.zeuspress.org/index.php/conference/article/download/1366/1327"
+   },
+   {
+    "n": 4,
+    "title": "Artificial Intelligence in English Language Linguistics and Teaching: Emerging Research Trends",
+    "url": "https://doi.org/10.5772/intechopen.1016158",
+    "source": "openalex",
+    "published": "2026-09-16",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 AI를 사회기술적 생태계로 보고 영어 교육 및 언어학의 연구 동향을 분석하며, 교사 대체가 아닌 학습자 주도성을 강화하는 윤리적 AI 활용 설계를 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Sitti Maryam Hamid",
+    "pdf": "https://www.intechopen.com/citation-pdf-url/1251455"
+   },
+   {
+    "n": 5,
+    "title": "EFFECTIVENESS OF A CULTURALLY ADAPTED SOCIAL AND EMOTIONAL LEARNING CURRICULUM ON EMOTIONAL AFFECT AND EMOTION REGULATION AMONG INDIAN PRIMARY SCHOOL CHILDREN: A QUASI-EXPERIMENTAL STUDY",
+    "url": "https://doi.org/10.36713/epra31555",
+    "source": "openalex",
+    "published": "2026-09-16",
+    "keyword": "SEL education",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제"
+    ],
+    "summary": "인도 초등학생을 대상으로 문화 맞춤형 사회정서 학습 프로그램을 적용한 준실험 연구를 통해, 긍정적 감정 향상 및 감정 조절 능력 개선 효과를 입증하여 문화 적응형 교육의 중요성을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Shaily Rai, Ajay Sharma 외 1명",
+    "pdf": "https://cdn.eprapublishing.org/article/1789570139902-50.EPRA31555.pdf"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "오픈AI, 기업 시장 점유율 역전…앤트로픽, IPO전 신형 모델 출시 검토",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215494",
+    "source": "AI Times",
+    "published": "2026-09-19",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Anthropic"
+    ],
+    "summary": "오픈AI의 기업 시장 선점과 앤트로픽의 신모델 경쟁은 AI 산업의 기술 혁신 및 기업 솔루션 시장 재편을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "스페이스XAI, ‘그록 보이스 트랜스크라이브  2.0’ 공개...전사 정확도 1위",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215485",
+    "source": "AI Times",
+    "published": "2026-09-19",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "xAI"
+    ],
+    "summary": "스페이스XAI의 최고 수준 전사 정확도 달성은 음성 AI 기술 경쟁을 심화시키고, 산업 전반의 음성 기반 서비스 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+    "source": "OpenAI Blog",
+    "published": "2026-09-11",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "AI 서비스의 10억 사용자 규모는 스토리지 및 인프라의 폭발적 수요를 야기하며, 클라우드 및 데이터 산업 성장의 핵심 동력이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "Z.ai “AI가 AI 실행 인프라 스스로 구축...'재귀적 자기개선'의 시작”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215483",
+    "source": "AI Times",
+    "published": "2026-09-19",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "AI가 스스로 인프라를 구축하고 재귀적으로 개선하는 것은 AI 기술 생태계의 자율적 발전과 혁신 속도를 극대화하는 새로운 전환점이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "오픈AI 2030년까지 386조 소진… 컴퓨팅 비용 폭증에 투자 유치 압박",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215500",
+    "source": "AI Times",
+    "published": "2026-09-20",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "오픈AI의 천문학적 컴퓨팅 비용은 AI 기술 개발의 진입 장벽을 높여 소수 빅테크 기업 중심의 시장 재편을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "오픈AI, 새 AI 모델 GPT-4.1 공개",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYndFaHpwd0VpOGw0M3lpMWktRXVNRnBvTEdqakpnMmxIUk5TNm5HNjBOUlZ2WGNCOWVILVk4elYxWTdULTlwZ2RxWXVNakhLLWIyQVF0M3o4WFNXTHhiQkFEVlRLWXRjaEpVSUM0VnhlTllCUVJ1TWNJVm1TQjhIQ1k4UGx2bkMtTS1EWXFyMjUwcERxMkhhV05fS1llLTQ5QXZaVEdyb3Y2djdvN3pwckdfS1NDT2U5MWdTMGExMjRIZjlNSlZpOG5yRklENEFBVzl5QUdXLW8zMUk1ZVVtZA?oc=5",
+    "source": "chosundaily.com",
+    "published": "2026-09-19",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "오픈AI의 GPT-4.1 공개는 AI 기술 혁신 속도를 가속화하여 시장 경쟁 구도와 산업 지형을 재편할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "Helping older adults use AI in everyday life",
+    "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+    "source": "OpenAI Blog",
+    "published": "2026-09-16",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [],
+    "summary": "고령층의 AI 일상 활용 지원은 AI 기술 시장을 확대하고, 사용자 중심의 포용적인 제품 및 서비스 개발을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "대기업 전문연구요원 'AI 병역특례'로 부활…삼성·LG 등 4곳 추천",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yWExla3pmQ0hfbzJlQ0tKNFNxY29NalQ3X2FVeldIWGcyaVJvQ0oxTmV5Z2Z1Umh6cHVmb25jTFZKS00yMFJKWUE2NHFYRDAydWFpMDRZY09idVo0cGZLMkk3cDcxX2lPWkE?oc=5",
+    "source": "금융소비자뉴스",
+    "published": "2026-09-19",
+    "keyword": "AI연구",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "삼성",
+     "LG"
+    ],
+    "summary": "대기업 AI 병역특례 부활은 핵심 인재 유입을 통해 국내 AI 기술 경쟁력 강화 및 산업 생태계 성장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "[AI 이슈트렌드] 역대급 수출 실적 속 AI 속도조절론·대통령 지지율 최저 주목",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215491",
+    "source": "AI Times",
+    "published": "2026-09-19",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [],
+    "summary": "수출 호조 속 AI 속도조절론과 낮은 대통령 지지율은 AI 기술 생태계의 정책 불확실성을 높일 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "Google Deepmind's Dream-RSI helps AI agents improve by “dreaming” about past attempts",
+    "url": "https://the-decoder.com/google-deepminds-dream-rsi-helps-ai-agents-improve-by-dreaming-about-past-attempts/",
+    "source": "The Decoder",
+    "published": "2026-09-19",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Google",
+     "에이전트"
+    ],
+    "summary": "AI가 과거 경험을 내부적으로 성찰하며 학습 효율을 극대화하여, 실제 데이터 의존성을 줄이고 AI 개발 속도를 혁신할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

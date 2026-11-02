@@ -1,0 +1,426 @@
+{
+ "date": "2026-10-15",
+ "generated_at": "2026-11-02T11:44:58+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[기고] 인공지능, 사고 확장하는 도구로 교육 현장에서 활용하자",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNS25jdVNrQnEwektqdkNLbGRYelZqeVZUR3hGTHp0bUF2ZlZDeHEyaFRtRjNCMkdIUVZJTGVjVGxhblRHbkVxY19FSF9VUUFpSkNsWmkxS1N4SFphaF9Sems0ZnBPbE92TG9uS1ZNZU05ZXpIc2MxOHIzMVZvWWVFaFVqVUoxTHgzZmc?oc=5",
+    "source": "조선일보",
+    "published": "2026-10-14",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "교육 현장에서 인공지능을 사고 확장을 위한 도구로 활용해야 한다는 기고문 내용입니다.",
+    "implication": "학생들의 사고를 확장하기 위해 AI를 활용하여 다양한 질문과 관점을 탐색하는 수업을 구성할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[취임 100일 ② 정책] 천호성 교육감 취임 100일 정책 점검…14개 시군 교육혁신선도지역 평가·영재학교 심의 남아",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZNG8yLVl6bHAwMFoyUGxZaXVBNHNXODFaTlJ1M1JNWjlLcDF5WkZBRWxBYjJPTDBXOE5CVlAxWjdmd1FKQUpxdFd0RDRBZ1JzeC1JdXpVYW9QTFBqbTI0?oc=5",
+    "source": "전북미래교육신문",
+    "published": "2026-10-14",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "천호성 교육감 취임 100일 정책 점검 시, 교육혁신선도지역 평가 및 영재학교 심의가 남았습니다.",
+    "implication": "교육혁신선도지역 정책 변화와 영재교육 관련 소식을 활용하여 맞춤형 수업을 계획할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "대전시교육청 수업을 나누고 성장을 잇다, 교사와 함께 만든 수업 혁신",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1zakgzRmk1dHFUZ2dGLUF5STVRQ0xKa01tdDJTQUlXai1oRDBfOVJ3RDVSYVVzQ0J2aDdRZlNhbUJITnF0eXZaTXljWFU?oc=5",
+    "source": "시사일보",
+    "published": "2026-10-14",
+    "keyword": "교육혁신",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "대전시교육청은 교사들과 함께 수업을 공유하고 성장을 도모하는 수업 혁신 프로그램을 운영했습니다.",
+    "implication": "동료 교사들과 수업 사례를 공유하는 활동을 통해 자신의 수업 전문성을 키울 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "소프트웨어 마인드, 텔레포니카-암독스-IBM과 함께하는 텔코 데이즈 2026에서 에이전틱 AI와 네트워크 보안 집중 조명",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6OFZtRC1VeXUzdmhnTFJ4X0hEaEFrV1BJQ0c2MjFocFJ3dGtzU0IwYnFHNUxIWmZqTkhnU25BZkw5MllXZ3Z4Sk5NWWZidk54cTN4dk5B?oc=5",
+    "source": "지디넷코리아",
+    "published": "2026-10-14",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "소프트웨어 마인드가 텔코 데이즈 2026에서 텔레포니카, 암독스, IBM과 에이전틱 AI 및 네트워크 보안을 집중 조명한다.",
+    "implication": "주요 기업이 집중하는 에이전틱 AI와 네트워크 보안 기술을 바탕으로 미래 기술 탐구 수업에 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "코로나 때 만든 구글 계정 ‘흔들’...AIEP의 120만명의 정보는 안전한가?",
+    "url": "https://www.edpl.co.kr/news/articleView.html?idxno=21768",
+    "source": "교육플러스",
+    "published": "2026-10-14",
+    "keyword": "",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "코로나 때 생성된 교사·학생 구글 계정 유출 가능성이 제기되며, 120만 명 AIEP 사용자 정보 안전에 대한 우려가 커지고 있습니다.",
+    "implication": "학생들과 함께 학교 계정 보안 설정 점검 및 개인 정보 제공 동의 내역을 확인해 볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "[교육정책] 안민석 경기도 교육감, 과밀학급 시설 확충…군포·의왕 교육 현안별 해법 과제 제시",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KQkhYTDNwemlpRno1WG5YYy1CMUxtc1hNcFlBYnM4bWJQU0RranpfQnhCQWFJamJYbk9aUWlEOVhqS0l4UExQSnhEMW05Mk00UWEwb2tyN0ViSjVsQTJQcGtQU0o4VU1lNEk2Zw?oc=5",
+    "source": "중도일보",
+    "published": "2026-10-14",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "안민석 경기도 교육감은 과밀학급 시설 확충과 군포·의왕 교육 현안 해법을 제시했다.",
+    "implication": "과밀학급 해소 시 학생들에게 더 밀도 높은 개별 지도를 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "교육부 \"내년 교부금 7조 원 늘어난다\"… 서범수 의원실 추산엔 전북 2,462억 원 '미편성'",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54Q2wwOFd5N09MZGJ3UzZGZmRGV1hrajJYLUpxRW9FT3kycTJYc3ZaMkh2RFNmbVRPeEk1U1I4MmlOMjJuYkowRWZfRDRrVW1nd1FsSzJtXzhRZU5sWV9R?oc=5",
+    "source": "전북미래교육신문",
+    "published": "2026-10-14",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부",
+     "교육 예산"
+    ],
+    "summary": "교육부는 내년 교부금을 7조 원 증액 발표했으나, 서범수 의원실은 전북에 2,462억 원이 미편성될 것으로 추산했습니다.",
+    "implication": "교육부의 교부금 증액에도 불구하고 지역별 예산 미편성으로 수업 환경 개선에 불확실성이 있을 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "[현장영상] 천호성 교육감 \"농촌유학 아닌 전북유학\"…특성화고·해외유학까지 포함해 명칭 전환",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VbldOZlNPSlhCTGtfYVE4QWw0c2stNzlkeUtVTTJxNWtnVDNDeUdkdjJaMTRMN1VFNnVqbFhZUFgzZV9veTlfc19uRjFaUnNmVWNCSW1LamdkX09pV1Br?oc=5",
+    "source": "전북미래교육신문",
+    "published": "2026-10-14",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": "feature",
+    "entities": [],
+    "summary": "천호성 교육감이 특성화고·해외유학을 포함하여 '농촌유학'을 '전북유학'으로 명칭을 전환했습니다.",
+    "implication": "전북유학 정책으로 학생들이 특성화고, 해외 유학 등 다양한 진로를 탐색할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "교육정책 ‘성과·실효성’ 체계적으로 검증",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zU3oxWnpGVU9mYk1leVhDRFZoaWZPdjlLcS1jTlBkWFMyMDBLaUZiR3F2bjNpcTlvc2xqSXpacndGNFR1c2k4X3kyVWxUc1hCZGR0cFFXYThOSVpkdXV5Wml5RS1QRVp5MEE?oc=5",
+    "source": "전북제일신문",
+    "published": "2026-10-14",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "교육정책의 성과와 실효성을 체계적으로 검증한다는 내용이다.",
+    "implication": "수업 중 교육정책이 학생들에게 미치는 실제적인 효과와 개선점을 파악할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "국감장 달군 안민석표 교육정책…‘폰 프리 스쿨’ 확산론, 교권보호단 호평",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhcVNTZ2RFci1qY0hyejJLYUJZSERHMXBwd0tkLVYycXFlWHRWeTdiNDAtY3lReUtKcUpFSlR4OFkxZy1ZTXJfTmxLNTlFY1NvcEHSAVNBVV95cUxQRW80YkNVeWRpTEx2Zk9KWEFYUHVXaEg2bmF1TDNfTHRQTWY5d1dVQ3FuUE1HSmY2c3Jual9ZRGZhUFhfb0M0TFlmU04zMmRDdmV0aw?oc=5",
+    "source": "서울경제",
+    "published": "2026-10-14",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "국회",
+     "교권"
+    ],
+    "summary": "국감에서 안민석 의원의 '폰 프리 스쿨' 확산 정책이 교권보호단의 호평을 받았다.",
+    "implication": "수업 중 학생 휴대폰 사용을 지도할 때, 정책적 지지 논리를 활용할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Basic Principles and Practical Paths of LLM-Empowered Senior High School English Writing Evaluation in China: A Conceptual Framework",
+    "url": "https://doi.org/10.67728/sshi.2026.010",
+    "source": "openalex",
+    "published": "2026-10-13",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [
+     "LLM"
+    ],
+    "summary": "정책 문서 분석과 문헌 합성을 바탕으로 대규모 언어 모델 기반 고등학교 영어 작문 평가가 기존의 한계를 극복하고 학과 핵심 역량 중심의 발달적 평가로 전환하기 위한 개념적 프레임워크와 실천 경로를 중국 교육 현장에 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Jiang Li",
+    "pdf": "https://sshi.apollojournals.com/article/172439.pdf"
+   },
+   {
+    "n": 2,
+    "title": "Generative AI in Education: Perspectives Through an Academic Lens",
+    "url": "https://www.semanticscholar.org/paper/32da19bec4898eaab80c6a4d82f51de8b99ab941",
+    "source": "semantic_scholar",
+    "published": "2025-03-06",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "개인화 학습"
+    ],
+    "summary": "본 연구는 2019-2024년 논문 3506건을 동향, 정서, 토픽 모델링으로 분석하여 교육 분야 생성형 AI의 역할을 조명하고, 개인화 학습 등 미래 교육에 미칠 긍정적 영향과 활용 방안을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Iulian Întorsureanu, S. Oprea 외 1명",
+    "pdf": "https://doi.org/10.3390/electronics14051053"
+   },
+   {
+    "n": 3,
+    "title": "Assessments as Sites for Teacher Sensemaking About Epistemic Learning Goals in Science",
+    "url": "https://doi.org/10.1002/sce.70108",
+    "source": "openalex",
+    "published": "2026-10-13",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "교사와의 성찰적 대화를 통해 고부담 평가가 내포하는 인식론적 메시지와 교사의 학습 목표를 일치시키려는 노력이 교육과정 및 교수법 개선으로 이어짐을 밝힙니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Lindsay B. Wells, Ryan L. Stowe 외 1명",
+    "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/sce.70108"
+   },
+   {
+    "n": 4,
+    "title": "The Schools E-Learning Project: a context-responsive teacher professional development model grounded in a research-practice partnership in remote Papua New Guinea",
+    "url": "https://doi.org/10.3389/feduc.2026.1920349",
+    "source": "openalex",
+    "published": "2026-10-13",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "파푸아뉴기니 오지 학교의 교사 전문성 개발 장애물을 극복하기 위해 연구-실천 파트너십 기반으로 현지 맞춤형 코칭과 기술을 통합한 지속 가능한 교사 역량 강화 모델 및 평가 프레임워크를 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Katrina Barker, Danielle Tracey 외 1명",
+    "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1920349/pdf"
+   },
+   {
+    "n": 5,
+    "title": "Instructional supervision and differentiated literacy learning for students with special needs in an inclusive school",
+    "url": "https://doi.org/10.22219/raden.v6i2.46134",
+    "source": "openalex",
+    "published": "2026-10-13",
+    "keyword": "",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [
+     "특수교육"
+    ],
+    "summary": "인도네시아 통합학교 사례 연구는 교장의 교수 감독이 특수교육 대상 학생의 개별화된 읽기 학습을 지원하지만, 특수교사 협력 부족 및 구조적 한계가 존재함을 밝히며, 향후 포괄적 교육의 교수 감독, 교사 협력, 정서적 읽기 습관화 간 연관성 연구의 기반을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Tri Sari Haryanti, Maria Ulfah 외 1명",
+    "pdf": "https://ejournal.umm.ac.id/index.php/raden/article/download/46134/19341"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "구글, AI '바이브 코딩' 앱 비공개 실행 기능 도입…\"개발자 등록 필요 없어\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216259",
+    "source": "AI Times",
+    "published": "2026-10-14",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Google",
+     "코딩 AI"
+    ],
+    "summary": "AI 코딩 앱의 진입 장벽을 낮춰 개발자들의 AI 활용을 극대화하고 AI 기술 생태계의 성장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "Z.ai, 법률 특화 모델 'GLM-리걸' 출시...벤치마크서 '페이블 5' 제치고 1위",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216260",
+    "source": "AI Times",
+    "published": "2026-10-14",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "벤치마크"
+    ],
+    "summary": "특정 분야에 최적화된 AI 모델이 범용 모델의 성능을 능가하며 AI 산업의 전문화 및 수직적 성장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "애플, 시리 AI 탑재 디스플레이 '홈뷰' 등 스마트 홈 제품 대거 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216243",
+    "source": "AI Times",
+    "published": "2026-10-14",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Apple"
+    ],
+    "summary": "애플의 시리 AI 스마트 홈 제품 출시는 AI의 생활 밀착형 확산과 하드웨어 기반 AI 생태계 구축 경쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "에이수스, ‘에이전트 컴퓨터’ 국내 시장 확대...개인용 AI PC부터 기업용 에이전틱 AI까지",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216267",
+    "source": "AI Times",
+    "published": "2026-10-15",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "에이전트",
+     "온디바이스 AI"
+    ],
+    "summary": "에이수스의 에이전트 컴퓨터 시장 확대는 온디바이스 AI 및 에이전트 기술이 개인과 기업 컴퓨팅의 새로운 핵심 패러다임으로 자리매김할 변곡점입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+    "url": "https://openai.com/index/pollo-ai",
+    "source": "OpenAI Blog",
+    "published": "2026-10-08",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "생성형 AI"
+    ],
+    "summary": "OpenAI 기반의 생성형 AI가 창의적 캠페인 기획 및 실행을 자동화하며 마케팅 산업의 효율성과 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "EU AI법 집행: 무단 AI 에이전트 사건으로 OpenAI와 Anthropic 첫 사건 직면",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOVVCN29QZGpYaEJMNTktaTcweFpnY21UZFpfbGJHNHR6V2J1Z2cyQVJCTWdMcHdPOXl0a0dWN2VETVc3M2F2TmwxbEVJa21NeHMtbU02ak9jYmljNkpVOTV2Y1JRQW1WajREcDRfRktGWXhMLXYyQ19wUG8xaE5IVnYwQkZfM05SWGVtSURxd0FyVlY2ZjMwRWxTN1ZXeGhmNjBR?oc=5",
+    "source": "IndexBox",
+    "published": "2026-10-14",
+    "keyword": "Anthropic",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "에이전트",
+     "OpenAI",
+     "Anthropic"
+    ],
+    "summary": "EU AI법의 첫 집행은 AI 기업들이 개발 초기부터 규제 준수를 최우선으로 삼아, AI 기술의 책임 있는 배포와 운영 모델 구축을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "Google DeepMind와 GovTech, 기기 내 사기 탐지 모델 공개",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLXhaaEo3blRjajY0VzZpc1lHMUlLSmpjWVZDN0hkcFJiWXhHbWloNmJVV2ZCQld5TjFfWU5IU0tKT01CdERPWHRSQ2tfZjhod1dRRUxqb0FZWnc0bmp6b2hoLVRDV1FtVzhFeGJGQlNlTVVidkQzWlJHWlhjUWNOUnhKU1VXNXZJZndCcS11RVBZXzFa?oc=5",
+    "source": "Unite.AI",
+    "published": "2026-10-14",
+    "keyword": "AI도구",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "온디바이스 AI"
+    ],
+    "summary": "Google DeepMind의 기기 내 사기 탐지 모델 공개는 프라이버시 중심의 엣지 AI 기술 발전과 산업 적용 확대를 가속화하는 중요한 전환점이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "메타(Meta), 오픈AI·앤트로픽에 도전장…새 AI 모델 공개했지만 수익성은 여전히 과제",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05TXMxOVR1d09sc2hXYkJzcmRDU3J1MU1IM2dRQklrWTU5R3BBQnF5Z2RGYU9RWWVBcmdZbHhrYXlFalZBSzM3NHFud190bmdDOUg3TDhQVEJTUHY0V2RUTzgzVml3dw?oc=5",
+    "source": "이로운넷",
+    "published": "2026-10-14",
+    "keyword": "오픈AI",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Meta",
+     "OpenAI",
+     "Anthropic"
+    ],
+    "summary": "메타의 도전은 AI 시장 경쟁을 격화시키고, 기술 혁신을 넘어 수익성 확보가 AI 산업의 지속 가능한 성장을 위한 핵심 과제임을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "엔비디아, DSX AI 팩토리 위한 새로운 오픈소스 소프트웨어 구성 요소 공개",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vODUtSFNlVEdPb044Z2VmSHAxZDA0TG4ydG9STHhRaWdWdXdVX0lPeGdLRVZsWkEySWI3TzZ3VDBSZnBLb3NpYndidzZwT1pwS1A3RmNkMXBkT2gzejU4bQ?oc=5",
+    "source": "올포칩",
+    "published": "2026-10-14",
+    "keyword": "오픈소스",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "오픈소스"
+    ],
+    "summary": "엔비디아의 오픈소스 DSX AI 팩토리 구성 요소 공개는 AI 개발 생태계의 접근성을 높여 엔비디아 기반의 AI 산업 표준화를 강화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+    "url": "https://openai.com/index/radisson",
+    "source": "OpenAI Blog",
+    "published": "2026-10-07",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "LLM",
+     "에이전트"
+    ],
+    "summary": "거대언어모델이 특정 산업의 전문 기능을 수행하는 AI 에이전트 플랫폼으로 진화하여 AI 활용 범위를 넓힐 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

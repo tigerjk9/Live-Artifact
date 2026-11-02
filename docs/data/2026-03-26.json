@@ -1,0 +1,408 @@
+{
+ "date": "2026-03-26",
+ "generated_at": "2026-11-02T11:54:02+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[경상시론]AI는 질문하는 법을 가르치지 않는다",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85WkVZMzE4V0oyd2cwTEFHVlJkNm1wVVU1X05rVm91TllzWXI0ZDBDdE9rd3hMdzZkWXFsR2prdWQzZDlndnducWVqQ1BNZTZWekZxWlBhdktQc2J2ZG5mWHJDalBrTFIzSFJKbA?oc=5",
+    "source": "경상일보",
+    "published": "2026-03-25",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 2,
+    "title": "[브릿지 칼럼] 교육재정 혁신과 '대학도시' 비전",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xUFhvZEExbWdodW1KaVVhbXhEdVYtTW14WHdtV0d0TUY4dVJuaHR1MER1d1YtMEVHSmNJZm1VajBrRDB5UWMxd3lJSFhieXJkN1BF?oc=5",
+    "source": "네이트",
+    "published": "2026-03-25",
+    "keyword": "교육혁신",
+    "topic": "higher_ed",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 3,
+    "title": "[기고] 디지털트윈 국토 실현을 위한 공간정보 연구의 패러다임 전환",
+    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE41cUEyWmx6c1E2U1JXWTlzUUw5eWRCeDVnMXpIN1kxNjJNV043Z05VVXNiTzlRR013UWcxbzl2VXJEaWJI?oc=5",
+    "source": "국토매일",
+    "published": "2026-03-25",
+    "keyword": "디지털전환",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 4,
+    "title": "[기고] 공간정보 연구, ‘디지털 기술 토대’ 제공해야",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5jdEZkYzkxdXZ1X1F2NnVSMFU5RnVaOVpFc0JXZF9iT2RkUnZnZUNHX2lyVmFwdGV2MzdrdmtqQzhkcVU?oc=5",
+    "source": "매일건설신문",
+    "published": "2026-03-25",
+    "keyword": "미래기술",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 5,
+    "title": "토람 사무총장의 기고문: \"청년과 국가의 미래\"",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeWZuTDQ3aUtvcVBxRXBjcTRWZldjY2VfNHdjNzZyRERNM09zT3IySDVDZjFHOURPVDhtelVVaUV6THNpNFVtbGVkRDJ2RGxmeFByZGVMbV9fdFhoZ2I5aXZQVk5WR296T2VWSXkzR2VtUGVSemZVdnRHWjczNkdySHVGanRXaUozakJwcG1zU01rcEd0VUYxbjNoTjB3WndUQ0pPN3RhQ0JkWHZ4cHV2bG1uZE40MkVMTEFaNVFoUzM4dndkSkE?oc=5",
+    "source": "vnu.edu.vn",
+    "published": "2026-03-25",
+    "keyword": "학습과학",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 6,
+    "title": "[김현태 칼럼] ‘학생 마음건강증진법’의 가혹한 잣대와 교육의 실종",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=30046",
+    "source": "에듀프레스",
+    "published": "2026-03-25",
+    "keyword": "",
+    "topic": "student_care",
+    "kind": "opinion",
+    "entities": [
+     "마음건강",
+     "국회"
+    ],
+    "summary": "국회가 내놓은 ‘학생 마음건강증진법’을 보니 한숨부터 나온다. 정서적 위기에 처한 아이들을 국가가 책임지고 돌보겠다는 선한 취지는 당연히 환영할 일이다.하지만 법안의 속살을 들여다보면 참담하다. 아이들의 손을 잡아야 할 교사의 발목에는 ‘징역 3년’이라는 쇠고랑을 채워놨기 때문이다.학생 보호라는 번지르르한 명분 뒤에 숨은 이 처벌 조항은, 학교를 치유의 공",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "높아진 K-컬처의 위상… 뇌과학 자기계발서 ‘조종당하는 인간’ 7개국 출판사와 판권 계약 및 제안 진행",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QWWI4MGI4Q2QzaUxKRkx0TGhqQWFlX043NmxzSHg3MDFNbEF6cWk1dUNCSXhkYnh6U3BETnlZSHRfci11ZC1QUTNvemxTa2JVUmNSZUMzWGhic0d3eG1N?oc=5",
+    "source": "뉴스와이어",
+    "published": "2026-03-25",
+    "keyword": "뇌과학",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "04화 #4[뇌과학기획] 칭찬보다 무서운 보상의 유혹",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5fdG4yMkdQWUFKN3YwVjQ5aFZiaGVMdnVZVFpONUtMSDJVZkhrUFZCTFd2QzFvUDFpYWlyNlpucENkN3M4UzROeERR?oc=5",
+    "source": "브런치",
+    "published": "2026-03-25",
+    "keyword": "뇌과학",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "도성훈 인천시교육감, AI교육 공동선언...“AI 시대에도 교육의 중심은 사람”",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PWXZHblpVNy1qSFM0TjdodTJZSVNfQnhpMXc2eVJVRE80OWFlNy1RRHZiQkFDZmVUbHdpWkdFbkNxTUdBYlF6ZXMwVzJSNnkwTjZaYzROV1c4SnlqWU9DbEJ6YnYzRWYyU3c?oc=5",
+    "source": "비즈월드",
+    "published": "2026-03-25",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 10,
+    "title": "이병학 충남교육혁신연구소 소장, ‘충남교육감’ 공식 출마 선언",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOLXZaMlB5cmNuck1vV1VYTFQ2RjlkQjdtSVgxc2JyaFNQd0JDRWZqbnNWcFFuT016S2Rnc2llWlRlRUJyZ2VBUF90ZnUzaFYzT0puck1iLUZPbG1wdWNHTHRRZ3EtTFA4cXliYmhHRlY?oc=5",
+    "source": "모빅경제",
+    "published": "2026-03-25",
+    "keyword": "교육혁신",
+    "topic": "global",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Handbook of Research on Science Education",
+    "url": "https://www.semanticscholar.org/paper/632a4ad39813444ebe48233680e701281de4b2c9",
+    "source": "semantic_scholar",
+    "published": "2023-01-25",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 과학 교육의 학습, 문화, 교수, 교육과정, 평가, 교사 교육 등 다양한 영역에 대한 연구를 종합적으로 분석하여, 과학 교육의 발전 방향을 제시하고 교육 현장에 실질적인 시사점을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Sandra K. Abell, Norman G. Lederman",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "Three Years with Classroom AI in Introductory Programming: Shifts in Student Awareness, Interaction, and Performance",
+    "url": "http://arxiv.org/abs/2603.22672v1",
+    "source": "",
+    "published": "2026-03-24",
+    "keyword": "K-12 education",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 3개년 간의 파이썬 입문 과정에서 학생들의 AI 활용 변화를 설문, 대화 로그 분석, 성적 기록을 통해 분석하여, AI 활용이 보편화될수록 학생들의 AI 인식 및 상호작용 방식이 변화하며, 효과적인 학습 방법 재정의와 학생 주도성 유지가 중요해짐을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Boxuan Ma', 'Huiyong Li' 외 5명",
+    "pdf": "http://arxiv.org/pdf/2603.22672v1"
+   },
+   {
+    "n": 3,
+    "title": "Artificial Intelligence-Enabled Intelligent Assistant for Personalized and Adaptive Learning in Higher Education",
+    "url": "https://www.semanticscholar.org/paper/f80e7b5baa6adf0cd5dddb5ba973fed9d8a216cf",
+    "source": "semantic_scholar",
+    "published": "2023-09-19",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "본 논문은 고등 교육에서 개인 맞춤형 학습을 지원하기 위해 AI와 자연어 처리 기술을 활용하여 학생 문의 응대, 퀴즈 생성, 맞춤형 학습 경로 제공 등이 가능한 지능형 보조 시스템(AIIA) 프레임워크를 제시하며, 이는 학생 학습 성과 및 만족도 향상에 기여할 수 있습니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ramteja Sajja, Y. Sermet 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "Flipped classroom in higher education: a systematic literature review and research challenges",
+    "url": "https://www.semanticscholar.org/paper/e3d7e963d33e76627a0c1474a22580d54d544b36",
+    "source": "semantic_scholar",
+    "published": "2023-11-30",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 2014년부터 2023년까지 발표된 30편의 논문을 체계적으로 검토하여 고등 교육에서 플립 러닝의 효과, 기술 및 도구, 과제, 그리고 교육 개선 가능성을 분석하고, 플립 러닝의 효과적인 실행 전략을 제시함으로써 교육 분야에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Mariam Baig, E. Yadegaridehkordi",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "Online teaching-learning in higher education during lockdown period of COVID-19 pandemic",
+    "url": "https://www.semanticscholar.org/paper/543e9279c746bdf000d477a19502d82e535d54e6",
+    "source": "semantic_scholar",
+    "published": "2020-09-10",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 코로나19 팬데믹 봉쇄 기간 동안 미조람 대학교의 온라인 교육-학습 방식에 대한 교사와 학생의 인식을 양적, 질적으로 분석하여, 교육 기관의 자원 활용을 통한 온라인 교육 전환 과정과 변화 관리 프로세스와의 연계를 보여줌으로써 향후 교육 시스템의 위기 극복 및 정상화를 위한 시사점을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "L. Mishra, Tushar Gupta 외 1명",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "오픈AI, 결제 기능 실패에 따라 '상품 검색'으로 방향 전환",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208316",
+    "source": "AI Times",
+    "published": "2026-03-25",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "오픈AI의 상품 검색 기능 강화는 대화형 AI 쇼핑의 가능성을 보여주지만, 결제 기능 실패는 사용자 경험과 실제 구매 연결의 중요성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "'일본 대표' 사카나 AI, 첫 일본어 챗봇 출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208340",
+    "source": "AI Times",
+    "published": "2026-03-25",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [],
+    "summary": "사카나 AI의 일본어 챗봇 출시는 자국 문화 맞춤형 AI 모델의 중요성을 강조하며, 글로벌 AI 경쟁에서 문화적 맥락 이해가 핵심 경쟁력으로 부상하고 있음을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "메타, 자가 진화형 AI ‘하이퍼에이전트’ 발표… \"배우는 방법까지 바꾼다\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208357",
+    "source": "AI Times",
+    "published": "2026-03-25",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Meta",
+     "에이전트"
+    ],
+    "summary": "메타의 하이퍼에이전트 발표는 AI가 스스로 학습 방식을 개선하며 범용 인공지능으로 진화하는 중요한 이정표입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "AI로 노래 만들어서 ‘120억’! 사기 혐의 인정한 남자",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208354",
+    "source": "AI Times",
+    "published": "2026-03-26",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "저작권·소송"
+    ],
+    "summary": "AI 음악 저작권 및 수익 분배의 허점을 악용한 사기 사건은 AI 콘텐츠 산업 성장에 대한 윤리적, 법적 규제 마련의 시급성을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "할리우드 항의 받은 동영상 모델 '시댄스 2.0', 자체 플랫폼 통해 재출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208365",
+    "source": "AI Times",
+    "published": "2026-03-25",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "영상·이미지 생성",
+     "생성형 AI",
+     "저작권·소송"
+    ],
+    "summary": "시댄스 2.0 재출시는 영상 생성 AI 모델의 저작권 논란 속에서 플랫폼 사업자의 책임과 기술 경쟁 심화를 동시에 보여주는 사례입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "The AI Hype Index: AI goes to war",
+    "url": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
+    "source": "MIT Technology Review",
+    "published": "2026-03-25",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 기술이 군사적 활용 경쟁 심화로 윤리적 딜레마와 기업 간 이해 충돌을 야기하며, AI 발전 방향에 대한 심도 깊은 논의가 필요함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "Prompt Caching with the OpenAI API: A Full Hands-On Python tutorial",
+    "url": "https://towardsdatascience.com/prompt-caching-with-openai-api-full-hands-on-python-tutorial/",
+    "source": "Towards Data Science",
+    "published": "2026-03-22",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "AI 튜터"
+    ],
+    "summary": "OpenAI API의 프롬프트 캐싱은 AI 애플리케이션 성능 향상 및 비용 절감에 기여하여 AI 서비스 효율성을 높이는 데 중요한 기술입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "AI 환각 줄인다, 애피어, 신뢰형 LLM 프레임워크 공개",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zQVllWGpYLXpMbjlPbEZzV3ZHeGV6Q2JLZEtocExYbkwyZGlsdU9tV2tETHVSWHUyMEVxQ21UVkVrVVZkajh1Y3VTWjNqc1VvZVUzdDZ3dnJIY1htTkd0QmtISndKd1BGbzRzZU1QMEpzUDTSAXNBVV95cUxNc0FZZVhqWC16TG45T2xGc1d2R3hlekNiS2RLaHBMWG5MMmRpbHVPbVdrREx1Ulh1MjBFcUNtVFZFa1VWZGo4dWN1U1ozanNVb2VVM3Q2d3ZySGNYbU5HdEJrSEp3SndQRm80c2VNUDBKc1A0?oc=5",
+    "source": "엠투데이",
+    "published": "2026-03-25",
+    "keyword": "LLM",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "LLM"
+    ],
+    "summary": "애피어의 신뢰형 LLM 프레임워크 공개는 AI 환각 감소를 통해 기업의 LLM 도입 장벽을 낮추고 신뢰성 기반의 AI 활용 확산을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "앤트로픽, 스스로 위험 거르는 '오토 모드' 공개...\"개발자 승인 없이 코딩\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208363",
+    "source": "AI Times",
+    "published": "2026-03-25",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "코딩 AI",
+     "에이전트",
+     "AI 안전·규제"
+    ],
+    "summary": "앤트로픽의 '오토 모드'는 AI 자율 에이전트가 개발 효율성을 극대화하는 동시에 안전성 확보 경쟁의 중요성을 부각하는 전환점입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "미 의회 자문기구, “중국 AI, 오픈소스 전략과 제조 지배력 상호 시너지로 미국 위협”",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE42dDdwV0IzMjZFWExON0tqdG9Cdjk4OGQ0SU1KU1luZmxJTEZ0VWY5VkVaVmt3Y3NEUUF4aEZrZWozUEwyWDZFakFiTFROSE8xT25pc09lR1MzWFlUTHRZZ3VYeHRiNGM?oc=5",
+    "source": "아이티데일리",
+    "published": "2026-03-25",
+    "keyword": "오픈AI",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "오픈소스"
+    ],
+    "summary": "중국의 오픈소스 AI 전략과 제조 경쟁력 결합은 미국 중심의 AI 기술 주도권에 대한 심각한 도전으로, 서방 진영의 기술 안보 강화 및 협력 체계 구축이 시급합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "tech": "AI 기술은 결제 실패를 딛고 상품 검색으로 확장되고, 일본어 챗봇 출시, 자가 진화형 AI 등장, 신뢰형 LLM 프레임워크 공개 등 더욱 발전하며, 오픈소스 전략과 제조 지배력을 통해 국가 경쟁력을 강화하는 동시에, 위험을 스스로 감지하는 방향으로 진화하고 있으며,"
+ }
+}

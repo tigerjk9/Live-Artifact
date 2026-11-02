@@ -1,0 +1,172 @@
+{
+ "date": "2025-12-20",
+ "generated_at": "2026-11-02T11:49:29+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[사설] 미국 교육부 해체 논란, 남의 일 아니다",
+    "url": "https://news.unn.net/news/articleView.html?idxno=587852",
+    "source": "한국대학신문",
+    "published": "2025-12-19",
+    "keyword": "",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [
+     "교육부"
+    ],
+    "summary": "미국 교육부 해체 시도는 교육 자율성 강화라는 명분하에 교육 격차 심화 및 국가 교육 시스템 약화를 초래할 수 있다는 점에서 우려됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[홍수자칼럼] AI 워싱, 예술의 진정성은 어디에 있는가",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mcUx3bTFUYml3Z3Iwb0I0aDBObVpib1ZFbkxWSF81bWQwc3VtMnZoZ1BFNC1yVnJKYUJoampVb0NCRURsTWtsQThibmxyMW5COFF5d3puUVZLeFZWUzZSaEJGMlgzVFppMnZ2OHlR?oc=5",
+    "source": "세이프머니",
+    "published": "2025-12-19",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "AI 워싱 논란은 예술 교육에서 창의성의 본질과 비판적 사고 능력 함양의 중요성을 더욱 부각하는 계기가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "'교사정치기본권' 전북교육감 후보 2명은 '전면보장'…3명은 '조건부 허용'",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yeGZqdlZURDdJZ3NueThzaW9vVEVuNHByUEhVTzF4M3dFbU1seklOMDc3SEJZX2lORGV5MVNFYUJyT3hpdDNOV2NNejBLdGRLUEwxbEZwak9LY3VLTXVMMVlMTUduSWdCaHU0?oc=5",
+    "source": "프레시안",
+    "published": "2025-12-19",
+    "keyword": "AI디지털도구",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "전북교육청",
+     "교육감 선거"
+    ],
+    "summary": "교사의 정치 기본권 보장 범위에 대한 교육감 후보 간 이견은 향후 교육 정책 방향 설정 및 교원 사회의 정치적 참여에 중요한 영향을 미칠 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "경기도교육청, 'AI 영어 교육' 400개교로 확대... 사교육비 절감 효과 기대",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5uU0Ntb2lwZy00LTJ6NzM0dC1IbUM1V0U1X2t2dlpHQVY4X3VoZjdCU2Zsekc2TVlKSkQ1M3JsR1RCa0lweWxhWVJDalN6MHhKYVpXVXR2UWhXdjJ6TzNGeWNFNnFqZw?oc=5",
+    "source": "교육을 비추다",
+    "published": "2025-12-19",
+    "keyword": "AI디지털도구",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "사교육"
+    ],
+    "summary": "AI 영어 교육 확대를 통해 공교육의 영어 학습 역량을 강화하고 사교육 의존도를 낮출 수 있을지 주목해야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "인공지능(AI)·디지털 시대 공직 역량, 경기도교육청 마이크로러닝이 끌어올려",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZcHgtajRnTmg4ZndMLWM4OS1nNzFmdG9jZjduakN2Z1hCdzNiNVVqVUg4SEQ3M0RpSmRKVF9iblNRbFN4ampmTkt3ZWE3SWM5c0ZKcVlCNEw4VXI5MzA3bWxEa09iRjNB?oc=5",
+    "source": "인천교육일보",
+    "published": "2025-12-19",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청의 마이크로러닝은 AI·디지털 시대 공직 역량 강화의 효과적인 모델로서, 교사 및 교육 행정가의 디지털 역량 강화에 기여할 수 있다는 점에서 긍정적입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "[쿠키과학] \"성장호르몬, 뇌 기억도 조절한다\"… IBS, 해마 기억저장 세포와 상관관계 규명",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE44Wlo5Y1ZGZUxJb3dBTG9GWEdZRnNGLTdiTkxVM01ONTM5WjlsX1UtVnRlLVRXYnFBcV9Db3BfNHZxSEg5N2lLempXZnNPYXViTjVUVzFOMFc5bWdpckVuaTRjaw?oc=5",
+    "source": "쿠키뉴스",
+    "published": "2025-12-19",
+    "keyword": "뇌과학",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "성장호르몬이 뇌 기능에 미치는 영향에 대한 연구는 학생들의 학습 능력 향상을 위한 맞춤형 교육 전략 개발에 중요한 기초 자료를 제공할 수 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "IBS, 기억과 성장호르몬 상호 관계 밝혀냈다",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51ZHh0V1YwNjlDYnFKZjJuMXlZNlBLYlhLOTdNU1NCc000RU1ScnlQb1FRR250THNqYjNpSl9XSl9McTJ1RFNhcHFXa1hDUXZGcXp6WFZORG56TXdHOHJIa3FZV1VtT0FWb2dzUFNhQUh1MktOTHRtV9IBeEFVX3lxTE51ZHh0V1YwNjlDYnFKZjJuMXlZNlBLYlhLOTdNU1NCc000RU1ScnlQb1FRR250THNqYjNpSl9XSl9McTJ1RFNhcHFXa1hDUXZGcXp6WFZORG56TXdHOHJIa3FZV1VtT0FWb2dzUFNhQUh1MktOTHRtVw?oc=5",
+    "source": "뉴시스",
+    "published": "2025-12-19",
+    "keyword": "뇌과학",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "기억과 성장호르몬의 연관성 규명은 학습 효과를 높이기 위한 수면의 중요성을 재확인시켜 교육 방식과 환경에 대한 고려를 심화해야 함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "교디연, 국교위 고교학점제 개정안 비판… “성취율 배제는 공교육 포기”",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=21563",
+    "source": "에듀프레스",
+    "published": "2025-12-19",
+    "keyword": "",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "고교학점제"
+    ],
+    "summary": "고교학점제 이수 기준 완화는 학생 간 학력 격차 심화 및 공교육 신뢰도 저하를 야기할 수 있다는 우려를 낳는 결정입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "보건교사 정교사 자격 추진 요구 확산… “교육부, ‘보건’ 과목 수십년 방치”",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=21562",
+    "source": "에듀프레스",
+    "published": "2025-12-19",
+    "keyword": "",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "보건교사의 정교사 자격 부여와 보건 과목 신설 요구는 학교 보건 교육의 전문성을 강화하고 학생 건강권을 보장하는 중요한 계기가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "유은혜, 경기교육감 출마 행보 본격화…‘다시 빛날 경기교육' 출범",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=21559",
+    "source": "에듀프레스",
+    "published": "2025-12-19",
+    "keyword": "",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "유은혜 전 부총리의 경기교육감 출마 행보는 교육계 변화를 예고하며, 교육 정책 방향과 현장 의견 수렴 방식에 대한 심도 깊은 논의를 촉발할 것으로 예상됩니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [],
+  "tech": []
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 교육 확대, 교사의 역할 변화 논의, 고교학점제 개정 논란, 보건 교육 강화 요구 등 다양한 교육 현안 속에서, AI와 디지털 역량 강화 및 교육 시스템 혁신을 통해 미래 교육으로 나아가려는 움직임이 활발하게 이루어지고 있다."
+ }
+}

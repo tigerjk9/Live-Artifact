@@ -1,0 +1,423 @@
+{
+ "date": "2026-05-25",
+ "generated_at": "2026-11-02T11:37:05+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "서울교대 박형빈 교수, 사회정서학습·AI 융합교육 주제로 대만 학술교류 연수단 특별 강연 진행",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41cXB5NzVDSWNCUk4ycWctM2xGU2JfYlR6UlIwcW5kd1dueU1jVV9zU3RvaUpYNVlmTGJ1WXg3ejNNNjJHYWZXOURlamlUQTBQUTdHMVlvb3l4OG1UWGNpOG1uSGZPT0tlejlr0gFvQVVfeXFMUGdaRkpJZ1EwQlIxSmZ1LTdUSFJCRW9kWTZldkk4NGhXN1RpX0RTdzFlUTdOSjlUdmJHX2ZOb1M4NklzVTdVb0tnWXBtOHhoRHlXeUhJOUluaG9SUlM5WExkSUF0ZGU1QWw1UE9XUjJj?oc=5",
+    "source": "구글 뉴스",
+    "published": "2026-05-24",
+    "keyword": "",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "서울교대 박형빈 교수가 대만 학술교류 연수단에 사회정서학습과 AI 융합교육 관련 특별 강연을 했습니다.",
+    "implication": "학생들의 사회정서적 역량 강화를 위해 AI 기술을 활용한 맞춤형 학습 자료를 개발해 볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "“브랜드 진단도 이젠 생성형 AI”..함샤우트글로벌이 선보인 ‘AIBA™’ 특징은? — IT뉴스모아",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSdU5VanByTk1WbTBoQmJ3akFVTXd4dWQ3cWtsMDY2Qk4ycXpIOFdHY09GN2szN3g3aWlmT3JpY2VnQkVaSnZrNm1pSDR5RGhtd1NB?oc=5",
+    "source": "news.dlwlrmaon.com",
+    "published": "2026-05-24",
+    "keyword": "생성형AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "함샤우트글로벌이 생성형 AI 기반 브랜드 진단 솔루션 'AIBA™'를 출시하여 브랜드 진단에 AI를 활용합니다.",
+    "implication": "학생들에게 생성형 AI를 활용한 브랜드 분석 과제를 제시하여 실무 중심의 마케팅 교육을 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "충북교육청, ‘온마을배움터’ 생생한 교육 현장 담은 우수 사례 영상 보급 > 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFA4aVJnQkJyNXp3WnQ0czRFZHcta3FENzJ6M1pTSTd4TWxiNENnZEpVa0dxU0dzaTdYaFlfWjNTUTFQbWs?oc=5",
+    "source": "더코리아",
+    "published": "2026-05-24",
+    "keyword": "교육현장",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "충북교육청"
+    ],
+    "summary": "충북교육청은 '온마을배움터' 우수 사례 영상 보급을 통해 생생한 교육 현장을 공유하고 있습니다.",
+    "implication": "마을 자원을 활용한 다양한 교육 모델을 참고하여 우리 반 학생들에게 맞는 활동을 구상할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[서울교육감 8파전] ① 사교육비 경감·AI·교권회복 내세워 '구애'",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1uMkpmNm1hR1BCNGQ2eUdXbl9RVWtiNndMTFNJX3FpLWNTLXlqN0VnLU5RY1RHWDIwYW44QWhvODVITTNRZml3X0NEUmxfamlLeVBF?oc=5",
+    "source": "네이트",
+    "published": "2026-05-24",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "서울시교육청",
+     "사교육",
+     "교권",
+     "교육감 선거",
+     "개인화 학습"
+    ],
+    "summary": "서울교육감 선거에 8명의 후보가 사교육비 경감, AI 활용, 교권 회복 공약을 내세워 유권자에게 지지를 호소하고 있다.",
+    "implication": "AI 활용 공약 관련, 교육 현장에서 AI 기반 맞춤형 학습 자료 개발 및 활용 방안을 고민해 볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[서울교육감 8파전] ② 청소년자산 펀드·학원 총량제…이색정책 '눈길'",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHYU5oRnppbF9PQXJ2UTkxZVJkZW5OLTZIT21TR1NCV25OZ0VhSTRTbkVkS3J1VzNCRlA0eWQ5R2FwT0RYd1doN1Zuakw5c1JMNWtv?oc=5",
+    "source": "네이트",
+    "published": "2026-05-24",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "서울시교육청",
+     "사교육",
+     "교육감 선거"
+    ],
+    "summary": "서울교육감 선거에 8명의 후보가 출마, 청소년자산 펀드 및 학원 총량제 등 이색적인 교육 정책들이 제시되어 주목받고 있다.",
+    "implication": "교육감 후보들의 청소년 자산 형성 지원 정책을 살펴보고, 학생들에게 경제 교육 및 금융 상품 선택의 중요성을 지도할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "경기도교육청미디어교육센터, ‘미소드림 한마당’ 운영…AI·디지털 시대 진로 체험 강화",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mOXBSNFk2U3R3UXowQ1o0Zm4xZjEtSHRTc2tzY0hJdDY5RlpGdzFsUEtfVFA1bmd0WFl0UG53a1hsLUhvdHRoTm05eHFpVXVGWXNGUzJIQWhyQQ?oc=5",
+    "source": "여성종합뉴스",
+    "published": "2026-05-24",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청미디어교육센터가 AI·디지털 시대 진로 체험 강화를 위한 '미소드림 한마당'을 운영합니다.",
+    "implication": "미디어 교육과 AI/디지털 분야를 융합한 진로 체험 활동을 수업에 참고하여 학생들의 미래 역량을 키울 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "숭실대 AI 교육 모델에 오만 교육부 주목 … 글로벌 협력 가능성 확인",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlNm9mbWRrODNNREIwMkFYUkxSZldKZWZ3YXZraHdSQXFCQVA5TFlVbkVIVk5ENkJfdVppeVRvaTZiSHRzSUdMaDR3SjhhVktFd0Z2MlpEN1lHWFRmbVJSb0lYMmN4YkE?oc=5",
+    "source": "교수신문",
+    "published": "2026-05-24",
+    "keyword": "AI교육",
+    "topic": "global",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "오만 교육부가 숭실대학교의 AI 교육 모델에 관심을 보이며 글로벌 협력 가능성이 제기되었습니다.",
+    "implication": "AI 교육 모델 개발 시, 해외 교육기관과의 협력을 통해 국제적인 경쟁력을 확보할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "\"세종교육감 누굴 뽑지?\"...후보 4인의 공약 분석해보니",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1VOVNpcGVVQ0tqdTNlSEVvbzItbGQzb0xrUG0xRVlDbDNvOXlSWVAzSlBfNHpkaWdxRXdHcThQQ0FzallzTW84eUVNX21MSUpiZHBhUXBNTFBKcTdyUHM4ZkRzUVpoQ1FGazJWdjVjNGpnUQ?oc=5",
+    "source": "굿모닝충청",
+    "published": "2026-05-24",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "세종시교육청",
+     "교육감 선거"
+    ],
+    "summary": "굿모닝충청은 세종시 교육감 후보 4인의 공약을 분석하여 유권자들의 현명한 선택을 돕고자 한다.",
+    "implication": "교육감 후보들의 공약 분석을 통해, 우리 반 학생들에게 필요한 정책이 무엇인지 생각해보고 함께 토론해 볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "서울교육감 8파전…진보 정근식 vs 보수 윤호상",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9RVERNT1VKc0hnVVV0ZXgtY0loSEhvZjExcVhLQVFfYWVidnljSUpmTXFZY3VKYmZzUmxiZXh2MFlLZl8yWjBZOXZGTmRTdThNWWVwMEE1VEd0TEdqY3ljVGdmcko1aFo5aFozTm9QTWJTQQ?oc=5",
+    "source": "톱스타뉴스",
+    "published": "2026-05-24",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "서울시교육청",
+     "교육감 선거"
+    ],
+    "summary": "서울특별시 교육감 선거에서 진보 성향의 정근식 후보와 보수 성향의 윤호상 후보를 포함하여 총 8명의 후보가 경쟁합니다.",
+    "implication": "교육감 선거에 대한 학생들의 관심을 높이고, 다양한 교육 정책에 대한 토론 수업을 진행할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "한동대, 교육부 ‘고교교육 기여대학’ 연차평가서 최고 S등급",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sR3pRMFJGSDdhQVd0ZGNXb0FyUThNZlNsMnNiVUJuSEtVSHFoakRzTHJzLWpadDdMWnNpTTQ4eUQzRmJtOEZ0MERxRHgwQzNBUG12UzJCWDh0dw?oc=5",
+    "source": "경북매일",
+    "published": "2026-05-24",
+    "keyword": "교육혁신",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [
+     "교육부",
+     "수능·대입"
+    ],
+    "summary": "한동대학교가 교육부의 고교교육 기여대학 연차평가에서 최고 등급인 S등급을 받았습니다.",
+    "implication": "한동대 사례를 통해 학교 교육과정-대입 연계 노력의 중요성을 강조하며, 학생 맞춤형 진학 지도를 강화할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Teacher Preparedness for AI-Integrated Classrooms in Jammu District of Jammu and Kashmir: Challenges and Professional Development Needs",
+    "url": "https://doi.org/10.36948/ijfmr.2026.v08i03.78895",
+    "source": "openalex",
+    "published": "2026-05-23",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "본 연구는 잠무 지역 교사들의 AI 통합 교육 준비도를 조사하여, 도시-농촌 간 인프라 격차, 윤리적 문제, 전문성 개발 필요성을 확인하고, 공정한 기술 접근성, 지속적인 지원, 윤리 의식 함양이 AI 교육 성공의 필수 조건임을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "MOHD KALES",
+    "pdf": "https://www.ijfmr.com/papers/2026/3/78895.pdf"
+   },
+   {
+    "n": 2,
+    "title": "Assessing the Effectiveness of the School Learning Action Cell in Addressing Teachers' Needs in Malbug National High School",
+    "url": "https://doi.org/10.65339/ijsair.v2.i2.470",
+    "source": "openalex",
+    "published": "2026-05-23",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "말부그 국립 고등학교의 학습 활동 그룹(LAC) 운영 수준과 교사 전문성 개발 효과를 조사한 결과, LAC의 체계적인 운영이 교사의 협력, 수업 개선, 전문적 성장에 긍정적인 영향을 미치는 것으로 나타났으며, 이는 지속적인 교사 개발과 교육 질 향상에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Darlon Labao",
+    "pdf": "https://www.ijsair.com/index.php/ijsair/article/download/569/543"
+   },
+   {
+    "n": 3,
+    "title": "A 2‐Year Analysis of Peer Tutoring in Dental Education: Enhancing Student Learning and Developing a Faculty Pathway",
+    "url": "https://doi.org/10.1002/jdd.70266",
+    "source": "openalex",
+    "published": "2026-05-22",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "AI 튜터"
+    ],
+    "summary": "본 연구는 치과대학에서 또래 튜터링 프로그램이 1학년 학생들의 학습 성취도를 향상시키고 미래 치과 교수를 양성하는 데 기여하며, 설문 조사 및 학업 성적 분석 결과 또래 튜터링을 받은 학생들의 성적 향상이 두드러졌고 튜터들은 교육 역량 강화를 통해 학계 진출 의향이 높아짐을 확인합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Andrew Nguyen, Raphael Garcia 외 1명",
+    "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jdd.70266"
+   },
+   {
+    "n": 4,
+    "title": "Augmented Reality (AR) Based Virtual Lab: A Survey on Interactive AR Learning Platforms and Educational Applications Using Deep Learning Techniques",
+    "url": "https://doi.org/10.17148/ijarcce.2026.155231",
+    "source": "openalex",
+    "published": "2026-05-22",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 딥러닝 기반 AR 가상 실험실의 교육적 활용을 심층적으로 분석하고, AR 기술이 기존 실험 환경의 제약을 극복하여 학습 효과를 향상시킬 가능성을 제시하며, 향후 AI, 클라우드 기반 AR, 개인 맞춤형 가상 실험실 발전 방향을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Meena G, Mayurakhi Maiti 외 1명",
+    "pdf": "https://doi.org/10.17148/ijarcce.2026.155231"
+   },
+   {
+    "n": 5,
+    "title": "ADDIE-based evaluation of the Math-ReToKiss toolkit for struggling Mathematics learners",
+    "url": "https://doi.org/10.63498/injelps72",
+    "source": "openalex",
+    "published": "2026-05-23",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "ADDIE 모델 기반 평가 결과, Math-ReToKiss 툴킷은 수학 학습 부진 학생들의 이해도 향상, 참여도 증진, 문제 해결 자신감 고취에 효과적이며, 사용자 친화적이고 다양한 학습 요구에 맞춰 활용 가능하여 고등 교육에서 지속 가능한 혁신을 지원합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "",
+    "pdf": "https://doi.org/10.63498/injelps72"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "MS, 차세대 브라우저 에이전트 ‘파라1.5’ 공개…\"오픈AI·구글 성능 추월\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210879",
+    "source": "AI Times",
+    "published": "2026-05-24",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Microsoft",
+     "에이전트",
+     "OpenAI",
+     "Google"
+    ],
+    "summary": "MS의 파라1.5는 브라우저 에이전트 기술 경쟁 심화를 예고하며, AI 생태계 내 주도권 확보를 위한 기업들의 기술 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "오픈AI, '코덱스' 업데이트로 맥락 파악·자율성 강화...\"맥북 닫아도 작동\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210864",
+    "source": "AI Times",
+    "published": "2026-05-23",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "오픈AI의 코덱스 업데이트는 AI 개발 도구의 자율성 및 사용 편의성을 높여 개발 생산성 향상과 AI 생태계 확장에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "Anthropic may keep supplying Claude to the NSA despite being flagged as a supply chain risk by the Pentagon",
+    "url": "https://the-decoder.com/anthropic-may-keep-supplying-claude-to-the-nsa-despite-being-flagged-as-a-supply-chain-risk-by-the-pentagon/",
+    "source": "The Decoder",
+    "published": "2026-05-24",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude"
+    ],
+    "summary": "Anthropic의 NSA 공급 지속은 AI 기업의 안보적 역할과 정부 기관과의 협력 윤리에 대한 논쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "피차이 \"구글 코딩, 타사에 뒤져...데이터 선순환 구조로 역전할 것\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210871",
+    "source": "AI Times",
+    "published": "2026-05-23",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Google",
+     "코딩 AI"
+    ],
+    "summary": "구글의 코딩 경쟁력 열세 인정은 AI 데이터 선순환 구조 강화 전략으로 이어져, AI 기술 경쟁의 새로운 국면을 예고할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[오늘의 게임·IT 소식]두나무, AI 에이전트용 API 활용 지침 '업비트 스킬' 출시 外 : 네이버 블로그",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPalJLRnN2OUNNNGNzUFpySHhQZHl4VWFGLVg2cmxaeUZLMjVtQjVGNUc0MFB2U0xrUmVnVm5mdW1FQl8wYkk0RXgxTlR6bDBCeTNLb0hiX1FMS0NpOEd1YnNmZ2l4M0VMei1KemJPLUpxVUU3NHFLWVpBNm11VGJETi1zeHp0LWdLa1FKMFBRaw?oc=5",
+    "source": "Naver Blog",
+    "published": "2026-05-24",
+    "keyword": "API",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "에이전트",
+     "네이버"
+    ],
+    "summary": "두나무의 '업비트 스킬' 출시는 AI 에이전트 기반 금융 서비스 확장을 촉진하고 관련 시장 경쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "\"재주는 챗GPT가 넘고 돈은 애플이?\"…AI 앱 수수료로만 1조원 `훌쩍`",
+    "url": "https://news.google.com/rss/articles/CBMiggdBVV95cUxOeWJRUFprOHQwNU82RVRxbDNfckVibHBMdm53RjhHOS1KOFVWbUlKY0l6dnFqMlk0MFN1bTQ1TnZMV21IUVpRZHN2X3kyd0JYY3lxQ1o5SndnOWM3MUQ5N2tJeWRRM2h1ZlNBbjE4a2NFbWVydWNibHpBZk5paU96RTlIUGxnSFZKY0xsNWhlTm1XSXUwZllGNGZBSXFBbFl3X2ZRWnV4QW5nLXRmREpTa2NoZ1lCdnNBVk1FMXV0UGtIUXJIcFgxREhjN19qTzBEeGhwMjlzOUg1dHFkazZ4WHpSTUN0UTlmOTByQUhHM0xDakF0NHhBeVpKQnRLeTFmdTRpMHhzd3N0eDBuVFl5by1VbUZaWWZWY19PTWp3dExMVTBiVEFGOV9nTENGeV8tc2NmdTV0NUpxTnp6V09yREJiMlM0Y2ZLckVOYzdUYWtTdk1iU1l6M3ROX0x5a014cGN1blJWZlhaNU4zamtpeXhESnVraS1ReWVIOXJWOVpyZ2VuaURBTUpySGpvN2phc0NwZVNOMXhiX3JPbTRCQW9IQUU5a3VTdUg0dzh0UkpIeTZ0UVdtSE50WEZ4MldGVDduSVdNdmRIYXk1T0t5ZUd4cUJYRXNodGJWNGgycUZ1a2UxRHliRXh1aVkySk5obUcxWjNDRnRYSzFtT3E4c0w1aHo5Nl9aVHN5cEpqVVdROG5EOUd6QkVDVVVCdkRmeVhkVFZ1YjEyNGR6OUhVTjIxUDQ3ZFFuSE1MNnNnRnU4Q1ZHX3ZmNzd4MU1mZmlpa1ItbldpWDhzS282bXZnanh0VzlRTDNmN1ljd3c0MnJsdnV1b0xabnJSN2xXMDhJeU9MekRsaGk2cUI4b1BEMUs3VnBOSUVvNW9BVjdqemlJdzNmd3l5d2dMcnFVdjh5S0F5RHFNX1B2eWlSV0dqbjJKSTM3eTBSVFhmOU1SMHFVZXczbndsd0FCV200ZnBVMGIwMWZyN0FuNFYzY2tRUEpqb1hkM3czRWNPWFNKbFJRbllyaTJMQk1FNHNKZzhVYlFXLURHc2s5OTdKZFhCbURQT0F1NF85THBRWDF6ZHZIUEZBcG1lcW1CYWdsTEQ0bnFaWEt2Q1pHM1d4WUg4T3V4bHJTWWJGcWxXMms4US1FUnJzLXA0T0ZzX0N5dnVXTHJ2YWdHNGhxLXo1ZWxRckR3?oc=5",
+    "source": "디지털데일리",
+    "published": "2026-05-24",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Apple"
+    ],
+    "summary": "AI 앱 생태계에서 플랫폼 수수료 정책이 혁신 기업의 수익성을 제한하고, 궁극적으로 AI 기술 발전의 동기를 저해할 수 있다는 점을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "이전 프롬프트는 버려라! GPT-5.5 완벽 활용 비법",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9aeHRnQUYtWDE1bVZtOU9CRm9aLTVuOUJFbkxkNW0tZ0R3M0xfQldDaVg3Zjh2dHo3V21mSFpGQmdWdGpKWmxr?oc=5",
+    "source": "브런치",
+    "published": "2026-05-24",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT 모델 성능 향상은 AI 기술 경쟁 심화와 더불어, 사용자 맞춤형 AI 활용 역량의 중요성을 더욱 부각시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "Deepseek makes its 75 percent discount permanent, pricing output tokens at least 34x below GPT-5.5",
+    "url": "https://the-decoder.com/deepseek-makes-its-75-percent-discount-permanent-pricing-output-tokens-at-least-34x-below-gpt-5-5/",
+    "source": "The Decoder",
+    "published": "2026-05-23",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "오픈소스"
+    ],
+    "summary": "Deepseek의 파격적인 가격 정책은 AI 모델 시장의 경쟁 심화를 촉발하고, 특정 분야에선 오픈소스 모델의 영향력을 확대할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "카카오 '성과급 파업' 분수령…AI글라스 낀 삼성·구글[뉴스잇(IT)쥬]",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Nc1BlUG1SY3IwOGxlZFl4M1l0WkQwV2QtUWEzcUM5OHJnYjB3SFBDMkRPWThRbENGekhjeTU2TW0ySlJxeWttTkMtY1lIbHQ5Z2NWbFJ5Mk1wdw?oc=5",
+    "source": "뉴스1",
+    "published": "2026-05-25",
+    "keyword": "구글",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "카카오",
+     "삼성",
+     "Google"
+    ],
+    "summary": "카카오 성과급 논란은 AI 인재 확보 경쟁 심화 속 공정한 보상체계 구축의 중요성을 부각하며, AI 글래스 경쟁은 관련 시장 성장과 기술 발전을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

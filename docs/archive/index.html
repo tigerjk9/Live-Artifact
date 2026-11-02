@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="ko" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#0f172a">
+  <title>Daily Intelligence — 전체 아카이브</title>
+  <meta name="description" content="교육 뉴스·AI 논문·AI 기술 뉴스 일일 브리핑의 전체 아카이브. 날짜별 열람과 전 기간 제목 검색.">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://tigerjk9.github.io/Live-Artifact/archive/">
+  <link rel="manifest" href="../assets/manifest.json">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Daily Intelligence — 전체 아카이브">
+  <meta property="og:description" content="교육 뉴스·AI 논문·AI 기술 뉴스 일일 브리핑 전체 아카이브">
+  <meta property="og:url" content="https://tigerjk9.github.io/Live-Artifact/archive/">
+  <meta property="og:image" content="https://tigerjk9.github.io/Live-Artifact/assets/og-image.jpg">
+  <meta property="og:locale" content="ko_KR">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght,SOFT,WONK@0,9..144,300..900,0..100,0..1;1,9..144,300..900,0..100,0..1&family=Hahmlet:wght@300..900&display=swap">
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+  <link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/npm/pretendard@1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css">
+  <link rel="stylesheet" href="../assets/style.css">
+</head>
+<body data-page="archive" data-root="../">
+
+  <a class="skip-link" href="#main-content">본문으로 건너뛰기</a>
+
+  <header class="masthead" role="banner">
+    <div class="masthead-inner">
+      <div class="masthead-top">
+        <span class="masthead-date" data-live></span>
+        <span class="masthead-issue">전체 아카이브</span>
+        <span class="masthead-legend" aria-hidden="true"><span><i class="dot dot-edu"></i>교육</span><span><i class="dot dot-paper"></i>논문</span><span><i class="dot dot-tech"></i>기술</span></span>
+      </div>
+      <a class="nameplate" href="../index.html">Daily <em>Intelligence</em></a>
+      <p class="masthead-sub">교육 · 논문 · AI 기술, 하루 한 번의 지면</p>
+    </div>
+  </header>
+
+  <div class="site-header">
+    <div class="header-inner">
+      <div class="brand">
+        <span class="brand-signal" aria-hidden="true"></span>
+        <a class="brand-name" href="../index.html" aria-label="Daily Intelligence 홈">DI</a>
+        <span class="brand-tag" aria-hidden="true">Daily Intelligence</span>
+      </div>
+      <nav class="site-nav" aria-label="사이트 메뉴">
+        <a class="site-nav-link" href="../index.html" data-nav="daily">오늘</a>
+        <a class="site-nav-link" href="./" data-nav="archive">아카이브</a>
+        <a class="site-nav-link" href="../trends.html" data-nav="trends">흐름</a>
+      </nav>
+      <div class="header-right">
+        <time class="header-date"></time>
+        <button class="theme-toggle" aria-label="테마 전환" title="라이트/다크 전환">
+          <span class="theme-icon">◐</span>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <div class="search-bar-wrap" role="search" aria-label="전체 기간 검색">
+    <div class="search-bar-inner">
+      <svg class="search-icon" aria-hidden="true" width="15" height="15" viewBox="0 0 15 15" fill="none">
+        <circle cx="6.5" cy="6.5" r="5.25" stroke="currentColor" stroke-width="1.4"/>
+        <path d="M10.5 10.5L13.5 13.5" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/>
+      </svg>
+      <input type="search" id="arch-search" class="search-input"
+             placeholder="전 기간 제목·출처 검색… 예) 디지털교과서, OpenAI 교사"
+             aria-label="전체 기간 검색" autocomplete="off" spellcheck="false">
+      <span class="search-count-badge" aria-live="polite" aria-atomic="true" hidden></span>
+      <button class="search-clear" type="button" aria-label="검색어 지우기" hidden>✕</button>
+    </div>
+  </div>
+
+  <main class="page-wrap" id="main-content">
+    <div class="page-head">
+      <div>
+        <h1 class="page-title">전체 아카이브</h1>
+        <p class="page-sub">첫 수집일부터 오늘까지의 모든 브리핑입니다. 날짜 카드를 열면 그날의 흐름 보드와 소식 전체를 볼 수 있고, 위 검색창은 전 기간 제목을 한 번에 찾습니다.</p>
+      </div>
+      <div class="stat-row" id="arch-stats" aria-live="polite"></div>
+    </div>
+
+    <section class="arch-results" id="arch-results" hidden aria-live="polite"></section>
+
+    <div id="arch-months"><p class="page-loading">아카이브 목록을 불러오는 중…</p></div>
+  </main>
+
+  <footer class="site-footer">
+    <a class="profile-card" href="https://litt.ly/dot_connector" target="_blank" rel="noopener noreferrer" aria-label="닷커넥터 김진관의 링크 페이지로 이동">
+      <img class="profile-photo" src="../assets/facilitator.png" alt="닷커넥터 김진관" width="64" height="64" loading="lazy">
+      <span class="profile-name">닷커넥터<span class="profile-name-sub">(김진관)</span></span>
+      <span class="profile-bio">배움, 나눔, 성장을 추구하는 연결주의자</span>
+      <span class="profile-link-hint">litt.ly/dot_connector ↗</span>
+    </a>
+    <div class="footer-meta">
+      <a class="footer-link" href="../index.html">← 오늘 브리핑</a>
+      <a class="footer-link" href="../trends.html">흐름 보기</a>
+      <a class="footer-link" href="https://github.com/tigerjk9/Live-Artifact" target="_blank" rel="noopener noreferrer">GitHub ↗</a>
+    </div>
+  </footer>
+
+  <div class="toast-container" aria-live="polite" aria-atomic="true" aria-relevant="additions"></div>
+
+  <script src="../assets/app.js"></script>
+  <script src="../assets/archive.js"></script>
+</body>
+</html>

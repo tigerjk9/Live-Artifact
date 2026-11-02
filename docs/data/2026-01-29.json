@@ -1,0 +1,411 @@
+{
+ "date": "2026-01-29",
+ "generated_at": "2026-11-02T11:51:25+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[김현태 칼럼] 성공한 혁신보다 준비 없는 실험, 이해찬의 교육 개혁",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=21684",
+    "source": "에듀프레스",
+    "published": "2026-01-27",
+    "keyword": "",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "이해찬식 교육 개혁은 이상적인 목표에도 불구하고, 충분한 준비와 현장과의 소통 부족으로 교육 현장에 혼란을 야기할 수 있다는 교훈을 줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[사경희 이사장 칼럼] 디지털 소외를 넘어 ‘삶의 주도권’으로: 어르신 스마트폰 교육의 본질",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2STAxZkRERHZOb1gzZFVidDVWZnpPeVNHUWo5bkxENlZUaUZJQXBIdWNTeHMteWNCMjFscG00UDN2V200Y1RUcDFyWFlXUFkyUmpkWXZ4R3NPQTd1aU4yUUNjRFl0SmdZejR6YQ?oc=5",
+    "source": "캐어유 뉴스",
+    "published": "2026-01-28",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "어르신 스마트폰 교육은 디지털 격차 해소를 넘어 삶의 주도성을 강화하는 평생교육 관점에서 재설계되어야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[칼럼] 공공저작물 인공지능 시대의 공공 인프라로 활용해야",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE82c0ZOWERRbWxCUG5VcklDQW4tZ0kyT081MzI0OEdmakxYN2diRWVNUk1Ea1RUYmpqTEhvYUdBZmtRMFdMMHlJ?oc=5",
+    "source": "정필",
+    "published": "2026-01-28",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "공공저작물을 활용한 AI 교육 콘텐츠 개발 및 보급은 디지털 교육 격차 해소와 학습 효과 증진에 기여할 수 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[기고]미래는 왜 컨벤션도시로 모이는가",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Samwxb2M4TzdESlR3TjZoZkp5bnNDQ1A1T1BwYWJVSDRBZ2xtVUREQnZYN0R3OWNvOUxyTjBYU3BhZUpaaTdKVEQ1YmxDOVJHeWliZGNFUjlDMEd4SllKbTJGdC1qd0pPVlBDczFB?oc=5",
+    "source": "ulsanilbo.co.kr",
+    "published": "2026-01-28",
+    "keyword": "미래기술",
+    "topic": "global",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "컨벤션 도시 발전은 교육계에 융합적 사고와 국제적 협력 역량을 키울 수 있는 학습 기회 제공의 중요성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[기고] AI와 블록체인이 그리는 금융의 미래: 이제 마케팅은 '진심'을 전하는 기술이다",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RNm05WjBfX2FLZFNVMFZxcWczRF9uSUtnWkVWVnVNQ3RNLVNGUUtYSmRJLUxaaGFHd183bzBWTHZBWThOd2cwLXFwNndOSWNRNzNzdXY2RXI0U25iZHQtYTVqSEk3dzdRVFk0Tlhack7SAXRBVV95cUxNVTFsTTZ1QlJScEVsTHp1Q2xuYS03UjdTQ1VyQktjdVRuTWNra3hjTVJxOUdNbzViUllQUkNpVXVocTh2VHN6RUtsUTg4V1FOUHEwS0d6WElqSkNYYXVVRy11Y0duY1ZHQk0tclRSQThqX3FJbg?oc=5",
+    "source": "더페어",
+    "published": "2026-01-28",
+    "keyword": "미래기술",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "AI와 블록체인 기반 금융의 발전은 교육 현장에서 학생들에게 진정성 있는 소통과 공감 능력 함양의 중요성을 강조해야 함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "[연중기획 기고] “이상근의 피지컬 AI로 돈 버는 물류 조건”",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE85Umx2YVJITlRFUTIxRzlXMFBnYUswMEUwTGZUbUx6NFA4X2pfZHhuLWlhM2ViZ0E1NUgycU1FMlV4azJ0ZFVvVXM5REtySzNHVHRrUEhtV1BTcmJDc1djUGxMeEw1YXlsanZj?oc=5",
+    "source": "물류신문",
+    "published": "2026-01-28",
+    "keyword": "미래기술",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "물류 분야의 피지컬 AI 활용 증가는 관련 교육 과정에 자동화 및 AI 기반 직무 역량 강화를 요구하는 시대적 변화를 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "[진영아 칼럼] ‘독서 골든타임’이 꽃피울 민주시민의 품격",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=21692",
+    "source": "에듀프레스",
+    "published": "2026-01-29",
+    "keyword": "",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "국가 차원의 독서 생태계 구축 노력은 AI 시대에 필요한 질문하는 능력을 키워 미래 사회의 핵심 역량을 강화하는 데 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "[신간산책] '엄마의 말투가 바뀌면 아이 뇌는 기적이 일어난다' - 40년 현장 경험과 뇌과학으로 밝혀낸 ‘따뜻한 말투’의 힘!",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE00ZUp0VW83bEhISUlpSEJWRGFXRHV6YWpTVm5aeF84dUJ0YVZsOU9od3RiSkctcW9ZQ3RCSFFjaFpXdTVmYUl6dnhycV9aNTVpUEJ2a1oxQW1DUHpiZmxDaFRsVzNFQUZNZnZF?oc=5",
+    "source": "베리타스알파",
+    "published": "2026-01-28",
+    "keyword": "뇌과학",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "교사의 언어 습관이 학생의 뇌 발달과 정서적 안정에 중요한 영향을 미치므로, 긍정적 소통을 위한 교사 연수 및 실천적 노력이 필요합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "열린사이버대 뷰티건강디자인학과, 뇌과학 융합 공개특강 열어",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PN2FWbUl1Zk9DRHdlczczRHNZSC1CdW81S0pPcXAzS2FCN2hvbEoxZHlVVVJZVFhRSXBoTVRxT2pyZXFpV3RoR1ZmaE44dkl2eFZZWndjUDlLejhGUWt0NngydVB5SFU5TmZJNkdSRdIBc0FVX3lxTFB3RlNZdERYaUxPQlB2bHZNZTVNWlEzRF9fVzRHSmpzRGx2eGt5MEg1ektUc0g3NVRCYloyUkMwSGNnWVdlYjJVNTB4TzNDS21XNGEyZlZseHJFRkszdmJmT29VQ3NjMU9UN2tXQTQwSVFSdDg?oc=5",
+    "source": "여성신문",
+    "published": "2026-01-28",
+    "keyword": "뇌과학",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [],
+    "summary": "뇌과학 융합 교육은 뷰티·건강 분야의 전문성을 심화하고, 교육 혁신을 가속화하는 중요한 시도입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "[산학협력이 미래다] ‘AI 수업 시대’ 교원양성 대학들, ‘AI 신뢰성’ 교육 강화 움직임 잇따라",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9EYkk3QTdHaU15a1kzY0J6ekJULXhLU1V5NFRrOEVEb2lPckYwUldyM0VSMDVtOF9KTWVNMjFGeWhIV1UxZElrNnBkcHk1aEcxV05vRnR5UlRibEZldUt4S0JFLUNIUQ?oc=5",
+    "source": "한국대학신문",
+    "published": "2026-01-28",
+    "keyword": "AI디지털도구",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 시대 교원 양성에서 AI 신뢰성 교육 강화는 미래 교육의 질을 담보하는 필수적인 투자입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "AI literacy as a core component of AI education",
+    "url": "https://www.semanticscholar.org/paper/18fbb8fcfd5ac004c1392a3bcd644ab1e82fb0d8",
+    "source": "semantic_scholar",
+    "published": "2025-06-01",
+    "keyword": "AI education",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [
+     "AI 리터러시"
+    ],
+    "summary": "이 논문은 사회 전반에 걸쳐 중요해지는 AI 리터러시 함양을 위해, 기술적 이해, AI 상호작용, 윤리적 사용, 사회적 영향 분석이라는 4가지 핵심 요소를 중심으로 다양한 학생들을 위한 입문 AI 교육 과정 설계 프레임워크를 제시하고, 향후 AI 교육의 방향성을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Sri Yash Tadimalla, Mary Lou Maher",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "Can flipped classroom pedagogy offer promising perspectives for mathematics education on pandemic-related issues? A systematic literature review",
+    "url": "https://www.semanticscholar.org/paper/5b9c8209a32806f8447711f33e48c5b8c92db67a",
+    "source": "semantic_scholar",
+    "published": "2022-06-28",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "COVID-19 팬데믹 상황에서 수학 교육의 문제점을 해결하기 위해 플립 러닝(Flipped Classroom)의 기회와 단점을 체계적 문헌 고찰을 통해 분석한 결과, 위기 대응력을 높이는 데 기여할 수 있는 유망한 교수법임을 밝혀냅니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Mustafa Cevikbas, G. Kaiser",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Artificial Intelligence in Education: Mathematics Teachers’ Perspectives, Practices and Challenges",
+    "url": "https://www.semanticscholar.org/paper/5ce32325fa9ded5b2567a18945081b8c28182f86",
+    "source": "semantic_scholar",
+    "published": "2024-01-03",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "아부다비의 수학교사 580명을 대상으로 AI 시스템 활용에 대한 인식과 어려움을 조사한 결과, 교육적 도구로서의 AI 가능성과 활용상의 어려움을 확인했으며, 특히 석사 학위 소지 교사들은 AI 적용에 더 큰 어려움을 겪는 것으로 나타나 향후 AI 교육 통합을 위한 지침 마련에 기여할 것으로 기대합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Y. Wardat, Mohammad A. Tashtoush 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "Voice-Based Chatbots for English Speaking Practice in Multilingual Low-Resource Indian Schools: A Multi-Stakeholder Study",
+    "url": "http://arxiv.org/abs/2601.19304v1",
+    "source": "",
+    "published": "2026-01-27",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "인도 저소득 학교에서 음성 기반 챗봇을 활용한 영어 회화 연습의 효과를 다각적으로 분석한 결과, 학생들의 자신감 향상과 높은 수요를 확인했으며, 향후 AI 교육 기술 설계 시 사용자 요구와 학교 환경을 고려해야 함을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Sneha Shashidhara', 'Vivienne Bihe Chi' 외 3명",
+    "pdf": "http://arxiv.org/pdf/2601.19304v1"
+   },
+   {
+    "n": 5,
+    "title": "Artificial Intelligence-Based Simulation Research on the Flipped Classroom Mode of Listening and Speaking Teaching for English Majors",
+    "url": "https://www.semanticscholar.org/paper/e93b4ab11bdab1e514f4751d03f7754c9a3708a5",
+    "source": "semantic_scholar",
+    "published": "2021-10-27",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 인공지능 기반의 플립드 러닝 모델을 영어 전공 듣기/말하기 수업에 적용하여 학생들의 자기 주도 학습 능력과 영어 성적 향상에 긍정적인 영향을 미치는 것을 실험적으로 입증하고, 교육 방식 개선에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Si Wu, Fei Wang",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "[AI, 이제 창의성 테스트에서 평균 인간 능가... “하지만 최고 수준 인간은 여전히 넘지 못했다”] OpenAI의 GPT-4, 구글의 Gemini Pro 1.5, 메타의 Llama 3·4 등 주요 언어 모델이 모두 인간 평균 점수보다 높게",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1qVzFnOFB2SndnSzFpdnpjRThYU3YtS2UxcFRJSEoyUThydkpZazU5cXFFNlRzaEVzUlMzYnk3SXo?oc=5",
+    "source": "AI넷",
+    "published": "2026-01-28",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT",
+     "Google",
+     "Gemini",
+     "Meta"
+    ],
+    "summary": "AI의 창의성 점수 향상은 콘텐츠 생산성 증대에는 기여하겠지만, 최고 수준의 창의적 작업은 여전히 인간 고유의 영역임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "﻿구글, 검색 엔진에 ‘제미나이 3' 도입...’AI 모드’로 맥락 이해 강화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=206080",
+    "source": "AI Times",
+    "published": "2026-01-28",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Google",
+     "AI 검색",
+     "Gemini"
+    ],
+    "summary": "구글의 제미나이 3 도입은 검색 품질 향상을 넘어 AI 검색 경쟁 심화와 사용자 경험 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "\"애플·구글, '그록' 같은 수십개의 AI ‘누드’ 앱 호스팅\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=206061",
+    "source": "AI Times",
+    "published": "2026-01-28",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "Apple",
+     "Google",
+     "xAI"
+    ],
+    "summary": "AI 악용 앱 유통은 플랫폼의 책임 회피와 윤리적 문제점을 드러내며, AI 기술 신뢰도 하락과 규제 강화로 이어질 수 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "아크릴, 자체 AI 플랫폼 ‘로봇 시스템’과 연동…”피지컬AI 영역 진출”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=206072",
+    "source": "AI Times",
+    "published": "2026-01-28",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "로봇·휴머노이드"
+    ],
+    "summary": "아크릴의 피지컬 AI 영역 진출은 AI 플랫폼 생태계를 확장하고, 로봇 산업과의 융합을 가속화할 중요한 발걸음입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "OpenAI's Prism combines LaTeX editor, reference manager, and GPT-5.2 in one tool",
+    "url": "https://the-decoder.com/openais-prism-combines-latex-editor-reference-manager-and-gpt-5-2-in-one-tool/",
+    "source": "The Decoder",
+    "published": "2026-01-28",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "OpenAI의 Prism은 연구 생산성 증대를 통해 AI 연구 생태계를 가속화하고, 학술 및 기술 문서 작성 시장에 지각 변동을 일으킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "샘 알트먼의 자신감…2027년까지 AI 가격 100배 낮출 것",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=206055",
+    "source": "AI Times",
+    "published": "2026-01-29",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "AI 가격 혁신은 기술 접근성을 높여 다양한 산업 분야에서 AI 활용을 가속화하고 새로운 비즈니스 모델 창출을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "OpenAI’s latest product lets you vibe code science",
+    "url": "https://www.technologyreview.com/2026/01/27/1131793/openais-latest-product-lets-you-vibe-code-science/",
+    "source": "MIT Technology Review",
+    "published": "2026-01-27",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "OpenAI의 Prism은 과학 연구에 LLM을 통합하여 생산성을 높이고, 폐쇄적인 AI 모델의 과학 분야 확장 가능성을 보여주는 사례입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "[Airtable, '슈퍼에이전트'로 AI 에이전트 시장 진입... “완전히 새로운 챕터의 시작”] 진정한 자율성과 동적 조정 능력을 갖춘 시스템은 Anthropic의 Claude와 Meta가 인수한 Manus, 그리고 슈퍼에이전트뿐",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5vSkJINE1iWWw1bG5mdUY4anNyWUV5UjU2TFZMdUlxS21VNnY4Qmx3a1N0TXhOQ010QlZaQWtLb28?oc=5",
+    "source": "AI넷",
+    "published": "2026-01-28",
+    "keyword": "Anthropic",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "에이전트",
+     "Anthropic",
+     "Claude"
+    ],
+    "summary": "Airtable의 슈퍼에이전트 출시는 AI 에이전트 시장 경쟁 심화와 함께, 로우코드 플랫폼의 AI 통합 가속화를 의미합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "Rules fail at the prompt, succeed at the boundary",
+    "url": "https://www.technologyreview.com/2026/01/28/1131003/rules-fail-at-the-prompt-succeed-at-the-boundary/",
+    "source": "MIT Technology Review",
+    "published": "2026-01-28",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 모델의 보안 취약점을 악용한 공격 사례 증가는 AI 기술 신뢰도 하락과 규제 강화로 이어져 산업 성장에 제약 요인이 될 수 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "챗GPT에 이어 구글도 월 1만원대 'AI요금제' 한국 상륙…가격전쟁",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82TWYwRUxHRnV1YUJvNDJVM21KcDY5M1hOT3R5YTctUnFqOERaSkFWN3lneGFoVkJrNS1Dck9jN3dGUXZmZHZWWWF4ZFdjYlQyeXI4?oc=5",
+    "source": "네이트",
+    "published": "2026-01-29",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Google"
+    ],
+    "summary": "구글의 AI 요금제 도입은 챗GPT와 함께 AI 서비스 대중화를 가속하며, 가격 경쟁을 통해 사용자 접근성을 높일 것으로 예상됩니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 시대, 교육은 디지털 소외 극복, AI 신뢰성 강화, 뇌과학 융합 등 다각적인 혁신을 통해 미래 사회를 위한 주도적인 인재 양성에 박차를 가하고 있습니다.",
+  "tech": "AI 기술은 성능 향상, 다양한 분야와의 융합, 가격 경쟁 심화와 더불어 에이전트 시장 확장을 통해 더욱 광범위하고 사용자 친화적인 방향으로 빠르게 진화하고 있다."
+ }
+}

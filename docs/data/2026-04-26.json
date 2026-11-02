@@ -1,0 +1,422 @@
+{
+ "date": "2026-04-26",
+ "generated_at": "2026-11-02T11:35:30+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "경기도교육청, 예술교육에 AI 접목…교원 수업혁신 실험 확대",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBKTThScERXYzVyQ05zN0FQQU5hckxJT0NwM291elZUamYxal91cU5ydS1ZOWtiWVRBRUVQVS1UN0NtNEs3Z1BHNmswQ240bHl3ZzVDZ005SEhBMGk2Nmw1VFY2Nm1Cb205OEk3TFJpYXI4ZFk?oc=5",
+    "source": "오늘경제",
+    "published": "2026-04-25",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 2,
+    "title": "김성제 의왕시장 후보, ‘교육은 말이 아니라 실행’…의왕 교육정책 성과 공개!",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pTlRMcTNhT1RDRU5OeGUtZVVWbnQyMHBnajF2enNWZ1B6NXRoTWpGV2hZdXUtdVRFa0hCQS1vaG1VZEp3ZFpSS2RmLW5wemw2dmJhMk1pN1FIZE5DcjczQ0lmVUtLZFZBUC1HZnNn0gFyQVVfeXFMTThNR203UmkxMjBwTDNRRU9LbFhfb3VQUTR3OGFQenYybDlaRWRISGxnZEhXeWlqQkl5dE1xNzh3YnllcXAwVDdsel83Mlp3SkVFdzFvaEJqWkFYaVl3Ty1HazdyTnk5MEptOE9JcktlelpR?oc=5",
+    "source": "엔디엔뉴스",
+    "published": "2026-04-25",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 3,
+    "title": "AI 디지털교과서 세대의 대학 진입, 지금이 골든타임이다",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Mb3c3T3pWUlVnLUlYQi1zdHEtZFRmallWdEtZQUZnOWQ4aUtldkRuTDFCWFdEZ013NGFzWS0tR2tZUmFBLTgzNU9JTE55UWZ0NVdwVDZmcjgtWDJOZ2J3SWg5OUhEcVIweTBQZA?oc=5",
+    "source": "대학지성 In&Out",
+    "published": "2026-04-25",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "AI 디지털교과서"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 4,
+    "title": "문학 전공까지 스며든 생성형 AI… 대학가 창작 방식 바뀐다",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jMFc0c2s1NkJFNEZ3a19Nc255SHdIcS1qaGhsc0tCaFlsZlZZdlZiQTg3SjVWeFRabElEdS1EaHZGNFpRTlVHWFVRSGVabmF6eWlVS0o5dTBxZ0Z2WmhWWE5MRjlZa0hUR1JGV0pvNFnSAXRBVV95cUxPNGxOVFJGN3hoaThPM3F6SlZsZkNJMmlQZmpEdVJuTlhPNzNCOFJsakNqdVNCWEZUbEVKMEc4UkZ5MHphWGxfX2IxS05EVEotcnFwMnh5MS0xVklwd2J6cE1fMWxKUERSLTJsMW4yd0NyMHJLNw?oc=5",
+    "source": "IT조선",
+    "published": "2026-04-25",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 5,
+    "title": "경기도교육청, 예술과 감성 잇는 ‘미래형 수업디자인’ 가동",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Mc0JlUU5LYjdaTjBrNURCZjVtNldNY3FWbmlrX3U1aGtCWDUzMThVVlJxNUxQWDZOM2s5c0pQUkdRa3dDS2JXRFQ1TlhOc3NPWWhQZy0xbkRoLVRqTlE?oc=5",
+    "source": "세계환경신문",
+    "published": "2026-04-25",
+    "keyword": "인공지능교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 6,
+    "title": "경기도교육청, 음악·미술 교사 100명 미래형 예술수업 연수…AI·치유교육까지 담았다 -",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04a3YwUFAyYUJvRjhENF8xOXloUXphY0Fhb0VlZDRKakVsOWpiMkc2VkUtT1pKTURYWjd3QWg5SUlmZ01Jdy1CRktBM2tNb2R2SGctS0J6QkNvTEE?oc=5",
+    "source": "선데이뉴스신문",
+    "published": "2026-04-25",
+    "keyword": "인공지능교육",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 7,
+    "title": "정근식, 서울시교육감 민주진보 단일후보 수락",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuS1ZGOWNmNEtJUzd2NDA1VXpzUEhIS0hwQk9MR1pScTB2U0ktekZCZlRhdm9KSUxOOUxYXzN5MDMxMmNaV1FkOEtOTTdramNiaVJkZnNsaGFEUWN2OC1EejVvS0RwZFc1MWVJV1VYMjB0eWV5RG9n0gF3QVVfeXFMUG5LVkY5Y2Y0S0lTN3Y0MDVVenNQSEhLSHBCT0xHWlJxMHZTSS16RkJmVGF2b0pJTE45TFhfM3kwMzEyY1pXUWQ4S05NN2tqY2JpUmRmc2xoYURRY3Y4LUR6NW9LRHBkVzUxZUlXVVgyMHR5ZXlEb2c?oc=5",
+    "source": "핀포인트뉴스",
+    "published": "2026-04-25",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "서울시교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "경기도교육청, 미래형 예술교육 역량 강화 프로그램 운영",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tRzNUb01Gd2ZjZXpJeG1sd0lNVHRvbDFrTEE4VEFkVDdmNTIyWDdGTHNxUlo3S3BlMzlTVzVLU1E1SF84dFhGZ1ZsOVFzemlXN1V1Q0g5eG4wRXhhYzloLQ?oc=5",
+    "source": "메트로신문",
+    "published": "2026-04-25",
+    "keyword": "에듀테크",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "윤건영 충북교육감 \"숙련 기술인 시대, 직업계고 미래전환 서둘러야\"",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Wd29taTUxZ01UY21jWk1sVnpqN1p6T0xhUS1peHRnUko4bnNMYUtST3hydzhoMWdsa3ppMzEyYndWUEJMd3dxRG5fdjhuXzMyNk9GbTg1MmlpdnhIdW1HOEswX2hrTEpZeWNDZkxobm0weF9iM1lXQg?oc=5",
+    "source": "네이트",
+    "published": "2026-04-25",
+    "keyword": "디지털전환",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충북교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 10,
+    "title": "한국교육리더십연구회·교원교육학회 포럼…“교원 전문성 강화 해법 모색”",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hMW9UVzZrS21HZnZFN3lqdlZEbVJ1bHBUTkw4ZUdqMmF1VUJ5SHZBR2xZTVFPbnhyTGV2RkhqY3lSSXRMczFkREU4SDZ6RG1scHpTN0pWcE9DR0ZXV2JZb2l2UG93UDZl?oc=5",
+    "source": "에듀프레스",
+    "published": "2026-04-25",
+    "keyword": "교육정책",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Design and implementation of an AI-enabled visual report tool as formative assessment to promote learning achievement and self-regulated learning: An experimental study",
+    "url": "https://www.semanticscholar.org/paper/9c009b5aad914d8c306c51cc141404e783f6fed4",
+    "source": "semantic_scholar",
+    "published": "2024-01-09",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제"
+    ],
+    "summary": "본 논문은 AI 기반 시각 보고 도구를 개발하여 형성 평가에 활용하고, 고등학생 대상 실험 연구를 통해 학습 성취도 및 자기 주도 학습 능력 향상과 자기 효능감 증가에 미치는 영향을 분석하고, 대규모 학급에서 긍정적 효과를 기대하며 교사 피드백을 대체하여 자기 효능감을 높일 수 있음을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "X. Liao, Xuedi Zhang 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "Evaluating the Impact of Formative Assessment Intervention and Experiences of the Standard 4 Teachers in Teaching Higher-Order-Thinking Skills in Mathematics",
+    "url": "https://www.semanticscholar.org/paper/fb4645115fdbde1e744ef9b51eb23cbb3567fc27",
+    "source": "semantic_scholar",
+    "published": "2022-02-14",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "보츠와나 초등학교 4학년 학생들을 대상으로 교사 연수를 통해 형성 평가를 적용한 결과, 고차원적 사고 능력 향상에 긍정적인 영향을 미쳤으며, 이는 수학교육 개선에 기여할 수 있음을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Sello E. Moyo, Celeste Combrinck 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Contribution of formative assessment for developing teaching competences in teacher education",
+    "url": "https://www.semanticscholar.org/paper/795e175ff65d4f64bb5ff92b702f3c6b51c87ba3",
+    "source": "semantic_scholar",
+    "published": "2021-07-06",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "교사 교육 과정에서 명확한 기준과 피드백을 제공하고 학생 참여를 유도하는 형성 평가는 예비 교사의 역량 개발에 기여하며, 실제 교사와 교수진의 인터뷰, 관찰, 문서 분석을 통해 교육 현장에 긍정적인 영향을 미칠 수 있음을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Laura Cañadas",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "Virtual chemical laboratories: a systematic literature review of research, technologies and instructional design",
+    "url": "https://www.semanticscholar.org/paper/a8b3a033e278d0583810c21a666cfc08da087e9a",
+    "source": "semantic_scholar",
+    "published": "2021-10-01",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 가상 화학 실험실 연구들을 체계적으로 검토하여 기술 및 교수 설계 요소들을 분석하고, 가상 실험실이 전통적 방법과 병행 시 효과적이며, 몰입형 VR 기술과 정교한 교수 설계를 통해 실제 실험 대체 가능성을 제시하여 화학 교육의 접근성과 효과성을 향상시킬 수 있음을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Philippe Chan, T. van Gerven 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "Integrating design thinking into instructional design: The #OpenTeach case study",
+    "url": "https://www.semanticscholar.org/paper/0461442a2a27c821c96482ecf3230c0dc341c4d3",
+    "source": "semantic_scholar",
+    "published": "2021-09-20",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "#OpenTeach 온라인 교육 과정 설계 사례 연구는 디자인 사고를 교수 설계에 통합하여 학습자와 공감하는 사용자 중심적 접근 방식이 온라인 학습 목표 달성에 효과적임을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "C. Ní Shé, Orna Farrell 외 1명",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "메타, 'AI 에이전트' 구현 위해 아마존 CPU 대규모 도입",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=209737",
+    "source": "AI Times",
+    "published": "2026-04-25",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Meta",
+     "에이전트",
+     "Amazon"
+    ],
+    "summary": "메타의 아마존 CPU 대규모 도입은 AI 에이전트 경쟁 심화와 함께 맞춤형 AI 인프라 구축의 중요성을 부각시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "OpenAI unveils GPT-5.5, claims a \"new class of intelligence\" at double the API price",
+    "url": "https://the-decoder.com/openai-unveils-gpt-5-5-claims-a-new-class-of-intelligence-at-double-the-api-price/",
+    "source": "The Decoder",
+    "published": "2026-04-25",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.5의 성능 향상과 가격 인상은 AI 모델 성능 경쟁 심화와 동시에 고성능 AI 활용 비용 상승을 야기할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "AI와의 대화, 법정에선 어디까지 '증거'로 인정될까",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=209505",
+    "source": "AI Times",
+    "published": "2026-04-25",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [],
+    "summary": "AI와의 대화 내용 증거 인정 범위 설정은 AI 기술의 책임 소재와 활용 방향성에 대한 중요한 법적 선례를 만들 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "OpenAI helps Hyatt advance AI among colleagues",
+    "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+    "source": "OpenAI Blog",
+    "published": "2026-04-20",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "OpenAI와 Hyatt의 협력은 AI 기술이 특정 산업 내 업무 효율성 증진 및 고객 경험 향상에 기여하는 사례를 보여주며, 유사 산업으로의 AI 도입 확산을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "Google pours up to $40 billion into ChatGPT rival Anthropic",
+    "url": "https://the-decoder.com/google-pours-up-to-40-billion-into-chatgpt-rival-anthropic/",
+    "source": "The Decoder",
+    "published": "2026-04-25",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Google",
+     "ChatGPT",
+     "Anthropic"
+    ],
+    "summary": "Google의 Anthropic 투자는 AI 챗봇 경쟁 심화와 더불어 기술 주도권 확보를 위한 빅테크 기업들의 투자 경쟁을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "Google and Apple Join Forces on AI: Gemini-Powered Siri Set to Launch",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IbFo3bk1OdGdBbmhNcWE4WnZhcDN5TWtKU1NjWXktd1FCbWI0NVZCTnJzRDJKUDF2S0RZNGhFMG5HRzUtSTR4d1M0ektuRngya0duXzJocElnX2ItM3NqWlJFNUR0TXRDUGR3?oc=5",
+    "source": "kmjournal.net",
+    "published": "2026-04-25",
+    "keyword": "구글",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Apple",
+     "Gemini"
+    ],
+    "summary": "Google과 Apple의 AI 협력은 폐쇄적인 AI 생태계 경쟁을 완화하고 사용자 경험 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "GPT-5.5 Bio Bug Bounty",
+    "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty",
+    "source": "OpenAI Blog",
+    "published": "2026-04-23",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "AI 안전·규제",
+     "오픈소스"
+    ],
+    "summary": "GPT-5.5 Bio Bug Bounty는 AI 안전성 확보를 위한 오픈소스 협력 모델을 확장하여, 잠재적 위험을 조기에 식별하고 AI 생태계 전반의 안전성을 강화하는 데 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "Making ChatGPT better for clinicians",
+    "url": "https://openai.com/index/making-chatgpt-better-for-clinicians",
+    "source": "OpenAI Blog",
+    "published": "2026-04-22",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "의료 특화 ChatGPT 개선은 AI가 전문 영역에 성공적으로 통합될 가능성을 보여주며, 의료 AI 시장 확대를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "US programmer job growth nearly halved since ChatGPT launched, Fed study finds",
+    "url": "https://the-decoder.com/us-programmer-job-growth-nearly-halved-since-chatgpt-launched-fed-study-finds/",
+    "source": "The Decoder",
+    "published": "2026-04-25",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "ChatGPT 출시 이후 미국 프로그래머 일자리 성장세 둔화는 AI가 특정 직업군에 미치는 직접적인 영향을 보여주며, 향후 AI 활용 능력에 따른 양극화 심화를 예고합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "구글이 챗봇 버리고 'AI 에이전트' 꺼낸 진짜 이유",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV0lRTkJrOWtWWlQ2emdpemE5ZmUyRS1qZl9MVFplQjM4d0p4alQ3a21ManUyZTViamRPOS1RbkZzWGgwMXNQQlUwclJYZXBrUjE5S2MzaHlJeXBkU2MtZ0ZOUlo4Zjh4SUhOZjFKT1duUGQxZF9saTFVRGJ2WnJ1OWN5R3lwakpud2M3OVNRa0szQQ?oc=5",
+    "source": "구글 뉴스 AI",
+    "published": "2026-04-25",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Google",
+     "에이전트"
+    ],
+    "summary": "구글의 AI 에이전트 전략은 챗봇 경쟁을 넘어, 개인 맞춤형 AI 서비스 시장을 선점하려는 본격적인 움직임으로 해석됩니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

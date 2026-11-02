@@ -1,0 +1,111 @@
+{
+ "date": "2025-12-21",
+ "generated_at": "2026-11-02T11:49:31+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "교육부, 대학 개인정보보호책임자와 ‘개인정보보호 강화 방안’ 머리 맞대",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50Slk1UGw2SkV0YTkwNm9PWTY5bWN5LVU3LXkzSnIxOU5IMDFSVDdqdkVFZ3lNZ2E0WjN4bjV0Mm4yb2VFVENmcld3bDBsZ2RjQXNLZkMtRFEwRGPSAWpBVV95cUxQVEdoSXEzanNFNlVZTzFFNm13TVZIU0NZZFpQNnpFUllVUm45SS1vQmpsVi1aSXpaY1d4OV9IT3BhRXhQYnh5MG9pWG9ZRHpIWlkxcFc4MkZ5OFdqbWJ5TWFSc3JsOW5RaWd3?oc=5",
+    "source": "대학저널",
+    "published": "2025-12-20",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "대학 개인정보보호 강화 노력은 학생 정보 유출 방지 및 안전한 교육 환경 조성에 필수적이며, 대학의 책임성 강화로 이어질 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "“보수 교육 도입 시급” 보수진영 인천시교육감 후보들 토론회",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBUaXRnVUZLcTFhaHZlUEVURll6NUhPS2pBMVVuTk1SZTREbDd5cE5Cem56X0pjYThodGdSbVd5SGRXZG5SQUY2dmdfdnZGWXM?oc=5",
+    "source": "v.daum.net",
+    "published": "2025-12-20",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청",
+     "교육감 선거"
+    ],
+    "summary": "보수 교육감 후보들의 보수 교육 도입 주장은 교육계의 이념적 편향 논쟁을 심화시키고, 획일적인 교육과정으로 인해 학생들의 다양한 성장 가능성을 저해할 수 있다는 우려를 낳습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "안민석, 22일 교육감 출마 선언…‘경기교육 대전환, 크게 제대로!’",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBYYVdjRTlEblV6T2lQSVVXeE1faDhpeUF5bnZudGxvZ01iQ09lM3QyOW1TckN4S1k1OGs2ejIwU3poTm9pVXUyREROb2ZITGJ5RVB2STJScnQ3LTdZ?oc=5",
+    "source": "경기신문",
+    "published": "2025-12-20",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "안민석 의원의 교육감 출마는 경기 교육 정책의 변화를 예고하며, 교육계는 그의 공약과 정책 방향에 주목해야 할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "청소년에게 기술 기회와 사고의 다양성을 제공하는 STEM 프로그램",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYkc4NGRlMHo4ZkozSXYwbExBZDFzUTFmSzFSWjhUaW1haE9fNHR0VW0za1dhcFByM3JRcnIwTE5pNU0xWXpTQkFNbEhldmdvanpzU3RsRmlvUUs0a2hXU19XMkQ3blI0OW5lelRGS3dFRVVURGFFcy03V1o4LVlHVG1DVVNidw?oc=5",
+    "source": "IBM",
+    "published": "2025-12-20",
+    "keyword": "미래기술",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "IBM의 STEM 프로그램은 청소년에게 미래 사회에 필요한 역량을 길러주는 중요한 교육적 투자이며, 학교 교육과정과의 연계를 통해 더 큰 시너지 효과를 창출할 수 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "인천시교육청, 교원의 교육활동 보호를 위한 관리자 갈등 중재 역량 강화 연수 실시",
+    "url": "https://www.lecturernews.com/news/articleView.html?idxno=193306",
+    "source": "한국강사신문",
+    "published": "2025-12-20",
+    "keyword": "",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "교원의 교육활동 보호를 위한 관리자의 갈등 중재 역량 강화 연수는 학교 현장의 안정적인 교육 환경 조성에 긍정적인 영향을 줄 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "노타-유탑소프트, ‘온디바이스 AI 튜터’ 개발 협력… 에듀테크 혁신 가속",
+    "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQVF9xdWZVRndLa0FTUUVYUnJwNHF3Y2YwdTN6eHFmek5OMHJDMGdYY3U0TVFFZ3JHWEwzYkFXcllsYjlGRndJU2R0VE5FdlB1NjRFZVpqT0pQUFF0cjZpS1JhSlhBRnlMMmhuRnFMX2ZrNnAtalFvS0ZMNG5acE5GRmFzRjBYTENRNEVJdGdjY05oWUxkWTJKaXZPOWV1d3p5dTZkZzRXcHVXTHVMZWxYY2tpSWFrdVlZcjJ4ODJ0Vm94SUd3NkVZYmN3NWlIOVJCYThzR3lGRG1hRWU5LThQVTMzM05IVHA5ZlJBVUx4QVZFM0xrUWhmMnljNk5CMG5qeHk0RW55QlRiMEJLVzZ2WjczV25IVk41bDluYUZwMFd2NF9QQnVJ?oc=5",
+    "source": "아이씨엔매거진",
+    "published": "2025-12-20",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "온디바이스 AI",
+     "AI 튜터",
+     "개인화 학습"
+    ],
+    "summary": "온디바이스 AI 튜터 개발은 맞춤형 학습 경험을 제공하여 에듀테크 혁신을 가속화하고 교육 효과를 높일 수 있는 중요한 발걸음입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [],
+  "tech": []
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 기술 활용과 교원 보호 강화, 교육 혁신을 위한 다양한 노력이 활발하게 이루어지며 미래 교육으로 나아가는 긍정적인 변화가 기대된다."
+ }
+}

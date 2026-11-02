@@ -1,0 +1,428 @@
+{
+ "date": "2026-03-18",
+ "generated_at": "2026-11-02T11:53:36+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[김현태 칼럼] AI 교사 1만 명’이라는 숫자의 함정, 교육의 본질은 ‘개방’에 있다",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=30005",
+    "source": "에듀프레스",
+    "published": "2026-03-16",
+    "keyword": "",
+    "topic": "teacher",
+    "kind": "opinion",
+    "entities": [
+     "교육부"
+    ],
+    "summary": "교육부가 오는 5월부터 교원 1만 명을 대상으로 AI 역량 강화 연수를 추진한다고 한다. 디지털 대전환이라는 거창한 명분 아래 교사의 전문성을 높이겠다는 취지에는 십분 공감한다.하지만 수십 년간 학교 현장을 지켜온 필자의 눈에 이번 정책은 ‘속도’와 ‘수치’라는 행정적 성과에 매몰되어, 교육의 본질과 현장성이라는 가장 소중한 가치를 놓치고 있는 것으로 보인",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "\"농산물 유통, 온라인 도매시장으로 디지털 전환해야\" [기고]",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NZVpPN2stbmphdzF0MXJoRnBpWFdVdWhVQjFQc2VBVlB4bXAtMTUxNXBlZURILWswaTJVTkdPOXExNjdITmdKR3V1OFZnM3lmZHo4?oc=5",
+    "source": "네이트",
+    "published": "2026-03-17",
+    "keyword": "디지털전환",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 3,
+    "title": "[김수진 칼럼] 시절인연(時節因緣) .. 알고리즘이 읽지 못하는 마음",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=30006",
+    "source": "에듀프레스",
+    "published": "2026-03-16",
+    "keyword": "",
+    "topic": "teacher",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "불가(佛家)에는 ‘시절인연(時節因緣)’이라는 말이 있다. 이는 모든 만남에는 적절한 시기와 운명적인 기회가 있다는 뜻이다.매년 봄 새로운 아이들을 맞이하고 겨울이면 작별을 고하는 교사들에게, 교실은 1년이라는 한정된 시간 동안 가장 찬란한 시절인연을 맺는 공간이라고 할 수 있다.아이들에게도 이러한 ‘학창’시절의 인연은 특히 각별하다. 삶의 윤곽을 그리는 시",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[교육칼럼] 학생이 질문하는 수업",
+    "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2263228",
+    "source": "대전일보",
+    "published": "2026-03-17",
+    "keyword": "",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "교실에서 만나는 모든 학생이 '오늘은 무엇을 배울까', '오늘은 어떤 재미있는 활동을 할까' 궁금해하며 수업에 적극적으로 참여하면 좋겠습니다. 그러나 가만히 앉아 있지만 수업에 참여하지 않고 멍한 표정을 짓는 학생, 놀이나 게임 형식이 아니면 쉽게 지루해하며 수업을 방해하는 학생들도 있습니다. 이런 학생들을 만나면 교사는 주의를 환기시키거나 학급 규칙을 적",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "인천시교육청, ‘읽걷쓰AI’ 수업 혁신 교사 연수",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1TV1JFQXJGTEUxRlFMSmlyTWxOTUlsVFVHYXktUmVZdktuODlmYVVfdHdWUW0zdFNNVlhQOThDd2QtenU2Qk82Q2EtTno4MVJjY0RWOWdBdC1NUHF1YkRaQUNnUUE0d1pOS3lRZGEwUG5mTGlqTGt2TWpR?oc=5",
+    "source": "로이슈",
+    "published": "2026-03-17",
+    "keyword": "인공지능교육",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "인천시교육청",
+     "교사 연수"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 6,
+    "title": "[교육감의 책] \"교육은 50년을 움직이는 국가 설계도\"...임태희 'IM_Possible' 출간",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CeWxoYlZmVjhJb0VVVlRmQ1k3Yk8yU2hWTGw5ZTZNUVhteXdpdDF5LUNTeGc5VzlkYXFoQW15dnRsZmg5YXFaQk84WEMwY0RlaTl2ZE8yTG9ma0U?oc=5",
+    "source": "더에듀",
+    "published": "2026-03-17",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 7,
+    "title": "'모두가 잠든 사이 일어난 일'… 인류 발전 속 뇌과학",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE15YmtwTDhEUGJlS2VVQ3dOQi04VEtzT3p1SDFIQnZTdXpWOUo5NVJXb0FQOThCSmNXQzg1MUgwaWtoRzRuNjVzVHgwTjNLc3E0Y2c0a3NMM011NzZLS2dkc3NCZEJ3WWpGQW1haVAzcTVOYkHSAXNBVV95cUxNeWJrcEw4RFBiZUtlVUN3TkItOFRLc096dUgxSEJ2U3V6VjlKOTVSV29BUDk4QkpjV0M4NTFIMGlraEc0bjY1c1R4ME4zS3NxNGNnNGtzTDNNdTc2S0tnZHNzQmRCd1lqRkFtYWlQM3E1TmJB?oc=5",
+    "source": "대전일보",
+    "published": "2026-03-17",
+    "keyword": "뇌과학",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "유대균 강원교육감 예비후보 \"강원 AI디지털교육 선도\"",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50YlM3T0RzVGVhcGF0WE1LNEFRUnFKajFhOWVObl95YkVFQ0hvcUxqQXlDYnhVVDZfNWhnekdTMGtHU0pEZkViaF9FV3VSQ3psUXc?oc=5",
+    "source": "노컷뉴스",
+    "published": "2026-03-17",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "강원교육청",
+     "교육감 선거"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "세종시교육청, AI교육·안전·복지 등 미래형 교육정책 본격화",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HaThYa3RmQ2pOMTUySWxjZFhWQXdLQ1V4MWJJNEdJVkhaNFVVc0hDN2VfWjZuUDczdFpVS2FzbEI1QnRsWldoemhEdjJISG5QYy0zemJid1VLV0xSRThYQ0swTUFxcVBzUWQyUQ?oc=5",
+    "source": "농수축산신문",
+    "published": "2026-03-17",
+    "keyword": "인공지능교육",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [
+     "세종시교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 10,
+    "title": "초1~2 학폭 ‘관계회복 숙려제’ 시행 …피해학생 치유 인프라 강화",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=30011",
+    "source": "에듀프레스",
+    "published": "2026-03-17",
+    "keyword": "",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [
+     "학교폭력",
+     "교육부"
+    ],
+    "summary": "에듀프레스 장재훈 기자 = 교육부가 초등 저학년 단계부터 갈등을 교육적으로 해결하는 ‘관계회복 숙려제’를 도입하는 등 학교폭력 대응 패러다임을 전면 전환한다. 또래상담 확대, 피해학생 치유 인프라 확충, 사회정서교육 재구조화 등 예방과 회복 중심 정책을 강화해 학교폭력을 ‘사후 처벌’이 아닌 ‘사전 예방과 관계 회복’ 중심으로 바꾸겠다는 구상이다.교육부는",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Enhancing mathematics education for students with special educational needs through generative AI: A case study in Greece",
+    "url": "https://www.semanticscholar.org/paper/c5176feb286e0e266032f5277c20d0ded1837bf3",
+    "source": "semantic_scholar",
+    "published": "2024-10-17",
+    "keyword": "educational AI",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "ChatGPT",
+     "특수교육"
+    ],
+    "summary": "본 연구는 그리스에서 ChatGPT 3.5를 활용하여 특수 교육 요구 학생들을 위한 맞춤형 수학 워크시트를 개발하고, 8학년 학생 대상의 수업 적용 결과, 학습 참여도 향상 및 긍정적 태도 변화를 확인하여, AI 기반 교육이 특수 교육 분야에 효과적인 가능성을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ioannis Rizos, Evaggelos Foykas 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "Analysis and Practice of Using Modern Information Technology for Classroom Teaching Mode Reform",
+    "url": "https://www.semanticscholar.org/paper/9caa0c4f5819efa1218bce57720e3330389b8192",
+    "source": "semantic_scholar",
+    "published": "2022-08-05",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 인공지능, 빅데이터 등 현대 정보 기술을 활용한 스마트 교실 모델이 정보화 시대에 맞는 교육 혁신을 가져오지만, 이론적 토대 부족과 교사의 활용 어려움을 지적하며, IT 스마트 교실의 가치를 분석하고 기존 교수법과의 비교를 통해 심층적인 교육 방안을 모색합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Mei Liu, Rujin Zhou 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Construction and application of SPOC‐based flipped classroom teaching mode in Installation Engineering Cost curriculum based on OBE concept",
+    "url": "https://www.semanticscholar.org/paper/06004787a037557addd5dccd5e8cd3d6ee68c561",
+    "source": "semantic_scholar",
+    "published": "2020-08-20",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "OBE 개념 기반 SPOC 활용 플립러닝 방식의 설비공사비 교과목 교육 모델을 개발 및 적용하여, 학생들의 학업 성취도 향상과 플립러닝 참여도 및 만족도를 높였으며, 향후 혼합형 학습에 대한 참고 자료를 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Lei Zhang, Yueqing Xuan 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "Reflections on and implications of the Programme for International Student Assessment 2015 (PISA 2015) performance of students in Taiwan: The role of epistemic beliefs about science in scientific literacy",
+    "url": "https://www.semanticscholar.org/paper/fd5eb98973df655d668a656609e3e1e77ffd2896",
+    "source": "semantic_scholar",
+    "published": "2019-12-01",
+    "keyword": "",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [
+     "문해력"
+    ],
+    "summary": "PISA 2015 대만 학생 데이터를 분석한 결과, 과학적 문해력, 과학에 대한 인식론적 믿음, 학습 시간 등이 학생 성취도 및 회복탄력성에 중요한 영향을 미치며, 이는 과학 교육 연구, 교수법, 정책에 시사하는 바가 큽니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "H. She, Huann‐shyang Lin 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "Educational Design Principles of Using AI Chatbot That Supports Self-Regulated Learning in Education: Goal Setting, Feedback, and Personalization",
+    "url": "https://www.semanticscholar.org/paper/c889cdd52db3ec7a8f8270ce80e010d2725aede2",
+    "source": "semantic_scholar",
+    "published": "2023-08-27",
+    "keyword": "educational AI",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제",
+     "ChatGPT",
+     "개인화 학습"
+    ],
+    "summary": "본 논문은 ChatGPT와 같은 AI 챗봇을 교육에 활용할 때, Zimmerman의 자기주도학습(SRL) 프레임워크와 학습 판단(JOL)을 기반으로 목표 설정 프롬프트, 피드백, 개인화라는 교육 원칙을 제시하여 AI가 학생들의 자기 주도 학습 능력을 향상시키도록 돕고, 고등 교육에서 AI 활용 교육 및 설계에 대한 지침을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Daniel H. Chang, M. P. Lin 외 1명",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "문샷, AI 아키텍처 근본적으로 개선한 ‘주의 잔차’ 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207982",
+    "source": "AI Times",
+    "published": "2026-03-17",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Moonshot",
+     "LLM"
+    ],
+    "summary": "대형언어모델(LLM)의 성능을 끌어올리기 위해 단순한 알고리즘 개선을 넘어 모델 구조 자체를 근본적으로 재설계하려는 시도가 본격화하고 있다. 문샷 AI 연구진은 15일(현지시간) 기존 트랜스포머 구조의 핵심 요소였던 잔차 연결(Residual connection)을 대체하는 새로운 방식인 ‘주의 잔차(AttnRes·Attention Residuals)’를",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "브리태니커 백과사전, 모델 학습 문제로 오픈AI 소송 제기",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208000",
+    "source": "AI Times",
+    "published": "2026-03-17",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "저작권·소송",
+     "ChatGPT"
+    ],
+    "summary": "세계적인 백과사전 출판사 브리태니커 백과사전과 자회사 메리엄-웹스터가 미국 맨해튼 연방법원에 오픈AI를 상대로 소송을 제기했다. 로이터에 따르면, 두 회사는 16일(현지시간) 오픈AI가 온라인 기사, 백과사전 및 사전 자료를 '챗GPT' 학습용 데이터로 무단 활용하고, AI가 생성한 요약 콘텐츠로 브리태니커 웹사이트 트래픽을 잠식했다고 주장했다.소송장에 따",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[3월17일] 오픈AI \"당분간 B2B에만 집중\"...'사이드 프로젝트' 중단",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207972",
+    "source": "AI Times",
+    "published": "2026-03-18",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "코딩 AI"
+    ],
+    "summary": "오픈AI의 전략이 큰 전환점을 맞은 것으로 알려졌습니다.16일(현지시간) 월스트리트 저널(WSJ)에 따르면, 오픈AI의 최고 경영진은 '모든 것을 한꺼번에 하려는' 전략이 회사를 수세에 몰아넣었다는 점을 인식하고, 코딩과 기업 사용자 중심으로 회사의 초점을 재조정하는 전략 전환을 마무리하고 있습니다.이에 따르면, 피지 시모 오픈AI 애플리케이션 CEO는 지",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "오픈AI, 기업 AI 시장 확대 위해 사모펀드와 합작 회사 설립 추진",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207995",
+    "source": "AI Times",
+    "published": "2026-03-17",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "오픈AI가 글로벌 사모펀드들과 손잡고 기업용 AI 시장 확대에 나선다. 투자사들의 포트폴리오 기업을 기반으로 빠르게 시장을 선점하려는 전략이다.로이터는 16일(현지시간) 오픈AI가 TPG, 어드벤트 인터내셔널, 베인 캐피털, 브룩필드 자산운용 등 주요 사모펀드와 기업용 AI 제품을 공급하는 합작법인 설립을 논의 중이라고 전했다.합작사는 약 100억달러(약",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "13억 사용자 링크드인, 5개 피드 검색 시스템을 LLM 모델 하나로 대체",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208006",
+    "source": "AI Times",
+    "published": "2026-03-17",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "LLM"
+    ],
+    "summary": "13억명이 사용하는 글로벌 비즈니스 플랫폼 링크드인이 기존 추천 시스템을 전면 재설계하고, 대형언어모델(LLM)을 중심으로 한 차세대 피드 아키텍처를 도입했다. 단순한 알고리즘 개선을 넘어, 콘텐츠 추천 방식과 인프라 구조를 근본적으로 바꾼 대규모 전환이다.링크드인은 12일(현지시간) 그동안 서로 다른 목적을 가진 5개의 콘텐츠 검색(retrieval) 파",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "국민대 김도형 교수, 생성형 AI 기반 공공 R&D 평가 의사결정 프레임워크 연구 논문 게재",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBbFRvd1NDNE1adVJzekhGTXNFdW12dWtEQmVKMFgxRlNxY0ZjTE5KYjVDdW10Z0V4bDhIVDBIMDNyMHFzOGhYTDQ3R3RQX0RDZVdGRF9rLVF4N1A2NU1RSXRoaWowQU56emNURtIBcEFVX3lxTFBSSEZaeFVLWWFkUWRybnBuMXo5VDEtZTZoU2l5MDdHb0VrWFFhaEJNMVNHWGUtNWZOQ1ppck1qS1BPZFdoYnBkdXlQc3NrRmRYOVc0YUQ2QW9JX3l4WWF4NlVyZmZlSmV2UXZDbGNtRWU?oc=5",
+    "source": "ceodaily.co.kr",
+    "published": "2026-03-17",
+    "keyword": "AI연구",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 7,
+    "title": "지푸, 빠르고 저렴한 에이전트형 ‘GLM-5-터보’ 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207987",
+    "source": "AI Times",
+    "published": "2026-03-17",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "에이전트",
+     "LLM"
+    ],
+    "summary": "대형언어모델(LLM) 경쟁이 단순 성능을 넘어 ‘실제 업무 수행 능력’으로 이동하는 가운데, 중국 지푸 AI가 실행 중심 에이전트 모델을 앞세워 AI 시장 공략에 나섰다. 지푸 AI는 16일(현지시간) 'GLM-5'을 기반으로 한 새로운 모델 ‘GLM-5-터보(GLM-5-Turbo)’를 공개했다. GLM-5를 에이전트 중심 워크플로우에 맞춰 속도와 안정성,",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "xAI, '그록'의 미성년자 성적 이미지 생성 혐의로 고소 당해",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208005",
+    "source": "AI Times",
+    "published": "2026-03-17",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "xAI",
+     "영상·이미지 생성",
+     "저작권·소송"
+    ],
+    "summary": "일론 머스크가 이끄는 xAI의 이미지 생성 모델이 실제 미성년자의 사진을 성적 콘텐츠로 변형했다는 의혹이 제기되며 법적 공방으로 번지고 있다.16일(현지시간) 워싱턴포스트에 따르면, xAI가 '그록'의 이미지 생성 기능을 통해 식별 가능한 미성년자의 성적 이미지를 만들어낸 책임을 져야 한다는 집단소송이 캘리포니아 연방법원에 제기됐다.익명의 원고 3명은 자신",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "OpenAI ships GPT-5.4 mini and nano, faster and more capable but up to 4x pricier",
+    "url": "https://the-decoder.com/openai-ships-gpt-5-4-mini-and-nano-faster-and-more-capable-but-up-to-4x-pricier/",
+    "source": "The Decoder",
+    "published": "2026-03-17",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 10,
+    "title": "오픈AI, GPT-5.4 출시…100만 토큰에 툴 서치까지",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1OQmxGd0ZCRGZTMDljM3ZDQm5DYmpObHQ3Zk5HbzUtSzFPOU1vd01jdnpYMzJOZE1ORUx1Y0paM2t3LW80eW41djZ4Z3BDZ09IbWg3UkEwNmlIdWxvNGZz?oc=5",
+    "source": "AI 매터스",
+    "published": "2026-03-17",
+    "keyword": "오픈AI",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "tech": "AI를 중심으로 AI 기술 생태계가 빠르게 진화하고 있습니다."
+ }
+}

@@ -1,0 +1,415 @@
+{
+ "date": "2026-10-01",
+ "generated_at": "2026-11-02T11:44:11+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "대전시교육청, 수업혁신·AI교육 정책 아이디어 찾는다",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TcU5UWDhwSDFGUzBwR1NfTE12VjZKMVo0RGE5aFVlT2gxVjg3Sy01N3RzY3NZeFl2aURDNmVYMFJYSTQ0Wm95Vnh2RVJKaHN5V2tMWA?oc=5",
+    "source": "타임뉴스",
+    "published": "2026-10-01",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "대전시교육청이 수업 혁신과 AI 교육 관련 정책 아이디어를 수집하고 있습니다.",
+    "implication": "대전시교육청의 관심사를 반영하여 AI 활용 수업 방안을 미리 구상하고 적용해 볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "경남교육청, 중고교장 398명 대상 미래형 수업 혁신 연수",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhc1BNRUxYSUZoYlJ6RGFQdExtU3RIekdFLS1aZlRSSGMzZW9JZld0VTRQY2ZSUUhFa0JRUWVRUmQtSVFJdHNwMVJhbXUxd2pwajNyUWV4cXA1NG1LQUt3Sm1PcVh3NWc?oc=5",
+    "source": "더쎈뉴스",
+    "published": "2026-09-30",
+    "keyword": "디지털교육",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "경남교육청"
+    ],
+    "summary": "경남교육청이 중고교장 398명을 대상으로 미래형 수업 혁신을 위한 연수를 실시했습니다.",
+    "implication": "미래형 수업 혁신 방향을 미리 파악하여 내 수업에 적용할 방안을 모색할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[에이전틱 AI 맵 2026] 유비씨, 디지털 트윈에 AI 에이전트 결합…제조 현장 자율화 추진",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iT3k0UXoxTHMwODRjdy1QZjYzUXBTbGZRUDRyY0pDeHdsdGRhN2k0T1EtRVlOMWlqZ1pOWUlCZTBZbDdSaGFpSFZfcUM5cmJvQXZEenlPYkRzeEF3Y0dFUjdnU1ZEbkxLY0o4bVVGMHhXeXJL0gF0QVVfeXFMTmJPeTRRejFMczA4NGN3LVBmNjNRcFNsZlFQNHJjSkN4d2x0ZGE3aTRPUS1FWU4xaWpnWk5ZSUJlMFlsN1JoYWlIVl9xQzlyYm9BdkR6eU9iRHN4QXdjR0VSN2dTVkRuTEtjSjhtVUYweFd5cks?oc=5",
+    "source": "IT조선",
+    "published": "2026-09-30",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "유비씨가 '에이전틱 AI 맵 2026'을 통해 디지털 트윈과 AI 에이전트를 결합하여 제조 현장 자율화를 추진합니다.",
+    "implication": "미래 제조업 현장의 변화를 예측하고 AI와 디지털 트윈 기술의 융합을 탐구할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "안민석 교육감, 용인지역 학부모와 교육 현안 논의",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE16ZkhUeGJPbVJrV0ZJNkdRdmtMdW1ENzRGNkl5ZVBYSDRwMHNaa2loUlc4OUt0Mmc5NGZmN29BOHdKS01iQzRkR3l2M1NwN05zei1Sd3BxQVdMYS1YamJycEp6OUo3NU1ieU5NUDJZSUh3MlE30gF0QVVfeXFMTXpmSFR4Yk9tUmtXRkk2R1F2a0x1bUQ3NEY2SXllUFhINHAwc1praWhSVzg5S3QyZzk0ZmY3b0E4d0pLTWJDNGRHeXYzU3A3TnN6LVJ3cHFBV0xhLVhqYnJwSno5Sjc1TWJ5Tk1QMllJSHcyUTc?oc=5",
+    "source": "이뉴스투데이",
+    "published": "2026-09-30",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "안민석 교육감은 용인지역 학부모들과 교육 현안에 대해 논의했습니다.",
+    "implication": "교육 현안 논의를 통해 학생들에게 학교 관련 문제에 대한 자신들의 의견을 표현하게 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "유정기 전북자치도 부교육감 이임…2년 6개월 교육 현장 헌신 마무리",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ3l3cHk0bjkzRndYc2hBVEhZaFVmNFpSQlFBYVQwX3MtR3hRS2FERFVXS1BWYUhDXzlDbzBXMnVDX2NlaVRFTE1WUnBidW5wbHZVOEpUMU9Xc2Q2dmhSMkZvSlpWcHVEN0ZVT2lJNGdDWklWQnlYSTU1YTJtckgxOG9wamw0MEk?oc=5",
+    "source": "전북도민일보",
+    "published": "2026-09-30",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "전북교육청"
+    ],
+    "summary": "유정기 전북자치도 부교육감이 2년 6개월간의 교육 현장 헌신을 마치고 이임했습니다.",
+    "implication": "전북 교육을 위해 헌신한 리더의 이임을 통해, 학생들과 교육의 지속적인 가치와 노력을 논할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "‘정확한 진단이 교육 출발점’…충북교육청, 특수교육 현장 전문가 키운다",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HUTd0RHB3SHdXV2VySGFNbjBMZ3l1aEhKMkREWWRuNDFRdnRRVE9KV2ZPYlVGSWFlX3huS1ZDZXAyeVA2dUg1b0RuT2tHNV9Mb3FEbVFaQk1adFMtaHNjRHpTMmdPSW5JN3dOSDFzanYyZ9IBckFVX3lxTE1HUTd0RHB3SHdXV2VySGFNbjBMZ3l1aEhKMkREWWRuNDFRdnRRVE9KV2ZPYlVGSWFlX3huS1ZDZXAyeVA2dUg1b0RuT2tHNV9Mb3FEbVFaQk1adFMtaHNjRHpTMmdPSW5JN3dOSDFzanYyZw?oc=5",
+    "source": "충청리뷰",
+    "published": "2026-09-30",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충북교육청",
+     "특수교육"
+    ],
+    "summary": "충북교육청은 정확한 진단을 특수교육의 출발점으로 삼아 현장 전문가를 양성하겠다고 밝혔다.",
+    "implication": "특수교육 현장 전문가의 진단 결과를 바탕으로 학생별 맞춤형 수업을 효과적으로 계획할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "인천시교육청, 교실 속 민주주의부터 청소년 주권까지 교사들과 실천방안 모색",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5raWFSbm1EODF5VGF1aVFJN09OV3dPSHVuRXdzOFQyaDZmZFJ4bGpLX3d3SEIydHl5RENVdWFaNG5NOE5VbGpmNUNzMHpJY1ZLTkVqWVhaMS1GYXp2cmU5LTNFbnlRWEFT?oc=5",
+    "source": "kmaeil.com",
+    "published": "2026-09-30",
+    "keyword": "현장교사",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청은 교사들과 함께 교실 민주주의와 청소년 주권 실천 방안을 모색하고 있습니다.",
+    "implication": "교실에서 학생들과 민주주의와 청소년 주권 실현을 위한 다양한 활동을 직접 모색할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "인천시교육청, 세르비아교육진흥원과 손잡고 AI 미래교육 국제협력 확대",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SeWFROW9xN0dCamRnTHlneVlHSE94THJOdjZIS0lrb0hGNUE2MlR5ZkJmbUdXVzBTUGV6ZDNTcW9pV251ZW9jSEUxSkNhcFJOT0tsS29hOENLNF80OTdfejRqWllQLWpz?oc=5",
+    "source": "kmaeil.com",
+    "published": "2026-09-30",
+    "keyword": "인공지능교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청이 세르비아 교육진흥원과 손잡고 AI 미래교육 국제협력을 확대한다.",
+    "implication": "교사들은 국제 협력을 통해 얻게 될 AI 교육 콘텐츠를 수업에 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "최교진 교육부 장관, UAE 대사 만나 미래교육 협력 논의",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HSTZUOU83R0dyV1lJNVJwYnJWODNMVWZOV3R6RVZkZzdHd21CQ0dveXBneTRkbkFId0cwZldkRGQ5bF80NlF6UEFlN0tqNGVYRlRUOHN6aXJtMkRJ?oc=5",
+    "source": "뉴스핌",
+    "published": "2026-09-30",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "교육부 장관이 UAE 대사와 만나 미래교육 협력 방안을 논의했습니다.",
+    "implication": "교육부 장관의 국제 협력 논의를 통해 미래 교육 방향을 학생들과 함께 고민할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "대전시교육청, 2026 대전교육정책 아이디어 온라인 공모",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzRVNPS2U1dUdEUl9zWS16cWs5OVNzbkRTWklDcnRNcHowSDN5REplWkVMRXhOV0xwRVdyempQUXJZQVM5LUtnck5IMWkzSGdjT2tka2NwS0RmNjBhbFBTUlRPRVRGbkNXU0JNY2YwaWE?oc=5",
+    "source": "localtoday.co.kr",
+    "published": "2026-10-01",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "대전시교육청이 2026년 대전 교육 정책에 대한 아이디어를 온라인으로 공모합니다.",
+    "implication": "수업 시간에 학생들이 직접 2026년 대전 교육 정책 아이디어를 구상하고 온라인 공모에 참여하는 활동을 할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "A Review of AI Tools: Definitions, Functions, and Applications for K-12 Education",
+    "url": "https://www.semanticscholar.org/paper/3e4f2ffe462cdf9ed18f99e727759c7b32530c47",
+    "source": "semantic_scholar",
+    "published": "2024-11-28",
+    "keyword": "K-12 education",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 K-12 교육을 위한 AI 도구를 정의, 분류하고 활용 방안과 윤리적 고려 사항을 제시하여, 교사들이 개인 맞춤 교육을 강화하고 미래 지향적인 학습 환경을 조성하도록 돕는 실용적인 지침을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Gina Kwid, Nicole Sarty 외 1명",
+    "pdf": "https://api.intechopen.com/article/pdf-download/470"
+   },
+   {
+    "n": 2,
+    "title": "Research on the Application of Digital Piano Teaching Equipment in University Music Education Curriculum",
+    "url": "https://doi.org/10.26417/dlhwd4dt",
+    "source": "openalex",
+    "published": "2026-09-28",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "지능형 디지털 피아노 교육 시스템의 활용이 대학 음악 전공 교육의 학습 성과와 자원 공정성을 향상시킴을 16주간의 준실험 연구로 입증하여, 미래 고등 음악 교육의 디지털 전환 및 혁신 방향을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Zhang Hongxi",
+    "pdf": "https://revistia.com/index.php/ejser/article/view/3747/3867"
+   },
+   {
+    "n": 3,
+    "title": "Active Learning Strategies in Higher Education Evidence from the University of Vlora “Ismail Qemali”, Albania",
+    "url": "https://doi.org/10.33422/sshconference.v2i1.2003",
+    "source": "openalex",
+    "published": "2026-09-29",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "알바니아 고등교육에서 능동 학습 전략의 구현 및 효과를 분석하여 학생 참여, 비판적 사고, 학습 성과를 높이고 학생 중심 교수법 확산을 위한 실질적 제언을 합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Eliona Naqo",
+    "pdf": "https://www.dpublication.com/conference-proceedings/index.php/sshconference/article/download/2003/1298"
+   },
+   {
+    "n": 4,
+    "title": "Online Teaching in K-12 Education in the United States: A Systematic Review",
+    "url": "https://www.semanticscholar.org/paper/82486be86747a74692d83df7598a5dc18e51741b",
+    "source": "semantic_scholar",
+    "published": "2022-08-03",
+    "keyword": "K-12 education",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "미국 K-12 온라인 교육에 대한 체계적 문헌 연구는 성공적인 학습을 위한 핵심 조건과 7가지 교수법을 제시하여 정책 입안자 및 교육자에게 중요한 통찰을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Carla C. Johnson, Janet B. Walton 외 1명",
+    "pdf": "https://doi.org/10.3102/00346543221105550"
+   },
+   {
+    "n": 5,
+    "title": "Teacher Involvement in Curriculum Development: Toward Responsive and Adaptive Education",
+    "url": "https://doi.org/10.54254/2753-7048/2026.37359",
+    "source": "openalex",
+    "published": "2026-09-29",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 문헌 검토를 통해 교육과정 개발에 교사 참여가 교육의 적합성, 실행, 반응성을 높이는 핵심임을 강조하며, 기존 연구의 한계를 지적하고 교사 참여가 교육과정과 학생 성과에 미치는 영향을 검증할 미래 연구의 필요성을 제언합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Huiyu Liu",
+    "pdf": "https://lnep.ewapub.com/article/view/37359.pdf"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "구글, AI 모델 재학습 없이 ‘하네스’ 스스로 개선하는 ‘RRSI’ 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215802",
+    "source": "AI Times",
+    "published": "2026-09-30",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "구글의 RRSI는 AI 모델의 재학습 없이 스스로 성능을 개선하는 자율성을 부여하여 AI 시스템의 운영 효율성과 산업 혁신을 크게 앞당길 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "구글, '제미나이 4 아르곤' 공개…성능 1위 탈환에도 \"일반 사용 제한\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215821",
+    "source": "AI Times",
+    "published": "2026-10-01",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Gemini",
+     "AI 안전·규제"
+    ],
+    "summary": "성능 1위 AI 모델의 일반 사용 제한은 AI 기술 경쟁이 성능을 넘어 상용화와 안전성 확보 단계로 진입했음을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[AI리더의 서가] 허깅페이스 인 액션",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215624",
+    "source": "AI Times",
+    "published": "2026-10-01",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Hugging Face",
+     "오픈소스"
+    ],
+    "summary": "허깅페이스의 실제 활용 확산은 오픈소스 AI 생태계의 성숙을 촉진하고 기술 상용화를 가속화하는 핵심 동력이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "구글, AI 답변 기여도에 따라 디지털 출판사 100여곳에 비용 지급",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215811",
+    "source": "AI Times",
+    "published": "2026-09-30",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "AI 기술은 이제 콘텐츠 생산자에게 기여도를 보상하는 모델을 확립하여, AI 생태계의 윤리적 공존과 지속 가능한 성장을 위한 중요한 선례를 만들 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "리퀴드 AI, 의사결정 모델 ‘d1’ 출시...\"기존 1위 제브 제쳤다\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215799",
+    "source": "AI Times",
+    "published": "2026-09-30",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "리퀴드 AI의 ‘d1’ 출시는 의사결정 AI 시장의 경쟁 구도를 재편하고 기술 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+    "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+    "source": "OpenAI Blog",
+    "published": "2026-09-23",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "ChatGPT 광고의 동남아 및 대만 확장은 AI 모델의 글로벌 수익화 전략을 강화하고, AI 기반 플랫폼 비즈니스 경쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "애플, '시리 AI' 앞세워 아마존·구글 스마트홈에 도전",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QTFVhVG5kZi1YNmxlN0toTzZkaWtSUFA2UWJmekp3V18tNFU5d0h1M2pxTUdXdWFaZFJvV25jbGQtbVZQUURkWkkzMURfTWs?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-10-01",
+    "keyword": "인공지능",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Apple",
+     "Amazon",
+     "Google"
+    ],
+    "summary": "애플의 시리 AI 기반 스마트홈 진출은 AI 기술 경쟁을 심화시켜 사용자 경험 중심의 혁신을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "오픈AI, 제브 유사 결정형 API 공개…에이전트 행동 분류",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9EbWZGSHc5QlJnRU0wckRXbFlXdE83TU15cEZyUHNaZnJtN1Nxc25pVS02cm82RnA4REUyR1hCU1p1NXJpZ0NwajBaQzlYVE9H?oc=5",
+    "source": "토큰포스트",
+    "published": "2026-09-30",
+    "keyword": "API",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "에이전트"
+    ],
+    "summary": "오픈AI의 결정형 API는 AI 에이전트의 행동을 분류하여 안전하고 예측 가능한 자율 AI 시스템 구축에 핵심적인 역할을 할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "DevDay 2026 Recap",
+    "url": "https://openai.com/index/devday-2026-recap",
+    "source": "OpenAI Blog",
+    "published": "2026-09-29",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [],
+    "summary": "DevDay 2026은 AI 개발의 대중화와 플랫폼화를 통해 산업 전반의 혁신을 가속화하며 생태계를 확장할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "애피어 연구 논문, NeurIPS 채택… AI 에이전트, 도구 ‘사용’ 넘어 스스로 ‘만드는’ 법까지 배운다",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA2Y0c0R3pUTVlNX1N2QjR1alZ1S25fRGNQd0dmOVJPb2ZXQzEybG5VelJzdHdvLTlCQTNyYWxxRjV1RlhXb1VHdWVPUkFBQ21aMll6cHVZbnZ5aXdCRnNhTnpCY0dBeGZ1?oc=5",
+    "source": "매드타임스",
+    "published": "2026-10-01",
+    "keyword": "머신러닝",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "AI 에이전트가 도구 생성 능력까지 갖춤으로써 AI 개발과 활용의 자율성이 극대화되어 산업 전반에 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

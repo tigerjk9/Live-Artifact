@@ -1,0 +1,429 @@
+{
+ "date": "2026-09-24",
+ "generated_at": "2026-11-02T11:43:48+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "옹진군·인천시교육청, 도서지역 교육격차 해소 위해 ‘교육혁신 선도지역’ 맞손",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lUmdkcU80OTZOQUVCaUJNUUpwM2tra1FKTFN4QVNwaWNCd25yUFowdUg5ZG9tZ1lqTEJuNGlGckJibDY1dXhkTFU5ZVRPLXVWZVpXNDFDMUxCQUNqRUptRF9lQ2FUalE?oc=5",
+    "source": "경인신문",
+    "published": "2026-09-23",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "옹진군과 인천시교육청이 도서지역 교육격차 해소를 위한 교육혁신 선도지역 사업에 협력합니다.",
+    "implication": "도서지역 교육격차 해소를 위한 디지털 교육 콘텐츠를 수업에 적극 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "부산시교육청 AI 통합 플랫폼 ‘펜즈’ 확산…개통 열흘 만에 접속 20만 건",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Edk1NelhpNDM1ZW95OW9pVVNjOGtBNjB6OXktQ1JfVF83dEE4SXVadEFMalcyOXhJV1QwaWZKeE0yeXVZUTg0WmNWeGpSSlpBWEEybFpZbGJMQ3pITHEtU0dkQQ?oc=5",
+    "source": "대한민국교육신문",
+    "published": "2026-09-23",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "부산시교육청"
+    ],
+    "summary": "부산시교육청의 AI 통합 플랫폼 ‘펜즈’가 개통 열흘 만에 20만 건 접속을 달성하며 확산 중입니다.",
+    "implication": "펜즈를 활용하여 수업 자료 준비 시간을 단축하고, 다양한 수업 활동 아이디어를 얻을 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "매년 확대되는 대전 IB 프로그램, 자기주도 성장 UP",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ydUN2NHpZY2RXQV9SenpzdExqUzNMcVZIY0Z6ZFZBblA5TzVZQXhPWmhYZ2g2SWRteW12OG5aNW1YbzZoOXZiVUl1ZGhlT0hZckZydXlhY0s5eWlCTFpoZTdxMUtTUHRISzQwbG05QWFfdw?oc=5",
+    "source": "굿모닝충청",
+    "published": "2026-09-23",
+    "keyword": "AI디지털도구",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "IB"
+    ],
+    "summary": "대전 IB 프로그램이 매년 확대되며 학생들의 자기주도적 성장을 증진시키고 있습니다.",
+    "implication": "IB 프로그램의 자기주도 성장 강점을 활용하여 학생들이 주도적으로 탐구하고 성장하는 수업을 설계할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "옥타, AI 에이전트용 런타임 게이트웨이 추가",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE55ZzREbERDQTd5V21PTFZXVGp5eVdKQUtOXzJoMWJ1N0syZTdyejBldnJDTEFmVFFhVjNrU0d1N3B2d3FHbnBXOHJnT29lWnB2OW40Uzd0VXZONnNhU0ZZZ1NHTjdfa09FR0lwQUFsdmt5OUU?oc=5",
+    "source": "디지털투데이",
+    "published": "2026-09-23",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "옥타는 AI 에이전트의 효율적 운영을 지원하기 위해 런타임 게이트웨이를 새로 추가했습니다.",
+    "implication": "학생들이 AI 기술 발전 동향을 이해하고, 실생활에서 AI가 어떻게 활용되는지 탐구하는 데 도움이 될 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "전남교육청·전남대, ‘학교보건 AI역량 강화’ 나선다",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XUkk3NlFIQ0VOMFNLWUkxMEp3Qmw4REZHN1l4bm1ocXh0VkREd2dPNmhTSi1uLUxzbUUwWExpOWtNYVRfZ19HSnBIQnJOdEx4djJhazVjVVh4MkIwel9tT29oMDlYdw?oc=5",
+    "source": "전남타임스",
+    "published": "2026-09-23",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "전남교육청"
+    ],
+    "summary": "전남교육청과 전남대가 학교 보건 분야 AI 역량 강화를 위해 협력한다.",
+    "implication": "학생들이 인공지능이 보건 분야에 활용되는 사례를 찾아 발표하는 수업을 진행할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "‘섬마다 다른 교육환경’ 해법 찾는다…옹진군·인천시교육청, 맞춤형 교육체계 구축",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwd2NtcFBqRXlRWmRLdm5mRkE5Nks0eVNXc01yN0o4REhHbE9sMnIxYW5GYTdzT3UtNFJiQW4zN0F2Y3E5TkJ1ME55cy1UaTRBdmFTQ09kVlhScC1GZVhKaldDMEVBcjJjdHNfSjlLekFDUQ?oc=5",
+    "source": "스포츠동아",
+    "published": "2026-09-23",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청",
+     "개인화 학습"
+    ],
+    "summary": "옹진군과 인천시교육청이 섬마다 다른 교육환경을 개선하기 위해 맞춤형 교육체계를 구축합니다.",
+    "implication": "우리 학교 교육 환경에 맞춰 학생 개개인의 특성을 고려한 수업을 설계할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "이재명 정부 1년, 학교가 기다린 교육개혁은 어디에?",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16d0hqM0hidVdUeEIzWGZrRFhRdnl1Z2dLbjc3ZDFkV09OUXdIemQ3NVR0WlVFamNONWpRZjgycmh6SzNsc3IzOF84eHZUSFprWXh3MHpaUjJueHB2eDZYTUx6WW1LejBMNi1WVUpJaUxQaWxrc0gw?oc=5",
+    "source": "OhmyNews",
+    "published": "2026-09-23",
+    "keyword": "AI활용수업",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "이재명 정부 1년 후, 학교가 기다리던 교육 개혁이 실현되지 않았음을 지적하는 내용입니다.",
+    "implication": "정부의 교육 개혁이 지연될 때에도 우리는 수업 혁신 방안을 계속 탐구하고 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "[르포] “사진 포즈 잡아주고 제안서까지”… 퀄컴 ‘에이전틱 AI’ 직접 써보니",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeEpKYzluZDBqUVJRajVDMWpPeW1PUWVJT3czNEYwRTlOVFVXM0RiaHpDbmRSZWp1WDloSEYxcU5MVlNIZjlEQzZWVWJxeTVBZ01SbTBCRGdZaGxIRkhrLURsRkFQWHRubENBX1U3YjNndWl3eWRQU1VNT0dpcl9iamVR0gGWAUFVX3lxTE8zSU9Yakp4ZGc2NkNGOWpsVzh5MHZYX29aRzZld2xnZWVJRC1iT0NrTWRxTk1naXpnM3pJbHcyNWFud0xrRHNpdjZha04zUm91bkJtOHh6LURrbWU5SGkyRHN2c2t3MzRSSkx0YkFMRElNd0M1aVAtQ3NUeGFrRDV5N2pFUFAtWjd0Rmt2MGdQRGc2OWtjQQ?oc=5",
+    "source": "Chosunbiz",
+    "published": "2026-09-23",
+    "keyword": "에이전틱AI",
+    "topic": "classroom",
+    "kind": "feature",
+    "entities": [],
+    "summary": "퀄컴의 에이전틱 AI가 사진 포즈 제안부터 제안서 작성까지 다양한 작업을 수행함을 직접 체험했다.",
+    "implication": "학생들이 프로젝트 학습 시 아이디어 구상부터 보고서 작성까지 AI를 활용하는 방법을 탐색할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "\"프롬프트 인젝션·과도한 권한 위험\"…에이전틱 AI 기준 만든다",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqRGFad1FfY1BRYWh4WFRTMEJpbGlPSHdUMndGb2tmYzExb183VnpLU1hGTU1ud1pJRWppWlRrSkZvOWR2ajV2NE5EZ2U3YjBmcTZYYzhzMmFoODDSAWBBVV95cUxOZW9laHVxMFU2akRXemdEU25NWkJPUDl5THpPdUpyNlllRW5hOE1GcjF3ZXhMWVRmMWxVTzIxeVFEMUl4VUpWWC13TkdfSDVfcFY5Mml3UUlGd3dQb0pHRmY?oc=5",
+    "source": "연합뉴스",
+    "published": "2026-09-23",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "에이전틱 AI의 프롬프트 인젝션 및 과도한 권한 위험을 관리하기 위한 기준이 마련됩니다.",
+    "implication": "AI 활용 수업 시 프롬프트 인젝션 등 에이전트 AI의 위험성과 안전한 사용법을 논의할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "[스냅드래곤 서밋] \"사용자 일상 읽고 기록한다\" 능동형 AI 에이전트 공개",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BWWhGZjg4dWllSS0tV0Nvb2VwY0tRcmVaWklYaU5FdDBjSU1YOVRvX3praTd1SDdlbXlwcE1BbE8xamg3VWw0WG9PX3lTUE9FTENKdnlQbFFOV1VUNDc1czJnNWxDQQ?oc=5",
+    "source": "thelec.kr",
+    "published": "2026-09-24",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "스냅드래곤 서밋에서 사용자 일상을 읽고 기록하는 능동형 AI 에이전트가 공개되었습니다.",
+    "implication": "학생들과 능동형 AI 에이전트의 데이터 활용과 미래 사회 변화에 대해 토론할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Flipped Classroom model before and during COVID-19: using technology to develop 21st century skills",
+    "url": "https://www.semanticscholar.org/paper/60546f710302dc7f219a73ddbe0b158c11f8a4ce",
+    "source": "semantic_scholar",
+    "published": "2021-04-06",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "코로나19 전후 플립드 러닝을 경험한 대학생 376명을 대상으로 설문조사한 결과, 기술 기반 플립드 러닝이 21세기 핵심 역량 개발에 효과적이며 미래 교육의 방향성을 제시함을 확인합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Cecilia Latorre-Cosculluela, Cristina Suárez 외 1명",
+    "pdf": "http://zaguan.unizar.es/record/101262"
+   },
+   {
+    "n": 2,
+    "title": "When Adaptive Learning Is Effective Learning: Comparison of an Adaptive Learning System to Teacher-Led Instruction",
+    "url": "http://dx.doi.org/10.1080/10494820.2020.1808794",
+    "source": "eric",
+    "published": "2023-01-01",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "중국 8학년 수학 교육에서 AI 기반 적응형 학습 시스템인 Squirrel AI 학습이 기존 대규모 및 소규모 교사 주도 수업보다 학생들의 수학 성과를 유의미하게 향상시킴을 비교 연구를 통해 입증하며, 이는 AI 교육의 효과적 도입 및 확산에 중요한 근거를 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Wang, Shuai 외 4명",
+    "pdf": "http://dx.doi.org/10.1080/10494820.2020.1808794"
+   },
+   {
+    "n": 3,
+    "title": "Evaluation of primary school teachers’ use and perceptions of artificial intelligence in primary school mathematics instruction: a mixed-methods study",
+    "url": "https://doi.org/10.3389/fpsyg.2026.1741116",
+    "source": "openalex",
+    "published": "2026-09-18",
+    "keyword": "",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [],
+    "summary": "튀르키예 초등 교사 302명을 대상으로 혼합 연구를 통해 수학 교육에서 AI에 대한 교사들의 긍정적 인식과 활용 의지를 확인하고, 책임감 있는 AI 통합을 위한 기회와 제약 조건을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Fatih Mehmet Ciğerci, Neşe Uygun",
+    "pdf": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1741116/pdf"
+   },
+   {
+    "n": 4,
+    "title": "Implementing the Curriculum of Love (Kurikulum Cinta) in Islamic religious education: A mixed-methods study of public university students’ moderate attitudes",
+    "url": "https://doi.org/10.66053/ri.v4i4.976",
+    "source": "openalex",
+    "published": "2026-09-19",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "공립 대학 이슬람 종교 교육 과정에 '사랑 교육과정'을 적용한 혼합 연구는 학생들의 다양성에 대한 중도적 태도 증진 효과를 입증하며, 교육 분야에서 포용적 가치 함양을 위한 교수법 및 제도적 지원의 중요성을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Amri Rahman, Nurhilaliyah Nurhilaliyah 외 1명",
+    "pdf": "https://ejournal.abcollab.id/index.php/RI/article/download/976/798"
+   },
+   {
+    "n": 5,
+    "title": "Practice of Inclusive-Based Islamic Education Providers at Al-Amanah Elementary School (SD) Cileunyi",
+    "url": "https://doi.org/10.46799/ajesh.v5i9.828",
+    "source": "openalex",
+    "published": "2026-09-21",
+    "keyword": "",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "알-아마나 초등학교의 질적 사례 연구는 비차별적 입학, 맞춤형 교육과정, 전문 지원 서비스를 통해 다양한 학생을 포용하는 이슬람 교육의 체계적 모델을 구축했음을 밝힙니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Abdullah R.S., Tohirin Tohirin 외 1명",
+    "pdf": "https://ajesh.ph/index.php/gp/article/download/828/1022"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "3D 코딩 대결...클로드 오퍼스 5.5 \"디테일\" vs GPT-5.6 \"비용·속도\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215618",
+    "source": "AI Times",
+    "published": "2026-09-23",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "코딩 AI",
+     "Claude",
+     "ChatGPT"
+    ],
+    "summary": "AI 모델들이 3D 코딩 분야에서 디테일과 효율성으로 특화됨에 따라 산업별 맞춤형 AI 솔루션 발전이 가속화될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "AWS, 토큰 비용 28% 낮춘 AI 에이전트 실행환경 '스트랜즈 하네스' 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215620",
+    "source": "AI Times",
+    "published": "2026-09-23",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Amazon",
+     "에이전트"
+    ],
+    "summary": "AWS의 토큰 비용 절감 AI 에이전트 실행 환경은 AI 에이전트 개발 및 배포를 가속화하며 전반적인 AI 서비스 시장의 경제성을 강화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[9월23일] AI 에이전트, 이제야 ‘진짜 개인 비서’에 가까워지나",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215598",
+    "source": "AI Times",
+    "published": "2026-09-24",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "에이전트",
+     "개인화 학습"
+    ],
+    "summary": "AI 에이전트의 진화는 AI 산업이 단순 도구를 넘어 자율적이고 초개인화된 비서 서비스 시장을 본격화할 계기가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "url": "https://openai.com/index/ringg",
+    "source": "OpenAI Blog",
+    "published": "2026-09-23",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "에이전트",
+     "OpenAI"
+    ],
+    "summary": "OpenAI 기반 AI 에이전트의 높은 고객 응대 해결률은 범용 AI 모델 활용을 통한 산업별 솔루션의 빠른 확산과 AI 도입 가속화를 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "Google, API 및 AI Studio에서 Gemini 3.8 음성 모델 출시",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQa1VzLXFYRVVnaDlIcXpKQ2lBblZqX1AzaFBZNVZHaGxYRDRqZW1rWFVMbXd1Ykpfa0w4SzZnVElHZDlYSjNqeTBEaTN3Mk9Vc0RZMDRYbGxKTFpMSnA1THk5aTdfcnllay1BRHRyZ3hfWE02RDVseklSRG5mX01oeGhaOUpMZHVYcVRTZW5nWUw?oc=5",
+    "source": "Unite.AI",
+    "published": "2026-09-23",
+    "keyword": "AI모델",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Gemini"
+    ],
+    "summary": "구글의 제미니 3.8 음성 모델 출시는 AI 생태계 내 음성 기반 서비스 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "노타 ‘휴머노이드 서밋’서 로봇 AI 모델 7종 최적화 성과 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215628",
+    "source": "AI Times",
+    "published": "2026-09-23",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "로봇·휴머노이드"
+    ],
+    "summary": "노타의 로봇 AI 모델 7종 최적화는 휴머노이드 로봇의 실용화 및 상용화를 촉진하며, AI 기술의 산업별 전문화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "현대차그룹 포티투닷 차량 AI ‘글레오’, 안전 판정에서 GPT-5.6-루나보다 10%p 높은 정확도",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vQjR1X0pBMk4xQWZsZ0U1TnFGVmpxeERNZUpqRkd6NUo0eVVBNlRjdF9sRDAyMGFBQ0RTTk85MFVScGE1d1ZVLWNIVzR0dGxTTVBLMQ?oc=5",
+    "source": "AI 매터스",
+    "published": "2026-09-23",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "LLM"
+    ],
+    "summary": "자율주행 안전 등 특정 도메인에서 특화 AI의 범용 LLM 대비 우위가 입증되며 전문 AI 개발의 필수성을 강조할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "메타의 AI 에이전트 '챗GPT 열풍' 재현 가능성, 삼성전자 SK하이닉스에 기회 커진다",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ReW4zQWtiYU8xVUNWdEg2bUZmNWRHWTM0YldTNkpFekFXMmZPV1RfQ3U5ME40NlpDN3Zjc0NmOTZjelpzUE5TOEZ0NmpRcUNmT1I3bVFsbjU3clJDekFwT29nNEozbFRlY1VhWTZPOTdoYVk?oc=5",
+    "source": "비즈니스포스트",
+    "published": "2026-09-23",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Meta",
+     "에이전트",
+     "ChatGPT",
+     "삼성",
+     "SK",
+     "GPU·데이터센터"
+    ],
+    "summary": "AI 에이전트의 확산은 AI 서비스 생태계를 고도화하고 고성능 반도체 산업의 성장을 견인할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "Anthropic, Claude가 CRISPR와 유사한 새로운 효소 시스템을 발견했다고 발표",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVWpyQVd3cWh4RjBXYjRpNlhzMXZLM3l4R0FNdkZUaDhPN2pZcS1OX0pMTDRjbDRiMGVySldsSjNqRnpSV21KQzZwWEhFajE1bU0xd3V3NEdzelVCWkdNdGhYTXJpVktVdVRVVXVLOGQ4X0VEQ3FvVTBZcXB0UURjanFPRXhPYnBYNnh2eWlkdzRBN3RBd2dITUJ4OA?oc=5",
+    "source": "Unite.AI",
+    "published": "2026-09-23",
+    "keyword": "Anthropic",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude"
+    ],
+    "summary": "AI가 생명과학 분야의 혁신적 발견을 가속화하여 미래 산업의 핵심 동력이 될 잠재력입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "Anthropic engineer explains why Claude's writing got worse although the model got smarter",
+    "url": "https://the-decoder.com/anthropic-engineer-explains-why-claudes-writing-got-worse-although-the-model-got-smarter/",
+    "source": "The Decoder",
+    "published": "2026-09-23",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude"
+    ],
+    "summary": "AI 모델의 지능 향상이 특정 기능의 사용자 경험 저하로 이어질 수 있어, 전반적 성능과 미세 조정의 균형이 AI 개발의 핵심 과제가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

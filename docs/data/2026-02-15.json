@@ -1,0 +1,176 @@
+{
+ "date": "2026-02-15",
+ "generated_at": "2026-11-02T11:52:11+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "“검색은 우연이 아니라 설계다”… 한국디지털언론협회 칼럼니스트 1기 양성과정 현장 스케치",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1WMXZGMl9FZm42UXpZNnlzdlBPUm1ZQzV0X0taQ3N1QWgxMk9GZ3FOT3FKN2Vua1hNaDRZc08wbUNDRXc?oc=5",
+    "source": "한국공공정책신문",
+    "published": "2026-02-14",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "디지털 언론 환경에서 검색 알고리즘의 작동 원리 이해는 비판적 정보 해독 능력 함양을 위한 교육의 필수 요소임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[조영숙 칼럼] 75세까지는 일하고 싶다” 초고령 시대, 달라지는 은퇴 공식",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96QVBHck91N2pfckppeEF4ckZrOFRiQXZTSkpfV0pfZUpqdk1sUzUtYUtiUWQzeF9FUHZybkNvZmFaZk83OGlvc0ZiZ0xQVzlWZnhFS190RUdyXzNPZjNFaW8wczNIVXVGZl9pbA?oc=5",
+    "source": "캐어유 뉴스",
+    "published": "2026-02-14",
+    "keyword": "AI교육",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "초고령 사회는 평생 학습의 중요성을 더욱 부각하며, 교육 시스템은 고령층의 직무 능력 향상 및 사회 참여를 위한 맞춤형 교육을 강화해야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "경기도교육청국제교육원, 인공지능 기반 교원 역량 개발 시스템 ‘ G-LINK’ 도입 국내 교육기관 최초로 도입, 데이터 중심의 맞춤형 피드백 제공",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xVFdsWk4xVnFOOXlxVXN3UTlEWUVYOHlXR2s3ZFltdGJZMV9kRXZ2aGpjeG12UTJ0b3FxdkZlNnlKNUpiTFlGWThWOTNRTEZxczVyTGRTcE5qY2FCQ2xKbHZBY2E?oc=5",
+    "source": "화성저널",
+    "published": "2026-02-14",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청의 G-LINK 도입은 교사 역량 강화에 데이터 기반 맞춤형 지원을 제공하여 궁극적으로 교육의 질을 향상시킬 잠재력을 보여주는 혁신적인 시도입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[인터뷰] 23년 차 특수교사 이민혜 “교사가 먼저 ‘감정의 산소마스크’ 써야 아이들이 삽니다”",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=21750",
+    "source": "에듀프레스",
+    "published": "2026-02-14",
+    "keyword": "",
+    "topic": "teacher",
+    "kind": "interview",
+    "entities": [
+     "특수교육"
+    ],
+    "summary": "교사의 사회정서적 역량 강화는 학생들의 사회정서 교육 효과를 극대화하는 필수적인 선결 조건입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "경기도교육청미래과학교육원, 신규 교사 1,118명 직무연수…하이러닝·에듀테크 실습 강화",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1sRk44azhXTWtINzQzeXp3OHhrZFBvdDk1YjluV1Bqb1JlMGw2Q1ZjMkhlMF9BbTZ1UlFmRmF2cmtVa2pCa09xZl8yaHZXdlU?oc=5",
+    "source": "조이뉴스24",
+    "published": "2026-02-14",
+    "keyword": "에듀테크",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "교사 연수"
+    ],
+    "summary": "경기도교육청의 신규 교사 연수 강화는 하이러닝과 에듀테크 활용 역량 향상을 통해 미래 교육 환경에 대한 교사 적응력을 높이는 데 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "이화여대 사범대학, 교육부 '6주기 교원양성기관 역량진단' A등급 획득",
+    "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxPMEtjNlgwd2twOEV3eUt2cVFGSnVrekFmT3R3aXVjajVsVF9CdlFKWUx3U0xGakVFQlVVUVlpcG9yR2htQ0hRa3NTcGdpNDhnRTJEUW1rVmUtY3VJSzJnWUVSWlI3bUFMc3R0aC1SemE1ZFdIUEhJdXF0N2RVWGV6aWNvZEZ6ajB6bU1PSVVIckxiM0t0dVVaeUIza3BDaEFRblQyM3NrSUxfbmczc0RIUFU3UnNNRDZDeUl0NGdCOVNWVEdtS2lKMU9oSlo5MlpOdm1iQVBXc3BLbk9PN0djRXd4TURXQVVKWjdFaS1NWm5KRlJhUV9ENUdjWWU2Nzl1Y2FFYW1oSnBGX25KUlU2TloxbkpQdnRacEgxZDl2QXZOUU5tVURPajRRaDdQLS1kc2xEbXdWZV95M3VhYTU2NDVLaVpYRVNvRHFSZkZ3U2M3b3UwVzlSNC1hM1loekxRRlJNLWptRi1XaGw0akFvTU9JbkdyVXd1VGoweDc0ZURXOUlmYVR2ZjRPRXc3SWxKcTZCMkkwZGJPMl9EcnNsSkdnZEpTU1NfNlhteTlEYktBUQ?oc=5",
+    "source": "MSN",
+    "published": "2026-02-14",
+    "keyword": "디지털교육",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "이화여대 사범대학의 A등급 획득은 교원 양성 질 관리의 중요성을 다시 한번 강조하며, 타 대학의 교육과정 혁신 및 경쟁력 강화를 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "연세대학교, 서울시교육청과 교사 대상 직무 연수 ‘호평’",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TbXU2RXVOeVo1NGItRkNaUEdieEE4ckVTVlVJUzdvQlNLR0lPeDRsZGVUT0l6eXJjbjFia1pmTnVpVFpWd1lzVXMzdTByMXRCeWxkUjN0VW8xMnZRa1kwWjh0Ujk2OGZYeGVHUWNyanI?oc=5",
+    "source": "한국강사신문",
+    "published": "2026-02-14",
+    "keyword": "에듀테크",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "서울시교육청",
+     "교사 연수"
+    ],
+    "summary": "대학과 교육청의 협력적 교사 연수는 교사의 전문성 향상 및 학교 교육 혁신에 긍정적인 영향을 미칠 수 있다는 것을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "경기도교육청, 디지털 인사관리 구축...'G-인사이트'",
+    "url": "https://news.google.com/rss/articles/CBMi3wNBVV95cUxNLUdwaERnLU5Gb0t0SjNUTndzVTM0YzVMZVpYbnhGejFRdTY1SDV1dlhIY21vbjFubUFPTWpCQjRlanNZcS1BOXlPTjdHV2ZGTjgwdHZLWXJOUDAxNW1pa1pmT1ZsMms5WlhKQjV5QUNjSWxuSXBUVVFiUlhsQVl0UlhCRmx3dkc4aktoQmZKWVo3YnRjSVdqZ1RwOFVkbFdFTW0xeGpmNXVPWGFxbTFlX1N3aHJPQmVjdm1VeV9Pb2ZlZU81cWlhZFJGVTZvV3paallCUU9MeWtiakpreElKWUFHcm5kck1rbzR4Sll4M241WlB6c1JMdFZxWGRQdEtVekJzYUtqWTd2ZTlsZk03X2VHMFNYMElpb0hTZFoxc1o1WXhCOTBFaGVOTkRUOVhNUVRTMkdISGF1VXQ4RjEybXIwREd4eDJERHRBNFJGTGdLbDM3dGU4b2hfajF2WlFrdjRwaFo2M2lyOWxBdjhnbmZzXzNpMXByWWZLYmRTNzFLbGEyYlFHaThDOTVzRzFsLVloSzZWb29hS3MyYkdfQk9kdUtidjFTNWtHeElkWUNFeDJjQXA1bmdpX29DUmtzZlhnRXRsUXpfMWthbGNhM3dMSnhDNFR6SE45YmNtUQ?oc=5",
+    "source": "MSN",
+    "published": "2026-02-14",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청의 디지털 인사관리 시스템 구축은 데이터 기반 의사결정으로 교직원 역량 개발 및 효율적인 인력 배치에 기여할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "최교진 교육부 장관 “AI 기반 대입 상담 내년 3월 도입”",
+    "url": "https://news.google.com/rss/articles/CBMipARBVV95cUxONmU5Zm1IS1RWQnRvMUJYNU0xSUVLd2NFa2tNejVKcVpXOVVzZVFqdjA0aHdYd0piRklvU1JSTGRvN0RRQWFXZ18wZElDYmJDalJNeFUtUXNmSGtWLWNsUkY0MTRFZnhETUpzY3hpZnlLMG1qSDBtSjhrSWVhNlBNTHJTVGJlRTRQaWNOMEI0MHhNaGJ6aHdPZGlBclBOZHhxLTlJSk9aM0lqSFNxWmg3RWJwMENmX2ZWN0Jyd0ZZWVYySndraE14RjlVbUN3d0FwRnNud09iT0N0dFR4em9SdlhQVmhaN3Y0Z0VEckl2azNLR0h5TTNlZFppalNwNTE0R1VrRTRleTFZTTI5VmowNkVISVJZT3pGWFhCVmJWemZBSEpNdXRlZzJnRnVTQkVRSHBrWC13UFdjdzhJd0tONko5eXNNMzZIc2lwcWowamw1OUw4TktZVmluSEZIVHJNcmxiTHhwTGR4Z0xQNEU5bjB6eXJLdldUVG5zdVhVV2VRVVRKb3BQdHE0X2ZhZ1p4MmtXZGZEWDZvSHpObTBSMW03bWNaclpKNWhreWFNWHM5SXFibkZXWDI5S0RINGw5SGJPTVUwaGdsQkx0aVFVTlBBbjdBMWdzOXFNVG1VMTdpSU1MaE5WLU9vRjFJNDJTYWdjM1g0d2VTSzNqQ3I3MmFnYjF5YUVzRVZtb19Cbm9yWGUtbkxCZmVWNlZLS1ZGajJkXw?oc=5",
+    "source": "MSN",
+    "published": "2026-02-14",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "교육부",
+     "수능·대입"
+    ],
+    "summary": "AI 기반 대입 상담 도입은 학생 맞춤형 정보 제공 가능성을 높이지만, 데이터 활용 윤리 및 공정성 확보가 중요합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "[교육감선거 인터뷰-경북] 김상동 “과거에 머물 것인가, 미래로 도약할 것인가”",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xQ2lOVDhDb2FzdmlNVXJaRWVqQUl0WFdXWE1LZW9oSG9Wd2NnRnVFNzVsRjR4MU90S0UwbkVyYTdFUUxLX0hHeFpJdTZqNFBRSHhJeU14VDhzdk0?oc=5",
+    "source": "더에듀",
+    "published": "2026-02-14",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": "interview",
+    "entities": [
+     "교육감 선거",
+     "경북교육청"
+    ],
+    "summary": "김상동 후보의 주장은 경북 교육이 과거의 틀을 벗어나 미래 교육으로 나아가야 할 중요한 시점임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [],
+  "tech": []
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 기술 도입과 디지털 역량 강화, 교사 연수 확대 등을 통해 교육 현장이 미래를 향해 빠르게 변화하고 있으며, 개인 맞춤형 교육과 교사의 전문성 향상에 집중하는 긍정적인 움직임이 활발하다."
+ }
+}

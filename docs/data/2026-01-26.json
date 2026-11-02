@@ -1,0 +1,418 @@
+{
+ "date": "2026-01-26",
+ "generated_at": "2026-11-02T11:51:16+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[기고]기술패권 전쟁을 대하는 중국의 자세",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaWduU3kxbndrY082djFLd1R5aEF0bmNSaGdaVV9XY3V4bHhpWkNWdUtVT0ltMlpjQUp3VXBWZjRQU1lZWmtJUG9nRFBhSTF1MzlnUkNXOVZiU1dDUTZrVHJ2NFJ3UkwwdHNrRmhjMi1CMF9EeVhSX25YdHZRYklHYQ?oc=5",
+    "source": "이데일리",
+    "published": "2026-01-25",
+    "keyword": "에듀테크",
+    "topic": "global",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "미래 기술 패권 경쟁에서 뒤처지지 않도록, 창의적 문제 해결 능력과 융합적 사고력을 키우는 교육 시스템 혁신이 시급합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[기고]백성을 깨우친 나랏말싸미, 세상을 바꾸는 인공지능",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTVGdNNG1aSnlLdTFQcGE2anI0X2dsbVRBQ1pQTzJNX2hNWEpsR1NEblZIcVBYbFhOckFEUkV1YzVKVmMyLTVpcWwxQmtoV3owY2NKUnZTQy1LMW5DSVJuRUVFcUkxTzNsb3lj?oc=5",
+    "source": "gnnews.co.kr",
+    "published": "2026-01-25",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "인공지능 시대, 나랏말싸미 정신을 바탕으로 창의적 문제 해결 능력을 키우는 교육 혁신이 필요합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[전문가 기고]대기업 혁신 경영 사례 및 주안점",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VZG1VVDQ5M0ROdi1jMlE4cFlSQkZKNlNjZEJQdVZJcjJEUXJrNDVUMV9QbWNEVG1UTW5qR2p4M3ZqUnVyTnpOWTVJRkwzcTRCWk14V3oxTjN1ZE5Yb2ZMREdB?oc=5",
+    "source": "매일일보",
+    "published": "2026-01-25",
+    "keyword": "디지털전환",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "대기업 혁신 경영 사례는 교육 현장에도 끊임없는 자기 혁신과 변화를 통해 미래 사회에 필요한 역량을 길러주는 교육 시스템 구축의 중요성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[기고] 전고체 배터리용 기술 개발···미래 먹거리 ´주목´",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10enNzTVhTSWlOTk91cHp5bUpnX19UZGhST3oxLVNWcGxvU1UwLTlQSkh5eE9Gd1VYYkNOZVdXZTJxZWNvUzZ6aEdUYVpDZERRekZWRWRR?oc=5",
+    "source": "mdilbo.com",
+    "published": "2026-01-25",
+    "keyword": "미래기술",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "전고체 배터리 기술 개발 동향은 미래 사회 변화에 발맞춰 차세대 에너지 및 기술 분야 교육 강화의 필요성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[전북칼럼] CES 2026에서 본 새만금의 미래",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoa0ZQdm9NNEFPM3pUeGVnR2JQekhqMTFnX2RMNjR3T3ZBb2Q4M0xXMmZfbXhPZWxQSDZ1UE1CUDFLdWxYcG5XQWRnOU5VN1Jyd2owUkdhRmjSAVhBVV95cUxQaGtGUHZvTTRBTzN6VHhlZ0diUHpIajExZ19kTDY0d092QW9kODNMVzJmX214T2VsUEg2dVBNQlAxS3VsWHBuV0FkZzlOVTdScndqMFJHYUZo?oc=5",
+    "source": "jjan.kr",
+    "published": "2026-01-25",
+    "keyword": "미래기술",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "새만금 개발의 미래 비전은 미래 교육 생태계 조성과 연계하여 지역 교육 혁신 및 인재 양성의 기회를 제공할 수 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "[데스크칼럼] 클라우드가 멈추면, AI도 멈춘다",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RZXpjTVJ6UkZoSElQVE5qZ3J4bGxCWTF0N0ljS2psYjltNUc0V2p2TXRwd2RvRVNDbHAtMUFDRlZ1bXRQWFNLYUFXTkpBVTRqemhNQm5QU2p0WXlvdGhkeVRQc0hfTE1OaUk3OXc4VTBNVFky0gF0QVVfeXFMTlFlemNNUnpSRmhISVBUTmpncnhsbEJZMXQ3SWNLamxiOW01RzRXanZNdHB3ZG9FU0NscC0xQUNGVnVtdFBYU0thQVdOSkFVNGp6aE1CblBTanRZeW90aGR5VFBzSF9MTU5pSTc5dzhVME1UWTI?oc=5",
+    "source": "IT조선",
+    "published": "2026-01-25",
+    "keyword": "미래기술",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "클라우드 기반 교육 시스템 의존 심화는 시스템 장애 시 교육 활동 전반의 마비로 이어질 수 있으므로, 안정적인 백업 시스템 및 대응 매뉴얼 구축이 필수적입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "[기고] AI 로봇 시대 노조의 역할",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByY21EUUxUbXl1MEpwVTU1al9jNFliUzR0dnQ3Tll6aXlOd05pcG5YNzJySllIUU0xanNNY041UHdrdE9TLXRZNTU2Y1Q3M2JFaXNtWFFnV29BbmtUMXRBYg?oc=5",
+    "source": "네이트",
+    "published": "2026-01-25",
+    "keyword": "미래기술",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [
+     "로봇·휴머노이드"
+    ],
+    "summary": "AI 로봇 시대에 대비하여 노조와 협력, 미래 교육은 학생들의 비판적 사고 및 협업 능력 함양에 집중해야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "[경기교육 톺아보기] 임태희 경기도교육감이 그리는 경기미래교육은...“시험에서 미래로 방향 전환”",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xYkRFMlAyNkZmRXg0ZUVqNm5kRllpcUdqUVVjWkRzSTQxOHhMb1lCUFNXcWEwWnFMTUR5RWstRnF2T0d0bmU0ZFlhODhYQVZZY29laXV3Ukt4WGt1cnpNeFZXNA?oc=5",
+    "source": "에너지경제신문 모바일",
+    "published": "2026-01-25",
+    "keyword": "디지털교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "임태희 교육감의 '시험에서 미래로' 전환은 평가 방식 혁신과 미래 교육 모델 구축의 필요성을 강조하며, 학교 교육 패러다임 전환을 촉구하는 중요한 시사점을 던져줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "강미애 미래교육연구소장, 세종교육감 선거 출사표“교육에 보수·진보 없어… 오롯이 학생만 바라보겠다”",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qQnkzQThCZHZjd1pXT1BDdWxlQUhBMENxV1o5Y05LU3lsaE94a2lsQjRDNGNxQ2xxdms1TWZlcjBqQmV6dGN2eTFqVC1XOUZhem5vRGs2a1drblBxaE1Jb2J5UW9GWHBjUW4w?oc=5",
+    "source": "cj-ilbo.com",
+    "published": "2026-01-25",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "세종시교육청",
+     "교육감 선거"
+    ],
+    "summary": "강미애 소장의 출마는 교육 이념 대립을 넘어 학생 중심 교육에 대한 공감대를 확산하는 계기가 될 수 있다는 점에서 주목할 만합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "“수능 개편 전 마지막 시험…출제 경향 반영해 제작”…EBS 수능특강, 오늘(26일)부터 순차 발행",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sRVVnZHI2RlRiVkJhTlFlRUREdXRuVDRkN2lBMEpLUE9yUW9rdDdDcnNsR0ZlMzIzbGh3WXlZSUtEaEVyMGtndmwxc0RrNkVoSnFLYWlR0gFWQVVfeXFMTmxFVWdkcjZGVGJWQmFOUWVFRER1dG5UNGQ3aUEwSktQT3JRb2t0N0Nyc2xHRmUzMjNsaHdZeVlJS0RoRXIwa2d2bDFzRGs2RWhKcUthaVE?oc=5",
+    "source": "피앤피뉴스",
+    "published": "2026-01-25",
+    "keyword": "에듀테크",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [
+     "수능·대입",
+     "EBS"
+    ],
+    "summary": "수능 개편 전 마지막 시험 대비 EBS 수능특강은, 변화하는 출제 경향을 반영하여 수험생들의 학습 전략 수립에 중요한 지침이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Empowering Teachers with AI: Co-Designing a Learning Analytics Tool for Personalized Instruction in the Science Classroom",
+    "url": "https://www.semanticscholar.org/paper/fac2482955d406b2d8540daf482b514d39c41997",
+    "source": "semantic_scholar",
+    "published": "2021-12-13",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "본 논문은 과학 교사와의 협력을 통해, 설명 가능한 AI 기반 학습 분석 도구를 공동 설계하여 개인 맞춤형 수업 계획을 지원하고, 실제 교육 현장에서 유용한 개인화 전략을 제시하며, 교사의 전문성을 활용한 학습 분석 도구의 설계 가능성을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Tanya Nazaretsky, Carmel Bar 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "Integrating AI and Learning Analytics for Data-Driven Pedagogical Decisions and Personalized Interventions in Education",
+    "url": "https://www.semanticscholar.org/paper/6454af73dd2e3f05a1ec9fb111383a7103f34a8b",
+    "source": "semantic_scholar",
+    "published": "2023-12-15",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습",
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "본 연구는 OpenAI GPT-4 기반 학습 분석 도구를 개발하여 학생 참여도, 학습 진행 상황, 교수 전략을 측정하고, 교수의사결정 지원 및 맞춤형 교육 제공 가능성을 제시하며, 데이터 보안 및 정확성 개선 과제를 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ramteja Sajja, Y. Sermet 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Learning Analytics to Reveal Links Between Learning Design and Self-Regulated Learning",
+    "url": "https://www.semanticscholar.org/paper/840ad745f747e42e005abf2f4f2d9549dbda00ab",
+    "source": "semantic_scholar",
+    "published": "2021-05-21",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제"
+    ],
+    "summary": "본 논문은 학습 설계와 자기주도 학습 간의 연관성을 밝히기 위해 군집 분석, 프로세스 마이닝, 인식론적 네트워크 분석을 결합한 새로운 학습 분석 방법을 제시하고, MOOC 학습자의 학습 전략과 성과 간의 관계를 분석하여 효과적인 학습 설계에 대한 시사점을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Yizhou Fan, W. Matcha 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "Educational Game Design Based on Experiential Learning Theory",
+    "url": "https://www.semanticscholar.org/paper/a85fb77c70de9bb1c63d61c6b9c29be4f3a3747c",
+    "source": "semantic_scholar",
+    "published": "2021-03-27",
+    "keyword": "",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 경험 학습 이론 기반 교육 게임 디자인 모듈을 개발하여 교육 효과를 높이고, 실제 교육 현장에서 학생들의 학습 동기 및 문제 해결 능력을 향상시키는 데 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Yatao Li",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "Crafting innovative paths in non-linear professional learning for bilingual education: the role of connectivism in the age of AI",
+    "url": "https://www.semanticscholar.org/paper/fadb0d5ce66c9b46218878148d33740fc688c16a",
+    "source": "semantic_scholar",
+    "published": "2024-10-29",
+    "keyword": "Connectivism",
+    "topic": "language",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "본 연구는 K-12 이중언어/ESL 교사들의 AI 활용 역량 강화를 위해 커넥티비즘에 기반한 전문성 개발 모델을 제시하고, 교사들의 AI에 대한 긍정적 태도 변화와 교육 현장 적용 가능성을 확인하여 디지털 시대 교육 혁신에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Amin Davoodi",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "﻿SKT, 'AI 추천 모델’로 국제학회 상위 4% 논문 선정",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205890",
+    "source": "AI Times",
+    "published": "2026-01-25",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "SK",
+     "LLM"
+    ],
+    "summary": "SKT의 AI 추천 모델 연구는 LLM 기반 추천 시스템의 성능 향상 가능성을 제시하며, AI 기술 경쟁력 강화에 기여할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "구글, 추론 모델 내부 구조 규명...\"인간처럼 '사고의 사회' 생성\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205860",
+    "source": "AI Times",
+    "published": "2026-01-25",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "추론 모델"
+    ],
+    "summary": "AI 추론 능력 향상은 모델 내부의 사회적 상호작용을 통해 이루어지며, 이는 AI 설계 및 개발 방식에 근본적인 변화를 가져올 수 있음을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "구글, 3D 생성 스타트업 인수...월드모델·XR 서비스 주도권 강화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205887",
+    "source": "AI Times",
+    "published": "2026-01-25",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "구글의 3D 생성 스타트업 인수는 월드 모델 및 XR 기술 경쟁력 강화와 함께 AI 기반 3D 콘텐츠 시장 선점의 중요한 발판이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "OpenAI's GPT-5.2 Pro solves math problems that stumped every AI model before it",
+    "url": "https://the-decoder.com/openais-gpt-5-2-pro-solves-math-problems-that-stumped-every-ai-model-before-it/",
+    "source": "The Decoder",
+    "published": "2026-01-24",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT",
+     "추론 모델"
+    ],
+    "summary": "GPT-5.2 Pro의 수학 문제 해결 능력은 AI 모델의 추론 능력 향상을 의미하며, 과학, 공학 등 다양한 산업 분야에 혁신적인 변화를 가져올 수 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "ChatGPT fails to spot 92% of fake videos made by OpenAI's own Sora tool",
+    "url": "https://the-decoder.com/chatgpt-fails-to-spot-92-of-fake-videos-made-by-openais-own-sora-tool/",
+    "source": "The Decoder",
+    "published": "2026-01-25",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "OpenAI"
+    ],
+    "summary": "OpenAI의 Sora로 제작된 가짜 비디오를 ChatGPT가 제대로 식별하지 못하는 것은 AI 모델의 자체 감별 능력에 대한 심각한 한계를 드러내며, 향후 기술 악용 방지를 위한 추가적인 안전장치 마련이 시급함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "LGU+, AI 기본법 시행 맞춰 전사 대응 체계 가동",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205894",
+    "source": "AI Times",
+    "published": "2026-01-26",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "LG"
+    ],
+    "summary": "LG유플러스의 AI 기본법 대응은 AI 신뢰성 확보 경쟁 심화 및 관련 투자 확대를 촉진할 것으로 예상됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "Anthropic rewrites Claude's rulebook to explain why values matter instead of listing rules to follow",
+    "url": "https://the-decoder.com/anthropic-rewrites-claudes-rulebook-to-explain-why-values-matter-instead-of-listing-rules-to-follow/",
+    "source": "The Decoder",
+    "published": "2026-01-25",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude",
+     "AI 안전·규제"
+    ],
+    "summary": "앤트로픽의 새로운 접근 방식은 AI 윤리 및 안전성 확보 방안으로, 규칙 기반에서 가치 기반으로의 전환을 통해 AI 거버넌스 모델의 진화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "비상교육, 일본 넷러닝홀딩스와 MOU… “AI 에듀테크 플랫폼과 학습 인증 결합”",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lWThzdVd3REFkNG4zeFRVekZFaFJpYzdKZWpWVHQ1bE9oaGp2ODBpdi1RelB5emVkUWpfeXdwSWZBT1pNdmppaTdRcjVudGxpd2RMakZ3?oc=5",
+    "source": "헤럴드경제",
+    "published": "2026-01-25",
+    "keyword": "에듀테크",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [],
+    "summary": "비상교육의 일본 넷러닝홀딩스와의 MOU는 AI 에듀테크 플랫폼의 글로벌 확장과 학습 인증 결합을 통해 교육 시장 경쟁력 강화에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "두나무의 AI 기술력, 세계가 주목했다…AAAI-2026서 연구 논문 발표",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4djUxTEFaOFFxUWtiNTlMRHlJaXlpV2Q0S3NLazBGQkRyNVBPZFJ0bDNXdEptdE40cDVPYjBPSnc3cWpzVTU5U3ZvYndBbkR0UW5ycFY2ZnRuSjR1YkxreGpEZmxtYUxPVkVUMVg3NTMyN2M50gF0QVVfeXFMUDh2NTFMQVo4UXFRa2I1OUxEeUlpeWlXZDRLc0trMEZCRHI1UE9kUnRsM1d0Sm10TjRwNU9iME9KdzdxanNVNTlTdm9id0FuRHRRbnJwVjZmdG5KNHViTGt4akRmbG1hTE9WRVQxWDc1MzI3Yzk?oc=5",
+    "source": "더페어",
+    "published": "2026-01-25",
+    "keyword": "머신러닝",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "두나무의 AAAI 논문 발표는 블록체인 기반 AI 기술의 가능성을 제시하며, 관련 산업 발전과 기술적 융합에 긍정적인 영향을 줄 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "두나무 머신러닝팀, AAAI서 연구 발표...금융 뉴스 요약 기술 시연",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2VF9JVV9jOFBIQmQ0REcySmZKeHBDWHZtenVNVFdRN2Y2WVRPSWxvQ0xjYmZFeDkyNTNnYkNIQW1tUnJPdGplMk40N2pwLW02YXVqcWd0U1NtMS1sYzdxSVJNTWx4TkJlaUE?oc=5",
+    "source": "포인트경제",
+    "published": "2026-01-26",
+    "keyword": "머신러닝",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "두나무의 금융 뉴스 요약 기술 연구는 AI 기반 금융 정보 서비스의 발전과 투자자 편의성 증진에 기여할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 기술 경쟁 시대 속에서 교육은 미래를 향한 혁신적인 변화를 모색하며, 학생 중심의 미래 교육으로 나아가고 있다.",
+  "tech": "AI 기술은 추천 모델, 추론 능력 향상, 3D 콘텐츠 생성, 교육 및 금융 분야 적용 등 다방면으로 발전하며, 윤리적 가치 부여 및 안전성 강화 노력과 함께 글로벌 시장에서 영향력을 확대하고 있습니다."
+ }
+}

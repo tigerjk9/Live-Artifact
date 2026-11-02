@@ -1,0 +1,425 @@
+{
+ "date": "2026-01-13",
+ "generated_at": "2026-11-02T11:50:37+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "【김영일 칼럼】 김영일의 사회경제 이야기⑥ - 2026년은 거대한 실험의 원년: AI, 경제를 재편하고 교육의 생존 법칙을 묻다",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE93cmpDcUU5VXcxMkRYS280M2JudXJjZldkRUItcFFVOC1aSWh4Uk96Qkstc3BxSUgxdFVBYVY1TTlJOHVGZ19wMkdSNXBYOUhwaVJEZEQtaFBHTGIycC1xODhKRQ?oc=5",
+    "source": "시사뉴스",
+    "published": "2026-01-12",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "2026년부터 AI는 교육 내용과 방법 혁신을 가속화하여, 학습자 맞춤형 교육과 교사의 역할 변화에 대한 심도 깊은 논의와 대비가 필요합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[신년인터뷰] 김석준 부산교육감 \"사람 중심의 미래교육…AI 수업혁신 중점 추진\"",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA0VXpxLTNGSmtkZlZtSFVEWGYtcmdBeVBHdWIwZlJYUVVndFFuTHJXeEtCa1FEbWZvSmUzOHdldEU2NFNvTE85ekJRclo?oc=5",
+    "source": "아이뉴스24",
+    "published": "2026-01-12",
+    "keyword": "인공지능교육",
+    "topic": "classroom",
+    "kind": "interview",
+    "entities": [
+     "부산시교육청"
+    ],
+    "summary": "김석준 교육감의 AI 활용 수업 혁신 추진은 미래 교육의 방향성을 제시하며, 교사의 역량 강화 및 교육 불평등 해소에 기여할 수 있을지 주목해야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[6·3 지선 주자] 한만중 \"인간 중심 AI교육 토대 만들 것\"...16일 서울교육감 출마 공식화",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sN2s4TU04cnQ2X0c5MXl6OWl5TE1sNm01aFY2MUlGRm5nWERDNVRmbWU4LTU5ZVVtc21xRFNlRV9UZDdnSW5YNDRpWjVNRWdHbjJ2RF9tWmRtYV9M?oc=5",
+    "source": "뉴스핌",
+    "published": "2026-01-12",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "서울시교육청"
+    ],
+    "summary": "한만중 후보의 AI 교육 공약은 기술 중심에서 벗어나 학생의 창의성과 윤리적 사고를 함양하는 방향으로 교육 패러다임 전환을 촉구하는 의미 있는 시도입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "임태희 \"근본적인 교육혁신, 대입제도 개편 없이는 불가\"",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1YWXJlLWxVNy1QM0NibzB2MDhmMllva01ZYS1wQjl2STFlQmpWREctM0IyVGtOckRHNUE1M3p0WGRvSzczQ3FLc05aaHdic2FVMzMzNUNieDN1UlFVV0pkbTdWb1pGZDZuV19n?oc=5",
+    "source": "프레시안",
+    "published": "2026-01-12",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "수능·대입",
+     "사교육"
+    ],
+    "summary": "대입제도 개편을 통한 교육 혁신 주장은, 경쟁 심화와 사교육 의존 심화 가능성을 내포하고 있어, 교육 불평등 해소 방안 모색이 필수적입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "‘공교육 대표’ 서교연 “정시확대, 사교육확대 주범”..'정시40%폐지 미래형 대입의 출발'",
+    "url": "http://www.veritas-a.com/news/articleView.html?idxno=593871",
+    "source": "베리타스알파",
+    "published": "2026-01-12",
+    "keyword": "",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [
+     "사교육",
+     "수능·대입"
+    ],
+    "summary": "정시 축소 주장은 공교육 강화와 미래형 교육 전환의 필요성을 강조하지만, 입시 제도의 예측 가능성과 공정성 확보 방안에 대한 심도 깊은 논의가 필요합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "경기도, ‘AI 활용’ 공직자 교육 도입…학습자 중심 서비스 제공",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5EblUzcFU5dEs1UUNJNVczZDktUDJhS3MyMTE4ano4WGltWTl0Znc2aXJJNUY1TUF0c0xkd19kUWNpMnl4eUhKSGpJR2JhczhpRDliMHZXeWIyWFZD?oc=5",
+    "source": "경기신문",
+    "published": "2026-01-12",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "경기도의 AI 활용 공직자 교육 도입은 공무원 교육의 개인 맞춤화 및 효율성을 높여 궁극적으로 공공 서비스의 질적 향상에 기여할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "임종식 경북교육감 지지도 선두…‘미래형 교육’ 앞세워 3선 도전 본격화",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sQ2tPR1dzZlVqME5WTnhEaHZzQmFJOW5qRjNPV2hFbmVyalpSb1hrdXREN3ZhNHRoUTNiVVNvMHJQUm5zRURDdnh0V2xyeV9MQWhHYmlQYjYtVzVzOFE?oc=5",
+    "source": "뉴스투데이",
+    "published": "2026-01-12",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경북교육청"
+    ],
+    "summary": "임종식 교육감의 높은 지지도는 경북 교육의 미래형 교육 방향에 대한 긍정적 평가를 보여주며, 3선 도전 성공 여부에 따라 교육 정책 연속성이 확보될 수 있을지 주목됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "원성수 전 공주대 총장, 세종 교육감 출마 선언 앞두고 '국가교육위원회' 방문",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rMEliRmVrbVFBUzBURWlLaTlncDhtR0lYM3FtRE0xV0JkT2FLRXFKS0tJejlmSEJxZkFTMVQzMXlvSk5sZnNId2xieV9HbTZYREQ3LVJMQzJGZUdYSU55N25rU2ktUGRDR3Yw?oc=5",
+    "source": "현대경제",
+    "published": "2026-01-12",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "세종시교육청",
+     "국회"
+    ],
+    "summary": "원성수 전 총장의 국가교육위원회 방문은 세종 교육감 출마와 맞물려, 향후 교육 정책 방향에 대한 그의 비전을 엿볼 수 있는 행보로 해석됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "\"특성화고 졸업 후 10년 책임\" 파격 제안... 국교위, 직업계고 혁신안 권고",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE13d255blBpQmlVbE95RjNjYWNEMTd4UW04ZnhJY1Zxd0hBMnFSX29PbndUUFRYcXNiVU1pdFU1NE5nRVp6YXA2d2VTVE9CQ3QwcW1rZUdXZ2xPTnZVSXl6ZXBLV0xxZw?oc=5",
+    "source": "교육을 비추다",
+    "published": "2026-01-12",
+    "keyword": "교육혁신",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [],
+    "summary": "특성화고 졸업생의 장기적인 성장 지원 시스템 구축은 고졸 취업 활성화와 직업 교육의 질적 향상을 위한 중요한 발걸음입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "구례군, 새해농업인 실용교육부터 수박 수직재배까지 농업 혁신 가속",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoX1hOTm5oclRqSFV1Rm1QWmY3ZHFHV0ZnVWxyWXdxSzU3d1hrdWl1QWFUVUk2TFZzb2M1MHdFM2pVV1g0Q21NNjFLQlh3UXlPRFBFUQ?oc=5",
+    "source": "시사의창",
+    "published": "2026-01-12",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "구례군의 농업 혁신 교육은 지역사회 기반 학습을 강화하고 농업 분야 진로 교육의 가능성을 보여주는 중요한 사례입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Teachers' training for the use of digital tools of the formative assessment in the implementation of the concept of the New Ukrainian School",
+    "url": "https://www.semanticscholar.org/paper/7e2304892f5b67f4fbd5d0466d12128771aa8e4a",
+    "source": "semantic_scholar",
+    "published": "2022-02-05",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "본 논문은 우크라이나의 새로운 학교 모델 구현을 위해 초등 교사 162명을 대상으로 MentiMeter, Plickers, Kahoot 등의 디지털 도구를 활용한 형성 평가 교육 프로그램을 개발 및 적용하고, 그 효과를 분석하여 교사 연수 과정의 필요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Irina Zhorova, O. Kokhanovska 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "Artificial intelligence in language instruction: impact on English learning achievement, L2 motivation, and self-regulated learning",
+    "url": "https://www.semanticscholar.org/paper/69d556419eefcd05dbf21a6b666568a2825f4c71",
+    "source": "semantic_scholar",
+    "published": "2023-11-06",
+    "keyword": "",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제",
+     "개인화 학습"
+    ],
+    "summary": "AI 기반 언어 교육이 대학생들의 영어 학습 성취도, 학습 동기, 자기 주도 학습 능력을 향상시키는 데 긍정적인 영향을 미치며, 실험 집단 학생들의 인터뷰 분석 결과 맞춤형 학습 경험 제공과 참여도 증진이 이러한 효과를 뒷받침함을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ling Wei",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Educational Design Principles of Using AI Chatbot That Supports Self-Regulated Learning in Education: Goal Setting, Feedback, and Personalization",
+    "url": "https://www.semanticscholar.org/paper/c889cdd52db3ec7a8f8270ce80e010d2725aede2",
+    "source": "semantic_scholar",
+    "published": "2023-08-27",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제",
+     "ChatGPT",
+     "개인화 학습"
+    ],
+    "summary": "본 논문은 ChatGPT와 같은 AI 챗봇을 교육에 효과적으로 활용하기 위해 Zimmerman의 자기 주도 학습 프레임워크와 학습 판단을 기반으로 목표 설정, 피드백, 개인화라는 세 가지 교육 원칙을 제시하여, AI 챗봇 활용을 통해 학생들의 자기 주도 학습 능력을 향상시키는 교육 설계 지침을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Daniel H. Chang, M. P. Lin 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "Pedagogical Paradigms in teaching EFL classroom: evaluating approaches of cognitivism, constructivism, pragmatism, and connectivism",
+    "url": "https://www.semanticscholar.org/paper/53525118c107ab3425f8672d9dff7a29d1fcb9b8",
+    "source": "semantic_scholar",
+    "published": "2023-02-08",
+    "keyword": "Connectivism",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 바바호요 기술대학교 학생들을 대상으로 인지주의, 구성주의, 실용주의, 연결주의적 접근법을 적용한 영어 교육이 학생들의 듣기, 쓰기, 말하기, 읽기 능력 향상 및 만족도 증가에 긍정적인 영향을 미치며, 협력 학습과 비판적 사고 능력을 증진함을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Jeanelly Cecilia Aguilar Parra, Byron Carlos Reasco Garzón 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "Teachers and AI: Understanding the factors influencing AI integration in K-12 education",
+    "url": "https://www.semanticscholar.org/paper/a7ec600b20077aebe10a74ed68d18e3bd99e8958",
+    "source": "semantic_scholar",
+    "published": "2025-03-20",
+    "keyword": "K-12 education",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "튀르키예 사립학교 교사 대상 AI 활용 교육 프로그램 연구 결과, 교사들은 AI의 효율성, 상호작용성, 적응성을 높이 평가했으나, 기술적 문제, 윤리적 우려, 문화적 장벽 등이 존재하여, 성공적인 AI 교육 도입을 위해 지원과 윤리적 지침 마련이 필요함을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ozan Filiz, M. H. Kaya 외 1명",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "[1월12일] \"GPT-5.2, 30년 된 수학 난제 해결\"...'AI 연구원' 새로운 시대 맞아",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81ZWxGano3NnZTX1ZDS2pvcl9JanBnSGpWSFdjT0FfNGRleERBbjhjdTVDcWJNTnctMHlpVUtGTTI2cEJiUVNzREFzSklzY2M5X20xN1RkTDJqS01kZlFwaDNwZlIxSk1EY0E?oc=5",
+    "source": "AI타임스",
+    "published": "2026-01-12",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.2의 수학 난제 해결은 AI 연구의 새로운 가능성을 제시하며, 향후 AI가 과학 및 산업 혁신에 기여할 잠재력을 보여주는 중요한 사례입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "AI 발전 저지 위한 ‘데이터 오염’ 집단 움직임 등장",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205509",
+    "source": "AI Times",
+    "published": "2026-01-12",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 학습 데이터 오염 시도는 기술 발전의 불확실성에 대한 반작용이지만, 장기적으로 AI 생태계의 신뢰성을 훼손하고 산업 발전을 저해할 수 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "Anthropic launches Claude for Healthcare one week after OpenAI's hospital push",
+    "url": "https://the-decoder.com/anthropic-launches-claude-for-healthcare-one-week-after-openais-hospital-push/",
+    "source": "The Decoder",
+    "published": "2026-01-12",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude",
+     "OpenAI"
+    ],
+    "summary": "앤트로픽의 의료 분야 특화 Claude 출시로 OpenAI에 이어 의료 AI 시장 경쟁이 본격화되며, 의료 서비스 혁신과 동시에 데이터 보안 및 윤리적 사용에 대한 중요성이 더욱 부각될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[신년사] 오재호 파일러 대표 “2026년 ‘AI 안전’ 표준 원년...AI 슬롭 통제 자동화할 것”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205515",
+    "source": "AI Times",
+    "published": "2026-01-12",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제"
+    ],
+    "summary": "파일러의 AI 안전 표준화 추진은 영상 이해 AI 기술의 신뢰성을 높여 관련 시장 성장에 기여할 것으로 예상됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "튜링에서 GPT까지, 인공지능 70년의 대서사 ' ‘AI와 40인의 괴짜들'",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1PQnYyRldqNDBPMjVpcHhEZDA2NERkNmx2enJiZkhxRDRKUzlsaGQ5M2U1WlBVb0w5ZG90SzdXdlpwbENkbjhPVEk0Q3JoNWN6MTNweXctZF94dmNBU1lOME84MA?oc=5",
+    "source": "시사뉴스",
+    "published": "2026-01-12",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 역사를 통해 기술 발전의 복잡성과 혁신가들의 역할을 조망함으로써, 미래 AI 기술 개발 방향 설정에 중요한 시사점을 제공합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "구글·월마트, 'AI 쇼핑 비서' 동맹…챗GPT·아마존에 맞불",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9fTUd2aUxkcUxLNWRIYzRFWGdRU2dNem5QWWxGMTVpTmZlSElyaTJ6WUtkVFhlMF9sRUMzQm0tNFhybU9HNjdOcW5EZTZJSG1HVDBJ?oc=5",
+    "source": "네이트",
+    "published": "2026-01-12",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Google",
+     "ChatGPT",
+     "Amazon"
+    ],
+    "summary": "구글과 월마트의 AI 쇼핑 비서 동맹은 거대 기술 기업과 유통 기업 간의 협력을 가속화하며, AI 쇼핑 시장 경쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "대한민국 AI 판을 바꾼다… 국내 1위 ‘K-엑사원’ 공개, 누구나 무료 API로 나만의 AI 에이전트 만든다",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEbVp1OHRuTUNmZWo0RkQzSDNSbkdNNWFfaUhVcTRWV1FDLTBfNWI3eDUzM3I2YmRiY3BydU42YUtfMkVrMW00bG4xZGIzSXM3UmpVWEtRN25EaUZ1eW8tOEhPblR0RmM?oc=5",
+    "source": "구글 뉴스 AI",
+    "published": "2026-01-11",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "LG",
+     "에이전트"
+    ],
+    "summary": "LG AI연구원의 엑사원 API 공개는 국내 AI 생태계 확장과 AI 에이전트 개발 활성화에 기여할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "LG AI연구원, 독자 기술 집약 'K-엑사원' 공개 : 기업/산업",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE51MUJXUWI3YTZHQ2s5TUl4ZkFid3ZkRkJmOXk2bTl2Y0dhaDlxV2RrTkl3WTZRYXEtdUZ3VkdfdUxETEdiNEdjeWtR?oc=5",
+    "source": "재경일보",
+    "published": "2026-01-12",
+    "keyword": "AI연구",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "LG"
+    ],
+    "summary": "LG AI연구원의 K-엑사원은 국내 AI 기술 자립도를 높이고, 관련 산업 경쟁력 강화에 기여할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "몬드리안에이아이, '네오클라우드' 사업 출사표…포스트매스와 AI 에듀테크 고도화",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByTkNsekZIV29WM1lNQzRleHZKaWxuZXphUklDbS1VMzdBbFBieG9aY0RYbzVhQnp4YzlGNXY4THZNQVhPMUpQRDAzYl9OcGI3VHRNMUp3?oc=5",
+    "source": "지디넷코리아",
+    "published": "2026-01-12",
+    "keyword": "AI모델",
+    "topic": "industry",
+    "kind": null,
+    "entities": [],
+    "summary": "몬드리안에이아이의 네오클라우드 사업 진출은 AI 에듀테크 시장 경쟁 심화 및 기술 고도화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "경북교육청, AI 기반 맞춤형 학습 플랫폼 본격 도입",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SRkJvcW1ESW9vRkswbGRPY3psX0NtaHVIWmNNS2NIQnRnRE1ERlJnMVNLV2szSzRyYzNaNTU0UjJfRjlrV0ZpdVVFZnhMUnFyRmFJUDRTNFNqUHZ0MXdjN0dTSEJWOVRS?oc=5",
+    "source": "환경일보",
+    "published": "2026-01-12",
+    "keyword": "에듀테크",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "경북교육청",
+     "개인화 학습"
+    ],
+    "summary": "경북교육청의 AI 학습 플랫폼 도입은 에듀테크 시장 확대와 AI 기반 교육 서비스 고도화를 가속화할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 기반 미래 교육 혁신과 공교육 강화, 직업 교육 혁신을 통해 교육 생태계 전반의 발전을 가속화하며, 학습자 중심의 미래형 교육으로 나아가는 🚀 변화가 기대됩니다.",
+  "tech": "AI 기술이 의료, 교육, 쇼핑 등 다양한 분야로 빠르게 확산되고 있으며, 안전 및 표준화 노력과 더불어 국내외 기업들의 경쟁적인 AI 플랫폼 개발 및 협력이 가속화되는 추세이다."
+ }
+}

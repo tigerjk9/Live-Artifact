@@ -1,0 +1,413 @@
+{
+ "date": "2026-06-28",
+ "generated_at": "2026-11-02T11:38:58+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "2026년 제2회 AIBT 직접 응시해보니…생성형 AI·경영·금융 고르게 출제",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rTXlJbXY5SURjSi1qRjgxZ1ZIUVJUamNDb0lzVTdHSzNaY04tQTJOcjJHdllQZFlhZjE0SkF4RTc3Sk0xZHkwTE12MjliUkFVZG85amNhcHN4bHAtTWc0VGJpaVNKNkw5MExv?oc=5",
+    "source": "issueon.co.kr",
+    "published": "2026-06-27",
+    "keyword": "생성형AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "2026년 제2회 AIBT에서는 생성형 AI, 경영, 금융 분야 문제가 고르게 출제되었습니다.",
+    "implication": "이 시험 결과를 바탕으로 생성형 AI, 경영, 금융을 연계한 융합 수업을 계획하고 진행할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "고의숙 교육감, 표선서 'IB학교 경청투어' 첫걸음… \"제주형 IB교육 성과 전 도내로 확산\"",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EM2V3NkVTeno1VHVTdTVCb21wV0stZTlZM2FQNU9yZTZpNG5fbktNRW55QzNlUVBxZjJwV2xGeFNxV09aTzA1MnF6MzY2X2MtXzhRd2dvbm5mNU5FSEl4YmhKbTlZMWNRd3FTeQ?oc=5",
+    "source": "뉴스N제주",
+    "published": "2026-06-27",
+    "keyword": "교육현장",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "고의숙 교육감이 표선 IB학교 경청투어를 시작하며 제주형 IB교육 성과를 도내 전역으로 확산할 계획입니다.",
+    "implication": "IB교육 확산에 발맞춰 우리 반 수업에 탐구 중심 학습과 비판적 사고 활동을 접목할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "‘제5대 세종특별자치시교육감직인수위원회’, 학교 현장 방문",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jYlZiQmJaV3JHVGY2aVB4ZVhyZXFpYkFNNnkyaDZyRmdJVDRaNlR5WDJGSndfeUlOa1h1WjJlZnlTempsOUlIWnlkX0gydFJLd01teGdtOUl4Mms1RDRnRnQ4RHlnWlp6Q2VMZndWTXY?oc=5",
+    "source": "모빅경제",
+    "published": "2026-06-27",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "세종시교육청"
+    ],
+    "summary": "제5대 세종특별자치시교육감직인수위원회가 학교 현장을 방문했습니다.",
+    "implication": "학생들에게 교육 행정의 변화 과정을 소개하며 현재 상황을 토론할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "제19대 세종시교육감직 인수위원회, 세종장영실고등학교 현장 방문",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DT2N6cVVxVGd2cWpVMVhvMGluVkFYV2VPTVhfTGg4UWZZYW0tejFPRUN1MGhDa2F4WEZCQUNMRjA4dDBWQ3RYekdKRWZMd0lVOW5fb2stcTNNN1lHRTUta05tNmlzWFllaFE?oc=5",
+    "source": "뉴스티앤티",
+    "published": "2026-06-27",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "세종시교육청"
+    ],
+    "summary": "제19대 세종시교육감직 인수위원회가 세종장영실고등학교를 현장 방문했습니다.",
+    "implication": "새 교육감 인수위의 현장 방문은 학교의 다양한 교육 활동을 알릴 좋은 기회가 될 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "충북교육청 ‘적극행정’ 앞세워 교육 현장 변화 이끈다",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5WUFoxWHQ3WG00UHhYRWNjdXJ2dWlVeklidXNIb05sZnVTNEt1S1FqaFp3SWx3SmNOTUtaUHZpN09MazJBTHc?oc=5",
+    "source": "아이뉴스24",
+    "published": "2026-06-27",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충북교육청"
+    ],
+    "summary": "충북교육청은 적극행정을 통해 교육 현장의 변화를 주도합니다.",
+    "implication": "충북교육청의 적극행정 지원으로 새로운 수업 방식이나 교육 자료를 활용하여 수업을 풍성하게 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "대전시교육청, 학교 현장 맞춤형 청렴 사례집 보급 \"교직원·학부모 이해도 높인다\"",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oNmhsWFgwaXdFYjQwLVdsR3BYY3lVTHc4bTFyYzBxVm5lU0tGVi1uRnVUR2tCajhSSWNrWVkxWm51T0ZWLXkwSExMUllwOHRiLVFVdl9IcW9XX2Rtd3htNnN6V3dfaVZPd0UxYU9zUUY?oc=5",
+    "source": "한국강사신문",
+    "published": "2026-06-27",
+    "keyword": "교육현장",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "대전시교육청은 교직원과 학부모의 청렴 이해도를 높이고자 학교 현장 맞춤형 청렴 사례집을 보급한다.",
+    "implication": "수업 시간에 청렴 사례를 바탕으로 학생들과 올바른 의사결정 과정을 토론하는 데 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "강화 지역아동센터 찾아가는 진로체험 확대…인천시교육청, 진로교육 격차 해소 나선다",
+    "url": "https://www.lecturernews.com/news/articleView.html?idxno=205132",
+    "source": "한국강사신문",
+    "published": "2026-06-27",
+    "keyword": "",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "강화 결대로진로센터는 교육 접근성이 낮은 지역아동센터 학생들에게 찾아가는 진로체험 프로그램을 확대하여 교육 격차 해소에 나선다.",
+    "implication": "다양한 분야의 직업 체험 활동을 교실 수업이나 동아리와 연계하여 학생들의 진로 탐색을 심화할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "'학부모가 교육정책 설계'…서울시교육청 '학부모공론장' 가동",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zQjhTNlVwb1RUaEJzUTZZbHFscU5veDE4ai1JeFpONElQSlU1NDJJUzJJRzF5NThFTXMzSHV5SDFETTNUYkY5Z0VWSEJXTzllYUJn?oc=5",
+    "source": "네이트",
+    "published": "2026-06-28",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "서울시교육청"
+    ],
+    "summary": "서울시교육청이 학부모가 교육정책을 직접 설계하는 '학부모공론장'을 가동했다.",
+    "implication": "수업 시간에 교육정책 형성에 참여하는 다양한 주체를 소개할 수 있는 사례입니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "구미경 서울시의원, 성동구 학교 재배치 추진현황 점검…\"주민 의견이 교육정책 밑거름 돼야\"",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XMUR6aVM2LW5XZEswU3liZlpTRFhuZ1NEdU5kTkhfbUtaWFBUSlFaZ1JNeld6Yjg3THZFZHFjTGtKcXpSamVoaGxudFkzS2pZMzdNekhHSHNiYXlFYUk0UDRoakl6WVRNUzBXNw?oc=5",
+    "source": "파이낸스투데이",
+    "published": "2026-06-27",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "구미경 시의원이 성동구 학교 재배치 추진을 점검하고 주민 의견 반영을 강조함.",
+    "implication": "이 뉴스를 통해 학생들이 지역 교육정책 수립 과정에 시민 의견이 반영되는 사례를 토론할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "넷플릭스 '참교육'이 교육정책 바꾼다...제주, 경기 등 교권보호 전담조직 전국 확산 조짐",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUMjZmYW5XdFJKYUJReVJyb0pPOTNoU1E0bjVVR2hCMFJZbldZVkxYVHlHTmhVQTZlb2dBSUhpVWxXSGJJUEUtTlUwTDUzM0RxQ2pVTQ?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-06-27",
+    "keyword": "교육정책",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "교권"
+    ],
+    "summary": "넷플릭스 발 논란으로 교육정책 변화가 가속화되며, 제주, 경기 등에서 교권보호 전담조직이 전국적으로 확산될 조짐을 보입니다.",
+    "implication": "교권보호 전담조직의 확대로 교육 활동 보호를 위한 전문적 지원을 요청하며 안정적인 수업 운영에 활용할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Teacher Questioning Strategies and Student Achievement: Insights from AI Chatbot-Assisted Interactive Learning Environments",
+    "url": "http://dx.doi.org/10.1007/s10639-025-13729-9",
+    "source": "eric",
+    "published": "2026-01-01",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 챗봇 답변 감지 알고리즘을 개발한 이 논문은 교사의 질문 전략이 학생의 AI 챗봇 사용에 미치는 영향과 학업 성과 간의 관계를 분석하여, 고차원적 질문이 AI 사용을 유도하나 학업 성적에는 미미한 영향을 미침을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Jia Hao, Shumin Liu 외 1명",
+    "pdf": "http://dx.doi.org/10.1007/s10639-025-13729-9"
+   },
+   {
+    "n": 2,
+    "title": "Bridging AI Skills Gaps in Marketing Education: Prompt Engineering as a Key Competency",
+    "url": "http://dx.doi.org/10.1080/10528008.2025.2501788",
+    "source": "eric",
+    "published": "2025-01-01",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [],
+    "summary": "이 연구는 마케팅 교육의 AI 기술 격차 해소를 위해 프롬프트 엔지니어링 통합의 중요성을 강조하며, 문헌 검토와 워크숍 기반 사례 연구를 통해 개념적 프레임워크를 제시하여 학생들의 AI 역량과 책임감 있는 교육 혁신에 이바지합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Mohammad Saleh Torkestani, David B. Dose 외 1명",
+    "pdf": "http://dx.doi.org/10.1080/10528008.2025.2501788"
+   },
+   {
+    "n": 3,
+    "title": "Enhancing Teacher Effectiveness with AI Based Prompt Engineering: A Proof of Concept",
+    "url": "https://doi.org/10.63504/jstem.v26i2.2711",
+    "source": "eric",
+    "published": "2025-01-01",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [],
+    "summary": "중학교 교사를 위한 AI 기반 프롬프트 엔지니어링 프레임워크를 제시하고, 이를 통해 교사 효율성 및 학생 성과를 향상시켜 교육 기술 발전에 기여함을 입증합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Cody Arrington, Derek McVey 외 1명",
+    "pdf": "https://doi.org/10.63504/jstem.v26i2.2711"
+   },
+   {
+    "n": 4,
+    "title": "Potential of AI to Replace Teachers' Expertise: Ethics and Challenges",
+    "url": "http://doi.org/10.4018/979-8-3373-0396-3",
+    "source": "eric",
+    "published": "2026-01-01",
+    "keyword": "",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 AI의 교사 전문성 대체 가능성에 따른 윤리 및 실질적 도전과제를 탐구하며, 교육자들이 AI를 효과적으로 활용하여 학습 경험을 향상할 지식과 도구를 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Shahnawaz Khan, Editor 외 2명",
+    "pdf": "http://doi.org/10.4018/979-8-3373-0396-3"
+   },
+   {
+    "n": 5,
+    "title": "An Examination of English as a Foreign Language Preservice Teachers&apos; Technological Pedagogical Content Knowledge Development through Learning Design and Connectivist Approaches",
+    "url": "https://gateway.proquest.com/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&res_dat=xri:pqm&rft_dat=xri:pqdiss:31294189",
+    "source": "eric",
+    "published": "2024-01-01",
+    "keyword": "Connectivism",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "연결주의 기반 디자인 학습(LBD) 모델을 적용한 기술 통합 수업이 예비 영어 교사의 테크놀로지 교수학습 지식(TPACK)을 효과적으로 증진함을 혼합 연구 방법으로 규명하여, 영어 교사 교육 프로그램의 교수학적 접근법을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Huimei Chen",
+    "pdf": "https://gateway.proquest.com/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&res_dat=xri:pqm&rft_dat=xri:pqdiss:31294189"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "에이전트 장기 프로젝트 벤치마크 'AA-브리프케이스' 공개...1위는 '페이블 5'",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212179",
+    "source": "AI Times",
+    "published": "2026-06-27",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "에이전트",
+     "벤치마크"
+    ],
+    "summary": "AI 에이전트의 장기 프로젝트 벤치마크 공개는 복합적 문제 해결 능력 고도화를 가속화하고, AI 산업 경쟁 심화 및 적용 확대를 이끌 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "오픈AI, 세계 최고 수준 차세대 추론 모델 'GPT-5.6' 공개…플래그십 '솔' 제한 프리뷰 시작",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JM1NmV3ZYc0VlVzBmX0M2bXlJNXc4Y1JpYmk0bGt0Z0lIbV9QTmJ6WkJCZDktc1loNjc4b25ickNCaEpxbVpGV1JIVkRFR1BTTHBjTDhYSjU3UWpIWlNJZWwzVGFBVHM?oc=5",
+    "source": "인공지능신문",
+    "published": "2026-06-27",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "추론 모델",
+     "ChatGPT"
+    ],
+    "summary": "오픈AI의 최고 수준 차세대 추론 모델 'GPT-5.6' 공개는 AI 기술 생태계의 경쟁 심화와 산업 전반의 AI 활용 혁신을 촉발할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "미국 수출 통제 장벽을 뚫고 중국 오픈소스 GLM 5.2가 기업 예산을 확보했습니다. (Anthropic 및 OpenAI 제공)",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWnhkaUNnZDFCYWlFbDZiLTA0NjdNemJXWnJxN2dlNjB3Sy1lWmdDT19JcWxEX29WdVB4VlZnUmR5RDlPNHJxdTJjWGM0cWdGVGs0dm5oaXhVQkdkMm9BTHE3TkRPTkxZVFJ2ckxxQ0EyZjBPODg3Nms3N3lsNldUeWdwRng2OTR5MmNCOUxzSnRlZDI1TDFGdzNnWmZQRldLUVJ5a1drV05uNmprcmVrSlVyYXpZRDNkZHdMZXotZHBjZmRSWjhCRTlpNVBEZw?oc=5",
+    "source": "Cryptopolitan",
+    "published": "2026-06-27",
+    "keyword": "Anthropic",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "오픈소스",
+     "Anthropic",
+     "OpenAI"
+    ],
+    "summary": "미국 수출 통제에도 불구하고 중국 오픈소스 AI 모델이 기업 예산을 확보하며, AI 기술 생태계의 다극화와 경쟁 심화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+    "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "source": "OpenAI Blog",
+    "published": "2026-06-21",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "삼성",
+     "ChatGPT",
+     "코딩 AI",
+     "생성형 AI"
+    ],
+    "summary": "삼성전자의 생성형 AI 사내 도입은 기업 업무 혁신을 위한 AI 기술의 전면적 도입과 산업 전반의 생산성 향상을 가속화하는 중대한 전환점입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+    "url": "https://openai.com/index/ai-chemist-improves-reaction",
+    "source": "OpenAI Blog",
+    "published": "2026-06-17",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "AI의 자율적 연구 역량이 의약화학 등 복잡한 과학 R&D 효율을 극대화하여 산업 적용 범위가 확대될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "바이두, '언리미티드 OCR' 공개… \"메모리 한계 깨고 수십페이지 문서 한 번에\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212177",
+    "source": "AI Times",
+    "published": "2026-06-27",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "바이두의 언리미티드 OCR은 메모리 제약을 넘어 AI의 대규모 문서 처리 능력을 혁신하여 산업 전반의 디지털 전환을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "url": "https://openai.com/index/bbva",
+    "source": "OpenAI Blog",
+    "published": "2026-06-11",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "BBVA의 OpenAI 활용은 AI가 금융권을 넘어 전 산업의 핵심 동력으로 자리매김하며 전통 산업 전반의 AI 전환을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "From Local LLM to Tool-Using Agent",
+    "url": "https://towardsdatascience.com/from-local-llm-to-tool-using-agent/",
+    "source": "Towards Data Science",
+    "published": "2026-06-26",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "LLM",
+     "에이전트"
+    ],
+    "summary": "로컬 LLM이 도구 사용 에이전트로 전환되며 AI는 단순 언어 모델을 넘어 실제 문제 해결의 핵심 동력이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "url": "https://openai.com/index/daybreak-securing-the-world",
+    "source": "OpenAI Blog",
+    "published": "2026-06-22",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [],
+    "summary": "Daybreak의 글로벌 보안 도구는 AI 기술 생태계 전반의 신뢰와 안전을 확보하여 AI 산업 발전에 필수적인 기반이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "Improving health intelligence in ChatGPT",
+    "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "source": "OpenAI Blog",
+    "published": "2026-06-18",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "ChatGPT의 건강 정보 역량 강화는 범용 AI의 전문 분야 신뢰도를 높여 헬스케어를 포함한 고부가가치 시장 확대를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

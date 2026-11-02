@@ -1,0 +1,413 @@
+{
+ "date": "2026-01-05",
+ "generated_at": "2026-11-02T11:50:13+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[기고] AI 시대엔 대학 강의실의 침묵을 깨야 한다",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQ05PM1NlQjJDU0J0RGdKVlBqdWNoZ1lLSmtJZVFKUEdvM1lSWDRSZy1XVHZIQmR6NHlEWjNNdjkwb1gtbDJqQUd2bjBUMi16THZwUDlxZWt4LUVhSzBySjVzNFEteC1RVFBxZjdKTDYtU0dPeEZRSlpnRXo0WTRWSXhBSlpNamM0MHfSAZ4BQVVfeXFMTzAtZ3lyRVFPaTMyMHFzTXY5dG9zUDFNbmVKd2RXLW5KamQ5UEJsUU8wUElDM1JWQjJTT0Vsd1BKQ1hqbVhtcnByQmszSllZTDNlTjdRT1VNU2NOVWNZSmhsaU9oU09UWXpGcGFBTXJaWVdNbXoxaTk5ZFhySnNyVGtSWk96bE9NaUlrVjFtaXhtaURfaHRwTG51aUp4YVE?oc=5",
+    "source": "조선일보",
+    "published": "2026-01-04",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "AI 시대에는 대학이 지식 전달 넘어 학생들의 적극적 참여와 비판적 사고 능력을 키우는 교육 혁신을 서둘러야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[경상시론]AI시대, 교육은 어디에서 출발해야 하는가",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wbURSM3ZKTEZob3R1dG85WnpSZFI3QnFxYjBTcjV5YWd5U0ZPM2lmVTkwWVpBbEEwTWVtZEU2M2Y4R1h2bDNTR2Jlc1hwWDMwb0t5Rlk5SDBDcGlRNEtaVGFCUzJFMFJpU2hWTzV3?oc=5",
+    "source": "울산일보",
+    "published": "2026-01-04",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "AI 시대에는 지식 습득 방식 변화를 넘어, 인공지능과 공존하며 창의성과 비판적 사고력을 함양하는 교육의 근본적인 전환이 필요합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[사설] 사교육비 10년來 60% 증가, AI시대 ‘교육 역주행’",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yalVLNlRGRFZHeFB6bVVhMFRENGpTeGhoQTh0alQxWkF5NE93d214VTVaS093b2Znb3pOUEw5ZTZvcG5lRzFES19iNmhSa0RBLUxZbFdR0gFXQVVfeXFMTmE0TnBzM0dPSWJVaDYxWkFLMDF0c3lHLTZWSV9jam5tQmZpTjFvMWlaRVNkVHMtTzdBQUQwV2JJSDNuVHQ2a1pmSnJnb2N6UnpaeEVaSHd3?oc=5",
+    "source": "sedaily.com",
+    "published": "2026-01-04",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [
+     "사교육"
+    ],
+    "summary": "AI 시대에 사교육비 증가 추세는 공교육 혁신을 통해 불필요한 경쟁을 완화하고 교육 격차 해소를 위한 정책 마련이 시급함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[사설]AI 주도 창의인재 양성에 박차 가하는 지역 교육청",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIRjNHcHNnT2lUajJiWllwU1UxSkhOaHZuYmtxdldhUV9SQnMtS2k3a2tQeFNEX2NDVF9uTmhxSmlnSHAtRmNJckYzMThMcF9wMTRGYw?oc=5",
+    "source": "광주매일신문",
+    "published": "2026-01-04",
+    "keyword": "AI교육",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "AI 주도 창의인재 양성 노력은 미래 교육 방향에 부합하나, 교육 불평등 심화 방지 및 교사의 역할 재정립에 대한 심도 있는 고민이 필요합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[기고] 피지컬 AI와 한국의 갈 길",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92NHYtaDdDWVVaaTJDLVlXUW5ZTGppT2V4SkFKNVRGQndlaUR2a01WMVROWFZuLVNUMmVxSnBXNU1ORUpfUDBrTXhUN0Vwa3gzSkh3RHNoTFFpbU1RaTJiYw?oc=5",
+    "source": "네이트",
+    "published": "2026-01-04",
+    "keyword": "미래기술",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [
+     "AI 안전·규제"
+    ],
+    "summary": "피지컬 AI 시대에 맞춰 교육은 학생들의 창의적 문제 해결 능력과 AI 윤리 의식 함양에 집중해야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "[강민경의 뇌과학연구소] 28장. 긴장 앞에서 한 발짝 나아가기까지",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WczF0ZEd6Nm9BaWk2bm1tajRJaGl2Tmpac1czc1YwNTRPNE1sQ0FsSS16Y3BDN2NJQVV5dWw1T2dHMk1ScmZkLVBKZjQ4Mnk0LVd4U1hVRDMtTXVMRVNaNG1SOXZpT2FxenfSAW5BVV95cUxQX1hzRE5iOEtJUkhxTGlEbFgyNFcydVFLYjJCZ2xxWjBXZ1pJRkpodUZkR3BUYjAxMm5QeHVDLVpnemo4SGlhRVRzcmp2ZkRWaDNTODZBcEM5TnpBdGhOQXJXSjZ0THZULVExMXA1UQ?oc=5",
+    "source": "주간평택",
+    "published": "2026-01-04",
+    "keyword": "뇌과학",
+    "topic": "global",
+    "kind": null,
+    "entities": [],
+    "summary": "뇌과학 기반 긴장 완화 전략은 학생들의 심리적 안정과 학습 효율성 향상에 기여할 수 있다는 점을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "부산교육연수원, 겨울집중기 유·초·중등교사 대상 자격연수 운영",
+    "url": "https://www.lecturernews.com/news/articleView.html?idxno=194138",
+    "source": "한국강사신문",
+    "published": "2026-01-04",
+    "keyword": "",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "부산시교육청"
+    ],
+    "summary": "부산교육연수원의 겨울 집중 자격연수는 교사들이 변화하는 교육 환경에 맞춰 역량을 강화하고 2026년 부산교육정책을 효과적으로 실행하는 데 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "설동호 대전시교육감, \"대전의 미래 핵심 전략 산업 선도할 혁신 인재 양성\" |",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBfSUFjVm5KSjlBUzVvSmRnNmRLM3VtaFJWNl9oTTRpR0psSF9JaFJRMWlRWXAzYkNPYlZpUzNiNFpVRTBCRkZYM2VUNFppR25yWUhWRUktcWFqNjZDNzhPME5ubDZpdUZ1Z0RYR0ZuQ2FSTGc?oc=5",
+    "source": "대전투데이",
+    "published": "2026-01-04",
+    "keyword": "에듀테크",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "대전시교육감의 발언은 지역 전략 산업과 연계한 교육과정 혁신을 통해 미래 인재 양성에 집중하겠다는 의지를 보여주는 것으로, 지역 사회와 학교의 협력 강화가 중요해질 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "[2026년 신년 인터뷰] 김광수 제주특별자치도교육감",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tNHE2c292NWxIS2tKOWRGNEI4RTFUTG5Yb3FsZjhnTkxjOHFtci1fUUVQNkZpUXA0TVFDd2E2S2lEcWZMUXJDUy1WdzNDWHVLVFJQbHY2b2ROWXRrc21IWDZfS2dPR0E1?oc=5",
+    "source": "한라일보",
+    "published": "2026-01-04",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": "interview",
+    "entities": [
+     "제주교육청"
+    ],
+    "summary": "김광수 교육감의 인터뷰는 제주 교육이 미래 사회 변화에 발맞춰 창의적 융합 인재 양성에 집중할 것임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "[신년사] 김광수 제주특별자치도교육감",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hV21Fb2lyMEQwZnJUX0NNNlluQ29rb1lMcHpWeXlobzB4UXhLSE5XV05DRlNfbDhpTUszNG5XZlNaNTJXLUxfc3ZDSzA0b3J6YVVwYmdPcjVBUmtqbmFHbHlnVEgwR3Jh?oc=5",
+    "source": "한라일보",
+    "published": "2026-01-04",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "제주교육청"
+    ],
+    "summary": "김광수 교육감의 신년사는 제주 교육의 자율성 확대와 미래 교육 강화에 대한 의지를 보여주며, 이는 지역 특성에 맞는 교육 혁신을 가속화할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Exploring Effective Methods of Teacher Professional Development in University for 21st Century Education",
+    "url": "https://www.semanticscholar.org/paper/39243294b38dece0e66eaebb6b430cdfe858576e",
+    "source": "semantic_scholar",
+    "published": "2019-05-31",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "본 논문은 21세기 교육에 필요한 교사의 역량 강화를 위해, 요구 분석, 동료 멘토링, 협력 구축, 긍정적인 학교 문화 조성, 핵심 가치 내재화, ICT 활용 등 교사 전문성 개발 방법들을 체계적으로 분석하여 교사의 학습 및 실천에 실질적인 도움을 줄 수 있음을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Xiaoyao Yue",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "A hybrid teaching factory model towards personalized education 4.0",
+    "url": "https://www.semanticscholar.org/paper/706796ba1abfe24796f4031129f4a7ddec4025ca",
+    "source": "semantic_scholar",
+    "published": "2022-11-30",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "본 논문은 Industry 4.0 기술인 디지털 트윈을 활용한 하이브리드 교육 모델을 제시하고, 공학 교육 사례 연구를 통해 맞춤형 교육 환경을 구축하고 학습 효과를 증진하며, 사이버 안전과 지속적인 지원의 중요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "D. Mourtzis, N. Panopoulos 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "AI tutoring can safely and effectively support students: An exploratory RCT in UK classrooms",
+    "url": "http://arxiv.org/abs/2512.23633v1",
+    "source": "",
+    "published": "2025-12-29",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "AI 튜터"
+    ],
+    "summary": "영국 중등학교에서 LearnLM을 활용한 AI 튜터링 RCT 결과, 전문가 감독 하에 AI는 효과적인 교육 지원을 제공하며, 인간 튜터와 동등하거나 더 나은 학습 성과를 보였고, 교사들에게 새로운 교육법을 제시하여 교육 분야에 확장 가능한 개별화 학습 지원 가능성을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['LearnLM Team', 'Eedi' 외 34명",
+    "pdf": "http://arxiv.org/pdf/2512.23633v1"
+   },
+   {
+    "n": 4,
+    "title": "Artificial Intelligence for All? Brazilian Teachers on Ethics, Equity, and the Everyday Challenges of AI in Education",
+    "url": "http://arxiv.org/abs/2512.23834v1",
+    "source": "",
+    "published": "2025-12-29",
+    "keyword": "K-12 education",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [],
+    "summary": "브라질 K-12 교사 346명을 대상으로 한 설문조사 분석 결과, AI에 대한 지식은 부족하지만 교육적 활용에 대한 관심은 높았으며, 윤리적 문제와 인프라 부족 등 구조적 문제 해결과 함께 공정한 AI 교육 도입을 위한 정책 마련이 필요함을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Bruno Florentino', 'Camila Sestito' 외 3명",
+    "pdf": "http://arxiv.org/pdf/2512.23834v1"
+   },
+   {
+    "n": 5,
+    "title": "Evaluation of the Functionality of a New E-Learning Platform vs. Previous Experiences in E-Learning and the Self-Assessment of Own Digital Literacy",
+    "url": "https://www.semanticscholar.org/paper/472b2f6d14f46138defe81ebb2ab24553d22f0a1",
+    "source": "semantic_scholar",
+    "published": "2020-12-01",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [
+     "AI 리터러시"
+    ],
+    "summary": "폴란드 교육대학교의 교사와 학생을 대상으로 SELI 플랫폼의 기능성, e-러닝 경험, 디지털 리터러시를 설문 조사하여, 플랫폼에 대한 긍정적 평가와 함께 사용자 간 디지털 격차를 확인하고 e-러닝 도입 시 지속적인 평가의 중요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ł. Tomczyk, Katarzyna Potyrała 외 1명",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "아크릴, 에듀테크 3사와 ‘K-AI 교육 플랫폼’ 구축…글로벌 AI 교육 시장 공략",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vd0ZSUEFEVm96dGstWV9rTllUVzFrb3d6TXpDdzVtOVRiMWE3cVJ4VFY1clFjM3ZoNjlhc09sbVFEdFh4aWd4WDdWalkxc1NfS3otWA?oc=5",
+    "source": "이투데이",
+    "published": "2026-01-05",
+    "keyword": "AI기술",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [],
+    "summary": "아크릴의 K-AI 교육 플랫폼 구축은 국내 AI 기술력을 활용한 에듀테크 시장 확대 및 글로벌 경쟁력 강화에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "﻿[AI 이슈트렌드] 손흥민 '축구계 8대 기적' 선정...정치권은 '공천헌금' 파문",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205265",
+    "source": "AI Times",
+    "published": "2026-01-03",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [],
+    "summary": "AI가 사회 전반의 데이터를 분석하여 트렌드를 포착하는 능력은 향후 정치, 스포츠 등 다양한 분야의 전략 수립에 활용될 수 있음을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[AI웹툰] 사랑하면그사람이된다 : 7화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205249",
+    "source": "AI Times",
+    "published": "2026-01-03",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 웹툰 연재는 창작 방식 혁신과 함께 새로운 콘텐츠 시장 가능성을 보여주는 사례입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "삼성전자 \"반도체 특화 AI 개발...제품·서비스·업무에 AI 통합\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205266",
+    "source": "AI Times",
+    "published": "2026-01-03",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "삼성",
+     "GPU·데이터센터"
+    ],
+    "summary": "삼성전자의 AI 통합 전략은 반도체 경쟁력 강화는 물론, AI 기술 생태계 전반에 걸쳐 혁신을 가속화할 촉매제가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[놀라운 GPT-5.2 데모들을 확인] GPT-5.2 는 게임 대본 전체를 읽어도 줄거리를 놓치지 않아. 이 모델은 복잡한 수학적 조건을 즉석에서 도출할 수 있다.",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFByR3dIdTlaRmF5bUMxeXRBZmhHVFVEYlFIYTNmTXlyY2RPLWVUYUNuNmwzRW8tUjRGbFJLdF9MaUE?oc=5",
+    "source": "AI넷",
+    "published": "2026-01-04",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "추론 모델"
+    ],
+    "summary": "GPT-5.2의 향상된 이해력과 추론 능력은 콘텐츠 제작 및 데이터 분석 자동화를 가속화하여 AI 산업 전반의 생산성을 크게 향상시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "삼정종합사회복지관, 김근태 강사와 인공지능 챗GPT 활용 AI 직원교육 진행",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwV1VxcENGbXJIcW1ocXA5SVRVNF9zd2pmaW5IVGNuTk4ta0VZckR1YzY4VjZWS2IwR0k4MFpMWThudk9uV3NKclppQVRqcWQ2OWNqel96V2NCSW94OXdaYVdGbWJmck1uUXlSQ05B?oc=5",
+    "source": "웰페어이슈",
+    "published": "2026-01-04",
+    "keyword": "GPT",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "복지관의 챗GPT 활용 교육은 AI 기술이 사회복지 현장에 효율적으로 통합될 가능성을 보여주는 중요한 사례입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "[ChatGPT 사용량의 73%가 업무와 무관.] 2024년 6월의 53%에서 크게 증가한 수치. 사용자들이 AI가 단순한 생산성 도구를 넘어 일상생활의 필수 요소로 자리 잡았다는 증거",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5WdDN3dEFJLXpQVjZ0UG5vaUtmdm13SXZfNm5hLTY5WWRrZHMxXzNSTE5BblNaY1pJdFoyc1BHUVY?oc=5",
+    "source": "AI넷",
+    "published": "2026-01-04",
+    "keyword": "AI도구",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "ChatGPT의 업무 외 사용 급증은 AI가 생산성 도구를 넘어 개인 맞춤형 서비스로 진화하며 새로운 시장 기회를 창출하고 있음을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "ChatGPT가 쏘아올린 AI 전쟁, 미라무라티",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5FcFhuX3JOdWliUE5CTS13c3pmcEQ3UEZjUl9nV19QVk1hUnllT3FGdEpPRUp4TFloY1ROb3JWUU5TMHdZdmxucQ?oc=5",
+    "source": "브런치",
+    "published": "2026-01-05",
+    "keyword": "오픈AI",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "ChatGPT를 필두로 한 AI 경쟁 심화는 기술 혁신을 가속화하고 관련 시장을 확대하는 기폭제가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "카카오, 스스로 검증하며 답하는 AI '카나나' 신규 모델 공개",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1veVdZcFlacE1iaFVXUzhKRDFUbFl3S3YyMWl3R3RWRkpPdWIwYnZtR3FKd3prV1U4UU1zUzBQQzVkU1RoeDdFcTBwZnp2aEZQMk5UaVlFUlVaQQ?oc=5",
+    "source": "더팩트",
+    "published": "2026-01-05",
+    "keyword": "인공지능",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "카카오"
+    ],
+    "summary": "카나나의 자체 검증 능력 강화는 AI 모델의 신뢰도를 높여 다양한 산업 분야에 적용될 가능성을 확대하는 중요한 진전입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "[2026년에 주목해야 할 휴머노이드 로봇 기업들은?] 피스봇, 싱귤래리티넷(SingularityNET)의 분산형 AGI 프레임워크 'Hyperon'을 통합해 고차원 인지와 의사결정, 인간 유사 동기 시스템을 구현하려는 점이 차별점",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1MdlVhTzVYWmU0dF8tTlByWFZJYnRDTElabnFrbUJtMlNGSHZmMXJmRGhNLTNJb1FaejExTU9GZ1g?oc=5",
+    "source": "AI넷",
+    "published": "2026-01-04",
+    "keyword": "프레임워크",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "로봇·휴머노이드"
+    ],
+    "summary": "피스봇의 Hyperon 통합은 휴머노이드 로봇이 인간 수준의 인지 능력을 갖추는 데 중요한 이정표가 될 수 있으며, 관련 기술 경쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 시대에 발맞춰 창의적 인재 양성을 위한 교육 혁신이 강조되는 가운데, 사교육 문제 해결과 교사 역량 강화 노력이 병행되며 미래 교육으로의 도약을 준비하고 있다.",
+  "tech": "AI가 교육, 엔터테인먼트, 업무, 복지 등 다양한 분야에 빠르게 통합되고 있으며, 더욱 고도화된 AI 모델과 휴머노이드 로봇 기술 발전으로 인간의 삶을 풍요롭게 하는 방향으로 진화 중이다!"
+ }
+}

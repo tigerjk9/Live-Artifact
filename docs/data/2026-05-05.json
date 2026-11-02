@@ -1,0 +1,431 @@
+{
+ "date": "2026-05-05",
+ "generated_at": "2026-11-02T11:35:59+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "2028 대입 ‘올인원’ 평가의 시작… 내신·수능 벽 허물고 ‘학생부’가 전형 지배",
+    "url": "https://news.unn.net/news/articleView.html?idxno=592265",
+    "source": "한국대학신문",
+    "published": "2026-05-04",
+    "keyword": "",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [
+     "수능·대입"
+    ],
+    "summary": "대한민국 입시의 지형이 송두리째 바뀌고 있다. 단순히 수능 점수 하나, 내신 등급 하나로 대학이 결정되던 이분법적 시대는 종말을 고했다. 2022 개정 교육과정과 2028 대입 개편안이 동시에 적용되는 역사적인 첫해, 대학들은 전형 간의 경계를 허물고 학생의 역량을 입체적으로 검증하는 ‘하이브리드(Hybrid)’ 선발 체제로의",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "미 국방부, 바이브 코딩 확산…한 달 남짓 AI 에이전트 10만개 구축",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ETU1FXy1uRm1oX2c1aVFIMmRReGZYcEVLMjFRNEItXzB2b2RqZjhCVzl3UmhJQ2FxXzlMNG1McUlaT0JIb3FBd2lnSXgxVzlOckVUWklkcTFya0ZXelFxMDhxWFdpUVhYdkV6WS1rSDczekE?oc=5",
+    "source": "디지털투데이",
+    "published": "2026-05-04",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "코딩 AI",
+     "에이전트"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 3,
+    "title": "'AI 교육부터 산학협력까지'... 종로구, 주얼리 인재 양성 본격화",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jVUJMbVUybVpUX1FCZm9vRkJta3BaNFBuamtUUkVLZWpzZzgtUnFRVWhKR3Y0REV2ZjdrUW83UGlSeno2OVpsWXpFOXhGWTFHbkpLaWpwQXgxczNPWVJxRDFyekdLd3pKSHc0?oc=5",
+    "source": "한강타임즈",
+    "published": "2026-05-04",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 4,
+    "title": "[손기서의 회고(回顧)] 386 컴퓨터와 CD롬, 교실 혁신의 첫 불꽃이 되다",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vbElPTTF2WkJCVENsVGN4bG9rV3hsd3lobFRsck8yYWpsM2x5RHBjcjdIbmVtYVlIbHFRM2t1RGp2SVFrWTlrSHpLd1VSTzV5eU15Q0lYWUlFdFU?oc=5",
+    "source": "더에듀",
+    "published": "2026-05-04",
+    "keyword": "디지털교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 5,
+    "title": "이용기 경북교육감 민주진보 단일후보, ‘아침 과일간식 제공’, ‘학생 주치의 도입…’",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jRWduOTBDYmVjV1RqbjFrX3UxTm50ZmJ0Z1lxMmJWa3k3Vk5seW1vUEpVUVlvek1lZnllQ05sMm9zYjF6Szl5Y0FrVmpyd1QtTkJNRnJWc3NBanVic1FVRlBHREFVdw?oc=5",
+    "source": "데일리대구경북뉴스",
+    "published": "2026-05-04",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경북교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 6,
+    "title": "인천시교육청-경인교대, AI 교사 양성 협력 논의",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1JUzNTeVRFcm1XR0JPbEVzb1JsU3R4N1hnMXZKSDdPdlRuVlh1REQ2VXY2aXpQMEU1a0JOeEQ1UVVRNmc4YXpxMGtrZENvZ0xYdVhMRUdvT0pJVFE1Nk1sMUpaNjNHdzFFMW9KcC1ORlpKUDlNaDBCUjJB?oc=5",
+    "source": "로이슈",
+    "published": "2026-05-04",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 7,
+    "title": "민주진보 진영 경기도교육감 단일후보로 안민석 선출",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BZEkzb2FtS1o0T09tYVJnVkh4cmNMbm1lOVM4enNhWGtXcHRlVTRKSW13dE5kSjFOcU52bGJfdkh0VDBNb0c0MWN5Q181WkRTRmc?oc=5",
+    "source": "유스연합",
+    "published": "2026-05-04",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "피플에듀, ‘해봄스쿨’ 통해 생성형 AI 체험 교육 진행",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aUUhkdFZlZjFaaFMwaDlFUm1jUG9zSmtScklXVDNpaGJRX3FaaUw3ZWU0Tl8wVmFsdDJhazZNNGMwTzhRbW1taFVTSlBSYmZYMmk3VkdTRm9uY3RYUEhjZl82ZGQyMXp3Qkc4?oc=5",
+    "source": "내외경제TV",
+    "published": "2026-05-04",
+    "keyword": "생성형AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "대구한의대, 생성형 AI 플랫폼 ‘하니챗’ 전면 도입",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QMVB2NFRMRmZwR2QxVF95bjhydVVYSWNrS1NzYVY4cWJRNUNPNjd5Zl9aWjZuaHZkSGJaZ1JTNWVXWWZhTW4yYmctZ3VPc2dWM1JSZjJZYU1uVkZjeVExME1mN2ZndVlDSmR3?oc=5",
+    "source": "BBS불교방송",
+    "published": "2026-05-04",
+    "keyword": "생성형AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 10,
+    "title": "생성형 AI 업무 활용 확산…세미나허브, 실무형 ChatGPT 클래스 연다",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1YazR4dFc0MzRldVpXSUpOc3k3dThqS21RQjc5ZHJTZnVPbmlSSDlvQ3JqVHJmbG5BNUpmMTNNNjZjN2IyYzJ6R0I1bGk0LThVZ2JzVEIxdjFMTWRVcmxsUW5JTzl2N28wdEx0Nw?oc=5",
+    "source": "뉴스탭",
+    "published": "2026-05-04",
+    "keyword": "생성형AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "ChatGPT"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "ArguAgent: AI-Supported Real-Time Grouping for Productive Argumentation in STEM Classrooms",
+    "url": "http://arxiv.org/abs/2604.23449v1",
+    "source": "",
+    "published": "2026-04-25",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "ArguAgent는 생성형 AI를 활용하여 실시간으로 학생들의 주장과 논증 능력을 분석, 수준 차이를 고려한 최적의 토론 그룹을 구성함으로써 STEM 교육에서 생산적인 논쟁을 촉진하고 학습 효과를 향상시키는 데 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Jennifer Kleiman', 'Yizhu Gao' 외 5명",
+    "pdf": "http://arxiv.org/pdf/2604.23449v1"
+   },
+   {
+    "n": 2,
+    "title": "Graduate and Undergraduate Student-Teacher Alliance During Problem Solving: A Comparative Phenomenological Study",
+    "url": "https://digitalcommons.liberty.edu/doctoral/8234",
+    "source": "openalex",
+    "published": "2026-04-29",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "사교육"
+    ],
+    "summary": "본 연구는 현직 및 예비 교사들이 학생-교사 간 긍정적 관계 형성을 통해 수학 문제 해결 과정에서 학생 참여와 성공을 증진시키는 경험을 심층적으로 탐구하고, 대학원 교사는 자율적 통제, 학부 교사는 역량 인식에 영향을 받는다는 결과를 제시하여 교육 현장에 시사하는 바가 큽니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Quidi-Ann Reynolds",
+    "pdf": "https://digitalcommons.liberty.edu/context/doctoral/article/9293/viewcontent/63_Reynolds_2C_20Quidi_Ann_20_28L30282001_29.pdf"
+   },
+   {
+    "n": 3,
+    "title": "Impact of generative artificial intelligence on healthcare education: A systematic review of learning outcomes and academic integrity",
+    "url": "https://doi.org/10.70593/deepsci.0202053",
+    "source": "openalex",
+    "published": "2026-04-28",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "본 논문은 의료 교육 분야에서 생성형 AI가 학습 성과 향상 및 자기 주도 학습을 돕지만, 표절, 학업 부정행위, 평가 신뢰도 저하 등 윤리적 문제점을 야기하며 평가 방식 재설계의 필요성을 제기합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Chinwe Uzoma Ugwu",
+    "pdf": "https://deepscipub.com/ijars/article/download/87/113"
+   },
+   {
+    "n": 4,
+    "title": "Perceptions of Effective Co-Teaching Partnerships in High School Inclusive Classrooms",
+    "url": "https://dc.etsu.edu/etd/4658",
+    "source": "openalex",
+    "published": "2026-05-01",
+    "keyword": "",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 고등학교 통합학급에서 효과적인 협력 교수 파트너십의 특징과 맥락적 요인을 질적 연구 방법(심층 면담, 주제 분석)으로 분석하여, 명확한 소통, 상호 신뢰, 공유된 수업 주도권 등이 중요하며, 학교 및 교육구 행정가에게 지속적인 협력 교수 훈련과 협력적 포용 교육 준비를 위한 지침을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Korri-Lee S Wood",
+    "pdf": "https://dc.etsu.edu/context/etd/article/6208/viewcontent/WoodKL040626f.pdf"
+   },
+   {
+    "n": 5,
+    "title": "FROM LANGUAGE TO VISUAL CULTURE: INTEGRATING DIGITAL MEDIA ARTS IN ESL PEDAGOGY AND HIGHER EDUCATION SYSTEMS",
+    "url": "https://doi.org/10.29121/shodhkosh.v7.i1.2026.7303",
+    "source": "openalex",
+    "published": "2026-04-28",
+    "keyword": "Connectivism",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 체계적 문헌 고찰을 통해 AI 기반 디지털 기술이 학습자 참여, 동기 부여, 학업 성취도 향상에 긍정적 영향을 미치지만, 기관의 준비성, 교수진 역량, 윤리적 거버넌스 구축이 중요함을 강조하며, 교육자와 정책 입안자에게 기술 통합 전략 수립의 기반을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Mohammad Saleh Al-Shizawi, Omer Ahmed Siddig Ahmed 외 1명",
+    "pdf": "https://www.granthaalayahpublication.org/Arts-Journal/ShodhKosh/article/download/7303/7272"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "오픈AI, GPT-5.5 프롬프트 가이드 공개...\"길게 지시하지 않아도 충분\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210050",
+    "source": "AI Times",
+    "published": "2026-05-04",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.5 프롬프트 가이드 공개는 AI 모델의 효율성 증대와 사용자 편의성 향상을 통해 AI 활용 확산을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "ChatGPT vs Claude: The AI Battle Is No Longer About Market Share, It’s About How You Expand",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oaUVnVUp5V0FCY0xhNGlxc2dGOS1uLUthdlhJVkxfbm1YME0yTjNtRjRQcUZIVFN2aEotMXR4OFRsaFc2bFlKM0RyUC1xS2RsSU9vT1hWRWNpOHB2SjNtYnpod3hpRkNwQ213?oc=5",
+    "source": "kmjournal.net",
+    "published": "2026-05-04",
+    "keyword": "Anthropic",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Claude"
+    ],
+    "summary": "AI 경쟁은 시장 점유율 확보를 넘어, 확장 전략의 차별화를 통해 장기적인 생태계 주도권 경쟁으로 심화될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "알리바바, 호퍼 GPU에서 모델 속도 3배 향상하는 ‘플래시QLA’ 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=209983",
+    "source": "AI Times",
+    "published": "2026-05-04",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Alibaba"
+    ],
+    "summary": "알리바바의 플래시QLA는 고성능 AI 모델 개발 경쟁 심화 속에서 맞춤형 하드웨어-소프트웨어 최적화 중요성을 부각할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "애플 '바이브 코딩' 앱 규제에 스타트업 반발...“심사 기준 구시대적\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210063",
+    "source": "AI Times",
+    "published": "2026-05-04",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "Apple",
+     "코딩 AI"
+    ],
+    "summary": "애플 앱 심사 기준이 혁신적인 AI 기반 코딩 교육 앱의 성장을 저해하여, 폐쇄적인 앱 생태계가 AI 기술 발전을 가로막는 걸림돌이 될 수 있다는 점을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "카카오, 'PlayMCP'로 AI 에이전트 생태계 확장…오픈소스 '오픈클로'까지 연동",
+    "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxNckhZcUltbmRkUFJSUVhMT3psX05kNWFmY2dQM1BmMElsVW12b0RWSmp0a2JmVXpRUzRyWi1xeEZBNjdLX0E2T0dRc2hMaVVtbDFvYVJIMnN4SEk5bFIzLUxiREZDMXZ4bGZXeVI0djNHcnZjeUNZZ1BxcXdmOEVGWGk0bWlIZko2dVN0V2dvVV9NellrTkRaQXdiSGtuc2h0X1VZb01JQ1ZBczExV3FCVG9YNlgzUzRpNkVjU2lRb1dVUjhsc25RZ3g0RVQ0SHlKQThMaHJSZ1VHQmxDN0J1Qno5TEhVUm5neThhcGlURzNCZlllN01La19SbnVSaWZBZDRqQWxaNFNqODdvbm5ldU5pdE5GbkNDbW8tcnJDMVJ2bXhMckdYRGdWUkp4UHhzVWY1S19yUE9LVWp6Sm5mZU9HeHpramlsWlZpdTlKQjJrdEdnZWlsdUJ4M0JMRDc1b1JXajZ3M2VyUGJtbDBrTm4xX28ydjVyeFZBYVlPZm1yaUlNVnk2TWZLa0RVNHNDVTdnS0ZIcm0wSlprdkRNVw?oc=5",
+    "source": "MSN",
+    "published": "2026-05-04",
+    "keyword": "오픈소스",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "카카오",
+     "에이전트",
+     "오픈소스"
+    ],
+    "summary": "카카오의 AI 에이전트 생태계 확장은 오픈소스 연동을 통해 기술 주도권을 확보하고, AI 경쟁 심화 속에서 다양한 서비스 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "OpenAI raises over $4 billion for new enterprise deployment venture",
+    "url": "https://the-decoder.com/openai-raises-over-4-billion-for-new-enterprise-deployment-venture/",
+    "source": "The Decoder",
+    "published": "2026-05-04",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "OpenAI의 대규모 투자 유치는 AI 엔터프라이즈 시장 경쟁 심화와 더불어, 산업 전반에 걸쳐 AI 도입 및 활용을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "GPT-5.5가 짠 자축 파티…알트먼 \"머스크 와도 좋다\"",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsMmNnaXdDQTlqT3pzLUdHd1lqWGs3T3RGZ0tySmdwaEZXNGNiYkxxS2RCZVlRbkhTX3B0dWJ3NU9ONXYyYXJKZjVRbGt0cGM5dW5mWWN6WjR2d3VZdGVpanpPTHZ3VThVckxDVmVPX3pRMW82VDAzMtIBeEFVX3lxTFBsMmNnaXdDQTlqT3pzLUdHd1lqWGs3T3RGZ0tySmdwaEZXNGNiYkxxS2RCZVlRbkhTX3B0dWJ3NU9ONXYyYXJKZjVRbGt0cGM5dW5mWWN6WjR2d3VZdGVpanpPTHZ3VThVckxDVmVPX3pRMW82VDAzMg?oc=5",
+    "source": "뉴시스",
+    "published": "2026-05-04",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "OpenAI",
+     "xAI"
+    ],
+    "summary": "GPT-5.5의 개발 진전과 알트먼의 발언은 AI 기술 경쟁 심화와 더불어 오픈AI의 자신감을 보여주는 동시에, 업계 협력 가능성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "GPT 5.5 후기, AI 에이전트 어디까지 왔을까?",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyb1hTWHBVR2pXRXJWZUZfdTlWUDdYektNcUtUS09FZkRRZURaSTFNbE9Uc1hIU2w2cWRGSXNZWV9UUkdRR2tUX2kxV01pOE9hUXcw?oc=5",
+    "source": "브런치",
+    "published": "2026-05-04",
+    "keyword": "GPT",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "에이전트"
+    ],
+    "summary": "GPT-5.5를 통해 AI 에이전트 성능이 향상됨에 따라, 특정 작업 자동화 및 개인 맞춤형 서비스 제공이 가속화될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "챗GPT 점유율 하락에도…오픈AI가 ‘속도’ 늦추지 않는 이유",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMb1ViNjA3ZHNJbVVsWXFvdmhjNVg2SjViTml4VTI4RXcwR1g3RjBzM3hYY2h4MHRndG5UQzFBc04xT1c5X2tJYllHX2ZUN2sxa3YzSndLeTdnSlBaRXg5VlZrdFRZaU1NQ2lB?oc=5",
+    "source": "kmjournal.net",
+    "published": "2026-05-05",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "챗GPT 점유율 하락에도 오픈AI의 속도 유지는 AI 기술 경쟁 심화 속에서 선두 유지를 위한 불가피한 전략임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "오픈AI, 머스크 소송·챗GPT 성장 둔화에 '흔들'...IPO 변수",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1MZDJrSnozVlRQdGluVFUwS2NWRXJhYW5aUGFjWk5zbDVrS081bzVwaUp2ZjliT1hzZDBHQm1JVUg2VVAyb2hmZHpIOEpNRjdtbDZzdjZ0bDJiZ2pibVRfTFZlc242UQ?oc=5",
+    "source": "싱글리스트",
+    "published": "2026-05-04",
+    "keyword": "GPT",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "xAI",
+     "저작권·소송",
+     "ChatGPT"
+    ],
+    "summary": "오픈AI의 불안정성은 AI 시장 경쟁 심화와 투자 불확실성을 야기하여, AI 기술 발전 및 산업 성장에 제동을 걸 수 있습니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

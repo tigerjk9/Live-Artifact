@@ -1,0 +1,410 @@
+{
+ "date": "2025-11-19",
+ "generated_at": "2026-11-02T11:47:55+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[임준 박사의 청소년 칼럼] AI 시대를 이끄는 융합 인재의 비밀",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10TnFUSHBhNWtZanJ5TXFQNmVfSFhfM1NxSkVoN0NWNTJLRml3QWhmcFo5TURObjBCMHlvRldmZ0s3dlZIR0tndXpXb1dnTTNUTGtrN25mYm1QR25lel9YbXhsaGxtUVBNbkFwaQ?oc=5",
+    "source": "브랜드뉴스",
+    "published": "2025-11-18",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "AI 시대 융합 인재 양성을 위해 교육은 지식 습득을 넘어 창의적 문제 해결 능력 함양에 집중해야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "교육부, ‘교과용도서 규정’ 개정…\"AI 교육자료 적극 활용 방침 재확인\"",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE90V0ZYeDZxbDJYcWFCem5mVE56Q1hhX1Z2bi0zVUNzM0xWTHhlcDdPTk9pN2o1ZkdDanl0MFhqRlJzM015T1NUd056eTI0TXNsdFhjRld3UVlUYlRodDF0a1Fpak1MRTRaREIxSWdn?oc=5",
+    "source": "이투데이",
+    "published": "2025-11-18",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "교육부의 교과용도서 규정 개정은 AI 교육자료 활용을 공식화하여, 교사의 역량 강화와 함께 교육 효과를 극대화할 필요성이 커졌음을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "서울시교육청, 학부모·시민 참여로 교육 혁신 이끈다",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8yN0Z3NVc3dGs5Mkpld1NVQ19vQVM4c3M0bE1MMWdaclJuRk5jWnNwWE41VmlrSXVfVzlIb2dTUVdTYlV2NmFSeWhwckZBOEVVLVBtcGVWY1FjZUhGRm1oTE1Tb3l4MDd3bVNuTUpLU1ZYN0o2OTcw0gF3QVVfeXFMTzI3Rnc1Vzd0azkySmV3U1VDX29BUzhzczRsTUwxZ1pyUm5GTmNac3BYTjVWaWtJdV9XOUhvZ1NRV1NiVXY2YVJ5aHByRkE4RVUtUG1wZVZjUWNlSEZGbWhMTVNveXgwN3dtU25NSktTVlg3SjY5NzA?oc=5",
+    "source": "뉴스프리존",
+    "published": "2025-11-18",
+    "keyword": "AI디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "서울시교육청"
+    ],
+    "summary": "학부모와 시민 참여를 통한 서울시교육청의 교육 혁신 시도는 교육 주체 간 협력적 거버넌스 구축을 통해 교육 만족도를 높이는 데 기여할 수 있다는 점에서 긍정적입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[기획] 양주형 교육혁신 확산... 미래교육도시 도약 '본격화'",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVWGVnU3ppSU9CREdIc3lVYkxtZ1BRQ3hWQnNGMVRwVVBQVHFIdlFWaVFRMXIwdTFoTjJRcWo3aEN2ek1NRFIxTlVTRmNWWFBVMU1jZmY1RmxOOVNzeHpUcnBJaDRnY2M?oc=5",
+    "source": "팍스경제TV",
+    "published": "2025-11-18",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": "feature",
+    "entities": [],
+    "summary": "양주형 교육혁신 모델 확산은 지역 특색을 반영한 미래교육 시스템 구축의 가능성을 보여주는 사례로서, 교육 주체들의 적극적인 참여와 협력이 중요함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "설동호 교육감, 2026년도 대전교육 정책방향 발표",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56VXJ2NjR4Wm9LS2FZLTZXd3FzcXJJUGxtRWd6TVp5YlZQQThvdmtqQ0oyeVRxUVZobGR0RFRPTXBFRGM0OVJfeW5nbHNiMkpHNmYwQmJvSlFTOUZ5TVZqRFdGWlpXLUtLS3FOOHNYYXAtV1HSAXdBVV95cUxNZG91MDlkTzRxVmplOHBRX2oxNElEVVRUM3BrZlJreVBkdXlaTEtNOUNvaUwyR3BSVGV5aWJOT0d4S0VxMHZ4aDYtLXZjYW5LRXBURXlxenh3T0hCSlJNMThCSVdDb3VXWVI3RkFRVnZVZDRIdkZlWQ?oc=5",
+    "source": "뉴스프리존",
+    "published": "2025-11-19",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "설동호 교육감의 2026년 대전교육 정책 방향은 미래 교육 환경 변화에 대한 대비와 학생 중심 교육 강화를 목표로 하는 것으로 보입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "춘해보건대, 교수학습센터 평가서 '원격교육 부문 우수'",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wamlPdDNlTUVGNHRCd005MmxwaHFsT29heFZjRlRKRnN1djIxaVBvYjF2RHRKMUZyOVZnWHh6d180RTBxcC1GTGhlMGdEZnJ6M2U1SW8wR0hycE5JeFhEatIBeEFVX3lxTE5IWlpqVFpyYnZ1cm1DV2JVdkhRR0lfbjZoNmIwWEExNXo2a3c1Q2JuM09HanZFMTY3Y285NnJDSFNwZTNxLWh1QThzb0xSanBPZWNzSlZOemQxVWFvTkNyTWluTmVrNHMtdE9QYTJlc3NycmRjSlNYaA?oc=5",
+    "source": "뉴시스",
+    "published": "2025-11-18",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "춘해보건대의 원격교육 우수 사례는, 대학들이 포스트 코로나 시대의 효과적인 교육 방식 혁신을 가속화해야 함을 보여주는 중요한 지표입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "전남 나주시, 민선 8기 ‘미래형 교육정책’ - ‘지역인재 양성-정주’ 새 모델",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KR0UwOHdfdTVSUHJXVUNtSGVwRzdTM3JmVVFwVFZCMjlrSUVmMkZYV3dMMjN0cVZCMWJ6UHNyV3lFemRsTFRUX3VVdlEtVHZ6R1RTN2p0LUd3a1MtU2g5WkxRcGpBcnNH?oc=5",
+    "source": "팍스경제TV",
+    "published": "2025-11-18",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "나주시의 미래형 교육정책은 지역인재 양성 및 정주 모델을 통해 지방소멸 위기에 대응하는 교육 혁신의 중요한 사례가 될 수 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "[이재명 정부의 교육정책 평가] 해방 이후 역대 어느 정부도 교육정책 성공하지 못해...",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBodW43TXdnUlgtMzFVU2VrcnhWZGJZNVpRdVJ2TDlaS2U3dTFKcnRDcDVDMHd2Q1l4WUZXMnVfLXdVR1BnZnR5XzY5WUg?oc=5",
+    "source": "한국AI부동산신문",
+    "published": "2025-11-18",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "역대 정부의 교육정책 실패 사례를 반면교사 삼아, 교육 현장과의 소통 및 지속 가능한 정책 설계가 중요합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "치유농업에서 뉴로피드백 기반 장비와 적용",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uOEJ5cjdqNG5HTWQ5U2Z3M3B4RkJLajhBbEhMaFZTMkdYaGwtU1k3TFlLNndBaFBRQnhwdlFiNE51N0hNYW5ra0lXWkdqTFlfYjlDNXcwVllyRmUt?oc=5",
+    "source": "전남인터넷신문",
+    "published": "2025-11-19",
+    "keyword": "뇌과학",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [],
+    "summary": "치유농업과 뉴로피드백 융합은 학생들의 정서적 안정과 학습 능력 향상을 위한 새로운 교육적 도구로 활용될 가능성이 높습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "고교생 10명 중 6명 “미이수 제도는 낙인”… 33% “자퇴 고민했다”",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=21405",
+    "source": "에듀프레스",
+    "published": "2025-11-18",
+    "keyword": "",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "고교학점제"
+    ],
+    "summary": "고교학점제 미이수 제도가 학생에게 낙인으로 인식되고 자퇴까지 고려하게 만드는 상황은 제도 보완과 함께 학생 맞춤형 지원 강화가 시급함을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "The Quick Red Fox gets the best Data Driven Classroom Interviews: A manual for an interview app and its associated methodology",
+    "url": "http://arxiv.org/abs/2511.13466v1",
+    "source": "",
+    "published": "2025-11-17",
+    "keyword": "K-12 education",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [],
+    "summary": "Quick Red Fox 앱과 함께 데이터 기반 교실 인터뷰(DDCI) 방법론을 활용하여 학습 분석을 통해 학생들의 학습 경험 맥락을 파악하고, 연구자의 시간을 효율적으로 사용하여 교육 효과를 높이는 인터뷰 기법을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Jaclyn Ocumpaugh', 'Luc Paquette' 외 15명",
+    "pdf": "http://arxiv.org/pdf/2511.13466v1"
+   },
+   {
+    "n": 2,
+    "title": "Educators on the Frontline: Philosophical and Realistic Perspectives on Integrating ChatGPT into the Learning Space",
+    "url": "http://arxiv.org/abs/2511.11960v1",
+    "source": "",
+    "published": "2025-11-15",
+    "keyword": "K-12 education",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "본 연구는 러시아 대학 교육자 140명을 대상으로 설문조사를 실시하여, ChatGPT가 평가 방식 변화와 표절 방지 도구 확보 등 조건 하에 교육에 긍정적인 촉매 역할을 할 수 있으며, 교사의 역할을 정보 전달자에서 비판적 사고 촉진자로 변화시킬 필요가 있음을 밝힙니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Surajit Das', 'Peu Majumder' 외 1명",
+    "pdf": "http://arxiv.org/pdf/2511.11960v1"
+   },
+   {
+    "n": 3,
+    "title": "Effectiveness of Quota Policies Across STEM, Biological, and Humanities Programs",
+    "url": "http://arxiv.org/abs/2510.08261v1",
+    "source": "",
+    "published": "2025-10-09",
+    "keyword": "pedagogy",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "Unesp 대학의 쿼터 정책 효과 분석 결과, 물리학과 교육학과에서는 효과가 미미했지만 생물학과에서는 차이가 나타났으며, 특히 이공계열 기초 과목인 미적분학에서 일반전형, 공립학교, 인종 쿼터 순으로 성적 차이가 뚜렷하게 나타나 고등 교육 내에서 초기 교육 격차 극복의 어려움을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Ricardo D. Matheus', 'Elmer M. Gennaro' 외 1명",
+    "pdf": "http://arxiv.org/pdf/2510.08261v1"
+   },
+   {
+    "n": 4,
+    "title": "A Survey of LLM-Based Applications in Programming Education: Balancing Automation and Human Oversight",
+    "url": "http://arxiv.org/abs/2510.03719v1",
+    "source": "",
+    "published": "2025-10-04",
+    "keyword": "pedagogy",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [
+     "LLM"
+    ],
+    "summary": "본 논문은 프로그래밍 교육에서 LLM 기반 도구 활용 사례를 분석하여, 완전 자동화보다는 교사의 전문성을 활용한 인간-기계 협업 방식이 교육 효과를 높이며, 향후 투명성 강화와 교육적 맥락에 맞는 유연한 시스템 개발이 중요함을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Griffin Pitts', 'Anurata Prabha Hridi' 외 1명",
+    "pdf": "http://arxiv.org/pdf/2510.03719v1"
+   },
+   {
+    "n": 5,
+    "title": "Bringing Pedagogy into Focus: Evaluating Virtual Teaching Assistants' Question-Answering in Asynchronous Learning Environments",
+    "url": "http://arxiv.org/abs/2509.17961v1",
+    "source": "",
+    "published": "2025-09-22",
+    "keyword": "pedagogy",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 비동기 학습 환경에서 가상 조교의 질문 답변 능력을 교육 이론에 기반하여 평가하는 프레임워크를 제시하고, 전문가 주석 기반 분류기를 통해 성능을 평가함으로써 교육적으로 효과적인 AI 개발을 위한 토대를 마련합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Li Siyan', 'Zhen Xu' 외 4명",
+    "pdf": "http://arxiv.org/pdf/2509.17961v1"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "[11월18일] 'AI 급여 곡선' 등장...\"업무 자동화로 전체 급여 줄어들 것\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204064",
+    "source": "AI Times",
+    "published": "2025-11-19",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 도입으로 인한 업무 자동화는 불가피하게 임금 하락 압력을 가중시키며, 기업은 인력 재구성과 새로운 가치 창출 전략 모색이 필요합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "앤트로픽 CEO \"소수 기업인이 중대한 AI 결정 내리는 것에 불안\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204077",
+    "source": "AI Times",
+    "published": "2025-11-18",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "AI 안전·규제"
+    ],
+    "summary": "AI 안전에 대한 앤트로픽 CEO의 우려는 소수 기업의 AI 결정이 사회 전체에 미치는 영향에 대한 심각한 고민을 촉발하며, AI 거버넌스 논의의 필요성을 강조하는 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[AI 뉴스] GPT-5.1 넘어섰나?” 구글 제미나이 3 전격 공개",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DS2NyelFPTUV1Y2U0c0ZKR0JVemNCY2JNZEw1WEJiTHRlWmdXRlRzeXBwRl9vb3RMaFJkTnNpMVBuWVBvalM4aE1LV0NlUURTdTg4TlNMWXhNbV9UUmFIdDh5OWpDWHg4Tm9ESDJ1OHdQdw?oc=5",
+    "source": "아웃소싱타임스",
+    "published": "2025-11-19",
+    "keyword": "구글",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Google",
+     "Gemini"
+    ],
+    "summary": "구글 제미나이 3 공개는 AI 모델 경쟁 심화를 예고하며, 특정 기업 종속을 넘어선 기술 혁신 가속화의 계기가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "'일본 소버린 AI' 사카나, 2000억 투자 유치",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204065",
+    "source": "AI Times",
+    "published": "2025-11-18",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [],
+    "summary": "사카나 AI의 대규모 투자 유치는 일본 소버린 AI 기술 자립을 가속화하고, 글로벌 AI 경쟁 구도에 중요한 변수로 작용할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "How AI tax startup Blue J torched its entire business model for ChatGPT—and became a $300 million company",
+    "url": "https://venturebeat.com/ai/how-ai-tax-startup-blue-j-torched-its-entire-business-model-for-chatgpt-and",
+    "source": "VentureBeat AI",
+    "published": "2025-11-18",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "Blue J의 사례는 AI 스타트업이 ChatGPT와 같은 혁신 기술을 적극적으로 수용하여 비즈니스 모델을 전환하고 성공을 거둘 수 있음을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "“챗GPT 잡아라” 구글·MS 차세대 AI ‘출격’…빅테크 AI 지각변동 신호탄",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvbGdidGdlbVIyeUF2c1VEUWlUNy1hZlVFdUlqdnpOQnBZa21KbVZtOEZBOG1YZlRjOTQydW5Zbm95dUdlaFZHdHllbTVtNDBZU1VIRWpR?oc=5",
+    "source": "헤럴드경제",
+    "published": "2025-11-19",
+    "keyword": "구글",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Google",
+     "Microsoft"
+    ],
+    "summary": "구글과 MS의 차세대 AI 경쟁은 AI 기술 혁신을 가속화하고, 관련 시장 경쟁 심화를 예고하는 신호탄입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "한-UAE, 30조 규모 UAE 스타게이트 프로젝트 공동 추진한다",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204088",
+    "source": "AI Times",
+    "published": "2025-11-19",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [],
+    "summary": "30조 규모의 UAE 스타게이트 프로젝트 공동 추진은 국내 AI 기술력 강화와 중동 시장 진출 확대를 동시에 꾀할 기회입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "[게시판] 파일러, 엔비디아 인셉션 스타트업 그랜드 챌린지 1위 등 단신",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204085",
+    "source": "AI Times",
+    "published": "2025-11-18",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA"
+    ],
+    "summary": "파일러의 엔비디아 챌린지 우승은 멀티모달 AI 기술의 브랜드 안전 및 신뢰 분야 적용 가능성을 입증하며 관련 시장 성장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "Musk's xAI launches Grok 4.1 with lower hallucination rate on the web and apps — no API access (for now)",
+    "url": "https://venturebeat.com/ai/musks-xai-launches-grok-4-1-with-lower-hallucination-rate-on-the-web-and",
+    "source": "VentureBeat AI",
+    "published": "2025-11-18",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "xAI",
+     "Google"
+    ],
+    "summary": "xAI의 Grok 4.1 출시와 API 미제공은 오픈AI와 구글 중심의 AI 시장 경쟁 심화 속에서 폐쇄형 모델 전략을 강화하는 움직임으로 보입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "숭실대 AI안전성연구센터, 해외 대비 국내 거대언어모델(LLM) 안전성 82% 수준 |",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SMEJFU2pYT0s2b05yLXVpdVpnN0VvTzREeEdHSWpvd0VMNWVpbVFpWThFNFNaQ2ZOWFJxODRwMHZ2aFdNTUlRQk85MEJ4NWQ0c090dmM2Mk5pVHF6MkxQWkwzSXM5dHR4bjVNSzVnek1IQQ?oc=5",
+    "source": "eduplusnews.com",
+    "published": "2025-11-18",
+    "keyword": "Anthropic",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제",
+     "LLM"
+    ],
+    "summary": "국내 LLM 안전성이 해외 대비 낮은 수준이라는 점은 AI 기술 경쟁력 확보를 위해 안전성 강화 투자를 서둘러야 함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 시대에 발맞춰 융합 인재 양성, 미래 교육 혁신, 지역 인재 육성 등 교육 전반에 걸쳐 긍정적인 변화와 발전이 활발하게 추진되고 있으며, 학부모 참여 확대 및 다양한 교육 방식 도입을 통해 더욱 발전된 교육 환경을 조성하고 있습니다.",
+  "tech": "AI 기술 경쟁 심화 속에서 자동화로 인한 급여 변화, 안전성 확보 노력, 그리고 소버린 AI 등장 등 AI 생태계가 빠르게 확장 및 고도화되며 긍정적인 미래를 향해 나아가는 중이다."
+ }
+}

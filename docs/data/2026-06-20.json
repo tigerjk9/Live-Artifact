@@ -1,0 +1,422 @@
+{
+ "date": "2026-06-20",
+ "generated_at": "2026-11-02T11:38:32+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[기고] 에이전틱 AI, CPU와 GPU의 공식을 바꾼다",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE42LWN5eDBsd0hSQy1zdDBHQmVDaEV4T3lvYVJUSkxnQjl4MjRFTWYxNDRhaW9pTVBxVFZIZzBIT1Q4WVBVMUE?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-06-19",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 2,
+    "title": "서울시교육청, 'SEN스쿨' 가입자 40만 명 돌파",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=30300",
+    "source": "에듀프레스",
+    "published": "2026-06-19",
+    "keyword": "",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "서울시교육청"
+    ],
+    "summary": "에듀프레스 장재훈 기자 = 서울시교육청이 11개 시도교육청과 공동으로 개발한 맞춤형 교수학습 플랫폼 SEN스쿨이 정식 운영 약 3개월 만에 가입자 수 40만 명을 돌파해 주목을 받...",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "대전교육정책연구소, 교육현장에 최신 정책 트렌드 전한다",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55MDRCdDdmT2I0WHJRQU5SQkhwS0d4NmpfcTNJMmtoNmdEUDRUMWw0QzNhV0RCalRfbFRMaEZ2cFpHUXpFajV5X0pxczR4bVktQmZNYWRrdDhfZFpQMDU2QlVrNXJzaEhjNGhtVUtXUW9nQ3cx?oc=5",
+    "source": "아시아뉴스통신",
+    "published": "2026-06-19",
+    "keyword": "교육정책",
+    "topic": "global",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 4,
+    "title": "KERIS, UAE 교육부와 AI·디지털교육 협력",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDODY0Vk52Z2Jlc0pSY2pNc016aGg4Y2w3VmNxanZwZjlxQ1Z0TnB0NElJVDR4YW5pdVNXVERJZ1NIRmt3V3N2MTJldGNPMEN2UDJlNl9hbmc2dUQx?oc=5",
+    "source": "교육연합신문",
+    "published": "2026-06-19",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "KERIS",
+     "교육부"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 5,
+    "title": "제5대 세종시교육감직 인수위, 현장 목소리 정책에 담는다",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFByMXdmZnlYTk13bmhGQWxGRmN4N2hLTnpFek0ySlFoRkRRVTdvSWVGRjBMbFg0bzZvTmd0YUFOWE1BMlNvTnlwUjBQSVBPb0RLbHdTVjVWd0hZdUh0ZUt3bEY2Qk80b3k3LVQwQ2p3?oc=5",
+    "source": "충청투데이",
+    "published": "2026-06-19",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "세종시교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 6,
+    "title": "고의숙 인수위, 학교 현장 속으로 ... IB·일반고·신설학교 점검",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuNy1xSGYyWkpGTEJuSERMUTA3ZzU2bXhIYjZuNzMyXzU0TEx6STNwNTE5S1Utaml4NDEzMGMwZU55MV9nN2c4VEh1LS1DalVaN1VSTHR4aTRVYndG?oc=5",
+    "source": "제이누리",
+    "published": "2026-06-19",
+    "keyword": "교육정책",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "IB"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 7,
+    "title": "윤건영 충북교육감, 교원단체·노조와 소통 행보...교육현장 안착 주력",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PbTVCRE8zbFZvZzZITTR3d2pxdXhvRkFucEM4X2xvY05Gd3lEN1B1cGVuNEU2NWJBdlNObVdVYTQ1Q1d6VXB3VmxLRWR3ZlBGYlhIdGk1RUJDNnkzTEJxTm9SdW80MjJGeVE?oc=5",
+    "source": "뉴스티앤티",
+    "published": "2026-06-19",
+    "keyword": "교육현장",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "충북교육청",
+     "교원단체"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "교육부 소관 법안 3건, 국회 본회의 통과…특수교육·고전번역·학생주거 제도 정비",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14eWJIX0o2OWU4UTZNM0V4aV95ZEJpcjVRckhCOXVLOTVFWUZNbTBzNDQwbElOeUtuMVRVbmx3ODhfMnRMSzNtbnNXck5QRnJxLTdlZExtMzZQWVdBVW1z?oc=5",
+    "source": "전북미래교육신문",
+    "published": "2026-06-19",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부",
+     "국회",
+     "특수교육"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "“전국 교실이 함께 배운 하루” 전주아중초, 전북 첫 IB 인증 후 첫 전국 수업공개 열어",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9UaldSSTRVRk04eUdCNzA1dHhTMC1nVGQyUHdkaXZFaGxDcndWbktXNS1OLWQ5UWd3S3loM3ItVEstcFpheEJmU0ZBc0IwYkd0dXdGNG5KM2lNOWpfLTRF?oc=5",
+    "source": "전북미래교육신문",
+    "published": "2026-06-19",
+    "keyword": "수업이야기",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "IB"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 10,
+    "title": "EBS, 중2·고1 대상 ‘서술형 평가 집중 관리’ 서비스 운영…현직 교사 1대1 채점·총평 무료 제공",
+    "url": "https://www.lecturernews.com/news/articleView.html?idxno=204586",
+    "source": "한국강사신문",
+    "published": "2026-06-20",
+    "keyword": "",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "EBS"
+    ],
+    "summary": "EBS가 중학교 2학년과 고등학교 1학년 학생들의 서·논술형 평가 역량 강화를 위해 현직 교사의 맞춤형 채점과 총평을 제공하는 ‘서술형 평가 집중 관리...",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "ANALISIS PROBLEMATIKA PEMBELAJARAN BAHASA ARAB BERDASARKAN ASPEK LINGUISTIK DAN NON-LINGUISTIK PADA PENDIDIKAN DASAR",
+    "url": "https://doi.org/10.51878/learning.v6i3.11679",
+    "source": "openalex",
+    "published": "2026-06-17",
+    "keyword": "SEL education",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "This research is motivated by psychopedagogical gaps in elementary school students who appear active behaviorally in class but have low psychological interest in learning Arabic. The focus of the prob...",
+    "implication": "",
+    "ai": false,
+    "authors": "Anisa Syahidatullah",
+    "pdf": "https://jurnalp4i.com/index.php/learning/article/download/11679/7818"
+   },
+   {
+    "n": 2,
+    "title": "EXPERIENCE OF INTEGRATION OF ARTIFICIAL INTELLIGENCE INTO THE PROCESS OF TEACHING FOREIGN LANGUAGES IN HIGHER EDUCATION INSTITUTIONS USING THE EXAMPLE OF GREAT BRITAIN AND THE USA",
+    "url": "https://doi.org/10.52058/2786-4952-2026-5(63)-85-95",
+    "source": "openalex",
+    "published": "2026-06-18",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "The article examines the experience of integrating artificial intelligence (AI) into the process of teaching foreign languages in higher education institutions in the UK and the USA, in particular, it...",
+    "implication": "",
+    "ai": false,
+    "authors": "Iryna Chuchmii, Svitlana Karychkovska 외 1명",
+    "pdf": "https://perspectives.pp.ua/index.php/pis/article/download/44438/44461"
+   },
+   {
+    "n": 3,
+    "title": "INTEGRATION OF HEURISTIC TECHNOLOGIES INTO THE TRAINING OF FUTURE TEACHERS IN THE UNITED STATES",
+    "url": "https://doi.org/10.52058/2786-4952-2026-5(63)-229-242",
+    "source": "openalex",
+    "published": "2026-06-18",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "The article examines the features of integrating heuristic technologies into the process of training future teachers in the United States and identifies the possibilities for their adaptation within t...",
+    "implication": "",
+    "ai": false,
+    "authors": "Liudmyla Siryk",
+    "pdf": "https://perspectives.pp.ua/index.php/pis/article/download/44450/44473"
+   },
+   {
+    "n": 4,
+    "title": "PSYCHOLOGICAL ASPECTS OF USING THE ADKAR MODEL IN TEACHING BUSINESS ENGLISH AND MANAGEMENT DURING WARTIME",
+    "url": "https://doi.org/10.52058/2786-4952-2026-5(63)-3954-3965",
+    "source": "openalex",
+    "published": "2026-06-18",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "Wartime conditions fundamentally transform educational environments by increasing psychological stress, disrupting the learning process, and altering students' motivation.In higher education, these ch...",
+    "implication": "",
+    "ai": false,
+    "authors": "Natalia Batryn",
+    "pdf": "https://perspectives.pp.ua/index.php/pis/article/download/44761/44784"
+   },
+   {
+    "n": 5,
+    "title": "Preschool Teachers’ Perceptions on Assessment Practices in Early Childhood Classrooms",
+    "url": "https://doi.org/10.54536/ajds.v4i1.6162",
+    "source": "openalex",
+    "published": "2026-06-18",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "This research investigated preschool educators’ perspectives of assessment methodologies in early childhood classrooms within specific institutions in Cebu, Philippines, employing a descriptive-correl...",
+    "implication": "",
+    "ai": false,
+    "authors": "Nerisa Alonzo, Lilibeth Pinili 외 1명",
+    "pdf": "https://journals.e-palli.com/home/index.php/ajds/article/download/6162/3471"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "KAIST, AI 환각 줄이고 속도 20배 높인 차세대 '옴니 RAG' 기술 개발",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211929",
+    "source": "AI Times",
+    "published": "2026-06-20",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [],
+    "summary": "한국과학기술원(KAIST, 총장 이광형)은 김민수 전산학부 교수 연구팀이 교원창업기업인 그래파이와 협력해 차세대 데이터베이스 기술 ‘아카식DB(AkasicDB)’와 이를 바탕으로 하는 새로운 검색증강생성(RAG) 기법 ‘옴니RAG’를 개발했다고 20일 밝혔다.아카식DB는 벡터 DB, 그래프DB, 관계형 DB의 기능을 하나의 데이터베이스 관리시스템에서 통합",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "삼성전자, 공간제작소와 손잡고 AI 홈 기반 ‘삼성 AI 모듈러 홈’ 출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211933",
+    "source": "AI Times",
+    "published": "2026-06-20",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "삼성"
+    ],
+    "summary": "삼성전자가 목조 모듈러 주택 전문 기업인 공간제작소와 협력해 ‘삼성 AI 모듈러 홈’을 출시하며 단독주택 형 모듈러 건축 시장에 본격 진출한다고 18일 밝혔다.공간제작소는 모듈러 주택 전문 기업으로 기존의 현장 중심 건축 방식과 달리 AI 기반 설계와 자동화된 생산 시스템을 통해 주택의 80% 이상을 공장에서 사전 제작한 후 현장으로 운반해 조립 및 설치를",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "Google Deepmind loses another top AI researcher as Nobel laureate John Jumper leaves for Anthropic",
+    "url": "https://the-decoder.com/google-deepmind-loses-another-top-ai-researcher-as-nobel-laureate-john-jumper-leaves-for-anthropic/",
+    "source": "The Decoder",
+    "published": "2026-06-19",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Anthropic"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 4,
+    "title": "OpenAI, ChatGPT Enterprise에 대한 신용 trac및 지출 한도 설정 기능 출시",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc0RHRVFvTHJBMDJyeUl0UUhzeEd5VHlwZUV1Qkxmbjc0eFdDVTJLc0VDbXJmMGhZdnVTX3U0VEg1dE9FV1l1S1EwM0hxek5zZHIwSTZ4SnllNi0yZTJZWXFVTGFfU182RDNLRm04aUZoVEhPNEpuUUdqMHR1R3hzbg?oc=5",
+    "source": "Cryptopolitan",
+    "published": "2026-06-19",
+    "keyword": "오픈AI",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 5,
+    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+    "url": "https://openai.com/index/ai-chemist-improves-reaction",
+    "source": "OpenAI Blog",
+    "published": "2026-06-17",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 6,
+    "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+    "source": "Google Blog - AI",
+    "published": "2026-05-29",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announceme",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 7,
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "url": "https://openai.com/index/bbva",
+    "source": "OpenAI Blog",
+    "published": "2026-06-11",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide.",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "Improving health intelligence in ChatGPT",
+    "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "source": "OpenAI Blog",
+    "published": "2026-06-18",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "추론 모델"
+    ],
+    "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "\"챗GPT처럼 쓴다\"…애플, 백그라운드 껍질 벗고 독자 AI 챗봇 앱으로 독립",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TaWVFaDh0SC1YaEVITGh1WHE1TEFIQlBVRHVlaDM0U3U2UzFxdHpRRmNvUFFPdWxVMkxzQ1U3amhyM2hsSTlIN2hyazkySDNrREgwY2FDT3BkNnZLWGhxVGRJT00?oc=5",
+    "source": "디지털데일리",
+    "published": "2026-06-20",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Apple"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 10,
+    "title": "PRC-linked influence operations are targeting AI debates in the US",
+    "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+    "source": "OpenAI Blog",
+    "published": "2026-06-10",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "GPU·데이터센터",
+     "ChatGPT"
+    ],
+    "summary": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims about ChatGPT.",
+    "implication": "",
+    "ai": false
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

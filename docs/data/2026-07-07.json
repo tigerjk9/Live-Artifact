@@ -1,0 +1,413 @@
+{
+ "date": "2026-07-07",
+ "generated_at": "2026-11-02T11:39:28+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "지양희교육연구소, AI 기반 ‘지양희미래교육칼럼’으로 글로벌 에듀테크 시장 진출 본격화",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BRnpnNzliTm5TeWxVR2ZMRDlwMlg4WjY2NFpkWUhKcmVlNEZoNmZZSWRTUGllTkVzdHR6RnRfcmNlNllELTZJdWpwM25BNTVteC1UU2JhSDktMWE3WVlF?oc=5",
+    "source": "press.theleader.kr",
+    "published": "2026-07-07",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "지양희교육연구소는 AI 기반 ‘지양희미래교육칼럼’을 통해 글로벌 에듀테크 시장 진출을 본격화합니다.",
+    "implication": "AI 기반 미래교육칼럼을 활용해 학생들과 미래 사회 및 기술 변화에 대해 탐구할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[기고] 제주농업 디지털전환 : 농업현장을 이해하는 방식의 변화",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE05MFB5MlY5WVZJUVQwaTB3Vi13UUtWd3dTb3RCSlNfTERZVWtnQk1kdXpnSFV2TDN2UW1jVFNoQTZmX2lyanBOWDJjX29fSlhOS3o1VTdlUmc2b083MFNVSXI0WktoSVdzTFhJTEtYVk9qZw?oc=5",
+    "source": "월간친환경",
+    "published": "2026-07-06",
+    "keyword": "디지털전환",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "제주 농업의 디지털 전환을 통해 농업 현장을 이해하는 방식에 변화가 생겼음을 다루는 기고문이다.",
+    "implication": "디지털 전환된 제주 농업 사례를 탐구하며 현장을 이해하는 새로운 방식을 학생들이 모색해볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "경복대, AI교육부터 복지 실증까지…지역 AX 혁신 플랫폼 구축 속도",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0LWNDWTJDSlFCcnJuWlkxZTMyUEszRG9zYW9FeTA0bG1rZmJwRlVCQkp4Q0pjaF9oMnZoaF9aemJqOFNWNDRxYXVDY3BITTBKdWRHdVZUOWJ2OEVYVUMwazdoa3c1R1lmOUl2T0RzRdIBc0FVX3lxTE1fZTlUQXZsd29ucEctUVk3MlBEQXBqMUtUMHRydUdOYnV3U3VLdnhVMW9OWUdoajBWZmZpdVg0cHd4MmdHbmN4ZXZIVDB6ZW56QVNJOTZwekN1azlKLU1yaVoyZU1zS29Wd1NUT2oxajNHeFE?oc=5",
+    "source": "뉴스웍스",
+    "published": "2026-07-06",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "경복대는 AI 교육부터 복지 실증까지 포함하는 지역 AX 혁신 플랫폼 구축을 가속화하고 있습니다.",
+    "implication": "이 뉴스를 통해 AI가 복지 분야까지 확장되는 융합적 사고를 지도할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[자기주도교육혁신]경기도교육청, 전국 최다 22개 자기주도학습센터 운영…교육격차 해소·사교육 부담 완화 본격화",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tSzBuZWZfZE9BalVheGVHcHR4eG52ZTJUMDhkMDl1a2FVMUJxSGJtWmUzcUdkTFJFZGVERDkxN2NObVpvSnRPNFBRMjl3Wk5XNHNNdTBWWi1CMUlqUnZvbkVfOXpVWUU2U0FoWV9FdWs?oc=5",
+    "source": "전국뉴스",
+    "published": "2026-07-06",
+    "keyword": "인공지능교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "사교육"
+    ],
+    "summary": "경기도교육청이 전국 최다 22개 자기주도학습센터를 운영하며 교육격차 해소와 사교육 부담 완화를 본격화합니다.",
+    "implication": "학생들이 자기주도적으로 학습 목표를 설정하고 과정을 주도하도록 수업에서 지원할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "'AI교육 1번지'라더니…오석진 대전시교육감, 첫 인사부터 전문성 삐걱",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RZXRYekJzMkxwZXpKRG5WbTJWSEtqeVhCcWFQN0s2N0tJMy1nei1hVnFhMURwdE5ScEQyNm9jRHBVandleW5yWjR6RnlsMU9HLWFMa1B4NWtfaFl5?oc=5",
+    "source": "뉴스핌",
+    "published": "2026-07-06",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "대전 오석진 교육감이 'AI교육 1번지' 표방과 달리 첫 인사에서 전문성 논란에 휩싸였습니다.",
+    "implication": "상위 기관의 AI 교육 전문성 논란을 인지하고 수업 내 AI 활용 계획을 유연하게 수립할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "고의숙 교육감 취임, 교육 현장이 바라는 제주교육 실현해야",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oSmc4QjJlSDVWbVB3RGJ6QnBlWG5Xelc5Qmh1SExmNlRoRURDZXdnWnVfTDBJbDhvNkU0ZVdobDEwa2JMdzRBSS1TY0hFTE5YRHAxVnZzM2lDelRCNkxSLVlxbmhMb0R1YUJVNg?oc=5",
+    "source": "뉴스N제주",
+    "published": "2026-07-06",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "제주교육청"
+    ],
+    "summary": "고의숙 교육감이 취임했고, 교육 현장이 바라는 제주교육 실현이 요구됩니다.",
+    "implication": "현장의 요구가 반영된 새로운 교육 자료나 방향이 제시되어 수업에 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "교육혁신 선도地 경쟁 인천시교육청도 도전",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zRVNELTBkdy1neV9wdmM5VFFwS05vOFItRkJIYnR2dFVhMnRjSzlPR21lNlZvLTMtOXZ2d2c2c25LS01TdW9xMjQ2UXhpdE9ybU9ZS3VwS1lxNzhDc25UeDdMaS1rVXIxVzEzMUJmOA?oc=5",
+    "source": "기호일보",
+    "published": "2026-07-06",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청이 교육혁신 선도 지역이 되기 위한 경쟁에 도전합니다.",
+    "implication": "교육혁신 경쟁으로 교사는 수업에 적용할 다양한 새로운 교육 방안을 시도해 볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "김대중 교육감 \"교육가족·시민들이 바라는 교육현장 만들자\"",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5RMDAwS3VxSDU1QnZuM2VESHBydDRsN2pNYkk2SDFfcUpDMVU2NGhJTHZnNTZVbVNSREg4SFFuWnB2M2FyOWN1cHFYTEQ?oc=5",
+    "source": "아이뉴스24",
+    "published": "2026-07-06",
+    "keyword": "교육현장",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "김대중 교육감은 교육가족과 시민이 원하는 교육 현장을 만들겠다고 밝혔습니다.",
+    "implication": "학생들이 우리 지역 사회의 문제를 탐구하고 해결하는 수업 활동을 통해 시민성을 함양할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "김진규 검단구청장, 도성훈 교육감 만나 교육 현안 협력 요청",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04QVRFeDB1NHFKa2doZ05WVlVXa2RXc04tdzhHdDVoUE1uZnZ0MUl0YUdNeTBjY3VEaFJBMTF5UE1vMjRJTW1RYmkxSG1Pb0dVejFKYUhlNmk2OVlyMDNBRGdGb2Y2SlFBbFE?oc=5",
+    "source": "THE인천​",
+    "published": "2026-07-06",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "김진규 검단구청장이 도성훈 교육감을 만나 지역 교육 현안 협력을 요청했습니다.",
+    "implication": "지역사회와 교육청의 협력 뉴스는 우리 고장의 교육 현안을 토의하고 해결 방안을 모색하는 수업 자료가 될 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "인천 검단구-인천시교육청, 교육 현안 해결한다",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRRGs1Z2x1QXZ6eXVPTW5Bbm12a2ZkU1RKUnp1dEFNSl9SM25Ra1JOQ1RuSGtScVV1NEZnY2JkRlNENzI0OFBNdWxldm5nS1JFdzV6TFZqZ3N4RVZiWTVOQjFaeWNmSmJnS190Ri1n?oc=5",
+    "source": "투어코리아",
+    "published": "2026-07-06",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청",
+     "개인화 학습"
+    ],
+    "summary": "인천 검단구와 인천시교육청이 지역의 다양한 교육 현안 해결을 위해 상호 협력합니다.",
+    "implication": "지역 교육 현안 해결 노력으로 학생 맞춤형 교육 자료나 프로그램을 수업에 적용할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "AI-Driven Learning Analytics for Evidence-Based Decision-Making in K–12 STEM Classrooms",
+    "url": "https://www.semanticscholar.org/paper/133cc7767f0b74e82e6717549ac33a48e144cb83",
+    "source": "semantic_scholar",
+    "published": "2025-11-20",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "이 연구는 파키스탄 K-12 STEM 교육에서 AI 기반 학습 분석 도구가 학생 참여 및 성과 향상에 기여하나 인프라와 교사 연수 부족으로 한계가 있음을 혼합 방법론으로 분석하여, 데이터 기반 학습 설계와 정책적 지원의 필요성을 제언합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Arslan Haider, Atika Yasin 외 1명",
+    "pdf": "https://doi.org/10.71085/sss.04.04.411"
+   },
+   {
+    "n": 2,
+    "title": "“&lt;b&gt;Leveraging AI to drive adaptive learning for sustainable educational reforms&lt;/b&gt;”&lt;b&gt;&lt;sup&gt; &lt;/sup&gt;&lt;/b&gt;",
+    "url": "https://doi.org/10.66635/ch2gq119",
+    "source": "openalex",
+    "published": "2026-07-04",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "이 논문은 AI 기반 적응형 학습이 교육의 접근성, 형평성, 효율성을 높여 지속 가능한 교육 개혁을 이끌고 포용적 교육 시스템을 구축할 수 있음을 문헌 검토 및 프레임워크 제안을 통해 탐구합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ms Pritam Arunrao Shinde, Dr. Satish Ubale 외 1명",
+    "pdf": "https://www.asiaentrepreneurshipjournal.com/index.php/jaes/article/download/420/305"
+   },
+   {
+    "n": 3,
+    "title": "Enhancing students’ STEM learning through inquiry-based teaching: Evidence from secondary schools in Multan",
+    "url": "https://doi.org/10.71085/sss.05.02.558",
+    "source": "openalex",
+    "published": "2026-07-05",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "물탄 지역 중고등학생 360명 대상 정량 연구에서 탐구 기반 수업이 STEM 학습(개념 이해, 참여, 문제 해결, 학업 성취)을 유의미하게 향상시키고 학생 중심 교육 강화에 중요함을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Shahbaz Sikandar, Rida Fatima 외 1명",
+    "pdf": "https://sss.org.pk/index.php/sss/article/download/558/380"
+   },
+   {
+    "n": 4,
+    "title": "Effect of Differentiated Learning Based on the Independent Curriculum on Instructional Media Usage at SMA Negeri 1 Pare",
+    "url": "https://doi.org/10.61445/tofedu.v5i2.1973",
+    "source": "openalex",
+    "published": "2026-07-05",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "독립 교육과정에 기반한 차별화된 학습이 교육 미디어 활용에 미치는 영향을 양적 조사를 통해 분석한 결과, 학생들의 미디어 활용을 70% 증진시키고 교육을 최적화하는 데 유의미한 영향을 미침을 입증합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Dinil Abrar Sulthani, Tahir Tahir 외 1명",
+    "pdf": "https://journal.tofedu.or.id/index.php/journal/article/download/1973/1597"
+   },
+   {
+    "n": 5,
+    "title": "Teaching and Learning through Nishkama Karma: Applying Indian Knowledge Systems in Education",
+    "url": "https://doi.org/10.22214/ijraset.2026.84095",
+    "source": "openalex",
+    "published": "2026-07-05",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "바가바드 기타의 니쉬카마 카르마 원리를 인도 지식 체계(IKS)와 연계하여 교육에 적용하면 교사 효능감과 학생 참여를 높이고 스트레스를 줄이며 내재적 동기와 심리적 웰빙을 증진하는 균형 잡힌 학습 환경을 조성할 수 있음을 이론적 기반 및 실증적 증거를 통해 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Dr. Ravinder Kour",
+    "pdf": "https://doi.org/10.22214/ijraset.2026.84095"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "셀렉트스타, AI 안전성 연구 3편 'ICML 2026' 채택",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212468",
+    "source": "AI Times",
+    "published": "2026-07-06",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제"
+    ],
+    "summary": "셀렉트스타의 AI 안전성 연구 채택은 AI 기술 생태계가 신뢰 기반의 지속 가능한 상용화를 위한 핵심 단계에 진입했음을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "오픈AI, 국내 사회복지 분야 인재 양성 협력…“AI 활용 교육 제공”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212466",
+    "source": "AI Times",
+    "published": "2026-07-06",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "오픈AI의 사회복지 인재 양성은 AI 기술의 적용 범위가 비기술 산업까지 확장되며, 범용 AI 활용 인력 수요를 창출할 핵심 동력이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "메타 AI, '예약 작업' 도입 준비…챗봇 넘어 '에이전트'로 진화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212456",
+    "source": "AI Times",
+    "published": "2026-07-06",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Meta",
+     "에이전트"
+    ],
+    "summary": "AI 기술 생태계는 챗봇을 넘어 실제 작업을 수행하는 '에이전트' 시대로 진입하며 자율성과 활용성이 크게 확장될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+    "source": "OpenAI Blog",
+    "published": "2026-06-26",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.6 Sol과 같은 차세대 AI 모델의 등장은 기술 발전의 새로운 기준을 제시하고 산업 전반의 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "Zhipu AI launches ZCode to challenge Claude Code and OpenAI Codex at a fraction of the cost",
+    "url": "https://the-decoder.com/zhipu-ai-launches-zcode-to-challenge-claude-code-and-openai-codex-at-a-fraction-of-the-cost/",
+    "source": "The Decoder",
+    "published": "2026-07-06",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Claude",
+     "코딩 AI",
+     "OpenAI",
+     "생성형 AI"
+    ],
+    "summary": "Zhipu AI의 저가 코드 생성 AI는 기존 시장의 가격 경쟁을 격화하고 AI 기술의 대중화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "KAIST, 로봇이 보고·이해하고·예측하는 ‘피지컬 AI’ 기술 개발…ICLR·CVPR서 인정",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212474",
+    "source": "AI Times",
+    "published": "2026-07-06",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "로봇·휴머노이드"
+    ],
+    "summary": "KAIST의 피지컬 AI는 로봇의 현실 세계 인지 및 예측 능력을 혁신하여 AI의 산업 현장 통합을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+    "url": "https://openai.com/index/ai-chemist-improves-reaction",
+    "source": "OpenAI Blog",
+    "published": "2026-06-17",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 화학자의 자율적 반응 개선은 AI가 실제 실험 및 발견 프로세스에 직접 개입하는 시대의 도래를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "url": "https://openai.com/index/daybreak-securing-the-world",
+    "source": "OpenAI Blog",
+    "published": "2026-06-22",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [],
+    "summary": "Daybreak과 같은 전 세계 조직 보안 도구의 등장은 AI 기술 생태계 내 사이버 보안 분야의 혁신과 성장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "Improving health intelligence in ChatGPT",
+    "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "source": "OpenAI Blog",
+    "published": "2026-06-18",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "ChatGPT의 건강 지능 향상은 AI가 고위험 전문 영역에서 신뢰성을 확보하며, AI 기술 생태계의 활용 범위와 시장 기회를 크게 확장할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "How ChatGPT adoption has expanded",
+    "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "source": "OpenAI Blog",
+    "published": "2026-06-30",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "생성형 AI"
+    ],
+    "summary": "챗GPT 채택 확대는 생성형 AI의 실용성을 증명하며, AI 산업 생태계의 혁신과 경쟁을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

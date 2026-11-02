@@ -1,0 +1,409 @@
+{
+ "date": "2026-05-19",
+ "generated_at": "2026-11-02T11:36:46+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[기고] 이미희 경북교사노동조합 위원장",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDczJldW03cGhMYjhqU3JZRlFGSXhYbjYwWl8zZ3BabldTWlFmeG1iUjVvR09nWklWRDVzY1hqLXczNEd1RDZZSGpxZHlhVnBkT0FMc0sybzgwWmk1Mks2ZnJR?oc=5",
+    "source": "매일신문",
+    "published": "2026-05-18",
+    "keyword": "현장교사",
+    "topic": "teacher",
+    "kind": "opinion",
+    "entities": [
+     "교원단체",
+     "경북교육청"
+    ],
+    "summary": "이미희 경북교사노동조합 위원장이 매일신문에 기고한 글에서 경북 교육감에게 바라는 점을 전달한다.",
+    "implication": "교사노조 위원장이 교육감에게 바라는 점을 참고하여 학교 운영에 대한 비판적 시각을 길러볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[논현논단_이덕환 칼럼] 의료·교육 현장 흔드는 악성민원들",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE56c19tbXhnSlhQRWI2SUx0b056ODVsN1J4a0VWVmlCZEZyNm9oT1dLaXZIMUNINy1yTzdhWTdXTVpiajF4M0FGQjZBRkZFOGp0ZWp4QQ?oc=5",
+    "source": "이투데이",
+    "published": "2026-05-18",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "의료 및 교육 현장에서 발생하는 악성 민원으로 인해 정상적인 운영에 어려움이 발생하고 있다는 내용입니다.",
+    "implication": "학부모와의 소통 시 감정적인 대응을 최소화하고, 객관적인 자료를 바탕으로 명확하게 설명하는 것이 중요합니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[우해인 칼럼] ‘무균실의 안전’이 지배하는 교육",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=30238",
+    "source": "에듀프레스",
+    "published": "2026-05-17",
+    "keyword": "",
+    "topic": "student_care",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "학교는 안전을 명목으로 갈등을 회피하는 방어 공간이 되었고, 아이들은 관계 속 성장이 아닌 단절을 경험하며 어려움을 겪고 있다.",
+    "implication": "학생들이 갈등을 겪고 해결하는 과정을 통해 관계를 배우도록 안전한 실패를 경험할 수 있는 수업 환경을 조성해야 합니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "경북교육청, IB 전문연구팀 운영…미래형 교육정책 연구 강화",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DdHB6cV9fYm8yNEh2OGNaRlBZa3ZOMzB1aUlQY2x5ekVNdzBXRk5DMkx3OXVxSkJOemVuU2V1UjJkRkMtYmNtVzNGX1R2NHRFOFFNNnVKSzk?oc=5",
+    "source": "경북신문",
+    "published": "2026-05-18",
+    "keyword": "교육정책",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "경북교육청",
+     "IB"
+    ],
+    "summary": "경북교육청이 IB 전문연구팀을 운영하여 미래형 교육정책 연구를 강화합니다.",
+    "implication": "IB 교육과정 연구를 통해 학생 주도적 학습 활동 설계를 위한 아이디어를 얻을 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "고교학점제 전면 시행 2년 차, 교육 현장 ‘맞춤형 교육과정 안착’ 과제 직면",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1DeF9GXzJ2c1hRa1l2ZklxRzBjb2tsSEpvZlZubm1uS2FpNG9MZEduN1FuVUNoMktsbjd1NFJrc01Gck1xTEE?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-05-18",
+    "keyword": "교육현장",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "고교학점제",
+     "개인화 학습"
+    ],
+    "summary": "고교학점제 전면 시행 2년 차에 교육 현장은 맞춤형 교육과정 안착이라는 과제에 직면하고 있다.",
+    "implication": "학생 선택권을 늘리되, 교사들은 학생 수요를 정확히 파악하고 과목 개설 및 운영 계획을 유연하게 조정해야 합니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "오만 교육부 대표단, 서울교육 AI·에듀테크 혁신 사례 살핀다",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5RY05iMDNNWHFaVXc1LS1BWVN5eUZhNGNxbm14dk5TaDlmWGxKWVdGeWptdmtyS0RTcHAwMUhZTnIwU2NFTjF5WW9scTBWTlFBNUo1T29hSUh4TXNOWGtKbld0dENJdW83cGhWdm5vZ3VCYXNDdFl30gF3QVVfeXFMTlFjTmIwM01YcVpVdzUtLUFZU3l5RmE0Y3FubXh2TlNoOWZYbEpZV0Z5am12a3JLRFNwcDAxSFlOcjBTY0VOMXlZb2xxMFZOUUE1SjVPb2FJSHhNc05Ya0puV3R0Q0l1bzdwaFZ2bm9ndUJhc0N0WXc?oc=5",
+    "source": "핀포인트뉴스",
+    "published": "2026-05-18",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "교육부",
+     "서울시교육청",
+     "개인화 학습"
+    ],
+    "summary": "오만 교육부 대표단이 서울 교육의 AI 및 에듀테크 혁신 사례를 벤치마킹하기 위해 방문합니다.",
+    "implication": "AI 기반 학습 분석 도구를 활용해 학생 맞춤형 학습 계획을 세우는 데 참고할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "교육부-개보위, 에듀테크 사업자 개인정보보호 실태 점검",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0QzNWaENBWU4xQjRtcTg4bGQ4XzhIOW1hcWdyMjdhMzFfdHdvVGxyV0duZG1YZDdBazRMbTZkdlFMVzdGRGNJcTNyMHRxTlViT2tzNzhuSXRRZkg5bXhjMFB6TzNyT043WFViLXln?oc=5",
+    "source": "아시아투데이",
+    "published": "2026-05-18",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "교육부와 개보위가 에듀테크 업체의 개인정보보호 실태를 점검한다.",
+    "implication": "학생 데이터 활용 시 개인정보보호 관련 법규를 철저히 준수해야 하겠습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "교육부, 개인정보위와 에듀테크 개인정보 합동점검…\"예방 강화 취지\"",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LYUROUzVKMUJDcXJUQUNUaWNObjJ0SUJoZGNwaVI5eFJ2SlJRUWZiOURsOEZzbE8yVklpZnFhRWVHdnU3ZEY1T1lBSkFqWUN4N0dDMGp6ZlFCZw?oc=5",
+    "source": "뉴스1",
+    "published": "2026-05-18",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "교육부는 개인정보위원회와 협력하여 에듀테크 기업의 개인정보 보호 실태를 합동 점검하여 학생 개인정보 유출 예방을 강화합니다.",
+    "implication": "에듀테크 활용 시 개인정보 처리 방침을 꼼꼼히 확인하고, 학생 데이터 관리 교육을 강화해야 합니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "최교진 교육부 장관, 광주서 5·18 계기교육 현장 방문 및 대담 진행",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0yYWR4SlI0NDNXdHdJWjV5Ml9QUDE0ZG9TektCdDBleUpTcy14SWI1ekV5b0kwQk5HUnNGS3MtemRyUG83U0lZdGtsNjN1emIyejJJRTdReEhFVHJ5?oc=5",
+    "source": "전남인터넷신문",
+    "published": "2026-05-18",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": "interview",
+    "entities": [
+     "교육부"
+    ],
+    "summary": "최교진 교육부 장관이 광주에서 5·18 계기교육 현장을 방문하여 대담을 진행했습니다.",
+    "implication": "5·18 민주화운동 관련 교육 자료를 찾고, 학생들과 자유롭게 토론하는 시간을 가져볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "[교육논단] 교육정책을 잘 살피는 선거가 되기를",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xU0hacW9ncTNGdHEtZnFyd1hEay00MkFvT2k0dTQtY1BPUFI3R1JsSzFIZkFaa2x2LTYwak95NnBoaVk2MFp6VHNtck5mcTZUNWpJM0pYWjZNRy1NVHpCaExRLXBoZzhyeTJn?oc=5",
+    "source": "대구신문",
+    "published": "2026-05-18",
+    "keyword": "과정중심평가",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "대구신문은 교육 정책에 대한 심층적인 검토가 이루어지는 선거가 되기를 바란다는 논평을 제시합니다.",
+    "implication": "선거 시기 학생들과 함께 주요 교육 공약들을 살펴보고 비판적으로 분석하는 수업을 진행할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Faith Integrated English Pedagogy for Generation Z Learners in Islamic Boarding Schools",
+    "url": "https://doi.org/10.51468/jpi.v8i1.1316",
+    "source": "openalex",
+    "published": "2026-05-17",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 인도네시아 이슬람 기숙학교에서 Z세대 학습자들을 위해 종교적, 문화적 가치를 유지하며 상호작용적 교수법, 공감적 접근, 맥락적 관련성을 통해 학습 참여를 증진시키는 신앙 통합 영어 교육 모델을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Dhian Marita Sari, Nunun Indrasari",
+    "pdf": "https://journal.stitmadani.ac.id/index.php/JPI/article/download/1316/692"
+   },
+   {
+    "n": 2,
+    "title": "Examining the explanation: AI-based classification of explanatory textual sequences in secondary mathematics teaching",
+    "url": "https://doi.org/10.1007/s10857-026-09760-3",
+    "source": "openalex",
+    "published": "2026-05-16",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 AI를 활용하여 중등 수학 수업에서 교사의 설명 유형(해석적, 서술적, 정당화)을 분류하고, 이는 교사 훈련 및 담화 기반 수업에 영향을 주어 수학 교육 연구에 AI 통합 가능성을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Gabriel Valdés-León, Juan L. Núñez 외 1명",
+    "pdf": "https://link.springer.com/content/pdf/10.1007/s10857-026-09760-3.pdf"
+   },
+   {
+    "n": 3,
+    "title": "Backward Design: Targeting Depth of Understanding for All Learners",
+    "url": "http://www.cec.sped.org/Content/NavigationMenu/Publications2/TEACHINGExceptionalChildren/default.htm",
+    "source": "eric",
+    "published": "2009-01-01",
+    "keyword": "backward design",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "역행 설계 접근법은 학습자 특성 파악, 교육과정 우선순위 결정, 평가 틀 설계, 학습 활동 구성의 4단계를 통해 모든 학생의 깊이 있는 이해를 목표로 교육과정을 설계하고, 궁극적으로 일반 교육과정 기준 숙달을 지원하여 교육 현장에 긍정적인 영향을 미칩니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Childre, Amy 외 4명",
+    "pdf": "http://www.cec.sped.org/Content/NavigationMenu/Publications2/TEACHINGExceptionalChildren/default.htm"
+   },
+   {
+    "n": 4,
+    "title": "Adesua: Development and Feasibility Study of an AI WhatsApp Bot for Science Learning in West Africa",
+    "url": "http://arxiv.org/abs/2605.15376v1",
+    "source": "",
+    "published": "2026-05-14",
+    "keyword": "K-12 education",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "서아프리카의 교육 자원 부족 문제를 해결하기 위해 WhatsApp 기반 AI 챗봇 Adesua를 개발하여 과학 학습 지원 및 자동 평가를 제공하고, 예비 연구 결과 높은 유용성을 보여 향후 저비용 맞춤형 학습 지원 가능성을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['George Boateng', 'Evans Atompoya' 외 5명",
+    "pdf": "http://arxiv.org/pdf/2605.15376v1"
+   },
+   {
+    "n": 5,
+    "title": "Integrating Artificial Intelligence in Higher Education Language Teaching: Insights from Academic Discourse",
+    "url": "https://doi.org/10.48161/qaj.v6n2a2527",
+    "source": "openalex",
+    "published": "2026-05-16",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [
+     "개인화 학습",
+     "AI 리터러시"
+    ],
+    "summary": "본 연구는 고등 교육 기관의 전문가들의 논의를 분석하여 외국어 교육에서 AI가 맞춤형 학습과 참여를 증진하고 교사의 역할을 변화시키지만, 디지털 리터러시 및 과의존 문제도 제기하며, 구성주의 학습 이론과 연계된 AI 활용의 중요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Narmina Aliyeva, Nigar Orujova 외 1명",
+    "pdf": "https://journal.qubahan.com/index.php/qaj/article/download/2527/579"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "래블업, 리눅스 재단 AAIF 실버 멤버 합류…”인프라 기술로 오픈소스 생태계 기여”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210670",
+    "source": "AI Times",
+    "published": "2026-05-18",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "오픈소스"
+    ],
+    "summary": "래블업의 AAIF 합류는 AI 인프라 기술 경쟁력 강화와 오픈소스 생태계 협력을 통해 국내 AI 산업 발전에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "앤트로픽·오픈AI, AI 스타트업 매출 89% 독식...\"승자는 모델 개발사\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210622",
+    "source": "AI Times",
+    "published": "2026-05-18",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "OpenAI"
+    ],
+    "summary": "AI 모델 개발사에 과도하게 집중된 수익 구조는 AI 기술 생태계의 다양성 약화와 종속 심화를 야기할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "구글 클라우드 콘솔에 '미소스' 등장...B2B 출시설 확산",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210617",
+    "source": "AI Times",
+    "published": "2026-05-18",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Claude"
+    ],
+    "summary": "구글의 미소스 콘솔 공개는 기업용 AI 모델 시장 경쟁 심화를 예고하며, B2B AI 솔루션 생태계 확장에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "Cursor's Composer 2.5 matches Opus 4.7 and GPT-5.5 benchmarks at a fraction of the cost",
+    "url": "https://the-decoder.com/cursors-composer-2-5-matches-opus-4-7-and-gpt-5-5-benchmarks-at-a-fraction-of-the-cost/",
+    "source": "The Decoder",
+    "published": "2026-05-18",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "코딩 AI",
+     "ChatGPT",
+     "벤치마크"
+    ],
+    "summary": "Cursor의 Composer 2.5는 저렴한 비용으로 고성능 AI 모델을 제공하여 AI 개발 및 활용의 대중화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "챗GPT강사 소현규 AI메타버스연구원 원장 ＂AI 에이전트 시대 살아남는 법은?＂",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GVnBGX0xrMkpBVlpoRHVUS3E2U1N0Q1F1R1VnUjhhanJpM0lISVpfekdfNnlTRE9POXNHMXcwR1F3a0g2bTMzTHZaOThzZ1NPQ2xqdmYwcDc4N03SAWpBVV95cUxQbW9fV2xSY2JIQ0JYRUwwcXJSR2pHTjJac0d3bjlDcU91RUp0WDhQek9DbnpUdU5pVnk4RDAtT2Z2eDlrVGQ0X283WE9sX2syeUlTMHZpbHVRdk9VS0xSUHNTajlzeXdjSU53?oc=5",
+    "source": "대학저널",
+    "published": "2026-05-18",
+    "keyword": "GPT",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "에이전트"
+    ],
+    "summary": "AI 에이전트 시대에는 개인의 AI 활용 능력과 윤리적 책임감이 더욱 중요해져, 교육 및 사회적 논의 활성화가 필요할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "NVIDIA와 Google Cloud는 Next 2026에서 AI 하이퍼컴퓨터 플랫폼을 확장합니다.",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLXlVbDQzaGw0QnhiNzRpRGI2Rm5vV1NyWEFqMjItQkNYRktpcE5NY1A2Qm9iR1dxR0xZVmxRVS00Vzh5LWNZYkRBMGlZRlBoN3JKaEVRRnhrbElxS3pSaDRIbTdOeFB0RjIwZ08zR29wc21OWGtyWW5CNmhRcFBxX3ROR2RQSDJ3a1dYUlNjTkY2NGFOSVNucTV3YVlhZnBLcDRxSlNGMTN4WDTSAasBQVVfeXFMTi15VWw0M2hsNEJ4Yjc0aURiNkZub1dTclhBajIyLUJDWEZLaXBOTWNQNkJvYkdXcUdMWVZsUVUtNFc4eS1jWWJEQTBpWUZQaDdySmhFUUZ4a2xJcUt6Umg0SG03TnhQdEYyMGdPM0dvcHNtTlhrclluQjZoUXBQcV90TkdkUEgyd2tXWFJTY05GNjRhTklTbnE1d2FZYWZwS3A0cUpTRjEzeFg0?oc=5",
+    "source": "StorageReview.com",
+    "published": "2026-05-18",
+    "keyword": "구글",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "Google"
+    ],
+    "summary": "NVIDIA와 Google Cloud의 협력 확장은 AI 하이퍼컴퓨팅 시장 경쟁 심화와 클라우드 기반 AI 솔루션 접근성 확대를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "델, 오픈AI·구글·팔란티어 품는다…엔비디아와 'AI 팩토리' 총공세",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OSUY0N0V3OFh5a1BMbXlYbEl1SDA4QTNFd0RrckxjTkQzcHk2MThzdlVzSDltMWhLSFlqVHM0d0VQbXdwTzA0eGdFTlpSUGUwcVVLU3JB?oc=5",
+    "source": "구글 뉴스 AI",
+    "published": "2026-05-18",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Google",
+     "NVIDIA"
+    ],
+    "summary": "델이 엔비디아와 함께 AI 팩토리를 구축하며 오픈AI, 구글, 팔란티어 등 주요 AI 기업과의 협력을 강화하는 것은 AI 기술 경쟁 심화 및 산업 전반의 AI 도입 가속화를 의미합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "[구글 I/O 2026, 'AI 풀스택 전략' 공개 임박... 제미니· XR·차세대 OS 총출동] 가장 주목되는 것은 '제미니 옴니(Gemini Omni)'다. 유출된 정보에 따르면 이 모델은 텍스트 중심을 넘어 비디오 생성과 편집 기능까지 통합한 멀티모달 AI",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5sSXlmcWMxSnRNcXZrdjBVUE8wcV9nSFhkTUVrMlA4d0hxZ1FyRVIwaU9qajhlRXF0LW1mWG1BaUk?oc=5",
+    "source": "AI넷",
+    "published": "2026-05-18",
+    "keyword": "구글",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Gemini"
+    ],
+    "summary": "구글의 AI 풀스택 전략은 제미니 옴니를 통해 AI 기술의 멀티모달 역량을 강화하고, AI 생태계 전반에 큰 파급력을 미칠 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "AI가 낳은 실리콘밸리 신계층...300억 부자 1만명 탄생과 '7억 연봉자'의 불안",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210626",
+    "source": "AI Times",
+    "published": "2026-05-18",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 기술 발전은 특정 계층에 부를 집중시키고 고숙련 노동 시장의 불안정성을 야기하며, 이는 AI 생태계의 지속 가능성과 윤리적 문제에 대한 심층적인 고민을 요구합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

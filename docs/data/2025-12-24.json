@@ -1,0 +1,424 @@
+{
+ "date": "2025-12-24",
+ "generated_at": "2026-11-02T11:49:40+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[김영배 칼럼] 서울교육청 혁신교육‘서울 런’처럼 결과로 말하라",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94OU1GUjNWbm53WG9uY1dIUko5ZTlSZVFSbVBYU282Szh5TWQ2b0liSTVodExPcXFIeGJNcDRfWkEtb0xOUUFZeDNqMUhOWXFSS3BZOWhjdE1LUFhuMGc?oc=5",
+    "source": "아시아타임즈",
+    "published": "2025-12-23",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [
+     "서울시교육청"
+    ],
+    "summary": "서울런 사업은 교육 격차 해소라는 목표 달성을 위해 실질적인 학습 효과와 공정성 확보에 더욱 집중해야 할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "충남대, 韓·美·유럽 에듀테크 기업과 손잡고 AI기반 혁신·교원양성 '본격화'",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zMUJUVnRsem03a0laamtsdWVaSWlUeFNrRzF5VnRGdXk3QnBTdUl4WjU5cEx0eW5QbFMwZ3NMZHY4anpId1FhVVNrN3hhTHEzTHBnanNZZWY0eEZyaHZEVV9Mdjc4YnFSeFlRbQ?oc=5",
+    "source": "econovill.com",
+    "published": "2025-12-23",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "충남대의 에듀테크 기업 협력은 AI 기반 교육 혁신과 교원 양성에 기여하여, 미래 교육 환경 변화에 대한 선제적 대응을 가능하게 할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "유원대, 뇌과학 기반 라이프스타일 코칭 전문강사 양성",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1BZjRNTEpwLXZ6Y1NkMks0eDZ1MzYwV19ELXV1SE05MlZJV2h5YlpERjZqLWZIZUdQZlIxRGxUanpqOFJBbFZqbXhGcjZpdHB0VGNObzllSThYUWlVN2tXX3o3V1hzNXc?oc=5",
+    "source": "팍스경제TV",
+    "published": "2025-12-23",
+    "keyword": "뇌과학",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "뇌과학 기반 라이프스타일 코칭 전문강사 양성은 교육 분야에 개인 맞춤형 학습 및 성장을 촉진하는 새로운 가능성을 제시합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "EBS '위대한 수업, 그레이트 마인즈' 안토니오 다마지오 '느낌의 뇌과학'",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sNk0zNnB2cWFHdDYyZVF2VmJ1c3BER1o3RkxtWVZZbWVVdlFLYUpka1JZWkVzUnFWRHZ6TU5BZ2VBblFjdWdUUzFSRlp4Wk5BR3I4LWh1V1Vnd1JPVFZITkZISE1zTkY2U1pF?oc=5",
+    "source": "베리타스알파",
+    "published": "2025-12-23",
+    "keyword": "뇌과학",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "EBS"
+    ],
+    "summary": "다마지오의 '느낌의 뇌과학' 강연은 교육이 인지적 영역뿐 아니라 정서적 경험과 연결되어야 효과적임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "도성훈 인천교육감, 대학 총학생회와 AI교육 논의",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zVHlPQU56X2N6OXFhZFZaSHpyQS1uYmp0d01xTlRhbDdtSndpMDhuenc4RXFfdFczaDBVOFAySTZfNDNCMDFHNF9MOC1ocV9aYWJUSnJ2bWlOYjFXME5JcjJDNXJzaXVnMEHSAW5BVV95cUxQeU9FWXNFUDJScE93UV8tVGJZbE5pbkJPN2FBYmhRSmtXSDl1d1ZVNm0zaF92YkhoZWRLTG90WmF3T212U0piSUEwSVdRbXFHYnZjS0h3dEk0OV9YRWh4eWZUSTRCcnNwYVB3RlljQQ?oc=5",
+    "source": "천지일보",
+    "published": "2025-12-23",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천 교육감이 대학 총학생회와 AI 교육을 논의하는 것은 미래 교육 수요를 반영하여 학생 중심의 AI 교육 정책 방향을 설정하는 데 긍정적인 시발점이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "“진보진영 경기도교육감 후보 단일화”... ‘경기교육혁신연대’ 내년초 출범",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92Q3ZqcGR6SGRLTmFKcFJEelBOenMteXU4Rm9mV0szaEY4SEo2UW1pRkJNelJDSXlkWHZCUWxvU2lYSE1BeUF5UFlnNDVxWnhvcEVaUlhKc3gyUFk?oc=5",
+    "source": "경기일보",
+    "published": "2025-12-23",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "교육감 선거"
+    ],
+    "summary": "진보 교육감 후보 단일화는 경기 교육 정책 방향성에 대한 집중 논의를 촉발하고, 혁신 교육 심화 및 확장에 대한 요구를 반영할 가능성이 높습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "인천광역시교육청AI융합교육원, ‘인공지능(AI)디지털 도구활용 수업설계 직무연수’ 운영",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wMy03QzVwYTNYeFhybEJaWldQcFA2bnlEb0FuM0Z6R3NsTmZMYjZTV2RxRzVRa01nRG9vODdSeTNBQ250bWlVVEhCVk83NW54RHd4THpxMlNpY0RsZmNNS0g5VQ?oc=5",
+    "source": "대한민국교육신문",
+    "published": "2025-12-23",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천광역시교육청의 AI 융합교육 연수는 교사들의 AI 활용 역량 강화 및 미래 교육 혁신에 기여할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "‘학교 체감형 교육정책 24선’으로 본 2026 울산교육",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBlbUtJM3daWFVsR3Z2QXVGWTFuT2t1ckxaMlY2Q2JwQnhJZ3J0bFdxMi1RQkpNNWwxNUZqa1lOSEo4VnNyU213VUs2c0pPNUx5Z25icU5HTXdSdjA0dmhKbllXYURMdEJzem5saTU0Z9IBb0FVX3lxTFBlbUtJM3daWFVsR3Z2QXVGWTFuT2t1ckxaMlY2Q2JwQnhJZ3J0bFdxMi1RQkpNNWwxNUZqa1lOSEo4VnNyU213VUs2c0pPNUx5Z25icU5HTXdSdjA0dmhKbllXYURMdEJzem5saTU0Zw?oc=5",
+    "source": "교육언론[창]",
+    "published": "2025-12-23",
+    "keyword": "AI디지털도구",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "울산시교육청"
+    ],
+    "summary": "2026 울산교육 정책은 학교 현장의 실제적 필요를 반영하려는 노력이 돋보이나, 정책 실행의 효과성과 교사의 자율성 보장 방안에 대한 구체적인 검토가 필요합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "서울시교육청 \"초5·중2·고1 때 AI 문해력 검사\"",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbmp2OHFKYkFPRU5ORUhkLWh0WmZnTTBIQzN3Zzh6STZxbElfSXdVZHNRNXUxRnc4aGU3MXhLSVRnMGREdk5WWTNHWDN5dWVEd0tfUjBqTmVSdWMxVlZzSUdjZkQteFFMQ2NsdjU1UDlDMXBteHpiZ3N4UUhmZm15SlJTZXBfSmdoNklVZkVHM3kxVVk?oc=5",
+    "source": "YTN 사이언스",
+    "published": "2025-12-23",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "서울시교육청",
+     "문해력"
+    ],
+    "summary": "서울시교육청의 AI 문해력 검사는 학생들의 디지털 역량 강화에 기여할 수 있지만, 평가 결과가 서열화나 과도한 경쟁으로 이어지지 않도록 신중한 접근이 필요합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "[투코현장] 정근식 서울시교육감 “AI 시대의 주인은 학생”",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5adFNDR2ZqQlRYeW1vNTRsbHJpSnpoWEFHaDMtRV81cW4wNzZqRms0eW5VT3BydVZxS2o3cHpJTnJmb0dqQ1hxZnRHS3NSdXV5TDVENG90M0w1TXM3SGpEb0lrM0F4LVJPZmhFLWcwUDI?oc=5",
+    "source": "투데이코리아",
+    "published": "2025-12-23",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "서울시교육청"
+    ],
+    "summary": "정 교육감의 발언은 AI 시대에 학생 주도성을 강조하며 교육 패러다임 전환의 필요성을 시사하는 중요한 메시지입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "An Experience Report on a Pedagogically Controlled, Curriculum-Constrained AI Tutor for SE Education",
+    "url": "http://arxiv.org/abs/2512.11882v1",
+    "source": "",
+    "published": "2025-12-08",
+    "keyword": "pedagogical",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "AI 튜터",
+     "ChatGPT"
+    ],
+    "summary": "RockStartIT 이니셔티브의 디지털 프로그래밍 교육을 위해 GPT-4 기반의 AI 튜터 RockStartIT Tutor를 개발하고, 제한적인 커리큘럼 환경에서 맞춤형 지원을 제공하여 학생들의 학습을 돕고 교사의 부담을 줄이는 가능성을 TAM 모델로 평가하여 AI 튜터의 교육적 활용 가능성을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Lucia Happe', 'Dominik Fuchß' 외 3명",
+    "pdf": "http://arxiv.org/pdf/2512.11882v1"
+   },
+   {
+    "n": 2,
+    "title": "Application of Mobile Information System Based on Internet in College Physical Education Classroom Teaching",
+    "url": "https://www.semanticscholar.org/paper/f7295b04c18988854d7d20ce78732b360f6db7eb",
+    "source": "semantic_scholar",
+    "published": "2021-12-10",
+    "keyword": "",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 대학 체육 수업에서 인터넷 기반 모바일 정보 시스템을 활용하여 교사의 역량 강화, 풍부한 온라인 자료 제공, 학생들의 정보 공유 및 협력 증진을 통해 수업 질을 향상시키고, 궁극적으로 학생들의 평생 스포츠 의식 함양과 건강 증진에 기여하는 방안을 제시하며, 설문 데이터 분석, 사례 분석, 비교 연구 등의 방법론을 사용합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Jiayi Li",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Computer-Aided Personalized Education",
+    "url": "https://www.semanticscholar.org/paper/6901f37bc1eee20e1ba17e3e6d92b39f0299af1a",
+    "source": "semantic_scholar",
+    "published": "2020-07-07",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "STEM 분야 인력 부족 문제를 해결하기 위해, 논리 추론, 데이터 분석, 자연어 처리 기술과 교육 및 HCI 연구를 융합하여 자동 평가, 맞춤형 피드백, 적응형 콘텐츠 생성 등 AI 기반 개인 맞춤형 교육 도구를 개발하고, 온라인 교육 플랫폼을 통해 공유 인프라를 구축하여 교육 혁신을 가속화할 수 있음을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "R. Alur, Richard Baraniuk 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "Integration of AI in STEM Education, Addressing Ethical Challenges in K-12 Settings",
+    "url": "http://arxiv.org/abs/2510.19196v1",
+    "source": "",
+    "published": "2025-10-22",
+    "keyword": "pedagogy",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "이 논문은 K-12 STEM 교육에 AI 통합의 양면적 영향(학습 향상 및 윤리적 문제)을 분석하고, 편향 감사, 저자원 적응 전략, 정책 조정을 포함한 3단계 로드맵과 교사 연수 모델을 제시하여, AI가 포용적이고 인간 중심적인 STEM 교육 도구로 기능하도록 합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Shaouna Shoaib Lodhi', 'Shoaib Lodhi']",
+    "pdf": "http://arxiv.org/pdf/2510.19196v1"
+   },
+   {
+    "n": 5,
+    "title": "Teaching STEM Courses using Ignatian Pedagogy",
+    "url": "http://arxiv.org/abs/2509.05806v1",
+    "source": "",
+    "published": "2025-09-06",
+    "keyword": "pedagogy",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 예수회 교육 방법인 Ignatian Pedagogy를 STEM 교육에 적용하기 위한 프레임워크를 제시하고, 실제 물리학 수업 사례와 평가 결과를 통해 학생 학습 효과를 입증하며, cura personalis, magis 등의 예수회 정신을 강조하여 STEM 교육의 새로운 방향성을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Gintaras Duda']",
+    "pdf": "http://arxiv.org/pdf/2509.05806v1"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "K교육 AI, 교육청 플랫폼과 연계…교육용 챗GPT 만든다",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VUW0wV2EtVTg5RVYxVkw2LTFvQjc0VHhWaXBOSEhVbE5ER1NNeEVnUk1qQ0VLVmN0OVAwekJQQmduREhGVjVHM0VTMUw0VEVuQWNkbU9nLXNJbTRIWUc5WVhqcVk?oc=5",
+    "source": "MTN 머니투데이방송",
+    "published": "2025-12-23",
+    "keyword": "GPT",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "교육청 플랫폼 연계 AI 챗GPT 개발은 공교육 맞춤형 AI 교육 서비스 확산과 에듀테크 산업 성장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "삼성SDS, OpenAI ‘ChatGPT 엔터프라이즈’ 국내 리셀러 계약 체결",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iQ2lPemNrYURZbE12c1pQMWJxT05OSkZkT3FGLWZ0WWlqWE9ScVBraVRFUVhJd1Bnak9XOVByZEdyajlTcHVteUgxM0Vvb3Q5LUtHMVZRcDVtMTlxNHNEadIBYEFVX3lxTE1iQ2lPemNrYURZbE12c1pQMWJxT05OSkZkT3FGLWZ0WWlqWE9ScVBraVRFUVhJd1Bnak9XOVByZEdyajlTcHVteUgxM0Vvb3Q5LUtHMVZRcDVtMTlxNHNEaQ?oc=5",
+    "source": "NSP통신",
+    "published": "2025-12-23",
+    "keyword": "API",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "삼성",
+     "OpenAI",
+     "ChatGPT",
+     "생성형 AI"
+    ],
+    "summary": "삼성SDS의 ChatGPT 엔터프라이즈 리셀러 계약은 국내 기업들의 생성형 AI 도입 가속화와 맞춤형 서비스 시장 확대를 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "불법 복제 책 AI 학습 혐의로 6곳 고소당해...xAI는 첫 소송",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205042",
+    "source": "AI Times",
+    "published": "2025-12-23",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "저작권·소송"
+    ],
+    "summary": "이번 소송은 AI 학습 데이터 저작권 침해에 대한 중요한 선례를 만들고, 향후 AI 기술 개발 및 콘텐츠 산업 전반에 상당한 영향을 미칠 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "솔트룩스, 생성형 AI 윤리 연구로 세계 최고 학회 논문 6편 발표",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9wYjBPMjdKTTYyRTdJMzVWMnduWUNpVERzd3pZVWp3V0RDdDZBajNnMHVTMm1kT3RRYUJTRnZpaXIxSHlFRW9zb25kaWthYnhBR2djaF91c0llOG5HY2cwRWx5bHhVYUc5Rmp2QzI0UdIBb0FVX3lxTE9wYjBPMjdKTTYyRTdJMzVWMnduWUNpVERzd3pZVWp3V0RDdDZBajNnMHVTMm1kT3RRYUJTRnZpaXIxSHlFRW9zb25kaWthYnhBR2djaF91c0llOG5HY2cwRWx5bHhVYUc5Rmp2QzI0UQ?oc=5",
+    "source": "뉴스로드",
+    "published": "2025-12-23",
+    "keyword": "생성AI",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "AI 안전·규제"
+    ],
+    "summary": "솔트룩스의 생성형 AI 윤리 연구 성과는 AI 기술의 책임감 있는 발전과 윤리적 문제 해결에 대한 중요성을 강조하며, 산업 전반의 신뢰도 향상에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "호치민시에 있는 말라리아·기생충·곤충학 연구소는 인공지능(AI) 응용 교육을 실시하고 있습니다.",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLXNCZXc3ZFRMbjJVcVRpZGZWUjAyOTFneENGMVFXNGl2Rks4ZUJRYjkxSzhyUFFhRGgxZXJKMDl0UXk5WVRGZ1JWbGJnMmxuM2dRbVFNTE0xYlF6OTE4azduODFZaFdhZTlWWWhvdlhuY3gxdGJWNmY0VV9MSndmaXlnYW1oRFlZMVZCMnUwT0RfTTg?oc=5",
+    "source": "Vietnam.vn",
+    "published": "2025-12-23",
+    "keyword": "AI도구",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 교육 확산은 의료 연구 분야의 혁신을 가속화하고 베트남을 포함한 개발도상국의 기술 경쟁력 강화에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "[에듀플러스]테크빌교육 체더스, 전남·인천 교육청 'AI·에듀테크 납품 및 구축' 사업 수주",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAtaXFLeHQ3YXZZbVN5UmdEbDlJUGlqb0FtY1B0aUQybTFoU05HTXdGeTdnN1F5VlZORm81dVNQc2Z6azRwV2Zkb2kzUlBtdw?oc=5",
+    "source": "전자신문",
+    "published": "2025-12-23",
+    "keyword": "AI도구",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "교육청의 AI·에듀테크 도입 확대는 관련 시장 성장과 함께 교육 분야 AI 기술 생태계 확장에 긍정적인 신호탄입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "충남대, 국내·외 에듀테크 기업과 AI기반 교육 혁신 나선다",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QR0pyekFUdUFacG1NaUhwOVNnVUR2WGhWRGZjaUJRUzZoRGM3LTRTRElMZEJwaXZ2aWlDQmUtaU1PRzQ0NUNFdVp6TE5ZTS13cWl5N0lrME5FS0l5eGNwZnhiVDc4b0po0gFoQVVfeXFMTlBHSnJ6QVR1QVpwbU1pSHA5U2dVRHZYaFZEZmNpQlFTNmhEYzctNFNESUxkQnBpdnZpaUNCZS1pTU9HNDQ1Q0V1WnpMTllNLXdxaXk3SWswTkVLSXl4Y3BmeGJUNzhvSmg?oc=5",
+    "source": "usline.kr",
+    "published": "2025-12-23",
+    "keyword": "에듀테크",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [],
+    "summary": "충남대의 에듀테크 협력은 AI 교육 혁신을 가속화하고 관련 기술 및 콘텐츠 시장 성장에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "구글 클라우드, 애니펜 생성형 AI 플랫폼 ‘룸룸’에 제미나이 3 모델 통합 제공",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sWXhIR0hHeHpvYlZNSF93ejVTckZ2LWxTc0ZidGQyYXgwZl9zTXJaSlBtZERia2FIa1hsYno5ZVRzOHYyLUtMVTVnWHhsQkxJN3pPZ3NUSHp6RGlyTFpkY3h4QXVfc0RIcmNn0gFvQVVfeXFMUGJJZ3l3dHNiX3VCOWE5aEtyUVZGc0xieVBRckpZR0JFWmJzeXpBUlVtZFZUV3pLZy1hVmRobWV4RVFfZWdmQ3hCM001bkhrZWZzYXUzR2l5V2syNTVFWjZOLWFWczFPcEpodF8tZHZJ?oc=5",
+    "source": "newstheai.com",
+    "published": "2025-12-23",
+    "keyword": "구글",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "생성형 AI",
+     "Gemini"
+    ],
+    "summary": "구글 클라우드의 제미나이 3 모델 통합은 생성형 AI 플랫폼 경쟁 심화와 애니펜의 콘텐츠 제작 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "[알고리즘이 돈을 결정할 때: 금융 AI의 윤리적 도전과 편향] 민간 금융사들도 이제 단순히 AI를 '사용'하는 단계를 넘어 '설명 가능한 AI(explainable AI)'와 '책임 있는 AI(Responsible AI)' 구축",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9pN01fTzVNX0tJVGdBTHJFaWh4YUZjemplaVB4VkNEV0JhbURuWnh1RE5LNDJVSFZuRDVIdENwb3Y?oc=5",
+    "source": "AI넷",
+    "published": "2025-12-23",
+    "keyword": "머신러닝",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [],
+    "summary": "금융 AI의 윤리적 문제는 AI 기술의 신뢰성과 지속 가능한 발전을 위해 반드시 해결해야 할 과제입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "코그니잔트의 확장된 Microsoft AI 얼라이언스와 새로운 AI 연구소, 코그니잔트 기술 솔루션(CTSH)에 대한 투자 사례에 변화를 가져올 수 있습니다.",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa0l0ajJTa0hIS1BGOE1DdnJIaHJqenozOEN1N0JVN2hpaU1zNW9NUzhxR3NvdUNJTmZhT0VxdWRmN2luZEJCalVLYXVhUGhYQ0NOaDREbk4yVG5sWkJQd2VwTF9UR1g1b3RvN2NJTXdoMnZnSW1zNnhFYXotYUczSGJYQ0Q3WGs4WWVteno2SXFSNm1GU0tJWXVHamRwamJwT0kwcXFaMFVFbVgtNFB4b0xB0gGyAUFVX3lxTE1rSXRqMlNrSEhLUEY4TUN2ckhocmp6ejM4Q3U3QlU3aGlpTXM1b01TOHFHc291Q0lOZmFPRXF1ZGY3aW5kQkJqVUthdWFQaFhDQ05oNERuTjJUbmxaQlB3ZXBMX1RHWDVvdG83Y0lNd2gydmdJbXM2eEVhei1hRzNIYlhDRDdYazhZZW16ejZJcVI2bUZTS0lZdUdqZHBqYnBPSTBxcVowVUVtWC00UHhvTEE?oc=5",
+    "source": "simplywall.st",
+    "published": "2025-12-23",
+    "keyword": "AI연구",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Microsoft"
+    ],
+    "summary": "코그니잔트의 AI 투자 확대는 마이크로소프트와의 협력 강화와 더불어 IT 서비스 시장 경쟁 심화 및 AI 솔루션 수요 증가를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 기술을 교육에 적극적으로 융합하고 뇌과학 기반의 학습 방법 및 혁신적인 교육 정책을 도입하여 학생 중심의 미래 교육으로 빠르게 전환하고 있습니다.",
+  "tech": "AI가 교육, 금융, 연구 등 다양한 분야에 융합되며 윤리적 책임과 혁신을 동시에 추구하는 방향으로 빠르게 발전하고 있다."
+ }
+}

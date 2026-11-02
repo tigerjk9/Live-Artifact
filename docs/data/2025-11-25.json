@@ -1,0 +1,428 @@
+{
+ "date": "2025-11-25",
+ "generated_at": "2026-11-02T11:48:12+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[기고] AI 시대 국가적 성패, 결국 인재 육성에 달려 있다",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQzZURWZPYUp4cjczMlJpT0VlN0o4Y1BHOVd2eWlsX19BZnJ6TTd2azFfOTVIVXBoX09jNXE0b0ZiNVVmeUVMcGRVTV9TSEJBLWowSWQ3dDNhSktkaTNfdWVDVVV0RzhCNVNRR3lhcFkyRDZfWnRWTTlXTnFYZWpQd0pFcURYOF8yX3fSAZ4BQVVfeXFMUEM5ajR0akZMeG8ycTRMX1dTcW1zY29SQWtVdzhsRU50ZU1fNl92THJYQ2lEUEtCazVwQkRqSmdWbDZRbEJwYTRhM2p1MzdNUl9XN0pjNE5hR1NDazJyRlU0UnA5aHFISG9UcklTVFFmU25BU0FuMzMzUEhWdjJQMHI5NFZWd25YNE51ZHh1SjVRYlNfSjZ5alhya2NjV3c?oc=5",
+    "source": "조선일보",
+    "published": "2025-11-24",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "AI 시대의 국가 경쟁력 확보를 위해, 교육은 창의적 문제 해결 능력과 비판적 사고력을 갖춘 인재 양성에 집중해야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "서울시교육청, '서울미래교육 공간 혁신 비전' 선포",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzLW9OaklQSGhpSC11OHJkU0ZQMFJZRkY5RThFbDM4T25zTjBjMVRjeVlwV0R0cktzUk8wc3FtX1ZuRE14a1d4V2U2VGw4UWdscUkxUF9ONW5Dem16YXVwZQ?oc=5",
+    "source": "네이트",
+    "published": "2025-11-24",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "서울시교육청"
+    ],
+    "summary": "서울시교육청의 공간 혁신 비전은 미래 교육 환경 조성에 대한 긍정적 신호탄이지만, 실제 교육과정과 연계된 구체적인 실행 계획이 중요합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "부산시교육청, ‘초등 수업 나눔 릴레이’ 운영… 교사 자율 참여로 수업 혁신 확산",
+    "url": "https://news.google.com/rss/articles/CBMi6gRBVV95cUxQZUhuUHVEei1OUnNQSThVWFhuWFRoRlI2ajFjX3VuWXZ6SWFSblItZTc5VzFkZUVadlF3TU85UndUT1Q5bExadUVxbkxwcUxITENZWk9lSkNhZ1VGRGZHTTNmQU8zYW41X0ljbmlsblM3bTVNUnplX2czS05hN1l2WUV4eXFWMDZId0JyVm1GSEJycDRTamlDemhNSHVqSE9RSTNkUHlCYUN1LUhYQXI3TzVOWl9NaTBQc2JPM3gzbkJkMUxmWEYybXVaby02V0VjSmRzZlg0d0xyTEtRWWlYR0J5UmpTY2p3Si1sY2E1N0tJQXY1NHEwT2xWVk13cjNaazZGVmtGeDliZXFEMkxPckQ3WkRRQ1M2b2F2bTFaeGxKdS1HUDFwOTBSZkdfckJsXzF1TE9mYXZ2eEc1WUFBaDh5bEFoQzRHamZVZ0ZtOG1Kam5kYTM4YUxUUEVMWUYxOUJYc29tb1FPMUFOdzBOTHVJVklIQlJaREpvYmhPWm1tR2lndkF2WnNHZm41YVo2WDNOWjg0N0F3My1obmdMOEx1UHFSYTh2Tlpvd3Y1YzRxMTgyVVN0bnRFX1RtaEg3QmtyMEVmd3FzbDB1XzY3anhBZWl5UGlkZDVXc3VoRU80WDJGU3VwODRiSHNsZFlMa3RnX0Z0cTA1SkJlVW91ZnZUXzN1M0F4YlZKX1AyMXBzQzZSTGhZZVJrVXgtaHVMNjZFTHNMWDZocFRrYjd4c2FJRmYwcGhWR2ZwVjlsZ1d3TzNkVUpLRHBIalFGczUtVnNKeDc2OVIzUmdod0prdXQ4VUtxdV9KLUE?oc=5",
+    "source": "MSN",
+    "published": "2025-11-24",
+    "keyword": "AI디지털도구",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "부산시교육청"
+    ],
+    "summary": "교사 자율 참여 기반의 수업 나눔 릴레이는 교사의 전문성 신장과 자발적 수업 혁신 문화 조성에 긍정적인 영향을 미칠 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[기자수첩] 미국 교육부 해체가 한국 RISE 사업에 주는 경고",
+    "url": "https://news.unn.net/news/articleView.html?idxno=586616",
+    "source": "한국대학신문",
+    "published": "2025-11-24",
+    "keyword": "",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [
+     "교육부"
+    ],
+    "summary": "미국 교육부 해체 시도는 한국 RISE 사업을 포함한 교육 정책의 방향성을 재고하고, 교육 본질에 대한 깊이 있는 논의를 촉구하는 경고등입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "에듀테크 기업 플렉슬, 사회공헌 캠페인 실시… “도움 필요한 취약계층에 교육·성장 기회 돌아가길”",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9lbm9pdVVxcnFnMXVPWlozLTNoaXdjLThpRVZsNklwT0M0RzVvdVlCMXN2ekpVUTFaTU9HcXZITXZ6WTlYMWdRbXhEUlJTRGs?oc=5",
+    "source": "v.daum.net",
+    "published": "2025-11-24",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "플렉슬의 사회공헌 캠페인은 에듀테크 기업의 사회적 책임 이행을 촉진하고, 교육 격차 해소를 위한 업계의 동참을 유도할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "에듀테크 트루밸류, 20억 규모 시리즈A 투자 유치...브랜드 제고 속도",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DaTdhM0IyZFpKdXg1allyNS1QMGg1Qi15RlczWHlKRHFCTnZMZmtNTzZuYUhFdzRTVDF0WmMzdW5LOFlURnpQc1JrV3dxNkVwZXVUWHZfTUktVl9IZVE?oc=5",
+    "source": "뉴스투데이",
+    "published": "2025-11-24",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "에듀테크 트루밸류의 투자 유치는 맞춤형 교육 콘텐츠에 대한 시장의 요구를 반영하며, 에듀테크 경쟁 심화와 교육 방식 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "파주 파양초등학교, 첨단 에듀테크로 꿈을 키워",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ublA5R0ZnV29iWGJEeWJ0dm5tSmx2SlVFN2dReUVsb2Q1bFY1WkRNSVB1em11T2NqVVo1LWtxQUxjeldVRnBUUG0xMkdabmZoZmQySUxEUVlCcWJWaHBnVzU2Y19falhx?oc=5",
+    "source": "제니스글로벌뉴스",
+    "published": "2025-11-24",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "파주 파양초등학교 사례는 에듀테크 활용이 교육 격차 해소 및 학생 맞춤형 학습을 실현하는 데 효과적인 모델임을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "국립한국교통대, 숭덕학교서 AI·AR·드론 기반 ‘에듀테크 임베디드 특화교육’ 진행",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBBZ19SODlna01vNllHWUlVcTA5WlM1cnpQMnJsWGl1TUFOQnR6WjJGaXhlYmt6MUVJMGpjMW9TLVM3QVh0UDNSeWtuZENQUEppTkhGaTZKcms3cUtzakJIVlRENHY?oc=5",
+    "source": "베타뉴스",
+    "published": "2025-11-24",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "국립한국교통대의 에듀테크 특화 교육은 미래 교육 환경 변화에 발맞춰 학교 교육의 혁신 가능성을 보여주는 긍정적인 사례입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "부산SW‧AI교육거점센터, 부산교사 대상 SW·AI 역량강화 직무연수 실시",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yZXVNQlNJY0xGM1Z5TkFad1JUWEJaTEhCNGFydHFYendyV0JBeHR6UENtXzVNeHVSN3VKNEp4dnRTWExNbjFPd0tHUTJZM2JZN2w1RVpRRFpCQU82TEdsVjFHbkE1S0xfcVp5bk50d1g?oc=5",
+    "source": "한국강사신문",
+    "published": "2025-11-24",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "부산SW‧AI교육거점센터의 교사 대상 SW·AI 역량 강화 연수는 미래 교육을 위한 교사들의 디지털 역량 강화에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "봉화교육청, '2025 디지털 기반 교육혁신 리더그룹 연수' 성료",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nSFktRUZ2aWpxck4xMDE2RlFtdDg3TUtnRlo4VUR1eGd2QXlsWXBYTlRSWG1sTElMNjJzS2M5VW5BYkF0Z1JyYlpmRkdiVnZpMkhDbjNlajNPNVBwLUJFSG9YbXdheE1PV29vZy1B?oc=5",
+    "source": "gukjenews.com",
+    "published": "2025-11-24",
+    "keyword": "교육혁신",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [],
+    "summary": "봉화교육청의 디지털 교육혁신 연수는 교사들의 디지털 역량 강화 및 미래 교육 모델 구축에 긍정적인 영향을 줄 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Educational technology: Exploring the convergence of technology and pedagogy through mobility, interactivity, AI, and learning tools",
+    "url": "https://www.semanticscholar.org/paper/2f6f13732a3710db88a4fc4b95dd52f75c096404",
+    "source": "semantic_scholar",
+    "published": "2023-11-27",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [
+     "AI 튜터"
+    ],
+    "summary": "본 논문은 모바일, 상호작용성, AI, 학습 도구의 융합을 통해 교육 혁신을 분석하고, 학생 중심의 교수 학습 모델 구축을 위한 통합적 프레임워크와 지능형 튜터링 시스템의 중요성을 강조하며, 교육의 접근성과 맞춤화를 증진할 수 있음을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ashraf Alam, Atasi Mohanty",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "Empowering Education with Generative Artificial Intelligence Tools: Approach with an Instructional Design Matrix",
+    "url": "https://www.semanticscholar.org/paper/2eeff0f534d303581bc1199671600fbd04a2d01c",
+    "source": "semantic_scholar",
+    "published": "2023-07-25",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "개인화 학습"
+    ],
+    "summary": "생성형 AI 도구와 4PADAFE 교수 설계 매트릭스를 결합하여 MOOC 강좌를 통해 대학 교육에서 개인 맞춤형 학습 경험을 향상시키고 교육 활동의 효과성을 높일 수 있음을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Lena Ivannova Ruiz-Rojas, Patricia Acosta-Vargas 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Exploring the Potential of an Intelligent Tutoring System for Sketching Fundamentals",
+    "url": "https://www.semanticscholar.org/paper/98733e4f3d5ce5c983715bd9606147c2424571fe",
+    "source": "semantic_scholar",
+    "published": "2020-04-21",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "AI 튜터"
+    ],
+    "summary": "Sketchtivity라는 지능형 튜터링 시스템을 고등학교 및 대학교 수업에 적용하여 스케치 기본기를 교육하고, 교사와 학생 인터뷰를 통해 얻은 데이터를 분석하여 스케치 교육에 기술 통합의 가능성과 한계를 밝히고 교육 개선 방향을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Blake Williford, Matthew Runyon 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents",
+    "url": "http://arxiv.org/abs/2409.03512v1",
+    "source": "",
+    "published": "2024-09-05",
+    "keyword": "MOOC",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "LLM",
+     "에이전트"
+    ],
+    "summary": "본 논문은 LLM 기반 다중 에이전트 시스템을 활용하여 확장성과 적응성을 갖춘 새로운 형태의 온라인 교육(MAIC)을 제안하고, 칭화대학교의 실험을 통해 AI 기반 온라인 교육의 가능성을 탐색하여 교육 분야에 큰 영향을 줄 것으로 기대합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Jifan Yu', 'Zheyuan Zhang' 외 31명",
+    "pdf": "http://arxiv.org/pdf/2409.03512v1"
+   },
+   {
+    "n": 5,
+    "title": "The Importance of Autonomous, Self-Regulated Learning in Primary Initial Teacher Training",
+    "url": "https://www.semanticscholar.org/paper/3f3c66d1e3f3b290f50eacb3deb906e784514509",
+    "source": "semantic_scholar",
+    "published": "2019-09-01",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제",
+     "교사 연수"
+    ],
+    "summary": "초등 교사 양성 과정에서 교사-학생 관계를 중심으로 자기 주도 학습 능력을 키우도록 교사 훈련 방식을 개선하고, 평생 학습자로서의 교사 역량을 강화해야 함을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Sue Oates",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "메타, 챗GPT 스타일 '아침 AI 브리핑' 기능 개발 중",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204224",
+    "source": "AI Times",
+    "published": "2025-11-24",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Meta",
+     "ChatGPT"
+    ],
+    "summary": "메타의 '아침 AI 브리핑' 기능은 사용자 맞춤형 정보 제공 경쟁 심화와 AI 기반 콘텐츠 큐레이션의 중요성을 부각하는 사례입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "구글, 지메일 AI 학습 의혹에 “사용자 콘텐츠 활용 안 한다” 반박",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204209",
+    "source": "AI Times",
+    "published": "2025-11-24",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "구글의 해명에도 불구하고, AI 모델 학습 데이터 활용에 대한 투명성 부족은 사용자 불안감을 야기하며 향후 AI 서비스 신뢰도에 영향을 줄 수 있다는 점을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "프리윌린, 3년 연속 홀론아이큐 ‘동아시아 에듀테크 150’ 선정",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204230",
+    "source": "AI Times",
+    "published": "2025-11-24",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [],
+    "summary": "프리윌린의 3년 연속 선정은 AI 수학 교육 솔루션의 경쟁력을 입증하며, 에듀테크 시장에서 AI 기술의 중요성이 더욱 부각될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "노타-텔레칩스, 피지컬 AI 기술 협력...안면인식 AI 모델 최적화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204223",
+    "source": "AI Times",
+    "published": "2025-11-24",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "GPU·데이터센터"
+    ],
+    "summary": "노타와 텔레칩스의 협력은 차량용 반도체 시장에서 AI 경량화 기술의 중요성을 부각하고, 관련 기술 경쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "OpenAI is ending API access to fan-favorite GPT-4o model in February 2026",
+    "url": "https://venturebeat.com/ai/openai-is-ending-api-access-to-fan-favorite-gpt-4o-model-in-february-2026",
+    "source": "VentureBeat AI",
+    "published": "2025-11-21",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "OpenAI의 GPT-4o API 지원 종료는 개발자들의 모델 의존성을 낮추고 기술 변화에 대한 적응력을 높이는 계기가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "구글 제미니 3, 벤치마크 12개서 ChatGPT 제쳐…\"AI 경쟁 판도 뒤집었다\"",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdUt5Y2NveHhfVmZqOG5qUnVNZ01wRDIxMTQzX05lSmxYLTlNYWNqcGczQ1hrREZrQTlwV1lDcmpDZTVJM2hOY3U1X2R6dUpYaEVtZEJIUU9pRWdzVXY1RmNXM0oza1VSaDBWLU9jNEc0bmJhNmR2dndfUFJWTGlvLVktcF9yZk45?oc=5",
+    "source": "글로벌이코노믹",
+    "published": "2025-11-24",
+    "keyword": "인공지능",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Gemini",
+     "벤치마크",
+     "ChatGPT"
+    ],
+    "summary": "구글 제미니 3의 성능 향상은 AI 모델 경쟁 심화를 예고하며, 기술 혁신 가속화와 시장 선점 경쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "\"시적 프롬프트가 LLM 탈옥에 효과적\"...딥시크·제미나이 취약",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204220",
+    "source": "AI Times",
+    "published": "2025-11-24",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "LLM",
+     "DeepSeek",
+     "Gemini",
+     "AI 안전·규제"
+    ],
+    "summary": "시적 프롬프트 악용 가능성은 LLM의 윤리적 가드레일 강화 필요성을 시사하며, AI 안전성 확보에 새로운 과제를 제시합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "Gemini 3 Pro and GPT-5 still fail at complex physics tasks designed for real scientific research",
+    "url": "https://the-decoder.com/gemini-3-pro-and-gpt-5-still-fail-at-complex-physics-tasks-designed-for-real-scientific-research/",
+    "source": "The Decoder",
+    "published": "2025-11-23",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Gemini",
+     "ChatGPT"
+    ],
+    "summary": "Gemini 3 Pro와 GPT-5 조차 복잡한 과학 연구 수준의 물리 문제 해결에 실패하며, AI가 실제 과학 발전에 기여하기에는 아직 한계가 있다는 것을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "OpenAI Unveils ChatGPT Group Chat",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNE4taGZwXzdBMVNsVXJWWnQ3US1FOEc1cW9QQ1A3bHk3U19qV2djZWcxeEhyTnp6bVJXWkd0YnYwa2gzYmRPNjBwa05aZ0xzc2QwUkpsLTBtNk96VXF5LUNrRTdkMzNSaVFpZEhMbURNekN5LWVqU2h5WGpGdjBoZg?oc=5",
+    "source": "디자인 나침반",
+    "published": "2025-11-24",
+    "keyword": "오픈AI",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "ChatGPT 그룹 채팅 기능은 협업을 강화하고 AI 활용도를 높여, 생산성 향상과 새로운 비즈니스 모델 창출에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "[GPT-5 Pro는 훌륭하지만, 이 용어를 만든 교수 중 한 명은 여전히 진짜 AGI와는 거리가 멀다] 진정한 AGI를 위해서는 근본적인 인지 능력의 통합과 지속 학습, 자기계발 등 전혀 다른 혁신이 요구",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBsVUtwWEVFTnZ2bEM2TUxyWHoySDQyNkJSU3ZqcE40RmFCV0R5UXVVN29MR3V6QVMwWkQwMUZqeGo?oc=5",
+    "source": "AI넷",
+    "published": "2025-11-24",
+    "keyword": "GPT",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-5 Pro의 발전에도 불구하고, 진정한 AGI 구현을 위해서는 현재 AI 기술의 패러다임을 넘어서는 혁신적인 접근 방식이 필요합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI와 에듀테크를 활용하여 교육 혁신을 가속화하고, 교사 역량 강화 및 미래 인재 육성에 집중하는 긍정적인 교육 변화가 전국적으로 확산되고 있다.",
+  "tech": "AI 경쟁 심화 속, 사용자 경험 혁신, 특정 모델 API 종료, 보안 취약점 발견 등 다양한 이슈에도 불구하고, AI 기술은 교육, 물리 AI 협력, 그룹 채팅 기능 출시 등 다방면으로 발전하며 미래를 향해 나아가는 중!"
+ }
+}

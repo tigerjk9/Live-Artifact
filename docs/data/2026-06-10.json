@@ -1,0 +1,432 @@
+{
+ "date": "2026-06-10",
+ "generated_at": "2026-11-02T11:37:58+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[교단칼럼] 축하도 당부도 사치다··· 첫 통합 교육감을 마주한 교육현장의 짙은 한숨",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5EaV94Yk14eUJqaGd1NEhtQmtodW9yOVhQbFFwNk5SaTZTUlV4c1RaX3RGUm5MQ3BpTXJYVndJX2dieGNLaTVFMFFn?oc=5",
+    "source": "무등일보",
+    "published": "2026-06-09",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 2,
+    "title": "[기고] 경기교육 르네상스를 위한 새로운 길, IB를 넘어 경기형 미래교육으로",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1pOFVTU1NvdDFBZjZmMHJwUFg0ck1BZVEzaEN3V244YzRyMkY4am52RGhlUEg4MmFRUnZiWHoyeXd3RF9zcXRj?oc=5",
+    "source": "정필",
+    "published": "2026-06-09",
+    "keyword": "교육정책",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 3,
+    "title": "[기고] AI 에이전트가 거래하는 시대, 블록체인은 언제 필요한가?",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2S1NzZjhNaGZtTlVQZ0p1ekpCb1NDanVOLWZzeGlfeFI1bFBSUGdlQl9zN2VlXzhSb0xacjJ0anAtVFM3R3VHUFppcjZfZktvb3lJ?oc=5",
+    "source": "네이트",
+    "published": "2026-06-09",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 4,
+    "title": "\"정답 찾기보다 질문하는 수업\"…대전교육청, IB 교실 혁신 속도 낸다",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4MndTbHBMVlV6ZDRfazhrMldfWmNyX096b0pKb3ZDQ3FSZEhycDJlTjNMdWtqQmlYaHhCSk5BUEgtdFhxLXRjaEs3bWR0dVFiZzZFQUx1emdoeU1zLURiOUs0WnhXUy1XS0Z1RjZB?oc=5",
+    "source": "뉴스홈(newshome)",
+    "published": "2026-06-09",
+    "keyword": "현장교사",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "대전시교육청",
+     "IB"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 5,
+    "title": "고기현 스마힐 대표, ‘생성형AI교육지도사’ 자격 취득",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9nd2dJRlBCQllFOGFEMWliQ2s0bUNYSWtMWWRpVkEyLUdOamE3TmNySkxjcmJMU09IanFPOHlwNVRvcnJqOHpKWUphR2RCa1ljckFncVc0Q1dfMFdrMHptS092TjA?oc=5",
+    "source": "데일리팜",
+    "published": "2026-06-09",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 6,
+    "title": "정진욱, '에듀테크 진흥법' 발의… AI 교육산업 육성 시동",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00cC1OU0pnZVlVYjlWc0NuQ1lQWW5YZEZXY0NCbml0elg5T3ktLVN1MDlwTktnYVVjZUw0WDJfeDhERHNNTG9QdEpBMkRNNDlKOXRWZW55QURSbE5FVlE5Ty1aNUNCeVgtZWpUSUdibno?oc=5",
+    "source": "한국철도일보",
+    "published": "2026-06-10",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 7,
+    "title": "안양덕현초, 미래 수업 혁신 사례 나눔",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5kV3JaMVl6S2xwUlFYQUhLb3A5MzdjWHZ4SVd1QV94cGQydl84R0plcHBKbDI0SEhaY0JKbXZGZmg2N0VvSE5Nd2I3c2JhNEpDMWJ3?oc=5",
+    "source": "경기헤럴드",
+    "published": "2026-06-10",
+    "keyword": "AI디지털도구",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "경기도 교육계, 대구 IB 교육 현장 찾았다",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96N3QyWHAyVjQ5MkwyVEtseDhZd080ZVkyejRsRl9wcTYxWFNpSEJEaXBhOGtVLVZmQWpUM2hNTXFRVS1vckVmOThsbnR6UC1VZ2k4VHp6SElUdw?oc=5",
+    "source": "경북매일",
+    "published": "2026-06-09",
+    "keyword": "교육현장",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "IB"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "충북교육청 ‘책임교사 수업시수 경감 사업’ 만족도 96%… 학교 현장 큰 호응",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBra0dkZ0pLSkpWcE1Ka3ZFOWYtY3lJVkV1RlNhZGtPZlZLam1mR1FuVEtCZFV1ZUd2NWtpbEtJQzRIQjdXNlE3ajl1UGdiMm1adEZPTEs4YUcwWEx5S2g1OUFJOWM2LWM?oc=5",
+    "source": "충북뉴스",
+    "published": "2026-06-09",
+    "keyword": "현장교사",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "충북교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 10,
+    "title": "[인사] 국립금오공대",
+    "url": "https://news.unn.net/news/articleView.html?idxno=593259",
+    "source": "한국대학신문",
+    "published": "2026-06-10",
+    "keyword": "",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "△ 기획협력처장 겸 신문방송사주간 임상훈 △ 미래교육혁신본부장 겸 AX교수학습센터장 이희진 △ 도서관장 겸 과학영재교육원장 이경준 [한국대학신문] 한국대학신문 news@unn.ne...",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Artificial Intelligence in Blended Learning: A Global Review of Effectiveness, Integration Patterns, and Emerging Challenges",
+    "url": "https://doi.org/10.38124/ijisrt/26may2020",
+    "source": "openalex",
+    "published": "2026-06-06",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "Across the globe, artificial intelligence is becoming more common in mixed classroom settings, changing both teaching methods and how students interact with material. Findings pulled from various rese...",
+    "implication": "",
+    "ai": false,
+    "authors": "A. Sivasankar",
+    "pdf": "https://www.ijisrt.com/assets/upload/files/IJISRT26MAY2020.pdf"
+   },
+   {
+    "n": 2,
+    "title": "DREAN Teach Me: An Intelligent Tutoring System with NLP and Adaptive Feedback for Elementary School Students",
+    "url": "https://doi.org/10.48084/etasr.16487",
+    "source": "openalex",
+    "published": "2026-06-06",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "AI 튜터",
+     "개인화 학습"
+    ],
+    "summary": "Automated instructional reinforcement is a promising approach to improving learning in elementary education, particularly when personalized and continuous feedback is required. This work presents a we...",
+    "implication": "",
+    "ai": false,
+    "authors": "Betty Cotrina, Bryan Perez 외 1명",
+    "pdf": "https://etasr.com/index.php/ETASR/article/download/16487/6568"
+   },
+   {
+    "n": 3,
+    "title": "DEKONSTRUKSI SOKRATIK TERHADAP REZIM SKOR DAN KRISIS KREDENSIALISME DALAM SISTEM PENDIDIKAN INDONESIA",
+    "url": "https://doi.org/10.51878/manajerial.v6i2.11226",
+    "source": "openalex",
+    "published": "2026-06-06",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "ABSTRACT Education in Indonesia is currently experiencing a significant paradigm shift, characterized by the dominance of a score-oriented regime and market-driven logic, which has contributed to the ...",
+    "implication": "",
+    "ai": false,
+    "authors": "Yudhi Hertanto",
+    "pdf": "https://jurnalp4i.com/index.php/manajerial/article/download/11226/7593"
+   },
+   {
+    "n": 4,
+    "title": "EXPLORING TEACHERS’ PERSPECTIVE ON FOSTERING EMOTIONAL INTELLIGENCE IN EARLY CHILDHOOD",
+    "url": "https://doi.org/10.36713/epra28213",
+    "source": "openalex",
+    "published": "2026-06-07",
+    "keyword": "SEL education",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "This study aimed to answer the research questions: (RQ1) what were the experiences of the teachers in fostering emotional intelligence in early childhood education, (RQ2) what other strategies were us...",
+    "implication": "",
+    "ai": false,
+    "authors": "Erica D Digal",
+    "pdf": "https://cdn.eprapublishing.org/article/1780822165569-6.EPRA28213.pdf"
+   },
+   {
+    "n": 5,
+    "title": "<b>CHAPTER 8:</b> Exploring Digital Pedagogies for Procedural Skills Teaching in the Planning of Coursework Postgraduate Programmes in Optometry",
+    "url": "https://doi.org/10.62869/001c.162837",
+    "source": "openalex",
+    "published": "2026-06-01",
+    "keyword": "Connectivism",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "Introduction and Background: In developing new coursework for postgraduate programmes in optometry aimed at upskilling qualified optometrists, a suitable pedagogy as part of curriculum planning needs ...",
+    "implication": "",
+    "ai": false,
+    "authors": "Nashua Naicker, Roy Venketsamy",
+    "pdf": "https://axiompublishers.scholasticahq.com/article/162837.pdf"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "\"20B로 GPT-5.4 검색 성능 능가\"...오픈소스 에이전트 '하네스-1' 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211522",
+    "source": "AI Times",
+    "published": "2026-06-09",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "오픈소스",
+     "에이전트"
+    ],
+    "summary": "AI가 검색 과정에서 수행해야 했던 기억과 정리, 검증 작업 등을 외부 시스템으로 분리하는 새로운 접근법이 등장했다. 이를 통해 소형 오픈소스 모델로 첨단 모델의 검색 성능을 뛰어넘는 성과를 거뒀다.미국 일리노이대학교 어바나-샴페인, UC 버클리, 오픈소스 벡터 데이터베이스 기업 크로마 연구진은 최근 새로운 검색 AI 에이전트 ‘하네스-1(Harness-1",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "업스테이지, ‘타임리’ 인수로 멀티 LLM 에이전트 플랫폼 확보",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211524",
+    "source": "AI Times",
+    "published": "2026-06-09",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "업스테이지",
+     "LLM",
+     "에이전트",
+     "생성형 AI",
+     "코딩 AI"
+    ],
+    "summary": "업스테이지가 ‘멀티 LLM 에이전트 플랫폼’을 확보, 자체 모델 ‘솔라’의 배포 채널을 본격 확대한다.업스테이지(대표 김성훈)는 생성 AI 멀티 플랫폼 전문 타임리(대표 김대환)를 인수했다고 9일 밝혔다.타임리는 별도 코딩 없이도 누구나 업무에 필요한 AI 에이전트를 구축할 수 있는 AI 플랫폼 ‘타임리AI’를 운영하고 있다. 다양한 언어모델(LLM)을 바",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "아마존·코닝, AI 데이터센터 확장 위해 수십억달러 광섬유 계약",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211530",
+    "source": "AI Times",
+    "published": "2026-06-09",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Amazon",
+     "GPU·데이터센터"
+    ],
+    "summary": "아마존이 미국 광섬유 제조업체 코닝과 장기 공급 계약을 체결하며 AI 데이터센터 인프라 확장에 본격 나섰다. 이번 협력을 통해 광섬유와 데이터센터 연결 장비 생산을 확대하고, 관련 제조 생태계와 인력 양성에도 투자할 계획이다.아마존은 8일(현지시간) 코닝과 다년간의 전략적 파트너십을 체결했다고 발표했다.구체적인 계약 규모는 공개하지 않았지만, 업계에서는 A",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "네이버는 엔비디아·AMD, 카카오는 구글·오픈AI...두 기업의 같은 길, 다른 동맹",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PMlBMcE4tY0l1QVJOeE1tTU9qSjMtR0Z1ZkZlM0ZHcWt4RHk5MnlhLVVMS1BBcThWRmRRVWJXaXJ4MjQwU0RYWmh4NVdZRndXUGppQWVR?oc=5",
+    "source": "지디넷코리아",
+    "published": "2026-06-09",
+    "keyword": "오픈AI",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "네이버",
+     "NVIDIA",
+     "카카오",
+     "Google",
+     "OpenAI"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 5,
+    "title": "AppFolio, Anthropic의 Claude와 AI 에이전트 커넥터 통합",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yUjBhTDFxVmpxQUJab3lxYVhBR0UwVzhKYWF6bGJMZDItdGZkdDZOc3FlMTh1bUoxYlJ2NThQRVF5bVl3ZEZzVi1ERFdEMGtOUWdicXNSZkRiR3J4Vk1FTkpOV3pqYkF2bEF1cFIyZHQ?oc=5",
+    "source": "Investing.com 한국어",
+    "published": "2026-06-09",
+    "keyword": "Anthropic",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude",
+     "에이전트"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 6,
+    "title": "생성AI 시동걸었던 오픈AI, ‘챗GPT 버린다?’",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mTkhrb0R0Q2pGX0hBS0lhTjItZTBjb19OMkJLdEExWERJUU5zQVR2VlROa0FCZUxYWFdTVGNWTGVEZFRoOVJGTVFZZHBUVlI2bUl3UnMzLWJvTkloTDdrRDlESUJhU3RJZ1kyT3dpbEg?oc=5",
+    "source": "애플경제",
+    "published": "2026-06-09",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 7,
+    "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+    "source": "Google Blog - AI",
+    "published": "2026-05-29",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announceme",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "Apple Unveils Massive Siri AI Upgrade and Google Gemini Partnership at Developer Conference",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdXNjSmNpRktmSkduakczZ1R4MDNhODFTQlg0aUYxaU16WHpzVlJ3QlVYUThxTE56Qm93NWVIX2FRNy10cjMzbWNPYnFmNlFfQ2lBSFBCSG9JbzNTd1lQTnJDMWJyRVlSTlVZRTQwTFBjOWx0ZGNYS3NqUHpKSWY3SDJfdklmVTE0VHVlbVl0Mm55cWMxME1xUHJKbnFFYWdTa1ZWdi12QmdMcFp6eFlRSjFOc0VsUllpajVFSVhxdDlzYTRhSTF5c3JaTEJ5LU9qMERaNg?oc=5",
+    "source": "TIKR.com",
+    "published": "2026-06-09",
+    "keyword": "구글",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Apple",
+     "Google",
+     "Gemini"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "Anthropic이 자사에서 공개한 AI 모델 중 가장 뛰어난 Claude Fable 5를 출시했습니다",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yRDFzV2phNWFJc2x0Rmx6c3MxQW1MTkgtY2lHRDEyaVNVNjRFTEloZWxJXzdIT0xrWWNKYVBqcndYcWl0S0xZM0VlbzJIRHJqREI1akdOaEd1ZVN1bXdyaE5rQ1NTN2NiblpVMjJuRWZkQjdxbmc?oc=5",
+    "source": "Cryptopolitan",
+    "published": "2026-06-09",
+    "keyword": "Anthropic",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 10,
+    "title": "[전자·IT 레이더] 삼성·LG CNS, 사내 업무에 챗GPT·클로드 쓴다…전사적 AI 체제 구축",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9EODBZWi1zd0lvdjJyUFhJZDdDU25EQzA0dVFBTjcxQXZNQ3hzM25RNmlWNG1SM0ZXdVJuVDZNM2JuTW91S3JrWlQ0alVTcUtoa0RqdQ?oc=5",
+    "source": "더밸류뉴스",
+    "published": "2026-06-09",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "삼성",
+     "LG",
+     "ChatGPT",
+     "Claude"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

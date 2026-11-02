@@ -1,0 +1,427 @@
+{
+ "date": "2026-07-21",
+ "generated_at": "2026-11-02T11:40:14+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[사설] 남발성 교권침해에 무너지는 교육현장",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZT0F3U0ktOW8xUVk3SDNXMFJPTTZDYjdoTWkxTEQzSmFFR0pmTVJBYlN3SkVtaW54dXdnV1Y2dm1UaURNZUFBblZmNE1KY3BwVHh6cm8xZXp5UWYyQS1WTWdmd05uSnd0MUV3cHRwQQ?oc=5",
+    "source": "중부일보",
+    "published": "2026-07-20",
+    "keyword": "교육현장",
+    "topic": "teacher",
+    "kind": "opinion",
+    "entities": [
+     "교권"
+    ],
+    "summary": "남발되는 교권침해로 인해 교육 현장이 무너지고 있다는 핵심 내용입니다.",
+    "implication": "학생들과의 상호 존중을 바탕으로 수업 환경을 조성하여 교권 침해를 예방할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "학생 안전 챙기고 교사 부담 덜고",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiVHVSYmN1OHBxd3JOMTF0Q3NVV1dEZVdsRVFwajY4S09XUTE5alhRai1lN1dmcURXVG52YUZRRDdCTnlnc3NkWk9nVmZScHR3T3N4eGk1UE0wMDdPQzVTeU51VnRVb0k?oc=5",
+    "source": "충청헤럴드",
+    "published": "2026-07-20",
+    "keyword": "현장교사",
+    "topic": "teacher",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "학생 안전 보장과 교사 업무 부담 경감 방안에 관한 내용입니다.",
+    "implication": "교사 업무 부담이 줄어들어 학생 개개인의 안전과 학습에 더 집중할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "부산시교육청, 교육혁신선도지역 공모 준비 착수…TF 구성",
+    "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNa2F5cC1RekxWOE5DekpzWWVQRHhYRzZBQnVUQTVjVVJzMHdpaHM3eUk2dzYxZmdCQ0tUV3J6YlhPUkdnaTNwMDBKRHlTaDFfeXJVZWR0dU5KOUNScm0yR0lSQVpYdkFMclNoYlhFc2Rsd2d0UDNDc0NCY0luSTRpWXZITUNWd0NFdm5Eb2V4T3FnVXQzUFZuNFRHQTZRd2FZdjRzVEV1S25zZlNnQlFLSmFiZ0xmblVHd2ZNdUE0N0hLUG8yRTZqcU9xbkhUanh0cXQ5UndQdmtXY0hXWW05S1R3RDFheF9lMGJ2VXpCbnY3MlU4SnpLVUNOTlJlTllHZlJaU2lfQzVnQ29zb2ZoNVB4UlBzOXFNdTZxR1lSUDlhZHNoNGM3ZllOaWNFN0FVLUN2M3F3RzgyLVViMm1yLTFCU1lyNENTYlN0enVRUXlUT2lUY2g1YWVZbjNta0NhcHI2VzNLd1hIVDNCdUk0a3RZeUE?oc=5",
+    "source": "MSN",
+    "published": "2026-07-20",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "부산시교육청"
+    ],
+    "summary": "부산시교육청이 교육혁신선도지역 공모 준비를 위해 TF를 구성하고 착수했습니다.",
+    "implication": "교육혁신선도지역 준비로 우리 학교에 학생 참여 수업 등 새로운 교육 시도 기회가 늘어날 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "경남 초등교장 510여명 대상…2022 개정 교육과정 연수",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxcWZ3Z0JkRE0tb1c2TDdINWtsb2E1b0wtTlJOTU1SaDhkTkhVa2p4amp4Tkl6Z1Z2b0hEQjU2al9PTHBqTExVRUFzQ3ZKdWt3YzFpVjVicU5RZEtFZnJmUdIBeEFVX3lxTE5HeFFScHlfYVRCQ3lGYW5JZDZFbVBuT25xbDROWnVadzEyQXJtY0MwZ0dhVHhGNFVDdzJIcG1BVkt5bmR3YmVsQlZsYXZZdDlIQ0xjelliN3RiblprcVdyYlNZRTl1emh1SmJPaXVIOTV0eTV1MjJJTw?oc=5",
+    "source": "뉴시스",
+    "published": "2026-07-20",
+    "keyword": "과정중심평가",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [],
+    "summary": "경남 지역 초등교장 약 510명이 2022 개정 교육과정 연수를 이수했습니다.",
+    "implication": "교장 연수 후 2022 개정 교육과정의 구체적인 학급 적용 방안에 대한 안내를 받을 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "학벌없는사회 \"전남광주교육감 인수위, '무책임·불통' 정책 멈추고 교육 현장부터 들어야\"",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZUmozano0T0xsQklFTHBvNkRmMXk4YWx0bmZXemcwQzZyRU5xYXdfcTNfcmNoMW5FdHJCRDQ4NHJ5c0FlRFFhZ2F1bDFVcTNScnE4alctNmx4RGlTWXNPeUloaGhaZW8?oc=5",
+    "source": "지이코노미",
+    "published": "2026-07-20",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "광주시교육청"
+    ],
+    "summary": "학벌없는사회는 전남광주교육감 인수위에 무책임·불통 정책 중단 및 교육 현장 의견 수렴을 촉구했습니다.",
+    "implication": "학생들의 생생한 의견을 수업 계획에 반영하여 학습 만족도를 높일 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "세종시교육청 강미애 교육감, 세종고 찾아 학생·교직원과 소통…교육 현장 의견 청취",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE05VExlVDlNOXp5MmxFelM5LVY4UHRNem1ubWF3QmFEYWloQnlYUEcyUUotQ2RKRzh4dHgzczhDekhmLWREZlFCZk9pMVBtYlpOMWRMcy1yQ1JTblZITG85MGpPWQ?oc=5",
+    "source": "대한민국교육신문",
+    "published": "2026-07-20",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "세종시교육청"
+    ],
+    "summary": "세종시 강미애 교육감이 세종고를 찾아 학생·교직원과 소통하며 교육 현장 의견을 청취했다.",
+    "implication": "교육감의 현장 소통 사례를 통해 학생들이 우리 학교 개선 방안을 토론하고 제안하는 수업 활동을 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "서울시교육청, 학생 80명과 국외 독립운동 사적지 탐방...역사교육 현장으로 확장",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zdi1QMnJlMElGMFR4UHd3LXI4eW52VHdxY2NGRl9oTE5rcHNuWnJIQUNDeGdDWmlYSHFfbVhYVVFMWldxeFhpc2xtRVZLUGM1SnVsS3VXOUlnY3VKQWdvZUctbFpfQQ?oc=5",
+    "source": "이로운넷",
+    "published": "2026-07-20",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "서울시교육청",
+     "사교육"
+    ],
+    "summary": "서울시교육청이 학생 80명과 국외 독립운동 사적지를 탐방하며 역사교육을 현장으로 확장합니다.",
+    "implication": "해외 탐방처럼 우리 지역의 역사 유적지를 찾아보고 학생 주도 역사 프로젝트를 진행할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "강미애 세종시교육감, 학교 현장 '광폭 소통행보'",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1SVWN5X0JWajBjS2tRWGdXMTRXRDA2RVZSZnNsRUNOYm40RXcyMFB3ajhvcWFzTW00VWF4ODFqNVU2MTFFNFg2ZHFYb1doVjN3ZDNERl9vVHk3UUwtbWdWdlotZFI3MUVoZ205SmdGSUVRU1HSAXNBVV95cUxNUlVjeV9CVmowY0trUVhnVzE0V0QwNkVWUmZzbEVDTmJuNEV3MjBQd2o4b3Fhc01tNFVheDgxajVVNjExRTRYNmRxWG9XaFYzd2QzREZfb1R5N1FMLW1nVnZaLWRSNzFFaGdtOUpnRklFUVNR?oc=5",
+    "source": "대전일보",
+    "published": "2026-07-20",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "세종시교육청"
+    ],
+    "summary": "강미애 세종시교육감이 학교 현장에서 폭넓게 소통하고 있습니다.",
+    "implication": "교육감의 소통 행보를 활용하여 수업 현장의 의견을 전달할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "충북교육청, 교원 전문성 강화로 미래교육 대비",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9hTG5PcFE5QzdLaU5mczJ6SnZ0TUhCd2dtVFFOalJTNkVEV1otRmtnanhLdWpud2VsSHJiX3VwN3JCUk93UkhvUk9FMHdBcnRLTUtZ?oc=5",
+    "source": "네이트",
+    "published": "2026-07-20",
+    "keyword": "에듀테크",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "충북교육청"
+    ],
+    "summary": "충북교육청은 교원 전문성 강화를 통해 미래교육에 대비합니다.",
+    "implication": "전문성 강화를 통해 새로운 교수법을 수업에 적용하여 학생 참여를 유도할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "수업·돌봄 지키려다 ‘재정방만’ 낙인찍힌 서울시교육청",
+    "url": "https://www.edpl.co.kr/news/articleView.html?idxno=21146",
+    "source": "교육플러스",
+    "published": "2026-07-20",
+    "keyword": "",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "서울시교육청"
+    ],
+    "summary": "서울교육청은 감사원의 수천억 인건비 과다 집행 지적에 대해 현장 특수성 반영의 불가피한 조치라고 반박했다.",
+    "implication": "교원 수 유지를 통해 과밀학급과 수업 파행을 막아, 안정적인 학습 환경에서 수업할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Teachers’ Experiences in Supporting Foundational Learning: A Qualitative Study of Grade 2 Instruction at Balliao Integrated Public School",
+    "url": "https://doi.org/10.64358/vzfwk360",
+    "source": "openalex",
+    "published": "2026-07-19",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "발리아오 공립학교 2학년 교사들의 기초 학습 지원 경험을 탐색한 이 질적 사례 연구는 교사의 헌신에도 불구하고 지속적인 기초 교육을 위해선 제도적 지원과 전문성 개발이 필요함을 밝혀 교육 정책에 시사점을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Christian Jay Topinio",
+    "pdf": "https://ijelcs.minduraresearch.com/journal/article/download/138/63"
+   },
+   {
+    "n": 2,
+    "title": "DESCRIBING THE PERSPECTIVES OF SPECIAL EDUCATION TEACHERS ON CURRICULUM EVOLUTION: A QUALITATIVE PROFILE OF IMPLEMENTATION",
+    "url": "https://doi.org/10.47760/cognizance.2026.v06i07.014",
+    "source": "openalex",
+    "published": "2026-07-19",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "특수교육"
+    ],
+    "summary": "특수교육 교사 10명을 대상으로 한 질적 연구는 교육과정 변화 시 명확하고 간소화된 지침의 필요성을 밝히고 교사들의 적응성을 보여줌으로써, 장애 학생의 학습 개선을 위한 효과적인 교육과정 개발 및 교사 지원 전략 수립에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Elgrace S. Tana",
+    "pdf": "https://doi.org/10.47760/cognizance.2026.v06i07.014"
+   },
+   {
+    "n": 3,
+    "title": "Teacher Feedback and Students' Prediction of Their Performance: Exploring the Relationship in Secondary Education",
+    "url": "https://doi.org/10.11114/ijce.v9i2.8758",
+    "source": "openalex",
+    "published": "2026-07-17",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "본 문헌 검토는 PRISMA 2020 지침에 따라 14개 경험 연구를 분석하여 교사 피드백이 중등 학생의 성과 예측 정확도를 높여 자기 조절 및 초인지 능력을 강화하며, 효과적인 교육을 위해 디지털 도구와 자가 평가 활용의 중요성을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Angelos Charalampous, Μαρία Δάρρα",
+    "pdf": "https://redfame.com/journal/index.php/ijce/article/download/8758/7391"
+   },
+   {
+    "n": 4,
+    "title": "Impact of an educational robot-based intervention on second-graders computational thinking skills: experimental evaluation of the Irûmi program in Paraguay",
+    "url": "https://doi.org/10.1007/s11423-026-10675-2",
+    "source": "openalex",
+    "published": "2026-07-18",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [
+     "로봇·휴머노이드"
+    ],
+    "summary": "파라과이 2학년생 대상 교육용 로봇 'Irûmi' 프로그램 실험 결과, 학생들의 컴퓨팅 사고력 및 STEM 흥미, 교사의 기술 활용과 CT 역량이 향상되어 어린이 컴퓨팅 사고력 교육의 가능성과 폭넓은 교육적 기여를 입증합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Emma Näslund-Hadley, Juan Manuel Hernández-Agramonte 외 1명",
+    "pdf": "https://link.springer.com/content/pdf/10.1007/s11423-026-10675-2.pdf"
+   },
+   {
+    "n": 5,
+    "title": "Developing Sustainability Thinking among Students through Strengthening Science Education in Schools: A Systematic Literature Review (SLR)",
+    "url": "https://doi.org/10.6007/ijarped/v15-i3/28541",
+    "source": "openalex",
+    "published": "2026-07-18",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 체계적 문헌 검토를 통해 학생들의 지속가능성 사고를 저해하는 요인을 분석하고, 효과적인 교수법 및 교사 역량 강화를 포함한 개선 전략을 제시하여 ESD 통합을 위한 총체적 접근법의 중요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Nur Ain Anadanisyah Mat Yaakob, Kamisah Osman",
+    "pdf": "https://hrmars.com/papers_submitted/28541/developing-sustainability-thinking-among-students-through-strengthening-science-education-in-schools-a-systematic-literature-review-slr.pdf"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "오픈AI, 'GPT-5.6 솔' 사용자 후기 1만건 공개…\"워크플로우 중심으로\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212937",
+    "source": "AI Times",
+    "published": "2026-07-20",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "오픈AI의 '워크플로우 중심' AI 전략은 AI의 실제 업무 환경 통합을 가속화하여 산업 생산성 혁신을 주도할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "퍼플렉시티, 연구 에이전트 벤치마크 'WANDR' 출시…\"최고 AI도 실무는 한계\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212949",
+    "source": "AI Times",
+    "published": "2026-07-20",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Perplexity",
+     "에이전트",
+     "벤치마크"
+    ],
+    "summary": "퍼플렉시티의 WANDR 벤치마크는 최신 AI의 실제 연구 실무 적용 한계를 명확히 보여주며, 실용적인 AI 에이전트 개발 방향을 제시할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "‘온디바이스 피지컬 AI’ 실현… 엔비디아의 월드 모델",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212952",
+    "source": "AI Times",
+    "published": "2026-07-21",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "온디바이스 AI",
+     "NVIDIA",
+     "로봇·휴머노이드"
+    ],
+    "summary": "엔비디아의 월드 모델 기반 온디바이스 피지컬 AI 실현은 AI가 물리 세계에서 자율적으로 작동하는 시대를 열어, AI 및 로봇 산업의 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+    "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "source": "OpenAI Blog",
+    "published": "2026-07-09",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Microsoft"
+    ],
+    "summary": "GPT-5.6의 MS 365 코파일럿 편입은 최신 AI 모델의 기업 시장 침투를 가속하고, AI 기술 주도권 경쟁을 심화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "AI 모델들의 월드컵 베팅 결과는...제미나이 1위·클로드 최하위",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212958",
+    "source": "AI Times",
+    "published": "2026-07-20",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Gemini",
+     "Claude"
+    ],
+    "summary": "AI 모델 간 성능 편차가 명확히 드러나면서, 특정 작업에 최적화된 모델을 선별적으로 활용하는 것이 중요해질 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "GPT-5.6, 워드프레스 치명적인 결함 발견, 연구자 말한다",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaTMtTUFDOVpXLXl1Q2RHQjRBTXZHLVRXOTBYOTByV05IMVpoVTI4NldkR2l6bmdaVmhVRFpldmpYMUhXOW42VmRTQmh4Um12cllPbTJydDZqSTJ0MU5MZ2JvcUFvcFN2dTNBdE9KdVZHOVU5Zl9ZTDNiSDU4RlV2VWVvdFlEcFU?oc=5",
+    "source": "Unite.AI",
+    "published": "2026-07-20",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.6이 워드프레스 치명적 결함을 발견한 것은 AI가 사이버 보안 및 소프트웨어 취약점 분석의 핵심 도구가 될 것임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "[게시판]  일레븐랩스, LOT 폴란드항공과 음성 AI 에이전트 실증 등 단신",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212959",
+    "source": "AI Times",
+    "published": "2026-07-20",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "일레븐랩스의 항공사 음성 AI 에이전트 실증은 AI 음성 기술의 실제 산업 적용과 시장 확대를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "How to Work Effectively with GPT-5.6",
+    "url": "https://towardsdatascience.com/how-to-work-effectively-with-gpt-5-6/",
+    "source": "Towards Data Science",
+    "published": "2026-07-17",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "차세대 AI의 잠재력을 극대화하기 위해 인간의 효과적인 AI 활용 역량이 산업 핵심 경쟁력으로 부상할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "Nvidia's grip on AI chips weakens as Microsoft turns to AMD and Anthropic may follow",
+    "url": "https://the-decoder.com/nvidias-grip-on-ai-chips-weakens-as-microsoft-turns-to-amd-and-anthropic-may-follow/",
+    "source": "The Decoder",
+    "published": "2026-07-20",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "Microsoft",
+     "Anthropic",
+     "GPU·데이터센터"
+    ],
+    "summary": "엔비디아 독점 약화는 AI 칩 시장 경쟁을 심화시켜 AI 생태계의 다변화와 혁신을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "세계 최강 ‘GPT-5.6 vs 페이블5’…누가 더 나을까?",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jU09ZSnhCM2lrYlNnalZpdUstZ1pCUENkMm0ySTRnblVnLVpSWGR1SV9xTnBwSk04Uk5zMEtpV2dERWM2QWV0cFZGWG1yWDE2ZEx3RzU5d2tDWDFjckRoZXQ2NFRlc3ZJUVBpYVBLSUc?oc=5",
+    "source": "애플경제",
+    "published": "2026-07-20",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "최고 수준 AI 모델 간의 성능 경쟁은 기술 혁신을 촉진하고 AI 산업 생태계의 주도권 재편을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

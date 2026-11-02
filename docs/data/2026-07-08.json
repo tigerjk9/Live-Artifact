@@ -1,0 +1,413 @@
+{
+ "date": "2026-07-08",
+ "generated_at": "2026-11-02T11:39:32+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[최홍석 칼럼] 에이전틱 AI가 망을 운용한다",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DNy1mNjRRRWctMF9zSVJpWGlTOVcxNWxwRnRGT3p0UVVZSFNDekkwVVlWelRVLWxVaFF2a3lUU183bWNZa2R6T2NNd1BIejdfRWJRSWRR?oc=5",
+    "source": "지디넷코리아",
+    "published": "2026-07-07",
+    "keyword": "에이전틱AI",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "최홍석 칼럼은 자율적으로 작동하는 에이전틱 AI가 시스템 운영을 담당하게 됨을 밝힙니다.",
+    "implication": "학생들이 에이전틱 AI가 시스템을 자율 운용하는 미래 사회의 변화를 탐구하도록 수업을 구성할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[장덕진칼럼] 문해력 위기, 결과가 아닌 ‘근본’에서 찾아야 한다",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=30325",
+    "source": "에듀프레스",
+    "published": "2026-07-07",
+    "keyword": "",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [
+     "문해력"
+    ],
+    "summary": "대한민국 문해력 위기의 근본 원인은 통글자 암기식 초기 한글 교육이며, 훈민정음의 과학적 원리를 이해시키는 교육이 필요하다.",
+    "implication": "통글자 암기 대신 훈민정음의 원리를 바탕으로 글자의 소릿값과 구조를 이해시키는 한글 교육을 시도할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[기고] 교육의 본질에 집중할 때 AI교육도 성공한다",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NWi1CbjRzblV3REdMVGU1VWo5NDAtVlJQUEh1dWJmMGlPeElVNWs3djA4MFlNSVc0NW55b2JJOWcwR1FwQkJZLXJoRGZ3V2d5OFE?oc=5",
+    "source": "경인일보",
+    "published": "2026-07-07",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "AI 교육의 성공은 교육의 본질에 집중하는 데 달려있다는 내용입니다.",
+    "implication": "AI 활용 수업에서 단순 기능 습득을 넘어 사고력 등 교육 본질 함양에 중점을 둘 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[기고] 제주농업 디지털전환 '농업현장을 이해하는 방식의 변화'",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GcGZQWG9aS0VYQlZjUklfU19WUUY1SF96M0FxcTY3czdIUFVNZ3laN1c2Y3pMLUJYZVNfT2ZJSU5Hc2M1anZCcHJIOUt3S2NEVkNvWGh3N2t6aGdOS0t4YW1MRVk4dkVGRmNzaA?oc=5",
+    "source": "전업농신문",
+    "published": "2026-07-07",
+    "keyword": "디지털전환",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "제주 농업의 디지털 전환으로 농업 현장을 이해하는 방식이 변화합니다.",
+    "implication": "디지털 기술이 농업 현장 이해 방식을 어떻게 변화시키는지 학생들이 토론하는 활동을 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "전남광주통합교육청, AI교육부터 문해력까지 교육혁신 제안",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zVTJWd3RhbGx3MUI3Qjc5NHc1SXlDcG5mRHV0LXVEaEI1aEdnblRtZUV2SEFZcnA4c3FrLTlrVzNlelFSRWlWbkhPWVZKa2Z4cTV3ZXZJTGtwcGpON1BzWTJVaEM2b1RqYkE?oc=5",
+    "source": "천지일보",
+    "published": "2026-07-07",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부",
+     "문해력"
+    ],
+    "summary": "전남광주통합교육청이 AI 교육부터 문해력까지 포괄하는 광범위한 교육혁신 방안을 제안했습니다.",
+    "implication": "AI 기술을 활용하여 학생들의 문해력 향상 교육을 수업에 적용해볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "[인터뷰] 조용식 울산시교육감 “흔들린 학교 현장… 교육공동체 신뢰로 다시 세울 것”",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWVTRweXJUbUdia3NDUDcwN2hnMFdZMW9tbC1wQWF5Uk5sQklBNWotTmlaXzY3MVczM01rY2Z1R3AzZVppM0xRRE80V3A4dnlFaHJidkduSWI1YVUzVUc3RzhQLWJlWkZSY2tsT2tnbFlnYTVu?oc=5",
+    "source": "부산일보",
+    "published": "2026-07-07",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": "interview",
+    "entities": [
+     "울산시교육청"
+    ],
+    "summary": "울산시교육감이 흔들린 학교 현장을 교육공동체 신뢰를 바탕으로 다시 세울 것을 강조했습니다.",
+    "implication": "교실 내에서 학생들과 적극적으로 소통하여 신뢰를 구축하고 건강한 학급 공동체를 만들 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "'글로컬대학' 전북대 4주기 대학기관평가인증 '5년 인증' 획득.. '데이터기반 성과관리, AI교육혁신 등'",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13TW5EaXRvVWtQbXh2Wk82bXl1UHlwS29IS2xMV3NwaVVCMGJtdnZzVjNFd2drZ1ZOUGlOazVaaFNXUzZLNEp5Rk1HYUlIbnN2dU1jNlZ4VkhVbHBIcEsxT0w4MzdKTGFrUVQwOA?oc=5",
+    "source": "베리타스알파",
+    "published": "2026-07-07",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "전북대학교가 4주기 대학기관평가인증에서 5년 인증을 획득했으며, 데이터 기반 성과관리 및 AI 교육 혁신이 주요 요인이었습니다.",
+    "implication": "데이터 기반 성과관리와 AI 교육 혁신은 학생들이 미래 사회에 필요한 핵심 역량임을 수업에서 강조할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "경남교육청, 교육혁신선도지역 공모 선제 대응으로 경남형 교육 모델 발굴 > 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iZTFzVTdwd2ducmJXU0JOVjNNcXR3b0UtR2hDVWtaeFRrX1ZoQ0gzLVNNbFNxVktwbWFtcUFhTGRKRGVqcnZIQThZTVNKMVJ2S2g0SXJZdXRnWVBneVNRTG9ndWJGWWlGbGJ6RTc0MHE?oc=5",
+    "source": "더코리아",
+    "published": "2026-07-07",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경남교육청"
+    ],
+    "summary": "경남교육청이 교육혁신선도지역 공모에 선제적으로 대응하여 경남형 교육 모델을 발굴합니다.",
+    "implication": "새롭게 발굴될 경남형 교육 모델을 학교 수업에 적용할 기회가 생길 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "강미애 교육감, 첫 교장·원장 회의…“학교 중심 교육혁신 함께 만든다”",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iazV3aVcwWmJsbWRSVGtqRkV4dnBYX1NiWl9iTGJERThlNllQczN6LUpwUGFTMWNUVG5UNFp0ZVRMTVpJRFJOMmZ5WUxWR0Z0MWxJZmhGMXBpWmZ6Sk12NHhBRUpMRU1ZV1ZORHNuNA?oc=5",
+    "source": "내외일보",
+    "published": "2026-07-07",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "강미애 교육감이 첫 교장·원장 회의를 열고 학교 중심 교육혁신을 함께 만들자고 강조했습니다.",
+    "implication": "학교 중심 교육혁신을 통해 우리 학교 특성에 맞는 새로운 수업 모델을 시도할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "충북교육청, 5세 이음교육 현장 운영 역량 높인다 : 네이버 블로그",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMGh5LVd6QlB2a2Q4d205cUdVLWU5SF9uQW1hYVczTnNtME9teDFRaHN6MW85UG5rVUl6R2RiWGFrQ0ZYYzRXMGJrcHpKcHlPUEVSTXVubVpfU2t4ZllmbXlvbjVJRW80WDNET2lOX252aUhsdXF5YVNBdXJQcjUyQU1ZdVhLczJpeXlKZ2RhZw?oc=5",
+    "source": "Naver Blog",
+    "published": "2026-07-07",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충북교육청",
+     "네이버"
+    ],
+    "summary": "충북교육청이 5세 유아를 위한 이음교육의 현장 운영 역량을 강화할 예정입니다.",
+    "implication": "5세 이음교육의 효율적 운영을 위한 현장 지원이 강화되니 수업 개선에 활용할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "THE FUTURE ENGLISH TEACHER: COMBINING LANGUAGE MASTERY WITH AI AND DIGITAL COMPETENCES",
+    "url": "https://doi.org/10.52058/2786-6165-2026-5(47)-2187-2198",
+    "source": "openalex",
+    "published": "2026-07-06",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "본 이론 연구는 문헌 검토를 통해 미래 영어 교사가 언어 숙달, AI 및 디지털 역량을 통합하여 급변하는 교육 환경에 적응하고 능동적인 전문가로 거듭나기 위한 포괄적 지식 및 기술 프레임워크를 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "О.О. Карпова, Violeta Bublyk",
+    "pdf": "https://perspectives.pp.ua/index.php/vno/article/download/46191/46217"
+   },
+   {
+    "n": 2,
+    "title": "Artificial intelligence in higher education: Psychological implications for students",
+    "url": "https://doi.org/10.21744/ijle.v9n1.2493",
+    "source": "openalex",
+    "published": "2026-07-05",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "이 연구는 문헌 연구를 통해 고등교육에서 AI가 학생들의 학습 동기와 자기 효능감을 높이는 긍정적 효과와 비판적 사고 저해, 의존성 등 부정적 심리적 영향을 분석하여, 책임감 있는 AI 교육 방안의 함의를 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Tran Thi Yen",
+    "pdf": "https://sloap.org/journal/index.php/ijle/article/download/2493/1230"
+   },
+   {
+    "n": 3,
+    "title": "Planning, Implementation and Reflection on the Teaching of the Ringkang Jawari Dance at a Senior High School in Serang Regency",
+    "url": "https://doi.org/10.61436/rietm/v5i2.pp93-108",
+    "source": "openalex",
+    "published": "2026-07-05",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "문화예술 교사가 링깡 자와리 춤을 지도한 경험을 현상학적으로 탐구하여 경험적 성찰 문화 교수학습 모델(ERCP)을 개발하고 문화 기반 예술 교육 강화에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Wiwin Purwinarti, Asep Muhyidin 외 1명",
+    "pdf": "https://imrecsjournal.com/journals/index.php/rietm/article/download/326/144"
+   },
+   {
+    "n": 4,
+    "title": "Enhancing History Learning Effectiveness through Teacher Pedagogical Strategies",
+    "url": "https://doi.org/10.54437/urwatulwutsqo.v15i2.3454",
+    "source": "openalex",
+    "published": "2026-07-06",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 교사의 다양한 교수 전략을 통합적 교수 생태계로 개념화하며 질적 사례 연구를 통해 역사 학습 효과를 증진하는 방안을 분석하여, 학생 중심 교육을 위한 이론적 통찰과 실천적 권고를 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Fatma Fatma, Idrus Rore 외 1명",
+    "pdf": "https://pondokjurnal.uwj.ac.id/index.php/UrwatulWutsqo/article/download/3454/1728"
+   },
+   {
+    "n": 5,
+    "title": "From Experience to Inquiry to Generalization: Understanding the STEM-PBL Learning Process and Developing a Formative Assessment Model",
+    "url": "http://dx.doi.org/10.1007/s11165-025-10273-x",
+    "source": "eric",
+    "published": "2026-01-01",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "이 연구는 Whitehead의 교육 철학을 기반으로 STEM-PBL 학습 과정을 경험-탐구-일반화 단계로 규명하고, 공학 설계, 실험 탐구, 행동 참여를 핵심 요소로 하는 형성 평가 모델을 개발하여 학생의 학습 과정 이해 증진과 교사의 평가 설계에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ying Xie, Chao Wan 외 1명",
+    "pdf": "http://dx.doi.org/10.1007/s11165-025-10273-x"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "구글, 사용자 '렌즈·음성' 검색 기록까지 AI 학습에 쓴다",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212488",
+    "source": "AI Times",
+    "published": "2026-07-07",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "구글의 방대한 멀티모달 데이터 활용은 AI 모델 고도화를 가속화하여 업계 내 경쟁 판도를 뒤흔들 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "텐센트, 'Hy3' 오픈소스 정식 출시…'GLM-5.2' 절반 크기로 코딩 외 성능 압도",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212492",
+    "source": "AI Times",
+    "published": "2026-07-07",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "오픈소스",
+     "코딩 AI"
+    ],
+    "summary": "텐센트 Hy3의 오픈소스 출시는 효율적인 소형 AI 모델로 범용 성능을 극대화하여 AI 기술 대중화와 산업 혁신을 가속할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "오픈AI 코딩 도구 코덱스에 최상위 모델 'GPT-5.6 솔 울트라' 들어간다...코덱스 개발 총괄 티보 소티오 X에서 확인...한 이용자의 \"GPT-5.6 상위 모델을 코덱스에 넣어라\" 제안에 짧은 답변으로 화답",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE52MGJSOUZOc0hXOXBtSnBrSkg3LUJxNlVrQlVySy0wOHhSRTJOUTEzMEJyZXhvTmNYaE01ZVlJSHc?oc=5",
+    "source": "한국정보기술진흥원",
+    "published": "2026-07-07",
+    "keyword": "GPT",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "코딩 AI",
+     "ChatGPT"
+    ],
+    "summary": "오픈AI 코덱스에 최상위 모델이 탑재됨으로써 AI 기반 코딩 기술 생태계의 발전이 가속화되고 개발 생산성이 크게 향상될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "브로드컴·애플, 2031년까지 파트너십 연장...AI 맞춤형 칩 공동 개발",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212511",
+    "source": "AI Times",
+    "published": "2026-07-07",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Apple"
+    ],
+    "summary": "애플과 브로드컴의 장기 협력은 AI 시대 맞춤형 칩 개발 경쟁 가속화와 기술 생태계의 수직 통합 심화를 예고합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs",
+    "url": "https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs/",
+    "source": "The Decoder",
+    "published": "2026-07-07",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Microsoft",
+     "OpenAI",
+     "Anthropic"
+    ],
+    "summary": "AI 서비스의 비용 효율성 확보가 핵심 경쟁력이 되면서, 자체 모델 개발 및 효율적 모델 운용 경쟁이 AI 산업 전반으로 심화될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "네이버·KAI, 방산 특화 소버린 AI 개발…‘무기 자율화’ 피지컬 AI 조준",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212516",
+    "source": "AI Times",
+    "published": "2026-07-07",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "네이버"
+    ],
+    "summary": "AI가 방산 특화 피지컬 AI를 통해 무기 자율화 핵심 영역으로 확장하며, 산업 전반의 AI 적용 가속화와 신시장 개척을 예고하는 중요한 사례입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+    "source": "OpenAI Blog",
+    "published": "2026-06-26",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.6 Sol은 AI 기술 성능의 새 기준을 제시하며 산업 전반의 경쟁과 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "[7월7일] AI가 벌어준 돈, 82%는 '인프라'의 몫...모델은 11% 불과",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212495",
+    "source": "AI Times",
+    "published": "2026-07-08",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 산업의 수익이 인프라에 편중되면서, 모델 개발 경쟁을 넘어 인프라 확보 및 제공 역량이 AI 시장의 핵심 승부처가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "AWS, AI 에이전트 데스크톱 자동화 정식 출시...레거시 애플리케이션도 AI가 실행",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tZWs5ZjZ1dDR6NFpUYldQbmREYW1ERjRyaDBqMXNESkJuaHlwY0l6eTV5Mk1ZV0w3NnNDTnVaeVA4c1dOd0IyOUVGZW53VmFfNlp4V0dyS3R1UWt0Wk1xRzdqdXZzY2lUeDM0NVNJZzhqZ9IBckFVX3lxTE0tZWs5ZjZ1dDR6NFpUYldQbmREYW1ERjRyaDBqMXNESkJuaHlwY0l6eTV5Mk1ZV0w3NnNDTnVaeVA4c1dOd0IyOUVGZW53VmFfNlp4V0dyS3R1UWt0Wk1xRzdqdXZzY2lUeDM0NVNJZzhqZw?oc=5",
+    "source": "테크데일리",
+    "published": "2026-07-07",
+    "keyword": "API",
+    "topic": "agent_dev",
+    "kind": "opinion",
+    "entities": [
+     "Amazon",
+     "에이전트"
+    ],
+    "summary": "AWS의 AI 에이전트가 레거시 애플리케이션을 포괄하며 AI 자동화 시장의 확장과 기업의 AI 전환 가속화를 이끌 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+    "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "source": "OpenAI Blog",
+    "published": "2026-06-21",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "삼성",
+     "ChatGPT",
+     "코딩 AI",
+     "생성형 AI"
+    ],
+    "summary": "삼성전자의 생성형 AI 사내 도입은 기업의 AI 활용 표준을 제시하며, AI 기술 생태계의 전 산업적 확산을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

@@ -1,0 +1,422 @@
+{
+ "date": "2026-08-15",
+ "generated_at": "2026-11-02T11:41:37+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "대전시교육청, AI교육 1번지 실현",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lU2tNSWphM0xOYmZEUHhIV0RIZmtXQ2NTOUFKYnd3VFQ3dEZLb21jNFVXQTNBQ2V6Y1hFWlBVejJGeUN1NVNvd1R5c0k3TWVDanhNN2xaRkNLRlJKdl9TSlVjNVp4X0J0b0l1UtIBcEFVX3lxTE9Oc19EY2NHbExxYUVsLU9pSUZoX3JUbDVibVlVbThVdG5zVTdBRkpnVHR2eU1zcHQ0VXlETk55VmpjS2tkdGdjWGgydTVVMDdUcWROdEROZHpfZXNpY2ZZXzdreUFQeE1LNjV0em1oZHM?oc=5",
+    "source": "woorinews.co.kr",
+    "published": "2026-08-14",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "대전시교육청이 AI교육 1번지 실현을 목표로 미래교육추진단을 본격 가동했습니다.",
+    "implication": "미래교육추진단이 제공할 AI 교육 콘텐츠와 도구를 수업에 바로 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[미국] 교사노조, 교육부 상대 소송…교육대학원 ‘전문학위’ 제외에 반발",
+    "url": "https://www.edpl.co.kr/news/articleView.html?idxno=21293",
+    "source": "교육플러스",
+    "published": "2026-08-14",
+    "keyword": "",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "교원단체",
+     "교육부",
+     "저작권·소송",
+     "사교육"
+    ],
+    "summary": "미국 교육부가 교육대학원 과정을 전문학위에서 제외하자 교사노조가 연방 학자금 대출 한도 축소에 반발해 소송을 제기했습니다.",
+    "implication": "교육 전문가로서 학생들에게 교직의 전문성과 끊임없는 배움의 중요성을 강조할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "“AI·에듀테크, 교육현장 변화 이끌 핵심 동력” 미래교육박람회 찾아 최신 교육기술·콘텐츠 직접 살펴",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JeUl1SEVhWnExRnh6Wjd1R0xEd3V1N19WM3hwa2sxcGtsb3V4UFlHUzRaWEFsamJXR0lEczFZb0oyUVpEUEhrNjlEU09jOGYyazZBd3lKVFVpbEVocy1pSlFVb0wwdw?oc=5",
+    "source": "코리아플러스",
+    "published": "2026-08-14",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "미래교육박람회에서 AI와 에듀테크가 교육현장 변화를 이끌 핵심 동력으로 주목받고 있습니다.",
+    "implication": "AI와 에듀테크를 활용하여 학생 맞춤형 학습 자료를 제공하고 수업 참여도를 높일 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "대전시교육청, AI교육 사업 연계·중복 전면 점검",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LLUdEVHQ1VnhkRTEzVi1xbHJEdnpkXzFEZVZYTXdWTnMzWGhvMVJPaG9fQk1KTnVXQ2wtVUpGTDZ6ZFhUU0ptdi04V3BXWmNZN0FtZA?oc=5",
+    "source": "타임뉴스",
+    "published": "2026-08-14",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "대전시교육청은 AI 교육 사업들의 연계성과 중복 여부를 전면적으로 점검합니다.",
+    "implication": "이 점검을 통해 교사들은 더욱 체계적이고 효율적인 AI 교육 콘텐츠를 수업에 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "강경숙 의원, 천호성 전북교육감 만나 전북교육 현안 논의",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiMDUydEsxWkM3MDJvaVJYd08zOS1PREY3c1RNUkIzdUUyeEFicmpWc1E3S2Yxdmt1UXM0TWVqd3R1Z1UwelNQZTFFWFk4UHV5SHhNaG1rUHZ2RFRmWmlwaTdfZm9ZOG43?oc=5",
+    "source": "투데이안",
+    "published": "2026-08-14",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "전북교육청"
+    ],
+    "summary": "강경숙 의원과 천호성 전북교육감이 만나 전북지역 교육 현안을 논의했습니다.",
+    "implication": "지역 교육 현안 해결 과정을 탐구하는 사회 수업 자료로 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "화성특례시, 'AI시민리더' 20명 첫 인증...지역 AI교육 현장 투입",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tbXE1U3NJcEtmb2xxVjQtOVVFUTNyRnl5NU1Va1NpSFlJdmt1eXluSHp0UnVCWnRzajJnRWo5MHlkeHhXUmc4U3ZXVVQ2VmhyMmZOUzFVVVVsQ2hhWi1Jb0w2RlZTNzk1?oc=5",
+    "source": "경인매일",
+    "published": "2026-08-14",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "화성특례시가 'AI시민리더' 20명을 처음으로 인증하고 이들을 지역 AI 교육 현장에 투입합니다.",
+    "implication": "지역 AI시민리더들을 초청하여 학생들에게 실질적인 AI 활용 사례를 소개하고 참여 수업을 진행할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "최정훈 전남광주시의회 교육위원장 \"학부모 목소리가 교육정책 바꾼다\"",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fNFE4R09mZF91UldlcjJzOVlwMFlxYnBHdHdGUmxiSWlOd1gyZzh2QTJNZjZ5Z0pzaV9yRmhnMEpuSnJSeFpaVHplS3pFdXY4MFJwZFM0bDgycUxNemJkRmlVZGtsT0RBdmZv?oc=5",
+    "source": "프레시안",
+    "published": "2026-08-14",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "최정훈 전남광주시의회 교육위원장은 학부모의 의견이 교육정책 변화에 영향을 미친다고 밝혔습니다.",
+    "implication": "학부모의 다양한 의견을 경청하여 학생 주도 수업 활동에 효과적으로 반영할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "〚인터뷰〛 경기도의회 최미금 의원, 경기도 현안·교육정책 구상 밝혀",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXeHR0UlFsZ0t3NmxBeFU3YzBMeTJpb09xN3N4VXV1aWFRWUpTSEhiSWZ4YnRBZkdHbWppcjEzM3dKUWF6R0xCeXUya1B2Slg2Mk1jREt2QjdLTDk0MVhtNGliOTU3QkFXTVhseVRrbVhXWEE?oc=5",
+    "source": "동방일보",
+    "published": "2026-08-14",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": "interview",
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도의회 최미금 의원이 인터뷰에서 경기도 현안 및 교육정책 구상을 밝혔습니다.",
+    "implication": "경기도 교육 정책 방향을 예상하며 지역사회 연계 수업 내용을 계획할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "정석원 경기도의원, 학생 학습권 보장을 위한 대안교육 현장 목소리 청취 > 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PZTNYMDRCeEwwRnFsT3ZUVlhwMlRFT2ZwSS13YjVUSjlOSVJaVFpxVEo0enNTZ0U5c21pZ3JNaENOalgtVkpVVDNJZmJBVWhPOXdrLXMwdnFMUmhJaUc1dERyWUF0LUlaa0l5ZWtSVGM?oc=5",
+    "source": "더코리아",
+    "published": "2026-08-14",
+    "keyword": "교육현장",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "정석원 경기도의원은 학생 학습권 보장을 위해 대안교육 현장의 목소리를 청취했습니다.",
+    "implication": "수업에서 학생 개개인의 학습권을 보장하는 다양한 교수법을 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "'경기 에듀테크 R&D 랩 부스, 1,000명이 반했다 … 경기도교육연구원, 에듀플러스위크 미래교육박람회서 실증 에듀테크 10종 선보여'",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55aWdYYnJYT0tldkxFUzc3Qkh5Qm5hQTV5TklzLXViR2Z6VHBiMUhialdySUphdEVNc2tfVkxSRFlOaGpRby0tdWdPakJhSnltN1JQTHJhWDBNX3U2ZHM0dmxwRDRldk3SAWdBVV95cUxOeWlnWGJyWE9LZXZMRVM3N0JIeUJuYUE1eU5Jcy11YkdmelRwYjFIYmpXcklKYXRFTXNrX1ZMUkRZTmhqUW8tLXVnT2pCYUp5bTdSUExyYVgwTV91NmRzNHZscEQ0ZXZN?oc=5",
+    "source": "경기연합뉴스",
+    "published": "2026-08-14",
+    "keyword": "에듀테크",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육연구원이 미래교육박람회에서 에듀테크 R&D 랩 부스를 통해 실증 에듀테크 10종을 선보여 1,000명의 큰 호응을 얻었습니다.",
+    "implication": "경기도교육연구원이 선보인 실증 에듀테크 10종을 우리 수업에 적용할 새로운 도구로 활용할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Mirʾāh",
+    "url": "https://doi.org/10.64851/csi.v2i3.111",
+    "source": "openalex",
+    "published": "2026-08-12",
+    "keyword": "edtech",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [],
+    "summary": "적응형 학습의 비가시성이 야기하는 윤리적 문제를 기술, 교육, 사회적 위험으로 분석하고, 투명하고 신뢰할 수 있는 AI 교육을 위한 'Mirʾāh' 윤리 프레임워크를 제안하여 학습자의 권리와 교육적 무결성을 보장합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Hesham Mahmoud",
+    "pdf": "https://journal.adu.ac.ae/csi/article/download/111/29"
+   },
+   {
+    "n": 2,
+    "title": "ARTIFICIAL INTELLIGENCE FOR AGRICULTURAL EDUCATION IN NIGERIAN PRIMARY SCHOOLS: TEACHERS’ ASSESSMENT OF PUPILS’ AGRICULTURAL LITERACY",
+    "url": "https://doi.org/10.63456/jscqt-2-2-136",
+    "source": "openalex",
+    "published": "2026-08-12",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "문해력"
+    ],
+    "summary": "나이지리아 초등교사 165명을 대상으로 한 설문조사를 통해, AI 기반 농업 교육이 학생들의 농업 문해력을 크게 향상시키며, 이는 교육 관계자들이 AI를 초등 교육에 효과적으로 통합하는 데 중요한 근거가 됨을 밝힙니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Toochukwu Collins Nwakile, Nicholas Irmiya Tetok",
+    "pdf": "https://technology.tresearch.ee/index.php/JSCQT/article/download/136/108"
+   },
+   {
+    "n": 3,
+    "title": "An educational data mining plugin for Moodle: enhancing self-regulated learning through automated interventions",
+    "url": "https://doi.org/10.1108/eisfl-10-2025-0038",
+    "source": "openalex",
+    "published": "2026-08-12",
+    "keyword": "",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제"
+    ],
+    "summary": "무들(Moodle) 학습관리시스템(LMS)에 교육 데이터 마이닝(EDM) 플러그인을 개발하고 평가하여, 자동화된 개별 학습자 개입을 통해 학생들의 자기 조절 학습(SRL) 전략과 교육적 자율성을 효과적으로 향상시킵니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Eric Araka",
+    "pdf": "https://www.emerald.com/eisfl/article-pdf/1/1/468/11790066/eisfl-10-2025-0038en.pdf"
+   },
+   {
+    "n": 4,
+    "title": "Pedagogical prompting rather than technical mastery: Generative AI use by English and English-medium instruction teachers",
+    "url": "https://doi.org/10.3389/feduc.2026.1901680",
+    "source": "openalex",
+    "published": "2026-08-13",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "본 논문은 교사들이 AI의 기술적 숙달보다 교수학적 프롬프팅에 집중하도록 권장하며, 기존 교수 전문성을 AI 기반 실천으로 전환할 '교수학적 프롬프팅 피드백 주기' 모델을 제시하여 교육 분야에 AI를 효과적으로 통합할 길을 모색합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ali Khodi, Samantha Curle 외 1명",
+    "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1901680/pdf"
+   },
+   {
+    "n": 5,
+    "title": "Reimagining Theatre in Education for Transformative Learning in the Age of Artificial Intelligence: A Human-Centred Pedagogical Framework Aligned with NEP 2020 for Future-Ready Education",
+    "url": "https://doi.org/10.22214/ijraset.2026.84578",
+    "source": "openalex",
+    "published": "2026-08-13",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 AI 시대의 불확실한 미래에 대비하기 위해 연극 교육(TIE)이 인간 중심적 대안임을 역설하며, 신체적 실천과 AI 보조 학습을 통합한 인간 중심 교육 프레임워크를 제안하여 미래 대비 교육의 방향을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Senapati Nayak, Dr. Chandrashekhar Vazalwar 외 1명",
+    "pdf": "https://doi.org/10.22214/ijraset.2026.84578"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "새로운 중국 AI GLM-5.2, 모든 ChatGPT 모델을 제치고 Anthropic의 Claude Fable에만 근소한 차이",
+    "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNLXZBb3BLUlRkbGJKNTZWcWJaajF5TmN3amxaaVNPeWlOd1RnSm14ZzdXclF2bEk2cWxhdmtTVU01RVNtSHFZN3BjRzhtRzgyRXh3MVhlYVVubGNLdGJUR0djTHN3dVlPNG93N2luOXJqWEtBNEZ1MnBxU1NvNHZQWWJWU3cyaUlsUi1ldE5zZm05QWttbW9FX3djZGZaXzVyZ2sxUTlwcWVNYUZ3UzhZZ2ZrMzZGZjdESGZpbFlJU2V6XzNYNFp0cllGdVppMUhBbU9UeHVqQTBpUGVGWjhMNVpqOUdMWGMtNC1yaVZjZ0V6V3poQ1FTRlBCYkNybF95cEg3aVVDQkZ6SXYwQTJHLUxBSzRFZ3UwZlJ4RlZYNFhaRV93aDhpX1NpWmFFR0wwNU9tVlU5eGlsNERzUTNkXzNZc2pKeUJsNG13?oc=5",
+    "source": "Yellow.com",
+    "published": "2026-08-14",
+    "keyword": "Anthropic",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Anthropic",
+     "Claude"
+    ],
+    "summary": "중국 AI 모델의 급부상은 글로벌 AI 경쟁 심화와 기술 주도권 다변화의 촉매제가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+    "url": "https://openai.com/index/previewing-ultrafast",
+    "source": "OpenAI Blog",
+    "published": "2026-08-13",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.6 Sol의 초고속 모드는 AI 서비스의 실시간 활용도를 극대화하여 산업 전반의 생산성과 효율성을 획기적으로 높일 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "OpenAI's Computer History turns your clicks and keystrokes into a searchable ChatGPT memory timeline",
+    "url": "https://the-decoder.com/openais-computer-history-turns-your-clicks-and-keystrokes-into-a-searchable-chatgpt-memory-timeline/",
+    "source": "The Decoder",
+    "published": "2026-08-14",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT",
+     "개인화 학습"
+    ],
+    "summary": "OpenAI는 사용자 활동을 통해 AI의 개인적 맥락 이해도를 혁신적으로 높여, AI 비서 시장의 깊은 개인화 경쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[8월14일] AI는 싸졌는데 비용은 늘어난다…‘토큰 경제학’이 흔드는 AI 가격표",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213944",
+    "source": "AI Times",
+    "published": "2026-08-15",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [],
+    "summary": "'토큰 경제학'으로 AI 모델 운영의 총비용이 증가하는 현상은 AI 기술 산업의 수익성과 비즈니스 모델 재편을 요구할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "AI 에이전트용 고속 모델 공개한 엔비디아",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHZmRuOHVKbmJQU0RaQXFnT3Bvd2FLejNUMXhtQW5ITlJBS3hhMG5NMVlfa1F4OFdEZC1CMHc3WmFSY1pWMTQzdkw4MTBrMzYtRDctaC05ZEZvTXpjUEE?oc=5",
+    "source": "스타트업레시피",
+    "published": "2026-08-14",
+    "keyword": "오픈소스",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "에이전트",
+     "NVIDIA"
+    ],
+    "summary": "엔비디아의 고속 AI 에이전트 모델은 AI 에이전트의 실용화와 확산을 가속하며 AI 생태계 발전을 견인할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+    "url": "https://openai.com/index/zapier",
+    "source": "OpenAI Blog",
+    "published": "2026-08-10",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "AI가 단순 챗봇을 넘어 실제 업무 혁신에 활용되며, 자동화 플랫폼이 AI 도입을 가속화하는 핵심 동력이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "Claude Code now runs daily maintenance on Anthropic's software with a 46 percent merge rate",
+    "url": "https://the-decoder.com/claude-code-now-runs-daily-maintenance-on-anthropics-software-with-a-46-percent-merge-rate/",
+    "source": "The Decoder",
+    "published": "2026-08-14",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Claude",
+     "코딩 AI",
+     "Anthropic"
+    ],
+    "summary": "AI가 자사 소프트웨어 유지보수를 성공적으로 자동화하여, 개발 전반의 생산성과 효율성을 혁신할 핵심 동력이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "MZ 최선호 기업 애플·오픈AI·엔비디아에는 꼰대가 없을까",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxUFVZTVhiT0VmaXZMSkdyZWk2YnZNNHRRLUlaUjBtSnBDYU9xUkd5eDRoT09GWEhwbEw5cV9JUk12STU2VVhHaC1oNWFIbXZBU1BBVQ?oc=5",
+    "source": "매일경제",
+    "published": "2026-08-14",
+    "keyword": "오픈AI",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Apple",
+     "OpenAI",
+     "NVIDIA"
+    ],
+    "summary": "오피니언: AI 선도 기업들의 유연한 조직문화는 핵심 인재 유입을 가속화하여 AI 생태계 혁신을 주도할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "솔트룩스, AI 기술 ‘로보틱스’로 확장…“데이터 수집 서비스로 8억 이상 매출 확보”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213972",
+    "source": "AI Times",
+    "published": "2026-08-14",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 기업의 로보틱스 확장은 데이터 수집 서비스를 통해 AI 산업의 물리적 영역 확장과 실질적 수익 모델 구축을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "애플, 차세대 시리 성능 강화 위해 언론사와 콘텐츠 라이선스 협상",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213973",
+    "source": "AI Times",
+    "published": "2026-08-14",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Apple"
+    ],
+    "summary": "애플의 콘텐츠 라이선스 협상은 AI 모델 고도화에 고품질 데이터의 중요성을 부각시키며, AI와 콘텐츠 산업 간의 새로운 협력 생태계를 조성할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

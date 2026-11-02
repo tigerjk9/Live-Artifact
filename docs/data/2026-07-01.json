@@ -1,0 +1,417 @@
+{
+ "date": "2026-07-01",
+ "generated_at": "2026-11-02T11:39:08+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "오석진 대전교육감 1호 결제 ‘AI교육 1번지’",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8ta09vWDZrRW5fTHlENkpyQU1qaV94S3JpNFB2MTJxYVQ5TkpseHoyclQ1MTNXYW5adWRrUnlna2M1VkFDMWtIVGhDVTdvQi00dDlyNnl6NS02YzFjcXBGVENHYjJfb1JVZFM1ZA?oc=5",
+    "source": "에이티엔뉴스",
+    "published": "2026-07-01",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "오석진 대전교육감이 AI 교육 1번지를 목표로 하는 정책을 1호로 결재했습니다.",
+    "implication": "AI 교육 강화 방침에 따라 수업에 활용할 수 있는 AI 도구 지원이나 연수를 기대할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "김대중 전남광주교육감, 취임식 없이 교육현장 방문",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5cGhLSkw0ZktoX0d2YmJiVnBCNlJsUW9WaEhKM0FSaGFGVkZJNHNEbTlSY3NJR2tMV2lfcUdTZnM0bDlJUTBHWmZudFh0ZkpQeHhyNldWaUd1cFktcTlVWtIBeEFVX3lxTE9Iai1LT1VzeWFYRXdKeHNlTGE3MXhWNFJ3Tnp5b3EtcVJua2pvdHNIRTFfWk1LZWlWSXJMcTNvTWxFZnJtSGhwbmhVSnc3M09uYkF4VEVZN2lSb1RkSDYzcWk5aXZVOUxaMExxZ0hMdm8xVVR2X0xWeg?oc=5",
+    "source": "뉴시스",
+    "published": "2026-07-01",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "광주시교육청"
+    ],
+    "summary": "김대중 전남광주교육감이 취임식을 생략하고 바로 교육현장을 찾아 업무를 시작했다.",
+    "implication": "새 교육감의 현장 중심 소통 방식은 형식보다 실질적인 행동의 가치를 수업에서 토론할 기회가 될 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "최교진 교육부 장관, 학교 마약예방교육 현장 점검…참여형 교육 강조",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HWGxZNWtpVmo1QjlnMDlSNzVaaGRtLWRWNHFzbUhNZFFVNVBvOFJTSXB6Vm5oSFUxTTFFOHNsdlFDeXNKRlBla0hld25XeGZXc2w4?oc=5",
+    "source": "네이트",
+    "published": "2026-07-01",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "최교진 교육부 장관은 학교 마약예방교육 현장을 점검하며 참여형 교육의 중요성을 강조했습니다.",
+    "implication": "교육부 장관이 강조한 참여형 교육은 수업에서 학생 주도 토론이나 역할극 등으로 즉시 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "인천시교육감직 준비위, 소통창구 가동...미래교육 청사진 그린다",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94V0ZINk5KZFh0TmlJdDh1QTFYZlZraTdGeXM0aUtTRFpJekIxeTQzcDdKZlltSGNBYmk1eHpxQVZXM3BaYVlwclowU3Vudmtjazl3MmxhdXJTdi1FdGg0SjlKN0txckdzVnc?oc=5",
+    "source": "미디어인천신문",
+    "published": "2026-06-30",
+    "keyword": "AI디지털교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육감직 준비위가 소통 창구를 가동하며 미래 교육의 청사진을 마련하고 있습니다.",
+    "implication": "교육감 준비위가 그리는 미래 교육의 방향을 파악하여 수업 활동을 미리 구상해볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "충남교육청국제교육원, 영국 치체스터대와 미래교육 협력 확대",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GbEJfZF80SDV4bDlDOVpaM1F3WnZ4MExoWWdJcXFHdEx4SEVWQ2JMNHdTYW5SRjdpR3owYmtuY2JsbXM5QXBwbjgxNWtNMHFXR2h2WXQzTXoyS3BjRDN5QTdqb0U0c1lRZlE?oc=5",
+    "source": "금강일보",
+    "published": "2026-06-30",
+    "keyword": "교육현장",
+    "topic": "global",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "충남교육청국제교육원은 영국 치체스터대학교와 미래교육 분야의 협력을 확대합니다.",
+    "implication": "영국 대학과의 미래교육 협력 사례를 학생들에게 소개해 국제적인 시야를 넓혀줄 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "대전 교원 70% 악성민원 경험 …안식년제 도입 90% '공감'",
+    "url": "https://www.edpl.co.kr/news/articleView.html?idxno=21003",
+    "source": "교육플러스",
+    "published": "2026-06-30",
+    "keyword": "",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [],
+    "summary": "대전 교원 70%가 악성 민원을 경험하고 현 보호 체계에 불만을 표했으며, 안식년제 도입에 90%가 공감했습니다.",
+    "implication": "교원들의 심리적 스트레스와 소진이 보편적 문제임을 인지하고, 자기 돌봄으로 수업 에너지를 지킬 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "인천시교육청 \"직선 5기 교육정책에 시민과 교육공동체 의견 대폭 반영\"",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qUVVqdkZRemNaTUZGT1FmaThuR2M0cGJ5Ym9ZcndKSnVsUDdJbzlNOFlLS3ZfamJ6RU1NSnp5S0kySnJBaUNRV3lGSHdXMWdKNWZwVjJOQ3JDRVkyZnlraXAxaWNfUms3?oc=5",
+    "source": "한국NGO신문",
+    "published": "2026-06-30",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청은 직선 5기 교육정책에 시민과 교육공동체의 의견을 적극 반영할 예정입니다.",
+    "implication": "학생들과 함께 새로운 교육정책 수립 과정 및 변화 방향에 대해 토론하는 수업을 진행할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "관악구, 일상 바꾸는 ‘디지털 문해교육’ 본격화, 키오스크부터 생성형 AI까지",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01SFBRYmVyaWdGaXU5dXNnREdwSkJRUEFfT2pyX2p4VW5ka3VLX1lfR2RIcDk0cjlYcVdDRTZCb0dDT1F2VlBVdXBFOTRLU1UwenhLMmZXZ2lubGpSZEZRbHRlMnEtazBoNEE?oc=5",
+    "source": "관악신문",
+    "published": "2026-06-30",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "관악구가 키오스크부터 생성형 AI까지 아우르는 실생활 중심의 디지털 문해교육을 본격화합니다.",
+    "implication": "학생들이 키오스크부터 생성형 AI까지 실생활 디지털 기기를 다루는 역량을 수업에서 길러줄 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "김대중 교육감 ＂K-교육특별시 시대 연다＂…통합교육청 청사진 제시",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QN1lnVkUxbUJPTHJ0cmJBby0zNlA4OTFtMU9EdExUdWRIQjlDNk1zc3haMDIyTWR3M2c1cVl4cWs4SmJmUGVyTWJkSkJLVHROb0dV0gFTQVVfeXFMTlA3WWdWRTFtQk9McnRyYkFvLTM2UDg5MW0xT0R0TFR1ZEhCOUM2TXNzeFowMjJNZHczZzVxWXhxazhKYmZQZXJNYmRKQktUdE5vR1U?oc=5",
+    "source": "KPI뉴스",
+    "published": "2026-06-30",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "김대중 교육감은 'K-교육특별시 시대'를 열기 위해 통합교육청 청사진을 제시했습니다.",
+    "implication": "K-교육특별시 구상에 맞춰 우리 수업에서도 한국적 특색을 담은 콘텐츠를 고민할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "강은희 교육감, 제12대 대구교육감 취임식에서 「글로벌 교육수도 대구」 범시민 운동 추진계획 발표",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE84UzJjT2o5alV1NU1HZkFXd1dKenR6V0VFY3hQQzFTcXVENDZLZnhnN0hVcGdBcEhhYmlSVlZ1TnhHNHZkY2pva3NQek5QUW4wWEY3ZG83UmtqM05USVJLTGxXOA?oc=5",
+    "source": "데일리NGO뉴스",
+    "published": "2026-06-30",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대구시교육청"
+    ],
+    "summary": "강은희 대구교육감이 취임식에서 '글로벌 교육수도 대구' 범시민 운동 추진 계획을 발표했다.",
+    "implication": "학생들과 함께 '글로벌 교육수도 대구'의 의미를 탐색하는 수업을 진행할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "From Theory to Practice: Concept-Based Inquiry in a High School Art Classroom",
+    "url": "http://www.arteducators.org/research/studies",
+    "source": "eric",
+    "published": "2014-01-01",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "고등학교 미술 수업에서 개념 기반 탐구라는 새로운 교육 이론을 실제 적용한 사례 연구는 학생들의 비판적 사고, 예술적 성장, 자아 인식 및 세계 이해를 심화하는 데 기여함을 입증합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Walker, Margaret A.",
+    "pdf": "http://www.arteducators.org/research/studies"
+   },
+   {
+    "n": 2,
+    "title": "The Biology Olympiad as a Resource and Inspiration for Inquiry-Based Science Teaching",
+    "url": "https://doi.org/10.1007/978-3-319-91406-0_11",
+    "source": "eric",
+    "published": "2018-01-01",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "생물 올림피아드를 탐구 기반 과학 교육의 자원이자 영감으로 보고, 교사 및 학생의 태도와 올림피아드 과제 분석을 통해 학교 생물 교육 내 탐구 기반 과학 교육 확대의 촉진 잠재력을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Petr, Jan 외 4명",
+    "pdf": "https://doi.org/10.1007/978-3-319-91406-0_11"
+   },
+   {
+    "n": 3,
+    "title": "K-5 Teachers&apos; Perceptions of Social-Emotional Learning",
+    "url": "http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&res_dat=xri:pqm&rft_dat=xri:pqdiss:28494476",
+    "source": "eric",
+    "published": "2021-01-01",
+    "keyword": "",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [],
+    "summary": "K-5 교사들의 인식을 탐색한 이 질적 연구는 사회정서 학습이 학생들의 사회적 인식 및 관계 기술에 미치는 영향을 파악하여 초등 SEL 교육의 심화와 강화를 위한 통찰을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Steve Scifres",
+    "pdf": "http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&res_dat=xri:pqm&rft_dat=xri:pqdiss:28494476"
+   },
+   {
+    "n": 4,
+    "title": "Analysis of a Social Emotional Learning Intervention with Eighth Grade Students",
+    "url": "http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&res_dat=xri:pqm&rft_dat=xri:pqdiss:10748389",
+    "source": "eric",
+    "published": "2018-01-01",
+    "keyword": "",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "액션 리서치 방법론으로 8학년 대상 7주 사회정서학습 개입을 영어 커리큘럼에 통합한 결과, 학생 결정력 및 책임감 향상에 통계적으로 유의미한 변화는 없었으나, 학교는 SEL을 교육과정에 내재화하고 교사 연수 및 지원을 강화해야 함을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Paul, Kristen M.",
+    "pdf": "http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&res_dat=xri:pqm&rft_dat=xri:pqdiss:10748389"
+   },
+   {
+    "n": 5,
+    "title": "Implementing SEL with an Equity Lens: The Role of &quot;Stretching&quot; in Teachers&apos; Practice",
+    "url": "https://doi.org/10.1108/S0749-742320210000021008",
+    "source": "eric",
+    "published": "2021-01-01",
+    "keyword": "SEL education",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 전통적인 사회정서학습(SEL)이 외면했던 공정성 문제를 교사들이 교육 과정과 실천에서 적극적으로 포용하도록, 학생들의 불의 경험을 비판적으로 다루고 책임감 있게 해결하는 '스트레칭'이라는 개념적 메커니즘을 제시하여 변혁적 SEL의 효과적인 적용 방안을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Enid M. Rosario-Ramos, Deborah Rivas-Drake 외 1명",
+    "pdf": "https://doi.org/10.1108/S0749-742320210000021008"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "[게시판] SKT, AI 영상 합성 기술로 글로벌 학회 논문 채택 등 단신",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212278",
+    "source": "AI Times",
+    "published": "2026-06-30",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "SK"
+    ],
+    "summary": "SKT의 AI 영상 합성 기술 학술 채택은 해당 기술의 성숙도를 입증하며, AI 기술 생태계의 발전과 산업 활용 확대를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "KQC, 전문 지식 없이 쓸 수 있는 양자 AI 플랫폼 ‘큐비티어’ 출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212277",
+    "source": "AI Times",
+    "published": "2026-06-30",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [],
+    "summary": "전문 지식 장벽을 허문 양자 AI 플랫폼은 기술 대중화와 AI 생태계의 혁신적 확장을 이끌 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "오픈AI, 개발자 겨냥 ‘코덱스’ 전용 첫 하드웨어 티저 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212261",
+    "source": "AI Times",
+    "published": "2026-06-30",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "오픈AI의 코덱스 전용 하드웨어 출시는 AI 기술이 소프트웨어 중심에서 하드웨어 통합으로 확장되며, AI 생태계의 수직적 가치 사슬 통합과 새로운 시장 형성의 계기가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "Building tech in the world’s secret R&D hub",
+    "url": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
+    "source": "MIT Technology Review",
+    "published": "2026-06-30",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "전 세계 비밀 R&D 허브의 기술 개발은 AI 생태계의 지리적 확장과 새로운 혁신 주체의 등장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "Meta secretly tested ChatGPT, Gemini, and Character.AI with thousands of minor-perspective crisis prompts",
+    "url": "https://the-decoder.com/meta-secretly-tested-chatgpt-gemini-and-character-ai-with-thousands-of-minor-perspective-crisis-prompts/",
+    "source": "The Decoder",
+    "published": "2026-06-30",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Meta",
+     "ChatGPT",
+     "Gemini",
+     "AI 안전·규제"
+    ],
+    "summary": "AI 기업 간 경쟁 심화 속 민감한 시나리오에 대한 AI 모델의 심층적인 안전성 검증이 필수적임을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "AI뉴스 - GLM-5.2 열풍, 구글 심각한 위기, GPT-5.6 소식, Codex Record & Replay, Mythos 논란, 미드저니 근황 등 Coin Stock (TUIvnvuGEe)",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Zb0ZSR3BHcnJwZ1lUc2FmaXFDX0V2RDBNUGdMd3lwVXh0b3puVkEtOW44anBOM1A1UTdrLUpIRjIyTE5hTGVnMHhfR3pjU3VDWGJLdlFYZVozRUVsLVdzWQ?oc=5",
+    "source": "Mshale",
+    "published": "2026-06-30",
+    "keyword": "오픈AI",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "ChatGPT",
+     "코딩 AI",
+     "Claude"
+    ],
+    "summary": "AI 모델 경쟁 심화와 거대 기업의 위기는 기술 발전 가속화와 주도권 재편을 예고하며, 윤리적 논란 속에 산업의 전방위적 변화를 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "커서, iOS 모바일 앱 출시...스마트폰으로 AI 코딩 에이전트 실시간 제어",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212262",
+    "source": "AI Times",
+    "published": "2026-06-30",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "코딩 AI",
+     "에이전트"
+    ],
+    "summary": "AI 코딩 에이전트의 모바일 앱 출시는 개발 환경의 경계를 허물고 AI 기술 활용성과 생산성을 대폭 확대하는 중요한 전환점이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+    "source": "OpenAI Blog",
+    "published": "2026-06-26",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.6 Sol은 AI 기술의 한계를 재정의하며 산업 전반의 혁신과 경쟁 구도를 급변시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "노타, 퓨리오사 NPU에 'K-엑사원' 탑재...\"크기 71% 압축하며 성능 유지\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212274",
+    "source": "AI Times",
+    "published": "2026-06-30",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "LG",
+     "온디바이스 AI"
+    ],
+    "summary": "AI 모델의 고성능 경량화는 엣지 AI 확산을 가속화하고 AI 기술의 실질적인 산업 적용을 폭넓게 확대시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "OpenAI reportedly cut response costs for guest ChatGPT users by more than half",
+    "url": "https://the-decoder.com/openai-reportedly-cut-response-costs-for-guest-chatgpt-users-by-more-than-half/",
+    "source": "The Decoder",
+    "published": "2026-06-30",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "OpenAI의 비용 절감은 AI 서비스의 대중화를 가속하고 가격 경쟁을 심화하여 AI 산업 전반의 확장과 혁신을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

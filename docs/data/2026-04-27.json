@@ -1,0 +1,421 @@
+{
+ "date": "2026-04-27",
+ "generated_at": "2026-11-02T11:35:33+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "\"예술과 감성 잇다\" 경기도교육청, AI·에듀테크 결합 '미래형 수업' 가동",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoQjdUS1k2QVFTb0dmWlEwMmFueWtzUExBZ2hkX3o2WUwtTkV1Zlc5Sm9MSXdIS1Via1cxNXdOT1k4SkpScW1xbFp4WEJtSFEyeUxnQUZKeUJ1dENsNjFyZUJodHpQZmQ0ZGc?oc=5",
+    "source": "컨슈머타임스",
+    "published": "2026-04-26",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 2,
+    "title": "경북교육청, '고교학점제 공동교육과정'... 역대 최대 4397명 참여",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EQWc1TkoxWl9lSXpFRUlWdHBDY0cyQjAxbnRERklYeklDUVNHbEtoQ0tTY0hxR3hoaXFjYVN1bVk3LVd0TW13aG54NXBNVUVpRW9Ndl9ESmVPdVA2V25iUGJtQldHdw?oc=5",
+    "source": "교육을 비추다",
+    "published": "2026-04-26",
+    "keyword": "현장교사",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "경북교육청",
+     "고교학점제"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 3,
+    "title": "전남교육청, ‘마을자원-교육과정’ 접목 방안 모색..연찬회 가져",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EcVdaTUdRUndKdWJzQjFQZVBPTzNYSDdDVDR3cHY1ZFdDc0xFTVJpN0ZhNW5Fbm53dC15ZDdCa041Wkg2RnlkR3d6NXNPMm4tZ3c?oc=5",
+    "source": "한국정경신문",
+    "published": "2026-04-26",
+    "keyword": "현장교사",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "전남교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 4,
+    "title": "[한국사회적경제신문] 드론으로 배우는 미래교육… 교원 디지털 역량 강화 연수 본격화",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iYURPZ3ZaUmVWYzRtdUxEX3lPZVBXSzFFeXViRXpXMUs3d2UxTl9DSnhMN1h3aWdDNXpVejZPc0N5WnRsczRZX3lMVnc5T0ZxREVISWpTVXdpM1hMSmdB?oc=5",
+    "source": "한국사회적경제신문",
+    "published": "2026-04-26",
+    "keyword": "AI디지털도구",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 5,
+    "title": "김성제 의왕시장 후보 ‘교육은 실행이 중요’… 교육정책 성과 공개",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIZnctbmctWm9obFNyWHNXTXlNSFI5TWo2NlJiTTgway0wX0p5UllOR19WUVBTOV81eVM0NndIX1ZTNm5EUTZHQ1dZT29iUFg4T2ZORFdnN3Y0M09EZkw1bnJsRG9DV0Z2TFc3Y1dn?oc=5",
+    "source": "전국매일신문",
+    "published": "2026-04-26",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 6,
+    "title": "아동이 만든 정책 공약 전달…천호성 “교육정책에 적극 반영”",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5EUU5GQnI0YW15ZllSTXBQMC1fTDBpM2ExOUJ2SnB0LVMtOWVkSWtNTTRGTm91aGVpWWZic3BxRWc0anBrUTdtZU9DZVJQVHRiY1E?oc=5",
+    "source": "전라매일",
+    "published": "2026-04-26",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 7,
+    "title": "경기도교육청미래과학교육원,‘2026 로봇(드론) 활용 프로그래밍’연수 운영",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hdkVMQnpPRDBvbmNXQnB4QVIxWjFZbWdyWm5vRW81TldiV2xlZEc2YmVIbnZkVnowNkN3aEhkbnVvOFVGc3FjLWRBNmtsSWxjYVE2ek1aRmhQR0E0aTdrUVZHbw?oc=5",
+    "source": "경기탑뉴스",
+    "published": "2026-04-26",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "로봇·휴머노이드"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "경기도교육청, 미래형 예술수업 연수 확대",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzNWp2Mzh2T2kyaVRObEdKTS1DeWFpckdFdzY4LVZTckJkMzB4OEdJekc2TFA5TnZwUnZFeng5aWQ4YXh0cGNIWV9rRThZaklYX3hvTkxHNFJEcnpwMEdPbTF4WGRKcWt1MW1ud3FfamZWMU9m0gF0QVVfeXFMUHM1anYzOHZPaTJpVE5sR0pNLUN5YWlyR0V3NjgtVlNyQmQzMHg4R0l6RzZMUDlOdnBSdkV6eDlpZDhheHRwY0hZX2tFOFlqSVhfeG9OTEc0UkRyenAwR09tMXhYZEpxa3UxbW53cV9qZlYxT2Y?oc=5",
+    "source": "이뉴스투데이",
+    "published": "2026-04-26",
+    "keyword": "에듀테크",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "경기도교육청미래과학교육원,‘2026 자녀와 함께하는 소프트웨어·인공지능 교육’ 추진",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QdmtiQk5sY29GWU9VaHF6QndaMDZpSkpySkl5OHZMSlh6Nzd2R2hQR3VyWVJUcWIzMDNhWm5XUmhpdlZuVWZMVktScmF4R09reEZyTm9qYlNVWHpndVVJY0hpSko5R0w3SDFEV0dn0gFyQVVfeXFMT0Q1WlVfRGVaZVRnczRBVG5SNHk5YnhSblJZSVEzSkpUVmVSVWhLT1hZbkZ2dml2enl3cUZOQlBEUFFFcmZ3aW5ONmJzOWplWGp4dFM1WC1IbnRTOUVhTDNlaWMtUnMzM29iVU9FWm54OVN3?oc=5",
+    "source": "엔디엔뉴스",
+    "published": "2026-04-26",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 10,
+    "title": "경기도교육청미래과학교육원, 부모·자녀가 함께하는 'AI·코딩 체험' 운영",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03TFJRcEtScVd0QTNKZnA1bTlmX3U5dkNCcktPUHEzOEV5dEZkQTN2ajFUUTZNcE0xVFE5TUlUcTJzVDBvMGdqNnFBOXVSVmFtZ2g2N2VieWpiWmU3Z056TnFab0xCMmhjRFdSbW9WbGlyb01ER1VzWQ?oc=5",
+    "source": "네이트",
+    "published": "2026-04-26",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "코딩 AI"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Artificial intelligence (AI) -integrated educational applications and college students’ creativity and academic emotions: students and teachers’ perceptions and attitudes",
+    "url": "https://www.semanticscholar.org/paper/eee3a506fca31182a0297cc16c5a001c60e3e94e",
+    "source": "semantic_scholar",
+    "published": "2024-09-16",
+    "keyword": "educational AI",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 AI 교육 앱이 대학생의 창의성과 학업 정서에 미치는 양면적 영향(창의성 제약, 정서적 단절 vs 창의성 자극, 참여 증진)을 학생 및 교사 인터뷰와 설문조사를 통해 밝히고, 긍정적 활용을 위한 신중한 구현 및 평가의 중요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Haozhuo Lin, Qiu Chen",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "Generative AI and multimodal data for educational feedback: Insights from embodied math learning",
+    "url": "https://www.semanticscholar.org/paper/1dd87647e63b88b6f3ddb8d3115104eec028c0ee",
+    "source": "semantic_scholar",
+    "published": "2025-04-21",
+    "keyword": "educational AI",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "본 연구는 몸으로 체험하는 수학교육 환경에서 생성형 AI 피드백이 인지 부하를 낮추고 학생들의 정보 처리 전략에 영향을 미쳐, AI와 교사 피드백의 통합이 효과적인 학습 환경을 구축하는 데 기여할 수 있음을 밝힙니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Giulia Cosentino, Jacqueline Anton 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Enhancing Educational Outcomes with Explainable AI: Bridging Transparency and Trust in Learning Systems",
+    "url": "https://www.semanticscholar.org/paper/2166bf3bf39eaf6016fc07ffd261d95bd3b9cd27",
+    "source": "semantic_scholar",
+    "published": "2025-02-08",
+    "keyword": "educational AI",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 교육 분야에서 설명가능 인공지능(XAI)을 활용하여 불투명한 AI 모델의 문제점을 해결하고, 투명성과 신뢰를 높여 교육 성과를 향상시키는 프레임워크를 제시하고 실제 교육 환경에서의 긍정적 영향을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "K. S. Geethanjali, Nidhi Umashankar",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "Educational Approaches with ΑΙ in Primary School Settings: A Systematic Review of the Literature Available in Scopus",
+    "url": "https://www.semanticscholar.org/paper/effa9a4f8d68092e4f5c29e8a1f97ef703ae61aa",
+    "source": "semantic_scholar",
+    "published": "2024-07-06",
+    "keyword": "educational AI",
+    "topic": "language",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "본 연구는 스코푸스 등재 논문 35편을 체계적으로 분석하여 초등 교육 현장에서 AI 도구의 개발, 적용, 평가, 학습 내용, 활동, 결과, 교수법을 범주화하고, 교사 전문성 개발에 대한 시사점을 논하며, AI 교육의 방향성을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Spyridon Aravantinos, Konstantinos Lavidas 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "Fostering students' AI literacy development through educational games: AI knowledge, affective and cognitive engagement",
+    "url": "https://www.semanticscholar.org/paper/9bd78fe9f831c65f9852fedfa15120a32c585beb",
+    "source": "semantic_scholar",
+    "published": "2024-05-16",
+    "keyword": "educational AI",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [
+     "AI 리터러시"
+    ],
+    "summary": "온라인 게임 플랫폼을 활용한 AI 교육이 학생들의 AI 개념 이해, 동기 부여, 자기 효능감, 직업적 관심도를 향상시키지만, AI 활용, 평가, 창작 능력 향상에는 한계가 있어, 향후 플립 러닝 및 프로젝트 기반 학습 등 추가적인 교육 요소가 필요함을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "D. Ng, Chen Xinyu 외 1명",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "메타, 'AI 에이전트' 구현 위해 아마존 CPU 대규모 도입",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=209737",
+    "source": "AI Times",
+    "published": "2026-04-25",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Meta",
+     "에이전트",
+     "Amazon"
+    ],
+    "summary": "메타의 아마존 CPU 대규모 도입은 AI 에이전트 경쟁 심화와 함께 특정 하드웨어 종속성을 심화시켜 기술 주도권 경쟁에 중요한 변수가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "오픈AI의 GPT-5.5, NVIDIA 인프라 위에서 Codex를 이끌다 — NVIDIA는 이미 현장에서 활용 중",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tS3ZVenFwcUtScGhaRTdNNWVTUHhyMWdnVXhTVWZkWHZLVTRaWEdiYzhyVjZOaV9qd2VLOG1zVXR6M1o4UC1EZFBKZmdhcmFBLUFBX1I5M3M0Y0NuRUVubnF5c2ppSWRKV0NMT0wwZXI?oc=5",
+    "source": "NVIDIA Blog Korea",
+    "published": "2026-04-26",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "NVIDIA"
+    ],
+    "summary": "GPT-5.5와 NVIDIA 인프라의 결합은 AI 모델 성능 향상과 더불어 NVIDIA의 AI 하드웨어 시장 지배력을 더욱 강화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "\"하루 만에 이슈 4000건 해결\"…오픈클로 유지보수 시스템 '클로스위퍼' 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=209751",
+    "source": "AI Times",
+    "published": "2026-04-26",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [],
+    "summary": "오픈클로의 '클로스위퍼'는 AI 기반 유지보수 자동화를 통해 개발 효율성을 극대화하고, AI 기술 생태계 전반의 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "\"그리는 것이 곧 이해하는 것\"…구글, 생성 AI로 비전 AI 역할까지 하는 '비전 바나나' 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=209749",
+    "source": "AI Times",
+    "published": "2026-04-26",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "생성형 AI"
+    ],
+    "summary": "비전 바나나는 생성 AI가 비전 AI의 영역까지 확장하며, AI 모델의 다재다능성을 높여 산업 전반에 걸쳐 활용도를 증대시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "OpenAI says old prompts are holding GPT-5.5 back and developers need a fresh baseline",
+    "url": "https://the-decoder.com/openai-says-old-prompts-are-holding-gpt-5-5-back-and-developers-need-a-fresh-baseline/",
+    "source": "The Decoder",
+    "published": "2026-04-26",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "GPT 모델 성능 향상을 위해 구형 프롬프트 의존성을 탈피하고 새로운 기준 정립이 AI 개발 효율성과 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "AI와의 대화, 법정에선 어디까지 '증거'로 인정될까",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=209505",
+    "source": "AI Times",
+    "published": "2026-04-25",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제"
+    ],
+    "summary": "AI와의 대화 내용 증거 인정 여부는 AI 윤리 및 책임 소재를 명확히 규정하는 법적, 기술적 기준 마련을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "OpenAI helps Hyatt advance AI among colleagues",
+    "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+    "source": "OpenAI Blog",
+    "published": "2026-04-20",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "OpenAI와 Hyatt의 협력은 AI 기술의 호텔 산업 적용 확대를 가속화하고, 직원 역량 강화에 초점을 맞춘 새로운 AI 활용 모델을 제시할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "GPT-5.5 Bio Bug Bounty",
+    "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty",
+    "source": "OpenAI Blog",
+    "published": "2026-04-23",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "AI 안전·규제"
+    ],
+    "summary": "GPT-5.5 생물학적 위험 버그 바운티는 AI 안전성 확보를 위한 적극적인 노력으로, AI 기술의 사회적 책임과 윤리적 개발을 촉진하는 계기가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "Making ChatGPT better for clinicians",
+    "url": "https://openai.com/index/making-chatgpt-better-for-clinicians",
+    "source": "OpenAI Blog",
+    "published": "2026-04-22",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "ChatGPT의 의료 분야 특화는 AI 기술이 특정 산업의 전문성을 심화시켜 새로운 시장 기회를 창출할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "US programmer job growth nearly halved since ChatGPT launched, Fed study finds",
+    "url": "https://the-decoder.com/us-programmer-job-growth-nearly-halved-since-chatgpt-launched-fed-study-finds/",
+    "source": "The Decoder",
+    "published": "2026-04-25",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "ChatGPT 등장 이후 미국 프로그래머 일자리 성장 둔화는 AI가 단순 반복 업무를 넘어 전문직 일자리에도 실질적인 영향을 미치기 시작했음을 보여주는 신호탄입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

@@ -1,0 +1,430 @@
+{
+ "date": "2026-03-09",
+ "generated_at": "2026-11-02T11:53:09+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[데스크칼럼] 이세돌·알파고 10년, 한국 AI의 다음 수는 무엇인가",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51MGE1UEU4RUpNUWJGeHJFQS1oY3c5TlBXUHNrcXJNdzJKaEJvNHFfOUp0YzdjbmF4S2tBTTRjb2l3R0JsenZyY0U1MHkzb29CV2pzNnkwWHJ4MkFKbW44ZTZiTEdORUVUU2RON2FjMHRyOHNw0gF0QVVfeXFMTnUwYTVQRThFSk1RYkZ4ckVBLWhjdzlOUFdQc2txck13MkpoQm80cV85SnRjN2NuYXhLa0FNNGNvaXdHQmx6dnJjRTUweTNvb0JXanM2eTBYcngyQUptbjhlNmJMR05FRVRTZE43YWMwdHI4c3A?oc=5",
+    "source": "IT조선",
+    "published": "2026-03-08",
+    "keyword": "미래기술",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 2,
+    "title": "충남교육감 출마준비 이명수 \"충남교육 미래 위해 헌신\"",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Fb2JDRVNTQjJibFAxUUtlcjhXSmtvRTFvN1IxbVJNZ1RZY0R5UHhneGdqcS0zbkFnVDZjS3ozUVBBTTRDV3pHVnF3cU02UEkxRTVxTkkwVmpxSGxVa3JLb0Jlbmo3TnlXcmVMUER30gFuQVVfeXFMTUVvYkNFU1NCMmJsUDFRS2VyOFdKa29FMW83UjFtUk1nVFljRHlQeGd4Z2pxLTNuQWdUNmNLejNRUEFNNENXekdWcXdxTTZQSTFFNXFOSTBWanFIbFVrcktvQmVuajdOeVdyZUxQRHc?oc=5",
+    "source": "충청신문",
+    "published": "2026-03-08",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 3,
+    "title": "“여론조사 100%” vs “선거인단 포함해야”…경기도교육감 진보 단일화 방식 두고 ‘삐걱’",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90YzVfRUN4TjREdzhCRWlIOXFNTk1zcTVEZXZPR1p0ZlcyZjVuR3c5aVZYY3U5UHFjS1hHclN3NHhEdEhBaXZ6QTdXQmM5bTF1QklXbw?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-03-08",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 4,
+    "title": "이명수 출마 예고에 충남교육감 선거판 '술렁'",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rMEN3dXlUS29XcmFfczNnNTYzdWpheEtfakdkR3pfUFRUamgyNjJjel9rTEpBSEhWU20tdWFvdFpoc3QxejdveHBxVGV5TEt0cUttWEFpRVJreURaZ1k4Uk1VVHBWMjBNWTZxUXp2dUktZw?oc=5",
+    "source": "굿모닝충청",
+    "published": "2026-03-08",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충남교육청",
+     "교육감 선거"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 5,
+    "title": "[선택! 6.3지방선거] '최장수 교육부 장관' 귀환… 유은혜,'압도적 세 과시'로 경기교육 탈환 선언",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CTTZDUy1aVmF6ejc4RzRjWm9KNWkwcUthMlFVR1pHYkRab1IxWmNyeVVETU9PNUZwUDN0bGNrMW1ONkZTOG00SDJsR01DMGdEaUhYTkt3WEw0b1I4MkFpZVhkYk9Ca1AtUnE0OHRhVE9hZw?oc=5",
+    "source": "중앙이코노미뉴스",
+    "published": "2026-03-08",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부",
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 6,
+    "title": "정근식 서울교육감 “세계 여성의 날…모든 여성의 용기와 도전 응원”",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=21848",
+    "source": "에듀프레스",
+    "published": "2026-03-08",
+    "keyword": "",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "서울시교육청"
+    ],
+    "summary": "에듀프레스 장재훈 기자 = 정근식 서울시교육감이 8일 세계 여성의 날을 맞아 교육 현장에서 각자의 자리에서 역할을 다하고 있는 여성들을 응원하며 평등한 교육 환경을 조성하겠다고 밝혔다.정 교육감은 이날 페이스북에 올린 글에서 “오늘 우리는 우리 사회와 교육 현장에서 각자의 자리에서 최선을 다하고 있는 모든 여성들을 응원하고 존중하는 마음을 다시 한 번 되새",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "[부고] 장인실(경인교대 교수)씨 시모상",
+    "url": "http://www.veritas-a.com/news/articleView.html?idxno=600882",
+    "source": "베리타스알파",
+    "published": "2026-03-09",
+    "keyword": "",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [],
+    "summary": "▲ 유옥례(향년 만 95세)씨 별세, 손예철·손진철·손흥철·손한철·손정란씨 모친상, 장인실(경인교육대 교육학과 교수)씨 시모상, 손지민(단국대 교수)씨 조모상 = 8일 오전 11시, 한양대병원 장례식장 5호실, 발인 10일 오전 7시, 장지 진주시 선영. (02)2290-9442",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "경기도교육청, 초·중등교육법 스마트기기 사용 교육 조항 신설 수업 가이드 보급",
+    "url": "https://www.lecturernews.com/news/articleView.html?idxno=198240",
+    "source": "한국강사신문",
+    "published": "2026-03-09",
+    "keyword": "",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청(교육감 임태희)이 2026학년도 새 학기 학교 현장의 안전한 디지털 교육 환경 조성을 위한 ‘스마트기기 사용 수업 가이드’를 개발·보급한다고 밝혔다.이번 ‘스마트기기 사용 수업 가이드’는 1일부터 시행되는 ‘초·중등교육법 제20조의7(스마트기기 사용 교육)’ 조항 신설에 따른 조치로 법령 취지를 학교 현장에서 실질적",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "교육 넘어 산업으로...에듀테크 ‘영토 전쟁’",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SSHVXRDdEdFpzZFAxVUJCSks2N0JTOGIwZWNxTXNGRVJ4T0ZKdkkxM2J0eThteldEbFIzYUJSTHJmbkVsRTY2dzRkc3NPZ09ZVkdqRzM1WElpNnVjUUIwVjc2dDlzYUhJNXZJ0gFvQVVfeXFMTXhiNVZXSk0xSTVlOERjd25EeVZjTlVHYkEyakJBVFlaMHpiaHozSlRVZzVFeXNWNUp6eGFCNXZNcmNvUC1xaktSX1dCZkZXNEpaVlhSQi13TlRsdkxmZlk4SkNzeGhITjhQbXgyTWVv?oc=5",
+    "source": "한스경제",
+    "published": "2026-03-08",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 10,
+    "title": "인공지능 강사 허남식 교수, 미래융합AI교육원 전임교수로 활약",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQZ1hUYnZFOFQ0QjVlZU5ncmlGM01pakVOSmZlZW1RbWZpSnVGM3Y5bXhjU3FieXJyLVBNUkVBM2x3dEdBYlpwTDdTdG9ibUMtTlZ6X2NERVlXNUlxVVlYOFJJYWltcGxBT1lZ?oc=5",
+    "source": "열린정책뉴스",
+    "published": "2026-03-08",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "An innovating approach to teaching applied to database design. Improvement of Action Learning in Lifelong Learning",
+    "url": "http://arxiv.org/abs/2601.22175v1",
+    "source": "",
+    "published": "2026-01-26",
+    "keyword": "pedagogy",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "앙제 대학교의 Action Learning은 데이터베이스 설계 교육에 적용된 혁신적인 방법으로, 비전문가에게 실무 경험과 컨설팅을 제공하여 지식, 전문성, 적응력을 향상시키고 대학과 기업 간 협력을 증진합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Christophe Béchade']",
+    "pdf": "http://arxiv.org/pdf/2601.22175v1"
+   },
+   {
+    "n": 2,
+    "title": "From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents",
+    "url": "http://arxiv.org/abs/2409.03512v1",
+    "source": "",
+    "published": "2024-09-05",
+    "keyword": "MOOC",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "LLM",
+     "에이전트"
+    ],
+    "summary": "본 논문은 LLM 기반 다중 에이전트 시스템을 활용하여 확장성과 적응성을 겸비한 새로운 온라인 교육 모델인 MAIC를 제안하고, 칭화대학교 학생 데이터를 통해 초기 실험을 진행하여 AI 기반 온라인 교육의 가능성을 탐색하고 향후 개방형 플랫폼 구축을 목표로 합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Jifan Yu', 'Zheyuan Zhang' 외 31명",
+    "pdf": "http://arxiv.org/pdf/2409.03512v1"
+   },
+   {
+    "n": 3,
+    "title": "Exploring Effective Methods of Teacher Professional Development in University for 21st Century Education",
+    "url": "https://www.semanticscholar.org/paper/39243294b38dece0e66eaebb6b430cdfe858576e",
+    "source": "semantic_scholar",
+    "published": "2019-05-31",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "본 논문은 21세기 교육에 필요한 교사의 전문성 개발을 위해 요구 분석, 동료 멘토링, 협력 구축, 긍정적 학교 문화 조성, 핵심 가치 내재화, ICT 통합 교육 등 다양한 방법을 제시하여 교사의 학습과 실천에 기여하고, 궁극적으로 21세기 역량을 갖춘 인재 양성에 이바지합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Xiaoyao Yue",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "Embracing the future of Artificial Intelligence in the classroom: the relevance of AI literacy, prompt engineering, and critical thinking in modern education",
+    "url": "https://www.semanticscholar.org/paper/b767c165e7e9621c38c98c247856087f76e9f340",
+    "source": "semantic_scholar",
+    "published": "2024-02-26",
+    "keyword": "",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [
+     "AI 리터러시"
+    ],
+    "summary": "본 논문은 AI 시대 교육의 혁신을 위해 AI 리터러시, 프롬프트 엔지니어링, 비판적 사고 능력 함양의 중요성을 강조하며, 스위스 대학 사례 연구 및 문헌 고찰을 통해 교육 과정 및 교수법에 AI를 효과적으로 통합하는 방안을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Yoshija Walter",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "STEM Faculty Perspectives on Generative AI in Higher Education",
+    "url": "http://arxiv.org/abs/2603.04001v1",
+    "source": "",
+    "published": "2026-03-04",
+    "keyword": "K-12 education",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "미국 대학교의 STEM 교수 29명을 대상으로 한 포커스 그룹 연구를 통해, 생성형 AI가 학생 학습, 평가, 학문적 진실성에 미치는 영향에 대한 우려와 함께, 교육적 활용 가능성을 확인하고 효과적인 통합을 위해 평가, 교육, 제도적 관리를 재고해야 함을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Akila de Silva', 'Isabel Hyo Jung Song' 외 2명",
+    "pdf": "http://arxiv.org/pdf/2603.04001v1"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "오픈AI, 코딩 에이전트 관리 프레임워크 ‘심포니’ 공개…“개발자는 관리만”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207683",
+    "source": "AI Times",
+    "published": "2026-03-08",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "코딩 AI",
+     "에이전트"
+    ],
+    "summary": "오픈AI의 심포니 공개는 AI 코딩 에이전트의 활용도를 높여 개발 생산성을 혁신하고, 개발자는 관리 역할에 집중하는 미래를 앞당길 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "오픈AI, 챗GPT '성인 모드' 출시 또 연기",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207679",
+    "source": "AI Times",
+    "published": "2026-03-08",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT",
+     "AI 안전·규제"
+    ],
+    "summary": "오픈AI의 성인 모드 출시 연기는 챗GPT의 안전성과 윤리적 문제 해결에 우선순위를 두어, AI 기술 발전 방향에 대한 신중한 접근을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "앨런AI연구소, 트랜스포머와 RNN 결합한 7B 모델 ‘올모 하이브리드’ 오픈소스로 공개",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01QTd6OWVCekNyNHZ5cVJOLXcxUGdVOF9oX2lNZ0pEX1YzTVdlcFRBazdXMk5oUDdVR0tBRnBIQXBXQl9Sc1NPM0ZERThIbldobzFCdUVaSXVwWng3cG5JeDJIX0s3ZVE?oc=5",
+    "source": "인공지능신문",
+    "published": "2026-03-08",
+    "keyword": "AI모델",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "오픈소스"
+    ],
+    "summary": "앨런AI연구소의 '올모 하이브리드' 공개는 트랜스포머와 RNN 결합을 통해 새로운 AI 모델 개발 가능성을 열고, 관련 연구 및 응용을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "구글, 야생동물 식별 AI 모델 'SpeciesNet' 오픈소스 공개 1주년...전 세계 보전 연구 가속화",
+    "url": "https://news.google.com/rss/articles/CBMizAVBVV95cUxONk9jWU1UZVJGVXJ0bFlmWldqY2lUVVVhT3Y4SzQtVUhtSGZ6c0h2b0tGOFV0MU1BYjNJRWJENUVGT0M1UUYxbHlMQXVZbEZxeWxwOHRkcVFScFRNNjYtS0xlR0pDaHJSaVdGSDVxZFhPTjh3MFduUUdYbHozUE9XdnNsR3NUcS1RRkdoSzg5M0JrZmNOZjhrWkxSa1QtWXhyVEVNMVV5VW5MX0NmcDlkZGNMR3g0QllBVGtNMUtkUHdhX3NkeWNBaUk1cTI5RUUyUmRycWo5TW44Wlc4a3dsTDZOU3dkeFhTZUhqNkZIVkJINGJ3NFh0SFVDN2VtSTE5OHBkQzJIYnVKNjdNODRIZExha0ptZWxZSkNwYjFzR2FyMUNreXRwdjZQSWJTeF9PaVBmeUZCTWJMUWt0a1V6bWc3Vk1YeEVrbnljeUhkZFkxZGhEQ2twVGdFSjNhc29MSUxHVGExTjd5WElKVnVNczRCNV9BQ3FUaFVnLVREWXlGbkNCNVItZnV1VHVQQmJfYWg1OTFYN1JVUG9qRG9qQ0xYOXdUam81Z1VPYUNkSHdtWENmWGlYZ1VrNTJqY3RCNmJMMGcweGJUWHNMWDM5a2NCaGxhR0Y2LTZHUVhfbGV3MEliNTdUQ1ZMX3NZM0pJdkNrVnlKQmFObTk3Slh2VjkyLTVKY0ROYWx0VDR0cmxaRkpMblR3azZwbDI3eFIwOVdhYlktOENBdmV1Q2ZpNElWZXZGOTVPNjUyLW1qRnl1UWpHcmI1UzRoN21qd3dLc2cyY3V6TGpqcHpkdmFLMFNXRW5TV0JocGZ3YWFpbnBRekhtdUFmLTFwYnBYQUFjZGF5SmNsUDB5WjlPN0ZXZFFrNE15RkVSOC1wTmtTbmE0ZjVZOHEtQTQzU1ZtaGh4bUZlaHRRMnUyWEt2bWMxTTRtTVByTUpUWTY5TQ?oc=5",
+    "source": "한국정보기술진흥원",
+    "published": "2026-03-08",
+    "keyword": "구글",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "오픈소스"
+    ],
+    "summary": "구글의 SpeciesNet 오픈소스 공개는 AI 기반 생물 다양성 연구 확산 및 관련 기술 혁신을 가속화하는 데 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "\"지메일부터 시트까지 명령어 하나로\"… 구글, 인간-에이전트 겸용 '워크스페이스 CLI' 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207665",
+    "source": "AI Times",
+    "published": "2026-03-07",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Google",
+     "에이전트"
+    ],
+    "summary": "구글 워크스페이스 CLI는 AI 에이전트 시대에 인간과 AI의 협업 방식을 혁신하고 생산성 도구 접근성을 높이는 중요한 진전입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "OpenAI offers open-source maintainers six months of free ChatGPT Pro and Codex access",
+    "url": "https://the-decoder.com/openai-offers-open-source-maintainers-six-months-of-free-chatgpt-pro-and-codex-access/",
+    "source": "The Decoder",
+    "published": "2026-03-07",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "오픈소스",
+     "ChatGPT",
+     "코딩 AI"
+    ],
+    "summary": "OpenAI의 오픈소스 기여자 지원은 AI 생태계 확장에 기여하고, 개발자 저변 확대 및 기술 혁신을 가속화할 것으로 예상됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "네오픽스코리아 이현구 대표, AI 윤리 ‘TRUST’ 프레임워크 연구 발표",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5nWjR4U1ZGdHQ4cFdhd3NXdGZ0Y205Ml9uWlp1U00wOHpraGg0czkwRE0zMlVkYWx4dm5qNzJJMGVwSlZ0SHFDcFUwbFVjTmlKd1RxYl9RLUM5d19QOUE?oc=5",
+    "source": "매일타임즈",
+    "published": "2026-03-09",
+    "keyword": "인공지능",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제"
+    ],
+    "summary": "AI 윤리 프레임워크 연구는 책임감 있는 AI 개발 및 활용을 위한 중요한 발걸음이며, 산업 전반의 신뢰도 향상에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "Anthropic's Claude AI uncovers over 100 security vulnerabilities in Firefox",
+    "url": "https://the-decoder.com/anthropics-claude-ai-uncovers-over-100-security-vulnerabilities-in-firefox/",
+    "source": "The Decoder",
+    "published": "2026-03-07",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude"
+    ],
+    "summary": "AI가 보안 취약점 발견에 기여함으로써, 소프트웨어 개발 및 보안 패러다임 전환을 가속화할 가능성을 보여주는 사례입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "LG AI연구원 '금융 AI 에이전트' 정식 출시…글로벌 B2B 수익화 나선다",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd3VQMVFlVVFNS2FIT0I1cmd0ZTlHQzNmQTZWczB5bHZ5SHE3QnhUelFwUXdLNDdqMkZjd2ZSNFNET2dIcXhBYzczak1FQTFSYk9Fdl9KNFhfSVNhOWtWYlhKOWNpd21CUHNxWG9NWjdlWVQzdnczcGxiV0lVTGptTg?oc=5",
+    "source": "edaily.co.kr",
+    "published": "2026-03-08",
+    "keyword": "AI모델",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "LG",
+     "에이전트"
+    ],
+    "summary": "LG AI연구원의 금융 AI 에이전트 출시는 금융 시장의 AI 경쟁 심화와 B2B AI 솔루션 수익화 가능성을 보여주는 중요한 사례입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "충북대 산업인공지능연구센터 '2026년 제1회 AI 리터러시 교육' 성료",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4yWEdHeF9MNnlrOURXbGh3T1o5LVo2MjBmOTQ3S3FlVkRXYmxNajVlbVdOSExpQ1JGZVpTSkJ1SGhtbEdqWXBXVmZmbThLck1SWDUzSlVXT0hmbFZ4bFZ2eENn?oc=5",
+    "source": "충청비즈",
+    "published": "2026-03-08",
+    "keyword": "AI연구",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "AI 리터러시"
+    ],
+    "summary": "충북대의 AI 리터러시 교육은 지역 산업의 AI 경쟁력 강화와 디지털 전환 촉진에 기여할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "tech": "AI 기술이 개발 생산성 향상, 활용 범위 확장, 윤리적 고려 심화, 보안 강화, 교육 확산 등 다방면으로 발전하며 더욱 개방적이고 실용적인 생태계를 구축하고 있다."
+ }
+}

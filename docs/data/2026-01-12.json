@@ -1,0 +1,416 @@
+{
+ "date": "2026-01-12",
+ "generated_at": "2026-11-02T11:50:34+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "『이병학 충남교육혁신연구소』 이병학 소장 칼럼_27 흔들리는 충남 공교육, 해법은 역할의 회복",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB6NzM5a3paR0tfRHVkRDBKSkdaT3U1ZmstaE9IWWphdWFDOWxrTUtONzJ6Zml4ajJHaVVfSnJZM2stb1ZRbF9hQzBfODdKOWlGMHVJUGhPaXpZeGhxaUg5cFA3VkRrM2s5ck9J0gFvQVVfeXFMUENDTzV2WTRIVW5zQm9SZW44Z2x2X013eUpDYXN3RFhqUHJ5ZlR5ei04ek9lX3MxR0FXS0h1aENkVnFrRTh0WlM4UXlIYkozVkdSS1lzUXU3d0NYQTYyRWhXSjVvckNvU0l3ZEVDVVI4?oc=5",
+    "source": "세종충청뉴스",
+    "published": "2026-01-11",
+    "keyword": "교육혁신",
+    "topic": "global",
+    "kind": "opinion",
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "충남 공교육의 위기 극복을 위해 교사, 학생, 학부모 등 각 주체의 역할 재정립이 시급함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "04화 (칼럼) AI 시대, ‘AI 학원’이 답일까?",
+    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1rYm53a04wUnZFVXZaMExkVmdweFhBaFpsYml4WnVDdDY1RXpLNDF3YjI3UFkwZDNCR1lFSmFFYjM2d2pT?oc=5",
+    "source": "브런치",
+    "published": "2026-01-11",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [
+     "사교육"
+    ],
+    "summary": "AI 시대에 AI 학원이 단편적인 해법이 될 수 없으며, 교육은 AI 기술 자체보다 비판적 사고와 창의성 함양에 집중해야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[한준호 칼럼] CES 2026 현장에서 본 네 가지 장면",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFUW90Vmlwb2I2M1dITFYtdFNEbmRKbHo5YXdUOGVNanZCejJGRmpwQktWOGwyWkdyRUpfdFVMU2lycU45QmtRNjJIU3dFUFpFRGs1dUpRUWfSAVhBVV95cUxQRVFvdFZpcG9iNjNXSExWLXRTRG5kSmx6OWF3VDhlTWp2QnoyRkZqcEJLVjhsMlpHckVKX3RVTFNpcnFOOUJrUTYySFN3RVBaRURrNXVKUVFn?oc=5",
+    "source": "아주경제",
+    "published": "2026-01-11",
+    "keyword": "미래기술",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "CES 2026에서 제시된 기술 트렌드는 교육 현장에 개인 맞춤형 학습 경험과 몰입형 교육 환경 구축의 중요성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[미래 직업 칼럼] 선인장재배기술자",
+    "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE96aDU3RDIzNmo4NGhEZzE5LW9lNVppa25hRThDVlY1eFZBNzc0Yk8tWUc5b0FVLXROREJzcnFR?oc=5",
+    "source": "강건문화뉴스",
+    "published": "2026-01-11",
+    "keyword": "미래기술",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "선인장재배기술자라는 이색 직업의 부상은 미래 사회 변화에 발맞춘 창의적이고 융합적인 교육의 필요성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[조맹기칼럼] 노무현·문재인을 보면 세상이 보인다",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3eUcxejl4eTItOE5qN1oxWFJEdW5OZzFlTEFTMHlmQ3l0cTByZWFYQ3MzRXJCRnRkN09FWHpBSTFfMGJ6TXFleHA3c2lIekktWWo2WkFtRmVwcVg3RzhvQTJ4TW9qMnhpYmFNVXV3?oc=5",
+    "source": "truthdaily.co.kr",
+    "published": "2026-01-11",
+    "keyword": "뇌과학",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "정치적 지도자의 삶을 교육적으로 활용할 때, 균형 잡힌 시각과 비판적 사고 함양에 유의해야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "해양·뇌과학에 우주탐사까지…부산과학관, 방학프로그램",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8waUE5VDNhLXROMWo5QUJxM0twa01JNnBFZUYyWWFnb1ZXY0lRZnJoaGgwRXVxZGx6NG04Yml4RkVQRmlEd2NzNTNQeVFOUk5heXRobmM4SjdxdnZRNVpxSzJWcV9peUlsSktWNUdtNTIwWkk?oc=5",
+    "source": "뉴스통",
+    "published": "2026-01-11",
+    "keyword": "뇌과학",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "부산과학관의 다채로운 방학 프로그램은 학생들이 과학 분야에 대한 흥미를 높이고 자기 주도 학습 능력을 함양하는 데 긍정적인 영향을 줄 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "전북교육청, AI교육부터 마음건강까지…올해 10대 과제 시동",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIMUZGZUtXcVhHUGYzM3p4b2tEMEZXNEtXd09OdlVXRHVIQ1UtNUdJYWhyRjFPNW1fUjRLUnkxVEtsMEw5Zmota2hSMG8zWHdtYlBTV0NaTU5mVW5pemtZZ3JaVm4zQQ?oc=5",
+    "source": "열린뉴스통신",
+    "published": "2026-01-11",
+    "keyword": "AI교육",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [
+     "전북교육청",
+     "교육부",
+     "마음건강"
+    ],
+    "summary": "전북교육청의 AI 교육 강화 및 마음 건강 지원을 포함한 10대 과제는 미래 교육 환경 변화에 발맞춘 학교 교육 혁신의 중요한 시발점이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "설동호 대전시교육감, 2026년 대전교육 청사진 제시",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uRVNkc0lJbWxEN0hVQXZOdWN2WVFoYzdKUjlHd2k5WWpqeVc5eU9FOXZ4OGpOZ1EyMVBaUlh6RTFyLWJsMzVfS3BYd05ZVXV2Vl9yc1NoZ2VfYmZrN3RIYm1iRkdqSktRT3NCdQ?oc=5",
+    "source": "뉴스포르테",
+    "published": "2026-01-11",
+    "keyword": "에듀테크",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "설동호 교육감의 2026년 대전교육 청사진은 미래 교육 변화에 발맞춘 구체적인 실행 계획 수립과 지속적인 점검을 통해 실효성을 확보하는 것이 중요합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "대전시교육청, ‘AI·디지털 수업 설계 역량 강화’ 직무연수 운영",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zVUMzY3FyZjdETURYUFVGa1hGVXhwMVBOaG9SLXZfNDF4Rm9WUGtCcmU4MnJFcWxKS0FuNVQ3TUtyNUptekpILUZHQWhPMDgtLVUtcFRjLV9kTXc0SjN5OEUta2Q4S3I1QWd4Wg?oc=5",
+    "source": "yonhaptv.co.kr",
+    "published": "2026-01-11",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "대전시교육청의 AI·디지털 수업 설계 역량 강화 연수는 교사의 디지털 교육 역량 제고를 통해 미래 교육 환경 변화에 효과적으로 대응하는 데 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "신경호 강원교육감 \"학력 정책 제도화, 교육 격차 해소\"",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BNVhMZ3FtRXlHNlc0ajlrNExHVFRBa2FFNE12RkhZcmxiSHFtdDZRSlhfRndMa3I1eFhKaGZQNFk5bDRCZHJ1ZUlib3Y0T1VvRi1r?oc=5",
+    "source": "네이트",
+    "published": "2026-01-11",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "강원교육청"
+    ],
+    "summary": "신경호 교육감의 학력 정책 제도화는 교육 격차 해소에 기여할 수 있으나, 획일적인 평가 방식 도입으로 인한 교육 과정 경직화 가능성을 면밀히 검토해야 합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Examining Primary Education Teachers’ Perceptions of TPACK and the Related Educational Context Factors",
+    "url": "https://www.semanticscholar.org/paper/24cc326d04ac0183d6e36c97ef09cbf6fbf4d60b",
+    "source": "semantic_scholar",
+    "published": "2019-09-19",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 그리스 초등 교사들의 TPACK에 대한 인식을 확장된 TPACK 척도를 통해 조사하여, 교사들이 기본적인 지식은 갖추었으나 이를 통합하여 ICT 기반 교육을 설계하고 실행하는 데 어려움을 겪으며, 교육 환경적 요인 또한 영향을 미친다는 것을 밝혀 TPACK 교육 및 지원 방안 마련에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Dimitrios Roussinos, A. Jimoyiannis",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "Analysis and Practice of Using Modern Information Technology for Classroom Teaching Mode Reform",
+    "url": "https://www.semanticscholar.org/paper/9caa0c4f5819efa1218bce57720e3330389b8192",
+    "source": "semantic_scholar",
+    "published": "2022-08-05",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 인공지능 및 빅데이터와 같은 현대 정보 기술을 활용한 스마트 교실 기반 수업 모델의 현황을 분석하고, IT 교과목의 요구사항을 반영하여 스마트 교실의 특징을 구체화하고 전통적인 수업 방식과의 비교 분석을 통해 교육 혁신 가능성을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Mei Liu, Rujin Zhou 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Construction and application of SPOC‐based flipped classroom teaching mode in Installation Engineering Cost curriculum based on OBE concept",
+    "url": "https://www.semanticscholar.org/paper/06004787a037557addd5dccd5e8cd3d6ee68c561",
+    "source": "semantic_scholar",
+    "published": "2020-08-20",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "OBE 개념 기반의 SPOC 활용 플립러닝 교수법을 '설비 공사 원가' 과목에 적용하여, 학생들의 학업 성취도 향상 및 만족도를 높였으며, 소규모 수업에서 학생 역량 강화에 효과적임을 입증하여 향후 혼합형 교육 모델의 참고 자료를 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Lei Zhang, Yueqing Xuan 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "The impact of virtual reality on student engagement in the classroom–a critical review of the literature",
+    "url": "https://www.semanticscholar.org/paper/d8bc592d7c4a136f80fac8c916555f97d996c404",
+    "source": "semantic_scholar",
+    "published": "2024-04-10",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [
+     "특수교육"
+    ],
+    "summary": "2014년부터 2023년까지의 가상현실(VR)과 학생 참여 관련 논문 33편을 분석한 결과, VR이 학습 장애 학생에게 특히 효과적이며 전반적인 학생 참여도와 학습 성과를 향상시킬 수 있지만, 교사의 VR 활용 숙련도 부족 등의 문제 해결을 위해 교육 정책 입안자들의 지원이 필요함을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Xiao Ping Lin, Bin Bin Li 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "Creativity in Education: Teaching for Creativity Development",
+    "url": "https://www.semanticscholar.org/paper/d1b805446b5df09aef8a876d1614100e58b96dc0",
+    "source": "semantic_scholar",
+    "published": "2019-02-01",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 예비 교사들에게 창의성 이론 교육을 실시하고, 이를 교수 설계에 적용하는 훈련을 통해 학습자의 창의성 발달을 촉진하는 교육적 방법론을 제시하며, 궁극적으로 교육 혁신에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "D. Kaplan",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "﻿올거나이즈, 우리투자증권과 금융 특화 AI 플랫폼 개발",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205490",
+    "source": "AI Times",
+    "published": "2026-01-12",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [],
+    "summary": "올거나이즈와 우리투자증권의 협력은 금융 분야에 특화된 AI 플랫폼 구축을 가속화하여 금융 서비스 혁신을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[랭킹연구소] GPT-5.2·제미나이3·클로드4.5, AI 성능TEST '박빙'…벤치마크에서 TOP3 AI모델 '통계적 동점' 기록",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03ODlkWHJUb19OaTdEc3hyb3BDazdQRzE1Z3IxTlRPTHlDYjRWeFladDFpN0JEdHNiTFBmd0x1QU45WTlCazA3NEFBd3RKMkFrZ3JLRXVrRUxJdjFZbTJvTQ?oc=5",
+    "source": "뉴스스페이스",
+    "published": "2026-01-11",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Gemini",
+     "Claude",
+     "벤치마크"
+    ],
+    "summary": "GPT-5.2, 제미나이3, 클로드4.5의 성능 통계적 동점은 AI 모델 간 기술 격차가 줄어들고 있음을 시사하며, 특정 모델에 대한 의존성 감소 및 경쟁 심화가 예상됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[신년사] 한국딥러닝 “AI OCR로 문서 입력-분류-검증-후속 처리 한번에”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205480",
+    "source": "AI Times",
+    "published": "2026-01-11",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [],
+    "summary": "한국딥러닝의 AI OCR 기술은 문서 처리 자동화를 가속화하여 업무 효율성을 높이고 관련 시장 성장을 견인할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[신년사] 스모어톡 “이미지 생성 플랫폼으로 B2C·B2B 공략...MAU 100만명 목표”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205485",
+    "source": "AI Times",
+    "published": "2026-01-11",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "영상·이미지 생성"
+    ],
+    "summary": "스모어톡의 B2C·B2B 이미지 생성 플랫폼 전략은 AI 이미지 시장 경쟁 심화 속 차별화된 사용자 경험 제공이 중요해짐을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[신년사] 슈퍼브에이아이 “비전 AI 고도화로 피지컬 AI 에이전트까지”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205483",
+    "source": "AI Times",
+    "published": "2026-01-11",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "에이전트",
+     "로봇·휴머노이드"
+    ],
+    "summary": "슈퍼브에이아이의 비전 AI 고도화 전략은 데이터 중심 AI 개발 플랫폼을 넘어 로봇, 자율주행 등 피지컬 AI 에이전트 시장의 성장 가능성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "[신년사] 미소정보기술 “AX의 핵심은 ‘실행’...데이터 중심 AI로 글로벌 도약”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205487",
+    "source": "AI Times",
+    "published": "2026-01-11",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "미소정보기술의 제품 중심 AI 전환 및 글로벌 진출 선언은 데이터 중심 AI 솔루션 경쟁 심화와 산업 전반의 AX 가속화를 예고합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "구글-월마트, AI 동맹…챗GPT·아마존과 이커머스 경쟁 격화 [현장에서]",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ySTk3d0ZQUm05OFFYbUlaUlRVa2k1YjlwTzNGbVNmdGFkUFFHSFhmQ04xTktaNzBDZ2IxMElVMTBDTXFzS2t1N3M1cU5pZkxGam5nWG90bmVZSmp2bUZHQTdFWmxhNkRfcmtfUC1DZ0xjb3d1ZXptNQ?oc=5",
+    "source": "네이트",
+    "published": "2026-01-11",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": "feature",
+    "entities": [
+     "Google",
+     "ChatGPT",
+     "Amazon"
+    ],
+    "summary": "구글-월마트의 AI 협력은 거대 기술 기업과 유통 기업 간의 전략적 제휴를 심화시켜, AI 기반 이커머스 경쟁 구도를 더욱 복잡하게 만들 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "대한민국 AI 판을 바꾼다… 국내 1위 ‘K-엑사원’ 공개, 누구나 무료 API로 나만의 AI 에이전트 만든다",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEbVp1OHRuTUNmZWo0RkQzSDNSbkdNNWFfaUhVcTRWV1FDLTBfNWI3eDUzM3I2YmRiY3BydU42YUtfMkVrMW00bG4xZGIzSXM3UmpVWEtRN25EaUZ1eW8tOEhPblR0RmM?oc=5",
+    "source": "인공지능신문",
+    "published": "2026-01-11",
+    "keyword": "AI모델",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "LG",
+     "에이전트"
+    ],
+    "summary": "LG AI연구원의 엑사원 API 공개는 국내 AI 생태계 확장과 AI 에이전트 개발 경쟁을 촉진하는 중요한 기폭제가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "몬드리안에이아이–포스트매스, AI 에듀테크 플랫폼 혁신 위한 전략적 파트너십 체결",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5PSUlLQWZaVEYybkJyeTZPaWs0UUJlczVEdGdMQVI0X2VHT3p0YzlYa0dsb3VJLThsRjZ0ZGJlSjNKcmo1MjVybkVsYTI?oc=5",
+    "source": "한국AI부동산신문",
+    "published": "2026-01-12",
+    "keyword": "에듀테크",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "AI 에듀테크 분야에서 몬드리안에이아이와 포스트매스의 협력은 맞춤형 교육 혁신을 가속화하고 시장 경쟁력을 강화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "(칼럼) 생성형 AI 시대, 중소기업 리더가 갖춰야 할 윤리적 의사결정 프레임워크",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4cXJUSXZITkxNZmllUTZsTDlhMUk4enU1ZXNQajV6R2VyRmYwNFl2SFNrc1hQR3JiMld3ZF9acW42aWRpbTdQa1hqbHRtaVF1UWFDeUZvaVB2SU52NmJWOUtxbFFWT1l1SklhTnhNMnUwellt?oc=5",
+    "source": "글로벌뉴스통신GNA",
+    "published": "2026-01-11",
+    "keyword": "생성AI",
+    "topic": "policy_safety",
+    "kind": "opinion",
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "중소기업 리더는 생성형 AI 도입 시 윤리적 의사결정 프레임워크를 구축하여 장기적인 신뢰 구축과 지속 가능한 성장을 도모해야 합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 교육 강화 및 디지털 역량 강화, 맞춤형 교육과 미래지향적인 융합 교육, 교육 격차 해소 노력을 통해 공교육 혁신과 미래 인재 양성에 박차를 가하는 긍정적인 변화가 예상됩니다.",
+  "tech": "AI 기술이 금융, 이커머스, 교육 등 다양한 산업에 적용되고, 성능 경쟁과 더불어 윤리적 고려 및 사용자 접근성 확대에 초점을 맞추며 빠르게 발전하여 AI 생태계를 확장하고 있다."
+ }
+}

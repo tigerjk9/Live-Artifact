@@ -1,0 +1,432 @@
+{
+ "date": "2026-08-28",
+ "generated_at": "2026-11-02T11:42:19+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[배영직 칼럼] \"교육 현안, 학교 교육과정을 바로 세우는 것\"",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=30431",
+    "source": "에듀프레스",
+    "published": "2026-08-28",
+    "keyword": "",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [
+     "교권",
+     "IB"
+    ],
+    "summary": "교권, 평가, IB 등 교육 현안 해결은 2022 개정 교육과정의 올바른 이해와 실행에 달렸으나, 정작 교육과정 논의는 부족하다.",
+    "implication": "2022 개정 교육과정의 취지를 살려 학생들의 역량과 잠재력 발현에 중점을 둔 수업을 설계할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[민기식 칼럼] 왜 학교 교사에게 ‘논어’를 권하는가?",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=30426",
+    "source": "에듀프레스",
+    "published": "2026-08-27",
+    "keyword": "",
+    "topic": "teacher",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "『논어』는 교사가 학교 조직의 이치(知禮)를 터득하고 학생을 통찰(知人)하여 교육의 본질에 다가갈 지혜를 준다.",
+    "implication": "학생 개개인의 역량과 특성을 파악하여 눈높이에 맞춰 이끌어주는 것이 수업 전문성을 높이는 데 활용될 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "교육과정 설계 돕는 'AI 에이전트' 개발…교원 부담↓",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10cTA1cndTSWp0TUZKcTRidTA2QWR0SC1fMEE5SF9ZVC1qbXltUm45RkYtYTZ4STlyMjlDMS1fLVkzQXJZdkpDQWw5RUYyOHZ1UUhj?oc=5",
+    "source": "네이트",
+    "published": "2026-08-28",
+    "keyword": "AI디지털도구",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "교육과정 설계를 돕고 교원 부담을 줄일 AI 에이전트가 개발되었습니다.",
+    "implication": "수업 준비 시 교육과정 설계 시간을 절약하여 본질적인 수업 구상에 집중할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "강미애 세종교육감, 고교학점제·온라인 교육 현장 소통",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91QnNXLTV5M1dDSjJabDlmTGNVaC0yUWtJcTQxSnpkaVdRSDRXSDRrQjVMM0dsNlFGcW0yTTBFemtub3ZFN0xBOFUzSzA5ajVwLVNZRXhJdGRzY05TbVo3MTlRbGRKem15bzRyUUpCWdIBc0FVX3lxTFBJTEVHZjZKWkh5UjhmdzVKdEdnWmtWcEplR0F4RmkwdHZVeVZWR2NrOGIyOVNyVklLTUg1TjA2SDA5VTQ5RzdfaFkyaDRDVDRROHNWdDRBcjZlUGR2ZW9wbXl5VjBuaHNSLTFmZW1lRmY0cjg?oc=5",
+    "source": "대전일보",
+    "published": "2026-08-27",
+    "keyword": "교육현장",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "세종시교육청",
+     "고교학점제"
+    ],
+    "summary": "강미애 세종교육감이 고교학점제와 온라인 교육 현장에서 소통했습니다.",
+    "implication": "고교학점제와 온라인 교육에 대한 교육감의 현장 소통은 관련 수업 자료 준비에 중요한 참고점이 될 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "생성형 AI로 만들고 드론도 날리고…양천구, 미래교육센터 체험 확대",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBla2RCUWxWOWFDdFlqdkRFajFacVRQYzhOUGNXblVyT2VCaEEyb1Z1NHlZeUJFZ2JKcXhVMXlhWkpkU0sxZDBpbjZnVFFUV3pTS2VRX9IBVEFVX3lxTFBla2RCUWxWOWFDdFlqdkRFajFacVRQYzhOUGNXblVyT2VCaEEyb1Z1NHlZeUJFZ2JKcXhVMXlhWkpkU0sxZDBpbjZnVFFUV3pTS2VRXw?oc=5",
+    "source": "뉴스1",
+    "published": "2026-08-28",
+    "keyword": "생성형AI교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "양천구 미래교육센터가 생성형 AI와 드론을 활용하는 체험 프로그램을 확대 운영한다.",
+    "implication": "학생들이 생성형 AI와 드론을 직접 경험할 수 있도록 관련 미래교육센터 프로그램을 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "로봇 인재 양성 메카 구미시, '로봇AI교육혁신센터' 힘찬 새출발",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5wQWNKRVJhS3o3OVJ2cTlTYkxJSG95VldLV203amVOTGpHVThrdWhlXzczbVZfNVNacE83ek5KYUI4NUQzOHdDRHVXM2lyZ2M5TnlvLVpvY3RpS283SDNBWHd3SUlYUQ?oc=5",
+    "source": "포커스데일리",
+    "published": "2026-08-27",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "로봇·휴머노이드"
+    ],
+    "summary": "구미시가 로봇 인재 양성을 위한 '로봇AI교육혁신센터'를 새롭게 시작했습니다.",
+    "implication": "지역의 로봇AI교육혁신센터 소식을 수업에 소개하여 학생들의 진로 탐색 동기를 유발할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "구미시, 로봇AI교육혁신센터로 명칭 바꾸고 인재양성 확대",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8yWUlRWmV6RC1RTTd1bjdZRnhOenRxeU1kUlJ6dEx5YTFPMWlVTFFtb0xQMTNfMXVtRERua1RnanNaTndDcVBKU2UwWEVSWFFhQk51OGlKd0JxT25oMWhueGxESQ?oc=5",
+    "source": "매일일보",
+    "published": "2026-08-27",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "로봇·휴머노이드"
+    ],
+    "summary": "구미시가 로봇AI교육혁신센터로 명칭을 변경하고 인재 양성을 확대합니다.",
+    "implication": "구미시의 로봇AI 교육 인재양성 계획을 바탕으로 학생들의 미래 진로를 탐색할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "구미 ‘로봇직업혁신센터’에서 ‘로봇AI교육혁신센터’로…제조 AX 인재양성 거점 도약",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xRXRqRGJ6QkFZcW9YNFZLbW1qYWd5NTZmb2VwZ3I0aXROMW1LN0x3SVY4MFpjNzhFOXRXUHR1TVcwdFZ1Njh1dTJFQVBiWGduMl8zcmxGVTJ1NGZFMnpqbXpPQWM1S0hGRW53?oc=5",
+    "source": "미디어디펜스",
+    "published": "2026-08-27",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "로봇·휴머노이드"
+    ],
+    "summary": "구미 로봇직업혁신센터가 로봇AI교육혁신센터로 명칭을 변경하고 제조 AX 인재양성 거점으로 도약합니다.",
+    "implication": "학생들에게 AI 및 로봇 관련 직업 세계 변화를 소개하고 미래 역량 개발을 안내할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "로봇융합硏, ‘로봇AI교육혁신센터’ 출범",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jbnBWMXdaOS1HaEpISnBXeUotS1J0ejZkQjVPNlUxOXBDd2p1RkRSNVV6NTczT0ZfQ0x1M2VVR0pNZF9hZUFKcXQxdjY2UGtMbjd4UVN5OWJtbEJNdG1JcmJDQWY4eE5BNEE?oc=5",
+    "source": "철강금속신문",
+    "published": "2026-08-28",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "로봇·휴머노이드"
+    ],
+    "summary": "로봇융합연구원이 로봇AI 교육 혁신을 위한 센터를 출범했습니다.",
+    "implication": "학생들에게 로봇 AI 분야의 중요성과 관련 교육 기회를 소개할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "경기도교육청, 학교·지역 잇는 '벽깨기 교육정책' 본격화",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IOHdXcXBXcXNKWFVEaXRqZ2VCWGtjS2VNRlhDM1JwMFgycVNwUUJzYzZka1VHNThHSk9qdW9BZl9uNmU1R0UzV3pKY19ZXzRJMEpmRzJDMkFXenUtUk9YQg?oc=5",
+    "source": "경기신문",
+    "published": "2026-08-28",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청이 학교와 지역을 잇는 '벽깨기 교육정책'을 본격적으로 추진합니다.",
+    "implication": "지역사회 연계 프로젝트 수업을 구상하여 학생들이 실제 현장과 소통하며 배울 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Reframing English Language Education Policy Through Translanguaging: A Conceptual Framework for Multilingual Indonesia",
+    "url": "https://doi.org/10.24832/jpkp.v19i1.1348",
+    "source": "openalex",
+    "published": "2026-08-26",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "이 개념 연구는 다중 언어 인도네시아에서 트랜스랭귀징을 영어 교육 정책의 개념적 틀로 재구성하여, 지역 언어를 보존하며 영어 능력을 향상시키는 적응성 있는 교육과정 및 정책 구현을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Eric Sulindra, Anita Lie",
+    "pdf": "https://jpkp.kemendikdasmen.go.id/index.php/litjak/article/download/1348/282"
+   },
+   {
+    "n": 2,
+    "title": "Instructional Decoupling in Character Education Policy: An Evaluation of Elementary Schools in Yogyakarta",
+    "url": "https://doi.org/10.24832/jpkp.v19i1.1342",
+    "source": "openalex",
+    "published": "2026-08-26",
+    "keyword": "",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [],
+    "summary": "동시 다중 방법을 사용한 연구는 인도네시아 초등 인성 교육에서 강력한 제도적 응집력이 교사의 교수 자율성을 약화시켜 계획과 실제 수업 간의 교수적 분리를 야기하는 역설적 현상을 밝히며, 진정한 인성 함양을 위해 실제 학습 관찰 중심의 교사 자율성 지원 정책 전환을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Izzul Kiram Suardi, Muhammad Nursa’ban 외 1명",
+    "pdf": "https://jpkp.kemendikdasmen.go.id/index.php/litjak/article/download/1342/279"
+   },
+   {
+    "n": 3,
+    "title": "Qualities of university tutors and school-based mentors for developing inclusive teaching attributes during the practicum: student teachers’ perspectives in Spain",
+    "url": "https://doi.org/10.3389/feduc.2026.1951439",
+    "source": "openalex",
+    "published": "2026-08-26",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "AI 튜터"
+    ],
+    "summary": "스페인 예비교사 29명을 대상으로 한 질적 연구는 교생실습 중 대학 튜터와 학교 멘토가 상호 보완적으로 포용적 교수 역량 발달에 기여함을 밝혀, 대학과 학교 간 긴밀한 협력의 중요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Yolanda Muñoz-Martínez, Sandra Vera-Lucas 외 1명",
+    "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1951439/pdf"
+   },
+   {
+    "n": 4,
+    "title": "Digital Learning and the Reconfiguration of Teachers’ Professional Roles: A Critical Narrative Review of Pedagogy, Competence, Agency and Artificial Intelligence",
+    "url": "https://doi.org/10.9734/ajess/2026/v52i93284",
+    "source": "openalex",
+    "published": "2026-08-25",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "디지털 및 AI 시대 교사 역할 재편은 기술이 교사를 대체하기보다 인간적 판단을 강화하는 데 기여하며, 이는 교사의 역량과 제도적 지원에 달려있음을 비판적 서술 리뷰로 분석합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Debasish Bora, Kate Dandesh Kumar",
+    "pdf": "https://journalajess.com/index.php/AJESS/article/download/3284/8215"
+   },
+   {
+    "n": 5,
+    "title": "Moderating Role of School ICT Infrastructure On Adaptive Digital Storytelling and Digital Information Literacy in Rural Primary Schools",
+    "url": "https://doi.org/10.58216/kjri.v16i2.744",
+    "source": "openalex",
+    "published": "2026-08-24",
+    "keyword": "edtech",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [],
+    "summary": "케냐 농촌 초등생 양적 연구는 ICT 인프라가 디지털 스토리텔링과 정보 활용에 약하게 조절함을 규명, 디지털 교육 효과 증진을 위해 인프라 외 교육법과 교사 역량 강화가 필수적임을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Tabitha Kihara, Jimmy Macharia 외 1명",
+    "pdf": "https://journals.kabarak.ac.ke/index.php/kjri/article/download/744/478"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "'사후학습 전문가' 배럿 조프 구글행...제미나이·에이전트 고도화에 합류",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214547",
+    "source": "AI Times",
+    "published": "2026-08-28",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Gemini",
+     "에이전트"
+    ],
+    "summary": "구글의 사후학습 전문가 영입은 제미나이 및 AI 에이전트의 실제 환경 성능과 지속적 고도화 경쟁이 AI 산업의 핵심으로 부상할 것임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "SK하이닉스, 인디애나 공장 착공...2029년 양산·키옥시아 협력 확대 모색",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214537",
+    "source": "AI Times",
+    "published": "2026-08-28",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "SK"
+    ],
+    "summary": "SK하이닉스의 미국 공장 착공은 AI 핵심인 HBM의 안정적 공급망을 구축하여 AI 기술 생태계 성장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "SKT는 '행동형 비서', 카카오는 '카톡', KT는 '다음'…'모두의 AI' 3사 전략은",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214567",
+    "source": "AI Times",
+    "published": "2026-08-28",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "카카오"
+    ],
+    "summary": "국내 주요 기업들이 행동형 비서, 플랫폼 통합 등 각자의 강점을 활용한 차별화된 AI 전략으로 시장 경쟁을 심화하며 AI 대중화를 이끌 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[NVIDIA, Hugging Face 인수 확정… 129억 달러 규모] 엔비디아가 허깅 페이스에 주목한 배경에는 AI 칩 시장 지배력 유지라는 절박한 과제가 자리한다. 현재 오픈AI, 구글, 아마존, 앤스로픽 등 주요 폐쇄형 AI",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBJck1hc2hMVzFqai01bmpKZDZrUDRHUTc3aVg2c1ZrN2c4V2hNWldJLVlaMjBiLXB6RGVIWEtMc2k?oc=5",
+    "source": "AI넷",
+    "published": "2026-08-27",
+    "keyword": "오픈소스",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "Hugging Face",
+     "GPU·데이터센터",
+     "OpenAI",
+     "Google",
+     "Amazon",
+     "Anthropic"
+    ],
+    "summary": "엔비디아의 허깅 페이스 인수는 AI 칩 지배력을 넘어 모델 개발 및 배포 생태계까지 통합하여 AI 산업 내 수직적 지배력을 강화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "상명대, “ChatGPT로 PPT도 척척”, 청년 AI 활용법 알려준다",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAydGh1NzNSZjV5RzdVeE1abGpXNFhreDJiaTRhVnRYckUzVThYZWVVaWpVWlV6QUpaMW04cExIczVLS3VLbDNhN0tlSHlfeE1GTTFwaDBtN21rU3QtODFqTHhreDY4bDZBRDIxZkNEeER2bGJx0gF0QVVfeXFMUDJ0aHU3M1JmNXlHN1V4TVpsalc0WGt4MmJpNGFWdFhyRTNVOFhlZVVpalVaVXpBSloxbThwTEhzNUtLdUtsM2E3S2VIeV94TUZNMXBoMG03bWtTdC04MWpMeGt4NjhsNkFEMjFmQ0R4RHZsYnE?oc=5",
+    "source": "이뉴스투데이",
+    "published": "2026-08-28",
+    "keyword": "활용법",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "AI가 특정 전문가의 영역을 넘어 일반인의 보편적 생산성 도구로 자리매김하며, AI 활용 능력이 전 산업의 핵심 역량이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "챗GPT·제미나이로 의정 역량 높인다…용인시의회, 생성형 AI 활용법 모색",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMcnFzN3A1MEJNY0p3LU5ieEUxVkxBdGQ0TnB2dEVEZjd3ZnlSRHMwQktVanh5d2tpamY0OVZWR3NWZ1IyMlppNHpIcGg2Rk02RWpDWlBpcVdCTEJUcXF1UmdTaWdZbWhmdG5ORG9n?oc=5",
+    "source": "아시아투데이",
+    "published": "2026-08-27",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Gemini",
+     "생성형 AI"
+    ],
+    "summary": "지방 의회의 생성형 AI 도입 모색은 AI 기술의 공공 부문 범용성 확장을 통해 새로운 시장 성장을 견인할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "AI 투자 뒤 부채 리스크...엔비디아 넘본 오픈AI 칩부터 애플 폴더블까지 [이번 주 테크 동향]",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JOE9WS09LQUhmWUhkQk1lbUJGelVCSVJCMjF3TXROcXJYWG5CT2dINHRaZ0FzZWtnWnhSZ1dYTm1LWXQ3XzNvRUxMSHFZcW9Jd1dOZW1ESGYxbmxXWDMwc1BVeXZNRjBz?oc=5",
+    "source": "데일리팝",
+    "published": "2026-08-28",
+    "keyword": "오픈AI",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "OpenAI",
+     "GPU·데이터센터",
+     "Apple"
+    ],
+    "summary": "AI 투자 과열로 인한 부채 리스크와 핵심 칩 경쟁 심화는 AI 산업 생태계의 재편과 지속 가능성을 좌우할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "[2026년 디지털 마케터 필수 AI 도구 7선… ChatGPT·클로드·제미니부터 캔바·허브스팟까지] 단순히 '사용하는' 수준을 넘어, 각 AI의 강점과 한계를 이해하고 업무 흐름에 유기적으로 통합하는 능력이 2026년 디지털 마케터의 핵심 경쟁력",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBPRlV0TUZUYTZUcE9LM3gwRWZ4YVZxR0FMZ2tRcEhleXRpNjVQX29LdlJUamM0QlJCbm9aQ3N3YnQ?oc=5",
+    "source": "AI넷",
+    "published": "2026-08-27",
+    "keyword": "AI도구",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Claude",
+     "Gemini"
+    ],
+    "summary": "AI 기술 생태계는 개별 도구의 성능 경쟁을 넘어, 다양한 AI 솔루션을 업무에 유기적으로 통합하여 활용하는 역량 중심으로 진화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+    "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "source": "OpenAI Blog",
+    "published": "2026-08-27",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "AI 산업은 비판적 사고 훈련과 결합하여 인간의 인지 능력을 증진시키는 방향으로 발전할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "독자 AI모델 2차 평가 점수, SK텔레콤 70.6 업스테이지 69.9 LGAI연구원 69.0 탈락한 모티프 65.8",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByT1FEbzFKbXQ2X0gzOHF1SjNjRWJ6UDFzNXl4ZE9ZbXNyRm80VUVyc1NGaG92TmxXbGxMS1FZRkVWSHRUSW42QTBTd2NCZF9xZmREQkEzaHRMd0VucFpMNWFHMVM5cXo5SDNoUmRldXV6cHc?oc=5",
+    "source": "비즈니스포스트",
+    "published": "2026-08-27",
+    "keyword": "AI스타트업",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "SK",
+     "업스테이지"
+    ],
+    "summary": "오피니언: 대기업과 전문 AI 스타트업이 독자 모델 개발 경쟁에서 접전을 벌이며 AI 생태계의 경쟁 구도를 강화할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

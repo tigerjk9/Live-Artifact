@@ -1,0 +1,413 @@
+{
+ "date": "2026-02-26",
+ "generated_at": "2026-11-02T11:52:40+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "김광수 교육감 “흔들림 없는 신학기”…인공지능 교육·기초학력 강화",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BU1lXX25xZk11Ym1SWk81cG8zRWtENGd4allxOGNMb0tjdzNGQWN0YU1ZMHU0MUZLei0xdHFhdlpuOFRJY0RRYmdUWjFOZVY3S0Z2SUtzRXlJYXJHTEtBaDEzZkN0Q2JqQUo0?oc=5",
+    "source": "뉴스제주",
+    "published": "2026-02-25",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "김광수 교육감의 인공지능 교육 및 기초학력 강화 정책은 미래 교육과 교육 격차 해소에 긍정적 영향을 줄 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "김광수 제주교육감 \"인공지능 연구·선도학교 운영\"",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhYkZOWXRseEF3Z1RCZklwekloTnY3cjZ5aTkxNzdfVW1sbUlCU09UQ0EwYzU3blpEZnNxWlpXWV9zU1Fib0ZhU2l5Ry02M3FqZ3JFOGZmUm5GZkszcHhTQzhSeXV2TC1KY21MRkFhYXU2c2Vka05aeg?oc=5",
+    "source": "네이트",
+    "published": "2026-02-25",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "제주교육청"
+    ],
+    "summary": "제주교육청의 AI 연구·선도학교 운영은 미래 교육 환경 변화에 대비하는 긍정적 시도이며, 교사의 AI 활용 역량 강화와 교육과정 혁신이 중요합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[인터뷰] 안민석 후보 \"스마트 프리부터 시작… AI 시대 첫 교육감 되겠다\"",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wcnUtYkNDcmZGanN0Uy1pN2VyYnRsY2pvWnhGQklkVlZacnlaWXJ2WjJRUzRVc3VaS0FXNnlFck43bkpvWjlneGx3Y2tMd3RMemRUZDczYnFJaENwLVZGaTVfcTB1cG8?oc=5",
+    "source": "교육플러스",
+    "published": "2026-02-25",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": "interview",
+    "entities": [],
+    "summary": "안민석 후보의 스마트 프리 교육 공약은 AI 시대 교육 혁신에 대한 기대감을 높이지만, 구체적인 실행 계획과 교육 격차 해소 방안에 대한 심도 있는 검토가 필요합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "경기도교육청, 영어교육 틀을 깨다… AI 기반 ‘CLASS UP’ 도입",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vUXVtWkdnTU9ZMDJ2eWhZa3h2VXl3cmJNVFhxemExOExNWklwYjItSG4wR3hqbk9VSjZUWnJrQllYamlxLWtnVEw2d3VmYkczZXlnTzBCWmVwT2ZBSVp6TU1jX0VTMGtFSlE?oc=5",
+    "source": "천지일보",
+    "published": "2026-02-25",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "AI 기반 영어 교육 플랫폼 도입은 개별 맞춤 학습을 강화하고 교사의 역할 변화를 촉진하여 공교육의 질을 높일 수 있는 기회입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "이병학 충남교육감 예비후보 “정치 환경 관계없이 교육 안정 최우선”",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03S0JXeURoNmM0QVFJWTRacW0tekcwUEpycE9UZ3hpVHB5ODc4T2JrSDJTbElSWkcwcjlzZ3hYekFYbDVlWGlZYWtsYTFwZVh1ZDdnNEZMc01pTmM1WGNVWHB6OXdTYUoxWHpiSWF30gFuQVVfeXFMTTdLQld5RGg2YzRBUUlZNFpxbS16RzBQSnJwT1RneGlUcHk4NzhPYmtIMlNsSVJaRzByOXNneFh6QVhsNWVYaVlha2xhMXBlWHVkN2c0RkxzTWlOYzVYY1VYcHo5d1NhSjFYemJJYXc?oc=5",
+    "source": "중부매일",
+    "published": "2026-02-25",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충남교육청",
+     "교육감 선거"
+    ],
+    "summary": "이 예비후보의 발언은 정치적 외풍에 흔들리지 않고 교육 본질에 집중하겠다는 의지를 보여주는 것으로, 교육 정책의 일관성과 안정성을 기대하게 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "“지식 암기 넘어 창의력으로”…서울교육감 예비 후보 강신만, 서울교육 판 뒤집는다",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5a2ZDRUI0YWwtUGhERmlDUEJpSUI2dTl5ZW02b2RHS1J2Sjdnb3hySkZmVENabDdBSWFxZHhaLWxsMFNtS2otOHRYLVVQTHlJcDJDd1E1TW90bTcxaS1vQTkwR1RKVHc?oc=5",
+    "source": "지이코노미",
+    "published": "2026-02-25",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "서울시교육청",
+     "교육감 선거"
+    ],
+    "summary": "강신만 후보의 공약은 지식 암기 중심 교육에서 벗어나 창의력 함양을 강조함으로써 교육 패러다임 전환의 필요성을 제기하고 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "연규원 인천교육감 예비후보 등록…“변화의 물결로 교육 혁신 이룰 것”",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fZTBobmVIWDlCTjZlTDdxbGpCRm4zXzRlZHJFWEF6Sm8zY0sxcTFRX2J3QXhNblJLaXR6NjQ0eUlDTUlEX3B6V0lVcHBLT21fSmsxNHlEVFhDN2s?oc=5",
+    "source": "경기일보",
+    "published": "2026-02-25",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청",
+     "교육감 선거"
+    ],
+    "summary": "연규원 예비후보의 등록은 인천 교육 혁신에 대한 기대감을 높이며, 교육 정책 변화 가능성에 주목해야 할 시점입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "[K-VIBE] 임기범의 AI혁신 스토리…지금 예비 대학생에게 필요한 교육",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02cUZtbkZCblN4eHV4WU1WbjdHbUtzaG85ZFJUd0ZUOUFwMEplS1A5UzBpSGt3ZTc3ejM2TDU4dWtWNVZHV20zQUFQV0N6RnJlS3l5NWlvTGU2MVNMVDVTWHR5cDBsNE9vZXp0cThKb2ZZS3Ns?oc=5",
+    "source": "연합뉴스 한민족센터",
+    "published": "2026-02-25",
+    "keyword": "교육혁신",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 시대에 예비 대학생들은 변화하는 사회 요구에 발맞춰 AI 활용 능력을 키우는 교육이 필수적입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "경기도교육청, 학교폭력 사안 처리 '공정성·교육적 회복' 두 마리 토끼 잡는다",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0wandLM2tsWDFQbGdqNHV4WDROOXZJcHBta3NYSzB3b1BrRmhNLWtCdDJNWkUycHRlNUcwLVRyMnU1YmVEdkdkeHlKWEFSR3YyUWJGNkgxZ0tYUmp6M0NSR1F3NE5mZw?oc=5",
+    "source": "교육을 비추다",
+    "published": "2026-02-25",
+    "keyword": "AI디지털교육",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "학교폭력"
+    ],
+    "summary": "경기도교육청의 학교폭력 사안 처리 개선 노력은 공정성과 교육적 회복이라는 균형 잡힌 접근을 통해 학교 현장의 긍정적 변화를 유도할 수 있을 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "[경북] 배동인 경북부교육감, “공사 중 학교일수록 안전이 최우선”",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=21796",
+    "source": "에듀프레스",
+    "published": "2026-02-25",
+    "keyword": "",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [],
+    "summary": "학교 공사 현장에서 학생 안전을 최우선으로 고려해야 함을 강조한 점은 교육 환경 개선과 더불어 학생 안전 확보의 중요성을 환기한다는 점에서 의미가 큽니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Digital competence in the training of pre-service teachers: Perceptions of students in the degrees of early childhood education and primary education",
+    "url": "https://www.semanticscholar.org/paper/a31fbd46df879e977009cdd619f44896638139f4",
+    "source": "semantic_scholar",
+    "published": "2021-08-27",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "예비 유아 및 초등 교사 200명을 대상으로 디지털 역량 설문조사를 실시한 결과, 전반적으로 중간 수준의 역량을 보이며 콘텐츠 제작에 어려움을 겪고, 교육 과정 설계 및 교사 훈련에 시사점을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Héctor Galindo-Domínguez, M. Bezanilla",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "The Landscape of AI in Science Education: What is Changing and How to Respond",
+    "url": "http://arxiv.org/abs/2602.18469v1",
+    "source": "",
+    "published": "2026-02-08",
+    "keyword": "pedagogical",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "AI는 과학 교육의 목표, 방법, 자료, 평가를 변화시키고 있으며, 공정성, 투명성, 책임감 있는 AI 활용을 통해 과학적 탐구, 평가 개선, 접근성 확대를 지원하며 인간 교사의 역할과 윤리적 판단의 중요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Xiaoming Zhai', 'Kent Crippen']",
+    "pdf": "http://arxiv.org/pdf/2602.18469v1"
+   },
+   {
+    "n": 3,
+    "title": "The effect of game-based learning on academic achievement motivation of elementary school students",
+    "url": "https://www.semanticscholar.org/paper/d9bb463028c0b85ee4a93bf7544d7de9c6ee0669",
+    "source": "semantic_scholar",
+    "published": "2019-11-01",
+    "keyword": "",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 초등학생을 대상으로 게임 기반 학습이 학업 성취 동기에 미치는 영향을 실험적으로 분석하여, Misha와 Kosha 게임을 활용한 실험군이 전통적인 교수법을 적용한 통제군보다 학업 성취 동기에서 유의미하게 높은 점수를 얻었음을 밝히고, 초등학교 교육에서 게임 기반 학습의 활용 필요성을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Tahereh Partovi, M. R. Razavi",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "Still w(\n AI\n )ting for the automation of teaching: An exploration of machine learning in Swedish primary education using\n Actor‐Network\n Theory",
+    "url": "https://www.semanticscholar.org/paper/cff621b65bc23f5f95a129fdce25a2221e43919a",
+    "source": "semantic_scholar",
+    "published": "2022-10-30",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [],
+    "summary": "AI )ting for the automation of teaching: An exploration of machine learning in Swedish primary education using Actor‐Network Theory 스웨덴 초등 교육 현장에서 수학 교육 보조 AI 엔진 사용 사례를 액터-네트워크 이론으로 분석한 결과, AI의 예측 불가능성과 알고리즘 학습 방식에 대한 불확실성이 존재하며, 교사는 이를 보완하며 AI 교육의 자동화를 기다리고 있습니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Katarina Sperling, Linnéa Stenliden 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "Subtitling and Dubbing as Teaching Resources in CLIL in Primary Education: The Teachers’ Perspective",
+    "url": "https://www.semanticscholar.org/paper/badd42924e21738e338693389bbead5c45a2a3b5",
+    "source": "semantic_scholar",
+    "published": "",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "Meta"
+    ],
+    "summary": "초등 교육 CLIL 환경에서 시청각 번역(자막 및 더빙) 활용에 대한 교사들의 인식을 조사한 결과, 교사들은 이것이 학생들의 메타언어 인지 능력 향상과 콘텐츠 학습에 긍정적인 영향을 미친다고 생각하며, 설문 및 포커스 그룹 인터뷰를 통해 이를 확인합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "A. Costales",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "부산외대, Gemini 3.0 활용법 담은 AI 실습서 발간",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IYzY2em81cE5JVEluOGJrc01URzlvRml2ZUR5endRaVRncmlzb2llczQtVnV2SXJGbVk2UTRTQUFyTFg2elZkUTBtSU83bjFsSFFPemlGZ0dZT01wZERMTHhSeW8?oc=5",
+    "source": "중도일보",
+    "published": "2026-02-25",
+    "keyword": "활용법",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Gemini"
+    ],
+    "summary": "Gemini 3.0 활용 교육 확산은 AI 기술 접근성을 높여 지역 인재 양성과 AI 생태계 저변 확대에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "GPT-5도 이런 실수를 한다고? AI가 ‘알면서도 틀리는’ 황당한 이유",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tOFVLQ2hZeWNzb1NpRjRnSFdVX1Jya1Z2cXJMcUZHbEx3cHlSdGZTYlZLX0RWcms1b1RYa2hvcjFKSmdRTUY0VThEeUd3N3RqZzREb2lOM3BNZnZxTHFSTmFR?oc=5",
+    "source": "AI 매터스",
+    "published": "2026-02-25",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-5의 실수 사례는 AI 모델의 한계를 명확히 보여주며, 완벽한 AI를 맹신하기보다 지속적인 개선과 인간의 검증이 필수적임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "구영현 세종대 인공지능데이터사이언스학과 교수 연구팀, 세계 최고 권위 AI 학회 ICLR 2026 논문 채택",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45M0Q3UTVpbWlsZkVsN1lPdUVKVERZUE5MY1kwU0xKNGJNMFdrQ210RlVNbzhfcExUUE9RWFFhN1BKNEVYZnpydHhFUjZzU2hWVFh2Ym9jOWRtbkJya2xUMVBzR19jTFh2dmpPaU53aw?oc=5",
+    "source": "스마트경제",
+    "published": "2026-02-25",
+    "keyword": "AI연구",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "구영현 교수 연구팀의 ICLR 2026 논문 채택은 국내 AI 연구 역량의 국제적 인정과 더불어 관련 기술 상용화 및 산업 경쟁력 강화에 기여할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "구글, 바이브 코딩 앱 ‘오팔’에 자동화 기능 강화...\"아마추어도 더 쉽게\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207234",
+    "source": "AI Times",
+    "published": "2026-02-25",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Google",
+     "코딩 AI",
+     "에이전트"
+    ],
+    "summary": "구글의 오팔 자동화 강화는 로우코드/노코드 개발 트렌드를 가속화하며, AI 에이전트 기반 앱 개발 대중화를 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "OpenAI, Responses API에 WebSocket 모드 도입…복잡한 체인 작업 속도 40% 향상",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0SG1RQkpkNlkyeWF1eTBMTDBSRDJ5RjhjcnZBN1l3QWpfQk9UN1pueW50TEt2b2tPa0xDTFdDcllEdTJLcG4xaDNzT3JUaWVKOHgydkVnOTN6Ymw3MlHSAV5BVV95cUxQdEhtUUJKZDZZMnlhdXkwTEwwUkQyeUY4Y3J2QTdZd0FqX0JPVDdabnludExLdm9rT2tMQ0xXQ3JZRHUyS3BuMWgzc09yVGllSjh4MnZFZzkzemJsNzJR?oc=5",
+    "source": "tokenpost.kr",
+    "published": "2026-02-25",
+    "keyword": "API",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "OpenAI의 WebSocket 모드 도입은 복잡한 AI 작업 효율성을 높여 개발자와 기업의 AI 서비스 구축 및 활용을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "비상교육, AI 에듀테크 플랫폼 ‘올비아’로 생태계 조성 나선다",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9UQUpla2Fsd2I0d05kd3Z1MDMyVlQ0YzBOVW9laC1RbUstNURweVBUd2J0MDctUVUyb3YtWjlGS0xwZnVkVWs1cUFuNEZOazZXZEdNUzhUU3gtcXZiVlp5U0lKTQ?oc=5",
+    "source": "매일일보",
+    "published": "2026-02-25",
+    "keyword": "교육AI",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [],
+    "summary": "비상교육의 올비아 플랫폼은 에듀테크 생태계 확장을 가속화하며 교육 AI 시장 경쟁 심화를 예고하고 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "정우마루·유니버셜리얼타임, AI 합성데이터 API 플랫폼 공동 구축",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04ZS1KYnFXeGdOUWdPUTYwbkZFS1Q4UjJITVdIZ1MxeTVudnBOSGF6Q3ZfdzNhWEpxa19fSzlaMUg2RlF6MVdxbW9WbWE4RW9TejZVUDFOYWhSX3M1VGxlRE9ZRTNzbnBHeXJFdNIBbEFVX3lxTE04ZS1KYnFXeGdOUWdPUTYwbkZFS1Q4UjJITVdIZ1MxeTVudnBOSGF6Q3ZfdzNhWEpxa19fSzlaMUg2RlF6MVdxbW9WbWE4RW9TejZVUDFOYWhSX3M1VGxlRE9ZRTNzbnBHeXJFdA?oc=5",
+    "source": "스타트업엔",
+    "published": "2026-02-25",
+    "keyword": "API",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 합성데이터 API 플랫폼 구축은 데이터 부족 문제를 해결하고 AI 개발 비용을 절감하여 AI 기술 확산에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "앤트로픽, '클로드 코워크' 플러그인 확장...이번에는 SW 주가 상승",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207199",
+    "source": "AI Times",
+    "published": "2026-02-25",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude"
+    ],
+    "summary": "앤트로픽의 엔터프라이즈 시장 공략 강화는 기존 SW와의 공존을 모색하며 AI 기반 업무 자동화 생태계 확장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "Anthropic의 새 AI 도구가 67년 된 COBOL 코드를 작성 가능하게 되면서 IBM 주가 13% 급락",
+    "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxPTnh1NUVFRTZ5S2VPclZlSDQ1MGFXVEUwT2NxdTBQZVpvWDd0QVFTOUpqQi1GN0xwNFV5dHVFNnJvWmo5QnJLWUlOSmJ0LUZlckRmb3lYQlBVMENWc01ZcGh4djkwRmRNZWx6djlLYVRmcjFPZ1NEZEpZc09CckxiRVFuQU1nMUZjUDRnMzNKYXo0ekJBMDJqRFBwd2VmTENMc2dUaHA1bVRCNHRLY1pKbjZXTGVrVTYtanZPaDBERi00bGFFZ0EzYUhRbjYyZXNPOXFCS2pkMG1kTDUyeFMwQWFOQ21Hb0FtVHlnSFZhMGNldjdqNGRwMjhNODRpYUJOZ3dLZmRZRHFaWmd2c3MzMVBWN09nZUJpdDBhcEo5S016OHlxaFZ4Y0c4ZFNqY2hHOWU4R09yRTBNVGxJVTN1TlVXWGdGR0NhamxXdmRwekYteDF4TmpZelBLWVdyVExiUDB4dW44Z2NvX2tCOFhib1NULW9Sa0FEUG1rV0ozOHRhREpYMGtzdzJBakZyYTdlMnFOc3JGajU?oc=5",
+    "source": "ekhbary.com",
+    "published": "2026-02-25",
+    "keyword": "Anthropic",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Anthropic"
+    ],
+    "summary": "Anthropic의 COBOL 코드 작성 AI는 레거시 시스템 유지보수 혁신을 예고하지만, 관련 기술 기업에는 위협 요인이 될 수 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "비탈릭, AI 기업 Anthropic의 윤리적 입장 지지… 이유는? (+ETH, Anthropic, AI, 감시)",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MUjA5dUN1SkFtLTJLSWJpWjE4Wk04WWxqY25PQmRpOGY1eElCSkxic25yRGtKU0tKQWc5NWRVZVFHWVAtczNacGVQLS1wSkEzdER6VkxQVU5MR2g5UnBPUWIwajRET2RyOVprdw?oc=5",
+    "source": "민심뉴스",
+    "published": "2026-02-25",
+    "keyword": "Anthropic",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "AI 안전·규제"
+    ],
+    "summary": "비탈릭의 Anthropic 지지는 AI 윤리 기준 정립 노력에 힘을 실어주어, 향후 AI 기술 발전 방향에 긍정적 영향을 미칠 것으로 예상됩니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 기반 교육 혁신과 창의력 중심 교육, 안전 및 공정성 강화가 핵심적인 교육 트렌드로 부상하며 미래 교육을 향한 긍정적인 변화가 가속화되고 있습니다.",
+  "tech": "Gemini 3.0 활용 교육 확산, GPT 성능 개선, AI 학회 연구 활발, 코딩 자동화 기능 강화, 에듀테크 플랫폼 확장, 합성 데이터 플랫폼 구축, Anthropic 윤리적 AI 강조 등 AI 기술이 더욱 발전하고 윤리적으로 활용되며 다양한 산업 분야에 빠르게"
+ }
+}

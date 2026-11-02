@@ -1,0 +1,406 @@
+{
+ "date": "2026-08-31",
+ "generated_at": "2026-11-02T11:42:28+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[김대성 칼럼] 교육자치 시대, 청렴의 기준도 달라져야 한다",
+    "url": "https://www.edpl.co.kr/news/articleView.html?idxno=21396",
+    "source": "교육플러스",
+    "published": "2026-08-30",
+    "keyword": "",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "교육자치 시대 청렴은 개인 윤리 넘어 교육행정 투명성과 정책 설명책임까지 확장되어야 한다.",
+    "implication": "수업 중 민주적 의사결정 과정에서 투명한 정보 공유와 합리적인 설명의 중요성을 가르칠 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "조용식 교육감, 저연차 교사 고민해결 나섰다",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hcHVDSUNMdzhQLVhHb0FBUDNoT3NRd25walZNTmJnZzZTbERiMzI4cW5xckJZUTdqSUVVaGxOOWVrQnJ3Mm5Ca2pBRVNHQXdZYXRpZUFNb2Y0OVUxQzNhNDZITGJqdw?oc=5",
+    "source": "울산제일일보",
+    "published": "2026-08-30",
+    "keyword": "교육정책",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [],
+    "summary": "조용식 교육감이 저연차 교사들의 어려움을 해결하기 위해 노력하고 있습니다.",
+    "implication": "교사들이 지원받아 고민이 해결되면, 더욱 안정적인 수업 환경을 제공할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "경기도의회 더불어민주당 수석대표단 현장중심 교육정책 수립을 위한 대장정 시작 > 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XWXZrZkVFS2t1UGtDOWYyaTBBTkIxUG01a2RCTW9LLUE5RXF0TDM5eVdXdkVYTmRJTDJSNENaZXBSMnZYeVM4cm5FdFl2dzF3MGpfZTVRenVNMjBsM0FCczJWMFd5ZHdwcUJWWnZqUTM?oc=5",
+    "source": "더코리아",
+    "published": "2026-08-30",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "경기도의회 더불어민주당 수석대표단은 현장 중심 교육정책 수립을 위한 대장정을 시작했습니다.",
+    "implication": "현장 중심 교육정책 수립 과정에서 교사들의 의견을 반영할 기회가 생길 수 있으므로 수업 개선 아이디어를 미리 구상할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "안민석 교육감 \"제5호 결재 '벽깨기 교육정책'으로 행정 칸막이 허문다\"",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NR215Nk5Td1EwUDEzM2JXOTJKMUFYakZjeC1CTXFtcW4zdnFDNHhiX3h1TGktVnVZYzFiaExEZ3JqdFVfck56UGRGMlFfdTZWTkdjXzZxX3VfREo4MjItQ19wd01PY040MUE?oc=5",
+    "source": "컨슈머타임스",
+    "published": "2026-08-30",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "안민석 교육감이 '벽깨기 교육정책'을 통해 교육 행정의 칸막이를 허물겠다고 발표했습니다.",
+    "implication": "학생들이 다양한 과목 지식을 융합하여 문제 해결하는 '벽깨기' 활동을 수업에 도입할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "부산 초중고 ‘계정 하나로’ 클라우드·생성형 AI 쓴다",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFNmdfOHVabTg4M2lPcndBZ3RNSU4ySEZiNGNkZjlaY3RfNTY4Zk1TQ2E3OWJncmRMRUJmMDhtSUd2dk9pQmtzenBXaTFFbXZrQmfSAVNBVV95cUxPQ1dLVDhDZzJwZWMwVWkwMlFZMm1ZMlRDNEpNT2s1bWpncWdwYkEweHZ3ZVY5aEh3d050NndGZmdBSDlxQ0E2Z19rNDhab1hQV0Y1dw?oc=5",
+    "source": "서울경제",
+    "published": "2026-08-31",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "부산 초중고에서 단일 계정을 통해 클라우드와 생성형 AI를 사용하게 됩니다.",
+    "implication": "교사들은 하나의 계정으로 클라우드와 생성형 AI를 활용해 수업 자료를 효과적으로 개발하고 학생 활동에 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "‘생성형 AI로 만드는 디지털 동시집’… 군포 당동청소년문화의집-지역아동센터 맞손",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zQnJHYVpjQkV3RFV6dG00QnRlWnBUdU1DRk9rekp3LVBFZzdLOGFTREJ6bFhTejROdFFJbEt1d21NSnR5QjlyOEgwVFZhWmxWQkdtT2djZ3kteFhhQ0JIeTZ3?oc=5",
+    "source": "경기신문",
+    "published": "2026-08-30",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "군포 당동청소년문화의집과 지역아동센터가 생성형 AI를 활용해 디지털 동시집을 만드는 협력 사업을 진행합니다.",
+    "implication": "생성형 AI를 활용하여 학생들이 동시 창작을 지원하고 디지털 결과물을 만들게 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "AI 디지털교과서 기대감 지속… 메가스터디·아이스크림미디어 매수 온기 뚜렷",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBReGVBS1lUdy03UENTRmV1TW5TZk52UUxOSUtkbjltYlFvOHBHbF9BRGxZd25mcjdnTzIxWG9LSFh1aE9UV0E5VGNHUzc2RW42RlBPUEpsS2s2TlczVFlSbFJQeVhzVkZpRVhQTWQ2bWhWOXJ5YWNF0gF3QVVfeXFMUFF4ZUFLWVR3LTdQQ1NGZXVNblNmTnZRTE5JS2RuOW1iUW84cEdsX0FEbFl3bmZyN2dPMjFYb0tIWHVoT1RXQTlUY0dTNzZFbjZGUE9QSmxLazZOVzNUWVJsUlB5WHNWRmlFWFBNZDZtaFY5cnlhY0U?oc=5",
+    "source": "핀포인트뉴스",
+    "published": "2026-08-30",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "AI 디지털교과서"
+    ],
+    "summary": "AI 디지털교과서 기대감 속에 메가스터디와 아이스크림미디어에 대한 투자 관심이 커지고 있습니다.",
+    "implication": "AI 디지털교과서에 대한 시장의 높은 관심으로 앞으로 수업에 활용할 새로운 콘텐츠를 기대할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "인천시교육청, 문해교육 전시회서 '읽걷쓰AI' 전국 소개",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1OU1J5czBpWnZEWHVoaTFNN0g2OE1jMm1DV2VCbTI4bUJ4cjd4dW1tb21OREotNnp0U2NfWDN0TzYycl9ZRDhLN0hWWjJKQQ?oc=5",
+    "source": "전자신문",
+    "published": "2026-08-30",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청",
+     "문해력",
+     "AI 리터러시"
+    ],
+    "summary": "인천시교육청이 문해교육 전시회를 통해 '읽걷쓰AI' 프로그램을 전국적으로 소개합니다.",
+    "implication": "'읽걷쓰AI'를 활용하여 학생들의 문해력 및 디지털 리터러시를 효과적으로 향상시킬 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "중국어 교사도 ‘AI 수업 설계자’로",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4N0VObUFmejFzY09YNHJLMTl3Z3Y0MDJJUE5DdU1wOEM3TGdnTEVpUzRFOTdsNUZCWm1XRlpWOXVORnRQZHpycQ?oc=5",
+    "source": "얼리어답터뉴스",
+    "published": "2026-08-30",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "중국어 교사도 AI를 활용하여 수업을 설계하는 새로운 역할로 전환하고 있습니다.",
+    "implication": "저도 AI 도구를 활용하여 수업 자료를 만들고 설계를 더욱 효율적으로 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "부천시, 전 직원 대상 생성형 AI 서비스 시범운영",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ERUFYVHBCRWxUVWV4NkV0Q21ZeDVzU2w5cVNpWkF3UUdRRWsyelpnU3BZUE1RRXZrcHZLcWwtU2Q1UHRxMHJod3gxTUowZWNyc2JHYllLMWEwSlRaZVZ2OTR0M3RFR3hZ?oc=5",
+    "source": "수도권지역뉴스",
+    "published": "2026-08-31",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "부천시가 전 직원을 대상으로 생성형 AI 서비스를 시범 운영하는 중입니다.",
+    "implication": "부천시의 AI 도입 사례를 통해 학생들이 공공 분야의 AI 활용 방안을 탐구할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "TRIVIDHA JNANOPAYA: AN AYURVEDIC MODEL LINKING CLASSICAL THOUGHT WITH MODERN PEDAGOGY",
+    "url": "https://doi.org/10.36713/epra31360",
+    "source": "openalex",
+    "published": "2026-08-29",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "고대 아유르베다 교육 모델인 트리비다 즈나노파야를 현대 교육 이론과 비교 분석하여 학습자 중심 역량 기반 교육의 가치를 재발견하고, 이를 현대 의학 교육에 통합하여 깊이와 혁신을 제공할 수 있음을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Dr Swarnima Sharma, Haroon Irshad",
+    "pdf": "https://cdn.eprapublishing.org/article/1787982530440-105.EPRA31360.pdf"
+   },
+   {
+    "n": 2,
+    "title": "Engaging Pedagogical Strategies in Boosting Academic Performance in Comprehension Skills And Appreciation of Text",
+    "url": "https://doi.org/10.67903/ijroms0312",
+    "source": "openalex",
+    "published": "2026-08-28",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [
+     "문해력"
+    ],
+    "summary": "본 연구는 필리핀 7학년 학생들을 대상으로 교사의 교수 전략과 읽기 이해도 간의 유의미한 긍정적 상관관계를 입증하며, 상호작용적 학습자 중심 교수법이 문해력 향상 및 교육 품질 증진에 핵심적임을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Janette L. Hoyle, Rufino T. Tudlasan Jr",
+    "pdf": "https://ijroms.com/index.php/home/article/download/issue_v1i7a28/194"
+   },
+   {
+    "n": 3,
+    "title": "Teaching Materials and Classroom Assessment in English Language Teaching: Teachers’ Practices and Challenges",
+    "url": "https://doi.org/10.46809/jcsll.v7i5.461",
+    "source": "openalex",
+    "published": "2026-08-28",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "이 질적 연구는 네팔 중등 영어 교사들의 교재 활용 및 평가 관행과 제약을 심층 분석하여, 시험 중심 교육 환경 속 교사들의 고충과 전문성을 조명하고 학습자 중심 교육 강화에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Gopal Prasad Pandey, Krishna Prasad Shiwakoti",
+    "pdf": "https://www.jcsll.gta.org.uk/index.php/home/article/download/461/454"
+   },
+   {
+    "n": 4,
+    "title": "A critical (and) realist(ic) examination of psychology students’ perspectives on engaging with curriculum decolonisation initiatives",
+    "url": "https://doi.org/10.1080/00131911.2026.2714853",
+    "source": "openalex",
+    "published": "2026-08-28",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "영국 심리학과 학생들을 대상으로 비판적 실재론적 관점에서 탈식민주의 교과과정 참여에 영향을 미치는 맥락적 요인과 메커니즘을 분석하여 교육의 포용성 증진에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Gaurav Saxena, Christopher Kent 외 1명",
+    "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/00131911.2026.2714853?needAccess=true"
+   },
+   {
+    "n": 5,
+    "title": "‘It's here and we can't fight it’: engineering faculty perceptions of generative AI, student use, and the future of engineering education",
+    "url": "https://doi.org/10.3389/feduc.2026.1880863",
+    "source": "openalex",
+    "published": "2026-08-27",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "이 연구는 미국 공대 교수 16명을 대상으로 한 질적 연구를 통해 생성형 AI에 대한 마지못한 수용과 인지적 부담, 평가 시스템 교란 등의 우려를 확인하고, 지속 가능한 교육을 위한 커리큘럼 재설계 및 제도적 지원의 필요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Pratima Saravanan, Connor Meissner 외 1명",
+    "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1880863/pdf"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "오픈AI, '코덱스' 용량 한계 보완 조치 단행…\"사용 효율 최대 50% 개선\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214613",
+    "source": "AI Times",
+    "published": "2026-08-30",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "오픈AI의 코덱스 효율성 개선은 AI 모델 운영 비용을 절감하고 서비스 확장성을 높여 AI 기술의 산업 적용을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "오픈AI '아스트라' 성능 포착...웹 개발부터 3D 그래픽까지 원샷 구현",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214611",
+    "source": "AI Times",
+    "published": "2026-08-30",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "오픈AI 아스트라의 다영역 원샷 구현 능력은 AI가 전문가 수준의 창작과 개발을 주도하며 산업 생태계 전반의 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "KAIST, AI로 몰카 찾는 LED장치 개발…‘1만원’ 스마트폰 케이스에 부착",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214622",
+    "source": "AI Times",
+    "published": "2026-08-30",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [],
+    "summary": "저비용 AI가 개인 디바이스에 통합되어 일상생활 문제 해결에 보편적으로 활용될 AI 대중화 시대의 시작을 알리는 사례입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "Anthropic's Claude Code limit change is a raise on paper but a cut in practice",
+    "url": "https://the-decoder.com/anthropics-claude-code-limit-change-is-a-raise-on-paper-but-a-cut-in-practice/",
+    "source": "The Decoder",
+    "published": "2026-08-30",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude",
+     "코딩 AI"
+    ],
+    "summary": "이것은 AI 서비스 제공자들이 고도화된 모델의 수익성을 확보하고자 사용자에게 실질적 부담을 전가하는 미묘한 과금 전략을 고도화할 것임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "웨이모, 테슬라 향해 직격탄… “2억마일 뛰어보니 카메라만으론 한계”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214626",
+    "source": "AI Times",
+    "published": "2026-08-30",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "카메라 단독 자율주행 AI의 한계가 드러나며, 신뢰성 높은 복합 센서 융합 기술이 미래 AI 모빌리티 산업의 핵심이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+    "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "source": "OpenAI Blog",
+    "published": "2026-08-27",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "AI는 비판적 사고 훈련과 결합되어 인간의 인지 능력을 확장하는 보조 도구로서 AI 교육 및 협업 솔루션 시장의 혁신을 이끌 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "Learning never stops: How AI makes learning continuous",
+    "url": "https://openai.com/index/learning-never-stops",
+    "source": "OpenAI Blog",
+    "published": "2026-08-26",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [],
+    "summary": "AI가 지원하는 지속적 학습은 교육 및 직업 훈련 시장에 최적화된 AI 서비스와 플랫폼 생태계를 구축할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "Replit expands access to software creation with GPT-5.6 Luna",
+    "url": "https://openai.com/index/replit",
+    "source": "OpenAI Blog",
+    "published": "2026-08-19",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.6 루나 기반 리플릿은 소프트웨어 개발의 문턱을 낮춰 AI 기술 생태계 전반의 생산성과 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+    "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+    "source": "Google Blog - AI",
+    "published": "2026-07-01",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "교육 현장의 AI 미래 설계는 AI 기술 수요 확대와 인재 양성을 촉진하며, AI 산업의 지속적인 성장을 견인할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "AI가 설명할수록 인간 판단력 저하…LLM 추천 근거의 역설",
+    "url": "https://www.itworld.co.kr/article/4212648/ai%ea%b0%80-%ec%84%a4%eb%aa%85%ed%95%a0%ec%88%98%eb%a1%9d-%ec%9d%b8%ea%b0%84-%ed%8c%90%eb%8b%a8%eb%a0%a5-%ec%a0%80%ed%95%98llm-%ec%b6%94%ec%b2%9c-%ea%b7%bc%ea%b1%b0%ec%9d%98-%ec%97%ad.html",
+    "source": "ITWorld 코리아",
+    "published": "2026-08-24",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "LLM"
+    ],
+    "summary": "AI 설명이 인간 판단력을 저하시킴에 따라, AI 산업은 신뢰와 인간 독립적 사고 보존의 균형을 맞춘 시스템 설계에 집중할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

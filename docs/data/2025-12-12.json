@@ -1,0 +1,424 @@
+{
+ "date": "2025-12-12",
+ "generated_at": "2026-11-02T11:49:04+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[급식칼럼] 이제 영양교육도 에듀테크 시대다",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DRFM3cV8ySlVBLUkyRFoxb2poUTFYWEVfbWdMUWRxWFZ1eDFVWkttUzh3SThvSGJpSGJrSkNQanNsdFhObWxCWFMzUjExLWFUbnhIMF9BNnAyTVEySWcxU1I3WVRvUE03?oc=5",
+    "source": "대한급식신문",
+    "published": "2025-12-11",
+    "keyword": "에듀테크",
+    "topic": "student_care",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "에듀테크 기반 영양 교육은 학생들의 건강한 식습관 형성을 돕고, 교육 효과를 극대화할 수 있는 중요한 전환점이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "특별기고/ 기술보다 먼저 가야 할 것들: AI 시대의 윤리와 리터러시(문해력)",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSU21CMUViR3dKNFpHakU3Z19mZVQ5ZVZhMWR3RlVYY1U5TTBBZktoSFZGNTBCcFRsUExNTDMycHAtcUZsb3pnNDVSOFFnSUxxOVJ6NUZNdlQ2b05BbVlKR1pJTHVnSXFuajNF?oc=5",
+    "source": "시정일보",
+    "published": "2025-12-11",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [
+     "문해력"
+    ],
+    "summary": "AI 시대에는 기술 교육과 더불어 윤리 의식과 문해력 교육을 강화하여 미래 사회에 필요한 비판적 사고 능력을 함양해야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[시론담론] ‘디지털 전환 기업 70%의 실패’에 대한 해결 방안은 K-SMP",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwTzdlaWRRYmVsMUhtVUE5S0RPc2hJSWpGU1kyaHNYazRZTGNxZHhCREZfdkNmRU50dzExNV81YTV6Ukk1TnlRcWx2MzQyWng2dUhnTThmd09LaVZqMHF6TW5lSFRLRWc?oc=5",
+    "source": "제민일보",
+    "published": "2025-12-11",
+    "keyword": "디지털전환",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "디지털 전환 실패 사례를 분석하여 교육 현장에서 K-SMP 기반의 실질적인 디지털 역량 강화 교육 방안을 모색해야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "한국어교육플랫폼 '랑구스토리', AI로 한국어 수업 혁신하다",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HS1pnUU1oSzlFNlFzMnRhMEJFMmIwc0I0ZFJZeWNGeERwNzc4TnVIUHNWUEpwSlNXdXQxc1pxU3JYb1lxNVRROFo3UFZ1eE9zTjA4?oc=5",
+    "source": "네이트",
+    "published": "2025-12-11",
+    "keyword": "교육혁신",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "AI 기반 한국어 교육 플랫폼은 학습자 맞춤형 교육을 강화하고 교사의 효율성을 높여 한국어 교육의 새로운 가능성을 제시한다는 점에서 긍정적입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "임종식 경북교육감, AI시대 ‘미래 교육 방향’ 제시",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BMEhfOWlHbEJRVWVkVDR5WW9seEdQMGxwN181bWNKUlc1a1VOb0RWcVREd0o1OG1LVHYtQzJhenRzTlRtY1ZMd3BHM20yTTZNTFVUaVpnMHpaYnVSa0dieUlfM29mVlZwcU1TdGZRMA?oc=5",
+    "source": "시사포커스",
+    "published": "2025-12-11",
+    "keyword": "인공지능교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "경북교육청",
+     "개인화 학습"
+    ],
+    "summary": "임종식 교육감의 AI 시대 미래 교육 방향 제시는 경북 교육이 디지털 전환을 가속화하고, 학생 맞춤형 학습 환경을 구축하는 데 중요한 이정표가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "교육부, 지방대학 육성 추진단 출범…\"국가균형성장 성장 기여\"",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB2SEdPYllSeGhxcnNLVDJfRi1EQnd1NXAzMmpEd08wQVVtNElPZGNKeEZsWGJ1c0FaQnZFVjUyd2Y2eEFfdTRoc20wZVJoZXp2Nl9n?oc=5",
+    "source": "네이트",
+    "published": "2025-12-11",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "교육부의 지방대학 육성 추진단 출범은 지역 균형 발전을 위한 고등교육 생태계 조성에 긍정적 영향을 미칠 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "내년 도교육감 선거 ‘진보 진영 후보 단일화’ 합의",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xbk9rRVJqTTItTTd3WFJ6SzNHSVpPVVU3S0tMT0ZMWEd2Q0c2M2s3MlZ1dUNhY2Y5QUtWZDMtcWt6S1lSUy1BQ1ZvWUMxem1pVDNQWVBhNzU3ZUtFU0pMTWpJNHdFVmNRcUExTGJiMA?oc=5",
+    "source": "기호일보",
+    "published": "2025-12-11",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육감 선거"
+    ],
+    "summary": "진보 진영 후보 단일화는 교육 정책의 연속성과 안정성을 강화하는 동시에, 보수 진영과의 경쟁 심화로 교육계 이념 갈등을 심화시킬 수 있다는 점을 간과해서는 안 됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "경북도, 수출·유통·농업혁신·교육정책 전방위 성과…지역 경쟁력 강화의 한 해",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqN0hqX2RUX2NwNDFXdzJEWWJHM2xHMUVvS3J5NjRrQzFPeUlNLWJqS0J1czhMci1SQ2M5RFgyZ1ZCckR6Y245bGxMc242REtqdl8xN1pkTXhKVkk?oc=5",
+    "source": "에너지경제신문 모바일",
+    "published": "2025-12-11",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "경북도의 교육정책 성과는 지역 경쟁력 강화에 기여하며, 지역 특성과 연계된 교육 혁신의 중요성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "[울산교육청] 유아의 올바른 식습관 형성을 돕는 가족 참여형 프로그램 운영",
+    "url": "https://www.lecturernews.com/news/articleView.html?idxno=192584",
+    "source": "한국강사신문",
+    "published": "2025-12-12",
+    "keyword": "",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "울산시교육청"
+    ],
+    "summary": "유아의 건강한 식습관 형성을 위한 교육기관과 가정의 협력은 유아의 전인적 발달을 위한 중요한 교육적 접근입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "인천시교육청화도진도서관, ‘2025년 연말 특별 프로그램’ 운영",
+    "url": "https://www.lecturernews.com/news/articleView.html?idxno=192643",
+    "source": "한국강사신문",
+    "published": "2025-12-12",
+    "keyword": "",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "화도진도서관의 연말 프로그램은 독서와 연계한 창작활동으로 학생들의 흥미를 유발하고 창의적 사고력을 함양하는 데 기여할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "There Are Multiple Paths to Personalized Education, and They Should Be Combined",
+    "url": "https://www.semanticscholar.org/paper/96a0908ef4a1b5605c210e1f7c0a3923c316376e",
+    "source": "semantic_scholar",
+    "published": "2024-04-27",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "AI를 활용한 개별화 교육은 교사 주도적 할당, 자기 주도 학습, 적응형 학습 활동 등 다양한 방식을 결합하여 학습 효과를 극대화하고 장기적인 학습 성공을 도울 수 있습니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Garvin Brod",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "Research on the Application of AI in Personalized Education",
+    "url": "https://www.semanticscholar.org/paper/1b54a640d5bb928a34469f6fd7c35f7793a6f6a6",
+    "source": "semantic_scholar",
+    "published": "2023-12-22",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "본 논문은 AI 기술, 특히 자연어 처리 모델과 지식 그래프를 활용하여 학습 상황 분석, 맞춤형 지도, 개인화된 교육 관리 등을 통해 스마트 교육의 핵심인 개인별 맞춤 교육을 구현하고 교육적 효과를 극대화하는 방법론을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Guibin Zhu, Bo Zhao 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Harnessing AI for Education 4.0: Drivers of Personalized Learning",
+    "url": "https://www.semanticscholar.org/paper/cd985d179529293509a81ab2d853806d4c51d37a",
+    "source": "semantic_scholar",
+    "published": "2024-04-25",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "본 논문은 체계적 문헌 고찰을 통해 AI가 개인별 학습 특성, 맞춤형 콘텐츠, 평가 및 피드백, 사용자 인터페이스를 강화하여 Education 4.0 시대의 개인화 학습을 촉진하고, 교육자 역량 강화 및 윤리적 문제 해결의 중요성을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Gina Paola Barrera Castro, Andrés Chiappe 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "Artificial Intelligence in Personalized Education: Enhancing Learning Outcomes Through Adaptive Technologies and Data-Driven Insights",
+    "url": "https://www.semanticscholar.org/paper/5e49f5859b9ff39af30b0a3882f7b5795aed1794",
+    "source": "semantic_scholar",
+    "published": "2025-01-08",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습",
+     "AI 튜터"
+    ],
+    "summary": "AI는 지능형 튜터링 시스템, 적응형 학습 플랫폼, 예측 분석 등을 통해 맞춤형 학습 경험을 제공하여 교육 효과를 높이고 학습 격차를 해소하며, 윤리적 고려 사항을 검토하여 교육 혁신을 주도합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Meltem Taşkın",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "A scoping review on how generative artificial intelligence transforms assessment in higher education",
+    "url": "https://www.semanticscholar.org/paper/de0ee1e7970e9ffff4add57f1fe72623453dae19",
+    "source": "semantic_scholar",
+    "published": "2024-05-24",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "교사 연수"
+    ],
+    "summary": "본 논문은 고등 교육에서 생성형 AI가 평가에 미치는 영향을 체계적으로 분석하여, 학생들의 자기 주도 학습 능력 함양, 교사의 전문성 개발, 그리고 기관의 정책 재검토를 통해 평가 방식을 혁신해야 함을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Qi Xia, Xiaojing Weng 외 1명",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "구글, 'AI 모드'에 뉴스 기능 강화...미디어 반발 무마 나서",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204715",
+    "source": "AI Times",
+    "published": "2025-12-11",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "구글의 AI 뉴스 기능 강화 시도는 언론과의 상생 모델 구축과 동시에 AI 뉴스 서비스 경쟁력 확보를 위한 전략적 행보입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "OpenAI, 구글의 Gemini 3와 경쟁하기 위해 GPT-5.2 공개 By Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81OHdJZFZjbnR3RFRrYllTQUo0b1lwa3BYMmwzcHlIOEZVT2liUTBWSFdPUjNHa2c4ODRTQ2UzYm5QbzlJdnBhZWxFUnBoODd6Z1VNeGdBd0I0dXJBbWdQc3VycEwybWxtdDMzWm9LdUM?oc=5",
+    "source": "Investing.com 한국어",
+    "published": "2025-12-11",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Google",
+     "Gemini",
+     "ChatGPT"
+    ],
+    "summary": "OpenAI의 GPT-5.2 공개는 AI 모델 경쟁 심화를 예고하며, 기술 혁신 가속화 및 시장 선점 경쟁을 더욱 치열하게 만들 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "아캐인, 스푼랩스 투자 유치...”AI 숏폼 콘텐츠 초고속 제작 시스템 구축”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204721",
+    "source": "AI Times",
+    "published": "2025-12-11",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [],
+    "summary": "아캐인의 투자 유치는 AI 기반 콘텐츠 제작 효율성 극대화를 통해 숏폼 콘텐츠 시장 경쟁 심화에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "AI 스마트 안경, 개인정보 보호 우려에 직면",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204707",
+    "source": "AI Times",
+    "published": "2025-12-11",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 스마트 안경의 개인정보 논란은 기술 발전과 윤리적 책임 간 균형의 중요성을 부각하며, 관련 산업 성장에 제약 요인으로 작용할 수 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[게시판] 이파피루스, ‘문서데이터 추출 솔루션’ 다운로드수 전년 대비 5배 증가 등 단신",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204726",
+    "source": "AI Times",
+    "published": "2025-12-11",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [],
+    "summary": "이파피루스의 문서 데이터 추출 솔루션 성장은 AI 기반 문서 처리 자동화에 대한 기업 수요 증가 추세를 반영합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "'구글 등장에 깜짝' 챗GPT 한달만에 새 버전 공개…불붙은 AI 대전",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16bXBJdjRhYmp0bE1BYWlCYkI3SGo2cV9Od0prWkRNU3gzMDVldGZJT1E5WENleUxwQ3FoYWNOR0lMMWo2b1pZaE1WbEtHUUlBY0sw?oc=5",
+    "source": "네이트",
+    "published": "2025-12-11",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Google",
+     "ChatGPT",
+     "OpenAI"
+    ],
+    "summary": "구글의 강력한 AI 경쟁 속에서 OpenAI의 신속한 기술 발전은 AI 기술 경쟁 심화와 함께 시장 선점의 중요성을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "\"챗GPT에서 포토샵, 구글 '나노 바나나' 꺾을까\"...치열해진 AI 이미지 경쟁",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DeFZTN18xVmxLMWVtUUNkYzZMLTdseWxnc0p0Yi1oQWpsY0g2UWJXbUZLQjNiY3dxUDdpX1FNU0QzdDUtWDcxTE5JOXBwSFhETDlFUWcyeG1vd9IBXkFVX3lxTE1PN1dMYmNqWEhoNmMzd3RCZmM4ZTRMbnpxaWp3Mmhtc0lxRVNONFNhRFE2TE94OS1LNVI1engxZFZ0Sk9FbzlwQUJTZVRQVmhpd2Y4Z09fYm1WTkJtQUE?oc=5",
+    "source": "파이낸셜뉴스",
+    "published": "2025-12-11",
+    "keyword": "구글",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Google",
+     "Gemini",
+     "영상·이미지 생성"
+    ],
+    "summary": "AI 이미지 생성 기술 경쟁 심화는 창작 도구 혁신과 시장 확대를 가속화하며, 관련 기술 플랫폼의 경쟁력 확보가 중요해질 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "목암연구소, 세계 최고 AI 학회 ‘뉴립스’서 논문 등재… 신약개발 AI 불확실성 해결 앞장",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rM2REelowUVhFN0loaDE5THF6NVMycmVSZWQwanh6bFVZaFBLQ2hoYlNleFkyWm1wSjR0T0V3NTlhSlF5TVREaU5vVGZmNEd2V2J3MEdHLTlsX1VJd0hEamlZVjM1UXpsbW93ek1OX2dIN1BZ0gFyQVVfeXFMUC1tRzJUc0Q4YThkX1Y1Tl8yMVJNS0JPLTRxcXBhejZaUjdObGV3VG5jekpKWWNkOEpoNTJqbGE5enlKOTloLWRVTENseVh5dzR4UGlsUWF0QllzTzJ0Njg0VU4ybGlkMTdROE9nY1ozd0V3?oc=5",
+    "source": "메가경제",
+    "published": "2025-12-11",
+    "keyword": "AI연구",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "목암연구소의 뉴립스 논문 등재는 신약 개발 AI 분야의 불확실성 해소에 기여하며, 제약-AI 융합 연구의 발전과 산업 적용 가속화에 긍정적 신호탄이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "구글 딥마인드, 영국에 첫 'AI 자동화 연구소' 연다…AI 과학 혁명 가속화 시동",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51SVFzR3BiQndpYnpIRC1RWm9LLVdpNU14NTJ1YnZmSjlDcUhQZDV5S0M3eWtxNmNLdjBRMFdZeFJiTk5mYlJ3ZHVTenR3SVNlYzBCWVEwNWNxdThiOXRoXzdJXzA2NmoySlN6NWRn0gFyQVVfeXFMTTE0cndFTjh1dV9YbmpyMFpEQmJRaEdEWUF6X2hhZ1VqMXpSbllvR0Z5UUwwdDkxYkx3NUpuZnZ4Yy1fcmhpcE1iTTcxN013bTRZUzQtM3J3bHI5T2RsOTdXOFJzNmdCYmtrV3BjX0J4alpn?oc=5",
+    "source": "AI포스트",
+    "published": "2025-12-11",
+    "keyword": "구글",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "딥마인드의 영국 내 AI 자동화 연구소 설립은 AI 연구 개발의 효율성을 극대화하여 AI 과학 혁명을 가속화할 것으로 예상됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "LLM, VLM, SLM 차이점 완벽 정리: AI 모델 기술 용어 완벽 가이드",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05RUtUcTFPczBva1FwRVBvZnJ0WktXQTZJSTJqYW5PRnI5R2NidHhzQVFFYXM5SE55UDBfNGVENmlPVVpTalV6SEZFUUZ4VW1pOGtXN1pHLTVsWlhiRXlNS0x6ODZWTERhbkdaSmpEQ0Q?oc=5",
+    "source": "디지털포커스",
+    "published": "2025-12-11",
+    "keyword": "LLM",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "LLM"
+    ],
+    "summary": "LLM, VLM, SLM의 명확한 구분은 AI 기술 발전 방향성을 제시하고, 기업들이 특정 목적에 맞는 모델을 효율적으로 선택하여 활용하도록 돕는 핵심적인 가이드라인입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI와 에듀테크가 영양 교육부터 한국어 교육 혁신, 미래 교육 방향 설정까지 교육 전반에 걸쳐 긍정적인 변화를 이끌고 있으며, 동시에 윤리 및 문해력 교육 강화, 지역 간 균형 성장, 유아 식습관 개선 등 다각적인 노력을 통해 미래 교육의 질적 성장을 추구하고 있습니다",
+  "tech": "AI 기술 경쟁 심화 속에서 구글, OpenAI 등 주요 기업들의 AI 모델 성능 강화 및 기능 확장, AI 기반 콘텐츠 제작 및 신약 개발 등 다양한 분야로의 적용 확대가 가속화되며 AI 기술 생태계는 더욱 빠르게 진화하고 있다."
+ }
+}

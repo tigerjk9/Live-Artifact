@@ -1,0 +1,416 @@
+{
+ "date": "2026-04-23",
+ "generated_at": "2026-11-02T11:35:20+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[김대성 칼럼] 학교를 민원의 최전선에 세워둘 것인가?",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=30165",
+    "source": "에듀프레스",
+    "published": "2026-04-21",
+    "keyword": "",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "민원은 이제 학교의 일상을 흔드는 구조적 위협이 됐다최근 학교 현장을 보면, 민원은 더 이상 단순한 불편 제기나 행정적 요청의 수준에 머물지 않는다. 예전에는 학교 안에서 조정되고 흡수되던 갈등이 이제는 반복적인 문제 제기, 악성 민원, 법적 분쟁의 형태로 확대되며 교실 안까지 직접 침투하고 있다. 수업과 생활지도를 책임져야 할 교사들이 교육보다 민원 대응",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "대구시교육청, IB 월드스쿨 상반기 수업 공개…전국 교원 2500명 몰린다",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43eVpmWEE3LUs3eVg4Wi1EU2NsSmlDZFFlU190SERJZmtkWkRqUEx3ZjMtSEUyc3hrMWo1LXlxcFdjOEpaNDdrQjgyR3N5RHFGcFZOT0w4Vkh6M1lPTzZQd0hBMUZScDJo?oc=5",
+    "source": "대경일보",
+    "published": "2026-04-22",
+    "keyword": "현장교사",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "대구시교육청",
+     "IB"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 3,
+    "title": "기후위기 속 ‘미래 먹거리’ 에코스마트팜 운영… 인천시교육청, 교육현장에서 답을 찾다",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iZzYtX1FhUGVpbGFMT3lRSGU0ZWphcXdBb1RnVHBUcHdaald2ektUMy1wY2YzR0Q0cTBkVjdtak91VEhxajVCNm1xSldGcVE?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-04-22",
+    "keyword": "교육현장",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 4,
+    "title": "경기도교육청, 지역 교육협력 모델로 미래교육 확대",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WREVkdUo5YVNvQzZBbTFQZ3E1cEJaaDAza0dfZmVSUDdkOE1hd1BiX1NNRF9oQmpJTVJaSk03LUNWN0lxNi1keWtBSjdGckdpUGJTLThCV2t0czZISWlmYzl2TTRjc3ZkS0VGSjhwa9IBb0FVX3lxTE5WREVkdUo5YVNvQzZBbTFQZ3E1cEJaaDAza0dfZmVSUDdkOE1hd1BiX1NNRF9oQmpJTVJaSk03LUNWN0lxNi1keWtBSjdGckdpUGJTLThCV2t0czZISWlmYzl2TTRjc3ZkS0VGSjhwaw?oc=5",
+    "source": "한스경제",
+    "published": "2026-04-22",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 5,
+    "title": "[심층 진단] 교육 격차 해소와 기업의 사회적 책임: 바인그룹 '상상코칭'이 시사하는 에듀테크의 공적 역할",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSQUJmVHJaNUljeHEzR21mRDBQdFJ2bzJWOVptZ3lvSkhXQWpHeEdRV004bGM3VXE0SXJ0WDhzRUgtY2FLQjRpcXRoY3VzdjRaRWotTDV0U041QWFGcWhUVThTZXZWTlB5REE?oc=5",
+    "source": "뉴스밸류",
+    "published": "2026-04-22",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": "feature",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 6,
+    "title": "“사교육 줄이고 교육 살리자\"...3개 교육단체, 6대 영역 25개 교육정책 발표",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YQzU4T3EybmlLeUFka3kySVM0RTQyOG9JdzhmazBPcEgwbkdIZW9IMVpLS2szUVlvSkN0Y1hoOGRSbWU5Q1pYNElaWFJsZUhrRjB1U1l3X1RBV3JXWVc4N25EengzTi1T?oc=5",
+    "source": "한국NGO신문",
+    "published": "2026-04-22",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "사교육"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 7,
+    "title": "이병도 후보, 학부모와 현장 중심 교육정책 소통",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40el8zLXZHN2hFbXIybTRENHVUX0tDZHlMS2h3Y3VHdWNLRjFnRnZqVmM0WWU3Z1NYRmtyNFdIWVpVOGgtanhYYmhpZXgxR1ptMGo0?oc=5",
+    "source": "네이트",
+    "published": "2026-04-22",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "칠곡 학부모회장협의회 출범…교육정책 참여 본격화",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MY0JLVHBxckRXV3plVWZ2a1FTUm1XVGFnMWE0NTdZMHh1WEtXUEpERXR3TkdSSko0Q0wzdDBWLXVjdzYyNjNGdm5ieDFFTUI2aDY0NTJDOGF1MTc2eG0waUFTWVFIaU5PTnVqYVpWQQ?oc=5",
+    "source": "kyongbuk.co.kr",
+    "published": "2026-04-22",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "국교위 제2기 국민참여위 내일 발족…\"교육정책 사회적 합의\"",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ycS1jV0JiRmhrNURUM1lCTmt2RmpMQ2JBUXdPQ0dqemYyTGlRYjhNZVd0aDlfY2x4aTlOdGZUMkhmMkpyZk5JLVZPYnF5bGFsd3NqamVLaXhCelVDMmZtZNIBYEFVX3lxTE9ycS1jV0JiRmhrNURUM1lCTmt2RmpMQ2JBUXdPQ0dqemYyTGlRYjhNZVd0aDlfY2x4aTlOdGZUMkhmMkpyZk5JLVZPYnF5bGFsd3NqamVLaXhCelVDMmZtZA?oc=5",
+    "source": "연합뉴스",
+    "published": "2026-04-22",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 10,
+    "title": "김진경 도의회 의장, 시흥 사립유치원연합회 정담회...유아교육 현장 목소리 청취",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1jZUFQM0Q5NXIzTERQaDJFRWdxOXVOZzUzZ2ktZmdiZzRnQ1h1TTI4RWFtSlBLanh1SFdud19makpPa1k0RVpiQWVrWU53cDdIRmdfeG52bFBjSEIzVTVCVTRB?oc=5",
+    "source": "경기신문",
+    "published": "2026-04-22",
+    "keyword": "교육현장",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "The Effect of Project-Based Learning on Learning Motivation and Problem-Solving Ability of Vocational High School Students",
+    "url": "https://www.semanticscholar.org/paper/f188e5775fedfa691a7bb9f5624545521808d216",
+    "source": "semantic_scholar",
+    "published": "",
+    "keyword": "high school",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "Due to pay too much attention to pencil-and-paper test, lacking of learning motivation and problemsolving ability are quite popular for the vocational high school students in Taiwan. This study develo...",
+    "implication": "",
+    "ai": false,
+    "authors": "C. Chiang, H. Lee",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "Spatiotemporal Link Formation Prediction in Social Learning Networks Using Graph Neural Networks",
+    "url": "http://arxiv.org/abs/2604.18888v1",
+    "source": "",
+    "published": "2026-04-20",
+    "keyword": "K-12 education",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 그래프 신경망을 활용하여 사회적 학습 네트워크에서 시간적 변화와 공간적 통합을 고려, 미래 상호작용을 예측하고 교육 현장에서의 협력 학습 및 맞춤형 개입을 지원하는 효과적인 링크 예측 모델을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Ali Mohammadiasl', 'Bita Akram' 외 2명",
+    "pdf": "http://arxiv.org/pdf/2604.18888v1"
+   },
+   {
+    "n": 3,
+    "title": "Teaching Usable Privacy in HCI Education: Designing, Implementing, and Evaluating an Active Learning Graduate",
+    "url": "http://arxiv.org/abs/2604.17796v2",
+    "source": "",
+    "published": "2026-04-20",
+    "keyword": "K-12 education",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 HCI 분야에서 실용적 프라이버시 교육을 위해 사례 연구, 역할극, 연구 프로젝트 기반의 능동적 학습 과정을 설계, 구현, 평가하여 학생들의 프라이버시 설계 능력 향상 및 이론-실무 연계 강화에 기여하며, 교육 자료를 공개하여 확산을 도모합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Sanchari Das', 'Dhiman Goswami' 외 3명",
+    "pdf": "http://arxiv.org/pdf/2604.17796v2"
+   },
+   {
+    "n": 4,
+    "title": "Systematic review of research on artificial intelligence applications in higher education – where are the educators?",
+    "url": "https://www.semanticscholar.org/paper/04de4d9eb0d53025c8ab6c99d1e743f4c1bc1eb6",
+    "source": "semantic_scholar",
+    "published": "2019-10-28",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 2007년부터 2018년까지의 AIEd 관련 논문들을 체계적으로 분석하여 고등 교육에서의 AI 활용 분야를 제시하고, 컴퓨터 과학 및 STEM 분야의 연구가 주를 이루며, 교육적, 윤리적 접근과 비판적 고찰의 부족을 지적하며 향후 교육 분야에 AI가 효과적으로 적용되기 위한 방향성을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Olaf Zawacki-Richter, Victoria I. Marín 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "A scoping review on how generative artificial intelligence transforms assessment in higher education",
+    "url": "https://www.semanticscholar.org/paper/de0ee1e7970e9ffff4add57f1fe72623453dae19",
+    "source": "semantic_scholar",
+    "published": "2024-05-24",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "본 논문은 고등 교육에서 생성형 인공지능이 평가에 미치는 영향을 체계적으로 검토하고, 학생의 자기 주도 학습 능력 함양, 교사의 전문성 개발, 기관의 정책 재검토를 통해 평가 방식을 혁신해야 함을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Qi Xia, Xiaojing Weng 외 1명",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "LG AI연구원, 엔비디아와 'K-엑사원' 생태계 확장 맞손",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=209611",
+    "source": "AI Times",
+    "published": "2026-04-22",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "LG",
+     "NVIDIA"
+    ],
+    "summary": "LG AI연구원과 엔비디아의 협력은 국내 AI 생태계 경쟁력 강화와 AI 기술 혁신 가속화에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "오픈AI, 챗GPT에 24시간 작동 에이전트 기능 '에르메스' 테스트 중",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=209616",
+    "source": "AI Times",
+    "published": "2026-04-22",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT",
+     "에이전트"
+    ],
+    "summary": "오픈AI의 에르메스는 AI 에이전트 경쟁을 심화시키고, 궁극적으로 인간의 업무를 자동화하는 데 박차를 가할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "소프트스퀘어드, 문병용 전 AWS 코리아 교육사업총괄 영입",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=209614",
+    "source": "AI Times",
+    "published": "2026-04-22",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "Amazon"
+    ],
+    "summary": "소프트스퀘어드의 AWS 전문가 영입은 클라우드 기반 AI 솔루션 경쟁력 강화 및 관련 시장 확대를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "한국딥러닝, 제미나이·GPT 제치고 글로벌 OCR 벤치마크 1위 달성",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=209602",
+    "source": "AI Times",
+    "published": "2026-04-22",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Gemini",
+     "벤치마크"
+    ],
+    "summary": "한국 딥러닝 기술이 글로벌 OCR 벤치마크에서 1위를 차지하며, 특정 분야 AI 기술 경쟁력 확보를 통해 수입 대체 및 해외 시장 진출 가능성을 높일 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "'카카오톡에서 AI가 먼저 말을 걸어 온다'...에이전틱 AI '카나나' 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=209618",
+    "source": "AI Times",
+    "published": "2026-04-23",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "카카오",
+     "온디바이스 AI"
+    ],
+    "summary": "이제 카카오톡에서 '카나나'를 통해 자동으로 제안 및 추천을 받을 수 있다.카카오(대표 정신아)는 22일 '카나나 인 카카오톡(Kanana in KakaoTalk)' 기능을 정식 출시했다. 이 기능은 카카오톡 온디바이스 AI 서비스로, 카카오톡 25.9.0 버전 이상부터 사용할 수 있다.이 기능은 2025년 10월부터 iOS 일부 사용자를 대상으로 비공개",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "구글, 연구 에이전트 '딥 리서치 맥스' 출시...기업 데이터·웹 통합 분석",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=209579",
+    "source": "AI Times",
+    "published": "2026-04-22",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Google",
+     "에이전트"
+    ],
+    "summary": "구글의 딥 리서치 맥스는 기업 데이터 분석 시장 경쟁 심화와 함께, AI 기반 정보 분석 및 의사결정 자동화의 확산을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "OpenAI helps Hyatt advance AI among colleagues",
+    "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+    "source": "OpenAI Blog",
+    "published": "2026-04-20",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT",
+     "코딩 AI"
+    ],
+    "summary": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+    "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
+    "source": "OpenAI Blog",
+    "published": "2026-04-13",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "에이전트",
+     "OpenAI",
+     "ChatGPT",
+     "코딩 AI"
+    ],
+    "summary": "Cloudflare brings OpenAI’s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "OpenAI launches workspace agents that turn ChatGPT from a chatbot into a team automation platform",
+    "url": "https://the-decoder.com/openai-launches-workspace-agents-that-turn-chatgpt-from-a-chatbot-into-a-team-automation-platform/",
+    "source": "The Decoder",
+    "published": "2026-04-22",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "에이전트",
+     "ChatGPT"
+    ],
+    "summary": "OpenAI의 워크스페이스 에이전트는 챗봇을 넘어 기업 자동화 플랫폼으로 진화, AI 생태계 내 경쟁 심화 및 산업 전반의 생산성 향상을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "Accelerating the cyber defense ecosystem that protects us all",
+    "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
+    "source": "OpenAI Blog",
+    "published": "2026-04-16",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 기반 사이버 방어 생태계 가속화는 관련 기술 및 서비스 시장 성장을 촉진하고, 기업들의 사이버 보안 투자 확대를 유도할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

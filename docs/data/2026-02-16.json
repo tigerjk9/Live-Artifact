@@ -1,0 +1,173 @@
+{
+ "date": "2026-02-16",
+ "generated_at": "2026-11-02T11:52:13+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[Pocus 칼럼] 2027년 창의성 종말의 경고… ‘매끄러운 교실’이 위험하다",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QTDc5Nmk3ZVp3dWt3dTFZLWl4UTFaVXhIYjRMWnFhZ2JpU1M1b1FMU3RrcnZsa3JuYjRDcExfdEpfWUNIb05Pb0VLZjNRVjFvREE?oc=5",
+    "source": "유스연합",
+    "published": "2026-02-15",
+    "keyword": "AI교육",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "획일적인 '매끄러운 교실'은 학생들의 창의성을 저해할 수 있으므로, 교육 현장에서 다양성과 자율성을 존중하는 교육 방식 도입이 시급합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "광주광역시교육청, 광주교육 ‘심스페이스’로 사회정서학습 강화",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5fZkpscWRmRzVQUndVTWRmQnE0MG1RcnR5QzFFcHBiekk2VncwN0ExZVBNak51M2Ewc3RjQm5pWEJrU281LTFBMnBqNWx6aFY3RFpHcQ?oc=5",
+    "source": "시사의창",
+    "published": "2026-02-15",
+    "keyword": "인공지능교육",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [
+     "광주시교육청"
+    ],
+    "summary": "광주교육청의 심스페이스는 사회정서학습 강화를 통해 학생들의 전인적 성장 발달에 긍정적인 영향을 미칠 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "경기도교육청, 2022 개정 직업계고 학점제 이해 연수 ‘인공지능 융합(AI+X) 교육과정’ 운영",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNZTI1ZFlCWnJmTVdpQld5ZmlHSFN6SDRpVFVwZGV5LVB3QkJpY0RoRFlsVkVVZGRsc2FpV0lzdUtPRWdqQmRuc3BWWnNFaGhSNFE5c0dRR2FjamdMSkNZSHB3WVVlTHc0UEV0UXNlT3o?oc=5",
+    "source": "한국강사신문",
+    "published": "2026-02-15",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "직업계고 학점제와 AI 융합 교육과정 연수는 미래 사회에 필요한 역량을 갖춘 인재 양성에 기여할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "전북교육청, 수업혁신 성장인증 교사 38명 배출... 수업 리더 양성",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XVlkyREJ2S0l2am9RcTNxQ2o1eXV1TGpyOGctaXJEalB1V0xCRXVNTVY0X3VPYkxlY1hPeUdMSVI0ay1YVlJQSGR2LWdaT1c0eFE?oc=5",
+    "source": "전라매일",
+    "published": "2026-02-15",
+    "keyword": "교육혁신",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "전북교육청"
+    ],
+    "summary": "수업 혁신 성장인증 교사 배출은 교사의 전문성 신장과 학교 교육력 제고에 긍정적인 영향을 미칠 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "경기도교육청국제교육원, 인공지능 기반 교원 역량 개발 시스템 ‘ G-LINK’ 도입",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KZDJZT25ZYnRkRHFQbUlZMWtvYWtDZXEwd3lkNXlOT2VscHdSNGJlNVlXanNJbVExSm1fVmQyVUp5VmFXUmZjUHdaNWxubEs1UEZ1elBVcGRYRWk4Z0haa1ljdWNmQ29y?oc=5",
+    "source": "인천교육일보",
+    "published": "2026-02-15",
+    "keyword": "인공지능교육",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "G-LINK 도입은 교사의 AI 활용 역량 강화 및 맞춤형 연수를 통해 교육 혁신을 가속화할 가능성을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "대전교육정책연구소, 정책 활용도 높은 자체연구 본격 추진",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzODZKSHZISlFGdVlweV9mMlRCcFdrY1VJRVNyb0JMeVIyZWZEZ1llLWlPUzFBVmVIZjJsbVN0RGhnMFZyY001alZzeHY0N0h2eFZuanFzM0U0cng1MVB1SUxvMkl3Zw?oc=5",
+    "source": "코리아플러스",
+    "published": "2026-02-15",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "대전교육정책연구소의 정책 활용도 높은 자체 연구 추진은 현장 적합성 높은 교육 정책 개발 및 실행 가능성을 높여 궁극적으로 대전 교육 발전에 기여할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "[교육감선거 인터뷰-서울] 한만중 “강남·강북 지역격차 문제...태어난 곳이 교육의 결과 되면 되겠나”",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlWTRYdW9Eb1lNLWtSd2N6T01UQk5JV3EzZ0ZHcEMwTFBwMlFnNEZkcG4zT2sxVWNRNHlZNTVPTTlwUTVKeUNQT2U0V2paX25pdVFSRXRHaU04T1U?oc=5",
+    "source": "더에듀",
+    "published": "2026-02-15",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": "interview",
+    "entities": [
+     "교육감 선거"
+    ],
+    "summary": "한만중 후보의 발언은 교육 격차 해소를 위한 균등한 교육 기회 제공이 시급한 과제임을 강조하는 것으로 해석됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "[6·3 지선 주자] 이건주 \"'현장 전문성' 있는 교사 출신 교육감 필요\"",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLTTZ5eloxaFJUMmhPVzB5VXFuQnhPVmNEYU1tZGx1OFZRV0hfT0FaVXoycUVTUi1IX3NISDNVZHZ2b1pqWXo3SnNybmo0Z0htVERlZ2x3?oc=5",
+    "source": "네이트",
+    "published": "2026-02-15",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "교사 출신 교육감 주장은 교육 현장의 전문성을 강조하며, 교육 정책 결정 과정에 교사의 참여를 확대해야 함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "교육부, '고교학점제·2028 대입' 개편안 확정··· 입시 전략 전면 재편 불가피",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xMWVhaXlJV25KdjIxQjhwTWJQMUVyZXJHbmpocjRzWnh5TFNndHZjZGYwcVdRYnJMaDhfdlNCRVlzUmJhT3lGVXdUUC13RzUxR0dyb1VzN21ueWtmRnpqZ1VucmQwZw?oc=5",
+    "source": "교육을 비추다",
+    "published": "2026-02-15",
+    "keyword": "에듀테크",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [
+     "교육부",
+     "고교학점제",
+     "수능·대입",
+     "개인화 학습"
+    ],
+    "summary": "고교학점제 및 2028 대입 개편안 확정은 입시 전략 재편을 넘어, 학교 교육과정 운영과 학생 맞춤형 학습 지원에 대한 근본적인 변화를 요구하는 시발점입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "경북대사대부중, 전국 국·공립 최초IB MYP 프로그램 평가 성공적 수행",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zTEFTSkZXWWRNTElrdFdXZEpVaGdtQTl0dUhqY3RzdF9BTkloRVR4RzI1dzZPa3BGU05yQ3JNaTFFOGFfTnhJRlFSQlZRSkpZMU53LUdpQUdDSTdFYXRsQUFGZw?oc=5",
+    "source": "리더스타임즈",
+    "published": "2026-02-15",
+    "keyword": "디지털교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "IB"
+    ],
+    "summary": "경북대사대부중의 IB MYP 성공적 평가는 공교육 혁신과 학생 중심 교육 모델 확산에 긍정적 영향을 줄 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [],
+  "tech": []
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 기술 융합과 사회정서 학습 강화, 고교학점제 도입, 교원 역량 개발 및 교육 격차 해소를 통해 교육 혁신을 가속화하며 미래 교육으로 나아가는 움직임이 활발"
+ }
+}

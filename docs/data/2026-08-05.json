@@ -1,0 +1,405 @@
+{
+ "date": "2026-08-05",
+ "generated_at": "2026-11-02T11:41:04+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[사설] AI시대, 안민석 교육감의 ‘경기 LAS 문예체 교육’을 주목한다",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HdEV4VnhrME9takxwWEVRcjR1aEtzUVMzSWVhWVNzSEN2aGNwZEUyOXdJVWxnMF9vV0NCczliMmdqbm9XX1NtWm1OQ0MzSTdLWmx5dnh4UWV3S3I5T2ZuYnlIa2g0cm1sb2lr?oc=5",
+    "source": "수원일보",
+    "published": "2026-08-04",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "수원일보 사설은 AI 시대에 안민석 교육감의 ‘경기 LAS 문예체 교육’에 주목하고 있음을 보도합니다.",
+    "implication": "경기 지역 교사들은 학교 교육과정에 문예체 활동을 더욱 적극적으로 반영할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[인터뷰] 오석진 대전시교육감 “AI교육으로 학생 개개인 가능성 키울 것”",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE80VWE3OWZVck5ibU1VTW9RQ3BDMnJ5ck5DeUdyZWU1QlZreHNLQ3BUX3R3emRvU0g5cmNORzc4bkRHVHVUWkZXcEMzQ3lpSkRQYXFXWlBJOEZKLTNMYUNrR2xSVExGNTVjT1E?oc=5",
+    "source": "구글 뉴스",
+    "published": "2026-08-03",
+    "keyword": "",
+    "topic": "classroom",
+    "kind": "interview",
+    "entities": [
+     "대전시교육청",
+     "개인화 학습"
+    ],
+    "summary": "오석진 대전시교육감은 인터뷰에서 AI 교육을 통해 학생 개개인의 가능성을 키우겠다고 밝혔습니다.",
+    "implication": "개별 학생의 잠재력을 키우는 AI 기반 맞춤형 학습을 수업에 바로 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[기획] 포천시, 포천형 교육정책 성과… 교육혁신선도지역 도전",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51SWtLSWZKcVQybWplOEdKYWxCT1pJZGxLaDY1TzJ0T2kyRW5CTERMRUJscHpFb29Tc0VMV1hSNmhJcTdWd2hSSzlUdGxiTnhIRElyR0lEbXdXMjIyLTZWcjhXTndhS19ZLXV3?oc=5",
+    "source": "일간투데이",
+    "published": "2026-08-04",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": "feature",
+    "entities": [],
+    "summary": "포천시가 포천형 교육정책의 성과를 바탕으로 교육혁신선도지역 도전을 추진합니다.",
+    "implication": "포천시 교육혁신 사례를 학생들과 조사하고 우리 지역 교육에 적용할 방안을 토의하는 수업을 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "안민석 교육감 “학교현장 바꾸는 교육전문직원 돼야”",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpR0Mtd3pFYkhfR3hYOXNvZk9EMzBBVmM0bG1HSjRnYkhmVmtqbkIwN1hyQTJOMTM1VWptdlFjcGdOQ1JGd2tMblBKQTNsTlVPV3A2VUtJNVdCOHBjNl9oejg1aTBSZw?oc=5",
+    "source": "경기연합신문",
+    "published": "2026-08-04",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "안민석 교육감은 학교 현장을 변화시키는 교육전문직원의 역할을 강조했습니다.",
+    "implication": "교육전문직원의 현장 중심 지원을 받아 수업 방식을 개선할 기회로 삼을 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "안민석 교육감, AI 기반 미래교육 확대…교육정보 접근성과 정책 소통 강화",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0MFAwdWNfY0hkd01Xc184eXRwNmVLcVkzZ0U1NExWQlFBYlV2bWxDNFY5dm50aVpvczZYYi1ram5ZZV9sRl9Qa0F3cURjT2l1ZWJ5Q2xhb0p2bnVQRXBkZ0g4alNJZGFLMlMwdHZn?oc=5",
+    "source": "투어코리아",
+    "published": "2026-08-04",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "안민석 교육감은 AI 기반 미래교육을 확대하여 교육정보 접근성과 정책 소통을 강화할 예정입니다.",
+    "implication": "AI 기반 미래교육 확대로 학생 개인별 맞춤 학습 자료를 제공하는 데 AI를 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "[2026 기초기본캠페인] 질문으로 배우고 함께 성장하다… 대전유천초 교실수업 혁신",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IdTViNXpad0ZuclNmYTJlbFFQRTVTeFU3VnFHQ2QtSjdEc1g2Y0JCaHpKbFpQcy1WT3dHSkNaSzhzLS1XSkdaT0I3d05McmNKRTlJSjNVT2NpWVFyMWpBU3BxWHQ?oc=5",
+    "source": "중도일보",
+    "published": "2026-08-04",
+    "keyword": "과정중심평가",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "대전유천초가 2026 기초기본캠페인의 일환으로 '질문으로 배우고 함께 성장'하는 교실수업 혁신을 추진하고 있습니다.",
+    "implication": "학생이 질문으로 스스로 배우고 함께 성장하도록 수업을 설계할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "‘수능 D-100’ 최고난도보다 ‘반복해서 틀리는 문제’를 잡아라",
+    "url": "https://news.unn.net/news/articleView.html?idxno=595540",
+    "source": "한국대학신문",
+    "published": "2026-08-05",
+    "keyword": "",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [
+     "수능·대입",
+     "개인화 학습"
+    ],
+    "summary": "수능 D-100 수험생은 구체적 목표 설정, 반복해서 틀리는 문제 공략, 학습 리듬 유지를 통해 효율적인 전략을 세워야 한다.",
+    "implication": "학생들이 9월 모의평가 오답을 분석하여 약점을 파악하고 맞춤형 학습 전략을 수립하도록 구체적으로 지도할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "세종시의회, 교육 현안에 대한 현장 목소리로 해법 찾는다",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFb1ZOZzdNTlkyaExCR2dWSTM3R19XcVV2a2xqRUlwSWlacHJDYmxtSEpRR1lhSzUyazIzTnl5amdLZnM3SjJwYmd1OFpKZDd6MjdjaEtwd05DUQ?oc=5",
+    "source": "브릿지경제",
+    "published": "2026-08-04",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "세종시의회가 교육 현안의 해법을 현장 의견 수렴을 통해 모색하고 있습니다.",
+    "implication": "우리 반 수업에 적용된 교육 현안의 문제점을 알리고 해결에 참여할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "AI로 수업 짜고 맞춤 피드백…전남 초등영어 교실 변신 기대",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsdDFHa2o0TEZFUTZud29hV3FwbU5mLWxQQ2hDSU9iNGswdU5qYjhaVWZSY3B6RnktSGR3RTZYWmxkTUdORU1fUUhBTk81R3Y3YXU2azJoT3o1eTU5MXk2N0RpLXgtMEN5WThPcg?oc=5",
+    "source": "ihopenews.com",
+    "published": "2026-08-04",
+    "keyword": "에듀테크",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "전남 초등영어 교실이 AI로 수업 구성과 맞춤 피드백을 제공하며 변화를 기대합니다.",
+    "implication": "AI를 활용해 학생 개개인에 맞는 수업을 구성하고 맞춤 피드백을 줄 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "MS, 성과평가 체계 개편…동료 피드백 기능 없앤다",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1VcGlER3lWZUd2N091YXNva0lfMlNrUUREU3VFazNnUzQ2MXlfb3NreE0tRUJwbzdGcFVGcWlwRUZ1dHp3UzdzUnRlS1pJQ2hKZ05BelZhMk5zODY2MUJncmljY1JhdkhOZW1pSkE1dFVKSUE?oc=5",
+    "source": "디지털투데이",
+    "published": "2026-08-04",
+    "keyword": "AI디지털도구",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "Microsoft"
+    ],
+    "summary": "MS는 성과평가 체계를 개편하며 동료 피드백 기능을 없앱니다.",
+    "implication": "기업이 동료 피드백을 평가에서 제외하는 사례를 통해 피드백의 목적과 한계를 학생들과 탐색할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "AI-Supported Digital Tools for Enhancing Learning Outcomes in Science and Mathematics Education",
+    "url": "https://doi.org/10.70232/jcsml.v3i2.57",
+    "source": "openalex",
+    "published": "2026-08-03",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 AI 기반 디지털 도구가 과학 및 수학 교육에서 개념 이해, 문제 해결, 학습 참여를 증진하여 학습 성과를 향상시키는 인지적, 교육적 지원 시스템임을 혼합 방법론으로 입증합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Edwin Gerardo Acuña Acuña",
+    "pdf": "https://spm-online.com/jcsml/index.php/journal/article/download/57/31"
+   },
+   {
+    "n": 2,
+    "title": "Artificial Intelligence in Arabic Language Education: A Conceptual Review of Trends, Applications, Challenges, and Future Research in the Era of Generative AI.",
+    "url": "https://doi.org/10.58223/al-wazan.v4i1.1017",
+    "source": "openalex",
+    "published": "2026-08-02",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "생성형 AI 시대에 아랍어 교육에서의 AI 적용 현황, 과제 및 연구 방향을 고찰하고, AIALEP 프레임워크를 제안하여 책임감 있는 교육 혁신을 위한 종합적 관점을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Riski Gunawan",
+    "pdf": "https://ejournal.staiduba.ac.id/index.php/alwazan/article/download/1017/521"
+   },
+   {
+    "n": 3,
+    "title": "A Systematic Literature Review of Augmented Reality–Oriented Professional Development Programs for Teachers",
+    "url": "https://doi.org/10.70232/jcsml.v3i2.65",
+    "source": "openalex",
+    "published": "2026-08-03",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "이 연구는 교사의 증강현실(AR) 전문성 개발 프로그램 17개를 체계적으로 검토하여 이론적, 교육학적 지식은 다루나 능동적 학습 활동이 부족함을 지적하며 효과적인 AR 교육 프로그램 개발에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Şahsenem Öz, Bahadır Namdar 외 1명",
+    "pdf": "https://spm-online.com/jcsml/index.php/journal/article/download/65/32"
+   },
+   {
+    "n": 4,
+    "title": "From Chalkboards to Cyberspace: The Role of Augmented and Virtual Reality in Transforming Mathematics Education",
+    "url": "https://doi.org/10.70232/jcsml.v3i2.55",
+    "source": "openalex",
+    "published": "2026-08-03",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "증강/가상현실이 수학 교육, 특히 3D 기하학 이해를 위한 역동적 시각화와 상호작용을 제공하여 학생 참여와 개념적 성장을 혁신적으로 촉진하는 잠재력을 탐색합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Brindha Devi S., Alangaram J.",
+    "pdf": "https://spm-online.com/jcsml/index.php/journal/article/download/55/29"
+   },
+   {
+    "n": 5,
+    "title": "Teachers’ Beliefs and the Flipped Classroom in Saudi Arabia: A Qualitative Study of Science Instruction",
+    "url": "https://doi.org/10.70232/jrep.v3i3.191",
+    "source": "openalex",
+    "published": "2026-08-03",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "사우디아라비아 과학교사들의 플립드 클래룸에 대한 다양한 신념을 질적 연구로 분석하여, 혁신 교육 전략 도입 시 교사의 기존 신념 고려 및 참여의 중요성을 제언합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Fahdah Alanazi, Karthigeyan Subramaniam 외 1명",
+    "pdf": "https://spm-online.com/jrep/index.php/journal/article/download/191/101"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "이스트에이드 \"국내 최초 AI 요약 '줌', 버티컬 에이전트로 진화할 것\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213514",
+    "source": "AI Times",
+    "published": "2026-08-05",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "AI 요약 서비스의 버티컬 에이전트 진화는 AI 산업이 범용을 넘어 특정 도메인에 특화된 고도화된 전문 서비스 중심으로 발전할 것임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "카카오 옴니 AI '카나나-오', GPT-4o 넘었다…한국어 음성 생성 벤치마크 94.5점",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WbnFqZHVud2NaakVtZjJ5WlRxYW9KTVc3aERIOWZVdE9kcURvcFZ1cnJJUk1rR1dqYWE2b1h3aFR0bl9yejJzVnFmb09MWi12VXE0TDhKa1VIUFJEazV5S1pfTWE?oc=5",
+    "source": "매일일보",
+    "published": "2026-08-04",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "카카오",
+     "ChatGPT",
+     "벤치마크"
+    ],
+    "summary": "카카오 옴니 AI의 한국어 음성 생성 기술 우위는 국내 특화 AI 모델의 경쟁력을 강화하고 글로벌 모델과의 차별화된 시장 기회를 창출할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "AI 자율 해킹 책임은 누구에게...법적 논쟁 본격화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213510",
+    "source": "AI Times",
+    "published": "2026-08-04",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 자율 해킹 책임 논쟁은 AI 기술 개발과 활용 전반에 걸쳐 명확한 법적 책임 주체 및 규제 표준 마련을 촉발할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "\"AGI 넘어 RSI로\"…구글이 천문학적 AI 투자를 지속하는 이유",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213506",
+    "source": "AI Times",
+    "published": "2026-08-04",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "구글의 RSI(Responsible, Safe, Inclusive AI) 투자 전환은 AI 산업의 미래 경쟁력이 기술력만큼 윤리적 책임과 사회적 수용성에 달려 있음을 보여줄 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "팀네이버, 남미 AI 데이터센터 사업 정조준...브라질·칠레서 협력 논의",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213526",
+    "source": "AI Times",
+    "published": "2026-08-04",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "네이버",
+     "GPU·데이터센터"
+    ],
+    "summary": "팀네이버의 남미 AI 데이터센터 진출은 AI 인프라의 글로벌 확산을 통해 신흥 시장의 AI 기술 발전과 상용화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "Advancing the price-performance frontier with GPT-5.6",
+    "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "source": "OpenAI Blog",
+    "published": "2026-07-30",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.6이 가격-성능의 한계를 넓힘으로써 AI 기술의 대중화와 산업 전반의 효율성 및 혁신을 크게 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
+    "url": "https://arxiv.org/abs/2607.28629",
+    "source": "arXiv.org AI",
+    "published": "2026-08-04",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "OpenClaw와 Ollama를 활용한 에이전트 AI 발전은 완전 자율적이고 확장 가능한 AI 에이전트 시스템 시대를 앞당길 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "How AI is expanding what people do at work",
+    "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+    "source": "OpenAI Blog",
+    "published": "2026-07-27",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [],
+    "summary": "AI는 인간의 업무 역량과 영역을 확장하는 핵심 동력으로 작용하며, AI-인간 협업 솔루션 시장이 크게 성장할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "OpenAI fires back at Apple's trade secret lawsuit with chat logs showing Apple employees kept texting their former colleague",
+    "url": "https://the-decoder.com/openai-fires-back-at-apples-trade-secret-lawsuit-with-chat-logs-showing-apple-employees-kept-texting-their-former-colleague/",
+    "source": "The Decoder",
+    "published": "2026-08-04",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Apple",
+     "저작권·소송"
+    ],
+    "summary": "AI 인재 확보 경쟁 심화 속, 기업 간 영업비밀 보호 및 관련 소송 리스크 관리가 더욱 핵심적인 과제가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "에디슨의 교훈… \"AI 승자는 '발명가' 아닌 '응용자가 될 것'\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213516",
+    "source": "AI Times",
+    "published": "2026-08-04",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 기술 생태계와 산업은 원천 기술 개발보다 실제 문제 해결을 위한 응용 및 사업화 역량에 의해 승부가 갈릴 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

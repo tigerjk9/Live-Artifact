@@ -1,0 +1,422 @@
+{
+ "date": "2025-11-13",
+ "generated_at": "2026-11-02T11:47:36+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[칼럼] \"사탄탱고에서 엔젤탱고로…절망과 기억의 신경학\"",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIaU5qaDJWcmRvbmo2S1U4UkFFZXNKQm4yeEd5WmMwdXV1QnREaEY0MFBHX0YyamN4YlpyUFM4ZDU5VEUwUmhXMzk2WXp4ODNKYnNF0gFTQVVfeXFMUEhpTmpoMlZyZG9uajZLVThSQUVlc0pCbjJ4R3laYzB1dXVCdERoRjQwUEdfRjJqY3hiWnJQUzhkNTlURTBSaFczOTZZeng4M0pic0U?oc=5",
+    "source": "미디어펜",
+    "published": "2025-11-13",
+    "keyword": "뇌과학",
+    "topic": "student_care",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "절망과 기억의 신경학적 이해를 바탕으로 긍정적 정서 함양 교육을 강화하여 학생들의 심리적 회복탄력성을 높여야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "옥천군 14일 정재승 KAIST 교수 초청 'AI시대 뇌과학' 강연",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85T2tORXMwM21YUmdEa3YwOFlGTHJVUHkwdHNTS0gxTjhTWm1wTDk5OEJuNWtTQk1vTVhNOUhWV1g1NVZnNzZqSkRiaXFBNEZKbWFHal93RDdNT0g5MjBF?oc=5",
+    "source": "뉴스1",
+    "published": "2025-11-13",
+    "keyword": "뇌과학",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 시대에 대한 뇌과학 강연은 교사들이 인공지능 시대의 학습 방식 변화를 이해하고 학생들의 뇌 기반 학습 능력을 향상시키는 데 도움이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "부모·자녀가 함께 듣는 'AI와 뇌과학'",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83YmFUeXFCMUNCX1VpV28teWRINTZLVzNGNTk4OGJvOUxqb0tsQk1uMzNaOVhwSUI2Wmh4cks4eHlsVVFPLW1GU0x3OXZzWDlPUUhfWDZra3BrNFNGVHVoUTVXVHdCMjZ3?oc=5",
+    "source": "충청헤럴드",
+    "published": "2025-11-13",
+    "keyword": "뇌과학",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "AI와 뇌과학 융합 교육은 학생과 학부모에게 미래 사회 핵심 역량을 함양하는 데 중요한 기회를 제공할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "평택 오성초 AI 에듀테크 건강교육… 경기도교육청.에코힐링팜, 전교생 참여 체험형 프로그램 호응",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmY0txVmtfUTVhS1lEOVFOQkhuQWFnUGpKU2ZJQzlEMWh0NURidWlDemUzYmgyZjdrUXlRcHlfZ3ExT29teXl6eU1EQ0Q5RlBVOVBiUWtrTnhXdw?oc=5",
+    "source": "데일리엔뉴스",
+    "published": "2025-11-13",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "AI 에듀테크와 체험형 건강 교육의 융합은 학생들의 건강 증진과 미래 교육 혁신에 긍정적인 시너지 효과를 창출할 수 있음을 보여주는 사례입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[2025 충북에듀테크 콘펙스] 채움플러스, 충북 미래교육 선도 콘텐츠 선보인다",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wM0VhQ05wT0VUbHZoUHg2N3RVYkdkR0FRcUhtODJXS1hJcHpyQU5wbmJGMGs4c1IzZ2FHV1FmWjZ2TjF1bUk1OS1hUHBza1gzMG5Fc0JBcXhMWms?oc=5",
+    "source": "더에듀",
+    "published": "2025-11-13",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "충북에듀테크 콘펙스는 미래 교육 콘텐츠 공유를 통해 학교 현장의 디지털 교육 혁신을 가속화하는 계기가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "인천시교육청, 경인교대와 손잡고 초등 수학교육 혁신 나선다",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Tc2ZfZW5mZ1dnR1ByclltTEtTaFBZbGZHVEh4bGZPamVvSm13d002UTE0NFUyZ0ZVSGE4VktLeXpkOXZLREx3UVVndzBjZlFRZDdwSVgtZ2syUQ?oc=5",
+    "source": "브릿지경제",
+    "published": "2025-11-13",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청과 경인교대의 협력은 초등 수학교육의 질적 향상을 위한 실질적인 교사 역량 강화 및 교육 모델 개발에 기여할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "양원숲초 교육실습 현장 찾은 정근식 서울교육감 “행복한 배움에 감동”",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=21392",
+    "source": "에듀프레스",
+    "published": "2025-11-13",
+    "keyword": "",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "서울시교육청",
+     "교권"
+    ],
+    "summary": "서울시교육감의 교육실습 현장 방문은 교권 존중과 행복한 배움 환경 조성에 대한 의지를 보여주는 긍정적인 신호입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "1급 전원 교체 임박, 술렁이는 교육부",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=21390",
+    "source": "에듀프레스",
+    "published": "2025-11-12",
+    "keyword": "",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "교육부 1급 인사 전면 교체는 교육 정책 방향 전환 및 현장 혼란을 야기할 수 있으므로, 정책 연속성 확보와 소통 강화가 중요합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "“대통령님, 정서적 아동학대에서 교사를 지켜주세요” 전주M초 교사의 호소",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=21389",
+    "source": "에듀프레스",
+    "published": "2025-11-11",
+    "keyword": "",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [],
+    "summary": "교사의 정당한 교육 활동을 보호하기 위한 명확한 법적 기준 마련과 함께, 무분별한 아동학대 신고로부터 교사를 보호할 수 있는 실질적인 대책 마련이 시급합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "[교육정책 우문현답] 위기의 교단, 교사리더십이 필요하다",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=21386",
+    "source": "에듀프레스",
+    "published": "2025-11-10",
+    "keyword": "",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [],
+    "summary": "교사 리더십 함양을 통해 교사들이 교육 주체성을 회복하고 학교 신뢰를 재건하는 것이 시급합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Pedagogy-R1: Pedagogically-Aligned Reasoning Model with Balanced Educational Benchmark",
+    "url": "http://arxiv.org/abs/2505.18467v1",
+    "source": "",
+    "published": "2025-05-24",
+    "keyword": "pedagogy",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [
+     "추론 모델",
+     "벤치마크"
+    ],
+    "summary": "Pedagogy-R1은 교육적 일관성을 갖춘 추론 모델로, 지식, 교육학, 학생 추적, 에세이 채점, 교사 의사결정을 평가하는 균형 잡힌 교육 벤치마크와 교사 스타일 추론을 유도하는 프롬프트 전략을 통해 대규모 추론 모델을 교육 현장에 적용하여 AI 교육의 가능성을 확장합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Unggi Lee', 'Jaeyong Lee' 외 7명",
+    "pdf": "http://arxiv.org/pdf/2505.18467v1"
+   },
+   {
+    "n": 2,
+    "title": "Improving Student-AI Interaction Through Pedagogical Prompting: An Example in Computer Science Education",
+    "url": "http://arxiv.org/abs/2506.19107v2",
+    "source": "",
+    "published": "2025-06-23",
+    "keyword": "pedagogical",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [
+     "LLM",
+     "생성형 AI"
+    ],
+    "summary": "컴퓨터 과학 교육에서 학습 효과를 높이기 위해, 교사들의 요구를 반영하여 개발된 시나리오 기반의 대화형 시스템을 통해 학생들의 LLM 기반 교육적 프롬프팅 능력을 향상시키고 긍정적 태도를 유도함으로써, 생성형 AI의 학습 지향적 활용을 장려하는 교육적 프롬프팅 프레임워크를 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Ruiwei Xiao', 'Xinying Hou' 외 5명",
+    "pdf": "http://arxiv.org/pdf/2506.19107v2"
+   },
+   {
+    "n": 3,
+    "title": "Dialogic Pedagogy for Large Language Models: Aligning Conversational AI with Proven Theories of Learning",
+    "url": "http://arxiv.org/abs/2506.19484v1",
+    "source": "",
+    "published": "2025-06-24",
+    "keyword": "pedagogy",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "LLM",
+     "에이전트",
+     "개인화 학습"
+    ],
+    "summary": "본 논문은 LLM 기반 대화형 에이전트를 교육 이론(비계 설정, 소크라테스식 문답 등)에 맞춰 개인 맞춤형 학습을 지원하는 방법과 한계를 분석하고, 프롬프트 전략 등을 통해 LLM 상호작용을 교육적으로 생산적으로 만드는 방안을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Russell Beale']",
+    "pdf": "http://arxiv.org/pdf/2506.19484v1"
+   },
+   {
+    "n": 4,
+    "title": "Benchmarking the Pedagogical Knowledge of Large Language Models",
+    "url": "http://arxiv.org/abs/2506.18710v3",
+    "source": "",
+    "published": "2025-06-23",
+    "keyword": "pedagogical",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "벤치마크",
+     "LLM",
+     "교사 연수",
+     "특수교육"
+    ],
+    "summary": "본 논문은 교사의 전문성 개발 시험 문제로 구성된 새로운 데이터셋인 The Pedagogy Benchmark를 통해 대규모 언어 모델의 교육학적 지식, 특히 다양한 영역과 특수 교육 요구에 대한 이해도를 평가하고, 교육 분야에서의 책임감 있는 LLM 활용을 위한 지표를 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Maxime Lelièvre', 'Amy Waldock' 외 8명",
+    "pdf": "http://arxiv.org/pdf/2506.18710v3"
+   },
+   {
+    "n": 5,
+    "title": "On the development of an AI performance and behavioural measures for teaching and classroom management",
+    "url": "http://arxiv.org/abs/2506.11143v2",
+    "source": "",
+    "published": "2025-06-11",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 교실 내 센서 데이터와 AI 기술을 활용하여 교사의 행동 패턴을 분석하고, 교사 개발을 지원하는 객관적인 교실 상호작용 분석 시스템 및 대시보드를 개발하여 교사의 자기 성찰 및 수업 개선에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Andreea I. Niculescu', 'Jochen Ehnes' 외 10명",
+    "pdf": "http://arxiv.org/pdf/2506.11143v2"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "MS·구글, 유럽 AI 인프라 확장에 23조 이상 투자",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=203937",
+    "source": "AI Times",
+    "published": "2025-11-12",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Microsoft",
+     "Google"
+    ],
+    "summary": "미국 빅테크 기업의 유럽 AI 인프라 투자는 글로벌 AI 경쟁 심화와 데이터 주권 확보 노력의 중요한 전환점이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "\"개발자 9%만이 AI 생성 코드를 인간 검토 없이 사용할 수 있다고 생각\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=203933",
+    "source": "AI Times",
+    "published": "2025-11-12",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "코딩 AI"
+    ],
+    "summary": "AI 코딩 도구의 생산성 향상에도 불구하고, 개발자의 낮은 신뢰도는 AI 검증 및 개선에 대한 지속적인 투자의 필요성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "OpenAI reboots ChatGPT experience with GPT-5.1 after mixed reviews of GPT-5",
+    "url": "https://venturebeat.com/ai/openai-reboots-chatgpt-experience-with-gpt-5-1-after-mixed-reviews-of-gpt-5",
+    "source": "VentureBeat AI",
+    "published": "2025-11-12",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "GPT-5에 대한 혼재된 반응 이후 OpenAI의 GPT-5.1 출시는 AI 모델 성능 향상 경쟁 심화와 사용자 피드백 반영의 중요성을 보여주는 사례입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "메타, AI 인프라 확장 위해 네비우스와 4조 규모 계약",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=203939",
+    "source": "AI Times",
+    "published": "2025-11-12",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Meta",
+     "GPU·데이터센터"
+    ],
+    "summary": "메타의 대규모 GPU 임대 계약은 AI 모델 개발 경쟁 심화 속 데이터 주권 확보 및 AI 인프라 자립을 가속화하는 신호탄입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[인공지능 줌인] 중국 AI의 반격...문샷 K2가 GPT-5·클라우드 4.5 능가",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBISEpkQTBySmttNlRrZnVmRm4yRnpTSTRBekJ5Y2RzazZJcWZZU2x5ZlpENWNOWm1Jc1VoeXJhejA4QW9JRHdDTmN3NDB6TlkwTnJXbHJCZU1hYzVWeXphM1phcU9iUS1KR3lVc0FGQQ?oc=5",
+    "source": "위키리크스한국",
+    "published": "2025-11-12",
+    "keyword": "GPT",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Moonshot",
+     "ChatGPT"
+    ],
+    "summary": "문샷 K2의 등장은 중국 AI 기술력이 빠르게 발전하여 글로벌 경쟁 구도에 큰 변화를 가져올 수 있음을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "AI와 데이터 붐으로 주목받는 ‘해저 케이블’",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=203940",
+    "source": "AI Times",
+    "published": "2025-11-13",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [],
+    "summary": "AI와 데이터 폭증 시대에 해저 케이블은 데이터 전송의 핵심 인프라로 부상하며, 관련 투자 및 기술 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "카카오뱅크 AI 품질관리 프레임워크 도입, \"인공지능 리스크 관리 본격화\"",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5URGlkRllrWXBORGFqRVRrN01LbjY3SlBNVUhxUjVXTWtFamJCQTNKWm1IclB4clo1T3lJeEJsNk9kV01vQUFpQVptSFlHSk0tTENRVlVtME5HZGJTdGg4OVV0VEs2NC1kODc2cjlPaG1NajQ?oc=5",
+    "source": "비즈니스포스트",
+    "published": "2025-11-13",
+    "keyword": "인공지능",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "카카오"
+    ],
+    "summary": "카카오뱅크의 AI 품질관리 프레임워크 도입은 금융권 AI 리스크 관리 표준 정립 및 확산의 중요한 계기가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "Anthropic bets $50 billion on US AI data centers",
+    "url": "https://the-decoder.com/anthropic-bets-50-billion-on-us-ai-data-centers/",
+    "source": "The Decoder",
+    "published": "2025-11-12",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "GPU·데이터센터"
+    ],
+    "summary": "앤트로픽의 대규모 데이터센터 투자는 AI 경쟁 심화 속에서 자체 인프라 확보를 통해 경쟁 우위를 강화하려는 전략적 움직임입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "AI, 수학 이론 증명도 가능해졌다… 구글 딥마인드, ‘알파프루프’ 연구결과 공개",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeS1XcS1CcWtsYnppOGx2SFBxdGVlNHVHTXZEaThyMHBDZ3daOHhqTjZMV1hBdG1EaTZJVVJ5bmU0MExpTlhyamQ1RHo3SmU4SzU4d2xxUTM2WFVUbFh5X3FRbXBmMXpwc3A0aFhOUHhWNElXd0ZIUFRaa3RLOEJLR3p6aFpjQ1ZRdHhDcNIBoAFBVV95cUxOTGtTby1jdjBkNml6UlVKam9oUmhzNjJ2cVdXQnNRM1dkUTZDNG1ZZUM4UUtKVlRjeUFQYXhOaVVEYTZINEk5cE1hV2RGNHllYXdEZy1OZmtweWswMUZDREhaVjdpZ294SGZfX21EMmdVY0tVZWo5NjNwTW9WS3FLQUVkRjVPRW10RzYxWXI2d21GQzdWNmxpaVEyRkxtLUww?oc=5",
+    "source": "Chosun Biz",
+    "published": "2025-11-12",
+    "keyword": "구글",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "알파프루프는 AI가 단순 연산을 넘어 고차원적 사고 영역에 진입했음을 보여주며, AI 기반 연구 개발 및 자동화의 새로운 가능성을 제시합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "[에듀플러스]대학 비대면 시험 둘러싼 AI 활용 논란…에듀테크 업계 “평가 방식 변화 고민해야”",
+    "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxQOWZJdzNTUTg5cV9PVFlJWWRTOTZ0a0RxQ2trdW1hLU9LcW5TX2RuemRYaGJ0VWlUSWVqTGpYQ3JpeHFQc3JwM25iQk5aazZ1UTZ2ZWZSYWUxeFpkdFpSdU5uVlNTY3d4ejVuTnF1dURqVjEzSzJBanlWaDZ1bzVrcGZ1d0VZcGFNRy1tYjYtcTZheGhpRmJzTFJiOG14Yk9wRHEyOEdxRGhMMVFnQzJPMldLVGVVWnpJTGJhaHI2RDU2RURVNUxLVmZ4X2M3a1FDYlBaUjhKQ3ZVQzg2VHVJcHZqSVVKeW9ZNmlvNnVwcFk2Uk5nb1lxYWZQbkZJaHZXQlZCeENIdF9Wd3pYbnNSSXdRTkNJVFAwSTZGUW5XZUZmbGNNZ1BmSDlQdEx4dks4ZHpBN055eldMZkt0VlRfMG5ZczFzeUU5VkRCalFHS0NDWjJWUjZwY2ZLdW9jWG41N1VXYk5Nb0RKeG8yQUdHSHp5dHgzeFhsaVRYQjQzdmM0ZTBJaWx4b0IzNFNkU21NN0ZCS0cxUi1pd0JsQkVBTG4zSWdicXRjZGpCNkhFelA2cUVXYWstXy1BblpVM2d2TGNxVGR5ZF9PRVNQTG16dDhHU1lPdWRHNzJ4cUpvOGg3T0thaldrLUhTZjBuMzFqeHY2SDhpbHF0cldxV0VUM3FGd0diVkFUd19HX25kdWJReHh6clE?oc=5",
+    "source": "MSN",
+    "published": "2025-11-12",
+    "keyword": "AI윤리",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [],
+    "summary": "대학 비대면 시험의 AI 활용 논란은 에듀테크 업계에 평가 방식 혁신을 요구하며, AI 기반 교육 서비스의 신뢰성과 공정성 확보가 중요해지는 시점입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI와 뇌과학에 대한 관심이 높아지는 가운데, 에듀테크를 활용한 교육 혁신과 교사들의 행복한 배움을 위한 노력이 활발히 이루어지고 있으며, 교사 리더십 강화와 아동학대 문제 해결을 통해 더욱 발전된 교육 환경을 조성하고자 한다.",
+  "tech": "AI 기술 경쟁 심화 속, 인프라 투자 확대 및 윤리적 검토 강화, 새로운 활용 영역 개척이 가속화되며 AI 생태계가 더욱 확장되고 있다."
+ }
+}

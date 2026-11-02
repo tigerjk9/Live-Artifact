@@ -1,0 +1,412 @@
+{
+ "date": "2026-09-14",
+ "generated_at": "2026-11-02T11:43:15+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[기고] 작은 학교에서 시작하는 교육혁신",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55X01zcDYtQ1RXZHlLR0lzdVd3VlBkZS1rS2lnY09qa1FQclc3eTI1UjZNcXFNUGkwcnFiSEJNRTZpNTd6akprbTZHSlNQUXR3MkVYVkFvNFFaaFdtYU5rV0NNZDJDdHZaUC1LRFRBNNIBc0FVX3lxTE1iU01LeEdQNFJySUVsQ3dKZ1FadEx5a1NLQ3BoV1RaZ0Rsa2dBWVBlbC1JSTJKczBXT2dVeXItSFVrZGM1NHQ0WEhnWkhVbk1MRWtubEJybDNzV0M3dXFCb0pROERWMTJ5ZC1hOGtDT3oxeWc?oc=5",
+    "source": "뉴스웍스",
+    "published": "2026-09-13",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "작은 학교를 중심으로 교육 혁신을 시작하자는 내용의 기고문입니다.",
+    "implication": "소규모 학급이나 학교의 강점을 살려 학생 주도 학습이나 지역 연계 수업을 계획할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[경기도교육청] 안민석 교육감, 여야 대표 만나 경기교육 현안 국회 협조 요청",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5N0ZEc3dBWnVJcDVFS045WV9ORzN5S2ptNU9tckxaZmNsRE8wZV8xWXZQMlI4UENxRFFlajYwUHdaaFBTcVhnTTJvV2tJaXZsLXpsVEVPVVlWSkhzNG9QT3pqd0VlRU43WUlZ0gFvQVVfeXFMTWxXWE1iVkFyRG9peW1EUmpZVmZ1RHJzcVRFRUtnUzVVUXhJZXdEQ2pXZEIzVERsMGdzOTJWc2s3dUpTV1FxVEszZFptVFlZZEhHOG00eFZKN0xkanVaLUVUYUZmeUk3OU5sU3N6Y2dF?oc=5",
+    "source": "서울시정일보",
+    "published": "2026-09-13",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "국회"
+    ],
+    "summary": "안민석 경기교육감이 여야 대표에게 경기교육 현안 해결을 위한 국회 협조를 요청했습니다.",
+    "implication": "교육 문제가 정치권의 협력을 통해 해결되는 과정을 설명하는 자료로 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "경남교육청, 달라진 ‘학생 독자’ 독서교육 과제 논의",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxNU9ENjlJRHpsR0ZZN1RhQkJCSlo3bHo1QlZ6c2I1ZGRmUThVTUVkM094MkJPQk12eEFhcDdPQUQtUVAtaHVlRGlnenlWQ09xR0VZOU5KLTl4dw?oc=5",
+    "source": "경남신문",
+    "published": "2026-09-13",
+    "keyword": "AI디지털교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "경남교육청",
+     "문해력"
+    ],
+    "summary": "경남교육청이 달라진 학생 독자를 위한 독서교육 과제를 논의합니다.",
+    "implication": "학생들의 변화된 독서 흥미를 반영한 다채로운 자료로 수업을 구성할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "대전시교육청, 현장 교사가 직접 낸 '2026학년도 수능 수학 모의고사' 보급",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zZ2R4cmRFTHBMdkxvZzExRFZmWW9VaEdhM0I0WHNlRWFtc2l4NkxxcmhYOWNlSzRzelRiZHBneGdEenR0d0hhT0NWMmR0cklkWGtFYzJxVHJKUXZzVDY5YXpXZEM5QQ?oc=5",
+    "source": "교육을 비추다",
+    "published": "2026-09-13",
+    "keyword": "현장교사",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "대전시교육청",
+     "수능·대입"
+    ],
+    "summary": "대전시교육청은 현장 교사가 직접 제작한 2026학년도 수능 수학 모의고사를 보급합니다.",
+    "implication": "현장 교사가 만든 2026학년도 수능 수학 모의고사를 학생들의 실전 대비 수업에 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "용인교육청, 학부모와 함께 경기교육정책 소통 나선다",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3UzJCSkRkUkkzb2tLQlFYZkdCRmRxaV9sRTJ5OU5PLVQ2a3Fya3Zaa25XNnI1dTh2ZFFjOGVvdUNLajNFWW95Y0c4SGg3eGpJNFNDQVZwczEwUjFodkVrVjFUS25vMmlS?oc=5",
+    "source": "중앙신문",
+    "published": "2026-09-14",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "용인교육청은 학부모와 함께 경기교육정책 관련 소통의 장을 마련합니다.",
+    "implication": "학부모와 소통할 때, 경기교육정책 관련 관심사를 파악하여 수업 활동의 방향과 연결해 설명할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "충남교육청, 학생 목소리 교육정책에 담는다",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qeEpUaV85ZmV1RU5uTC1Cb1N1T1dkSHZaM29RQUtVUlRqR0hldzdCYUxNcXJTU1pFbHJlS2lkMmhJQ2U3M29vTnlIN3MzRXRvZnlOdWZxbjkxbWxXZlozZ2laSko5V3Y5Ync0Qg?oc=5",
+    "source": "dominilbo.com",
+    "published": "2026-09-13",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "충남교육청이 학생들의 의견을 교육정책에 반영할 예정입니다.",
+    "implication": "학생들의 의견이 실제 교육 정책에 반영될 수 있음을 알려주며, 교실에서 교육 정책 관련 토론을 진행할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "황인구 시의원, “지방교육재정교부금 개편, 교육현장 목소리 충분히 반영해야”",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WMnNMRlpDa2tWbFl0d2JsT1dHaWM2RlNPTThCSlVtV1Y5Zl9DREREQUhJRy1Eb18xRDFwdU9ZdnFKbkdMVmVIbk9DOThSZ1J5S09SV3daWGdFdTZzR2ZGM0RSVHFjSmJucm5J?oc=5",
+    "source": "서울뉴스통신",
+    "published": "2026-09-14",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육 예산"
+    ],
+    "summary": "황인구 시의원은 지방교육재정교부금 개편 시 교육현장 목소리를 충분히 반영할 것을 촉구했습니다.",
+    "implication": "학생들과 함께 지방 교육 정책이 학교에 미치는 영향과 현장 의견 반영의 중요성을 토의할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "경남교육청, 인공지능(AI)과 함께 연구하는 교사, 교실의 변화를 이끈다",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UUEFteUNfcnBCWTM4YXc1OFFqSWpzSXVpUlZxZzNuMHVQeWpSYllha3ZZTFB3MUJfbjQ4WEI2Ym5WMlVxZWhYRFd4c2ZjN3hkSHdwbHhUYnNabFBy?oc=5",
+    "source": "누리일보",
+    "published": "2026-09-13",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경남교육청"
+    ],
+    "summary": "경남교육청은 교사들이 인공지능과 함께 연구하여 교실 변화를 이끌도록 지원합니다.",
+    "implication": "AI 도구를 탐색하고 수업에 적용하며 학생들의 학습 참여를 높일 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "[영덕고] 생성형 AI 현명하게 활용하기 : 청소년이 가져야 하는 디지털 윤리",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WZUxkcjI5RlBjdW42ZXc2V1huMVRlRlIwalI2VzdUU0JPVlI1a3hTSVA1QXdGSVg4S0xQTzdlMUsyZlpTNjMyU1BxQ19odDMz?oc=5",
+    "source": "우리학교신문",
+    "published": "2026-09-13",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "영덕고는 청소년에게 생성형 AI의 현명한 활용법과 디지털 윤리를 교육하고 있습니다.",
+    "implication": "수업에서 생성형 AI의 윤리적 사용과 관련하여 청소년의 디지털 윤리 함양 토론을 진행할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "[단독] 교육부, 특정업체에 일감 몰아줬나…공정성 논란",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DRVpLeWowb1JLZUJiRi1wdFQtQ1gyN1pFam85SklMSmJrWjFpUUlFRU04NXZVbXhuaVd0LUUtR2hWbmNIUjdkSk9vTWtub2ZxV3R4eGdxcFhpQ2NVYlZYdTRnb2xTdFJyQ3k0NURhRdIBb0FVX3lxTE1DRVpLeWowb1JLZUJiRi1wdFQtQ1gyN1pFam85SklMSmJrWjFpUUlFRU04NXZVbXhuaVd0LUUtR2hWbmNIUjdkSk9vTWtub2ZxV3R4eGdxcFhpQ2NVYlZYdTRnb2xTdFJyQ3k0NURhRQ?oc=5",
+    "source": "한스경제",
+    "published": "2026-09-13",
+    "keyword": "에듀테크",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "교육부가 특정 업체에 일감 몰아주기 의혹으로 공정성 논란에 휩싸였습니다.",
+    "implication": "이 뉴스를 활용하여 학생들과 함께 공정성과 기관의 윤리적 책임에 대해 논의할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Utilization of Artificial Intelligence Tools on Students Interest and Engagement in Basic Science Learning Among Secondary School Students’ in Makurdi-Metropolis",
+    "url": "https://doi.org/10.67693/bjcr-azwe2mgq",
+    "source": "openalex",
+    "published": "2026-09-10",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "마쿠르디 고등학생 300명을 대상으로 한 설문 조사를 통해 AI 도구가 기초 과학 학습 흥미와 참여도를 유의미하게 높임을 확인했으며, 이에 따라 교육 현장에서 AI 도구 활용을 위한 디지털 인프라 구축과 훈련의 중요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Samuel OKANCHE, Patience Ijauka 외 1명",
+    "pdf": "https://bexfordpublishing.co.uk/journals/bjcr/articles/BEX_AUG_26_179/download"
+   },
+   {
+    "n": 2,
+    "title": "Impacts on Child Development and Educational Outcomes Using the PROMETHEE Method",
+    "url": "https://doi.org/10.46632/cellrm/5/3/4",
+    "source": "openalex",
+    "published": "2026-09-12",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "PROMETHEE 방법을 사용하여 아동 및 가족 교육의 여러 평가 기준 중 '교육 환경'이 가장 높은 순위를 차지함을 밝혀, 교육 분야에서 환경 개선의 중요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Arunambigai",
+    "pdf": "https://doi.org/10.46632/cellrm/5/3/4"
+   },
+   {
+    "n": 3,
+    "title": "Impact of Artificial Intelligence (AI) Tools on English Language Learning: A Study of Students of the National Open University of Nigeria (NOUN), Abakaliki Study Centre, Ebonyi State",
+    "url": "https://doi.org/10.67693/bjcr-bcrbk2e4",
+    "source": "openalex",
+    "published": "2026-09-10",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "나이지리아 원격 교육 학생들을 대상으로 AI 도구의 영어 학습 영향과 효과를 설문 조사로 분석한 결과, AI가 학습을 크게 향상시키지만 인프라 및 지원 부족이 제약이 되어 관련 인프라 구축을 권고합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Monica Nnenne Okafor",
+    "pdf": "https://bexfordpublishing.co.uk/journals/bjcr/articles/BEX_AUG_26_191/download"
+   },
+   {
+    "n": 4,
+    "title": "Towards professionalism: AI to benefit student-teachers’ lesson planning",
+    "url": "https://doi.org/10.3389/feduc.2026.1833547",
+    "source": "openalex",
+    "published": "2026-09-10",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "챗봇 기반 AI 시뮬레이션을 활용한 준실험 연구는 예비 교사의 수업 계획 및 교수 지식과 자기 효능감을 효과적으로 향상시켜 교사 교육의 실질적 교수 능력을 강화합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Azhar Abukhanova, Bibigul Almukhambetova 외 1명",
+    "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1833547/pdf"
+   },
+   {
+    "n": 5,
+    "title": "Multi-scale residual network-driven regional cultural color feature extraction and intelligent cultivation pathway for rural art design talent",
+    "url": "https://doi.org/10.1038/s41598-026-70860-4",
+    "source": "openalex",
+    "published": "2026-09-10",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 지역 문화 색채 특성을 추출하는 다중 스케일 잔여 네트워크(MSResNet)를 개발하고 이를 활용한 지능형 교육 경로를 구축하여 농촌 미술 디자인 인재의 문화 유산 이해도와 역량을 향상시킵니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Xiaoyan Lu, Zhengyin Gong",
+    "pdf": "https://www.nature.com/articles/s41598-026-70860-4_reference.pdf"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "\"지침 줄이고 완료 기준 명확히\"...오픈AI가 밝힌 '아스트라' 활용법",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215202",
+    "source": "AI Times",
+    "published": "2026-09-13",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [],
+    "summary": "오픈AI의 아스트라 활용법은 AI가 복잡한 태스크를 더욱 자율적으로 처리하고 명확한 결과물을 도출하여, AI 모델의 실제 산업 적용성과 활용도를 극대화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "오픈AI '불량 에이전트' 루비젬스까지 해킹 시도…\"데이터 수집일 뿐\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215199",
+    "source": "AI Times",
+    "published": "2026-09-13",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "에이전트"
+    ],
+    "summary": "AI 기술 개발 과정에서 데이터 수집의 윤리적 경계와 보안 책임 재정립이 시급함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "제프 딘의 AI 스타트업 디스커버리 루프, 67조 몸값 노린다",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215197",
+    "source": "AI Times",
+    "published": "2026-09-13",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 분야 최고 인재의 스타트업 진출과 천문학적 기업 가치 목표는 AI 기술 생태계의 인재 이동 가속화와 혁신 경쟁 심화를 예고합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "KAIST, 미래기술 연구거점 ‘LOTTE x KAIST R&D 센터’ 준공",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215203",
+    "source": "AI Times",
+    "published": "2026-09-13",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "롯데와 KAIST의 R&D 센터는 AI 핵심 기술 상용화와 산업 생태계 전반의 혁신을 가속화할 주요 거점이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+    "source": "OpenAI Blog",
+    "published": "2026-09-11",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "ChatGPT 10억 사용자 규모는 AI 서비스의 지속 가능성을 위해 데이터 인프라 및 비용 효율성 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "[Anthropic CEO, AI 기업에 초지능 경쟁 속도 늦출 것을 촉구하다] 평소 아모데이와 의견을 달리해 온 OpenAI의 샘 알트먼(Sam Altman)과 xAI의 일론 머스크(Elon Musk)가 이번에는 그의 우려를 지지하고 나섰다.",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9VSGRsNHBpekhnQTA3d19iZ1FTeGRUSFJYRXZRTkF6N1BocnZ4Q2VXRFFNbEZxcWVNcVg0ZGhxUmI?oc=5",
+    "source": "AI넷",
+    "published": "2026-09-13",
+    "keyword": "Anthropic",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "OpenAI",
+     "xAI"
+    ],
+    "summary": "주요 AI 기업들이 초지능 경쟁 속도 조절에 공감대를 형성하며, 향후 AI 기술 발전이 안전과 윤리를 우선하는 방향으로 전환될 가능성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "'가상 초파리' 뇌 시뮬레이션 이색 시도 열풍…‘파리 언어모델'까지 등장",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215207",
+    "source": "AI Times",
+    "published": "2026-09-13",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "가상 초파리 뇌 시뮬레이션과 '파리 언어모델'은 AI 기술이 인간 언어를 넘어 복잡한 생물학적 시스템 분석으로 확장되며 AI 모델의 범용성을 입증하는 신호탄입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "오픈소스 다음 승부처는 ‘업무 설계’… RAG·에이전트가 기업 AI 완성",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKdjA3S1o5Snd1eGtMeW51QzRHYlNKalZKRldXSHNnYmxPeC1ub3FUZWE4cUFwU2tWQ1JIZ0pHRW02VjY0eW1VOFRfU3FMeWd2M0J0Wm1YcjhjMW9POERrb2xpNFA?oc=5",
+    "source": "디지털데일리",
+    "published": "2026-09-13",
+    "keyword": "AI모델",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "오픈소스",
+     "에이전트"
+    ],
+    "summary": "오픈소스 모델 경쟁을 넘어 RAG와 에이전트를 활용한 '업무 설계' 역량이 기업 AI 성공을 결정할 AI 산업의 핵심 승부처입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "오픈소스 뜻과 오픈소스 AI·LLM 차이…무엇을 보고 판단하나",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBiVS1ZRkFUZ1BKVndXazc3X2dOb3ZzMlQ1d3lraEM0VzE1XzE1SkIwZVE1TnFZVHExY3FaaFpZWjdMc281bnFpMkFGWTFQdU1zdWFlMlJHRmVXaHFpYi00bWZzbGFVV3RRTWx1ckpXWlFGa1k?oc=5",
+    "source": "스페셜타임스",
+    "published": "2026-09-13",
+    "keyword": "LLM",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "오픈소스",
+     "LLM"
+    ],
+    "summary": "오픈소스 AI/LLM의 명확한 판단 기준 정립은 AI 기술 생태계의 투명성과 건전한 혁신을 결정할 핵심 요소입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "GPT-6 Astra: 새로운 세대의 지능",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DdWlyc0FQSDFUeE8tblc2YzdaNHNXX29uNkxXbFFlbVF3MXZYU3JSd2NDOFVyUHNXdVowekdEU2NYY1daZlhuLXBzMUxkdmZnU2lfdXhB?oc=5",
+    "source": "OpenAI",
+    "published": "2026-09-14",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-6 Astra는 AI 기술의 새로운 시대를 열며, 산업 전반의 혁신을 촉진하고 생태계 재편을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

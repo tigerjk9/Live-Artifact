@@ -1,0 +1,175 @@
+{
+ "date": "2026-01-25",
+ "generated_at": "2026-11-02T11:51:14+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "임태희 교육감, \"지역과 함께 만드는 교육혁신 모델 확산\"",
+    "url": "https://news.google.com/rss/articles/CBMihARBVV95cUxNRGtiandYU09FU01IaEpZWHI1TVdtYnNzcWdMUmlsaEVKNlNING83enRUTkdaT3Y2TFFIcGMtQnZyNVR3eEdvV1VLQm9ZbUQzb0FCOW1DM0lSR1hUQXR4UG5XaFg0SGJYQzFsZEd5UWl6VEFLd0hMT295U2p4b0F6eFZzc3RVSG14dzFIYjFKSzczVDNvNnRhNldXeG5kN0Q4T2Y1UW9hZ243OTFwRUVZUk5CMlR5MG80TmoyQXppOHJrbmNDTEZ2OFhsU1Bvby1FVHJtdTNfTmdFY0xUQ0RaM3ZrRnBqMEVBZGplcHNLVnZBdzFfUU5RdWFmWFBobWxjVHJSMFlPZEVaN0NKR1QxZWVRS1Ewc2p0WXQ4LW1FczBHaFcyc0FKQ3ExaDNwUTEtckh3Y2NXeTBmemJnRnhUUkp1WndyektRejIzZkpIV2ItOUhWT0IxSmtueGY2YTFGRTNRMWNjR3Q3WlpWdW1vTkF5bDlpTXNzc2lvUHg5QnhiS1liYktic012dFNSelV1UHpTVFY2TS03VW96S3o5RkJINmI0MzhsblgxUW5LVXJPWkppeVRyZXVGeGxhQnQzX1BRT2ZQOWJEa2pYSGtLNnZrcmM0SzRkYU9tOVBuOUhKMVYwZmN3elh0ZzlJTm9FSW1WbFIwQzlueGZiaXUzaTZ2OG8?oc=5",
+    "source": "MSN",
+    "published": "2026-01-24",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "지역사회 연계 교육 모델 확산은 학교 교육의 질 제고 및 지역사회 발전의 동반 성장을 가능하게 하는 중요한 교육 혁신 방향입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "美 \"SAT 피드백까지 무료\" vs 韓 \"수능 강의만 무료\"... 구글이 쏘아 올린 'AI 튜터' 전쟁",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11eGJnVTlvY0lxYnpaT2FHOWdhblUtT3VPSDVwVDRLLWpudFpBZ0w1S0YxVklFU1c0dV82RFZjbGJic1oxamFSNEZPVUJLcWt6SVk4TV9hV3M1RHhTbWdieUwzVjh5UQ?oc=5",
+    "source": "교육을 비추다",
+    "published": "2026-01-24",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "수능·대입",
+     "Google",
+     "AI 튜터"
+    ],
+    "summary": "AI 튜터 경쟁 심화는 교육 격차 해소 가능성을 제시하지만, 공교육의 역할 재정립과 디지털 교육 불평등 해소 노력이 병행되어야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "6·3 경기도교육감, 진영 대결 점화...'중도개혁 vs 보수안정'",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vbGdoaGVzLVpTM2ZabHJ2R1dKdm91djV6dmM1bFU0SldGVE5XZXpIUlNzaUpJYzZrMmVLbWlHT1liLU5Kcmc4Y2pIWjZaZGl6U0pGWDFyWUZlM014QWZsRHRmcTZTY3dkNWp2Vmk4ZV9GM2_SAXdBVV95cUxQY0JjcWxxNHgxblczYVdRV21lS2FHbkxrUjNDSkdWd0xjYk9qWXZ1WkY0Vk91cUJlRWZnQnN2REtiY19OdFh5Nm1MZWxDeW8wb19IOXY2Yzc1aFBtLXdWbnRPYk5FeVRCSHplMS1HSkl3SFlGUC13TQ?oc=5",
+    "source": "뉴스프리존",
+    "published": "2026-01-24",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "교육감 선거"
+    ],
+    "summary": "경기도교육감 선거의 진영 대결 구도는 교육 정책의 일관성 저해 및 현장 혼란을 야기할 수 있다는 점에서 우려스럽습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[인사] 교육부",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zY3I0Xzk5bEYtajJRS3ZBX2g3cVU1ZzhBWm4yeFpSLTdZdncyY3llSzBvMzVreTdBY1VWWHVRVHhXaGt0THRDcW5xcGl6TGxIR1dHMXNGQ3MzNHEy?oc=5",
+    "source": "뉴스핌",
+    "published": "2026-01-24",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "교육부 인사는 정책 연속성과 변화의 균형을 보여주며, 향후 교육 개혁 방향에 중요한 영향을 미칠 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "“성과로 답하겠다” vs 교육감 경쟁 구도",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRM2hnUFVGZ1E3ZGZJeDBaRGxEWXFySWlMc2g4clJKZjNlZVc1YjN0RktnUWFGaXhIak5STU9fd2ZMWlZjV0lJQ1ZCQWpsR1ZfblBGeV9aajdabnJiMHB1Z1M5b2xFRi1wVFliUDhR?oc=5",
+    "source": "news-home.co.kr",
+    "published": "2026-01-24",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육감 선거"
+    ],
+    "summary": "교육감 선거 경쟁 구도는 교육 정책의 방향성과 안정성에 대한 심도 깊은 논의를 촉발하여, 궁극적으로 학생 중심의 교육 혁신을 가속화할 수 있는 기회입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "[전재학의 THE교육] 6월, 이 시대 교육감 선택의 기준",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXOEZrRmtRME52cTVKQW9GVWRkR0c1UWhXajZ6X1V6aWlhX1p5ZGN6Uk5TaFVOTGM2UUQ3WFJwOFNkS2VCdWo2WVJnYmk4NlFiVExlZWdBOUFIcXM?oc=5",
+    "source": "더에듀",
+    "published": "2026-01-24",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육감 선거"
+    ],
+    "summary": "다가오는 교육감 선거는 교육의 본질 회복과 미래 교육 전환을 위한 비전 및 실천 역량을 갖춘 지도자를 선택하는 중요한 기회입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "교육부 정책자문위원회 출범",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1OcTFyNWJaRllSVG5XaF81M0poWkNLbklSaEZCNjhPUVBzeHJjMEdJUThEQTR5d1RoMmJpVFRfVDlkVGVoWVBBbG10NmJTZVJpNE5ISzd3QWZoakxYalBJaUR2OA?oc=5",
+    "source": "대한민국교육신문",
+    "published": "2026-01-24",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "교육부 정책자문위원회 출범은 교육 정책 방향 설정에 있어 현장 의견 수렴 및 전문성 강화의 기회가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "‘충남교육감 출마’ 김영춘, 출판기념회 성료… 충남교육 비전 제시",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yS3U2ZDVwOWNGZWZ4NFdHak5Cb2pMSmt5aUJpNm4tM3dFRXRxSU9zeExPblE4VDVXR05oVlkxMVR2SjFXbmtiZkczNmlxS1U2cks5WmRrUkhLYWktS1RVOFR0Vmh1MG9pVEE?oc=5",
+    "source": "천지일보",
+    "published": "2026-01-24",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "김영춘 후보의 출판기념회는 충남 교육 정책 방향에 대한 구체적인 비전을 제시하고, 교육계의 관심과 지지를 얻는 계기가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "[인터뷰] 윤건영 충북교육감 “학교에서의 배움이 ‘삶의 실력’이 되도록… ‘실용과 포용’으로 충북교육 대전환”",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wTTA4RU05LWJyZHV4MTQzblA2RkZTa0FkS1JpRGJrQlBEaTZkQkNoYVUtaHZ2QkNSeVNPQUFNS05wSWtHeFg1YUFXX0FjTkhJeVFuTENIR1VLM2tMRG1keHptRVNHZmg5Mld3cw?oc=5",
+    "source": "bzeronews.com",
+    "published": "2026-01-24",
+    "keyword": "미래기술",
+    "topic": "policy",
+    "kind": "interview",
+    "entities": [
+     "충북교육청"
+    ],
+    "summary": "윤건영 교육감의 '실용과 포용' 교육 대전환은 학교 교육이 삶의 역량 강화에 실질적으로 기여하도록 교육 패러다임을 전환하는 중요한 시도입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "김성근 전 충북부교육감, 출판기념회 열고 교육감 출마 행보",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yOEtmWDYxa1F5OFVES2x3UFdFX0Z2cEN5QW1aS21NT0dsdU5HSlhHVW54TDJVQ3dzckprdmVrN2tLQlp3SDM5TU1Ia2UxY0plUVo4UU5zeGJFV0FOcFExa0pwTjMyUQ?oc=5",
+    "source": "cbnews.kr",
+    "published": "2026-01-24",
+    "keyword": "디지털전환",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충북교육청"
+    ],
+    "summary": "김성근 전 부교육감의 교육감 출마는 충북 교육 정책 방향에 대한 새로운 논의를 촉발하고 변화를 모색하는 계기가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [],
+  "tech": []
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "지역 교육 혁신, AI 튜터 경쟁, 교육감 선거 등 다양한 움직임 속에서 교육의 질 향상과 미래 교육으로의 전환을 위한 노력이 활발하게 이루어지고 있습니다."
+ }
+}

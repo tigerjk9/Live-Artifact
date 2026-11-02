@@ -1,0 +1,423 @@
+{
+ "date": "2026-04-03",
+ "generated_at": "2026-11-02T11:54:28+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[에듀플러스][기고]컴퓨팅 사고력은 AI 교육의 뿌리다",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9qTWlzNXl3UjdTUXJ4N2xXazh0T0ZUa1hVVW4tY1pCei04YjRZSmNvcmhpMkF1TWVtaTdHcFBlajZzXzlQNGZ5T1U1VDRKZw?oc=5",
+    "source": "전자신문",
+    "published": "2026-04-02",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 2,
+    "title": "[칼럼] 디지털 전환을 넘어 AI 전환으로 : 기업의 존재 방식을 재정의하는 시대",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdzNQdlRPaWNLMzdiT01JaFVfQXdVLU1ESGhhTVQ2Y3lZWUhLSXN2U2dXelozLTFBM3Z5VXota3VWa0hVLWlnRmNqTWFoSzhoUmhmRlB1cHNweTBQdHNBdGE4UEE3clUwemhDN0xoelozN0RvRDdMOWFIbVZGU3ZPSFk5elFlTTE4TjFISkFB?oc=5",
+    "source": "캐드앤그래픽스",
+    "published": "2026-04-02",
+    "keyword": "디지털전환",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 3,
+    "title": "[시론] 초등학생의 안타까운 비극, '돌봄' 정책의 이면을 돌아볼 때",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=30103",
+    "source": "에듀프레스",
+    "published": "2026-04-02",
+    "keyword": "",
+    "topic": "student_care",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "최근 연이어 들려오는 초등학생 자살 사안 급증 소식은 우리 사회에 크나큰 충격과 슬픔을 안겨주고 있다. 아직 제대로 피어나지도 못한 어린 생명들이 극단적인 선택으로 내몰리게 된 현실 앞에서, 참담함과 무거운 책임감을 느끼지 않을 수 없다.물론 교육 당국과 학교 현장이 이 문제에 손을 놓고 있는 것은 아니다. 각 교육청과 학교는 위기 학생을 조기에 발견하고",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "K-뇌과학서 ‘조종당하는 인간’이 세계 출판계를 흔든다",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xNzNKRnVjN1Y5RmlDaUg1cjRYWHZ5RS1Qc2UwdWlLYUhXT3RhQ3h3dllxV0kyNi1YUlBHWjBIWTFZNjU1elFBZVBVQnMyMnR4SzIzLTkyRUxWV3ZRSlBXUjMxbzRPS1VCZUw2cNIBcEFVX3lxTE5nWDFBM0hZcEJRMk53LVVzbzZnRUdvT3QxOURlLXVlM1JiSTBlSmRDN2V4cWN0WHhLOG9yRW45VGV6N1FTYkNnZ3R5aEZEUmJfdFU5Q2Vna05qZWJLT0J1Q1lOR2w5a2diR2E0cTdPS0M?oc=5",
+    "source": "세종경제뉴스",
+    "published": "2026-04-02",
+    "keyword": "뇌과학",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 5,
+    "title": "'골프 입스는 없다'…해결사는 AI 뇌과학",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4aDVicS0xWko4VkIwbGdYSmxlVGU2cDN6S1VfbVJTUi1ua2hWSmFqemJVNFAyeWNkMHRPam5JRmdHS3JEdVdseTU4Um1nU1cyTDNxQUVVWlFHaWdQ?oc=5",
+    "source": "네이트 스포츠",
+    "published": "2026-04-02",
+    "keyword": "뇌과학",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 6,
+    "title": "“대전을 AI교육 1번지로” 오석진 대전교육감 후보 1호 공약 발표",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85SWdmRU9DMUl4TTBEbWQzc1NXemVlV3VlbUcxWmdCZUxsc0cyOHNaLWRibVFTVXE4OXY3RzVHdFc2LVB0TUNKYUZ6NXhITi1VSTQyUmFERVhaS2tMQTVwZEhaTVl6dkIyODhLbg?oc=5",
+    "source": "에이티엔뉴스",
+    "published": "2026-04-02",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대전시교육청",
+     "교육감 선거"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 7,
+    "title": "유은혜 경기교육감 예비후보, 도민 정책 제안 접수⋯ 교육혁신 시동",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1dG52V1JBSzRJREVmUmZfME5zbG5PTDUzV1hJb1pRYmRnbEZMWVA4Um9QZHhVUld5azZ2UkJDeWVOTFRBMF9tNGlOUmFKZTlGVElpTnVqVV9GTkV5OWc?oc=5",
+    "source": "아시아타임즈",
+    "published": "2026-04-02",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "교육감 선거"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "오석진교육감 예비후보, “대전을 대한민국 미래교육의 출발점으로 만들겠습니다”",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YVFpKdk1PQmhvOS1fQkpJX3BQV0J3Z2xNMmhsZEhRc2dQdndidEVVdnI1MWpCYm9ydWd1V29XZ0Jkb1VfeHloY1Y5TmViT1BBVzI1cFZSd2xVaVBHc3JZUGlLUFM?oc=5",
+    "source": "대전시티저널",
+    "published": "2026-04-02",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "교육감 선거"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "웹사이트는 사라지고, AI가 대신 구매한다",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tQjVlVENzTThQQ1MzemV3RmIzN3hmRjBsc2RDS1N3dlQxQWIwbmZEQ0llS1luTUt6SXlBdlRsbmRmQklqemdZV1dneHlYZjZjNmM4TXMyQ2JlSmw4QUw2UGVibHdqRmhQbHhzMQ?oc=5",
+    "source": "ibrandnews.com",
+    "published": "2026-04-02",
+    "keyword": "AI디지털도구",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 10,
+    "title": "GS리테일, 기업은행·IBK와 ‘예금 토큰’ 결제 상용화 추진",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Na29IR0Vtd0J6dWJCUG1FYW94UDZvQnNDOC1Od3lHQkxxRHdCSENoT0ZIc1o3eXRHRml4Z3lUdWpVQVlIS2FtbmlheDVYVXp6QWhEQ0RWLVliNnl0cHJPRmZTeTNGR1AySVY3Z1dUeXFfMWZs?oc=5",
+    "source": "이투데이",
+    "published": "2026-04-02",
+    "keyword": "AI디지털도구",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Differentiated pedagogy for early-grade learners with executive function and visual processing challenges",
+    "url": "https://www.semanticscholar.org/paper/ec52207e4b15532c1d4dd2cd0c132c862181a311",
+    "source": "semantic_scholar",
+    "published": "2025-02-28",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "본 연구는 질적 연구 방법으로 실행 기능 및 시각 처리 어려움을 겪는 초등학생들을 위한 차별화된 교수법을 탐색하여, 교사 연수 강화, 자원 배분 개선, 학부모-교사 협력 강화 등을 통해 학습 격차를 줄이고 교육적 형평성을 증진하는 데 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Martin Chukwudi Ekeh",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "A Comparative Analysis of On-Device AI-Driven, Self-Regulated Learning and Traditional Pedagogy in University Health Sciences Education",
+    "url": "https://www.semanticscholar.org/paper/43f52a9cd7e7064ddfe650f581b79dd6786ad54c",
+    "source": "semantic_scholar",
+    "published": "2025-02-10",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "온디바이스 AI",
+     "AI 안전·규제",
+     "생성형 AI"
+    ],
+    "summary": "본 연구는 대학 보건과학 교육에서 생성형 AI 교과서(LLama 3.1 기반)를 활용한 학습과 전통적 학습을 비교 분석한 결과, 학업 성취도에서 유의미한 차이는 없었으나, AI 학습이 자기 주도 학습을 지원하고 디지털 형평성 등의 과제를 제시하며, 향후 AI 교육 도구의 장기적 효과 평가 및 윤리적, 감성적 측면을 고려한 연구의 필요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ji Chun, Jeongsoo Kim 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Reflections on and implications of the Programme for International Student Assessment 2015 (PISA 2015) performance of students in Taiwan: The role of epistemic beliefs about science in scientific literacy",
+    "url": "https://www.semanticscholar.org/paper/fd5eb98973df655d668a656609e3e1e77ffd2896",
+    "source": "semantic_scholar",
+    "published": "2019-12-01",
+    "keyword": "",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [
+     "문해력"
+    ],
+    "summary": "PISA 2015 대만 학생 데이터를 분석한 결과, 과학에 대한 인식론적 신념이 과학적 문해력에 가장 큰 영향을 미치며, 학습 시간, 과학 흥미, 성취 동기 등이 중요 변수로 작용하므로, 과학교육 연구 및 정책 수립 시 이러한 요인들을 고려해야 합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "H. She, Huann‐shyang Lin 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "Formative assessment in K-12 English as a foreign language education: A systematic review",
+    "url": "https://www.semanticscholar.org/paper/8910228b86c10e503075f02d42fa11dedb389e8a",
+    "source": "semantic_scholar",
+    "published": "2024-05-01",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "본 연구는 K-12 EFL 교육에서 형성 평가에 대한 체계적 문헌 고찰을 통해 교사와 학생의 인식, 평가 방법의 효과, 맥락적 어려움을 분석하고, 교사 연수 및 학생 인식 제고의 중요성을 강조하며 EFL 교육의 이론-실제 통합을 촉구합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Han Zhang, Shigang Ge 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "Teachers' training for the use of digital tools of the formative assessment in the implementation of the concept of the New Ukrainian School",
+    "url": "https://www.semanticscholar.org/paper/7e2304892f5b67f4fbd5d0466d12128771aa8e4a",
+    "source": "semantic_scholar",
+    "published": "2022-02-05",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 우크라이나 신교육학교의 초등 교사를 대상으로 디지털 도구를 활용한 형성 평가 교육 프로그램을 개발 및 적용하고, MentiMeter, Plickers 등 디지털 도구 활용이 교사의 형성 평가 역량 강화에 효과적임을 실증적으로 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Irina Zhorova, O. Kokhanovska 외 1명",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "업스테이지, AI 문서 처리 통합 솔루션 출시…”원하는 LLM과 API를 조합해 문서 에이전트로”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208727",
+    "source": "AI Times",
+    "published": "2026-04-02",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "업스테이지",
+     "에이전트"
+    ],
+    "summary": "업스테이지 스튜디오 출시는 기업들이 자체 LLM과 API를 활용해 문서 처리 자동화를 구축하도록 지원, AI 기술 활용 확산에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "모델 선택 플랫폼 오픈라우터, 1.9조 기업 가치에 근접",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208722",
+    "source": "AI Times",
+    "published": "2026-04-02",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [],
+    "summary": "오픈라우터의 투자는 AI 모델 선택 플랫폼의 가치를 입증하며, 기업들이 자체 AI 모델 구축보다 효율적인 통합 솔루션에 주목하고 있음을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "OpenAI, ChatGPT의 성인 모드 개발 중단",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sMG55cTFLYURQUHNlWE5vWjdiLWl1ZDE2bXB1dkY1TlRXMlJoeXB6eWI4UGU0QlU0ZE9ZeGZMWEllbzVMYzVpNnI0b9IBQkFVX3lxTE94VFBGZE1TVUdGcEhYajRaWlR4ckR4TmYzREh1Yjk0a2xVVU5zLUhERzdhRXN2RVNPNDJIR2p4NHI3dw?oc=5",
+    "source": "VOI.id",
+    "published": "2026-04-02",
+    "keyword": "오픈AI",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT",
+     "AI 안전·규제"
+    ],
+    "summary": "OpenAI의 결정은 AI 안전성과 윤리적 가이드라인 준수에 대한 압박 속에서, 특정 사용 사례 제한을 통해 책임감 있는 AI 개발 방향을 모색하는 움직임으로 해석됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[2026년 1분기 스타트업 투자액, 사상 최고치 경신] 이전 벤처캐피털 전체 연간 투자 규모를 뛰어넘는다. 이번 폭발적인 성장세는 불과 4건의 초대형 투자 거래가 견인했다. OpenAI, Anthropic, xAI, Waymo가 그 주인공이다.",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1zYlpUODU2ZzJoRERnNkhDZVk0dVFueXUzSVlrMjBKWUR4dmY4N2gyQXI0ZTQ1MGNCTURmZGRDbWU?oc=5",
+    "source": "AI넷",
+    "published": "2026-04-02",
+    "keyword": "Anthropic",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Anthropic",
+     "xAI"
+    ],
+    "summary": "소수 AI 선도 기업에 대한 초대형 투자가 벤처 투자 시장을 왜곡하고 AI 생태계 양극화를 심화시킬 수 있다는 점을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "알리바바, \"이미지 AI 주권 선언\"...이미지 생성의 새로운 기준 제시, '완2.7' 오픈소스로 공개",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80Z3BkQzBHSEJWMFFtWjZ0bnpzSXd4WUtxQjZaYUVWV2N4N3hDb25HVnp1TW1DYUZBemZBUmJpX0hoX3I4b01wRlQtUVpGSWxqajFpTUowVmdPQnZWQnItejJkS25yQkE?oc=5",
+    "source": "인공지능신문",
+    "published": "2026-04-02",
+    "keyword": "AI모델",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Alibaba",
+     "영상·이미지 생성",
+     "오픈소스",
+     "생성형 AI"
+    ],
+    "summary": "알리바바의 완2.7 오픈소스 공개는 이미지 생성 AI 기술 경쟁 심화와 중국 AI 생태계 확장에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "GPT reasoning models have \"line of sight\" to AGI, says OpenAI's Greg Brockman",
+    "url": "https://the-decoder.com/gpt-reasoning-models-have-line-of-sight-to-agi-says-openais-greg-brockman/",
+    "source": "The Decoder",
+    "published": "2026-04-02",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "추론 모델",
+     "OpenAI",
+     "LLM"
+    ],
+    "summary": "OpenAI의 주장은, 거대언어모델이 범용인공지능으로 진화할 가능성이 높다는 기대를 불러일으키며 AI 기술 경쟁을 더욱 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "크래프톤, AI 모델 브랜드 ‘라온’ 론칭… 글로버 플랫폼 허깅페이스에 오픈소스 공개",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oVnRRY3BoOU9uOXN5UDQzc3Zvd3VHUnVXTkx2YTgzenpkMElCUnZ4V1haTEtPMjRueWVsM0I3MFZwOUc0LUNuU09TOVlUZ0pRaTZF?oc=5",
+    "source": "osen.co.kr",
+    "published": "2026-04-02",
+    "keyword": "오픈소스",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Hugging Face",
+     "오픈소스"
+    ],
+    "summary": "크래프톤의 AI 모델 공개는 게임 산업을 넘어 국내 AI 기술 생태계 활성화에 기여할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "증평, AI 실증연구센터 에듀테크 프로그램 시동",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TMnBFWlRCVzYwVTRER0V4akVVcklUMzVHclFaQVExaWtoT1o0WkNKcVhhRzU5cFhNQlRIcUtmS3NRUExlZWIxYTJieG5CRU85T0F2d2FWbVJydG0zVC1ZZy1LcUtNUDZRNERsT0k5QdIBb0FVX3lxTE9TMnBFWlRCVzYwVTRER0V4akVVcklUMzVHclFaQVExaWtoT1o0WkNKcVhhRzU5cFhNQlRIcUtmS3NRUExlZWIxYTJieG5CRU85T0F2d2FWbVJydG0zVC1ZZy1LcUtNUDZRNERsT0k5QQ?oc=5",
+    "source": "서울일보",
+    "published": "2026-04-02",
+    "keyword": "에듀테크",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [],
+    "summary": "증평 AI 실증연구센터의 에듀테크 프로그램은 지역 AI 기술 발전과 교육 혁신을 동시에 촉진하는 중요한 발걸음입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "에이전트AI “로봇 안전 검증 플랫폼 연구 논문 학술 플랫폼 등재”",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TMUtmbTNCTHdRQlJ6cU85VHItb1A0eDA4TFdCRlhGWU84b2xWN1BTMHNPQnFvd093T0RsSmJsb0JGWXpxNXNIa2MwcVo3dGtUMGsw0gFTQVVfeXFMT1MxS2ZtM0JMd1FCUnpxTzlUci1vUDR4MDhMV0JGWEZZTzhvbFY3UFMwc09CcW93T3dPRGxKYmxvQkZZenE1c0hrYzBxWjd0a1QwazA?oc=5",
+    "source": "서울경제",
+    "published": "2026-04-02",
+    "keyword": "AI연구",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "에이전트",
+     "로봇·휴머노이드"
+    ],
+    "summary": "에이전트AI의 로봇 안전 검증 플랫폼 연구는 AI 로봇의 신뢰성을 높여 산업 현장 적용 확대를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "Gradient Labs gives every bank customer an AI account manager",
+    "url": "https://openai.com/index/gradient-labs",
+    "source": "OpenAI Blog",
+    "published": "2026-04-01",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "개인화 학습",
+     "에이전트"
+    ],
+    "summary": "금융권에서 초개인화된 고객 경험을 제공하기 위한 AI 에이전트 도입 경쟁이 더욱 심화될 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "tech": "AI 기술이 문서 처리 자동화, 모델 선택 플랫폼 확장, 이미지 생성 주권 확보, 오픈 소스 모델 공개, 에이전트 및 로봇 안전 검증, 금융 서비스 혁신 등 다양한 분야에서 빠르게 발전하며 벤처 투자를 활성화하고 AGI(범용인공지능)로의 진전을 가속화하고 있다."
+ }
+}

@@ -1,0 +1,257 @@
+{
+ "date": "2026-04-04",
+ "generated_at": "2026-11-02T11:54:32+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[칼럼] 에너지를 채우는 휴식 vs 에너지를 소모하는 유흥 구별법",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEcUtRWW01MHZQWnREYlJJeG1VemFQS25GUjRPWlExcGlfMkFvVVY3VVpKaEVFdjVudjVzQWNpMUFyWGZTbGlCajN3cGFRQkM5cEE?oc=5",
+    "source": "유스연합",
+    "published": "2026-04-03",
+    "keyword": "뇌과학",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 2,
+    "title": "리솔, 뇌과학 기반 '슬립테크'로 미국·일본시장 진출",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzOWpZcm05UmE3bF8weVVsSzBJUHdPbGRaRWtnNHFSMDJfNnNtNG03VXY1b3BLOVVxNkRna2RteDRwaktiWGZKbEEyVFQ3TkF5a3NJ?oc=5",
+    "source": "네이트",
+    "published": "2026-04-03",
+    "keyword": "뇌과학",
+    "topic": "global",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 3,
+    "title": "정성홍, 전남광주교육감 출마 선언…‘500만 미래교육특별시’ 제시",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pcHNIeEs2VEJNQlJ0cnY4ZXpHRWt1MjNHYnk0Y21BNGpwYXJPak5ZVEFjbFlvRTRZVzA2MU9BOVdnUWZERUhEOG03TFNRcnNrY0JtcndaRDNLZUk4d1dGeTJHWnRPZGtK?oc=5",
+    "source": "더쎈뉴스",
+    "published": "2026-04-03",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "광주시교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 4,
+    "title": "[교육감에게 바란다②] \"기초학력 구체화·학폭 관계회복 전환·학생 주체성 보장\"…4대 주체 정책 제언 쏟아져",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DY3NPOHFYQXZZZk02eGxab3lZZjVlVUxzWGF2ZHFkYm9hLW1XaE9WUmxaTkFqWVgtSFdHX2phOHBZelVNTm1KOVo1ak5UdmEzbVVJZGlrS0J3cnBra0lZ?oc=5",
+    "source": "전북미래교육신문",
+    "published": "2026-04-03",
+    "keyword": "AI디지털교육",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [
+     "학교폭력"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 5,
+    "title": "\"입시 중심 깨야 교육 산다\"…AI·대입개편·지역대학 등 '교육개혁 5대 과제'",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJQU51dlVzQWVxNl9vdjhTMW9XQ2J5MGcwV2l5NGU5Tjgzem9zQ3l0c01ZVG0wRWE3SXF0VnJOVDZMemloSFF3T211OUhMTmF3NkJZUWd6czNXZFBDT0h0NQ?oc=5",
+    "source": "네이트",
+    "published": "2026-04-03",
+    "keyword": "인공지능교육",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [
+     "수능·대입"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 6,
+    "title": "[임태희 경기도교육감 전격 인터뷰] “교육의 본질을 묻다, 미래를 답하다”",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSejg5YzFlNXQzUlBjbklfMW94YnpfSHJGWWxTREM4NFJha1BCNkZhZmpGb0l4QTExTXVrSG9idW5DT2dfQjVRVndVUUlXLUllbXpRcUlLTDZiUEs4YlBfT1BzUkY?oc=5",
+    "source": "경기인저널",
+    "published": "2026-04-03",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": "interview",
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 7,
+    "title": "전교조 세종지부, 교육부 'AI 중심 사교육비 경감 대책' 강력 비판...\"학교를 사교육 복제물로 만들려는가\"",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VdWxNcFp3V0tYcHpuNmtWTGZqbVRyQml2el9fSU9fNXRkMERUSGN3MXhtZmdxYnRMUV9yRTZIV1lrbmNXYWZkLTQwM3Faa2Zwa0lPTXIzT2hxT0FQcTRnX2k2QTYxUDN3?oc=5",
+    "source": "뉴스피치",
+    "published": "2026-04-03",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "교원단체",
+     "교육부",
+     "사교육"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "인공지능 시대, 교사 주도성의 재발견",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE91S3NDc29mTGxIcXBlM2drci1nVVdMTHNrOUN3S0RubjhqUnVNd1BhTHB2NnVQbzRkMzY1cFhQY0ZkeG95bzFv?oc=5",
+    "source": "브런치",
+    "published": "2026-04-03",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "교육부, 대학·기업·지자체 협력으로 만드는 지역 혁신 강화",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNcHBaMU9RcXB4R0tDYnA1RWR2dG9oM2RmYldyYV83emQ4Q1NMZWFGend2X2RDU3RRTndfckpCMjV0ME5QUHJxQ1BwZ0lrb3VKLWFYeEd2MlVCNlpKSzEtMHRhbU1Ec3RhT0RF?oc=5",
+    "source": "라이센스뉴스",
+    "published": "2026-04-03",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 10,
+    "title": "민주‧진보 경기도교육감 후보 단일화 첫 경선 토론…4·5일 유튜브 공개",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QYUp1bjZIZ0gtMzJlc0tyclAxUEpsMTFCQkhkTWpxWHZPTU9yRmRxRWNfY0lRTkNrejRlVUE1QXBTOGQ2Q1V4SVY3Qk9xQVkxNjdxNA?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-04-03",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "교육감 선거"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Democratizing Foundations of Problem-Solving with AI: A Breadth-First Search Curriculum for Middle School Students",
+    "url": "http://arxiv.org/abs/2604.01396v1",
+    "source": "",
+    "published": "2026-04-01",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 AI 문제 해결의 기초인 BFS를 활용하여 중학교 과학 수업에 AI 교육을 통합한 커리큘럼을 설계하고, 학생들의 이해도 향상 및 과학 학습 효과를 증진시켜 AI 교육 접근성을 넓히는 데 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Griffin Pitts', 'Kimia Fazeli' 외 6명",
+    "pdf": "http://arxiv.org/pdf/2604.01396v1"
+   },
+   {
+    "n": 2,
+    "title": "Using Educational Data Mining to Predict Students' Academic Performance for Applying Early Interventions",
+    "url": "https://www.semanticscholar.org/paper/e58b8f579661475b9f55ab1c32e027fdc39cf84e",
+    "source": "semantic_scholar",
+    "published": "2021-07-23",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 교육 데이터 마이닝을 활용하여 학생의 초기 학업 성취도(GPA, 과락 과목 수, 핵심 과목 성적)를 예측하고, 조기 개입 및 우수 학생 선발에 활용함으로써 교육 효과를 향상시키는 데 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Sarah Alturki, Nazik Alturki",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Including multiple languages in secondary education: A translanguaging approach",
+    "url": "https://www.semanticscholar.org/paper/43c97fcd6b6f3bb37731093c33da21f04d7c9780",
+    "source": "semantic_scholar",
+    "published": "2020-01-22",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "다문화"
+    ],
+    "summary": "네덜란드 프리지아 지역의 다중 언어 교육 연구는 이민으로 인한 언어 다양성 증가에 대응하여 언어 분리 교육에서 벗어나 학생들의 모든 언어 자원을 활용하는 교수법을 개발하고 교사 교육에 통합하여 다문화 교실을 효과적으로 지원합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Mirjam Günther-van der Meij, J. Duarte 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "Teaching Students to Question the Machine: An AI Literacy Intervention Improves Students' Regulation of LLM Use in a Science Task",
+    "url": "http://arxiv.org/abs/2604.01955v1",
+    "source": "",
+    "published": "2026-04-02",
+    "keyword": "",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [
+     "AI 리터러시",
+     "AI 안전·규제",
+     "LLM",
+     "생성형 AI"
+    ],
+    "summary": "2시간의 AI 리터러시 워크숍을 통해 중학생들이 LLM을 활용한 과학 문제 해결 과정에서 질문 재구성, 추가 질문, 답변 정확성 판단 능력이 향상되어 결과적으로 성능이 향상되었으며, 이는 간결하고 확장 가능한 AI 교육이 GenAI 활용 능력 향상에 기여함을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['O. Clerc', 'R. Abdelghani' 외 4명",
+    "pdf": "http://arxiv.org/pdf/2604.01955v1"
+   },
+   {
+    "n": 5,
+    "title": "Grounding AI-in-Education Development in Teachers' Voices: Findings from a National Survey in Indonesia",
+    "url": "http://arxiv.org/abs/2604.01630v1",
+    "source": "",
+    "published": "2026-04-02",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "인도네시아 전국 초중고 교사 349명을 대상으로 AI 활용 실태를 조사한 결과, 교사들은 주로 수업 준비 부담 경감을 위해 AI를 사용하나, 일반적인 결과물, 인프라 부족, 맥락 부합성 부족으로 교육 현장 통합에 어려움을 겪고 있으며, 이는 향후 교사 맞춤형 AI 교육 시스템 및 정책 개발의 필요성을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Nurul Aisyah', 'Muhammad Dehan Al Kautsar' 외 2명",
+    "pdf": "http://arxiv.org/pdf/2604.01630v1"
+   }
+  ],
+  "tech": []
+ },
+ "fallback": {},
+ "notes": {}
+}

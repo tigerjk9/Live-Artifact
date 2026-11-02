@@ -1,0 +1,414 @@
+{
+ "date": "2026-01-30",
+ "generated_at": "2026-11-02T11:51:28+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[김승일 칼럼] 국가대표 AI의 도전",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85eDEzLWE2TWZkX3AxdlQ1ZHBMTjNTaFlYLUp5UVU0RHlqdTNhSHhqRlRYNVhWR3lGa1FUQ01zb3VaWFl1MjJqNnUtem9XWV8zQjlfQUM2eVJZNDNUMlRVS2UwT3NGWmZPMS1pcmtzQ0Nzczlm?oc=5",
+    "source": "busan.com",
+    "published": "2026-01-29",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "국가대표 AI 개발 경쟁은 교육 현장에 AI 활용 역량 강화 및 윤리 교육의 중요성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[빅테크칼럼] 일본 연구진, AI에게 '혼잣말'을 가르친 이유…\"중얼거림 기능 추가하자 더 똑똑\"",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NWHpfdzRTbHJJZzRycUh1WWdSOWZkNmtPYndoN3JWYmR0bVctdTBtYjBneldlR19vMG5qSU5mclZJeHdQSWNUa25DTFRFaWdWU01KZXg5NUZvbGNVYmpHdg?oc=5",
+    "source": "뉴스스페이스",
+    "published": "2026-01-29",
+    "keyword": "뇌과학",
+    "topic": "global",
+    "kind": "opinion",
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "AI의 '혼잣말' 학습 능력 향상은 교육 현장에서 학생들의 메타인지 능력 향상을 위한 맞춤형 학습 전략 개발에 시사점을 던져줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[진영아 칼럼] ‘독서 골든타임’이 꽃피울 민주시민의 품격",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=21692",
+    "source": "에듀프레스",
+    "published": "2026-01-29",
+    "keyword": "",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "독서 골든타임 강조는 AI 시대에 필요한 질문하는 능력을 키우는 민주시민 교육의 중요한 출발점이 될 수 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[의료칼럼] 적절한 ADHD 치료시기는",
+    "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2254152",
+    "source": "대전일보",
+    "published": "2026-01-29",
+    "keyword": "",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "ADHD 치료 적기를 놓치지 않도록, 교육 현장에서는 학령기 이전 아동의 발달 특성을 주의 깊게 관찰하고 조기 개입 시스템을 구축해야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[경제인칼럼] 지역 금융의 사회적 책무",
+    "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2254132",
+    "source": "대전일보",
+    "published": "2026-01-29",
+    "keyword": "",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "지역 소멸 위기는 교육 불균형 심화 및 교육 인프라 붕괴로 이어져, 지역 간 교육 격차 해소를 위한 다각적인 지원책 마련이 시급합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "AI로 국제교육 혁신…경기도교육청, 선도교사 역량 강화 연수 운영",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBycEE0R09CeVdVRE5tZEJ1UVhvdlNGZ1BIc1JfOEJvUndjZTI4ZGxkZ0VINzhKM2hKS04xZ2pXSnB5d1VHaXNicGpHZ190Z0U?oc=5",
+    "source": "조이뉴스24",
+    "published": "2026-01-29",
+    "keyword": "AI디지털도구",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "교사 연수"
+    ],
+    "summary": "경기도교육청의 AI 활용 국제교육 선도교사 연수는 미래 교육의 중요한 방향성을 제시하며, 교사의 AI 역량 강화가 교육 혁신의 핵심임을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "교육부, 선관위와 초중고 맞춤형 선거교육…\"민주시민교육 강화\"",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95dDBsUWtHNjV1REtueThfbTRkNnZENjdNYlpmaE9sRkNXQURwYldJVlhrSG1fSkNYRFhyQ19oYkdMU0ZITXJ2MXdxNDZsRWNQVUQ2V2puYzVoNDBmNzVkTdIBYEFVX3lxTE95dDBsUWtHNjV1REtueThfbTRkNnZENjdNYlpmaE9sRkNXQURwYldJVlhrSG1fSkNYRFhyQ19oYkdMU0ZITXJ2MXdxNDZsRWNQVUQ2V2puYzVoNDBmNzVkTQ?oc=5",
+    "source": "연합뉴스",
+    "published": "2026-01-29",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "교육부와 선관위의 협력은 학교 현장에서의 민주시민교육 강화와 더불어 학생들의 정치 효능감 향상에 기여할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "윤건영 교육감, ‘시·도 공동 AI 윤리 기준’ 수립 제안했다",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoZ0xPcTRKNnM2am91Q2VJMXMydW42bWFBMDlpcXpQXzUzZEdsU1pyMDE2WFBQNFNqLXlxMGp4a05rWkNPc0Q3cnM2YUR4dDFnVXA4VTZPUUg4TXRiOTRpbUJDSjdhQjVKU1pfc2ZyX1nSAXBBVV95cUxQaGdMT3E0SjZzNmpvdUNlSTFzMnVuNm1hQTA5aXF6UF81M2RHbFNacjAxNlhQUDRTai15cTBqeGtOa1pDT3NEN3JzNmFEeHQxZ1VwOFU2T1FIOE10Yjk0aW1CQ0o3YUI1SlNaX3Nmcl9Z?oc=5",
+    "source": "seenews365.com",
+    "published": "2026-01-29",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제"
+    ],
+    "summary": "윤건영 교육감의 AI 윤리 기준 수립 제안은 급변하는 교육 환경 속에서 학생들의 책임감 있는 AI 활용 능력 함양을 위한 중요한 첫걸음입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "“시도교육청 AI 윤리 공동기준 필요”",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zQkVDM3FNZGNBOEdGY0pGdHhTXzN0N1prQVpTbThQNHFrTll4MGMwc0VqeGhnRk5wcEtTdTF0U3FpNXNMR3VoNkdqVFVNMlVRSmNJbEVfdGhJNzRPTEl6Z0w5YWxPYlh4?oc=5",
+    "source": "cctimes.kr",
+    "published": "2026-01-29",
+    "keyword": "AI디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제"
+    ],
+    "summary": "AI 윤리 교육의 중요성이 커지는 가운데, 시도교육청 AI 윤리 공동기준 마련은 학교 현장의 혼란을 줄이고 일관된 윤리 교육을 제공하는 데 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "고의숙 의원, 제주교육감 출마 선언… “퇴보한 제주교육, 바로잡겠다”",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MV0FJY05GaWh2WjUyNzFfZXI3QzJwMXJZTVprUVBPaHFORWtWOEZ1TUhEWVBKLWRsV2NvOUl2Q1BoaUUxc0o2dFFySk1CdkhWS3k5V3dmYWJEX0MtOERGZ2RZZm1OeTFxcTRDMEpfSnnSAXBBVV95cUxPTFdBSWNORmlodlo1MjcxX2VyN0MycDFyWU1aa1FQT2hxTkVrVjhGdU1IRFlQSi1kbFdjbzlJdkNQaGlFMXNKNnRRckpNQnZIVkt5OVd3ZmFiRF9DLThERmdkWWZtTnkxcXE0QzBKX0p5?oc=5",
+    "source": "mediajeju.com",
+    "published": "2026-01-29",
+    "keyword": "AI디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "제주교육청"
+    ],
+    "summary": "고의숙 의원의 제주교육감 출마 선언은 제주 교육 정책 방향 전환에 대한 논쟁을 심화시키고, 교육 현장의 혼란을 야기할 수 있다는 점을 주시해야 합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Investigating How AI Tools Can Assist Teachers in Refining Their Pedagogy and Enhancing Student Learning Experiences",
+    "url": "https://www.semanticscholar.org/paper/ee79bdeb41bce75df271cdab7418ee54313d8f9a",
+    "source": "semantic_scholar",
+    "published": "2025-04-12",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 파키스탄 학교 교사 215명을 대상으로 AI 도구가 교사의 업무 부담을 줄이고 시기적절한 피드백을 제공하지만, 교수 방식과 학생 동기 부여에는 유의미한 영향을 미치지 못하며, 데이터 프라이버시 문제와 공정한 AI 교육 자원 분배의 필요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Imtiaz Khan, Muhammad Tufail 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "Educational Game Design Based on Experiential Learning Theory",
+    "url": "https://www.semanticscholar.org/paper/a85fb77c70de9bb1c63d61c6b9c29be4f3a3747c",
+    "source": "semantic_scholar",
+    "published": "2021-03-27",
+    "keyword": "",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 경험 학습 이론 기반 교육 게임 디자인 모델을 제시하고, 교육 기술 전공 학생 대상 교육 게임 디자인 과목에 적용하여 학습 동기 및 문제 해결 능력 향상에 효과가 있음을 보임으로써 교육 분야에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Yatao Li",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "The Impact of Adaptive Learning Technologies, Personalized Feedback, and Interactive AI Tools on Student Engagement: The Moderating Role of Digital Literacy",
+    "url": "https://www.semanticscholar.org/paper/8b8319b0556ea941c20307ab8a078b6523025946",
+    "source": "semantic_scholar",
+    "published": "2025-01-30",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습",
+     "AI 리터러시"
+    ],
+    "summary": "본 연구는 적응형 학습 기술, 맞춤형 피드백, 상호작용적 AI 도구가 학생 참여에 미치는 영향을 디지털 리터러시의 조절 효과와 함께 분석하여, 교육 현장에서 학생 참여 증진 및 학습 효과 향상을 위한 기술 활용 방안을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Husam Yaseen, Abdelaziz Saleh Mohammad 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "Student engagement in online learning in Latin American higher education during the COVID‐19 pandemic: A systematic review",
+    "url": "https://www.semanticscholar.org/paper/75cedc84fcbc290b1f864d8eb45d69c994d9c58c",
+    "source": "semantic_scholar",
+    "published": "2022-02-15",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 코로나19 팬데믹 기간 라틴 아메리카 고등 교육기관의 온라인 학습에서 학생 참여를 행동적, 인지적, 정서적 측면에서 체계적으로 분석하여 온라인 교육 개선을 위한 시사점을 도출하고, 교육 시스템 변화의 필요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "S. Z. Salas-Pilco, Yuqin Yang 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "Student Engagement in a Flipped Secondary Mathematics Classroom",
+    "url": "https://www.semanticscholar.org/paper/69f8a3606bfba6d620bd56b932a53c18f4d159f0",
+    "source": "semantic_scholar",
+    "published": "2021-09-04",
+    "keyword": "",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 고등학교 수학 수업에서 플립 러닝이 학생들의 행동적, 인지적, 정서적 참여를 증진시키는 긍정적인 잠재력을 보이며, 성공적인 플립 러닝을 위해서는 상호작용적인 설계와 사회적 상호작용 장려가 중요함을 질적 연구를 통해 밝혀냅니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Mustafa Cevikbas, G. Kaiser",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "영국, 구글에 'AI 개요' 선택 거부권 도입 예고",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=206113",
+    "source": "AI Times",
+    "published": "2026-01-29",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "영국의 AI 개요 선택 거부권 도입은 콘텐츠 생산자의 권리 보호와 AI 데이터 활용 간 균형점을 모색하는 중요한 시금석이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "OpenAI plant 100 Milliarden US-Dollar Kapitalaufnahme: Zwingt der KI-Krieg mit Google und Anthropic jetzt in die riskanteste Wette aller Zeiten?",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNXzYtb1Ffd1FsT2NKVzk1ajNZSkZ6eWpDeVJ1dlFGN1dhNGpGMDBzeVMtWVFwaTgwUWNhZDVDZDdxSTNxeWxQWWhCMHZiV1g4OXRmR19TeU5QOERmd215WGhxeTFTeVp2WV9ZcGpmOFo3MUNBdUppSXFuWEh4T29NOHdSSzQ5dUlXVm5EdjJEX0RLVVFSZmNvdHlYWE1Dd1hGZEJLaDFIcEJLdTF5ZVo3UmxJTXlnUlZKNFJhVzZ3Z0Z1d9IBygFBVV95cUxNSFV5c2dtZmh2em95MWcxdWNFd2pONHJsOUhGNFlfaTY2ZnhVdktiejNTdGdFcjk2aHowYnVNUWVhSFB3Mng4U0U2U0duUk5vekttcTZ0WUk4YmdZUlRDU3R5dE9JSV9LR2laTWFiQUc3ZmdfbTlCYWQ1TEwwbEpULXl1SHB0ZnByOTZORHUwR2o0VnFxOXV3czgtSHFiRGV5OXpRMFc3OHAySXc5RHMyMS0yS0UxYnNGVFJJZmpVNGk2OU9sdnpNaTFn?oc=5",
+    "source": "Xpert.Digital - Konrad Wolfenstein",
+    "published": "2026-01-29",
+    "keyword": "오픈AI",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Google",
+     "Anthropic"
+    ],
+    "summary": "OpenAI의 대규모 투자 유치는 AI 경쟁 심화 속에서 기술 주도권 확보를 위한 위험한 도박이자 AI 생태계 판도 변화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "구글 딥마인드, 다국어 모델 학습 위한 스케일링 법칙 ‘아틀라스’ 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=206119",
+    "source": "AI Times",
+    "published": "2026-01-29",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "아틀라스는 다국어 AI 모델 성능 향상을 통해, 글로벌 AI 서비스 확장 및 비영어권 시장 맞춤형 AI 개발 경쟁을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "중국의 ‘역대급’ 모델… 문샷 AI의 ‘키미 K2.5’",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=206123",
+    "source": "AI Times",
+    "published": "2026-01-30",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Moonshot"
+    ],
+    "summary": "문샷 AI의 키미 K2.5는 중국 AI 기술력을 과시하며 글로벌 AI 경쟁 심화 및 산업 지형 변화를 예고하는 중요한 지표입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "테슬라, xAI에 2.8조 투자...1분기 중 로봇 업그레이드 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=206100",
+    "source": "AI Times",
+    "published": "2026-01-29",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "로봇·휴머노이드",
+     "xAI"
+    ],
+    "summary": "테슬라의 xAI 투자는 그룹 차원의 AI 역량 집중을 통해 자율주행 및 로봇 기술 경쟁력 강화에 나서는 행보로 보입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "가짜 크롬 AI 확장 프로그램이 1만 명의 사용자 OpenAI API 키를 도용한 것으로 밝혀졌습니다",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNTh1UXNfbG5wOU1LaXhEZzVfQS1Ua04yMmtUQ0E4S2VRVTJfSGU3a3hsaDVBMUJYZmxEbWdCR2lSVWR5NTVIOG14VEJSbVkyVUdXTWR0S09ady1QcG9sZ0RlNWw1bHFTMkw1RFl3UGgzNGtpZ1RELXdSVHV1WXBxVA?oc=5",
+    "source": "Cryptopolitan",
+    "published": "2026-01-29",
+    "keyword": "오픈AI",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "AI API 키 탈취 사고는 AI 생태계 보안 취약점을 부각하며, 개발자와 플랫폼의 보안 강화 노력이 시급함을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "[구글 딥마인드의 알파고, 백만 개의 '문자' 단위로 게놈 해독] 이미 수천 명의 과학자들이 인공지능을 활용해 암과 뇌 질환을 연구하고 있다. 셸리 팬",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE4xWk9uX2RocnNoVHEwSHNoVW1IZk1LOGhjSzV2ZkhOZUNfREpER0MxTGI5N2JpMlBicFRHYlBTZ1M?oc=5",
+    "source": "AI넷",
+    "published": "2026-01-29",
+    "keyword": "구글",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "알파고의 게놈 해독은 AI의 의료 연구 혁신 가능성을 보여주며, 정밀 의료 및 신약 개발 분야에 큰 파급력을 가져올 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "이지위드, 전통예술 데이터 기반 AI 미디어아트 플랫폼 개발...전통예술 AI, 연구를 넘어 산업 현장으로",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oVm9qdk9XSWdTZXhHcWJOVm1ZOTFrZEFkcEljX1lxZm5PaGQxQVBVa1lWZm0zdmxzMmV2WEpMN1dia19lOHhLZEkyVV84WmZtd1JPXzZyYlNCMGRfZzN4MmJ2dXJvakE?oc=5",
+    "source": "인공지능신문",
+    "published": "2026-01-30",
+    "keyword": "인공지능",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [],
+    "summary": "이지위드의 플랫폼은 전통 예술의 디지털 전환을 가속화하고, AI 기술의 문화예술 분야 적용 가능성을 확대하는 중요한 사례가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "Rules fail at the prompt, succeed at the boundary",
+    "url": "https://www.technologyreview.com/2026/01/28/1131003/rules-fail-at-the-prompt-succeed-at-the-boundary/",
+    "source": "MIT Technology Review",
+    "published": "2026-01-28",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 모델의 취약점을 악용한 사이버 공격은 AI 기술 신뢰도 하락과 규제 강화로 이어져 산업 발전을 저해할 수 있다는 점을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "KAIST, GPU 덜쓰고 챗GPT 쓴다..카카오 AI 육성 프로젝트 대상 수상",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ORjZtdXJyZjBSNTEzTzEyY0xQNnZuSmNqazNPemtlQzJCbVowcnB5X1FDQ2Flay1JQWNhc01rTTlScmFSWGJETGJIQXhxNlNvVGZDRDRqRFZzTnpacXBqY2JyZkZJcGM?oc=5",
+    "source": "인공지능신문",
+    "published": "2026-01-30",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "GPU·데이터센터",
+     "ChatGPT",
+     "카카오"
+    ],
+    "summary": "KAIST의 수상은 AI 모델 경량화 및 효율적인 자원 활용 연구의 중요성을 부각하며, 향후 AI 기술 개발 방향에 시사하는 바가 큽니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 기술을 교육에 적극적으로 도입하고 민주시민 교육과 AI 윤리 기준을 강화하여 교육 혁신을 추진하고 있으며, 지역 교육 발전을 위한 노력이 활발하게 이루어지고 있습니다.",
+  "tech": "AI 기술 경쟁 심화 속 규제 도입, 거대 자본 투자, 다국어 모델 개발, 다양한 산업 분야(예술, 의료) 적용 확대, 보안 위협 증가, 효율성 개선 노력 등 AI 생태계가 역동적으로 진화하며 미래를 향해 나아가는 중"
+ }
+}

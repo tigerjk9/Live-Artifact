@@ -1,0 +1,410 @@
+{
+ "date": "2025-12-29",
+ "generated_at": "2026-11-02T11:49:53+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[이종호칼럼] AI 대전환 시대, 과감히 혁신하라",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40d3BZdnBxbDFBcmRscTdzNFIzZmdWd1MyMWR6UGh4cHF1NDBwVkNqUTBHR3J6UUVjYzlJeUJwNEo3VUtOWFNoRzFhQmItWDNUaEROLUhMR1rSAVRBVV95cUxONnNpVUZKMjE0Rkl3WTZBalhDZng2Slo2ZHZyZ1BYX05RUGtERGJ2Mk1CNlJpaUFyNW9IQVFWRkxDbHRYZzAzU3duc0pQYnpJdUFiZFo?oc=5",
+    "source": "segye.com",
+    "published": "2025-12-28",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "AI 대전환 시대에 교육은 낡은 틀에서 벗어나 AI를 적극 활용하고 미래 사회에 필요한 역량을 길러주는 방향으로 과감하게 혁신해야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[CEO칼럼] 한국 콘텐츠 생태계가 잃어버린 출판의 허리",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLQXdvVEVtaXpHN3lzbVRkWk5KYXcybjAtdl9iand5QWpweG5uWmlXcGNnUERtaWZ1b0gwUGQwT1phWDJuUm9KVHlYWUw3ZTNsNW91QjgyZGVBUdIBWEFVX3lxTE9qNVpiV2xYMkc5d1U3QTlTUTFVWnc2RzFmaTdaX1dvRGpjUHJNU3pnQ0ZGdDV1VjlzN01qblN5d1l1UmpCZW1MWVI4cUhTYjNJU3RZXzdMckg?oc=5",
+    "source": "아주경제",
+    "published": "2025-12-28",
+    "keyword": "디지털교육",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "출판 시장 위축은 교육 콘텐츠 다양성 부족과 학습 격차 심화로 이어질 수 있으므로, 양질의 교육 출판물 지원 및 생태계 복원이 시급합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[전문가 칼럼] 미래 인재를 육성하는 로보컵, 2026 인천의 비상",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xUVl2SHdlaXZHUVFVSjVDM1lxWTd0V2VaWURpRjR5a1VKX0V1S0Ywc0tRZy1PLTBud3dsTGJaRm5ybnhPRkFyMnYxNTc1b21rMzdlSXNfUGdzVkJvRTB6anp0and5M1J5eGJSbA?oc=5",
+    "source": "로봇신문",
+    "published": "2025-12-28",
+    "keyword": "미래기술",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [
+     "로봇·휴머노이드"
+    ],
+    "summary": "로보컵 인천 개최는 미래 사회 핵심 역량인 로봇 기술과 융합적 사고 함양 교육의 중요성을 부각하는 기회가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[차관칼럼] 기술안보는 미래 위한 전략적 투자",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FY0pSdG4zUW9wVmNvdmxnZG11VWJ0dE9WWVlFcks1ZXo5c3YzTURkZzNDS1dBd1BmQTZZWE5aM19uTE5DaWRlN1hHRkxacWVqRDhV?oc=5",
+    "source": "네이트",
+    "published": "2025-12-28",
+    "keyword": "미래기술",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "기술 안보의 중요성은 미래 사회에 필요한 핵심 역량을 키울 수 있도록 교육과정 및 투자 방향에 반영해야 할 중요한 과제입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "대한민국, 과학기술 강국의 새로운 미래 [기고]",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HWTB1QTU5clFIWHFmVUJUd0hiS3BaaEl2M1hCUzF6d2VkeVV3ajFtNmhERnc4OHBDZHFXV1hhUmlPekV1Q3ZxdnRvUlhpMHZUdkJnM0tFaVdxN3g5RFdYbg?oc=5",
+    "source": "네이트",
+    "published": "2025-12-28",
+    "keyword": "미래기술",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "미래 과학기술 강국을 위해 창의적 문제 해결 능력과 융합적 사고력을 키우는 교육 혁신이 시급합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "美 국방부 \"中, AI·뇌과학으로 미군 초월 노려\"",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YQzg2WHhwSGhveE93bFF5dmNGUUJOX2k5dUJmdEN6Tlg1QTMwTkVoTjFuUkNsUE1CblZGckNqLTdsY2lYMzBNUHI5WjRQU25fTkFTd2tB?oc=5",
+    "source": "지디넷코리아",
+    "published": "2025-12-28",
+    "keyword": "뇌과학",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "미래 사회의 경쟁력 확보를 위해 AI와 뇌과학 분야 인재 양성을 위한 교육 시스템 혁신이 시급합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "[신년인터뷰] ② 김석준 부산교육감 \"AI시대 선도, 사람 중심 미래교육\"",
+    "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxPLXV4blY5SVVDbnBXVDBqMm5MZkFJd0xJS1JfNmlLNVJfenlLdDZ2WnRPaE5oLURBOThrUnN4UkRualFDZFdvZkpkTTBDbDkxOXlLdVBFQ0tFWTNRZE43SE5YSHEwbHNvak11cnFKRzJFWFRrZFVZUWgwb0o5RXRxSVlnS0R6WFdLRGRCdlBVUXdYS0pwWU0xQ0YwMnFTajl3WFJXWUxlQ0pjVGxsdE9vUmxyeGFOelQ2WVhsZkgtUlV1dTJTY3Y5eXVRTXhHLXVlSUFISk9wRmRLTDZxd2ttQV9XcEJmeUdXQUJCd0kxX2xHM1prR3M2N0NiOGhwSGVEdllOYWNlZWxpVTBCWl9yR1U4OW9xWXJHYWg0QVB0OWV6TF83cVdxT3FrU3hzLW8wSWNsZHN6TFVuWk9ySDF3QXJpQ1JZVXRCbHYyR0JkbjVPWkdNR1lmZ1E5TEdEblNKc1c0eW1oR19LWU1BZW5ob19fb09QdllhaVdNT3JrZDJQNTNsaW5jeUc1UjNZTmxiNFUtWUp4LURBUQ?oc=5",
+    "source": "MSN",
+    "published": "2025-12-28",
+    "keyword": "AI교육",
+    "topic": "classroom",
+    "kind": "interview",
+    "entities": [
+     "부산시교육청"
+    ],
+    "summary": "AI 시대에 발맞춰 사람 중심 미래 교육을 강조하는 부산교육감의 비전은 기술 변화 속에서도 교육의 본질을 잃지 않아야 함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "[신년인터뷰] (16) 박종훈 경남교육감 \"12년간 혁신교육, 미래교육 기준될 것\"",
+    "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNTy1JUHloVjA4NWk5X2JUelFVS0tOOHdxaVB2clBaR3V4U09HbWdSSmF2VkVhcWx6UDVfTnVJMjZmNG5NcmJNelJ3OG5QWlFiMFBtZ3poTkI3SENISU8zZXdMVjB1MHFrZU1mc1ZpZ2w5bUFycno0MnhxbUlCRE1IeWU0YkZ6ek5BbnBmRHVWdENkN2k3b3JBdmJnaVFzVk14c1NpR1ZraGNESXBSMjA4UWxVc2pSQlBZRDhWRi1TSmMtTkFoc3pwZ1FaYjYzRGdFVWJORllrZUUzSWc0RDhBODVpMWUtM3BEaVF2cE1XQ2lVcGNpV1JKdGctRWJPSjY2YkxoMDg2U3JJWXhXajJTVjJQTW45Vy1hdk5WT1NJVnEzamszdUZvZVJSaFZVQ3NIVVNrQ0R4ck5pV0pZV3FTcE5FS3BfMlN4NVgwV3Rva1VTaElpZnNLWkFkRWc5Wm1wZDA0bFJXUjdEUjJocFljR0FPSGVpZjdBU1FHWGVwWXc5Y28xdTE0QjBhRFlveVMxNEdRVHh1alJ5UjNPR3JISGUtQ0s1LVJCdjU2dFR4TmJpUmpXcnc?oc=5",
+    "source": "MSN",
+    "published": "2025-12-28",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": "interview",
+    "entities": [
+     "경남교육청"
+    ],
+    "summary": "박종훈 교육감의 혁신교육 12년은 미래 교육의 중요한 기준점을 제시하며, 지속 가능한 교육 모델 구축에 대한 심도 깊은 논의를 촉발할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "교육부와 교육청이 함께 ‘수행평가 시, 인공지능(AI) 활용 관리 방안’을 마련",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1QlU2RWsxUV9ycUhweEFZdjJEdUJFcGVId2xOdGRGWTdLMFFkZkxES252UTlWR2FVSVZHaWJrcHcyRXZ5RG15UUp6V1llbGxUQkN3TWhOLWpVd1RRanVHVzM2dTdhNkhrbFE?oc=5",
+    "source": "뉴스에듀신문",
+    "published": "2025-12-28",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "AI 활용 수행평가 관리 방안 마련은 교육 현장에 AI 활용의 공정성과 교육적 효과를 동시에 고려해야 하는 과제를 제시합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "임종식 경북교육감, 경북교육장학회 장학금 기탁식(대한기계설비협회 경북도회) 참석",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KOE5nWU1GZ2oyLTE4SjJpMnRxbF8zWUpLbUwwb1F2LS1Ub0tYenlPTGFVWklsT2F3dDFIc0x1Q3JiNUxkMTk4b2twRjZ4bG9fUC1mNkpGVTVnNEJQanhoZWQxbkJhUQ?oc=5",
+    "source": "데일리대구경북뉴스",
+    "published": "2025-12-28",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경북교육청"
+    ],
+    "summary": "교육계 외부의 장학금 기탁은 학생 지원 확대와 교육 격차 해소에 긍정적인 영향을 미칠 수 있다는 것을 보여주는 사례입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Bridging MOOCs, Smart Teaching, and AI: A Decade of Evolution Toward a Unified Pedagogy",
+    "url": "http://arxiv.org/abs/2507.14266v1",
+    "source": "",
+    "published": "2025-07-18",
+    "keyword": "MOOC",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "본 논문은 MOOC, 스마트 교육, AI를 통합하여 학습자 참여, 교사 지원, 개인 맞춤형 학습을 확장하는 삼층 교육 프레임워크를 제안하고, 프로젝트 기반 교육과정 설계를 통해 교육 분야 발전에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Bo Yuan', 'Jiazi Hu']",
+    "pdf": "http://arxiv.org/pdf/2507.14266v1"
+   },
+   {
+    "n": 2,
+    "title": "A Systematic Literature Review of Computer Science MOOCs for K-12 education",
+    "url": "http://arxiv.org/abs/2501.18986v1",
+    "source": "",
+    "published": "2025-01-31",
+    "keyword": "MOOC",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 K-12 컴퓨터 과학 교육에서 MOOC 활용 현황을 체계적으로 검토하여 MOOC가 교사 지원 및 추가 학습 자료와 함께 K-12 컴퓨터 과학 교육에 기여할 수 있음을 밝히고, 향후 연구 방향을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['L. M. van der Lubbe', 'S. P van Borkulo' 외 1명",
+    "pdf": "http://arxiv.org/pdf/2501.18986v1"
+   },
+   {
+    "n": 3,
+    "title": "Transitioning to remote learning: Lessons from supporting K-12 teachers through a MOOC",
+    "url": "https://www.semanticscholar.org/paper/39e2c123b681865a96511c01af2f18adffcfac1e",
+    "source": "semantic_scholar",
+    "published": "2021-04-02",
+    "keyword": "MOOC",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "코로나19로 인한 원격 학습 전환 상황에서 교사들의 온라인 교육 역량 강화를 위해 설계된 MOOC 연구를 통해, 교사들의 어려움과 MOOC의 효과를 분석하고, 교사 전문성 개발을 위한 MOOC 설계 및 활용 방안을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Liz Owens Boltz, Aman Yadav 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "Advancing Multimodal Teacher Sentiment Analysis:The Large-Scale T-MED Dataset & The Effective AAM-TSA Model",
+    "url": "http://arxiv.org/abs/2512.20548v2",
+    "source": "",
+    "published": "2025-12-23",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "교사의 감정 분석을 위해 대규모 멀티모달 데이터셋 T-MED를 구축하고, 비대칭 어텐션 기반 AAM-TSA 모델을 개발하여 교사의 감정을 정확하게 파악하고 교육 효과를 향상시키는 데 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Zhiyi Duan', 'Xiangren Wang' 외 2명",
+    "pdf": "http://arxiv.org/pdf/2512.20548v2"
+   },
+   {
+    "n": 5,
+    "title": "Socratic Students: Teaching Language Models to Learn by Asking Questions",
+    "url": "http://arxiv.org/abs/2512.13102v3",
+    "source": "",
+    "published": "2025-12-15",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [
+     "코딩 AI"
+    ],
+    "summary": "언어 모델이 스스로 질문하며 학습하는 능력을 향상시키기 위해, 수학 및 코딩 문제 해결 과정에서 모델이 능동적으로 교사에게 질문하고 DPO로 훈련하여 학습 효율성을 높이는 학생 주도 학습 전략을 제안하고 교육 분야에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Rajeev Bhatt Ambati', 'Tianyi Niu' 외 4명",
+    "pdf": "http://arxiv.org/pdf/2512.13102v3"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "KAIST “데이터센터에 집중된 연산 엣지로 분산...추론 속도 높이는 ‘스펙엣지’ 개발”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205120",
+    "source": "AI Times",
+    "published": "2025-12-28",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "GPU·데이터센터",
+     "LLM"
+    ],
+    "summary": "KAIST의 스펙엣지 기술은 LLM 추론 비용 절감 및 엣지 컴퓨팅 확산을 가속화하여 AI 서비스 접근성을 높이는 데 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "How to Build an AI-Powered Weather ETL Pipeline with Databricks and GPT-4o: From API To Dashboard",
+    "url": "https://towardsdatascience.com/how-to-build-an-ai-powered-weather-etl-pipeline-with-databricks-and-gpt-4o-from-api-to-dashboard/",
+    "source": "Towards Data Science",
+    "published": "2025-12-26",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "Databricks와 GPT-4o를 활용한 날씨 데이터 파이프라인 구축 사례는 AI 기반 데이터 처리 및 분석 자동화의 가능성을 보여주며, 산업 전반의 효율성 증대에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "고석태 제논 대표 “기업 AI 성패, 모델 성능 넘어 ‘맥락 이해’에 달려”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205122",
+    "source": "AI Times",
+    "published": "2025-12-28",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "기업 AI 성공은 단순히 모델 성능을 넘어 조직의 맥락을 정확히 이해하고 맞춤형 서비스를 제공하는 데 달려 있다는 점을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "ChatGPT의 시장 점유율이 Gemini의 격차 축소로 68%로 떨어졌습니다.",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV0FMYl82S2lnNDVnRFQ2bFFkQzZDR1FsT1MzeUM0aWkxS1FrN3FoTVNGZUMxSVJPei14RU9BV3hFZ3R6ZzZFdGF1RzNFSDFNMDFKU0kxbldUMzNYTWFuc3l1cWxSbDMySGFmdTgydDk4djZ1ZTJPZUhiNjZCVVZKWlVrNHlFYVN1T2l0TmRUcWZMU2xfeVE?oc=5",
+    "source": "Unite.AI",
+    "published": "2025-12-28",
+    "keyword": "오픈AI",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Gemini"
+    ],
+    "summary": "Gemini의 성장세는 AI 챗봇 시장 경쟁 심화를 의미하며, ChatGPT의 독점적 지위 약화 가능성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "2025년 AI를 대표하는 8개의 키워드는",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205131",
+    "source": "AI Times",
+    "published": "2025-12-27",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 키워드 분석은 기술 트렌드를 파악하고 미래 AI 산업 발전 방향을 설정하는 데 중요한 지표가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "[AI웹툰] 사랑하면그사람이된다 : 6화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205123",
+    "source": "AI Times",
+    "published": "2025-12-27",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 웹툰은 창작 영역에서 AI 활용 가능성을 보여주며, 콘텐츠 산업 전반에 새로운 비즈니스 모델과 경쟁 환경을 조성할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "엔비디아 로보틱스 책임자, 테슬라 자율주행 극찬...\"물리적 튜링 테스트 통과한 최초의 AI\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205098",
+    "source": "AI Times",
+    "published": "2025-12-26",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA"
+    ],
+    "summary": "엔비디아의 극찬은 테슬라 FSD의 기술적 진보를 넘어, 물리적 세계에서 작동하는 AI의 신뢰도와 상용화 가능성을 한층 높였다는 의미입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "OpenAI's Sam Altman warned of AI's \"superhuman persuasion\" in 2023, and 2025 proved him right",
+    "url": "https://the-decoder.com/openais-sam-altman-warned-of-ais-superhuman-persuasion-in-2023-and-2025-proved-him-right/",
+    "source": "The Decoder",
+    "published": "2025-12-28",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "AI의 설득력이 고도화됨에 따라 사회적 영향력과 윤리적 책임에 대한 심각한 논의와 대비가 시급하다는 것을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "네이버 AI가 수능 풀었더니 '1등급'…옴니모달·고성능 추론 AI모델 공개",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4clBsV0tKS1pJdGVPYmZOaEpKdUNwbVdOSFVtaFFCR01kbU9YZDhpRGFRNjQxMXBGMDFsZGRqTV9vWWRIQjBSaU43amNkUzBDT1lZ?oc=5",
+    "source": "네이트",
+    "published": "2025-12-29",
+    "keyword": "오픈소스",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "네이버",
+     "수능·대입"
+    ],
+    "summary": "네이버 AI의 수능 1등급은 국내 AI 기술력을 입증하며 교육 및 다양한 산업 분야에 고성능 AI 모델 적용 가능성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "SKT, 국내 최초 5000억 파라미터 초거대 AI모델 공개한다",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE40REFncnBXcm5DbjlnOWNNdk5yYi1qZGt6c2RtWlJSVnQ3T1dDYlhFQ1FOY3FSNGVHTGRGcUZscHJ4WDVFbzlBcWlmVnM4dE5nNTU0QXNjbFRzVEl4RElQZVF3UExNZ9IBZkFVX3lxTE40REFncnBXcm5DbjlnOWNNdk5yYi1qZGt6c2RtWlJSVnQ3T1dDYlhFQ1FOY3FSNGVHTGRGcUZscHJ4WDVFbzlBcWlmVnM4dE5nNTU0QXNjbFRzVEl4RElQZVF3UExNZw?oc=5",
+    "source": "동아일보",
+    "published": "2025-12-28",
+    "keyword": "AI모델",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "SK"
+    ],
+    "summary": "SKT의 초거대 AI 모델 공개는 국내 AI 기술 경쟁 심화와 산업 전반의 AI 혁신 가속화를 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 시대, 미래 인재 육성을 위한 교육 혁신과 기술 안보 강화, AI 활용 교육 확대 등 대한민국 교육계가 🚀 과학기술 강국을 향한 미래 교육으로 빠르게 전환하고 있습니다.",
+  "tech": "AI 기술이 데이터 처리 효율성 향상, 맥락 이해 능력 심화, 다양한 산업 적용, 모델 경쟁 심화, 윤리적 고려 심화 등 다방면으로 발전하며 더욱 강력하고 지능적인 미래를 향해 나아가고 있다."
+ }
+}

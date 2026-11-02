@@ -1,0 +1,415 @@
+{
+ "date": "2025-11-24",
+ "generated_at": "2026-11-02T11:48:09+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[이종호칼럼] 건강한 대한민국, AI가 길을 열다",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4OW84NjVSUmRhSnBkSGJkcnRUcDljR3dackstU2ZYWW02NkdjSHJ1MVJXVTJtQzlLZEluYnQ4U0wyS09NOV9wUllqWFBZeERVdjFB?oc=5",
+    "source": "네이트",
+    "published": "2025-11-23",
+    "keyword": "인공지능교육",
+    "topic": "student_care",
+    "kind": "opinion",
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "AI 기술은 교육 분야에서 맞춤형 학습과 건강 관리 지원을 통해 학생들의 전인적 성장을 돕는 중요한 도구가 될 수 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[시론] 균형발전의 핵심 열쇠, 지역대학을 혁신 거점으로",
+    "url": "https://news.unn.net/news/articleView.html?idxno=586438",
+    "source": "한국대학신문",
+    "published": "2025-11-24",
+    "keyword": "",
+    "topic": "higher_ed",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "지역대학 혁신을 통한 균형발전은 교육 불균형 해소와 지역 인재 양성을 위한 국가적 책무 강화의 핵심 과제입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "신한은행, 테크·지정학·경제·뇌과학 등 2026년 핵심 변화 다루는 프리미엄 인터뷰 시리즈 '주목'",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBRXFzV1Q3UW5xOE1QRVFabUpTUFlHSWJsU0U0dWJabnNKVE9CamdHYnhaeWdNSm9ESnFxUTE5dV9EYzJPWW9NVkktYXVCb0VPVTNaY2hpV2ZZOFQ1dTdzbFRjbWVPcDJ0S2lQUjJ30gFuQVVfeXFMUEFFcXNXVDdRbnE4TVBFUVptSlNQWUdJYmxTRTR1Ylpuc0pUT0JqZ0dieFp5Z01Kb0RKcXFRMTl1X0RjMk9Zb01WSS1hdUJvRU9VM1pjaGlXZlk4VDV1N3NsVGNtZU9wMnRLaVBSMnc?oc=5",
+    "source": "퍼블릭타임스",
+    "published": "2025-11-23",
+    "keyword": "뇌과학",
+    "topic": "classroom",
+    "kind": "interview",
+    "entities": [],
+    "summary": "신한은행의 인터뷰 시리즈는 미래 사회 변화에 대한 통찰을 제공하여 교육계가 변화에 발맞춘 교육과정 개발 및 인재 양성에 힘써야 함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "경기도교육청, 고경력 교사 대상 '디지털·AI 크리에이터 연수' 진행",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ubl9CZDFMazZhZDhRQlhUeDAwZW8yczVpZHlLcFFuLXpyUFFwV3BIWUxpbjlfSHNlMlFFa0NrdG40dVU0MUhVRnlYZGhhU1FPWWFxNVU5YVdROTFNREpLdmk4enp2cmtXN1dLZDRiV2NMYzQ?oc=5",
+    "source": "오늘경제",
+    "published": "2025-11-23",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "고경력 교사의 디지털 및 AI 역량 강화는 교육 혁신을 가속화하고 미래 교육 환경에 효과적으로 대응하는 데 필수적입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "경기도교육청미래과학교육원, 중등 수학교사 대상 ‘디지털 역량 강화 직무연수’운영",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtcEh3RktsY1RHM1A0RzlyU1JzUWI2Uzc0ZmdxeDYzVlJvSWZQcUJzdFNSVjIwTjc1cEJ2bURyRVgzZG1QQkEwY1dwMjFfLTZFVW5mdkxVaGVXVkFlTFMtamZ3VmZIblHSAWdBVV95cUxQLXBId0ZLbGNURzNQNEc5clNSc1FiNlM3NGZncXg2M1ZSb0lmUHFCc3RTUlYyME43NXBCdm1EckVYM2RtUEJBMGNXcDIxXy02RVVuZnZMVWhlV1ZBZUxTLWpmd1ZmSG5R?oc=5",
+    "source": "경기연합뉴스",
+    "published": "2025-11-23",
+    "keyword": "AI디지털도구",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "중등 수학교사의 디지털 역량 강화 연수는 미래 교육 환경 변화에 발맞춰 수학교육 혁신을 위한 필수적인 투자입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "교육부, 인공지능 교육 콘텐츠 시범운영 지침 마련",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVVdhYmFLc3JGWHBNLVlWeXc2OGdXdk0zSGszTjBqWXMxRk5laTZmRTJGb2s5RXRQeEhyYlhtVU5jZ3hRa3JtX3RPdkg2azh4NE5OX2hpQnJVb1h2ekVVdWZKSEJVbm1OSjVqVlkwYnVxTjg3WVNPNlBiMHU2UV8xMjdZbC16UUdmVWEwMkpQYi1QVUJMWERYLWhkczk?oc=5",
+    "source": "Vietnam.vn",
+    "published": "2025-11-23",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "교육부의 인공지능 교육 콘텐츠 시범운영 지침 마련은 미래 교육 대비를 위한 긍정적 신호탄이나, 현장 교사의 역량 강화 및 디지털 교육 격차 해소가 필수적입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "[K-VIBE] 임기범의 AI 혁신 스토리…대학 부정행위 사태, AI 탓 아니다",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9lWTV2MEZiMm96OXdXNXlqZkNVRDNuZVV1M2NyV29fSXlrV0RzZE44SWFrT3lDdEd3ak1sTkl2bXhYbjFsVDVsdnk4WjlnblY4bmVV?oc=5",
+    "source": "네이트",
+    "published": "2025-11-24",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 활용 증가에 따른 대학 부정행위는 AI 자체의 문제가 아닌, 교육 시스템의 윤리적 책임 강화와 학생들의 AI 활용 교육 부재에서 비롯된 문제입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "[경기도교육청] 2025 교육전문직원 최종합격자 발표 실천 역량 중심의 새로운 선발방식 도입",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXMEtUaUxrdWFiS0J2Tk5LZ21qclB5cmlfNTFCSDNnTlRKbExTZDY0NnlFWnJvdVRacmRGWEYwak5iQ2x1enJMNnJpVjg4MjBsNGVsdHhadWgxaEotUUd2Q2J5MEhaT3JJTVNF0gFvQVVfeXFMTnhfb1YwSjZaWVNMbkxXUmFfNnBiLVFsalRCb1J1ZGVEVGVtR1ItVFlPOHNrc0dUNHN6WDc0YVdrMWlSeThJSTlZaXRxOFJCY3RnSzJ6YlhLSTRLU0Nra0FaQkVRaVZENWF0M2gwYUo0?oc=5",
+    "source": "msnews.co.kr",
+    "published": "2025-11-23",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청의 실천 역량 중심 교육전문직원 선발 방식 도입은 학교 현장 문제 해결 및 변화를 주도할 수 있는 인재 양성에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "경기도의회 교육행정위, 경기도교육청 행정사무감사 마무리... 제도개선 방향 제시",
+    "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1nZ1lwY3VwbDVyRHlDbGp0dFVBUTNMY0pmaXRYaGNTR1lhSmZSU200TEIwMzQ4cjhDV2dHeVhhUQ?oc=5",
+    "source": "사회적경제뉴스",
+    "published": "2025-11-23",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청 행정사무감사 결과는 교육 현장의 제도 개선을 통해 교육 서비스 질 향상과 효율성 증대에 기여할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "‘2025 충남형 IB학교 수업·평가 도란도란 뜨락’ 성료",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9wSHdNeUEtR3J0eHNYTUdBN2FrZmhmRGhqTzNXcEg3elV3aFFYc3lrd25adUFGdWhyUGhJMnhBWWZadDBENEcyODdTSTAtNDE3Vm16RHRyTmk0WTJmWGZtWlpUakpQbjZxT1NJ0gFvQVVfeXFMUHdGRGpLeHdaLW9oU01lWmhtWjIxUEQxWFpick42R0x3ZkRGeHNkTzV1cDdIQ2d3NFZ5bjBpeFhreU5ZXzViUGxqWkpMYS0xMER4SjJYU004enFBLVU0b050VDZKdkhqb1B1ckFqbjhR?oc=5",
+    "source": "서울일보",
+    "published": "2025-11-23",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "충남형 IB학교 운영 사례 공유는 교사 간 협력적 수업 및 평가 문화 확산을 통해 공교육 혁신에 기여할 수 있다는 점을 시사합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Beyond named methods: A typology of active learning based on classroom observation networks",
+    "url": "http://arxiv.org/abs/2510.01124v1",
+    "source": "",
+    "published": "2025-10-01",
+    "keyword": "pedagogy",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 실제 수업 관찰 네트워크 분석을 통해 기존에 알려진 액티브 러닝 방법들의 실행 방식이 다양하며, 구체적인 활동 유형과 학습 효과 간의 관계를 밝혀 액티브 러닝 연구 및 적용에 새로운 시각을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Meagan Sundstrom', 'Justin Gambrell' 외 3명",
+    "pdf": "http://arxiv.org/pdf/2510.01124v1"
+   },
+   {
+    "n": 2,
+    "title": "Virtual Reality in Sign Language Education: Opportunities, Challenges, and the Road Ahead",
+    "url": "http://arxiv.org/abs/2508.17362v2",
+    "source": "",
+    "published": "2025-08-24",
+    "keyword": "pedagogy",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 VR과 AI 기반 수어 교육 연구 55편을 분석하여, 실시간 피드백, 상호작용 환경, 게임화, 개인 맞춤 학습, 접근성 향상 등의 가능성과 더불어 기술적 한계, 인식 정확도 문제, 포용적 설계 부족 등의 과제를 제시하며, 향후 수어 학습을 위한 효과적이고 공정한 VR 시스템 개발 방향을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Santiago Berrezueta-Guzman', 'Refia Daya' 외 1명",
+    "pdf": "http://arxiv.org/pdf/2508.17362v2"
+   },
+   {
+    "n": 3,
+    "title": "Teaching Problem Solving in Undergraduate Physics Courses: An Endorsement for Deliberate Practice",
+    "url": "http://arxiv.org/abs/2508.08133v1",
+    "source": "",
+    "published": "2025-08-11",
+    "keyword": "pedagogy",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "물리학 학부생들에게 문제 해결 전략 교육과 의도적 연습을 병행한 결과, 학생들의 문제 해결 방식이 전문가와 유사해지는 것을 확인했으며, 이는 명시적 전략 교육 및 피드백 중심 교육이 반복 학습보다 효과적임을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Kelly Miller', 'Olivia Miller' 외 1명",
+    "pdf": "http://arxiv.org/pdf/2508.08133v1"
+   },
+   {
+    "n": 4,
+    "title": "The CAPIRE Curriculum Graph: Structural Feature Engineering for Curriculum-Constrained Student Modelling in Higher Education",
+    "url": "http://arxiv.org/abs/2511.15536v1",
+    "source": "",
+    "published": "2025-11-19",
+    "keyword": "K-12 education",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 대학 교육 과정의 선수과목 관계를 그래프로 모델링하고, 학생들의 이수 패턴을 분석하여 학업 중단 예측 성능을 향상시키는 구조적 특징을 개발, CAPIRE 프레임워크에 적용하여 교육 데이터 마이닝과 제도 연구를 융합하는 새로운 예측 시스템을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['H. R. Paz']",
+    "pdf": "http://arxiv.org/pdf/2511.15536v1"
+   },
+   {
+    "n": 5,
+    "title": "Build AI Assistants using Large Language Models and Agents to Enhance the Engineering Education of Biomechanics",
+    "url": "http://arxiv.org/abs/2511.15752v1",
+    "source": "",
+    "published": "2025-11-19",
+    "keyword": "K-12 education",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "LLM",
+     "에이전트"
+    ],
+    "summary": "생체역학 교육에서 LLM의 한계를 극복하기 위해 RAG와 MAS를 결합한 AI 에이전트 기반 교육 보조 시스템을 구축하여, 개념 이해도 향상 및 복잡한 계산 문제 해결 능력을 높여 공학 교육 발전에 기여할 가능성을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Hanzhi Yan', 'Qin Lu' 외 4명",
+    "pdf": "http://arxiv.org/pdf/2511.15752v1"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "\"곰 인형에 탑재된 AI가 어린이와 부적절한 대화\"...판매 중단돼",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204206",
+    "source": "AI Times",
+    "published": "2025-11-23",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제"
+    ],
+    "summary": "AI 윤리 및 안전성 검증의 중요성이 더욱 부각되며, 특히 아동 대상 AI 제품 개발 시 엄격한 규제와 지속적인 모니터링 시스템 구축이 시급합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "OpenAI is ending API access to fan-favorite GPT-4o model in February 2026",
+    "url": "https://venturebeat.com/ai/openai-is-ending-api-access-to-fan-favorite-gpt-4o-model-in-february-2026",
+    "source": "VentureBeat AI",
+    "published": "2025-11-21",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "OpenAI의 GPT-4o API 지원 중단은 특정 모델에 대한 의존성을 낮추고 지속적인 모델 업데이트 및 혁신을 추구해야 함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "Gemini 3 Pro and GPT-5 still fail at complex physics tasks designed for real scientific research",
+    "url": "https://the-decoder.com/gemini-3-pro-and-gpt-5-still-fail-at-complex-physics-tasks-designed-for-real-scientific-research/",
+    "source": "The Decoder",
+    "published": "2025-11-23",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Gemini",
+     "ChatGPT",
+     "추론 모델"
+    ],
+    "summary": "최신 AI 모델들이 과학 연구 수준의 복잡한 물리 문제 해결에 여전히 어려움을 겪는다는 것은, AI 기술이 실제 과학 및 공학 분야에 적용되기 위해서는 더욱 심층적인 추론 능력 개발이 필요함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "트럼프, 호날두와 백악관서 축구하는 AI 영상 게시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204198",
+    "source": "AI Times",
+    "published": "2025-11-22",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "딥페이크"
+    ],
+    "summary": "트럼프의 AI 영상 게시물은 딥페이크 기술의 정치적 악용 가능성과 그에 따른 사회적 혼란을 야기할 수 있음을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[AI 이슈트렌드] FA·월드컵 등 스포츠 이슈 상위권...백종원 '흑백요리사' 복귀로 또 주목",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204193",
+    "source": "AI Times",
+    "published": "2025-11-22",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "스포츠 및 연예 이슈의 AI 트렌드 부상은 AI 기술이 특정 분야를 넘어 일상생활과 엔터테인먼트 영역에서도 중요한 역할을 하고 있음을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "[AI웹툰] 사랑하면 그 사람이 된다 : 1화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204191",
+    "source": "AI Times",
+    "published": "2025-11-22",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 웹툰의 등장은 콘텐츠 제작 방식 혁신과 함께 새로운 AI 활용 사례를 제시하며 관련 기술 및 시장 성장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "Anthropic's Claude use cases is a searchable library of practical gen AI tasks",
+    "url": "https://the-decoder.com/anthropics-claude-use-cases-is-a-searchable-library-of-practical-gen-ai-tasks/",
+    "source": "The Decoder",
+    "published": "2025-11-22",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude",
+     "생성형 AI"
+    ],
+    "summary": "Anthropic의 Claude 활용 사례 라이브러리는 생성형 AI의 실질적 적용 확산과 산업별 맞춤형 AI 솔루션 개발을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "구글, 제미나이 3서 ‘생명의 징후’ 느껴… 챗GPT 제치고 AI 챗봇 1등 탈환",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PYlJITm9FV0NteHQxbm4xUVVUQXZLSF9LYkpVY1RXNGZCT2Fkb3hzQUVGbnFWSEliWFlTeUJZRGRwSTNLWWcyaXJhTExEclczNll0R1B1dFdZc29NUkhv?oc=5",
+    "source": "AI 매터스",
+    "published": "2025-11-24",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Gemini",
+     "ChatGPT"
+    ],
+    "summary": "제미나이 3의 발전은 AI 챗봇 경쟁 심화를 예고하며, 구글이 다시 선두를 잡기 위한 중요한 발판을 마련했다는 것을 의미합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "“영원한 1등은 없다” 챗GPT 3주년 앞두고 AI모델 경쟁 심화",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5USVJvSUoxeURFOWJkeUpKSTBoRzFXR1RfY1Z2YXZzd1kxM0M0b2FGclJNV1BvUkxwdUhxekZUc0w0VElvYVdrdnEyMmdBQW5YOG1yNi1IMEZsX0UyS01mdnltMTMza0lCTWdUUNIBbEFVX3lxTE5USVJvSUoxeURFOWJkeUpKSTBoRzFXR1RfY1Z2YXZzd1kxM0M0b2FGclJNV1BvUkxwdUhxekZUc0w0VElvYVdrdnEyMmdBQW5YOG1yNi1IMEZsX0UyS01mdnltMTMza0lCTWdUUA?oc=5",
+    "source": "국민일보",
+    "published": "2025-11-23",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "챗GPT 등장 이후 AI 모델 경쟁 심화는 기술 혁신 가속화와 함께 특정 기업에 대한 의존도를 낮추고 AI 생태계의 역동성을 증진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "ChatGPT만 쓰고선 AI 조직 못 된다…중소기업이 반복하는 AI 착각 5가지",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9mUndtVWF3bGFXbzJTSkNJZl9kTi13TUxuSFZ6eWVNc0JmbGo0X2E2S2JqQ0NORVdsQ1Y3ZXU1cEhVUDkzNlE2Wk8zbw?oc=5",
+    "source": "200976.co.kr",
+    "published": "2025-11-23",
+    "keyword": "AI도구",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "중소기업이 ChatGPT 활용에 매몰되지 않고 AI 전략, 데이터 확보, 인재 육성 등 AI 역량 내재화에 힘써야 실질적인 AI 조직으로 거듭날 수 있습니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 시대, 교육은 디지털 역량 강화와 지역대학 혁신을 통해 미래 인재 양성에 박차를 가하며, 새로운 교육 방식과 평가 시스템 도입으로 혁신을 꾀하고 있습니다.",
+  "tech": "AI 기술은 안전 및 윤리 문제에 대한 경각심이 높아지는 가운데, 성능 경쟁 심화와 다양한 활용 사례 발굴을 통해 지속적으로 진화하며 우리 삶에 깊숙이 침투하고 있습니다."
+ }
+}

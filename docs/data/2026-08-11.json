@@ -1,0 +1,421 @@
+{
+ "date": "2026-08-11",
+ "generated_at": "2026-11-02T11:41:23+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[기고] 한국딥러닝 \"에이전틱 AI, 오답보다 위험한 ‘잘못된 실행’\"",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yWEs0V0tyLWpGQ1p2eVdoeTJyUTh1cmpEcGNjWi1NRzhjdGhYN3o5NzVXMWhDakt6V3dqb1VjeW5hTGRzLWpoUjNmTjZPeVowNDhtNmhIWFh6QWFZUHB3RjkzMW81bWJrTFE?oc=5",
+    "source": "aitimes.com",
+    "published": "2026-08-10",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "한국딥러닝은 에이전틱 AI가 단순 오답보다 '잘못된 실행'을 할 때 더 위험하다고 강조했습니다.",
+    "implication": "학생들에게 AI가 생성한 결과물이나 제안에 대해 '잘못된 실행'의 위험성을 인식하고 비판적으로 검토하도록 지도할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[현장기고] 학교 AI교육이 지향해야 할 방향은",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xNW9KWkMyQUotLXctLWotc29fb0R5UXQ1aDR3TTFvVUNza0ZMeHFNM2Z6ZFJxbEpySFIwOVlYSW52dW8wME4tV25GM3E4anlUa04zMi1oYVcwOXdmaWU4?oc=5",
+    "source": "hangyo.com",
+    "published": "2026-08-10",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "학교 AI 교육이 나아가야 할 바람직한 방향에 대한 현장 기고입니다.",
+    "implication": "이 기고를 통해 학교 AI 교육의 실제 수업 적용 방안을 모색할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "네이버·카카오가 넓히는 'AI생태계'...시니어 교육부터 AI에이전트까지",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtQjlFaV80R2ZnV0R4blFtSS12ak5CSF84dVVsejlkZ211aGRESXVpeWlLNFpGMERadXhFdExMUFVHUks1b2NzTkppc1IzcElzS25vUm9oU2VSRHJZcWJTbTB4alN0d9IBakFVX3lxTE9BeVdqQjVVZmRieERFVFVrbkgtMG4zZjE1NXAwV1Bwcmt0bnhIZXhyYUJ5NUR5MmppMGlLdnEyXzl3T1BOMGlHWU5iWVZUN3c0QjItOG4xN1RnLU5KTGZHXzk1NzZiZTRYQmc?oc=5",
+    "source": "테크M",
+    "published": "2026-08-10",
+    "keyword": "AI디지털도구",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "네이버",
+     "카카오",
+     "교육부",
+     "에이전트"
+    ],
+    "summary": "네이버와 카카오가 시니어 교육부터 AI 에이전트까지 아우르며 AI 생태계를 확장하고 있습니다.",
+    "implication": "네이버와 카카오의 AI 확장을 통해 AI가 우리 생활 전반에 적용되는 실제 사례를 학생들과 탐구할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "'2024 에듀테크 코리아 페어'에서 관람객이 AI 디지털교과서 프로토타입을 체험하고 있다. 김민수기자mskim@etnews.com",
+    "url": "https://news.google.com/rss/articles/CBMiughBVV95cUxPVFkyaTJVWGREZ3JSQXR3ajlOckVqTmI2NUFpNklzclBpSHdTVXNhcHNaMW16QVNjLXBXVlFCLUlLRHpXNWxFVWlKcTJQLTVNeFo0UGJIdzBOMjRIaS1qclZ3QzBHelRNakNCSXNmUUo2d1hNNkp5a0lWWXlEeFBEanJFU1gyM0pUM2RpZERFN2phQ1ItTkJqazc1b0wwSmVqSTI1WTdxTjU1aXJtU3Z5VXZHWUNRdVdSMTd5a1FTdnRTdHZ4dzVLUzltUXlCZVlzSGxLNXpBUEs3d05nVnNNMDZPNjVzRGVOWEdGa3NCcG1pSDRWOEphazdhRDFJOTBxUE02eFQ4dkx1Yk5sVVdWdmM5Vk1aSTRnbzhsUzZDRGxlQzBzNmIzTV80TjR5Y3V4RlI0ZXpLSUpHMjJycWZUWHBkZG55TVhaeTlmVkZwUm9jQi0yaEkxTFR5cm5aMHFfbWQweVNlSFo2cVFCYjdKUnJfcHhoR2FkRDJheG9paVFQVnJ3VHdvX2RROTB3UFFPX2I5Zk9adjdoSzFFbmJlc2xNcUVOY2w5QTc5U2lmNl9iUUNVaTY3MTdiUWVpQWxNRVpGdzBXNE9OWlFiNm1fXzJTYkppUmFWcTE4dnhtRlhpUEhtdEhmcFlXem01Qk5DUkVXM0xxckItSEMwaEc1R25ySVJ4eDViWE5oeF9tX0RBeXZLRE5vT0RSbDVHNm92dXNXTEtyOFZxSjZacmlra1BuTURENXdpQ3JWel9tek5KdHAtUDRfTHl0ZldLSHItVXRFS0lJYjVQZU5rNGwwTDk0bUdsZVhjdjB6eUptallPN2czSTFDMzRnQTRnRUhBdGh3dmJJVjE0d1JGNTVJLVA0Sl9PMVpDdVgtNE5OdUFURGhJWklIMHp4VUs0RnFLMHo5ZHZ2SmNkOFEtYWFJUlZRekJfdGpuWndsZG1ob0h5S3haYmJfMjMtU1FfOTZOTEl6RGRoWU4yY1VvcU9fNEtDVEpBS1FuRU5TOTJuQkplUlhwMmVpOWk5NDRaSEJLM2VGcDNiODRFdi1sMDlYOEhJSnpLYUhndzJKSEdsbEhaLU5icF9vWjh2OUp0UUJvTjRWd0VscHlRYV9lQ09zYzZkSGpZRzJETnNwNEFoMG8zZmdNRmUzWmpYd3Zsd0tGTEFpeUM1cjNvd0RVMnQ3MWVrQjc4N1ladEZSVktDa2VqTjFkYXpIV3ZMUEZXTVQ0SmRNcmJtczQ1ZGpzR1NIZ0F6ZTVQNmhFM3o3MWstbzFCNVBvWG04aGpIbW5xdC1iZVF4ZThaVkFPT0pQb0hFUXhoaXV5V0Z6WXhDV1UzalZYZWF6Y3BDbVZiUk12SEpFbkpKTEpyZXhZZ1JtT2dHNlNHQ0VkTmJMMkxTakY2bTZibnJYZTNoWVA1SFhpcmhDbWxXb1BJeURTdw?oc=5",
+    "source": "전자신문",
+    "published": "2026-08-10",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "AI 디지털교과서"
+    ],
+    "summary": "2024 에듀테크 코리아 페어에서 관람객들이 AI 디지털교과서 프로토타입을 체험하고 있습니다.",
+    "implication": "AI 디지털교과서 도입을 앞두고 관련 기술을 미리 접하고 수업에 적용할 방법을 구상할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "교사가 직접 만드는 AI… 교육현장 맞춤형 AI 에이전트 키운다",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lYnRIWkgwa0piTzR0dTgtaERxM3d1Z1V3dlFRbzFoaDJNQm1XU0pJdUNxUmdNcERXaDNhandjUy1xczM3VWN5eVBZU1pKbVhZa3ZRNmFfS21jLUk2cXVmWTRfemhEZnctYWFZ0gFvQVVfeXFMTzdtaWFqX3lyUlk5by1LR2FVbmJsdlcwVmhQalFGa05OLVNHZVdnSXdzYUY1UXoxN2dVVmlpaS1HSkxEc3RZb09MRnoyakJTOEV0V2RYN3czbGxRQVNPZ29rdkFMRnFWOEpRdG4zUjZJ?oc=5",
+    "source": "세종충청뉴스",
+    "published": "2026-08-10",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "교사들이 직접 교육 현장에 맞는 맞춤형 AI 에이전트를 개발하여 활용할 예정입니다.",
+    "implication": "교사가 직접 만든 AI 에이전트로 수업 자료 제작이나 개별 학생 맞춤 지도가 훨씬 쉬워질 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "경남교육청, 미국서 디지털 교육혁신 국외연수 운영",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85RkxpdVphY04zeHdpNmJKcUI1UW1UTzR1b3l2c3ZRamZFMmVPYXcxS3VyaVNlbG5xamR5T1pWNW5MZDNrZi1Zc3JGdktOR3lrd0hhcHp5VlZ5Y1RNZXpTQ2dfSkNzYTlfcEHSAW5BVV95cUxONjZva0twWEFPN1hmLXBGczdqcmRyV2Q0WUZqdGJURURPLXVpN0xPUnU2TmJ0N1BLQ3lHbjQzVmhSbGowWmp1WGhXQkdmM3o1clZhZGxJaDNSa0dUWGMzNFRFUExvZU9QZFNiMy1Odw?oc=5",
+    "source": "경남탑뉴스",
+    "published": "2026-08-10",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경남교육청"
+    ],
+    "summary": "경남교육청이 미국에서 디지털 교육 혁신을 위한 국외연수를 운영합니다.",
+    "implication": "이 연수 결과를 통해 교실 수업에 바로 적용 가능한 새로운 디지털 교육 콘텐츠나 플랫폼이 제공될 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "부산교육청-부산시, 교육부 '교육혁신선도지역' 공모 참여",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA0Ynp3bkhRTC1Bb1M0ODJxVXJmWHdSYVZFWHBkalBFbzY3N0FkVFM5YVViOS1CNHR6emNuLTJsWUxNejhMSGpGWkxjX1FoZlE1bC0tclJUYl9TSDNlU1E1QdIBeEFVX3lxTE5MSGkyMWh5TkNWemh4NVlaSWJfUkdCaEI2SGRkVm5oeGoxcUZIb0g2d2tJdUJCN1FQUmFnVWNtcE11bzVpYklmX0pIZVNrQk55SHdtRTJ5LTZuanl6eTdGSXhOdU5BNmx3YUZCOGk2TGNjdlA0YXZkNw?oc=5",
+    "source": "뉴시스",
+    "published": "2026-08-10",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "부산시교육청",
+     "교육부"
+    ],
+    "summary": "부산교육청과 부산시가 교육부 '교육혁신선도지역' 공모에 참여한다.",
+    "implication": "지역 교육 혁신 방향에 대해 학생들과 함께 탐구하며 창의적 수업을 구상할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "최교진 교육부 장관, K-교육 현장공감 토크 콘서트",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vS3NyZnNPU3loa0ktSHpBTFFqVzNTMkxFZjUxd29kdzBneUs1S3ZsM3d6TG9uV2xuMDdiRnpXMG81Q3pVVE9TejNzVURlU0tFUGJjc1pZTkxNZV9rWW80Sjd5VklkSC13Q2VjWHdfZkhKVVl4RHREStIBeEFVX3lxTE5vS3NyZnNPU3loa0ktSHpBTFFqVzNTMkxFZjUxd29kdzBneUs1S3ZsM3d6TG9uV2xuMDdiRnpXMG81Q3pVVE9TejNzVURlU0tFUGJjc1pZTkxNZV9rWW80Sjd5VklkSC13Q2VjWHdfZkhKVVl4RHRESg?oc=5",
+    "source": "뉴시스",
+    "published": "2026-08-10",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "최교진 교육부 장관이 K-교육 현장공감 토크 콘서트를 개최했습니다.",
+    "implication": "최교진 장관의 K-교육 현장공감 토크 논의 내용을 수업 주제나 토론 자료로 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "[홍산로 정책] 천호성 교육감 \"인사 서운함 양해해달라\"…8월 둘째주 주간정책회의서 부서별 하반기 과제 점검",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vaTBhcE1SV3FZdHI5OTR6NXE2MF9QRDdpOEEzSHgxNm82U0k1dzNvakdqOUFDQUhiRlhRdEZ2a2hjN1ZkRjB0X2h3VDRYNjhpSlFoUmMyNWd1WklLc1Nv?oc=5",
+    "source": "전북미래교육신문",
+    "published": "2026-08-10",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "천호성 교육감이 주간정책회의에서 인사 서운함을 양해해달라 요청하며 하반기 과제를 점검했다.",
+    "implication": "교육감의 인사 관련 언급을 활용하여 학생들에게 공동체 구성원의 갈등을 이해하고 소통하는 중요성을 토론할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "정재욱 경남도의원, 학교예술교육 현장 목소리 청취",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CcUZxYXN4ajJhQmxpTDhURVdfckRKNzktS1dqeVk2OEVkeFNQcWpiLTJ2WG9CRXBoeVlqSDd1dXlBXy1GS3pQNXItOUhjb21fczZSVEdGWW5uMVRtSElSS3dQN2N5SzlOT0HSAW5BVV95cUxNa3pkbUVoVm9mTFYtdXhFTmNVUEUxSG5md01XWmVvZ00wWEZZLWdUUzFSSzVfNDd6Z1NQVmxjdUg5dUc1Sk5VNWRpSlYyQmVYcFlHS0pfc2lRTXI2el90TklSeE45RVN4c3ZfNWRCQQ?oc=5",
+    "source": "경남탑뉴스",
+    "published": "2026-08-10",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "경남도의원 정재욱이 학교예술교육 현장의 목소리를 직접 청취했다.",
+    "implication": "학교예술교육에 대한 관심이 높아지는 시점에 맞춰, 학생들과 교육 개선 아이디어를 함께 고민해 볼 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Bridging Languages and Cultures: Teachers' Experiences in Integrating Filipino Literature into English 7 Instruction in Public Secondary Schools in San Mateo, Isabela",
+    "url": "https://doi.org/10.64358/sih.v2i3.112",
+    "source": "openalex",
+    "published": "2026-08-08",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "이 질적 현상학 연구는 필리핀 영어 7학년 교사들이 필리핀 문학을 통합하며 언어 및 문화적 능력을 향상시키는 효과와 도전 과제를 확인하고, 지속적인 교사 지원의 필요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "KAYE ANGELIE BARANGAN, Anne Grace Pascual",
+    "pdf": "https://sih-journal.com/sih/article/download/112/108"
+   },
+   {
+    "n": 2,
+    "title": "&lt;b&gt;Navigating Multiple Teaching Responsibilities: Lived Experiences of an Elementary Teacher in Promoting Holistic Learning&lt;/b&gt;&lt;b&gt; at Dianed Elementary School, Dipaculao, Aurora&lt;/b&gt;",
+    "url": "https://doi.org/10.64358/sih.v2i3.153",
+    "source": "openalex",
+    "published": "2026-08-08",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "필리핀 초등학교 교사가 여러 과목을 가르치며 전인적 학습을 촉진하는 경험을 탐구한 현상학 연구는 교육 통합과 교사 역량 강화를 위한 전인적 초등 교육 프레임워크(HETF)를 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Rosemarie Anne Aspillaga",
+    "pdf": "https://sih-journal.com/sih/article/download/153/95"
+   },
+   {
+    "n": 3,
+    "title": "Technological Scaffolding in Language Classrooms: Synthesizing Secondary Students&amp;#39; Creative Writing Skill in a Thai Language Learning Environment",
+    "url": "https://doi.org/10.5539/hes.v16n3p609",
+    "source": "openalex",
+    "published": "2026-08-08",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 태국어 학습 환경에서 중등학생의 창의적 글쓰기 기술 향상을 위해 디지털 기술 및 AI를 통합한 프레임워크를 체계적 문헌 분석과 전문가 검증으로 개발하여 AI 기반 언어 교육의 교수법 및 커리큘럼 설계에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Rachen Chaejoehoe, Rukthin Laoha 외 1명",
+    "pdf": "https://ccsenet.org/journal/index.php/hes/article/download/0/0/53604/58499"
+   },
+   {
+    "n": 4,
+    "title": "Information and Communication Technology: Resource for Effective Teaching and Learning of the Arts at Richard Akwei School, Accra",
+    "url": "https://doi.org/10.9734/ajess/2026/v52i83247",
+    "source": "openalex",
+    "published": "2026-08-08",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "이 연구는 질적 사례 연구를 통해 ICT가 예술 교육에서 추상적 개념 전달과 학습자 역량 향상에 기여함을 발견했으며, 장비 접근성 개선과 교사 연수 강화를 통해 효과적인 예술 교육 자원으로 활용될 수 있음을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Jessica Amoah",
+    "pdf": "https://journalajess.com/index.php/AJESS/article/download/3247/8110"
+   },
+   {
+    "n": 5,
+    "title": "UTILIZATION OF ONLINE PLATFORMS AND DIGITAL TOOLS FOR MATHEMATICS EDUCATION IN SECONDARY SCHOOLS WITHIN SELECTED LGAs OF BENUE STATE",
+    "url": "https://doi.org/10.70382/sjestp.v13i8.0111",
+    "source": "openalex",
+    "published": "2026-08-08",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "나이지리아 중등학교 설문조사 연구는 온라인 플랫폼과 디지털 도구가 수학 학습의 접근성 및 협력적 문제 해결 능력을 향상하며 교육 개선에 큰 잠재력이 있음을 보여주며, 기술 투자의 중요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Mustapha Tijjani, Mubarak Aliyu",
+    "pdf": "http://ssaapublications.com/index.php/sjestp/article/download/1188/1398"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "'동시 소통' AI 에이전트 등장…단일 '클로드 오퍼스 4.8' 성적 뛰어넘었다",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213766",
+    "source": "AI Times",
+    "published": "2026-08-10",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "에이전트",
+     "Claude"
+    ],
+    "summary": "단일 모델 성능을 뛰어넘는 동시 소통 AI 에이전트의 등장은 AI 발전의 핵심이 개별 모델 역량에서 복합 시스템 설계로 전환될 것임을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "OpenAI launches GPT-5.6-Cyber to help defenders find vulnerabilities before attackers do",
+    "url": "https://the-decoder.com/openai-launches-gpt-5-6-cyber-to-help-defenders-find-vulnerabilities-before-attackers-do/",
+    "source": "The Decoder",
+    "published": "2026-08-10",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "OpenAI의 사이버 보안 특화 AI 출시는 범용 AI를 넘어 특정 산업 문제 해결을 위한 전문 AI 모델 개발 경쟁을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "리퀴드 AI, 라즈베리 파이서 구동되는 소형 에이전트 모델 'LFM2.5-2.6B' 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213760",
+    "source": "AI Times",
+    "published": "2026-08-10",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "에이전트",
+     "온디바이스 AI"
+    ],
+    "summary": "라즈베리 파이 구동 AI 모델은 저비용 엣지 AI 시대를 열어 AI 기술의 대중화와 다양한 산업 분야 적용을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[AI 활용팁] GPT-5.6 제대로 쓰기…추론 강도 기본값만 알아도 요금 줄어든다",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xekVNMHVlanU0d2ExM2xNQXlZZ0pjTmtwdklpNkVuelpKMndPMmE1cHVsMTNWNi1EQ2FyR1BaN0E5Qjk5d3FYTUdrMTJkVFk?oc=5",
+    "source": "AI 매터스",
+    "published": "2026-08-10",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT 등 AI 모델의 효율적 활용을 통한 비용 최적화는 AI 기술 생태계의 지속 가능한 성장과 확산을 위한 핵심 과제가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[8월10일] 로봇 영상에 '빨래 개기'가 자주 등장하는 이유…하지만 진짜 시험은 따로 있다",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213732",
+    "source": "AI Times",
+    "published": "2026-08-11",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "로봇·휴머노이드"
+    ],
+    "summary": "로봇의 빨래 개기 시연은 통제된 환경의 역량 한계를 보여주며, AI 기술은 실제 세상의 복잡성을 처리하는 범용성 확보에 주력할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "오픈 AI 삼성전자·카카오만 찾는다 엔비디아의 약점 5개, 전부 한국 기업이 가지고 있다 한국 기업 곧 역대급 상승장온다! Prime (2FLBjIIsmp)",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WeTJnSl9XcE9fNFpZM3lWMEFrdlUwbnl5amRsME9SaUs3M3dvSXBBenlSakU0ZzVaMHg2RXVlOXRXX1NCams0ZjBiWGh1dWhQNjF4SEhtNFBxNk0?oc=5",
+    "source": "mshale.com",
+    "published": "2026-08-10",
+    "keyword": "오픈AI",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "삼성",
+     "카카오",
+     "NVIDIA"
+    ],
+    "summary": "오픈AI의 한국 기업 협력은 엔비디아 독점 구도를 완화하고 AI 핵심 기술 생태계에서 한국 기업의 역할 증대 및 경쟁 심화를 가져올 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+    "url": "https://openai.com/index/zapier",
+    "source": "OpenAI Blog",
+    "published": "2026-08-10",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "AI가 Zapier 같은 자동화 플랫폼과 결합하여 기업 업무 효율을 극대화하고 AI 기술 생태계 확장을 가속할 핵심 동력임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "OpenAI 또 스타트업 문 닫게... 챗GPT는 이렇게 '슈퍼앱'이 됩니다 [OpenAI DevDay 2025 의미] Wizzair (1Uc8UNxQGT)",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YOUsxMFdWWmFvTjc5NTRBQXZZUjYyeUczbzN5bm5FRHp4Z284ZzExOTduaWd2a081a0xtV0ZtbnlERzRsTXZyMUpZeHE0aVJwNVE0U0t6S0J0U3M?oc=5",
+    "source": "mshale.com",
+    "published": "2026-08-10",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "OpenAI의 챗GPT 슈퍼앱 전략은 AI 생태계의 플랫폼 집중화를 심화하고 스타트업 경쟁 지형을 급격히 재편할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "한화솔루션의 Amazon Bedrock 기반 Claude Cowork 전사 도입 여정 — 사내 LLM Gateway로 완성한 거버넌스",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FUHd5el8tSkZUejhvRzh1VTFpd2J2c2FHSkxfVWFWWTE1YWhQWTc1bFRVdGFENVpRVV90T2k0TnZOczh5ek5Kd2UzQkJEMy1wLXRvazFMRms2em02bUNRZzVlOWJ2UDVRaGZlWTNqRHlrb1hjX0dkcw?oc=5",
+    "source": "Amazon Web Services (AWS)",
+    "published": "2026-08-10",
+    "keyword": "LLM",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Amazon",
+     "Claude",
+     "LLM"
+    ],
+    "summary": "한화솔루션의 전사적 LLM 도입은 엔터프라이즈 환경에서 LLM 게이트웨이를 통한 거버넌스의 중요성을 부각하며, 안전하고 효율적인 AI 활용 확산의 모범 사례가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "중국 AI 산업의 새로운 복병...반도체 넘어 '중국어 학습 데이터 기근' 심화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213730",
+    "source": "AI Times",
+    "published": "2026-08-10",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "GPU·데이터센터"
+    ],
+    "summary": "중국어 학습 데이터 기근 심화는 반도체를 넘어 AI 기술 생태계에서 양질의 데이터 확보가 핵심 경쟁력임을 부각할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

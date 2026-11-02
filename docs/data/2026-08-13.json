@@ -1,0 +1,428 @@
+{
+ "date": "2026-08-13",
+ "generated_at": "2026-11-02T11:41:30+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "경남교육청, 작은학교 교실에 생성형 AI '교사들이 직수업 설계'",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE92aGdRSG5kVjJQV0c5bWlsbHF6VFplUG5PdjRqT05IbUc0Zk95TWJkNzlEZDIwcm1NcURydTg0cnYyUWRFRkEwcHk3NjRRS3hoMFprY0pIMlR0d25rUGxNWHBsZGtOeUV1OTM3MjBOQnVGTk3SAXdBVV95cUxQbklpZDV2Vk9HUVYzX3dGMGdNelBHSWxieXFSaDBaMnpmQk1LcXN3Vjc0NGs0RnU3d1lRTmRHUF9jdHFnMjNURnRncW9wbHpoX2V3RkpYTjdjV3FqNXpqZ3BHNDdjalUyU0pkSlpBeWtpaFNSdU9Maw?oc=5",
+    "source": "스트레이트뉴스",
+    "published": "2026-08-12",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경남교육청",
+     "생성형 AI"
+    ],
+    "summary": "경남교육청이 작은학교 교실에 생성형 AI를 도입하며 교사들이 수업을 직접 설계한다.",
+    "implication": "생성형 AI를 활용하면 다양한 수업 아이디어를 얻어 빠르게 수업을 설계할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "이정현(경기도교육청 디지털교육정책과장)씨 장인상",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZM3ZXTS1JVVhRcG1CVzd3SU5CdlQ5OWdNNGs2enZDdmRZcDhweHVNSV9TNTAyUExuajBTd24td3hUenRGRmhfZVROM1I1VWV0VFlvTTVibmstZkZYTmJPVHdjcXRLWWphdmc?oc=5",
+    "source": "상조장례뉴스",
+    "published": "2026-08-12",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "이정현 경기도교육청 디지털교육정책과장의 장인상 소식이 상조장례뉴스를 통해 전해졌다.",
+    "implication": "주변 사람의 슬픔에 공감하고 위로를 전하는 방법을 함께 고민해 보는 수업에 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "동국대, 교육부 교육혁신 평가서 2년 연속 S등급..96억6200만원 사업비 확보",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45aUFyVjVLRnM5VkhyeHNnWksyMDhqU3U4VmhneEIxWDJ2a1d0VTU5ME9JVDA5Wmp4dFc1N0Vsa0VMOFptSEUzcmNnc0k5dkpU?oc=5",
+    "source": "문화일보",
+    "published": "2026-08-12",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "동국대는 교육부 교육혁신 평가에서 2년 연속 S등급을 받아 96억 6200만원의 사업비를 확보했습니다.",
+    "implication": "대학의 교육혁신 사례처럼, 우리 교실에서도 학생 참여를 높이는 새로운 수업 방식을 모색할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "포천 교육혁신 해법 시민에게 묻는다…교육부 공모 승부수",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ScElYaWMxLUpaMFh2ZlJlWm1hNkFvYjhPbFlKQlotYTVNd0hURDNCcDdMc0ZkSk9GMTliQ2d6cFROZ1dybnpVNFBqOFJLaTVOZGVtMmdiZER5UUlaUDBIYUJIeEJWOXUtSm94eWhn?oc=5",
+    "source": "아시아투데이",
+    "published": "2026-08-12",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "포천시가 교육혁신 해법을 시민에게 물어 교육부 공모 사업에 도전하는 승부수를 띄웠습니다.",
+    "implication": "수업 시간에 지역 교육 현안에 대한 학생들의 의견을 모아 혁신 방안을 함께 고민할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "안민석 경기도교육감, 광복절 맞아 만주·연해주 독립교육 현장 탐방",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QdmtwVjNBTVlpUnpCVXBrbXRvUk51UHJXV0JaeW9fdEZfZUxETnA0NWphVmhVZXhTR3piMXAtZ3VSSnB6b2N4Z1kwV295STZ2bnI4bzJqQUNhdlNCX1NEazctVENQbTA?oc=5",
+    "source": "팍스경제TV",
+    "published": "2026-08-12",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육감 안민석이 광복절을 기념해 만주·연해주 독립교육 현장을 탐방한다.",
+    "implication": "광복절을 맞아 만주·연해주 독립교육 현장 탐방 뉴스를 통해 독립운동 역사를 생생하게 수업에 연결할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "[현장영상] 국교위 대입특위 \"2028~2037년 대입, 서두르지 않는 개편\"…4대 원칙 제시",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04ZkxhcVcwN0pzaVBiS2ptWEM1MU1UR0VaUFVrVzJ2UC1uN0JUbTc4ZXZqSFBUaGRzNU1GSndzV19fTjR4d2J0RmVnRUE2OG5BTy1wMTlLMmtITk1KTWw0?oc=5",
+    "source": "전북미래교육신문",
+    "published": "2026-08-12",
+    "keyword": "과정중심평가",
+    "topic": "higher_ed",
+    "kind": "feature",
+    "entities": [
+     "수능·대입"
+    ],
+    "summary": "국교위 대입특위가 2028~2037년 대입 개편을 서두르지 않고 4대 원칙을 제시했습니다.",
+    "implication": "대입 개편이 서두르지 않으니 현재 교육과정에 집중하여 학생들의 기본 역량을 키울 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "[교육타파] 미래학교는 '도전학교'로, IB는 사실상 축소… \"10번째 IB 월드스쿨은 없다\"",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBKTGZEYkxBVU9vbldGQnQ4VzdYVG5OeFNDWjIxRkNYRUM2MklWa0syWlAxWUJPT2NZUlFjSlBaMVB5MmpCXzViX3hRdDY4TGxNcnZYWnhVUE5ReDlEV180?oc=5",
+    "source": "전북미래교육신문",
+    "published": "2026-08-12",
+    "keyword": "교육정책",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "IB"
+    ],
+    "summary": "미래학교가 '도전학교'로 전환되며 IB 프로그램은 사실상 축소되어 10번째 IB 월드스쿨은 없을 예정이다.",
+    "implication": "IB 대신 '도전학교' 방향에 맞춰 학생들이 주도적으로 문제를 해결하고 협력하는 수업을 구성할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "[교육타파] 정부, '미래대응기금'에 '인재·교육계정' 신설 검토…교육부 \"확정 안 돼\"",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mZEotN1EwVkh5YjEtSWlhVmZxSFQ0WkFaZFM5RmF6RE1HMDV6THhjbzNwZ1FsSEJwRWFQVTRmejgzdGVVMTd4d3RjUWhFTEEtcm9hYU1KRVhSYTVaUm04?oc=5",
+    "source": "전북미래교육신문",
+    "published": "2026-08-12",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "정부가 '미래대응기금' 내 '인재·교육계정' 신설을 검토 중이며, 교육부는 아직 확정되지 않았다고 밝혔습니다.",
+    "implication": "국가가 미래 인재 양성에 대한 지원을 논의 중임을 학생들에게 알려 미래 사회 대비 교육의 중요성을 강조할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "[교육정책의 미신, 대입개혁을 다시 묻다] 서논술형을 말하기 전에, 국교위가 먼저 해야 할 일",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43dEMzNV9nM2pwLXEwQTltZEFaYlc2R2YzVUhJLTVUb0R4eXNDLVdiQnBJeFp4X0c2UldwNExkSUJINXl1ZmwzSDRHLXBWcWJod1pZUloxRzZvTjQ?oc=5",
+    "source": "더에듀",
+    "published": "2026-08-12",
+    "keyword": "교육정책",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [
+     "수능·대입"
+    ],
+    "summary": "대입개혁 논의에서 서논술형 평가 도입 전에 국교위가 먼저 할 일이 무엇인지 묻는 내용이다.",
+    "implication": "대입개혁 관련 논의가 서논술형 평가 이전에 어떤 준비를 해야 하는지 학생들과 탐구할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "인천 영종구 손화정 청장, 첫 ‘학부모 간담회’ 교육정책 소통 본격화",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41SWk5cU04NUQ1andpcE56NG5heDNjcjhWSENxMndQcTdGa1FwNjE0d3BSZzF0cDZkcGZJRks0NmtTaDVPQ2dpUVROejh4dFU2OHczSFJrb3lZV2EtMUN4TzBnQmF3TXJYVVM0?oc=5",
+    "source": "일간투데이",
+    "published": "2026-08-12",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "인천 영종구 손화정 청장이 첫 학부모 간담회를 개최해 교육정책 소통을 본격화했다.",
+    "implication": "학부모의 교육정책 소통 활성화로 수업 활동에 학부모의 직접적인 참여를 유도할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Reimagining English Language Teaching Through Artificial Intelligence: Opportunities, Challenges, and Future Directions",
+    "url": "https://doi.org/10.67313/slijms.2026.43",
+    "source": "openalex",
+    "published": "2026-08-11",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "이 개념 연구 논문은 AI가 영어 교육에 가져올 기회와 도전 과제를 문헌 검토와 개념 분석으로 탐구하며, 교사를 대체하기보다 인간 중심의 협력적 시스템을 통해 맞춤형 교육을 강화하고 학습자의 인지적 책임을 유지하는 방안을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Dr. V. V. Malinee, Syed Mujahid",
+    "pdf": "https://slijms.com/index.php/journal/article/download/43/49"
+   },
+   {
+    "n": 2,
+    "title": "“In their own way”: personalization in history teaching in second-chance academic classes",
+    "url": "https://doi.org/10.3389/feduc.2026.1910822",
+    "source": "openalex",
+    "published": "2026-08-11",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "이 논문은 이스라엘 취약 계층 학생들의 역사 수업에 개인 맞춤형 학습을 적용한 질적 사례 연구로, 학생들이 학습 방식을 선택함으로써 주인의식과 책임감이 증대됨을 보여주며, 맞춤형 학습 구현에 대한 통찰을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Oded Cohen",
+    "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1910822/pdf"
+   },
+   {
+    "n": 3,
+    "title": "Mapping the Islamic Religious Education Curriculum to Foster Students' Inclusive Attitudes at SMP Negeri 2 Kota Bima",
+    "url": "https://doi.org/10.61227/b00mn340",
+    "source": "openalex",
+    "published": "2026-08-11",
+    "keyword": "",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [],
+    "summary": "인도네시아 중학교 사례 연구로 이슬람 종교 교육 커리큘럼이 관용, 존중 등 포용적 가치를 체계적으로 통합하여 학생들의 포용적 태도 함양 및 학교 문화 발전에 중요한 영향을 미침을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Agus Setiawan, Muhammad Munadi",
+    "pdf": "https://journal.pusmedia.com/JETTI/article/download/388/260"
+   },
+   {
+    "n": 4,
+    "title": "Teachers' self-efficacy and its relationship to inclusive education for students with autism: a cross-sectional study",
+    "url": "https://doi.org/10.3389/fpsyg.2026.1811958",
+    "source": "openalex",
+    "published": "2026-08-11",
+    "keyword": "",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [],
+    "summary": "사우디아라비아 교사 381명을 대상으로 한 횡단 연구에서 교사의 자기 효능감이 자폐 스펙트럼 학생 통합 교육에 대한 긍정적 태도와 밀접하게 연관되어 있음을 밝혀내어 통합 교육 증진을 위한 교사 역량 강화의 중요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Mohammed Abdulrhman Alassaf",
+    "pdf": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1811958/pdf"
+   },
+   {
+    "n": 5,
+    "title": "Analyzing Lexical Difficulty and Thematic Distribution in the TOEFL-CEFR Vocabulary Dataset: Implications for NLP and ESL Curriculum Design",
+    "url": "https://doi.org/10.6025/ijclr/2026/17/3/151-171",
+    "source": "openalex",
+    "published": "2026-08-10",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "이 연구는 자연어 처리와 인공지능 기반의 어휘 지표를 활용해 의미론적 및 주제별 어휘 묶음의 ESL 학습 효과를 분석하고, 적응형 어휘 교육 프레임워크를 제시하여 학습자에게 맞춤형 교육 환경을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Fouzi Harrag",
+    "pdf": "https://doi.org/10.6025/ijclr/2026/17/3/151-171"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "xAI 창립자 이고르 바부슈킨, 리버 AI 설립...'맞춤형 오픈소스 AI' 도전",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213854",
+    "source": "AI Times",
+    "published": "2026-08-12",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "xAI",
+     "오픈소스"
+    ],
+    "summary": "맞춤형 오픈소스 AI는 기업 특화 솔루션으로 AI 시장 경쟁을 심화하고 기술 생태계의 다변화를 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "엔비디아, 에이전트 비용 74% 낮추는 라우터 '네모 스위치야드' 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213846",
+    "source": "AI Times",
+    "published": "2026-08-12",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "에이전트"
+    ],
+    "summary": "엔비디아의 네모 스위치야드 출시는 AI 에이전트 운영 비용을 획기적으로 낮춰 AI 기술의 광범위한 상용화와 산업 적용을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "MS, 'MAI-이미지-2.6' 공개...아레나 '텍스트-이미지' 분야 2위 등극",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213852",
+    "source": "AI Times",
+    "published": "2026-08-12",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Microsoft"
+    ],
+    "summary": "마이크로소프트의 상위권 진입은 텍스트-이미지 AI 경쟁 구도를 재편하고 기술 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "독파모 4개사, '벤치맥싱' 의혹 일축...\"평가 보완책으로 영향 미미\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213859",
+    "source": "AI Times",
+    "published": "2026-08-12",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "벤치마크"
+    ],
+    "summary": "이번 논란은 AI 벤치마크의 신뢰성 확보가 기술 생태계의 공정한 경쟁과 건전한 성장에 필수적임을 강조합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "오픈AI, 챗GPT 무료 이용자도 'GPT-5.6 루나' 무제한 채팅…AI 대중화 속도",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51NkkwZnFmM2g1VF9oVXRnM2RBYXJ3TjIzNThmNFJNUjh1Zk5LZEpqaGNYYldCUFc3d2lUWV9JVDNTdkVoa2lqTEVkTGotSy1CMTdsUjVfWTJ3QVY1UWFNNkFwWnZvZjlzNEpN0gFvQVVfeXFMT0xwN296b3Mtb29rWUdGaG5icFU1VmkyQXFkclRQbVpHdDJZRzRZZGhpNzQxdl9fOHh2aTNlUFNJU2ZKUGhid2pldXdvakRGU3h1azI4N00yeDAtYVB4aVpVb25XXzBjQ1hyRTJPN29R?oc=5",
+    "source": "연합투데이",
+    "published": "2026-08-12",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "오픈AI의 고성능 AI 모델 무료 제공은 AI 대중화를 가속하고 산업 전반의 AI 활용 확대 및 경쟁 심화로 이어질 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "앤트로픽 미공개 모델, 160년 수학 난제 '리만 가설' 연구서 대기록",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213838",
+    "source": "AI Times",
+    "published": "2026-08-12",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Anthropic"
+    ],
+    "summary": "앤트로픽 AI의 수학 난제 연구 기여는 AI가 기초과학 분야의 난제 해결 도구로 부상하며 연구 패러다임을 바꿀 것임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "인기 오픈 동영상 모델 ‘LTX-2.5’ 공개...엔비디아 칩서 10초 영상 6.8초 만에 생성",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213861",
+    "source": "AI Times",
+    "published": "2026-08-12",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA"
+    ],
+    "summary": "오픈 동영상 모델 LTX-2.5의 공개와 고속 생성 능력은 AI 영상 기술의 접근성을 높여 산업 전반의 콘텐츠 생산성 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "Google's Gemini is losing market share to ChatGPT and Claude according to new market data",
+    "url": "https://the-decoder.com/googles-gemini-is-losing-market-share-to-chatgpt-and-claude-according-to-new-market-data/",
+    "source": "The Decoder",
+    "published": "2026-08-12",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Gemini",
+     "ChatGPT",
+     "Claude"
+    ],
+    "summary": "구글 제미니의 시장 점유율 하락은 AI 산업 내 경쟁이 치열하며, 혁신 주도권이 빠르게 변동할 것임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "Grok 4.6 출시, GPT-5.6 Sol과 맞대결…무엇이 달라졌나",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QRTZlU3MyM2lxNERqdGhhSWJDc1FnS2gtYkFBc1lCaEhEclhUVUZWTFBZYkRQYWxtaWRXTjRqeWIwWnBGSTJlUE1PYXUtVTI4RHpreWEyVE5XODlzVHpnVTE0NkVvSllaSHROSHYydFg?oc=5",
+    "source": "디지털포커스",
+    "published": "2026-08-12",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "xAI",
+     "ChatGPT"
+    ],
+    "summary": "Grok과 GPT의 정면 대결은 AI 시장의 경쟁 구도를 심화시키고 전반적인 기술 발전을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "[사용자 10억 돌파한 구글 제미니… ChatGPT 턱밑까지 바짝 추격] 역대 구글 제품 중 최단기간 기록, 모바일 생태계와 음성 기능 앞세워 선두 다툼 본격화",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE0tR1YwWHBEYkNDWFRWZXozczlHYzdPTkI4RjE5Z2ROam02dGJLeHVDSUJxdHRFNDdIaTMwWlRkVG0?oc=5",
+    "source": "AI넷",
+    "published": "2026-08-12",
+    "keyword": "구글",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Gemini",
+     "ChatGPT"
+    ],
+    "summary": "구글 제미니의 초고속 성장은 모바일·음성 중심 AI 경쟁 심화와 기존 플랫폼 통합을 통한 AI 대중화의 중요성을 재확인할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

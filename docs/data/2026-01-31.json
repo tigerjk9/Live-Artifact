@@ -1,0 +1,166 @@
+{
+ "date": "2026-01-31",
+ "generated_at": "2026-11-02T11:51:31+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[2026 '하이러닝' 칼럼①]86만 명이 접속한 '하이러닝', 데이터는 우리 아이의 무엇을 읽어내는가",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5d0pOcFE0RGM3OWhseEkyamRPSVlYbDVsX2x3NnJCWnV1VHVfMWRvVkhjcV9IVUR0Y2dyczNFVEdKVDZ4R1kweS04S2pWSTJKZVBIOGFONG1Hb0FKek9rSUZEM3RGdw?oc=5",
+    "source": "교육을 비추다",
+    "published": "2026-01-30",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "하이러닝 데이터 분석을 통해 학생 맞춤형 교육을 실현하고 교육 격차 해소에 기여할 가능성이 높습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[사설]교사도 자료도 없는데, 숫자만 무턱대고 늘리는 AI 학교",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaVEVzNzdsOEgySk9zeFBiRHA1MEZvLWNwV0lOc1JzYWE2c3NvMEs2S2NpRjRVNmpxcXJVMUtqTHhQQVJHQnVuRDJmZkNoVzNiQ1dNZWhJaFhmZFNNXzhBb3U1c0NwZDAtaDA0SHRwVjgzR2pZR3fSAWZBVV95cUxPVTBmOTRIbjVicHhKTTZtTkcwcThQeklLdk84aF9XQTJxMG5waWttb0I1M1JXVzlvdFdTSTJQNDhiQ0ZqTlJudDNwU2JGNXFON1d6a3VkNWtJV3gxSVBBOC1OMW96d3c?oc=5",
+    "source": "동아일보",
+    "published": "2026-01-30",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "AI 학교 확장은 교사와 교육 자료 부족 문제를 간과한 채 추진될 경우, 교육 효과 저하 및 현장 혼란을 야기할 수 있다는 점을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[교육칼럼] AI시대, 질문으로 공부 새 지평 열자",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zMk1yaVcyUUV3cmpBejNvb2F5VU40NWhaMmtBMzU2RkVOeUYtT0s5bkZBMERfek9DQWtKdjJ4RmwtZzNBU0hvOTZUTURxV2NXZkV3bEV2OENYQTFtdWtFTHpoNG94cDl6?oc=5",
+    "source": "광양뉴스",
+    "published": "2026-01-30",
+    "keyword": "AI교육",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "AI 시대에는 학생 스스로 질문하고 탐구하는 능력을 키워, 주도적인 학습자로 성장시키는 교육 패러다임 전환이 중요합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[칼럼] 과학기술 기반의 지역 자생적 혁신 생태계 구축",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9IUlRQVUhkMzZGNkdvVXRyQ3plT1F3TV8zYTNsb21VbVYwMGdQSzVyLWdSUW5YRjU2TlRqbXZzLVVVM2tZNGZF?oc=5",
+    "source": "정필",
+    "published": "2026-01-30",
+    "keyword": "미래기술",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "지역 혁신 생태계 구축을 위한 과학기술 교육 강화는 미래 사회에 필요한 창의적 융합 인재 양성에 필수적입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "\"에듀테크 쓰려고 학운위 서류 만드나\"... 임태희, 심의 간소화 이끌어내",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE01bGF4MXlaaG9GSWhVX0ZrRE9makJfUnNjZDFuWkR5eGQ4andXVWtoZ3NnU0g3YmY3Nnk1OTE2M0J5VmZlQlJzalhDSUpEcUZfRXFvRDhUck1VbGZJQjRr?oc=5",
+    "source": "전북미래교육신문",
+    "published": "2026-01-30",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "에듀테크 도입 활성화를 위한 학운위 심의 간소화는 학교 현장의 자율성을 확대하고, 교육 혁신을 가속화할 수 있는 긍정적인 조치입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "인천시교육청, 중등 저경력 교사 실무 역량 강화 ‘2026 새로 아카데미’ 시작",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11LTFHMk1LRGpGN0RLR2w1UmQ0V0pHRURjYS15S1F0ZzhDV1NPcjlBSlI2ODg3TDFaaHlESDlfMlNQTkh2VmZOR0JWQU9idEZQS2dXR3JnT19WZTV0QnhDa25Ndmg2MGh3aXfSAWxBVV95cUxQY1hacVJBZnFKTXRwWjJ2WUUtT1B6cVdZdkVQVGJkR2VVUnlEZ1dOZ2VJYnRhOWFBR0FVYUVzckRnZ0FGVERXLWFHYUo1a3ZxaHg0TEF4SUR2ZlpxNnJubENwMEJMLWY5WW5LQ18?oc=5",
+    "source": "경기도민일보 미디어",
+    "published": "2026-01-30",
+    "keyword": "에듀테크",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청의 '2026 새로 아카데미'는 저경력 교사들의 실질적인 역량 강화에 기여하여, 궁극적으로 학교 교육의 질적 향상을 도모할 수 있을 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "아이스크림에듀, 전남특수교육학회 국제세미나 참여",
+    "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxOakFsaDRMQ2MxMUlSbU5hc2FJYWJld0NJb0RUdWQzcmZiRi1rbktjcmp1TEpDZ1pmZDIzRklvMjlHQVdqMGMxbE8xVmlXaUU0bEJiR3lhWnNkZ0tWcTBOVF9LemZvWF9BWHpFQWhnSE4xZXJZWXJRMnZLTk16V2Z6cW1lbzBtVk5zQmo4d3lwMlVGZUVueWtBVUh6MGZQVzVuTllnRm95T21qeDZEQzB2LUJLcTJ1dHZ1cnFfUjdJRVZsNTlrMUhUV1V1SVJqSEY4Rm5WWm8wZVVUWDkwWjQ4U3dhZEZVbWF3V0VORnhGSzJnLVhpZkFkZmI1TDFELV9kZGdNdmhJLS1OY1hQcGpQQVBlRjJsS281b19uQ2d1aC1KdWxFM3REVlQxZW5najRQMkFVMFNDcXByOGZwdVFGODdIOXdOQURCRzAyWEN4YW9LaEM5XzdVbENpVGtpOG5QODlVNEx4N0hjOU5ua2pHQS1vTUR3dEpSMVZWYXljUXZqYXAzRXNZWWhpSnc4WGpJZWpORGxqODJucm9qOExkSWZLdzhKVHVFaFp6YWU4NG56cWExSnlCQXBHODRVb3hxVm8zT3BxUkdBQ3ZnZDdkdWNiSnhhTTVjbTU0SjhpQUNkX1NmdjZBN0NBTUtPcWVNZ2R4dE54emsxdnNNMllyZQ?oc=5",
+    "source": "MSN",
+    "published": "2026-01-30",
+    "keyword": "에듀테크",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [
+     "특수교육",
+     "개인화 학습"
+    ],
+    "summary": "아이스크림에듀의 전남특수교육학회 국제세미나 참여는 에듀테크 기업의 특수교육 분야 관심 증대와 맞춤형 교육 콘텐츠 개발 필요성을 보여주는 긍정적인 신호입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "[설명자료] 교육부는 AI 중점학교를 통해 학교 현장의 AI 교육을 체계적으로 강화하고 있습니다",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xODNobnZwMU9BM1pQMUs2aTl3TUhfSTNndGV1OXZrRVVURlk2eWRsLW1nV0pXTG5YRmFWbHlrOHFzaE9qMGl2VzF5NGQwSlhYM1ptNENxV1pvbWlyX1I2M21mRHpmV1lMbUNPT0M5dw?oc=5",
+    "source": "대한민국 정책브리핑",
+    "published": "2026-01-30",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "AI 중점학교 운영은 학교 현장의 AI 교육 역량 강화와 미래 교육 체제 전환에 긍정적인 영향을 줄 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "윤건영 교육감, 제106회 대한민국교육감협의회 총회에서 수립 제안",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBuUDhzc1U1REdmVG5EVnhvQnhSa0JWcTdVRlNDbkF1S2FwODBfNV9YenRaSmpVeEJnSno5UHhuRlh0OXd6SXNWWHJKZWdQUjdTUXFxd2NaX0RjVS1X?oc=5",
+    "source": "아시아뉴스통신",
+    "published": "2026-01-30",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "윤건영 교육감의 제안은 아시아 교육 협력 강화를 통해 국내 교육의 국제적 경쟁력 강화 및 발전 가능성을 모색하는 데 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "인천시교육청, AI 기반 영어교육 혁신 논의의 장 열어",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoVUY5NzBrX0dxRUVkVEdwOFk1Q0FoOGl5RC0xa2c2cXlGTWtHeHVaOHUtR2pxQlp5V3U0OFZYTjJqN3Z5RGQwTjlsNFNfSmNpdXdjZXliZUNvRE9xY0VPanRIajV5RnJnV1E?oc=5",
+    "source": "비즈월드",
+    "published": "2026-01-30",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "인천시교육청",
+     "개인화 학습"
+    ],
+    "summary": "인천시교육청의 AI 기반 영어교육 논의는 맞춤형 학습과 교사의 역할 변화를 촉진하여 공교육 혁신의 가능성을 보여주는 중요한 시도입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [],
+  "tech": []
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "교육 현장은 AI 기술을 적극적으로 도입하고, 교사 역량 강화 및 에듀테크 활용 간소화를 통해 AI 교육 혁신을 가속화하며 미래 교육으로 나아가고 있습니다."
+ }
+}

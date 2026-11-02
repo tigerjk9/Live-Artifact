@@ -1,0 +1,431 @@
+{
+ "date": "2026-09-17",
+ "generated_at": "2026-11-02T11:43:25+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "경기도교육청-한국에듀누리교육원, 화성동탄 '한마음초'에서 에듀테크 활용한 참여형 보건 교육 실시",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DOF91TERmSmExelZkNzN5b3g0QVBMazNUeFdqQW42OElqRG5VRTNYVFNXRW5sSDFzUUp1TXFPNEhndXNUUUFkakwybnMtbmtXaDFtRDB1OXdDbjNFM3VNag?oc=5",
+    "source": "ggeco.co.kr",
+    "published": "2026-09-16",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청과 한국에듀누리교육원이 화성 한마음초에서 에듀테크를 활용한 참여형 보건 교육을 실시했습니다.",
+    "implication": "에듀테크를 활용해 보건 교육을 학생들의 적극적인 참여 수업으로 전환할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "고양시-경기도교육청, ‘벽깨기’ 협력 본격화… 지역 교육혁신 속도",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zamw2UGoxZTNDaWlWYzhwamJPeVRPbEFYeFN6V2pDX2pWSWZNSHU0QXF1RGxFOVFYTlhRTTVyWmctYlJidWJKclhsUEtocUpP?oc=5",
+    "source": "문화일보",
+    "published": "2026-09-16",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "고양시와 경기도교육청이 ‘벽깨기’ 협력을 본격화하며 지역 교육 혁신을 가속화합니다.",
+    "implication": "학생들이 고양시 지역 현안 해결에 참여하는 탐구 중심 수업을 진행할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "충북교육청, 도내 11개 시·군 교육혁신선도지역 공모 총력",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9yemVtVGUxSnlPX2FRenlmVU5UWDFrRVNZZHdyblZWcTNDalBPckJsVlhTSkpNNUxtTEt2WHUwRGpuUkdPdWhsOHhuRG1LS3lNVC1lSmxOQnQ5X0xHSDBBb2JEd2lTZ3F2amhDLV9n0gFuQVVfeXFMT3J6ZW1UZTFKeU9fYVF6eWZVTlRYMWtFU1lkd3JuVlZxM0NqUE9yQmxWWFNKSk01TG1MS3ZYdTBEam5SR091aGw4eG5EbUtLeU1ULWVKbE5CdDlfTEdIMEFvYkR3aVNncXZqaEMtX2c?oc=5",
+    "source": "중부매일",
+    "published": "2026-09-16",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충북교육청"
+    ],
+    "summary": "충북교육청은 도내 11개 시·군을 대상으로 교육혁신선도지역 공모에 총력을 기울이고 있습니다.",
+    "implication": "우리 지역이 교육혁신선도지역으로 선정되면 수업에 적용할 새로운 교육 프로그램이나 자료를 기대할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "인천시교육청 “마을 전체가 배움터”… 시교육청·제물포구 ‘교육혁신지구’ 맞손",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUZE1md2xvZERZTHd1UU9TdmhsZU9lQTBjR0pCM3h4Nm83blV1S3hhVkJzMmtTVW1oVDhWanVSWVY2Ykx4UG9MYWJ1YmVUcHg0dVE?oc=5",
+    "source": "한국정경신문",
+    "published": "2026-09-16",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청과 제물포구가 '마을 전체가 배움터' 교육혁신지구 조성을 위해 협력합니다.",
+    "implication": "마을 전체를 배움터로 삼아 교실 밖 현장에서 실제적인 학습 경험을 제공할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "안민석 경기도교육감 “경기교육 현장 변화 만들 것”",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52ZVBTVURESFBYT3dzSjJ3S1BiN2dQT3NiczJNNVpPMzBTMWpRbjNQeHc4a2R1eXdQNkRHbFBnYmhCZWRKaUpORGVsYzA0a3daekNoNHJDMThzUXBIZ3dVMTI2ZExCUkhMa1d2MnV5cTY?oc=5",
+    "source": "산경일보",
+    "published": "2026-09-16",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "안민석 경기도교육감이 경기교육 현장의 변화를 만들겠다는 의지를 표명했습니다.",
+    "implication": "교육감의 변화 의지가 현장 교사들의 수업 혁신을 위한 다양한 지원으로 이어질 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "안민석 경기교육감, 고양서 학부모 800명과 교육 현안 소통",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BQ2hPOGtVRmtobmY2cmtITmhwX0pVNmNLblZHRmppanN4VHNhMXhwcUY4cGJhUnNUSFZlejhnZHZldmtqREpNc3Y3NzNodkVlM2JWUHVLVlpLOHPSAVZBVV95cUxNaklPYW83QzBmX29MOElMWDJadE54dy1rX1E0cElZOGFTMlc3aHNwbzBrZmNKRmlfWlFJYWd6WFYzNTEzdWtZLUtnVlotYS04eFFyM3JHQQ?oc=5",
+    "source": "더팩트",
+    "published": "2026-09-16",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "안민석 경기교육감이 고양 지역 학부모 800명과 교육 현안을 소통했다.",
+    "implication": "교육감과 학부모가 논의한 교육 현안을 파악하여 학생들과의 교육 관련 대화에 참고할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "경기도교육청, 헌법교육 교직원 역량 강화…교실 속 시민교육 확대",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DN0hSTVZNYUIzd1g0MEVmaW5RMGhjMnlKd29Pb2lUTUpHbEZsZjA2UHphaURuR185ZHlpc0lFY2RXaDBKaFJ2WjdJUlhHd2IxRHNtM29IUVFvMS1pd0RyXzlSOEVmY2ZKVDFEY3h3N016QQ?oc=5",
+    "source": "디스커버리뉴스(DISCOVERYNEWS)",
+    "published": "2026-09-16",
+    "keyword": "교육현장",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청이 교직원의 헌법교육 역량을 강화하여 교실 내 시민교육을 확대할 예정입니다.",
+    "implication": "교직원 헌법교육 역량 강화 기회를 활용하여 실제 수업에서 헌법적 가치를 기반으로 하는 시민교육을 확대할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "유치원 교권침해 ‘0건’의 이면…충남교육청, 현장 목소리 직접 듣는다",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiSktVQlp1dm54T0ptclhBWjJEQXlBMVNMNExTcDc3ZHNiTGRNdzRQS1M5OWIwOU5LeWE5Q0dqc2k5TVFnUDJtZXZlUWhfcG1vUzMyV0xaa2ZmUjlXT0x6Y1NGVEgycnc?oc=5",
+    "source": "greened.kr",
+    "published": "2026-09-16",
+    "keyword": "교육현장",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "교권",
+     "충남교육청"
+    ],
+    "summary": "충남교육청은 유치원 교권침해 0건 이면에 숨겨진 현장 목소리를 직접 들으려 합니다.",
+    "implication": "교육청이 현장 의견을 듣는 만큼, 교사는 교육활동 보호를 확신하며 수업에 더욱 집중할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "안민석 경기교육감, 남양주 오남고 RAS교육 현장 방문",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRc1hxZWZ4b2VJdGF0WXBfMUxEc0s2ZDVFc2xNdFdEZmRLa3lBVjFRZWstdjBrVmRPMW83eEdwbVYtVXhNMjJrWHFBT1RnOEg2Nmdadk90bGh1MzBFMGZ2eEYtVDl2Rl80eVE?oc=5",
+    "source": "뉴스티앤티",
+    "published": "2026-09-16",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "안민석 경기교육감이 남양주 오남고의 RAS 교육 현장을 방문했습니다.",
+    "implication": "교육감이 방문한 RAS 교육은 미래 산업과 연계된 실용 기술 교육임을 파악하여 수업에 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "[현장영상] 교육감협의회 \"교부금 실질 순증 2259억뿐\"…16개 시·도교육감, 국회에 정부 개편안 재검토 요구",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1tWm5BSzdYQm0wSDdpYkViY2huUUExcEFQNzUzaXFJTUQyc1JRN21GVkxrUTFyM1RLRXZpdllhbm8wVjlfb1pTWHJLdkR5cGxnWjNacE81VmZpYUx5TjRF?oc=5",
+    "source": "전북미래교육신문",
+    "published": "2026-09-16",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": "feature",
+    "entities": [
+     "교육 예산",
+     "국회"
+    ],
+    "summary": "16개 시도교육감은 교부금 실질 순증 2259억뿐이라며 국회에 정부 개편안 재검토를 요구했습니다.",
+    "implication": "정부의 교부금 증감 논의는 학교 교육 환경과 수업 지원 예산에 직접적인 영향을 줄 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Innovating Curriculum Design for Society 5.0: Integrating Technology and Adaptive Learning in Modern Islamic Education",
+    "url": "https://doi.org/10.54150/alirsyad.v5i2.1058",
+    "source": "openalex",
+    "published": "2026-09-15",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "Society 5.0 이슬람 교육의 기술·적응형 학습 융합 교육 혁신을 질적 분석해, 핵심 과제와 맞춤형 학습 효과로 미래 인재 양성 토대를 마련합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Juliastuti Juliastuti, Irma Budiana 외 1명",
+    "pdf": "https://jurnal.staithawalib.ac.id/index.php/alirsyad/article/download/1058/444"
+   },
+   {
+    "n": 2,
+    "title": "Issues of Inclusive English Language Teaching in Higher Education",
+    "url": "https://doi.org/10.33619/2414-2948/130/90",
+    "source": "openalex",
+    "published": "2026-09-15",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 다양화된 고등 교육 환경에서 포괄적 영어 교육의 이론, 현황, 과제를 문헌 분석으로 비판적 고찰하여, 언어 정의와 교육적 공정성을 증진하는 일반적 교수 개념임을 밝힙니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "L. Harutyunyan, A. Grigoryan 외 1명",
+    "pdf": "https://doi.org/10.33619/2414-2948/130/90"
+   },
+   {
+    "n": 3,
+    "title": "3D Modeling Application and Digital Teaching Innovation for University Art Design Courses",
+    "url": "https://doi.org/10.4018/ijwltt.422098",
+    "source": "openalex",
+    "published": "2026-09-14",
+    "keyword": "edtech",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "이 연구는 협력 학습 및 형성 평가 기반의 교사-학생-플랫폼 삼자 폐쇄 루프 시스템을 통해 3D 모델링 교육에서 학생 개별 차이에 따른 피드백 효율을 높여 모델링 능력과 창의성을 향상하고, 정밀하고 지속 가능한 디지털 혁신을 위한 경험적 토대를 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Yiwen Song",
+    "pdf": "https://www.igi-global.com/ViewTitle.aspx?TitleId=422098&isxn=9798337386256"
+   },
+   {
+    "n": 4,
+    "title": "Professional competency of Technical-Vocational-Livelihood teachers in suburban senior high schools: Perspectives of teachers and school heads",
+    "url": "https://doi.org/10.63498/injelps105",
+    "source": "openalex",
+    "published": "2026-09-15",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "교사 연수",
+     "개인화 학습"
+    ],
+    "summary": "이 연구는 교사 및 학교장 관점에서 기술-직업-생계(TVL) 교사의 전문 역량 프로필을 양적 기술-비교 방식으로 평가하여 전반적인 높은 역량에도 불구하고 특정 기술 및 통계 분석 영역이 취약함을 밝혀, TVL 교사의 전문성 개발을 위한 맞춤형 교육 전략의 필요성을 제언합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "",
+    "pdf": "https://doi.org/10.63498/injelps105"
+   },
+   {
+    "n": 5,
+    "title": "Building Motivation Through a Christian-Based Vocational Sports Academy",
+    "url": "https://firescholars.seu.edu/dsl-abstracts/36",
+    "source": "openalex",
+    "published": "2026-10-01",
+    "keyword": "",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 기독교 기반 직업 스포츠 아카데미가 AI 지원 숙달 기반 학습을 포함한 통합 교육을 제공하여 학생의 전인적 성장을 돕고, 재정적으로 지속 가능한 사립학교 모델을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Elasha E. Naylor-Cooper",
+    "pdf": "https://firescholars.seu.edu/context/dsl-abstracts/article/1035/viewcontent/Naylor_Abstract.pdf"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "[9월16일] ‘AI 속도 조절’은 투자의 후퇴인가… 월가의 엇갈린 셈법",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215331",
+    "source": "AI Times",
+    "published": "2026-09-17",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [],
+    "summary": "월가의 엇갈린 셈법은 AI 투자 속도 조절로 이어져 기술 생태계의 선별적 성장과 지속 가능성에 대한 고민을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "\"외주 인력이 챗GPT 대화 검토\"...오픈AI, '프로젝트 릴리' 개인정보 논란",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215344",
+    "source": "AI Times",
+    "published": "2026-09-16",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "OpenAI"
+    ],
+    "summary": "외주 인력을 통한 챗GPT 대화 검토는 AI 산업 전반에 걸쳐 개인정보 보호 및 데이터 활용 윤리 기준 마련의 필요성을 제기합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "Google launches Gemini 3.8 Live to take on OpenAI's GPT-Live-1 at a fraction of the cost",
+    "url": "https://the-decoder.com/google-launches-gemini-3-8-live-to-take-on-openais-gpt-live-1-at-a-fraction-of-the-cost/",
+    "source": "The Decoder",
+    "published": "2026-09-15",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Gemini",
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "구글의 저비용 AI 모델 출시는 AI 기술의 대중화와 시장 경쟁 심화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "오픈AI IPO 앞두고 'GPT-5.6'·'아스트라' 성공 발판으로 추가 투자 유치 모색, 1조2천억 달러 기업가치 목표",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HTTRXanZfeDR6UUxCWWp4bnhHdXhRdzdaYzN3OFZaUUlsd1RnejV1bEVvSVVxLWk3Vm9yYnhqMVR4TUFHb1lLc3I1RFlVaHBjcW9ELTNDcw?oc=5",
+    "source": "허프포스트코리아",
+    "published": "2026-09-16",
+    "keyword": "GPT",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "오픈AI의 IPO 및 신기술 기반 1.2조 달러 기업가치 목표는 AI 산업의 투자 열기와 기술 주도 경쟁을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+    "source": "OpenAI Blog",
+    "published": "2026-09-11",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "AI 서비스 대중화는 대규모 스토리지 인프라의 확장성과 효율성 확보가 AI 기술 생태계 성장의 필수 기반이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "제일브레인 AI, 출시 3개월 만에 MAU 10만명 돌파… 챗GPT, 클로드, GLM, Gemini, Grok 등 수십개의 AI모델을 멀티 노드로 잇는다",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16d1FCcFFlYUJ3dGJHeXUxSkRxYm4tZ1o3SERGZTQ5c3lXQm5sd0ZzNFFDOHMzaHlXODBTdFZlckFJQm91SHF5UVR6RWNVWUo1V0dV?oc=5",
+    "source": "유스연합",
+    "published": "2026-09-16",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Claude",
+     "Gemini",
+     "xAI"
+    ],
+    "summary": "다양한 AI 모델을 연동하여 가치를 창출하는 플랫폼의 성장은 AI 기술 생태계 활용을 극대화하고 서비스 경쟁을 심화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "\"클로드 코드에 타사 모델 연결했더니 계정 정지\"...앤트로픽 \"차단 안 한다\" 해명",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215343",
+    "source": "AI Times",
+    "published": "2026-09-16",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Claude",
+     "코딩 AI",
+     "Anthropic"
+    ],
+    "summary": "앤트로픽의 해명은 AI 모델 생태계 내 상호운용성과 개방성 추구에 있어 플랫폼 정책의 유연성과 명확성이 핵심임을 보여주는 사례입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "Microsoft AI CEO, Anthropic의 Claude 훈련이 재앙을 초래할 위험을 경고",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOHNJR1drNjlEcGxZY1AzTHlPOWdkZEE2Q1I2dnJZanp0Q1p4MUM4bnd3UzNRMGVlUjB3eHJfeFJ1aVZ4VG9qbmg3bG83ZHpVbFNMRUdsZTRCSnlGQ0lYMTA1T1FSbkZZWDh0Mk9Db1JmYXdrSXVSRWxhbWZjUFpXaTgzeDk1azBLbWl1TjRMSWFrR1E?oc=5",
+    "source": "unite.ai",
+    "published": "2026-09-16",
+    "keyword": "Anthropic",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "Microsoft",
+     "Anthropic",
+     "Claude"
+    ],
+    "summary": "마이크로소프트 AI CEO의 경고는 AI 기술 생태계 전반의 안전 및 윤리적 개발 기준 강화 논의를 촉발할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "구글, '제미나이 노트북'에 맞춤형 학습 기능 추가...\"듣고 말하며 공부한다\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215347",
+    "source": "AI Times",
+    "published": "2026-09-16",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Gemini",
+     "개인화 학습"
+    ],
+    "summary": "구글의 제미나이 노트북은 멀티모달 AI 기반의 개인화된 상호작용 학습 시대를 열어 AI 교육 생태계의 성장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "넘즈AI, 정형 데이터 모델 '코실로' 탭아레나 세계 1위 차지",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215363",
+    "source": "AI Times",
+    "published": "2026-09-16",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "정형 데이터 AI 모델의 세계 1위는 기업의 핵심 업무 효율을 높일 전문 AI 기술 경쟁이 심화될 것임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

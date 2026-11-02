@@ -1,0 +1,413 @@
+{
+ "date": "2026-07-28",
+ "generated_at": "2026-11-02T11:40:37+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "인천시교육청, 미래교육 청사진 공개…‘읽걷쓰AI’ 중심 교육혁신 본격화",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBha2ZvYjhCM1N2cTBsZ2piQzRzSFRQNWhVSU54X3FmektaWk10UC1RVG05eXdfQlBRVFdIZDdMNzljUGtVdmVvQVhDc2FEbXVvNENfaE45ZW5rdTFTeDlhbXhaaFg4ZFBSUXVyMkNLRi1adW1C0gF0QVVfeXFMUGFrZm9iOEIzU3ZxMGxnamJDNHNIVFA1aFVJTnhfcWZ6S1paTXRQLVFUbTl5d19CUFFUV0hkN0w3OWNQa1V2ZW9BWENzYURtdW80Q19oTjllbmt1MVN4OWFteFpoWDhkUFJRdXIyQ0tGLVp1bUI?oc=5",
+    "source": "주간한국",
+    "published": "2026-07-27",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청이 '읽걷쓰AI'를 중심으로 미래 교육 청사진을 공개하고 교육 혁신을 본격화했습니다.",
+    "implication": "수업에서 읽기, 체험, 쓰기 활동에 AI 도구를 통합하여 학생들의 학습 몰입도를 높일 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "“AI교육도 리콜되나요?”…청년 아이디어, 교육정책 문 두드린다[세상&]",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uaFhVTlh1RVNUcHZCRnlod1BGV3VEbDFVT0EtLW5ycEc5V3pIY0pjem1HNGhpbzE5eTNlNjAwb3djQ1ZSOS1zbVNrR2hvc0FNRnJUX3NR?oc=5",
+    "source": "헤럴드경제",
+    "published": "2026-07-27",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "청년들이 AI 교육의 문제점을 제기하며 개선 아이디어를 교육정책에 반영하고자 한다.",
+    "implication": "학생들에게 AI 교육에 대한 비판적 사고를 기르고 자신만의 개선 아이디어를 발표하는 기회를 제공할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "경기도교육청·한국에듀누리교육원, 시흥 포리초 \"최첨단 에듀테크 교구와 게임형 콘텐츠 결합한 체험 중심 교육\" 진행",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVYVdjLXVqdk9paFZuZkxKTlRvZUdXU0RTaHNPMWpNVnUxV1pOWEZzbjVBVUJJd1ppdHhwb0xOcE9zRk5nYUZhWDBNcERmaWp2dkRQM05fUXdYMHpfVVRxRQ?oc=5",
+    "source": "경기경제신문",
+    "published": "2026-07-27",
+    "keyword": "에듀테크",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청과 한국에듀누리교육원이 시흥 포리초에서 최첨단 에듀테크와 게임형 콘텐츠를 결합한 체험 중심 교육을 진행했습니다.",
+    "implication": "최첨단 에듀테크와 게임 요소를 활용하여 체험 중심 수업을 계획해 볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "교육부, 태국 등 3개국에 AI 교육혁신 사례 전파",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54RlNTT2lwSE40Q0xGdjJEbHBpN0lTSzluM3N1anNCMFJJN1FzNGRRTFU4RzlrQnMyc2IyemM5X0hMZnU5TGR2UXFPQ2F6M0xLQXlyUDJIWTZKVjN0M1JOMkc1VlNrSk1nemVYSEp3?oc=5",
+    "source": "아시아투데이",
+    "published": "2026-07-27",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "교육부가 태국 등 3개국에 AI 교육혁신 사례를 전파했습니다.",
+    "implication": "국내외 AI 교육혁신 사례들을 참고하여 우리 반 수업에 적용할 방안을 모색할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "고흥, 작은학교 공동교육과정 기반 교육혁신선도지역 도전",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VbkljLXAzNF9wS3d5Nm5UTEFKSXFqajRCamUtd1lKZFdveFQ2WWc1YUwtNGRxYjRlb2c1WkVnTU11Mk9jSVhFOHpDVFh6TW5PcHJKV0NmLXFBb2JtNTlfc0dieVlIVV9fOENjWg?oc=5",
+    "source": "호남교육신문",
+    "published": "2026-07-27",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "고흥은 작은학교 공동교육과정을 기반으로 교육혁신선도지역에 도전합니다.",
+    "implication": "작은학교 공동교육과정 참여를 통해 학생들에게 더 다양하고 깊이 있는 학습을 제공할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "김영희·경기의회, 교육정책은 현장을 기준으로 설계돼야",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBObHUyblBQSFVwYXpLeW1lSDFWZ3JuMV8zRUFveXVCWXZkdVYxb2RxR0sySWs4MnJpanF1YXk3MDE2N1luTmR2anNmWGdzMHY4TkF5VTZtYXhaR0ZqRVdNTmw5cGQ5Q2ZwNkNYaVkzZw?oc=5",
+    "source": "오토투데이",
+    "published": "2026-07-27",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "김영희 의원과 경기도의회는 교육정책이 현장을 기준으로 설계되어야 한다고 강조했습니다.",
+    "implication": "교실 현장의 특성과 학생들의 실제를 반영한 수업 방식을 개발하고 적용하는 근거가 될 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "제주 중·고교 학생들, 직접 교육정책 발굴·제안",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IdW5SWWNsU3M2bmxxTDR6cHJZb0JwRnc4QnZDM1k2RmNBZEh5ZWhOb0RMSHg1RDVOV3FSQVRHelhEVXQtT3BBelUwRVdYa2tDOGtnS0tSMEhKb0l2VEhsZEZ1U1BDYUlF?oc=5",
+    "source": "DWBNEWS",
+    "published": "2026-07-27",
+    "keyword": "교육정책",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "제주 중·고교 학생들이 직접 교육정책을 발굴하고 제안합니다.",
+    "implication": "이러한 학생들의 교육정책 참여는 교실에서 실제 교육 문제를 탐색하는 토론 수업을 진행할 좋은 기회입니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "인천 교육정책 '100선' 확정…교원보호 첫머리",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5vRFpjdTdvemFiNm9rYWVwdFZQQjJidU55SjdwUzVjRGZMQ1JwcDNvZHdqdmVZXzY3NUpQazZTbDR1ZkNpYnM2VTJhNmUwOEYyYWxmenVMdVdGRng1dXhPR0VIYULSAWhBVV95cUxQSUZpT2RlelBTcmRzU0NUQU5nZUVCUWZFS1VOcVRBd3hVbUh4Z1BjR0JYNDJwRlNWZWFhQWhiMlpWeG1YV2xFVFVZdGNoVFNuWW44RWZjRmhQTWV6bXVBSF9LbUkzV3Jybg?oc=5",
+    "source": "경인방송 뉴스",
+    "published": "2026-07-27",
+    "keyword": "교육정책",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "인천시교육청",
+     "교권"
+    ],
+    "summary": "인천시가 교원보호를 최우선으로 하는 100가지 교육정책을 확정했습니다.",
+    "implication": "교권 보호 정책으로 안정적인 환경에서 학생 지도에 집중할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "[60초 교육정책] \"아바타로 상담받아요\"…서울 위(Wee) '메타버스 상담' 운영",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxTWNvYmxGOXpOZ1RQZDJ2TXktMmg5R1hYTUpnSElXdUZPQ1hkcVBlWm5LcHR5QWVQdE9yWG8tY2gwaGdmVFkySnd4dW40cGpaNzZJaXlKd3ktUEpf?oc=5",
+    "source": "뉴스핌",
+    "published": "2026-07-27",
+    "keyword": "교육정책",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "서울 위(Wee) 센터가 아바타를 활용한 메타버스 상담 프로그램을 운영합니다.",
+    "implication": "메타버스 공간에서 아바타를 활용해 학생들이 참여하는 모둠 활동이나 역할극 수업을 진행할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "박은경 의원, “교육정책은 실행력으로 증명해야”",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yeHZRNEZtYnpDQzJCX3BlVWh4S3BZand5ZHp6LXk1TDA1dHM3QkRhQV9ad01CMFJsTnJVYUZXaGt5eWQ0RFk3a2RvNlFhSjBQcXByb0NiOXhjTVlWcWN1MmVmano1NW1mRHBfTNIBbEFVX3lxTE5yeHZRNEZtYnpDQzJCX3BlVWh4S3BZand5ZHp6LXk1TDA1dHM3QkRhQV9ad01CMFJsTnJVYUZXaGt5eWQ0RFk3a2RvNlFhSjBQcXByb0NiOXhjTVlWcWN1MmVmano1NW1mRHBfTA?oc=5",
+    "source": "광교신문",
+    "published": "2026-07-27",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "박은경 의원은 교육정책의 성패가 실행력으로 증명되어야 한다고 밝혔습니다.",
+    "implication": "수업 현장에서 교육정책을 실행하는 교사의 역할이 정책의 성공에 직접적인 영향을 줄 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Exploring K-12 Physical Education Teachers’ Perspectives on Opportunities and Challenges of AI Integration through Ideation Workshops",
+    "url": "https://www.semanticscholar.org/paper/976de09969f3fcdc780cad09f557548ce9da9db4",
+    "source": "semantic_scholar",
+    "published": "2025-02-25",
+    "keyword": "K-12 AI",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "K-12 체육 교사 17명과의 아이디어 워크숍을 통해 AI의 체육 교육 활용 가능성과 도전 과제를 탐색하며, 이는 교육 혁신과 학생 성과 향상을 위한 AI 통합의 실질적 기반을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Dakyeom Ahn, Hajin Lim",
+    "pdf": "https://doi.org/10.1145/3706598.3713646"
+   },
+   {
+    "n": 2,
+    "title": "The impact of artificial intelligence-based tutoring systems on student engagement and long-term retention in math education",
+    "url": "https://doi.org/10.1038/s41598-026-62920-6",
+    "source": "openalex",
+    "published": "2026-07-22",
+    "keyword": "Connectivism",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [
+     "AI 튜터"
+    ],
+    "summary": "이란 고등학생 97명을 대상으로 한 준실험 혼합 연구에서 AI 튜터링 시스템이 수학 성취도, 장기 기억 및 학습 참여도를 유의미하게 높여 교육 효과를 강화할 수 있음을 입증합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Sayed M. Ismail, Khaled Ahmed Abdel-Al Ibrahim 외 1명",
+    "pdf": "https://www.nature.com/articles/s41598-026-62920-6_reference.pdf"
+   },
+   {
+    "n": 3,
+    "title": "Pedagogical and AI-aware readiness of EMI instructors in higher education",
+    "url": "https://doi.org/10.32674/0e5h7182",
+    "source": "openalex",
+    "published": "2026-07-24",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [
+     "다문화"
+    ],
+    "summary": "이 연구는 EMI 교수자의 교수 설계, 다문화 교실 운영, AI 인식 교수법 준비도를 기술적 분석을 통해 조사하여 효과적인 교수 역량을 제시하고 교수자 훈련 및 정책에 실용적으로 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Chaymae Ettaji, Maryam Charafi",
+    "pdf": "https://ojed.org/jise/article/download/11043/4181"
+   },
+   {
+    "n": 4,
+    "title": "Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education",
+    "url": "http://arxiv.org/abs/2607.22463v1",
+    "source": "",
+    "published": "2026-07-24",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [
+     "LLM"
+    ],
+    "summary": "LLM 기반 프로그래밍 교육에서 이 논문은 삼자 민족지학을 활용하여 교사 관점과 학생 경험을 대조함으로써 AI 지원 학습에 대한 깊은 이해를 돕고 교수법을 개선한다고 주장합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Jennie Ren', 'Jordan H. McDowell' 외 1명",
+    "pdf": "http://arxiv.org/pdf/2607.22463v1"
+   },
+   {
+    "n": 5,
+    "title": "RACiMo: Red Ambiental Ciudadana de Monitoreo: A Student-Centred Citizen Science Network for Environmental Monitoring, Data Literacy, and Climate Awareness in Colombia",
+    "url": "http://arxiv.org/abs/2607.14805v1",
+    "source": "",
+    "published": "2026-07-16",
+    "keyword": "pedagogy",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [],
+    "summary": "콜롬비아 RACiMo는 학생들이 오픈 하드웨어와 데이터 분석 도구로 기후 및 대기 질 데이터를 직접 수집·분석·활용하도록 교육하여 환경 인식과 데이터 리터러시를 강화합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['L. V. Flórez', 'G. Sánchez-Ariza' 외 13명",
+    "pdf": "http://arxiv.org/pdf/2607.14805v1"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "카카오, 온디바이스용 '카나나-2' 경량 모델 4종 오픈소스 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213247",
+    "source": "AI Times",
+    "published": "2026-07-28",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "카카오",
+     "온디바이스 AI",
+     "오픈소스"
+    ],
+    "summary": "경량 온디바이스 AI 모델 오픈소스 공개는 개발 장벽을 낮춰 AI 기술 대중화와 혁신 서비스 창출을 가속할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "OpenAI·Anthropic, 중국 오픈소스 AI 모델 규제 로비 의혹",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1SaVkwVGROWl9JalpZaWFUcmhnYUs0aXpUc0NpdFlFaEF2TERLT2kyVGJQM2RYeENQRW91UnpQbG11bHRtX0Rsc2h4aV9tUFp5bzhjRUphbVDSAV5BVV95cUxOWlVYT0Q3bVYwTDhNTzc5aUdCcXRReVIyVG93eFl5X1FYYUJWaDlMSlVlYmdneXdpbjN3SjBGUzFPdm9KRkI4T040NW8xT0VFNVZSRGVOc0ZDVGRacDJR?oc=5",
+    "source": "tokenpost.kr",
+    "published": "2026-07-27",
+    "keyword": "Anthropic",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Anthropic",
+     "오픈소스"
+    ],
+    "summary": "거대 AI 기업의 오픈소스 규제 로비 의혹은 AI 기술 생태계 내 경쟁을 제한하고 특정 기업 중심의 시장 독점 심화를 초래할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "\"복잡한 물리 논문 이미지도 뚝딱\"...튜링, 이공계 특화 에이전트 업데이트",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213254",
+    "source": "AI Times",
+    "published": "2026-07-28",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "이공계 특화 에이전트 업데이트는 AI가 특정 도메인의 복잡한 데이터를 처리하며 전문화된 AI 솔루션 시장을 확대할 것임을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "Anthropic's Opus 5 blows past Fable 5 and GPT-5.6 Sol on the benchmark designed to measure real intelligence",
+    "url": "https://the-decoder.com/anthropics-opus-5-blows-past-fable-5-and-gpt-5-6-sol-on-the-benchmark-designed-to-measure-real-intelligence/",
+    "source": "The Decoder",
+    "published": "2026-07-26",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "ChatGPT",
+     "벤치마크"
+    ],
+    "summary": "Anthropic Opus 5의 성과는 AI 기술 경쟁을 심화시키고, 실질적 지능 지표를 향한 산업의 방향을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "OpenAI, ChatGPT, 스마트 안경 및 웨어러블 장치에 진입",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBEZVVKREpmVG53NmNnRDZ2VXZIUVNkWC1zU3o3RUR6d3ZWdkxvazBodGVzOVhQRjFxUzg3WTNhTHU0WklHLXpDdmJJb9IBQkFVX3lxTE0ydmpleUp4MG1WdXYySTJ3Ri1YUkFSc2hXMzlBY0IzaF95ODhOMXhZMU15ZDRsWmQzYW43RWtqY1gxdw?oc=5",
+    "source": "VOI.ID",
+    "published": "2026-07-27",
+    "keyword": "API",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "OpenAI의 웨어러블 시장 진출은 AI가 물리적 세계와 통합되어 사용자 일상에 상시적으로 자리 잡으며, AI 생태계의 새로운 확장 국면을 열 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+    "source": "Google Blog - AI",
+    "published": "2026-05-29",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Google",
+     "개인화 학습"
+    ],
+    "summary": "Google AI Studio를 활용한 'vibe coded' 콘텐츠는 AI 플랫폼이 창의적이고 개인화된 사용자 경험을 대중화할 것임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "How AI is expanding what people do at work",
+    "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+    "source": "OpenAI Blog",
+    "published": "2026-07-27",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [],
+    "summary": "AI는 인간의 업무 영역을 확장하며, 단순 자동화를 넘어선 협업 및 증강 지능 솔루션 개발을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "BC카드, 자사 AI 플랫폼 'BCGPT WebUI' 오픈소스 공개",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsbUI4WURGX21TeTNaV2xMbDhvR0VQVllkSDJRNk5pd2VBbDdHYmd6c0lGaW5Tb2c0NDY4UTk4blNnYm56UmVEVlhWbklmZE5QNUNYTHYzVXZUWm9wMWllUzFaQkx0YzU1U2Qwa2k2YkdKYnRY?oc=5",
+    "source": "파이낸셜포스트",
+    "published": "2026-07-28",
+    "keyword": "오픈소스",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "오픈소스"
+    ],
+    "summary": "BC카드의 AI 플랫폼 오픈소스 공개는 AI 기술 생태계의 진입 장벽을 낮추고 산업 전반의 협력적 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "한국AI콘텐츠연구소, 삼성화재에서 '부서장들이 알아야 할 AI 활용법' 특강",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CbXFCV3RQZ0FRckhSbVhaTDVQWlkycjJWQWM0WTFYTHFrZ0w1QTRDVzNteFRHRklTYnZ6aWFzX19TLUlreFFEMXA3eDdBWEk4SU90V0hOeDFhYTlZU011UEp2NHlGTGVocW9fY2Vud18?oc=5",
+    "source": "한국강사신문",
+    "published": "2026-07-27",
+    "keyword": "활용법",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "삼성"
+    ],
+    "summary": "이 특강은 전통 대기업이 AI를 단순 기술 도입을 넘어 실질적인 비즈니스 혁신 동력으로 활용하려는 의지를 보여주며, 이는 AI 산업의 성장 전환점이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "한국AI교육진흥협회, AI 자격증 5종 등록…전국 단위 검정 본격화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213241",
+    "source": "AI Times",
+    "published": "2026-07-28",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 자격증의 전국 단위 등록은 AI 인력 역량 표준화를 통해 국내 AI 기술 생태계의 질적 성장과 산업 경쟁력 강화를 견인할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

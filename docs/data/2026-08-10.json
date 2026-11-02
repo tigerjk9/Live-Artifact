@@ -1,0 +1,423 @@
+{
+ "date": "2026-08-10",
+ "generated_at": "2026-11-02T11:41:20+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[특별기고] AI 에코시스템 대학교육 디자인, AI-허브학부 모델 운영",
+    "url": "https://news.unn.net/news/articleView.html?idxno=595633",
+    "source": "한국대학신문",
+    "published": "2026-08-10",
+    "keyword": "",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "AI 등장은 대학 교육의 패러다임을 지식 전달에서 학생 성공과 역량 함양으로 변화시키며, AI 활용으로 교육의 위기를 기회로 전환할 것을 제안합니다.",
+    "implication": "AI를 활용하여 지식 전달 부담을 줄이고 학생 개개인의 직접적인 활동과 상호작용에 집중할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[기고] '토론 없는' 토론식(IB) 교육의 전방위 도입-이제는 한국형 IB(KB)를 논할 때다",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB4bDB4Rk1yYUszWFlNVV9jVnEtUGdmcUVKc1ZlSUk0a3M4dDJmUk5HUFh0QXFBUDhGNnBuNkUwbzJablpkNGJtSldRR2ozZmFycHgzQkxsMWI0Si1oQkZSMVo0V0FUajhzLXFjdg?oc=5",
+    "source": "중도일보",
+    "published": "2026-08-09",
+    "keyword": "과정중심평가",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [
+     "IB"
+    ],
+    "summary": "\"토론 없는\" 토론식(IB) 교육의 전방위 도입을 비판하며, 이제는 한국형 IB(KB) 논의가 필요함을 주장하는 기고문입니다.",
+    "implication": "IB 교육 도입 시, 단순히 형식적인 토론보다 학생들이 능동적으로 참여하는 실제 토론 활동을 수업에 구성할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "충북교육청 교육연구정보원, 생성형 AI로 나만의 K-POP 만든다",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5b1VSeGZ2R2R2WVpySUpHaXRvekdIWXdLODh2UHpTakptS2xnMlhlZzc1OHNUa091bzJzeVE3bVVVVENnUGI5SzM2Z01NdjlXQWRVRkh4VU9SNzMwOGxZZVRVOUY1U1cxZEE?oc=5",
+    "source": "청년투데이",
+    "published": "2026-08-09",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "충북교육청",
+     "생성형 AI"
+    ],
+    "summary": "충북교육청 교육연구정보원이 생성형 AI를 활용해 나만의 K-POP을 만드는 프로그램을 운영합니다.",
+    "implication": "학생들이 생성형 AI로 K-POP을 직접 만들며 창의적인 자기표현 기회를 제공할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "경남교육청 ‘디지털 기반 교육혁신 유공교원 국외연수’",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBoejZkWFY1bWktUDVES1RCRkhXbFRfcHI0bnFROHlYR3V1WEI1UGpBa3RJOEFqSy1wNElQR25HcnFoZXVtY2JiaDN3ZU5mTXc?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-08-09",
+    "keyword": "교육혁신",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "경남교육청"
+    ],
+    "summary": "경남교육청이 디지털 기반 교육혁신에 공헌한 유공 교원들을 대상으로 국외연수를 실시합니다.",
+    "implication": "디지털 기반 교육혁신을 통해 수업에 적용할 새로운 도구와 방식을 탐색할 기회로 삼을 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "\"우리 아이 질문이 달라졌어요\"…AI·에듀테크가 바꾼 수업 현장 [이미경의 교육지책]",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wcF8tVktLd05BUFhHN2lBLTYzRU9aZnNVSTA5VS1DQkRHd2dzOVVnODFqai1CeDRHNXY0cmFFQkN6X3hiVkN6V2hUWURXMjNIS1dF?oc=5",
+    "source": "news.nate.com",
+    "published": "2026-08-09",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "AI와 에듀테크의 도입으로 수업 현장에서 아이들의 질문 방식이 변화했습니다.",
+    "implication": "달라진 아이들의 질문에 AI와 에듀테크를 접목해 맞춤형 피드백을 제공할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "대전교육청 9월 1일자 인사 단행… 명달호 교육국장·김옥세 교육정책과장",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VMGNpT2J4UXNFUUZBRXp4UnoxWFZmSmVNY0lGcFUxUWo0TS1WbFNqMUdJZXpvQlEyLTgyaGczbTdkWDlqLWtGaER2R0NVU3VRdnlBMjdxUE1ydlhOd0xmZW5pbUJmdw?oc=5",
+    "source": "ccgnews.kr",
+    "published": "2026-08-09",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "대전교육청이 9월 1일자로 명달호 교육국장, 김옥세 교육정책과장 등 주요 인사를 단행했습니다.",
+    "implication": "새 교육국장과 교육정책과장의 향후 교육 철학에 맞춰 교수 학습 방법을 유연하게 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "\"교사 곁에서 수업 '보조'해줘요\"…AI 피드백으로 정답 대신 '사고력' 키운다",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE45WW5vbGZIZHFCZnBGaEpoT0E1dElvcW1wTTFQNE1vOWNyY3VkdUVQRVozVUR3OGh4X2tPaFVhTzQwdFlrdy02WGplUWc5T0xhVXdj?oc=5",
+    "source": "news.nate.com",
+    "published": "2026-08-09",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "AI가 교사를 보조하여 수업에 활용되며, 학생들에게 정답 대신 사고력을 키우는 피드백을 제공합니다.",
+    "implication": "AI를 활용해 학생들에게 정답 위주가 아닌 사고력 향상 중심의 피드백을 바로 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "바다 위에서 배우는 해양영토···서울시교육청 '해양평화 캠프' 운영",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1nXzRUTkY3Y0xuQW1DakJnQ0ExcWs2YmI3Y0R1Z0gwYnR1MmN1dnptT09Ca3oyYTVrZF9tQUVDVGlpMmNkUndIdnNvZFpJelNVZXE2QzdFWXJfcF8wOUJUWmthU3MxSE05QnBKT0RxUXNibHBObGMyTQ?oc=5",
+    "source": "news.nate.com",
+    "published": "2026-08-09",
+    "keyword": "디지털교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "서울시교육청"
+    ],
+    "summary": "서울시교육청이 바다 위에서 해양영토를 배우는 '해양평화 캠프'를 운영한다.",
+    "implication": "학생들과 함께 해양영토의 중요성을 체험 학습으로 탐구하는 활동을 계획할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "보험사, 생성형 AI 실무교육 확대…'AI 인재' 키운다",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfWmNDT0Zhc1dPTDFtNHZfTlF5MEozY0FiLUR6VGp6S19XMF94Rm1iWkk5ODVvSUdCZktOZWVvY1NLV2RoWkgyRDNqSlRDdndOVm4xNU1HUFVjQmdVNlVfR0x6TTZPNEFwckE?oc=5",
+    "source": "cstimes.com",
+    "published": "2026-08-09",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "보험사들이 생성형 AI 실무 교육을 확대하여 AI 인재를 양성하고 있습니다.",
+    "implication": "학생들에게 생성형 AI의 실질적인 활용 능력과 관련 직업의 중요성을 강조할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "구미상의, 지역기업 재직자 ‘생성형 AI 실무 활용 교육’ 실시",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43emFxSzBOanpHb2xJWGJBeTAzQzJtMlQ5ME10WEtOX2c5WkZYTDE2MnM4ek9YbWY3aFlPNnVueXRBcHlIY3Q5czBVVFhYZ2IyRE42Mk5uaTY?oc=5",
+    "source": "경북신문",
+    "published": "2026-08-09",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "구미상의가 지역기업 재직자들에게 생성형 AI 실무 활용 교육을 실시합니다.",
+    "implication": "학생들이 미래 사회의 주요 기술인 생성형 AI의 실무 활용법을 수업에서 배울 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "JAMOVI-based module as tool in teaching Statistics among Senior High School students",
+    "url": "https://doi.org/10.63498/injelps100",
+    "source": "openalex",
+    "published": "2026-08-08",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "고등학생 통계 교육을 위해 JAMOVI 소프트웨어를 통합한 자기 주도 학습 모듈을 개발 및 평가한 결과, 전문가 검증과 준실험 설계를 통해 모듈의 높은 유효성, 실용성, 수용성 및 학생들의 학업 성취도 향상 효과를 입증하여 기술 기반 교육과 학습 성과 개선에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "",
+    "pdf": "https://doi.org/10.63498/injelps100"
+   },
+   {
+    "n": 2,
+    "title": "AI-Powered Digital Pedagogy in English Language Education: A Framework for Twenty-First Century Learning",
+    "url": "https://doi.org/10.67313/slijms.2026.40",
+    "source": "openalex",
+    "published": "2026-08-07",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [
+     "AI 리터러시"
+    ],
+    "summary": "이 논문은 AI 기반 디지털 교육학이 영어 교육에 미치는 영향을 통합적 검토와 개념 분석으로 탐구하며, AI를 교사의 파트너로 활용해 비판적 사고, 디지털 리터러시 등을 강조하는 21세기 학습 프레임워크를 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Dr. Moulieswaran N, Dr. Stephen Samuel A 외 1명",
+    "pdf": "https://slijms.com/index.php/journal/article/download/40/46"
+   },
+   {
+    "n": 3,
+    "title": "Artificial Intelligence and Professional Development of School Teachers: Opportunities, Challenges and Future Directions",
+    "url": "https://doi.org/10.64388/irev10i2-1722205",
+    "source": "openalex",
+    "published": "2026-08-07",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "교사 연수",
+     "개인화 학습"
+    ],
+    "summary": "이 논문은 AI가 교사의 전문성 개발에 제공하는 맞춤형 학습 기회와 윤리적 도전 과제를 분석하며, AI를 교육 혁신을 위한 대체 불가능한 보조 수단으로 활용해야 할 미래 방향을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Prabhjeet Singh, Manpreet Kaur",
+    "pdf": "https://www.irejournals.com/formatedpaper/1722205.pdf"
+   },
+   {
+    "n": 4,
+    "title": "Teaching Reform of the Hydraulic Transmission Course for Enhancing Engineering Practice Competence under the Development of New Quality Productive Forces",
+    "url": "https://doi.org/10.62177/jetp.v3i3.1586",
+    "source": "openalex",
+    "published": "2026-08-07",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "새로운 생산력 발전에 맞춰 수력 전송 교육과정은 이론-실무 격차 해소와 학생의 엔지니어링 실무 역량 강화를 위해 프로젝트 학습, 가상 시뮬레이션 및 다각적 평가를 포함하는 교수법 개혁을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Zeliang Xiao, Jie Su 외 1명",
+    "pdf": "https://ojs.apspublisher.com/index.php/jetp/article/download/1586/1251"
+   },
+   {
+    "n": 5,
+    "title": "IMPLEMENTASI PEMBELAJARAN BERBASIS DIGITAL DALAM MENDUKUNG BUDAYA PEMBELAJARAN MENDALAM DI SEKOLAH DASAR",
+    "url": "https://doi.org/10.51878/academia.v6i3.12908",
+    "source": "openalex",
+    "published": "2026-08-07",
+    "keyword": "SEL education",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "본 질적 사례 연구는 초등학교 디지털 학습의 심층 학습 지원 과정을 분석하여, 기술이 의미 있는 학습을 촉진하나 교사의 디지털 교수 역량 강화를 통해 반성적, 협력적 학습을 최적화해야 함을 제언합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Anisa Surya, Dian Hidayati 외 1명",
+    "pdf": "https://jurnalp4i.com/index.php/academia/article/download/12908/9024"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "메타, 맥용 '메타 AI' 데스크톱 앱 개발 정황 포착...'슈퍼 앱' 경쟁 예고",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213714",
+    "source": "AI Times",
+    "published": "2026-08-09",
+    "keyword": "",
+    "topic": "product",
+    "kind": "opinion",
+    "entities": [
+     "Meta"
+    ],
+    "summary": "메타의 AI 데스크톱 앱은 AI 기술 생태계에서 '슈퍼 앱'을 통한 플랫폼 주도권 경쟁을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "오픈AI, 프레젠테이션 스타트업 '넥스트슬라이드' 인수…챗GPT 시각적 업무 기능 강화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213715",
+    "source": "AI Times",
+    "published": "2026-08-09",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "오픈AI의 넥스트슬라이드 인수는 챗GPT가 시각적 업무 기능을 강화하여 멀티모달 AI의 생산성 도구 시장 확장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "스페이스XAI, ‘이매진 이미지 2.0’ 공개...생성 넘어 정밀 편집·일관성 집중",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213713",
+    "source": "AI Times",
+    "published": "2026-08-09",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "생성 AI의 발전 방향이 단순 생성에서 벗어나 산업의 정밀한 요구를 충족하는 편집 및 일관성 중심으로 전환될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "구글, 인터넷 없이 작동하는 AI 번역기 ‘젬마 트랜슬레이터’ 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213717",
+    "source": "AI Times",
+    "published": "2026-08-09",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Gemini",
+     "온디바이스 AI"
+    ],
+    "summary": "구글의 인터넷 없는 AI 번역기는 엣지 AI 대중화를 가속화하며, AI 서비스의 접근성 및 활용 범위를 혁신적으로 확장할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "Advancing the price-performance frontier with GPT-5.6",
+    "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "source": "OpenAI Blog",
+    "published": "2026-07-30",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.6은 AI의 가격 대비 성능을 비약적으로 개선하여, AI 기술의 보편적 활용과 산업 전반의 혁신을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "source": "OpenAI Blog",
+    "published": "2026-08-06",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "무료 사용자에게 고성능 AI 모델 접근성을 확대하여, AI 서비스의 전반적인 품질 상향과 시장 경쟁 심화를 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "오픈AI, 애플 소송 검토 \"챗GPT 평판에 타격 줘\" [자막뉴스] /채널A Miley Cyrus (SB92GhLdxt)",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Rc3FyclVLbkpCanlBalFwNndDY054M25HR2NZeTk0clRxWnNIUUJYSEtlakRXNEdqZEc4UVJTTGpIZlgtcFRTQ1hFRmgydzdrY3hwdjNGV2RmMTQ?oc=5",
+    "source": "mshale.com",
+    "published": "2026-08-09",
+    "keyword": "GPT",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Apple",
+     "저작권·소송",
+     "ChatGPT"
+    ],
+    "summary": "오픈AI의 애플 소송 검토는 AI 기술 생태계에서 핵심 주도권 경쟁이 브랜드 평판 관리와 법적 분쟁으로 심화될 것임을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "오픈 AI 삼성전자·카카오만 찾는다 엔비디아의 약점 5개, 전부 한국 기업이 가지고 있다 한국 기업 곧 역대급 상승장온다! Prime (FLBjIIsmpl)",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WeTJnSl9XcE9fNFpZM3lWMEFrdlUwbnl5amRsME9SaUs3M3dvSXBBenlSakU0ZzVaMHg2RXVlOXRXX1NCams0ZjBiWGh1dWhQNjF4SEhtNFBxNk0?oc=5",
+    "source": "mshale.com",
+    "published": "2026-08-09",
+    "keyword": "오픈AI",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "삼성",
+     "카카오",
+     "NVIDIA",
+     "GPU·데이터센터"
+    ],
+    "summary": "오픈AI의 한국 기업 협력은 엔비디아 독점적 AI 반도체 생태계를 다각화하고 공급망 안정성을 높이는 전환점이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "가트너 \"2027년 중국 AI 점유율 50%…특정 국가 의존은 치명적 리스크\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213719",
+    "source": "AI Times",
+    "published": "2026-08-09",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "중국 AI 점유율 확대는 AI 생태계의 특정 국가 의존 리스크를 심화시키므로, 글로벌 공급망 다변화와 자율적 기술 역량 강화가 필수적입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+    "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+    "source": "OpenAI Blog",
+    "published": "2026-07-29",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "벤치마크",
+     "추론 모델"
+    ],
+    "summary": "간단한 설정 최적화만으로도 AI의 추상적 추론 능력을 획기적으로 향상시킬 수 있음을 보여주며, 기존 모델의 잠재력 활용이 AI 발전에 핵심임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

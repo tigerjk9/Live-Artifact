@@ -1,0 +1,167 @@
+{
+ "date": "2026-01-11",
+ "generated_at": "2026-11-02T11:50:32+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[전재학 칼럼] 2026년 '대한민국교육감협의회'에 바란다",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Vd1loX21BTGVjajRFU1hrNGp4Z1ZwT0pwYWtuNlpocHMySTJwbFplTTFaWnJHUG00cjFlbWFpVzdpRGNGY1VoUTZTb1ZNN21WcVFJZXFSOHVXd0VZbWFReWhVMUlKUkU?oc=5",
+    "source": "교육플러스",
+    "published": "2026-01-10",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "2026년 교육감협의회는 교육 자치 강화와 지역 특성을 반영한 교육 정책 수립에 더욱 주력해야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[김대성 칼럼] 미래교육을 말한다면, 임용고시부터 바꿔라",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=21633",
+    "source": "에듀프레스",
+    "published": "2026-01-10",
+    "keyword": "",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "미래 교육 변화를 반영하지 못하는 현행 임용고시는 교사의 전문성 강화와 교육 혁신을 가로막는 걸림돌이므로, 시험 방식과 내용의 근본적인 개선이 시급합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[칼럼 - 김정대] AI 인공지능은 ‘도구’가 아니라 ‘조직을 재편하는 힘’이다.",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9CRWFyZlA1X2dNcGx0b210bzhwRUdaZlFUTFFqNWJtOHhtcTJhVl9NVHVNX2JZaVhjNTBaeXZxV3JDMnFaTENIQXRQZ3A?oc=5",
+    "source": "한국AI부동산신문",
+    "published": "2026-01-10",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "AI를 단순 도구가 아닌 조직 재편 동력으로 보는 관점은 교육 시스템 혁신과 맞춤형 학습 환경 구축의 중요성을 강조합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[칼럼] 흔들리는 충남 공교육, 해법은 역할의 회복",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zbld4QnNyV3EyYkYwUDktd3JEVjFyVURuSTR3ekhudzl6eFBzbk5sNng3eDZXYzFaX3BBUDhSdHZTT3htZmx0bWhmSDY0RkhCSVVzUjJiUEVEVUVndFdxbmNxbHZ2RVBYZGhBUEh3?oc=5",
+    "source": "금산중앙신문방송",
+    "published": "2026-01-10",
+    "keyword": "교육혁신",
+    "topic": "teacher",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "충남 공교육의 위기는 교사의 역할 재정립과 학교 자율성 강화를 통해 극복해야 할 과제임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "오석진 대전교육감 출마자 출판기념회 2000여 명 참석 '성황'",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50Z1VKcHFybmk4RlRtZDI5YzZPUlRMSUNWT0kteFl1YVFjdTNCTFp6NHRWeWs5eHRQNkpZdG50OV85Q294M0tIVWhiczNiNVFad2dfWm5xLXprZ0VvbzZ5VVJtVE95UXM?oc=5",
+    "source": "교육플러스",
+    "published": "2026-01-10",
+    "keyword": "에듀테크",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대전시교육청",
+     "교육감 선거"
+    ],
+    "summary": "높은 관심 속 출판기념회는, 향후 교육감 선거에서 교육 정책 경쟁 심화 및 유권자들의 적극적인 참여를 유도할 가능성을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "전남교육청, ‘디지털 교육 협력’ 모로코 교육부 감사 서한 받아",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvMFM4NTVMWEVMOW5XQ0RPVHRjd2hZY05PT18tT1N5elpIaTBsU3ZGb1lrR29nNmRhbTFmdGVGOFNuR05OX0FCSzczZlBGLUR0OGNrMksyRGk1RkRNb0poUXVqaUlLeFRleWc?oc=5",
+    "source": "서울뉴스통신",
+    "published": "2026-01-10",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "전남교육청",
+     "교육부"
+    ],
+    "summary": "전남교육청의 모로코 교육부 감사 서한은 디지털 교육 협력을 통해 국내 교육의 국제적 위상을 높이고, 미래 교육 모델 확산에 기여할 가능성을 보여주는 긍정적인 신호입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "경인교대 이대형 교수, 인천 교육감 출마 선언으로 교육 혁신 예고",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ELWU2YTBFOFNkWE81VTVBbXBXV1Q5UzZpRjBEOEZaaW0xdmVGOVRVYzNrRVUtZWFocVZLc2tqc1l6TE5EOHJzSWU2cUotT29jS056UFpjcDBhQQ?oc=5",
+    "source": "브릿지경제",
+    "published": "2026-01-10",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청",
+     "교육감 선거"
+    ],
+    "summary": "교수 출신 교육감 후보 등장은 이론과 실제를 겸비한 교육 혁신 기대감을 높이며, 정책 경쟁 심화를 통해 궁극적으로 인천 교육 발전에 기여할 수 있을 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "부산디지털대 평생교육학과, '평생교육인의 밤' 성료",
+    "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxPc05jTFZ6NnZmTjYzRTB0cUJSN1E0MlA5VkNrY0FicS1STzBsUS1tWWtyX2hKOVQ5MDlqT3RsckNFcE9OdTkwVm5POFlTcGNueG5nUXdfOFZ3ZGIwVzJjaWdlSkdvX2hZeWlIbTNGSEY0LUE4VHBPd1MtMDdLQ0Y5TmhDMF9LYlJEYlZCU2wta0paaFQ0RF9MU180cTZCckJESVFxam9DaENsYkpGMXJwUkJhbTdEaGJiU0dDY0ZUV0hzeWV2XzR4Mjcxa0RIeVdlaUpZWTV0Z0lTWGoxVy1mcTJoZVUwb1ZKS2pJbmZ0U3I1TTlDTWpha2VMTFkzaDA1QTdDUlk4M2tPY2NWNnZkaENHc2VGSDhKLVh6eENNOUViRFVnRmxuQXBfQkZ4OW14LTNIbE5CYW9zZjg0Vjl6bmNXX2RJb2ZudmttYVdqMl91WVdhb3Q0b3FMZGxidEROYnV5NHVxdXRvNHZ1SFRpNUVkQm16N1U3OXlPeFBwVmxNYnJDZk5peXpMYjZVSmlsVEpnajhqd3ViVnRjRGlHc1d5YTkxUGZTVTBvQlNpTWl2endMTVNCemVpYlhpNl9kUWNqZUhGRS02QTd4di14NGdySWhsb0FIN20zOWZJaWJRRnZILXV5RVFoUHNQZGU1NW5YUg?oc=5",
+    "source": "MSN",
+    "published": "2026-01-10",
+    "keyword": "디지털교육",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [],
+    "summary": "부산디지털대 평생교육학과 행사는 평생교육의 중요성을 환기하고, 디지털 시대에 맞는 평생학습 활성화 방안 모색의 필요성을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "태즈메이니아 대학교 소개",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5nbmJ5N19DN2J4WFR0TEM5aGtVZ3JoVkc0dlNENExVYWRoaTUwaC1ZV1lTZm82TG1WZkdHSzN5RnlKZVlKdlZQTmZDdlFDNC0zNzc5am9B?oc=5",
+    "source": "IBM",
+    "published": "2026-01-10",
+    "keyword": "교육혁신",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [],
+    "summary": "태즈메이니아 대학교와 IBM의 협력은 교육 기관의 혁신적 기술 도입을 가속화하여 학생들에게 미래 지향적인 학습 기회를 제공할 수 있다는 것을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "‘디크로스 교육’ 내세운 한상경, 충남 교육감 도전",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5EaENRZkVscWdNNWVEMmU4NndjSExwMXNTZWNFRVk1R0hfR215RGIyendrc3h0Qk5faWRjMkJPbUVvTDNUNUNndUx3U3JjODU3TzZWU1FHUkZYb0JVR0tYM1RoTzQ4WF96OXZLXzln?oc=5",
+    "source": "충청투데이",
+    "published": "2026-01-10",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "한상경 후보의 '디크로스 교육'은 교육 혁신에 대한 의지를 보여주나, 구체적인 실행 방안과 현장 적용 가능성에 대한 심도 있는 검토가 필요합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [],
+  "tech": []
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "미래 교육 혁신을 위한 교육 정책 변화 모색, 디지털 교육 협력 강화, AI 활용 심화, 그리고 평생 교육의 중요성 확대 등 교육계 전반의 역동적인 변화와 발전 노력이 활발하게 이루어지고 있다."
+ }
+}

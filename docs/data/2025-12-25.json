@@ -1,0 +1,174 @@
+{
+ "date": "2025-12-25",
+ "generated_at": "2026-11-02T11:49:43+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[국제칼럼] 생성형 인공지능 시대의 진화하는 교육권",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yOU54R3lGaE9TdVNXVTZ0MlJOb1UtUUhfd0FlQVFFSVU1LVFRa3QxTHpWOG81NnNWUDBiUFFfNV9HU1NMY0dMX3NQdmlVUkQ4YUs3SWUtOVNIWVJGWnlSam5GcUczN1E?oc=5",
+    "source": "교육플러스",
+    "published": "2025-12-24",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "생성형 AI 시대에 교육은 비판적 사고 및 창의성 함양에 집중하여 AI와 공존하는 미래 인재 양성에 힘써야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "인천시교육청AI융합교육원, ‘인공지능(AI)디지털 도구활용 수업설계 직무연수’ 운영",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBidnpQMGU0eGZMZ2dFLWpQRU1wblh3UnNTUXVXcVo4MFRHMzRwOExjWXJMNkVTbDB0Mk9lMVlZeXdXQ1dSVDlldDF6UWk3YmJJd3BMaEZ4a1ZPemhJekl6eW9RblR4VmlxMDBkNVFjX1k?oc=5",
+    "source": "한국강사신문",
+    "published": "2025-12-24",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청의 AI 융합 교육 직무 연수는 교사들이 AI 디지털 도구를 활용한 수업 설계 역량을 강화하여 미래 교육 환경에 효과적으로 대비하도록 돕는 중요한 발걸음입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "\"우울·정서조절에 효능\"…마보, 앱 기반 명상효과 뇌과학적 입증",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JQWs1MWYxekJRQ29rSFlsT0hUVkVFeHU4UFlid1EyVWZiM29JblZtMGQ4RjJjaVJGd19XWjM1d1BYdk9yTWNQTEhBb3ZmNkVpYUxHMTJRRHE0TVpUcGxMc01YR0x1VzZudmc?oc=5",
+    "source": "머니투데이",
+    "published": "2025-12-24",
+    "keyword": "뇌과학",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [],
+    "summary": "앱 기반 명상이 학생들의 정서 조절 능력 향상에 기여할 수 있다는 뇌과학적 증거는 학교 현장에서 명상 교육 도입을 고려할 중요한 근거가 될 수 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "교육부 국장 인사, 절반이 고대 출신… ‘전문직 0명’ 홀대 여전",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=21580",
+    "source": "에듀프레스",
+    "published": "2025-12-24",
+    "keyword": "",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "교육부 국장 인사의 특정 대학 편중과 전문직 홀대는 교육 정책의 다양성과 전문성 약화를 초래할 수 있다는 우려를 낳습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "늘봄-유보통합-에듀테크, 파주시가 꺼낸 ′교육혁신 패키지′",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QVGdBaGh1dU5zZ0lnT2FrekVZZ3MyNTFwVFZDX3Z2SG9JRi1ockJTVXFFWGJlWGszMVNGZGR5cldwNHVuYVRmRTFIeWU3UHVHN0xqUU5femN2aC1mVkJtTQ?oc=5",
+    "source": "CNB뉴스",
+    "published": "2025-12-24",
+    "keyword": "에듀테크",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [
+     "늘봄학교",
+     "유보통합"
+    ],
+    "summary": "파주시의 교육혁신 패키지는 늘봄학교, 유보통합, 에듀테크 연계를 통해 교육 서비스의 질적 향상과 효율성을 높일 수 있을지 주목됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "서울시교육청 \"누구나 안전하게 이롭게...AI 잘 쓰는 학생이 아니라 AI 시대의 주인을 키운다\"",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE40RUVwMVJtY2FvMWVMMzdPdlhETFhqQ3Rfc0I5X1o4ZnEyRUNmbHBnYWJfSG1aMF9fWEtfajRFcmhZTUhUYm5jZUpHYTg5MWN6bEU4OE1UODNvV29aQ3MwcExLQklOZw?oc=5",
+    "source": "이로운넷",
+    "published": "2025-12-24",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "서울시교육청"
+    ],
+    "summary": "서울시교육청의 AI 교육 방향은 단순 기술 습득을 넘어 AI 시대의 주체적인 시민 양성에 초점을 맞추어, 비판적 사고와 윤리적 판단력을 함양하는 교육으로 나아가야 함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "[인사] 교육부(12.24)",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlX3Y5YjRpVE10UzBYRHB6T2VXMEQ0NFpWenMtTFdPQnlwOUtzd2ZZRHUzU3p6OXMtYzVLWmUzQzc3bGpJeWdVVks3c3RkSWtNSWMwY0YwM0kzMDQ?oc=5",
+    "source": "더에듀",
+    "published": "2025-12-24",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "교육부 인사는 정책 연속성과 변화의 균형을 통해 교육 현장의 안정적인 발전과 미래 교육으로의 전환을 모색하는 계기가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "교육부, \"AI시대 인재 경쟁력이 국가 전략자산\"…2026년 교육정책 방향 발표",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBOUktKd0oxMlFFOHNCMG9MYWpnYnZkZ0hWNmlWX0JRaThVN3Y4RjNXMm1hR2tDblFxT1JHM1RTcWU3SXMwdHBncG9UeEJUeVMyVDlZT3FCaHpXZGVlcTJhNnBYN25tdw?oc=5",
+    "source": "교육을 비추다",
+    "published": "2025-12-24",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "교육부는 AI 시대 국가 경쟁력 강화를 위해 미래 교육 체제로의 전환을 본격화해야 할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "교육부와 교육청이 함께 ‘수행평가 시, 인공지능(AI) 활용 관리 방안’ 마련",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43VjRmZHpVelQ2NDhhbGNSMjMxQ2hLVDEzdHFkbjFybmxPeExHR1JYdDk2RVUxVF94Vng0VThtRVliNmJaWVRfNkxoc2hSSUhtUkg2MTA3a2E2Q243QVp0a3pDeGptOGV2MFYtZ3BVSVk?oc=5",
+    "source": "한국강사신문",
+    "published": "2025-12-24",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "수행평가 AI 활용 관리 방안은 교육 현장의 공정성 확보와 동시에 미래 교육 방향을 설정하는 중요한 발걸음입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "경기 교육·시민단체, 민주·진보 교육감 후보 단일화 착수",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qVnBFbzV5T2dKYi1qY1pudm85N1JKSmgxdlUyQm5FTlVVWEYyYTBZb1EtVEtmbnJTNXZ2SW1fWFpTUFVVRlptQmJxaWJSRmNvODRsRHJiTTF5S0hvRnZFSTJDblh3eHJYS1ZWcmUtQQ?oc=5",
+    "source": "기호일보",
+    "published": "2025-12-24",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "교육감 선거"
+    ],
+    "summary": "교육감 후보 단일화 시도는 교육 정책의 획일화를 초래하고, 다양한 교육적 요구를 제대로 반영하지 못할 가능성이 있습니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [],
+  "tech": []
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 시대에 발맞춰 교육 혁신과 융합이 가속화되고 있으며, 학생들의 정서적 안정과 미래 인재 양성을 위한 다각적인 노력이 교육 현장에서 활발하게 추진되고 있다."
+ }
+}

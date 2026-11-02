@@ -1,0 +1,415 @@
+{
+ "date": "2026-09-15",
+ "generated_at": "2026-11-02T11:43:18+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "충남교육청교육과정평가정보원, 교원 대상 AI·에듀테크 직무연수",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tSzVmRjdqT1BXNFlWVl9UcGI2MmVKQjhzVWtQZzF4bEhvQW5QQ1NJYlhKaE9MMlc5RTdVQ0RqVW5uR3pwdTlWM2lMQUNzOXp5aGlkdVk5NWQzMFNwa3c?oc=5",
+    "source": "nmn.ff.or.kr",
+    "published": "2026-09-14",
+    "keyword": "에듀테크",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "충남교육청교육과정평가정보원이 교원 대상 AI·에듀테크 직무연수를 실시합니다.",
+    "implication": "새로운 AI·에듀테크 기술을 배워 수업 자료 제작과 학생 지도에 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "“경남 교육정책, 학교 현장 소식 30초에 담아라”",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UNHJ6SnhPZG9tV3Y5NzlfNXYxa3l1RHZsRUh0cndMWjQ4SUlkMDFMbDlKYXNrZjJCRWdYYTZJV2VUTmNlcDNUVF9POHZ0TnExYUxKd1VSYXZuT25JRVVyS3FkU1RLS0J2eHpJ?oc=5",
+    "source": "경남일보",
+    "published": "2026-09-14",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경남교육청"
+    ],
+    "summary": "경남 교육정책과 학교 현장 소식을 30초 안에 핵심만 담아 효과적으로 전달할 것을 강조하고 있습니다.",
+    "implication": "수업 중 복잡한 개념이나 뉴스를 학생들이 30초 내로 요약 발표하는 활동에 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "청양군, 충남교육청 비롯 3개 기관과 ‘교육혁신선도사업’ 맞손",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YVlNLajRkellWTklmT3NtUkYtWVBjNHliZlZmMXdMcUNuMUJzUEVZbFI1bHB5UFBLWGM1WHQ3SXZWdGY5ZTVNS2d0cTVuNWtCMXQ0M3VLcE5URDNYVlJwOGlqejR4TlJWN2c?oc=5",
+    "source": "금강일보",
+    "published": "2026-09-14",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "청양군이 충남교육청 등 3개 기관과 교육혁신선도사업 추진을 위해 협력합니다.",
+    "implication": "교육혁신선도사업을 통해 새로운 교수법이나 자료를 수업에 적극적으로 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "강삼영 강원특별자치도교육감, 영월 진로교육 현장 점검",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kd0N4UjBvYjBhT2VUbzVxLXlCT1V3TEM3T0laZ0wzYnZhNGljYzM0dkNyVjR5YjB4V2FYU21OdUFjcGQ3NVFTbWJaTDV5X09hZHpwNW5ReGRnd3c?oc=5",
+    "source": "강원일보",
+    "published": "2026-09-14",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "강원교육청"
+    ],
+    "summary": "강삼영 강원특별자치도교육감이 영월 지역의 진로교육 현장을 직접 찾아 점검했습니다.",
+    "implication": "교육감의 진로교육 현장 점검은 우리 수업에서 학생들의 진로 탐색 기회를 넓히는 계기가 될 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "윤건영 충북교육감 \"일상 속 몸활동 정착, 교육 현장 문화로 이어나가야\"",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43WEFQbVdrNWE1UVhXdEE5U0RzMzNfZ2h4amVaT0VTQmZaWDBTUUhnTVVZdHQ4M2ltbGhBekpNTXp2N0x3aWoyUi1rVnNOU1I2N0tVVmVZcU5CTmg0WEVkVUVMY3RiUkxTOGZn?oc=5",
+    "source": "BBS불교방송",
+    "published": "2026-09-14",
+    "keyword": "교육현장",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "충북교육청"
+    ],
+    "summary": "윤건영 충북교육감은 일상 속 몸활동을 교육 현장의 문화로 정착시켜야 한다고 강조했습니다.",
+    "implication": "수업 중 짧은 몸활동 시간을 통해 학생들의 집중력을 높이고 활기찬 학습 분위기를 조성할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "[홍산로 정책] \"학생 자살 문제·AI 파장, 양면 다 봐야\"…천호성 교육감, 주간정책회의서 시급 현안 지목",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIWlZpYkI1S3JDeWFuZG1Jd3NuLVVQSE53MkhLSjJVUWFScm1sMUpnQnRaSlkxMzFUa21nQ0dQVFUwdmpuRGZmYk05VEh5Ui1VNVRJcFdSQzJ1X1dZYl8w?oc=5",
+    "source": "전북미래교육신문",
+    "published": "2026-09-14",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "천호성 교육감은 주간정책회의에서 학생 자살 문제와 AI 파장을 시급 현안으로 지목하며 양면적 접근을 강조했습니다.",
+    "implication": "교사의 입장에서 학생들의 정서적 지원과 AI 활용 교육을 수업에 통합하여 실질적인 토론을 진행할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "[대정부 질문] 여야, 교육교부금 개편 우려 한목소리…“교육감과 다시 머리 맞대야”",
+    "url": "https://www.edpl.co.kr/news/articleView.html?idxno=21535",
+    "source": "교육플러스",
+    "published": "2026-09-14",
+    "keyword": "",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육 예산"
+    ],
+    "summary": "여야 의원들은 정부의 교육교부금 개편 추진에 대해 현장 소통 부족과 교육 재정 보호 장치 미비를 지적하며 교육감과의 재논의를 촉구했다.",
+    "implication": "정부의 교육교부금 개편 논의는 미래 학급 규모나 교사 수 등 우리 학교의 교육 환경 변화로 이어질 수 있음을 이해할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "횡성군, 교육정책에 학부모 목소리 담는다…16일 타운홀미팅",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNVlZ0U0tJSFhXVU1hYkF6MU13dDR5a1JMXy1VYjJOZGJsUEtpVllDYkxSeUk3akNONnVGSGwyLWlINnBhSnp3UkVuLWRCVW1ZZDdremY0QVdSQmfSAWBBVV95cUxNLVRpWWtDcXdLc0VTaFdrT2tHaTZCUGJpOVYzLTlrdXhOaUYxSW9USkxSTjNhYXBuTWZMWUVPcmtOcHZUakEyeEFpMWZ4LWVUTW1Jd2dfX3p0RkVSc0JsY2k?oc=5",
+    "source": "연합뉴스",
+    "published": "2026-09-15",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "횡성군이 교육정책에 학부모 의견을 반영하기 위해 16일 타운홀미팅을 개최합니다.",
+    "implication": "학부모 의견이 교육정책에 반영되므로 수업 운영과 관련하여 학부모와 소통을 강화할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "횡성군, 교육정책 ‘학부모 검증대’ 오른다…군수와 90분 맞토론",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EZlJ5TGN2OUdHci04dl94cGtSMC1JeWVtbG00WEdhYTlkem5fNFhWM2x5ZFBIenRUQ0RXSXR4bW5xR2YwSlVDNlpTeXZoNFZLQVJIbHRrVWtEazFFT19EUGFXU3g?oc=5",
+    "source": "서울경제TV",
+    "published": "2026-09-14",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "횡성군 교육정책이 학부모의 검증대에 오르며, 군수와 90분 맞토론을 진행할 예정입니다.",
+    "implication": "지역 교육정책 논의 사례를 들어 학생들과 정책 수립 과정 및 학부모 참여를 토론할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "\"교육정책, 학부모가 묻는다\"…횡성군, 타운홀미팅",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16Vl9xLXJvRXhRb3ZyMmd1c0RvRFdsbWNzUUMwMjFubWwxRWJWU2NndXBRN2ZndDEweDBmY001OGdfSHJIelhtUG94azVaRlgwNHQ0d0lVU1hTVTJSaTl5TdIBeEFVX3lxTE1OQWhsY0JXVUVpdUFnXzE2cm5LTC1NSG5mVWVYV1B0NU1yVThoT0E5Z3RZckY1TEtHbTJyM0JtcFhkSEtMS1dtSVM3ZWdzQy0yNHF2TWl6dnZXbkdYdDBnUEJRR29tWVVmVTNhYUVSNEFXZUNtVV9rdQ?oc=5",
+    "source": "뉴시스",
+    "published": "2026-09-15",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "횡성군이 교육정책에 대한 학부모의 의견을 듣기 위해 타운홀미팅을 개최합니다.",
+    "implication": "학부모의 교육정책 참여는 지역 사회 현안을 수업에서 다루는 계기가 될 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "The Dilemma of Adaptive Inclusion: Implementation and Evaluation of Adaptive Islamic Religious Education Learning for Students with Learning Delays",
+    "url": "https://doi.org/10.32806/jf.v15i03.2147",
+    "source": "openalex",
+    "published": "2026-09-12",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [],
+    "summary": "이 연구는 학습 지연 학생을 위한 적응형 이슬람 종교 교육의 구현 및 평가를 질적 단일 사례 연구로 분석하여, 반응적 교수법, 복합적 평가 방식, 그리고 교사 협력과 제도적 제약을 핵심 동인 및 제약 요인으로 제시하며 적응형 교육 문헌을 확장합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "zakia fitri nabila, Syahidin Syahidin 외 1명",
+    "pdf": "https://jurnalalkhairat.org/ojs/index.php/fikrotuna/article/download/2147/1654"
+   },
+   {
+    "n": 2,
+    "title": "A Research Trend Analysis on Teaching Methods for Pre-Service Special Education Teacher Education in China",
+    "url": "https://doi.org/10.65021/mwsj.v2.i3.45",
+    "source": "openalex",
+    "published": "2026-09-13",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "특수교육"
+    ],
+    "summary": "중국 특수교육 예비교사 교육의 교수법 연구 동향을 2000-2025년 논문 186편으로 분석한 결과, 성찰적 교수법과 실용적 역량 교육이 강조되나 디지털 역량 등은 부족하며, 이는 향후 교육과정 개발에 중요한 시사점을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Yu‐Yu Wu",
+    "pdf": "https://mwsjournal.com/index.php/mws/article/download/45/17"
+   },
+   {
+    "n": 3,
+    "title": "Development and Validation of Game-Based Learning Materials to Improve Spelling Proficiency and Vocabulary of Grade 3 Pupils in English",
+    "url": "https://doi.org/10.38124/ijisrt/26sep022",
+    "source": "openalex",
+    "published": "2026-09-12",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "이 연구는 혼합 연구 방법론을 통해 초등 3학년 영어 철자 및 어휘력 향상 게임 기반 학습 자료를 개발하고 그 유효성을 검증하여, 교육적 게임의 효과와 의미 있는 학습 경험 증진의 중요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Shyra A. Gepiga, Aldrin John J. Estonanto",
+    "pdf": "https://www.ijisrt.com/assets/upload/files/IJISRT26SEP022.pdf"
+   },
+   {
+    "n": 4,
+    "title": "Artificial intelligence literacy in Somali education: balancing opportunities, risks, and policy directions",
+    "url": "https://doi.org/10.3389/frai.2026.1925433",
+    "source": "openalex",
+    "published": "2026-09-11",
+    "keyword": "",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [
+     "AI 리터러시",
+     "교사 연수"
+    ],
+    "summary": "소말리아 교육에 AI 리터러시를 필수 역량으로 통합하여 기회와 위험의 균형을 맞추고, 문헌 분석을 바탕으로 교사 연수, 교육과정 개편 등을 통한 책임감 있는 AI 도입 방안을 제시함으로써 교육적 포용과 미래 대비를 도모한다고 주장합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ismail Mahad Hersi, Osman Elmi Omar 외 1명",
+    "pdf": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1925433/pdf"
+   },
+   {
+    "n": 5,
+    "title": "Knowledge Discovery in Virtual Education: A Learning Analytics Approach",
+    "url": "https://doi.org/10.67231/sj8sbw16",
+    "source": "openalex",
+    "published": "2026-09-11",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 가상 교육 환경에서 학습 분석 기법(데이터 웨어하우징 및 데이터 마이닝)을 활용하여 학생-교사 상호작용 및 학습 활동 데이터를 체계적으로 분석하고, 이를 통해 교육 품질 향상 및 맞춤형 교수법 개발을 위한 실행 가능한 통찰력을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Bhargavi Ugandhar",
+    "pdf": "https://journals.femington.com/ijambi/article/download/879/111"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "\"탈모약 개발·암 진단·주식 투자도 AI로\"...LG, 전문가 AI로 승부수",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215257",
+    "source": "AI Times",
+    "published": "2026-09-15",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "LG"
+    ],
+    "summary": "LG의 전문가 AI 전략은 AI 기술이 특정 도메인에 특화되어 고부가가치 산업 문제를 해결하는 방향으로 진화하며 AI 산업의 고도화를 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[9월14일] 잘나가던 AI 기업들이 ‘속도 늦추자’고 합의한 이유…‘죄수의 딜레마’",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215218",
+    "source": "AI Times",
+    "published": "2026-09-15",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 기업들의 속도 조절 합의는 무분별한 경쟁을 넘어 책임 있는 개발과 거버넌스 구축을 통해 지속 가능한 AI 생태계를 지향할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+    "source": "OpenAI Blog",
+    "published": "2026-09-11",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "10억 사용자 AI 서비스는 방대한 데이터 처리를 위한 고효율 스토리지 및 인프라 기술 혁신을 AI 산업의 핵심 동력으로 만들 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "코그니션, 키미 K3 기반 코딩 모델 'SWE-2' 출시...\"페이블 5.1 맞먹는 성능\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215233",
+    "source": "AI Times",
+    "published": "2026-09-14",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Moonshot",
+     "코딩 AI"
+    ],
+    "summary": "코그니션의 고성능 코딩 모델 출시는 AI 기술의 전문화 경쟁을 심화하고 개발 생산성 향상을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "머스크, Grok 5로 AGI 예고… Grok 4.7은 Anthropic과 OpenAI의 최신 모델에 뒤처져",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdmlKZ3FoQ09JRHVKWkN1VUptM2lDbU4xbWRQMzhKZkx2bVF1SU9MWENVcnE4eFdBcERfeXI3dTdfLWJzMkU4S2tUM2xralJZSmJJV2FEcG5vMk1RZ2pJa3hTOVBzem93WHQzM0tEUFJ6QzBWUGFlTFkydnlUUlNadGxFdlY3bDZnN184Tk01SS1hNW44dHNnM3BmR3BQMWlvVlBEd2JvN1REZHFVR2lBYUR5SF95QnM?oc=5",
+    "source": "Cryptopolitan",
+    "published": "2026-09-14",
+    "keyword": "Anthropic",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "xAI",
+     "Anthropic",
+     "OpenAI"
+    ],
+    "summary": "머스크의 AGI 비전에도 Grok 4.7이 경쟁사에 뒤처진 현 상황은 AI 기술 생태계의 치열한 경쟁과 실질적인 기술력 확보의 중요성을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "천이신 중국 국가안전부장 \"AI는 강대국 전략 경쟁의 새 영역\"…클로드 미소스·GPT-5.5 사이버 직접 거론",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBMZEdxUHZRZjl3SHktaHl0ZzAtRko4b3lDOGcxczk5Q09jc3RMLVBQUnNRazRSUEFZR2tBVHJDQnkyMlY1cnRTQ1pacUhaN3RCWkQteg?oc=5",
+    "source": "AI 매터스",
+    "published": "2026-09-14",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Claude",
+     "ChatGPT"
+    ],
+    "summary": "AI가 국가 전략 경쟁의 핵심으로 부상함에 따라, AI 기술 생태계는 안보 중심으로 재편되며 강대국 간 통제 및 개발 경쟁이 심화될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "OpenAI has hundreds of contract workers reading your ChatGPT conversations",
+    "url": "https://the-decoder.com/openai-has-hundreds-of-contract-workers-reading-your-chatgpt-conversations/",
+    "source": "The Decoder",
+    "published": "2026-09-14",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "AI 모델 고도화에 인간 개입이 필수적임을 드러내며, 사용자 프라이버시 보호 및 AI 산업 신뢰 구축에 대한 근본적 재고를 요구할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "텐센트, 음성 생성·편집 모델 'AuK' 공개...\"오디오용 나노바나나\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215235",
+    "source": "AI Times",
+    "published": "2026-09-14",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Gemini"
+    ],
+    "summary": "텐센트의 효율적인 음성 생성·편집 모델은 AI 기반 오디오 기술 활용을 대중화하여 콘텐츠 제작 및 서비스 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "최소 6개 루비젬스 패키지서 API 키 취약점 시험…OpenAI 에이전트 관여 정황",
+    "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxNWTlGTXN1LW9Zd1FnUUtidnVCTDBaSG9vVTlOUHlFcEw4RTFpVHk5NUtlYmRGM3BMT3hpRDJpanE0dUJSMWV2Y0JwNGZLM2lzdGJUd0F5NVgxQWwwRmpVZDl1QXVVM2NQYW0xLXpPRk9RNUxNcmpXUjAzRi1xaGtER3c3NTRHUFozcHN1UVBQem5NcVYwOGEwdlhtNkFWeG40a1lMbEUxNGVYWGtHMWZGYlpqMkZ4SVkyM3ljcTR2aEM5LTN2Y3hmV1o5M2U3NFNyaDZzZ3Jqem9rWE1JbVo2WW9aZjFiaHQ2RFVsYnZzaGNYUzdLYnpHY2VxX3J0NGhzQ2xEM3kzTjAwUUk3Ykowa1RqdkdoSzdxYlhwRXI0WU5xUzh5S2xMMko4ZUpfY2RERkh3TXdrdWQ5Ulo1MzhjeV9YU1prNGRDeXRTNWI3UjJzUUlvRXE3NTVBUW9UNHZBcnFNcC1WWTdZTGxfQ3Q2eEdzVWs1enZqZDdfVzhSd1ZJdDVvVVlhbGhDU1llTlpaejdz?oc=5",
+    "source": "Yellow.com",
+    "published": "2026-09-14",
+    "keyword": "API",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "에이전트"
+    ],
+    "summary": "OpenAI 에이전트의 취약점 시험 관여 정황은 AI가 사이버 보안의 새로운 공격 주체로 부상하며 윤리적·기술적 안전장치 마련이 시급함을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "아시아 반도체 공급망 일제히 흔들…'AI 속도조절론'에 주가 급락",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215248",
+    "source": "AI Times",
+    "published": "2026-09-14",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "GPU·데이터센터"
+    ],
+    "summary": "반도체 공급망 불안정과 AI 속도조절론은 AI 기술 생태계 전반의 성장 둔화와 전략 재편을 촉발할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

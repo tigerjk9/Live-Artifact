@@ -1,0 +1,417 @@
+{
+ "date": "2026-09-10",
+ "generated_at": "2026-11-02T11:43:01+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "도성훈 인천교육감 “지방교부금 개편안, 교육현장 위기 초래”",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JLUNrV1UtRGlrNTAtb2ZDLUtWaW1haEZMLVpIYmZBbE5Ga21zbHdqR0NlTnFiaWQ1YmZZWTd5UFBPRVFwcHBiTWNTb192R1RWdHh5UHJOTWtXam02N2RqbVdtS0kxS1lV?oc=5",
+    "source": "녹색경제신문",
+    "published": "2026-09-09",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청",
+     "교육 예산"
+    ],
+    "summary": "인천교육감은 지방교부금 개편안이 교육현장에 위기를 초래할 것을 우려했습니다.",
+    "implication": "지방교부금 개편으로 인한 예산 변화는 수업 자료 활용 및 활동 계획에 영향을 미칠 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "도성훈 인천시교육감 “학령인구 중심 교부금 개편, 교육현장 수요 반영 못해”",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LWkZvRFpPMS1IQ25VV09fN09hMnFvbnVjcUlxN2FpTEIzajQ4aUl2ZEtiSnFRZktqWWFBai1kV2NmaUFnTFNpT1hKa19GVnRhRkF0c1l0QUhURmpBX0t4UXF5S19qcDdGN2swQlRfdjjSAXRBVV95cUxQNmNsSGtQTHRTcUVkY2VEQ0xpRXRGUnBiSUpNUGk3N2lENUlSSEh1VzB2Xy1QRnpwb1ZwNFhzOEp1QkR3YmtISGhpTnB0aDhqTFVMMUVuZno1UmFJUEFoMnBQd0FoZ05BNTc3WDJoY0J5TjE4Mw?oc=5",
+    "source": "포인트데일리",
+    "published": "2026-09-09",
+    "keyword": "AI디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청",
+     "교육 예산"
+    ],
+    "summary": "인천시교육감은 학령인구 중심 교부금 개편이 교육현장 수요를 반영하지 못한다고 지적했습니다.",
+    "implication": "교육 예산 정책이 우리 학교 수업과 학생들에게 미칠 영향을 학생들과 함께 토론할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "대전시교육청·대전시, 교육혁신 협력체계 가동",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5wbk5haGN4UVpOQ1V0WXpNZllTNXlqaUUyQlljNFBIVnJZQTJDWllXN3Vicm1NcE4zQy1pTFBOYktseS1zWmxRcGF4Zlo?oc=5",
+    "source": "아이뉴스24",
+    "published": "2026-09-09",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "대전시와 교육청이 교육 혁신 협력체계를 가동했습니다.",
+    "implication": "교육혁신으로 새롭고 다양한 수업 자료나 프로그램 활용이 가능해질 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "안민석 교육감, 청림중학교에서 RAS 경기 문예체 교육 현장 살펴",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvVk42dG5vbjRlc1VEYkh5aDd5V3lvRDEtMTAzaF9LNkZxWU0yTXhfeUVVbXd1OTk0cW4xc0k1SlRabVk4enlyUlMwNFp2a1ZaTHJmMVFkbmZqTnhvdjZ3TTZHV01YcUFJNV9maNIBbEFVX3lxTFBvVk42dG5vbjRlc1VEYkh5aDd5V3lvRDEtMTAzaF9LNkZxWU0yTXhfeUVVbXd1OTk0cW4xc0k1SlRabVk4enlyUlMwNFp2a1ZaTHJmMVFkbmZqTnhvdjZ3TTZHV01YcUFJNV9maA?oc=5",
+    "source": "광교신문",
+    "published": "2026-09-10",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "안민석 교육감이 청림중학교의 RAS 경기 문예체 교육 현장을 살폈다.",
+    "implication": "교육감의 관심 분야인 문예체 교육을 수업에 연계할 기회가 많아질 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "IB 학교 이야기(16)IB 월드스쿨 인증 기념식, 농촌학교의 기적에서 희망으로",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vLXlaanVZRWpsVnhxNVdwRXFURDBxNXd6OThMaUk2cnVKVkpOQWtGbDhJOWdDY0doalc3TnpST0ZUeU1tX2lwNWtaaGUwVmtTTFNUem5FbUZ3Umpaa09hWGtnTmpRem9TazZ3?oc=5",
+    "source": "전북도민일보",
+    "published": "2026-09-09",
+    "keyword": "수업이야기",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "IB"
+    ],
+    "summary": "농촌학교가 IB 월드스쿨 인증 기념식을 통해 기적과 희망을 이야기합니다.",
+    "implication": "농촌학교의 IB 인증 사례를 통해 학생들에게 환경에 구애받지 않는 성장의 가능성을 제시할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "경남교육청-야마구치현, 29년 교육교류 미래교육까지 넓힌다",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90b3hzNEFmbm1lalpTc3BGTUc5dUIwdlVuV0FDcGVGeDVqcU43Tlo5NXpQVUlvYUh2SkhKMy1yaTBoRjRLSU03SXlndjY3NzQzS1pSWDNXUmZFUDJ0Mm9LVVNoWV9sZHVjX1HSAW5BVV95cUxNRjYzOW1XalJ4SllyT0pNelo1V2RLa2Y0SGpsN09EQWdqSVZHLW9wVWwtaWVqTzMzZTRtSlhtdzA5Q2xxU2hhMG1wamQ5WnVFTlNVUENGZHBvRFN2WEZSRmp4MkNpMUN3UUxZSjlWUQ?oc=5",
+    "source": "경남탑뉴스",
+    "published": "2026-09-09",
+    "keyword": "교육정책",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "경남교육청"
+    ],
+    "summary": "경남교육청과 야마구치현이 29년간 이어온 교육교류를 미래교육 분야로 확대합니다.",
+    "implication": "미래교육 교류를 통해 다른 나라의 혁신적인 교육 사례를 수업 아이디어로 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "“교실 밖으로 나온 교사들”…몽당분필, 시니어·해외·AI교육 잇는다",
+    "url": "https://www.edpl.co.kr/news/articleView.html?idxno=21494",
+    "source": "교육플러스",
+    "published": "2026-09-10",
+    "keyword": "",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "현직 교사 커뮤니티 몽당분필이 시니어 AI 교육, 해외 교육봉사 등 교사 주도형 교육 나눔을 확장하고 있습니다.",
+    "implication": "몽당분필이 개발한 K-놀이 등 교육 콘텐츠를 활용하여 다양한 배경의 학생들을 위한 수업을 구성할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "정미라 교육정책디자인연구소 공동소장, 국교위 비상임위원 위촉",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wTlIxeXZkRzhaNzM2Qk9YZjk0WnVCNmFZZHB6RWhGbGpZcEo3VVk4QV8xa0l4cWgtNk9UNVNPVVAzNjQtRFpfMVl4cTgyWmo4dGR5TDMtTDlwMnVzcEFzWGdRdzRnUWc?oc=5",
+    "source": "교육플러스",
+    "published": "2026-09-09",
+    "keyword": "교육정책",
+    "topic": "global",
+    "kind": null,
+    "entities": [],
+    "summary": "정미라 교육정책디자인연구소 공동소장이 국교위 비상임위원으로 위촉되었습니다.",
+    "implication": "국교위 인사를 통해 다가올 교육 정책 변화 방향을 미리 예측하여 수업에 대비할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "세종시 학부모들, 학교급별 목소리 교육정책에 전달",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YRVp0WVh6eFRjRWRxZE1hTzI3VVgwZ0lnMTFQanp2VzFmbTNFUUJ1dWJJd0ljTy1nemI4TEZSMVNmVG5YLUUwQ2VEdWs0T21zRXhhX3QxLVZxVVdMV0wwcklMaFJsTEdzaURybFM2WlUtdw?oc=5",
+    "source": "굿모닝충청",
+    "published": "2026-09-09",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "세종시 학부모들이 학교급별로 교육정책에 대한 자신들의 목소리를 전달했습니다.",
+    "implication": "학교급별 학부모의 교육정책 관심사를 통해 학생의 발달 단계별 필요를 이해할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "[위클리오늘] 강원도교육청, 학부모회협의회와 교육정책 소통",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5iNUpVVlowNmVKWWRfSHZGM2x1NVdVRGdmMzJtcUhhTFd5RWRxLW90N2ZmZTZiekxVdlQ1ZG9TOWRrVDJzQUJKWlZndUh4eUlDUVV6ZkJ6T0dvaDAyNG9VdlpHS1BvT2pWOFhObUFR?oc=5",
+    "source": "위클리오늘",
+    "published": "2026-09-09",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "강원교육청"
+    ],
+    "summary": "강원도교육청이 학부모회협의회와 교육정책에 대해 소통했습니다.",
+    "implication": "교육정책 수립 과정에서 학부모 참여가 학생들에게 어떤 영향을 미치는지 함께 탐색하는 수업 자료로 활용할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Technology-Based Islamic Religious Education Learning Strategies in Improving the Religious Competence of Learners",
+    "url": "https://doi.org/10.63605/ln.v3i3.133",
+    "source": "openalex",
+    "published": "2026-09-08",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "TPACK 프레임워크 기반의 문헌 연구를 통해 기술 기반 이슬람 종교 교육 학습 전략이 학습자의 인지, 정서, 심동적 종교 역량을 효과적으로 향상시키고 교육 혁신을 위한 교사 역량 강화의 중요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Lukman",
+    "pdf": "https://linguanusa.com/index.php/1/article/download/133/88"
+   },
+   {
+    "n": 2,
+    "title": "Examining AI-Enhanced Bilingual Scaffolding in Educational Technology English: Evidence from a Quasi-Experimental Study",
+    "url": "https://doi.org/10.24239/8p1wbs54",
+    "source": "openalex",
+    "published": "2026-09-05",
+    "keyword": "edtech",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "인도네시아 대학생 대상 준실험 연구를 통해 AI 강화 이중 언어 비계가 학생 참여 및 고차원적 학습 능력 향상에 효과적임을 밝히고, 교육 분야에 활용할 AI 공동 비계 모델을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Andi Asrifan, La Sunra 외 1명",
+    "pdf": "https://deejournal.org/index.php/dee/article/download/158/103"
+   },
+   {
+    "n": 3,
+    "title": "A primer on critical constructivism and its relevance to medical education",
+    "url": "https://doi.org/10.1007/s44217-026-02141-1",
+    "source": "openalex",
+    "published": "2026-09-08",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 비판적 구성주의 이론을 의학교육에 소개하며, 학습자의 능동적 지식 구성을 사회문화적 맥락에서 비판적으로 고찰하여 AI 등 첨단 기술을 활용한 교육 설계 및 실천을 위한 이론적 틀을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Homaira M. Azim, Ryan Y. Lee 외 1명",
+    "pdf": "https://link.springer.com/content/pdf/10.1007/s44217-026-02141-1.pdf"
+   },
+   {
+    "n": 4,
+    "title": "Cultivating cross-border e-commerce talent through China's \"1+X\" certificate system: restructuring business English curricula in applied undergraduate education",
+    "url": "https://doi.org/10.54254/3049-7248/2026.36627",
+    "source": "openalex",
+    "published": "2026-09-08",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "중국 \"1+X\" 비즈니스 영어 교육의 산업 연계 부족 등 시스템적 문제를 학생 및 교수 설문조사로 확인하고, 국경 간 전자상거래 자격증을 활용한 교육과정 재편을 통해 학술-직업 자격 연계 프레임워크를 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Cuiping Han",
+    "pdf": "https://jeeps.ewapub.com/article/view/36627.pdf"
+   },
+   {
+    "n": 5,
+    "title": "Voices from the Virtual Classroom: Aspirations, Struggles and Transformations of Online M.Ed. English Students in Nepal",
+    "url": "https://doi.org/10.3126/seltal.v3i3.97688",
+    "source": "openalex",
+    "published": "2026-09-07",
+    "keyword": "Connectivism",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "네팔 온라인 영어교육 석사과정 학생들의 경험을 질적 내러티브 연구로 분석하여 초기 어려움에도 불구하고 디지털 역량이 향상되었음을 밝히며, 이는 온라인 교육 환경 개선과 기관 지원의 중요성을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Guru Prasad Poudel",
+    "pdf": "https://www.nepjol.info/index.php/seltal/article/download/97688/74113"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "[9월9일] 소비자 시장서 구글에 추격받던 오픈AI, GPT-5.6 이후 다시 격차 벌렸다",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215023",
+    "source": "AI Times",
+    "published": "2026-09-10",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Google",
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "오픈AI의 GPT-5.6 기술 혁신은 AI 산업의 경쟁 심화와 빠른 기술 발전 주기를 더욱 가속할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "엔비디아, GPU 커널까지 러스트로 개발하는 ‘CUDA 러스트’ 공개...안전한 AI 인프라 구축",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215062",
+    "source": "AI Times",
+    "published": "2026-09-09",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "GPU·데이터센터",
+     "AI 안전·규제"
+    ],
+    "summary": "엔비디아 CUDA 러스트는 AI 인프라의 핵심인 GPU 커널 개발의 안전성과 신뢰성을 대폭 향상시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "OpenAI, 칩 설계 모델 출시하며 오픈소스보다 비용 효율성이 높다고 주장",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWnJabGRKYkVwdW90V21YX0Z1V3ZGd254bVhHTU5zLTBmM2puVTZUaHBkcGxvNWFyMWowRFpnVk1iZzNPeFBVTm9VQ3piUmhpWWtxZW1QdUpyWFlLN0YtVlNidTRzamk5VUJMODNYQ2ZoY1hEYWVHVFhJVi1xdnp2MXdUTWdudjRDNmNaeUZpcmRMQ2RTTDNiM1JibEMtaFF4SWFFWk5IRzZ3Zw?oc=5",
+    "source": "Cryptopolitan",
+    "published": "2026-09-09",
+    "keyword": "오픈소스",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "오픈소스"
+    ],
+    "summary": "OpenAI의 칩 설계 모델은 AI 개발 비용 효율성을 높여 AI 산업 전반의 하드웨어 최적화 경쟁을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "오픈AI 신모델 Flare·Sunburst, 챗GPT선 선택 못하고 API에서만 지정",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5qdklXSl9tbGMxVmJ3bEZZaXBSLWxyOUpYNUNXQ3VVQVJfamhINGZYOWZfOGNlb0hFVm1UNkNpQnlUelZjTFZHQUV6OW5IT0p5T2QyNEZR?oc=5",
+    "source": "위키트리",
+    "published": "2026-09-09",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "오픈AI의 API 전용 신모델 출시는 개발자 생태계를 통한 AI 기술 확산과 새로운 서비스 탄생을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "전 세계 농가 생성 AI 도입 급증…불황 속 17%가 필수 도구로 채택",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215063",
+    "source": "AI Times",
+    "published": "2026-09-09",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "불황 속 농업 분야의 생성 AI 필수 도구 채택은 AI 기술의 보편적 효용성을 증명하고 신규 시장 확대를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "Anthropic은 AI계의 AWS다: 왜 최첨단 지능을 기업 AI의 기본 인프라로 만들 수 있는지",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Ldmh3alZEYkhUQVpDNGNYZmZpNURlWm5JOVpNTkQ0MkVxX0dVanZaSjVubkVReTNRTm9QcEdkajZmakFQa08zT0NTR2ZGaXhxQzVXZHF5S1RUZ2tW?oc=5",
+    "source": "深潮TechFlow",
+    "published": "2026-09-09",
+    "keyword": "Anthropic",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Anthropic"
+    ],
+    "summary": "Anthropic이 최첨단 AI를 기업 인프라로 제공하는 것은 AI 기술 생태계가 클라우드 컴퓨팅처럼 표준화되고 보편화될 것임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "오픈AI, ‘챗GPT 이미지 2.5’ 공개…이미지 생성 속도 최대 50% 빨라졌다",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUam40QXpXMjdVbWxPT2pwckxIZ2trdmxra2JOazQ0VmJOUlEtX2p3MlVXck1Ca2ctOGRuV1JVclYwMlJya1did2dpX1BIanZLY05uRURzSXkwazZmS0REUXd4MHVLVVk?oc=5",
+    "source": "인공지능신문",
+    "published": "2026-09-09",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT",
+     "영상·이미지 생성"
+    ],
+    "summary": "이미지 생성 속도 향상은 AI 활용 문턱을 낮춰 산업 전반의 AI 도입을 가속화하고 시장 경쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "코난테크 \"AI ROI 체감 못하는 이유는...워크플로우·KPI 뜯어 고쳐야\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215067",
+    "source": "AI Times",
+    "published": "2026-09-09",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 기술 생태계는 단순 도입을 넘어 기업 워크플로우 및 성과 지표 혁신을 통해 실질적인 ROI를 증명해야 지속 성장할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "엔비디아, 오픈소스 AI 플랫폼 '허깅페이스' 129억弗에 인수… 역대 최대 규모",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OanBqWDZGcVhJWjhzMXJ1aXVaLXRPNm9RWjJ2WlprT3NqY3Y1bDJHd1ZXUEVCRXlFNlE3VWx2VTFObTBJZk9oXzFkSjhWSnVXM014ag?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-09-09",
+    "keyword": "오픈소스",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "오픈소스",
+     "Hugging Face"
+    ],
+    "summary": "엔비디아의 허깅페이스 인수는 AI 하드웨어-소프트웨어 수직 통합을 심화하며, 개방형 AI 생태계의 향방과 산업 경쟁 구도에 결정적 영향을 미칠 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "연구진, OpenAI 에이전트를 새로 확인된 12개 사이트와 연관 짓다",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSVduUnhmLURSdVktd21DbnZRYjlrZnpBQWswYXRzZjV2UDMyZWR2ckRsNEZCWHNZY3ZBYjFCT3BVMWFvMWNhenNONXh4amdlOFZ2RVJ1YjZDdzZOWHpnUmZ1M1NzZzc3WEMxUjBWZkFLeWVuUHNHeWZ0Nm9teDVtLUF6OXJyTnhPOVc4?oc=5",
+    "source": "Unite.AI",
+    "published": "2026-09-09",
+    "keyword": "AI도구",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "에이전트"
+    ],
+    "summary": "OpenAI 에이전트의 데이터 수집 활동은 AI 산업 전반의 투명성과 윤리적 데이터 활용 기준 마련을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

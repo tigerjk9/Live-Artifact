@@ -1,0 +1,423 @@
+{
+ "date": "2026-05-02",
+ "generated_at": "2026-11-02T11:35:49+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[발행인사설] 교육감 직선제, 아이들 교육 위해 이제 끝내야 한다!",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1bXE1U3A3UUxvSTFUdjdhUFlWQmtjVElwc3NRR2tCa01WQVc5a3R6NHg2VzZLS0dDNzlFLVJ5S0J4WjVTQ3dsWHBWRkMzc0JMOWVzRGpUNEF4TGx5cko5bFAweGYyZXZKMjd1RdIBbEFVX3lxTFB1bXE1U3A3UUxvSTFUdjdhUFlWQmtjVElwc3NRR2tCa01WQVc5a3R6NHg2VzZLS0dDNzlFLVJ5S0J4WjVTQ3dsWHBWRkMzc0JMOWVzRGpUNEF4TGx5cko5bFAweGYyZXZKMjd1RQ?oc=5",
+    "source": "NGO Press",
+    "published": "2026-05-01",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 2,
+    "title": "“교복 담합·학원비 꼼수 인상 손본다”…교육부, 교육 현장 비정상 관행 개선",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fOXJ1UzZSRGtfWUcta0lNUTBFalJZM2hNMWZEWGpXbUo4LTJMNU43VmZMdGwwQ01RNmM5a1E3d2NuRmIwREt6aEpSR0wxUVRFNWEtVTZn0gFWQVVfeXFMTl85cnVTNlJEa19ZRy1rSU1RMEVqUlkzaE0xZkRYaldtSjgtMkw1TjdWZkx0bDBDTVE2YzlrUTd3Y25GYjBES3poSlJHTDFRVEU1YS1VNmc?oc=5",
+    "source": "피앤피뉴스",
+    "published": "2026-05-01",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 3,
+    "title": "경기도교육청, AI·진로·직업교육 전방위 강화… 미래교육 체계 전환 가속",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CZ3d5QWNjdW9zQm9iSEhjVENUNk5sMHNPWDdVbXRhb3NRSTdJYm9neG5tNjZNVGV1QS03aEFnbVpzdWd3NG03NDhGZ21uOFZ5TGdUOFJ2Ymw4OFBjM01EaHpiLUZtM2JSTUE?oc=5",
+    "source": "천지일보",
+    "published": "2026-05-01",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 4,
+    "title": "경기도교육청, 예술과 감성 잇는 ‘미래형 수업디자인’가동",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuTWJ2T1dLR2dVU0NiSjhkTXpva2d6eHAycjJEODdQZHZjaFVLQUFXRF9ENHJIYVdnSDhzTnRaaHhWTVhlWmVHRlZsTXdCOVR5cnI0bWFqWnFGZU9HSVNGWTdoZ2daMTR0UWJkT1pR?oc=5",
+    "source": "의왕미디어저널",
+    "published": "2026-05-01",
+    "keyword": "에듀테크",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 5,
+    "title": "[지선 D-30]세종시교육감 6인 격돌…최교진 공석 '변수'",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNalgtOFpMV01EQ1hVYkVHd1BScXoxeVd4Z0JUbjJLQThzQ0p1d3dHbDEwQ0FyMXVhdFBrd1RobkF4VUw0MDZoSkFPSE9VZHltUzJDeHYxMERaUHBzVmhzQzdzRlJJeGp1ZmR3T1o5d3NER2ZwYkZQZDZjV3hQc0hFRkR3?oc=5",
+    "source": "스포탈코리아",
+    "published": "2026-05-01",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "세종시교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 6,
+    "title": "맞손잡은 툰스퀘어-정화예술대학교, \"차별화된 생성형 AI 기반 콘텐츠 교육 진행\"",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBGOHZ5NGIzV3JsRzhWWjhBT3M0dWxDc3I0Uy1pSmNhQU9RZWlNcjhlc2hESS1neGFQa29kVHF5a2lSMURDS0E?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-05-01",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 7,
+    "title": "최교진 교육감, \"세종시교육청 교육예산 1조원 시대\"",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5RcmxjT19USnM4bll1TzdtdFVmMkNxcnhuMnJkWDlHMHZaWlZIbHdiSXQwVk40ZDJ5XzR5Y19LZ0JIdnJ1OXhDa2JSRFlReDZwQ1lGOEVjOUpfaHFYQjJBb0NDYVdoRlhp?oc=5",
+    "source": "뉴스티앤티",
+    "published": "2026-05-01",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "세종시교육청",
+     "교육 예산"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "인핸스, CommerceOS를 AgentOS로 변경…기업용 에이전틱 AI 전 산업 확장",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9LWjBMWUxBVGladEhkbXdlaWg2U2x2bW9mNkJ1aUtqY2tvNlRDNkU0OVZ1UjVkVFRlcmFRa1R4VS10VVVlY1c2RGM4c1NTYXJnWW44b3BuZjRLV0dBVFF3aGFzYTgxdVdaakhRUg?oc=5",
+    "source": "뉴스탭",
+    "published": "2026-05-01",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "WD, 낸드 분사 후 ‘HDD 집중’ 전략 통했다… “AI 에이전트가 데이터 저장소 키운다”",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5abHNBRWMzYndDb3RwTmw4cU9talVEU0FILVR6ZWFpUl9JNjV1YXd6Z2tNUWI3aEllNkNLSjU1bWIxV2FmX0Rwb3o3WDhNb0hLZmVsS1FSWWM5NFEzT0NSSTRlTEI?oc=5",
+    "source": "디지털데일리",
+    "published": "2026-05-01",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 10,
+    "title": "[데이터 사건파일] 생성형 AI 보안 사고 86% 경험, 거버넌스 부재가 부른 기업 데이터 위기 총정리",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaaDB2eXdxbm9EVVBtNjdCWWNBTzQxdWYwekt4aUVIbDJlTTBhNXl4TGphYjhsakkxTG9BVUYwWHRSVGNGWnhoRUNBT1lqX21jRUxDZk9rSmJ1QXR4NGpFeGpsTkJLNjRySTkycE1jc3I?oc=5",
+    "source": "한국데이터경제신문",
+    "published": "2026-05-01",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Teachers&apos; Perceptions of Social Emotional Learning: Concepts, Barriers, and Administrator Support",
+    "url": "http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&res_dat=xri:pqm&rft_dat=xri:pqdiss:30489012",
+    "source": "eric",
+    "published": "2023-01-01",
+    "keyword": "SEL education",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 사회정서학습(SEL) 우선 학교 교사들의 SEL에 대한 인식, 장벽, 행정 지원 필요성을 질적 사례 연구를 통해 조사하여, 교사-행정 관계 개선, 맞춤형 연수, 공정한 커리큘럼 제공이 SEL 실행과 교사의 SEL 역량 강화에 중요함을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Sooknanan, Nicole",
+    "pdf": "http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&res_dat=xri:pqm&rft_dat=xri:pqdiss:30489012"
+   },
+   {
+    "n": 2,
+    "title": "Female Secondary Students&apos; and Their Teachers&apos; Perceptions of Science Learning Environments within the Context of Science Education Reform in Saudi Arabia",
+    "url": "http://dx.doi.org/10.1007/s10763-018-09946-z",
+    "source": "eric",
+    "published": "2019-01-01",
+    "keyword": "",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [],
+    "summary": "사우디아라비아 과학 교육 개혁 맥락에서 여학생과 교사의 과학 학습 환경에 대한 인식을 혼합 연구 방법으로 조사한 결과, 교사들은 구성주의적 교수법을 지지하며, 이는 사우디 과학 교육 환경 변화와 여학생들의 메타인지 학습 성향 향상에 기여할 수 있음을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Kim, Sun Young 외 2명",
+    "pdf": "http://dx.doi.org/10.1007/s10763-018-09946-z"
+   },
+   {
+    "n": 3,
+    "title": "A Phenomenological Study: The Lived Experiences of Uncertified Bilingual Teachers in Dual Language Elementary SChools at a Mid-Sized Urban Public-School District in Texas",
+    "url": "https://digitalcommons.liberty.edu/doctoral/8265",
+    "source": "openalex",
+    "published": "2026-04-29",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "텍사스의 중소 도시 공립학교에서 이중 언어 교육을 하는 미자격 교사들의 경험을 해석학적 현상학 연구를 통해 분석하여 학생 적성, 동기, 언어 장벽, 교사 준비, 문화적 연결 등의 주제를 도출하고, 이는 교육 생산성에 영향을 미치는 요인들을 밝혀 교육적 시사점을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Jeini Gordon",
+    "pdf": "https://digitalcommons.liberty.edu/context/doctoral/article/9324/viewcontent/94_Gordon_2C_20Jeini_20_28L34113077_29.pdf"
+   },
+   {
+    "n": 4,
+    "title": "WTF? Feminist Pedagogy and 3D Printing in a Preservice Virtual Field Experience",
+    "url": "http://dx.doi.org/10.1080/15505170.2020.1835756",
+    "source": "eric",
+    "published": "2022-01-01",
+    "keyword": "pedagogy",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "예비 교사들이 3D 프린팅을 활용한 페미니스트 교육과정을 개발하고 실행하는 협력적 가상 현장 경험을 통해 성차별 해소에 기여하는 진보적인 교육 변화를 모색합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Motter, Jennifer 외 4명",
+    "pdf": "http://dx.doi.org/10.1080/15505170.2020.1835756"
+   },
+   {
+    "n": 5,
+    "title": "Learning with AI: The K-12 Teacher's Guide to a New Era of Human Learning",
+    "url": "https://my.nsta.org/resource/132559",
+    "source": "eric",
+    "published": "2024-01-01",
+    "keyword": "educational AI",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "\"Learning with AI\"는 K-12 교사들이 AI를 활용하여 수업을 혁신하고 학생들의 학습 경험을 풍부하게 할 수 있도록 AI 도구 활용 전략과 지식을 제공하는 실용적인 가이드 역할을 합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Joan Monahan Watson",
+    "pdf": "https://my.nsta.org/resource/132559"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "[4월30일] GPT-5.5의 ‘고블린’ 논란…AI는 왜 엉뚱한 말을 하게 됐나",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=209975",
+    "source": "AI Times",
+    "published": "2026-05-01",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "AI 안전·규제"
+    ],
+    "summary": "GPT-5.5 '고블린' 논란은 AI 모델의 예측 불가능성과 제어의 어려움을 보여주며, AI 안전성 및 윤리적 책임에 대한 논의를 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "Google Deepmind's \"AI co-clinician\" beats GPT-5.4 in blind doctor tests but still trails experienced physicians",
+    "url": "https://the-decoder.com/google-deepminds-ai-co-clinician-beats-gpt-5-4-in-blind-doctor-tests-but-still-trails-experienced-physicians/",
+    "source": "The Decoder",
+    "published": "2026-05-01",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "ChatGPT"
+    ],
+    "summary": "AI 코클리니션의 발전은 의료 AI 가능성을 보여주지만, 숙련된 의사 수준 도달에는 시간이 더 필요하며, 의료 현장 도입 시 인간 전문성의 보완적 역할이 중요할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "머스크, 소송서 오픈AI 모델 '증류' 시인...판사는 \"AI 종말론 거론하지 말라\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210012",
+    "source": "AI Times",
+    "published": "2026-05-01",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "xAI",
+     "저작권·소송",
+     "OpenAI"
+    ],
+    "summary": "머스크의 오픈AI 모델 '증류' 시인은 AI 기술 경쟁 심화 속 윤리적 책임과 기술 탈취 논란을 야기할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "Grok, ChatGPT, Claude 등 11개 AI 모델, 2026년 말까지 비트코인 가격이 8만 4천 달러에서 11만 8천 달러에 달할 것으로 전망",
+    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPMUxzczNoamVwWnJheUprRzRVZ0FDUlgta01aX2NKU3JpRDI0REtHWVhzQ0xLbFB1ZEFaS2UyaGNobkYxX3FsSF9VNGxabS1iY0VRR1hWT25lR3hFSGhVcUpoclJrbnh5LS1rM1FDRlE2NDdEVVpuZU9ybEhHYzdHOEZRbHhrdDdLWHRLTDJyTldLU2hoUmxKNnhkRUI3RUJTTlBiQW9CMlZDaHF2UGM0cVY4LUhQWkJlM3pwN09KRjRUcDBRR2c5SDZRbWh5RWpHSG85OHRCMWFrbktQYkp4MXJaUzhLdWk2M05KY0theC1aUVdralJWMHpweHZGcVpQQnV0enJ4Q1VWUQ?oc=5",
+    "source": "Bitcoin News",
+    "published": "2026-05-01",
+    "keyword": "AI모델",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "xAI",
+     "ChatGPT",
+     "Claude"
+    ],
+    "summary": "AI 모델들의 비트코인 가격 예측은 금융 시장 분석에 AI 활용 가능성을 보여주지만, 예측 정확도 검증 및 시장 변동성 고려가 필요합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "구글, 22년 만에 '최고의 4월'...AI 수익 입증으로 주가 34% 급등",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210004",
+    "source": "AI Times",
+    "published": "2026-05-01",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "구글의 주가 급등은 AI 투자가 단기적인 비용을 넘어 장기적인 수익 창출 동력임을 입증하며, AI 기술 투자를 가속화하는 촉매제가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "OpenAI available at FedRAMP Moderate",
+    "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
+    "source": "OpenAI Blog",
+    "published": "2026-04-27",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "OpenAI의 FedRAMP Moderate 인증 획득은 공공 부문에서의 AI 도입을 가속화하고, AI 기술의 신뢰성과 보안성을 강화하는 데 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+    "url": "https://openai.com/index/openai-on-aws",
+    "source": "OpenAI Blog",
+    "published": "2026-04-28",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "코딩 AI",
+     "에이전트",
+     "Amazon"
+    ],
+    "summary": "OpenAI 모델의 AWS 통합은 AI 기술 대중화와 클라우드 플랫폼 경쟁 심화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "카카오 ‘PlayMCP’, 오픈소스 AI 에이전트 ‘오픈클로’와 연동…생태계 확장",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mczRycnV5eGNDbG1jdlFEd0VpTVE4RWV4T3Q1MFNERjl1Z1BUTkE1YkdvTC1mMW50U2FJRDFWWG9zYllma1h0TWY3UUtMT2oyekdnSGc5MVQwcjdCZnFBdlNvLTZZLU43dmJV?oc=5",
+    "source": "BBS불교방송",
+    "published": "2026-05-01",
+    "keyword": "AI도구",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "카카오",
+     "오픈소스",
+     "에이전트"
+    ],
+    "summary": "카카오의 오픈클로 연동은 AI 에이전트 생태계 확장과 기술 경쟁력 강화에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "ChatGPT 탄생 이전 AI 발전의 역사",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE41NVdGbUxCTTR2eW9OajNyUE5oTGVzWVREM1U4d2otSENRUDZLcTRFY2VKMF81cVc5cFU0M2lUMzZER0NQNnc?oc=5",
+    "source": "브런치",
+    "published": "2026-05-01",
+    "keyword": "머신러닝",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "생성형 AI"
+    ],
+    "summary": "ChatGPT 이전 AI 발전사를 조망하는 것은 현재 생성형 AI의 급격한 성장이 오랜 연구와 기술 축적의 결과임을 상기시키며, 미래 AI 기술 발전 방향을 예측하는 데 중요한 참고 자료가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "GPT-5.5 System Card",
+    "url": "https://openai.com/index/gpt-5-5-system-card",
+    "source": "OpenAI Blog",
+    "published": "2026-04-23",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.5 시스템 카드 공개는 AI 모델의 투명성 확보 노력과 더불어 더욱 안전하고 책임감 있는 AI 개발 경쟁을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

@@ -1,0 +1,421 @@
+{
+ "date": "2026-03-21",
+ "generated_at": "2026-11-02T11:53:46+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[기고] 민주진보 교육감 단일화, 심판이 선수로 뛴다면 공정성을 담보할 수 있는가",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Md0lSNHZFWnJhUnZUeEtEaWtkV0V3NWZXV1VaLXdqM3h0U2FRc1Vxd0NCaEdqTHYzNTNlTWc2bnVWY01VdXYtN3ZnVzc4TXFKcEZmNHRGeVRkU3JrV0dhVm9VU0o4R0NT?oc=5",
+    "source": "뉴스티앤티",
+    "published": "2026-03-20",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 2,
+    "title": "[이진서 칼럼] 문해력이 빠진 교육개혁은 개혁이 아니다",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5feXJBaGtCb2QyOEh4ZC13OFRRcWh6dVhpekdYaXlvaVBjT3ZhU1dFbl81bkhnU0owd2lXWENYQm5TNVhOVDVXSmtST1BacTJKT2c?oc=5",
+    "source": "유스연합",
+    "published": "2026-03-20",
+    "keyword": "AI디지털교육",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [
+     "문해력"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 3,
+    "title": "[사설] 전북대 AI 전환, 잘 했지만 이제 시작이다",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DU0FPNWlzQnBZczRRUXVOdElLZlhwVGd6NnE1Uk16am81RWxmdW14TWdVLUhWVHFNZUpMTlJWbS1qalhvVVczdUhzSk94NDd0TnZSQVVaQWFXZEVBRk94Y0UzcjBnQQ?oc=5",
+    "source": "한국대학신문",
+    "published": "2026-03-20",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 4,
+    "title": "[천자칼럼] 그록, Grok, Groq",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IaWwySWJMQnZNLXRYcndta3RqVVhXSkFMQnE0a3RYVkJVWExaU05IQUhUWk8yc3RKSUs2ZmMzQ3FMdU9nb09lOHpleDRQdXM?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-03-20",
+    "keyword": "뇌과학",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [
+     "xAI"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 5,
+    "title": "[김대성 칼럼] 교육활동 보호, 교사를 넘어 아이들을 위한 울타리",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=30024",
+    "source": "에듀프레스",
+    "published": "2026-03-20",
+    "keyword": "",
+    "topic": "teacher",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "배움이 흔들리지 않는 교실의 조건새 학기가 시작되면 학교는 늘 같은 질문으로 출발한다. “좋은 학교란 무엇인가?” 시설이 깨끗하고 급식이 훌륭하며 집에서 가까운 학교도 중요하지만, 교육의 본질은 결국 '관계'에서 완성된다. 학생, 교사, 학부모가 서로를 신뢰하고 존중할 때 학교는 비로소 교육의 기능을 제대로 수행할 수 있다.최근 교육계의 핵심 화두인 교육활",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "5년간 마비였던 환자, 뇌칩으로 걸었다… 中 뇌과학 임상 성과",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVFhWREY2WV92dnFBNUxXdXRuaWJBcUgtTUVteXhuVmstMElubkZaR1hMR2lXSnZEUjVUaTRSdTc1V2ZvZ2ROWWc1Q3QzejJTZThsejMzUElKaWVWRzZXcVFpT3AtZXlTd3piaFhxTGxpZkVlSHRERWk0WnpkZlozdFFlSlVPOWFnMzJWcUt0MHVXOFZwMkVNU2tjUm1QUdIBsgFBVV95cUxNcHo5QTRTRngyQ0loMTk3UWZFOE1XbTlkMkZ1UG1Md2R3QnRNMHlwRklORkh2ZGdla1c2dU1IRDFCenJrOTljVkdjVjc1S3BwcE9seldjal81UVF0U3hyZ0VtM2hYQ2wtWmhVLUxPTnVfdFZhc2oxLU02N25qMWU0akZOaExVT0s3VGxmSkc3ekJxNzUzMUI1ODVHNllKTzE3M0NoN19LbkpoWl9iN0NJUTd3?oc=5",
+    "source": "Chosunbiz",
+    "published": "2026-03-20",
+    "keyword": "뇌과학",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 7,
+    "title": "마비 환자가 생각만으로 걷는다… 질주하는 中 뇌과학 굴기 [차이나 워치]",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qdHhpS3BIaUNDd2FJQkk5bG1xM05rV0ZkQ2E3N3hReGszeDNSRXQ5MnYta3c5aUhrTmZkYVdnV0pmTHkxRmJPV09VeEtoaDVtZWc4NtIBVEFVX3lxTE9qdHhpS3BIaUNDd2FJQkk5bG1xM05rV0ZkQ2E3N3hReGszeDNSRXQ5MnYta3c5aUhrTmZkYVdnV0pmTHkxRmJPV09VeEtoaDVtZWc4Ng?oc=5",
+    "source": "한국경제",
+    "published": "2026-03-20",
+    "keyword": "뇌과학",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "\"밤에 진짜 잘 자고 싶으세요?\" .. 수면제 없이 잠드는 법, 뇌과학이 답을 내놨다",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQang2S3FVUmQ1S3RvYWw3Y1doZXpKOVBpMEJ1bjMtbEN6dFdUWE9sSXFYcmVXZVNwSDFRYmpBUVVkQVMza21KdndXYWt3XzZmTklaM0llWUhTSndfbkV1UTZzd2JtMFRiSnNpT01lNUwzeERLWUl6U2pudzdmUHlLVklRTjlycWFSZ1ZoMG51MNIBlwFBVV95cUxNNWlWVFE0cTVlUG1GY0E3R1NFaXU1dmFLbE1fdEcxVDlkUVpDU1RsZHViSjFpM0JjQlZsbGh2RjVvUmtmMDNoZ2NwWEpHZjZDdFNWSThHTUpLcWRTY2NJMGNlS0IyZ0JPdkR3SkFoX1YySjlLaEZ6eTgwNml2ZjR6WnhNd0h0ZWhFVk1WaDY4SElJOW5tQXMw?oc=5",
+    "source": "reportera.co.kr",
+    "published": "2026-03-20",
+    "keyword": "뇌과학",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "‘단재교육연수원·단재고’ ‘연수혁신·IB교육’ 미래교육 강화",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56OTQ3Q2pSZ3QxVjNsajJESjgySkI5ZUhDclpzNzNsOHZMMTB1aGkxOWlMOFBNOEs0R3V1OHBQY1l0MlNGc1FsWEdqQnBVeUItY2dfVVFCdEMzY0JDbExuekptYmwzc3dIbU4xeA?oc=5",
+    "source": "공뉴스",
+    "published": "2026-03-20",
+    "keyword": "교육혁신",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 10,
+    "title": "파주시, 2026년 미래기술교육학교 운영",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95ODd5QWt0TGdzVkZ3OVdzZFZzd0xiU0hRY2FCX29ja0lnME9KUHM0SWZkYVQ2dk90Um1ObnhxZ19NSzJMWmE2MTFnR2FuU1ZxX2IxNTBKanVZNEpyUHYxNGt2MS02UjQ?oc=5",
+    "source": "경기매일",
+    "published": "2026-03-19",
+    "keyword": "미래기술",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Computer-Aided Personalized Education",
+    "url": "https://www.semanticscholar.org/paper/6901f37bc1eee20e1ba17e3e6d92b39f0299af1a",
+    "source": "semantic_scholar",
+    "published": "2020-07-07",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "STEM 분야 인력 부족 문제 해결을 위해 컴퓨팅 기술, 학습 과학, 온라인 교육 플랫폼의 발전 추세를 바탕으로 논리 추론, 데이터 분석, 자연어 처리 등의 AI 기술을 활용하여 맞춤형 교육을 제공하고 교육 효과를 향상시키는 방법을 모색합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "R. Alur, Richard Baraniuk 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "A hybrid teaching factory model towards personalized education 4.0",
+    "url": "https://www.semanticscholar.org/paper/706796ba1abfe24796f4031129f4a7ddec4025ca",
+    "source": "semantic_scholar",
+    "published": "2022-11-30",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "본 논문은 티칭 팩토리 프레임워크 기반의 하이브리드 모델을 통해, 디지털 트윈 기술을 활용하여 원격 환경에서 공학 교육의 질을 높이고, 사이버 안전과 지속적인 지원을 강조하여 교육 4.0 시대에 적합한 맞춤형 교육 모델을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "D. Mourtzis, N. Panopoulos 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Integrating deep learning techniques for personalized learning pathways in higher education",
+    "url": "https://www.semanticscholar.org/paper/f88969e4af591c1374ee912f8bf65a8b9e38d1e4",
+    "source": "semantic_scholar",
+    "published": "2024-06-01",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "본 논문은 딥러닝 기반 AI 플랫폼을 활용하여 학생 맞춤형 학습 경로를 제공하고, 실제 대학생 대상 실험을 통해 학업 성취도, 참여도, 만족도 향상을 입증함으로써 고등 교육에 AI 기반 맞춤형 학습 적용 가능성을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Fawad Naseer, Muhammad Nasir Khan 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "Personalized Education through Individualized Pathways and Resources to Adaptive Control Theory-Inspired Scientific Education (iPRACTISE): Proof-of-Concept Studies for Designing and Evaluating Personalized Education",
+    "url": "https://www.semanticscholar.org/paper/4bceb454d1c93bd689fb96f326bcb0ea39dd8dab",
+    "source": "semantic_scholar",
+    "published": "2024-01-08",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "iPRACTISE는 개인별 학습 경로 및 자원을 제공하여 통계, 수학, 데이터 과학 분야의 맞춤형 교육을 지원하고, 컴퓨터 기반 평가와 학습 선호도를 반영한 훈련 추천을 통해 교육 격차를 해소하여 지속 가능한 교육 시스템 구축에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Sy-Miin Chow, Jungmi Lee 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "Personalized Education Based on Hybrid Intelligent Recommendation System",
+    "url": "https://www.semanticscholar.org/paper/ace1939abf788aa56a3199faed471ea0e013dbfb",
+    "source": "semantic_scholar",
+    "published": "2022-01-17",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "본 논문은 학생 개개인의 학습 준비도, 흥미, 학습 방식 차이를 고려한 맞춤형 교육을 위해 하이브리드 지능형 추천 시스템 기반의 개인화 교육 시스템을 제안하여 통합 표준 수업 계획을 통해 유연하고 차별화된 교육 프로그램을 제공하고 교육 효과를 극대화합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Fang Zheng",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "어도비-KAIST, 인터랙티브 3D 게임 제작 월드 모델 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208134",
+    "source": "AI Times",
+    "published": "2026-03-20",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "어도비-KAIST의 연구는 AI 기반 콘텐츠 제작 영역을 확장하고, 게임 및 메타버스 산업에 혁신적인 가능성을 제시합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "심리학과 AI의 만남… 전남대, 가상 에이전트 기반 ‘공감형 의사결정’ 모델 구축",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208121",
+    "source": "AI Times",
+    "published": "2026-03-20",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "공감형 AI 연구는 인간-AI 상호작용의 새로운 지평을 열고, 심리적 교감이 필요한 서비스 분야에서 혁신적인 사용자 경험을 창출할 가능성을 제시합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "OpenAI stringe un accordo con il Pentagono dopo il ban di Claude; Anthropic sfiderà la designazione di rischio nella catena di approvvigionamento",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbndwbXNPeUhLVGJDaFRwV3BCeUNhUUk0Z003ZVZlM05zX2FPNXVEWDJFWHkwZmJSdjZCYUJyaGh6YUFmTzRvTFQyTHc2eFJrdWExcjFtb3NlWWZMNTFueG1EemctcHRLdzhvdGFHeEFkaGRkN3Bqc3ZVMmdVQUhFMklPc01OR0hTdW41WmRGaHJjVVB1SmJaakluUDJWcnhrb0c3U2VZU3NEa3Jib1ZCRkRVX1lVVzZEZlA3T0Eya1ZWdXBhMVVKVU9XSWlhMDc0NU1xeXUxQnRpSEhOT1JRREppM19fOTYw?oc=5",
+    "source": "ekhbary.com",
+    "published": "2026-03-20",
+    "keyword": "Anthropic",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Claude",
+     "Anthropic"
+    ],
+    "summary": "OpenAI의 미 국방부 협력은 AI 기술의 군사적 활용 확대를 가속화하며, Anthropic의 반발은 AI 공급망 규제 방향에 대한 논쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[릴리즈 노트] 역대 최강 소형 모델, 오픈AI GPT-5.4 mini·nano 출시",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yZThROHVueHhFRE41d2gzSkJmcXd4RnFmNW1pS0NadGF6RDd5SVB1OUhBS3F5R09OTVZtZktWaHhQWHhmY3JGRUh0T3ZWOEpscXIwSUV2YlRpUQ?oc=5",
+    "source": "요즘IT",
+    "published": "2026-03-20",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT",
+     "온디바이스 AI"
+    ],
+    "summary": "GPT-5.4 mini·nano 출시는 온디바이스 AI 시대 가속화 및 다양한 산업 분야에 AI 기술 내재화를 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "머스크, xAI 추천 알고리즘 다음 주 대규모 업데이트…오픈소스로 공개",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rVEI3UnpOTHl4M2hwZjdDVEVpVGFWVHZzRnVuSjhJdFUwNWlPQXFFcVlkdXQteUVsX29lbEJNUl9mV2NYOFVadmFLcFVQNE9nVHNhT3Y4TFDSAV5BVV95cUxQbDZDQUZHLTRva0x3V0V1Nkl4cEN0d3NKLTAwbm1DVmdEaFN2YW9vcW1VUl9aVVZGS2RTdDBfajllOExBRXp6UFB1SlFpTGR4bHlfVE1uQmQ5VGQyMFBB?oc=5",
+    "source": "tokenpost.kr",
+    "published": "2026-03-20",
+    "keyword": "오픈소스",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "xAI",
+     "오픈소스"
+    ],
+    "summary": "xAI의 추천 알고리즘 오픈소스 공개는 AI 기술 경쟁 심화와 동시에 커뮤니티 기반 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "[GTC 2026] 엔비디아, 로컬 AI 에이전트 플랫폼 강화…네모트론 3 나노·슈퍼 신규 모델 공개",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZOHpSRUt2dWQ3VkI3UllyaXVXLUUxelFEeDNWTGxXTnFSOTRzOTItT0tmeWxWemRQWlFMbEZGR3J5SjBaS29MVVo1UThveDMtckYxcHpxSFozWFhDU0Utb3hrdjJQRzVHc1dMZA?oc=5",
+    "source": "ER 이코노믹리뷰",
+    "published": "2026-03-20",
+    "keyword": "AI모델",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "에이전트",
+     "온디바이스 AI"
+    ],
+    "summary": "엔비디아는 로컬 AI 에이전트 플랫폼 강화로 AI 기술 주도권을 더욱 확고히 하고, 온디바이스 AI 시대의 새로운 가능성을 제시할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "트럼프 WLFI, AI 에이전트를 위한 오픈소스 결제 툴킷 출시",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aOHVVa0t6cWprUHpYSjBLZVRvWVdJWndLcy1VY3NoUGRDQlEzRF9MVi02M2xfVGtFazhOZE8wLWhLdml6QkdjNXA3dzItQ3ppNFh3VHJKdzRlaDFkZjZEVUprSHZ1Y3dsb1ZaZUtFTjJ3eFU?oc=5",
+    "source": "디지털투데이",
+    "published": "2026-03-20",
+    "keyword": "오픈소스",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "에이전트",
+     "오픈소스"
+    ],
+    "summary": "트럼프 WLFI의 오픈소스 결제 툴킷은 AI 에이전트 기반 경제 시스템 구축을 가속화하여 관련 산업 성장에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "오픈AI, 연내 IPO 준비 속도...챗GPT 기업용 생산성 도구로 전환 선언",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9peTVyUGJOSzFXRjh6Q2I1Zm5PR0FBaU8zNC1hLVV6dFhTd1FEbHkyRGR0cGVMa1ZydGRmcFRMRU5XX1owREMyUF9YUG1FTC1WdmRIbDhiWHNRM2lFRVBN?oc=5",
+    "source": "헬로티",
+    "published": "2026-03-20",
+    "keyword": "GPT",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "오픈AI의 IPO 추진은 AI 시장 경쟁 심화와 기업용 솔루션 확대로 이어져 산업 전반의 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "구글, '제미나이 맥' 앱 비공개 테스트 시작...챗GPT·클로드에 대응",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FV2JjZkg2TXR6V2MyNm9PSTdaYjJDYjlIRFdKcDI4Nko3NkFaSUJqVFlRMjVOU3JMemZGMmgtWGtkYU55alNvb3B2UU4tamFVRjdPeUNmVlJtbU5FVHAxM0k0RVluNnNQcnc?oc=5",
+    "source": "AI타임스",
+    "published": "2026-03-20",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Gemini",
+     "ChatGPT",
+     "Claude"
+    ],
+    "summary": "구글의 제미나이 맥 테스트는 AI 챗봇 시장 경쟁 심화를 예고하며, 사용자 경험 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "오픈AI, 챗GPT·코덱스·아틀라스 데스크톱 앱 하나로 통합",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KOVlhYmE4V2ZFdmFSQThYRmVPMzB0NkNjUTd2ZHEwdk0tOVBISE1TemJoNFdoMFZWaG1GN0stZ3NReXVWMkNPWnl6QnROTGNoTzFkcUxLQkNldlBRbFl5MDJmY1c?oc=5",
+    "source": "디지털데일리",
+    "published": "2026-03-20",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": "opinion",
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "오픈AI의 통합 앱 출시는 사용자 편의성을 높이고 AI 모델 접근성을 확대하여, AI 기술 대중화에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "tech": "AI 기술이 다양한 분야와의 협력을 통해 더욱 강력해지고 있으며, 오픈소스 공개와 기업용 서비스 확장을 통해 일상생활과 산업 전반에 빠르게 통합되는 추세"
+ }
+}

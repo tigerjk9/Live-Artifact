@@ -1,0 +1,414 @@
+{
+ "date": "2026-10-03",
+ "generated_at": "2026-11-02T11:44:18+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "아이들의 ‘마음 근육’ 어떻게 키울까…사회정서학습 우수사례 찾는다",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WRldhbEJXZUFhOTIzMkRPaUF6bHhFMnNBdGhkV0lPcFBsZFJEaVgtQldrVm5VVEhqaXFmQjF3VVNrMEFpeEI4NEN2Q2hkaGVhWHdGUmFLOWJtdF9qVE5vUG9EZk9NWnRuVGpMb0xLcmJjVknSAXNBVV95cUxPVkZXYWxCV2VBYTkyMzJET2lBemx4RTJzQXRoZFdJT3BQbGRSRGlYLUJXa1ZuVVRIamlxZkIxd1VTazBBaXhCODRDdkNoZGhlYVh3RlJhSzlibXRfalROb1BvRGZPTVp0blRqTG9MS3JiY1ZJ?oc=5",
+    "source": "K스피릿",
+    "published": "2026-10-02",
+    "keyword": "에듀테크",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [],
+    "summary": "아이들의 정서적 역량인 '마음 근육'을 키우기 위한 사회정서학습 우수사례 발굴을 모색하는 내용.",
+    "implication": "다른 학교의 사회정서학습 우수사례를 참고하여 우리 반에 적용하는 방안을 찾아볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[이슈 & 교육] 충북교육청, AI·데이터 미래교육 본격화...“학교 현장에서 답 찾는다”",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0tOGhiNF9sQ1lYYVNfSDQ0N1lScUV1RzBmRXhKbHBzSlN4bnJWRXo5QWxHbmlNaDZkcXFfWXVkZHRzMlFDYUloZmZBYkxFODVUSm1HYnFMM1hGNTgzeFJMV3pMdWZjdk9LQ20w?oc=5",
+    "source": "ttlnews.com",
+    "published": "2026-10-02",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": "feature",
+    "entities": [
+     "충북교육청"
+    ],
+    "summary": "충북교육청이 학교 현장 중심의 AI·데이터 미래교육을 본격적으로 추진한다고 밝혔습니다.",
+    "implication": "교사는 AI 도구를 활용하여 수업 내용을 풍부하게 만들고 학생들의 AI 역량을 높일 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "안민석 교육감, 에스토니아와 AI교육 맞손...AI와 함께 생각하는 교실",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QLUtta3lyOHBZVkVMdVZBY0kxbW5sVFlSWGszdWJsOWxtbU52VEFKblNScElsdndEa3o3bVh2SXdwRVd4ZHp0VzM4V3VaTlBQdzFpUkwwZEpPd9IBWEFVX3lxTE1CRzJNUktGc3RWcFQ2OG03dzJrYWpiWVN1NFFrZWVkYmRYRUx0QWNHdDZnSDhLZURPcEppZU81VTFvSFNOQzVrcFQtUmZOU1I1R01pMURjNmk?oc=5",
+    "source": "아주경제",
+    "published": "2026-10-02",
+    "keyword": "AI디지털도구",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "안민석 교육감은 에스토니아와 AI 교육 협력을 통해 'AI와 함께 생각하는 교실' 구현을 추진합니다.",
+    "implication": "AI 교육 확대에 발맞춰 교실에서 AI를 활용한 협력적 사고 활동을 구성해 볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "인천시교육청, 특수교육 학생 12명 일본 직업교육 현장서 국제교류",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81TjVVYkpsTXY3dHJBQTRUVG5EN2tVdjFYQUE2a2RPXy1FNmk5aWJnMXBWMzdTWmsxa3NwUjdnLWVKa082ZFRkWlFuNzY3Z2lzekMwalpXQllnb2pYQVpEckZSWmR3TFBz?oc=5",
+    "source": "경인매일",
+    "published": "2026-10-02",
+    "keyword": "교육현장",
+    "topic": "global",
+    "kind": null,
+    "entities": [
+     "인천시교육청",
+     "특수교육"
+    ],
+    "summary": "인천시교육청은 특수교육 학생 12명의 일본 직업교육 현장 국제교류를 지원했습니다.",
+    "implication": "이번 사례를 통해 학생들에게 특수교육 분야의 국제적인 직업 교육 기회를 안내할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "세종교육청, AI·디지털 기반 수업혁신 위한 교원 역량 강화",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IclFmUXE3eFpvQ21wdDh4U2I5SUFCb2NKcW9hakplVmswczUxeGpYSUJieV93a1N5TjJaU1NWUnBIYXVPcUk0Y09lOUxXdG81cTJENUpCY21Feko4?oc=5",
+    "source": "교육연합신문",
+    "published": "2026-10-02",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "세종시교육청"
+    ],
+    "summary": "세종교육청이 AI 및 디지털 기반 수업 혁신을 위해 교원 역량을 강화합니다.",
+    "implication": "AI와 디지털 도구를 수업에 적용하여 학생들의 참여를 높일 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "평창군, 민생현장투어...학부모·청소년·교육 관계자 교육정책 방향 논의",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE42T2EyZW1heU5SYnBmOTR5T0tMVzRMcnJLc2tuc0s3Q3VmQUlvMWxTTlZOcEduRUtQSnlRRDYwZWE1aXZVUlFPdng5a2hqOFJyYlgtTW1xSDNLQ2RWV2hEaTFfNHFLQQ?oc=5",
+    "source": "이로운넷",
+    "published": "2026-10-02",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "평창군이 민생현장투어를 통해 학부모, 청소년, 교육 관계자와 교육정책 방향을 논의했다.",
+    "implication": "학생들이 지역 교육정책에 자신의 의견을 직접 제시하는 활동을 수업에 연계할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "에스토니아 교육부장관, 수원 한봄고에서 AI 융합 직업교육 참관",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqQ1hVOW5XanNUaGJ2UkVhM19GclBEVTVPUUQwcVlyaU1ZcDh0LS10MlZocS1PYzVvVm9hLW10OUhpOE9LX2hRWmUyT24wVGpRMWVQdUhFNWwtcEx0dm5iZWpOd2xtQQ?oc=5",
+    "source": "수원일보",
+    "published": "2026-10-02",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "에스토니아 교육부장관이 수원 한봄고의 AI 융합 직업교육을 참관했습니다.",
+    "implication": "학생들에게 국내 AI 융합 직업교육에 대한 국제적 관심을 소개하며 진로 탐색 동기를 부여할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "경기도교육청, 에스토니아와 AI·디지털 교육 협력",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mTS1Ia0FtaDBTMXJMR3RWTk1YSUYzVmVLdFV4QmtLLWpiTGw1ZElzSjcwQ1M0aVlxTUNMYzdLQzF1YThkUHgyV0hxVjNwRnlyTHkybTc3RWd4dnBUN3Q3R0pR?oc=5",
+    "source": "경기신문",
+    "published": "2026-10-02",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청이 에스토니아와 AI 및 디지털 교육 분야에서 상호 협력하기로 했습니다.",
+    "implication": "에스토니아의 선진 AI 교육 사례를 우리 수업에 적용해 볼 기회를 얻을 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "경기도교육청, AI 활용 영양·식생활교육 강화…교장·영양교사 등 83명 참여",
+    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9oeC1wWWFyNWZmTklfNENOb2k5MGtZQTFabEFOdDVxRHVDbUlaREtnODBkbDhvUTNfOEZFVHFucTNjWXFE?oc=5",
+    "source": "onulnews.com",
+    "published": "2026-10-02",
+    "keyword": "인공지능교육",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청이 교장과 영양교사 등 83명과 함께 AI를 활용한 영양·식생활교육을 강화합니다.",
+    "implication": "AI 챗봇이나 앱을 활용하여 학생들의 식단 고민을 상담하고 개인별 영양 정보를 제공할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "“학생 줄어도 교육 수요 늘어”…교육감 7명, 재정 개편안 재검토 촉구",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TNE4xcnBFd0FreUdaQm8wQkVqU09hY0lxbE9NWFNuOEIxVTl5bm94MVByUnI0dmdGNUV3SGJSdTBrUHJnRUlzd2VCVW5COGVRN19pLVhiQURPODhTd0Q4bU52aElqYklhYnRpWlQ4Tno?oc=5",
+    "source": "거제타임즈",
+    "published": "2026-10-02",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "학생 수는 감소해도 교육 수요는 늘어나는 상황에서 교육감 7명이 재정 개편안 재검토를 촉구했습니다.",
+    "implication": "학생 수는 줄지만 교육에 대한 요구는 다양해지므로 교실에서도 학생 개개인의 필요에 맞는 수업을 고민할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Application of Mobile Information System Based on Internet in College Physical Education Classroom Teaching",
+    "url": "https://www.semanticscholar.org/paper/f7295b04c18988854d7d20ce78732b360f6db7eb",
+    "source": "semantic_scholar",
+    "published": "2021-12-10",
+    "keyword": "",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 인터넷 기반 모바일 정보 시스템을 대학 체육 수업에 적용해 교육 효과와 학습 자원 활용을 증진하고, 조사 및 비교 연구를 통해 대학 체육 교육의 문제점을 해결하는 데 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Jia-Yi Li",
+    "pdf": "https://downloads.hindawi.com/journals/misy/2021/1481070.pdf"
+   },
+   {
+    "n": 2,
+    "title": "Analysis and Practice of Using Modern Information Technology for Classroom Teaching Mode Reform",
+    "url": "https://www.semanticscholar.org/paper/9caa0c4f5819efa1218bce57720e3330389b8192",
+    "source": "semantic_scholar",
+    "published": "2022-08-05",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "이 연구는 현대 정보 기술 기반의 스마트 교실이 전통적 및 플립드 교실과 비교 분석을 통해 교수 방식을 혁신하고 학습 효율성 및 정보 소양을 증진하는 가치를 탐색합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Mei Liu, Rujin Zhou 외 1명",
+    "pdf": "https://downloads.hindawi.com/journals/misy/2022/2565735.pdf"
+   },
+   {
+    "n": 3,
+    "title": "Constructivist Approach to Learning: An Analysis of Pedagogical Models of Social Constructivist Learning Theory",
+    "url": "https://www.semanticscholar.org/paper/d8efcc132b9ef13ecc7239951789c0f0797e6f29",
+    "source": "semantic_scholar",
+    "published": "2023-06-06",
+    "keyword": "pedagogical",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "사회 구성주의 학습 접근법은 학습자 주도의 자율적 문제 해결과 협력적 학습을 통해 비판적 사고력을 함양하며, 교사는 촉진자로서 의미 있는 교육 성취를 지향합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "N. Mishra",
+    "pdf": "https://www.nepjol.info/index.php/jrdn/article/download/55227/41250"
+   },
+   {
+    "n": 4,
+    "title": "A Study on the Implementation of the Strengthening Innovation and Practice in Secondary Education Initiative for the preparation of Science, Technology, English and Mathematics (STEM) Teachers in Kenya to integrate Information and Communication Technology (ICT) in Teaching and Learning",
+    "url": "https://pure.qub.ac.uk/portal/en/theses/a-study-on-the-implementation-of-the-strengthening-innovation-and-practice-in-secondary-education-initiative-for-the-preparation-of-science-technology-english-and-mathematics-stem-teachers-in-kenya-to-integrate-information-and-communication-technology-ict-in-teaching-and-learning(e1d24d01-54fc-4967-abb0-c29b5d80e973).html",
+    "source": "openalex",
+    "published": "2026-10-01",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "케냐 중등 STEM 교사의 ICT 활용 역량 강화를 위한 혁신 모델을 질적 설계 기반 연구로 평가하고, 실제 교실 중심의 TPACKtivity 프레임워크를 제시하여 교사 전문성 개발의 실제, 정책, 연구에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Mary Hooker",
+    "pdf": "https://pure.qub.ac.uk/ws/files/130672931/EDD_DISSERTATION_MARY_HOOKER_FINAL_2_.pdf"
+   },
+   {
+    "n": 5,
+    "title": "Navigating teacher identity in evolving technological contexts in Irish classrooms",
+    "url": "https://pure.qub.ac.uk/en/studentTheses/d6eceb22-6a0b-4b09-a587-cc6020d30aa4",
+    "source": "openalex",
+    "published": "2026-10-01",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "이 연구는 교사들이 정보통신기술(ICT)이 변화시키는 교육 환경 속에서 개인적, 직업적 정체성을 어떻게 탐색하고 이러한 정체성이 ICT 활용에 미치는 영향을 생애사적 인터뷰와 주제 분석으로 밝히며, 효과적인 교사 전문성 개발 방향을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Dara Cassidy",
+    "pdf": "https://pureadmin.qub.ac.uk/ws/files/212568839/Navigating_teacher_identity_in_Evolving_Technological_Contexts_in_Irish_Classrooms.pdf"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "아마존, 에이전트 전용 의사결정 모델 ‘스트랜즈 디사이더 2B’ 오픈 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215887",
+    "source": "AI Times",
+    "published": "2026-10-02",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Amazon",
+     "에이전트"
+    ],
+    "summary": "아마존의 에이전트 전용 의사결정 모델 오픈 공개는 AI 에이전트 개발을 가속화하고 기술 생태계 확장에 크게 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "인공지능 지수 61점…SpaceXAI ‘그록 4.6’, OpenAI GPT-5.6 Sol과 동급 성능",
+    "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNOGlDOF95REthbDlQVy1yd3VOUUFCMXN6R3NoOUlTU3RhaTlXMkZYc1pTd0FLeU53QXFhRXloOTA0YkRaRDRLNDZJN3UzLUhrbWREdHFGZUROZTczUTBraVhOd0lMRlhpLTZjTlRGZWwzWU1VbnNERHgyRTR1Y3p2dVkyTGxsQUZIU3BhOUhCRWF3MVB6SXFTdzdNLXg1U0VhVm1kMTlqYTh1c0o5OEhoMUY2dUl1dEl1Smp4aXVxX2tkNExMWFBjazA1ZUVFT01wQWJLaDktZ0JfTWtXWWlwdDd6UXpxcnpHTVhxY2FidGxzUHpDQUR0Z1daTVRNX3BlWXBINm8wQ3JWRUEySndiMGRXaGc1WEM5dGdYU1pobzdGZXZLYmEzZXNjeGpuMzkzcFo4?oc=5",
+    "source": "Yellow.com",
+    "published": "2026-10-02",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "xAI",
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "SpaceXAI 그록이 OpenAI와 동급 성능에 등극하며, AI 기술 경쟁 심화와 혁신 가속을 이끌 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "Chatham scales its capital markets expertise with OpenAI",
+    "url": "https://openai.com/index/chatham-financial",
+    "source": "OpenAI Blog",
+    "published": "2026-10-02",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "AI가 자본시장 등 고도의 전문 영역에서 인간 전문성을 확장하는 핵심 도구로 자리매김할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[10월2일] \"뜻밖의 주인공은 로그인과 플러그인\"…알트먼이 보여준 챗GPT의 다음 무대",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215882",
+    "source": "AI Times",
+    "published": "2026-10-03",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "알트먼이 제시한 '로그인과 플러그인'은 AI가 단순 모델을 넘어 서비스 통합의 핵심 플랫폼으로 진화하며 생태계 확장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "OpenAI, ChatGPT에 ‘가상 피팅·즐겨찾기’ 도입…AI 쇼핑 시장 공략",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9KYnA4eW1HV01QN2NCRWtlSElvRGdIM3BNeThKajR5OF9lbGpkMjFDeGo0U3NvcDdfMXJwcEJ1eEtCdEQ0aU1oVUh3OE9Edk0?oc=5",
+    "source": "데브타임즈",
+    "published": "2026-10-02",
+    "keyword": "에듀테크",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "OpenAI가 ChatGPT에 가상 피팅 등 쇼핑 기능을 도입하는 것은 범용 AI 모델이 특정 산업의 핵심 가치 사슬에 직접 통합되어 상업적 경쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "How Albertsons Companies is reimagining retail from the inside out",
+    "url": "https://openai.com/index/albertsons-reimagining-retail",
+    "source": "OpenAI Blog",
+    "published": "2026-10-01",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [],
+    "summary": "알버트슨의 내부 주도 소매 혁신은 AI가 기업의 핵심 운영에 깊이 통합되어 산업 전반의 디지털 전환을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "Meta, AI 에이전트 `Muse` 오픈소스 하드웨어 키트 공개…스마트홈 기기 5000개 무료 배포",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBuTVFPdUdiTEl1SGNYdHJMY3JQZVpydlRGRDFCcTNGM1FJVUZTbUZMOW9uYXlxYlBjNllMenVHNUJ3QnM3aTdfY1NnVWUzNTdoUUF1RGllQlNMLWE1dlQ0bl9R?oc=5",
+    "source": "매일신문",
+    "published": "2026-10-03",
+    "keyword": "인공지능",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Meta",
+     "에이전트",
+     "오픈소스"
+    ],
+    "summary": "메타의 오픈소스 하드웨어 키트 공개는 AI 에이전트의 실제 기기 접목과 확산을 가속하여 AI 생태계 혁신을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "AI '생각의 사슬' 무력화되나…'순환 깊이' 기술이 부른 불투명성 우려",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215934",
+    "source": "AI Times",
+    "published": "2026-10-03",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "'순환 깊이' 기술은 AI의 불투명성을 심화시켜 설명 가능 AI(XAI) 연구 및 산업 적용에 심각한 도전 과제를 안길 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "[AI 모델 신작] MS 음성인식 'MAI-트랜스크라이브-2-스트리밍' 등 6종",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215930",
+    "source": "AI Times",
+    "published": "2026-10-02",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Microsoft"
+    ],
+    "summary": "MS가 음성인식 등 6종 AI 모델을 연이어 선보이며 AI 기술 생태계의 혁신 가속화와 시장 경쟁 심화를 주도할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "업스테이지, 판단 전용 AI ‘솔라 디사이드’ 출시…“제브보다 빠르고 정확”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215919",
+    "source": "AI Times",
+    "published": "2026-10-02",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "업스테이지"
+    ],
+    "summary": "업스테이지의 판단 전용 AI 출시는 특정 업무에 최적화된 전문 AI 모델의 중요성을 부각하며 AI 기술 생태계의 고도화와 산업별 생산성 혁신을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

@@ -1,0 +1,409 @@
+{
+ "date": "2026-09-22",
+ "generated_at": "2026-11-02T11:43:42+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "‘KIDS’ AI SUMMIT 2026’서 국내 학생 10명 교육감상…에듀테크 기업 4곳 참여",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUZ3J1R3RRZVRpcVdYd1J0Wnl0bGJfM0UwcTFpeUlLbW1uU0M3dmJWSWpWNWNLbWtoclBibkxZc2wyQldoQVA1MTdPMjJtRm1BZ21fbmowalg3Y2l2ek40ZmYwcXhhdEdl?oc=5",
+    "source": "gokorea.kr",
+    "published": "2026-09-21",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "'KIDS' AI SUMMIT 2026에서 국내 학생 10명이 교육감상을 받았고, 에듀테크 기업 4곳이 참여했다.",
+    "implication": "학생들이 AI 분야에서 성과를 내는 만큼, 수업에서 에듀테크 기반 AI 학습 자료를 탐색해 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "충남교육청 ‘5대 정책 방향’ 본격 실천… 6년 차 천안직업교육혁신지구 완성 나선다",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wRDI1d0w2MnFQWHZrUWI0eGxPdHRTOGNLOHB0RUw0dW04cTZ0cEM4eVJUN0YxV0V4UFlrUHlJRUl5OUZBY1BqOHhRVExWclVWMm9nMEtKT3ZRanhPeVJHNU1LeEZySl9naWc?oc=5",
+    "source": "천지일보",
+    "published": "2026-09-21",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "충남교육청은 5대 정책 방향을 본격 실천하며 6년 차 천안직업교육혁신지구 완성을 추진합니다.",
+    "implication": "학생들에게 천안 직업교육혁신지구 완성에 따른 변화를 안내하여 지역 맞춤형 진로 탐색을 지도할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "경기도교육청, 지역별 교육혁신 모델 확대… 8개 지역 선도사업 공모 준비",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1reTJxOFVtYmVBNDNrZzJJRm5Xa29zXzdsOTRQUEZHejR6M1FudlFuMFpFaUEzTjdyVHRNaGhqSHQ2bEVhRGhxdlROdG8zNHBiUGpTU3RtbHJON2JOaUVTWUxZRFhGNFBDMWtidlNBLTY4bnE4c3hwaDVR?oc=5",
+    "source": "로이슈",
+    "published": "2026-09-21",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청이 지역별 교육혁신 모델 확대를 위해 8개 지역 선도사업 공모를 준비합니다.",
+    "implication": "지역 특색을 살린 프로젝트 학습이나 지역사회 연계 수업을 계획하고 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "포천, ‘교육혁신선도지역’ 교육부 제출안 최종 점검",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAwSzA5SVJMV0xnaG4tZWU2ZGR3MjhtbGk3MkJNeldLSEJEcEI4LXdReExhX0VsMHBxQU5qeTNKTXVoUDNsVkpNXzlmTHRxcUdOZVVGTmFjSVFyRlVVTXBheW1ibkVMUQ?oc=5",
+    "source": "포천일보",
+    "published": "2026-09-21",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "포천시가 ‘교육혁신선도지역’ 교육부 제출안에 대한 최종 점검을 진행하고 있습니다.",
+    "implication": "포천의 교육혁신선도지역 추진으로 학생들에게 새로운 교육 자원과 기회를 안내할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "경기도교육청 예결특위, 교육현장 점검·재정운용 방향 논의",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqQWctVWM4Y2QzUzV4cDB6OExZUDUtRF8yZXc1MWxQckEtZnpucHFicXczQVV2bVJBRHdRSDdQVVJSZW9LbFdVT3Vkb0U2bnJUbTFXa2hkeXdsRjJITk1wcUZTQjdCNmVQVXpXMGNB?oc=5",
+    "source": "전국매일신문",
+    "published": "2026-09-21",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청 예결특위는 교육 현장을 점검하고 재정운용 방향을 논의했습니다.",
+    "implication": "교육청의 재정운용 방향 논의는 우리 학교 교육 환경 개선에 대한 기대를 높일 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "대전시교육청, ‘통합학교 관리자’ 특수교육 이해 연수로 리더십 강화…“포용의 교육 현장 만든다”",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5YdlVlU1o3NEMzRF8wWWNuYWs5QVVpTVJMYWRwd1Q5Sjd5bEhlNjM4MkhOS19uMzRhbF9yUFZUcTg3dWYtOHZMRUt6VGFxYzlRN2wyWTY5ZlNHWGNreGN4dTdWQjFJVk1LOGtqUnpKc9IBc0FVX3lxTE02bzhkc25BT1RObXZoQ1pNY3FmVjU1bW81LWlRM0xRa2huUEdXV2xrVlFTTVhvVWF0ck9RZUoxa05hVi1mZzF3ZEt4dVlFV0d5VHd2OUM1TFpXZVl3dmllMDZnVS16OWRxZ19SUm04dzB1aTA?oc=5",
+    "source": "대전투데이",
+    "published": "2026-09-21",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대전시교육청",
+     "특수교육"
+    ],
+    "summary": "대전시교육청은 통합학교 관리자 특수교육 이해 연수를 통해 리더십을 강화하고 포용 교육 현장을 만듭니다.",
+    "implication": "통합학교 관리자의 특수교육 이해 증진은 통합학급 학생의 개별적 요구를 반영한 맞춤형 수업을 시도할 때 큰 지지대가 될 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "김석민 군의원, ‘교육정책 제언’ 5분 발언",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fQ2hhd3I4UjByaVIxaDR2TUlDM01fd0pSNkZqYTZ0TVdiamZPeEtOZ3ZlMWE0dmNCT2xuVGFTamNTdFZBZWE0bHRuTDZYY0RzbVA1bkVmNEx2NEdQcXgyX0t4bTJubXl0U1NCcHF2NA?oc=5",
+    "source": "담양자치신문",
+    "published": "2026-09-21",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "김석민 군의원이 5분 발언을 통해 교육정책을 제안했습니다.",
+    "implication": "지역 의원의 교육정책 제안을 통해 우리 고장의 교육 현안을 수업에 연계할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "‘Top-down’ 방식 교육정책의 비극과 현장의 복원",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nQ3JWRTRhR1dOdW1HTFJVajMyU1ZWc0xBOFVjdlNFR3hJZHptR0pONHRReWVaZXp0N0dHcThnTGUwdlJGZDJTUC1UaGpYZkhLUmRqZGJQeFdQYVRfZFFHZGpwUVJULXU1?oc=5",
+    "source": "인천교육일보",
+    "published": "2026-09-21",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "하향식 교육정책의 비극적 결과와 현장 교육의 복원 필요성에 대한 내용입니다.",
+    "implication": "하향식 정책보다 학생의 필요를 최우선으로, 교실 현장에 맞는 유연한 수업을 계획할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "학부모들과 교육정책 의견 나누는 정근식 교육감",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9KTzBwX3VuSG1NdVNhTVNsY0pWR25rSUR1T0lVQWZvWlFBZG5SbmF3UUd1dmxRcFRFYmYtaTkwaG5rUExSc3g2d3pTQQ?oc=5",
+    "source": "뉴스1",
+    "published": "2026-09-21",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "정근식 교육감이 학부모들과 만나 교육정책에 대한 다양한 의견을 나눴습니다.",
+    "implication": "학생들에게 교육정책 형성 과정을 소개하고, 자신들의 의견을 제안해보는 활동으로 연결할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "전남광주교육청, 애틀랜타서 글로컬 교육정책·한국문화 알렸다",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KTHl2eTg3TzZTdDhNY1M2endRN1VLTHdFQlU0S1VhY0VVNEZHTnVhZWJwWVBLN3ZfenIyNHM1Yk9NYVZYUmV5TnltWk1COE5YckNqNkdFQWtZSWlDWm9qT0xneC3SAWhBVV95cUxQcXp6M1FmN0N3enlqR1VLdGs5R2ZLRG5TS1ZkcjBzM1FYTjd0c3l4VDZUX3N6a2JGRnEtTE5Fb1NwY05XSHZMaEp5Sy1QR0lvT3o5MDVwNDF1OWZKb1FKZlFVTkZwcnc0aw?oc=5",
+    "source": "m-i.kr",
+    "published": "2026-09-21",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "광주시교육청"
+    ],
+    "summary": "전남광주교육청이 애틀랜타에서 글로컬 교육정책과 한국문화를 알렸습니다.",
+    "implication": "우리 지역 문화를 세계에 알리는 수업 활동으로 학생들이 글로컬 역량을 기를 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Gamification and Artificial Intelligence: Transforming Classroom Teaching and Learning",
+    "url": "https://doi.org/10.65885/anubodhan.v2n3.2026.105",
+    "source": "openalex",
+    "published": "2026-09-19",
+    "keyword": "Connectivism",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "본 연구는 게이미피케이션과 인공지능이 학생의 동기 부여, 맞춤형 학습을 촉진하고 창의적 사고를 향상시키지만, 디지털 격차와 같은 도전 과제도 있음을 분석하며 미래 교육의 방향을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Dev Brat Yadav, Mukesh Kumar",
+    "pdf": "https://anubodhan.org/wp-content/uploads/2026/09/Vol-2-No-3-16.pdf"
+   },
+   {
+    "n": 2,
+    "title": "Embracing the Future of Artificial Intelligence in the Classroom: The Relevance of AI Literacy, Prompt Engineering, and Critical Thinking in Modern Education",
+    "url": "http://dx.doi.org/10.1186/s41239-024-00448-3",
+    "source": "eric",
+    "published": "2024-01-01",
+    "keyword": "",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [
+     "AI 리터러시",
+     "개인화 학습"
+    ],
+    "summary": "이 논문은 AI 리터러시, 프롬프트 엔지니어링, 비판적 사고의 중요성을 스위스 대학 사례 연구 및 문헌 검토로 분석하여, AI 시대 맞춤형 교육 혁신을 위한 효과적인 통합 전략을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Yoshija Walter",
+    "pdf": "http://dx.doi.org/10.1186/s41239-024-00448-3"
+   },
+   {
+    "n": 3,
+    "title": "Lost in Translation: Students’ Experiences of ELT Policy and Classroom Practice",
+    "url": "https://doi.org/10.47766/jetlee.v6i2.7466",
+    "source": "openalex",
+    "published": "2026-09-13",
+    "keyword": "Connectivism",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "인도네시아 중고등학생 143명을 대상으로 설문과 FGD를 통해 ELT 정책 경험을 분석한 본 연구는 실제 수업이 교사 중심의 문법 위주로 진행되어 의사소통 기회가 부족하며 정책 목표와 불일치함을 밝히고, 교사 연수 강화와 학생 중심의 교수법 도입을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Tri Efendi",
+    "pdf": "https://journal.uinsuna.ac.id/index.php/jetlee/article/download/7466/2342"
+   },
+   {
+    "n": 4,
+    "title": "Analysis of Metacognition among Pre-Service Elementary School Teachers in Indonesian Language Learning under the Implementation of the Merdeka Curriculum",
+    "url": "https://doi.org/10.54371/ainj.v7i3.1507",
+    "source": "openalex",
+    "published": "2026-09-20",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "인도네시아 예비 초등교사 40명 대상 설문조사 결과, 메르데카 교육과정 하 자기조절 메타인지 수준은 높으나 성찰적 평가 능력이 부족하여 교사 교육 개선이 필요함을 제언합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Dhiyaun Nadhira, Atep Sujana 외 1명",
+    "pdf": "https://www.journal.ainarapress.org/index.php/ainj/article/download/1507/756"
+   },
+   {
+    "n": 5,
+    "title": "OmniEdu: Open Foundation Models for Learning and Teaching",
+    "url": "http://arxiv.org/abs/2609.23088v1",
+    "source": "",
+    "published": "2026-09-19",
+    "keyword": "K-12 education",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "옴니에듀는 K-12 교육을 위한 개방형 기반 모델로, 문제 해결, 커리큘럼 이해, 진단 및 교수 행동 역량을 중심으로 큐레이션된 교육 데이터를 활용하여 언어 모델의 교육 분야 적용을 성공적으로 입증합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Hao Liang', 'Qihan Lin' 외 6명",
+    "pdf": "http://arxiv.org/pdf/2609.23088v1"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "뉴로퓨전, 답 없는 글로벌 AI 미래 예측 벤치마크 1위…국내 스타트업 ‘기술력 증명’",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215547",
+    "source": "AI Times",
+    "published": "2026-09-22",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "벤치마크"
+    ],
+    "summary": "국내 스타트업의 세계적 기술력 입증은 한국 AI 생태계의 글로벌 경쟁력과 성장을 가속화하는 핵심 동력입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "스페이스XAI 그록 4.7 출시…법률 에이전트 평가에서 GPT-5.6 솔의 8배 점수 기록",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oRnI3dklhX2p1ZndUVm83WDZaTlhURnhpY0I4M092R0RVNnJPU2o0V3lfdi1WWHhfLURENDUzcjI4TDZJdlVFSnhzblZCNnZIaFFQUA?oc=5",
+    "source": "AI 매터스",
+    "published": "2026-09-22",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "xAI",
+     "에이전트",
+     "ChatGPT"
+    ],
+    "summary": "Grok 4.7의 특정 분야 압도적 성능은 AI 시장의 경쟁을 심화하고 전문 모델의 중요성을 부각할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "KAIST, ‘지식 재사용’으로 서버 호출 57% 줄였다…“증류·추가학습 필요 없어”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215545",
+    "source": "AI Times",
+    "published": "2026-09-22",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [],
+    "summary": "이 기술은 AI 모델의 운영 비용과 학습 부담을 획기적으로 줄여 AI 서비스 개발 및 상용화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "오픈아트, AI 이미지·비디오 모델 평가 '아레나' 출시...\"용도별 최적 모델 찾아준다\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215531",
+    "source": "AI Times",
+    "published": "2026-09-21",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [],
+    "summary": "오픈아트 아레나는 난립하는 AI 모델 중 용도별 최적 모델 선택을 표준화하여 AI 기술 활용의 효율성과 실용성을 대폭 향상시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "LLM 내부에서 '고통 축' 발견...\"회피 행동까지 수행\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215520",
+    "source": "AI Times",
+    "published": "2026-09-21",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "LLM",
+     "AI 안전·규제"
+    ],
+    "summary": "LLM의 '고통 축' 발견은 AI 윤리, 안전성 및 모델 제어의 중요성을 극대화하며, 기술 개발 패러다임 변화를 촉발할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "앤돈랩스, AI가 기업 전반 자율 운영하는 플랫폼 '파이온' 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215537",
+    "source": "AI Times",
+    "published": "2026-09-21",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [],
+    "summary": "AI가 기업 전반을 자율 운영하는 플랫폼 등장은 전면적인 AI 기반 기업 자동화 시대를 앞당길 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+    "source": "OpenAI Blog",
+    "published": "2026-09-11",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "AI 서비스의 성공적인 대규모 확산은 클라우드 스토리지 등 인프라 기술 시장의 폭발적 성장을 견인할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "[AI리더의 서가] 요즘 AI 루프 엔지니어링",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215466",
+    "source": "AI Times",
+    "published": "2026-09-22",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 루프 엔지니어링은 AI 시스템의 자율적 개선을 통해 실제 산업 적용을 확대하고 기술 생태계의 성숙을 이끌 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "\"AI가 2주 만에 칩 설계...아키텍트 랩스, '레드우드'로 개발 패러다임 제시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215521",
+    "source": "AI Times",
+    "published": "2026-09-21",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [],
+    "summary": "AI의 칩 설계 자동화는 하드웨어 개발 패러다임을 근본적으로 전환하고 기술 생태계 전반의 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "LG, MS와 AI 협력 강화…LG전자 냉각장치 엔비디아 규격 승인",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaS1wVlVub0RsRk1PbW9oR3I3WlQ0akpUX3ZvdXpkYmRTSG5lZno3VUM4cXZZVG9LZDFodU1fYmRXMmlqR1hRZTAwSUo2MHROSF9qb3ZGV2JFYl9PNE1JbXpyZWxKZEZxZENIaFkyVjFSZTZPV21hMDNnWHhpMDNJakV5MA?oc=5",
+    "source": "구글 뉴스 AI",
+    "published": "2026-09-22",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "LG",
+     "NVIDIA",
+     "Microsoft"
+    ],
+    "summary": "LG의 MS AI 협력 강화 및 엔비디아 규격 냉각장치 승인은 AI 산업 생태계 전반의 수직적 통합과 인프라 고도화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

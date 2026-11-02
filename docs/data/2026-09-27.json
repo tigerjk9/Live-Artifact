@@ -1,0 +1,417 @@
+{
+ "date": "2026-09-27",
+ "generated_at": "2026-11-02T11:43:58+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[기고] 국가의 미래를 바꾸는 일...\"평생교육부터 무상으로\"",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XSjZTZnRYcW9rd0VCNzR1SmplZDVtVHhvTnZ4MWhMV3VzcFFwUGVLTU1zc0kwdG9PNFcxUFI2QTB4Yjg1STZlTXlLakVqYzAxOWJyYlpWZkxURnRGUGF6RjZ1Q1J6YUk?oc=5",
+    "source": "교육플러스",
+    "published": "2026-09-26",
+    "keyword": "교육정책",
+    "topic": "higher_ed",
+    "kind": "opinion",
+    "entities": [
+     "교육부"
+    ],
+    "summary": "기고문은 국가의 미래를 위해 평생교육의 무상화를 주장하는 내용입니다.",
+    "implication": "학생들에게 현재 학습이 미래 국가의 변화를 이끄는 평생교육의 시작임을 안내할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[송미나 칼럼] '평가'를 추방하고 '시험'을 들여온 교육개혁",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jcmN4bzNZQ1hSZHBaNmZRaDdTc1lUdloxRzBtOW52SXlhbXk5SlZhYWJqZWR6ZWFtNXJnbVU0TGc3WVB4akE1X2JDZk9PbkgxR2luNGJRRU1UajFtNXpBTHR6UzVOSEU?oc=5",
+    "source": "교육플러스",
+    "published": "2026-09-26",
+    "keyword": "교육정책",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "교육개혁이 광범위한 '평가' 대신 '시험' 위주로 전환되었음을 지적하는 칼럼이다.",
+    "implication": "시험 위주의 교육개혁 속에서도 학생들의 진정한 학습을 위한 다양한 평가 방식을 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "경북인재개발원, 금년 하반기 생성형 AI교육 확대 강화",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRUlrQWVCRWJOTlR6TWpHQTJVaDJjenctc21xWktPaGxZa2ZPWHh2a1BPZXRBekNlem9TSFo2aERyVWZMOGxZZ09tOTItUW5rMk02SWRzbGdMeDEtbWQ1c054SWhVdUNHQXlONDBBamlWN01yTElpdzkxSERFT3RWVQ?oc=5",
+    "source": "CBN뉴스",
+    "published": "2026-09-26",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "경북인재개발원은 금년 하반기부터 생성형 AI 교육을 확대 및 강화할 예정입니다.",
+    "implication": "학생들이 미래 사회에 필요한 생성형 AI 활용 능력을 기르도록 수업에 적극적으로 반영할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "‘읽걷쓰AI’로 진화… 애플·구글과 손잡는 인천시교육청",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OcXE2UEhtc0o0S1Vrem85NzdwYUVHSkdLcFFfNHJmOVV6V1BfU1Z0bHljVk1FVzdrVnh3R25aNTdjaEFSb0lncVNxbFVaOWtPbWc?oc=5",
+    "source": "경인일보",
+    "published": "2026-09-26",
+    "keyword": "에듀테크",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "Apple",
+     "Google",
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청이 애플, 구글과 협력하여 ‘읽걷쓰AI’ 교육으로 진화한다.",
+    "implication": "애플, 구글의 AI 도구를 활용하여 ‘읽걷쓰’ 활동 기반의 맞춤형 수업을 설계할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "식품진흥원, 생성형 AI 실무교육…기획·마케팅 콘텐츠 제작까지",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fR24tN1hHOU1XT01wdEhENnFpMHBzc1FiYXEtei01alVmUHVQeF9ReHRUam9zTWU4OW1ZNGcxRDVaRGNad0ZtbGlPWDZQX3hWVWdocXl4SjVoVE1IYlJSMGhyNXlxY2NjNmdYMEdR?oc=5",
+    "source": "한국영농신문",
+    "published": "2026-09-26",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "식품진흥원은 기획·마케팅 콘텐츠 제작 역량 강화를 위해 생성형 AI 실무교육을 실시합니다.",
+    "implication": "학생들에게 생성형 AI를 활용한 기획·마케팅 콘텐츠 제작 실습을 통해 미래 직업 역량을 키울 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "[심층] 대구시교육청, '글로벌 교육 수도' 도약 선언···마음 교육·KB 추진에 주력",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVbVNiNHY5dVRWMm1Td1lWZ0dMeTg0eGhNNlNIWmRyRVgzMnN3cGt2d2J5QzJCbDc0ZzRFeDZ2b3NYUHg3cWhuNC1LekY?oc=5",
+    "source": "대구MBC",
+    "published": "2026-09-26",
+    "keyword": "생성형AI교육",
+    "topic": "policy",
+    "kind": "feature",
+    "entities": [
+     "대구시교육청"
+    ],
+    "summary": "대구시교육청이 글로벌 교육 수도 도약을 선언하고 마음 교육 및 KB 추진에 주력한다.",
+    "implication": "대구시교육청의 글로벌 교육 수도 목표에 맞춰 학생들의 마음 교육 및 세계 시민 역량 강화 활동을 수업에 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "[에이전틱 AI 맵 2026] 액션파워, 음성 기록 넘어 업무 결과물 만드는 ‘실행형 AI’로",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SazkydlZZU3NRZGVRR2FFNExGNDJEWl92eDIyZGRDNzd2WGtEQVE1TFpSYnI0V0hlbXdXOGRxdHpZZEZ1UjBtQnhET1k3Q2NaYU5LV2RrSHNydHdOVjE4SzlkOVROa1pyaHRpTFJYLWc3Q2RD0gF0QVVfeXFMT1JrOTJ2VllTc1FkZVFHYUU0TEY0MkRaX3Z4MjJkZEM3N3ZYa0RBUTVMWlJicjRXSGVtd1c4ZHF0ellkRnVSMG1CeERPWTdDY1phTktXZGtIc3J0d05WMThLOWQ5VE5rWnJodGlMUlgtZzdDZEM?oc=5",
+    "source": "IT조선",
+    "published": "2026-09-26",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "액션파워는 [에이전틱 AI 맵 2026]에 맞춰 음성 기록을 넘어 실제 업무 결과물을 만드는 실행형 AI 개발에 집중한다.",
+    "implication": "학생들의 구두 발표나 토론 내용을 AI가 분석하여 요약문, 키워드, 심지어 보고서 초안까지 만들어 수업의 효율성을 높일 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "[인터뷰] 두르가 말라디 퀄컴 \"6G는 속도 아닌 `에이전틱 AI` 통신… 2029년 상용화 차질 없다\"",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQaXpJZjQ4V0VXNG1pMy1oYmhzdkMzNms4YWRRcEpqV19XQnFZRFBuOElEUEFVLW5xOGs2YlY3dXFlNlBJQy1JYW5JcHJYZUJ0YXM3RzZlQmVkbElpSEJkWnpPT2E?oc=5",
+    "source": "디지털데일리",
+    "published": "2026-09-27",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": "interview",
+    "entities": [],
+    "summary": "퀄컴 두르가 말라디는 6G가 속도 아닌 '에이전틱 AI' 통신이며 2029년 상용화가 순조롭다고 밝혔습니다.",
+    "implication": "미래 6G 기술은 속도를 넘어 AI와의 융합이 핵심임을 학생들에게 설명할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "엠클라우독, 기획부터 답변까지 스스로 끝내는 에이전틱 AI ‘딥코웍’ 고도화",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yOFNTUFRvaGV6b2QxU3E2R0ZRaGxtZDg2YUNuR3FfdWttQ0xyYUlxblNRNnpfbzZsSWNvWVNYSHhrTGxMNHVsVlV6TVdzUnhQdENhNXlFVHBWV0RUazg0ZHNvcHN3TzBxZzFn?oc=5",
+    "source": "보안뉴스",
+    "published": "2026-09-26",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "엠클라우독이 기획부터 답변까지 스스로 처리하는 에이전틱 AI ‘딥코웍’을 고도화했다.",
+    "implication": "학생들이 과제 기획부터 자료 조사, 답변 구성까지 AI를 활용해 효율적인 학습을 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "AI 에이전트에 맡긴 내 정보, 어디에 쓰이나...AI 학습·보유 조건 확인",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LNEt1T1ZOQUhES3NkS3N3bDZaWjFYN0NtZkRDNmNMSGpQdy1QUzVCV1JoZ3hDQU5kcXRkclJPSm9xUFBGZEI1akFSRWExeVV4Vm1IWkVBQnJ2TTRka2J6TDJRU3dZSXNlemc?oc=5",
+    "source": "지티티코리아",
+    "published": "2026-09-26",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "AI 에이전트에 제공된 개인 정보의 활용처와 AI의 학습 및 보유 조건을 확인하는 것이 핵심 내용입니다.",
+    "implication": "AI 에이전트 활용 시 개인 정보 사용 조건 확인의 중요성을 학생들이 스스로 탐색하게 지도할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "STEAM Education and Sustainable Development in Thailand: Achievements, Challenges, and Future Directions",
+    "url": "https://doi.org/10.62370/hbds.v27i3.285063",
+    "source": "openalex",
+    "published": "2026-09-24",
+    "keyword": "Connectivism",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "이 연구는 태국 STEAM 교육이 지속가능발전목표에 기여하는 현황과 과제를 혼합 방법론으로 분석하여, 자원 불균형, 예술 통합 미흡 등의 개선을 통해 미래 세대의 지속가능 역량 강화를 위한 교육적 함의를 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Atchara Limwongthong, Nachon Prayoonvong",
+    "pdf": "https://so01.tci-thaijo.org/index.php/hbds/article/download/285063/184018"
+   },
+   {
+    "n": 2,
+    "title": "AI and higher education: teachers’ perceptions of students’ ethical tensions in online pedagogical methods",
+    "url": "https://doi.org/10.3389/fpsyg.2026.1881032",
+    "source": "openalex",
+    "published": "2026-09-24",
+    "keyword": "edtech",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [],
+    "summary": "이 질적 연구는 온라인 AI 교육 환경에서 교사들이 인지하는 학생들의 학생 윤리적 긴장을 언어 교육의 5가지 교수법을 통해 분석하여, 학습의 진정성, 권위 도전, 협력 역학이라는 세 가지 윤리적 영역으로 통합하고 방법론 기반의 윤리 정책 필요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Wang Baoyi, Farman Ullah Khan",
+    "pdf": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1881032/pdf"
+   },
+   {
+    "n": 3,
+    "title": "Impact of Digital and Non-Digital Educational Games on Grade 1 Students’ Engagement and Academic Achievement",
+    "url": "https://doi.org/10.29333/iji.2026.19428a",
+    "source": "openalex",
+    "published": "2026-09-24",
+    "keyword": "",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [],
+    "summary": "준실험 설계를 통해 초등 1학년 학생들에게 디지털 및 비디지털 교육용 게임을 6주간 적용한 결과, 두 방식 모두 학업 성취도와 참여를 향상시키지만 통계적 유의미한 차이는 없어 다양한 교육 환경에서 유연하게 활용 가능한 초기 학습 전략을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Kainat Arif, Rabia Perveen",
+    "pdf": "https://doi.org/10.29333/iji.2026.19428a"
+   },
+   {
+    "n": 4,
+    "title": "Implementing the Integrated Foreign Languages Curriculum in Greek EFL Education: Teachers’ Beliefs, Practices and Professional Challenges",
+    "url": "https://doi.org/10.29333/iji.2026.19427a",
+    "source": "openalex",
+    "published": "2026-09-24",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "그리스 EFL 교사 370명 대상 혼합 연구로 통합 외국어 교육과정 이행의 불균형과 그 원인을 분석하여, 교육 혁신을 위한 교사 교육 및 참여형 커리큘럼 설계의 중요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Dimitrios Nikolaidis",
+    "pdf": "https://doi.org/10.29333/iji.2026.19427a"
+   },
+   {
+    "n": 5,
+    "title": "Bridging the Gap: Reviewing Assessment Literacy of Teachers and Learners in Asian Content and Language Integrated Learning Classrooms",
+    "url": "https://doi.org/10.62370/hbds.v27i3.286916",
+    "source": "openalex",
+    "published": "2026-09-24",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [
+     "문해력"
+    ],
+    "summary": "본 논문은 아시아 CLIL 교실의 교사와 학생 평가 문해력 프레임워크 간의 격차를 체계적인 문헌 검토로 분석하여, 효과적인 이중 언어 교육을 위한 보다 공정하고 협력적인 평가 모델 설계의 기반을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "VO TRUONG GIANG, Atima Kaewsa-ard",
+    "pdf": "https://so01.tci-thaijo.org/index.php/hbds/article/download/286916/184022"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+    "url": "https://openai.com/index/ringg",
+    "source": "OpenAI Blog",
+    "published": "2026-09-23",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "에이전트",
+     "OpenAI"
+    ],
+    "summary": "Ringg의 사례는 OpenAI 기반 AI 에이전트가 고객 응대에서 높은 자율성을 증명하며, AI 기술의 상업적 활용과 산업 전반의 디지털 전환을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "머스크 \"연말까지 콜로서스 2 GPU 두 배 증설\"... 최대 121만개 달성",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215674",
+    "source": "AI Times",
+    "published": "2026-09-26",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "xAI",
+     "GPU·데이터센터"
+    ],
+    "summary": "머스크의 대규모 GPU 증설은 AI 기술 경쟁에서 컴퓨팅 파워 확보가 핵심 동력임을 재확인하며, 산업 내 컴퓨팅 자원 경쟁을 격화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[기업家] 오픈AI ③ㅣ 챗GPT 이미지 유출·AI 에이전트 무단 해킹 논란…신모델 출시 속 안전성 검증 강화",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE96ZVZMV0UzTEF3dXZEZU41U2Rna0JpdVJKRnpyVXJhVnE2aVNxWC1rLTZnZ20tZGlIWXNUTEk2SGJHalQyS0VnZlVWOERuTVllOVJxcUp6bnhJVnpoejhnc0RoWnlERGZq?oc=5",
+    "source": "CBC뉴스",
+    "published": "2026-09-26",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT",
+     "에이전트",
+     "AI 안전·규제"
+    ],
+    "summary": "신속한 AI 모델 출시에 앞서 안전성 및 보안 검증 강화는 AI 기술 생태계의 신뢰와 지속 가능한 성장을 위한 핵심 과제입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "AWS, 토큰 비용 28% 줄인 오픈소스 AI 에이전트 '스트랜즈 하네스' 공개",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTEVsZDVRU01uaXJBbnlYc0d5amtSQUZEejNUVHppUjJuSUV0WnYzb1FNREpDZDRJX2EtRDBjdFR0ODRYaDNrd1Bmc2dkWWx5c1V3R3VyNUw4VVViRG1jM25uNlI5cGdKOXZSS3Q0dlh1cXBLME5oTXRLM1c0bzBnSQ?oc=5",
+    "source": "edaily.co.kr",
+    "published": "2026-09-27",
+    "keyword": "오픈소스",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Amazon",
+     "오픈소스",
+     "에이전트"
+    ],
+    "summary": "AWS의 토큰 비용 절감 오픈소스 AI 에이전트 공개는 AI 애플리케이션 개발 비용 효율성을 극대화하여 AI 기술 대중화와 산업 전반의 혁신을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "KT ‘AI 모델 라우팅’ 기술, 美 라이스대 개발 LLM 벤치마크서 2위",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43d3B6RkdwT3Jyc1VSdHVxZWljcmhkVldURmhwTDE2bUxYeWs0RHRaME1WcnVyanJaUkxUcDlwZGhhZW5xYnp3SUFfUW9zN2FCS0hkRDh2Y2tMekhfT2NRYTJJd0ZWTE9reE52Rmc0cw?oc=5",
+    "source": "이코노뉴스",
+    "published": "2026-09-27",
+    "keyword": "LLM",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "KT",
+     "LLM",
+     "벤치마크"
+    ],
+    "summary": "KT의 AI 모델 라우팅 기술 성과는 통신사가 AI 핵심 효율성 기술로 LLM 상용화를 가속화하며, AI 산업 생태계 경쟁 구도를 다변화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+    "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+    "source": "OpenAI Blog",
+    "published": "2026-09-23",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "ChatGPT 광고의 동남아시아 및 대만 확장은 AI 기술의 상업화 가속화와 글로벌 시장 경쟁 심화를 통해 AI 생태계의 성장을 견인할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "GPT-6 Astra Just Hit OpenAI's Highest Cybersecurity Risk Level",
+    "url": "https://towardsdatascience.com/gpt-6-astra-just-hit-openais-highest-cybersecurity-risk-level/",
+    "source": "Towards Data Science",
+    "published": "2026-09-21",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "OpenAI",
+     "AI 안전·규제"
+    ],
+    "summary": "GPT-6 Astra의 최고 사이버 보안 위험 등급 도달은 AI 발전 속도에 비례하는 보안 위협 증가를 의미하며, 업계 전반의 안전성 확보 및 규제 강화가 필수적입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "V7 cuts costs 78% while boosting accuracy with GPT-5.6 Luna",
+    "url": "https://openai.com/index/v7",
+    "source": "OpenAI Blog",
+    "published": "2026-09-21",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.6 Luna와 같은 최신 AI 모델이 비용 효율과 정확도를 동시에 극대화하여 기업 경쟁력 향상 및 산업 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "\"기계의 낙원 속 인간성 지켜야\"…교황 레오 14세, 프랑스서 AI 오남용 경고",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215682",
+    "source": "AI Times",
+    "published": "2026-09-27",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [],
+    "summary": "교황의 AI 오남용 경고는 AI 기술 생태계에 인간성 보호를 위한 윤리적 개발과 책임 있는 적용의 중요성을 강조할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "미중 정상, AI 비상 핫라인 구축 합의…규제 대신 '위기 관리'에 초점",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215680",
+    "source": "AI Times",
+    "published": "2026-09-27",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [],
+    "summary": "미중의 AI 위기 관리 합의는 포괄적 규제 대신 기술 경쟁 속 우발적 충돌을 막아 AI 생태계의 불안정성을 관리할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

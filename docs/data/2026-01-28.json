@@ -1,0 +1,162 @@
+{
+ "date": "2026-01-28",
+ "generated_at": "2026-11-02T11:51:22+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[박시은 AI 교육전문가 칼럼] AI 기본법, 대한민국 미래 경쟁력의 시험대",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYUG1EcDVlN3lZTE5uMWs4MjBDUkN5TlJrVG94bi04MHlRTG94YjNldVFKTml6c2FTUHl0VG1sdTRSWnkyOS1xaEVpZktFWG9RZk9RVnlLbTVad1FES2Q0UmJiX3lpNVN3R0NoSQ?oc=5",
+    "source": "파이낸스투데이",
+    "published": "2026-01-27",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "AI 기본법은 미래 교육 방향 설정에 중요한 지침이 될 것이며, 교육계는 AI 활용 역량 강화 및 윤리 교육에 힘써야 할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[칼럼] AI 강국의 길, ‘정답’이 아닌 ‘질문’을 가르치는 교육에 있다",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4xeXpHbXY2RS1kYUxlbmNCbkN2OVVTd21JdWxSdjZnYmZPNzVEcGowYlVFMnVoTjFHRkdLcGpzUmEybG1DRVJmcnRlbzU5Z0VmcGZ2Z1BfZXFqQk1jcHNWR0FvcVFVdlV0d0FsNFhhMNIBb0FVX3lxTE4xeXpHbXY2RS1kYUxlbmNCbkN2OVVTd21JdWxSdjZnYmZPNzVEcGowYlVFMnVoTjFHRkdLcGpzUmEybG1DRVJmcnRlbzU5Z0VmcGZ2Z1BfZXFqQk1jcHNWR0FvcVFVdlV0d0FsNFhhMA?oc=5",
+    "source": "newstheai.com",
+    "published": "2026-01-27",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "AI 시대에는 정답 암기식 교육에서 벗어나 창의적 질문 능력을 키우는 교육 혁신이 시급합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[김현태 칼럼] 성공한 혁신보다 준비 없는 실험, 이해찬의 교육 개혁",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jczQxaVhjZUgzWU9CYktnQW9LWjU1c05mSk4yNUVMX0NXa2QwbnJ0SkE5VTh0cDZWZXFjdkR1Mm9sQW5jVHJCU3lXdEpFTDU5c3FSakxCeXVoMzB4NXVLeTdvZWhsODEt?oc=5",
+    "source": "에듀프레스",
+    "published": "2026-01-27",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "이해찬 세대의 교육 개혁은 이상적인 혁신보다 면밀한 준비 부족으로 교육 현장에 혼란을 야기할 수 있다는 점을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[박소영 칼럼] 어차피와 그래도 사이에서 커리어는 갈라진다",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE0tYU40WUFUQk5pbkVPMDNRQU1ab2J6RnNjcWg0ZFB6X1ZqbU1XbXdLem4wLWNjdGw0WjVEc0pHTFk2dm8?oc=5",
+    "source": "한국공공정책신문",
+    "published": "2026-01-27",
+    "keyword": "뇌과학",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "성장의 기로에서 회피적 태도 대신 능동적 자세를 함양하는 교육이 중요합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[교육칼럼] 떠나는 둥지에 남은 색",
+    "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2253573",
+    "source": "대전일보",
+    "published": "2026-01-27",
+    "keyword": "",
+    "topic": "teacher",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "교사의 솔선수범과 학생과의 적극적인 소통은 긍정적인 교실 분위기 조성과 학생들의 능동적인 참여를 이끌어내는 중요한 요소임을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "인천시교육청서구도서관, 2026년 사회정서학습 기반 독서문화로 ‘읽걷쓰 AI’ 확산",
+    "url": "https://www.lecturernews.com/news/articleView.html?idxno=195637",
+    "source": "한국강사신문",
+    "published": "2026-01-28",
+    "keyword": "",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천 서구도서관의 사회정서학습 기반 '읽걷쓰 AI' 확산 노력은 학교 교육 현장에서도 학생들의 전인적 성장과 디지털 역량 강화를 위한 융합 교육 모델을 제시한다는 점에서 시사하는 바가 큽니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "경기도교육청, 국제교육 선도교사 역량강화 연수 운영",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRZWpKRnIyR2NTN3pYTW9QX0NWQ0kxWTBSblpPYk9rVDlGMUk3MGx5MC1Yemp3Z201MEoyVTU1dVllZkF2RUJ6eVZQQTdPOTdKQWpGelhaTTZDRjZFZndldUJWN3RuTGprYUswSi1FMA?oc=5",
+    "source": "kihoilbo.co.kr",
+    "published": "2026-01-27",
+    "keyword": "AI디지털도구",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "국제교육 선도교사 역량 강화 연수는 학교 현장의 국제 교육 활성화 및 질적 향상에 기여할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "‘뇌가 바뀌면 지능이 자란다’ 출간… 뇌과학·심리상담 접목한 실천적 뇌 교육 해법 제시",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JWFRXeVBPaXQ4N3lfNWFXal9uMENKeWRYeEtmamp5RVVRaXNncHg5OVJtNUUxMndKaDFRaUVMWWxISWsxdjF1TFhLY3cxcXVPajFMNWI3NGZMZw?oc=5",
+    "source": "위클리피플 인물지식가이드저널",
+    "published": "2026-01-27",
+    "keyword": "뇌과학",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [],
+    "summary": "뇌 과학과 심리 상담을 융합한 실천적 뇌 교육 해법은 학습 능력 향상을 위한 새로운 교육 모델 제시 가능성을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "경기도교육청, 북부연수원 개원 1주년 맞아 미래교육 실행 전략 논의",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yLUo0VkcyY3pRTEYtQkJSN3hNbGZVNkNGMG03S3MwOU1wY1Y1blhzazQxc2lWaGJnTW9EbktuM1NWQUdaMGpFSmFKMzAxZmVwaFRmY2x2dmxXRjJtWk9EYzEwN0JHOXZuZm5z0gFvQVVfeXFMTnRWVU9qMGQ2OE5tN2MtRmxfREM0V2wwaDJZWUtDem8zeHhlbDBpaFJzeVdZN1pweF93VTFUVU5YalNDTHN5Vlp0YmpfdVZqRVRsOFRlUUJkOTRTWHdYSkhQSFlpUlQ1TVNIZ2dWN21B?oc=5",
+    "source": "한스경제",
+    "published": "2026-01-27",
+    "keyword": "디지털교육",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청 북부연수원의 미래교육 실행 전략 논의는 교사 역량 강화와 미래 교육 방향 설정을 위한 중요한 발걸음입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "경기도교육청국제교육원, AI 활용 국제교육 선도교사 양성",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBDT0ozM2dmZGtFQXloVGRxRldKdXAzQ0hCdTRSNlRkR0RYSDE5bzlMRHcwWExJRUFhQWRCTy1PZTk2dWQtM0pJSlMyTVo?oc=5",
+    "source": "morningtoday.co.kr",
+    "published": "2026-01-27",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "AI 활용 국제교육 선도교사 양성은 미래 교육 변화에 발맞춰 교사의 디지털 역량 강화 및 국제 교류 활성화에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [],
+  "tech": []
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 시대에 발맞춰 미래 경쟁력을 강화하고 국제 교육을 선도하기 위해, 질문 중심 교육, 사회정서학습, 뇌 과학 기반 교육 등 혁신적인 교육 방법들을 적극적으로 도입하며 미래 교육을 준비하는 움직임이 활발하다."
+ }
+}

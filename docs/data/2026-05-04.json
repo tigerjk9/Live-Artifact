@@ -1,0 +1,394 @@
+{
+ "date": "2026-05-04",
+ "generated_at": "2026-11-02T11:35:56+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[충남시론] 진흙탕 교육감 깜깜이 선거, 보고만 있어야 하나?",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSNTZ4Q010OHRIWHB1d2I0dzJNRXR6UXoyNFlCaXpnQUNVX21PNG1nZzJBV3h3UUZtS3daOFdRa2lRQnhvVnhXczZIMzU3ZjJobGNxSXd1QkJ1UVhVZ1BKTTE3RUNjZHlmdS1vMVYzWER2UHM?oc=5",
+    "source": "충남일보",
+    "published": "2026-05-03",
+    "keyword": "현장교사",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 2,
+    "title": "[데스크 칼럼] ‘기계적 판결’이 망가뜨리는 교육 현장… 교사가 신인가",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jaGUzdVlxVWQ0RWRMeXJubE90SmtWNldlRXFvZnRkR0xkdlhTOHFnOFVaWEtsdDFJbjVnWGR6QlFuVlpoRzdUVTIzTDc1TTA5d2tCcS1PZ3FrRmMzeDV5M0dHSWJnWVNGbnBZ?oc=5",
+    "source": "ainews1.co.kr",
+    "published": "2026-05-03",
+    "keyword": "교육현장",
+    "topic": "teacher",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 3,
+    "title": "[홍산로 사설] 39.8도 고열로 사흘 버티다 숨진 교사, 5월 4일 국가가 답해야 한다",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lR2k3WWJxamdFOFRDV2x0MXJhdVoxV2d5Z1prTWdVNmxoa3lheDNENDdmVnJ5ZE1pZW84dEQxX1NQSEZYU2ZfekRycjZGdkQ5ZThwUmdneEZvdXRJa0pF?oc=5",
+    "source": "전북미래교육신문",
+    "published": "2026-05-03",
+    "keyword": "에듀테크",
+    "topic": "teacher",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 4,
+    "title": "디지털융합교육원, 마스터마인드협회서 ‘생성형AI교육지도사 민간자격증’ 과정 강의 진행",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1mZTBPMU1OYW5aenBOMjQ0OTBWNE1Kd2RKVzg2OXFUSWZQbXN4d0xrUUxCekRsd3kxRmNXTjhfXzctZEVCaUhPOTBEREt4aDZRN2djZWhfOEx3Q3pZYzFUcURNZHpQOVByME1NNQ?oc=5",
+    "source": "파이낸스투데이",
+    "published": "2026-05-03",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 5,
+    "title": "[경기 교육] \"학생이 만드는 교육정책…경기도학생참여위원회 15년”",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XVlg5MWRGb3Q5Tmg3UVV4eTVGZklfbHE0Q1E1dWh6cDFOWXJ5R05FM1BheXFLeXp2SFhQNkZwTXljQTJQa1RvbjRVN1djNHdzTjl4ZmctekpyckFwOHc0MDJ3?oc=5",
+    "source": "경기신문",
+    "published": "2026-05-03",
+    "keyword": "과정중심평가",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 6,
+    "title": "임태희 “교육현장 멍들게 하는 악성 민원, 교육감이 직접 고발하겠다”",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUDNkSjl2S1RqZGZNV2w5UTA4Vm5rS2g5c0dqUDZhRkZleW9PRmRGaXhEOG1Rd2oxYWE4bGFUbFdzalVhU2g1OU92cTFqWU9zZVpzSzdSUTVpaENEd3hFU0swVXJBZExNb1lvNlkybzVzcGYwYTliYzRPd3lPODhMcjFMaWl3Q0E2SEE?oc=5",
+    "source": "서울신문",
+    "published": "2026-05-03",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 7,
+    "title": "[교육탐사 ①] 전교조, 국교위 중장기 계획에 '신자유주의 30년 청산' 요구",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kMFliM25rZDlFZnAwZkJyUUkxVVc4X3l6cm9LcnFuRGw5Vk4teWFYTzNBWm1nUW1jX3NjUUEyRktHMWo4TGtQcU5CLWFWQ2tqeW4zYjNnU3I2Z1h5dnk4?oc=5",
+    "source": "전북미래교육신문",
+    "published": "2026-05-03",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교원단체"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "경남교육청 ‘AI로 여는 맞춤 교육, 학교의 변화·해법 말하다’",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PejRXcjdTX244Vjl0Z2dELWhMRkVpMzJXTUNDOUhWQUM5WGZPMkdPWFlHSFg2SHpwUlJaRU83X0Y3a3FSaktZX2pIcWNRTEF4cVdVMUhaOUxxQmEyWEdLZ1hQUGQyakdO?oc=5",
+    "source": "경남도민신문",
+    "published": "2026-05-03",
+    "keyword": "AI디지털도구",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경남교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "Z세대, 생성형 AI 사용 주도… 챗GPT 점유율 가장 높아",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40cnFjWHBNQWVoa2pULTNYdDhDQ0hiaHhMMUJ5eTJHY010NjZFWm5aZDQ2XzRhTUUzRFpFblhxTy05WTlfLTBpWk03UVZ0QWJQQUVHRXpPU2ktQ3UwNHpDSkhoYnpGNXpHUjNicg?oc=5",
+    "source": "매드타임스",
+    "published": "2026-05-03",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "ChatGPT"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 10,
+    "title": "경기도교육청미래과학교육원, 학부모 대상 디지털 역량 강화 소프트웨어 및 인공지능 교육 실시",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yQ1Q0c2drLXhLeDR3alNobEV6eHRSWnFwem1XS010aUxSbkZVTHJpZ2tkM1dOUWI4RzF4WmNTMDRwMUlqaVZuX2NHZUNvRDR3VFJMSGdaQTJ6Q2F0Z05XYWZ6SzRXQQ?oc=5",
+    "source": "교육을 비추다",
+    "published": "2026-05-03",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Factors Affecting Mathematics Teachers’ Instructional Decision-Making: An Ecological Systems Theory Multiple-Case Study",
+    "url": "https://digitalcommons.usu.edu/etd2023/741",
+    "source": "openalex",
+    "published": "2026-05-01",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 교사의 의사결정에 영향을 미치는 생태학적 요인들을 다중 사례 연구를 통해 분석하여, 교사의 자유, 기대 해석, 내적 동기가 상호작용하며 실제 수업에 영향을 미친다는 것을 밝히고, 교육 정책 및 교사 지원 방안에 시사점을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Camille M. Lund",
+    "pdf": "https://digitalcommons.usu.edu/context/etd2023/article/1763/viewcontent/TEALetd2026May_Lund_Camille.pdf"
+   },
+   {
+    "n": 2,
+    "title": "Levering AI to Enhance Students&apos; Conceptual Understanding and Confidence in Mathematics",
+    "url": "http://dx.doi.org/10.1111/jcal.13065",
+    "source": "eric",
+    "published": "2024-01-01",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "본 연구는 GeoGebra, ChatGPT와 같은 AI 도구를 활용한 수학 교육이 학생들의 개념 이해도와 자기 효능감을 향상시키지만, 기술적 문제, 교사 대체 우려, 편향성 등의 과제를 제시하며, AI를 보조적인 도구로 활용하는 신중한 접근 방식이 필요함을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Allan Mesa Canonigo",
+    "pdf": "http://dx.doi.org/10.1111/jcal.13065"
+   },
+   {
+    "n": 3,
+    "title": "Concept-Based Instruction: Building Curriculum with Depth and Complexity",
+    "url": "https://www.prufrock.com/Concept-Based-Instruction-Building-Curriculum-With-Depth-and-Complexity-P3346.aspx",
+    "source": "eric",
+    "published": "2020-01-01",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "개념 기반 수업은 교육 이론가들의 아이디어를 활용하여 깊이 있고 복잡한 학습 경험을 설계하도록 돕고, 다양한 교과목에서 학생들의 사고력과 참여를 촉진하는 실질적인 교육 단위 개발 방법을 제시하여 교육 현장에 의미 있는 영향을 미칩니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Scott, Brian E.",
+    "pdf": "https://www.prufrock.com/Concept-Based-Instruction-Building-Curriculum-With-Depth-and-Complexity-P3346.aspx"
+   },
+   {
+    "n": 4,
+    "title": "Planning and Instruction of Social Emotional Learning in Elementary Art Education",
+    "url": "https://gateway.proquest.com/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&res_dat=xri:pqm&rft_dat=xri:pqdiss:31633451",
+    "source": "eric",
+    "published": "2024-01-01",
+    "keyword": "SEL education",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 미국 중서부 지역 초등 미술 교사 10명과의 인터뷰를 통해 SEL 통합 미술 교육 계획 및 실행 방식을 탐색하여, 학생 경험 및 안전한 환경 조성 활용, 다양한 철학 적용 등 교사 경험 기반의 실천적 고려 사항을 제시함으로써 학생의 사회 정서적 성장 및 학교 성과 향상에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Jonathan Juravich",
+    "pdf": "https://gateway.proquest.com/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&res_dat=xri:pqm&rft_dat=xri:pqdiss:31633451"
+   },
+   {
+    "n": 5,
+    "title": "Technology-Enhanced Writing Pedagogy for EFL Learners: A Multi-Study Dissertation on Practice, Effectiveness, and Teacher Perceptions",
+    "url": "https://escholarship.org/uc/item/1bf8j2r7",
+    "source": "openalex",
+    "published": "2026-12-24",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 EFL 학습 환경에서 디지털 도구가 글쓰기 교육에 미치는 영향을 다각도로 분석하여, 도구-장르-과제 정합성을 고려한 교육 설계와 교사 역량 강화, 제도적 지원이 효과적인 글쓰기 능력 향상에 중요함을 밝히고 교육적 시사점을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Xiao Lin",
+    "pdf": "https://escholarship.org/content/qt1bf8j2r7/qt1bf8j2r7.pdf"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "\"딱딱한 담당자 같던 말투 벗어나\"... GPT-5.5, '4o'의 매력 되찾나",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210038",
+    "source": "AI Times",
+    "published": "2026-05-03",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.5의 자연스러운 말투 개선은 AI 챗봇의 사용자 경험을 향상시켜 다양한 산업 분야에서 활용도를 높일 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "\"비전은 알트먼, 질서는 프라이어\"...IPO 앞둔 오픈AI CFO가 부각되는 이유",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210035",
+    "source": "AI Times",
+    "published": "2026-05-03",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "오픈AI IPO 추진은 샘 알트먼의 비전과 더불어 프라이어 CFO의 재무적 안정성이 결합되어 AI 산업의 성숙과 투자를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "오픈AI 버전 '랄프 루프' 등장...코덱스 CLI에 ‘자율 목표’ 기능 추가",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210020",
+    "source": "AI Times",
+    "published": "2026-05-02",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "에이전트"
+    ],
+    "summary": "OpenAI의 코덱스 CLI 자율 목표 기능 추가는 개발 자동화 및 AI 에이전트 진화 가속화에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[기고] 한국딥러닝 \" 금융 AI 실체는 데이터 저장(DX)이 아니라 인지적 자동화(AX)의 완성도에 있다\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210027",
+    "source": "AI Times",
+    "published": "2026-05-02",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "금융 AI 성공은 단순 데이터 축적 넘어 인지 자동화 완성도에 달려 있으며, 이는 AI 기술 경쟁력 강화 및 금융 서비스 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "ChatGPT now tracks users for ads by default as OpenAI looks for new revenue",
+    "url": "https://the-decoder.com/chatgpt-now-tracks-users-for-ads-by-default-as-openai-looks-for-new-revenue/",
+    "source": "The Decoder",
+    "published": "2026-05-02",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "OpenAI"
+    ],
+    "summary": "OpenAI의 광고 기반 수익 모델 전환은 AI 서비스 경쟁 심화 속 사용자 데이터 활용 논쟁을 심화시키고 개인정보 보호 중요성을 부각할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "OpenAI available at FedRAMP Moderate",
+    "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
+    "source": "OpenAI Blog",
+    "published": "2026-04-27",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "OpenAI의 FedRAMP Moderate 인증 획득은 정부 기관의 AI 도입을 촉진하고, AI 기술의 공공 부문 확산에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "'AI 교육' 프리윌린이 우간다로 간 이유는...\"진정성에 기술을 더하다\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210028",
+    "source": "AI Times",
+    "published": "2026-05-03",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [],
+    "summary": "프리윌린의 우간다 AI 교육 진출은 AI 기술의 사회적 책임 이행과 글로벌 교육 격차 해소에 기여하며, 향후 AI 기술 생태계의 지속가능한 발전을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+    "url": "https://openai.com/index/openai-on-aws",
+    "source": "OpenAI Blog",
+    "published": "2026-04-28",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "코딩 AI",
+     "에이전트",
+     "Amazon"
+    ],
+    "summary": "OpenAI 모델의 AWS 도입은 AI 기술 대중화와 엔터프라이즈 시장 확장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "GPT-5.5, 네트워크 완전 탈취 공격 자율 성공",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rNEVGUmI4cFlGX1EyMTVRQzRvMmptdjFWa01FMGVycnJCQnUyRUZZWjhGRXNQNFJxTzVjelYxWG5wOG9RTW1sVXpSLTE5ZWY1cUhlNTRIeTJUM0dDcWc?oc=5",
+    "source": "스타트업레시피",
+    "published": "2026-05-04",
+    "keyword": "GPT",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.5의 네트워크 공격 성공은 AI가 사이버 보안 위협 주체로 진화하여, 방어 기술 발전과 윤리적 AI 개발의 중요성을 부각할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

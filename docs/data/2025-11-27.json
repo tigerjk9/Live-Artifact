@@ -1,0 +1,428 @@
+{
+ "date": "2025-11-27",
+ "generated_at": "2026-11-02T11:48:19+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[기고] AI 윤리와 저작권, 창작의 경계를 묻다",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlUERtZktxblEwR0F0SDBFdVV0Uk5neTA3NmVremZ0U3BUUWhTZXpaT0pMMXRrWm94bmNyQ280ajU1T3hBc0NINHRKN2hkZngxdmw3QmhiblFoLVE?oc=5",
+    "source": "교육연합신문",
+    "published": "2025-11-26",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [
+     "AI 안전·규제",
+     "저작권·소송"
+    ],
+    "summary": "AI 윤리와 저작권 문제는 교육 현장에서 학생들의 창작 활동 지도 시, AI 활용 능력 함양과 동시에 책임감 있는 윤리적 판단 기준을 심어주는 교육의 중요성을 강조합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "뇌과학에 힐링·재미 더한 연말 야간 프로그램 '눈길'",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBMzJPYm9IbXE5a1pmWHdTYUx6S1ZYbl8wUFdaYnRzOHItMjUzR0dQT01IYXltbXpoRnhuSGgzYURkdm9hSUFmUkc3NzVtOWFrNjI3dUN30gFXQVVfeXFMTXBUYmltcHJlVlAxdW1GYTdTWVRSZm15dG9ORFNhVURSM0xJNWVzYUVRVUxSRXZGcDNpOUdUaEVPWkktZ1gtdjR5RmZoc082U0MtaE12MEJN?oc=5",
+    "source": "서울경제",
+    "published": "2025-11-26",
+    "keyword": "뇌과학",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "뇌과학 기반 야간 프로그램은 학습 효과와 정서적 안정감을 동시에 추구하여, 학교 교육과정 외 활동의 새로운 가능성을 제시한다는 점에서 주목할 만합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "버블콘, 'AI광주미래교육 박람회'서 AI 교수학습 플랫폼 선봬",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14NW9aZEJVWGFOYnFjUHd3Z2hUOV9WX2dxd2xvUmlhbFpObnhPekxveVBvazZlYUpwOXAzc1dPUm9jeDBsY3pwQWVJVDloamxjNUhn?oc=5",
+    "source": "네이트",
+    "published": "2025-11-26",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "AI 교수학습 플랫폼이 미래 교육 박람회에서 선보임으로써, 교육 현장에서 AI 기반 맞춤형 학습의 가능성을 엿볼 수 있게 되었습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "인천시교육청교육연수원, 초·중등 교실수업혁명 직무연수 운영 성료",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YMjRuTmNIN0dlUGlKS3lFSnF0amZkTlV0bUVZenhZMkthSWFuRmlnYUQyZHc1T1RYYTlDOXJ4cVIxUU1zZ2tXM0dfNUxFZ3NjUUQzREwzWktOcjR2TTRqRmJKY2kxVVg5Rzd0SkxoVWg?oc=5",
+    "source": "한국강사신문",
+    "published": "2025-11-26",
+    "keyword": "AI디지털도구",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청의 교실수업혁명 직무연수는 교사의 수업 전문성 강화와 혁신적인 교육 방법 적용을 통해 궁극적으로 학생 중심 교육 실현에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "정근식 교육감, '서울미래교육 공간 혁신 비전 선포식' 참석",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9tUmhFN285ekFYSVVnOF9QZ0M2d3lPS011MndrQXcwN25ndDh0SnU1ZU9TZU9CdENiQWlvT1BfSmF2ZzRwYjVScmxuMWZxMWNjNlJhSEF0WUVaQzY4bzNyeQ?oc=5",
+    "source": "네이트",
+    "published": "2025-11-26",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "서울미래교육 공간 혁신 비전 선포는 미래 교육 환경 변화에 대한 적극적 대응으로, 학습 공간의 유연성과 창의성을 높이는 데 기여할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "대담-설동호 대전교육감 “대전에서 시작한 미래교육, 대한민국 표준이 되길”",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MWUdqNUxxN0N3OEN2Zk1zWkVCYkFWWm1qMkg4RWJ6Y1pYZ1hFaXpxd2tnWkFKNWtvdkI2b0xpY1A1cExOTHA2Sjh4SFBnYVl1RGtpbG5Kd21hVGQ5Rk5IVnN4Yw?oc=5",
+    "source": "대한민국교육신문",
+    "published": "2025-11-26",
+    "keyword": "AI디지털교육",
+    "topic": "classroom",
+    "kind": "interview",
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "설동호 교육감의 미래교육 비전 제시가 대전 교육을 넘어 대한민국 교육 혁신의 모델을 제시할 수 있을지 주목됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "고교학점제 효과, 교육부 YES- 교원단체 NO 누구 말이 맞나?",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=21427",
+    "source": "에듀프레스",
+    "published": "2025-11-26",
+    "keyword": "",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "고교학점제",
+     "교육부",
+     "교원단체"
+    ],
+    "summary": "고교학점제 효과에 대한 교육부와 교원단체의 상반된 평가는 정책 추진 과정에서 현장과의 소통 부족 및 정책 적합성 검토 미흡을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "경기도교육청북부연수원, 교장 300명 대상 '디지털 교육' 연수",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vaTJiazNGck1YZnltSGRSNzd5TmRleE8tMzc2RlM5VDl2cXExRElLdDc1ZHY4Zk9wdzM4aERRVUpLeWFCdkVvQ0NMS0FiVU9IXzRuYzNmems2TXpqdm9wY19adnFCU3dIdHQ4?oc=5",
+    "source": "비즈월드",
+    "published": "2025-11-26",
+    "keyword": "디지털교육",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "교장 대상 디지털 교육 연수는 학교 현장의 디지털 전환을 가속화하고, 미래 교육 역량을 강화하는 데 중요한 발판이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "인도네시아 교육부 대표단, 진주시 방문…교육 ICT 분야 교류 강화",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CWV8tVFBDLXRfVjNwaXdoLVZzN0c4Qm1NWU02Wmx5WHhKQ2NhSzZqSk0yb2JRYy1QcWszTkVDMmtFWmVWcFpDUkpPSWtUQU4wTDVnY3g4WF81czTSAVZBVV95cUxQUG04anRKYjUzeHlZRjV1dU5OLXlabFh1ejl0UDNBam1MN21qOUl4NUZYRGNhSW9PR1F2bHphLURvMGlSS1JjRFVjMkJpMkNNYk03eGRZZw?oc=5",
+    "source": "더팩트",
+    "published": "2025-11-26",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "인도네시아와의 교육 ICT 분야 교류 강화는 국내 교육 시스템의 디지털 전환을 가속화하고 국제 경쟁력을 높이는 데 긍정적인 영향을 줄 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "부울경 전문대 교수학습 성과, 한자리에 모였다",
+    "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQb3Fmamw2d0I1elRHMkdQeThkbmdnZFEtZTNGVlZKNERjangwWWt4LXU5WHY3T0l2UXlnS1pvS1N3blo5a284eGVZdzJrNGVmSjE1aHhXakowUFRNZnQxZVRaWGxMblhhdTlwUXE5Sjd3QzBQeXctekZ5RlBXc1JyQ0txVjlIQ3Y1TlBpWGplT3R4dzMwVnNCaGhaNHFmTXJDaVBmYmVuTFN1OFhjYmlyVXlnVVlSSTl3ZUx1SldvcHJ0VGhZX0hUWENqeVFCa0VHSC1iZW51YTJlTER6Z2VGN3d2MEktMklKQ0IxMVM4RlhRRjd4WjVRWUZtUElVZjRhTFhqa0lLSzAybHBldTA5NDhrbzZBMVRnN1plekJEWkczLTYwaFV4VFFPT3p5b3dVX2ZzNm9xMk43SWU4SUo3QnN6Y1R2a0ND?oc=5",
+    "source": "MSN",
+    "published": "2025-11-26",
+    "keyword": "에듀테크",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [],
+    "summary": "부울경 전문대 교수학습 성과 공유는 지역 전문대학의 교육 혁신 노력과 우수 사례 확산을 통해 전문 교육의 질적 향상을 도모하는 계기가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Human Experts' Evaluation of Generative AI for Contextualizing STEAM Education in the Global South",
+    "url": "http://arxiv.org/abs/2511.19482v1",
+    "source": "",
+    "published": "2025-11-23",
+    "keyword": "K-12 education",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "가나를 중심으로 한 글로벌 사우스 STEAM 교육 맥락화를 위해 생성형 AI와 문화반응형 학습계획 도구를 활용한 결과, 전문가들은 AI가 문화적 관련성과 교수학적 반응성을 높였으나, 문화적 다양성 표현에는 한계가 있어 교사의 지속적인 개입과 AI 모델 개선이 필요함을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Matthew Nyaaba', 'Macharious Nabang' 외 8명",
+    "pdf": "http://arxiv.org/pdf/2511.19482v1"
+   },
+   {
+    "n": 2,
+    "title": "MicroSims: A Framework for AI-Generated, Scalable Educational Simulations with Universal Embedding and Adaptive Learning Support",
+    "url": "http://arxiv.org/abs/2511.19864v1",
+    "source": "",
+    "published": "2025-11-25",
+    "keyword": "K-12 education",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "MicroSims는 AI를 활용하여 저비용으로 쉽게 제작하고 다양한 플랫폼에 적용 가능한 교육 시뮬레이션 프레임워크로, 교육 효과를 높이고 교육 불평등을 해소하는 데 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Valerie Lockhart', 'Dan McCreary' 외 1명",
+    "pdf": "http://arxiv.org/pdf/2511.19864v1"
+   },
+   {
+    "n": 3,
+    "title": "Generating Reading Comprehension Exercises with Large Language Models for Educational Applications",
+    "url": "http://arxiv.org/abs/2511.18860v1",
+    "source": "",
+    "published": "2025-11-24",
+    "keyword": "K-12 education",
+    "topic": "language",
+    "kind": null,
+    "entities": [
+     "LLM"
+    ],
+    "summary": "본 논문은 파인튜닝된 거대 언어 모델과 판별 모델을 결합하여 고품질의 맞춤형 영어 독해 연습 문제를 자동 생성하는 RCEG 프레임워크를 제안하고, 이는 교육 분야에서 지능적이고 적응적인 학습 콘텐츠 제공에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Xingyu Huang', 'Fei Jiang' 외 1명",
+    "pdf": "http://arxiv.org/pdf/2511.18860v1"
+   },
+   {
+    "n": 4,
+    "title": "Developing an AI Course for Synthetic Chemistry Students",
+    "url": "http://arxiv.org/abs/2511.18244v1",
+    "source": "",
+    "published": "2025-11-23",
+    "keyword": "K-12 education",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [
+     "코딩 AI"
+    ],
+    "summary": "코딩 경험이 없는 합성 화학 전공 학생들을 위해 화학 특화 예제를 활용하고 웹 기반 플랫폼과 능동 학습을 통해 AI 및 데이터 과학 역량을 키울 수 있도록 설계된 입문 과정 AI4CHEM을 개발하여 화학 분야 AI 교육 확산에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Zhiling Zheng']",
+    "pdf": "http://arxiv.org/pdf/2511.18244v1"
+   },
+   {
+    "n": 5,
+    "title": "When Administrative Networks Fail: Curriculum Structure, Early Performance, and the Limits of Co-enrolment Social Synchrony for Dropout Prediction in Engineering Education",
+    "url": "http://arxiv.org/abs/2511.17736v1",
+    "source": "",
+    "published": "2025-11-21",
+    "keyword": "K-12 education",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [],
+    "summary": "아르헨티나 공과대학에서 사회 연결망 분석이 학생 이탈 예측에 효과적인지 분석한 결과, 교과 과정 제약이 강한 환경에서는 행정 데이터 기반의 연결망 정보가 교과 과정 구조 및 초기 학업 성적보다 예측 성능을 향상시키지 못함을 밝힙니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['H. R. Paz']",
+    "pdf": "http://arxiv.org/pdf/2511.17736v1"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "KAIST, ‘회로’ 단위로 AI 생각 과정 시각화하는 새로운 XAI 기술 개발",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204279",
+    "source": "AI Times",
+    "published": "2025-11-26",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "KAIST의 회로 단위 XAI 기술은 AI 모델의 투명성을 획기적으로 높여 신뢰성 있는 AI 시스템 구축 및 산업 적용 확산에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "스퀴즈비츠, ‘미세조정 학습 경량화 기술’로 뉴립스 스포트라이트 논문 선정",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204283",
+    "source": "AI Times",
+    "published": "2025-11-26",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "스퀴즈비츠의 경량화 기술은 AI 모델 개발 비용을 절감하고 활용도를 높여 AI 생태계 확장에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "세미에이아이, ‘반도체 수율 AI 솔루션’으로 카카오 시드 투자 유치",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204280",
+    "source": "AI Times",
+    "published": "2025-11-26",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "GPU·데이터센터",
+     "카카오"
+    ],
+    "summary": "세미에이아이의 투자 유치는 AI 기반 반도체 수율 향상 솔루션의 성장 가능성을 보여주며, 국내 반도체 AI 기술 경쟁력 강화에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "KT, 투자 전문 디지털브릿지와 AI 데이터센터 사업 MOU",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204286",
+    "source": "AI Times",
+    "published": "2025-11-26",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "KT",
+     "GPU·데이터센터"
+    ],
+    "summary": "KT와 디지털브릿지의 협력은 국내 AI 데이터센터 경쟁력 강화 및 글로벌 시장 진출의 교두보를 마련하는 중요한 발걸음입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "구글의 TPU 판매 소식에 엔비디아 \"우리가 한세대 앞서\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204270",
+    "source": "AI Times",
+    "published": "2025-11-26",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Google",
+     "GPU·데이터센터",
+     "NVIDIA"
+    ],
+    "summary": "구글 TPU 판매는 AI 칩 시장 경쟁 심화를 의미하며, 엔비디아의 독점적 지위에 대한 도전으로 기술 생태계 변화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "OpenAI now lets enterprises choose where to host their data",
+    "url": "https://venturebeat.com/ai/openai-now-lets-enterprises-choose-where-to-host-their-data",
+    "source": "VentureBeat AI",
+    "published": "2025-11-25",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "OpenAI의 데이터 레지던시 확대는 기업 고객의 데이터 보안 및 규제 준수 요구를 충족시켜 AI 도입을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "\"엔비디아 GPU 없이도 챗GPT보다 낫다\"…구글發 'AI산업 지각변동' 예고",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBveXpzcUQ4SzYzQ1RmS3JMdzhXbi02a2cwUDl3SmtsS1BRUGNEWHp3NUYxX0JuZ0E3ZUZqOHdiX19rZWE3X0JBTWdtSlhhY3dzMHZMWDBMdTB3d9IBVEFVX3lxTE9VVVNYVEpzZ0RleFFJeFN3Ny1La3JMdmZPZ0VMZG5wdW5pV1Y3SHRSYTFQVWdxdWhTM291SXA5X2NaNWJyU3Zmd2pWWGJyc2FuZndfaw?oc=5",
+    "source": "hankyung.com",
+    "published": "2025-11-26",
+    "keyword": "GPT",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "GPU·데이터센터",
+     "ChatGPT",
+     "Google"
+    ],
+    "summary": "구글의 새로운 AI 기술은 엔비디아 GPU 의존도를 낮춰 AI 산업 경쟁 심화와 기술 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "챗GPT 에이전트, 백그라운드 작업까지…AI 활용법이 달라진다",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lRUxRaUozV0xnZWdXdmFNSGswUERfWmVjdDdKUDJCVXJSb3g2NVA0UlNkWVZkUDJuUDAzcldBUW9GOUlpLVZ3NndOdTdxenNNTlRHZkNZNW9KTjhxMDVLTDFHdDJGbzRlWlgyb1g0TGVlak0?oc=5",
+    "source": "디지털투데이",
+    "published": "2025-11-26",
+    "keyword": "GPT",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "에이전트"
+    ],
+    "summary": "챗GPT 에이전트의 백그라운드 작업 지원은 AI가 단순 도구를 넘어 자율적인 협업 파트너로 진화하는 중요한 전환점입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "Anthropic’s Claude Opus 4.5 is here: Cheaper AI, infinite chats, and coding skills that beat humans",
+    "url": "https://venturebeat.com/ai/anthropics-claude-opus-4-5-is-here-cheaper-ai-infinite-chats-and-coding",
+    "source": "VentureBeat AI",
+    "published": "2025-11-24",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude",
+     "코딩 AI"
+    ],
+    "summary": "Anthropic의 Claude Opus 4.5는 가격 경쟁력과 향상된 성능으로 AI 모델 시장 경쟁 심화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "네이버-두나무, 합병 비율 결정...”웹3 환경 디지털 금융산업 협력”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=204289",
+    "source": "AI Times",
+    "published": "2025-11-26",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "네이버"
+    ],
+    "summary": "네이버-두나무의 협력은 웹3 환경에서 AI 기반 금융 서비스 혁신을 가속화하고, 관련 기술 경쟁력을 강화하는 중요한 계기가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI, 디지털 교육, 미래 교육 공간 혁신 등 다양한 분야에서 교육 혁신이 활발하게 이루어지고 있으며, 뇌과학 융합 프로그램, 국제 교류, 교수학습 성과 공유 등을 통해 미래 교육으로 나아가기 위한 노력이 다각도로 진행 중이다.",
+  "tech": "AI 기술이 더욱 투명하고 효율적으로 진화하며, 데이터 주권 확보와 다양한 산업 협력을 통해 새로운 가능성을 확장하고, 엔비디아 GPU 의존도를 낮추려는 시도와 함께 웹3 시대로의 융합을 가속화하고 있습니다."
+ }
+}

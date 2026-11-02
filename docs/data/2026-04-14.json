@@ -1,0 +1,406 @@
+{
+ "date": "2026-04-14",
+ "generated_at": "2026-11-02T11:55:02+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[기고] 에이전틱 AI시대, AI 네이티브 보험 플랫폼이 이끄는 파괴적 혁신",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92Wi1NdjlfMHNTQTJTbU5JZHdidUZhbHZLUmVnZjlvN3AxZC1obUdtRzhrX19yNEdRektpaVh5ekdTOFVaYTdieHQ2Yk5pZw?oc=5",
+    "source": "전자신문",
+    "published": "2026-04-13",
+    "keyword": "디지털전환",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 2,
+    "title": "서술·논술형 답안분석도, 피드백도…전남교육청 \"AI채점\"",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBVcGVFUjNtZ2ItVE10c2NjVThjY19tbzZCZU5UY3VnWlB4UWdqU0JRNUJfZFdncWFSQXBxeUEySndFVngyaFJIVU1GajEwZ1pJUHdRbFNZcVNLaUpQc05nT1pXSEJHWTZYWkx4R3ZtdV93dUNrbUczdtIBeEFVX3lxTFBVcGVFUjNtZ2ItVE10c2NjVThjY19tbzZCZU5UY3VnWlB4UWdqU0JRNUJfZFdncWFSQXBxeUEySndFVngyaFJIVU1GajEwZ1pJUHdRbFNZcVNLaUpQc05nT1pXSEJHWTZYWkx4R3ZtdV93dUNrbUczdg?oc=5",
+    "source": "뉴시스",
+    "published": "2026-04-14",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "전남교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 3,
+    "title": "충북교육청, 생성형 AI 기반 업무혁신",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41M0hsVVJBTlBTdEtOSGwwVXE0MDRPQWtjZVd6WklGMzdfSV9fQjdGd3lacXZvV1IzUXNZZktmU2lfUmtvRThDbUxWNS1RTWxZUHpRVkVTYUlSMVlEQXQyNzd4OTNuVEZOMTl0MjJFblA?oc=5",
+    "source": "충청일보",
+    "published": "2026-04-13",
+    "keyword": "교육혁신",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "충북교육청",
+     "생성형 AI"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 4,
+    "title": "전남교육연수원 2022 개정 교육과정 안착 위해 전남형 수업코칭 체계 강화 > 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wLUF6eXcydjN1el9xT25mengzbFRqbHJrLWFCajV5dVd1RHhqTUM1OTdEdWtpeEc0Z2kxUjV4eGRub3V2ZnphVDcwX3VuWk16bmM0X1VuMXpuNG1XaVB0dndzc2dXY0FkZ3p2OXNSeUI?oc=5",
+    "source": "더코리아",
+    "published": "2026-04-13",
+    "keyword": "현장교사",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "전남교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 5,
+    "title": "전남·광주 행정통합 이후 교육정책 해법, ‘초광역 교육 거버넌스’에서 찾는다",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qTC04bDQyTS1IZkpHNExTS3FHLTFkbWg1U3V4b2trZGl2ZDJGS3pseGtZWnRwUkcyX0wxWGstUWpHc3FRekxuM1VnZGQzMzlaVWM1QUR3OA?oc=5",
+    "source": "전남인터넷신문",
+    "published": "2026-04-14",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 6,
+    "title": "전남광주 통합 앞 교육정책, 누가 책임지나",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tM09zaGF3RDZmblBUalUydkZOSGIzMk04dlEyR05IYnRXaEZkbXZHenBDQnB6SmpCZU9zRFEtZHl1Q1kyMFVtVkUtWFoxbzZoX056V2ZCTXJ6TWlGOS10clRwdDJrRHk3R0E?oc=5",
+    "source": "드림투데이",
+    "published": "2026-04-13",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 7,
+    "title": "경북교육청, 현장 중심 ‘소통대길 톡’으로 교육정책 설계 강화",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kVzJLUk9RajJxTTRSMVY4Y1dsRFJVZ3BsazdzNGZRbTZPSl9QQWNtMzNNNG1fZUd0OF9FNDhPU0IwdVh6LTFvQ1pINEU5N3BvZ2RsdFhDRTVsYTM3Ny16ZlI0cHUyaFdUbmpFVHBmTG4zUQ?oc=5",
+    "source": "웹이코노미",
+    "published": "2026-04-13",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경북교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "미래엔-아꿈선, 현장 밀착형 디지털 수업 혁신 이끈다",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8xSElUSmM2LVBDTzNMZ2EzOGZDQ2h2X2VhYmRJSWxwN1FUT0VzVjYxQVFqV0x6R1NWSC1qWlV6WGRQTm8xUnozU2FwamJQYV9yY1FF?oc=5",
+    "source": "네이트",
+    "published": "2026-04-14",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "교육부, '대한민국 정보교육상' 해외연수 확대... 인공지능 교육 전문성 키운다",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAzNkdhMDJSUHhzQnZCYVhacGFYNjBMSmM2ZFZQTmpRYmNvdUgzeGJWRlBqZVlDc0FDajNEbnBBbkp5cjJZTmdzQ2Y4RlE2VnI3emFCeVFIaVY4VmFKNDUzS3JUT2FYdw?oc=5",
+    "source": "교육을 비추다",
+    "published": "2026-04-13",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 10,
+    "title": "홍성군, 생성형 AI 교육으로 행정 혁신 추진",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50WlE4cEhaSF9Tdzl5MDFwbElYMF9JZVowVFc3YU1KZ0Jxb210cG1sOUpuelJOTzQ5SWp2RDJWZWR0NkhaM2NSYklBZVhBMm5wem51MnRQNTlkR1U2dUk2dXAwa2otRUE0dnNqUWJ3?oc=5",
+    "source": "전국매일신문",
+    "published": "2026-04-13",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Examining Primary Education Teachers’ Perceptions of TPACK and the Related Educational Context Factors",
+    "url": "https://www.semanticscholar.org/paper/24cc326d04ac0183d6e36c97ef09cbf6fbf4d60b",
+    "source": "semantic_scholar",
+    "published": "2019-09-19",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 그리스 초등 교사들의 TPACK 인식을 확장된 TPACK 척도를 통해 조사하고, 교사들이 기본적인 TPACK 영역 지식은 갖추었으나 실제 ICT 기반 교육 설계 및 적용에는 어려움을 겪으며, 교육 환경 요인 또한 영향을 미친다는 것을 밝혀 TPACK 통합 교육의 중요성을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Dimitrios Roussinos, A. Jimoyiannis",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "Digital competence in the training of pre-service teachers: Perceptions of students in the degrees of early childhood education and primary education",
+    "url": "https://www.semanticscholar.org/paper/a31fbd46df879e977009cdd619f44896638139f4",
+    "source": "semantic_scholar",
+    "published": "2021-08-27",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "유아 및 초등 예비 교사 200명을 대상으로 디지털 역량 설문조사를 실시한 결과, 전반적으로 중간 수준의 역량을 보였으며 콘텐츠 제작에 어려움을 겪고 있어, 교과 과정 설계 및 교사 훈련 시 디지털 역량 개발에 대한 시사점을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Héctor Galindo-Domínguez, M. Bezanilla",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Experimental Skills for Undergraduate Career Preparation in Quantum Information Science and Engineering",
+    "url": "http://arxiv.org/abs/2604.09382v1",
+    "source": "",
+    "published": "2026-04-10",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 양자 정보 과학 산업 전문가 인터뷰를 통해 학사 졸업생에게 필요한 실험 기술을 분석하고, 이를 바탕으로 교육 과정 개선 방향을 제시하여 학부생들이 양자 산업 분야 진출에 필요한 실질적인 역량을 갖추도록 돕습니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Shams El-Adawy', 'A. R. Piña' 외 2명",
+    "pdf": "http://arxiv.org/pdf/2604.09382v1"
+   },
+   {
+    "n": 4,
+    "title": "Still w(\n AI\n )ting for the automation of teaching: An exploration of machine learning in Swedish primary education using\n Actor‐Network\n Theory",
+    "url": "https://www.semanticscholar.org/paper/cff621b65bc23f5f95a129fdce25a2221e43919a",
+    "source": "semantic_scholar",
+    "published": "2022-10-30",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [],
+    "summary": "AI )ting for the automation of teaching: An exploration of machine learning in Swedish primary education using Actor‐Network Theory 스웨덴 초등 교육 현장에서 AI 기반 수학 학습 도구 사용 사례를 액터-네트워크 이론으로 분석한 결과, AI의 예측 불가능성과 알고리즘 학습 방식에 대한 불확실성으로 인해 교사의 역할이 중요하며, 교육 자동화에 대한 기대와 현실 사이의 괴리를 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Katarina Sperling, Linnéa Stenliden 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "Subtitling and Dubbing as Teaching Resources in CLIL in Primary Education: The Teachers’ Perspective",
+    "url": "https://www.semanticscholar.org/paper/badd42924e21738e338693389bbead5c45a2a3b5",
+    "source": "semantic_scholar",
+    "published": "",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "초등학교 CLIL 환경에서 교사들은 시청각 번역(자막 및 더빙)이 코드 전환, 학생들의 언어 인지 능력 향상, 내용 과목의 4C 학습 촉진에 유익하다고 여기며, 본 연구는 설문 및 포커스 그룹을 통해 이를 실증적으로 분석하여 교육적 시사점을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "A. Costales",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "중국 뒤흔든 '동료 복제 AI'...인간 능력을 AI '스킬'로 추출",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=209150",
+    "source": "AI Times",
+    "published": "2026-04-13",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [],
+    "summary": "인간의 역량을 AI 스킬로 전환하는 시도는 노동 시장의 변화를 가속화하고 AI 기술 생태계 경쟁 심화를 예고합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "리눅스, AI 생성 코드 허용 방침...\"책임은 인간이 져야\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=209161",
+    "source": "AI Times",
+    "published": "2026-04-13",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "오픈소스"
+    ],
+    "summary": "리눅스의 AI 생성 코드 허용은 AI 활용의 책임 소재를 명확히 함으로써 오픈소스 생태계의 혁신과 성장을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "미국 기업 앤트로픽 채택률 급증...오픈AI 5% 차로 추격",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=209168",
+    "source": "AI Times",
+    "published": "2026-04-13",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "OpenAI"
+    ],
+    "summary": "앤트로픽의 급성장은 AI 시장 경쟁 심화를 의미하며, 기업들은 특정 플랫폼에 대한 의존도를 줄이고 더 다양한 선택지를 고려하게 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "알리바바 '큐원', 전 세계 오픈소스 다운로드 50% 이상 차지...\"사실상 글로벌 표준\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=209163",
+    "source": "AI Times",
+    "published": "2026-04-13",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Alibaba",
+     "오픈소스"
+    ],
+    "summary": "알리바바 큐원의 오픈소스 시장 장악은 AI 기술 종속 심화와 중국 기술 표준화 확산의 가능성을 보여주는 중요한 지표입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "리퀴드 AI, '갤럭시 S25 울트라'에서 작동하는 450M VLM 출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=209148",
+    "source": "AI Times",
+    "published": "2026-04-13",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "온디바이스 AI"
+    ],
+    "summary": "리퀴드 AI의 경량 VLM 출시는 온디바이스 AI의 가능성을 확장하며, 특히 모바일 기기에서의 새로운 사용자 경험과 애플리케이션 혁신을 가속화할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "[4월13일] AI 엔지니어링의 새로운 기준 '하네스'...\"모델 성능 넘어 시스템이 경쟁력\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=209151",
+    "source": "AI Times",
+    "published": "2026-04-14",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 모델 자체 성능 경쟁에서 벗어나, 전체 시스템 효율성과 제어 가능성을 높이는 AI 엔지니어링 역량이 중요해지고 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "데이원컴퍼니 “피지컬 AI 교육 콘텐츠 확장…로보틱스 기업과 협력논의”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=209187",
+    "source": "AI Times",
+    "published": "2026-04-13",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "로봇·휴머노이드"
+    ],
+    "summary": "데이원컴퍼니의 피지컬 AI 교육 콘텐츠 확장은 AI 기술 경쟁력 강화와 로봇 산업 발전에 기여할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "게이트, OPENAI·ANTHROPIC 등 5개 무기한 계약 장전 거래 개시",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSRUN2cEtaaFBYbmNFWmdZYUJhQTIxZ2lILVpSWUx2WkZwNjZ0OEFra09yRC1oeVdHR3J5ZGNweFp3NkNnejgxVzRHa011XzZnNkhpQzdveU3SAV5BVV95cUxOVVZEbXk4MHpQRG10VzlhYk9OQmRaRTBfNU9iUnhEMGJndzQ0U0lIVWhsTnFtWXdLVjR3ZHFXQ3M2RGdjT01yVzZsa0FSdnNBbWE2Y2xrcE9jSTNJRHlB?oc=5",
+    "source": "tokenpost.kr",
+    "published": "2026-04-13",
+    "keyword": "Anthropic",
+    "topic": "industry",
+    "kind": null,
+    "entities": [],
+    "summary": "게이트의 AI 기업 무기한 계약은 AI 모델 경쟁 심화 및 특정 플랫폼 종속 심화 우려를 낳으며, AI 기술 생태계의 폐쇄성을 강화할 수 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "중국도 '월드 모델' 경쟁 가속...알리바바·바이두, 솅슈에 4300억 투자",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=209176",
+    "source": "AI Times",
+    "published": "2026-04-13",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Alibaba"
+    ],
+    "summary": "중국의 월드 모델 투자 확대는 텍스트 기반 AI를 넘어 현실 세계 연동 AI 기술 경쟁 심화를 예고하며, 글로벌 AI 기술 주도권 경쟁에 중요한 변수가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "“생성형 AI, 과학 연구를 재설계하다”… ‘엑사원 디스커버리’ 기반 특허가 여는 신약·신소재 혁신 시대",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KUlY5VHZXbnJNbjZhMkRmWFAxaVdoR1VMOU5ieHk2bk5WM3lIVUFXV1JOdmJpbG9FaDBjU1hxUWJKaTl2ZjhwZm9PU1pMalZNYm85TG16ZnJvak1oVEtLWEZuTDVWWFU?oc=5",
+    "source": "인공지능신문",
+    "published": "2026-04-13",
+    "keyword": "인공지능",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "LG"
+    ],
+    "summary": "엑사원 디스커버리 기반 특허는 생성형 AI가 신약 및 신소재 개발 혁신을 가속화하며, AI 기반 R&D 경쟁력 확보가 중요해짐을 시사합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "tech": "AI 모델 개발 경쟁 심화, 오픈소스 생태계 확장, 다양한 산업 분야 AI 기술 적용 및 기업 간 협력 증대 등 AI 기술이 빠르게 발전하며 혁신을 가속화하고 있습니다."
+ }
+}

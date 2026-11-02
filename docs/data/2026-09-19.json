@@ -1,0 +1,420 @@
+{
+ "date": "2026-09-19",
+ "generated_at": "2026-11-02T11:43:32+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[조학규 칼럼] 1정 점수 논란 ..  승진제도 큰 그림을 묻다",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=30476",
+    "source": "에듀프레스",
+    "published": "2026-09-19",
+    "keyword": "",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [
+     "교육부"
+    ],
+    "summary": "교육부의 1정 점수 승진 반영 폐지 개정안으로 논란이 심화되며, 점수 유불리를 넘어 승진제도 전체를 바라보아야 한다는 주장이 제기됩니다.",
+    "implication": "승진 점수 논란에 얽매이기보다 학생을 위한 수업 전문성 향상에 집중할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "태국 교육부 대표단, 부산소마고 K-AI교육·실력에 '감탄 또 감탄'",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJaUV1RXc0NGc0QWlhOXVVOGRPVmlfOXRVSDM5akZJcGw5VnpLdHlYLXQ0RTR3QjhXQjMxZUk5Q2VpTllEMldQX0xURXVoZnJVS0s3RWl3Vldib0pHQXdfRmpVaHZzeEpnSmFR?oc=5",
+    "source": "투데이 부산",
+    "published": "2026-09-18",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "태국 교육부 대표단이 부산소마고의 K-AI 교육과 학생들 실력에 깊이 감탄했습니다.",
+    "implication": "우리 학생들이 AI 교육으로 국제적으로 인정받을 실력을 키울 수 있음을 보여줄 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "인천시교육청·강화군, ‘교육혁신선도지역’ 재지정 손잡았다",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43LUI4ZFRUb1BtaTdwT3l0R2RtZ1J2NFJiN0laaVBDZmFtajV6WjJpdFBsY2puZlVtckRfa1BxVXpVOVdzXzdnb1oxOTd0MHVSXzEwa01OQU9sM2xEUVVrUjd1T3BlZTVUdWR1TTJR?oc=5",
+    "source": "아시아투데이",
+    "published": "2026-09-18",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청",
+     "개인화 학습"
+    ],
+    "summary": "인천시교육청과 강화군이 ‘교육혁신선도지역’ 재지정을 위해 협력했습니다.",
+    "implication": "교육청과 지역사회의 협력으로 우리 반 맞춤형 교육 프로그램을 운영할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "인천시교육청, 학교관리자 AI·디지털 미래교육 역량 강화",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5peW1rc1hKNDBKNDB0c2pnLVNYOHpfbEFfVEl6c1ZESkNOTHdfTVNmYUpxUTNRendLd05NN2g0Z3BKaEJhRDdxWUNpaGl2a0VrMnBjQm1NVVpKMm1JcmM5bHhYQ3hqTXlO0gFoQVVfeXFMTml5bWtzWEo0MEo0MHRzamctU1g4el9sQV9USXpzVkRKQ05Md19NU2ZhSnFRM1F6d0t3Tk03aDRncEpoQmFEN3FZQ2loaXZrRWsycGNCbU1VWkoybUlyYzlseFhDeGpNeU4?oc=5",
+    "source": "매일일보",
+    "published": "2026-09-18",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청은 학교관리자의 AI 및 디지털 미래교육 역량 강화를 추진합니다.",
+    "implication": "학교 관리자 역량 강화로 AI 활용 수업 환경이 조성되어, 제가 수업에 AI 도구를 바로 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "학교 디지털 환경, 현장 교원 목소리로 다시 설계한다",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11dUdKdlNOTzllSlF3TlE0MzNDSEh4QUFfNkpldkVXWFMzRWQyRW9RT2tUcS1IOGo1WkRBcGZCMXg1TExVR05iTUhYRTJsZEI4WjFfMXhEaUF4RFcxTGNOaTQ5enNtRnc?oc=5",
+    "source": "세종의소리",
+    "published": "2026-09-18",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "학교 디지털 환경이 현장 교원들의 의견을 반영하여 재설계될 예정입니다.",
+    "implication": "현장 교원 의견이 반영될 새 디지털 환경으로 우리 반 수업이 더 효과적일 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "광명시, 지역사회와 함께 교육 발전 모색한다… 교육정책협의회 출범",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EYjdLdUJWRmY3YVFBQUg3dzdleE1sLUlRRlMtNUxlcS0tb2xTSjZtc1NMT3l2b2ItdDBHbkgtUDdGT1BwYjhaSFdoOVhWVWIxTUg2VlZkaDcyWHNScnRN?oc=5",
+    "source": "e-newsp.com",
+    "published": "2026-09-18",
+    "keyword": "학습과학",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "광명시가 지역사회와 교육 발전을 위해 교육정책협의회를 출범시켰습니다.",
+    "implication": "지역사회와의 연계 교육 활동을 기획하여 수업에 바로 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "전북교육청, 교육청-지자체 협력 강화…지역 맞춤형 교육정책 모색",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95RG9yQUpvNldJVzYtdjdpUmRlOEM1SGFPOXVYbU1SNUduc3oxcy1fRWs4YmdYNTdxSVJ1RDhZOWtNN09PS0xvdG1FMkhqeDMxVU12ck4ydS1MczE0cnA2cjYxemxCRmF3?oc=5",
+    "source": "투데이안",
+    "published": "2026-09-18",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "전북교육청",
+     "개인화 학습"
+    ],
+    "summary": "전북교육청은 교육청과 지자체의 협력을 강화하여 지역 맞춤형 교육정책을 모색합니다.",
+    "implication": "지역 맞춤형 교육정책에 맞춰 우리 고장의 특징을 살린 수업을 기획할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "[교육정책 브리핑] 경기도교육청, 교권보호국 감독관이 현실로 ‘조례 통과’",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1EcGk5a3RxWGVQVHhocDlyUjM1Um5JMmRZTFg1eWk0akRwWl82clZZanVSMk9ycTZRcFFjbmw1Wi1rOFVYXy1zMHVNX2FLeG5MRld4ck1uLVRDanF2c0RHeA?oc=5",
+    "source": "NSP통신",
+    "published": "2026-09-18",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "교권"
+    ],
+    "summary": "경기도교육청은 교권보호국 감독관을 현실화하는 조례를 통과시켰다.",
+    "implication": "교권 보호 조례로 수업 방해 요소를 줄이고 교육활동에 집중할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "광명시, 교육현안 함께 푼다…교육정책협의회 첫발",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAycWZ2MS1mQ0ZDOWJwVm1yT0doOTJ0S1hnRk1mMmp4S1dYekZDc19sYWFKMEFFRTlpR0VyU2pWWnZJVXpEUFY2YnhQS3djSEczUzdlVDJEUWRWYUdPbjFFUnY3cUxPYmxGS2RMN1NLT0ZHb0li0gF0QVVfeXFMUDJxZnYxLWZDRkM5YnBWbXJPR2g5MnRLWGdGTWYyanhLV1h6RkNzX2xhYUowQUVFOWlHRXJTalZadklVekRQVjZieFBLd2NIRzNTN2VUMkRRZFZhR09uMUVSdjdxTE9ibEZLZEw3U0tPRkdvSWI?oc=5",
+    "source": "이뉴스투데이",
+    "published": "2026-09-18",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "광명시가 지역 교육 현안 해결을 위해 교육정책협의회를 발족하고 첫 논의를 시작했습니다.",
+    "implication": "학생들과 함께 우리 지역의 교육 현안에 대해 논의하고 해결 방안을 모색하는 활동을 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "제주에서 배우는 글로벌 교육, 학교 현장의 변화로 이어진다",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoNWxpTmYxWkhjTkI5OFBXZ3ZVM1g5Nzg1TnBBRXVQOTNrMndoa3p6aVRkR3FTS3N0c1BCdnNfUUxLYnZoUzNsb0M2TjlpQVVVZWtwQzRhYWJSTFpQcHlsUkRWNVVWYnNBclBueQ?oc=5",
+    "source": "뉴스N제주",
+    "published": "2026-09-18",
+    "keyword": "교육현장",
+    "topic": "global",
+    "kind": null,
+    "entities": [],
+    "summary": "제주에서 진행되는 글로벌 교육이 학교 현장의 변화로 이어진다.",
+    "implication": "수업에서 학생들의 글로벌 역량을 키우는 활동을 구상하고 적용할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Empowering EFL preservice teachers’ TPACK development through a flipped classroom model in Indonesia",
+    "url": "https://doi.org/10.29140/jaltcall.2026.102931",
+    "source": "openalex",
+    "published": "2026-09-17",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "인도네시아 예비 영어 교사들을 대상으로 플립드 교실 모델을 적용한 결과, TPACK 중 기술 통합 역량은 향상되었으나 핵심 교수법 교육의 균형 잡힌 통합이 21세기 미래 교육자 양성에 필수적임을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Mega Wulandarı, Lutfi Ashar Mauludin 외 1명",
+    "pdf": "https://www.castledown.com/journals/jaltcall/article/download/jaltcall.2026.102931/1253"
+   },
+   {
+    "n": 2,
+    "title": "Integrating classical Chinese poetry into junior secondary geography education to foster geographical competencies: a case study of the lesson “regional differences in classical Chinese poetry”",
+    "url": "https://doi.org/10.3389/feduc.2026.1944205",
+    "source": "openalex",
+    "published": "2026-09-17",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 중등 지리 교육에 고전 한시를 통합한 협력 학습이 지리적 탐구와 종합적 추론을 포함하는 고차원적 지리 역량 향상에 유의미한 효과가 있음을 준실험 설계를 통해 밝혀, 학제 간 지리 교육과 전통문화 통합의 실증적 근거를 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Peng Zhang, Lu Cao 외 1명",
+    "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1944205/pdf"
+   },
+   {
+    "n": 3,
+    "title": "Teaching Music Production",
+    "url": "https://doi.org/10.4324/9781003648734",
+    "source": "openalex",
+    "published": "2026-09-17",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 현대 교육 연구와 실제 스튜디오 경험을 토대로 AI를 포함한 변화하는 환경 속에서 음악 제작 교육의 효과적인 교수법과 학생들이 창의적이고 적응력 있는 사운드 엔지니어로 성장할 수 있는 실용적인 학습 경험 설계 방안을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Doug Bielmeier",
+    "pdf": "https://api.taylorfrancis.com/content/books/mono/download?identifierName=doi&identifierValue=10.4324/9781003648734&type=googlepdf"
+   },
+   {
+    "n": 4,
+    "title": "A conceptual review of a diagnostic assessment tool and early warning mechanisms for enhancing STEM student readiness among first-time entry students at a South African university",
+    "url": "https://doi.org/10.3389/feduc.2026.1836480",
+    "source": "openalex",
+    "published": "2026-09-17",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "남아공 대학의 STEM 신입생 학업 성공을 위해 Maslow, 구성주의, Tinto 이론에 기반한 사전 진단 평가 도구와 조기 경고 시스템을 제안하며, 이는 학생 준비도 향상에 기여하지만, 단독으로는 불충분하므로 종합적 개입이 병행되어야 함을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Boby Varghese, Stella C. Sabi 외 1명",
+    "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1836480/pdf"
+   },
+   {
+    "n": 5,
+    "title": "Exploring the impact of generative AI-facilitated personalized learning on EFL students’ speaking and writing skills",
+    "url": "https://doi.org/10.1057/s41599-026-09088-6",
+    "source": "openalex",
+    "published": "2026-09-16",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "개인화 학습"
+    ],
+    "summary": "생성형 AI 기반 맞춤형 학습을 교수 보조 도구로 활용하면 EFL 학생들의 말하기 및 쓰기 능력이 크게 향상됨을 통제 집단과 비교하여 입증합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Min Niu, Chinaza Solomon Ironsi 외 1명",
+    "pdf": "https://www.nature.com/articles/s41599-026-09088-6_reference.pdf"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "스탠포드, 논문을 '대화형 에이전트'로 만드는 프레임워크 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215465",
+    "source": "AI Times",
+    "published": "2026-09-18",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "AI를 통한 복잡한 전문 지식의 대화형 접근은 지식 생산과 소비 패러다임을 혁신하여 산업 전반의 AI 기반 혁신을 가속할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "\"AI 검색 속도 최대 20배\"...구글, 차세대 프레임워크 'R4T' 발표",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215460",
+    "source": "AI Times",
+    "published": "2026-09-18",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "AI 검색",
+     "Google"
+    ],
+    "summary": "구글 R4T는 AI 검색 속도 혁신을 통해 차세대 AI 서비스의 상용화와 산업 생태계 확장 가속화에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "구글, AI 문제 해결에 ‘재귀적 자기개선’ 도입...탐색 비용 162배 절감",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215459",
+    "source": "AI Times",
+    "published": "2026-09-18",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "구글의 재귀적 자기개선은 AI 개발 효율성을 획기적으로 높여, AI 기술의 보편화와 산업 적용을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[AI는 지금] 속도조절론 꺼낸 샘 알트먼, 곧바로 신제품 예고…GPT-5.5는 종료",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XR2JvQWxEcFBsTy1rdlJQblpFOS1VeWMwTGMyQ3F2ZWlXZ1R6VjU3X194MTZ4Y3ljVFA3NXRhYTZYWGNRdkFOVEtjQkxLX01wZjdrVjJB?oc=5",
+    "source": "구글 뉴스 AI",
+    "published": "2026-09-17",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "샘 알트먼의 속도조절론 언급에도 불구하고 신제품 예고와 기존 모델 종료는 AI 생태계가 전략적 방향 전환 속에서 혁신 속도를 유지할 것임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "Anthropic, OpenAI의 약진 속 새 AI 모델 출시 검토",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01OEsyWjdNT0d0SEJNSE1uUXQtcFUtZXdtSjRnc0xFeHVVTnZSS0hIX2loMkxvVUpNdnpWN05FOEVqaDg3WE04MTNTWDJyNzdvUHBkYmdScHhKTHYzQ3o4aWJJdVA5VkY2NEE?oc=5",
+    "source": "구글 뉴스 AI",
+    "published": "2026-09-19",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "OpenAI"
+    ],
+    "summary": "OpenAI의 약진에 대한 Anthropic의 대응은 AI 거대 기업 간 경쟁을 심화시키고 기술 혁신 주기를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+    "source": "OpenAI Blog",
+    "published": "2026-09-11",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "AI 대중화는 방대한 데이터 스토리지 인프라의 급속한 발전과 효율적인 운영을 AI 산업의 핵심 과제로 부상시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "Claude, 며칠 만에 OpenAI 내부에 침투—책임을 묻는 시선은 Anthropic으로",
+    "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPR3BIYmdyb2p0SjhrWXVHOTVabENjSzlnSFBjLW02RE9IREFPV283U1JxRTEyNkpTSjU2RW12NHk2dEpyQ0JBV3FDZV8yaUhTZnBUV2MxLURkUzMwX2g1RmdfUm5GOGlOaVVvSnpJcTg1WHpQd3lEc0ZPQlpKb0p4RTFwakRFbmZraWVkWUFlUUhfRnMwWmRGQUh4QXVzSXVTay1mWW8wRGdaRFhFNWxmMlBaNV9mejVtQnFXSGJYLXhlSlVvN1F1YkZucW04bnBUQkpySEJ4NHRhYlZFcUhKakFnRDI0alp4dEwtbmVHNUhvWjEwNU4tLXd1a2xNc1dOWEJpOWFoT0EyTzJwbkxUUXJYdXdibHVMZnBNUFJZWmptcHFCeWpIQnBQbDBveVFaVkFRal9MWTdfOE1mWEV0MmdPVkRua1F1dWxXWG9VZm9wc0lvaWc?oc=5",
+    "source": "Martin Cid Magazine",
+    "published": "2026-09-18",
+    "keyword": "Anthropic",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "Claude",
+     "OpenAI",
+     "Anthropic"
+    ],
+    "summary": "경쟁사 AI의 내부 침투는 AI 기술 자체의 보안 취약점과 업계 경쟁 윤리에 대한 심각한 질문을 던질 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "오픈AI, 또 다른 밀레니엄 수학 문제 '호지 추측' 해결에 근접",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215443",
+    "source": "AI Times",
+    "published": "2026-09-18",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "오픈AI의 난제 해결 시도는 AI가 최상위 추상적 문제 해결 능력을 입증하며, 과학과 산업의 근본적 발전을 가속화할 AI 기술의 잠재력을 보여주는 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "중국 AI 총매출, 오픈AI·앤트로픽 10% 불과...몸값 '거품' 논란",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215463",
+    "source": "AI Times",
+    "published": "2026-09-18",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Anthropic"
+    ],
+    "summary": "막대한 투자에도 불구하고 중국 AI의 낮은 매출은 AI 산업 전반의 상업화 및 수익화 난제를 시사하며, 과도한 시장 거품에 대한 경고로 작용할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "\"미중 정상회담 만찬, 오픈AI·애플·엔비디아 등 CEO 다수 참석\"",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE43MXNkZy03c2MzMHpmcV9MS1V2QllsZWhnRkVhTEc0T1h2R29iZkJoVzNoTFBmb3pLWFpDbzVIY2V4NThEdDRlc0hhMkVfX3hDWl9zOU5TaTjSAV5BVV95cUxOTnA5MlJ2Q09jUW9feWtwUlBUQ1JBanI1eWlwTXpGSHZtT0FBLTQ2SFVUeThNcEpwTmdaVVFSejVuejBwWUNQNjZiNS1rWW14cnR2M0c0VnV3VXFtajlB?oc=5",
+    "source": "뉴스1",
+    "published": "2026-09-19",
+    "keyword": "오픈AI",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Apple",
+     "NVIDIA"
+    ],
+    "summary": "미중 정상회담에 AI 핵심 기업 CEO들이 참석한 것은 AI가 국가 전략적 중요성을 가지며, 미중 관계가 글로벌 AI 생태계의 미래를 결정할 핵심 변수가 될 것임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

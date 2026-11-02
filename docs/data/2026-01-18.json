@@ -1,0 +1,177 @@
+{
+ "date": "2026-01-18",
+ "generated_at": "2026-11-02T11:50:52+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[김성근 칼럼] 경북도교육감 후보 마숙자, 김상동 단일화....‘왜 경북교육현장에서의 경험이 답인가?’",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1JbExqdTJTeGgtVk9SSTUzaU9FUkI2dzNIdDJPUDhZU3Y5M3ZrcFVoMmRiOG5NdHZocGFqdnYza3ZJYURERWJaWERn?oc=5",
+    "source": "더뉴스코리아",
+    "published": "2026-01-17",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [
+     "경북교육청",
+     "교육감 선거"
+    ],
+    "summary": "경북교육감 후보 단일화는 교육 현장 경험의 중요성을 부각하며, 향후 경북 교육 정책 방향 설정에 중요한 영향을 미칠 수 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[전재학 칼럼] 교육의 '완전 국가책임제'가 필요한 이유",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oTUc1WGJQeXltVXloX3p4ajFJNTVKRlZzWkdkbDZxeXhEak9uMUQtS0EzVFhxQTQ0QjFtYXVDcGJCeVRDN2tld0lzRkd6TTdQNDZDMFNvN0Y3cEE5UGJqOGh3Zk1CS1k?oc=5",
+    "source": "교육플러스",
+    "published": "2026-01-17",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "교육의 완전 국가책임제는 교육 불평등 해소와 공정성 강화를 위한 중요한 전환점이 될 수 있지만, 획일적인 교육 시스템으로 인한 교육 다양성 축소 가능성을 경계해야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "뇌과학이 증명한 영어 학습 결정적 시기, 6세부터 중등까지의 로드맵",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE54bDRxM05hM0dLZXFOMjAxSEZ3cGZDUElnYlE4T0Y1R29kcmlaRmV0Ym9QMFZRTUM0RUdEVnJlWUhDN2kyemJBOW5zOGRRaVhadGQxS09sVHFrYlBFMkNpOURUMTd0dw?oc=5",
+    "source": "교육을 비추다",
+    "published": "2026-01-17",
+    "keyword": "뇌과학",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "뇌과학적 근거에 기반한 영어 학습 적기 제시가 시사하는 바는, 획일적인 영어 교육에서 벗어나 개인별 발달 단계를 고려한 맞춤형 교육 전략 수립이 중요하다는 점입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[2026 전북교육감] 노병섭 \"윤석열 괴물 만든 건 민주주의 교육 부재...전북부터 바로잡겠다\"",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QOVdkdkl2Y045QUNMd0NZTVZIc2FQeFdhcndzemJjbFAzczJDOHlORkRud2VUb3JCOG9xRW9FRFFEQm9iSUF3TFdka29hQ1VIVmN2R0xHVm0xcVJPbmpv?oc=5",
+    "source": "전북미래교육신문",
+    "published": "2026-01-17",
+    "keyword": "에듀테크",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "전북교육청",
+     "교육감 선거"
+    ],
+    "summary": "교육감 후보의 발언은 민주주의 교육의 중요성을 강조하며, 전북 교육 현장에서 정치적 편향성 없는 균형 잡힌 교육 실천이 필요함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[2026 전북교육감] \"학교급식은 교육이다\"...황호진, 전국 최초 '급식-건강교육' 플랫폼 제시",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5PYS1pSVZwaktlVktBa29Sdl9YbTR6Y25oRG0tYVV2eTYwaVRsVlN4cjd6cl9RRW94WVdPZm55bHljVnJkNWNwRmQ5WDFSbDNONnNjYXFzTkpQTkNkaHg0?oc=5",
+    "source": "전북미래교육신문",
+    "published": "2026-01-17",
+    "keyword": "AI교육",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [
+     "전북교육청"
+    ],
+    "summary": "황호진 후보의 급식-건강교육 플랫폼 제안은 학교 급식을 단순한 식사 제공을 넘어 교육적 가치를 높이는 중요한 전환점이 될 수 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "유은혜 북콘서트 3,000명 구름 인파… '경기교육감 출정식' 방불",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EMUJPSlhKNWxXeXptSHg3N200alJYaWhXYmNuQUJER3pMUVhudnlQNk15U1UxeThTN3YtelNGeU42M04yYnhvendWYzJFNFRCZTd2djcyUUFQT0R3eExBdC15OWpNM1RO?oc=5",
+    "source": "에듀프레스",
+    "published": "2026-01-17",
+    "keyword": "에듀테크",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "교육부",
+     "교육감 선거"
+    ],
+    "summary": "전직 교육부총리의 대규모 북콘서트는 교육감 선거에 영향을 미쳐 교육 정책의 연속성과 독립성에 대한 우려를 낳을 수 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "경기도교육청평생학습관, 제4회 '찾아가는 경기학부모교육 시리즈' 성료",
+    "url": "https://news.google.com/rss/articles/CBMi2ARBVV95cUxQNnVERktzRXVTeE5UTjhRV0x3aERsT2Fxc19FUFFVN1ZWUHAtVHhiYVpSVEJjNjJwekxfcWk0ODE3Nk9jWVJNR1NCUGtuaTRNU29WaUI0Mk1SMWpRYVJRblk3MHhKQjNLc3hnUldvYXhmN1c3UDdUQmxQSXdtVnQ3aXloeHNfV0kzS3lFZzNxdjh1NjJzbVNGRm1PYXljV1ZoR05NRUFOc21oRXo0dTUtZU5wVGFIRlZXTHd6bWJvb25MUElOWWJEamlidFl0U21xaU5jMThEZUo2ZUV1NzVEU3FxQUV6NmtvTDhwNUdhWWlTZy1rcjJueHdQai1mdW1tUXE0T0l0T2oySTVVNnhwbGpIVS0wVkhnckhZclcxckNDR0NRRGVyV1RCYXNaVGdwUjZvQ3Fyd3NDLXNTTGR4TmtLQkkwcDFROF9qdmhZLWpYZC1nc1pLa01YaEN5VUlkMmhmdFQtXy1lZTVXUU5MdjZoOXo4YjBsbkVsOXdWZWJERDFvdTJlLTVsMkNJMnJaZHYtR3pxbWJaa3pqbmVrcDlQY09hQU81Tm9EOEpPWWdsV1NYM2dNUVUtZVhsXzNaVzhHRlRzdmVvSG82bzB4YXFXWGd5X0RKUW1aQkxQVGJJMjZzSTl4ejBfVU8wRHlBRXZmUExiM0UwbWgtTkxNY3R2OWFoLUpHVDBfX3ZpQWlRNHJQNmtiamtUYTdDTW5ETmhubXFDZ2pGS01LenJ1c01KejZCRGREUlBhQTVqX1p3REdCRFJoenFSN1BOX0R1aFFrVE1Pems?oc=5",
+    "source": "MSN",
+    "published": "2026-01-17",
+    "keyword": "인공지능교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청의 찾아가는 학부모 교육은 학교와 가정을 연결하고 학부모의 교육 참여를 확대하여 공교육의 질을 높이는 데 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "김대중 전남교육감, 직무평가 전국 1위… \"리더십 재확인\" |",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPSzhBR194dWNmNzlRVzl0cGxUenJWUl9RLXZkLTZwazM1RnB0bW16UDQzRDlNTW5iS01XVy1CdnNVbkxUV2dxUl8zUDFhd3RlTHJPM3JPbG5WMUQ0ODRCVVRRVGFSY0x3cmpERlFIYw?oc=5",
+    "source": "한스경제",
+    "published": "2026-01-17",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "전남교육청"
+    ],
+    "summary": "김대중 교육감의 직무평가 1위는 소통과 공감을 바탕으로 한 리더십이 교육 정책 수립 및 실행에 긍정적인 영향을 미칠 수 있음을 보여주는 사례입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "“성과보다 사람”…한상경 충남교육감 출마 예고",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NWXpjNTJ1QWUwTFVHd1VNNHN0eWEtUkJuR283UTd6S3pYZkYyRHZqYkt4NHhBaU9WendkSzEtRVlsMlNvSmNDdXFLekRGa1lQTVZKaGFmeFFDXzVnbHZ0MnlOYjNHWjZsNnVTNUhR?oc=5",
+    "source": "충남내포뉴스",
+    "published": "2026-01-17",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충남교육청",
+     "교육감 선거"
+    ],
+    "summary": "한상경 교육감 후보의 '성과보다 사람' 중심 교육 철학은 경쟁 중심 교육에서 벗어나 학생 개개인의 성장과 잠재력 발휘를 강조하는 교육 패러다임 전환의 가능성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "[기획보도] \"교육부터 산업까지…2026년 안산시 행정 이렇게 달라진다\"",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PWU1YZHFocWJmUWJXWDZzdDBTaHpha19DWlV4MjdULVVxZ0haTFdrTU5hem80NFdvaUVMWEs3QnRaSXRmSDZvclJmTDUyaGxZNjZr?oc=5",
+    "source": "네이트",
+    "published": "2026-01-17",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": "feature",
+    "entities": [
+     "교육부"
+    ],
+    "summary": "안산시의 교육 혁신 계획은 지역 산업 연계 강화와 맞춤형 인재 양성을 통해 교육 경쟁력 강화에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [],
+  "tech": []
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "미래 교육은 교육감 선거 및 정책 논의 활성화, 뇌과학 기반 학습법 적용, 학부모 교육 강화, 그리고 지역 특성을 반영한 교육 시스템 구축을 통해 혁신과 발전을 가속화하고 있습니다."
+ }
+}

@@ -1,0 +1,166 @@
+{
+ "date": "2026-02-22",
+ "generated_at": "2026-11-02T11:52:29+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[칼럼] AI 시대, 청소년에게 필요한 것은 정보를 식별하여 판단하는 역량 교육",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13YXFhYkVrQ3Zvb052cEw3dGR1dzlGQWgwUWxEU3oxaWpxOS1peHoteFQ2dkN0SDFTM21IT1JHTEw0bWpOdzJabmNEN1BVMFUtMWFzd2EtM3FoZUMtNmtfMHI0dVUzRXhn?oc=5",
+    "source": "투데이안",
+    "published": "2026-02-21",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "AI 시대에는 청소년들이 비판적 사고를 통해 정보의 진위를 판단하고 활용하는 역량 교육이 시급합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[김창학 칼럼] ‘승진 사다리’에 갇힌 학교, 교장실 문턱부터 낮춰야",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rV290QXNwX0lGQkZ1M1o1SU9BeWNfQWFVR3Y4cTIxNEc1M2F3NUkxcGM4Z25PYXdSNDZUTWVQRmhVMHV2S2pCOUl6LWVLbUZ4VFlnUFEwRkRWRHZnSnJpcXptb085ODJq?oc=5",
+    "source": "에듀프레스",
+    "published": "2026-02-21",
+    "keyword": "교육혁신",
+    "topic": "teacher",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "학교 운영의 수직적 구조를 개선하여 수평적 소통을 강화하는 것이 교직 사회의 발전과 교육 혁신을 위해 시급합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "13화 겨울방주의 종합논평 73편(합당 무산)",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOeEYtNWJCMEdaZmxFb2VUc3pHX3hZZmRLTWxJVjh1QV85N09jLXg2YUVJQ3JSdmlKNVNoMmpDd0tBcGV4Q1AyVmpLblhpajJWR2Vr?oc=5",
+    "source": "브런치",
+    "published": "2026-02-21",
+    "keyword": "미래기술",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "\"겨울방주 합당 무산은 교육 정책 추진 과정에서 다양한 이해관계 조정 실패가 초래하는 혼란을 보여주며, 교육 주체 간 소통과 합의의 중요성을 시사합니다.\"",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[빅테크칼럼] AI의 칼날, 과학자의 자리까지 위협…뇌 삼키는 기계 속 인간 창조성 살아남을까?",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GSHZzWnNlLVF1VTBhdzgtVF9IVmt0eWhqWVJBVkIwT0tFMldMd1Q3TzZqdkdlRUFwQU13c1V6eTZCQUIxQjhMbVBDOFJFSWhmNXRBVk9famRXX3hHODd5WQ?oc=5",
+    "source": "뉴스스페이스",
+    "published": "2026-02-21",
+    "keyword": "뇌과학",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "AI 발전은 과학 분야를 포함한 교육 전반에서 창의성 함양 교육의 중요성을 더욱 부각시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[칼럼니스트 인터뷰] 황미선 칼럼니스트를 소개합니다!!",
+    "url": "https://www.lecturernews.com/news/articleView.html?idxno=196800",
+    "source": "한국강사신문",
+    "published": "2026-02-22",
+    "keyword": "",
+    "topic": "student_care",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "재난안전 전문가의 칼럼 활동은 이론과 실제를 융합한 교육 콘텐츠 개발 및 현장 적용 가능성 확대로 교육 효과를 높이는 데 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "대전광역시교육청, 'IB 프로그램 연구회' 공모... 수업 혁신 현장 확산 가속화",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GZ1RMb1laVnJGV3BraDU4QUREZU96YkRBSWNGdFh5ajNBcTUxM3NiN0NFMkl2dTVnVndQT0V4MWdWZ2tTSld0cGZISkNKTmIzTkNsbF9xQUdST3BrODFFQWtaWXA1QQ?oc=5",
+    "source": "교육을 비추다",
+    "published": "2026-02-21",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "대전시교육청",
+     "IB"
+    ],
+    "summary": "대전광역시교육청의 IB 프로그램 연구회 공모는 교사 주도의 수업 혁신을 장려하고, 학교 현장의 교육 변화를 가속화하는 긍정적인 시도입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "뇌과학이 밝혔다... 입시 레이스의 핵심 열쇠로 부상한 '생존 체력'",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HSm1nc0hfa2NQejN0UUxqcjhjMl8zY1FzZXU2UkczQ3BRUHRSWnFIQ19ENGFWOEU5WGl3MFUyb2NkcmY2YzNVT0hwNVRVN21PR0RINVpMNmwtNDVfZDc5NkpwRjRFUQ?oc=5",
+    "source": "교육을 비추다",
+    "published": "2026-02-21",
+    "keyword": "뇌과학",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [
+     "수능·대입",
+     "마음건강"
+    ],
+    "summary": "입시 경쟁에서 '생존 체력'의 중요성 부각은, 뇌과학적 근거를 바탕으로 학생들의 신체 및 정신 건강 관리의 중요성을 강조해야 함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "김대중, 글로컬 미래교육 비전 제시 교육감 도전 본격화",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2U1FacXpLdlBVeTFQTWpwX2RBOE9BaHF3dE9vOENSWDRLTnJLb3BaZTl2T1U4RXIybGhnYm11Q0FSOUJZM01Qd09iT1N4cVNsdEhNajVMWnVaU0dJTFl2bzZSVXA4ajVGbHJmZw?oc=5",
+    "source": "호남교육신문",
+    "published": "2026-02-21",
+    "keyword": "AI교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "김대중 후보의 글로컬 미래교육 비전 제시가 지역 교육 혁신과 미래 인재 양성에 새로운 방향성을 제시할 수 있을지 주목됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "[지선 D-100]서울교육감 후보만 11명 각축…최대 승부처 단일화",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13OWM3UXF2V1JZX3dhSXo5akhKLUMzVnFDNnA1TS1pTUV5ZXluNWh2ZDV4ZUNVWUVqQmlnTTg2N21GQUpZM0JqdHhfUms4Vno3WGJ4MXoyVzlwbzJ5aURz?oc=5",
+    "source": "뉴스1",
+    "published": "2026-02-21",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "서울시교육청",
+     "교육감 선거"
+    ],
+    "summary": "서울교육감 후보 난립은 교육정책 혼선과 유권자 피로감을 야기할 수 있으므로, 교육계는 정책 중심의 건설적인 단일화를 통해 교육 현안 해결에 집중해야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "전남·광주 교육감… 김대중 독주에 맞설 대항마, 김해룡 가능성은? ①",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzQzZha25LOENNczFkRE81cGVJRHAxa3d0RzFwMXR6cXRTU2psNWRjenVIVHpvSlU5TGFrdThoaHp3NjRLYlJoYmJsRlBwY0JjNUY2MGprQXJDZXJoUnlTZm5Ic29OaXhKYm1FZGZMTVR1QdIBckFVX3lxTFBzQzZha25LOENNczFkRE81cGVJRHAxa3d0RzFwMXR6cXRTU2psNWRjenVIVHpvSlU5TGFrdThoaHp3NjRLYlJoYmJsRlBwY0JjNUY2MGprQXJDZXJoUnlTZm5Ic29OaXhKYm1FZGZMTVR1QQ?oc=5",
+    "source": "폴리뉴스 Polinews",
+    "published": "2026-02-21",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "광주시교육청",
+     "교육감 선거"
+    ],
+    "summary": "전남·광주 교육감 선거에서 김해룡 후보의 부상은, 김대중 후보 독주에 대한 견제와 함께 교육 정책 다양화 요구를 반영할 가능성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [],
+  "tech": []
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 시대의 정보 판단 역량 강화, 교직 사회 혁신, 미래 교육 비전 제시, 뇌과학 기반 학습 전략, 교육감 선거 경쟁 심화 등 다양한 변화 속에서 교육 혁신을 향한 노력이 가속화되고 있습니다."
+ }
+}

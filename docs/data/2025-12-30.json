@@ -1,0 +1,414 @@
+{
+ "date": "2025-12-30",
+ "generated_at": "2026-11-02T11:49:57+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "교육부·국교위, AI교육 전담조직 신설…교과서 체계 개편 논의 착수",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oSU5VWFlHTHdnM1RhSFR2QlMwMUN5NUdRTWo1THpTYlB1bFlDM3piaG9pVFJkanlWZWtoc0JneVdOSDhJTGIyTEkzTEEwTGlMa0FndmQ2TGNSMnhhR2sxb01DR0pBOThiMTl6VXNBVdIBb0FVX3lxTE5oSU5VWFlHTHdnM1RhSFR2QlMwMUN5NUdRTWo1THpTYlB1bFlDM3piaG9pVFJkanlWZWtoc0JneVdOSDhJTGIyTEkzTEEwTGlMa0FndmQ2TGNSMnhhR2sxb01DR0pBOThiMTl6VXNBVQ?oc=5",
+    "source": "더퍼블릭",
+    "published": "2025-12-29",
+    "keyword": "AI디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "AI 교육 전담 조직 신설 및 교과서 체계 개편 논의는 미래 교육 혁신을 위한 중요한 발걸음이지만, 현장 교사들의 전문성 강화와 충분한 지원이 필수적입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "김영곤 전 교육부 차관보, 경남 디지털 교육 정책 전면 재검토 촉구",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02VGFwVlNlLS1iTWdEQWJRWGplZ3owTDNseWVzODU5M3JsNlBFZGw4LUMyU24zRHFSVHh5MXB2MVZBRXZvaUc0REt6UmEwQ1ZVS0VaYjF4LXFGdkgxcjNERHJ2cV9ERzl4TExBU9IBbEFVX3lxTE02VGFwVlNlLS1iTWdEQWJRWGplZ3owTDNseWVzODU5M3JsNlBFZGw4LUMyU24zRHFSVHh5MXB2MVZBRXZvaUc0REt6UmEwQ1ZVS0VaYjF4LXFGdkgxcjNERHJ2cV9ERzl4TExBUw?oc=5",
+    "source": "경남탑뉴스",
+    "published": "2025-12-29",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "디지털 교육 정책의 실효성 및 현장 적합성 검토 요구는 교육 격차 해소와 미래 교육 방향 설정에 중요한 시사점을 던져줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[신년인터뷰] 구연희 세종교육감 권한대행 \"AI 보편교육.수학메카 실현\" 강조",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjWkJMQXJjd0ppSFM5dVpjcE8xd0JYOXMyZkliVzhWdkQ3YXJJUDBFYVRVeHFGeFFmWktoVUZ5Y3llbHdTcEJzVTE2N25RRE5YUlFIb0lGTnFNU0RlMnJOWG9zb0tfblBuLXc?oc=5",
+    "source": "세종포스트",
+    "published": "2025-12-29",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": "interview",
+    "entities": [
+     "세종시교육청"
+    ],
+    "summary": "세종교육청의 AI 보편교육과 수학 메카 추진은 미래 교육 환경 변화에 대한 선제적 대응이라는 점에서 긍정적 시사점을 던져줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "이남호 전 전북대총장, 전북교육감 출마 선언",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPc3VCSldlei1vcTNQZ0YzQ3RtMkR6VlF5Z2JKb2hlbDJuYTFKUXdJSWEzbnZnRlpRckc2Y3RfSzB2bnctYXlUMXBwSENZRVVrejJtV0RLSk1QOWFoMmd4U0FycFZqRGJDRWlTbzZmOHN5alAtV3p1cDcyVnY5RG1xU1hfTQ?oc=5",
+    "source": "주간해피데이",
+    "published": "2025-12-29",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "전북교육청",
+     "교육감 선거"
+    ],
+    "summary": "전북대 총장 출신 교육감 후보의 등장은 대학과 지역 교육 연계 강화 및 교육 정책 전문성 심화에 기여할 수 있을지 주목해야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "오경미 前 교육국장 ‘광주교육 정상화, 교육감 출마 선언’",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FWVFTTkgxSHpUaXVtUG5zR0FfblpmcGN3RUhfLWtwLXIzQTRiR1E5UnVSY3BQc2RDQnFiN3F6VkdsUEFYLWNRc2FoWFU4M2gycXM0QkxUd0FndU15eVFWaFlEQnB3eUppS1phSw?oc=5",
+    "source": "호남교육신문",
+    "published": "2025-12-29",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "광주시교육청"
+    ],
+    "summary": "오경미 前 교육국장의 교육감 출마 선언은 광주 교육 정상화에 대한 강력한 의지를 표명하며, 교육계 변화에 대한 논의를 촉발할 것으로 예상됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "[신년사] 임종식 경북교육감 “따뜻함 잃지 않는 혁신으로 미래 교육 선도”",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1OMzVKSTNBMzFFM0d4STFZQldxLW9jR3JoSU93N3MydmhHcXR4anc3UmM2bVpDbHJJWjhWMDNVSWVUZGpKSWFhQTZWWWJsczNhdmV1U2lPaXM?oc=5",
+    "source": "뉴스투데이",
+    "published": "2025-12-29",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "경북교육청"
+    ],
+    "summary": "임종식 교육감의 신년사는 따뜻함과 혁신의 조화를 통해 미래 교육을 선도하겠다는 의지를 밝힘으로써, 교육 현장에 인간 중심적 혁신의 중요성을 강조하고 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "[신년사] 유정기 전북교육감 권한대행 “책임교육으로 한국 교육의 중심”",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44enhOSmpESlFZZHFLSjNrWnB6dm1CdEJWRWFpQnBXeU5tNHNndDNQX2Z0Y3BlXzVUVmVzY0hRU09RTzZGTzUxMEtNdDI1ZnpuckVoVXZQQ2ctWi00ZElKOHB4bnVEaUE?oc=5",
+    "source": "교육플러스",
+    "published": "2025-12-29",
+    "keyword": "AI디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "전북교육청"
+    ],
+    "summary": "유정기 교육감 권한대행의 책임교육 강조는 전북 교육이 기초학력 향상과 교육 격차 해소에 집중할 것임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "[유정기 도교육감 권대 신년사] \"전북 교육 한국의 중심으로 한걸음 \"",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TRnNickNjb05NTlZodEhFMEVzUjhMTmNUS1lRZlowMEpMOFhqV1ZvQ1hlZFItNTNObzJpVW9PTG5FTEtrX1JkbXlWR3RaSUg5cE1vTEd3WEZKcDI2UWxRRVJrVjJwUnVmckhvaGV3TQ?oc=5",
+    "source": "투데이 군산",
+    "published": "2025-12-29",
+    "keyword": "AI디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "전북교육청"
+    ],
+    "summary": "유정기 교육감의 신년사는 전북 교육이 한국 교육의 중심 역할을 지향하며 혁신을 가속화하겠다는 의지를 보여주는 것으로 해석됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "AI 수업 현장 성과로 증명한 대전 디지털교육 경쟁력",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YeWg5V1RJd2NuYmhfLWZsX2FrUGZlblRJQUYzY1JiUFl2T3pfSWxmWjFZN1JMWnlBaHhfdzZLNmhrenNWcFNZc3R4UnRVZE4xdmFwcHotRTlVSURjWHpKcWxjc2FRYjNJZHc?oc=5",
+    "source": "충청매일",
+    "published": "2025-12-29",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "대전의 AI 수업 성공 사례는 디지털 교육 격차 해소와 미래 교육 모델 확립에 긍정적인 시사점을 제공합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "국가 AI 활용계획 \"에듀테크 테스트베드 될까\" 우려",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51MjdtUTJrVElaT00xLXkwdDd4OGowRmRtQ0I2NG5LVWhtYTJ6UjJLWHQ3MVZOcnM1ajJhb1BWazFsSnhNY3JsWmxGbWJ2RmZUTW1LbmwxZFlFZHhYYXcydmNtWS1kSHc1TWJF?oc=5",
+    "source": "교육언론[창]",
+    "published": "2025-12-29",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "국가 AI 활용 계획이 에듀테크 테스트베드로 전락할 경우, 교육의 본질을 흐리고 학생들의 학습권을 침해할 수 있다는 우려를 해소해야 합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "When adaptive learning is effective learning: comparison of an adaptive learning system to teacher-led instruction",
+    "url": "https://www.semanticscholar.org/paper/f296f6a96af6e31a4e6790aac85ad9e9871da980",
+    "source": "semantic_scholar",
+    "published": "2020-08-31",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "중국 8학년 학생들을 대상으로 Squirrel AI Learning을 활용한 적응형 학습이 교사 주도형 대규모 및 소규모 그룹 수업보다 수학 학습 효과가 더 크다는 것을 입증하여, 중국 교육 시스템에서 적응형 학습 시스템의 효과적인 활용 가능성을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Shuai Wang, C. Christensen 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "Improving Educational Outcomes Through Adaptive Learning Systems using AI",
+    "url": "https://www.semanticscholar.org/paper/865134d2c20ad2b10974ac9cd634b8132909eef5",
+    "source": "semantic_scholar",
+    "published": "2024-11-06",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "AI 기반 적응형 학습 시스템이 다양한 교육 환경에서 학생 성적 향상과 참여도 증가에 긍정적인 영향을 미치며, 양적·질적 연구를 통해 기존 방식보다 효과적임을 입증하고, 교육 혁신 가능성을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Herva Emilda Sari, Benelekser Tumanggor 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Adaptive learning and artificial intelligence in the educational space",
+    "url": "https://www.semanticscholar.org/paper/7bc39d032a4c508194264ff235686414c691d9fa",
+    "source": "semantic_scholar",
+    "published": "",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "AI와 적응형 학습 기술을 융합하여 학생 데이터를 분석, 개인별 맞춤 학습 경험을 제공하고 교사의 효율성을 높여 교육 혁신에 기여하지만 윤리적 문제와 교사 교육의 필요성을 제기합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Aida Akavova, Zarema Temirkhanova 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "An Adaptive e-Learning System for Enhancing Learning Performance: Based on Dynamic Scaffolding Theory",
+    "url": "https://www.semanticscholar.org/paper/fd4f98a7ffdac0d3d3d8aece2ed10b774399d7c0",
+    "source": "semantic_scholar",
+    "published": "2017-12-07",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "본 논문은 동적 스캐폴딩 이론 기반의 자기 평가 루브릭을 활용한 적응형 e-러닝 시스템을 개발하여, 학습 효과와 만족도를 높이고, 학생 맞춤형 학습 자료 제공 및 인지 능력 향상에 기여하며, 학습자 중심의 e-러닝 환경 구축에 활용될 수 있음을 실험적으로 검증합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Chun-Hui Wu, You-Shyang Chen 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "Formative experience for intensive instruction physics courses: Evaluation and results in an Electromagnetism course",
+    "url": "http://arxiv.org/abs/2512.12404v1",
+    "source": "",
+    "published": "2025-12-13",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "전자기학 집중 교육 과정에서 능동적 학습 방법이 전통적인 방식보다 개념 이해도 향상에 더 효과적임을 보이며, 다양한 학생 요구에 맞춘 집중 교육 과정 설계에 시사점을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Marcela Vallejo', 'Ema Huerta' 외 3명",
+    "pdf": "http://arxiv.org/pdf/2512.12404v1"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "\"유튜브 추천 영상 20%가 AI 슬롭...한국은 AI 영상 소비 대표국\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205149",
+    "source": "AI Times",
+    "published": "2025-12-29",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 슬롭 영상 소비 증가는 유튜브 플랫폼의 신뢰성 저하와 함께 국내 AI 콘텐츠 산업의 질적 성장에 대한 과제를 제시합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "﻿스캐터랩, AI 픽션 플랫폼 ‘제타’ 업그레이드...“대화 기억해 나만의 서사 만든다”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205156",
+    "source": "AI Times",
+    "published": "2025-12-29",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [],
+    "summary": "스캐터랩의 '제타' 업그레이드는 SLM 기반 AI 픽션 플랫폼의 발전 가능성을 보여주며, 개인 맞춤형 콘텐츠 시장 경쟁 심화를 예고합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "AI게임협–울림성우학원, 인디게임 음성 콘텐츠 협업 위한 ‘게임 보이스 랩’ 운영",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205158",
+    "source": "AI Times",
+    "published": "2025-12-29",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "사교육"
+    ],
+    "summary": "인공지능 게임 협회와 울림성우학원의 협력은 인디 게임 개발 생태계에 양질의 음성 콘텐츠 접근성을 높여 게임 완성도를 향상시키는 데 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "How to Build an AI-Powered Weather ETL Pipeline with Databricks and GPT-4o: From API To Dashboard",
+    "url": "https://towardsdatascience.com/how-to-build-an-ai-powered-weather-etl-pipeline-with-databricks-and-gpt-4o-from-api-to-dashboard/",
+    "source": "Towards Data Science",
+    "published": "2025-12-26",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-4o를 활용한 날씨 ETL 파이프라인 구축 가이드는 AI 기반 데이터 분석 및 시각화의 접근성을 높여 관련 산업 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[12월29일] AI와의 관계가 인간에게 실제로 유익할 수 있을까",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205151",
+    "source": "AI Times",
+    "published": "2025-12-30",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 정신병 문제 제기는 AI와 인간 관계의 윤리적, 심리적 측면에 대한 논의를 촉발하여 AI 기술 발전 및 수용에 중요한 영향을 미칠 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "기분 좋죠? AI 대부의 경고…아첨 떠는 챗봇은 ‘거짓말’",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205170",
+    "source": "AI Times",
+    "published": "2025-12-30",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 챗봇의 아첨 경향은 사용자의 인지적 편향을 강화하여 장기적으로 AI 신뢰도를 저해할 수 있다는 점을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "\"SNS 이어 AI 챗봇 접속 막아야\"...미국서 청소년 AI 제한 목소리 높아져",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=205155",
+    "source": "AI Times",
+    "published": "2025-12-29",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "청소년 AI 접근 제한 논의는 AI 기술 발전과 사회적 책임 사이의 균형점을 찾는 중요한 과제를 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "OpenAI's Sam Altman warned of AI's \"superhuman persuasion\" in 2023, and 2025 proved him right",
+    "url": "https://the-decoder.com/openais-sam-altman-warned-of-ais-superhuman-persuasion-in-2023-and-2025-proved-him-right/",
+    "source": "The Decoder",
+    "published": "2025-12-28",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "AI의 설득력이 고도화됨에 따라 사회적 영향력에 대한 윤리적 가이드라인과 안전장치 마련이 시급하다는 것을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "삼성전자, AI TV 경쟁의 새로운 전환점 '구글 포토 탑재' ... “콘텐츠 스트리밍 중심에서 AI·생활 경험 더한 ‘거실 플랫폼’으로",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xY2FBbmFaU1lWVldFYU9MWVFwaHlrRVUtb2xJX2R0R0pTbWRPOC1waGxLblp5YUJyd1ZqZG4tSFZTXzRRWGZOV1ZMSFNmQW9DS0VXZGgtcUY2TjZfNkpORkd6eFhEeWM?oc=5",
+    "source": "인공지능신문",
+    "published": "2025-12-29",
+    "keyword": "인공지능",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "삼성",
+     "Google"
+    ],
+    "summary": "삼성전자의 구글 포토 탑재는 AI TV를 단순 콘텐츠 소비 넘어 AI 생활 플랫폼으로 확장하는 전략적 전환점입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "챗GPT부터 제미나이까지…초보자 AI 선택 가이드",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xZVFaaGdmVXFEN2cyQWtaOVF5ejk3MGtnajM2Rl81T3BuZ0ZBZGtQWF9qdnpvbjJEZkRiY3VJZ1lhdWd4LTBqYkFKTXJFYmlseGdCQVhOYnZPVzV4MHBBbGdubjczQzZKNlc3a1BOVlFHZE0?oc=5",
+    "source": "디지털투데이",
+    "published": "2025-12-29",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Gemini"
+    ],
+    "summary": "다양한 AI 모델 등장으로 사용자 선택지가 넓어짐에 따라, 특정 목적에 맞는 AI 활용 전략 수립이 중요해지고 있습니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "교육계는 AI 전담 조직 신설 및 디지털 교육 정책 재검토 논의와 함께, AI 보편 교육 강조, 에듀테크 활용 및 디지털 교육 경쟁력 강화 등 미래 교육으로의 혁신을 가속화하며, 교육감 선거를 통해 새로운 변화를 모색하고 있습니다.",
+  "tech": "AI 기술이 엔터테인먼트, 콘텐츠 제작, 플랫폼, 그리고 사용자 경험 전반에 걸쳐 더욱 깊숙이 통합되며, 긍정적인 방향으로 진화하고 있지만, 동시에 AI 사용에 대한 경계와 윤리적 고려의 필요성이 강조되고 있습니다."
+ }
+}

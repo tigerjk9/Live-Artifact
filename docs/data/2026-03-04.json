@@ -1,0 +1,421 @@
+{
+ "date": "2026-03-04",
+ "generated_at": "2026-11-02T11:52:56+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "경기도교육청, '스마트기기 사용 수업 가이드' 개발·보급",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tSFh5c2ZFZFI1anhBQ2hteExablpHX3ViUjJGckFVdnZKLUNYSi1JX0IwOU9RV09WdGZOQkVwZDJFa0VEVlpwaUFGMFRBcklWU0FF?oc=5",
+    "source": "네이트",
+    "published": "2026-03-04",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청의 스마트기기 사용 수업 가이드 개발·보급은 디지털 교육 격차 해소 및 교사의 효과적인 스마트기기 활용 능력 향상에 기여할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "IBS, 만성 통증 고통 강도 ‘뇌 영상’으로 읽어내",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yUkJTVm43ZFhVV3J6WHFvblVQQnkwcFVldm1QRXNkeEhqQURKNVFQTmM5Mmp4a0lUUjVYNGo0TnUwTEFuNk84VFR0d0JPUWQtd2pvMW9aMWRmdGtTUndiNk9zXzZlc0RkOUHSAW5BVV95cUxPaVZhV2NjZ1kzc3d3dWwyVFZjeHByR1dQX20xU09JTWNqWW1uc0xEaGV5NldMVzMzT1hWTzdOd05ISFlCS2t0THhCdkVqcHdPbncwbms0WkFERGp3OUotN2pWSjdoNkVqbFc2bVRBUQ?oc=5",
+    "source": "충청신문",
+    "published": "2026-03-03",
+    "keyword": "뇌과학",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "만성 통증을 객관적으로 측정하는 기술은 학생들의 학습 집중력 저해 요인을 파악하고 맞춤형 지원을 제공하는 데 활용될 수 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "李 대통령, 촉법소년 연령 하향 시사… 교디연 \"처벌보다 교화 우선\"",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=21831",
+    "source": "에듀프레스",
+    "published": "2026-03-03",
+    "keyword": "",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [],
+    "summary": "촉법소년 연령 하향은 처벌 강화보다 교육적 교화 시스템 구축이 우선되어야 하며, 학교 현장의 학생 지도 및 사회적 안전망 강화가 중요합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "서울시교육청, 학생선수 부상 발생 시 ‘현장조치 7단계’ 전면 적용…「2026학년도 서울 학교운동부 운영 계획」 발표",
+    "url": "https://www.lecturernews.com/news/articleView.html?idxno=197971",
+    "source": "한국강사신문",
+    "published": "2026-03-04",
+    "keyword": "",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "서울시교육청"
+    ],
+    "summary": "서울시교육청의 학생선수 부상 대응 체계 강화는 학생 안전을 최우선으로 하는 학교 운동부 운영의 중요한 전환점이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "경북교육청 발명인공지능교육원 출범",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xTTZJYTFFSURJRVFzalQzUU1FRTdNVC01ZmpwNWRhcW5NY1RfaGkxZmxwbWVJeEhuRTFQOS1XZDd2MVNsYWtWOU91M0h6bFE3UWJUNE01Wnp0dmVnM1g0?oc=5",
+    "source": "한국교육신문",
+    "published": "2026-03-03",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경북교육청"
+    ],
+    "summary": "경북교육청의 발명인공지능교육원 출범은 창의적 문제 해결 능력과 AI 활용 역량을 갖춘 미래 인재 양성에 기여할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "경상북도교육청발명인공지능교육원 개원",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBWbGhWdmJBTFlzYUxpV0FlWW0xZ3AzNFJGR0NmendyTWdfMllrd2pkSnNPUVN5LVFycEctQlZiVzNOek5EaGZRa1A2VWs?oc=5",
+    "source": "GBN 경북방송",
+    "published": "2026-03-03",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "경상북도교육청발명인공지능교육원 개원은 학생들의 창의적 문제 해결 능력과 미래 핵심 역량 함양에 긍정적인 영향을 미칠 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "AI가 언어를 넘고, 에듀테크가 미래를 잇는 경기미래학교 안산원곡초 1년, 모두의 교실을 실현하다",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PNHZiU1kzazNfcTlsMHdjWDBaeDFSUEo5ei1zWUVGOEsxaExPUWNzdGQwcE9pXzhwaXNaV1VEMWwzaE9zNjVJUFpQdkt5LTRkcEIxLVdFZkVNMFVhWDRMX3l5ZmhZZU85NlNsYTlHdVM0RFRm?oc=5",
+    "source": "경기종합뉴스",
+    "published": "2026-03-04",
+    "keyword": "에듀테크",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "AI와 에듀테크 기반 미래학교 모델은 개별 맞춤형 학습과 교육 혁신을 통해 공교육의 질을 향상시킬 가능성을 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "[포토] MWC26에서 선보이는 K-에듀테크 기술",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5val9sMXBJOUEza0JxWlpETWRNRmU1OVprWWVqM2ZEWDZ2dTFuR3E4M1VyYlUwTUVxbmF1aEpGWlFydG5nWFZOUThuVUhYZw?oc=5",
+    "source": "전자신문",
+    "published": "2026-03-03",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "MWC26에서 선보이는 K-에듀테크 기술은 맞춤형 학습과 교육 혁신을 가속화하여 미래 교육의 가능성을 제시할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "충남대 발명교육인재개발센터, ‘2026 에듀테크 정책-솔루션 매칭 데이’ 성황리 종료",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VWF84S0RzbTFwTmlyaXpqM3BKOFZ1U0VGTEZYSVNhVUlnTXJFdlkzWVhzdVpVOFBiNWJURGRvc2JzRXBxQW04aVB1SkZmMjJzQUhVWWczZkxyRUpoNEh5WnBXSUFwd0dFcXVHODZ30gFyQVVfeXFMTnQyY0tONEpKS1BRdV9QbkhlQk1nYjN6UE1fS2JmcWRNekl5WWpscmkyUFhiMHRJUTBqN01NaGI0b2ktSlRCTmFIUUlsRk5KdHQ2VmNKUkxKSnBNckktY2tCM3cxRjZudl9GdFFwRXR0N0Z3?oc=5",
+    "source": "시선뉴스",
+    "published": "2026-03-03",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "충남대 발명교육인재개발센터의 에듀테크 매칭 데이는 학교 현장의 디지털 교육 혁신을 가속화하고 교사들의 에듀테크 활용 역량을 강화하는 데 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "제주대 김일환 총장 이임… “교육혁신 기반으로 미래 10년 준비”",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE05aWlwYkNSc0xBa2Q3bHRyZGF5bkVXZm1CN08zU0czY29TWDk1R2R2NXpwdVhsWmxPaHFGTVdYYVRuUXNwVlJSNkpKTFBFeG9sZmh1TTZlT294WjhnUWV4UVMtMlNUWk9yMVZhNUxQRQ?oc=5",
+    "source": "제주도민일보",
+    "published": "2026-03-04",
+    "keyword": "교육혁신",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [],
+    "summary": "제주대 총장의 이임은 교육 혁신을 통한 미래 대비의 중요성을 강조하며, 대학들이 변화에 발맞춰 지속적인 혁신을 추구해야 함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "A Review of AI Tools: Definitions, Functions, and Applications for K-12 Education",
+    "url": "https://www.semanticscholar.org/paper/3e4f2ffe462cdf9ed18f99e727759c7b32530c47",
+    "source": "semantic_scholar",
+    "published": "2024-11-28",
+    "keyword": "K-12 education",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "본 논문은 K-12 교육에서 AI 도구의 정의, 기능, 활용 사례를 검토하고, 교사들이 교육, 행정, 분석 목적으로 AI를 활용하여 맞춤형 학습을 촉진하고 미래 인재를 양성하도록 돕기 위한 실질적인 지침을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Gina Kwid, Nicole Sarty 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "Analysis and Practice of Using Modern Information Technology for Classroom Teaching Mode Reform",
+    "url": "https://www.semanticscholar.org/paper/9caa0c4f5819efa1218bce57720e3330389b8192",
+    "source": "semantic_scholar",
+    "published": "2022-08-05",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 인공지능 및 빅데이터 기술을 활용한 스마트 교실 기반의 정보 기술 교육 모델을 분석하고, 전통적인 교육 방식과의 비교를 통해 학생들의 능동적인 학습 동기 부여 및 교사의 효과적인 지도를 위한 새로운 교육 모델의 필요성을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Mei Liu, Rujin Zhou 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Construction and application of SPOC‐based flipped classroom teaching mode in Installation Engineering Cost curriculum based on OBE concept",
+    "url": "https://www.semanticscholar.org/paper/06004787a037557addd5dccd5e8cd3d6ee68c561",
+    "source": "semantic_scholar",
+    "published": "2020-08-20",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "OBE 개념 기반의 SPOC 활용 플립러닝 교수법을 설치 공사비 커리큘럼에 적용한 결과, 학생들의 학업 성취도와 만족도가 향상되었으며, 이는 블렌디드 러닝의 효과적인 모델을 제시하고 교육 분야에 긍정적인 영향을 미칠 수 있음을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Lei Zhang, Yueqing Xuan 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "Distance Learning and Multilingual Education: A Case Study of Challenges and Pedagogical Perspectives in the Greek Border Region",
+    "url": "http://arxiv.org/abs/2603.00128v1",
+    "source": "",
+    "published": "2026-02-23",
+    "keyword": "pedagogical",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [
+     "다문화"
+    ],
+    "summary": "그리스 국경 지역의 외국어 교사 인터뷰를 통해 원격 교육의 잠재력과 한계를 분석하여, 디지털 도구 활용, 맞춤형 피드백 부족, 문화적 맥락 부재 등의 문제를 지적하고, 다문화 교육 개선을 위한 정책 및 기술 개발 방향을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "['Ariadni Mandala', 'Alexandros Gazis' 외 1명",
+    "pdf": "http://arxiv.org/pdf/2603.00128v1"
+   },
+   {
+    "n": 5,
+    "title": "A Systematic Review on Design Thinking Integrated Learning in K-12 Education",
+    "url": "https://www.semanticscholar.org/paper/581d2beb56eae5c8e99288c4cfa6017a82016902",
+    "source": "semantic_scholar",
+    "published": "2022-08-12",
+    "keyword": "K-12 education",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 K-12 교육에서 디자인 사고 통합 학습(DTIL) 관련 SSCI 논문 43편을 체계적으로 분석하여, DTIL이 교육적 잠재력은 크지만 효과성을 입증하는 경험적 증거는 아직 부족하며, 향후 연구 방향을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Tingting Li, Zehui Zhan",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "팝업스튜디오, AI 개발 자동화 프레임워크 '비킷' 출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207477",
+    "source": "AI Times",
+    "published": "2026-03-03",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [],
+    "summary": "비킷 출시는 AI 개발 자동화를 통해 개발 생산성을 향상시키고 AI 기술 접근성을 높여 산업 전반의 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "'중국 맞설 미국의 오픈소스 대표' 리플렉션, 1년 만에 몸값 36배 폭등",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207468",
+    "source": "AI Times",
+    "published": "2026-03-03",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "오픈소스"
+    ],
+    "summary": "리플렉션 AI의 급성장은 폐쇄형 모델 중심의 AI 시장에 오픈소스 기반 경쟁 구도를 심화시키고, 미국이 중국에 대응할 새로운 AI 전략을 모색하는 계기가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[ChatGPT 사용자들이 윤리적 논란 속에서 Claude로 대거 전환] Claude는 미국 앱스토어 무료 앱 2위로 올라 ChatGPT를 추월했으며, Anthropic은 일일 가입자 사상 최고치를 기록했다.",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5oQ2FhbUwyNFBNQ0VEb1Y4SG54LUhFVWQ3WGFfSlpyZE1TNl9Ma0JacnJxWXZ4VlJVdWJHanlFZWQ?oc=5",
+    "source": "AI넷",
+    "published": "2026-03-03",
+    "keyword": "Anthropic",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Claude",
+     "Anthropic",
+     "AI 안전·규제"
+    ],
+    "summary": "AI 윤리 문제에 대한 사용자 민감도가 높아짐에 따라, 경쟁 서비스인 Claude가 부상하며 AI 플랫폼 경쟁 심화와 윤리적 AI 개발의 중요성이 부각되고 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "Federal AI shakeup: State Department swaps Claude for aging GPT-4.1",
+    "url": "https://the-decoder.com/federal-ai-shakeup-state-department-swaps-claude-for-aging-gpt-4-1/",
+    "source": "The Decoder",
+    "published": "2026-03-03",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Claude",
+     "ChatGPT"
+    ],
+    "summary": "미 국무부의 AI 모델 교체는 정부 기관의 AI 기술 선택에 있어 성능 경쟁 심화와 특정 모델에 대한 의존도 변화를 보여주는 사례입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "화웨이, 새로운 AI 컴퓨팅 클러스터 공개...\"8192개 NPU까지 확장 가능\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=207470",
+    "source": "AI Times",
+    "published": "2026-03-03",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "GPU·데이터센터"
+    ],
+    "summary": "화웨이의 AI 컴퓨팅 클러스터는 엔비디아 독점 체제를 흔들 잠재력을 보여주며 AI 반도체 시장 경쟁 심화를 예고합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "ChatGPT에 대한 불매운동 물결이 거세지고 있으며, 수백만 명의 사용자가 OpenAI를 떠나고 있습니다.",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ01SY1RYRHcydlpWUEpWbkFGQm5xUzNPQW5DQVpwZGFWRDRjcGJqcnhFZlBEbUtvMkJsSTcwaXNFcERuSkZRMzNjbUJQWVZ6VU9oSzdPd2ZCTWNpaU95bl9wN3FXRFpQY1NGWFNyV3BTcUpkVHBiV1VRSGpsMlc0enh1bDVNTWw0ZnB0dE0xTUJxZ1owY0hEamhSaDc?oc=5",
+    "source": "Vietnam.vn",
+    "published": "2026-03-03",
+    "keyword": "오픈AI",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "OpenAI"
+    ],
+    "summary": "ChatGPT 불매운동은 경쟁 심화와 사용자 이탈을 야기하며 AI 서비스 다양화 및 윤리적 책임에 대한 요구를 증대시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "Meta tests AI-powered shopping search to compete with ChatGPT and Gemini",
+    "url": "https://the-decoder.com/meta-tests-ai-powered-shopping-search-to-compete-with-chatgpt-and-gemini/",
+    "source": "The Decoder",
+    "published": "2026-03-03",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Meta",
+     "ChatGPT",
+     "Gemini"
+    ],
+    "summary": "메타의 AI 쇼핑 검색 도입은 검색 시장 경쟁 심화와 더불어 AI 기반 상거래 플랫폼 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "구글·오픈AI 직원들 \"앤트로픽 연대\"…美챗GPT 삭제율 3배 폭증",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HbGI0RFlwUHZycmZ4WVNZbDJacFB6MGZkT0Q0U1VFUkJHcW5uMFR4YkFOOHo0QWVreC1rR3lQN2dPZU5TZUUyUF92N0xweFZ0TzUxOEdaSllQMTjSAWBBVV95cUxQeDhoU1FvZ3ZzYTdOZk02RWo3NE5laEpfTF9ZS3lOT2lDOHY4Y0RpUGtiRE1LeFZ0QnNNZEpLUWkweVNEc3Q3SndhZERMWk56Z1BFQVlMdW5hYUVoMDc4OFA?oc=5",
+    "source": "연합뉴스",
+    "published": "2026-03-03",
+    "keyword": "GPT",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "Google",
+     "OpenAI",
+     "Anthropic",
+     "ChatGPT",
+     "AI 안전·규제"
+    ],
+    "summary": "AI 윤리 및 안전에 대한 내부 고발자 연대와 플랫폼 경쟁 심화는 AI 산업 발전 방향에 중요한 영향을 미칠 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "[NVIDIA, OpenAI, Anthropic: 2026년 AI 생태계를 장악하는 3각 편대] 2026년의 AI 시장은 단 한 명의 승자가 모든 것을 독식하는 구조가 아니라, 인프라-소비자-기업이라는 세 층위로 분화되어 공존하는 형태다.",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9BWGg5WGhNUFJqd1JqYUZLLTJpTHhVNzYzeGhoS2dsdkRsUmk1ZUZFR3R1MWV3N3o5Ni1PX0kwSHo?oc=5",
+    "source": "AI넷",
+    "published": "2026-03-03",
+    "keyword": "Anthropic",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "OpenAI",
+     "Anthropic"
+    ],
+    "summary": "2026년 AI 시장은 인프라, 소비자, 기업 영역에서 엔비디아, OpenAI, Anthropic이 각자의 강점을 바탕으로 공존하는 생태계를 구축할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "휴넷, 오프라인 실습형 AI 기업교육 모델 공개",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TMjVoai1EejJheFozTzlnNUdXSnF3d0J4cVAtN09kRFpFYXgxaXEzN004RjRObXlNdGdjdHljdUpuelYybTExZFpnNktJRzY0NFJR?oc=5",
+    "source": "네이트",
+    "published": "2026-03-04",
+    "keyword": "AI모델",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [],
+    "summary": "휴넷의 오프라인 AI 기업교육 모델은 실무 중심 AI 인재 양성을 가속화하여 산업 전반의 디지털 전환 경쟁력을 강화할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI, 에듀테크, 스마트 기기 활용이 교육 현장에 빠르게 확산되고 있으며, 학생 안전과 미래 교육 혁신을 위한 노력이 다각도로 진행되는 긍정적인 변화가 돋보입니다.",
+  "tech": "AI 기술 경쟁 심화 속, Claude와 같은 새로운 대안 부상, AI 개발 자동화, 맞춤형 AI 솔루션, 그리고 AI 인프라 및 기업 교육 확산으로 AI 생태계가 더욱 풍성해지고 있다!"
+ }
+}

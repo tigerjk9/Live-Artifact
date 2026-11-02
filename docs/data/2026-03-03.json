@@ -1,0 +1,161 @@
+{
+ "date": "2026-03-03",
+ "generated_at": "2026-11-02T11:52:54+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[경상시론]AI가 답을 쓰는 시대, 우리는 무엇을 가르칠 것인가?",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EejJWSGJDQl9YZUxEb2FIczZUVlBRSXVEMUtNRzZDb2sxb2xCa1VQT1JnUlNFcmZHYXJoWUFjYVduRk8zbVBLMmtSNHY4bDRfWEhTck5hVHBhQWpnX0FTY0drWnhZTVVvd3NVaw?oc=5",
+    "source": "경상일보",
+    "published": "2026-03-02",
+    "keyword": "AI디지털도구",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 2,
+    "title": "[시론] AI 시대에 인지능력 떨어지는 자녀 교육",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jaFR3Wk4xVnlpWXhaUlJDWmFPRzNzRnE3YVRKTk52bllhd1JMU3QtMjJ0eXh2ZGhZRHRzeVBWN0lZNjU0Ukh5NXkwcEFxZThvYnM3eHZ3?oc=5",
+    "source": "중앙일보",
+    "published": "2026-03-02",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 3,
+    "title": "[칼럼] AI·디지털 분야 국제공동연구사업, 싱가포르와 미래를 공동 설계",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9VZzgzZjJzNmV1bHJVR0V2dURRVy1sb3ltRFhESHRKVmo0WGMzXzY2bFFZRnY3blpoVGFlSGEzZjl0cDFYcUNR?oc=5",
+    "source": "정필",
+    "published": "2026-03-02",
+    "keyword": "디지털전환",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 4,
+    "title": "[시론] 학교장 리더십 전면적 재정립 필요해",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GY083c3BxdWVLRDVHRjRlOExWSUpBQlVDbnhKY1V0RTZacngzRERsWDZYOWY3LVVZZUtIMUMyS3pieVpmOGtLM0dkclVPb0pka1NmMm9WTXdxMmpEZzFB?oc=5",
+    "source": "한국교육신문",
+    "published": "2026-03-02",
+    "keyword": "AI디지털교육",
+    "topic": "teacher",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 5,
+    "title": "[고성근 칼럼] 기초학력은 통제 기준 아닌 성장의 출발선이다",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=21827",
+    "source": "에듀프레스",
+    "published": "2026-03-01",
+    "keyword": "",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "몇 해 전 필리핀을 여행하던 중, 16세기 말 지어진 한 성당의 고즈넉한 복도에서 발걸음을 멈춘 적이 있다. 벽면에 붙은 낡은 안내문 한 장 때문이었다. 이곳은 필리핀 최초의 정규 학교가 시작된 공간이며, 당시 학생들은 ‘3R’s’를 배웠다고 적혀 있었다. Reading(읽기), Writing(쓰기), Arithmetic(산수), 그리고 Religion(종",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "뇌과학정서 사랑과 이별 매거진",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFa2lTWlQ5VGJDdTMtaTh3eTNCd2sxZ2d6aXBra0RvQ2pJdEttU2p3ak5rdmFXeGI4ZEprbXBRcFI4OTNYQnVtODFZUEhMb0py?oc=5",
+    "source": "브런치",
+    "published": "2026-03-02",
+    "keyword": "뇌과학",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 7,
+    "title": "서울시교육청, ‘인간 중심 AI 교육’ 가이드라인 배포",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tRko0ZzZOVGdKbVFtWUl2VGxMdTJGM2tzUGs3dm1keDMyVjEzNkY5YVB4MUFMaGpXdHljQnRRTF9Ia183Y0djSGVvaE5rNTVHekdMTllZUkN3ZmhvNjNMYklYbmRWYUM5aTFhYVpn?oc=5",
+    "source": "전국매일신문",
+    "published": "2026-03-02",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "서울시교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "한국교육학술정보원, '2026 RISS·대학라이선스 DB 이용 교육' 실시... 고교생까지 대상 확대",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zdVp1Wm5wdlNVNTJfdDczX1ZsVjREcVNCaEVyZXRPVWpBellWVk5BOUhGSkU5RWVHLXlidVlIYWladjF0MjhObERCS1RUemNfOENKWkducUpoVUdHR0VIWFZoVlN6dw?oc=5",
+    "source": "교육을 비추다",
+    "published": "2026-03-02",
+    "keyword": "에듀테크",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [
+     "KERIS"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "6·3 서울교육감 선거, 단일화가 '변수'…\"진보·보수 모두 밑그림 완성\"",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LZlVZanl3TXRhdDJ2N0wxV1h2UXBYOUo4Sk1XeGF2WGREcXBkWmpCd1VKSDRoaTZTRWlqUjlsNzUtazY3azBMeXRsUGhDc1FmZnNuM2Y3VVRrTG5FYURB?oc=5",
+    "source": "뉴스1",
+    "published": "2026-03-02",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "서울시교육청",
+     "교육감 선거"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 10,
+    "title": "고의숙 \"현행 고교 체제 개편 문제…서부지역 IB 고등학교 신설\"",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56U1dNazFJcmZqUjg2N1hBdDJkSEpYcV9iRnlvXzhsR0FKSHhCVzVxcDczbEN1d0pJaXQ4c2Vqa2VTWXZFOGpfSVRTZUNITGZ4OUtkVWZRUzZiWTlyX3NfRGJ1R3J4d3hOMWk1Mw?oc=5",
+    "source": "삼다일보",
+    "published": "2026-03-02",
+    "keyword": "디지털교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "IB"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   }
+  ],
+  "paper": [],
+  "tech": []
+ },
+ "fallback": {},
+ "notes": {}
+}

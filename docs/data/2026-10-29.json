@@ -1,0 +1,430 @@
+{
+ "date": "2026-10-29",
+ "generated_at": "2026-11-02T11:45:43+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[조학규 칼럼] 교장공모제 확대.. ‘허리’ 없는 학교를 만들 셈인가",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=30567",
+    "source": "에듀프레스",
+    "published": "2026-10-28",
+    "keyword": "",
+    "topic": "teacher",
+    "kind": "opinion",
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청의 교장공모제 확대 방침이 중간 관리자 역할 약화와 학교 경영 전문성 부족 우려를 낳고 있다.",
+    "implication": "학교 행정 지원 감소 가능성에 대비하여 수업 관련 자료를 체계적으로 관리하고 동료 교사들과 적극적으로 정보를 공유할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "안민석 경기도교육감, 연천·포천·가평서 학부모와 직접 소통…특수학교 설립·AI교육 등 현안 논의",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44eUVlbFp3MGxRNFY1Q0ZwQUtiM0VpYkwwN3BXSVoyMTRYaHFSVkdCamp0d1libDZ2WTlrdzR4TnlCWHA1ZWJ4UlJGLXlLRVhnT2VJVi0yR1lkSVR0c3ozRkxLTldBNlYyY2c?oc=5",
+    "source": "Queen 이코노미퀸",
+    "published": "2026-10-28",
+    "keyword": "생성형AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "안민석 경기도교육감이 연천·포천·가평 학부모들과 만나 특수학교 설립 및 AI 교육 등 지역 현안을 논의했습니다.",
+    "implication": "교육감의 AI 교육 현안 논의를 통해 수업에 AI 도구 도입 및 관련 토론을 활성화할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "강삼영 교육감 “강원교육 변화, 교실과 아이들 성장으로 증명하겠다”",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44RzNCZFlpc2M0ZjVOV2ktYUtrYlBKOC1vamlGaWttYXZfVm5IYkFraHRvMU1rdFkxTVVPd0lScHBndkw3Z3A0NlFXQldJNnVxekFrM2EyR1YtNHNpNUtTR1FleXQ3MWQxUnFHRTF4ZE5sZTBE?oc=5",
+    "source": "아시아경제",
+    "published": "2026-10-29",
+    "keyword": "교육정책",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "강원교육청"
+    ],
+    "summary": "강삼영 교육감은 강원 교육의 변화를 교실과 아이들의 성장을 통해 증명하겠다고 밝혔습니다.",
+    "implication": "아이들의 실제 성장을 목표로 교육 과정을 재구성하여 수업에 적용해 볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "제주교총·한국교총, 교육감과 교육 현안 논의",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zSlBCMGV0SUFxXzN5MUdYSUtxYWVtdzJqdy1nbTAwZU1wb3hON1Q0Ump0VEJXYjh0X2dBTlFNZ1RPbVQ1UW5jVGs3MDdXRDZaWU5KSHVUSTBqVGJ5dXdvVi1PZ2o1MTBCNWhITw?oc=5",
+    "source": "삼다일보",
+    "published": "2026-10-28",
+    "keyword": "교육정책",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "교원단체"
+    ],
+    "summary": "제주교총과 한국교총이 교육감과 만나 현재 교육 현안을 논의했습니다.",
+    "implication": "논의되는 교육 현안이 우리 반 학생들에게 미칠 영향을 수업에 반영할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "경남교육청-야마구치현 교류단, 29년째 이어진 교육 현장 교류",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ObUx4cGNfQ01WdmdtV3BfbmxHQ3FxMnJjUmFxbUdMUjNHS0tKUmFsNndIQktoWngwZkVwR3dCc0hNb20xdFkwLWVWZk1za2FvUzdmZWVEbDRzb0kyTklHckV2Y2g2S2VCSkxVVHN3?oc=5",
+    "source": "국제뉴스",
+    "published": "2026-10-28",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경남교육청"
+    ],
+    "summary": "경남교육청과 야마구치현 교류단이 29년째 교육 현장 교류를 이어오고 있습니다.",
+    "implication": "지역의 국제 교육 교류 사례를 소개하여 세계 시민 교육 수업에 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "인천시교육청, 인하대 예비교사와 미래교육 논의",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KR3RRQkk1NU03ZWZHZEpsVS1sNEw5SmRKTHhTdkhQTWRvdmtpQTRMQnY0VFl0dFBRSmE4cVNJZnNBMk1RM04zYnRQUVFUZmdleXpFYy1Zc0JfZkZ5RVd5OEgxWVk?oc=5",
+    "source": "매일일보",
+    "published": "2026-10-28",
+    "keyword": "인공지능교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청과 인하대 예비교사들이 미래 교육에 대해 함께 논의했습니다.",
+    "implication": "예비교사들이 논의한 미래 교육의 방향은 우리 수업에 새로운 교수법 아이디어를 제공할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "고교학점제 첫 세대 내년 고3, 2028 대입 코앞인데…교원 3단체 \"서·논술형 평가 논의부터 멈춰라\"",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lcTV4eHNBWk1tNzc0VjQ5dm1BZkRrOWppTl9UU3VFUlBVeHgwVjhNbGpwNUJZcXlnMDJacjI2UTZabVdGdE9pS3AtVzB1TDhZSDNwSk9ieDNvcG9YYkRr?oc=5",
+    "source": "전북미래교육신문",
+    "published": "2026-10-28",
+    "keyword": "교육정책",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "고교학점제",
+     "수능·대입",
+     "교원단체"
+    ],
+    "summary": "2028 대입을 앞둔 고교학점제 첫 세대와 관련, 교원단체들이 서·논술형 평가 논의 중단을 촉구했습니다.",
+    "implication": "서·논술형 평가 논의가 중단되면 현재의 평가 방식에 집중하여 수업을 운영할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "형식적 위원회 없애라' 천호성의 답은 '미래교육위원회'…제안 수용 여부와 사유, 교육감이 직접 회신한다",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00X1hjX1JiQWpwZ2l2T1FHcEEycFFhcmdIWkNrNXFkRUtSQUpjcXNGazRTTi1wN21FaVp4bml4aF9JRVh6c2RTdllCNUp1amxSY2JJNFF5b3dCUE9Ma3NN?oc=5",
+    "source": "전북미래교육신문",
+    "published": "2026-10-28",
+    "keyword": "교육정책",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "국회"
+    ],
+    "summary": "천호성 교수가 형식적 위원회 폐지 및 미래교육위원회 신설을 제안했고, 교육감이 직접 수용 여부를 회신한다.",
+    "implication": "위원회 변화는 불필요한 행정 부담을 줄여 교사가 수업 혁신에 집중할 기반이 될 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "“고양이 경기도 RAS(문예체) 교육 선도”…관련 교육정책포럼 열려",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wYURwaEZnQWxnR0hDVkpENERFbkRZREU2VnpWZVNoUFFkOGJaS0NxeE5Ocl9TVDhxY092YnQ3cTdFcFk1MmFsdU9DVl9wVWwwY3lvSHVKNXF1OVE?oc=5",
+    "source": "경기일보",
+    "published": "2026-10-28",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "경기도의 '고양이 경기도 RAS(문예체) 교육' 선도 방안을 논의하는 교육정책포럼이 개최되었습니다.",
+    "implication": "선도적인 문예체 교육 정책을 참고하여 학생 참여형 융합 수업을 계획할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "안민석 경기교육감, AI 교육부터 학급 감축까지",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JRkYtOGs0US1NWEs5TTlOVl9hYTNBTmZpNi1rREVVTTlMVE5IMTQ1aG1pUTZIWFRTbUlKNy1kY3plSmdkS25XV2NaNXNaSUpabkNZY1FkR1pJdw?oc=5",
+    "source": "브릿지경제",
+    "published": "2026-10-29",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "교육부"
+    ],
+    "summary": "안민석 경기교육감이 AI 교육 도입과 학급 감축을 포함한 교육 정책 방향을 제시하고 있습니다.",
+    "implication": "현장 교사는 AI 교육 정책에 발맞춰 수업에서 AI 도구 활용 방안을 학생들과 함께 모색할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Agent-Assisted Blended Learning Model for AI General Education in Vocational Colleges: A Case Study",
+    "url": "https://www.semanticscholar.org/paper/f71b23795b39ce331ef84a088ddaf79786c7f0ad",
+    "source": "semantic_scholar",
+    "published": "2025-06-27",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "직업대학교 AI 교육에서 에이전트 지원 혼합 학습 시스템을 통해 인지 스캐폴드, 즉각적 컨설턴트, 프로세스 분석가 역할을 하는 AI 에이전트가 학습 정확도와 상호작용을 향상시키고 교육 효율을 최적화하여 스마트 교육 개혁을 촉진합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Na Liu",
+    "pdf": "https://dl.acm.org/doi/pdf/10.1145/3764206.3764304"
+   },
+   {
+    "n": 2,
+    "title": "Evaluating the English Teaching System in Smart Universities Using K‐Means Clustering for Enhanced Student Engagement and Sustainable Development",
+    "url": "https://doi.org/10.1111/ejed.70905",
+    "source": "openalex",
+    "published": "2026-10-26",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "스마트 대학의 영어 교육 시스템 평가를 위해 K-평균 군집 분석을 활용하여 학생 참여 패턴을 객관적으로 식별하고, 개인화되고 지속 가능한 학습 전략을 구현하여 전반적인 학습 경험을 향상합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Wu Juan",
+    "pdf": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ejed.70905"
+   },
+   {
+    "n": 3,
+    "title": "Research on the Coupling Mechanism between Personalized Education and Intelligent Multidimensional Teaching Quality Evaluation Based on AI Large Models",
+    "url": "https://doi.org/10.54097/qh5zdc05",
+    "source": "openalex",
+    "published": "2026-10-26",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습",
+     "사교육"
+    ],
+    "summary": "AI 대규모 모델 기반 개인 맞춤형 교육과 지능형 다차원 교육 품질 평가의 연동 메커니즘을 구축하여, 대학원 교육의 구조적 모순을 해소하고 맞춤형 인재 양성을 지원합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Xiaoling Peng, Wanli Wen 외 1명",
+    "pdf": "https://drpress.org/ojs/index.php/jeer/article/download/36279/35375"
+   },
+   {
+    "n": 4,
+    "title": "Utilization of Artificial Intelligence-Based Applications in Instructional Delivery: Basis for Effective Teaching and Learning in Mathematics",
+    "url": "https://ijerip.erio.org.ph/index.php/articles/article/view/1990",
+    "source": "openalex",
+    "published": "2026-10-25",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "이 서술-상관 연구는 마닐라 수학 교사 31명을 대상으로 AI 기반 앱 활용이 학생 참여, 동기, 만족도에 긍정적이나 윤리 및 자원 부족 등의 도전 과제가 있음을 보여, 교사 주도적 AI 교육 도입의 근거를 마련합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Bernard Carl Lambitco",
+    "pdf": "https://ijerip.erio.org.ph/index.php/articles/article/download/1990/1659/3065"
+   },
+   {
+    "n": 5,
+    "title": "Artificial intelligence in language instruction: impact on English learning achievement, L2 motivation, and self-regulated learning",
+    "url": "https://www.semanticscholar.org/paper/69d556419eefcd05dbf21a6b666568a2825f4c71",
+    "source": "semantic_scholar",
+    "published": "2023-11-06",
+    "keyword": "",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제"
+    ],
+    "summary": "AI 기반 언어 교육이 전통 방식보다 영어 학습 성과, L2 동기 및 자기 주도 학습을 유의미하게 향상시킴을 혼합 연구로 입증하며, 언어 교육의 혁신 가능성을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ling Wei",
+    "pdf": "https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1261955/pdf?isPublishedV2=False"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "오픈AI 이어 앤트로픽도 '난제' 반박…성능 경쟁, 과학 발견으로 확대",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216756",
+    "source": "AI Times",
+    "published": "2026-10-28",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Anthropic"
+    ],
+    "summary": "AI 경쟁이 과학 발견 영역으로 확대됨에 따라 AI는 인류 난제 해결의 핵심 동력이 되어 전 산업 분야의 혁신과 성장 기회를 창출할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[AI 모델 신작] 바이두, 100페이지 이상 문서 읽는 OCR 공개 등 6종",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216762",
+    "source": "AI Times",
+    "published": "2026-10-28",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "오피니언: 바이두의 신규 AI 모델 출시는 AI 기술의 실용적 활용 범위를 크게 확장하며 산업 경쟁을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "엔비디아·오라클, '베라 루빈' 대규모 동맹…GPU 유휴 한계 넘는다",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216747",
+    "source": "AI Times",
+    "published": "2026-10-28",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "Oracle",
+     "GPU·데이터센터"
+    ],
+    "summary": "엔비디아와 오라클의 동맹은 GPU 유휴 자원을 최적화하여 AI 기술 생태계의 컴퓨팅 자원 접근성과 활용 효율을 극대화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+    "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "source": "OpenAI Blog",
+    "published": "2026-10-23",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "ChatGPT의 10억 사용자 규모는 AI 서비스의 성공적 확산을 위해 고효율 인프라 스케일링 기술이 필수 경쟁력이 됨을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "인포시즈, 8B AI 모델로 금융 표 추론서 GPT-5 앞섰다",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jSlNZU2Vyd1FVTjA1MDJlRHA4NVBYNFhIMlN3d1dZSFdmZlJCRjg5YXJ5WTNfekVkMjZ4M2ZTNUJYeS0ySHIxSVdMZF9GWlkzekJTQk5RWElmNXFLY1ZWWWotbERkR01ieURxXzZ3?oc=5",
+    "source": "이지경제",
+    "published": "2026-10-29",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "오피니언: 인포시스의 8B 모델 성공은 특정 도메인에 특화된 경량 AI가 범용 거대 AI를 능가할 수 있음을 입증하며, 기업 AI 시장의 효율성과 전문성 경쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "오픈소스 AI 실행도구 'llama.cpp'서 고위험 취약점 발견돼...악성 AI 모델 파일로 시스템 공격 가능",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1SM2NDeDNUSl9qQTNnaVNJU1NFRzB6YTJId3UxRzZBdFNJQV9HZ0VKb2VtT2JFV1JoVXNsaVNnaEFCdzhCbzdEcS1feFEtbC1POUpIZ2pDeEhKVkk1ajZhb3NNdWQ0akJ1Vzd2SA?oc=5",
+    "source": "데일리시큐",
+    "published": "2026-10-28",
+    "keyword": "오픈소스",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "오픈소스"
+    ],
+    "summary": "AI 모델 파일이 시스템 공격의 새로운 위협 벡터임을 보여주며, 오픈소스 AI 생태계 전반의 보안 강화가 시급함을 강조합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "Perplexity, OpenAI의 gpt-live-1로 Mac 음성 모드 개선",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KTkpiS0hnLWFGVDZhRDY5cW1HRk4xUGdRLWJhLUNDZk9ielcxVjNCS0FSbDlFZTg3SzJYYXNra2tDcHNYTkE0NFdRRFNUVkRsVS1XMFc0TVRJalRxUks0d1pOZWYtTzZYcmdNWHQ2S2U4SW8?oc=5",
+    "source": "Mezha.net",
+    "published": "2026-10-28",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Perplexity",
+     "OpenAI"
+    ],
+    "summary": "AI 서비스들이 특정 기능 고도화를 위해 선도 기업의 특화 모델을 적극 도입하며, 사용자 경험 혁신 경쟁을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "How to Add Guardrails to a Local LLM Agent",
+    "url": "https://towardsdatascience.com/how-to-add-guardrails-to-a-local-llm-agent/",
+    "source": "Towards Data Science",
+    "published": "2026-10-24",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "LLM",
+     "에이전트"
+    ],
+    "summary": "로컬 LLM 에이전트의 가드레일은 분산형 AI의 안전하고 책임감 있는 배포를 통한 산업 신뢰와 확산을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "MS, 정교함 강화한 'MAI 이미지 2.7' 공개...AA 2위·아레나 3위 등극",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216755",
+    "source": "AI Times",
+    "published": "2026-10-28",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Microsoft",
+     "영상·이미지 생성",
+     "생성형 AI"
+    ],
+    "summary": "MS의 고성능 이미지 생성 AI 'MAI 이미지 2.7' 출시는 시각 AI 시장의 경쟁을 심화시키고 전반적인 기술 발전을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "Google Deepmind releases Gemini 4 Carbon just two weeks after Argon with gains across the board",
+    "url": "https://the-decoder.com/google-deepmind-releases-gemini-4-carbon-just-two-weeks-after-argon-with-gains-across-the-board/",
+    "source": "The Decoder",
+    "published": "2026-10-28",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Gemini"
+    ],
+    "summary": "구글의 초고속 AI 모델 연속 출시는 AI 기술 발전의 가속화와 업계 경쟁 심화를 촉발할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

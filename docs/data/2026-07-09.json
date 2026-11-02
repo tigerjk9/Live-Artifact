@@ -1,0 +1,431 @@
+{
+ "date": "2026-07-09",
+ "generated_at": "2026-11-02T11:39:35+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "지양희교육연구소, AI 기반 ‘지양희미래교육칼럼’으로 글로벌 에듀테크 시장 진출 본격화",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pX3BwQ0tfUTZpbzdtNTVRQkxTMzkzck1GR0hzSXlLZmY0TlZCcVlzQWVFdWJNS0poZTRuQWRJYzdPdUN1X0otcw?oc=5",
+    "source": "얼리어답터뉴스",
+    "published": "2026-07-08",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [
+     "AI 리터러시"
+    ],
+    "summary": "지양희교육연구소가 AI 기반 ‘지양희미래교육칼럼’을 통해 글로벌 에듀테크 시장 진출을 본격화합니다.",
+    "implication": "AI 기반 교육 콘텐츠를 수업에 활용하여 학생들이 미래 사회에 필요한 AI 리터러시를 키울 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[신호현의 교육칼럼] '폰 프리  스쿨' 보다 필요한 것은 '스스로 조절하는 학교'",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=30327",
+    "source": "에듀프레스",
+    "published": "2026-07-08",
+    "keyword": "",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청의 '폰 프리 스쿨' 정책에 대해 필자는 강제적 금지보다 학생의 자율적 조절과 스마트폰의 올바른 활용 교육이 중요하다고 주장한다.",
+    "implication": "스마트폰 사용에 있어 학생들과 함께 규칙을 정하고 올바른 활용법을 교육하여 자기 조절 능력을 기를 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "바당에서 만나는 AI 미래교육…교실 속 맞춤형 수업 혁신 이끈다",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MVlhsdWpsbUNXS0lNTkdEWHdsZzBLdjlSUzFkTHB2T1Q3SFJORGZNSV82SXRMU3UyUXQ0RUxkVFBrcTZJbEpreW1ncWp2dG9PVmRsbkhrZWY5a1h2aUUwcmtkaw?oc=5",
+    "source": "대한민국교육신문",
+    "published": "2026-07-08",
+    "keyword": "에듀테크",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 미래교육이 교실 내 맞춤형 수업 혁신을 주도한다는 핵심 내용입니다.",
+    "implication": "AI 기반 도구를 활용해 개별 학생의 학습 수준에 맞는 맞춤형 수업을 설계할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "개인정보 보호·생성형 AI 활용·저작권 교육까지…대전시교육청, AI·디지털 윤리교육 본격 운영",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85VEpfOUdqblVsMXk5M181Y1owSEYzNmtxZHQyeHowdUw0SE5jMTVQQ0dudlk1R2t1bGxLQXJaQjItRW9WS1hZZERtX1ZDc3Nub1M4aTZ1VjZKWXNWZWRLRFdwQ3lqeVlGdXgwY1VDaFY?oc=5",
+    "source": "한국강사신문",
+    "published": "2026-07-08",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "저작권·소송",
+     "대전시교육청"
+    ],
+    "summary": "대전시교육청은 개인정보 보호, 생성형 AI 활용, 저작권 교육을 포함한 AI·디지털 윤리교육을 본격적으로 운영합니다.",
+    "implication": "생성형 AI 사용 시 개인정보 보호와 저작권 인식을 높이는 활동을 수업에 바로 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "임종식 교육감 \"AI·IB·지역맞춤 교육으로 경북교육 대전환 이끌겠다\"",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56N2Fpc2lIUks2OXowdDdXSTBwWTBIbTlFSExuZzJRWk9fSGFXS19hQi0wM1VIVmJMRldaUEdQVHF2ODVkZVd4Qnc0REdVdjJVSTJ0dzhUdkZDbUtyN01qSV9DdVA3YzkyV2lURFhB?oc=5",
+    "source": "gukjenews.com",
+    "published": "2026-07-08",
+    "keyword": "교육정책",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "IB",
+     "경북교육청"
+    ],
+    "summary": "임종식 교육감은 AI·IB·지역맞춤 교육을 통해 경북교육의 대전환을 이끌겠다고 발표했습니다.",
+    "implication": "AI 도구를 활용하거나 IB 기반 탐구 및 지역 연계 수업을 교과에 접목해 볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "‘학교 텃밭이 교실 밖 배움터로’…충남교육청, 생태·진로교육 현장 확산",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HVEdSZTJFWnFWcHA5QXRZY1JRT2FBV3AwWXMxMGtGWWhyU3E5WW1YbDRTYXdXSWV6LU9zdDRpQmRiV1dDOFFXWXRhM2lHQ0xOQktDMENwcUZoVktkdnJtcF9neV9wbzdv?oc=5",
+    "source": "녹색경제신문",
+    "published": "2026-07-08",
+    "keyword": "교육현장",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "충남교육청은 학교 텃밭을 교실 밖 배움터로 활용하여 생태·진로교육을 현장에 확산합니다.",
+    "implication": "학교 텃밭을 적극 활용하여 학생들이 자연을 직접 경험하고 다양한 직업을 탐색하도록 지도할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "경기교육감인수위, AI 교육플랫폼 '하이러닝' 감사 요청",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4a3J2OU9CcTdXNXd0NmpTR2htbUFvM1lkdEdJRXZNZ3dOM3VNRmVua3FvNWtFN3Fsd3FZWVZuZWMwTjFxTFRwdXRYZDFQSHQ3YlU4?oc=5",
+    "source": "네이트",
+    "published": "2026-07-09",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기교육감인수위는 AI 교육플랫폼 '하이러닝'에 대한 감사를 요청했습니다.",
+    "implication": "학생들과 AI 교육플랫폼 '하이러닝'의 장단점 및 활용 방안을 탐색하는 수업을 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "김석준 부산시교육감 \"AI·맞춤 교육으로 부산 미래교육 완성\"",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzSDIyS0h2LUZnOF92c0RvbGMtelgyeTE0aHBSZ3J4Y2xncjV6TUZNZ29TNlNpVnFocVYyVFZFNnp0OWZmUjRqc3ZmeDRxUHhhR3BxX2VJQjdBV0nSAVZBVV95cUxPZEM0Z2Rrc3pvZ2lGd2dWVXpqT1A5NVowaE9VR0ozWmFHcVVOSlNodlo4SVVET0dra3FGeVlZaUFuVmtIeUVHT0ZzT0lKRnl4UGtsUFQ4Zw?oc=5",
+    "source": "더팩트",
+    "published": "2026-07-08",
+    "keyword": "인공지능교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "부산시교육청",
+     "개인화 학습"
+    ],
+    "summary": "김석준 부산시교육감은 AI와 맞춤 교육을 통해 부산의 미래 교육을 완성하겠다고 밝혔습니다.",
+    "implication": "학생 개개인의 학습 수준에 맞는 맞춤형 교육 자료나 피드백 방식을 수업에 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "부산서 AI 튜터 전 학년 보급…‘미래교육’ 본격화",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wMG9LN1lWMjdId3hjd05xZ1U0MUk3cXI4alJib1NSUm9EWGlYQ2ZTd2V2SW04X2t6SGlGSTZPWHlFTFNvVDVENU42WWg1SDg?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-07-08",
+    "keyword": "과정중심평가",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "AI 튜터",
+     "부산시교육청",
+     "개인화 학습"
+    ],
+    "summary": "부산시 교육청이 모든 학년에 AI 튜터를 보급하여 미래교육 시대를 본격적으로 열 계획입니다.",
+    "implication": "AI 튜터를 활용하여 학생들의 개별 학습 수준에 맞는 맞춤형 교육 활동을 지원할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "\"글로벌 교육수도 도약\"…대구시교육청, 대구 미래교육 알린다",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBqTnRWX0cweFBHdUdNSUc4TFdRaFhoMDZIVllrM1M2TzdaVHcxNUdHOWx5QlVUajgtZk1mS2Z1ZmdNOFF4bF81NzY1TXBrSjI3OWdRaUNkQWFGa0p4NEJWMTF3?oc=5",
+    "source": "매일신문",
+    "published": "2026-07-08",
+    "keyword": "교육정책",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "대구시교육청"
+    ],
+    "summary": "대구시교육청이 대구의 미래교육을 홍보하며 글로벌 교육수도로 도약하려는 계획을 알립니다.",
+    "implication": "대구 미래교육 비전을 반영하여 수업에서 글로벌 역량 강화 활동을 적극적으로 기획할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Impact of Artificial Intelligence in Education in Africa",
+    "url": "https://doi.org/10.52783/1h2a2907",
+    "source": "openalex",
+    "published": "2026-07-07",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "아프리카 교육 분야에서 AI의 영향을 문헌 검토와 현지 설문조사를 결합한 혼합 연구로 분석한 이 논문은 AI가 개인화 학습과 교육 접근성을 크게 향상할 잠재력을 가졌으나, 인프라 및 정책적 제약으로 인해 전략적 투자와 협력을 통한 공평하고 지속 가능한 도입이 중요함을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Beejaye Panray Ramchurn",
+    "pdf": "https://jier.org/index.php/journal/article/download/4711/3645"
+   },
+   {
+    "n": 2,
+    "title": "A Project-Based Bilingual Instructional Framework for Android Development Education under the New Engineering Education Initiative",
+    "url": "https://doi.org/10.54097/5d6dbm03",
+    "source": "openalex",
+    "published": "2026-07-06",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "신공학 교육을 위해 이중 언어 기반 프로젝트 학습과 AI 프로그래밍 지원을 통합한 안드로이드 개발 교육 모델이 학생들의 프로그래밍 및 영어 기술 역량과 학습 동기를 향상하여 국제적 경쟁력을 갖춘 소프트웨어 인재 양성에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Erli Wang, Jie Yang 외 1명",
+    "pdf": "https://ajoedu.org/index.php/ojs/article/download/42/40"
+   },
+   {
+    "n": 3,
+    "title": "Metaphors of Digital Pedagogy: Insights from the Case of Kazakhstan",
+    "url": "https://doi.org/10.5152/hayef.2026.25136",
+    "source": "openalex",
+    "published": "2026-07-07",
+    "keyword": "edtech",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "카자흐스탄 교사 및 학생 대상 질적 연구를 통해 디지털 교육이 교사의 조력과 학생의 학습 동기 강화에 기여하며, 효과적인 교육을 위해 도구 통합, 인프라, 전문성 개발이 필수적임을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Sabina KUANYSHEVA, Miray Doğan",
+    "pdf": "https://hayefjournal.org/index.php/pub/article/download/572/573"
+   },
+   {
+    "n": 4,
+    "title": "Curriculum as Compliance, Not Competence: Epistemic Fragmentation in Indonesia’s Underserved Schools",
+    "url": "https://doi.org/10.46303/jcsr.2026.22",
+    "source": "openalex",
+    "published": "2026-07-05",
+    "keyword": "edtech",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "인도네시아 3T 학교의 교육과정이 규정 준수에 치우쳐 교사 역량 및 주체성을 약화시키는 인식론적 파편화를 질적 연구로 분석하여, 주변화된 교육 시스템의 교육 개혁 방향에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Farihen Farihen, Ahmad Nuh 외 1명",
+    "pdf": "https://curriculumstudies.org/index.php/CS/article/download/925/171"
+   },
+   {
+    "n": 5,
+    "title": "The effect of the frequency of use of an intelligent tutoring system on learning gains in mathematics in schools in challenging social circumstances",
+    "url": "https://doi.org/10.3389/feduc.2026.1842708",
+    "source": "openalex",
+    "published": "2026-07-07",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "AI 튜터"
+    ],
+    "summary": "독일 취약 계층 학교에서 지능형 튜터링 시스템 사용 빈도가 수학 학습 성과에 미치는 영향을 587명 학생 데이터로 다수준 분석한 결과, 자동적 효과는 없었으며 학교 내 개별 사용만 소폭 긍정적이었음을 밝혀 향후 효과적인 활용 조건 모색의 중요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Julius Schaaf, Tobias Rolfes 외 1명",
+    "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1842708/pdf"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "앤트그룹, '유리'까지 인식하는 차세대 비전 AI 공개...12개 벤치마크서 SOTA",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212542",
+    "source": "AI Times",
+    "published": "2026-07-08",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "벤치마크"
+    ],
+    "summary": "유리 등 투명 객체 인식 SOTA 달성은 비전 AI가 복잡한 실제 환경에서 더욱 정교하고 광범위하게 적용될 토대를 마련할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "OpenAI는 엄격한 검토 과정을 거쳐 GPT-5.6 모델을 공식 출시했습니다.",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeGdDOEg0NEpDb1BQNU0wVzNHQ2FpTjFEei1jTVkwTDllbWJxbXM0TC05Vm9JNUZBY3EtelRuVDhXMTFlNDFQd2x0U2FDUDZlRFdXcE1TZFotaU42S08xNUhjelNhaUxaRER5bWNDanBjeDI1R2VCcl9VbWM1dDhEaFY2dThBWTE3cVl0end0VEtVQk1wNV9fbjRxWWozMVRx?oc=5",
+    "source": "Vietnam.vn",
+    "published": "2026-07-08",
+    "keyword": "Anthropic",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "OpenAI의 GPT-5.6 출시는 AI 기술 발전과 더불어 책임감 있는 개발 및 배포의 새로운 표준을 제시할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "스페이스X·커서, 첫 공동 AI 모델 공개 추진…GPT-5.5 경쟁 예고",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PRlNsSUFtb2dEMFRlUTFDTnFrZnJ3NjRaeXFhZkJOQVUyNTdMSDZoTlpLSXZjS0FCZWM4Wjk3REl5VFhCc1NERkdMVHk1RmdPZ193TEwwWFhNOGRSWDdEbFpNVjhzM2diNUFWcw?oc=5",
+    "source": "ER 이코노믹리뷰",
+    "published": "2026-07-08",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "코딩 AI",
+     "ChatGPT"
+    ],
+    "summary": "스페이스X와 커서의 공동 AI 모델 출시는 차세대 AI 경쟁을 심화시키고 산업 전반의 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "SpaceXAI, 오퍼스 4.8·GPT-5.5 겨냥 신모델 낸다",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LVmRCTjJkRzQxQ1Q1MkFTdUdYSDNTTnJqaUE3ejJ5Zmp3d0xNUVNNMzhDYXVjMU1ySWp6X3hCeHJaTnRLV19uY0o3a0UxWW9zaF9meTVpdXUxcVNORnhsWS02Nk5sZ21kc0RaSkoydGI?oc=5",
+    "source": "디지털포커스",
+    "published": "2026-07-08",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "SpaceXAI의 최고 성능 AI 모델 시장 도전은 경쟁을 심화하고 기술 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "OpenAI's GPT-5.6 launches Thursday after a delay forced by the U.S. government",
+    "url": "https://the-decoder.com/openais-gpt-5-6-launches-thursday-after-a-delay-forced-by-the-u-s-government/",
+    "source": "The Decoder",
+    "published": "2026-07-08",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "미국 정부의 GPT-5.6 출시 지연 개입은 AI 기술 개발이 국가 안보와 규제의 핵심 변수가 되는 새로운 시대의 도래를 알립니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "美상무부, 오픈AI 챗GPT-5.6 전면출시 승인…모델별 관리 기조",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00REE0bXFSaFJ5UFEyRjR2dl8zWmVKV1FoS2o5X0h1ME0ydG5wNENMaUlHTkNLbnBpOUVTb25USy1kVUZyOEJtVEQ0T3RUXzRYY3EwbjFZeVhoMmQwR1ZaYU1BQ180Rjg?oc=5",
+    "source": "뉴스1",
+    "published": "2026-07-08",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "미 상무부의 모델별 AI 관리 기조는 AI 기술 혁신에 대한 정부의 개별적 통제를 확립하며, AI 산업의 개발 및 상용화 전략에 중대한 영향을 미칠 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "[7월8일] \"최고 모델이 공짜\"…오픈AI·앤트로픽이 무료 토큰 경쟁에 나선 이유",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212534",
+    "source": "AI Times",
+    "published": "2026-07-09",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Anthropic"
+    ],
+    "summary": "최고 모델 무료 경쟁은 AI 기술 대중화를 넘어 선두 기업의 생태계 주도권 확보 경쟁을 심화시키고 시장을 재편할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+    "source": "OpenAI Blog",
+    "published": "2026-06-26",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.6 Sol은 AI 기술의 새로운 성능 기준을 제시하며, 산업 전반의 경쟁을 심화하고 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "앤트로픽, '클로드 코워크' 모바일·웹으로 확장…\"기기 꺼져도 백그라운드 자동화\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212530",
+    "source": "AI Times",
+    "published": "2026-07-08",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude",
+     "에이전트"
+    ],
+    "summary": "앤트로픽의 기기 독립적인 백그라운드 자동화 지원은 AI 에이전트의 상시적 활용성을 극대화하여 AI 서비스의 새로운 패러다임을 제시할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "GPT-5.6도 ‘족쇄’ 풀려…미토스·페이블5와 ‘한판 승부’",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFSm16VjdPTkpEVWh4R3pXc2VxbTI5ZnBRNDBZeE9OTUppRFU5dmx1ejY3aU5aSVh6QmNFbTRhRXhiMWNESzdZY1d3WU5FNnZSS0JWc2VnSlpmVndCUzlfRG9zMGdfaDUyY3BoUEFMZTg?oc=5",
+    "source": "애플경제",
+    "published": "2026-07-08",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "선도 AI 모델 간 경쟁 심화는 기술 혁신을 가속화하고 AI 생태계 전반의 역동적 변화를 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

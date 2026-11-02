@@ -1,0 +1,426 @@
+{
+ "date": "2026-07-26",
+ "generated_at": "2026-11-02T11:40:30+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "대전시교육청, 교원 AI 영상 제작 역량 키운다 '생성형 AI 활용 단편영화 직무연수' 운영",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pbDkwZnhYcVg3OTUtQXhKVTBFUWdFLUhVRUQ3YU5ic05pOFpqNEp0TS1kQ3JlaklPbldVQkhuS1lxb0JHLWxjWFhmZGVwTTB2RjEta3ZnaWNlUTVMek03eGVIUVpoVTRJVWJ4NWhITG0?oc=5",
+    "source": "한국강사신문",
+    "published": "2026-07-25",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "대전시교육청",
+     "생성형 AI"
+    ],
+    "summary": "대전시교육청이 교원의 AI 영상 제작 역량 강화를 위해 생성형 AI 활용 단편영화 직무연수를 운영합니다.",
+    "implication": "선생님들은 이 연수를 통해 생성형 AI로 흥미로운 수업 자료 영상을 직접 제작하여 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "인천시교육청, 중학교 진로교사 대상 AI·에듀테크 활용 연수 실시",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVRkVHbHhIRUVKbW9pY2xabTBSYi1PNVVwaHBvYnZsdXRFbnZRXzBvY0RvcFVUVG5zNUpVTmdZbDAydmQxR1ZxdnhKZkZiNWJXUWZ5N0E5dFBCc0Etd3VQeTNaS3BXNUotQ3ZhSNIBcEFVX3lxTE56VGFNdEFrWDF5Y2h6TXd0QzNtMV9tb2VNLXdFZmlDYnZLVF9YQ0NCYWV6aldvSWczMFFRZGphMVBkYWRpUVZxekx4c1pEZy0tOERTYURpdENFNG8tT3Q3OUhiVXdtZ1N6SEUzcGZBUFo?oc=5",
+    "source": "글로벌경제신문",
+    "published": "2026-07-25",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청이 중학교 진로교사 대상 AI·에듀테크 활용 연수를 실시합니다.",
+    "implication": "AI를 활용해 학생들의 흥미와 적성을 고려한 진로 탐색 활동을 설계할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "경기도교육청, 유아 다문화 교육 현장 확산 나선다",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PUzVhTUJ3b0FnOFUwVkpoVHlLME05bkp2QkZnY2ktZm0zdkpvVnE5WGpZcjZuYnBySjdCUWx2UTl0SGVvaW1sYjRVaktLU2VYUmhzYUlWX2VmQ2d0THdfdHZLU2FyVS00b2cw?oc=5",
+    "source": "비즈월드",
+    "published": "2026-07-25",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "다문화"
+    ],
+    "summary": "경기도교육청이 유아 다문화 교육의 현장 확산을 추진합니다.",
+    "implication": "유아 다문화 교육 현장 확산으로 새로운 자료나 프로그램을 수업에 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "경기도의회 김영희 의원, “교육정책은 현장을 기준으로 설계돼야”",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zM25PcXhEcjdybU14RUFGRDVJZVk3RmxoTDN4V0RjU3NfWXdQXzAtQnl4WEtGR1hBWWxwcHNZSlUzYTV5REpqZVBWYnBkTTdhVGQzWnBFSG1UU3pfSE44dWU3X3VJOXladl8tZ2xWbERFZGNM?oc=5",
+    "source": "아시아뉴스통신",
+    "published": "2026-07-25",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "경기도의회 김영희 의원은 교육정책이 현장을 기준으로 설계되어야 한다고 주장했습니다.",
+    "implication": "수업에서 경험하는 학생들의 실제 요구를 정책 제안의 중요한 자료로 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "AI가 진로상담 도우미로…인천시교육청, 교사 45명 실습 연수",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ObHBRS0ZwYXdCRmF5RW5mX3l5a0pNcW9YWXA5bXh0NExKMDB0SUIyUGlWTHBLc0NZZFhmaV9sc2xWY1pnQUp1T25RTmJiUQ?oc=5",
+    "source": "전자신문",
+    "published": "2026-07-25",
+    "keyword": "AI디지털도구",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청은 교사 45명을 대상으로 AI를 활용한 진로상담 실습 연수를 진행했습니다.",
+    "implication": "수업에서 AI를 활용해 학생들에게 맞춤형 진로 정보를 제공할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "엔비디아, AI 에이전트로 수백만 명이 사용하는 크리에이티브 도구 확장",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51aWtQcGo5YVRhZGFPTFl6cVpLdXJPV3E5R29wXzd0bHFoazZYRDJ4d1BodUsyd2JTcjZRMFhrZDZOcUFVRE9KN2lfZlhIMGEtSWpnamxnZ1ZRQ2xydG5VYkV0enoyNHBPZEgw?oc=5",
+    "source": "미디어픽",
+    "published": "2026-07-25",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "에이전트"
+    ],
+    "summary": "엔비디아가 AI 에이전트로 수백만 명이 활용하는 크리에이티브 도구를 확장한다.",
+    "implication": "학생들이 AI 에이전트 기반 크리에이티브 도구를 활용하여 다양한 창작 활동을 할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "[Pocus 분석] AI 디자인 교육, 감성적 창조 이끌 과정중심평가 택했나",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5LWW9yYTB3NVh2V1p0UllVZ2xsRzdxM3o4eEFuX0VEdHVpYmhsbkwzc1FoYWNVTE9WTDZLVWhJNEZBRzMzel9kaUNfRGY?oc=5",
+    "source": "한국AI부동산신문",
+    "published": "2026-07-25",
+    "keyword": "AI교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 디자인 교육에서 감성적 창조를 위한 과정중심평가 도입 여부를 분석합니다.",
+    "implication": "AI 디자인 수업에서 감성적 창조를 이끌어내는 과정중심평가 요소를 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "중국, 향후 5년 교육개혁 청사진 발표…AI·교육격차 해소에 방점",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1LSUJlRGZ2c2xsUWJRZEhzZnZnMWsydDZXQnZpX280LVVlb2Z2WURoLTdJenBjOTZtUjBKa2k4LWk3Nkk?oc=5",
+    "source": "한국공공정책신문",
+    "published": "2026-07-25",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "중국이 향후 5년간 AI 활용 및 교육격차 해소에 중점을 둔 교육개혁 청사진을 발표했습니다.",
+    "implication": "AI가 교육의 핵심이 되는 흐름에 맞춰 수업에서 AI 활용 및 교육 격차 해소 방안을 고민할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "도성훈 인천광역시교육감, ‘AI가 답하는 시대, 생각하고 질문하고 움직이는 인천교육’ 특강",
+    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5VaW5QRlg0UEF3Y205QkdJVjdZV1llWWVXSC04VEY2LWxlU2ZYbi1uUjNxeUU1NVphcjBWLW85ZGNKaDBK?oc=5",
+    "source": "시사코리아",
+    "published": "2026-07-25",
+    "keyword": "AI교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "도성훈 인천교육감이 'AI 시대에 생각하고 질문하며 움직이는 인천교육'을 주제로 특강을 진행했다.",
+    "implication": "AI 시대에 학생들이 생각하고 질문하며 능동적으로 탐구하는 활동을 수업에 바로 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "기획처-교육부 끝장대치에 표류하는 교부금 개편…시한 넘기나",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QaVRsZHZnWjNUX01vQkdmdU5fRmQ1LWwwMU4wNDRPRjg4cjIxR3BfbEFSLWdQMk00TmJPY0plV3k3WWhQbVdIX0ljclpfWS04RmFNeVlCZ1E1Mm_SAWBBVV95cUxNRlIxaEFKaldjYXlOWm1fZFlRWHhjZVh3VFB4VXE5QkFwUnRHWkVxcjhFX0Nrck1rVV85Ri1ZU0pWSko4NEtESGNraGNXTjFqa0dhbFdqeTdSUXZ3YUFNZkU?oc=5",
+    "source": "연합뉴스",
+    "published": "2026-07-25",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부",
+     "교육 예산"
+    ],
+    "summary": "기획처와 교육부의 대립으로 교부금 개편이 표류하며 시한을 넘길 위기에 처했습니다.",
+    "implication": "교부금 개편이 지연되면 학교 예산 확보에 불확실성이 커져 수업 운영에 영향을 줄 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Artificial Intelligence in Physical Education: Redefining Teaching Practice, Professional Well-being, and Ethical Challenges of Student Teachers",
+    "url": "https://doi.org/10.59543/jidmis.v3.824",
+    "source": "openalex",
+    "published": "2026-07-23",
+    "keyword": "",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 AI가 체육교육 교생의 교수 관행, 전문적 행복, 윤리적 도전에 미치는 영향을 정량적으로 분석하여, AI의 교육 혁신 잠재력과 함께 제기되는 윤리적 복잡성을 해결하기 위한 미래 교사 양성 방안 재고를 촉구합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Wadii Zayed",
+    "pdf": "https://jidmis.org/index.php/jidmis/article/download/824/194"
+   },
+   {
+    "n": 2,
+    "title": "Immersive learning promise and classroom practice: a qualitative study of cultural barriers and human factors in UAE VR integration",
+    "url": "https://doi.org/10.3389/feduc.2026.1890332",
+    "source": "openalex",
+    "published": "2026-07-24",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "UAE K-12 교사 25명을 대상으로 질적 연구를 통해 VR 교육 도입 시 문화 및 인적 요인 관련 실제 경험과 과제를 분석하여 비서구권 교육 시스템에서의 VR 활용 모델과 정책적 시사점을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Rana Zein, Osama Taani 외 1명",
+    "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1890332/pdf"
+   },
+   {
+    "n": 3,
+    "title": "Inclusive Classroom Practices and Challenges from the Lens of the Teachers in a Rural School",
+    "url": "https://doi.org/10.65339/ijsair.v2.i3.799",
+    "source": "openalex",
+    "published": "2026-07-24",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "농촌 초등학교 교사 7명을 대상으로 한 질적 현상학적 연구는 교사들이 다양한 포괄적 교육을 실천하지만 대규모 학급 및 자원 부족으로 어려움을 겪으며, 지속적인 교사 전문성 개발과 자원 확충이 시급함을 제시하여 교육 정책 수립에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Dyesebel Retiza",
+    "pdf": "https://www.ijsair.com/index.php/ijsair/article/download/933/917"
+   },
+   {
+    "n": 4,
+    "title": "Gamification as an educational strategy in life sciences",
+    "url": "https://doi.org/10.3389/feduc.2026.1869831",
+    "source": "openalex",
+    "published": "2026-07-23",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "생명과학 대학 과정에서 다양한 게임화 도구 적용의 효과를 분석하여, 학생들의 흥미, 참여, 협력 증진 및 학습 효과 향상을 실증적으로 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "José M. García-Fernández, Raúl González-Ojeda 외 1명",
+    "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1869831/pdf"
+   },
+   {
+    "n": 5,
+    "title": "The role of ethnomathematics in mathematics education: A literature review",
+    "url": "https://www.semanticscholar.org/paper/fbea24aa4db32f45689a1e45bd6de17757965b4f",
+    "source": "semantic_scholar",
+    "published": "2024-12-01",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "이 문헌 연구는 개발도상국 수학교사들이 에스노매스매틱스를 활용하도록 61개 문헌을 검토, 문화유물에 내재된 수학 원리를 식별하여 교수, 학습, 평가에 통합할 실질적인 방안을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Marjorie Sarah Kabuye Batiibwe",
+    "pdf": "https://doi.org/10.1177/27527263241300400"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "앤드류 응, 대화 대신 결과물 만드는 오픈소스 AI '오픈워커' 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213135",
+    "source": "AI Times",
+    "published": "2026-07-25",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "오픈소스",
+     "에이전트"
+    ],
+    "summary": "오픈워커는 대화 중심에서 결과물 생성 중심의 에이전트 AI 시대를 열고 오픈소스 생태계 혁신을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "SK Expands AI Infrastructure Alliance in Silicon Valley with NVIDIA, Microsoft, Anthropic, and AWS",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NTWk2aDFDN1l0SjZtUmR3NnJ6eHM3NlFvdlVka1lhNG1zcmE5ek8zb3NSQzMxVTNzYS1vcXN6LTM3UFRVWjVsMFFBTkp5c3lVc01IcXJiemUzbkN2UmRTMnI2dmY4MDRDYlFvb19VWnE?oc=5",
+    "source": "Korea IT Times",
+    "published": "2026-07-25",
+    "keyword": "Anthropic",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "SK",
+     "NVIDIA",
+     "Microsoft",
+     "Anthropic",
+     "Amazon"
+    ],
+    "summary": "SK의 핵심 AI 기업 연합은 AI 인프라 확보를 통해 기술 생태계의 혁신과 경쟁을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "GPT-5 출시 임박 전망, 멀티모달 추론·체화된 AI가 일상과 규제 판도를 바꾼다",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE0xWHc1aVRZaVNTOF9HbXVCTFVkSjduOUt0aEV0VDJhQ0NtNFFCSUFpOFd3ZmFYcXlQNDlEajRUNzVqQVE?oc=5",
+    "source": "한국공공정책신문",
+    "published": "2026-07-25",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-5의 멀티모달 및 체화 기술은 AI의 적용 범위를 일상생활과 물리적 환경으로 확장하며 산업 전반의 새로운 가치를 창출할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "전 세계에서 OpenAI의 ChatGPT, API 및 Codex에 영향을 미치는 대규모 중단 발생",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9fU2ExakNaSjNYZnFSV0p0dy16bm5ZaW5CUjBOTGxCQTIzRXlHckx0ajhlS1ByeWE1d1ljT01fMElhM2JMS3BlNEptcjdQZ1pfOGlTSU40dkhteXZUX2JiS0Ffb1hMSFVpTjFwY3dtUGltQnQ4dktwWEgwSTVNUQ?oc=5",
+    "source": "Unite.AI",
+    "published": "2026-07-25",
+    "keyword": "API",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "이번 대규모 중단은 AI 서비스의 안정성과 단일 공급자 의존 위험 관리의 중요성을 부각할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "중국 오픈 모델의 공습과 OpenAI·Anthropic의 비상",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM0FTTXJqQzN2UnVfS1UwZXdiWGJIb0NpSmppME9HTzVvRDQ1WVVuOGhhSVJuZFViWG5VakxTdzhyR3U4U3dtbXZUeHd5OW5NSG14M0ljeGl3cnJ2VXNCcVh0SHpONVN6dVAtbDlrMGNpWUQzUUdmSFVNWjUyZHdRa1EwQkpBbUFwX2pkUjlYaFBXUQ?oc=5",
+    "source": "네이버 프리미엄콘텐츠",
+    "published": "2026-07-25",
+    "keyword": "Anthropic",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Anthropic"
+    ],
+    "summary": "중국 오픈 모델의 공세는 글로벌 AI 기술 생태계의 경쟁을 심화시키고 기존 선두 기업들의 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "앤트로픽, '클로드 오퍼스 5' 출시...\"페이블 5 성능에 가격은 절반\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213161",
+    "source": "AI Times",
+    "published": "2026-07-25",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude"
+    ],
+    "summary": "앤트로픽의 클로드 오퍼스 5 출시는 가격 대비 성능 경쟁을 격화시켜 AI 기술의 대중화와 산업 전반의 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "韓美 빅테크, 1천400조원 AI 동맹…삼성·SK·네이버·현대차, 엔비디아·오픈AI와 초대형 협력",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5neWxLZXVXaW9reVJtYUpxYVBqZURPb1ZPUkUzd1I4dFpYYkdFZ2tGY0NKTm82TndTSTFHLUgtV3lZeUNwb3NuVDdodTJPZjlRdEhJcFFpLWZycE9mcmdDekRWV25oUWpmSGlTeg?oc=5",
+    "source": "생생비즈플러스",
+    "published": "2026-07-25",
+    "keyword": "오픈AI",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "삼성",
+     "SK",
+     "네이버",
+     "NVIDIA"
+    ],
+    "summary": "한미 빅테크의 초대형 AI 동맹은 AI 기술 개발과 상용화를 가속화하며, 글로벌 AI 산업 생태계를 재편할 중대한 전환점이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+    "source": "Google Blog - AI",
+    "published": "2026-05-29",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "Google AI Studio를 통한 체험형 AI 콘텐츠 개발은 AI 기술의 접근성을 높여 산업 전반의 사용자 경험 혁신과 AI 활용의 보편화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "엔비디아·메타 등 25개사 ‘오픈웨이트 AI’ 서한 서명···구글·아마존 등 폐쇄형 랩은 제외",
+    "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQWFExN2RIT0t0WWhWbGNZTmhBYmxMSTVPRGdWRk81TEJaLW1CcDBJaFNHcWMwNmsxNDJRN2ZiemlmdVgtTVRwcy1xUVpQMWFLSFZOeXRFR1ZTTUpnS1pXc09oYU40aF9xVVJrajBtY0NPSWtvSVNaS3RZSkpydktMNkRPcks0cnZmOVVhb1VOWjR1czRxLUIta05ENEN2MzktOHJ6WTkxWGFOeWRYdG5ZUjhkUUtsSmNsU0RoMllrMjdnS1ZEWUlxLW92UTZIRVAwV2JUY1JvZFlOV3RWc05ya0wxcmo5S1pLaVNpc0VPcHlEaU13Sm1zdkhUREZwblZCQW42V1RnSTg0dHlPeXUtaUlvb0FtTDNBRUlJWTNOTXdTYjRXSVpzOUhfSE1FXzk3X25CZG4zREY2d215R1NyRQ?oc=5",
+    "source": "Benzinga",
+    "published": "2026-07-25",
+    "keyword": "구글",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "Meta",
+     "Google",
+     "Amazon"
+    ],
+    "summary": "엔비디아와 메타 등이 주도하는 '오픈웨이트 AI' 움직임은 AI 기술 생태계 내 개방형 모델 개발을 가속화하며 폐쇄형 진영과의 경쟁을 심화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "김동환 포티투마루 대표 \"국내 AI, 단순 추격 넘어 전략적 AX 필요\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212917",
+    "source": "AI Times",
+    "published": "2026-07-26",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "국내 AI 산업은 단순 기술 추격을 넘어 산업 전반의 전략적 AI 전환(AX)을 통해 주도권을 확보해야 할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

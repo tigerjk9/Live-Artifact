@@ -1,0 +1,406 @@
+{
+ "date": "2026-03-29",
+ "generated_at": "2026-11-02T11:54:12+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[조영숙 칼럼] 사진 한 장에 아들이 놀랐다…AI에 빠진 어르신들",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaNjdiZUo0Wlo5d3FNS0pkY0ZOSGNDb0dKVm8xNDdEOEtmS2JqVUQ0elppTTNKcFJ4QzUzeWNSTDNPcXZOSmxrTGV5ZGUxanJwOGZIeVZEckg4TVEwNGNzTnpCb0czQ3l0Ry1PeQ?oc=5",
+    "source": "캐어유 뉴스",
+    "published": "2026-03-28",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 2,
+    "title": "[칼럼] 뇌를 쉬게 하는 법 : 스마트폰 없이 보내는 10분의 위력",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9hOXZsalRMc1hjZzhRVnFSWVVCU2pKRGljZEUxNkpkZDJVMnEza0xiVFNEcEtWTks2ZjZVNTNYUXNEMHlQWnI2Y1k5Nk0?oc=5",
+    "source": "브랜드경제신문",
+    "published": "2026-03-28",
+    "keyword": "뇌과학",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 3,
+    "title": "[빅테크칼럼] 라이덴大, 뇌 없는 3D 마이크로로봇으로 의료 혁신 예고…\"센서나 SW없이 순수한 물리적 형태로 작동\"",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HR1FkZjVFeHlzaXg1MGRoYjEya1RHcHZ5eXZneWhKa0RfOE8zU0xQUEJ4NURrcXZqdFRTTE9HaW1BUThldF9Da1hDTVZtY1VwVVQ3MGxnaG9tbE1Ick94dQ?oc=5",
+    "source": "뉴스스페이스",
+    "published": "2026-03-28",
+    "keyword": "뇌과학",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [
+     "로봇·휴머노이드"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 4,
+    "title": "​[뇌과학 행복제어] 행복을 완벽히 제어할 수 있다면",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1tV2tJU2Z0RVF3LXJ3WE03MHJETmdWaUZQYWw5VmZDWElpUXRjYWdsNFY2S0VVRUdydFpMY3RaSHc1TnVuSWxCVUgyTFZrb2RiTUI0?oc=5",
+    "source": "브런치",
+    "published": "2026-03-28",
+    "keyword": "뇌과학",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 5,
+    "title": "유은혜 경기교육감 예비후보, AI 전문가 간담회…'미래교육 설계' 박차",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQeU41dTRjTnR1aE9sLWZXc21aa2xXTjM2d0pvdk5NOGpYdUo2ZUdKWlpCVGZ6ZkQ2RjFVdDVWSVo0LW1TcXY4c092ZTZVOVlCbEZ3?oc=5",
+    "source": "네이트",
+    "published": "2026-03-28",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "교육감 선거"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 6,
+    "title": "眞心 교육 대담 - 김지철 충남교육감 “미래교육의 해답-현장의 바텀업(Bottom-up) 혁신”",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYSTdFZ2g5NFd2V1FQT3BSSm9lTWpodHg5Q21td182RG1UX2VFNElIX19wTzlGNjhOd1NyeWdfM1YzcDJCazlMMWh1anBjYW5Mc2R5ZTktU3JseVNZTjRDMUFyNA?oc=5",
+    "source": "대한민국교육신문",
+    "published": "2026-03-28",
+    "keyword": "AI디지털교육",
+    "topic": "classroom",
+    "kind": "interview",
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 7,
+    "title": "경기도교육청미래과학교육원, 인공지능‧·디지털 기반 연수 시스템 '하이-사이클' 도입",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PRk16dkpHQVlBNWZ2a0Z6SHh0R2t0dEJYZGNoc1pfZTZTTGk2VDFlMzI4a3k5Ny12ZHFpRHNpQXZNSlBMVWNHQ2NmZThwS1lCT1ZZbHlpT1VZMF8zNzlfMDZSbU8zSU50OEpOZVdoT1ZCd9IBckFVX3lxTE5PRk16dkpHQVlBNWZ2a0Z6SHh0R2t0dEJYZGNoc1pfZTZTTGk2VDFlMzI4a3k5Ny12ZHFpRHNpQXZNSlBMVWNHQ2NmZThwS1lCT1ZZbHlpT1VZMF8zNzlfMDZSbU8zSU50OEpOZVdoT1ZCdw?oc=5",
+    "source": "뉴스 따옴",
+    "published": "2026-03-28",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "미래디지털AI협회, AI자격증과정 4기 4차시 ‘바이브코딩(Vibe Coding)’ 강사 역량 강화의 장 마련",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBvSk1QbXpfZS1BU2paWkdmbzdMSkxKWUt4V2lnN2NaUEZFT3U3dzlGdUpVVXRDVV9ucUl0QlRkTnlkZEpYdmRlZ0NJcDY?oc=5",
+    "source": "브랜드경제신문",
+    "published": "2026-03-28",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "코딩 AI"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "경기도교육청, 미래 디지털 교실 주도할 AI 융합교육 핵심 리더 172명 선발",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02WTZiaFhTZXRKZmVDeVJIZUJlM3ZfeG9yYXd5UG10bHFoOVJzczhhV0hZQU5qd29zdWtONE85NklYWFNFWlg0V0l5dVljRy1GWlMxTE5zRGpWTVFIQWZFeFJUSTBiVmhIaXJPRllvbUJKWVZl?oc=5",
+    "source": "globalnewsagency.kr",
+    "published": "2026-03-28",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 10,
+    "title": "경기도교육청, ‘디지털 시민’, ‘인공지능 윤리’ 인정도서 3종 추가 개발·보급",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3cWdvaldQdkg1QkN0MUtZbzF5dW1jWnVsaTY2M2R6eWhjazY1S3lSLTRyWVoyTVA0ZDVIa3RnWmdVa3lTV3FnbjJqYjNERWxjREZwMHVWOGljNFVRUkhHYXVISVJtM1hZaU1HUE84OUc?oc=5",
+    "source": "한국강사신문",
+    "published": "2026-03-28",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Artificial Intelligence-Based Simulation Research on the Flipped Classroom Mode of Listening and Speaking Teaching for English Majors",
+    "url": "https://www.semanticscholar.org/paper/e93b4ab11bdab1e514f4751d03f7754c9a3708a5",
+    "source": "semantic_scholar",
+    "published": "2021-10-27",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 인공지능 기반 시뮬레이션을 활용한 플립드 러닝이 영어 전공 학생들의 듣기/말하기 능력 향상 및 자기 주도 학습 능력 강화에 긍정적인 영향을 미치며, 교육 혁신에 기여할 수 있음을 실험적으로 입증합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Si Wu, Fei Wang",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "Testing a novel extended educational technology acceptance model using student attitudes towards virtual classrooms",
+    "url": "https://www.semanticscholar.org/paper/02840e640b166ca44706dfd1c2938615cc8603bf",
+    "source": "semantic_scholar",
+    "published": "2024-02-06",
+    "keyword": "",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 학생들의 편안함과 웰빙을 포함한 확장된 교육 기술 수용 모델을 제안하고, 가상 강의실 환경에서 학생들의 태도를 분석하여 행동 의도에 미치는 영향력을 검증하고, 향후 교육 분야 기술 수용 연구에 기여하고자 합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Andrew Kemp, Edward Palmer 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Impact of blended learning on learning outcomes in the public healthcare education course: a review of flipped classroom with team-based learning",
+    "url": "https://www.semanticscholar.org/paper/570e58b2969d09a4b9e6984d863c60973b56edf6",
+    "source": "semantic_scholar",
+    "published": "2021-01-28",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "플립 러닝과 팀 기반 학습을 결합한 블렌디드 러닝은 전통적 강의 방식에 비해 간호학과 학생들의 공중 보건 교육에서 지식, 문제 해결 능력, 학습 만족도를 향상시켜 간호 교육의 효과적인 대안이 될 수 있음을 입증합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Hee-Young Kang, H. Kim",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "The Influence of Affective Feedback Adaptive Learning System on Learning Engagement and Self-Directed Learning",
+    "url": "https://www.semanticscholar.org/paper/567219f90cae6ad3ffa1fe8e24b24c74e75a05a2",
+    "source": "semantic_scholar",
+    "published": "2022-04-27",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "본 논문은 적응형 피드백 감성 컴퓨팅 기술을 활용한 학습 시스템이 학습자의 감정적 신호를 이해하고, 학습 참여도와 자기 주도 학습 능력을 향상시켜 교육적 효과를 증진시키는 것을 입증합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Hsin-Lan Liu, Tao-Hua Wang 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "Performance Comparison of an AI-Based Adaptive Learning System in China",
+    "url": "https://www.semanticscholar.org/paper/14df8fba9313e71c813e3e42825c8922e1e3697a",
+    "source": "semantic_scholar",
+    "published": "2018-11-01",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "중국에서 AI 기반 적응형 학습 시스템 \"Yixue Squirrel AI\"의 효과를 중학교 영어 및 수학 학습에서 전통적 수업 및 타 적응형 학습 플랫폼과 비교 분석한 결과, 학생들의 학습 성과가 향상됨을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Wei Cui, Zhen Xue 외 1명",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "애플, '시리' 개선 위해 AI 마케팅 부사장으로 구글 베테랑 임원 영입",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208495",
+    "source": "AI Times",
+    "published": "2026-03-28",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "Apple",
+     "Google"
+    ],
+    "summary": "애플의 구글 AI 인재 영입은 음성 비서 시장 경쟁 심화 속, AI 기술 주도권 확보를 위한 본격적인 행보를 의미합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "\"리더십도 AI 시대 위한 전환 필요\"...코카콜라·월마트 CEO, 퇴임 이유로 AI 들어",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208500",
+    "source": "AI Times",
+    "published": "2026-03-28",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 시대에 기업 리더십 전환은 불가피하며, 이는 의사 결정 구조와 인력 운용 방식의 근본적인 변화를 요구한다는 것을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "[AI 이슈트렌드] 트럼프 이란 협상·BTS 공연 논란 등 상위권 차지",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208491",
+    "source": "AI Times",
+    "published": "2026-03-28",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "사회적 이슈가 AI 분석 트렌드를 주도하는 현상은 AI 기술이 사회적 맥락을 이해하고 반영하는 방향으로 발전해야 함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[AI카툰] Bob, Senior IT guy",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208449",
+    "source": "AI Times",
+    "published": "2026-03-28",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 암기빵 같은 혁신적 도구에 대한 IT 전문가의 갈망은 AI 기술이 인간의 역량 강화에 집중해야 함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "구글의 내부용 '에이전트 스미스' 인기 폭발...\"접근 제한할 정도\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208499",
+    "source": "AI Times",
+    "published": "2026-03-28",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Google",
+     "에이전트",
+     "코딩 AI"
+    ],
+    "summary": "구글 '에이전트 스미스'의 높은 인기는 코딩 자동화 도구의 가능성을 보여주며, 개발 생산성 향상 경쟁을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "“소프트웨어 호러 닥쳤다”…‘월 1억회 다운’ 오픈소스 AI 도구에 악성코드",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1IV1g0dHVYZEdXV2dtaWtvLXNJVDBLRlA4aUlXLWpRSzE3MGp6cU5BTmpKa3NOQ1JZaEZhRnJFcEFaZVZodDdmSkx0S1k3QQ?oc=5",
+    "source": "매일경제",
+    "published": "2026-03-28",
+    "keyword": "오픈AI",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "오픈소스"
+    ],
+    "summary": "오픈소스 AI 도구의 보안 취약점은 AI 생태계 전반의 신뢰도를 저하시키고, 공급망 보안 강화의 필요성을 부각시키는 중대한 문제입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "오픈클로 창립자 인터뷰: 미국은 중국으로부터 AI 활용법을 배워야 한다",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HdTJmM2twc1NNUW9sVWFIdDdYdGtSTG9EeEtVQmRmV2FNZ25zSmYxc2g0NU9KbDZIcFozZnVSNmxVcDNFZHd5NFQzQTZLX2RJd0FZNF9WM2dPcmN2c0psTk9PTzRraFAwYTVGV1lrRVMwOVJvVlFzQlFnYTEtb0E?oc=5",
+    "source": "PANews",
+    "published": "2026-03-28",
+    "keyword": "오픈AI",
+    "topic": "usecase",
+    "kind": "interview",
+    "entities": [],
+    "summary": "미국이 중국의 AI 활용 방식에서 배워야 한다는 주장은 AI 기술 경쟁 심화 속에서 실질적인 산업 적용 및 데이터 활용 전략의 중요성을 강조하는 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "[피지컬AI와 윤리⑥] '사고'는 알고리즘 보다 '인간'과 '제도' 책임",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02NlF4NFJoNGNOQzVsb24yVG5rTzg0OVRVRk5FYWE3Yktsc2pLX3hFQXJmN0VJSVo2aGVTeHVtUnNnNzlLQUVFN3I1TEVTcDhEQ3d2QjhR?oc=5",
+    "source": "지디넷코리아",
+    "published": "2026-03-28",
+    "keyword": "알고리즘",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 사고 발생 시 알고리즘 자체보다 인간의 판단과 책임 소재를 명확히 규정하는 제도 마련이 시급합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "[2026년 일상 생산성을 극대화하는 구글의 무료 AI 도구 가이드] 우리 곁에 와 있는 구글의 AI 생태계를 적극적으로 활용하여 업무와 학습의 질을 높여야 할 때이다.",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE4xSnVRejc2V2tsY0J4dDFtUnBMaWJ6ZmhRYndyUDl6T0hweTE5NnNabUFWSXNFM2dlQl80bVRtTXA?oc=5",
+    "source": "AI넷",
+    "published": "2026-03-28",
+    "keyword": "구글",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "구글의 AI 도구 활용 가이드 확산은 개인 생산성 향상을 넘어 AI 생태계 저변 확대에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "\"AI수익자동⩥ 𝙎𝙗𝙧𝙤𝙖𝙙.𝙘𝙤𝙢 ⩤알고리즘매매.fhl\" - Results on X | Live Posts & Updates",
+    "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxQR0xEbTJBd05yaWFfcEhYZk5hWEZoM1NBQ2wycHlhc3VjSjlkZTFoYlFycmZkS1EwVzUxeDFyNy1MSDUyR2ZDa1Q0dWtkUHBMX0paYVd5REJCLW13RzNQRnJUZzctajZSUW5RN0VSWm9qajliNUdPWnNPSTRUS1Y5VUFDb25BREdodjMwVk54ZzFrYnR5OTRYNUZrVnlUSGV4bzN0Z0lrbzJiSTlvZDhrdHMzSDA0dGx4WmhXMjZNdGlOSXhaUFl6VnZfTDBQZ2luNDZqb0dwaWY2NWFLUGotZnRiSVQxVEFRdlk2ZDlFaGRHMDVBNTJ2ZTI2ZkFTMUdXTzRvVHJkeUhRM05WVmdRTjh0dmgxN1B1QmVRVWQ0Ml9fVmdLX1JqaWE0cmZkMnBVNVJVVENCSEZwMEN3OVcxQXdFUWFQY01PNnZxYm9fZFlWVHRVRnBadHVtM3pTZjJFWVJaeTBQVHA4TFVRd2Y2azQxem1KM0Z1YmlpbGhkOGdiWXRXNWNfSHpRaw?oc=5",
+    "source": "x.com",
+    "published": "2026-03-28",
+    "keyword": "알고리즘",
+    "topic": "industry",
+    "kind": null,
+    "entities": [],
+    "summary": "해당 링크의 내용은 불법적인 자동매매 광고로 보이며, AI 기술을 악용한 금융 사기 시도의 위험성을 경고하는 메시지가 필요합니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "tech": "AI 기술이 경쟁적으로 발전하고 실생활에 깊숙이 침투하면서 리더십 변화, 윤리적 책임, 보안 문제 등 다양한 과제가 부상하고 있지만, 생산성 향상과 새로운 가능성을 제시하며 긍정적인 방향으로 진화하고 있다."
+ }
+}

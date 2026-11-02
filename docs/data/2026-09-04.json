@@ -1,0 +1,420 @@
+{
+ "date": "2026-09-04",
+ "generated_at": "2026-11-02T11:42:42+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[기고-이보미] 교육교부금 개편 수용, 공교육의 미래를 저버린 교육부",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EcmxtLU1YX0YycnlZZ0NTQnBDbWZuNkdzZHVFUHA2VFE0NXZralR1YnNWal95cnB0T2dQeTN6WTI5U05XcjFhWjdFNHBhZldCdVYyNW5kMl92YmhkTmJCWE5B?oc=5",
+    "source": "매일신문",
+    "published": "2026-09-03",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [
+     "교육 예산",
+     "교육부"
+    ],
+    "summary": "교육부가 교육교부금 개편을 수용하여 공교육의 미래를 저버렸다는 이보미 필자의 기고문입니다.",
+    "implication": "교육교부금 개편이 공교육에 미칠 영향을 탐구하며 토론 수업 자료로 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[옴부즈맨 칼럼] ‘참교육’ 신드롬, 지금 교육 현장은?",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Sblk4bWRDd19VTllHdEtoWjBFUE1Fc3A0eWhKUEY0Q25jemJVZGVMUnNBaE5lMkRiREEyMDNJdVBIZjU4RktGdkplamRHTXROQ0tpS1JLT1Z2Zmk0elJmS2c3N0VpcFVlNm5QSWpUUERwT1nSAXdBVV95cUxOQlhzWFF1NXFDVC00cmZaaWFscGpMQUtiXzluLURJTlhsbGRqZS1yVW9LMV8yU2pxZFN5NWdSZTJhMFVuQUJXLUlfWWRKblAyWWU1bVNBclQ3OEF1UHdxRTBlVDk4NElaZ3lEVlA4QTV0R1hvRllGYw?oc=5",
+    "source": "여성경제신문",
+    "published": "2026-09-03",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "여성경제신문 옴부즈맨 칼럼에서 ‘참교육’ 신드롬이 현재 교육 현장에 미치는 영향을 다룹니다.",
+    "implication": "참교육에 대한 사회적 관심이 높아진 만큼, 학생들과 함께 교육의 본질을 토론해 볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "김미희 대전시의회 의원 “대전 IB 20개교, 검증보다 확대 먼저?”…오석진 대전시교육감 “조건부 확대”",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tQTIxV2g5dXNpR2ZGdmE2Xy16eFIzZGhYaWRjYTlpUTNKSGJtbHJFU1BuRzFHZ1AySm5HTWZheFhtZGFBcmQ1MHpkTVprS0dIZ1B3Rw?oc=5",
+    "source": "타임뉴스",
+    "published": "2026-09-03",
+    "keyword": "과정중심평가",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "IB",
+     "대전시교육청"
+    ],
+    "summary": "대전시의원과 교육감이 대전 IB 프로그램 확대 방향을 두고 검증 우선 여부와 조건부 확대 입장을 보였습니다.",
+    "implication": "IB 확대 논의를 통해 우리 수업 방식과 평가 방법에 어떤 변화가 올지 함께 고민해 볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[에이전틱 AI 맵 2026] 제네시스랩, AI 에이전트 설계부터 통제·실행까지…기업용 ‘Agent OS’ 공략",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBQaTJldmxseGV0M291TTRHZmpKd2FuUmEyanBLX3Y5Sk1mNkl0M0ZLbVpQVTVSM3VKTUs1MlNROTVhbElXQWt2VzBfZFNtbUtlZVdIenNJS1F5WV9CUUlSVHlvRmozc29CWnlNSFU0Sk9DZWtL0gF0QVVfeXFMUFBpMmV2bGx4ZXQzb3VNNEdmakp3YW5SYTJqcEtfdjlKTWY2SXQzRkttWlBVNVIzdUpNSzUyU1E5NWFsSVdBa3ZXMF9kU21tS2VlV0h6c0lLUXlZX0JRSVJUeW9GajNzb0JaeU1IVTRKT0Nla0s?oc=5",
+    "source": "IT조선",
+    "published": "2026-09-03",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "제네시스랩은 AI 에이전트의 설계, 통제, 실행을 아우르는 기업용 ‘Agent OS’ 시장을 공략합니다.",
+    "implication": "학생들이 AI 에이전트의 설계, 통제 원리를 탐구하며 미래 기술 활용 능력을 키울 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "인천시교육청, 'AI교육행정혁신 추진단' 출범…교원 행정업무 대폭 줄인다",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UamhiLTBTNVg4Sk8yOVB0NFVsaF8xZkJ4SHotYUJVNGdjUkNQdXZzVW1CdldaNHJaTEhOc2o1M2VxWnpWcFFPUU9vUGZVQ1ptNnZTVFYyV0tDUnhZRUg4T3p1QTBiMUlTaTByQzFR0gFyQVVfeXFMTXpUZ05JRWF3Ty0yZFM3VzFZdnNqMU50QnlWeGQwaTdlNFV4ZHlDcEtSa2czT0RnUjJ4YUFOVTJNSHA1YXFPM3FlendaSFdTU0loSUU2d0RmNFZmTmNwVzZ3TnNYUGxZLWhKV0NaeHJDQ1RB?oc=5",
+    "source": "포커스인천",
+    "published": "2026-09-03",
+    "keyword": "인공지능교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청이 교원 행정업무 경감을 목표로 'AI교육행정혁신 추진단'을 출범시켰다.",
+    "implication": "불필요한 행정업무 부담이 줄어들어 학생 중심의 수업에 집중할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "경기도교육청·도의회 ‘경기교육 변화’ 맞손… 유보통합 현장 준비도 속도",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MZDN2eUVUWmY3TnhWdzBDaDRxeFZqY0plWGh0Sm55azcyRWVMQjE0U3I1TEJXU2tlZTM3MkcxbE8ySHFNeC1zWGV2YWpzVTN0SG53blY0YzQ0bFl2enhVdkxHQ3A2dkVxc3c?oc=5",
+    "source": "천지일보",
+    "published": "2026-09-03",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "유보통합"
+    ],
+    "summary": "경기도교육청과 도의회가 경기교육 변화를 위해 협력하며 유보통합 현장 준비에 속도를 내고 있습니다.",
+    "implication": "유보통합 현장 준비가 속도를 내면서, 유아 교육과 연계된 수업 방안을 모색할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "충남교육청, 평화·통일교육 현장역량 높인다",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9fbWNWZFl3SXdwemFIYVNpY2ZrbFVVZm5INnp2eDlnNUIwbnlraEdPd190NHQzNzZPdEo3N3hQU3FaR1AwUXV5c25xVzJRT002U0VNZ0tBb1ZYY29RQjlZaUtOaV9BOXM0d1hlNjJJLVdrUQ?oc=5",
+    "source": "투데이충남",
+    "published": "2026-09-03",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "충남교육청이 평화·통일교육의 현장 역량을 강화할 예정입니다.",
+    "implication": "평화·통일교육 관련 연수 참여와 자료 지원으로 수업에 필요한 역량을 강화할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "교육감협의회 “지방교육재정 개편, 교육현장과 실질적 협의부터”",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wQ2lKM05qT1RYRC1SSUd6WkZRYlFiRy1TY0FRT2RyMHJxTndRU0otZ2pCUF82SmFnMXg5WC05RU5XZWt3c0lSNEo1RmtlRE0?oc=5",
+    "source": "CCBS뉴스",
+    "published": "2026-09-03",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "교육감협의회는 지방교육재정 개편 전 교육현장과 실질적인 협의가 선행되어야 한다고 주장했습니다.",
+    "implication": "지방교육재정 개편 논의를 주시하며 수업에 필요한 자원 확보 방안을 미리 구상해볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "경기도교육청, 교육기획위와 미래교육 밑그림 구체화… 교원 교육전념 여건 마련 논의",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1QeU1WVW9zellHWFZSZHVhTXdYaV9RTy0zWWpZNmVsVTN3UXN1QkVGRDZnWG9lTDNWelNXNVpIc2QtTmJTSWxqek45TWd2ZGFtQ3pPN1A3WTh5SUZjNFppYWhaR3Noc0drcFNNVDNUNmw3MWoyeGNEaFFR?oc=5",
+    "source": "lawissue.co.kr",
+    "published": "2026-09-03",
+    "keyword": "교육정책",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청과 교육기획위가 미래교육 밑그림을 구체화하며 교원 교육전념 여건 마련을 논의합니다.",
+    "implication": "교원 교육전념 여건 마련 논의는 수업 준비와 학생 지도에 더 집중할 수 있는 기회를 제공할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "교사가 만드는 AI 교과서, 학교 현장 중심의 교육혁신 시작된다",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9FUXd5bndJYnlsZnZpWkZFa3VYQ0tqTlFHRFVEMnQyejRvby05UV9SVThybjlmcG5JT2RnTjBwSUNxZGM?oc=5",
+    "source": "knpp.co.kr",
+    "published": "2026-09-03",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "교사가 직접 AI 교과서를 제작하여 학교 현장 중심의 교육 혁신이 시작됩니다.",
+    "implication": "현장 교사로서 AI 도구를 활용하여 우리 반 학생들에게 최적화된 맞춤형 학습 자료를 직접 제작할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Pre-Service Teachers’ Competence and Challenges in Assessing Learners with Special Needs during Teaching Practice in Kenyan Universities",
+    "url": "https://doi.org/10.59765/mthr83",
+    "source": "openalex",
+    "published": "2026-09-02",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "특수교육"
+    ],
+    "summary": "케냐 대학 예비 교사들의 특수 교육 대상 학생 평가 역량을 혼합 연구 방법으로 분석한 결과, 전반적 역량은 높으나 실질적 장애 유형별 평가 적응에 한계가 있음을 밝혀내어, 교사 양성 기관의 실질적 훈련 강화와 자원 확보의 중요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "",
+    "pdf": "https://doi.org/10.59765/mthr83"
+   },
+   {
+    "n": 2,
+    "title": "Decolonizing practices in vocational education",
+    "url": "https://doi.org/10.1080/13636820.2026.2723710",
+    "source": "openalex",
+    "published": "2026-09-02",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "이 연구는 캐나다 직업 교육자들이 명확한 기관 지침 없이 탈식민화 명령을 이행해야 하는 딜레마 속에서, 10명과의 인터뷰와 비판적 분석을 통해 개인적 해석과 가용 자원, 협력적 실천을 바탕으로 토착적 가르침을 통합하며 저항에 직면하는 현장의 노력을 조명하고 교육기관의 지원 필요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Sabrina Ngo",
+    "pdf": "https://summit.sfu.ca/_flysystem/fedora/2026-03/etd24197.pdf"
+   },
+   {
+    "n": 3,
+    "title": "An Experiential Learning Framework for Teacher Entrepreneurship Education",
+    "url": "https://doi.org/10.63734/jnfde.02.02.004",
+    "source": "openalex",
+    "published": "2026-08-31",
+    "keyword": "edtech",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "이 연구는 교사 기업가정신 교육의 전문 방법론 부재를 해소하고자 Kolb 이론 등을 통합 분석하여 경험 학습 프레임워크를 제시하며, 미래 교사들이 교육 혁신을 주도할 폭넓은 기업가적 역량을 갖추도록 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Nguyen Minh Giam",
+    "pdf": "https://journals.team4excellence.ro/journal-of-non-formal-education/article/download/64/76"
+   },
+   {
+    "n": 4,
+    "title": "INTEGRATION OF GAME-BASED LEARNING IN TEACHING MATHEMATICS 7",
+    "url": "https://doi.org/10.30574/wjarr.2026.31.2.2223",
+    "source": "openalex",
+    "published": "2026-08-28",
+    "keyword": "edtech",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "수학 7학년 학생들의 낮은 참여도와 개념 이해도 문제를 해결하고자 게임 기반 학습을 적용한 준실험 연구에서, 이는 학생들의 성취도를 유의미하게 향상시키고 교사들에게 긍정적인 평가를 받은 효과적인 교수 전략임을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Mary Joy B. Etorma",
+    "pdf": "https://wjarr.com/sites/default/files/fulltext_pdf/WJARR-2026-2223.pdf"
+   },
+   {
+    "n": 5,
+    "title": "Mapping artificial intelligence research in primary education: a bibliometric study",
+    "url": "https://doi.org/10.1007/s44217-026-02012-9",
+    "source": "openalex",
+    "published": "2026-09-01",
+    "keyword": "",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [],
+    "summary": "이 연구는 2018년부터 2025년까지의 초등 교육 AI 연구 논문 547편을 서지 분석하여, 출판 증가와 세 가지 핵심 주제 클러스터 및 시기별 변화를 밝히고, 미래에 윤리적이고 교육학적으로 적절한 AI 구현을 위한 통찰을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Abroto Abroto, Maemonah Maemonah 외 1명",
+    "pdf": "https://link.springer.com/content/pdf/10.1007/s44217-026-02012-9.pdf"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "'기억 저장 순서' 바꿔 성능 향상...고속 어텐션 프레임워크 '팰컨' 등장",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214807",
+    "source": "AI Times",
+    "published": "2026-09-03",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [],
+    "summary": "팰컨은 AI 핵심 어텐션의 효율을 극대화하여 대규모 AI 개발 및 운영 비용을 절감하고, AI 산업 전반의 기술 확산을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "Google, Anthropic and OpenAI Just Locked In Broadcom’s Q3 Earnings Through 2028.",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdXlBRU03a2pBdzdmUWZpZ2ZrTjBDY2RYNkJaTnJaLVU2ekRDMW96SkdDQTBDdlI1dk5jYWt0VEZabnJqbXZNbTYwWVFOWnJGNFBhV1V4QTRvMTk3YU5udnh6c1dibFV6enZtN0NCT0hkNHE0T2JtMHc3X2lCNGVKR1M3dWZ2TnA1aVRFQzQyTzh5VHBWblFQMGIxQnA4TEVIYXNoSmg4Rjd2Zw?oc=5",
+    "source": "tikr.com",
+    "published": "2026-09-03",
+    "keyword": "Anthropic",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Anthropic",
+     "OpenAI"
+    ],
+    "summary": "주요 AI 기업들의 브로드컴 장기 계약은 AI 모델 개발 및 운영에 필요한 맞춤형 고성능 하드웨어에 대한 막대한 장기적 수요와 투자를 보여줍니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "LG, 마곡서 ‘AI 축제’ 연다…엔비디아·구글·아마존·MS 참여",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Ldk1yVW5TVk9aNm1Sb1VqVjVqMmpITF81ZFI4U3A2blV4VmFPREJGQTNJZFo5RG83QVkzd2pXLTBBWkszZUhRZlZHZnRLOFNvT1lkRDV3dHJ0UTdiNnY5cDFSbVQ?oc=5",
+    "source": "PRESS9",
+    "published": "2026-09-04",
+    "keyword": "구글",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "LG",
+     "NVIDIA",
+     "Google",
+     "Amazon",
+     "Microsoft"
+    ],
+    "summary": "글로벌 AI 선도 기업들의 집결은 AI 기술 생태계의 협력을 강화하고 산업 전반의 혁신을 가속화할 핵심 시사점입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "인월드 AI, 맥락·감정 읽는 음성 모델 '실시간 TTS-2' 공개...아티피셜 애널리시스 1위 등극",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214813",
+    "source": "AI Times",
+    "published": "2026-09-03",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "인월드 AI의 맥락·감정 인식 실시간 TTS-2 출시는 AI 음성 상호작용의 인간적 차원을 심화하며 다양한 산업의 서비스 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "Anthropic Claude Fable 5.1, Snowflake Cortex AI에서 프라이빗 프리뷰로 제공",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jMFhKWElWbU8xZk5pQ3pFNDZ5LWk4SGFjbDRhdkVVc3Q1eXFkVkhBdEl1M1F6dXEzT29nYmtiVXpLNGotTUZVRXhNU2hkcThFM3B0N3JoQ1ZBeDVfRXlNcHJGR0ZhbUlHai1oVm9BUkh1M0FQeThXVHpOYw?oc=5",
+    "source": "Snowflake",
+    "published": "2026-09-03",
+    "keyword": "Anthropic",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude"
+    ],
+    "summary": "데이터 클라우드 플랫폼이 AI 모델 허브로 진화하며 기업의 AI 개발 및 활용 장벽을 낮출 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "\"챗GPT 등장 3년 전부터 AI 접목\"…美 플로리다대를 바꾼 엔비디아 창업자의 '한마디'",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PMURVekViMDhURGlQcGxoTDd1UlpwNm5DRUg0YjI5dmhQMGI1M3hIQkhOOGhGbUhEUnFmN3RqYXozNkZXaE0wdS1VYzZxUGpRRXRVRXRONFVac0ZDU3lVWV9odXIydkZ0WEM1a05B0gFyQVVfeXFMUDJhalc3Q0EzTGMtcWxNSmliX1lUM0pBM0U4NlhPa0VudExTaF81QTRudzZxLW5rdWxHWTZrYXBPQU9CS0NPYzZFanNTY0ZuQnp4S2M4ZzIzMGx5MlV0Rm1hZW5JeFVhSmZrdS1oTGlGbmVB?oc=5",
+    "source": "AI포스트",
+    "published": "2026-09-03",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "NVIDIA"
+    ],
+    "summary": "산업 리더의 비전과 교육기관의 선제적 AI 도입은 AI 기술 생태계의 혁신을 이끌고 경쟁력을 높이는 핵심 동력입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+    "url": "https://openai.com/index/atv-big-air-tour",
+    "source": "OpenAI Blog",
+    "published": "2026-09-02",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "생성형 AI"
+    ],
+    "summary": "ChatGPT와 같은 생성형 AI는 기존 업무 방식의 한계를 넘어 압도적인 생산성 향상을 가능하게 하여 산업 혁신을 주도할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+    "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "source": "OpenAI Blog",
+    "published": "2026-08-27",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "챗GPT와 비판적 사고 훈련의 결합은 AI가 인간의 고차원적 사고를 증강하는 핵심 도구로 진화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "Learning never stops: How AI makes learning continuous",
+    "url": "https://openai.com/index/learning-never-stops",
+    "source": "OpenAI Blog",
+    "published": "2026-08-26",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [],
+    "summary": "AI의 지속 학습 능력은 기술 고도화를 넘어 끊임없이 진화하는 AI 생태계 구축의 핵심 동력이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "앤트로픽, 온라인 스토어에 상품 제안 AI 삽입…에이전트 오픈소스 공개",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Jd1hiVkFpWmRXVVVJdU01MnNMWGFIa1drVUNxd19xeVR4RUlqWmNBSGhRY3hsbExOM1NoSWozSXhuMHp0eHpkYTRzYmt2NnZ4ekM1SEsteEg2TTRXX1E?oc=5",
+    "source": "스타트업레시피",
+    "published": "2026-09-04",
+    "keyword": "오픈소스",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "에이전트",
+     "오픈소스"
+    ],
+    "summary": "앤트로픽의 에이전트 오픈소스 공개는 AI 기술의 자율적 활용을 가속하고 관련 생태계의 확장과 혁신을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

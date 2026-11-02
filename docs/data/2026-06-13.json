@@ -1,0 +1,427 @@
+{
+ "date": "2026-06-13",
+ "generated_at": "2026-11-02T11:38:08+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "보고, 만들고, 체험하는 AI! 외북초 미래교육 한마당 몸으로 즐기고, 눈으로 배우는 AI 세상",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tV3E5dEMzQjhMTE1kT1JYRzkwRXRvUnc4dGowWURHWWh4aWpCNXM1eFFFMHRhWnhOcVMxNy1Gd0JDVDlUeDFjTjN3YWhYTTRJS0w4bjE4YmlpY0tNbjUzRkpHNlFmNnVkUnhPWXlVek5NaDhxd05malZaa0c?oc=5",
+    "source": "포천신문",
+    "published": "2026-06-12",
+    "keyword": "AI교육",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "외북초는 미래교육 한마당에서 보고, 만들고, 체험하는 다양한 활동으로 AI 세상을 즐기고 배웠다.",
+    "implication": "학생들에게 AI를 효과적으로 교육하기 위해 보고, 만들고, 체험하는 활동을 수업에 도입할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "전남교육청창의융합교육원, AI 수업 혁신 ‘아이모두 웨비나’ 큰 호응",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04Y2FvZXpLX21xNG1BMVk0ZjFjZUlMYWQyd2x6YWVPaW5UaEdFdFRHM3FTYm84LU1ZRE9QZGh2eEtlT0JqWE1IdDRoMHZXeUR4TGplWXRFTVllaUNHMko2enJZY1M3eWs?oc=5",
+    "source": "호남교육신문",
+    "published": "2026-06-12",
+    "keyword": "AI디지털도구",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "전남교육청"
+    ],
+    "summary": "전남교육청창의융합교육원이 AI 수업 혁신을 위한 웨비나를 열어 큰 호응을 얻었습니다.",
+    "implication": "아이모두 웨비나처럼 AI를 활용한 수업 방안을 참고하여 내 수업에 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "수업 혁신 사례 나누며 미래교육 방향 모색하다",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZMWt5S0kwbFBxNjV3OW1xWTVIZHl5RE9aQUFlaGZrdGZQbHBWWHF2Mmh6ejgzSUtkRDJSRlRIc1U4SWhKdjU0X19JWHZ6MDJzdnBDbllzUDBTMk9HbHI0NzhCbk9Oa18yYWp6Mg?oc=5",
+    "source": "뉴스N제주",
+    "published": "2026-06-12",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "미래 교육의 방향을 찾고자 혁신 수업 사례를 공유하는 활동을 다룬다.",
+    "implication": "다양한 수업 혁신 사례를 통해 실제 수업에 적용할 아이디어를 얻을 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "IBM, 인도네시아 디지털 경제 변화를 위해 에이전틱 AI를 추진하다",
+    "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1wV0tTeS1sckNzTEZCSE5aM3FaUmVYcy1NZ0YwUXpZMzlKN2FTc2dsRjQ2ZWZKcFIweUtzZ0VTZDZmQdIBQkFVX3lxTE1wV0tTeS1sckNzTEZCSE5aM3FaUmVYcy1NZ0YwUXpZMzlKN2FTc2dsRjQ2ZWZKcFIweUtzZ0VTZDZmQQ?oc=5",
+    "source": "VOI.id",
+    "published": "2026-06-12",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "IBM은 인도네시아의 디지털 경제 전환을 위해 에이전틱 AI 기술 도입을 추진하고 있습니다.",
+    "implication": "학생들과 에이전틱 AI가 미래 사회와 직업에 미칠 영향 및 필요한 역량을 토론해 볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "교육부, 지방대 규제 푼다…고등교육혁신특화지역 특례 부여",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zVnJqcVpuODY0SnBmWl83QmVIa0V2dWFsT2gxRXY0ZUhUcUxKUVBaRWJxNjQyUFcyU0FnTklNc0I4NnRlbWZfM0VjbWFmNG8?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-06-12",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "교육부가 지방대 규제를 풀고 고등교육혁신특화지역에 특례를 부여한다.",
+    "implication": "지방대 규제 완화로 다양한 교육과정이 생길 수 있어, 학생들의 진로 탐색 시 새로운 선택지를 소개할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "신임 교육감 인수위원회 출범, 교육계 유력인사 모셨지만 현장 교사 배제된 곳도",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uaGROVVhrODE1cHkxb0k0VnpNa0FxMGRucmdBWXBKczMwd0dFeXMzN3JTNUFnZGVSWGJwdVlDaml4bDJYVHlfejV5RGhHWGJPUzh2SjhYMlhyamk0OWhPTjQ0U1VFSEVTbGVEOEY1b9IBb0FVX3lxTE9uaGROVVhrODE1cHkxb0k0VnpNa0FxMGRucmdBWXBKczMwd0dFeXMzN3JTNUFnZGVSWGJwdVlDaml4bDJYVHlfejV5RGhHWGJPUzh2SjhYMlhyamk0OWhPTjQ0U1VFSEVTbGVEOEY1bw?oc=5",
+    "source": "교육언론[창]",
+    "published": "2026-06-12",
+    "keyword": "현장교사",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "신임 교육감 인수위원회가 출범했으나, 교육계 유력인사 중심에 현장 교사가 일부 배제된 곳도 있습니다.",
+    "implication": "인수위에서 현장 교사가 배제되면, 실제 수업 환경에 적합한 정책이 마련되지 못해 수업 운영에 직접적인 어려움을 겪을 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "인천시교육청, 몽골 교원 30명과 미래교육 협력 강화",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZSzlOb3dZR3RKREk5N29pOHpoM0xZRHlsblh2UGJrZ2RwbTBXVHVlR2IzV0J5SUNvSzh3eEtkMGlCYmh2RUFsZk5TcWZ3c3dkSHRGLUdBeEdpS05YYlVVcmF0LTRUZkxINk1J?oc=5",
+    "source": "비즈월드",
+    "published": "2026-06-12",
+    "keyword": "디지털교육",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청이 몽골 교원 30명과 미래교육 분야에서 협력을 강화합니다.",
+    "implication": "미래교육 협력 사례를 학생들에게 소개하여 국제적 관점에서 미래 역량의 중요성을 토의해 볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "경북교육청 정책혁신아카데미 10기 수료…미래교육 이끌 정책전문가 30명 배출",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1YVdUZ1dGUzJDUjFLODUzdEJISzdPLVZ3NjctU2w4S0t2UkJpb1pMQ1dJaHZGRUtHOEJZTEFzX1M3NlJYV1FCc1VMT1dBUUVZdEtQdHVENkNaYXNNVmNBRVNpemwzR2hvNl93?oc=5",
+    "source": "웹플러스뉴스",
+    "published": "2026-06-12",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경북교육청"
+    ],
+    "summary": "경북교육청은 정책혁신아카데미 10기를 수료시켜 미래교육을 이끌 정책전문가 30명을 배출했습니다.",
+    "implication": "새로운 미래교육 정책 방향에 맞춰 수업 자료나 활동을 개발하는 데 참고할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "인천시교육청, 몽골 교육관계자 초청 국제교류 운영",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wYlY3T3cxb2MxeWhNamFhblBaMngteVdIaTd4S0lKSjNFM3RBYkNRWjhnWTVhb2hvaEJkbU5Od2R1VlUxeVVmM0pmcFVwYWdOelAzaktUMkJTV0dWbWxyN1ZzbTQ?oc=5",
+    "source": "매일일보",
+    "published": "2026-06-12",
+    "keyword": "디지털교육",
+    "topic": "global",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청이 몽골 교육관계자를 초청하여 국제교류를 운영합니다.",
+    "implication": "우리 지역의 국제교류 사례를 활용해 세계 시민 교육 수업에 연계할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "글로벌사이버대, ‘생성형 AI를 활용한 유튜브 제작’ 교수역량강화 특강",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zNjc2V09zajZab0tSMG1jODc1YUlCZHdDbXo2d2pXNGMzNFhDOUZ5T01uOTF6MjQtY2tHV29zMFZzenNUWG5IODRRbkV1MTMyTmtvWlp5NE00SjFYNzNUWjhEOWVJUQ?oc=5",
+    "source": "한국대학신문",
+    "published": "2026-06-12",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "글로벌사이버대가 교수 역량 강화를 위해 생성형 AI를 활용한 유튜브 제작 특강을 진행했습니다.",
+    "implication": "생성형 AI로 유튜브 형식의 수업 자료를 만들거나 학생들의 과제 수행에 활용할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Integration of the Steam Approach and the Development of Socio-Emotional Skills in Education: A Literature Review from Latin American Contexts",
+    "url": "https://doi.org/10.63332/joph.v6i6.4223",
+    "source": "openalex",
+    "published": "2026-06-09",
+    "keyword": "SEL education",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 라틴 아메리카 교육에서 STEAM 접근법과 사회정서 발달 통합에 대한 문헌을 비판적으로 검토하여, 체계적 계획 및 교사 훈련 부족 등 주요 연구 공백과 실행 과제를 밝히며, 통합적 교육 모델 개발의 필요성을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Maria Fernanda Maya-Souza, Jesús Insuasti",
+    "pdf": "https://posthumanism.co.uk/jp/article/download/4223/2573"
+   },
+   {
+    "n": 2,
+    "title": "Analisis Kemampuan Literasi Digital Guru dalam Penggunaan Literasi Informasi dan Literasi Media Pembelajaran Berbasis Teknologi di SD Negeri Pandan Sari Kecamatan Manyak Payed Kabupaten Aceh Tamiang",
+    "url": "https://doi.org/10.55681/jige.v7i2.5745",
+    "source": "openalex",
+    "published": "2026-06-11",
+    "keyword": "edtech",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [],
+    "summary": "질적 방법을 통해 SD Negeri Pandan Sari 초등교사들의 정보 및 미디어 리터러시 능력을 분석한 결과, 제한된 환경 속에서도 교사들이 효과적인 기술 기반 학습 자료를 지속적으로 개발하여 21세기 교육에 기여함을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Nurida Nurida, Nadila Aldyza 외 1명",
+    "pdf": "https://ejournal.nusantaraglobal.ac.id/index.php/jige/article/download/5745/4657"
+   },
+   {
+    "n": 3,
+    "title": "Gamification and Generative Artificial Intelligence in the Teaching of Philosophy, Mathematics, and Portuguese: A Report on an Interdisciplinary Experiment in a Full-Time High School Program.",
+    "url": "https://doi.org/10.22533/at.ed.515721226100610",
+    "source": "openalex",
+    "published": "2026-06-10",
+    "keyword": "edtech",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "개인화 학습"
+    ],
+    "summary": "고등학교 철학, 수학, 포르투갈어 수업에 게이미피케이션과 생성형 AI를 통합한 학제간 교육 실험을 통해 학생 참여와 협력을 증진하며, 현대 교육에 맞는 개인화된 경험을 제공할 수 있음을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Cleidson de Oliveira Lima, Simone de Carvalho Santos Fontes 외 1명",
+    "pdf": "https://cdn.atenaeditora.com.br/atenaeditora/artigos_anexos/202606/PqXyBkBZjSowsHgpaZNJMpG5vEnjFSevyWPh230g.pdf"
+   },
+   {
+    "n": 4,
+    "title": "Comparative Global Perspectives on Community Involvement in Language Formation among Primary Learners",
+    "url": "https://doi.org/10.65339/ijsair.v2.i2.588",
+    "source": "openalex",
+    "published": "2026-06-10",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [
+     "문해력"
+    ],
+    "summary": "지역 사회 참여가 아동의 언어 형성에 미치는 영향을 데이터 마이닝으로 분석하여 가족 참여, 모국어 교육, 문화적 스토리텔링, 학교-지역 사회 협력 및 기술 통합이 문해력 향상과 문화적 정체성 보존에 핵심적임을 밝히고 지속 가능한 협력 교육 환경 구축을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ma. Elena Sentasas, Regina Galigao",
+    "pdf": "https://www.ijsair.com/index.php/ijsair/article/download/700/670"
+   },
+   {
+    "n": 5,
+    "title": "Gamification and Adaptive Learning Innovations for Enhancing Students' Critical Thinking and Creativity at an Islamic Boarding School in Indonesia",
+    "url": "https://doi.org/10.31538/nzh.v9i2.414",
+    "source": "openalex",
+    "published": "2026-06-11",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "인도네시아 이슬람 기숙학교 연구에서 게임화와 적응형 학습이 학생들의 비판적 사고 및 창의성 증진에 기여하며, 특히 학습 참여가 가장 큰 영향 요인임을 혼합 연구 방법으로 입증하여 학생 중심 교육의 중요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Hendarman Hendarman, Dian Sudiantini 외 1명",
+    "pdf": "https://nazhruna.uacmjk.ac.id/index.php/nzh/article/download/414/90"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "역대급 벤치마크 ‘ALE’서 이변…GPT-5.5, '페이블 5' 꺾고 1위",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211667",
+    "source": "AI Times",
+    "published": "2026-06-12",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "벤치마크",
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.5의 ALE 벤치마크 1위는 AI 모델 경쟁의 심화와 선두 주자의 기술 혁신 가속화를 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "MS, AI 에이전트 '스킬' 자동 수정 기술 공개...\"성능 23.5% 향상\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211674",
+    "source": "AI Times",
+    "published": "2026-06-12",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Microsoft",
+     "에이전트"
+    ],
+    "summary": "MS의 AI 에이전트 자동 수정 기술은 자율적 성능 개선 시대를 열어 AI 시스템 개발의 효율성과 확장성을 극대화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "\"의미 있는 성능 개선\"…오픈AI 'GPT-5.6' 출시 카운트다운",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pLWpQWnFkN1Bvcjd4UnRBWFZjZm1fRmZBSFgzM3JhX3IxUTlOYUpHQ2c3NkV2SlZ3V0NwNUFzT3BURm5VYkxmOVZfNWVFNVNfZkdheHZDVEYyWlhfcGVrSlpyNC1veEd2QXc?oc=5",
+    "source": "구글 뉴스 AI",
+    "published": "2026-06-11",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "오픈AI GPT-5.6의 의미 있는 성능 개선은 AI 기술 생태계 전반의 혁신 경쟁을 촉진하고 산업 발전을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "테슬라·엔비디아 이어 구글까지…'삼성 파운드리' AI칩 공급 기대감 확대",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuVzBVQTV1ZWk3ZW1US3RBY01pMTBGcW1MR0pubFlaYUhhRDZ2dDJ3QkFvTjNBT1Q4WnRhY3BHNzhwMVJzb2g1TzB5aW42WEp4Z0pBMjJTbkl6NEVOVXRKa2JiMU1qUVZmYS1YTXJpZWh5c0gxSmVxOdIBeEFVX3lxTFBuVzBVQTV1ZWk3ZW1US3RBY01pMTBGcW1MR0pubFlaYUhhRDZ2dDJ3QkFvTjNBT1Q4WnRhY3BHNzhwMVJzb2g1TzB5aW42WEp4Z0pBMjJTbkl6NEVOVXRKa2JiMU1qUVZmYS1YTXJpZWh5c0gxSmVxOQ?oc=5",
+    "source": "뉴시스",
+    "published": "2026-06-12",
+    "keyword": "구글",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "Google",
+     "삼성",
+     "GPU·데이터센터"
+    ],
+    "summary": "주요 AI 기업들의 삼성 파운드리 활용 증가는 AI 반도체 공급망 다변화와 기술 혁신 가속화를 이끌 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "SK하이닉스도 챗GPT 도입 검토…삼성전자 이어 생성형 AI 업무혁신 가속",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PWGQ0OHdrNldYNm56Q3l4TTR0Nl9FWHlWVzFySTVxV1BIUXJFbE1nUzhJM2pqSGN3ZFFpd2RFNE9MQUdCbWx3SnFoRzRhV2libFVCMk0tQTQ4VG1SYUN1clZVQ3RDbnRJcFg0aGJB0gFuQVVfeXFMTU9YZDQ4d2s2V1g2bnpDeXhNNHQ2X0VYeVZXMXJJNXFXUEhRckVsTWdTOEkzampIY3dkUWl3ZEU0T0xBR0JtbHdKcWhHNGFXaWJsVUIyTS1BNDhUbVJhQ3VyVlVDdENudElwWDRoYkE?oc=5",
+    "source": "퍼블릭타임스",
+    "published": "2026-06-12",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "SK",
+     "ChatGPT",
+     "삼성",
+     "생성형 AI"
+    ],
+    "summary": "주요 기업들의 생성형 AI 도입은 AI가 기업 경쟁력 강화의 필수 요소로 자리 잡으며 산업 전반의 AI 전환을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+    "source": "Google Blog - AI",
+    "published": "2026-05-29",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Google",
+     "개인화 학습"
+    ],
+    "summary": "구글 AI 스튜디오를 활용한 감성 코드 퀴즈는 AI 개발 플랫폼이 개인화된 경험 창출 도구로 진화하며, 창의적 AI 활용 대중화를 가속화할 것임을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "[분석] 네이버-엔비디아 회동에 ‘카카오’ 왜 없나 했더니… “오픈AI 만난다”",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MNGRWNFJZNU5xb25wbU1rSjRwUHA4S2ZNbEVNazcxamtScXlUdGZsNV9vV3JEQjNMMXI2SWtVc0V5d0dseVdjTUV5R0lLZGlXOU9yejZaclFudTZqRWVzVU1OTmRFRDFjVmZVOA?oc=5",
+    "source": "이코노미톡뉴스",
+    "published": "2026-06-12",
+    "keyword": "오픈AI",
+    "topic": "industry",
+    "kind": "feature",
+    "entities": [
+     "네이버",
+     "NVIDIA",
+     "카카오",
+     "OpenAI",
+     "LLM"
+    ],
+    "summary": "네이버와 카카오가 각각 엔비디아, 오픈AI와 협력하는 것은 국내 AI 기업들이 LLM 개발 및 인프라 구축 전략을 다변화하며 AI 생태계 경쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "Google files first joint lawsuit with FBI over Chinese AI scam network, OpenAI blocks PRC influence clusters",
+    "url": "https://the-decoder.com/google-files-first-joint-lawsuit-with-fbi-over-chinese-ai-scam-network-openai-blocks-prc-influence-clusters/",
+    "source": "The Decoder",
+    "published": "2026-06-12",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "Google",
+     "저작권·소송",
+     "OpenAI"
+    ],
+    "summary": "AI 기술 오용에 대한 기업·정부의 공동 대응이 본격화되며, AI 산업의 보안 및 지정학적 윤리 기준이 강화될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "The AI industry's platform trap is starting to look a lot like Microsoft's",
+    "url": "https://the-decoder.com/the-ai-industrys-platform-trap-is-starting-to-look-a-lot-like-microsofts/",
+    "source": "The Decoder",
+    "published": "2026-06-12",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Microsoft"
+    ],
+    "summary": "AI 산업이 소수 플랫폼에 종속될 경우, 혁신 저해 및 시장 독점 심화로 생태계 전반의 경쟁력이 약화될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "[AI&빅데이터쇼] 산업 특화 AI 영상 분석 솔루션 '3대장' 각축전",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211671",
+    "source": "AI Times",
+    "published": "2026-06-12",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [],
+    "summary": "산업 특화 AI 영상 분석 솔루션 경쟁 심화는 AI 생태계의 전문화와 기술 발전을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

@@ -1,0 +1,416 @@
+{
+ "date": "2026-03-23",
+ "generated_at": "2026-11-02T11:53:53+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[사설] 경기교육감 후보 단일화 혁신연대에 필요한 혁신",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NQ3Y3T0s1WEJORF8xYkpOakIzUk5GSEpZUGJYQkF0TnRKTXIxeDZSRjhMMDJkbnNqRU9saGJwNGEweFZoYXpxdllzRGJGQWxjQ0ZDQWgxTlptWWc?oc=5",
+    "source": "경기일보",
+    "published": "2026-03-22",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [
+     "경기도교육청",
+     "교육감 선거"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 2,
+    "title": "[오상호 칼럼] AI시대, 경영인보험 전략",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9leTNRN3VpWTZrZVV5OFhna2hfd2lKV0xtVTc4WFNUUnZXSEdfYk5vYWNuS3ZHNGI2alBtMzNzeEV1eE9CMDlRcVhJcEk4YnpfXzh1SldXU1BVdlVLWFBFaHExWGNWY0g1dVV1UtIBcEFVX3lxTE56Ti0xRXNBZkNkdXBsUkRjS1ZDVS1tS21qMlV2M2tVYjlqanJEUE15bzdkYlpkUmxYbHNpZ2RoQkJNenk1VFVBWHhwNFM0Y0hWaWozSjlPT1dNQ29zajlxWkpkTk5XQlZxc2ZVZ240eEo?oc=5",
+    "source": "한국미디어창업뉴스",
+    "published": "2026-03-22",
+    "keyword": "디지털전환",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 3,
+    "title": "[전재학 칼럼] 어느 일반고 교사의 성찰이 던진 무거운 교육의 과제",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oc2s5cExuc0hZcThpWkVQaDNoWUJJLU4taEI3bUxMZGt4ejE5Y0NfSXRnZlc2LV9ScjVBcE9tbl9GeVAxUmxRU3ZsYkx4RWRreDJTY0xmeHYxOFVBVlFNZFRWQ3h4Y2M?oc=5",
+    "source": "교육플러스",
+    "published": "2026-03-22",
+    "keyword": "AI디지털교육",
+    "topic": "teacher",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 4,
+    "title": "[칼럼] 경기도 미래 전략산업의 핵심, 양자-반도체 융합산업 경쟁력 강화",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB0X1EwajNINk9oT3hPUzJBcDZSS3l4bS1ZY0xfUXlwQWVxT0VjUzluLVFiQU5uN2YzaXA3dWV6ZGdVS0lTTTQ0?oc=5",
+    "source": "정필",
+    "published": "2026-03-22",
+    "keyword": "미래기술",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [
+     "GPU·데이터센터"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 5,
+    "title": "[기고] 자율주행의 숨겨진 연료, 합성데이터",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjOGQweG5uWWpkdW1aYnJNc0pnTE9Qck9HRXl0TnZOZDU5cVpHZkZUMVNDZzNNVDF5VWQ2ZFMzRG1YbXVpZGNGSmNMeHFlS3hQX2Rj?oc=5",
+    "source": "네이트",
+    "published": "2026-03-22",
+    "keyword": "미래기술",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 6,
+    "title": "[손기서 칼럼] BTS 광화문 공연’ .. 교실 속 ‘국제공동수업’으로 이어져야",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=30028",
+    "source": "에듀프레스",
+    "published": "2026-03-22",
+    "keyword": "",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "2026년 3월 21일, 광화문 광장을 가득 메운 BTS 공연의 열기는 단순한 대중문화의 승리를 넘어선다. 최대 26만 명의 관람자들이 한국어로 아리랑 노래를 제창하고, 전 세계로 실시간 스트리밍을 통해 전 세계 청소년들이 물리적 거리감을 잊은 채 하나로 연결되는 장면은 가히 경이로웠다. 그곳에는 국경도, 인종의 장벽도 없었다. 오직 공감과 소통만이 존재했",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "뇌과학으로 본 골드베르크 변주곡…\"수학적 아름다움 깃든 곡\"",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yUDJkMUhHYXlsdE53Z0NnTnowMkZoVlpUcWxIN0pHMC1mTEhMOXAwZ0Uxc1FQYWxid1Fxbkw3ZGhQN3liU040Z1hXSHlRWHI5M19r?oc=5",
+    "source": "네이트",
+    "published": "2026-03-22",
+    "keyword": "뇌과학",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 8,
+    "title": "한국, 뇌과학·생체모방 센서 등 글로벌 생명과학 공동연구 수행",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Oa1RkN0p4aTlhQWxzN0tXMW9xNHlMWTRDNEhHODdCLV9hcXRtYkhoaXdBc0xScXg5cl9XV0otODBvNlNtQUdwQWRvVTJhVlNrcHhhbmZ0TndYc202emxiNzBvWjJ2QQ?oc=5",
+    "source": "뉴스1",
+    "published": "2026-03-22",
+    "keyword": "뇌과학",
+    "topic": "global",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 9,
+    "title": "​[응원의 뇌과학] 내가 WBC 한국야구를 안봐야~",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OdnBvR2xEcWUwQUk2aG9WRmNGbUxKN2hLUjRqM3NqQjh4WTQtbUl4RnhnbVNZSGNieFJJVkFzd2ZUX3FtLV9BUHZWWGVPR2ZjOGZN?oc=5",
+    "source": "브런치",
+    "published": "2026-03-22",
+    "keyword": "뇌과학",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   },
+   {
+    "n": 10,
+    "title": "경남교육감 예비후보들 '보건·소통·현장' 공약 경쟁 본격화",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02c1VWVjJ4Nk5wdWFxUi1kV2tGaDE0elAwZWJpTF9zWEIySmxibmxKYzN4Y2FEenZNbUctUk1xYlRYSXNxMzVjeXlVLUNFR0ZTX0Q0?oc=5",
+    "source": "네이트",
+    "published": "2026-03-22",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경남교육청",
+     "교육감 선거"
+    ],
+    "summary": "",
+    "implication": "",
+    "ai": false
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Enhancing mathematics education for students with special educational needs through generative AI: A case study in Greece",
+    "url": "https://www.semanticscholar.org/paper/c5176feb286e0e266032f5277c20d0ded1837bf3",
+    "source": "semantic_scholar",
+    "published": "2024-10-17",
+    "keyword": "educational AI",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "ChatGPT",
+     "특수교육"
+    ],
+    "summary": "본 연구는 그리스에서 ChatGPT 3.5를 활용하여 특수 교육 요구 학생 맞춤형 수학 학습 자료를 개발하고 9시간 수업에 적용한 결과, 학생들의 적극적인 참여와 긍정적인 태도를 확인했으며, 이는 교사와 정책 입안자에게 유용한 시사점을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ioannis Rizos, Evaggelos Foykas 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 2,
+    "title": "Educational Design Principles of Using AI Chatbot That Supports Self-Regulated Learning in Education: Goal Setting, Feedback, and Personalization",
+    "url": "https://www.semanticscholar.org/paper/c889cdd52db3ec7a8f8270ce80e010d2725aede2",
+    "source": "semantic_scholar",
+    "published": "2023-08-27",
+    "keyword": "educational AI",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제",
+     "ChatGPT",
+     "개인화 학습"
+    ],
+    "summary": "본 논문은 ChatGPT와 같은 AI 챗봇을 활용하여 학생들의 자기 주도 학습 능력을 향상시키기 위한 교육 설계 원칙으로 목표 설정 프롬프팅, 자기 평가 및 피드백, 개인화를 제시하고, 짐머만의 자기 조절 학습 프레임워크를 적용하여 AI 기반 교육 및 교수 설계에 대한 지침을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Daniel H. Chang, M. P. Lin 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 3,
+    "title": "Brave New Digital Classroom: Technology and Foreign Language Learning",
+    "url": "https://www.semanticscholar.org/paper/0029be8865fc1b530bc38feebc6403b1d98e14fd",
+    "source": "semantic_scholar",
+    "published": "2020-02-20",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "Blake의 \"Brave New Digital Classroom\"은 외국어 교육에서 기술 활용의 이론적 근거와 성공 사례를 종합적으로 제시하며, 상호작용 모델에 기반하여 기술이 학습 기회를 확장하고, 교육 과정 개발 및 교사에게 유용한 지침을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "R. Blake",
+    "pdf": ""
+   },
+   {
+    "n": 4,
+    "title": "Investing Time in Technology: Teachers’ Value Beliefs and Time Cost Profiles for Classroom Technology Integration",
+    "url": "https://www.semanticscholar.org/paper/40b1acabc39fb8db22158cf5fd78eafc7059b30e",
+    "source": "semantic_scholar",
+    "published": "2020-12-01",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 미국 고등학교 교사들의 기술 가치 신념과 시간 비용 인식을 잠재 프로파일 분석을 통해 유형화하고, 이러한 유형이 교실 내 기술 활용, 특히 핵심적인 교육 활동에 미치는 영향을 분석하여, 교사 교육 및 연수 프로그램 설계에 시사점을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Vanessa W. Vongkulluksn, Kui Xie 외 1명",
+    "pdf": ""
+   },
+   {
+    "n": 5,
+    "title": "Usage of Digital Educational Resources in Teaching Students with Application of “Flipped Classroom” Technology",
+    "url": "https://www.semanticscholar.org/paper/5ca9a3e0230b5ec3a0626d8bd8245ebe233e79be",
+    "source": "semantic_scholar",
+    "published": "2020-10-08",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 플립 러닝을 활용한 디지털 교육 자료의 효과를 분석하고, ICT 기반의 새로운 교수법이 학생들의 만족도와 교육 수준 향상에 기여함을 설문조사 및 사례 연구를 통해 입증하여, 고등 교육 과정 개발에 활용될 수 있음을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "A. Drozdikova-Zaripova, E. Sabirova",
+    "pdf": ""
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "MS, 이미지 모델 ‘MAI-이미지-2’ 출시...아레나 리더보드 3위 진입",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208184",
+    "source": "AI Times",
+    "published": "2026-03-22",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Microsoft",
+     "영상·이미지 생성",
+     "생성형 AI"
+    ],
+    "summary": "MS의 MAI-이미지-2 출시는 이미지 생성 AI 경쟁 심화와 함께 창작 분야 협업을 통한 기술 발전 가능성을 보여주는 사례입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "KAIST, 모터 없이 원래 형태로 돌아가는 '로봇 손' 개발",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208185",
+    "source": "AI Times",
+    "published": "2026-03-22",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "로봇·휴머노이드"
+    ],
+    "summary": "KAIST의 로봇 손 개발은 복잡한 구동 장치 없이도 작동 가능한 소프트 로봇 기술의 혁신을 가속화하여 다양한 산업 응용 가능성을 넓힐 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "MS, 윈도우에서 '코파일럿' AI 기능 축소...\"사용자 편의에 집중\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208172",
+    "source": "AI Times",
+    "published": "2026-03-21",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Microsoft"
+    ],
+    "summary": "MS의 코파일럿 기능 축소는 AI 기능의 실질적 효용성에 집중하고, 사용자 편의성을 높이는 방향으로 AI 기술 개발 전략이 전환될 수 있음을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[체험기] ‘무료’ 서비스로 5분 만에 AI 크리에이터 되는 법",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208187",
+    "source": "AI Times",
+    "published": "2026-03-22",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [],
+    "summary": "AI 기반 콘텐츠 제작 도구 접근성 확대로 개인의 창작 활동 참여는 쉬워졌지만, 수익 창출 및 차별화된 경쟁력 확보 전략이 중요해지는 시점입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "아마존, 12년 만에 스마트폰 시장 재도전...음성 기반 AI 장치 개발 중",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208176",
+    "source": "AI Times",
+    "published": "2026-03-21",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Amazon"
+    ],
+    "summary": "아마존의 음성 기반 AI 스마트폰 재도전은 AI 플랫폼 경쟁 심화와 새로운 사용자 인터페이스 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "커서의 코딩 모델은 문샷 '키미 K2.5' 미세조정 버전...\"모델 재활용의 순환\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=208189",
+    "source": "AI Times",
+    "published": "2026-03-22",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "코딩 AI",
+     "Moonshot",
+     "오픈소스"
+    ],
+    "summary": "오픈 소스 모델 재활용과 미세 조정 전략은 AI 모델 개발 비용을 절감하고 접근성을 높여 산업 성장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "Prompt Caching with the OpenAI API: A Full Hands-On Python tutorial",
+    "url": "https://towardsdatascience.com/prompt-caching-with-openai-api-full-hands-on-python-tutorial/",
+    "source": "Towards Data Science",
+    "published": "2026-03-22",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "AI 튜터"
+    ],
+    "summary": "OpenAI API의 프롬프트 캐싱 기술은 AI 애플리케이션 성능 향상 및 비용 절감에 기여하여, 관련 기술 개발 및 도입을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "고려사이버대, ‘생성형 AI 활용 지침’ 제정...교육·연구·행정 전반에 윤리적 AI 활용 기준 마련",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TYlpjeXozRGRWekE1UFN5aGE5bUxJMFBWSGVHRklVT0dIRC1ZOWU1S1UwUEhTZ2lmM1piM3Q4dTNBX1BKSFZZWEJJOGVTY01vSnZScHI1WlF3LXNaOVV2TEw1WFNZYVE?oc=5",
+    "source": "인공지능신문",
+    "published": "2026-03-22",
+    "keyword": "생성AI",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "AI 안전·규제"
+    ],
+    "summary": "고려사이버대의 AI 활용 지침 제정은 대학 교육 현장에서 AI 윤리 정립의 선례를 만들어 AI 기술의 책임감 있는 발전에 기여할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "오픈소스 AI vs 클로즈드 AI",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YYzEyWEJ4cml4WS05dS0tdFgyaXpDQW5sdk1ZM0V2aXNXUWtMNW9qenFqVmk2MGJNeXlxLUhZa3d4WXVmSGNBRzBHQ08yTFFhZTRtU0k1TVR0UQ?oc=5",
+    "source": "경북매일",
+    "published": "2026-03-22",
+    "keyword": "오픈AI",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "오픈소스"
+    ],
+    "summary": "오픈소스 AI와 클로즈드 AI 간 경쟁은 AI 기술 혁신 가속화와 동시에 산업 주도권 및 생태계 다양성 확보에 중요한 변곡점이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "자율 AI 레드팀 툴 '펜트AGI' 오픈소스로 공개…모의해킹 업계 뒤흔드나",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXZ01Cb1VUaDVVRHUtSTU5ZzNYYWtqT3VaUGNOQU1Gano3Rm9EUkgwc2ZiUzk3XzRXeUVjWUJjZmxLTGFSN09DNXlkbW5ycWt3Mlo0aFd3dzlqTDdTLTZXcGZVdjZqTmRIUG1HTnFtWHlBUkE?oc=5",
+    "source": "디지털투데이",
+    "published": "2026-03-22",
+    "keyword": "오픈소스",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "오픈소스"
+    ],
+    "summary": "펜트AGI 공개는 AI 보안 취약점 자동 분석 시대를 열며, 모의 해킹 효율성을 높이고 AI 보안 경쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {
+  "tech": "AI 기술 경쟁이 심화되는 가운데, 새로운 모델 출시, 하드웨어 혁신, 사용자 편의성 강화, 윤리적 사용 기준 마련, 오픈소스 생태계 확장 등 AI 기술이 다방면으로 발전하며 더욱 긍정적인 방향으로 나아가고 있다."
+ }
+}

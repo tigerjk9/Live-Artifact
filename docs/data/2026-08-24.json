@@ -1,0 +1,418 @@
+{
+ "date": "2026-08-24",
+ "generated_at": "2026-11-02T11:42:06+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[빅테크칼럼] \"사기꾼 10명 몫 해내는 '에이전틱 AI' 등장\"…사기의 자동화·보이스피싱의 무인화 '빨간불'",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fdmdGckNTWFpneU5YdUJ0SFluYmhuNmxPR0ZSVmhFT1dyNEVIZXJYUHA1Wm9tcmN2ZEFzLWZGUDk1UjgyeGN3N0hNbWQzaWFCZG5iOVpTYVNldkU?oc=5",
+    "source": "뉴스스페이스",
+    "published": "2026-08-23",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "에이전틱 AI의 등장은 사기 행위 및 보이스피싱을 자동화·무인화하여 사회적 우려를 증폭시키고 있습니다.",
+    "implication": "학생들과 에이전틱 AI 기반 신종 사기 유형을 분석하고, 예방 및 대처 방안을 함께 토의할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "임종식 경북교육감 “학생 수만으로 교육의 미래를 재단해서는 안 돼”",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE15YU1rTmJLbmJteWp6MzJSbnM5NjVnVkJDNjRLYThrb2h4eHBKeFpuZ3lMd0NYcG5YNGxJbmpoM3F5YjNEeEp2ZDRjTWlNS1l6WWhwM2RFX1VZd2NZVnJibmNuZy1XbmViZzhoNEcxb9IBb0FVX3lxTE15YU1rTmJLbmJteWp6MzJSbnM5NjVnVkJDNjRLYThrb2h4eHBKeFpuZ3lMd0NYcG5YNGxJbmpoM3F5YjNEeEp2ZDRjTWlNS1l6WWhwM2RFX1VZd2NZVnJibmNuZy1XbmViZzhoNEcxbw?oc=5",
+    "source": "서울일보",
+    "published": "2026-08-23",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경북교육청"
+    ],
+    "summary": "임종식 경북교육감은 학생 수만으로 교육의 미래를 판단해서는 안 된다는 입장을 밝혔습니다.",
+    "implication": "교육의 미래는 단순히 숫자가 아닌 여러분 한 명 한 명의 성장과 가능성에서 찾을 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "소셜앤비즈, 프로젝트형 생성형AI 교육 결실, ‘배움’ 넘어 출판·브랜딩으로…『시간이 써 내려간 나』 시화집 출간",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vNWcwZGZDVU1WOXYzMjhQYU4zUU5KdlpZREN5bkNhSExYWWhGbmNRVGhFanpmc2ZTV2V4ZU9CbmhvYkNoa0lXU2E2ZVp2clFka29rOUJRTC1zMEs5cVlqbXY5bVF0SFhBdEVnUA?oc=5",
+    "source": "파이낸스투데이",
+    "published": "2026-08-23",
+    "keyword": "AI교육",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "소셜앤비즈의 프로젝트형 생성형 AI 교육이 단순 학습을 넘어 시화집 출판과 브랜딩 결실을 맺었습니다.",
+    "implication": "학생들이 생성형 AI 프로젝트를 통해 시화집 출판이나 브랜딩처럼 실질적인 결과물을 만들 수 있도록 지도할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "타이닌: 피드백 수신 및 처리에 있어 디지털 상호작용 채널 활용.",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYndRZ1I5UE5wMU9jRHkyWFNNblJQeU10T21PcWhaRXFCNTlscEpxVzdKUDdKM2tvY2xKeFRWVGtGRWtBMnd5MURKbDVKcnlnMmRMZHFoX2JQWEoySk5mSG1walJ5eVoxLURrOTdocEtNa2t0T3hpaXBramZiQVpIUjcxTkhFUG94XzRjOTRKTThRM1NvT2c5d29Gc3dDQQ?oc=5",
+    "source": "Vietnam.vn",
+    "published": "2026-08-23",
+    "keyword": "디지털전환",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "타이닌 지역에서 피드백 수신 및 처리에 디지털 상호작용 채널을 활용한다는 내용입니다.",
+    "implication": "학생 피드백을 디지털 채널로 받아 수업 개선에 효과적으로 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "에이전틱 AI 시장 연평균 40% 성장...업무 보조 넘어 자율 실행 경쟁",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlVlotUnc2UGNKamFxNXdvOGpXMGhQazhIRktia1lYdFVtaHE3dEpRUHgtVHg2S3M3OG1NSE1UeGJmM3JmM1UzN2tTVkkyYm9qWEJYMm15TnZMaEdkQjhERGd5X1B4QTQ2clE?oc=5",
+    "source": "지티티코리아",
+    "published": "2026-08-23",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "에이전틱 AI 시장은 연평균 40% 성장하며, 업무 보조를 넘어 자율 실행 경쟁으로 전환되고 있습니다.",
+    "implication": "학생들과 함께 에이전틱 AI의 발전 방향과 실제 활용 사례를 탐구할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "[배종찬의 빅데이터] ‘에이전틱AI vs 자율보안’, 누가 이길까",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fMlU1bnhRYkFmc1h3QWNva3BMLVNLa1NOcmxlWW1DbWV3R0tHdEFEcHFtTWdsSG9BcUplMVFLT1VjaXZRMnVqUEJtd1BBS3FWaDBlUUlON0lKR3B3dEdKOHRQSXJoU1hpRG80?oc=5",
+    "source": "보안뉴스",
+    "published": "2026-08-23",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "에이전틱AI와 자율보안 중 어느 쪽이 우세할지에 대한 질문을 다룹니다.",
+    "implication": "학생들과 에이전틱AI와 자율보안의 대결 구도를 통해 미래 기술의 사회적 영향을 토론할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "국산 NPU부터 AI 에이전트까지… AI 생태계 경쟁 ‘치열’",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BSjhEdTE3aVBvOFZvcWFELU9sTTRLLWNOMHFaVld4OGN4Q1Z0ODJEa2oyOEZrc0dUdWVqV3RLT1A3OWRiRkI2ajNTYzNETUYzLWptdWRXa1F6MFUtSE5ZUk1qWG5EMHhuWEE?oc=5",
+    "source": "천지일보",
+    "published": "2026-08-23",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "AI 생태계 내 NPU부터 AI 에이전트까지 다양한 분야에서 경쟁이 치열합니다.",
+    "implication": "학생들이 AI 생태계의 다양한 기술 분야와 발전 속도를 이해하는 자료로 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "AI 에이전트 자격증명 남용 막는다...업무 실행할 때만 권한 부여",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKcjloanBhUEprNGx3azNROWdRV3QySXF4NHBTM1VGUTVabFJ0Qm9xMjdhekdubUNJTnVibzBESGY0TUF2dGRZYjE2QWl2S2paUWVJQW40T05jWlc4NzhhYzZkNWZfcl9hSEE?oc=5",
+    "source": "지티티코리아",
+    "published": "2026-08-23",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "에이전트",
+     "AI 안전·규제"
+    ],
+    "summary": "AI 에이전트의 자격증명 남용을 막기 위해 업무 실행 시에만 권한을 부여하는 시스템이 도입됩니다.",
+    "implication": "학생들과 AI 윤리 및 보안의 중요성을 토론하는 자료로 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "암호화폐의 다음 10억 사용자는 AI 에이전트일 가능성이 높으며, 이들은 스테이블코인으로 결제하고 있습니다",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaWJkZWlaaVVUVkctd0I2REp0Ni1IZWxJbHhPaVZHdTRrTHNzdWZQbEd4YkpXMFZnVWZFUnhHSy10bTNDbjI4TEdvSW12VE9nN20xNzlEdmR5Um9JdGdSSHJESW9jbnR3UXRPZ2NSV3paQ2szd1U3N0RHNkF3em1EWjliTjZTbDBhUmhiTzNTNksyVnRVSnE1a1RxYnEySEF6MWMyMTBQb21JUEI1YUp6QmhzWXF2RUxBN01JRDJvMWhmdjc4djJDQU1R?oc=5",
+    "source": "CoinDesk",
+    "published": "2026-08-23",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "암호화폐의 다음 10억 사용자는 AI 에이전트일 가능성이 높으며, 이들은 스테이블코인으로 결제하고 있습니다.",
+    "implication": "AI 에이전트가 결제에 참여하는 미래 사회의 경제 시스템을 함께 고민할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "경남교육청, 교사 평가 전문성 높여 ‘배움 잇고 미래 연다’",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Ed1A2eTIwa1kxSVhTQVlEXzhvcWFRZjR3UEY3cldwSDY1SVFFU2pWRE9oQzFUcEJHdHdDemV2WXR5ZVFZMWNlTl9RVEpMVjBiYlBKdGZ4RlotT1VFLVZRemE2YWhDcU9kMDNr?oc=5",
+    "source": "경남일보",
+    "published": "2026-08-23",
+    "keyword": "과정중심평가",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "경남교육청"
+    ],
+    "summary": "경남교육청은 교사 평가 전문성을 높여 배움을 잇고 미래를 여는 교육을 추진합니다.",
+    "implication": "앞으로 수업 개선을 위한 구체적 피드백을 평가 과정에서 얻을 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "ICT teaching-learning practices and barriers in rural secondary schools of Bangladesh",
+    "url": "https://doi.org/10.20897/apjes/19181",
+    "source": "openalex",
+    "published": "2026-08-20",
+    "keyword": "edtech",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "방글라데시 농촌 중등학교에서 ICT 교육의 교실 실습 부족, 교사 역량 및 인프라 한계를 질적 연구로 규명하여, 자원 취약 지역의 포괄적 ICT 교육 정책 마련에 중요한 통찰력을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Md. Sourav Hasan, Iffat Naomee",
+    "pdf": "https://www.lectitopublishing.nl/download/ict-teaching-learning-practices-and-barriers-in-rural-secondary-schools-of-bangladesh-19181.pdf"
+   },
+   {
+    "n": 2,
+    "title": "Design and Evaluation of an Intelligent Adaptive Learning System Using Generative Artificial Intelligence",
+    "url": "https://doi.org/10.3991/ijim.v20i16.62678",
+    "source": "openalex",
+    "published": "2026-08-21",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습",
+     "생성형 AI"
+    ],
+    "summary": "생성형 AI 기반의 지능형 적응형 모바일 학습 시스템을 설계, 개발 및 평가한 결과, 맞춤형 학습 경험을 제공하여 학습자의 동기, 이해도 및 학업 성과를 크게 향상시켜 교육 혁신에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Jayaprakash Sunkavalli, Nishant Kumar 외 1명",
+    "pdf": "https://online-journals.org/index.php/i-jim/article/download/62678/17387"
+   },
+   {
+    "n": 3,
+    "title": "Exploring Strategies for Motivating and Engaging Secondary School Students in Mathematics in Khana Local Government Area of Rivers State, Nigeria",
+    "url": "https://doi.org/10.46654/86krj783",
+    "source": "openalex",
+    "published": "2026-08-21",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "나이지리아 카나 지역 중등 학생들의 저조한 수학 학습 동기 및 성취도 문제를 해결하고자, 자기결정성 이론에 기반하여 기술 활용, 보상, 협력 학습 전략을 분석하고 학생 중심의 교수법 전환을 통해 학습 효과를 높일 것을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Mene Godd Deeyah, Godwin Alo Odili",
+    "pdf": "https://www.openjournals.ijaar.org/index.php/ijend/article/download/2235/2269"
+   },
+   {
+    "n": 4,
+    "title": "Development of a Scratch-Based Learning Application for Arithmetic Operations: An ADDIE Model Approach",
+    "url": "https://doi.org/10.65820/ejes-16vol2-issue2-2026",
+    "source": "openalex",
+    "published": "2026-08-22",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "ADDIE 모델로 스크래치 기반 사칙연산 학습 앱을 개발하고 이해관계자 인식을 조사하여 초등 수학에 디지털 도구 통합을 위한 교수 설계 지침을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Novia Setyoningtyas, Sri Utaminingsih 외 1명",
+    "pdf": "https://journal.elicitpublisher.com/index.php/ejes/article/download/236/99"
+   },
+   {
+    "n": 5,
+    "title": "Tabletop: An Experiential Approach to Teach Sport",
+    "url": "https://doi.org/10.1123/smej.2021-0020",
+    "source": "eric",
+    "published": "2022-01-01",
+    "keyword": "backward design",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 스포츠 교육에서 학습 목표 기반의 역방향 설계와 실질적인 경험 학습인 테이블탑 활동을 결합하여 학생들의 비판적 사고, 의사소통, 창의성, 협업 능력을 향상시키고, 그 구현 방법 및 강사 준비 사항을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Samad, Moetiz",
+    "pdf": "https://doi.org/10.1123/smej.2021-0020"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "오픈AI, GPT-5.6 Sol API·크레딧 가격 20% 이상 인하…3개월 한시 적용",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVX2NfQ3VVVExlcVhZLTdWb0pEbjRKS1lJQUc0VzBJOWlzYWVfcm5BUElkSEVZemdCOHdpVTF3Uk1nYzU4NFdzN1NjZ1F2VzdwME5GYndsTzBBU2pBZEpkc1Q4ZkIxSEk?oc=5",
+    "source": "인공지능신문",
+    "published": "2026-08-23",
+    "keyword": "GPT",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "오픈AI의 일시적인 가격 인하는 AI 서비스 확산과 경쟁 심화를 촉진하며, 개발자와 기업의 AI 활용을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "리퀴드 AI ‘디스파크’, 메모리 병목 뚫었다…소형 모델이 미리 쓰고 대형 모델이 검증",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214258",
+    "source": "AI Times",
+    "published": "2026-08-23",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "리퀴드 AI의 하이브리드 모델 접근법은 메모리 병목을 뚫어 대규모 AI의 비용 효율적 배포와 산업 전반의 AI 도입을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "\"중소형 모델로 빅테크 압도\"...인히어런트, '연구 감각' 갖춘 AI 과학자 선보여",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214255",
+    "source": "AI Times",
+    "published": "2026-08-23",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "AI의 연구 감각을 통한 중소형 모델 개발은 AI 기술 생태계의 다양성과 효율적 혁신을 가속화하며 경쟁 구도를 재편할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "샤오미 '미모-V3-프로' 유출 스크린샷 논란…\"코딩·에이전트 최상위권\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214264",
+    "source": "AI Times",
+    "published": "2026-08-23",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "코딩 AI",
+     "에이전트"
+    ],
+    "summary": "샤오미의 최상위권 코딩·에이전트 AI 모델 등장은 AI 기술 생태계의 경쟁 심화와 실용적 응용 확대를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "\"AI 모델 해킹 사고 때문?\"…오픈AI, 캘리포니아 AI 규제법 지지로 급선회",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214257",
+    "source": "AI Times",
+    "published": "2026-08-23",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "AI 안전·규제"
+    ],
+    "summary": "오픈AI의 규제 지지는 AI 모델 해킹 우려로 인해 AI 산업 전반에 보안 및 책임 규제 도입을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "[\"엔비디아도 못 버텼다\"… 메모리 가격 폭등에 AI 서버 최대 15% 인상 예고] MS·구글 등에 인상 통보… 삼성·SK하이닉스 등 메모리 반도체 업계 막강한 협상력 입증",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5rckt5RjREZmRDWE1NUVNkVV9tVkt3TGtycUdJTzVsSnkyRGhxUmdBT3NORnlMQW0yWENtVmV2WHo?oc=5",
+    "source": "AI넷",
+    "published": "2026-08-23",
+    "keyword": "구글",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "Microsoft",
+     "Google",
+     "삼성",
+     "SK",
+     "GPU·데이터센터"
+    ],
+    "summary": "AI 서버 비용 인상은 메모리 반도체 공급망이 AI 기술 생태계 발전과 확산에 핵심 병목으로 작용할 수 있음을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "\"LLM보다 하네스가 핵심\"…엔비디아 AVO, 장기 에이전트 가능성 입증",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qRHR4ZDhNeS14eThmWFpRaUZfNW90ejRVeTgxZTBrRWplbF93eG1KaTBrUHdtREpDNkN1d1o2eFpVSHhuQWdmMjd1cDVjcld0cVhEQTI0c01kRlMwcFFFQTFSNFBIWFp3Tnc?oc=5",
+    "source": "AI타임스",
+    "published": "2026-08-23",
+    "keyword": "LLM",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "에이전트",
+     "LLM"
+    ],
+    "summary": "엔비디아가 LLM '하네스'를 통한 장기 에이전트 가능성을 입증하며, AI 산업의 핵심 경쟁력이 모델 자체보다 시스템 통합 및 활용 능력으로 전환될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "The builder’s guide to GPT‑5.6",
+    "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+    "source": "OpenAI Blog",
+    "published": "2026-08-13",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.6 빌더 가이드는 개발자들의 고급 AI 활용을 촉진하여 AI 기술의 실질적 적용과 산업 생태계 성장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "Testing ads in ChatGPT",
+    "url": "https://openai.com/index/testing-ads-in-chatgpt",
+    "source": "OpenAI Blog",
+    "published": "2026-08-11",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "ChatGPT의 광고 도입은 AI 서비스의 새로운 핵심 수익 모델을 제시하여 산업 생태계 확장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "엔비디아, ‘3조 몸값’ 리벨리온 인수 검토··솔트룩스, AI반도체·LLM 공동사업 파트너 부각",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5waXVjSkVYd0J3a1c5Y1N2ZU9vUWRUNlBaWnZYZldmaFRJY1VMRnJzQlcxSF9Ma2REVXFvSldLT25iSFZDTnliWGtMRTlaTEEybXZ4SlcyYkc2X1dKTWVTZnBYN2djN1NhMElSajdPOTJlV2c?oc=5",
+    "source": "데이터투자",
+    "published": "2026-08-23",
+    "keyword": "LLM",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "GPU·데이터센터",
+     "LLM"
+    ],
+    "summary": "엔비디아의 AI 반도체 시장 지배력 강화 시도와 솔트룩스의 LLM-하드웨어 협력은 AI 기술 생태계의 수직 통합 및 경쟁 심화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}

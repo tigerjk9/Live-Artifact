@@ -1,0 +1,165 @@
+{
+ "date": "2026-02-01",
+ "generated_at": "2026-11-02T11:51:33+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[2026 '하이러닝' 칼럼②]AI는 선생님을 대체할까, 도울까? 경기도 교실에서 찾은 해답",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBoMndLSEYzN2hxY3hxMTZ1aFZxQlJzeENuOENvcUVZQmtjbHN1VTBkZzJwdzlWZ1FuWElzQUNCR1ZyZ2l1eVoybTM4aVB2emJDeEEzWkRTRFIxYkV5QmVsN1dGMnp4Zw?oc=5",
+    "source": "교육을 비추다",
+    "published": "2026-01-31",
+    "keyword": "에듀테크",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "AI를 교사의 대체재가 아닌 효과적인 조력자로 활용하는 하이러닝 모델은 개별 맞춤 교육과 교사의 역량 강화를 통해 교육 혁신을 가속화할 수 있습니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "[기고] 한국폴리텍대학 광주캠퍼스 지능형에너지설비과 \"AI 시대, 산업현장과 교육현장을 잇는 가교로 서다\"",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtX2p1T3laWmZQcVhleU4tbVNIeHVlblVhQW5lQ2RmcHM0YmotYm9oNXZib2lIdjNmOUN0UW5ZZUlXYjdqUHRrSUVqakdjSUs2N1Q4amNXazh4ZFRFeWc5SW1hWXg3blJ3TkE?oc=5",
+    "source": "냉동공조저널",
+    "published": "2026-01-31",
+    "keyword": "AI교육",
+    "topic": "higher_ed",
+    "kind": "opinion",
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "한국폴리텍대학 광주캠퍼스의 사례는 AI 시대에 산업 수요 맞춤형 교육과정 개발 및 운영의 중요성을 보여주는 본보기입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "사설",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1jYldNdGVxYV84MzFUaVZma3JDX29oZ0xPWExZNnkzMjBYamZGQnZiS09yc2FEc0VXdUpZZ0k2a05EbGJHaUJZeEY2WnpveEM4alZmN09pQjdOQ29N?oc=5",
+    "source": "동아일보",
+    "published": "2026-01-31",
+    "keyword": "AI교육",
+    "topic": "teacher",
+    "kind": "opinion",
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "해당 사설의 내용은 제시되지 않았지만, 교육 전문가 관점에서 볼 때, 사설의 주장은 교육 정책 및 현장에 대한 심층적인 분석과 함께, 변화에 대한 적응력을 높이는 교사 연수 강화의 필요성을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "[박철웅의 컬처칼럼] 기계는 답하고, 인간은 묻는다",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OZnpwSkVHeG1JNnA2dFhoQXZJMkQzVE01ckdOb3I1S2c0eEYtNVFDMGR0THZTWVJfcldiaThyd1AtUU9xWGVjTl85d3YydWpGd3loMzRtUDVXU1FINmpPRHh4X2pteVhk?oc=5",
+    "source": "르몽드 디플로마티크",
+    "published": "2026-01-31",
+    "keyword": "미래기술",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "기계적 지식 습득을 넘어 인간 고유의 질문 능력과 비판적 사고력을 키우는 교육으로 전환해야 함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[한국정보보호학회 칼럼] 고립된 우주는 없다: 뉴스페이스 시대, 궤도 위의 보안 패러다임 전환",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9maXY1VTR4VXJCYkRVSkJ3QVZGd1l5cjNyTHdxWC1ieWZIaFRtbjRxSWFkdVZDc2pHZmZVeTdwWV81WTZqR29IdVJFMkJzMWJjYlFmV2NaQ3lQd0FCVnVrajVrSkFZdEQ2YVlzWVFOQUQ?oc=5",
+    "source": "보안뉴스",
+    "published": "2026-01-31",
+    "keyword": "미래기술",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "뉴스페이스 시대의 궤도 보안 패러다임 전환은 미래 교육이 사이버 보안 및 우주 기술 융합 인재 양성에 더욱 집중해야 함을 시사합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "[칼럼] \"기도하자\"... 2026 희망의 대한민국을 위한 한국교회 연합기도회에 부쳐",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XWXU0MzNHcTZEUUZSV0tBQ0NTLV9GVnczUkF5bFJHZGRZMXJudnVFdEpSekw2U2xqVFNqemE0bHRJcWJVcF9yNUc5eUtTa2tEdDU4S0RfMGwxMWYwODBFb1BHSEtYWm5mT043MW93TQ?oc=5",
+    "source": "프리진뉴스",
+    "published": "2026-01-31",
+    "keyword": "뇌과학",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "특정 종교계의 연합기도회가 교육 현장에 미칠 영향은 미미할 수 있으나, 사회 전체의 통합과 공동체 의식 함양 노력은 교육에도 긍정적인 영향을 줄 수 있다는 점을 고려해야 합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "與 \"국민의힘, 민주시민교육 근거 없는 이념 공세… 정치화로 호도 마라\"",
+    "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2254321",
+    "source": "대전일보",
+    "published": "2026-01-31",
+    "keyword": "",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "민주시민교육을 둘러싼 정치적 공방은 교육 현장에서 균형 잡힌 시민 의식 함양을 저해하고, 교육의 본질을 흐릴 수 있다는 점에서 우려됩니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "교육부, 지방선거 앞두고 고3 유권자 선거교육… 가짜뉴스·확증편향 교육도",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50djl1R2t6Wm41S3hRd1hfTWN2Qm1sajh4SVRESXlaOGRma3FxYmdNRW5wanQyTkxtNkZrdzk2TmlnMmhiM2JBR1BWaWlRTGNEb3NwWnpKZC3SAVRBVV95cUxPa0g5alI2bFgtTVpPVS1SaXBtRHZaUkdJMEFjRHNacXhaaGpVZUZackVTdG1XalVKTzh6WWNmZGJVMV93Y3A2cUhOQWdkN3hFWEVkX3I?oc=5",
+    "source": "segye.com",
+    "published": "2026-01-31",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "고3 유권자 대상 선거 교육은 민주시민 역량 함양에 기여하나, 교육 내용의 정치적 중립성 확보가 중요합니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "울진군, 지역 맞춤형 교육정책 추진",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14ZXBKdkpRTVFMQWkzOVNGWmZpcGwzWnZVWHJLWXNoa2Z5Y1d4YUs1cEpwYmpPZ1h3a0YzUkxtdW8weXRxY3hJSFJ4dTRxZlIxXy0xdFRLdnBRLTZfVzhvdXJwVlNUcnM1?oc=5",
+    "source": "환경일보",
+    "published": "2026-01-31",
+    "keyword": "AI디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "울진군의 지역 맞춤형 교육정책은 지역 특성을 반영한 교육 모델 구축의 가능성을 보여주는 사례로서, 타 지역에도 시사하는 바가 큽니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "울산교육청, 2026학년도 초등학교 학급편성 확정",
+    "url": "https://www.lecturernews.com/news/articleView.html?idxno=195920",
+    "source": "한국강사신문",
+    "published": "2026-01-31",
+    "keyword": "",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "울산시교육청",
+     "개인화 학습"
+    ],
+    "summary": "울산교육청의 학급당 학생 수 감축 결정은 학생 맞춤형 교육 강화의 긍정적 신호탄이나, 교원 수급 및 교육 시설 확보라는 과제를 동시에 안게 되었습니다.",
+    "implication": "",
+    "ai": true
+   }
+  ],
+  "paper": [],
+  "tech": []
+ },
+ "fallback": {},
+ "notes": {
+  "edu": "AI 시대, 교육은 교사의 역할 변화, 산업 연계 강화, 맞춤형 교육 확대, 민주시민 교육 강화 등 다각적인 변화를 통해 미래 사회를 위한 인재 양성에 박차를 가하고 있습니다."
+ }
+}

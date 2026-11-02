@@ -1,0 +1,423 @@
+{
+ "date": "2026-07-03",
+ "generated_at": "2026-11-02T11:39:15+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "경남교육청, 유아교육 디지털 전환 연수…AI 중심 교육과정 운영 강화",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zUXdCQ2dWcW5YQUN6Z0ZqRFBUQXEwVmhoSUVZWk5VdG1kWE16MDhkSVc1ckJEbC1rOUhwdXhxM1hUbFpYNDRwUGpWZnpWX2lfY19laHl0RHppOFY1?oc=5",
+    "source": "뉴스핌",
+    "published": "2026-07-02",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경남교육청"
+    ],
+    "summary": "경남교육청이 유아교육 디지털 전환 연수를 통해 AI 중심 교육과정 운영을 강화합니다.",
+    "implication": "유아 교육 현장에서 AI 기반의 새로운 디지털 도구를 수업에 적용할 기회를 얻을 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "정근식 서울시교육감 2기 일성 “기초학력·마음건강·AI교육 강화”",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40UTRmbUt0dnVkR2JmeEtvR2FsUXdUVGdRYVJMVlFzbGJhNGVqTzQ3R0Ywb3NxOEwyQWxTbVNxVDlCQjBhX0VkMGZ1ZWVTam91cjNMRHQ3dkJUX2dhUVgyUkh2Y2Y3Y1Jyc0ZsRjhR?oc=5",
+    "source": "베이비타임즈",
+    "published": "2026-07-02",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "서울시교육청",
+     "마음건강"
+    ],
+    "summary": "정근식 서울시교육감은 2기 역점 과제로 기초학력, 마음건강, AI 교육 강화를 발표했습니다.",
+    "implication": "기초학력, 마음건강, AI 교육 강화 정책을 활용하여 수업 내 다양한 지원 및 활동을 계획할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "권순기 경남교육감 취임…학력·복지 강화 등 5대 교육혁신 제시",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yeEN0NWNwaEZKcGZXTFFDQ1VianNjZ2M5blR6TlRrSHlpV1JXTTQteExrM1VxNlpERE1TOXdjbTRXdnJ3QWRZcFZsdkphSjBaOGZ3UC0tbGNHbEF4a1UySVpZVUlvRnhkMU5LeU93X2VTaW_SAXdBVV95cUxNMU9HT2RlODRwRmRpaWtVMEhyVE9aOXMzQkw3aXp3dU9yX240NllkLXdJUlV3LW9sSlU5Z0VfeVpVNG94Y0tMbjJqVWlxUkl2TWs2T1M5NVhrUXJvUnNpcHpOcGQ4a0NqUi00cWlFb2t6TURuR0Zucw?oc=5",
+    "source": "뉴스프리존",
+    "published": "2026-07-02",
+    "keyword": "교육혁신",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [
+     "경남교육청"
+    ],
+    "summary": "권순기 경남교육감이 취임하며 학력·복지 강화 등 5대 교육혁신을 제시했습니다.",
+    "implication": "학력 및 복지 강화 기조에 따라 학생 개개인의 학습 수준과 정서적 지원을 고려한 수업을 계획할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "경기도교육청, 2022 개정 교육과정 사회·과학 융합 선택 과목 자율연수 실시 > 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iWDZERW1DVWFBaUtwZlRqV0VBenZyOS1QVmRfdW5OMVNmNnlWdVQ3MDRNX1FuN3ZQMzJKU1JnNFd4amFVX1dBcVVCNnZiVDN4UGxXUGF0NHJjbXZtdTgyd3NrMEdZd3RKQVBuLWJFM0s?oc=5",
+    "source": "더코리아",
+    "published": "2026-07-02",
+    "keyword": "현장교사",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청은 2022 개정 교육과정의 사회·과학 융합 선택 과목을 위한 자율연수를 실시합니다.",
+    "implication": "사회·과학 융합 과목 도입에 발맞춰 기존 수업에서도 교과 간 연계성을 강화하는 방안을 적용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "\"답은 학교 현장에 있다\" 도성훈 인천시교육감, 교육환경 개선 첫발",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95SWpPbGt6YVprR0pTSWhQOWN2WmYwZU4zdGtsSHJtLUhxWGIzUE9PY1ZCVkhSNmpOSktycWMydXl3dU41VXdtSFNxSEdlejNOSlNNbWpoT24taTZCT1o3UzhFR3U5R19ERW5mbXFoX1I?oc=5",
+    "source": "포인트데일리",
+    "published": "2026-07-02",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "도성훈 인천시교육감이 교육환경 개선을 위해 학교 현장 중심 해결책 마련의 첫발을 내디뎠습니다.",
+    "implication": "교육청이 현장 의견을 중시하므로, 수업 중 겪는 어려움을 적극적으로 소통하여 개선점을 찾을 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "윤건영 충북교육감, 충북교육정책 탄탄한 설계 당부",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE04aEZUSGJHVV96czNVbGVjRDNOYVBvM1M2bE4xT3JIbURIeXBTU2Q3YzRBbThia1JfVlY3MkhrWXFXWGg4WlJoeGlfRzBJVGc?oc=5",
+    "source": "v.daum.net",
+    "published": "2026-07-02",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충북교육청"
+    ],
+    "summary": "윤건영 충북교육감이 충북 교육정책의 견고한 설계를 당부했다.",
+    "implication": "탄탄하게 설계된 교육정책을 바탕으로 학생 중심 수업에 더욱 집중할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "KEDI, '이주배경학생의 교육환경과 정책' 교육정책포럼",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54UnBESkU3ei14STBpVVM2czJoU2RxY3BFay02SjRnMzNzQkdpV0JuZzh1V3lPU2lYZTJ0YThnR0NHUGszZDItTjRFak8yaktHc2JQU2N4VVM2OEp5amRF?oc=5",
+    "source": "한국교육신문",
+    "published": "2026-07-02",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "다문화"
+    ],
+    "summary": "KEDI가 이주배경학생의 교육환경과 정책을 주제로 교육정책포럼을 개최했습니다.",
+    "implication": "이주배경학생의 교육환경 이해를 통해 수업 자료나 교수법을 다양화할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "안민석 경기도교육감 추진 5대 경기형교육정책…일부에선 우려의 목소리",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvcUkwXzJsdlVuY0phcUVVZVhMZ2tXNkFJdXR3ZWw2b0YzeEJ0TmxHeTRSeGJyMDhNMmJsOTFEWnRNZ1dMejJqMXNhVEVDLUM5ckVtWjZtZHhVckJTZUw3N2JSVThwUlhkOVhXdGJ1X0M?oc=5",
+    "source": "인천일보",
+    "published": "2026-07-02",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "안민석 경기도교육감이 5대 경기형 교육정책을 추진하며 일부에서 우려의 목소리가 나오고 있습니다.",
+    "implication": "교육감 정책의 내용과 우려사항을 파악하여 수업 방향을 조율할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "완주군인재육성재단, “교육 현장 목소리 듣는다”",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44blRyZUFIelV3ck8wQnJPWTIzcjJ4LTFWZ2xaeU5xSUwtR3dyZG9PSDBKTnpLaWFwOEVIVjl2WWhWU0FOS19jUmhEeUMzam8?oc=5",
+    "source": "완주전주신문",
+    "published": "2026-07-02",
+    "keyword": "교육현장",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [],
+    "summary": "완주군인재육성재단이 교육 현장의 목소리를 청취한다.",
+    "implication": "수업에 필요한 구체적인 교육 자료나 지원 방안에 대한 현장 의견을 재단에 전달할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "서울시교육청, 2026년 AI·디지털 미래형 과학교육 본격화…모든 학교 '지능형 과학실' 구축",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9hZkZ4MHRwRmpxZzd2ektmby1JMFppSERoZWl4Zk5rUzlmZFpTUHZtbkFSWmRtWUJtN1BpZ0QxTUpwMFp3QkVZNWFGek9Pc2oyQ3ZHZVpzOVkwU2hCdWhZZUY3N1BaX0lpb1J2aw?oc=5",
+    "source": "파이낸스투데이",
+    "published": "2026-07-02",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "서울시교육청"
+    ],
+    "summary": "서울시교육청은 2026년부터 모든 학교에 지능형 과학실을 구축하여 AI·디지털 미래형 과학교육을 본격화합니다.",
+    "implication": "지능형 과학실 구축으로 학생들과 인공지능 기반의 새로운 탐구 활동을 할 수 있습니다.",
+    "ai": true
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Editorial: Artificial intelligence for technology enhanced learning",
+    "url": "https://doi.org/10.3389/fcomp.2026.1898963",
+    "source": "openalex",
+    "published": "2026-07-01",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "본 논문은 적응형 아키텍처, 평가 등 AI 기술 혁신이 개인 맞춤형 학습, 윤리적 활용, 심리적 영향, 자율성 강화에 미치는 복합적 영향을 다학제적 연구들을 통해 종합 분석하여 미래 교육 모델 설계를 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Maha Khemaja, Dalel Kanzari 외 1명",
+    "pdf": "https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2026.1898963/pdf"
+   },
+   {
+    "n": 2,
+    "title": "The Implementation of IMTAQ Continue Based on Tanjung Luar Coastal Local Wisdom as a Strategy for Fostering Students’ Science and Technology Competence: A Case Study at MTs Nurul Ihsan NW",
+    "url": "https://doi.org/10.36088/islamika.v8i3.6427",
+    "source": "openalex",
+    "published": "2026-07-01",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "본 질적 사례 연구는 탄중 루아르 해안 지혜 기반 IMTAQ 계속 프로그램이 이슬람 가치, 지역 지혜 및 과학기술을 통합하여 학생의 균형 잡힌 역량을 증진시키고, 통합 교육의 효과적 실현 방안을 제시함을 밝힙니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Muhammad Syukri, Nasri Nasri",
+    "pdf": "https://ejournal.stitpn.ac.id/index.php/islamika/article/download/6427/2809"
+   },
+   {
+    "n": 3,
+    "title": "Impact of AI-Enhanced Training on Green Chemistry Understanding of Secondary School Chemistry Teachers",
+    "url": "https://doi.org/10.70232/jrese.v3i2.65",
+    "source": "openalex",
+    "published": "2026-07-01",
+    "keyword": "edtech",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "나이지리아 중등 화학 교사 43명을 대상으로 한 AI 기반 맞춤형 훈련 프로그램이 녹색 화학 이해도를 51% 유의미하게 높여, 교사 역량 강화를 통한 지속 가능 교육 실현에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ayotomiwa Abel Akinde, T. E Owoyemi",
+    "pdf": "https://spm-online.com/jrese/index.php/journal/article/download/65/44"
+   },
+   {
+    "n": 4,
+    "title": "The role of flipped classroom models and web-based instruction in developing collaborative learning attitudes and learning strategies",
+    "url": "https://doi.org/10.3389/fpsyg.2026.1792842",
+    "source": "openalex",
+    "published": "2026-06-30",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "예비교사 74명을 대상으로 한 준실험 연구에서 플립드 러닝이 웹 기반 수업보다 협동 학습 태도 향상에, 두 방법 모두 학습 전략 발달에 더 효과적임을 입증하여 교사 교육 혁신에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Gizem Tabaru Örnek, Nihal Yıldız 외 1명",
+    "pdf": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1792842/pdf"
+   },
+   {
+    "n": 5,
+    "title": "Adaptive Federated Learning Framework for Fair and Privacy-Preserving Educational Analytics",
+    "url": "https://doi.org/10.31185/wjps.988",
+    "source": "openalex",
+    "published": "2026-06-30",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [],
+    "summary": "학생 데이터의 프라이버시와 공정성을 보장하며, 원시 데이터 공유 없이 기관들이 협력적으로 모델을 학습하고 공정성 지표를 반영하여 편향을 줄이는 적응형 연합 학습(AFL) 프레임워크는 신뢰할 수 있는 교육 분석 솔루션을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Hussein Nasrawi",
+    "pdf": "https://wjps.uowasit.edu.iq/index.php/wjps/article/download/988/445"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "구글, 재학습 번거로움 없앤 표 분석 AI '탭FM' 오픈소스 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212363",
+    "source": "AI Times",
+    "published": "2026-07-02",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "Google",
+     "오픈소스"
+    ],
+    "summary": "재학습 없는 표 분석 AI의 오픈소스 공개는 AI 모델 개발 및 활용 효율성을 극대화하여 전 산업 분야의 AI 도입을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 2,
+    "title": "사상 최대 ChatGPT 사용량 속 OpenAI, GPT-5.6 출시",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVXlUT21QcjBscEdTeTFkcm9idmRPUkJjdnVfWV9KdFBfam1SWkt0dWVuN08ydzljS1hPeFpUWFdJWEFwRjM2dDR4b1hza2laZ3cxV0NyQ3pxVm5kUHJwQUZBelhBUHdFcGR1Y0dPNDBkeGVyckNId2JaREt5aS02U3RXR1RubnhlOGU4NU5jMVJqNjhDb01vanZldXkybXR1d1VQQTlCRlFPdjZKb3RsT1IzR00xSFQzTktqSUdGZXpMbkxuQTNFZkFka0VXbEZtR3FaSlllb0gzUGlCTjFxejJ2Y0dSeWNEWTRfcE1OV0VtR0VuSDZRTA?oc=5",
+    "source": "MSN",
+    "published": "2026-07-02",
+    "keyword": "Anthropic",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "OpenAI"
+    ],
+    "summary": "사상 최대 사용량 속 GPT-5.6 출시는 AI 기술 생태계의 혁신을 가속하고 시장 선점 경쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 3,
+    "title": "엔비디아, 스스로 제어 코드 짜고 디버깅하는 로봇 AI '아스파이어' 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212367",
+    "source": "AI Times",
+    "published": "2026-07-02",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "로봇·휴머노이드"
+    ],
+    "summary": "AI의 자기 코드 생성 및 디버깅 능력은 로봇 개발의 자율성을 극대화하고 산업 전반의 AI 적용을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 4,
+    "title": "GPT-5.6 Sol vs Claude Fable 5: 코딩 벤치마크에서 갈린 승부",
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbHJ0M3BrMTU0N2Z0S2xmNWlvUnVac0k1MnNhQ0Vlc2Ffd0syQ1QtUE5lWHNNX1p1NkluTm5jTmdNWjFBZHlRYTI2d2xuMGlXcVg1UlRxNTlkdTJ2eU9qQmxUVEo4MVVlTzBQQ2VlYklNY2gtenl2QTJvVGJrVTRodEdEWmhXRTV3Slk3X0pjZnVnb3FFVWNPSVllb3NONnJod0x0T1lqMUw0WllvWUg4Nno1S01ZUVFXWFYzR01vNzk1SjgwLThTT1l2QzJNX0RxT3RGTVNaMGVPSXM0M3BwbjJKcEpfYnhmY3prUEVsOU9aOWJ5V2NSelFERQ?oc=5",
+    "source": "Yellow.com",
+    "published": "2026-07-02",
+    "keyword": "Anthropic",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Claude",
+     "코딩 AI",
+     "벤치마크"
+    ],
+    "summary": "코딩 벤치마크에서 갈린 승부는 AI 모델 간 기술 경쟁 심화와 특정 도메인 강점 차별화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 5,
+    "title": "[7월2일] 'VLA vs 월드 모델' 경쟁의 의미…피지컬 AI 전쟁의 핵심은",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212351",
+    "source": "AI Times",
+    "published": "2026-07-03",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "VLA와 월드 모델 간의 경쟁은 피지컬 AI 발전의 핵심 동력이자 미래 AI 기술 생태계의 방향을 결정할 중대한 분수령이 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 6,
+    "title": "중국의 새로운 저가형 AI 모델이 ChatGPT와 Claude를 '위협'하고 있다.",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZWZMY2dRa2U5WWRJUmRyUWtKY1c1VEJuYUZ5WENSUGlOeGxGTWJLUk1uSUlkX0RHOElsb0g4ekVjU2FfUTNKa1NFRkk3eUNma0VqcFRXdGxqcHY0MC16QjRDdk05QWJFTWR3aHQ4YTVXcldwLXBEVEZsN0RnaFhBdWUwM2pvbE5KeUtaRA?oc=5",
+    "source": "Vietnam.vn",
+    "published": "2026-07-02",
+    "keyword": "Anthropic",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Claude"
+    ],
+    "summary": "중국 저가 AI 모델의 등장은 AI 시장의 가격 경쟁을 심화시키고, 기술 접근성 확대를 통해 전반적인 AI 생태계 성장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "팔란티어 CEO, 오픈AI·앤트로픽 '토큰' 시스템 맹비난…”돈만 쓰고 데이터 빼앗겨”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212345",
+    "source": "AI Times",
+    "published": "2026-07-02",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Anthropic",
+     "오픈소스"
+    ],
+    "summary": "오피니언: 이번 비판은 기업 AI 도입 시 데이터 주권 및 비용 우려를 증폭시켜, 독점적 모델 의존도를 낮추고 사내 AI 구축 및 오픈소스 활용을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "소프트뱅크, 오픈AI 지분 담보로 15조 대출 협상 재개…‘기업 보증’ 카드로 은행권 설득",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212358",
+    "source": "AI Times",
+    "published": "2026-07-02",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "OpenAI 지분 담보 대출은 AI 선도 기업의 가치를 입증하며, AI 산업에 대규모 자본 유입을 가속화하여 생태계 발전을 더욱 촉진할 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+    "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "source": "OpenAI Blog",
+    "published": "2026-06-21",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "삼성",
+     "ChatGPT",
+     "코딩 AI",
+     "생성형 AI"
+    ],
+    "summary": "삼성전자의 생성형 AI 도입은 대기업의 AI 기술 활용 가속화와 생산성 혁신 추세를 심화하는 중요한 이정표가 될 것입니다.",
+    "implication": "",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+    "url": "https://openai.com/index/ai-chemist-improves-reaction",
+    "source": "OpenAI Blog",
+    "published": "2026-06-17",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "AI가 복잡한 과학 연구를 자율화하여 산업 R&D의 효율성과 혁신 속도를 비약적으로 높일 것입니다.",
+    "implication": "",
+    "ai": true
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {}
+}
