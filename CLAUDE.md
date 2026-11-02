@@ -124,6 +124,8 @@ python scripts/fetch_and_generate.py                  # 오늘(폴백 허용) + 
 - **SW 캐시 버전**: `di-v6` — CSS/JS 변경 시 버전 올려야 클라이언트 강제 갱신
 - **분류는 규칙 기반**(LLM 불필요). 규칙 추가는 `taxonomy.TOPICS`/`ENTITIES`에 패턴 한 줄. 바꾼 뒤 `--rebuild-archives`는 선택이지만 index.json은 레코드의 `topic`을 그대로 쓰므로 **과거 레코드의 재분류가 필요하면 레코드를 지우고 백필**해야 한다
 - **Gemini 종합은 선택**. 없으면 결정적 헤드라인("오늘 25건 · 가장 많이 등장한 주체 …")로 대체. 모델은 수집기와 같은 `gemini-2.5-flash`(`GEMINI_MODEL`로 변경), REST 직접 호출
+  - Gemini 2.5는 **생각(thinking) 토큰이 `maxOutputTokens`를 잠식**한다. 2026-11-02 첫 실행에서 한도 1200으로 JSON이 잘려 `[SYN] 응답 파싱 실패`.
+    지금은 한도 4096 + `thinkingConfig.thinkingBudget: 0` + 느슨한 JSON 파싱(`_parse_json_loose`). 실패 로그에 응답 앞 160자가 남는다
 - 교육 뉴스 설명: Gemini 요약이 없어도 전체 표시 (필터 안 함)
 - `docs/assets/og-image.png`(6.4MB)는 어디서도 참조하지 않는다 (og는 .jpg 사용)
 
@@ -191,7 +193,12 @@ gh workflow run "Daily News Collection" --repo tigerjk9/Auto-AI-Tech-news-Collec
 gh workflow run "Daily News Update" --repo tigerjk9/Live-Artifact   # 수집기 완료 후
 ```
 
-커버리지가 **정상(60%+)인데도** 강제로 다시 만들어야 하면 그때만 **레코드와 아카이브를 함께** 지운다
+커버리지가 **정상(60%+)인데도** 다시 만들어야 하면(예: Gemini 종합만 다시 붙이기) `force` 입력으로 게이트만 끈다.
+레코드 보호 가드는 그대로라 더 나쁜 결과로 덮어쓰지 않고, 항목 집합이 같으면 기존 종합을 재사용한다:
+```bash
+gh workflow run "Daily News Update" --repo tigerjk9/Live-Artifact -f force=true
+```
+레코드 자체를 버리고 처음부터 만들어야 할 때만 **레코드와 아카이브를 함께** 지운다
 (레코드만 남기면 "기존이 더 완전함" 가드가 새 결과를 버린다):
 ```bash
 TODAY=$(TZ=Asia/Seoul date +%F)
