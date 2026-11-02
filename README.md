@@ -24,7 +24,7 @@ AI·교육 소식은 하루에도 수십 건이 쏟아지지만, 교사가 아�
 서버는 없습니다. **GitHub Actions가 매일 아침 정적 HTML을 만들고 GitHub Pages가 배포**합니다.
 
 > [!NOTE]
-> 복구 시점(2026-11-02) 기준 **355일 · 8,104건**이 `docs/data/`에 날짜별 JSON으로 쌓여 있습니다. 소스 레포 3곳이 원본을 전부 보관하고 있어 28일만 남기던 옛 아카이브를 전 기간으로 되살렸습니다.
+> 2026-11-02 기준 **356일 · 8,129건**이 `docs/data/`에 날짜별 JSON으로 쌓여 있고 매일 25건씩 늘어납니다. 소스 레포 3곳이 원본을 전부 보관하고 있어 28일만 남기던 옛 아카이브를 첫 호부터 되살렸고, 요약이 비어 있던 2026년 3~4월도 제목 기반 요약으로 채웠습니다.
 
 ## 세 개의 화면
 
@@ -46,9 +46,9 @@ GitHub Actions (10:37 · 11:13 · 11:49 KST, watchdog 12:29)
         └─ Auto-AI-Tech-news-Collector  AI 기술 뉴스 JSON + 요약 TXT
               ↓ taxonomy.py   주제 7~10개/섹션 · 주체 사전 90여 개 (규칙 기반, LLM 불필요)
         docs/data/YYYY-MM-DD.json       ← 영구 레코드 (원천)
-        docs/data/index.json · search.json
-              ↓ insights.py   오늘의 흐름 보드        synthesis.py   Gemini 종합 (선택)
-        docs/index.html · docs/archive/*.html · docs/archive/ · docs/trends.html
+        docs/data/index.json · search/ · entities.json · weekly/
+              ↓ insights.py 보드 · synthesis.py 종합 · enrich.py 보강 · weekly.py 주간 · feeds.py 피드 · render_og.py OG
+        docs/index.html · archive/*.html · weekly/*.html · og/*.jpg · feed.xml · trends.html · entity.html
 ```
 
 - **분류**는 수집기 키워드에 기대지 않습니다. 기술 뉴스의 70%, 논문의 80%는 키워드가 비어 있어서, 제목·요약 패턴 점수로 주제를 고르고 별칭 사전으로 주체(OpenAI·경기도교육청·AI 디지털교과서 …)를 뽑습니다.

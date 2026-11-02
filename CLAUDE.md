@@ -17,7 +17,7 @@ GitHub Actions (cron: 10:37/11:13/11:49 KST, watchdog 12:29, maintenance 수동)
                     ↓ taxonomy.classify / extract_entities
             docs/data/YYYY-MM-DD.json      ← 원천 레코드 (삭제 금지)
             docs/data/index.json           ← 날짜별 집계 (흐름·아카이브 페이지 재료)
-            docs/data/search.json          ← 전 기간 제목 색인
+            docs/data/search/YYYY-MM.json  ← 전 기간 검색 색인 (제목+요약, 월별)
                     ↓ insights.compute_board / render_board (+ synthesis.synthesize, 선택)
             docs/index.html (오늘) · docs/archive/YYYY-MM-DD.html (영구) · docs/og/YYYY-MM-DD.jpg
             docs/archive/index.html · docs/trends.html · docs/entity.html (정적 셸 — JS가 data/*.json 로드)
@@ -148,7 +148,7 @@ python scripts/fetch_and_generate.py                  # 오늘(폴백 허용) + 
 | 오늘의 흐름 보드 (접기, 주제/주체 필터, 참조 칩 점프, `#edu-3` 해시 하이라이트) | insights.render_board + app.js `initBoard()` |
 | 사이트 메뉴 (오늘·아카이브·흐름), 모바일 2행 + `--header-h` 실측 | app.js `markSiteNav()` `syncHeaderHeight()` |
 | 날짜 네비 (최근 14일 + 전체 아카이브, 과거 열람일 고정) | app.js `renderDatePills()` |
-| 전체 아카이브 (월별 카드, 전 기간 검색 `?q=`) | archive.js (`data/index.json`, `data/search.json` 지연 로드) |
+| 전체 아카이브 (월별 카드, 전 기간 검색 `?q=`) | archive.js (`data/index.json`, `data/search/*.json` 지연 로드) |
 | 흐름 (기간 비교 차트, 라이브러리 없음) | trends.js (`data/index.json`) — 주체 이름은 주체 페이지로 링크 |
 | 주체 페이지 (월별 언급·주제·동시 등장·전체 목록, `?e=`) | entity.js (`data/entities.json`, `data/entity/*.json`) |
 | 주간 다이제스트 (끝난 주 집계 + Gemini 주간 종합) | weekly.py → `docs/weekly/` |
