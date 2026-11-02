@@ -52,6 +52,7 @@ jobs:
           NEWS_TOKEN: ${{ secrets.NEWS_GITHUB_TOKEN }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
+          git pull --ff-only origin main || true   # 큐에서 기다리는 동안 main이 움직였으면 최신 데이터로 시작
           ARGS="--task ${{ inputs.task }}"
           [ -n "${{ inputs.date_from }}" ] && ARGS="$ARGS --from ${{ inputs.date_from }}"
           [ -n "${{ inputs.date_to }}" ] && ARGS="$ARGS --to ${{ inputs.date_to }}"
@@ -62,11 +63,4 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/
-          if git diff --staged --quiet; then
-            echo "변경 없음"
-            exit 0
-          fi
-          git commit -m "chore(maintenance): ${{ inputs.task }} ${{ inputs.date_from }}${{ inputs.date_from && '~' || '' }}${{ inputs.date_to }}"
-          git pull --rebase origin main
-          git push
+          bash scripts/safe_push.sh "chore(maintenance): ${{ inputs.task }} ${{ inputs.date_from }}${{ inputs.date_from && '~' || '' }}${{ inputs.date_to }}"

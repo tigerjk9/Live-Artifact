@@ -10,6 +10,10 @@ permissions:
   contents: write
   pages: write
 
+concurrency:
+  group: live-artifact-write
+  cancel-in-progress: false
+
 jobs:
   watchdog:
     runs-on: ubuntu-latest
@@ -54,7 +58,7 @@ jobs:
 
       - name: Install dependencies
         if: steps.check.outputs.skip != 'true'
-        run: pip install requests python-dateutil
+        run: pip install -r requirements.txt
 
       - name: Fetch news and generate HTML
         if: steps.check.outputs.skip != 'true'
@@ -69,10 +73,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/
-          git diff --staged --quiet || \
-            git commit -m "chore: watchdog recovery $(TZ=Asia/Seoul date +%Y-%m-%d)"
-          git push
+          bash scripts/safe_push.sh "chore: watchdog recovery $(TZ=Asia/Seoul date +%Y-%m-%d)"
 
       # 레포가 최신이어도(위 단계 skip) Pages 배포가 실패/고착됐으면 사이트는 옛날 상태다.
       # 최신 커밋이 실제 배포됐는지 확인하고 아니면 재빌드를 요청한다 (2026-07-03 장애 재발 방지).
