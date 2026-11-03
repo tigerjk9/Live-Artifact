@@ -1,0 +1,510 @@
+{
+ "date": "2026-11-03",
+ "generated_at": "2026-11-03T17:31:58+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[사설] 교육현장 후퇴시키는 경기교육감",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00U1hZcm1YWHRfY1o2SW1IeElyVkptWnN6aWtLc1RUTlJZME1kQWM3SDFiNXp1VDRpa3E3M0hza0F1cF9ZRXVPTzJJd0kwTnlVSGhQRzdEWnlPcjhXUHNZdGNsZDE2ampJUndFYkdrVQ?oc=5",
+    "source": "기호일보",
+    "published": "2026-11-02",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "기호일보 사설은 경기교육감이 교육현장을 후퇴시키고 있다고 비판합니다.",
+    "implication": "지역 교육감의 정책이 우리 교실에 어떤 영향을 줄지 함께 고민해 볼 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 2,
+    "title": "광명시, 교육 현장 목소리 담아 교육정책 내실 다진다",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8yMF8xZlUtR2NFZkhYUnlOLXphSE02aVpTbmg1eHVhemxNOEtic2RlMFBMMS1TdVo4bXF2REkzRVpQTDBBM1J0RDhZSDh4Z3dRMC1tamE4ejF3LVBuZ0FqbktxSHdLMUhpSFY3Q243OA?oc=5",
+    "source": "뉴스파이어",
+    "published": "2026-11-02",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "광명시가 교육 현장의 목소리를 수렴하여 교육 정책의 실질적인 내용을 강화합니다.",
+    "implication": "교육 현장의 목소리가 정책에 반영되므로, 수업 개선을 위한 의견을 적극적으로 개진할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 3,
+    "title": "경남교육청, 생성형 AI를 교육·보육 현장으로",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hLWVtSUdZcHBtRWVjc1B2MUltMEhLenJvdHN3c2szb0QzV2VWdWY1ZXE1bng4TG9YSDBLTEIyWExhdTBKTmNlNnZhRjREenFzeEFMVnNEbGZCYnU1Mk5OY2poY09mSWNQ?oc=5",
+    "source": "경남도민신문",
+    "published": "2026-11-02",
+    "keyword": "생성형AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경남교육청",
+     "생성형 AI"
+    ],
+    "summary": "경남교육청이 생성형 AI를 교육 및 보육 현장에 도입하겠다는 내용입니다.",
+    "implication": "생성형 AI를 활용하여 수업 자료를 만들거나 학생들의 개별 맞춤 학습을 지원할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 4,
+    "title": "안민석 경기교육감 \"중학교까지 생성형 AI 사용 금지\"",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93Z2dOUWV2QkFhV2dWdFEyVzZwdWE5dUJ6SW5sbmRfdFJqZVU1ZUtKd0NYRkhMVHRVa1RiSG1nWWZkdnk5VHljV1BUazlmeFIyXzgtbVFrUEVXdVQyT3c?oc=5",
+    "source": "동행미디어 시대",
+    "published": "2026-11-02",
+    "keyword": "생성형AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "생성형 AI"
+    ],
+    "summary": "안민석 경기교육감은 중학교까지 생성형 AI 사용을 금지한다고 발표했습니다.",
+    "implication": "중학교까지 AI 사용이 금지되므로 학생들이 스스로 사고하는 활동 중심 수업을 계획할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 5,
+    "title": "﻿한국고등직업교육학회, 전문대학 AI 융합 교육과정 설계 에이전트 ‘AIDX’ 공개",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14MUpiVG05a0p0dFFnUmdRS1gwNVBHczUwQ2J1OFVaLXZ5Vm5GbWdZZ093MUpLYU1MRnJfVTRMTW9wYUNHc0diNU9Lcnp0WWs1TjBDcHRpWnItclduRWQyQmdGTlc2Zw?oc=5",
+    "source": "한국대학신문",
+    "published": "2026-11-02",
+    "keyword": "AI교육",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "한국고등직업교육학회가 전문대학의 AI 융합 교육과정 설계를 돕는 에이전트 ‘AIDX’를 공개했습니다.",
+    "implication": "AIDX를 통해 AI 융합 교육과정 설계 방식을 참고하여 수업 내용에 AI 요소를 접목할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 6,
+    "title": "교육부, AI 보안 혁신부터 학생 학습권 보호까지…교육현장 바꾼 6대 성과 공개",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4yX3dySjVjcXpTT19tN1hmTy02WEFnT3loYTNmUVJZRi12RHNiVzlNZ1I4VmczWk9HUWN4Tk1HWk5UOFRTekFYMVBB?oc=5",
+    "source": "뉴스N연합",
+    "published": "2026-11-02",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "교육부가 AI 보안 혁신부터 학생 학습권 보호까지 교육 현장을 바꾼 6대 성과를 공개했습니다.",
+    "implication": "교육부의 AI 보안 혁신과 학습권 보호 성과를 바탕으로 수업에 AI 도구를 적용하고 학생 참여를 독려할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
+   },
+   {
+    "n": 7,
+    "title": "경기도교육청-EBS, 미래교육 협력 강화 맞손",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVSWV3WkpzSTZ3UDZGalVVMHFvbmN4MXRnOUxPNjc1R2hkR2RUaERPX1ZvZGJJLVg5Nkdxamp3aC1RNnJhb0l2cVJERnEzMmFCU0dKXzR6Y1kxbDN5UEJFemk5TXJRaVU?oc=5",
+    "source": "시흥신문",
+    "published": "2026-11-02",
+    "keyword": "AI디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "EBS"
+    ],
+    "summary": "경기도교육청과 EBS가 미래교육 협력을 강화하기로 합의했습니다.",
+    "implication": "경기도교육청과 EBS 협력으로 미래교육 콘텐츠를 수업에 더 적극적으로 활용할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
+   },
+   {
+    "n": 8,
+    "title": "학교는 교육에만 집중… 대전교육청, 고강도 교육정책사업 슬림화 단행",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zOWhDMjVQNEN1RHloYkNmZU45QklVeE9rRHBxTmpCSlpBbzJXVlJ6U19JMXBSZjBhMF9Wck9QbEpHYkVKdGZ6YjVMUjZVeHdzVmtMT0p5cEh4aDBCTzBkZnEzdF9KSDhQbFlaazdxcVJadzQ?oc=5",
+    "source": "충남일보",
+    "published": "2026-11-03",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "대전교육청이 학교가 교육에만 집중하도록 고강도 교육정책사업을 슬림화할 예정입니다.",
+    "implication": "행정 부담 감소로 학생 개개인의 필요에 맞는 수업을 기획하고 제공할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 9,
+    "title": "전북교육의 미래를 묻는 2026 전북교육정책 포럼",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRG9lUU9ZZElndG5DN0Q5RV9YNXNUTDBlaDBxUjBPbUdjSEpMWDF0cVVteDVTZ29FYktvOUFBUUVlQlBuemlxNjRmWU1VUkZCbTRXNGl3WjlFTk1WU0hFQW1UR3R4Q3AwZU8wV3h1TXZkV21fRk9FOTNwYmpoSmdzZlZqeXg3UQ?oc=5",
+    "source": "전북도민일보",
+    "published": "2026-11-02",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "전북교육청"
+    ],
+    "summary": "2026 전북교육정책 포럼은 전북교육의 미래 방향 설정을 논의하기 위해 개최됩니다.",
+    "implication": "전북교육정책 포럼 소식을 활용하여 학생들이 미래 교육의 모습과 필요한 정책을 토론하는 시간을 가질 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 10,
+    "title": "[60초 교육정책] \"합의했어도 학교폭력\"…'야차룰' 피해 땐 이렇게",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SZUJPWkZ6ZlY2LXVERmduUF92eTVCWGJMYWtIVHp2SDVuSTUwb1ZDdlpxUEhqU1AyTkNxLVZjcGI2elRjRGwta3R0Nnp1WVUzeDctSEVGZkZRa2Q1?oc=5",
+    "source": "뉴스핌",
+    "published": "2026-11-02",
+    "keyword": "교육정책",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [
+     "학교폭력"
+    ],
+    "summary": "합의 여부와 관계없이 학교폭력으로 인정될 수 있으며, '야차룰' 피해 시 대응 방안을 다룹니다.",
+    "implication": "학생들에게 합의해도 학교폭력으로 간주될 수 있음을 지도하고, 야차룰 피해 시 공식적인 도움 요청 방법을 안내할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "The new STEM educator: how school teachers adapt to rapid technological and pedagogical shifts: a qualitative approach",
+    "url": "https://doi.org/10.1108/eisfl-05-2026-0076",
+    "source": "openalex",
+    "published": "2026-10-31",
+    "keyword": "edtech",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "파키스탄 중등 STEM 교육자들이 급변하는 기술 및 교육학적 변화에 적응하는 복합적인 과정을 질적 연구로 분석하여, 실제 경험, 직면 과제, 적응 전략 및 제도적 지원의 중요성을 밝혀 교육 현장의 이해를 심화합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Hafiz Muhammad Ihsan Zafeer, Samra Maqbool 외 1명",
+    "pdf": "https://www.emerald.com/eisfl/article-pdf/1/1/655/11943680/eisfl-05-2026-0076en.pdf",
+    "topic_src": "ai",
+    "title_ko": "새로운 STEM 교육자: 교사들이 급변하는 기술 및 교육학적 변화에 적응하는 방법"
+   },
+   {
+    "n": 2,
+    "title": "Scenario Writing Practice with Pre-service Teachers on the Conflict between a Traditional School Principal and an Innovative Mathematics Teacher",
+    "url": "https://doi.org/10.17275/per.26.76.13.6",
+    "source": "openalex",
+    "published": "2026-10-31",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "이 연구는 예비 수학교사 30명을 대상으로 전통적 교장과 혁신적 교사의 갈등 시나리오 작성을 통해 교육 현실에 대한 비판적 성찰과 교수 신념 및 전문성 발달을 촉진하며, 미래 교사 양성에 효과적인 전략임을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Rabia Sarıca",
+    "pdf": "https://dergipark.org.tr/en/download/article-file/5590797",
+    "topic_src": "ai",
+    "title_ko": "전통적 교장과 혁신적 수학교사 간 갈등 시나리오 작성을 통한 예비교사 교육"
+   },
+   {
+    "n": 3,
+    "title": "Developing a Local Wisdom-Based Bamboo Carving Module for Visual Arts Education",
+    "url": "https://doi.org/10.51574/ijrer.v6i1.5617",
+    "source": "openalex",
+    "published": "2026-11-01",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "이 연구는 4D 모델 기반 R&D 방법론으로 현지 지혜를 활용한 대나무 조각 모듈을 개발하고 전문가 평가를 통해 시각 예술 교육을 위한 효과적이고 경제적인 보충 학습 자료로서의 높은 타당성을 확인합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Sarmila Fitriani Dirman, Abd. Aziz Ahmad 외 1명",
+    "pdf": "https://etdci.org/journal/ijrer/article/download/5617/4130",
+    "topic_rule": "assessment",
+    "topic_src": "ai",
+    "title_ko": "시각 예술 교육을 위한 지역 지혜 기반 대나무 조각 모듈 개발"
+   },
+   {
+    "n": 4,
+    "title": "Navigating Reading Challenges: Phenomenological Study of Teachers Supporting Struggling Readers in Philippine Context",
+    "url": "https://doi.org/10.51574/ijrer.v6i1.5549",
+    "source": "openalex",
+    "published": "2026-11-01",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [
+     "다문화",
+     "교사 연수"
+    ],
+    "summary": "필리핀 초등학교 교사들의 어려움을 겪는 독자 지원 경험을 현상학적으로 탐구하여, 비고츠키 비계 이론이 다문화 맥락의 생태학적 및 언어적 장벽을 고려해야 하며 교사 전문성 개발 및 정책 개선이 필요함을 제언합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Joselito Gutierrez, Dawn Lois D. Songyoen 외 1명",
+    "pdf": "https://etdci.org/journal/ijrer/article/download/5549/4132",
+    "topic_rule": "teacher_pd",
+    "topic_src": "ai",
+    "title_ko": "읽기 어려움 극복: 필리핀 맥락에서 어려움을 겪는 독자를 지원하는 교사들의 현상학적 연구"
+   },
+   {
+    "n": 5,
+    "title": "Artificial Intelligence, Computer Viruses, and Data Protection in Web-Based Learning Environments",
+    "url": "https://doi.org/10.21275/sr261010094028",
+    "source": "openalex",
+    "published": "2026-10-31",
+    "keyword": "",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [],
+    "summary": "웹 기반 학습 환경에서 AI가 학습을 향상시키지만 사이버 보안 위협을 동시에 증대시키므로, 본 논문은 문헌 및 프레임워크 분석을 기반으로 AI의 보안 활용 및 관련 위험을 탐구하고 안전하고 윤리적인 디지털 교육을 위한 통합적 보안 전략을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Imam Hussain Mirji",
+    "pdf": "https://www.ijsr.net/archive/v15i10/SR261010094028.pdf",
+    "topic_src": "ai",
+    "title_ko": "웹 기반 학습 환경에서의 인공지능, 컴퓨터 바이러스 및 데이터 보호"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "오픈AI, 12월부터 챗GPT·코덱스 사용량 통합…기존 앱 1월 종료",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216934",
+    "source": "AI Times",
+    "published": "2026-11-03",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "오픈AI의 챗GPT·코덱스 통합은 AI 개발 생태계의 API 표준화와 플랫폼 집중을 가속화하며, 개발자들의 신속한 전환을 요구할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "product",
+    "topic_src": "ai"
+   },
+   {
+    "n": 2,
+    "title": "MS, AI 코딩 비용 최대 31% 줄이는 도구 공개…작업 성공률은 유지",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216915",
+    "source": "AI Times",
+    "published": "2026-11-02",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Microsoft",
+     "코딩 AI"
+    ],
+    "summary": "MS의 AI 코딩 비용 절감 도구는 AI 개발의 경제적 효율성을 극대화하여 산업 전반의 AI 도입과 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 3,
+    "title": "AI 답변에 브랜드가 나오는 경로 — ChatGPT·Gemini·Perplexity가 근거로 읽는 출처는 서로 다릅니다 (2026년 10월 실측)",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PUDZBR211aGd2b0RKTDNFWjJJT0Z4X3IxM1B6RUNsN0QtMW4yMUt0VVBwdkpxSUY5VWtVRTRvOFo5d0V5a3g3WGZ0QWJFdEdBaE5DdkMta1BrQlFUdkZfeUE5RmJVNGNRa3FTNUZR?oc=5",
+    "source": "오픈애즈",
+    "published": "2026-11-03",
+    "keyword": "API",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Gemini",
+     "Perplexity"
+    ],
+    "summary": "각 AI 모델의 고유한 정보 출처 선호는 브랜드 콘텐츠 최적화 전략을 복잡하게 만들고, AI 기반 정보 유통 생태계에 새로운 경쟁 환경을 조성할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 4,
+    "title": "ChatGPT도 Gemini도 따로 겨냥하지 않는다… AI킬러가 개별 모델 대신 글쓰기 패턴을 익힌 방식",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XUDVSa3JyV0tGVXNjRmF1N0RYYUlEa3Zmc3JwSU1OeUFSMFFXUGVwbnJleDZFeldOSS1WNXhGU0RWLVlqUXFsYUdWR2stMWJka3Zr?oc=5",
+    "source": "유스연합",
+    "published": "2026-11-02",
+    "keyword": "학습도구",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Gemini"
+    ],
+    "summary": "AI 탐지 기술이 개별 모델 대신 AI 글쓰기 패턴 학습으로 전환하며, AI 생성 모델의 발전 방향에 새로운 과제를 제시할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 5,
+    "title": "Perplexity, Brain 메모리 아키텍처와 에이전트 API 테스트 상세 공개",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORjY1cXJxaXY3bkZBVS1Zd1l1Tmk3Zlh2Z2hsZUw2YnlIajI3UTJQWldaLXE2Q1dua0JET05KS3pyVUZMMEY1ZUFXUWNWcjlLdFhVNjN4amVOc1hfQ1lHZFlLc0otMW9TZm5jSDdja1dDNFRxMGwwNkVSLUZDcGM3RlBaejROVEQ1dWZrWGVPemhrUFJfUnc?oc=5",
+    "source": "Unite.AI",
+    "published": "2026-11-02",
+    "keyword": "AI모델",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Perplexity",
+     "에이전트"
+    ],
+    "summary": "Perplexity의 Brain 메모리 아키텍처 및 에이전트 API 공개는 AI가 지속적인 기억을 가진 자율 에이전트 시대로 발전하는 핵심 전환점입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 6,
+    "title": "[11월2일] AI가 분석하고 내가 결정했다…그 판단은 누구의 것일까",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216890",
+    "source": "AI Times",
+    "published": "2026-11-03",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [],
+    "summary": "AI가 개입된 의사결정의 책임 소재 규명은 AI 기술의 신뢰성 확보와 산업 확장의 핵심 과제입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
+   },
+   {
+    "n": 7,
+    "title": "Anthropic, 장기 실행 에이전트를 위한 메시지 스레드 베타 출시",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeThKNFBfdTRwS185eUIyTW84Z25tTF8xUkxVa05zNURDMG03VTlWcW1xN2dMMS1rSEplY1hFdURLOU51YUVERmJZaWFLN3RIejA5YWVrd3gxTElzS2VKTWtzTENwamxFOGhpU09hR0cxWmxnT1Y1YUlZTTJLNkg2a0dhSGJMcGt5eWQ5dXVhb3BXZw?oc=5",
+    "source": "Unite.AI",
+    "published": "2026-11-02",
+    "keyword": "Anthropic",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "에이전트"
+    ],
+    "summary": "장기 실행 에이전트 지원 출시는 AI의 복잡한 연속 작업 처리 능력을 혁신하여 AI 생태계의 자율적 솔루션 개발을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 8,
+    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+    "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+    "source": "OpenAI Blog",
+    "published": "2026-10-28",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "OpenAI와 ServiceNow의 협력은 AI가 기업 핵심 워크플로우에 깊이 통합되어 실질적인 비즈니스 가치를 창출하는 AI 대중화 시대를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "industry",
+    "topic_src": "ai"
+   },
+   {
+    "n": 9,
+    "title": "OpenAI prepares lobbying blitz for a post-midterm Washington",
+    "url": "https://the-decoder.com/openai-prepares-lobbying-blitz-for-a-post-midterm-washington/",
+    "source": "The Decoder",
+    "published": "2026-11-02",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "OpenAI의 워싱턴 로비는 AI 기술 생태계의 미래 정책 및 규제 환경을 주도적으로 형성할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 10,
+    "title": "오픈AI, 챗GPT 채팅·WORK 탭 합친다…AI에이전트대중화 '시동'[글로벌AI브리핑]",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JYV9tNGh4Q2Z5LTVJNG5XUlZya2JtSGFSeDlMOU53a2ZidW5ob01qS3hnOUcxX1dNdXR1bXA4Y19RZWNfUnNyeTZEc3VvVi1LUHZNVjMyMGNrQQ?oc=5",
+    "source": "파이낸셜뉴스",
+    "published": "2026-11-02",
+    "keyword": "오픈AI",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT",
+     "에이전트"
+    ],
+    "summary": "챗GPT의 채팅·WORK 탭 통합은 AI 에이전트의 대중화를 넘어 생산성 도구 시장의 재편을 가속화하는 중요한 전환점입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "agent_dev",
+    "topic_src": "ai"
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {},
+ "synthesis": {
+  "headline": "AI 교육 정책 논의 활발, 현장 적용과 과제 공존",
+  "threads": [
+   {
+    "title": "AI 교육의 양면성",
+    "body": "교육 현장에서 생성형 AI 도입을 추진하는 움직임이 있는 반면, 중학교까지 AI 사용을 금지하는 정책도 발표되는 등 AI 교육의 방향성에 대한 다양한 시각이 존재합니다. 이는 AI 기술이 교육에 미치는 긍정적 영향과 잠재적 위험을 동시에 고려해야 함을 보여줍니다.",
+    "refs": [
+     "edu-3",
+     "edu-4",
+     "paper-5",
+     "tech-6"
+    ]
+   },
+   {
+    "title": "현장 중심 교육 강화",
+    "body": "광명시와 대전교육청은 교육 현장의 목소리를 수렴하고 행정 부담을 줄여 학교가 교육 본연의 역할에 집중할 수 있도록 지원합니다. 이러한 노력은 교사들이 학생 개개인의 필요에 맞는 맞춤형 수업을 기획하고 제공하는 데 긍정적인 영향을 미칠 것입니다.",
+    "refs": [
+     "edu-2",
+     "edu-8",
+     "paper-2",
+     "paper-4"
+    ]
+   },
+   {
+    "title": "미래 교육과 AI 기술",
+    "body": "교육부는 AI 보안 혁신과 학습권 보호를 강조하며 AI를 교육 현장에 적용하는 성과를 공개했습니다. 한편, OpenAI와 같은 AI 기술 기업들은 AI 에이전트의 대중화를 가속화하며 교육 분야에서의 활용 가능성을 넓히고 있습니다.",
+    "refs": [
+     "edu-6",
+     "edu-7",
+     "edu-9",
+     "tech-7",
+     "tech-10"
+    ]
+   }
+  ],
+  "classroom": "우리 교실에 AI 기술을 어떻게 도입하고 활용할지, 그리고 학생들의 비판적 사고력을 어떻게 키워줄지 함께 고민해 볼 수 있습니다.",
+  "model": "gemini-2.5-flash",
+  "items_hash": "e4c90edb8d0c"
+ },
+ "enrich": {
+  "hash": "b883323ed1f7",
+  "model": "gemini-2.5-flash",
+  "topics": 9,
+  "title_ko": 5,
+  "summaries": 0
+ }
+}
