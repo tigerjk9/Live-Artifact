@@ -1,0 +1,502 @@
+{
+ "date": "2026-11-04",
+ "generated_at": "2026-11-04T16:58:16+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "인천시교육청, 95개교 찾아가는 AI교육…학교별 교육 격차 줄인다",
+    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE51Z08wRHBfb3A3QjZXYXF2dlJtOXVwM3VoRjdDSnpDZjBqUEhna0xBYlJZSFFPb0FtdlZsUDRSYkdFNTJ6?oc=5",
+    "source": "오늘뉴스",
+    "published": "2026-11-03",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청이 95개 학교에 찾아가는 AI 교육을 제공하여 학교별 교육 격차를 해소합니다.",
+    "implication": "학교로 찾아오는 AI 교육을 통해 수업에 필요한 AI 도구 활용법을 배울 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 2,
+    "title": "마음챙김놀이터, 초등 사회정서교육(SEL) ‘30가지 마음수업’ 가이드북·워크북 출간",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04eTZlMkxFWllVWGtjaTU4SFA5NTI5NVNoS1NXbWJ6WDQwUVROakJkM3h2aWV1RTJzSkdQbW1NYUFVaUx0clZ1RzhZejg3SEJtUkV0R3ZyUWxMWmZ6eGhiUkp5UnV4SERY?oc=5",
+    "source": "공감신문",
+    "published": "2026-11-03",
+    "keyword": "현장교사",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [],
+    "summary": "마음챙김놀이터에서 초등 사회정서교육(SEL)을 위한 ‘30가지 마음수업’ 가이드북과 워크북을 출간했습니다.",
+    "implication": "초등학생 사회정서교육(SEL)을 위한 '30가지 마음수업' 자료를 수업에 바로 활용할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
+   },
+   {
+    "n": 3,
+    "title": "경기도교육청, 연천·양주 2곳서 교육혁신 사업 추진",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5fU0hONld2cDMweDJ3bVpIOVJvUXJadjJuOFhuXzNHVmVDX1VZZU9HRE11Y05Zcl80b3ltLVlfa3JEZXZVcXhxWHlpaURxR2tLMTNEVzVqRC1GeVZ0TDFOV0NLdHJRMDNqM0VhMVlXQQ?oc=5",
+    "source": "인천일보",
+    "published": "2026-11-04",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청이 연천과 양주 두 지역에서 교육혁신 사업을 추진합니다.",
+    "implication": "연천, 양주 지역 교사는 교육혁신 사업을 활용해 새로운 수업 방식을 시도할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 4,
+    "title": "권순기 경남교육감 \"남해·산청·통영·진주 교육혁신선도지역 지정\"",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zalBzTmtzUFJBdVFGSFZJdWZHZFl0bXpPQmh2RHd5SW14R2FqQ0lzRGg1dE5vMU0wZDN0dzR1TFJFaWVpT1lfUXJVR2czd3B3S1pwZ3pqeG5KNUps?oc=5",
+    "source": "뉴스핌",
+    "published": "2026-11-03",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경남교육청"
+    ],
+    "summary": "권순기 경남교육감이 남해, 산청, 통영, 진주를 교육혁신선도지역으로 지정했습니다.",
+    "implication": "우리 학교가 교육혁신선도지역으로 지정되어 새로운 교육 방법을 수업에 적용해 볼 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 5,
+    "title": "임종식 경북교육감 “아이들이 미래”…북부권 교육현장 소통",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9yM2lVMmVQaWs1RmJOWGIzNF9EdVNPdzU0WnM2VlM0andRTDBBczZ0cEtNSmVMTGRRZEJCaGlrb2pYd0JRMzh5SkRYZlJxdVlnZ3JQYlZYcWFMSnY4LTZkUDF5TmMtdmxlYnRoUC1JUQ?oc=5",
+    "source": "시사포커스",
+    "published": "2026-11-03",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경북교육청"
+    ],
+    "summary": "경북교육감이 아이들이 미래라는 비전을 강조하며 북부권 교육 현장과 소통했습니다.",
+    "implication": "아이들이 미래라는 메시지를 바탕으로 학생들의 주체적인 미래 설계 역량을 키울 수 있는 활동을 수업에 도입할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 6,
+    "title": "충남교육청, 다문화교육 현장모델 확산",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15RE5QSkRTckwtZUpST1VJbThYMlhUY0NUVmcyRkZ1a2VvTGZvNVNUMm1JMnl2eFlWT3MwTlp4Qm1HcjlwVE5xbmhMZ0wtQ3ZBTzM5dWFjcXc4ZnpyNkV5TlVYSklsU25vazRJNtIBb0FVX3lxTE9nSmFCbUR3UGtKbGpwTEpaUURjMTVxQUF4SC12RUxaNGtic1FmZ244ZXJQVnBGMFlocGJ3UWQzUTFhN2N6QnBUUnYtZ2FETUJYQXVTUnVmZHRyZUNDQTE4SjNFeG5BSWtsV3VuekNhYw?oc=5",
+    "source": "뉴스세상",
+    "published": "2026-11-03",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충남교육청",
+     "다문화"
+    ],
+    "summary": "충남교육청은 다문화교육을 위한 현장 중심 모델을 확산하고 있습니다.",
+    "implication": "교육청에서 확산하는 다문화교육 현장모델을 활용하여 우리 반 다문화 학생들을 지도할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "student_care",
+    "topic_src": "ai"
+   },
+   {
+    "n": 7,
+    "title": "‘AI 융합 수업설계 역량 강화’…전국 예비교원 제주 집합",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03ZFhwVVNSNTQ5dU9VUTBwQWpWSHlEcmJlb3dyb0RDTWlzbjB6WDNDNzBnVml0c1R5WHQ2MmpYamtZRzNYdXZEMzFFTVRzV3FzNlprZnVLRXFKb0tJd3RwcG1LVDF2NEVJLVg4N01B?oc=5",
+    "source": "지금제주",
+    "published": "2026-11-03",
+    "keyword": "AI활용수업",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [],
+    "summary": "전국 예비교원들이 제주에 모여 AI 융합 수업설계 역량 강화 교육을 받습니다.",
+    "implication": "미래 교사 역량이 AI 융합 수업설계이므로, 저도 AI를 활용한 수업 설계 방안을 찾아볼 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 8,
+    "title": "광명시, 학부모 120여명과 교육정책 소통…현장 의견 수렴",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3X3owVGVweW9pOHZuUFhRQ0xaTWYwVFZlcThPU1ZxSExzaXpkcDVCZ19EbnBLMUtiR25BQXNLOGpwdXVXUm45aUFmNGVFOXhmdm53WU55ZlQ0X0w2N2lwV2drdVd2MHNDUFpPWHhmMHM?oc=5",
+    "source": "신아일보",
+    "published": "2026-11-03",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "광명시가 학부모 120여명과 교육정책을 소통하며 현장 의견을 수렴했다.",
+    "implication": "지역 교육 정책 소통 사례를 수업에 활용하여 학생들이 사회 참여를 경험할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 9,
+    "title": "대전교육청, 고강도 교육정책사업 선제적 일몰·정비 단행",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HU3V3bGkyWTU2bjlYSTdDV2ZOdmtYSTJOTW1tSTBzaFZEX3p1UGFOVXowdnY4ajFNSjRVZ2xHN0R2TW1halEzLW5GYTJwb2NTZGhTamc5cnljWFFhdzZ4bVFfMUdJX2pnODJWN1pKSjJVUQ?oc=5",
+    "source": "굿모닝충청",
+    "published": "2026-11-03",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "대전교육청이 고강도 교육정책사업들을 선제적으로 일몰 및 정비합니다.",
+    "implication": "고강도 사업 정비로 확보된 시간으로 수업 준비와 학생 지도에 집중할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 10,
+    "title": "광명시 '교육정책 간담회'…박승원 시장, 216억 예산·신규사업 발표",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTUkJSSzZIYlhYX05wXzViNTBfbXlOemVaXzNaakNFVW1jWWxnMmtBOXRQcWd3V1pXamJXWERFOTVCM2RQRkR3dHMwS1FQejdhSEc2V1JiaWtQYkdyZzRsM3VuZm5mVXVINGtUblB3?oc=5",
+    "source": "국제뉴스",
+    "published": "2026-11-03",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "광명시 박승원 시장이 교육정책 간담회에서 216억 예산 및 신규 교육사업을 발표했다.",
+    "implication": "새로운 지역 교육 사업들을 교과 과정과 연계하여 수업에 활용할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Dilemmas and Breakthroughs in Non-Core Subject Teaching in Rural Chinese Primary Schools Under the Shadow of Exam-Oriented Education",
+    "url": "https://doi.org/10.22158/wjer.v13n5p96",
+    "source": "openalex",
+    "published": "2026-11-02",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "이 연구는 중국 농촌 초등학교의 시험 중심 교육 환경에서 비핵심 과목 교육의 딜레마(수업 축소, 교사 부족, 시설 방치 등)와 그 기저 메커니즘을 교육 실습 보고서와 인터뷰 분석을 통해 밝혀내며, 학생의 의미 있는 학습 권리 보장을 위한 커리큘럼 이행 및 교사 협력 등 실제적 개선 방안을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Chuanbao Jin",
+    "pdf": "https://www.scholink.org/ojs/index.php/wjer/article/download/58223/21094",
+    "topic_rule": "assessment",
+    "topic_src": "ai",
+    "title_ko": "시험 중심 교육 환경에서 중국 농촌 초등학교 비핵심 과목 교육의 딜레마와 돌파구"
+   },
+   {
+    "n": 2,
+    "title": "Using artificial intelligence-based technology for differentiated English language learning",
+    "url": "https://doi.org/10.28989/kacanegara.v9i4.3595",
+    "source": "openalex",
+    "published": "2026-11-01",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "개인화 학습"
+    ],
+    "summary": "참여형 액션 연구를 통해 고등학교 영어 교사들이 AI(ChatGPT)를 활용한 차별화된 수업 계획을 성공적으로 개발하여, 영어 교육 내 AI 기반의 개인 맞춤형 학습 촉진에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Eka Puteri Elyani, Niswi Ulfini 외 1명",
+    "pdf": "https://ejournals.itda.ac.id/index.php/KACANEGARA/article/download/3595/pdf",
+    "topic_rule": "language",
+    "topic_src": "ai",
+    "title_ko": "인공지능 기반 기술을 활용한 차별화된 영어 학습"
+   },
+   {
+    "n": 3,
+    "title": "The design, practice, and evaluation of AI-assisted cloud platform in medical biochemistry education",
+    "url": "https://doi.org/10.21203/rs.3.rs-10990443/v1",
+    "source": "openalex",
+    "published": "2026-11-01",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "의료 생화학 교육에서 인공지능 기반 클라우드 플랫폼이 20주 통제 실험을 통해 고차원적 사고력 향상에 기여하지만, 기본 지식 유지 및 교사 업무 부담 경감에는 한계가 있음을 밝힙니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Yang-Wuyue Liu, Zhizhen Xu 외 1명",
+    "pdf": "https://www.researchsquare.com/article/rs-10990443/latest.pdf",
+    "topic_rule": "genai_tutor",
+    "topic_src": "ai",
+    "title_ko": "의료 생화학 교육에서 AI 지원 클라우드 플랫폼의 설계, 실습 및 평가"
+   },
+   {
+    "n": 4,
+    "title": "EFL Students’ Experiences with AI-Powered Language Learning Tools: Implications for Learner-Centered Intelligent Tutoring Systems",
+    "url": "https://doi.org/10.12973/eu-jer.16.1.137",
+    "source": "openalex",
+    "published": "2026-11-01",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "AI 튜터"
+    ],
+    "summary": "베트남 대학생 9명과의 질적 인터뷰를 통해 AI 기반 언어 학습 도구 경험을 분석하여, 학습자 중심 지능형 튜터링 시스템(ITS) 설계에 학생들의 기대와 우려를 반영하는 중요한 교육적 함의를 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Lam Ky Nhan",
+    "pdf": "https://www.eu-jer.com/articles/EU-JER_16_1_137.pdf",
+    "topic_src": "ai",
+    "title_ko": "EFL 학생들의 AI 기반 언어 학습 도구 경험: 학습자 중심 지능형 튜터링 시스템에 대한 함의"
+   },
+   {
+    "n": 5,
+    "title": "AI in mathematics classrooms: a synergistic strategy for diversity and inclusivity",
+    "url": "https://doi.org/10.1080/2331186x.2026.2751871",
+    "source": "openalex",
+    "published": "2026-11-01",
+    "keyword": "",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [],
+    "summary": "이 연구는 체계적 문헌 검토를 통해 수학 교육의 포괄성을 높이기 위한 AI 활용 방안을 탐구하며, UDL과 SAMR 프레임워크를 기반으로 교사 중재와 윤리적 안전장치를 통합한 SAIME 프레임워크를 개발하여 교육 불평등 해소에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Thuthukile Jita, Loyiso C. Jita 외 1명",
+    "pdf": "https://www.tandfonline.com/doi/pdf/10.1080/2331186X.2026.2751871?needAccess=true",
+    "topic_src": "ai",
+    "title_ko": "수학 교실의 AI: 다양성과 포괄성을 위한 시너지 전략"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "[11월3일] \"AI 성능 높아도 실무는 별개\"…새 벤치마크서 최고 12%에 그쳐",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216936",
+    "source": "AI Times",
+    "published": "2026-11-04",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "벤치마크"
+    ],
+    "summary": "AI 기술의 높은 성능과 실무 적용 간의 격차를 줄이기 위해, 실제 업무 환경에 최적화된 활용성 확보가 향후 산업 성장의 핵심이 될 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
+   },
+   {
+    "n": 2,
+    "title": "[AI리더의 서가] 원하는 대로 튜닝하는 나만의 sLLM",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216788",
+    "source": "AI Times",
+    "published": "2026-11-04",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [],
+    "summary": "sLLM 맞춤형 튜닝은 AI 기술의 대중화와 특정 목적에 최적화된 솔루션 개발을 가속화하여 산업 전반의 혁신을 이끌 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
+   },
+   {
+    "n": 3,
+    "title": "딥 프린시플, 일부 과학 평가서 GPT-6 아스트라 앞선 '하이드로젠' 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216967",
+    "source": "AI Times",
+    "published": "2026-11-03",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "딥 프린시플의 하이드로젠이 특정 과학 평가에서 GPT-6 아스트라를 앞서며 AI 기술 경쟁이 심화되고 전문화된 AI 모델 개발이 가속화될 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 4,
+    "title": "애플, 첫 가정용 로봇 출시 지연…하드웨어 완성에도 AI 개발 난항",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216946",
+    "source": "AI Times",
+    "published": "2026-11-03",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Apple",
+     "로봇·휴머노이드"
+    ],
+    "summary": "애플 로봇의 출시 지연은 하드웨어 완성에도 불구하고, 복잡한 실세계 환경을 위한 범용 AI 기술 개발이 여전히 산업의 최대 난관임을 보여주는 사례입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "product",
+    "topic_src": "ai"
+   },
+   {
+    "n": 5,
+    "title": "딥시크, 자연어로 AI 에이전트 기능 확장…플러그인 제작까지 자동화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216958",
+    "source": "AI Times",
+    "published": "2026-11-03",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "DeepSeek",
+     "에이전트"
+    ],
+    "summary": "자연어로 플러그인 제작까지 자동화되는 AI 에이전트는 기능 확장 장벽을 낮춰 AI 생태계의 폭발적 성장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 6,
+    "title": "NVIDIA Auto Ontology - 기업 데이터의 의미와 관계를 AI 에이전트에 연결하는 오픈소스 도구",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5DMUtpQ1l0Y293QTQwNE1TWVZ2dDI1d1dSXzhPVmNMa1JYemcybkxvdmpKcUswVWZ6MFVad29fUzhPQTZ1enFEb3hHcw?oc=5",
+    "source": "GeekNews",
+    "published": "2026-11-03",
+    "keyword": "오픈소스",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "에이전트",
+     "오픈소스"
+    ],
+    "summary": "NVIDIA Auto Ontology는 기업 데이터의 의미와 관계를 AI 에이전트에 연결하여, 엔터프라이즈 AI의 실질적 활용과 산업 생태계 확장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 7,
+    "title": "ChatGPT as a Surveillance Assistant? An Exploratory Case Study of AI-Assisted Surveillance Risks",
+    "url": "https://arxiv.org/abs/2610.40890",
+    "source": "arXiv.org AI",
+    "published": "2026-11-02",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "AI의 감시 활용 가능성 제기는 책임 있는 AI 개발과 강력한 윤리·규제적 안전장치 마련을 시급히 요구할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 8,
+    "title": "엔비디아, 클라우드 고객에 중국 기업 서비스 비중 49% 이하 요구",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216969",
+    "source": "AI Times",
+    "published": "2026-11-03",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "GPU·데이터센터"
+    ],
+    "summary": "엔비디아의 클라우드 고객 대상 중국 기업 서비스 비중 제한 요구는 중국 AI 산업의 첨단 GPU 접근을 더욱 제한하여 글로벌 AI 기술 생태계의 지정학적 이원화를 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "industry",
+    "topic_src": "ai"
+   },
+   {
+    "n": 9,
+    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+    "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+    "source": "OpenAI Blog",
+    "published": "2026-10-28",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "선도적인 AI 모델이 기업 핵심 업무 흐름에 깊이 통합되어 전사적 AI 도입과 자동화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "dup_of": "2026-11-03",
+    "topic_src": "ai"
+   },
+   {
+    "n": 10,
+    "title": "Anthropic cracks down on game cloning in Claude Code after wave of AI-built knockoffs",
+    "url": "https://the-decoder.com/anthropic-cracks-down-on-game-cloning-in-claude-code-after-wave-of-ai-built-knockoffs/",
+    "source": "The Decoder",
+    "published": "2026-11-03",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude",
+     "코딩 AI"
+    ],
+    "summary": "AI 개발사는 AI 생성 콘텐츠의 지식재산권 침해와 오용 방지를 위해 자체적인 윤리 및 기술적 제재 마련이 필수적입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {},
+ "synthesis": {
+  "headline": "AI 교육 확산과 활용 논의 활발, 현장 적용 과제도 부상",
+  "threads": [
+   {
+    "title": "AI 교육 확산",
+    "body": "각 시도 교육청이 찾아가는 AI 교육 및 AI 융합 수업설계 역량 강화 교육을 통해 AI 교육 확산에 힘쓰고 있습니다. 이는 AI 기반 언어 학습 도구에 대한 학생들의 경험을 분석한 연구와 같이 실제 교육 현장에서 AI 활용의 중요성이 커지고 있음을 보여줍니다.",
+    "refs": [
+     "edu-1",
+     "edu-7",
+     "paper-4",
+     "tech-2"
+    ]
+   },
+   {
+    "title": "AI 활용과 과제",
+    "body": "AI 기술의 발전으로 교사들이 AI를 활용한 차별화된 수업 계획을 성공적으로 개발하는 사례가 나타나고 있습니다. 하지만 AI의 높은 성능에도 불구하고 실제 교육 현장에서의 실무 적용에는 여전히 격차가 존재하며, 교사의 업무 부담 경감에는 한계가 있다는 연구 결과도 있습니다.",
+    "refs": [
+     "paper-2",
+     "paper-3",
+     "tech-1",
+     "tech-4"
+    ]
+   },
+   {
+    "title": "교육 혁신과 AI",
+    "body": "지역 교육청들이 교육혁신 사업을 추진하며 새로운 교육 방식을 시도하고 있습니다. 이러한 교육 혁신의 흐름 속에서 AI를 활용하여 수학 교육의 포괄성을 높이고 교육 불평등을 해소하려는 연구가 진행되는 등 AI가 교육 혁신의 중요한 도구로 주목받고 있습니다.",
+    "refs": [
+     "edu-3",
+     "edu-4",
+     "edu-10",
+     "paper-5"
+    ]
+   }
+  ],
+  "classroom": "우리 반 학생들의 미래 설계 역량을 키우기 위해 AI를 활용한 수업 활동을 어떻게 도입할 수 있을지 고민해 볼 수 있겠습니다.",
+  "model": "gemini-2.5-flash",
+  "items_hash": "4f1a5643e3e0"
+ },
+ "enrich": {
+  "hash": "eaff02cd9c3d",
+  "model": "gemini-2.5-flash",
+  "topics": 9,
+  "title_ko": 5,
+  "summaries": 0
+ }
+}
