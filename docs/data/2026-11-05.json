@@ -1,0 +1,509 @@
+{
+ "date": "2026-11-05",
+ "generated_at": "2026-11-05T17:27:21+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[사설] 고등교육 예산 18.2% 증액, 대학 생태계 살리는 투자 돼야",
+    "url": "https://news.unn.net/news/articleView.html?idxno=599901",
+    "source": "한국대학신문",
+    "published": "2026-11-05",
+    "keyword": "",
+    "topic": "higher_ed",
+    "kind": "opinion",
+    "entities": [
+     "교육 예산",
+     "국회"
+    ],
+    "summary": "2027년 고등교육 예산이 18.2% 증액되었으나, 국립대-사립대 균형 발전과 전체 생태계 혁신을 위한 재정 배분 방안을 국회가 심의해야 한다.",
+    "implication": "학생들은 지역 대학의 특성화 및 정부 지원 방향을 이해하며, 진로 탐색 시 지역사회와의 연계성을 고려할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
+   },
+   {
+    "n": 2,
+    "title": "[사설] 교육혁신선도지역 탈락 시·군, 재도전해야",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvekNSMFh0aUt0aGlySFNlYTQ5ZFBvallHaS1mQnN3T21USnV0LXJIWEVHT1hPT1Nyc0RmdDJiUjk0QWZvQlQ4NFhBNFBTckwyRGpIcURCNjIwbkx6d3Vqam9SY0pBVmNM?oc=5",
+    "source": "경남매일",
+    "published": "2026-11-04",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "교육혁신선도지역 선정에서 탈락한 시·군이 재도전해야 한다는 경남매일의 사설 내용입니다.",
+    "implication": "학생들이 혁신적인 프로젝트에 도전하여 실패해도 다시 시도하는 끈기를 경험하도록 지도할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
+   },
+   {
+    "n": 3,
+    "title": "[사설] 교육혁신지역 탈락 후속책 잘 만들라",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SNGk2cm51WDZUU2pjNDlSREZJRTFRbUNBWVNkNG5ZZ0ZiVHR0VjB1bzVVWVpPdmtZMGV3MWFaVm9WbjVTOVozOUd5Z2hmeVpOTXVnNEdQYzVyTWI3MTNwUTJCRzV4bW8?oc=5",
+    "source": "제민일보",
+    "published": "2026-11-04",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "제민일보 사설은 교육혁신지역 탈락에 따른 실효성 있는 후속 대책 마련을 촉구하고 있습니다.",
+    "implication": "외부 지원 유무와 상관없이 현장의 특성을 살린 수업 혁신 방안을 모색할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
+   },
+   {
+    "n": 4,
+    "title": "인천광역시교육청, 인공지능(AI)·디지털 기술 활용한 사회정서학습 지도 역량 강화",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rZVJ0MkNLZHEtenM3d0F4Q2Y1a3N0SkVuVkhPZ1hnc1hqbkF0SGZMN2k5cllDS1JZdnc5OGl5Q1dGNThPX0gzMlhObGxaZzZJV3JwdFpVQTVGMUFBcEpFZw?oc=5",
+    "source": "매일뉴스",
+    "published": "2026-11-05",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청이 AI·디지털 기술을 활용하여 사회정서학습 지도 역량을 강화합니다.",
+    "implication": "AI와 디지털 기술을 활용하여 학생들의 사회정서학습을 효과적으로 지원할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 5,
+    "title": "인천시교육청, 2026학년도 IB 후보학교 수업 공개 운영",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aX0phM01kcml2QTJHOGRCQ194WWxGYVREV2ZWbTVWZll6WEJEZUFEZWk2N2xWcmctNV9nMUdBN2thNS1iUnRoOFBNVEo1NGNPN1V2bVFrR1dTWFdwR3Y0cFNrMTFqbVFvSFE?oc=5",
+    "source": "경기도민일보 미디어",
+    "published": "2026-11-04",
+    "keyword": "과정중심평가",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "인천시교육청",
+     "IB"
+    ],
+    "summary": "인천시교육청이 2026학년도 IB 후보학교의 수업 공개를 운영합니다.",
+    "implication": "공개되는 IB 후보학교 수업을 통해 탐구 중심 학습 방법을 확인하고 제 수업에 적용할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 6,
+    "title": "남해·산청·통영·진주, 교육부 '교육혁신선도지역' 지정",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IZldXTGlfMHpsUmV3ajhWNFFubS0xalpLUU1NcUN1Ukl0TlVvNzJGUkVTX2d2cXNEVTRoSWtodV9wVzQxNmRlV3I1akV3UG42LXlnS3FLVm1Zc25UTGpFODhVdnJnTkpSRWc?oc=5",
+    "source": "경남매일",
+    "published": "2026-11-04",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "남해, 산청, 통영, 진주가 교육부의 '교육혁신선도지역'으로 지정되었습니다.",
+    "implication": "교육혁신선도지역 지정으로 수업에 활용 가능한 새로운 교육 프로그램과 자료가 제공될 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 7,
+    "title": "충남교육청, 금산·논산·부여·아산 4개 지역 ‘교육혁신선도지역’ 지정",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52aG9lQjZVQlFXYWhuMGdvZ0Z5M2xXTzAzaDBMVnFHN1NhcjB2WDQyNXNaRDc5Tk9kQmFZV0szNDdRZTBsRHJ5dzBzZFIzMXFOc1k3Wjltdm1zc1ZickRqUHowekg1Q1hn?oc=5",
+    "source": "충청타임즈",
+    "published": "2026-11-04",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "충남교육청이 금산, 논산, 부여, 아산 4개 지역을 교육혁신선도지역으로 지정했다.",
+    "implication": "교육혁신선도지역 지정으로 혁신적인 교육 프로그램이나 교수법을 수업에 적용할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 8,
+    "title": "박수형 도의원, ‘고교학점제 시행 2년차, 현장 목소리 듣는다’",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xNjhua3NzM1ZsalZ1RGVtbVJPeHZESHZpVW44QXYyQkhlbW1zTFpVaXNRM2pqSzZZMHlWaEotSldjcnoyVmJMYTljNnc3TENiU3ZyVVB6ZWhLZzlOeVFFc0xoYmZRR2VpckE?oc=5",
+    "source": "전북도민일보",
+    "published": "2026-11-04",
+    "keyword": "교육현장",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "고교학점제"
+    ],
+    "summary": "박수형 도의원이 고교학점제 시행 2년차 현장 목소리를 듣습니다.",
+    "implication": "고교학점제에 대한 여러분의 실제 경험과 의견이 정책 개선에 활용될 수 있습니다.",
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
+   },
+   {
+    "n": 9,
+    "title": "서울시교육청어린이도서관, 초등 교과서와 연계한 ‘교과 도서 코너’ 운영",
+    "url": "https://www.lecturernews.com/news/articleView.html?idxno=213215",
+    "source": "한국강사신문",
+    "published": "2026-11-05",
+    "keyword": "",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "서울시교육청"
+    ],
+    "summary": "서울시교육청어린이도서관이 2022 개정 교육과정 반영해 초등 교과 학습과 독서 연계를 위한 ‘교과 도서 코너’를 운영한다.",
+    "implication": "학생들이 교과 학습 내용을 심화하고 확장하도록 어린이도서관의 ‘교과 도서 코너’를 추천할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 10,
+    "title": "교육혁신선도지역 최다..교육 변화 기대",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GSU5xa2NWMThwRFFETXBBYmQ2bFh3UUJrejU2VnlrN2lZNGNIeF9IcnpmNXVTbnIzdlYzMDZuU1o2LVZWdWV4ZjNhdUNoNzloMlZnMVRVWkItLTNCeU9EQTNWRlE?oc=5",
+    "source": "G1방송",
+    "published": "2026-11-04",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "교육혁신선도지역이 최다로 지정되어 교육 변화에 대한 기대가 커지고 있습니다.",
+    "implication": "교육혁신선도지역의 변화에 맞춰 다양한 수업 방식을 교실에 적용할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Formative assessment in K-12 English as a foreign language education: A systematic review",
+    "url": "https://www.semanticscholar.org/paper/8910228b86c10e503075f02d42fa11dedb389e8a",
+    "source": "semantic_scholar",
+    "published": "2024-05-01",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "K-12 EFL 교육의 형성 평가에 대한 체계적 문헌 연구는 교사와 학생의 태도 및 혁신적 방법이 효과에 중요하며, 교육 시스템과 문화적 맥락의 과제를 극복하기 위한 전문성 개발과 이론-실제 통합이 필요함을 제안하여 교육 현장에 통찰력을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Han Zhang, Shigang Ge 외 1명",
+    "pdf": "https://doi.org/10.1016/j.heliyon.2024.e31367",
+    "topic_src": "ai",
+    "title_ko": "K-12 EFL 교육의 형성 평가: 체계적 문헌 연구"
+   },
+   {
+    "n": 2,
+    "title": "Enhanced conceptual understanding through formative assessment: results of a randomized controlled intervention study in physics classes",
+    "url": "https://www.semanticscholar.org/paper/77ad2a527642ad541a9f6ffc1f1b321c31a46502",
+    "source": "semantic_scholar",
+    "published": "2024-12-27",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "무작위 대조군 연구를 통해 체계적인 형성평가 교사 훈련이 학생들의 물리학 개념 이해를 효과적으로 증진하고 문제 해결 능력 저하 없이 지식 통합을 돕는 교육적 잠재력을 지님을 입증합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Andreas Lichtenberger, S. Hofer 외 1명",
+    "pdf": "https://link.springer.com/content/pdf/10.1007/s11092-024-09445-6.pdf",
+    "topic_src": "ai",
+    "title_ko": "형성 평가를 통한 개념 이해 증진: 물리학 수업 무작위 대조군 연구"
+   },
+   {
+    "n": 3,
+    "title": "Teachers' training for the use of digital tools of the formative assessment in the implementation of the concept of the New Ukrainian School",
+    "url": "https://www.semanticscholar.org/paper/7e2304892f5b67f4fbd5d0466d12128771aa8e4a",
+    "source": "semantic_scholar",
+    "published": "2022-02-05",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "이 논문은 우크라이나 신학교육 시스템 교사들을 대상으로 디지털 형성평가 도구 활용 훈련 프로그램을 개발하고 162명의 초등 교사에게 적용하여, 교육 현장에서 교사의 디지털 역량 강화와 학생 맞춤형 학습 지원의 중요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Irina Zhorova, O. Kokhanovska 외 1명",
+    "pdf": "https://acnsci.org/journal/index.php/etq/article/download/11/18",
+    "topic_src": "ai",
+    "title_ko": "새로운 우크라이나 학교 개념 구현을 위한 디지털 형성 평가 도구 활용 교사 훈련"
+   },
+   {
+    "n": 4,
+    "title": "Negotiating Digital Innovation and Pesantren Traditions: Teachers’, Administrators’, and Students’ Experiences of Digital Transformation in Islamic Religious Education",
+    "url": "https://doi.org/10.46362/moderate.v4i1.56",
+    "source": "openalex",
+    "published": "2026-11-03",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "인도네시아 이슬람 기숙학교의 질적 사례 연구를 통해, 디지털 전환이 단순한 기술 도입이 아닌 교육학적·종교적 가치와의 협상 과정임을 네 가지 차원으로 분석하며, 이슬람 교육의 의미 있는 디지털화를 이해하는 데 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Zamsiswaya Zamsiswaya, Muhammad Iqral 외 1명",
+    "pdf": "https://ptaki.or.id/journal/index.php/moderate/article/download/56/38",
+    "topic_rule": "teacher_pd",
+    "topic_src": "ai",
+    "title_ko": "디지털 혁신과 페산트렌 전통의 협상: 이슬람 종교 교육의 디지털 전환 경험"
+   },
+   {
+    "n": 5,
+    "title": "Whose Judgement Counts? An Appraisal-Informed Critical Discourse Analysis of Educational AI Communications",
+    "url": "https://doi.org/10.36892/ijlls.v8i6.2845",
+    "source": "openalex",
+    "published": "2026-11-02",
+    "keyword": "",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "생성형 AI 관련 교육 기관 및 플랫폼의 커뮤니케이션을 비판적 담화 분석으로 연구하여 글쓰기, 증거, 평가에 대한 권한 배분과 경계 설정을 밝히며, 교사가 허용 가능한 지원과 학생의 책임을 명확히 설명해야 함을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Thamer Marzouq",
+    "pdf": "https://ijlls.org/index.php/ijlls/article/download/2845/1304",
+    "topic_rule": "genai_tutor",
+    "topic_src": "ai",
+    "title_ko": "누구의 판단이 중요한가? 교육 AI 커뮤니케이션에 대한 비판적 담화 분석"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "챗GPT 검색량이 구글의 20% 도달… 구글 검색 성장률은 5년래 최고치 기록 (+BTC, ChatGPT, Google, OpenAI)",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAycGVWOFAwMUFsWHM4UDA5dTFwRjZwUjRrOXhjN08yQlF2UVY4dUNuQnQ3cV9JZVU3cl9jR3RVOE82c1NfNzh6aWdJN1h6X1JLOVdUSEFwcUhBMXJsR1ZSVTFHR1FCNVdNZ2lOSQ?oc=5",
+    "source": "민심뉴스",
+    "published": "2026-11-04",
+    "keyword": "GPT",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Google",
+     "OpenAI"
+    ],
+    "summary": "ChatGPT의 부상에도 구글 검색 시장이 동반 성장하는 것은 AI 기반 정보 검색 수요 자체가 확대되고 있음을 보여주는 현상입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "product",
+    "topic_src": "ai"
+   },
+   {
+    "n": 2,
+    "title": "KT·삼성전자, 시속 250km 고속철 '통신 끊김' AI로 잡는다",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217041",
+    "source": "AI Times",
+    "published": "2026-11-05",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "KT",
+     "삼성"
+    ],
+    "summary": "고속 이동통신 환경에 AI를 적용하여 난제를 해결하는 것은 AI 기술의 실용적 가치를 입증하고, 산업 전반의 AI 융합 생태계 확장을 가속할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
+   },
+   {
+    "n": 3,
+    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+    "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+    "source": "OpenAI Blog",
+    "published": "2026-11-04",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "Amazon"
+    ],
+    "summary": "오피니언: AWS GovCloud에 Daybreak Red가 출시됨으로써, 규제 산업 내 보안 AI 솔루션 도입이 가속화될 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 4,
+    "title": "[11월4일] \"글·코드 넘어 영상까지\"…LLM이 영상 제작 도구로 진화한다",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216981",
+    "source": "AI Times",
+    "published": "2026-11-05",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "LLM"
+    ],
+    "summary": "LLM의 영상 제작 도구 진화는 AI의 멀티모달 역량 융합을 심화하고 콘텐츠 산업의 혁신을 이끌 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 5,
+    "title": "[AI리더의 서가] 에이젠틱 디자인 패턴",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216790",
+    "source": "AI Times",
+    "published": "2026-11-05",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "오피니언: 에이젠틱 디자인 패턴은 AI 에이전트 개발에 체계적인 접근법을 제시하여, 복잡한 AI 시스템의 안정적이고 효율적인 산업 적용을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "usecase",
+    "topic_src": "ai"
+   },
+   {
+    "n": 6,
+    "title": "EU 최고법원 법무관 \"AI 기사 무단 요약은 저작권 침해\"...구글 제미나이 소송 주목",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217014",
+    "source": "AI Times",
+    "published": "2026-11-04",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "저작권·소송",
+     "Google",
+     "Gemini"
+    ],
+    "summary": "AI 무단 요약이 저작권 침해로 인정되면, AI 산업은 콘텐츠 라이선스 확보와 데이터 학습 방식의 근본적 전환을 맞이할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 7,
+    "title": "Anthropic, 파트너 에이전트와 제품을 추가해 Claude Marketplace 확장",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLVkzeUwxaUw0cTZ0N1ZRTU9lLS1EeEFFOGF2QzE4MWhPanNOaHNZNU5SRmxqbWNnYVF1SjYzNXBtUS03cUFnM0Vjc0IyU2JlWmliQlB3WHhlZV9ZdDQ4LXZPSWVhNk96WXdYRTRJSjJoNENFbHg5bGdXV0hwV3F3QmE5MjNYTlVndXJIRnRmUExMR08zSEYtazNB?oc=5",
+    "source": "Unite.AI",
+    "published": "2026-11-04",
+    "keyword": "Anthropic",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "에이전트",
+     "Claude"
+    ],
+    "summary": "Anthropic의 마켓플레이스 확장은 AI 모델을 넘어 응용 생태계 중심의 플랫폼 경쟁을 심화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "agent_dev",
+    "topic_src": "ai"
+   },
+   {
+    "n": 8,
+    "title": "\"AI에 일 맡길수록 감독 능력도 퇴화\"…앤트로픽 엔지니어 경고",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217019",
+    "source": "AI Times",
+    "published": "2026-11-04",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "AI 안전·규제"
+    ],
+    "summary": "AI 의존성 증가는 인간의 감독 및 검증 능력 약화로 이어져 AI 시스템의 안전성과 신뢰성 저하를 초래할 수 있으므로, 이에 대한 능동적 대응 전략 마련이 필수적입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 9,
+    "title": "\"AI 초장문 처리 속도 최대 35배 높인다\"…자이프라, 새 어텐션 기술 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217008",
+    "source": "AI Times",
+    "published": "2026-11-04",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "초장문 처리 효율 증대는 AI의 고비용 및 긴 문맥 제약을 해소하여 산업 전반의 AI 도입과 실제 애플리케이션 확산을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "product",
+    "topic_src": "ai"
+   },
+   {
+    "n": 10,
+    "title": "현대제철, 사내 생성 AI 통합 플랫폼 '스틸-X' 가동...전사 AX 페달링",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217017",
+    "source": "AI Times",
+    "published": "2026-11-04",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "이는 생성 AI가 전통 산업 전반의 AX(AI 전환)를 가속화하며 엔터프라이즈 AI 시장의 성장을 촉진할 핵심 동인이 될 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "agent_dev",
+    "topic_src": "ai"
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {},
+ "synthesis": {
+  "headline": "교육혁신선도지역 확대 속 AI·디지털 교육 역량 강화 논의 활발",
+  "threads": [
+   {
+    "title": "교육혁신과 AI 활용",
+    "body": "교육혁신선도지역 지정이 확대되며 새로운 교육 프로그램과 교수법 도입에 대한 기대가 커지고 있습니다. 특히 인천시교육청은 AI·디지털 기술을 활용한 사회정서학습 지도 역량 강화를 추진하며 교육 현장에서의 AI 적용 가능성을 넓히고 있습니다.",
+    "refs": [
+     "edu-4",
+     "edu-6",
+     "edu-7",
+     "edu-10"
+    ]
+   },
+   {
+    "title": "형성평가와 디지털 전환",
+    "body": "K-12 교육에서 형성평가의 중요성이 강조되는 가운데, 디지털 도구를 활용한 형성평가 훈련 프로그램이 교사의 디지털 역량 강화와 학생 맞춤형 학습 지원에 기여함을 연구 논문이 보여줍니다. 이는 AI 기술을 활용한 교육 혁신이 단순한 기술 도입을 넘어 교육학적 가치와의 협상 과정임을 시사합니다.",
+    "refs": [
+     "paper-1",
+     "paper-3",
+     "paper-4",
+     "edu-4"
+    ]
+   },
+   {
+    "title": "AI 시대의 저작권과 책임",
+    "body": "AI의 글쓰기, 증거, 평가에 대한 권한 배분과 경계 설정이 중요해지는 가운데, AI 기사 무단 요약이 저작권 침해로 인정될 경우 AI 산업 전반에 큰 변화가 예상됩니다. 교사는 AI 활용 시 허용 가능한 지원과 학생의 책임을 명확히 설명해야 할 것입니다.",
+    "refs": [
+     "paper-5",
+     "tech-6",
+     "tech-8"
+    ]
+   }
+  ],
+  "classroom": "AI와 디지털 기술을 활용하여 학생들의 사회정서학습을 지원하고, 새로운 교육 프로그램이나 교수법을 수업에 적용하는 방안을 고민해 볼 수 있습니다.",
+  "model": "gemini-2.5-flash",
+  "items_hash": "3bb4b55cbb07"
+ },
+ "enrich": {
+  "hash": "98536e97c16c",
+  "model": "gemini-2.5-flash",
+  "topics": 13,
+  "title_ko": 5,
+  "summaries": 0
+ }
+}
