@@ -1,0 +1,513 @@
+{
+ "date": "2026-11-07",
+ "generated_at": "2026-11-07T16:44:03+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "대구시교육청, 원화중·가창중 ‘IB 월드스쿨’ 인증 잇따라",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfY191VnBKdnB2VFRkUjJDSG5EblIzT2x4aVhMR3FGa042LWZNNmJQS2dsT2g1R0k4X2xLdUkwYWZSQ05qZ0sxZmEyMDhzSS1JNXR0bDVsd1NjeEZKNUdRUW52bHBGbEFRVGlwbEFLeFVSU1JmWEpYakJEaGxIWFnSAX9BVV95cUxQX2NfdVZwSnZwdlRUZFIyQ0huRG5SM09seGlYTEdxRmtONi1mTTZiUEtnbE9oNUdJOF9sS3VJMGFmUkNOamdLMWZhMjA4c0ktSTV0dGw1bHdTY3hGSjVHUVFudmxwRmxBUVRpcGxBS3hVUlNSZlhKWGpCRGhsSFhZ?oc=5",
+    "source": "뉴데일리 대구경북",
+    "published": "2026-11-06",
+    "keyword": "과정중심평가",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대구시교육청",
+     "IB"
+    ],
+    "summary": "대구 지역의 원화중과 가창중이 IB 월드스쿨 인증을 잇따라 획득했습니다.",
+    "implication": "IB 월드스쿨 인증은 수업에 탐구 중심 학습과 비판적 사고 활동을 적용할 기회입니다.",
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
+   },
+   {
+    "n": 2,
+    "title": "대전시교육청, ‘IB 교육지구’ 현장 소통 넓히며 실행 준비 본격화",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZQmtYeFk1cFRmMVEwbXhjUjJhTV93Zms2WVNsenMwX2RRcVJXR1NpR2JzMXcydm9qYmwwd1BYdkViTm9ndEJfdzJTdkJJa193WUoxM2tMZThsSy1Gc29BOE1mMA?oc=5",
+    "source": "대한민국교육신문",
+    "published": "2026-11-06",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대전시교육청",
+     "IB"
+    ],
+    "summary": "대전시교육청이 IB 교육지구 실행을 위해 현장 소통을 넓히며 준비에 본격 착수했습니다.",
+    "implication": "IB 교육지구 준비에 발맞춰 학생 주도 탐구 수업 설계를 시작할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
+   },
+   {
+    "n": 3,
+    "title": "김대중 교육감, 학교 현장서 교육정책 해법 모색…학생 아침밥부터 교원 여건까지",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIblJXT0JlbUxqeG9xNE9OTkJ3ekJqeV8wZl9pRGNPRWRSZmNNR0pnWDJ0R3lGTzFWMjFZSnVLQ3haZm1hX2o1NUhBZ3BLbk5URFpvc2I0eVd0dw?oc=5",
+    "source": "브릿지경제",
+    "published": "2026-11-06",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "김대중 교육감은 학교 현장에서 학생 아침밥부터 교원 여건까지 다양한 교육정책 해법을 모색합니다.",
+    "implication": "학생들의 아침밥과 교사의 여건 개선 논의가 학생들의 학교생활에 미칠 긍정적 영향을 이야기할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 4,
+    "title": "윤충식 경기도의원, “세입추계는 정확하게, 교육정책은 학교 현장 중심으로”",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1bEpnalFlNFFZZVFvTFpCV0VZYnpDMk1fQnY5U3BUSjh1RkJjRS1HTVdBR2NZLTVKX3Izc2RGX3Ezbl9mcUZWcEs3TW1xcUhwNWZmTk1EV0diU0VpQ3JzUU9B?oc=5",
+    "source": "메이킹뉴스",
+    "published": "2026-11-06",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "윤충식 경기도의원은 세입추계의 정확성 및 학교 현장 중심의 교육정책 추진을 강조했습니다.",
+    "implication": "학교 현장 중심 교육정책으로 교사들이 실제 수업에 필요한 내용을 제안할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 5,
+    "title": "충남교육청 \"위험성평가 완성은 개선에…안전한 교육현장 만들 것\"",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HVHpmYVhZUG50SG5aT2lfYXNYTVhka0FpRkVRMEplNXRJZjh0dWk2bFdyVzlpMEFkcEFZdVczaFpHUkNNYUYwVzFNNUhNdi1haWhPWjltYU16dkZxMkl4SXpDSGYzVmQ0eGdrMGt3?oc=5",
+    "source": "국제뉴스",
+    "published": "2026-11-06",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "충남교육청은 위험성평가를 완료하고 개선하여 안전한 교육 현장을 조성할 예정입니다.",
+    "implication": "충남교육청의 안전 강화 노력에 발맞춰 학생들과 함께 학교 내 위험성평가 활동을 직접 해볼 수 있습니다.",
+    "ai": true,
+    "topic_rule": "student_care",
+    "topic_src": "ai"
+   },
+   {
+    "n": 6,
+    "title": "김석준 부산교육감, 학부모와 함께하는 ‘2026 정책공감 미래교육 특강’ 첫발…자녀 마음건강과 부모의 역할 조명",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JRHU2NENfNWVueHQ0RDRCRTFkYnNVbTZ1dlRyRk1NS1laUkdQcEhob3p6S24wRFdUVWkyZnltSVNiaGNpaVJQNWdPTlhJenNwdVE5R3dMYk5VcGZOdDdKbkg4aUpUTzRM?oc=5",
+    "source": "복지TV부울경방송",
+    "published": "2026-11-06",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "부산시교육청",
+     "마음건강"
+    ],
+    "summary": "김석준 부산교육감이 학부모와 함께하는 2026 미래교육 특강에서 자녀의 마음 건강과 부모의 역할을 조명했습니다.",
+    "implication": "학생들의 마음 건강 증진을 위해 공감대 형성 활동이나 소통 기회를 수업 시간에 마련할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "student_care",
+    "topic_src": "ai"
+   },
+   {
+    "n": 7,
+    "title": "경기도교육청미디어교육센터, AI·미디어 수업사례 교육정책 반영",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BM2paU0prMmNjT2ljWWZ6NG1RcWcyLWlWRW0xZXk2RnBDd3c0ODVRbEpzN3BQQUpmdVAyTzZvam9EVVRMQlR0OTRpdmxEWnFCSUJuUll5cFBJWVJKOGVIa1pPcFY0ak15WkhVTQ?oc=5",
+    "source": "스마트비즈",
+    "published": "2026-11-06",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청미디어교육센터는 AI·미디어 수업사례를 교육정책에 반영합니다.",
+    "implication": "교육정책에 반영된 AI·미디어 수업사례들을 수업에 적용할 방안을 모색할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
+   },
+   {
+    "n": 8,
+    "title": "경기도의회 교육기획위, 경기교육 행정사무감사 돌입…교육정책 실효성 집중 점검",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03Tll6Y0RuUmtDWHBONUdpcEhBVlZEdi01c09vQVRjdTRrME9RZVpCQjhZY2E3Y0sxN1RXMllJLVU5VHRuUUVtOVJ1M2xXRVh3RENjd2dnZEc1Zmdo?oc=5",
+    "source": "선데이뉴스신문",
+    "published": "2026-11-06",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도의회 교육기획위가 경기교육 정책 실효성 점검을 위한 행정감사에 돌입했습니다.",
+    "implication": "현재 적용 중인 교육정책이 수업 현장에서 어떻게 작동하는지 돌아볼 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 9,
+    "title": "AI 에이전트, 업무 방식·노동 구조 재편…산업 생태계 혁신",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3MEctOW0xSUpMS0REdlhvb0VSOG0xd05ybXFPX3NWd1huZGtRcHhsMkNVejNiZkFwOEEtMU45clRxMmV0WXlSRkVoTTVjVlZyRWxsclpOZEdPN1JueWVvMXE0Q0UxNlZV0gFsQVVfeXFMTTZSQlZKSFhUYVQxeTNaUGhVaEtjdTRpbF95Q1JTeWphWkc0VjlHZUZuejdfVTdfcTk4WTB1aWZqZ2Zyb1hGQ194a19icEhLNnNWMzAtZnlHU09XS2lzQzJrOWt1c0xOeDdTaHFt?oc=5",
+    "source": "정보통신신문",
+    "published": "2026-11-06",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "AI 에이전트가 업무 방식과 노동 구조를 재편하며 산업 생태계를 혁신할 것입니다.",
+    "implication": "우리 학생들은 AI 에이전트와 협력하며 새로운 방식으로 문제를 해결하는 역량을 키울 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 10,
+    "title": "AI 활용 넘어 전공 수업 혁신으로…경북전문대, 교수법도 바꾼다",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DTU1EM0RYVlUySkpNMDUwTnZMcjEzWkhhUmsxSHdsdkdfdWFLTlJOaElWRlhzRmpFNVZZbmllaGJDQlFQNjY1cWN1dFdhS2lhcEJnbjh6c01mRm_SAVZBVV95cUxNSzdaeTFMbEtrdXM0NmwtemtocVJiVVVfd0tNVXRnUmlKc2JLYjV1NzZKelVjbGF3dTczZDVxem9vZmZJdTd6bzYtWVlWOFpBQjFKS3VEdw?oc=5",
+    "source": "더팩트",
+    "published": "2026-11-07",
+    "keyword": "인공지능교육",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [],
+    "summary": "경북전문대는 AI 활용을 넘어 전공 수업 혁신과 교수법 변화를 추진합니다.",
+    "implication": "AI를 활용해 제 과목 수업을 혁신하고 교수법 변화를 시도할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "ai_digital",
+    "topic_src": "ai"
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Editorial: New directions of research and measurement in cognitive load theory",
+    "url": "https://doi.org/10.3389/fpsyg.2026.2036732",
+    "source": "openalex",
+    "published": "2026-11-05",
+    "keyword": "",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 인지부하 이론이 다양한 분야 및 측정 방식으로 확장되며 교육 학습 설계를 위한 새로운 연구 방향을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Juan Cristobal Castro-Alonso, Björn B. de Koning 외 1명",
+    "pdf": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.2036732/pdf",
+    "topic_src": "ai",
+    "title_ko": "논평: 인지 부하 이론 연구 및 측정의 새로운 방향"
+   },
+   {
+    "n": 2,
+    "title": "Editorial: Navigating the digital transformation of healthcare learning through generative AI",
+    "url": "https://doi.org/10.3389/fmed.2026.2026945",
+    "source": "openalex",
+    "published": "2026-11-05",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "문해력"
+    ],
+    "summary": "이 연구는 의료 교육에 빠르게 도입된 생성형 AI의 교육적 가치와 한계를 다양한 연구를 통해 분석하고, 책임감 있는 활용을 위한 거버넌스, AI 문해력 및 교원 역량의 중요성을 강조하며, AI가 학습을 보완하는 도구로 활용되어야 함을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Elisabeth Schlegel, Luke Andrew Woodham 외 1명",
+    "pdf": "https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.2026945/pdf",
+    "topic_src": "ai",
+    "title_ko": "논평: 생성형 AI를 통한 의료 학습의 디지털 전환 탐색"
+   },
+   {
+    "n": 3,
+    "title": "THE IMPACT OF THE HYBRID LEARNING APPROACH ON MATHEMATICS PERFORMANCE IN ELEMENTARY AND MIDDLE SCHOOL",
+    "url": "https://doi.org/10.51473/rcmos.v1i2.2026.3130",
+    "source": "openalex",
+    "published": "2026-11-04",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [
+     "AI 튜터"
+    ],
+    "summary": "이 논문은 통합 문헌 검토를 통해 K-8학년 수학 학습에 대한 하이브리드 학습의 영향을 분석하며, 적응형 소프트웨어 및 지능형 튜터링 시스템을 포함한 잘 설계된 모델이 긍정적 효과를 내지만 그 성공은 교육 설계와 실행에 달려있음을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "TULIKA SAMAL",
+    "pdf": "https://submissoesrevistarcmos.com.br/rcmos/article/download/3130/7354",
+    "topic_rule": "stem_ct",
+    "topic_src": "ai",
+    "title_ko": "초등 및 중등 수학 성과에 대한 하이브리드 학습 접근 방식의 영향"
+   },
+   {
+    "n": 4,
+    "title": "Lecturers’ Perceptions and Experiences in Using Assessment Software in a Higher Education Context",
+    "url": "https://doi.org/10.47191/ijsshr/v9-i11-01",
+    "source": "openalex",
+    "published": "2026-11-05",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "이 연구는 베트남 외국어로서의 영어 강사 12명을 대상으로 온라인 설문조사를 통해 평가 소프트웨어의 긍정적 인식과 활용상의 기술적 어려움 및 훈련 부족을 밝혀내어, 향후 효과적인 디지털 평가를 위한 전문 교육과 지원의 필요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Thuy Anh Thi Tran, Kieu Trang Thi Nguyen",
+    "pdf": "https://ijsshr.in/v9i11/Doc/1.pdf",
+    "topic_rule": "literacy_ethics",
+    "topic_src": "ai",
+    "title_ko": "고등 교육 환경에서 평가 소프트웨어 사용에 대한 강사들의 인식과 경험"
+   },
+   {
+    "n": 5,
+    "title": "Reimagining built environment education in Malaysia: an AI-enhanced BIM teaching and learning framework",
+    "url": "https://doi.org/10.3389/feduc.2026.1954644",
+    "source": "openalex",
+    "published": "2026-11-05",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "말레이시아 건축 환경 교육에서 BIM과 AI 통합을 위한 디지털 구축 환경 교육 프레임워크(DBEEF)를 문헌 및 제도 분석으로 제안하며, 이는 교육의 실증적 평가 기반을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Christopher Preece, Teck Wei Ng 외 1명",
+    "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1954644/pdf",
+    "topic_src": "ai",
+    "title_ko": "말레이시아 건축 환경 교육 재구상: AI 강화 BIM 교육 및 학습 프레임워크"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "구글 출신 연구진, 65B 모델로 8배 큰 AI 코딩 성능 추월…개발비도 10분의 1",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217107",
+    "source": "AI Times",
+    "published": "2026-11-06",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "코딩 AI"
+    ],
+    "summary": "성능 대비 비용 효율적인 AI 모델의 등장은 AI 개발 진입 장벽을 낮춰 시장 경쟁과 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 2,
+    "title": "TSMC, 엔비디아 요청에 3D D램 검토…삼성·SK하이닉스와 경쟁하나",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217123",
+    "source": "AI Times",
+    "published": "2026-11-07",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "삼성",
+     "SK",
+     "GPU·데이터센터"
+    ],
+    "summary": "TSMC의 3D D램 검토는 AI 반도체 성능 향상을 위한 이종 집적화 트렌드를 가속하며, AI 기술 생태계의 핵심 공급망에 구조적 변화를 가져올 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 3,
+    "title": "엔비디아, 미국 노후 전화국 130곳 AI 데이터센터로 전환 추진",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217096",
+    "source": "AI Times",
+    "published": "2026-11-06",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "GPU·데이터센터"
+    ],
+    "summary": "엔비디아의 노후 시설 AI 데이터센터 전환은 분산형 대규모 AI 컴퓨팅 인프라를 빠르게 확충하여 AI 산업 발전을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 4,
+    "title": "카카오, GPT-6 루나보다 43배 빠른 AI 판단 모델 공개…오픈소스로 배포",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91SnRrenc5SFlyZ2MtOGFWcE4wQmw0YlY4akpkd0FVMURRZk9sUUk2bmtVTXpmenVBZVdvLThSR2pMUC14VFFtN2xqVXpWbnExY29vMXpDWS0?oc=5",
+    "source": "우리경제신문",
+    "published": "2026-11-06",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "카카오",
+     "ChatGPT",
+     "오픈소스"
+    ],
+    "summary": "카카오의 초고속 오픈소스 AI 모델은 AI 기술의 비용 효율적 대중화와 산업 전반의 혁신을 촉진할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 5,
+    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+    "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+    "source": "OpenAI Blog",
+    "published": "2026-11-04",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Amazon"
+    ],
+    "summary": "Daybreak Red의 AWS GovCloud 출시는 고보안 및 규제 준수 환경의 AI 기술 도입을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "dup_of": "2026-11-05",
+    "topic_rule": "policy_safety",
+    "topic_src": "ai"
+   },
+   {
+    "n": 6,
+    "title": "브록먼 “상반기 코딩 시장서 고전…'GPT-5.6 솔'로 반등 성공”",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ibUd5SmsweHplY2NJQVg0MHE5Wjd0enRXcHZpeXRIR0d6MTN4TXF1UG10UWZTQk9mVlJWVmNsYnZISGg4R0UtYmRiNVhzaGZYa1NWYTZCbVFfX3NMaHJ2ZF9xY004c3ZoUlE?oc=5",
+    "source": "AI타임스",
+    "published": "2026-11-06",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "코딩 AI",
+     "ChatGPT"
+    ],
+    "summary": "GPT-5.6 솔을 통한 성공은 최신 AI 모델이 시장 고전을 극복하고 산업 경쟁력을 결정짓는 핵심 동력이 될 것입니다.",
+    "implication": "",
+    "ai": true,
+    "dup_of": "2026-11-06",
+    "topic_src": "ai"
+   },
+   {
+    "n": 7,
+    "title": "앤트로픽, AI 자기개선 가속 징후…개발 속도 2배·미공개 모델 3개 확인",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217080",
+    "source": "AI Times",
+    "published": "2026-11-06",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Anthropic"
+    ],
+    "summary": "AI 자기개선 가속 징후는 전반적인 AI 기술 발전 속도를 획기적으로 높여 산업 주도권 경쟁을 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 8,
+    "title": "Merge builds product and business tools with OpenAI technology",
+    "url": "https://openai.com/index/merge-builds-with-openai",
+    "source": "OpenAI Blog",
+    "published": "2026-11-05",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "OpenAI 기술을 활용한 비즈니스 도구 개발은 AI 기술의 산업 응용 확산과 상용화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "dup_of": "2026-11-06",
+    "topic_rule": "agent_dev",
+    "topic_src": "ai"
+   },
+   {
+    "n": 9,
+    "title": "AI 투자 중심축 이동하나···조셉 칼슨, 엔비디아보다 아마존·구글에 주목",
+    "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOblRPVW50VHQ0Q2FqbU8zNXRqYzVJTGx4b0NRRERTQlp0V01NcFVvamxfcXRJOFBROVVnOWNLTHotTGRDRElSNW5zLUhXS1ZGOVV5aVZzZE85bHJnVnl3RVVnY29HdG9jYzRLdmxWVjRCMjBJbldiYm9XY1JOZWV5bjh5YXpLWXpaWEtZUjFLVnpON2lpLVNrOWkzVmNNRE5xdTlfak5SOFVNc3RRQmRyOHpibi1QRU1PZ0JCQUlRODhHc0hnOEZmdUhNaF81SDBuQS00M0pSY015MnhoTEwxOVhqLWpGQ1RENGZaR3lRZEo2S2c5QjdWaTE4X0JQcWxFazNLa2JxeG50bUtNY1hmcWUwOEpfbk4teURGU0taVGhtS0pORjQxaVdaeFZ2M0gtRkhaZktTNnVqRFV0UnRLazJlblpWUWNX?oc=5",
+    "source": "Benzinga",
+    "published": "2026-11-06",
+    "keyword": "구글",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "Amazon",
+     "Google"
+    ],
+    "summary": "오피니언: AI 투자 중심축이 엔비디아의 하드웨어에서 아마존·구글의 AI 서비스 및 플랫폼으로 이동하며, AI 생태계의 핵심 가치 창출 구조가 변화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 10,
+    "title": "OpenAIs GPT-6 Cyber can both break into systems and propose how to fix them",
+    "url": "https://the-decoder.com/openais-gpt-6-cyber-can-both-break-into-systems-and-propose-how-to-fix-them/",
+    "source": "The Decoder",
+    "published": "2026-11-05",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "GPT-6의 해킹 및 보안 개선 이중 능력은 AI가 사이버 보안 시장의 핵심 동력이자 기술 윤리 논의의 중심이 될 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {},
+ "synthesis": {
+  "headline": "AI 교육 확산 속, 현장 중심 교육 정책과 교수법 혁신 모색",
+  "threads": [
+   {
+    "title": "AI 교육의 일상화",
+    "body": "AI 기술의 발전과 함께 교육 현장에서는 AI를 활용한 수업 사례가 교육정책에 반영되고 있으며, 대학에서는 AI를 활용한 전공 수업 혁신과 교수법 변화를 시도하고 있습니다. 이는 AI 에이전트가 업무 방식과 노동 구조를 재편하며 산업 생태계를 혁신하는 흐름 속에서 학생들이 새로운 방식으로 문제를 해결하는 역량을 키울 필요성을 시사합니다.",
+    "refs": [
+     "edu-7",
+     "edu-10",
+     "edu-9"
+    ]
+   },
+   {
+    "title": "탐구 중심 교육 강화",
+    "body": "대구 지역의 IB 월드스쿨 인증과 대전시교육청의 IB 교육지구 준비는 탐구 중심 학습과 비판적 사고 활동을 수업에 적용할 기회를 제공합니다. 이러한 흐름은 인지부하 이론 연구가 교육 학습 설계를 위한 새로운 방향을 제시하며, 잘 설계된 하이브리드 학습 모델이 수학 학습에 긍정적 효과를 낼 수 있음을 강조하는 연구와도 연결됩니다.",
+    "refs": [
+     "edu-1",
+     "edu-2",
+     "paper-1",
+     "paper-3"
+    ]
+   },
+   {
+    "title": "현장 중심 정책 중요성",
+    "body": "학교 현장 중심의 교육정책 추진이 강조되고 있으며, 이는 교사들이 실제 수업에 필요한 내용을 제안할 수 있는 기회를 제공합니다. 동시에, 교원 여건 개선 논의와 학생들의 마음 건강 증진을 위한 노력이 학생들의 학교생활에 긍정적인 영향을 미칠 수 있음을 보여줍니다.",
+    "refs": [
+     "edu-4",
+     "edu-3",
+     "edu-6"
+    ]
+   }
+  ],
+  "classroom": "AI 기술의 발전과 교육 현장의 변화를 고려하여, 우리 반 학생들과 함께 AI를 활용한 새로운 수업 방식을 탐색해 볼 수 있습니다.",
+  "model": "gemini-2.5-flash",
+  "items_hash": "2576628f45a6"
+ },
+ "enrich": {
+  "hash": "113289027004",
+  "model": "gemini-2.5-flash",
+  "topics": 10,
+  "title_ko": 5,
+  "summaries": 0
+ }
+}
