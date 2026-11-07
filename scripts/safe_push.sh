@@ -27,7 +27,7 @@ echo "::warning::rebase 충돌 — 원천 JSON만 보존하고 파생물을 다�
 git rebase --abort || true
 
 # 우리 커밋(HEAD)이 바꾼 원천 데이터만 추린다: 날짜 레코드 · 주간 JSON. (index/search/entity 등 집계는 재생성 대상)
-KEEP=$(git diff --name-only HEAD~1 HEAD -- 'docs/data/' | grep -E '^docs/data/(weekly/)?[0-9]{4}-[0-9]{2}-?[0-9W]*\.json$' || true)
+KEEP=$(git diff --name-only HEAD~1 HEAD -- 'docs/data/' | grep -E '^docs/data/([0-9]{4}-[0-9]{2}-[0-9]{2}|weekly/[0-9]{4}-W[0-9]{2})\.json$' || true)
 TMP=$(mktemp -d)
 for f in $KEEP; do
   mkdir -p "$TMP/$(dirname "$f")"
