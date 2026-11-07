@@ -198,8 +198,8 @@ def synthesize_week(week: dict, items: list[dict], api_key: str | None = None, m
         lines.append(f"[{it['d']}:{it['s']}-{it['n']}] {it['title'].strip()}" + (f" — {summ}" if summ else ""))
     body = {
         "contents": [{"role": "user", "parts": [{"text": WEEK_PROMPT.format(label=week["label"], items="\n".join(lines))}]}],
-        "generationConfig": {"temperature": 0.4, "maxOutputTokens": 4096, "responseMimeType": "application/json",
-                             "thinkingConfig": {"thinkingBudget": 0}},
+        "generationConfig": {"maxOutputTokens": 4096, "responseMimeType": "application/json",
+                             "thinkingConfig": {"thinkingLevel": "minimal"}},
     }
     try:
         resp = requests.post(GEMINI_ENDPOINT.format(model=model), params={"key": api_key}, json=body, timeout=120)

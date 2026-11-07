@@ -164,7 +164,7 @@ python scripts/fetch_and_generate.py                  # 오늘(폴백 허용) + 
 - **분류는 규칙 기반이 바닥, Gemini가 보정.** 규칙 추가는 `taxonomy.TOPICS`/`ENTITIES`에 패턴 한 줄 → `--task reclassify`로 재페치 없이 과거 전체에 적용 (Gemini가 고른 `topic_src: ai`는 유지, 규칙 결과는 `topic_rule`에). 패턴의 `\b`는 컴파일 때 ASCII 경계로 바뀐다 — 한글 조사가 붙은 영문 토큰 때문. 라벨 회귀 세트는 `tests/test_taxonomy.py`
 - **중복은 지우지 않고 표시한다.** 같은 기사가 이틀 실리면 둘째 날에 `dup_of` — 지면 구조(10/5/10)와 게이트 건수는 유지, 집계만 제외
 - **OG 이미지는 파생물.** Playwright 설치 실패·렌더 실패 시 페이지는 기본 `og-image.jpg`로 폴백하고 작업은 계속된다. JPEG 품질 80, 장당 약 25KB
-- **Gemini 종합은 선택**. 없으면 결정적 헤드라인("오늘 25건 · 가장 많이 등장한 주체 …")로 대체. 모델은 수집기와 같은 `gemini-2.5-flash`(`GEMINI_MODEL`로 변경), REST 직접 호출
+- **Gemini 종합은 선택**. 없으면 결정적 헤드라인("오늘 25건 · 가장 많이 등장한 주체 …")로 대체. 모델은 수집기와 같은 `gemini-3.5-flash-lite`(`GEMINI_MODEL`로 변경), REST 직접 호출
   - Gemini 2.5는 **생각(thinking) 토큰이 `maxOutputTokens`를 잠식**한다. 2026-11-02 첫 실행에서 한도 1200으로 JSON이 잘려 `[SYN] 응답 파싱 실패`.
     지금은 한도 4096 + `thinkingConfig.thinkingBudget: 0` + 느슨한 JSON 파싱(`_parse_json_loose`). 실패 로그에 응답 앞 160자가 남는다
 - 교육 뉴스 설명: Gemini 요약이 없어도 전체 표시 (필터 안 함)

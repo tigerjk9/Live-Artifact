@@ -9,7 +9,7 @@
              교육 뉴스는 교실 시사점 한 문장. item["summary"], item["implication"], item["summary_src"]="ai-backfill".
 
 - 결과는 레코드에 저장되고 enrich_hash(항목 URL + 과제 집합)가 같으면 재호출하지 않는다.
-- 모델·호출 방식은 synthesis.py와 같다 (REST, gemini-2.5-flash, thinkingBudget 0).
+- 모델·호출 방식은 synthesis.py와 같다 (REST, gemini-3.5-flash-lite, thinkingLevel minimal).
 """
 
 from __future__ import annotations
@@ -116,10 +116,9 @@ def enrich_record(
     body = {
         "contents": [{"role": "user", "parts": [{"text": prompt}]}],
         "generationConfig": {
-            "temperature": 0.2,
             "maxOutputTokens": 6144,
             "responseMimeType": "application/json",
-            "thinkingConfig": {"thinkingBudget": 0},
+            "thinkingConfig": {"thinkingLevel": "minimal"},
         },
     }
     try:

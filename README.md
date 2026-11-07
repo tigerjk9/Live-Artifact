@@ -70,7 +70,7 @@ pip install requests python-dateutil
    | 이름 | 필수 | 용도 |
    |------|------|------|
    | `NEWS_GITHUB_TOKEN` | 예 | 소스 레포 3곳을 읽는 PAT |
-   | `GEMINI_API_KEY` | 아니오 | 오늘의 흐름 보드에 Gemini 종합 (`gemini-2.5-flash`, 하루 1회) |
+   | `GEMINI_API_KEY` | 아니오 | 오늘의 흐름 보드에 Gemini 종합 (`gemini-3.5-flash-lite`, 하루 1회) |
 
 2. **Pages** — `Settings → Pages → Branch: main, Folder: /docs`
 3. **첫 실행** — `Actions → Daily News Update → Run workflow`

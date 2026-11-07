@@ -3,7 +3,7 @@
 
 - 환경변수 GEMINI_API_KEY 가 없으면 아무 것도 하지 않고 None 을 돌려준다.
   보드는 결정적 집계(주제·주체·교차 연결·7일 흐름)만으로도 완전하게 그려진다.
-- 모델은 수집기 3곳과 동일한 gemini-2.5-flash 기본 (GEMINI_MODEL 로 변경).
+- 모델은 수집기 3곳과 동일한 gemini-3.5-flash-lite 기본 (GEMINI_MODEL 로 변경).
 - SDK 없이 REST 로 호출해 워크플로우 의존성을 requests 하나로 유지한다.
 - 결과는 레코드에 저장되고 items_hash 가 같으면 재호출하지 않는다 (cron 재시도 시 비용 0).
 """
@@ -19,7 +19,7 @@ import sys
 import requests
 
 GEMINI_ENDPOINT = "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
-DEFAULT_MODEL = "gemini-2.5-flash"
+DEFAULT_MODEL = "gemini-3.5-flash-lite"
 
 SECTION_KO = {"edu": "교육 뉴스", "paper": "연구 논문", "tech": "AI 기술 뉴스"}
 
@@ -88,12 +88,12 @@ def synthesize(record: dict, api_key: str | None = None, model: str | None = Non
     body = {
         "contents": [{"role": "user", "parts": [{"text": PROMPT.format(items=items_txt)}]}],
         "generationConfig": {
-            "temperature": 0.4,
-            # 2.5 계열은 '생각' 토큰이 출력 한도를 잠식한다 — 한도를 넉넉히 두고 생각은 끈다
+            # '생각' 토큰이 출력 한도를 잠식한다 — 한도를 넉넉히 두고 생각은 최소로 둔다
             # (2026-11-02 첫 실행에서 1200 한도로 JSON이 잘려 파싱 실패).
+            # 3.5-flash-lite는 thinkingBudget을 HTTP 400으로 거부하고 temperature는 무시한다.
             "maxOutputTokens": 4096,
             "responseMimeType": "application/json",
-            "thinkingConfig": {"thinkingBudget": 0},
+            "thinkingConfig": {"thinkingLevel": "minimal"},
         },
     }
     url = GEMINI_ENDPOINT.format(model=model)
