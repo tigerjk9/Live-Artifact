@@ -1,0 +1,490 @@
+{
+ "date": "2026-11-08",
+ "generated_at": "2026-11-08T16:55:24+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "경기도교육청 \"교원 평가 설계 역량 뒷받침해 학교 현장 내실화 이끌 것\"",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rRUhLYjZrQi16QWVodmItXzFSZjBjX29kSlhjaHpySWY1eUhHX29sa1VkbXpEcDVCOHlwZTNMaWszRktkbm5lLXZKMF93MkRSbjFXdlBmNlRzbmliaW81RmhFMjliYlktUWc?oc=5",
+    "source": "컨슈머타임스",
+    "published": "2026-11-07",
+    "keyword": "과정중심평가",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청은 교원의 평가 설계 역량을 강화하여 학교 현장의 내실화를 이끌겠다고 밝혔습니다.",
+    "implication": "교사들은 평가 설계 연수를 통해 학생 평가 전문성을 높이고 실제 수업에 적용할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 2,
+    "title": "이건한 경기도의원, 교육감 핵심 정책의 학교 현장 체감형 구체적 실행전략 마련 촉구 > 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBldVd4MzNnc2E3STExYmNqMG01TVdZank4YXpqV0w3TmR3dklTOWhWZGpKazdVZTBTQTRsNUduOExuMl8xQmFXOGY2R1hteEM4OE9raG9sd0Zka2VPa3dLREpRdDM3ci1BQkJmVjVudFNNQQ?oc=5",
+    "source": "더코리아",
+    "published": "2026-11-07",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "이건한 경기도의원은 교육감 핵심 정책의 학교 현장 체감형 실행 전략 마련을 촉구했습니다.",
+    "implication": "교사들은 정책의 취지를 살려 우리 반 학생들의 눈높이에 맞는 구체적인 활동으로 재구성하여 적용할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 3,
+    "title": "경북교육청 인공지능교육관, 정식 개관 `경북 AI교육의 새로운 출발`",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EQlZNaUphNVNZWFZLUU1rMERtR1pLMFphX1Y2SEpsLURaNDBOTGhieUQ5R3pUa09GMXBoNXpfM2pqTG9obnN5T3loQjgxWUdaWjJJ?oc=5",
+    "source": "CBN뉴스",
+    "published": "2026-11-07",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경북교육청"
+    ],
+    "summary": "경북교육청 인공지능교육관이 정식 개관하여 경북 AI 교육의 새로운 출발을 알렸습니다.",
+    "implication": "인공지능교육관의 체험 프로그램과 인프라를 활용하여 학생들에게 실제적인 AI 학습 기회를 제공할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 4,
+    "title": "서울교육, 예산만 쏟아붓고 성과는?…교육정책 전반 도마",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1TUJaQWtOS3ZTS3AwbGtpRnJ6RlRKVlRqNmJ6MnlEWlM5ckpHaGx3QUtySDdWVmhNYURkbkREZlZNRnAza09vT1QzbUlGVi1YVTBuYWpXbFI4UzA2ZHU4UWp1ZEx5aUU?oc=5",
+    "source": "교육플러스",
+    "published": "2026-11-07",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "서울시교육청"
+    ],
+    "summary": "서울시교육청의 교육정책이 막대한 예산 투입에도 불구하고 실질적인 성과가 미흡하다는 비판을 받고 있습니다.",
+    "implication": "전시성 행정보다 학생들의 실제 성장에 도움이 되는 내실 있는 수업 설계에 집중할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 5,
+    "title": "경기 수학 한마당, 학생·학부모·교원 AI·디지털 수업 혁신 참여",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16WmdhT0Roc0VKcV9TTmFKaldudDM3V3llYVpPY01OTDV0UGFYYTR1ZmdWa1RRbjZxNXMwQU5ZV2E1WEtXaFJpX0VBMmZYS016Qkt2eXFNd25NdUpYaXdxN2xkblVxcXl6LXFr?oc=5",
+    "source": "한국사회복지저널",
+    "published": "2026-11-08",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "경기 수학 한마당에서 학생, 학부모, 교원이 AI와 디지털 기반의 수업 혁신에 참여했습니다.",
+    "implication": "인공지능과 디지털 도구를 활용하여 학생들의 수학 학습 흥미를 높이는 체험 중심 수업을 구성할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 6,
+    "title": "서울시교육청, 2027년도 예산안 11조 8,014억 원 편성",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LQUdwZlU1SlBYZ3V0SWR1UHpfX0QyOUZJTDFvNDZucDJNRllnQjBoUkdwV2lGb2NZcC1UUVNoR2FJLUNXVzFhc0JkV0czZFg5aVQ3QWpLMkRxMW91ZFVFVg?oc=5",
+    "source": "유교신문",
+    "published": "2026-11-07",
+    "keyword": "디지털교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "서울시교육청",
+     "교육 예산"
+    ],
+    "summary": "서울시교육청이 2027년도 예산안으로 총 11조 8,014억 원을 편성했습니다.",
+    "implication": "교육 예산 확대에 따른 학교 현장의 지원 변화를 미리 파악하고 수업 계획에 반영할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 7,
+    "title": "[생성형 AI에 밀린 3D 렌더링 기술, 로봇 훈련용 '고충실도 시뮬레이션'으로 부활] 피지클은 기초 모델 빌더와 로봇 운영자에게 데이터와 도구를 제공하려는 경쟁이 치열한 스타트업 시장에 진입",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1NbGxDak1kUGYtaUM3WnVtSGJaM2ZNUkxlaDhHN0JwUnVnN2tjTm51eEgwTnlUcU0wUjQwNGN5Yjg?oc=5",
+    "source": "AI넷",
+    "published": "2026-11-07",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "로봇·휴머노이드"
+    ],
+    "summary": "생성형 AI에 밀렸던 3D 렌더링 기술이 로봇 훈련용 시뮬레이션으로 재조명받고 있습니다.",
+    "implication": "학생들과 함께 로봇 시뮬레이션 기술이 AI 및 산업 분야에서 어떻게 활용되는지 탐구할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 8,
+    "title": "학교에서 대덕특구까지…대전시교육청, AI 인재 성장체계 구축 추진",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VN3NCdHpRQVdlQWRIRFR1WTc2MzNGUk00dDNMZEtvb1Nxd0llZEdWT19TRGlVRk5YMHB6X0FobDkzYWphSDRlbUh3cnpyRWZaWTdidw?oc=5",
+    "source": "타임뉴스",
+    "published": "2026-11-07",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "대전시교육청은 학교부터 대덕특구까지 연계한 AI 인재 성장 체계 구축을 추진합니다.",
+    "implication": "지역의 대덕특구 인프라와 연계하여 학생들에게 생생한 인공지능 체험과 진로 지도 수업을 할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
+   },
+   {
+    "n": 9,
+    "title": "인천시교육청, 국가정보원 지부와 손잡고 미래 화이트해커 양성",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFR1NMRHFzeExuQ2FLY0xsS1VpQlQyLU9pOWdaQWRYZlljc3JvbkFNVGVxZDJhZXo1MFpzZHEya25kRUMwZk5GQWU3dTZRbW1fUlppX01VeHhSSXNZOFhEUU51bThjN0JPVVF1aWln?oc=5",
+    "source": "전국매일신문",
+    "published": "2026-11-08",
+    "keyword": "AI교육",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청이 국가정보원 지부와 협력하여 미래 화이트해커 양성에 나섭니다.",
+    "implication": "국정원과의 연계 프로그램을 활용해 학생들에게 생생한 정보보안 교육을 제공할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
+   },
+   {
+    "n": 10,
+    "title": "김대중 교육감, 일곡중 조식카페 방문…학교 현안 청취",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wNDJkSkVNZXp3VW9GS2sxbjRqX1pLTFRjOW0tYVl1cFpQY1BQYVZJUjc3N2ZGVmtDVjA3UUp0VG5VSGo4a25YMHJZdjYyNEZCN0w0QWhUV3lqcHlSN3Z4Y2cxSEs4VC1XbUx5NA?oc=5",
+    "source": "호남교육신문",
+    "published": "2026-11-08",
+    "keyword": "교육혁신",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [],
+    "summary": "김대중 교육감이 일곡중학교의 조식카페를 방문하여 학교 현안을 청취했습니다.",
+    "implication": "학생들의 아침 식사 중요성과 건강한 식습관을 주제로 한 토론 수업을 진행할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Artificial Intelligence in Education: Pedagogical Opportunities, Implementation Constraints, Academic Integrity and Teacher Agency: A Critical Narrative Review",
+    "url": "https://doi.org/10.9734/ajess/2026/v52i113457",
+    "source": "openalex",
+    "published": "2026-11-05",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 문헌 검토를 통해 AI가 교육에 미치는 영향과 한계를 분석하고, 도구 자체가 아닌 인간 교사의 통제와 공정한 접근을 결합한 수업 체계가 교육적 효과를 결정함을 밝힙니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Nanzip Freeman Miri, Salisu Muhammad Baba 외 1명",
+    "pdf": "https://www.journalajess.com/index.php/AJESS/article/download/3457/8711",
+    "topic_rule": "teacher_pd",
+    "topic_src": "ai",
+    "title_ko": "교육에서의 인공지능: 교육적 기회, 구현 제약, 학문적 진실성과 교사 주체성"
+   },
+   {
+    "n": 2,
+    "title": "Artificial Intelligence in University Physical Education Pedagogy: A Curriculum Framework for Vietnam",
+    "url": "https://doi.org/10.17309/tmfv.2026.6.03",
+    "source": "openalex",
+    "published": "2026-11-05",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 체육 교육에서 인공지능을 자율적 교사가 아닌 지원 도구로 활용하는 베트남 대학용 커리큘럼 프레임워크를 제안하여 효과적인 교육 혁신을 도모합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Nguyễn Đức Thành, Truong Ngoc Duong 외 1명",
+    "pdf": "https://tmfv.com.ua/journal/article/download/4714/2068",
+    "topic_rule": "design_curric",
+    "topic_src": "ai",
+    "title_ko": "대학 체육 교육 Pedagogy에서의 인공지능: 베트남을 위한 커리큘럼 프레임워크"
+   },
+   {
+    "n": 3,
+    "title": "Reimagining adolescent education with ephegogy: generative AI and active learning in practice",
+    "url": "https://doi.org/10.1108/aiie-06-2025-0126",
+    "source": "openalex",
+    "published": "2026-11-03",
+    "keyword": "Connectivism",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "이 논문은 생성형 인공지능과 능동적 학습을 결합한 청소년 교육 이론인 '에페고기(ephegogy)'를 제안하고, 이를 수업에 적용하여 학생의 동기와 자율성을 향상시키는 교육적 가능성을 탐색합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Daire Maria Ní Uanacháin",
+    "pdf": "https://www.emerald.com/aiie/article-pdf/2/4/110/11948012/aiie-06-2025-0126en.pdf",
+    "topic_src": "ai",
+    "title_ko": "에페고기로 청소년 교육 재상상하기: 생성형 AI와 실천 속 능동적 학습"
+   },
+   {
+    "n": 4,
+    "title": "INNOVATIVE TRENDS AND EVIDENCE-BASED PRACTICES IN ENGLISH LANGUAGE TEACHING IN HIGHER EDUCATION",
+    "url": "https://doi.org/10.30546/09081.2025.2.6109",
+    "source": "openalex",
+    "published": "2026-11-02",
+    "keyword": "Connectivism",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 고등교육 영어 교육에서 기술 통합과 학습자 중심 접근법 등 혁신적 경향을 실증적 연구에 기반해 분석함으로써 교육의 질을 높이고 효과적인 학습 환경을 조성하는 방안을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Amina Enver SAFARZADE",
+    "pdf": "https://doi.org/10.30546/09081.2025.2.6109",
+    "topic_src": "ai",
+    "title_ko": "고등교육 영어 교육의 혁신적 동향과 근거 기반 실천"
+   },
+   {
+    "n": 5,
+    "title": "Person-centered identification of experimental learning profiles among preservice physics teachers",
+    "url": "https://doi.org/10.3389/feduc.2026.1922258",
+    "source": "openalex",
+    "published": "2026-11-06",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 군집 분석을 통해 예비 물리 교사들의 실험 지도 역량 프로파일을 진단하고, 향후 맞춤형 교원 양성 교육의 기초가 될 진단적 틀을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Akmaral K. Sugirbekova, Фарида Наметкулова 외 1명",
+    "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1922258/pdf",
+    "topic_src": "ai",
+    "title_ko": "예비 물리 교사들의 실험 학습 프로파일에 대한 인간 중심적 식별"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "오픈AI, '클로드 코드' 성공 주역 캣 우 영입…핵심 제품 총괄 맡아",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217134",
+    "source": "AI Times",
+    "published": "2026-11-07",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Claude",
+     "코딩 AI",
+     "에이전트"
+    ],
+    "summary": "이번 인재 영입은 에이전트 기반 코딩 도구 시장을 선점하려는 오픈AI의 전략이 본격화되었음을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 2,
+    "title": "아마존, 앱 없이 문자로 쇼핑 끝낸다…AI '알렉사' 문자 쇼핑 서비스 출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217142",
+    "source": "AI Times",
+    "published": "2026-11-08",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Amazon"
+    ],
+    "summary": "아마존의 문자 기반 알렉사 AI 쇼핑 서비스 표면화는 앱 설치 장벽을 허물고 고객 접점을 일상적 메신저로 확장하여 이커머스 접근성을 극대화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 3,
+    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+    "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+    "source": "OpenAI Blog",
+    "published": "2026-11-04",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "Amazon"
+    ],
+    "summary": "AWS GovCloud에 Daybreak Red가 도입된 것은 엄격한 보안과 컴플라이언스를 요구하는 공공 부문에서도 고성능 AI 인프라 활용이 본격화되고 있음을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "dup_of": "2026-11-05",
+    "topic_src": "ai"
+   },
+   {
+    "n": 4,
+    "title": "오픈AI, '이미지 2.6' 프롬프트 가이드 공개…\"바꿀 것과 유지할 것 구분하라\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217140",
+    "source": "AI Times",
+    "published": "2026-11-08",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "생성형 AI"
+    ],
+    "summary": "오픈AI의 프롬프트 가이드 공개는 생성형 AI의 결과물 제어력을 높여 산업계의 실무 활용도를 한층 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "product",
+    "topic_src": "ai"
+   },
+   {
+    "n": 5,
+    "title": "메타, AI로 맞춤형 앱 만드는 '뮤즈 스페이스' 출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217128",
+    "source": "AI Times",
+    "published": "2026-11-07",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Meta"
+    ],
+    "summary": "메타의 '뮤즈 스페이스' 표방은 AI 앱 제작의 대중화를 이끌며 개발 장벽을 낮추고 플랫폼 생태계를 한 단계 확장할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 6,
+    "title": "클로드, \"꿈\"으로 기억을 재구성…AI 질문 답변 능력 향상… (BTC, Anthropic, Claude, AI)",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41dlUydjZTaE1lUE9QR1RMMTYxTHF0Q0MzMFJ1eWdpOC14S1pTY3N1S3M2UEpNdll5S3RsUDFtcUtvQ1dJbGpRVHZKRENTVFB6Q1JSN1ZRRjNhRWNmOWowMlJOVTB6V1g1UDZUXw?oc=5",
+    "source": "민심뉴스",
+    "published": "2026-11-07",
+    "keyword": "Anthropic",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Claude",
+     "Anthropic"
+    ],
+    "summary": "앤스로픽의 클로드가 '꿈' 개념을 도입해 기억을 재구성하는 능력은 AI가 단순 암기를 넘어 인간과 유사한 고차원적 장기 기억 및 추론 단계로 진화하는 중요한 전환점이 될 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 7,
+    "title": "GPTZero, Accenture 연구에서 AI 관련 부정확한 내용 지적… 논문 한 편에 15건",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYllKSVJZemZxQTB0VnVtcUE1Znh4VFQ1VlUxY190aUhVZ3dJX2djYlVVSFBLcTJmS1NlWFVMcFVudmZoNW9VcU9pVjVsWklVV2s3dl93ajFIb3pDaVVOeUhLTEE4QUxVVVFZVUlha2pJWVhQSl9sRlNXV0xJZGk1T1d1SUFBaW01dENud3A3dDFZOGRGLXZnOUYyVGN0TDQ?oc=5",
+    "source": "Mezha.net",
+    "published": "2026-11-07",
+    "keyword": "AI연구",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [],
+    "summary": "이번 사건은 신뢰성이 검증되지 않은 AI 탐지 툴의 무분별한 도입이 학술 연구와 기업 생태계에 심각한 오류를 초래할 수 있음을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
+   },
+   {
+    "n": 8,
+    "title": "Merge builds product and business tools with OpenAI technology",
+    "url": "https://openai.com/index/merge-builds-with-openai",
+    "source": "OpenAI Blog",
+    "published": "2026-11-05",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "생성형 AI"
+    ],
+    "summary": "OpenAI 기술을 활용한 Merge의 제품 및 비즈니스 도구 구축은 생성형 AI가 기업용 솔루션의 핵심 인프라로 깊숙이 자리잡고 있음을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "dup_of": "2026-11-06",
+    "topic_rule": "agent_dev",
+    "topic_src": "ai"
+   },
+   {
+    "n": 9,
+    "title": "“AI도 자기 성찰을 할 수 있을까?”… 콴타 매거진이 조명한 인공지능의 ‘메타 인지’ 검증 연구 - 콴타 매거진(Quanta Magazine) 벤 브루베이커 보도… 대규모 언어 모델(LLM) 대상 자기 성찰 능력 탐구 본격화",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE0xWmdOUDJUWHFpeWNIaWVGX3NCdVdMVmZKcnNmR3U2d09BeXNQRGp5a20xc3RpdnhzN2xTbkxXTFc?oc=5",
+    "source": "AI넷",
+    "published": "2026-11-08",
+    "keyword": "인공지능",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Meta",
+     "LLM",
+     "에이전트"
+    ],
+    "summary": "LLM의 메타인지 능력 검증은 향후 AI가 스스로 오류를 교정하고 한계를 인식하는 자율적 문제 해결형 에이전트로 진화하는 중요한 전환점이 될 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 10,
+    "title": "AIPRM 리뷰: ChatGPT 및 AI를 위한 최고의 프롬프트 라이브러리 및 관리자",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZk9nZlZiQmg4Tkp5Mkc5ZHVQZjViYXNreGhSZURINS00cGJZcjJpN05tbXRFUnRVSEFPcXlvcTVOVk1BY3ljWlBMNVpZaXhnc25uc2NsWUJVX0dVRTg0YnFvUFVIOU9sQmdwZEJldzBCSFBuYW1tZmt5b013YzZadHhKMDR5Rk9FbDVFQUlOZXhOYzN5ZE51aHJGVXN3NkZsV2t6QzhwVkJCUk1T?oc=5",
+    "source": "quasa.io",
+    "published": "2026-11-08",
+    "keyword": "AI도구",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "AIPRM과 같은 프롬프트 관리 툴의 확산은 프롬프트 엔지니어링의 표준화와 지식 공유를 가속화하여 기업의 AI 활용 생산성을 극대화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {},
+ "synthesis": {
+  "headline": "AI 교육 인프라 확충과 실무 활용을 위한 연구·기술 동향",
+  "threads": [
+   {
+    "title": "AI 교육과정 및 인프라",
+    "body": "경북교육청과 대전시교육청이 AI 교육관 개관과 인재 성장 체계 구축에 나선 가운데, 대학 체육 교육에서도 AI를 지원 도구로 활용하는 프레임워크가 제안되었습니다. 이러한 지역별 인프라 확충과 교육학적 연구는 교사들이 학교 현장에서 실제적인 AI 학습을 설계하는 데 도움을 줍니다.",
+    "refs": [
+     "edu-3",
+     "edu-8",
+     "paper-2"
+    ]
+   },
+   {
+    "title": "생성형 AI와 메타인지 기술",
+    "body": "오픈AI의 프롬프트 가이드 공개와 LLM의 메타인지 능력 검증 연구는 AI가 스스로 오류를 교정하는 방향으로 진화하고 있음을 보여줍니다. 이러한 기술적 발전은 생성형 AI를 수업에 적극적으로 도입하여 학생들의 자율성과 동기를 향상시키는 교육 이론과 맞닿아 있습니다.",
+    "refs": [
+     "tech-4",
+     "tech-9",
+     "paper-3"
+    ]
+   }
+  ],
+  "classroom": "인공지능과 디지털 도구를 수업에 활용할 때 기술 자체에 의존하기보다 학생들이 주도적으로 탐구할 수 있는 구체적인 활동을 설계해 볼 수 있습니다.",
+  "model": "gemini-3.5-flash-lite",
+  "items_hash": "d35ceb4246fe"
+ },
+ "enrich": {
+  "hash": "69361cfea6a0",
+  "model": "gemini-3.5-flash-lite",
+  "topics": 8,
+  "title_ko": 5,
+  "summaries": 0
+ }
+}
