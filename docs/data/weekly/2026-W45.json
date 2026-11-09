@@ -1,0 +1,452 @@
+{
+ "key": "2026-W45",
+ "label": "2026년 11월 2일 ~ 8일",
+ "dates": [
+  "2026-11-02",
+  "2026-11-03",
+  "2026-11-04",
+  "2026-11-05",
+  "2026-11-06",
+  "2026-11-07",
+  "2026-11-08"
+ ],
+ "days_present": 7,
+ "counts": {
+  "edu": 69,
+  "paper": 35,
+  "tech": 59
+ },
+ "total": 163,
+ "prev_total": 156,
+ "top_entities": [
+  {
+   "name": "에이전트",
+   "kind": "tech",
+   "n": 15,
+   "delta": 4
+  },
+  {
+   "name": "ChatGPT",
+   "kind": "model",
+   "n": 13,
+   "delta": -3
+  },
+  {
+   "name": "OpenAI",
+   "kind": "org",
+   "n": 10,
+   "delta": -8
+  },
+  {
+   "name": "생성형 AI",
+   "kind": "tech",
+   "n": 9,
+   "delta": 1
+  },
+  {
+   "name": "Google",
+   "kind": "org",
+   "n": 8,
+   "delta": -2
+  },
+  {
+   "name": "경기도교육청",
+   "kind": "edu_org",
+   "n": 8,
+   "delta": -1
+  },
+  {
+   "name": "Anthropic",
+   "kind": "org",
+   "n": 8,
+   "delta": 1
+  },
+  {
+   "name": "IB",
+   "kind": "issue",
+   "n": 6,
+   "delta": 4
+  },
+  {
+   "name": "인천시교육청",
+   "kind": "edu_org",
+   "n": 6,
+   "delta": 1
+  },
+  {
+   "name": "NVIDIA",
+   "kind": "org",
+   "n": 6,
+   "delta": 0
+  },
+  {
+   "name": "Claude",
+   "kind": "model",
+   "n": 6,
+   "delta": 4
+  },
+  {
+   "name": "코딩 AI",
+   "kind": "tech",
+   "n": 5,
+   "delta": 5
+  }
+ ],
+ "rising": [
+  {
+   "name": "코딩 AI",
+   "kind": "tech",
+   "n": 5,
+   "delta": 5
+  },
+  {
+   "name": "에이전트",
+   "kind": "tech",
+   "n": 15,
+   "delta": 4
+  },
+  {
+   "name": "IB",
+   "kind": "issue",
+   "n": 6,
+   "delta": 4
+  },
+  {
+   "name": "Claude",
+   "kind": "model",
+   "n": 6,
+   "delta": 4
+  },
+  {
+   "name": "경북교육청",
+   "kind": "edu_org",
+   "n": 4,
+   "delta": 4
+  },
+  {
+   "name": "Amazon",
+   "kind": "org",
+   "n": 3,
+   "delta": 3
+  }
+ ],
+ "topic_share": {
+  "edu": [
+   {
+    "id": "policy",
+    "label": "정책·행정",
+    "n": 35,
+    "pct": 51,
+    "delta": 22
+   },
+   {
+    "id": "ai_digital",
+    "label": "AI·디지털교육",
+    "n": 17,
+    "pct": 25,
+    "delta": -12
+   },
+   {
+    "id": "classroom",
+    "label": "수업·교육과정",
+    "n": 7,
+    "pct": 10,
+    "delta": 4
+   },
+   {
+    "id": "higher_ed",
+    "label": "대학·입시·평생",
+    "n": 4,
+    "pct": 6,
+    "delta": -3
+   },
+   {
+    "id": "student_care",
+    "label": "학생·돌봄·안전",
+    "n": 4,
+    "pct": 6,
+    "delta": 0
+   },
+   {
+    "id": "teacher",
+    "label": "교사·교권",
+    "n": 2,
+    "pct": 3,
+    "delta": -6
+   }
+  ],
+  "paper": [
+   {
+    "id": "teacher_pd",
+    "label": "교사 전문성",
+    "n": 7,
+    "pct": 20,
+    "delta": 14
+   },
+   {
+    "id": "genai_tutor",
+    "label": "생성형 AI·튜터",
+    "n": 7,
+    "pct": 20,
+    "delta": 11
+   },
+   {
+    "id": "design_curric",
+    "label": "교수설계·교육과정",
+    "n": 5,
+    "pct": 14,
+    "delta": 0
+   },
+   {
+    "id": "assessment",
+    "label": "평가·피드백",
+    "n": 5,
+    "pct": 14,
+    "delta": 11
+   },
+   {
+    "id": "literacy_ethics",
+    "label": "AI 리터러시·윤리",
+    "n": 3,
+    "pct": 9,
+    "delta": 6
+   },
+   {
+    "id": "language",
+    "label": "언어·문해",
+    "n": 3,
+    "pct": 9,
+    "delta": -8
+   },
+   {
+    "id": "inclusion_sel",
+    "label": "포용·정서·웰빙",
+    "n": 2,
+    "pct": 6,
+    "delta": -11
+   },
+   {
+    "id": "personalized",
+    "label": "개인화·학습분석",
+    "n": 2,
+    "pct": 6,
+    "delta": -11
+   },
+   {
+    "id": "learning_sci",
+    "label": "학습과학·인지",
+    "n": 1,
+    "pct": 3,
+    "delta": -6
+   }
+  ],
+  "tech": [
+   {
+    "id": "agent_dev",
+    "label": "에이전트·개발도구",
+    "n": 12,
+    "pct": 20,
+    "delta": 7
+   },
+   {
+    "id": "policy_safety",
+    "label": "정책·윤리·안전",
+    "n": 12,
+    "pct": 20,
+    "delta": 5
+   },
+   {
+    "id": "model",
+    "label": "모델·연구",
+    "n": 12,
+    "pct": 20,
+    "delta": -6
+   },
+   {
+    "id": "industry",
+    "label": "산업·투자·인프라",
+    "n": 9,
+    "pct": 15,
+    "delta": -10
+   },
+   {
+    "id": "product",
+    "label": "제품·서비스",
+    "n": 7,
+    "pct": 12,
+    "delta": 3
+   },
+   {
+    "id": "usecase",
+    "label": "활용·사례",
+    "n": 7,
+    "pct": 12,
+    "delta": 1
+   }
+  ]
+ },
+ "daily": [
+  {
+   "d": "2026-11-02",
+   "n": 25,
+   "head": "AI 교육, 학생 중심의 질문과 탐구로 확장",
+   "src": "ai"
+  },
+  {
+   "d": "2026-11-03",
+   "n": 25,
+   "head": "AI 교육 정책 논의 활발, 현장 적용과 과제 공존",
+   "src": "ai"
+  },
+  {
+   "d": "2026-11-04",
+   "n": 25,
+   "head": "AI 교육 확산과 활용 논의 활발, 현장 적용 과제도 부상",
+   "src": "ai"
+  },
+  {
+   "d": "2026-11-05",
+   "n": 25,
+   "head": "교육혁신선도지역 확대 속 AI·디지털 교육 역량 강화 논의 활발",
+   "src": "ai"
+  },
+  {
+   "d": "2026-11-06",
+   "n": 25,
+   "head": "AI·디지털 활용 교육 혁신, 현장 중심 정책과 연구로 구체화",
+   "src": "ai"
+  },
+  {
+   "d": "2026-11-07",
+   "n": 25,
+   "head": "AI 교육 확산 속, 현장 중심 교육 정책과 교수법 혁신 모색",
+   "src": "ai"
+  },
+  {
+   "d": "2026-11-08",
+   "n": 25,
+   "head": "AI 교육 인프라 확충과 실무 활용을 위한 연구·기술 동향",
+   "src": "ai"
+  }
+ ],
+ "picks": {
+  "edu": [
+   {
+    "d": "2026-11-03",
+    "n": 4,
+    "t": "안민석 경기교육감 \"중학교까지 생성형 AI 사용 금지\"",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE93Z2dOUWV2QkFhV2dWdFEyVzZwdWE5dUJ6SW5sbmRfdFJqZVU1ZUtKd0NYRkhMVHRVa1RiSG1nWWZkdnk5VHljV1BUazlmeFIyXzgtbVFrUEVXdVQyT3c?oc=5",
+    "src": "동행미디어 시대"
+   },
+   {
+    "d": "2026-11-02",
+    "n": 7,
+    "t": "위버스브레인·NE능률, 교재 기반 맞춤형 AI 에이전트 개발 맞손",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPUWVxM3hTbi16Q2ptX0plM2J2bVhhTXcyN0Z5X1FqeHpXN1VWdTJ1dGlQTjZobE1OcGtJTXlndk41QVJuczRqSU1qOXIwSVlpMkJyV3ZEVktSY09xN184LWYyMTZ6ak9YM2UzeA?oc=5",
+    "src": "데이터넷"
+   },
+   {
+    "d": "2026-11-03",
+    "n": 5,
+    "t": "﻿한국고등직업교육학회, 전문대학 AI 융합 교육과정 설계 에이전트 ‘AIDX’ 공개",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14MUpiVG05a0p0dFFnUmdRS1gwNVBHczUwQ2J1OFVaLXZ5Vm5GbWdZZ093MUpLYU1MRnJfVTRMTW9wYUNHc0diNU9Lcnp0WWs1TjBDcHRpWnItclduRWQyQmdGTlc2Zw?oc=5",
+    "src": "한국대학신문"
+   }
+  ],
+  "paper": [
+   {
+    "d": "2026-11-04",
+    "n": 2,
+    "t": "인공지능 기반 기술을 활용한 차별화된 영어 학습",
+    "url": "https://doi.org/10.28989/kacanegara.v9i4.3595",
+    "src": "openalex"
+   },
+   {
+    "d": "2026-11-07",
+    "n": 2,
+    "t": "논평: 생성형 AI를 통한 의료 학습의 디지털 전환 탐색",
+    "url": "https://doi.org/10.3389/fmed.2026.2026945",
+    "src": "openalex"
+   },
+   {
+    "d": "2026-11-05",
+    "n": 5,
+    "t": "누구의 판단이 중요한가? 교육 AI 커뮤니케이션에 대한 비판적 담화 분석",
+    "url": "https://doi.org/10.36892/ijlls.v8i6.2845",
+    "src": "openalex"
+   }
+  ],
+  "tech": [
+   {
+    "d": "2026-11-03",
+    "n": 10,
+    "t": "오픈AI, 챗GPT 채팅·WORK 탭 합친다…AI에이전트대중화 '시동'[글로벌AI브리핑]",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JYV9tNGh4Q2Z5LTVJNG5XUlZya2JtSGFSeDlMOU53a2ZidW5ob01qS3hnOUcxX1dNdXR1bXA4Y19RZWNfUnNyeTZEc3VvVi1LUHZNVjMyMGNrQQ?oc=5",
+    "src": "파이낸셜뉴스"
+   },
+   {
+    "d": "2026-11-08",
+    "n": 1,
+    "t": "오픈AI, '클로드 코드' 성공 주역 캣 우 영입…핵심 제품 총괄 맡아",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217134",
+    "src": "AI Times"
+   },
+   {
+    "d": "2026-11-05",
+    "n": 1,
+    "t": "챗GPT 검색량이 구글의 20% 도달… 구글 검색 성장률은 5년래 최고치 기록 (+BTC, ChatGPT, Google, OpenAI)",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAycGVWOFAwMUFsWHM4UDA5dTFwRjZwUjRrOXhjN08yQlF2UVY4dUNuQnQ3cV9JZVU3cl9jR3RVOE82c1NfNzh6aWdJN1h6X1JLOVdUSEFwcUhBMXJsR1ZSVTFHR1FCNVdNZ2lOSQ?oc=5",
+    "src": "민심뉴스"
+   }
+  ]
+ },
+ "generated_at": "2026-11-09T17:38:24+09:00",
+ "synthesis": {
+  "headline": "AI 에이전트와 미래교육 혁신이 학교 현장과 기술 생태계 전반으로 확산된 한 주",
+  "threads": [
+   {
+    "title": "AI 에이전트와 맞춤형 수업",
+    "body": "위버스브레인과 NE능률의 AI 에이전트 개발 협력부터 구글의 제미나이 노트북 학습 기능 확대, 대학과 고교 현장의 AI 융합 수업 사례까지 에듀테크 도입이 가속화되고 있습니다. 교사들은 AI가 생각을 대신하는 것이 아닌 호기심과 질문을 유발하는 도구여야 함을 강조하며 교육적 활용 방안을 모색하고 있습니다.",
+    "refs": [
+     "2026-11-02:edu-7",
+     "2026-11-02:tech-2",
+     "2026-11-04:edu-7",
+     "2026-11-06:edu-2"
+    ]
+   },
+   {
+    "title": "교육혁신선도지역 지정과 정책",
+    "body": "경남과 충남 등 각 지역에서 교육부의 '교육혁신선도지역' 지정이 이어지며 현장 중심의 교육 변화에 대한 기대가 커지고 있습니다. 지자체와 교육청은 학부모 간담회와 정책 포럼을 통해 현장의 목소리를 수렴하고 실효성 있는 후속 대책과 예산 집행을 준비하고 있습니다.",
+    "refs": [
+     "2026-11-04:edu-4",
+     "2026-11-05:edu-6",
+     "2026-11-05:edu-7",
+     "2026-11-07:edu-2"
+    ]
+   },
+   {
+    "title": "AI 윤리와 교사의 역할",
+    "body": "생성형 AI와 에이전트 기술이 교육 및 산업 전반에 깊숙이 파고들면서 AI 의존에 따른 인간의 감독 능력 약화와 저작권 침해 등의 우려가 제기되고 있습니다. 관련 논문과 연구는 AI가 교육적 보조 도구로 머물러야 하며, 교사의 전문성과 윤리적 안전장치가 결합된 프레임워크가 필수적임을 시사합니다.",
+    "refs": [
+     "2026-11-05:paper-5",
+     "2026-11-05:tech-8",
+     "2026-11-08:paper-1",
+     "2026-11-08:tech-7"
+    ]
+   },
+   {
+    "title": "글로벌 AI 인프라와 에이전트 고도화",
+    "body": "오픈아이, 앤트로픽, 구글 등 주요 빅테크 기업들이 장기 실행 에이전트, 메모리 아키텍처, 자율형 AI 인프라를 잇따라 공개하며 시스템 경쟁을 심화하고 있습니다. 이러한 기술 발전은 반도체부터 로봇 훈련용 시뮬레이션까지 전 산업의 에이전트 대중화와 AX 전환을 이끌고 있습니다.",
+    "refs": [
+     "2026-11-03:tech-5",
+     "2026-11-03:tech-7",
+     "2026-11-06:tech-7",
+     "2026-11-08:edu-7"
+    ]
+   }
+  ],
+  "classroom": "교실 속 AI 도입 과정에서 기술적 편리함보다 학생들의 호기심과 비판적 사고를 이끌어내는 교사 중재 방안을 함께 논의해 봅시다.",
+  "model": "gemini-3.5-flash-lite",
+  "items_hash": "3ce47cc16782"
+ }
+}

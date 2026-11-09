@@ -1,0 +1,503 @@
+{
+ "date": "2026-11-09",
+ "generated_at": "2026-11-09T17:38:13+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "모델만 옮기고 작업은 못 옮기면?…AI 에이전트 구입 전 출구 테스트 해야",
+    "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQbGExOTB0d2R4ZjV0azBBZmVoSTVYZ2hfRHlsMFFTbHA0N0hWM1FFa1ByVUJCQU4ya3dpMWExejRXdmhkSVgzVk9vczNhUkZlUW9PSHVCV1FISlBWZFUwZjJQakJ2ZElpSG5WYjVvcFBpdzhrbndYX0xpOFZja19Wbi12M3pCbFlLNEtkeUkteVBUMHpqRmlPUFRxaDlmVEZaSy0zZFFKSEFtTGMzSTNackxfVHdPcG1PNEVZRi10VXNaOXhWNWRiRWVxbkt2eVpGTnp0cTM4ZkRya2xna3ZodGRLUjNxUXZJbG5aZ3pLVFp1V0psU0tuM3hNbXdMcEx1cnRqSkwtRHZNSWVEYUZJT0xMZjFIN2dDZlBXU1ZJWWpVWU1IdGczUW91V0xWU05ia0d3c01CXzB0UG0ycVZheWJmNXZRSlFpcTkzUEJSN1pBS0pQanMw?oc=5",
+    "source": "ITWorld Korea",
+    "published": "2026-11-09",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "AI 에이전트 도입 시 모델뿐만 아니라 실제 작업 수행 능력을 검증하는 출구 테스트가 필요합니다.",
+    "implication": "교사는 새로운 에듀테크 도구를 도입하기 전에 교육 현장에 실제로 적합한지 기능을 미리 시험해 볼 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 2,
+    "title": "[현장기고] 고교학점제 고민 방치해선 안돼",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40dDBkOWl6RHVNRjVCN2pmc2h0NkRvVzVKUDRYOG5lRFVwRkZ2SjVOdmkxakFGZ2JtdHF6TG1xMUY3SHNVRktCaG85Q3U1RWV5TmhLTWZjZWVfRnV5aFJF?oc=5",
+    "source": "한국교육신문",
+    "published": "2026-11-09",
+    "keyword": "교사기고",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [
+     "고교학점제"
+    ],
+    "summary": "고교학점제 도입에 따른 현장의 다양한 고민과 문제점을 더 이상 방치해서는 안 된다는 지적이다.",
+    "implication": "학생 선택 중심의 수업 설계와 개별 피드백 방안을 동료 교사들과 함께 미리 고민해 볼 수 있습니다.",
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
+   },
+   {
+    "n": 3,
+    "title": "권철주 칼럼 千態萬象> 4차 산업혁명과 교육혁신",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZN1JlbVZ5Ymxmb0ZIdDN3WkVYUlpZcmdTVlJlVF9lN1pFZ29RTzhuckNWVlc5T1ZlbTB6THRZSUltQ1ZWcV9wUFZUQi1FaVJRRko2RWd0M0FwUU1jNHJ0OVJIZVk5RjdHZngw?oc=5",
+    "source": "경북신문",
+    "published": "2026-11-08",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "4차 산업혁명 시대에 발맞춘 교육 혁신의 방향과 필요성을 다룬 칼럼입니다.",
+    "implication": "미래 사회에 필요한 역량을 기르기 위해 디지털 도구를 활용한 학생 중심 수업을 설계할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "ai_digital",
+    "topic_src": "ai"
+   },
+   {
+    "n": 4,
+    "title": "충북교육청, AI와 에듀테크 활용으로 진로교육 혁신",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BM3RzeHExVEU5bUo0Yk9XTGFkaHV6eVBSanh2ZkhXX1BWejBsSVlzNVFHY19CdS1mN3EzVndHZlBZc29RQWJaS1NkNnFTaEhpRzFiakNENlJKdw?oc=5",
+    "source": "브릿지경제",
+    "published": "2026-11-09",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "충북교육청"
+    ],
+    "summary": "충북교육청이 인공지능과 에듀테크를 도입하여 진로교육 방식을 혁신합니다.",
+    "implication": "교사들은 에듀테크 도구를 활용해 학생 맞춤형 진로 탐색 수업을 진행할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 5,
+    "title": "대구시교육청, 미래교육 정책 방향 논의…AI·평가 혁신 등 전문가 의견 수렴",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4weHFsMW9FQzh5cmV1Zl9qRGtVeWtZMWFfTWxBMTVVTUM1ZEZUSWE2RnZoekdSampXMkx5WGUyaFEyQlZJOGxvaGZwd3pnZC1IYjFjYXdkYUV5UQ?oc=5",
+    "source": "경북매일",
+    "published": "2026-11-08",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대구시교육청"
+    ],
+    "summary": "대구시교육청은 AI 도입과 평가 혁신을 주제로 미래교육 정책 방향에 대한 전문가 의견을 수렴했습니다.",
+    "implication": "AI 기반 도구를 활용하여 개별 학생의 수준에 맞는 맞춤형 수업을 설계하고 평가 방식을 다양화할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 6,
+    "title": "이병도 충남교육감 \"교육정책, 일시적 유행에 그쳐선 안 돼\"",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1VklrQ2hGSE9lWk5lVURzTk1PSE81NFIzZEMyMjFtOFhsQ3JqN21kTUNfbTZjZVV4Ny1jOXFZVnZNQ25tc1pBblJFa0t0b09PeHh4eFJ4eHM0TkE3OGxEMFFCWEF0NkgxVWhTM3RzekJtQQ?oc=5",
+    "source": "굿모닝충청",
+    "published": "2026-11-09",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "이병도 충남교육감은 교육정책이 일시적인 유행에 그치지 않아야 한다고 강조했습니다.",
+    "implication": "교사들은 단기적인 유행을 따르기보다 지속 가능한 교육 방안을 수업에 적용할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 7,
+    "title": "부산교육청, 학부모와 교육정책 공감 넓힌다",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56alA4U3NxNFRZbXBJWEwwekRoYnkwc2dzZ3E1UEdnaWJhWUxSNzJYYkt2bmFjNVNISlpoQ09HWTl3Y2xmcm0xdVpFTWRrb3JDVFFsN0N5OXpEdEM1c1BiRDFYZ0pBQQ?oc=5",
+    "source": "한국미디어뉴스",
+    "published": "2026-11-09",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "부산시교육청"
+    ],
+    "summary": "부산교육청이 학부모와의 소통을 강화하며 교육정책에 대한 공감대를 넓히고 있습니다.",
+    "implication": "학부모 연계 프로그램을 수업과 연계하여 교육 활동에 대한 가정의 지지를 이끌어낼 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 8,
+    "title": "[한국교육정책사] 문민정부의 고등교육 대개혁: 통제에서 자율로, 30년 패러다임 전환의 분수령",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FajEwZUpVemNkUzYzLXU3MEtqWHcwbUZUR2t5WUlYTDBwUnJxaG95UFp4T2pnOEdXTzhOSGRSTEY2MGd4Nmpwdzh3RTVFV0lZUTVNckQwU2ZmVV9xelg4?oc=5",
+    "source": "한국교육신문",
+    "published": "2026-11-09",
+    "keyword": "교육정책",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [],
+    "summary": "문민정부의 고등교육 개혁은 통제 중심에서 자율성 확대 중심의 30년 패러다임 전환점이었다.",
+    "implication": "학생 주도적 탐구 활동을 설계할 때 자율성을 강조하는 교육과정 철학을 연계할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
+   },
+   {
+    "n": 9,
+    "title": "[시선] 대전교육 AI 시대의 배움을 열다",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xUFlySE8xb3hReTRMekJNSFBxZkI1V1JWekFlV1U2ekd0NDE5eFdYLXpOWTZpWkNiUTRwRW5lclJVRXRVMVI4VG5CYndxUWFldkp5RW9lSUd4X0hPS002czUxVVdQbXFVTWNfSUF3?oc=5",
+    "source": "충청투데이",
+    "published": "2026-11-08",
+    "keyword": "교육정책",
+    "topic": "ai_digital",
+    "kind": "opinion",
+    "entities": [
+     "대전시교육청",
+     "개인화 학습"
+    ],
+    "summary": "대전시교육청이 AI 시대를 맞아 새로운 교육 방향과 배움의 변화를 모색하고 있습니다.",
+    "implication": "인공지능 도구를 수업에 접목하여 학생 맞춤형 학습을 설계할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
+   },
+   {
+    "n": 10,
+    "title": "PFCT, AI 신용평가 인재 키운다···무료 교육부터 인턴십까지",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RNXVseGR2LXNXeElOei1Jd0NBczVhODVmcTRnZlV6bEdja24wT0E5MS03MHB5NUMtTWIzTFBsMWN4VWhSOE9LTVo2a1RmUHh6bjNBRk5UNVpjZw?oc=5",
+    "source": "파이낸셜뉴스",
+    "published": "2026-11-09",
+    "keyword": "AI교육",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "피에프씨테크놀로지스(PFCT)가 AI 신용평가 분야의 인재 양성을 위해 무료 교육과 인턴십 과정을 지원합니다.",
+    "implication": "학생들과 함께 AI 기술이 금융 신용평가 분야에 적용되는 실제 사례를 조사하고 토론하는 진로 수업에 활용할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "A Systematic Review on Design Thinking Integrated Learning in K-12 Education",
+    "url": "https://www.semanticscholar.org/paper/581d2beb56eae5c8e99288c4cfa6017a82016902",
+    "source": "semantic_scholar",
+    "published": "2022-08-12",
+    "keyword": "K-12 education",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 초중등 교육에서 디자인 씽킹 통합 학습(DTIL)에 관한 우수 실증 연구들을 체계적으로 검토하여 그 교육적 잠재력과 한계를 분석하고, 향후 연구 방향을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Tingting Li, Ze-Hui Zhan",
+    "pdf": "https://www.mdpi.com/2076-3417/12/16/8077/pdf?version=1660715604",
+    "topic_src": "ai",
+    "title_ko": "K-12 교육에서의 디자인 씽킹 통합 학습에 관한 체계적 문헌 고찰"
+   },
+   {
+    "n": 2,
+    "title": "A systematic review of teaching and learning machine learning in K-12 education",
+    "url": "https://www.semanticscholar.org/paper/7685f8cec8165a9a1c6d052ec61a230ad6c51991",
+    "source": "semantic_scholar",
+    "published": "2022-11-07",
+    "keyword": "K-12 education",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "본 연구는 K-12 기계학습 교육 관련 43편의 문헌을 체계적으로 분석하여 교육과정, 기술, 교수법, 교사 연수 측면의 동향과 연구 공백을 도출함으로써 향후 인공지능 교육의 발전 방향을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "I. Sanusi, S. Oyelere 외 1명",
+    "pdf": "https://link.springer.com/content/pdf/10.1007/s10639-022-11416-7.pdf",
+    "topic_rule": "personalized",
+    "topic_src": "ai",
+    "title_ko": "K-12 기계학습 교수·학습 동향에 대한 체계적 문헌 고찰"
+   },
+   {
+    "n": 3,
+    "title": "AI-Assisted Metacognitive Strategies for Improving Self-Regulated Learning among High School Students",
+    "url": "https://www.semanticscholar.org/paper/c5530a45398742f5f18ed34c2f0bfff9519789d3",
+    "source": "semantic_scholar",
+    "published": "2025-06-16",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제"
+    ],
+    "summary": "인공지능(AI) 기반 메타인지 전략 활용이 고등학생의 자기주도학습 능력을 향상시키는지 검증한 결과, 실험집단에서 통계적으로 유의미한 향상이 나타나 향후 맞춤형 및 포용적 디지털 교육 확산에 기여할 것으로 기대됩니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Wahid Mehmood, Sadia Gondal 외 1명",
+    "pdf": "https://thecrsss.com/index.php/Journal/article/download/623/652",
+    "topic_rule": "learning_sci",
+    "topic_src": "ai",
+    "title_ko": "고등학생의 자기주도학습 향상을 위한 AI 보조 메타인지 전략"
+   },
+   {
+    "n": 4,
+    "title": "AI-Assisted Teaching and Learning: A Real Application Of Course Design, Assessment and Evaluation in Higher Education",
+    "url": "https://www.semanticscholar.org/paper/aca3e682a9749e281e313dd54c77e8def4b69791",
+    "source": "semantic_scholar",
+    "published": "2025-07-29",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 '분해-질문-응답(AI-DAR)' 프레임워크를 통해 고등교육에서 인공지능 활용 수업이 학생들의 성취도 향상과 개념 이해에 미치는 효과를 입증하며 교육 혁신을 위한 실질적인 통찰을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Jin-Peng Wang, Yi-Ying Li 외 1명",
+    "pdf": "https://doi.org/10.1145/3761843.3761883",
+    "topic_src": "ai",
+    "title_ko": "고등교육의 코스 디자인, 평가에서 AI 보조 교수·학습의 실제 적용"
+   },
+   {
+    "n": 5,
+    "title": "SEMANGAT WIRAUSAHA DAN PERAN GURU SMK: SYSTEMATIC LITERATURE REVIEW",
+    "url": "https://doi.org/10.51878/learning.v6i4.14482",
+    "source": "openalex",
+    "published": "2026-11-06",
+    "keyword": "edtech",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 문헌 고찰을 통해 직업고등학교에서 교사의 역량 강화와 체험 중심 학습이 학생의 창업 역량과 경제적 자립에 미치는 영향을 분석하여 기업가정신 교육의 질적 향상 방안을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Nur Khoeron, Luluk Elyana 외 1명",
+    "pdf": "https://www.jurnalp4i.com/index.php/learning/article/download/14482/11160",
+    "topic_rule": "language",
+    "topic_src": "ai",
+    "title_ko": "직업고등학교 교사의 역할과 기업가정신: 체계적 문헌 고찰"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "AWS, 여러 AI 에이전트 지휘하는 '키로 봇' 출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217141",
+    "source": "AI Times",
+    "published": "2026-11-08",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Amazon",
+     "에이전트"
+    ],
+    "summary": "AWS의 '키로 봇' 표시는 여러 AI 에이전트를 유기적으로 조율하는 멀티 에이전트 오케스트레이션 시장이 본격적인 기업용 서비스 단계로 진입했음을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 2,
+    "title": "Google과 Microsoft, robots.txt의 공통 AI 학습 신호 지지에 OpenAI·Anthropic과 합류",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONkw2NnZSdDdKSUJfSUhhRnNnQXlpQlRRZFU5NXFvZDlBLTFrMmRVdk96QU0tUlR1dGUxNERDcll3R2VnQ2N4OU0wMzFZTXh0S091SnUtZEhHdTRnRE5tVTNmLTZybU9PdEwyRWVhX21mNm5maWk3S0l0TkNaR0dYNWJDQ0VRcDE4eDVOam1qUUtTMVlaN2JyRUxn?oc=5",
+    "source": "Mezha.net",
+    "published": "2026-11-08",
+    "keyword": "Anthropic",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Microsoft",
+     "로봇·휴머노이드",
+     "OpenAI",
+     "Anthropic",
+     "저작권·소송"
+    ],
+    "summary": "주요 빅테크 기업들이 robots.txt 기반의 AI 학습 거부 신호를 공식 지지함에 따라, 웹 데이터 크롤링을 둘러싼 저작권 보호와 투명성 기준이 산업 전반의 표준으로 자리 잡을 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "edu_ai",
+    "topic_src": "ai"
+   },
+   {
+    "n": 3,
+    "title": "과학자들은 AI를 어떻게 쓸까…앤트로픽 \"데이터 분석 1위, 가설 생성 4%\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217147",
+    "source": "AI Times",
+    "published": "2026-11-08",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Anthropic"
+    ],
+    "summary": "현재 AI는 과학적 발견을 주도하는 창의적 가설 생성보다는 방대한 데이터 분석과 정보 정리 같은 보조적 역할에서 압도적인 효율성을 발휘하고 있습니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 4,
+    "title": "아마존, 앱 없이 문자로 쇼핑 끝낸다…AI '알렉사' 문자 쇼핑 서비스 출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217142",
+    "source": "AI Times",
+    "published": "2026-11-08",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Amazon"
+    ],
+    "summary": "이번 아마존의 문자 기반 알렉사 쇼핑 서비스 표시는 복잡한 앱 설치 없이 텍스트만으로 일상적인 커머스 경험을 완성하며 AI가 사용자 접점을 장악하는 패러다임 전환을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "dup_of": "2026-11-08",
+    "topic_src": "ai"
+   },
+   {
+    "n": 5,
+    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+    "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+    "source": "OpenAI Blog",
+    "published": "2026-11-04",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "Amazon"
+    ],
+    "summary": "AWS GovCloud에 도입된 Daybreak Red는 공공 및 정부 기관의 민감한 데이터 처리와 보안성이 요구되는 클라우드 워크로드에 AI 기술 적용을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "dup_of": "2026-11-06"
+   },
+   {
+    "n": 6,
+    "title": "[AI리더의 서가] AI 에이전트 시대의 연결 프로토콜",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217029",
+    "source": "AI Times",
+    "published": "2026-11-09",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "AI 에이전트 시대의 연결 프로토콜은 파편화된 기술과 플랫폼을 유기적으로 통합하여 자율 협업 생태계를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 7,
+    "title": "LG AI연구원, ‘K-엑사원 2.5’ API 전격 무료 개방…8주 만에 AI 성능 70%↑, 글로벌 프런티어 AI 정조준",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xRW5sSWg3TnpZc2I2VG56LUt5NFBKUWxxMGxlWDZRQmVOVlNFc2FCQVFvVzliNmdES3BLdDdlOGh2MUhzUWJqcFVocVRyX01yY1ZTU1BRX0pmSDcxMlpGZXNvbkgwZlk?oc=5",
+    "source": "구글 뉴스 AI",
+    "published": "2026-11-09",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "LG"
+    ],
+    "summary": "LG AI연구원의 엑사원 2.5 API 무료 개방은 국내 AI 생태계의 진입 장벽을 낮추고 글로벌 프런티어 모델과의 경쟁력을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 8,
+    "title": "오픈AI, '이미지 2.6' 프롬프트 가이드 공개…\"바꿀 것·유지할 것 구분\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217140",
+    "source": "AI Times",
+    "published": "2026-11-08",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "생성형 AI"
+    ],
+    "summary": "오픈AI의 상세한 이미지 프롬프트 가이드 공개는 생성형 AI의 결과물 품질 표준화를 촉진하여 산업계의 제작 효율성을 한층 높일 것입니다.",
+    "implication": "",
+    "ai": true,
+    "dup_of": "2026-11-08",
+    "topic_src": "ai"
+   },
+   {
+    "n": 9,
+    "title": "[ZD브리핑] 삼성·SK·LG 엔비디아 'AI 데이' 총출동 ..KT·네이버·게임 빅3 실적 발표",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MZktKRkJZZm1KZ0s1d1V1NW8yNWxYMW1nZFdZQU5SQTNmQmtPbWR5XzNDVXdRX0ZyZDVXcm9hRFp3c2tNdk9vcHVyTFRwb1FDT1c5WE13?oc=5",
+    "source": "지디넷코리아",
+    "published": "2026-11-08",
+    "keyword": "AI스타트업",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "삼성",
+     "SK",
+     "LG",
+     "NVIDIA",
+     "KT",
+     "네이버"
+    ],
+    "summary": "국내 주요 대기업들의 엔비디아 AI 데이 총출동과 빅테크 실적 발표는 한국 AI 산업이 글로벌 생태계와의 협력을 강화하며 본격적인 수익화 단계로 진입하고 있음을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 10,
+    "title": "앤트그룹, '링 3.2 플래시' 공개…시각 이해 평가서 클로드 오퍼스 5 앞서",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217146",
+    "source": "AI Times",
+    "published": "2026-11-08",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Claude"
+    ],
+    "summary": "중국 앤트그룹의 '링 3.2 플래시' 공개는 글로벌 AI 경쟁이 경량성과 시각 이해 능력을 중심으로 더욱 가속화될 것임을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {},
+ "synthesis": {
+  "headline": "교육 현장의 AI 에이전트 도입과 맞춤형 수업 혁신",
+  "threads": [
+   {
+    "title": "AI 에이전트와 맞춤형 수업",
+    "body": "교육 현장에서는 AI 에이전트 도입 시 실제 작업 수행 능력을 검증하는 출구 테스트가 강조되고 있으며, 대전과 충북 등 시도교육청에서도 AI를 활용한 맞춤형 진로 교육과 배움을 모색하고 있습니다. 이러한 흐름은 고등교육에서 인공지능 활용 수업이 학생들의 성취도 향상에 미치는 효과를 다룬 연구 논문과도 맞닿아 있습니다.",
+    "refs": [
+     "edu-1",
+     "edu-4",
+     "edu-9",
+     "paper-4"
+    ]
+   },
+   {
+    "title": "AI 기술 발전과 교육 혁신",
+    "body": "AWS와 LG AI연구원 등에서 멀티 에이전트와 개방형 API 등 최신 AI 기술을 선보이는 가운데, 교육계 역시 AI 기반 메타인지 전략을 통해 학생의 자기주도학습 능력을 향상시키는 연구 결과를 발표하고 있습니다. 기술의 발전이 학교 현장의 실질적인 학습 도구 도입과 평가 혁신 논의로 이어지는 모양새입니다.",
+    "refs": [
+     "edu-5",
+     "tech-1",
+     "tech-7",
+     "paper-3"
+    ]
+   }
+  ],
+  "classroom": "새로운 AI 도구를 교실에 도입하기 전에 교육적 효과와 실제 작업 수행 능력을 먼저 점검해 보는 방안을 고민해 볼 수 있습니다.",
+  "model": "gemini-3.5-flash-lite",
+  "items_hash": "e66ac70d2cc1"
+ },
+ "enrich": {
+  "hash": "39cc97e46bc6",
+  "model": "gemini-3.5-flash-lite",
+  "topics": 9,
+  "title_ko": 5,
+  "summaries": 0
+ }
+}
