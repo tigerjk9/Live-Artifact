@@ -1,0 +1,505 @@
+{
+ "date": "2026-11-10",
+ "generated_at": "2026-11-10T17:48:39+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[사설] ‘정쟁의 장’이 돼버린 교육현장",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB3V1l5WktxTUY0MWpfLXpnc2hreEpTWnM3WjhOakROTS1YMjBKNWxKanE4bEhoaDJWX3hGLUhmdDg5cFVnbnpiVFE5cUJXdi12dEFiaDRKelI5SmF2cWRaQnFZeVhhbXdTM1NPMDRPOA?oc=5",
+    "source": "기호일보",
+    "published": "2026-11-09",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "교육 현장이 정치적 갈등과 대립의 장으로 변질되어 우려를 낳고 있습니다.",
+    "implication": "교실에서 민주시민 교육을 할 때 정치적 중립성과 토론 예절을 스스로 실천해 볼 수 있습니다.",
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
+   },
+   {
+    "n": 2,
+    "title": "광양, 교육부 교육혁신선도지역 최종 지정… \"교실 혁신으로 지방소멸 막는다\"",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5keFhiRHQwVkp2Ty16OGlBX1F1U3BBdWJ0MGg2c2tIUnFDRGZKdmkwanhGcm1wYnpTaGpNaDB3bnF2dEVWTUk4QmlOWkpmVVZnQlgyZU15T3ZyUkdPVmc5OTZjUzdwU0RwaVE?oc=5",
+    "source": "비즈월드",
+    "published": "2026-11-09",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부"
+    ],
+    "summary": "광양시가 교육부의 교육혁신선도지역으로 최종 지정되어 교실 혁신을 통한 지방소멸 대응에 나섭니다.",
+    "implication": "교사들은 교실 혁신 관련 지원 사업을 연계하여 학생 중심의 자율적인 수업 모델을 설계할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
+   },
+   {
+    "n": 3,
+    "title": "인천시교육청, 인간 중심 AI교육 현장 실천사례 한자리에",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05OFhUWl9HMWxoRHM0aHBmZ2tqUnYxNlJ0N0luZHZhX0dWQ1I5QVdqcnJucmxUVENuUmdMYVJDeHR2R0NqY3RTanNVNFFPNHBWVlllTUJCcHZPZFRkTU9ZV2toSEoxX1VFVzhMQTVn?oc=5",
+    "source": "뉴스타운",
+    "published": "2026-11-09",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청이 인간 중심의 인공지능(AI) 교육 현장 실천 사례를 공유하는 자리를 마련했습니다.",
+    "implication": "우수한 AI 교육 실천 사례를 참고하여 학생 중심의 디지털 수업 설계에 바로 적용할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 4,
+    "title": "“IB 배워도 이어갈 학교 부족”…충남 교육정책 실효성 도마에",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1VZHJKYTkyWmM1VTdMSWd5QWhNbUNiSjJFTHVZc3VMd01makpTenFiUk44SWdUNUFBUEVHSnNMamtrd3p5N0pkMjdVQVE?oc=5",
+    "source": "아이뉴스24",
+    "published": "2026-11-10",
+    "keyword": "교육정책",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [
+     "IB",
+     "충남교육청"
+    ],
+    "summary": "충남에서 IB 교육을 도입했으나 연계 진학할 상급 학교가 부족해 정책의 실효성이 논란이 되고 있습니다.",
+    "implication": "진로 연계의 한계를 고려하여, 일회성 수업보다는 장기적인 학생 성장 중심의 평가 설계에 집중할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
+   },
+   {
+    "n": 5,
+    "title": "대구시교육청, 2026 놀이에 탐구를 더하는 교수학습법 직무연수 운영",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53ZkFHdm90bkxheUNDNW44TzFCeUpkN0NCNF9tVG5tYXpDRC1jV1VYZTkyNmRuSFNzTlRJX2VxZnVXc05YdmczMk9JUWxGV0FiVGR4amJRLUVvWlFVemlzdmdCcWNwZVJQLURtdHNwX3RzVGRN?oc=5",
+    "source": "글로벌뉴스통신GNA",
+    "published": "2026-11-10",
+    "keyword": "현장교사",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "대구시교육청"
+    ],
+    "summary": "대구시교육청은 놀이와 탐구를 결합한 교수학습법 직무연수를 운영할 예정입니다.",
+    "implication": "교사들은 놀이 중심의 탐구 학습법을 실제 수업에 적용하여 학생들의 흥미를 높일 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 6,
+    "title": "인천시교육청, ‘AI 미래채움 교육페스티벌’…AI교육 즐거움·발전 방향 알려",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2ZHVNNTVPaEx4c3pwWHpmem1Wd09iQWN2R2hJWlFkUGdoQTJrRGszTzJZYnBEUUFTazQ3cWM3XzZSSVNMNzg3eS1wTWlwb1BFLXozbkg2UnRabjg?oc=5",
+    "source": "경기일보",
+    "published": "2026-11-09",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청이 AI 교육의 즐거움과 발전 방향을 알리는 ‘AI 미래채움 교육페스티벌’을 개최했습니다.",
+    "implication": "페스티벌에서 공유된 AI 교육 사례와 방향성을 참고하여 우리 교실 수업에 바로 적용할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 7,
+    "title": "천호성 전북교육감 “14개 시군 모두 교육혁신선도지역 추진”",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZMUlJV3FNSDBDSmRrUkV4TnpLeTVNZzdQdkhGVVVhcmRNUFk0UDZMdmJ4aTFaNnlzV2pQcEpSRDgxN0dTamZaMTFzcGhMM1RaWXZOcm5JTEJnNTQ?oc=5",
+    "source": "KBS 뉴스",
+    "published": "2026-11-09",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "전북교육청"
+    ],
+    "summary": "천호성 전북교육감이 전북 14개 시군 모두를 교육혁신선도지역으로 추진하겠다고 밝혔습니다.",
+    "implication": "지역 간 교육 격차가 줄어들고 우리 학교 주변의 다양한 자원을 활용한 수업을 진행할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 8,
+    "title": "대구보건대 유아교육학과, 일본 유아교육연구단과 교육과정 교류",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4VlJfMWRRQWNhN3V2dnVZMzJPdzlHeTBISEMyN0hkem55dEU0S05jVnAzblJPeXE0RngyQ2hvY0dOM2tnTUNPZDd2eTFodzF1THU0RzhqZ3lwUQ?oc=5",
+    "source": "한국경제",
+    "published": "2026-11-10",
+    "keyword": "교육현장",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "다문화"
+    ],
+    "summary": "대구보건대 유아교육학과가 일본 유아교육연구단과 교육과정을 교류했습니다.",
+    "implication": "해외 유아교육 사례를 비교하며 다문화 및 글로벌 교육 활동을 수업에 적용할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "global",
+    "topic_src": "ai"
+   },
+   {
+    "n": 9,
+    "title": "'교육인권 보호망 구축을 위한 타운홀 미팅' 천호성 교육감 참석",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12eXRodXBuXzQ2ak5BUjUwbTd4WkVBbkcxUmtod29rZDlLV1JlZHk2SkU2a3dIbGlyOWx5RkdaRERjd3kyTGliS2tEdTNVNTd5VzF0S0J6a0s0RklLLXBZ?oc=5",
+    "source": "전북미래교육신문",
+    "published": "2026-11-10",
+    "keyword": "교육정책",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [],
+    "summary": "천호성 교육감이 교육인권 보호망 구축을 위한 타운홀 미팅에 참석했습니다.",
+    "implication": "교사가 교육활동 보호 관련 논의 사항을 파악하고 학교 현장의 인권 개선 방안을 참고할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
+   },
+   {
+    "n": 10,
+    "title": "[현장영상] 천호성 교육감, 정책회의서 “현장 의견 쏟아져”… 기숙사·폐교 활용·학급당 학생 수 점검",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9laF9tdTRNY2lGT3d4NXhCQ1JIUnE5dDJOMERuS1E2M0J1NGJMVzhQelA5OUV4d0xTa1ZGemg3eGg4c2dYdzI4ZGtrdjNmNmlFVjl6X0Fqd1daOUl6WnRN?oc=5",
+    "source": "전북미래교육신문",
+    "published": "2026-11-09",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": "feature",
+    "entities": [],
+    "summary": "천호성 교육감이 정책회의에서 현장 의견을 바탕으로 기숙사, 폐교 활용, 학급당 학생 수를 점검했습니다.",
+    "implication": "학급당 학생 수 감축 논의를 바탕으로 개별 학생 맞춤형 피드백을 강화하는 수업을 시도할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Exploring Teachers’ Practices in Advocating Responsible Use of Artificial Intelligence",
+    "url": "https://doi.org/10.60027/jelr.2026.e3720",
+    "source": "openalex",
+    "published": "2026-11-08",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 필리핀 교사 15명을 대상으로 질적 사례연구를 진행하여, 이들이 제도적 지원 부족 속에서도 적응적 전략을 통해 학생들의 책임감 있는 인공지능 활용을 지도하는 실천 방식을 밝혀냄으로써 향후 교육 현장의 인공지능 리터러시 프레임워크 구축에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Desiree Mae Baja, Niño Roedel C. Ursal 외 1명",
+    "pdf": "https://so19.tci-thaijo.org/index.php/JELS/article/download/3720/2328",
+    "topic_rule": "literacy_ethics",
+    "topic_src": "ai",
+    "title_ko": "인공지능의 책임 있는 활용을 옹호하는 교사들의 실천 탐색"
+   },
+   {
+    "n": 2,
+    "title": "LEVERAGING DEEP LEARNING FOR PERSONALISED ENGLISH LANGUAGE LEARNING: ADAPTING TO STUDENT NEEDS IN THE DIGITAL AGE",
+    "url": "https://doi.org/10.24235/lens.v2i2.24279",
+    "source": "openalex",
+    "published": "2026-11-07",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "이 논문은 딥러닝 기반의 맞춤형 영어 학습 접근법이 학생의 학습 프로필을 분석하여 개별화된 교육을 제공하고 동기를 높이는 한편, 공정하고 학생 중심의 언어 교육을 실현하기 위해 의도적인 교수법적 전환이 필요함을 밝힙니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Atia Bilqis, Royani Afriani 외 1명",
+    "pdf": "https://journal1.uinssc.ac.id/index.php/lens/article/download/24279/8002",
+    "topic_rule": "language",
+    "topic_src": "ai",
+    "title_ko": "개인화된 영어 학습을 위한 딥러닝 활용: 디지털 시대 학생 요구 적응"
+   },
+   {
+    "n": 3,
+    "title": "Playing to Teach: SPED Teachers' Experiences in Using Physical and Traditional Games in Teaching Learners with Special Needs",
+    "url": "https://doi.org/10.60027/jelr.2026.e3776",
+    "source": "openalex",
+    "published": "2026-11-08",
+    "keyword": "",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [
+     "특수교육",
+     "교사 연수"
+    ],
+    "summary": "필리핀 특수교육 교사 5명을 대상으로 한 질적 사례연구를 통해 신체 및 전통 놀이를 활용한 교육 경험을 분석한 결과, 교사들은 제도적 한계 속에서도 창의적 적응 전략과 협력을 통해 의미 있는 학습 경험을 제공하며 체계적인 지원과 교원 연수의 필요성을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Micheele M. Engrecial, Sheenah I. Sambaan 외 1명",
+    "pdf": "https://so19.tci-thaijo.org/index.php/JELS/article/download/3776/2323",
+    "topic_rule": "teacher_pd",
+    "topic_src": "ai",
+    "title_ko": "가르치기 위한 놀이: 특수교육 교사의 신체 및 전통 놀이 활용 경험"
+   },
+   {
+    "n": 4,
+    "title": "Exploring the Difficulties Encountered by Translation Teachers in Teaching Translation Courses at Azzaytona University",
+    "url": "https://doi.org/10.69667/ajs.261101",
+    "source": "openalex",
+    "published": "2026-11-07",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 아자이투나 대학교 번역 교사들을 대상으로 반구조화된 심층 면담을 통해 겪는 어려움을 질적으로 분석하여 교육 개선 방안을 도출함으로써, 향후 효과적인 번역 교육 발전과 실무 연계 강화에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Kefaya Sabaneh",
+    "pdf": "https://alqalam.utripoli.edu.ly/index.php/AR/article/download/172/148",
+    "topic_rule": "teacher_pd",
+    "topic_src": "ai",
+    "title_ko": "아자이투나 대학교 번역 교사들이 겪는 번역 수업 지도 어려움 탐색"
+   },
+   {
+    "n": 5,
+    "title": "Teachers’ Perception of Learning Action Cell (LAC) as a Strategy for Continuous Professional Development in Elementary Schools",
+    "url": "https://doi.org/10.32996/jhsss.2026.8.11.12",
+    "source": "openalex",
+    "published": "2026-11-07",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "초등 교사들을 대상으로 설문조사 방법을 활용하여 지속적인 전문성 개발 전략으로서 학습실행공동체(LAC)의 운영 실태와 과제를 분석한 결과, 전반적인 긍정적 인식과 함께 정보통신기술(ICT) 융합 개선 및 업무 부담으로 인한 시간 부족 해결이 필요함을 밝혀 향후 효과적인 교사 연수 계획 수립에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Melgen S. Reponte, Gengen G. Padillo 외 1명",
+    "pdf": "https://al-kindipublisher.com/index.php/jhsss/article/download/13821/12554",
+    "topic_src": "ai",
+    "title_ko": "초등학교 지속적 전문성 개발 전략으로서 학습실행공동체(LAC)에 대한 교사 인식"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "앤트로픽 '페이블 5.2', AI 성능 평가 1위 탈환…API 가격도 20% 인하",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217196",
+    "source": "AI Times",
+    "published": "2026-11-10",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Anthropic"
+    ],
+    "summary": "이번 앤트로픽의 성능 1위 탈환과 가격 인하는 고성능 AI 시장의 기술 경쟁 격화와 함께 비용 효율성 중심의 생태계 재편을 더욱 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "industry",
+    "topic_src": "ai"
+   },
+   {
+    "n": 2,
+    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+    "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+    "source": "OpenAI Blog",
+    "published": "2026-11-04",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "Amazon"
+    ],
+    "summary": "이번 AWS GovCloud의 'Daybreak Red' 도입은 공공 및 국방 부문의 엄격한 보안 요건을 충족하며 클라우드 기반 AI 인프라의 도입을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "dup_of": "2026-11-07",
+    "topic_src": "ai"
+   },
+   {
+    "n": 3,
+    "title": "딥엑스, 초저전력 AI 반도체 'DX-M2' 설계 완료...내년 하반기 양산 채비",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217204",
+    "source": "AI Times",
+    "published": "2026-11-10",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "GPU·데이터센터",
+     "온디바이스 AI"
+    ],
+    "summary": "국산 초저전력 AI 반도체의 양산 가속화는 서버 중심의 AI 인프라를 온디바이스 AI 시장으로 다변화하는 핵심 동력이 될 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 4,
+    "title": "[엔비디아 AI 데이] 엔비디아 기술 업은 반도체 시뮬레이션…삼성·SK하이닉스 열·기계 해석 가속",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4YTRxaHhRejUwZ0FPOF9XS0txZjZaLTlCTE9CZ3NYOV9TNFN0NzdtMXVENU5aRW5lVEMwTURvOWVwOF9qWFZNTEdhenREdlFfNWhqRFBXTmVMaVZBemw2S0lUb3FIOEE?oc=5",
+    "source": "팍스경제TV",
+    "published": "2026-11-09",
+    "keyword": "머신러닝",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "GPU·데이터센터",
+     "삼성",
+     "SK"
+    ],
+    "summary": "엔비디아의 시뮬레이션 기술은 메모리 반도체 제조 과정의 물리적 한계를 극복하고 수율 향상을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 5,
+    "title": "텐센트, 글로벌 최상위 오픈소스 AI 모델 ‘하이4’ 공개…컴퓨터 조작부터 금융·게임·과학 연구까지 수행",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83RWlQYWJsdUVFbnUwNTdEZS1tcDl6Qkp5QXAwc2Ntc3RBYmpEaGYyVmppc05aT2NRX1d6UE53NzdaaG5XTVBpMTdEWGd5bTZwYWNJaHVKU0RCYWY2amdBdWNkdkk4Ukk?oc=5",
+    "source": "인공지능신문",
+    "published": "2026-11-09",
+    "keyword": "AI모델",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "오픈소스"
+    ],
+    "summary": "텐센트의 '하이4' 공개는 범용성과 전문성을 모두 갖춘 오픈소스 AI가 산업 전반의 자율화 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 6,
+    "title": "Merge builds product and business tools with OpenAI technology",
+    "url": "https://openai.com/index/merge-builds-with-openai",
+    "source": "OpenAI Blog",
+    "published": "2026-11-05",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "생성형 AI"
+    ],
+    "summary": "Merge의 OpenAI 기반 제품 및 비즈니스 도구 도입은 기업용 소프트웨어 전반에 생성형 AI가 핵심 인프라로 깊숙이 내재화되는 전환점을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "dup_of": "2026-11-07",
+    "topic_rule": "agent_dev",
+    "topic_src": "ai"
+   },
+   {
+    "n": 7,
+    "title": "챗GPT가 라이언 애니 만들었다…카카오·오픈AI 맞손",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44T2psNWtlUVZHRWRBN2p6Ti15emRiZGxJMHY5cUxDYU1DY2ZYdmc1amM3dzRVZzNxLVF4LVFaUy15UzN5ZXYxSlFZNGQ1em10dnNNZU4zWGJQRmhqZjcydVlVMUNjeHdo?oc=5",
+    "source": "뉴스1",
+    "published": "2026-11-10",
+    "keyword": "GPT",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "카카오",
+     "OpenAI",
+     "생성형 AI"
+    ],
+    "summary": "오픈AI와 카카오의 협력은 글로벌 생성형 AI 기술이 국내 플랫폼 생태계와 결합하여 콘텐츠 제작 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
+   },
+   {
+    "n": 8,
+    "title": "엔비디아, 한국 AI 스타트업 투자 확대…인프라·LLM·피지컬 AI까지 ‘전방위 베팅’",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Tcm9Qd19pMFRsak56RXpFTi00eGc0R2VJY3RHZy1qQ2Z0bzlSMkJPUGRwYzZRVnVrRThleXBsVVJIMU9MTWVTN1JnbTVOdFZjVEZNUjlFWGR4NFJqSzRqRU1Zckh6enV0RXc?oc=5",
+    "source": "https://www.sisaworld.kr/",
+    "published": "2026-11-09",
+    "keyword": "LLM",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "LLM"
+    ],
+    "summary": "엔비디아의 전방위적 투자는 국내 AI 스타트업의 기술 경쟁력을 강화하고 글로벌 생태계 편입을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 9,
+    "title": "앤스로픽, AI 에이전트 1000개 지휘하는 신모델 공개",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc2VXQXRzR1F5Qk9VLTlKZG52MWdxXy11M05JYi1yeksxeGNxSGpqTUNGcVRVel9ySXE2dlVxanhKRkpySXd3djBDbXhOWXJ4S0dsdDdLWk5la0U2cXd4bS1WczA1cnNrTFF3RDNraUxnSVgxNXJSa29TZzVEWGd1eDIzNA?oc=5",
+    "source": "구글 뉴스 AI",
+    "published": "2026-11-09",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "에이전트"
+    ],
+    "summary": "이번 앤스로픽의 신모델 공개는 다중 에이전트 협업 기술을 본격화하며 기업용 AI 자동화 시장의 패러다임을 혁신할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 10,
+    "title": "어텐티브, 챗GPT와 클로드 연결하는 MCP 서버 정식 출시",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zS0h2d0JUdU4ySktHVFJpME5ZUHRtaUFRbk1qMEYyV2YyX3ZCT0lLSU80Y0ZDaWFwVExZM0xJWVZBay0wV3dfbHF0U2pGbDhic3F5Qg?oc=5",
+    "source": "AI 매터스",
+    "published": "2026-11-10",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Claude"
+    ],
+    "summary": "어텐티브의 MCP 서버 출시는 다양한 AI 챗봇이 기업 데이터와 실시간 연동되는 개방형 생태계 확장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {},
+ "synthesis": {
+  "headline": "인간 중심 AI 교육 실천과 맞춤형 디지털 수업 혁신이 주목받는 하루",
+  "threads": [
+   {
+    "title": "AI 교육과 맞춤형 수업",
+    "body": "인천시교육청이 인간 중심의 인공지능(AI) 교육 실천 사례를 공유한 가운데, 딥러닝 기반의 맞춤형 영어 학습 연구는 디지털 시대에 학생 개개인의 필요에 맞춘 공정한 교육 실현의 필요성을 뒷받침합니다. 교사들은 이러한 사례와 연구를 바탕으로 학생 중심의 디지털 수업을 설계할 수 있습니다.",
+    "refs": [
+     "edu-3",
+     "paper-2",
+     "edu-6"
+    ]
+   },
+   {
+    "title": "교육 현장의 혁신과 지원",
+    "body": "광양시가 교육부 교육혁신선도지역으로 지정되어 교실 혁신에 나서는 한편, 초등 교사 대상의 학습실행공동체(LAC) 연구는 지속적인 전문성 개발을 위한 연수와 지원의 중요성을 강조합니다. 현장 교사들은 이러한 지역 혁신 지원과 연계해 자율적인 수업 모델을 모색할 수 있습니다.",
+    "refs": [
+     "edu-2",
+     "paper-5",
+     "edu-7"
+    ]
+   }
+  ],
+  "classroom": "내일 교실에서 디지털 기술과 AI 도구를 활용해 개별 학생의 수준에 맞는 맞춤형 피드백을 제공하는 방법을 고민해 볼 수 있습니다.",
+  "model": "gemini-3.5-flash-lite",
+  "items_hash": "06f535662bde"
+ },
+ "enrich": {
+  "hash": "fd4b5e2f69c2",
+  "model": "gemini-3.5-flash-lite",
+  "topics": 13,
+  "title_ko": 5,
+  "summaries": 0
+ }
+}
