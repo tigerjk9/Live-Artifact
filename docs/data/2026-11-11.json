@@ -1,0 +1,510 @@
+{
+ "date": "2026-11-11",
+ "generated_at": "2026-11-11T17:20:05+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[기고] 다음 세대를 위한 문화도시 통영, 교육혁신선도 도시 통영",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10M1o5Um9WYzdPTmpHUl8tdTBlWmRveXNVeTBsdWFfMElBTW8ydkN6cXpWRVo2ajZmY0tSVzdjR3ltdDk3VlZ2ejQtNnRxWUlFVVZTQzZJbU1oNV96VDZkZFlaaTJfUzJfcXhFLVNB?oc=5",
+    "source": "한산신문",
+    "published": "2026-11-10",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "통영시는 문화도시의 강점을 살려 다음 세대를 위한 교육혁신선도 도시로 도약하고자 합니다.",
+    "implication": "지역의 문화 예술 자원을 활용하여 학생들의 창의성을 높이는 지역 연계 수업을 설계할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
+   },
+   {
+    "n": 2,
+    "title": "[박선미 칼럼] 편리함의 함정, 대학은 사유의 외주화를 어디까지 허용할 것인가",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=30602",
+    "source": "에듀프레스",
+    "published": "2026-11-10",
+    "keyword": "",
+    "topic": "higher_ed",
+    "kind": "opinion",
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "대학에서 생성형 AI의 편리함이 사유의 외주화로 이어지지 않도록 학습자의 주체성과 평가 방식의 재설계가 필요합니다.",
+    "implication": "교사는 학생들이 AI의 결과물을 단순히 수용하지 않고 비판적으로 검증하며 스스로 질문을 던지는 활동을 수업에 도입할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
+   },
+   {
+    "n": 3,
+    "title": "고의숙 제주교육감 \"초개별화 맞춤형 교육...IB 기반 교육혁신 확산\"",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sUmIwTjl2akxtVmRocjBuQUpXakozZlVsNlJiNUZvZ3FRVHktSGtDZUpuc1lLWFN2WlZ4RGwtY21FYWNIWDZmRjd2OEhqUEZEdnJ1QmhEd2hqQWRsR2xaXzNYR2Q4X204T0xYUmtWQTZibUE?oc=5",
+    "source": "헤드라인제주",
+    "published": "2026-11-10",
+    "keyword": "교육혁신",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "제주교육청",
+     "개인화 학습",
+     "IB"
+    ],
+    "summary": "고의숙 제주교육감은 초개별화 맞춤형 교육과 IB 기반의 교육혁신 확산을 추진하겠다고 밝혔습니다.",
+    "implication": "IB 교육과정의 탐구형 수업 설계를 활용해 학생 맞춤형 수업을 진행할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 4,
+    "title": "[기획] 미래교육 해답 찾기 나선 충남교육청 '전문적학습공동체'(6)",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tWDVfVFpmb2w4TUFRVUdhdlJ2aG9uMGN2SndBS2hFUEdOSFlWVTBWWm8wZjhPV244SW5rS0JiSDFaOVVDc2oxYy1DbkJ4ZXJSSk56azRjQVE5dDZIdTdETklURGprV0Vyb2c4?oc=5",
+    "source": "디트NEWS24",
+    "published": "2026-11-11",
+    "keyword": "수업이야기",
+    "topic": "teacher",
+    "kind": "feature",
+    "entities": [
+     "충남교육청",
+     "교사 연수"
+    ],
+    "summary": "충남교육청이 미래교육의 해답을 찾기 위해 전문적학습공동체 활성화 방안을 기획 보도했습니다.",
+    "implication": "동료 교사들과 학습공동체를 구성하여 수업 사례를 공유하고 교실 수업 개선을 함께 연구할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
+   },
+   {
+    "n": 5,
+    "title": "충남교육청 ‘교육정책 실효성 도마’…IB교육 단절·중복사업·예산 낭비 질타",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uTzNOZV9LVkhuaEdqdnNsb1BBZWlHTmJEbGZuRElHRjY1MzBPSmUxNFNqaFJpdlhobkZoMVJjaEV1UGg3aE5zNkFPQm1yMUMzb0U0WnJOLXNzdFA5SDNlbDE0TWppUzM2?oc=5",
+    "source": "녹색경제신문",
+    "published": "2026-11-10",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충남교육청",
+     "IB"
+    ],
+    "summary": "충남교육청이 IB 교육 단절과 예산 낭비 등으로 교육정책의 실효성 부족을 질타받았습니다.",
+    "implication": "정책 변화 속에서도 교사 주도성을 바탕으로 흔들림 없이 학생 중심 수업을 디자인할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 6,
+    "title": "충남교육청, 중학교 교장 180여 명과 교육과정 운영 역량 강화 나서",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0ydTJEM0FHTU4tVGlKNFZXcVBhZmVJWE1iSUdjdVVBYUxNVE1wTTVjdFNVZ0J5bDVBYVVMV2N6VUNzd2syZEpRNTZjRjdCaS15NWow?oc=5",
+    "source": "아산데일리",
+    "published": "2026-11-10",
+    "keyword": "과정중심평가",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "충남교육청이 중학교 교장 180여 명을 대상으로 교육과정 운영 역량 강화 연수를 실시합니다.",
+    "implication": "교장선생님과의 소통을 바탕으로 학교 자율 교육과정에 부합하는 맞춤형 수업을 설계할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "teacher",
+    "topic_src": "ai"
+   },
+   {
+    "n": 7,
+    "title": "전국 9개 시도교육감, “교사의 정치 기본권 보장은 교육 현장의 목소리를 정책에 반영하는 계기”",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01NlMtV0VoTVI2b1BmWFJGdW1vS1huZFRuWHpuSzhCbVo3TFlXUFhCUmhsbFAxc08xdkYxTjQyMDNjanppOFVhaGh2Zi1hbHc2bG0wU2FzRHVZWWhWVlZkd0s0T0E4SklCVGN2NlpR?oc=5",
+    "source": "에브리뉴스 EveryNews",
+    "published": "2026-11-10",
+    "keyword": "교육현장",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [],
+    "summary": "전국 9개 시도교육감이 교사의 정치 기본권 보장이 정책 반영의 계기가 된다고 밝혔습니다.",
+    "implication": "교사들은 관련 법안의 진행 상황을 모니터링하며 교육의 공공성과 정치적 중립성의 조화에 대해 학생들과 토론할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
+   },
+   {
+    "n": 8,
+    "title": "한별유치원, 일본 유아교육 연구자 19인 맞아 IB 교육과 몬테소리 교육 현장 참관",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9QY0RaTy1QMnJmUXhFMjJNaEdCQzVLV2oyZ3RwYVVmTTVGX0NKUUFtazE4OHFFTWMyUXhNZUtUSk1xbENJaXBJbUJWUWZTX3Jfd21Qd3lJWDJVdmF5enRMT3VOdU1rSDFOSzZYVtIBb0FVX3lxTE5qTm1CNVA2VnVpdURzbVVjbngxNUJoUFZ1NlQzbnU5a3AzZEJEZ1JpSTBJN20zWXo3M0tZUFBoODJuSzJBdUlObnFucW1Wb2FpRHVQRDRDWlhTczNjOEhvLTdGOTh4RmNxNVpuY1QyTQ?oc=5",
+    "source": "뉴스로드",
+    "published": "2026-11-10",
+    "keyword": "교육현장",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "IB"
+    ],
+    "summary": "일본 유아교육 연구자 19인이 한별유치원을 방문해 IB 교육과 몬테소리 교육 현장을 참관했습니다.",
+    "implication": "IB 교육과 몬테소리 교육의 실제 운영 사례를 참고하여 우리 반 맞춤형 탐구 중심 활동을 설계할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 9,
+    "title": "국회서 AI 리터러시 교육정책 논의…“누구나 AI 활용할 역량 갖춰야”",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1JX0dDUzZoT3lIak05NV9PaW9SNy02LURZTHFzY2NhVy1YaExiRE10LWowOFRzZnpSTElJZ3dJTmpIRXJZT2YxWlRn?oc=5",
+    "source": "뉴스N연합",
+    "published": "2026-11-11",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "국회",
+     "AI 리터러시",
+     "생성형 AI"
+    ],
+    "summary": "국회에서 모든 국민이 AI를 활용할 역량을 갖추기 위한 AI 리터러시 교육정책이 논의되었습니다.",
+    "implication": "교과 수업에 다양한 생성형 AI 도구를 접목해 학생들이 비판적으로 기술을 활용하는 역량을 기를 수 있습니다.",
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
+   },
+   {
+    "n": 10,
+    "title": "경기도의회 이건한의원, 교육정책 성과는 현장 변화로 증명... 소통·협력·법적 책임 점검",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ka3RWTk1sT2RjNm93SzlaQzNUNmNlOEVBV3RnblRCT01jai1BU1plWFhZZ09UejRlUjQ2WmE5RWhxOEFPbFU0MmhHS21iRkZCQXljeEVDWUxpQXk4cXNCWF9KUkt3VXdreU1F?oc=5",
+    "source": "일간투데이",
+    "published": "2026-11-11",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "경기도의회 이건한 의원은 교육정책의 성과가 현장 변화로 이어져야 함을 강조하며 소통과 협력, 법적 책임을 점검했습니다.",
+    "implication": "교사들은 정책의 변화를 기다리기보다 학생과의 소통을 바탕으로 실제 수업 환경을 개선하는 데 집중할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Using Artificial Intelligence Applications in Teaching Mathematics(Between Promising Prospects and Necessary Cautions)",
+    "url": "https://atbuscienceforum.com.ng/index.php/jpas/article/view/626",
+    "source": "openalex",
+    "published": "2026-11-07",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 수학교육에서 인공지능 활용의 잠재적 이점과 윤리적 과제를 분석하고, 책임감 있는 교육적 통합 방안을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Luma Ali Ahmeed.",
+    "pdf": "https://atbuscienceforum.com.ng/index.php/jpas/article/download/626/611",
+    "topic_src": "ai",
+    "title_ko": "수학교육에서의 인공지능 활용 (유망한 전망과 필수적 주의사항)"
+   },
+   {
+    "n": 2,
+    "title": "Teaching and Learning: A New Frontier for K-12 and Higher Education",
+    "url": "http://dx.doi.org/10.1080/03634523.2022.2069833",
+    "source": "eric",
+    "published": "2022-01-01",
+    "keyword": "K-12 education",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "본 논문은 K-12와 고등교육 기관 간의 협력을 통해 교사들의 소통 교육 역량을 강화하고, 이를 바탕으로 학생들이 실무에서 요구되는 탄탄한 소통 능력을 갖추도록 돕는 교육적 방안을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Stewart, Briana M. 외 2명",
+    "pdf": "http://dx.doi.org/10.1080/03634523.2022.2069833",
+    "topic_rule": "design_curric",
+    "topic_src": "ai",
+    "title_ko": "교수학습: K-12와 고등교육의 새로운 지평"
+   },
+   {
+    "n": 3,
+    "title": "Use of artificial intelligence-based tools to improve listening and speaking skills in university students learning English as a foreign language: A systematic review",
+    "url": "https://doi.org/10.62943/rck.v5n2.2026.636",
+    "source": "openalex",
+    "published": "2026-11-07",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 체계적 문헌 고찰(SLR) 방법론을 통해 인공지능 기반 도구가 대학생의 영어 듣기와 말하기 능력을 향상시키고 학습 동기를 높이는 데 긍정적인 영향을 미친다는 점을 분석합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Pablo Jesús Oñate Cifuentes, María Lorena Del Salto Masache 외 1명",
+    "pdf": "https://editorialinnova.com/index.php/rck/article/download/636/1306",
+    "topic_src": "ai",
+    "title_ko": "AI 기반 도구가 대학생 외국어(영어) 듣기·말하기 능력 향상에 미치는 영향: 체계적 문헌 고찰"
+   },
+   {
+    "n": 4,
+    "title": "How Can the AI-Generated Curriculum Gap in Teacher Education Be Addressed?",
+    "url": "http://dx.doi.org/10.1007/s11528-025-01102-z",
+    "source": "eric",
+    "published": "2025-01-01",
+    "keyword": "educational AI",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "AI 리터러시"
+    ],
+    "summary": "본 논문은 교사 양성 과정의 인공지능 교육 격차를 해소하기 위해 AI 리터러시, 교수법, 윤리적 기준을 통합한 포괄적 프레임워크와 단계별 모델을 제안하여 미래 교사들의 역량을 강화하고 학생들의 학습 성과를 향상합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Antarjyami Mahala, Bhavin Chauhan",
+    "pdf": "http://dx.doi.org/10.1007/s11528-025-01102-z",
+    "topic_src": "ai",
+    "title_ko": "교사 양성 과정의 AI 생성 교육과정 격차를 어떻게 해소할 것인가?"
+   },
+   {
+    "n": 5,
+    "title": "A generative AI teaching assistant for personalized learning in medical education",
+    "url": "https://www.semanticscholar.org/paper/7365e7a141573a68231f9aa2538bef258b166756",
+    "source": "semantic_scholar",
+    "published": "2025-11-04",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "개인화 학습"
+    ],
+    "summary": "본 연구는 의학교육에서 신뢰성이 검증된 검색증강생성 기반의 인공지능 조교를 도입하여 학생들의 맞춤형 자기주도 학습을 지원하고 제도적 교육 통합 방안을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Thomas Thesen, Soonbong Park",
+    "pdf": "https://www.nature.com/articles/s41746-025-02022-1.pdf",
+    "topic_src": "ai",
+    "title_ko": "의학교육에서 맞춤형 학습을 위한 생성형 AI 교육 조교"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "[AI리더의 서가] 파이토치로 배우는 현대 인공지능",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217031",
+    "source": "AI Times",
+    "published": "2026-11-11",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [],
+    "summary": "이 도서는 실무 중심의 프레임워크 학습을 통해 개발자들이 AI 기술을 현업에 직접 적용하고 생태계 저변을 확대하는 데 기여할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "agent_dev",
+    "topic_src": "ai"
+   },
+   {
+    "n": 2,
+    "title": "챗GPT, 주요 AI 챗봇 이용량 81% 차지…클로드 급성장에도 독주",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217239",
+    "source": "AI Times",
+    "published": "2026-11-10",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Claude",
+     "AI 검색"
+    ],
+    "summary": "챗GPT의 압도적 시장 점유율은 AI 검색·생태계 표준 선점 효과를 보여주며, 후발 주자들은 틈새 시장 공략을 위한 차별화된 전문성 확보가 필수적임을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
+   },
+   {
+    "n": 3,
+    "title": "BMW, '챗GPT'로 차량 추천부터 시승 예약까지…AI 쇼핑 확대",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217233",
+    "source": "AI Times",
+    "published": "2026-11-10",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "생성형 AI"
+    ],
+    "summary": "이번 BMW의 사례는 생성형 AI가 단순한 차량 내 비서를 넘어 차량 구매와 예약까지 지원하는 실질적인 커머스 채널로 진화하며 모빌리티 산업 내 AI 생태계 확장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "product",
+    "topic_src": "ai"
+   },
+   {
+    "n": 4,
+    "title": "[11월10일] 젠슨 황 불륜 스캔들 뒤에 가려진 'AI 스파이 전쟁'",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217207",
+    "source": "AI Times",
+    "published": "2026-11-11",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "NVIDIA"
+    ],
+    "summary": "가십성 스캔들 이면에 가려진 이번 AI 스파이 전쟁은 국가 간 기술 패권 경쟁과 보안 리스크가 전례 없는 수준으로 심화되고 있음을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 5,
+    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+    "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+    "source": "OpenAI Blog",
+    "published": "2026-11-04",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Amazon"
+    ],
+    "summary": "AWS GovCloud 내 'Daybreak Red'의 가용성 확보는 공공 및 국방 부문에서 고도의 보안을 요구하는 AI 기술 도입과 클라우드 기반 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "dup_of": "2026-11-08",
+    "topic_rule": "policy_safety",
+    "topic_src": "ai"
+   },
+   {
+    "n": 6,
+    "title": "Anthropic, Google Meet 화이트보드 베타와 함께 Claude Meetings 발표",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV2QwcUhkNmp5VUlJTHRxTXA0UUVaZGktYWwxSWE5Q05rYUVaWk9IVHV3V244QjFYaFFrbmlma2o5eXJfTEhyMExMdVBzQVg5bjExZThrME1mZEY1dGRlYXNlN09qcWpfQUNPSzZ4UXlENm5WLU5MelNwaDVyaXIxVlZRbWdXN3FOckdFR2RzOUUyLWlhOXM1QnhxTQ?oc=5",
+    "source": "Unite.AI",
+    "published": "2026-11-10",
+    "keyword": "Anthropic",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Google",
+     "Claude"
+    ],
+    "summary": "앤트로픽의 클로드 미팅 참여는 기업용 AI 비서 시장에서 빅테크 간의 주도권 경쟁이 협업 툴 영역으로 본격 확산되고 있음을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
+   },
+   {
+    "n": 7,
+    "title": "DeepMind, Gemini Robotics 2.5 공개 및 오픈 안전성 벤치마크 ASIMOV-Jailbreak 발표",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRXhoNzcxeUVZTk4zU1pWTTFSX2dNZW9ZN1N3MDJJRTZsUkNZajlyaUpTMmVEQkRGNmt1Tl9TN2Q1WVdDNURCNVpSMnN2QldHZnN5ZWx1VXpJdE45Y1V5Z01CaUxFbXQ5eUtoc19FZjhqX1VpaWVEZlNUNWNCSTF6Nno5NGhHcFVyYWw5QVlKUDZDOWREZmVyYnVR?oc=5",
+    "source": "Mezha.net",
+    "published": "2026-11-10",
+    "keyword": "벤치마크",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Gemini",
+     "로봇·휴머노이드",
+     "AI 안전·규제",
+     "벤치마크"
+    ],
+    "summary": "구글 딥마인드의 제미나이 로보틱스 2.5와 안전성 벤치마크 공개는 향후 피지컬 AI의 성능 고도화와 산업계 전반의 신뢰성 검증 표준 마련을 동시에 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 8,
+    "title": "LG AI연구원, ‘K-엑사원 2.5’ API 전격 무료 개방…8주 만에 AI 성능 70%↑, 글로벌 프런티어 AI 정조준",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xRW5sSWg3TnpZc2I2VG56LUt5NFBKUWxxMGxlWDZRQmVOVlNFc2FCQVFvVzliNmdES3BLdDdlOGh2MUhzUWJqcFVocVRyX01yY1ZTU1BRX0pmSDcxMlpGZXNvbkgwZlk?oc=5",
+    "source": "인공지능신문",
+    "published": "2026-11-10",
+    "keyword": "API",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "LG"
+    ],
+    "summary": "LG AI연구원의 엑사원 2.5 API 무료 개방은 국내 AI 생태계의 진입 장벽을 낮춰 토종 AI의 글로벌 경쟁력을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "dup_of": "2026-11-09",
+    "topic_rule": "model",
+    "topic_src": "ai"
+   },
+   {
+    "n": 9,
+    "title": "Fable 5.2는 더 저렴하고, 더 빠르며, 성능도 뛰어나 구글의 Gemini 4 Carbon이 일반에 공개되기도 전에 경쟁 제품으로 자리매김했습니다. 이것이 Anthropic의 느린 발전 방향이라고 하더라도, 업계의 다른 경쟁사들이 따라잡을 수 없을 만큼 빠른 속도입니다.",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9yYlREaGJYZlFEaVdDd1JnbXFDSkZ2dXFZamxRYU9kN1hSX0d6SUJiUWh5MHNGWndSc2JIVVpoajQ?oc=5",
+    "source": "AI넷",
+    "published": "2026-11-10",
+    "keyword": "Anthropic",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Gemini",
+     "Anthropic"
+    ],
+    "summary": "Anthropic의 Fable 5.2는 압도적인 비용 효율성과 속도로 경쟁사들을 따돌리며 AI 시장의 판도를 재편할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 10,
+    "title": "구글 새 AI칩으로 '탈 엔비디아' 가속, 삼성전자·SK하이닉스 HBM 최대 공급처 바뀌나",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HMERBS05tYlBaZ094MDVhb2dhNXVTaExMNXFnOUUtSEFGakZLUnNtSC1Gbjl0aGVjeWtsczJVUmxFT2FvaG5zMHJLNVZEbUtIa2s2aUJHb3A4cUgzNmVpM011Mzh0ZEhNLWV4UERBR0FhRXc?oc=5",
+    "source": "비즈니스포스트",
+    "published": "2026-11-10",
+    "keyword": "구글",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Google",
+     "GPU·데이터센터",
+     "NVIDIA",
+     "삼성",
+     "SK"
+    ],
+    "summary": "구글의 독자 AI 칩 출시는 엔비디아의 시장 독점을 완화하고, 국내 메모리 반도체 기업들의 HBM 공급망 다변화와 새로운 성장 기회를 제공할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {},
+ "synthesis": {
+  "headline": "교육 현장의 AI 활용과 맞춤형 수업 혁신 논의",
+  "threads": [
+   {
+    "title": "AI 시대의 맞춤형 교육",
+    "body": "대학과 학교 현장에서 생성형 AI의 편리함이 사유의 외주화로 이어지지 않도록 주체적인 학습 설계가 논의되는 가운데, 수학교육에서도 AI의 윤리적 과제와 책임감 있는 통합 방안이 연구 논문을 통해 제기되었습니다. 또한 챗GPT 등 주요 AI 챗봇이 시장을 주도하는 기술 환경 속에서 교육용 AI 도구의 비판적 활용 중요성이 커지고 있습니다.",
+    "refs": [
+     "edu-2",
+     "paper-1",
+     "tech-2"
+    ]
+   },
+   {
+    "title": "IB 교육과 AI 리터러시",
+    "body": "제주교육청 등이 초개별화 맞춤형 교육과 IB 기반 교육혁신을 추진하며 탐구형 수업 설계를 모색하고 있습니다. 이와 함께 국회와 교사 양성 과정에서는 누구나 AI를 활용할 수 있는 리터러시 교육정책과 포괄적 프레임워크가 논의되며 미래 교육의 방향을 다각도로 조명하고 있습니다.",
+    "refs": [
+     "edu-3",
+     "edu-9",
+     "paper-4"
+    ]
+   }
+  ],
+  "classroom": "학생들이 AI 도구의 결과물을 단순히 수용하지 않고 비판적으로 검증하며 스스로 질문을 던지는 활동을 수업에 도입해 볼 수 있습니다.",
+  "model": "gemini-3.5-flash-lite",
+  "items_hash": "70700b842f21"
+ },
+ "enrich": {
+  "hash": "5cea57f1fc9e",
+  "model": "gemini-3.5-flash-lite",
+  "topics": 13,
+  "title_ko": 5,
+  "summaries": 0
+ }
+}
