@@ -1,0 +1,478 @@
+{
+ "date": "2026-11-13",
+ "generated_at": "2026-11-13T17:43:09+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[사설] 충북교육청 ‘다채움’ 재검토·교육현장 살펴야",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Tdi02blMxQUJ1b0RWX095VzA3VlhPbThILTUwVXQ3NGRYX19SOXl1X3ZwWUdvOE9IVHBYRkctcURXVVd6d0F4RGU2VzV0bTUwVFM3Q2NNLU00WlNNVlZZbTdSM2x4RGNDZEE?oc=5",
+    "source": "중부매일",
+    "published": "2026-11-12",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [
+     "충북교육청"
+    ],
+    "summary": "충북교육청은 도입한 학습 플랫폼 ‘다채움’의 효용성을 재검토하고 교육 현장의 목소리를 살펴야 한다.",
+    "implication": "교사는 에듀테크 도입 논란 속에서도 학생 개개인의 학습 수준을 고려한 맞춤형 디지털 도구를 수업에 유연하게 활용할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "ai_digital",
+    "topic_src": "ai"
+   },
+   {
+    "n": 2,
+    "title": "[특별기고] 교육과정 문해력 어떻게 기를까",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpbi10anB3XzVrTGZaZ2hXcHU0aGNLamdqZjVFRXdzX2N1c181eWJwUkxhWVVUd1d1MVpMVXlZWjlWbnowODk5cUhJN2tjZGt2VjFySzV5bkwwNzZ1SUlSckIydEwtMU5Y?oc=5",
+    "source": "에듀프레스",
+    "published": "2026-11-12",
+    "keyword": "과정중심평가",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [
+     "문해력"
+    ],
+    "summary": "교육과정 문해력을 향상시키는 구체적인 방안과 중요성을 다룬 특별기고문이다.",
+    "implication": "교육과정 성취기준을 분석하는 공동 연구 소모임을 운영하여 수업에 활용할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 3,
+    "title": "인천시교육청, 초등 44개교 교원 '읽걷쓰AI 프로젝트학습' 연수",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qRTMyc3o4M2pnSlgtbXNEWnZ6bFpDZ0JlZVNlQS1Fdy03WF84SWhTeVk5TGFjZUQ5clcwX3BlUHJIclpqXzhTal9id1AxTVdtLV9uSEUxSG9JbnRwS054NjVtdjFFamJJVElkOERn?oc=5",
+    "source": "국제뉴스",
+    "published": "2026-11-12",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청이 초등 44개교 교원을 대상으로 읽걷쓰AI 프로젝트학습 연수를 실시합니다.",
+    "implication": "AI를 활용한 프로젝트 수업 설계 방안을 배우고 실제 교실 수업에 바로 적용할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
+   },
+   {
+    "n": 4,
+    "title": "충남교육청교육과정평가정보원, ‘AI 시대에 필요한 질문의 힘’ 특강",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RaDdRVldrVkpVS3lPQkgtM19KNmtidU5CNHVDV3RaRmpFdTFlelhsXzFiWGpFU3c0LWY3dm0zWlNaMm0ybjA2QVR4RGtCNWxQX2JjZHZaeHNoUHh1VzBhTG92X2gtS0RmYlhlZE1INA?oc=5",
+    "source": "금산중앙신문방송",
+    "published": "2026-11-12",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "충남교육청교육과정평가정보원에서 AI 시대에 대비한 '질문의 힘' 특강을 개최했습니다.",
+    "implication": "교실에서 학생들의 호기심을 자극하고 AI를 비판적으로 활용하는 핵심 질문법을 수업에 적용할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
+   },
+   {
+    "n": 5,
+    "title": "인천교육청, 초등교원 200명 ‘읽걷쓰AI 프로젝트학습’ 공동 설계",
+    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1FdU9nc3lEWGtZWWJxZ3d4Wkg5bm1aU2FVMmxDS0lQZ2lEMmpFMW9mdC1RM0lnbWhLRkJUZHlsdjhWbk5Z?oc=5",
+    "source": "오늘뉴스",
+    "published": "2026-11-12",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천교육청은 초등교원 200명과 함께 '읽걷쓰AI 프로젝트학습'을 공동 설계했습니다.",
+    "implication": "교사들은 인공지능과 독서·실천을 융합한 수업 모델을 자신의 학급 지도에 바로 활용할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
+   },
+   {
+    "n": 6,
+    "title": "충남교육청, 금산·논산·부여·아산 4개 지역 ‘교육혁신선도지역’ 지정",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxQ01sb2ZZZzhYLVlrcy1nR05qd3RqOUlsZ19IQXFsaWxJaE9XYlhsUzBCZFJDSEZzdDIzUkJUVVV0UnRQemxFQW9haWNHVWFTWVd0U1VSb3JkbW54VXlYd0NhRVpBdw?oc=5",
+    "source": "코리아플러스",
+    "published": "2026-11-12",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충남교육청",
+     "개인화 학습"
+    ],
+    "summary": "충남교육청이 금산, 논산, 부여, 아산 등 4개 지역을 교육혁신선도지역으로 지정했습니다.",
+    "implication": "지역별 맞춤형 교육 프로그램과 특화된 자원을 연계하여 교과 융합 수업을 설계할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
+   },
+   {
+    "n": 7,
+    "title": "부산교육청, 해외 8개국 교육정책 분석해 미래교육 해법 모색",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KWFVUMzREcWZicGlidGR4VzVENzFQVUN6eXlKRjRDQUkzMXBTZEZwN19kdkVjQjRNbEMwSnEtOXdkSm1rVEI4Q3JhMUFiaDVtRlp1WWtySmVaQQ?oc=5",
+    "source": "파이낸셜뉴스",
+    "published": "2026-11-13",
+    "keyword": "교육정책",
+    "topic": "global",
+    "kind": null,
+    "entities": [
+     "부산시교육청"
+    ],
+    "summary": "부산교육청이 해외 8개국의 교육정책을 분석하여 미래교육의 해법을 모색하고 있습니다.",
+    "implication": "해외의 우수 교육정책 사례를 바탕으로 우리 교실에 적합한 미래지향적 수업 방안을 고민해 볼 수 있습니다.",
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
+   },
+   {
+    "n": 8,
+    "title": "나주교육빅뱅, UCLA가 찾은 나주 IB 교육 현장",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBUbnhzSVFUNWtaaUQwTUdTNWZ1LUFJZkxybFd4clZnWDJta0daOUNIbTgxeDMtSkxFdi1GU3l0SjVZdDNWYWx1bEtIMk1FNDJnVHdnYkRIVGQzVTNLOHl1WWx6bw?oc=5",
+    "source": "리더스타임즈",
+    "published": "2026-11-12",
+    "keyword": "교육현장",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [
+     "IB"
+    ],
+    "summary": "UCLA 관계자들이 나주를 방문해 IB 교육 현장을 시찰하며 나주교육의 변화를 주목했습니다.",
+    "implication": "학생 주도 탐구와 깊이 있는 학습을 유도하는 IB 교육 방식을 실제 수업 설계에 적용할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
+   },
+   {
+    "n": 9,
+    "title": "도민 아이디어로 교육정책 만든다… 전북교육청",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LWjNyYjJWamhEbTRfdDI1dmcyYWFFb3lrYjVxNUpMYk5QZEYwdEtuVmRYckRHZDczQVMxM0JNdmR5aEkyV1ZFNWlLZjNPQlBSSVVOM0s5LXJtYmRUeFNZ?oc=5",
+    "source": "완주신문",
+    "published": "2026-11-13",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "전북교육청"
+    ],
+    "summary": "전북교육청이 도민들의 아이디어를 수렴하여 새로운 교육정책을 수립할 계획입니다.",
+    "implication": "학생들과 함께 지역 사회의 정책 제안 사례를 살펴보며 민주시민의 역할을 이야기해 볼 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 10,
+    "title": "양산학생의회, 생새한 교육현장 목소리 전하다",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1teUVzUDMxQ2xPSDhkZHJ1SlVneFFIX1hsd29pYXRNbWU2OG5TWlFnRWRna0ZiNWNGX2x0djVnM0plcTJlLXhLOXladjhxTnYzYXk2bzFMNHZFcEF3TWxuVUhudmJPTmtrX0pXektDYw?oc=5",
+    "source": "양산신문",
+    "published": "2026-11-12",
+    "keyword": "교육정책",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [],
+    "summary": "양산학생의회가 양산신문을 통해 생생한 교육 현장의 목소리를 전달했습니다.",
+    "implication": "학생들의 실제 의견을 반영하여 현장 중심의 소통 수업을 설계할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "High School Teacher Sensemaking on the Influence and Impact of the COVID-19 Pandemic on Personalized Learning",
+    "url": "http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&res_dat=xri:pqm&rft_dat=xri:pqdiss:30817954",
+    "source": "eric",
+    "published": "2023-01-01",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "이 연구는 사례 연구 방법을 통해 펜실베이니아 고등학교 교사들이 코로나19 팬데믹 전후의 원격 및 대면 수업 전환 과정에서 맞춤형 학습을 어떻게 인식하고 적응했는지 조사하여, 행정적 지원이 교육 혁신과 위기 대응에 미치는 중요한 역할을 밝힙니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Erin Marie Van Guilder",
+    "pdf": "http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&res_dat=xri:pqm&rft_dat=xri:pqdiss:30817954",
+    "topic_src": "ai",
+    "title_ko": "고등학교 교사들의 맞춤형 학습에 대한 코로나19 팬데믹의 영향과 의미 이해"
+   },
+   {
+    "n": 2,
+    "title": "Correction: Application of digital-intelligent technologies in physical education: a systematic review",
+    "url": "https://doi.org/10.3389/fpubh.2026.2006403",
+    "source": "openalex",
+    "published": "2026-11-10",
+    "keyword": "",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "이 논문은 체육 교육에서 디지털-지능형 기술의 적용 현황을 체계적으로 검토하여, 맞춤형 학습과 교육 효율성을 높이는 이론적 기반을 제공하고 향후 발전 방향을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Qiying Zhong, Jiajun Jiang 외 1명",
+    "pdf": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.2006403/pdf",
+    "topic_src": "ai",
+    "title_ko": "체육 교육에서의 디지털-지능형 기술 적용: 체계적 문헌 고찰 수정본"
+   },
+   {
+    "n": 3,
+    "title": "Double Visions: Educational Technology in Standards and Assessments for Science and Mathematics",
+    "url": "http://dx.doi.org/10.1023/B:JOST.0000031264.52931.47",
+    "source": "eric",
+    "published": "2004-01-01",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 과학교육과 수학교육 및 교육공학의 표준과 국가평가에서 나타나는 교육용 기술 활용의 비전을 비교 분석하여, 교사 양성과정에서 명확한 기술 통합 기준을 마련해야 함을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Irving, Karen E. 외 2명",
+    "pdf": "http://dx.doi.org/10.1023/B:JOST.0000031264.52931.47",
+    "topic_rule": "stem_ct",
+    "topic_src": "ai",
+    "title_ko": "이중 비전: 과학 및 수학 표준과 평가에서의 교육용 기술"
+   },
+   {
+    "n": 4,
+    "title": "Artificial Intelligence Literacy Education in Primary Schools: A Review",
+    "url": "http://dx.doi.org/10.1007/s10798-025-09979-w",
+    "source": "eric",
+    "published": "2025-01-01",
+    "keyword": "",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 체계적 문헌 고찰을 통해 초등학교 수준의 인공지능 소양 교육에 대한 이론적 틀과 교수법을 종합적으로 분석하여 향후 교육 과정 설계와 정책 수립에 중요한 지침을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Iris Heung Yue Yim, Jiahong Su",
+    "pdf": "http://dx.doi.org/10.1007/s10798-025-09979-w",
+    "topic_src": "ai",
+    "title_ko": "초등학교 인공지능 소양 교육: 문헌 고찰"
+   },
+   {
+    "n": 5,
+    "title": "Rote Learning to Heutagogical Autonomy: An Assessment of Learner-Centric Perspective of NEP 2020 through Rabindranath Tagore’s “Tota-Kahini”",
+    "url": "https://doi.org/10.67693/bjcr-dn75un2q",
+    "source": "openalex",
+    "published": "2026-11-10",
+    "keyword": "edtech",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [],
+    "summary": "인도 NEP 2020의 학습자 중심 교육 정책이 지닌 관료적 한계를 타고르의 우화인 '토타 카히니'를 활용한 질적 정책 분석으로 비판적으로 고찰하여, 진정한 자기주도적 학습 자율성 확보를 위한 대안적 평가 프레임워크를 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "ARUNAVA ROY -",
+    "pdf": "https://bexfordpublishing.co.uk/journals/bjcr/articles/BEX_OCT_26_123/download",
+    "topic_rule": "assessment",
+    "topic_src": "ai",
+    "title_ko": "암기식 학습에서 헤우타고지적 자율성으로: 타고르의 '토타 카히니'를 통한 NEP 2020의 학습자 중심 관점 평가"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "구글·삼성, AI 안경 시장 출사표… 12월10일 메타와 정식 격돌",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217346",
+    "source": "AI Times",
+    "published": "2026-11-12",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Google",
+     "삼성",
+     "Meta"
+    ],
+    "summary": "구글과 삼성의 가세로 웨어러블 AI 시장이 메타의 독주 체제에서 거대 기술 기업 간의 본격적인 생태계 패권 경쟁으로 전환될 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "industry",
+    "topic_src": "ai"
+   },
+   {
+    "n": 2,
+    "title": "AI 모델 가중치 0.05%만 삭제했더니…전체 미세조정 수준 성능 향상",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217321",
+    "source": "AI Times",
+    "published": "2026-11-12",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "불필요한 가중치의 선별적 제거가 전체 미세조정보다 효율적인 새로운 모델 경량화 및 성능 개선 표준으로 자리 잡을 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 3,
+    "title": "ChatGPT, 금융 관리 기능 데스크톱 출시: 소비, 투자, 저축 위젯 생성 (GPT, OpenAI, AI, MAC)",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pdjRvQlhyRjdKUUJMLWNKRWJnZ3FVR0N2bmlzZjRGRVdGbFVNeW8wMFJDRHBvUU9YbWtqNFJROFFfTk53TnBjTWdQb2lKZW1TN1R4S0lhOWFfOUZGSzJEVVlGeFZtcWtuRDRtTjJn?oc=5",
+    "source": "민심뉴스",
+    "published": "2026-11-12",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": "opinion",
+    "entities": [
+     "ChatGPT",
+     "OpenAI"
+    ],
+    "summary": "OpenAI의 데스크톱 금융 관리 기능 출시는 AI가 단순 대화를 넘어 개인 맞춤형 금융 플랫폼으로 진화하는 전환점이 될 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 4,
+    "title": "Anthropic, 실시간 화상 통화용 Claude Meetings 베타 출시",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUmtzc0hoVWZ5MkZ5ZEpscjI0ZjM0X0hVemU0aEczaWNqVGFtSFU3Y3A5cF90NE9aaU54ZHZVZFE0eEF2QlhrYl9BamNYZmozVGNzel9IQmJpTWs0dVZDQTBWV2xkVDloWXJFSGgzSkdwVUliYzhhMTM5Ull1TTJ2TnIzbWpHTnBjWllUcm5n?oc=5",
+    "source": "Unite.AI",
+    "published": "2026-11-12",
+    "keyword": "Anthropic",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude"
+    ],
+    "summary": "앤스로픽의 클로드 미팅스 출시 표명은 AI가 텍스트를 넘어 실시간 화상 회의 시장까지 본격 진출하며 협업 소프트웨어 생태계의 판도를 바꿀 것임을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
+   },
+   {
+    "n": 5,
+    "title": "ChatGPT Enterprise now available in AWS Marketplace",
+    "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "source": "OpenAI Blog",
+    "published": "2026-11-09",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Amazon",
+     "OpenAI"
+    ],
+    "summary": "OpenAI가 AWS 마켓플레이스에 진입한 것은 기업용 AI 시장에서 클라우드 플랫폼 간 경계를 허물고 범용 B2B 유통 주도권을 선점하기 위한 전략적 전환점입니다.",
+    "implication": "",
+    "ai": true,
+    "dup_of": "2026-11-12",
+    "topic_src": "ai"
+   },
+   {
+    "n": 6,
+    "title": "ByteDance, ChatGPT에 맞서려고 TikTok에 AI 에이전트 붙인다",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE44d29DRi1jQkdWZ1drbGFaMGZwUENRY0RfeVRybU1BdEFRV0ctbHB5Z1JrR0I5RjltbmtJUU1QYk5lMnI4U1hoWER2S0JQVDF4a0wybmxfeFg0WjdLVWlpR0duVUZUc0pmT2RoS0RB?oc=5",
+    "source": "Korben",
+    "published": "2026-11-12",
+    "keyword": "튜토리얼",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "에이전트"
+    ],
+    "summary": "바이트댄스의 틱톡 내 AI 에이전트 도입은 단순한 챗봇 경쟁을 넘어, 소셜미디어가 검색과 이커머스를 통합하는 차세대 AI 플랫폼으로 진화하고 있음을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "product",
+    "topic_src": "ai"
+   },
+   {
+    "n": 7,
+    "title": "KB증권 AI 에이전트는 어떻게 최적의 모델을 선택할까? – Amazon Bedrock 기반 Context Tier-Routing",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb1ZDb3d5RUZYWG56eU9kbE95Zld1YURWSU5hMHMzdUZYUWJUYlJmdWRuMzg2VzRObVh4SmZ0aEpoR0FIUHZ6cE1vYjZza1I0a0MxVW5Mc2pUeW1aWXJ1RXVfQzlna1ppMmpVbzU0bUtHNjJBdlA3VzRfT1ZMR3VzRnBPUW9XOWxTa25pQw?oc=5",
+    "source": "Amazon Web Services (AWS)",
+    "published": "2026-11-12",
+    "keyword": "LLM",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "에이전트",
+     "Amazon"
+    ],
+    "summary": "KB증권의 Context Tier-Routing 도입은 비용 효율성과 성능을 극대화하여 금융권 AI 에이전트 상용화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
+   },
+   {
+    "n": 8,
+    "title": "중국, 젠슨 황 사태에 반발…\"미국 기술 제재 구실 안 돼\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217358",
+    "source": "AI Times",
+    "published": "2026-11-13",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "GPU·데이터센터"
+    ],
+    "summary": "미국의 대중국 반도체 제재 강화는 중국의 기술 자립을 가속화하며 글로벌 AI 공급망의 블록화와 기술 패권 경쟁을 더욱 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 9,
+    "title": "Helping caregivers use AI in everyday life",
+    "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "source": "OpenAI Blog",
+    "published": "2026-11-10",
+    "keyword": "",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [],
+    "summary": "간병 영역에서의 AI 도입은 고령화 사회의 돌봄 부담을 실질적으로 경감하며 헬스케어 AI 서비스의 대중화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "product",
+    "topic_src": "ai"
+   },
+   {
+    "n": 10,
+    "title": "SK하이닉스, 사내 챗GPT 도입 시험⋯반도체 업무 AI 활용 확대 검토",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1V1NKS0ZiQngwRll3WF9FcmNXVFhGQ1AwZHJ0YXQ3bW1qOE4ybGFfNURJQndxUkdkXy1IdUVRanZ1YzdjNjVaWjV0QQ?oc=5",
+    "source": "아이뉴스24",
+    "published": "2026-11-12",
+    "keyword": "GPT",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "SK",
+     "ChatGPT",
+     "GPU·데이터센터",
+     "생성형 AI"
+    ],
+    "summary": "보안이 중시되는 전통 제조업 분야까지 생성형 AI 도입이 본격화되면서, 향후 기업용 맞춤형 AI 솔루션 시장이 급성장할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {},
+ "enrich": {
+  "hash": "2b6a3e2a0a92",
+  "model": "gemini-3.5-flash-lite",
+  "topics": 15,
+  "title_ko": 5,
+  "summaries": 0
+ }
+}
