@@ -1,0 +1,506 @@
+{
+ "date": "2026-11-15",
+ "generated_at": "2026-11-15T17:24:07+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[기고] 김현호(경기도평생교육진흥원/경기미래교육파주캠퍼스 과장)",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYZnF4MkIzLXAycWJDWFNXUnM3S2o5enlNN0licVQ3Y0lpZnByQVQtUkIzT0R5YmdsQl9ZUFJYanpVN0lWYkQxQ1hReXl2eGUzQ3hiT0lUQ0NJTjRkdmlnQ3RJdk9xQ0hYLXc?oc=5",
+    "source": "경기도민일보 미디어",
+    "published": "2026-11-15",
+    "keyword": "생성형AI교육",
+    "topic": "higher_ed",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "경기도평생교육진흥원 김현호 과장이 경기도민일보에 교육 관련 기고문을 발표했습니다.",
+    "implication": "지역의 평생교육 및 캠퍼스 연계 프로그램을 활용하여 학생들에게 교실 밖의 다양한 체험 학습을 제공할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
+   },
+   {
+    "n": 2,
+    "title": "김석준 부산교육감, SW·AI 디지털 체험부터 어린이 교통안전 교육까지…미래교육과 안전교육 현장 행보",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xaUdNTFJveXgwX2pDX1lsVlJfZU9lTV9GN3M0Wnl0R3ZKRG1QV0JvNHFDdGlTUnlwSy0zaUZBci05TDB6Tzl0V1ViTDVNT0pvRXNVek9YLU1hZVJCYU5oeDFic0dfOXMw?oc=5",
+    "source": "복지TV부울경방송",
+    "published": "2026-11-14",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "부산시교육청"
+    ],
+    "summary": "김석준 부산교육감이 SW·AI 디지털 체험 및 어린이 교통안전 교육 현장을 방문했습니다.",
+    "implication": "디지털 체험과 안전 교육을 연계하여 융합 수업을 계획할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 3,
+    "title": "IB부터 재정·공약까지…제주도의회, 고의숙 교육감 대상 교육행정질문",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aNVA1UWFBclFzbk5GSjNYaEtBVDljbWthZ1VPMTQ2b0xxR1NIbWNIOEFaNnlFa1MyN3JWZkJfOUpydVU2TmZoYmNtR0lXSEdPcFdmMWdXOEE1bi11NV9wZ0hnYmNDTlZpem54UXBR?oc=5",
+    "source": "국제뉴스",
+    "published": "2026-11-14",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "IB"
+    ],
+    "summary": "제주도의회가 고의숙 교육감을 상대로 IB 교육과정 및 재정, 공약 등 주요 교육 현안에 대해 질문했습니다.",
+    "implication": "IB 교육과정 도입에 따른 제주 지역의 교육 변화와 정책 방향을 수업 시간에 학생들과 함께 토론할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 4,
+    "title": "부산교육청, 해외 8개국 교육정책 분석…부산 교육 현장 적용 모색",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ia1k5SjE2UllleUg2b1k4ZE1CUENxMVdXOHdGMWdkM1UyVzhmcjlzdjRSS0VscDBEX1NkaXUzM0c5SHF5Z01TZWV2dUprdlBqNkE2ckVhYWF2MnRkSDFJM0Nn?oc=5",
+    "source": "시사매거진",
+    "published": "2026-11-14",
+    "keyword": "교육정책",
+    "topic": "global",
+    "kind": null,
+    "entities": [
+     "부산시교육청"
+    ],
+    "summary": "부산교육청이 해외 8개국 교육정책을 분석하여 지역 교육 현장에 적용하는 방안을 모색합니다.",
+    "implication": "해외의 우수 교육 사례를 참고하여 창의적인 수업 설계와 학생 맞춤형 지도에 적용해 볼 수 있습니다.",
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
+   },
+   {
+    "n": 5,
+    "title": "수원특례시의회, 카메룬 정부 대표단과 교육정책 교류",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VRHNaSFRHRUl2eGdNOFh0ZlNtUXRPSzhIcjkxdi1UNVNUTi1mc0JsQlJCMFBnWGVjVWR0QWZfc0dNc2ZFNzZwcmFSbF9UZHRuZnpfaFMtaUQ1eVdVTmlyYw?oc=5",
+    "source": "메트로신문",
+    "published": "2026-11-14",
+    "keyword": "교육정책",
+    "topic": "global",
+    "kind": null,
+    "entities": [
+     "다문화"
+    ],
+    "summary": "수원특례시의회와 카메룬 정부 대표단이 만나 양국 간의 교육정책을 교류했습니다.",
+    "implication": "다문화 교육과정에서 카메룬의 교육 사례를 조사해 학생들이 세계 시민의식을 기르는 수업을 할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
+   },
+   {
+    "n": 6,
+    "title": "오지훈 경기도의원 \"AI 교육정책 연속성 확보·교사 업무부담 개선해야\"",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE95S3l6a2YtREJBOVhNbEtLb0R3UmlWaDJiMjB4cjhnTDUwZ1I0azhhWlF0Z0czVHJCa2UtZWkwdFk1eHd6Q3VCSXQ5bG5fdWlfbW9NVlI3aE4xTm1aNllrQ3ZKZXNCTDB6ekczanJueUxtbWhFa3d0UExEMW4?oc=5",
+    "source": "글로벌에픽",
+    "published": "2026-11-14",
+    "keyword": "교육정책",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "오지훈 경기도의원은 AI 교육정책의 연속성 확보와 교사 업무 부담 개선을 촉구했습니다.",
+    "implication": "행정 업무 경감과 정책 지원을 통해 확보된 여유 시간을 학생 맞춤형 AI 수업 지도에 활용할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
+   },
+   {
+    "n": 7,
+    "title": "내년 교육정책에 도민의견 반영…전북교육청, 정책제안 공모",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE91aWJFZkJhN1BSQzZUMFN3Mks0TXVxSFREUW1yWFBhTU9Ia2xObloyMjhNd3pFU0lzZl84WGhnTlFhcXZRX0M1TWZxcVdITVJRTWpxTg?oc=5",
+    "source": "이투데이",
+    "published": "2026-11-14",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "전북교육청"
+    ],
+    "summary": "전북교육청이 내년 교육정책에 도민의 의견을 반영하기 위해 정책제안 공모를 실시합니다.",
+    "implication": "교사가 교육 현장의 목소리를 정책 제안 형식으로 정리하여 직접 교육 정책에 참여할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 8,
+    "title": "경기도교육청국제교육원, 몽골 교육감 방한단 통해 한·몽 교육 교류 넓힌다.",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HS0NDMW9vams2ekV0ajhMaWt5WEoyN0FRSzFyZFFqaEhwZWhvaWRqQTFvNmJRNEtfSXdyd3hySlF5NFBTSVgtSmhyYVpMMkZXT1daR1lwcFVQRHVPekR4aUVfMUd2UQ?oc=5",
+    "source": "검경일보",
+    "published": "2026-11-14",
+    "keyword": "에듀테크",
+    "topic": "global",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "다문화"
+    ],
+    "summary": "경기도교육청국제교육원이 몽골 교육감 방한단을 맞아 한·몽 교육 교류 협력을 확대한다.",
+    "implication": "다문화 교육 주간에 몽골의 문화와 교육 방식을 소개하는 프로젝트 수업을 진행할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
+   },
+   {
+    "n": 9,
+    "title": "Letta – 상태를 유지하는 AI 에이전트, MemGPT 및 영구 메모리 플랫폼",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbEpsZWtRTTZwa0xfODJsX25oMlJDd3p1QVRybFpmSnNubzJVUkdjcTA1b2lLSnMwOW1DZTFMMnFmT2VneGlXUUVERFYtaUJWWWd4WU9ZeHUtWllJZ1hWMWlGb0dpRzFoa1dKa1dPanBXWlBaNm5KQjVyeFpVWXJ4ZVhXTEhjRi1TakpzUTRvemVxY3ZmZXZDWGdMYVlULWdka3M5VHNRWG1ZT2E5RDBvcU56Zw?oc=5",
+    "source": "quasa.io",
+    "published": "2026-11-14",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "에이전트",
+     "개인화 학습",
+     "AI 튜터"
+    ],
+    "summary": "Letta는 AI 에이전트의 상태 유지와 영구 메모리를 지원하는 MemGPT 기반 플랫폼입니다.",
+    "implication": "교사는 학생별 맞춤형 학습 이력을 기억하는 AI 튜터링 도구로 수업에 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "생성형 AI 관광지 추천 편향 분석…제주대 연구팀 우수논문상",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGX21oSHBKSnl1S2hmNnprU1VkbzluaXAyQ1FoT1huTTNMeDNQMnl3emRXR2F6V3NaTGN4QVc2NjFDVXhjRGtjU09yZVJ6S1BYVnJFUm12S05JYUVxbHNqdUQ4dUxWYkxaeUFlMg?oc=5",
+    "source": "제주매일",
+    "published": "2026-11-14",
+    "keyword": "AI교육",
+    "topic": "global",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "제주대 연구팀이 생성형 AI의 관광지 추천 편향을 분석한 논문으로 우수논문상을 받았습니다.",
+    "implication": "학생들과 함께 AI 알고리즘의 편향성을 비판적으로 분석하는 미디어 리터러시 수업을 할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "ai_digital",
+    "topic_src": "ai"
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Social-Emotional Learning in Grade 1 Good Manners and Right Conduct: Teacher Readiness and Perceived Student Outcomes",
+    "url": "https://doi.org/10.67903/ijroms0601",
+    "source": "openalex",
+    "published": "2026-11-12",
+    "keyword": "SEL education",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 질적 기술 연구 디자인을 활용하여 필리핀 초등 교육에서 사회정서학습과 바른 품행 교육의 통합 과정에서 나타난 교사의 준비도, 수업 실제, 학생 성과를 분석하고 교육 분야의 발전 방안을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Aprilyn P. Base, Neil Aljo A. Padasen",
+    "pdf": "https://ijroms.com/index.php/home/article/download/issue_v1i10a27/355",
+    "topic_src": "ai",
+    "title_ko": "초등 1학년 바른 품행 교육에서의 사회정서학습: 교사 준비도와 학생 성과 인식"
+   },
+   {
+    "n": 2,
+    "title": "Impact of AI-assisted blended teaching on undergraduate learning in crop breeding",
+    "url": "https://doi.org/10.3389/feduc.2026.1886385",
+    "source": "openalex",
+    "published": "2026-11-13",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 작물 육종 수업에 인공지능 기반 혼합 학습을 도입한 결과, 시험 성적 향상보다는 학생들의 이해 압박감을 줄이고 학습 효능감을 크게 높여 긍정적인 심리적·인지적 교육 효과를 이끌어낸다는 것을 확인합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ming Wang, Fuchao Jiao 외 1명",
+    "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1886385/pdf",
+    "topic_rule": "genai_tutor",
+    "topic_src": "ai",
+    "title_ko": "작물 육종 학부 교육에서 AI 기반 블렌디드 러닝의 학습 영향"
+   },
+   {
+    "n": 3,
+    "title": "AI-SUPPORTED BLENDED LEARNING IN CONSUMER BEHAVIOR: LINKING GOALS, CASES AND ASSESSMENT",
+    "url": "https://doi.org/10.61784/wjes3223",
+    "source": "openalex",
+    "published": "2026-11-13",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 AI와 블렌디드 러닝을 활용하여 소비자가 행동 개념을 실제 시장 상황에 적용하도록 돕는 체계적인 교육과정 설계를 제시하며, 향후 학생들의 비판적 사고 평가에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "KuoYan Wang",
+    "pdf": "https://upubjournals.com/wjes/article/download/2931/278",
+    "topic_rule": "assessment",
+    "topic_src": "ai",
+    "title_ko": "소비자 행동 수업의 AI 지원 블렌디드 러닝: 목표, 사례, 평가의 연계"
+   },
+   {
+    "n": 4,
+    "title": "THE IMPACT OF DIGITAL TOOLS ON ENHANCING ENGLISH LANGUAGE LEARNING IN SECONDARY SCHOOLS",
+    "url": "https://doi.org/10.68653/tyxg7g05",
+    "source": "openalex",
+    "published": "2026-11-12",
+    "keyword": "edtech",
+    "topic": "language",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "이 논문은 중등학교 영어 교육에서 디지털 도구의 활용이 학습자의 참여도와 어휘력을 향상시키는 긍정적 영향을 분석하고, 효과적인 교육 환경 조성을 위한 인프라 개선과 교사 연수의 필요성을 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Eunice P. Fash",
+    "pdf": "https://journals.plasu.edu.ng/index.php/pjed/article/download/452/455",
+    "topic_src": "ai",
+    "title_ko": "중등학교 영어 학습 향상을 위한 디지털 도구의 영향"
+   },
+   {
+    "n": 5,
+    "title": "Key elements and practical logic of AI-optimized EFL formative assessment in higher education: a grounded theory study",
+    "url": "https://doi.org/10.3389/feduc.2026.1918665",
+    "source": "openalex",
+    "published": "2026-11-12",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "근거이론을 활용하여 대학 영어 교육에서 AI 기반 형성 평가의 핵심 요소와 실행 과정을 분석한 이 논문은, 인간과 기계의 협력을 통한 맞춤형 평가 체계가 교육 패러다임의 변화와 교수법 혁신에 기여함을 밝힙니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Wei Shi",
+    "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1918665/pdf",
+    "topic_src": "ai",
+    "title_ko": "고등교육에서 AI 최적화 영어 형성평가의 핵심 요소와 실행 논리"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "아마존, 전 세계 상품 정보 통합 추진…AI 쇼핑 주도권 지킨다",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217412",
+    "source": "AI Times",
+    "published": "2026-11-14",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Amazon",
+     "에이전트"
+    ],
+    "summary": "아마존의 상품 정보 통합은 AI 기반 쇼핑 에이전트 시장에서 플랫폼 주도권을 공고히 하는 결정적 계기가 될 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "agent_dev",
+    "topic_src": "ai"
+   },
+   {
+    "n": 2,
+    "title": "젠슨 황, 자신이 키운 생성 AI에 풍자당해…딥페이크 밈 수백만 조회",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217422",
+    "source": "AI Times",
+    "published": "2026-11-15",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "생성형 AI",
+     "딥페이크"
+    ],
+    "summary": "본 사건은 딥페이크 기술의 리스크가 최고경영자(CEO)조차 예외일 수 없음을 보여주며, 향후 강력한 진위 판별 기술 및 윤리적 규제 도입을 더욱 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 3,
+    "title": "ChatGPT로 자선단체의 성장에 속도를 더하다",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5MT2NxaDN4b2lCeTNYX2ZVU25UdlNESm1WWmRqLU9XVm1fbkZjNTJJWFR1U2wtUnpVY2NmcDVYRHdqaG1hNm5EbHhNQXFUM2RaQkdlSTZVM3JseGJZc2IzazIwTzAzc21nQ3FSSEVEdw?oc=5",
+    "source": "OpenAI",
+    "published": "2026-11-14",
+    "keyword": "오픈AI",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "이번 사례는 AI가 단순 생산성 도구를 넘어 비영리 생태계의 사회적 가치 창출과 스케일업을 가속화하는 핵심 인프라로 자리 잡고 있음을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "product",
+    "topic_src": "ai"
+   },
+   {
+    "n": 4,
+    "title": "딥시크·문샷 등 중국 4개사, 수출 통제 '블랙웰' 사용 흔적 발견",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217397",
+    "source": "AI Times",
+    "published": "2026-11-14",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "DeepSeek",
+     "Moonshot",
+     "GPU·데이터센터"
+    ],
+    "summary": "미국의 대중국 수출 통제에도 불구하고 중국 AI 기업들이 블랙웰 등 최신 칩을 우회 확보함에 따라, 향후 미국의 제재 실효성 논란과 함께 글로벌 반도체 공급망 통제 전략의 전면적인 재검토가 불가피할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "dup_of": "2026-11-14",
+    "topic_rule": "industry",
+    "topic_src": "ai"
+   },
+   {
+    "n": 5,
+    "title": "ChatGPT Enterprise now available in AWS Marketplace",
+    "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "source": "OpenAI Blog",
+    "published": "2026-11-09",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Amazon",
+     "OpenAI"
+    ],
+    "summary": "오피니언: 이번 AWS Marketplace 입점은 오픈AI가 기업용 B2B 시장에서 클라우드 거점까지 확보하며 엔터프라이즈 AI 주도권을 더욱 공고히 할 것임을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "dup_of": "2026-11-12",
+    "topic_src": "ai"
+   },
+   {
+    "n": 6,
+    "title": "엔비디아 투자자들 \"젠슨 황 복귀 검토해야\"…머스크 등 거물 가세",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217413",
+    "source": "AI Times",
+    "published": "2026-11-15",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "xAI"
+    ],
+    "summary": "일론 머스크를 비롯한 거물들의 젠슨 황 경영 복귀 촉구는 엔비디아가 단순한 하드웨어 공급자를 넘어 AI 생태계의 핵심 패권 기업임을 방증합니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 7,
+    "title": "젠슨 황 투자에 제동 걸었던 CFO가 후임으로…엔비디아 전략 바뀌나",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217406",
+    "source": "AI Times",
+    "published": "2026-11-14",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA"
+    ],
+    "summary": "재무 건전성을 중시하는 CFO의 최고경영자(CEO) 등극은 엔비디아의 공격적인 투자 기조에 제동을 걸고 수익성 위주의 내실 경영으로 전략을 선회하게 만들 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 8,
+    "title": "Anthropic's Claude for Manufacturing plugs AI directly into factory software to automate industrial workflows",
+    "url": "https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/",
+    "source": "The Decoder",
+    "published": "2026-11-13",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude"
+    ],
+    "summary": "앤스로픽의 클로드 포 매뉴팩처링 출시는 AI가 디지털 공간을 넘어 실제 제조 현장의 물리적 공정 자동화로 확장되는 결정적 계기가 될 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "agent_dev",
+    "topic_src": "ai"
+   },
+   {
+    "n": 9,
+    "title": "Firecrawl – RAG와 AI 에이전트를 위한 최고의 웹 데이터 API",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdmNXdmRNNDdxSXVUN1NvbEtUNmJScGxjZTY4OHByclVhaVR6aUtlT0Z0RWw2YWFZVEtsbGZfcWJYLWREUTdwVHpsNlRuRjY1SzlvTG53TEY1a3FhcmZBeFZNODlXVTFMakpkTF94MEZyQlpneHdfdXNqZVNPMkxEc3hUaVdndWVXUzRHWnVERWRjdjNlLW5Idk9VSQ?oc=5",
+    "source": "quasa.io",
+    "published": "2026-11-14",
+    "keyword": "AI도구",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "웹 데이터를 AI가 즉시 활용 가능한 형태로 정제해 주는 파이어크롤(Firecrawl) 같은 툴의 대중화는 RAG와 AI 에이전트의 성능 혁신을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 10,
+    "title": "Helping caregivers use AI in everyday life",
+    "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "source": "OpenAI Blog",
+    "published": "2026-11-10",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [],
+    "summary": "돌봄 영역에서의 AI 활용은 일상적인 부담을 줄여주며, 헬스케어 산업 전반에 인간 중심의 실용적 기술 도입을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "dup_of": "2026-11-13",
+    "topic_rule": "product",
+    "topic_src": "ai"
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {},
+ "synthesis": {
+  "headline": "교육 현장의 AI 활용과 글로벌 정책 변화가 교실 수업에 스며듭니다",
+  "threads": [
+   {
+    "title": "AI 교육과 정책",
+    "body": "경기도의원 등이 AI 교육정책의 연속성과 교사 업무 부담 개선을 촉구한 가운데, 작물 육종 수업에 AI 기반 혼합 학습을 도입한 연구에서는 학생들의 학습 효능감이 크게 향상된 것으로 나타났습니다. 교육 행정의 제도적 지원과 실질적인 교실 내 AI 활용이 맞물려 긍정적인 교육 효과를 이끌어내고 있습니다.",
+    "refs": [
+     "edu-6",
+     "paper-2"
+    ]
+   },
+   {
+    "title": "디지털 기술과 수업",
+    "body": "부산교육청이 해외 8개국의 교육정책을 분석해 현장 적용을 모색하는 동시에, 생성형 AI의 관광지 추천 편향을 분석한 제주대 연구팀의 논문이 우수논문상을 받았습니다. 해외 우수 사례와 AI 기술의 편향성 분석은 교실에서 비판적 미디어 리터러시 수업을 설계하는 데 유용한 기초 자료가 됩니다.",
+    "refs": [
+     "edu-4",
+     "edu-10"
+    ]
+   },
+   {
+    "title": "AI 에이전트와 혁신",
+    "body": "상태를 유지하는 AI 에이전트 플랫폼 Letta의 등장과 제조 현장의 공정을 자동화하는 앤스로픽의 클로드 포 매뉴팩처링 출시는 AI가 단순 생산성 도구를 넘어 고도화된 지원 인프라로 자리 잡고 있음을 보여줍니다. 이러한 기술 발전은 교육 현장에서 학생별 맞춤형 학습 이력을 기억하는 AI 튜터링 도구 활용으로 이어질 수 있습니다.",
+    "refs": [
+     "edu-9",
+     "tech-8"
+    ]
+   }
+  ],
+  "classroom": "생성형 AI가 가진 알고리즘의 편향성을 학생들이 직접 분석해 보는 미디어 리터러시 수업을 설계해 볼 수 있습니다.",
+  "model": "gemini-3.5-flash-lite",
+  "items_hash": "8e758016fc71"
+ },
+ "enrich": {
+  "hash": "a8c74d624282",
+  "model": "gemini-3.5-flash-lite",
+  "topics": 13,
+  "title_ko": 5,
+  "summaries": 0
+ }
+}
