@@ -1,0 +1,507 @@
+{
+ "date": "2026-11-16",
+ "generated_at": "2026-11-16T17:32:50+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[진영아 칼럼] 문해력 떨어졌다고 한자? .. \"낱말은 문장 속에서 자란다\"",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=30626",
+    "source": "에듀프레스",
+    "published": "2026-11-15",
+    "keyword": "",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [
+     "문해력"
+    ],
+    "summary": "초등 교과서 한자 병기 논의와 관련해, 낱말의 뜻은 한자 암기가 아닌 문맥 속에서 익혀야 한다는 지적이다.",
+    "implication": "한자 암기보다는 교과서 속 어휘의 뜻을 우리말 풀이와 맥락 중심으로 지도하는 방식을 수업에 적용할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 2,
+    "title": "천호성 도 교육감과 5개 시군 교육장 교육혁신선도지역 추진 전략 발표",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vUUdOdmpNZjJyS3FCZWdidlJsNUlxQnZYZG5xNVpnYzRHMHZPbEpUSnpzVFdaNXAtNTl6UnBMM0daQTV0Q0dsWC0ycHV6LWJhNXFnUnBYQ2NMdUdfRlpDMnhHQ2JTZ9IBakFVX3lxTE1nbW9YeG5BTlhMZ1BNQVZvdWM5YzZnVEtoVWF0ZUhHQ1pmNWlDLWF1bkpiMnBsYlJxcnFwRU5nMEVPTlFkMFc1MjllTjVSZ01ueHgwLWVYRzlmUzhMbzlESnBSSjZJTG1sU3c?oc=5",
+    "source": "정읍신문",
+    "published": "2026-11-15",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "전북교육청"
+    ],
+    "summary": "천호성 전북 교육감과 5개 시군 교육장이 교육혁신선도지역 추진 전략을 함께 발표했습니다.",
+    "implication": "지역 연계 교육과정을 재구성하여 학생들의 실제 삶과 연결된 프로젝트 수업을 설계할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 3,
+    "title": "미래교육정책연구소장 \"정책 성과지표, 계획 단계부터 설계\"…만족도 조사 중심 평가 한계 짚어",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LQjhRdGxXLW5fMG11aVNEM3NEWEdCOUxmX0l1c1NCbWVld1Bfd19paS1HVmx6ZGdla3U1bFQydzNFeXdGSTFTVnB3N1FoYUg5d3hNb01uM0J5TWpQY0Uw?oc=5",
+    "source": "전북미래교육신문",
+    "published": "2026-11-16",
+    "keyword": "과정중심평가",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "미래교육정책연구소장은 기존의 만족도 조사 중심인 교육 정책 평가 방식의 한계를 지적하며 계획 단계부터 성과지표 설계를 강조했습니다.",
+    "implication": "교사는 수업의 성과를 단순 만족도가 아닌 구체적인 학습 목표 달성 지표를 바탕으로 미리 설계하여 평가할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
+   },
+   {
+    "n": 4,
+    "title": "광주여대 초등특수교육과 'AI를 활용한 수학과 교육과정 재구성과 수업 설계' 특강 진행",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YR0dNQlJYVjhrX05wTmF0a1Z0bEh2ZFhmaVJGNW9IdFBKWGdWckZaX3NfQkdoZE5mZmk5ZEVrU3VvZ2ZJOW9XOXFSWGJ6RWdCN0Npejl6NzRPakVCRzNQbTdTUXBpLTVDU3RmXw?oc=5",
+    "source": "베리타스알파",
+    "published": "2026-11-16",
+    "keyword": "AI활용수업",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "특수교육",
+     "개인화 학습"
+    ],
+    "summary": "광주여대 초등특수교육과는 AI를 활용한 수학과 교육과정 재구성 및 수업 설계 특강을 진행했습니다.",
+    "implication": "AI 도구를 수학과 수업 설계에 적용하여 특수교육 대상 학생의 맞춤형 학습을 지원할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
+   },
+   {
+    "n": 5,
+    "title": "\"진로·학업 설계\" 인천시교육청, 중3 학생 2만 2천여 명 대상 고교학점제 사전교육 운영",
+    "url": "https://www.lecturernews.com/news/articleView.html?idxno=213848",
+    "source": "한국강사신문",
+    "published": "2026-11-16",
+    "keyword": "",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [
+     "인천시교육청",
+     "고교학점제"
+    ],
+    "summary": "인천시교육청이 관내 중3 학생 2만 2천여 명을 대상으로 고교학점제 사전교육을 운영합니다.",
+    "implication": "교사들은 고교학점제 사전교육을 통해 학생들이 자신의 적성과 진로에 맞추어 주도적으로 학업을 설계할 수 있도록 지도할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
+   },
+   {
+    "n": 6,
+    "title": "'요즘 아이들'의 마음부터 경기교육 '벽깨기'까지…시흥시, 마을교사 대상 교육정책 브리핑",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xZUUtQ19ZNHE0dTBrOVRJX2laVnRkMUxhWjRvSjJzbmphdEtkejVFZjU3Rmp0Nmh0Nk5YOHQ1WEltRlprQlJEUk85dURCVU5UUG1kMU93OTRwcnN6SFRjcW90RQ?oc=5",
+    "source": "대한민국교육신문",
+    "published": "2026-11-16",
+    "keyword": "교육정책",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "시흥시가 마을교사를 대상으로 학생 이해와 경기교육 정책을 다루는 브리핑을 개최했습니다.",
+    "implication": "최신 교육 트렌드를 반영하여 지역사회와 연계한 학생 맞춤형 수업을 구성할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
+   },
+   {
+    "n": 7,
+    "title": "전북교육청, 도민 제안으로 내년 교육정책 만든다",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CRXBKVUZnWDNyUURnNVNPZWxaNVVQZmVZbHdVcDFqYW10Z29OWTZ2Z0ZvYzVpOVByUHVBV1RjWWoxZVd0aGhUNkpYcDZydlZHMURxOEFhU0Q4QnN1R3NlUHNxeGQ4NGhwVWdEbUlWazVKTTlCVktXRGN4cFY5UTg?oc=5",
+    "source": "전라매일",
+    "published": "2026-11-15",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "전북교육청"
+    ],
+    "summary": "전북교육청은 도민의 직접적인 제안을 반영하여 내년도 교육정책을 수립할 계획입니다.",
+    "implication": "학생들과 함께 지역 사회의 정책 제안 사례를 분석하며 민주주의와 참여의 가치를 수업에서 다룰 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 8,
+    "title": "서혜진 경기도의원, 친환경급식 등 교육정책 구체적 성과 따져",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UdWs0cVFneDRVOHZFcVJNS2JRamVBRktPOEhvZXRCV1ViVEpFNTVWOC14RzlnNUl3Yko5M2p2ZWVGT28zRXFIQ1lucFpuMzhtdVpNSHExQV9rWjUwVGd1YXJaNXRNQldweUFB0gFrQVVfeXFMT1R1azRxUWd4NFU4dkVxUk1LYlFqZUFGS084SG9ldEJXVWJUSkU1NVY4LXhHOWc1SXdiSjkzanZlZUZPbzNFcUhDWW5wWm4zOG11Wk1IcTFBX2taNTBUZ3Vhclo1dE1CV3B5QUE?oc=5",
+    "source": "시사통신",
+    "published": "2026-11-15",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "서혜진 경기도의원이 친환경 급식 등 주요 교육정책의 구체적 성과를 점검했습니다.",
+    "implication": "학생들과 함께 우리 학교 급식의 친환경 식재료 현황을 조사하는 프로젝트 수업을 할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 9,
+    "title": "영등포구, 학교 현장 목소리 반영해 교육도시 조성 나선다",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2ekNMZDFvZ1o0RW81NkRBdU1sZ2ZIcWpJTFhWbV9kWlVPOU5feW1BUUhNalQ1aFQ0V2I1azBoN1ltVlRBZ3NYRXA0YVNvRS1ZaURaYkMzd0NoUU5SOWNVN05WX0ctTlJCQjBxRDdR?oc=5",
+    "source": "전국매일신문",
+    "published": "2026-11-15",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "영등포구가 학교 현장의 의견을 적극 반영하여 교육도시 조성에 나섭니다.",
+    "implication": "교사들은 구청의 지원 정책과 연계하여 실제 수업에 필요한 교육 프로그램을 적극적으로 활용할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 10,
+    "title": "AI 에이전트 시대, 인간과 디지털 노동자의 공존 방법",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tcVdaX2c2azRXbUVjQ3NFUnQzUWhyeGJNYXNMaEpFUndwOW4yS2lqUWdRaEZfc1d1djJEUHFlXzJHWVdYaWhZU3lhZlVGSkFhZGpCYWViLU96dkY4M3ZIa1Y5Nm40WGZqcmtRbDl0dWM?oc=5",
+    "source": "매일노동뉴스",
+    "published": "2026-11-15",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "AI 에이전트 시대의 도래에 따라 인간과 디지털 노동자의 공존 방안을 다루고 있습니다.",
+    "implication": "학생들과 AI의 역할 분담에 대해 토론하고 협업 방안을 모색하는 수업을 진행할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Teachers&apos; Perceptions of Social Emotional Learning: Concepts, Barriers, and Administrator Support",
+    "url": "http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&res_dat=xri:pqm&rft_dat=xri:pqdiss:30489012",
+    "source": "eric",
+    "published": "2023-01-01",
+    "keyword": "SEL education",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [],
+    "summary": "이 연구는 질적 사례연구 방법을 통해 교사들의 사회정서학습(SEL)에 대한 인식, 실행의 장애물, 그리고 행정적 지원 방안을 탐구함으로써 효과적인 SEL 교육 실행을 위한 교육청과 학교 리더십의 지원 방향을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Sooknanan, Nicole",
+    "pdf": "http://gateway.proquest.com/openurl?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:dissertation&res_dat=xri:pqm&rft_dat=xri:pqdiss:30489012",
+    "topic_src": "ai",
+    "title_ko": "교사의 사회정서학습 인식, 실행 장애물 및 행정적 지원"
+   },
+   {
+    "n": 2,
+    "title": "Female Secondary Students&apos; and Their Teachers&apos; Perceptions of Science Learning Environments within the Context of Science Education Reform in Saudi Arabia",
+    "url": "http://dx.doi.org/10.1007/s10763-018-09946-z",
+    "source": "eric",
+    "published": "2019-01-01",
+    "keyword": "",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [],
+    "summary": "혼합 연구 방법을 사용하여 사우디아라비아의 과학교육 개혁에 따른 여고생과 교사의 인식을 분석한 결과, 구성주의 교육과정이 학생들의 메타인지적 학습 성향을 향상하고 교육 환경을 점진적으로 개선할 가능성이 있음을 밝혔습니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Kim, Sun Young 외 2명",
+    "pdf": "http://dx.doi.org/10.1007/s10763-018-09946-z",
+    "topic_rule": "literacy_ethics",
+    "topic_src": "ai",
+    "title_ko": "사우디아라비아 과학교육 개혁에 따른 여고생과 교사의 과학 학습 환경 인식"
+   },
+   {
+    "n": 3,
+    "title": "Implementation of Islamic Religious Education Policy in Indonesia's Independent Curriculum: A Multicultural Perspective",
+    "url": "https://doi.org/10.21093/di.v26i2.13586",
+    "source": "openalex",
+    "published": "2026-11-14",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [
+     "다문화"
+    ],
+    "summary": "인도네시아 6개 고등학교를 대상으로 한 질적 정책 분석을 통해, 이슬람 종교교육 정책이 현장의 맥락과 교사의 전문적 판단에 따라 다문화적 가치를 반영하여 유연하게 적용됨을 밝혀 향후 포용적 교육 정책 수립에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Sri Rokhmiyati, Rahmat Hariyadi 외 1명",
+    "pdf": "https://journal.uinsi.ac.id/index.php/dinamika_ilmu/article/download/13586/4141",
+    "topic_rule": "literacy_ethics",
+    "topic_src": "ai",
+    "title_ko": "인도네시아 독립 교육과정의 이슬람 종교교육 정책 실행: 다문화적 관점"
+   },
+   {
+    "n": 4,
+    "title": "From Silence to Engagement: Translanguaging as a Catalyst for Students’ Comprehension and Active Classroom Participation",
+    "url": "https://doi.org/10.65339/ijggsd.v1.i1.59",
+    "source": "openalex",
+    "published": "2026-11-13",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "필리핀 다언어 교실에서 교사들의 다중언어 사용(Translanguaging) 전략이 학생들의 이해도와 적극적인 참여를 높이는 효과적인 교육적 디딤돌로 작용함을 질적 연구를 통해 밝혔습니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Shella B. Del Fierro",
+    "pdf": "https://graspepress.com/ijggsd/article/download/416/383",
+    "topic_rule": "learning_sci",
+    "topic_src": "ai",
+    "title_ko": "침묵에서 참여로: 학생의 이해와 교실 참여를 촉진하는 다중언어 사용"
+   },
+   {
+    "n": 5,
+    "title": "GenAI adoption in HEIs as a curriculum and pedagogical practice: a case study",
+    "url": "https://doi.org/10.3389/feduc.2026.1894035",
+    "source": "openalex",
+    "published": "2026-11-13",
+    "keyword": "",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "이 논문트는 대학 신입생 교육과정에 생성형 인공지능을 횡단 역량으로 통합한 사례를 질적 연구로 분석하여, 교육적 잠재력과 도전 과제를 밝히고 고등교육에서의 지속 가능한 인공지능 활용 방안을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Carolina Lucenti Pereira, Manuela Aparício",
+    "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1894035/pdf",
+    "topic_rule": "design_curric",
+    "topic_src": "ai",
+    "title_ko": "고등교육기관의 교육과정 및 교수법으로서 생성형 AI 도입: 사례 연구"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "젠슨 황, 자신이 키운 생성 AI에 풍자당해…딥페이크 밈 수백만 조회",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217422",
+    "source": "AI Times",
+    "published": "2026-11-15",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "생성형 AI",
+     "딥페이크",
+     "AI 안전·규제"
+    ],
+    "summary": "본 사건은 딥페이크 기술의 통제 불능성과 고도화된 역설을 보여주며, 향후 강력한 AI 윤리 규제와 강력한 진위 판별 기술 도입을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "dup_of": "2026-11-15",
+    "topic_src": "ai"
+   },
+   {
+    "n": 2,
+    "title": "더플레이토 \"AI 회의록 넘어 지식 관리로\"…ARR 300만달러 달성",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217347",
+    "source": "AI Times",
+    "published": "2026-11-15",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "생성형 AI의 가치가 단순한 회의 녹취를 넘어 기업 내 파편화된 지식을 체계적으로 통합·자산화하는 지식 관리 영역으로 확장되고 있음을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
+   },
+   {
+    "n": 3,
+    "title": "[AI리더의 서가] AI 에이전트와 스프링 배치를 활용한 배치 엔지니어링",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217277",
+    "source": "AI Times",
+    "published": "2026-11-16",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "AI 에이전트와 스프링 배치의 결합은 대규모 데이터 처리의 자동화 수준을 높여 엔지니어링 효율성을 극대화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 4,
+    "title": "중국, 젠슨 황 사임·미국 규제 강화에 4조원대 AI 데이터센터 사업 위기",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217419",
+    "source": "AI Times",
+    "published": "2026-11-15",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "GPU·데이터센터"
+    ],
+    "summary": "미국의 대중국 반도체 규제 강화와 공급망 리스크는 중국의 AI 자립화를 가속화하는 동시에 글로벌 기술 블록화 심화로 이어질 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 5,
+    "title": "ChatGPT Enterprise now available in AWS Marketplace",
+    "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "source": "OpenAI Blog",
+    "published": "2026-11-09",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Amazon",
+     "OpenAI"
+    ],
+    "summary": "오피니언: 이번 AWS Marketplace 입점은 오픈AI가 기업용 B2B 시장에서 클라우드 거물들과 협력하며 엔터프라이즈 AI 표준 경쟁의 주도권을 더욱 공고히 할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "dup_of": "2026-11-13",
+    "topic_src": "ai"
+   },
+   {
+    "n": 6,
+    "title": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
+    "url": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/",
+    "source": "The Decoder",
+    "published": "2026-11-15",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "에이전트",
+     "NVIDIA",
+     "GPU·데이터센터"
+    ],
+    "summary": "메이투안의 엔비디아 미사용 초대형 에이전트 모델 공개는 미국의 대중국 반도체 제재 속에서도 독자적인 대안 AI 생태계 구축이 가속화되고 있음을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 7,
+    "title": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
+    "url": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/",
+    "source": "The Decoder",
+    "published": "2026-11-15",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude",
+     "영상·이미지 생성",
+     "생성형 AI"
+    ],
+    "summary": "Anthropic의 Claude Fable 5.2는 단순한 이미지 생성을 넘어 예술적 수준의 묘사력을 구현함으로써, 생성형 AI가 기술적 재현을 넘어 창의적 영역까지 주도하는 패러다임 전환을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 8,
+    "title": "Helping caregivers use AI in everyday life",
+    "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "source": "OpenAI Blog",
+    "published": "2026-11-10",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [],
+    "summary": "돌봄 노동의 디지털 전환은 AI가 특정 산업을 넘어 일상 영역까지 실질적 가치를 확장하는 중요한 계기가 될 것입니다.",
+    "implication": "",
+    "ai": true,
+    "dup_of": "2026-11-13",
+    "topic_rule": "model",
+    "topic_src": "ai"
+   },
+   {
+    "n": 9,
+    "title": "Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon",
+    "url": "https://the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon/",
+    "source": "The Decoder",
+    "published": "2026-11-14",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude"
+    ],
+    "summary": "AI 모델의 학습 효율성 혁신은 향후 컴퓨팅 자원 비용을 획기적으로 절감하여 중소 플레이어의 진입 장벽을 낮추고 산업 경쟁을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 10,
+    "title": "Nvidia’s Problem: OpenAI Is “90 Plus Percent Nvidia,” and It’s the Lab Burning Cash",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQkxjZFE3TWdFa3ktdUNxYkt2azBvc1pxbllmdUlqWUx1dmV1YUJ4cm9YT3UtbENLMExndlNpanBnN05iLTZUYzB0UzFkVE92c01EUFBZeXFKbFN4QzJUN2JTQzZTVmVQWHBPZlBxYVk4QVBFcUdUR3JRamFmZnpXdHdvR0JQOWJ4ank2Ny1FcnUya0wzSmhUc2JEZjV6X1lTbzBmMk5zdk93Zw?oc=5",
+    "source": "TIKR.com",
+    "published": "2026-11-16",
+    "keyword": "Anthropic",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "OpenAI"
+    ],
+    "summary": "오픈AI의 과도한 엔비디아 의존과 막대한 현금 소모는 생태계의 지속 가능성에 대한 리스크를 높이고 있습니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {},
+ "synthesis": {
+  "headline": "교육 현장의 AI 활용과 정책 변화, 그리고 기술 생태계의 도전",
+  "threads": [
+   {
+    "title": "AI 교육과 수업 설계",
+    "body": "광주여대 초등특수교육과의 특강처럼 AI 도구를 수학과 수업 설계에 적용하여 특수교육 대상 학생의 맞춤형 학습을 지원할 수 있습니다. 또한, 대학 신입생 교육과정에 생성형 인공지능을 통합한 연구 사례는 교육 현장에서의 AI 활용 방안을 구체적으로 보여줍니다.",
+    "refs": [
+     "edu-4",
+     "paper-5"
+    ]
+   },
+   {
+    "title": "AI 기술의 확장과 과제",
+    "body": "Anthropic의 새로운 모델이 창의적 영역까지 주도하는 패러다임 전환을 가속화하고 있는 동시에, 딥페이크 밈과 같은 부작용은 강력한 AI 윤리 규제의 필요성을 시사합니다. 이는 교육 현장에서 디지털 시민성 교육의 중요성과도 맞닿아 있습니다.",
+    "refs": [
+     "tech-1",
+     "tech-7"
+    ]
+   },
+   {
+    "title": "교육 정책과 학교 현장",
+    "body": "미래교육정책연구소장이 계획 단계부터의 성과지표 설계를 강조한 것처럼, 인천시교육청의 고교학점제 사전교육 역시 학생들의 주도적인 진로 설계를 위해 사전 계획을 바탕으로 운영됩니다. 이러한 정책적 방향은 현장의 교사들이 체계적인 수업 목표를 세우는 데 도움을 줍니다.",
+    "refs": [
+     "edu-3",
+     "edu-5"
+    ]
+   }
+  ],
+  "classroom": "교실 속 AI 도입과 교육 정책의 변화 속에서 학생들의 주도성과 디지털 윤리를 함께 기를 수 있는 방법을 고민해 볼 수 있습니다.",
+  "model": "gemini-3.5-flash-lite",
+  "items_hash": "36daf925152c"
+ },
+ "enrich": {
+  "hash": "44ea181ad066",
+  "model": "gemini-3.5-flash-lite",
+  "topics": 10,
+  "title_ko": 5,
+  "summaries": 0
+ }
+}
