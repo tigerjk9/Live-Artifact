@@ -1,0 +1,504 @@
+{
+ "date": "2026-11-17",
+ "generated_at": "2026-11-17T18:43:17+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[송미나 칼럼] 공자님, 2500년이 지났는데도 교육정책의 정명(正名)이 이리 어렵사옵니까?",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PWnR4N1p0MGVpbzNhdEVBWmZCUnliR0lJd1FiNTdidVNzREtsRkVZRmRkWkhOS29Pc1ZCVUM1aXNZeUJuczRfRTdfVkJRWmNNNi1QMEpmOW40bjdJa3doU3E3T0xOV0E?oc=5",
+    "source": "교육플러스",
+    "published": "2026-11-16",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "2500년이 지난 지금도 교육정책의 본질과 이름을 바로 세우는 일이 매우 어렵다는 지적이다.",
+    "implication": "교사는 복잡한 교육정책 속에서도 본질을 잃지 않고 학생 중심의 배움을 실현할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 2,
+    "title": "[손기서 칼럼] 수능이라는 '높은 벽', 기적은 언제나 '언더독의 손'에서",
+    "url": "https://www.edpl.co.kr/news/articleView.html?idxno=22082",
+    "source": "교육플러스",
+    "published": "2026-11-16",
+    "keyword": "",
+    "topic": "student_care",
+    "kind": "opinion",
+    "entities": [
+     "수능·대입"
+    ],
+    "summary": "수능을 앞둔 수험생들이 불안과 외부 요인에 흔들리지 않고 정직한 노력으로 반전을 만들기를 응원한다.",
+    "implication": "학생들이 스스로를 부족하다고 느낄 때 포기하지 않는 믿음이 인생의 위기를 기회로 바꿀 수 있음을 가르칠 수 있습니다.",
+    "ai": true,
+    "topic_rule": "higher_ed",
+    "topic_src": "ai"
+   },
+   {
+    "n": 3,
+    "title": "[행감인물] 한운옥 경기도의원 “IB 교육정책 일관성 확보해야”",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rYkpZTEhYMVdRZWVCc1VNYTFEOEV5ckx1VVhaVDhYSzN2eVQzZlBCN3prV1lFRHhPNU5Ud2tXVU9qUENya3N4SzdmQm91ZmNYNlgxVURvaEJxbVUwQVdxd3BLdnZhZFhQRGdtYW1TNA?oc=5",
+    "source": "중부일보",
+    "published": "2026-11-16",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "IB"
+    ],
+    "summary": "한운옥 경기도의원은 행정사무감사에서 IB 교육정책의 일관성 확보를 촉구했습니다.",
+    "implication": "정책 변화에 흔들리지 않도록 학생 중심의 탐구형 수업 설계를 지속할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 4,
+    "title": "김황국 의원, 고의숙 교육감에 '재정·교권·AI교육·소통' 전방위 점검",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMNlRweDFhWXgtdlpLRkpjTm14Zy10SUdvVXFwRFBtX2UxRGc0bUc1RUFwS1VNREM5TzhlYXlSZVpFZVN6dE13cEJkZU50Z3hZUmtfUlNsc01ib0xjSE15cHZfTHFMd2NzWDVGTA?oc=5",
+    "source": "뉴스N제주",
+    "published": "2026-11-17",
+    "keyword": "AI교육",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "교권"
+    ],
+    "summary": "김황국 의원이 고의숙 교육감을 상대로 재정, 교권, AI 교육, 소통 등에 대해 전방위적으로 점검했습니다.",
+    "implication": "AI 교육 관련 예산과 지원 방안이 점검됨에 따라, 교실에서 디지털 도구를 활용한 수업을 더욱 적극적으로 시도할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
+   },
+   {
+    "n": 5,
+    "title": "경기도교육청과 한국교원대학교, 인공지능 시대의 교육혁신 및 연구 협력 위해 맞손 > 뉴스",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBSR09qLUs2OGQyX3AxZmh2U0ZYUU1ORHREODltR2hLR0swbF9Xem1mZU5Ua3pCSmpZOWpSMllkWklGZkRhdnhWSnoyMA?oc=5",
+    "source": "더코리아",
+    "published": "2026-11-16",
+    "keyword": "교육혁신",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청과 한국교원대학교가 AI 시대 교육혁신과 연구 협력을 위해 손을 잡았다.",
+    "implication": "교원대와의 연구 자료를 참고해 AI 기반 수업 모델을 교실 수업에 바로 적용할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "higher_ed",
+    "topic_src": "ai"
+   },
+   {
+    "n": 6,
+    "title": "경기도교육청·한국교원대, 미래교육 혁신 맞손",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52bkdDN1ZzZER6QUQ4T25VWEpuMkF6T09DZXFidW1iQm8xTzFiUHlOTVBPOW91U3FZejBUQ1JuSVRNeXYtNjZGSjEtQnY4WE9ZTF9mT1RUUmNMTDZ4TGJzeUdmOGk?oc=5",
+    "source": "경기인저널",
+    "published": "2026-11-16",
+    "keyword": "교육혁신",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청과 한국교원대가 미래교육 혁신을 위해 상호 협력하기로 손을 잡았습니다.",
+    "implication": "교사들은 양 기관의 협력으로 개발되는 미래교육 프로그램과 연수 자료를 수업에 활용할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "teacher",
+    "topic_src": "ai"
+   },
+   {
+    "n": 7,
+    "title": "전북교육청, 교직원 생성형 AI ‘전북AI’ 새 단장",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14QlhiYThWaXF4emUzSHBoRkpaeG9wY181YlFLMC1ZcUhNZU5uRnVPLXRSLVVYZnFTLUhBX19fczlDX184S20zaHJqanNSU1E2V0E2LWhnX0dHaWE1a1lJ?oc=5",
+    "source": "전북미래교육신문",
+    "published": "2026-11-16",
+    "keyword": "생성형AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "전북교육청",
+     "생성형 AI"
+    ],
+    "summary": "전북교육청이 교직원 업무 지원을 위한 생성형 AI 서비스인 '전북AI'를 개편했습니다.",
+    "implication": "수업 자료 제작이나 학생 지도 아이디어를 얻는 데 '전북AI'를 유용하게 활용할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 8,
+    "title": "[교육정책 브리핑] 경기도교육청, 2027 수능 부정행위 절대 안봐준다",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6TE9DcXdNYVd1ZW4tZFRNME1KVnJwT2FSZzlja0VETlBlOXJUUktPRlFpMkE3LV9hdmF2N2gwR0R4NFNTbndwWENkaFZXMVZtNTZITGFzVFI4ejUxcmpGWA?oc=5",
+    "source": "NSP통신",
+    "published": "2026-11-16",
+    "keyword": "교육정책",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [
+     "경기도교육청",
+     "수능·대입"
+    ],
+    "summary": "경기도교육청이 2027학년도 수능 부정행위를 철저히 방지하기 위한 강력한 대책을 마련했습니다.",
+    "implication": "수능 전 모의평가에서 O 장난이나 마킹 실수 예방 지도를 강화하여 학생들의 부정행위 오인 상황을 미리 방지할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
+   },
+   {
+    "n": 9,
+    "title": "강원교육청, 제13기 교육발전자문위원회 출범…2027년 주요 교육정책 논의",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qNl9yZzV2cm5OVW0yZVBxRzE3VUdUNHZkcV9raEtZX3hlX2Q0aVFmT3dOMU5EbVdxYnE2dS1rQmxOWEpVV3FsaTJEVlNLZm5GTHVSaXFZYW5jQ0lCcmRzcGh2STlHWG1pQVlrbURmc3g?oc=5",
+    "source": "신아일보",
+    "published": "2026-11-16",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "강원교육청"
+    ],
+    "summary": "강원교육청이 제13기 교육발전자문위원회를 출범하고 2027년 주요 교육정책을 논의한다.",
+    "implication": "향후 주요 교육정책 방향을 미리 파악하여 우리 반 수업 계획과 학급 운영에 선제적으로 반영할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 10,
+    "title": "국가평생교육진흥원, 중앙도서관·인천시교육청과 독서·학습 활성화 협력",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBUVE9EWEc1T2tuRW1MenU3NWJhZFNROFJTSHo2c3ZOTUt2MG5vbEpFclVUbXM4QlZwelQ1cTdGakp6ODB2ZEhVaFpCV0UyUQ?oc=5",
+    "source": "전자신문",
+    "published": "2026-11-16",
+    "keyword": "에듀테크",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "국가평생교육진흥원이 중앙도서관 및 인천시교육청과 손잡고 독서와 학습 활성화를 위해 협력합니다.",
+    "implication": "유관 기관의 독서 및 학습 프로그램을 연계하여 학생들에게 더욱 풍부한 독서 활동 기회를 제공할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "RETHINKING UNIVERSITY TEACHING WITH AI: INSTRUCTIONAL INNOVATION, IMPACTS, AND PERSPECTIVES",
+    "url": "https://ojs.gsdjournal.it/index.php/gsdj/article/view/2008",
+    "source": "openalex",
+    "published": "2026-11-12",
+    "keyword": "edtech",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 문헌 고찰과 비판적 접근을 통해 고등교육에서 인공지능이 교육 혁신과 교수법에 미치는 영향과 윤리적 과제를 분석하여, 대학이 AI를 책임감 있게 활용하고 비판적 역량을 강화해야 함을 밝힙니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Antonella Nuzzaci",
+    "pdf": "https://ojs.gsdjournal.it/index.php/gsdj/article/download/2008/pdf",
+    "topic_rule": "literacy_ethics",
+    "topic_src": "ai",
+    "title_ko": "AI를 활용한 대학 교육 재고: 교수법 혁신, 영향 및 전망"
+   },
+   {
+    "n": 2,
+    "title": "Enhancing creativity education through AI: A study of divergent thinking skills among Moroccan university students",
+    "url": "https://doi.org/10.36534/erlj.2026.05.02",
+    "source": "openalex",
+    "published": "2026-11-14",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "모로코 대학생들을 대상으로 수업 시나리오 제작 시 생성형 인공지능(GPT-4o) 활용이 확산적 사고와 창의성에 미치는 영향을 혼합 연구 방법으로 분석한 결과, 통계적 유의미성은 부족했으나 아이디어 구상과 자신감 증진에 긍정적인 교육적 지원 효과가 있음을 확인했습니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Othmane Zakaria",
+    "pdf": "https://educationalroleoflanguage.org/wp-content/uploads/2026/11/Special-Issue-SV4-2-O-Zakaria-Enhancing-creativity-education-through-AI-Moroccan-university-students.pdf",
+    "topic_rule": "genai_tutor",
+    "topic_src": "ai",
+    "title_ko": "AI를 통한 창의성 교육 강화: 모로코 대학생의 확산적 사고 능력 연구"
+   },
+   {
+    "n": 3,
+    "title": "WTF? Feminist Pedagogy and 3D Printing in a Preservice Virtual Field Experience",
+    "url": "http://dx.doi.org/10.1080/15505170.2020.1835756",
+    "source": "eric",
+    "published": "2022-01-01",
+    "keyword": "pedagogy",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 예비 교사와 중학생들이 3D 프린팅과 페미니스트 예술 교육을 융합하여 성차별에 저항하고 진보적 교육 변화를 이끄는 협력적 교수법의 효과를 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Motter, Jennifer 외 4명",
+    "pdf": "http://dx.doi.org/10.1080/15505170.2020.1835756",
+    "topic_rule": "teacher_pd",
+    "topic_src": "ai",
+    "title_ko": "WTF? 페미니스트 페다고지와 예비 교사 가상 현장 실습의 3D 프린팅"
+   },
+   {
+    "n": 4,
+    "title": "Learning with AI: The K-12 Teacher's Guide to a New Era of Human Learning",
+    "url": "https://my.nsta.org/resource/132559",
+    "source": "eric",
+    "published": "2024-01-01",
+    "keyword": "educational AI",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "이 책은 초중고 교사들이 인공지능을 교육 도구로 활용하여 수업 계획을 개선하고 학생들의 학습 경험을 혁신할 수 있도록 실용적인 전략과 지침을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Joan Monahan Watson",
+    "pdf": "https://my.nsta.org/resource/132559",
+    "topic_src": "ai",
+    "title_ko": "AI와 함께하는 학습: 새로운 인간 학습 시대를 위한 K-12 교사 지침서"
+   },
+   {
+    "n": 5,
+    "title": "Attempts toward Blended Teaching and Personalized Learning in School-Based Agricultural Education",
+    "url": "https://jae-online.org/index.php/jae/article/view/2570",
+    "source": "eric",
+    "published": "2024-01-01",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "본 연구는 현상학적 연구 방법을 활용하여 학교 기반 농업교육 교사들의 신념이 혼합 수업과 맞춤형 학습 실천에 미치는 영향을 탐구함으로써, 향후 효과적인 교육 환경 조성과 교수법 개선에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "D. Brett Milliken, Haley Q. Traini 외 1명",
+    "pdf": "https://jae-online.org/index.php/jae/article/view/2570",
+    "topic_src": "ai",
+    "title_ko": "학교 기반 농업교육에서 블렌디드 티칭과 맞춤형 학습을 위한 시도"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "최예진 교수, 엔비디아 등에서 1500억 유치…'자기개선 AI' 개발",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217481",
+    "source": "AI Times",
+    "published": "2026-11-17",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "NVIDIA"
+    ],
+    "summary": "이번 대규모 투자는 인간의 개입 없이 스스로 발전하는 자기개선 AI 기술의 상용화를 앞당기며 글로벌 AI 생태계의 패러다임을 한 단계 도약시킬 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "industry",
+    "topic_src": "ai"
+   },
+   {
+    "n": 2,
+    "title": "오픈AI, 외부 전문가에 내부 모델·학습 데이터 개방...AI 안전성 독립 검증",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217479",
+    "source": "AI Times",
+    "published": "2026-11-17",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "AI 안전·규제"
+    ],
+    "summary": "오픈AI의 이번 개방은 폐쇄적 개발 방식에서 벗어나 투명성과 신뢰성을 확보함으로써, 향후 AI 안전 규제 대응의 글로벌 표준을 주도할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 3,
+    "title": "알트먼 \"젠슨 황 없이도 AI 산업 괜찮을 것\"...복귀 지지는 유보",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217473",
+    "source": "AI Times",
+    "published": "2026-11-17",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "NVIDIA",
+     "GPU·데이터센터"
+    ],
+    "summary": "오피니언: 이 발언은 AI 칩 공급망의 독점적 구조가 다변화되며 향후 빅테크 간 합종연횡과 주도권 경쟁이 더욱 심화될 것임을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 4,
+    "title": "트럼프, 엔비디아 주식 최대 830억 보유 추정…중국 수출 허용에 이해충돌 논란",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217483",
+    "source": "AI Times",
+    "published": "2026-11-17",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "GPU·데이터센터"
+    ],
+    "summary": "정치적 이해충돌 우려가 AI 반도체 공급망과 미·중 기술 패권 경쟁의 규제 불확실성을 더욱 증대시킬 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "industry",
+    "topic_src": "ai"
+   },
+   {
+    "n": 5,
+    "title": "엔비디아 '그루트 2', 로봇 동작 넘어 미래 예측…시연 5회로 성공률 95%",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217447",
+    "source": "AI Times",
+    "published": "2026-11-16",
+    "keyword": "",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "로봇·휴머노이드"
+    ],
+    "summary": "엔비디아의 '그루트 2'는 로봇의 인지 및 예측 능력을 극대화하여 피지컬 AI 상용화 시기를 앞당기는 핵심 기점이 될 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "industry",
+    "topic_src": "ai"
+   },
+   {
+    "n": 6,
+    "title": "스캐터랩, 청소년 보호 강화…애플 다운로드 중단 대응?",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217477",
+    "source": "AI Times",
+    "published": "2026-11-17",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "Apple"
+    ],
+    "summary": "이번 조치는 AI 기업들이 앱마켓의 엄격한 청소년 보호 기준을 준수하기 위해 선제적 안전 장치 강화가 필수적임을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 7,
+    "title": "영상 생성 AI, 1년 만에 판도 역전…중국 모델이 상위권 장악",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217463",
+    "source": "AI Times",
+    "published": "2026-11-16",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "영상·이미지 생성",
+     "생성형 AI"
+    ],
+    "summary": "중국 AI 기업들의 급부상으로 영상 생성 기술의 주도권이 미국 중심에서 다극화 체제로 재편될 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 8,
+    "title": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
+    "url": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/",
+    "source": "The Decoder",
+    "published": "2026-11-15",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "에이전트",
+     "NVIDIA",
+     "GPU·데이터센터"
+    ],
+    "summary": "미투단의 엔비디아 GPU 미사용 1조 6천억 파라미터 에이전트 모델 공개는 미국의 대중국 제약 속에서도 중국이 독자적인 우회 생태계를 구축해 AI 자립화를 가속화할 것임을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "dup_of": "2026-11-16",
+    "topic_src": "ai"
+   },
+   {
+    "n": 9,
+    "title": "엔비디아 실적·Anthropic IPO 앞두고 나스닥 2.3% 하락",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOemNmbDk4Qzh6blNtUVZRX0xQTjNiSm9Tall0ZFBQQXVRM3lQR3MxazdQZXc1c1dBTkNtdHNSLWdvWXBSREhfZ2xTa2R1c2p4R3ZyWEM4VFdJbC1xZ3RhN095M2w0d19QWkxDSzVoc0s3TlFfNmFLT191S1VST3pWM2RSVmZlYldkT0VxOHppU3E4ejhuejJNSw?oc=5",
+    "source": "데일리바이트(DAILY BYTE)",
+    "published": "2026-11-16",
+    "keyword": "Anthropic",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA",
+     "Anthropic"
+    ],
+    "summary": "엔비디아의 실적 발표와 앤스로픽의 IPO를 앞둔 나스닥의 하락은 AI 산업에 대한 시장의 기대감이 정점에 달해 단기적 변동성이 커졌음을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 10,
+    "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+    "url": "https://openai.com/index/lvmh-media-division-partnership",
+    "source": "OpenAI Blog",
+    "published": "2026-11-16",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "생성형 AI",
+     "개인화 학습"
+    ],
+    "summary": "LVMH 미디어 부문의 오픈에이아이 파트너십은 명품 산업이 생성형 AI를 활용해 정교한 개인화 콘텐츠와 차별화된 고객 경험을 본격적으로 확장하는 분수령이 될 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "usecase",
+    "topic_src": "ai"
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {},
+ "synthesis": {
+  "headline": "AI 시대의 교육 혁신과 현장 적용 방안이 주목받고 있습니다",
+  "threads": [
+   {
+    "title": "AI 기반 수업과 교원 지원",
+    "body": "경기도교육청과 한국교원대학교의 AI 교육혁신 협력 소식은 교실에서 디지털 도구를 활용한 수업 모델 개발에 기여합니다. 또한 관련 연구 논문에서는 생성형 AI가 학생들의 아이디어 구상과 자신감 증진에 긍정적인 효과가 있음을 보여줍니다.",
+    "refs": [
+     "edu-5",
+     "paper-2"
+    ]
+   },
+   {
+    "title": "교육청의 AI 서비스와 교실 활용",
+    "body": "전북교육청이 교직원 업무 지원을 위한 생성형 AI 서비스 '전북AI'를 개편한 것은 수업 자료 제작에 유용합니다. 이와 맥락을 같이하여 초중고 교사들을 위한 AI 활용 실용적 가이드 책자는 교실 수업 계획 개선에 실질적인 지침을 제공합니다.",
+    "refs": [
+     "edu-7",
+     "paper-4"
+    ]
+   }
+  ],
+  "classroom": "내일 수업에서 AI 도구를 활용해 학생들이 스스로 아이디어를 확장할 수 있는 활동을 한 가지 시도해 보면 어떨까요.",
+  "model": "gemini-3.5-flash-lite",
+  "items_hash": "34d084d572cb"
+ },
+ "enrich": {
+  "hash": "97bed0f0a979",
+  "model": "gemini-3.5-flash-lite",
+  "topics": 13,
+  "title_ko": 5,
+  "summaries": 0
+ }
+}
