@@ -1,6 +1,6 @@
 {
  "date": "2026-11-18",
- "generated_at": "2026-11-18T19:03:02+09:00",
+ "generated_at": "2026-11-18T19:46:11+09:00",
  "sections": {
   "edu": [
    {
@@ -44,7 +44,7 @@
     "source": "중부일보",
     "published": "2026-11-16",
     "keyword": "교육정책",
-    "topic": "classroom",
+    "topic": "policy",
     "kind": null,
     "entities": [
      "IB"
@@ -53,7 +53,6 @@
     "implication": "정책 변화에 흔들리지 않도록 학생 중심의 탐구형 수업 설계를 지속할 수 있습니다.",
     "ai": true,
     "dup_of": "2026-11-17",
-    "topic_rule": "policy",
     "topic_src": "ai"
    },
    {
@@ -208,7 +207,7 @@
     "authors": "Ray Mark A. Bisa",
     "pdf": "https://journal.ijris.com/index.php/ijris/article/download/385/497",
     "topic_src": "ai",
-    "title_ko": "포용적 교실 속 AI: 케손주 공립학교 교사의 활용 실태와 효과성 평가"
+    "title_ko": "포용적 교실 속 AI: 케손주 공립학교 교사의 활용 실태와 인식된 효과성 평가"
    },
    {
     "n": 2,
@@ -226,7 +225,7 @@
     "authors": "Khursandov Ozodbek Elbekovich",
     "pdf": "https://maulanapress.com/index.php/maulana/article/download/69/43",
     "topic_src": "ai",
-    "title_ko": "우즈베키스탄 학교 및 고등교육의 인공지능 소양 필수 과목 도입"
+    "title_ko": "우즈베키스탄 학교 및 고등교육기관의 인공지능 소양 필수 과목 도입: 필요성, 기회, 문제점 및 전망"
    },
    {
     "n": 3,
@@ -254,7 +253,7 @@
     "source": "eric",
     "published": "2025-01-01",
     "keyword": "",
-    "topic": "genai_tutor",
+    "topic": "personalized",
     "kind": null,
     "entities": [
      "AI 튜터"
@@ -264,8 +263,9 @@
     "ai": true,
     "authors": "Ani Grubišic, Ines Šaric-Grgic 외 1명",
     "pdf": "http://dx.doi.org/10.1111/jcal.70071",
+    "topic_rule": "genai_tutor",
     "topic_src": "ai",
-    "title_ko": "자연어 기반 지능형 튜터링 시스템 '투토맷'의 적응형 코스웨어 사용성 평가"
+    "title_ko": "자연어 기반 지능형 튜터링 시스템 '투토맷'의 적응형 과정웨어 접근법 사용성 평가"
    },
    {
     "n": 5,
@@ -469,7 +469,7 @@
     "source": "OpenAI Blog",
     "published": "2026-11-16",
     "keyword": "",
-    "topic": "usecase",
+    "topic": "product",
     "kind": null,
     "entities": [
      "OpenAI",
@@ -480,6 +480,7 @@
     "implication": "",
     "ai": true,
     "dup_of": "2026-11-17",
+    "topic_rule": "usecase",
     "topic_src": "ai"
    }
   ]
@@ -517,7 +518,7 @@
  "enrich": {
   "hash": "6e7d6a8f8a0b",
   "model": "gemini-3.5-flash-lite",
-  "topics": 10,
+  "topics": 11,
   "title_ko": 5,
   "summaries": 0
  }
