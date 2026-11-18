@@ -1,6 +1,6 @@
 {
  "date": "2026-11-18",
- "generated_at": "2026-11-18T18:03:22+09:00",
+ "generated_at": "2026-11-18T19:03:02+09:00",
  "sections": {
   "edu": [
    {
@@ -44,7 +44,7 @@
     "source": "중부일보",
     "published": "2026-11-16",
     "keyword": "교육정책",
-    "topic": "policy",
+    "topic": "classroom",
     "kind": null,
     "entities": [
      "IB"
@@ -53,6 +53,7 @@
     "implication": "정책 변화에 흔들리지 않도록 학생 중심의 탐구형 수업 설계를 지속할 수 있습니다.",
     "ai": true,
     "dup_of": "2026-11-17",
+    "topic_rule": "policy",
     "topic_src": "ai"
    },
    {
@@ -225,7 +226,7 @@
     "authors": "Khursandov Ozodbek Elbekovich",
     "pdf": "https://maulanapress.com/index.php/maulana/article/download/69/43",
     "topic_src": "ai",
-    "title_ko": "우즈베키스탄 학교 및 고등교육 기관의 AI 리터러시 필수 과목 도입"
+    "title_ko": "우즈베키스탄 학교 및 고등교육의 인공지능 소양 필수 과목 도입"
    },
    {
     "n": 3,
@@ -244,7 +245,7 @@
     "pdf": "https://doi.org/10.63313/eh.2006",
     "topic_rule": "literacy_ethics",
     "topic_src": "ai",
-    "title_ko": "중학교 역사 수업에서 시공간 개념 리터러시 배양 경로 탐색"
+    "title_ko": "중학교 역사 수업에서 시공간 개념 역량 배양 경로 탐구"
    },
    {
     "n": 4,
@@ -371,7 +372,7 @@
     "source": "AI Times",
     "published": "2026-11-16",
     "keyword": "",
-    "topic": "usecase",
+    "topic": "edu_ai",
     "kind": null,
     "entities": [
      "NVIDIA",
@@ -516,7 +517,7 @@
  "enrich": {
   "hash": "6e7d6a8f8a0b",
   "model": "gemini-3.5-flash-lite",
-  "topics": 9,
+  "topics": 10,
   "title_ko": 5,
   "summaries": 0
  }
