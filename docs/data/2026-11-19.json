@@ -1,6 +1,6 @@
 {
  "date": "2026-11-19",
- "generated_at": "2026-11-19T19:12:19+09:00",
+ "generated_at": "2026-11-19T19:46:07+09:00",
  "sections": {
   "edu": [
    {
@@ -229,7 +229,7 @@
     "pdf": "https://www.mdpi.com/2504-2289/9/9/237/pdf?version=1758035223",
     "topic_rule": "genai_tutor",
     "topic_src": "ai",
-    "title_ko": "교육 분야 생성형 AI 메타 조사: 동향, 과제, 그리고 연구 방향"
+    "title_ko": "교육 분야 생성형 AI 메타 조사: 동향, 과제 및 연구 방향"
    },
    {
     "n": 3,
@@ -249,7 +249,7 @@
     "authors": "Jung Won Hur",
     "pdf": "http://dx.doi.org/10.1108/ILS-11-2023-0170",
     "topic_src": "ai",
-    "title_ko": "예비교사의 AI 리터러시 함양: 우려 극복과 자신감 고취"
+    "title_ko": "AI 리터러시 함양: 예비교사의 우려 극복과 자신감 배양"
    },
    {
     "n": 4,
@@ -286,7 +286,7 @@
     "authors": "Scott, Brian E.",
     "pdf": "https://www.prufrock.com/Concept-Based-Instruction-Building-Curriculum-With-Depth-and-Complexity-P3346.aspx",
     "topic_src": "ai",
-    "title_ko": "개념 중심 수업: 깊이와 복잡성을 갖춘 교육과정 구축"
+    "title_ko": "개념 기반 수업: 깊이와 복잡성을 갖춘 교육과정 구축"
    }
   ],
   "tech": [
