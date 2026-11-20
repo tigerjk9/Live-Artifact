@@ -1,6 +1,6 @@
 {
  "date": "2026-11-20",
- "generated_at": "2026-11-20T19:32:35+09:00",
+ "generated_at": "2026-11-20T20:57:30+09:00",
  "sections": {
   "edu": [
    {
@@ -44,7 +44,7 @@
     "source": "중부일보",
     "published": "2026-11-16",
     "keyword": "교육정책",
-    "topic": "classroom",
+    "topic": "policy",
     "kind": null,
     "entities": [
      "IB"
@@ -53,7 +53,6 @@
     "implication": "정책 변화에 흔들리지 않도록 학생 중심의 탐구형 수업 설계를 지속할 수 있습니다.",
     "ai": true,
     "dup_of": "2026-11-17",
-    "topic_rule": "policy",
     "topic_src": "ai"
    },
    {
@@ -138,7 +137,7 @@
     "source": "NSP통신",
     "published": "2026-11-16",
     "keyword": "교육정책",
-    "topic": "student_care",
+    "topic": "policy",
     "kind": null,
     "entities": [
      "경기도교육청",
@@ -148,7 +147,6 @@
     "implication": "수능 전 모의평가에서 O 장난이나 마킹 실수 예방 지도를 강화하여 학생들의 부정행위 오인 상황을 미리 방지할 수 있습니다.",
     "ai": true,
     "dup_of": "2026-11-17",
-    "topic_rule": "policy",
     "topic_src": "ai"
    },
    {
@@ -230,7 +228,7 @@
     "pdf": "https://eijbms.com/index.php/ms/article/download/551/555",
     "topic_rule": "literacy_ethics",
     "topic_src": "ai",
-    "title_ko": "현대 교육에서 인공지능의 진화와 윤리적 통합: 맞춤형 학습과 제도적 책무성을 위한 프레임워크"
+    "title_ko": "현대 교육에서 인공지능의 진화와 윤리적 통합: 맞춤형 학습과 기관 책무성을 위한 프레임워크"
    },
    {
     "n": 3,
@@ -248,7 +246,7 @@
     "authors": "Wiseman Gcizelela Ngcobo",
     "pdf": "https://ojs.veredasjournal.com/index.php/veredas/article/download/8913/29958",
     "topic_src": "ai",
-    "title_ko": "교사 교육에서의 인공지능 협상: 교수자의 AI 활용과 고등교육 예비교사 제한"
+    "title_ko": "교사 교육에서의 인공지능 협상: 고등교육 교수자의 AI 사용과 예비교사 제한"
    },
    {
     "n": 4,
@@ -432,7 +430,7 @@
     "source": "The Decoder",
     "published": "2026-11-15",
     "keyword": "",
-    "topic": "model",
+    "topic": "agent_dev",
     "kind": null,
     "entities": [
      "에이전트",
@@ -443,6 +441,7 @@
     "implication": "",
     "ai": true,
     "dup_of": "2026-11-17",
+    "topic_rule": "model",
     "topic_src": "ai"
    },
    {
@@ -471,7 +470,7 @@
     "source": "OpenAI Blog",
     "published": "2026-11-16",
     "keyword": "",
-    "topic": "industry",
+    "topic": "usecase",
     "kind": null,
     "entities": [
      "OpenAI",
@@ -482,7 +481,6 @@
     "implication": "",
     "ai": true,
     "dup_of": "2026-11-17",
-    "topic_rule": "usecase",
     "topic_src": "ai"
    }
   ]
@@ -519,7 +517,7 @@
  "enrich": {
   "hash": "d90d1c254566",
   "model": "gemini-3.5-flash-lite",
-  "topics": 13,
+  "topics": 11,
   "title_ko": 5,
   "summaries": 0
  }

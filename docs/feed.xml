@@ -5,13 +5,13 @@
     <link>https://tigerjk9.github.io/Live-Artifact/</link>
     <description>교육 뉴스 · AI 논문 · AI 기술 뉴스 일일 브리핑 — 닷커넥터 김진관</description>
     <language>ko</language>
-    <lastBuildDate>Fri, 20 Nov 2026 19:32:47 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 20:57:41 +0900</lastBuildDate>
     <atom:link href="https://tigerjk9.github.io/Live-Artifact/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>제 374호 · 2026-11-20 · 교육계와 기술계 전반에서 AI 도입과 정책 정비가 활발하게 이어지고 있습니다</title>
       <link>https://tigerjk9.github.io/Live-Artifact/archive/2026-11-20.html</link>
       <guid isPermaLink="true">https://tigerjk9.github.io/Live-Artifact/archive/2026-11-20.html</guid>
-      <pubDate>Fri, 20 Nov 2026 19:32:35 +0900</pubDate>
+      <pubDate>Fri, 20 Nov 2026 20:57:30 +0900</pubDate>
       <description><![CDATA[<p><strong>교육계와 기술계 전반에서 AI 도입과 정책 정비가 활발하게 이어지고 있습니다</strong></p>
 <p><b>AI 교육과 도구의 현장 확산</b> — 경기도교육청과 한국교원대학교의 인공지능 시대 교육혁신 협력이 추진되는 가운데, 전북교육청은 교직원용 생성형 AI 서비스 '전북AI'를 개편했습니다. 이러한 교육청의 행보는 수업 자료 제작과 AI 기반 수업 모델 적용에 긍정적인 영향을 줍니다.</p>
 <p><b>AI 윤리와 정책적 과제</b> — 오픈에이전트 모델의 발전과 함께 AI의 교육적 도입에 따른 윤리적 과제와 알고리즘 편향을 해결하기 위한 공동 프레임워크의 필요성이 논문에서 제기되었습니다. 또한 오픈AI가 외부 전문가에게 내부 모델을 개방하여 안전성을 검증하는 움직임은 교육 현장에서도 AI 기술의 투명성과 신뢰성 확보가 중요함을 시사합니다.</p>
@@ -30,8 +30,8 @@
 </ol>
 <h3>연구 논문 (5)</h3><ol>
 <li><a href="https://doi.org/10.3389/fpsyg.2026.1906935">사회적 상호작용이 알고리즘이 될 때: AI 매개 교육, 상호문화 역량, 민주주의 교육의 위험성</a></li>
-<li><a href="https://eijbms.com/index.php/ms/article/view/551">현대 교육에서 인공지능의 진화와 윤리적 통합: 맞춤형 학습과 제도적 책무성을 위한 프레임워크</a></li>
-<li><a href="https://doi.org/10.18623/rvd.v23.8913">교사 교육에서의 인공지능 협상: 교수자의 AI 활용과 고등교육 예비교사 제한</a></li>
+<li><a href="https://eijbms.com/index.php/ms/article/view/551">현대 교육에서 인공지능의 진화와 윤리적 통합: 맞춤형 학습과 기관 책무성을 위한 프레임워크</a></li>
+<li><a href="https://doi.org/10.18623/rvd.v23.8913">교사 교육에서의 인공지능 협상: 고등교육 교수자의 AI 사용과 예비교사 제한</a></li>
 <li><a href="https://doi.org/10.3389/feduc.2026.1941774">빅데이터 처리의 연합학습과 차등 프라이버시: 예비 정보교사 교육을 위한 커리큘럼 모듈</a></li>
 <li><a href="https://www.semanticscholar.org/paper/0c8c608eb19f6898404a6359385c18cbe72075e8">교실을 위한 실시간 주의 집중 모니터링 시스템: 학생 행동 인식을 위한 딥러닝 접근법</a></li>
 </ol>
