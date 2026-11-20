@@ -1,6 +1,6 @@
 {
  "date": "2026-11-20",
- "generated_at": "2026-11-20T18:16:43+09:00",
+ "generated_at": "2026-11-20T19:00:20+09:00",
  "sections": {
   "edu": [
    {
@@ -207,7 +207,7 @@
     "pdf": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1906935/pdf",
     "topic_rule": "teacher_pd",
     "topic_src": "ai",
-    "title_ko": "사회적 상호작용이 알고리즘이 될 때: AI 매개 교육, 상호문화 역량, 민주주의 교육의 위험"
+    "title_ko": "사회적 상호작용이 알고리즘이 될 때: AI 매개 교육과 민주주의 교육의 위험"
    },
    {
     "n": 2,
@@ -228,7 +228,7 @@
     "pdf": "https://eijbms.com/index.php/ms/article/download/551/555",
     "topic_rule": "literacy_ethics",
     "topic_src": "ai",
-    "title_ko": "현대 교육에서 인공지능의 진화와 윤리적 통합: 맞춤형 학습과 기관 책무성을 위한 프레임워크"
+    "title_ko": "현대 교육에서 AI의 진화와 윤리적 통합: 맞춤형 학습과 책무성 프레임워크"
    },
    {
     "n": 3,
@@ -246,7 +246,7 @@
     "authors": "Wiseman Gcizelela Ngcobo",
     "pdf": "https://ojs.veredasjournal.com/index.php/veredas/article/download/8913/29958",
     "topic_src": "ai",
-    "title_ko": "교원 양성에서의 인공지능 협상: 고등교육 교수자의 AI 사용과 교생의 제한"
+    "title_ko": "교사 교육에서의 AI 협상: 교수자의 AI 사용과 고등교육 예비교사 제한"
    },
    {
     "n": 4,
@@ -265,7 +265,7 @@
     "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1941774/pdf",
     "topic_rule": "teacher_pd",
     "topic_src": "ai",
-    "title_ko": "빅데이터 처리의 연합학습과 차등 프라이버시: 예비 정보교사를 위한 커리큘럼 모듈"
+    "title_ko": "빅데이터 처리의 연합학습과 차등 프라이버시: 예비 정보교사 커리큘럼 모듈"
    },
    {
     "n": 5,
@@ -284,7 +284,7 @@
     "pdf": "https://www.mdpi.com/2504-2289/7/1/48/pdf?version=1678358317",
     "topic_rule": "personalized",
     "topic_src": "ai",
-    "title_ko": "교실을 위한 실시간 주의 집중 모니터링 시스템: 학생 행동 인식을 위한 딥러닝 접근법"
+    "title_ko": "교실을 위한 실시간 주의 집중 모니터링 시스템: 딥러닝 기반 학생 행동 인식"
    }
   ],
   "tech": [
@@ -373,7 +373,7 @@
     "source": "AI Times",
     "published": "2026-11-16",
     "keyword": "",
-    "topic": "product",
+    "topic": "edu_ai",
     "kind": null,
     "entities": [
      "NVIDIA",
