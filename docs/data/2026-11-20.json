@@ -1,6 +1,6 @@
 {
  "date": "2026-11-20",
- "generated_at": "2026-11-20T19:00:20+09:00",
+ "generated_at": "2026-11-20T19:32:35+09:00",
  "sections": {
   "edu": [
    {
@@ -44,7 +44,7 @@
     "source": "중부일보",
     "published": "2026-11-16",
     "keyword": "교육정책",
-    "topic": "policy",
+    "topic": "classroom",
     "kind": null,
     "entities": [
      "IB"
@@ -53,6 +53,7 @@
     "implication": "정책 변화에 흔들리지 않도록 학생 중심의 탐구형 수업 설계를 지속할 수 있습니다.",
     "ai": true,
     "dup_of": "2026-11-17",
+    "topic_rule": "policy",
     "topic_src": "ai"
    },
    {
@@ -137,7 +138,7 @@
     "source": "NSP통신",
     "published": "2026-11-16",
     "keyword": "교육정책",
-    "topic": "policy",
+    "topic": "student_care",
     "kind": null,
     "entities": [
      "경기도교육청",
@@ -147,6 +148,7 @@
     "implication": "수능 전 모의평가에서 O 장난이나 마킹 실수 예방 지도를 강화하여 학생들의 부정행위 오인 상황을 미리 방지할 수 있습니다.",
     "ai": true,
     "dup_of": "2026-11-17",
+    "topic_rule": "policy",
     "topic_src": "ai"
    },
    {
@@ -207,7 +209,7 @@
     "pdf": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1906935/pdf",
     "topic_rule": "teacher_pd",
     "topic_src": "ai",
-    "title_ko": "사회적 상호작용이 알고리즘이 될 때: AI 매개 교육과 민주주의 교육의 위험"
+    "title_ko": "사회적 상호작용이 알고리즘이 될 때: AI 매개 교육, 상호문화 역량, 민주주의 교육의 위험성"
    },
    {
     "n": 2,
@@ -228,7 +230,7 @@
     "pdf": "https://eijbms.com/index.php/ms/article/download/551/555",
     "topic_rule": "literacy_ethics",
     "topic_src": "ai",
-    "title_ko": "현대 교육에서 AI의 진화와 윤리적 통합: 맞춤형 학습과 책무성 프레임워크"
+    "title_ko": "현대 교육에서 인공지능의 진화와 윤리적 통합: 맞춤형 학습과 제도적 책무성을 위한 프레임워크"
    },
    {
     "n": 3,
@@ -246,7 +248,7 @@
     "authors": "Wiseman Gcizelela Ngcobo",
     "pdf": "https://ojs.veredasjournal.com/index.php/veredas/article/download/8913/29958",
     "topic_src": "ai",
-    "title_ko": "교사 교육에서의 AI 협상: 교수자의 AI 사용과 고등교육 예비교사 제한"
+    "title_ko": "교사 교육에서의 인공지능 협상: 교수자의 AI 활용과 고등교육 예비교사 제한"
    },
    {
     "n": 4,
@@ -265,7 +267,7 @@
     "pdf": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1941774/pdf",
     "topic_rule": "teacher_pd",
     "topic_src": "ai",
-    "title_ko": "빅데이터 처리의 연합학습과 차등 프라이버시: 예비 정보교사 커리큘럼 모듈"
+    "title_ko": "빅데이터 처리의 연합학습과 차등 프라이버시: 예비 정보교사 교육을 위한 커리큘럼 모듈"
    },
    {
     "n": 5,
@@ -284,7 +286,7 @@
     "pdf": "https://www.mdpi.com/2504-2289/7/1/48/pdf?version=1678358317",
     "topic_rule": "personalized",
     "topic_src": "ai",
-    "title_ko": "교실을 위한 실시간 주의 집중 모니터링 시스템: 딥러닝 기반 학생 행동 인식"
+    "title_ko": "교실을 위한 실시간 주의 집중 모니터링 시스템: 학생 행동 인식을 위한 딥러닝 접근법"
    }
   ],
   "tech": [
@@ -373,7 +375,7 @@
     "source": "AI Times",
     "published": "2026-11-16",
     "keyword": "",
-    "topic": "edu_ai",
+    "topic": "product",
     "kind": null,
     "entities": [
      "NVIDIA",
@@ -430,7 +432,7 @@
     "source": "The Decoder",
     "published": "2026-11-15",
     "keyword": "",
-    "topic": "agent_dev",
+    "topic": "model",
     "kind": null,
     "entities": [
      "에이전트",
@@ -441,7 +443,6 @@
     "implication": "",
     "ai": true,
     "dup_of": "2026-11-17",
-    "topic_rule": "model",
     "topic_src": "ai"
    },
    {
@@ -470,7 +471,7 @@
     "source": "OpenAI Blog",
     "published": "2026-11-16",
     "keyword": "",
-    "topic": "usecase",
+    "topic": "industry",
     "kind": null,
     "entities": [
      "OpenAI",
@@ -481,6 +482,7 @@
     "implication": "",
     "ai": true,
     "dup_of": "2026-11-17",
+    "topic_rule": "usecase",
     "topic_src": "ai"
    }
   ]
@@ -517,7 +519,7 @@
  "enrich": {
   "hash": "d90d1c254566",
   "model": "gemini-3.5-flash-lite",
-  "topics": 11,
+  "topics": 13,
   "title_ko": 5,
   "summaries": 0
  }
