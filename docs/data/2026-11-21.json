@@ -1,0 +1,143 @@
+{
+ "date": "2026-11-21",
+ "generated_at": "2026-11-21T17:44:30+09:00",
+ "sections": {
+  "edu": [],
+  "paper": [
+   {
+    "n": 1,
+    "title": "FACULTY FOUNDATIONS: ANALYSING ACADEMIC DEVELOPMENT NEEDS AT UPNM MEDICAL SCHOOL THROUGH A SURVEY-BASED NEEDS ANALYSIS",
+    "url": "https://doi.org/10.58247/jdset-2026-0902-08",
+    "source": "openalex",
+    "published": "2026-12-31",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [
+     "교사 연수"
+    ],
+    "summary": "이 연구는 설문조사를 통해 말레이시아 국방대학교 의과대학 교수진의 교수법 및 평가 역량의 교육적 요구를 분석하여, 향후 맞춤형 전문성 개발 프로그램과 커리큘럼 개선의 기초 자료를 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Archie Reiniatie, Maizatullifah Miskan",
+    "pdf": "https://zulfaqarjdset.upnm.edu.my/index.php/zjdset/article/download/196/181",
+    "topic_src": "ai",
+    "title_ko": "교수 기초: UPNM 의과대학 설문 기반 요구조사를 통한 학술적 개발 요구 분석"
+   },
+   {
+    "n": 2,
+    "title": "Regional and Country-Specific Perspectives on Southeast Asian English Education Models and Their Implications for Primary and Secondary English Teaching in China",
+    "url": "https://doi.org/10.6914/iiej.060101",
+    "source": "openalex",
+    "published": "2027-03-15",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "동남아시아의 영어 교육 모델을 비교 분석하여 중국의 지역별 교육 격차를 해소할 수 있는 맥락 중심의 맞춤형 영어 교수법 적응 프레임워크를 제안합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Yuqi TONG, Ke Chen 외 1명",
+    "pdf": "https://iiej.net/iiej/article/view/82/69",
+    "topic_src": "ai",
+    "title_ko": "동남아시아 영어 교육 모델의 지역 및 국가별 관점과 중국 초·중등 영어 교육에의 시사점"
+   },
+   {
+    "n": 3,
+    "title": "FROM IMAGES TO UNDERSTANDING: INFOGRAPHICS AS AN EFFECTIVE TOOL FOR SHAPING CHILDREN’S SPATIAL THINKING IN GEOGRAPHY",
+    "url": "https://doi.org/10.30892/gtg.68412-1893",
+    "source": "openalex",
+    "published": "2026-12-31",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "인포그래픽 기반의 지리 학습은 초등학생의 공간적 사고력 향상과 장기 기억 유지에 매우 효과적인 교육 도구임을 준실험연구를 통해 입증합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Ali Ahmad Al‐Barakat, Omayya M. Al-Hassan 외 1명",
+    "pdf": "https://doi.org/10.30892/gtg.68412-1893",
+    "topic_src": "ai",
+    "title_ko": "이미지에서 이해로: 아동의 지리 공간적 사고 형성을 위한 효과적인 도구로서의 인포그래픽"
+   },
+   {
+    "n": 4,
+    "title": "Beliefs and Practices of Learner-Centered Teaching: A Mixed-Methods Research on Vietnamese Higher Education Instructors",
+    "url": "https://doktori.bibl.u-szeged.hu/id/eprint/13116/1/2_Ngan_Duong_Dissertation.pdf",
+    "source": "openalex",
+    "published": "2026-12-03",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "베트남 고등교육 교원들을 대상으로 한 혼합연구방법을 통해 학습자 중심 교육에 대한 신념과 실제 수업 실천 간의 격차 및 과도기적 양상을 밝힘으로써, 제약된 교육 환경에서의 교육 개혁과 교수법 개선에 중요한 시사점을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Dương Thị Ngọc Ngân",
+    "pdf": "https://doktori.bibl.u-szeged.hu/id/eprint/13116/1/2_Ngan_Duong_Dissertation.pdf",
+    "topic_src": "ai",
+    "title_ko": "학습자 중심 교수법의 신념과 실제: 베트남 고등교육 강사를 대상으로 한 혼합연구방법 연구"
+   },
+   {
+    "n": 5,
+    "title": "Creating an effective learning environment for developing writing skills among rural secondary school learners",
+    "url": "https://doi.org/10.33545/26648717.2026.v8.i11a.91126",
+    "source": "openalex",
+    "published": "2026-12-01",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 사회구성주의와 과정 장르 접근법을 바탕으로 농촌 지역 중등 학생들이 겪는 영어 쓰기 장벽을 극복하고 자율적 작문 능력을 기를 수 있는 통합 교수 모델을 제시하여 교육 격차 해소에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Thirupathi Vennum, P Srinivas",
+    "pdf": "https://www.englishjournal.net/archives/2026/vol8issue11/PartA/8-11-15-566.pdf",
+    "topic_src": "ai",
+    "title_ko": "농촌 지역 중등 학습자의 쓰기 기술 발달을 위한 효과적인 학습 환경 조성"
+   }
+  ],
+  "tech": []
+ },
+ "fallback": {},
+ "notes": {},
+ "synthesis": {
+  "headline": "교수법 개선과 교육 격차 해소를 위한 연구 성과 발표",
+  "threads": [
+   {
+    "title": "교수 역량 및 교육 격차",
+    "body": "말레이시아 의대 교수진의 교육적 요구 분석 결과는 맞춤형 전문성 개발의 기초 자료로 활용됩니다. 이는 베트남 고등교육 교원들의 학습자 중심 교육 신념과 실제 실천 간의 격차를 해소하려는 연구와 맞닿아 있습니다.",
+    "refs": [
+     "paper-1",
+     "paper-4"
+    ]
+   },
+   {
+    "title": "맞춤형 영어 교수법과 환경 개선",
+    "body": "동남아시아 영어 교육 모델 분석은 중국의 지역별 교육 격차를 해소하기 위한 프레임워크를 제안합니다. 또한 농촌 지역 중등 학생들을 위한 통합 교수 모델은 영어 쓰기 장벽을 극복하고 교육 격차 해소에 기여합니다.",
+    "refs": [
+     "paper-2",
+     "paper-5"
+    ]
+   },
+   {
+    "title": "시각 자료 활용 학습",
+    "body": "인포그래픽을 활용한 지리 학습은 초등학생의 공간적 사고력 향상에 효과적인 도구로 입증되었습니다. 이러한 시각적 도구의 활용은 다양한 교과 환경에서 학습자의 이해도를 높이는 데 기여할 수 있습니다.",
+    "refs": [
+     "paper-3",
+     "paper-5"
+    ]
+   }
+  ],
+  "classroom": "우리 교실에서 학습자의 실제 참여를 높이기 위해 시각 자료나 맞춤형 교수법을 어떻게 적용할 수 있을지 고민해 보면 좋겠습니다.",
+  "model": "gemini-3.5-flash-lite",
+  "items_hash": "a876628baf76"
+ },
+ "enrich": {
+  "hash": "639ebef23b45",
+  "model": "gemini-3.5-flash-lite",
+  "topics": 0,
+  "title_ko": 5,
+  "summaries": 0
+ }
+}
