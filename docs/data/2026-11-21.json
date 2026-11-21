@@ -1,6 +1,6 @@
 {
  "date": "2026-11-21",
- "generated_at": "2026-11-21T18:40:16+09:00",
+ "generated_at": "2026-11-21T19:14:59+09:00",
  "sections": {
   "edu": [],
   "paper": [
@@ -22,7 +22,7 @@
     "authors": "Archie Reiniatie, Maizatullifah Miskan",
     "pdf": "https://zulfaqarjdset.upnm.edu.my/index.php/zjdset/article/download/196/181",
     "topic_src": "ai",
-    "title_ko": "교수 기초: 설문 기반 요구 분석을 통한 UPNM 의대 학술 개발 수요 분석"
+    "title_ko": "교수 기초: 설문 기반 수요 조사를 통한 UPNM 의대 교수 개발 요구 분석"
    },
    {
     "n": 2,
@@ -60,7 +60,7 @@
     "pdf": "https://doi.org/10.30892/gtg.68412-1893",
     "topic_rule": "design_curric",
     "topic_src": "ai",
-    "title_ko": "이미지에서 이해로: 아동의 지리적 공간적 사고 형성을 위한 효과적인 도구로서의 인포그래픽"
+    "title_ko": "이미지에서 이해로: 아동의 지리 공간적 사고 형성을 위한 효과적인 도구로서의 인포그래픽"
    },
    {
     "n": 4,
@@ -78,7 +78,7 @@
     "authors": "Dương Thị Ngọc Ngân",
     "pdf": "https://doktori.bibl.u-szeged.hu/id/eprint/13116/1/2_Ngan_Duong_Dissertation.pdf",
     "topic_src": "ai",
-    "title_ko": "학습자 중심 교육의 신념과 실천: 베트남 고등교육 교강사 대상 혼합연구"
+    "title_ko": "학습자 중심 교육에 대한 신념과 실천: 베트남 고등교육 강사 대상 혼합연구"
    },
    {
     "n": 5,
@@ -96,7 +96,7 @@
     "authors": "Thirupathi Vennum, P Srinivas",
     "pdf": "https://www.englishjournal.net/archives/2026/vol8issue11/PartA/8-11-15-566.pdf",
     "topic_src": "ai",
-    "title_ko": "농촌 지역 중등 학습자의 작문 능력 발달을 위한 효과적인 학습 환경 조성"
+    "title_ko": "농촌 중등 학습자의 작문 기술 발달을 위한 효과적인 학습 환경 조성"
    }
   ],
   "tech": []
