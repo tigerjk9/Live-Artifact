@@ -1,6 +1,6 @@
 {
  "date": "2026-11-21",
- "generated_at": "2026-11-21T17:44:30+09:00",
+ "generated_at": "2026-11-21T18:40:16+09:00",
  "sections": {
   "edu": [],
   "paper": [
@@ -22,7 +22,7 @@
     "authors": "Archie Reiniatie, Maizatullifah Miskan",
     "pdf": "https://zulfaqarjdset.upnm.edu.my/index.php/zjdset/article/download/196/181",
     "topic_src": "ai",
-    "title_ko": "교수 기초: UPNM 의과대학 설문 기반 요구조사를 통한 학술적 개발 요구 분석"
+    "title_ko": "교수 기초: 설문 기반 요구 분석을 통한 UPNM 의대 학술 개발 수요 분석"
    },
    {
     "n": 2,
@@ -31,7 +31,7 @@
     "source": "openalex",
     "published": "2027-03-15",
     "keyword": "",
-    "topic": "language",
+    "topic": "design_curric",
     "kind": null,
     "entities": [],
     "summary": "동남아시아의 영어 교육 모델을 비교 분석하여 중국의 지역별 교육 격차를 해소할 수 있는 맥락 중심의 맞춤형 영어 교수법 적응 프레임워크를 제안합니다.",
@@ -39,8 +39,9 @@
     "ai": true,
     "authors": "Yuqi TONG, Ke Chen 외 1명",
     "pdf": "https://iiej.net/iiej/article/view/82/69",
+    "topic_rule": "language",
     "topic_src": "ai",
-    "title_ko": "동남아시아 영어 교육 모델의 지역 및 국가별 관점과 중국 초·중등 영어 교육에의 시사점"
+    "title_ko": "동남아 영어 교육 모델의 지역 및 국가별 관점과 중국 초중등 영어 교육에의 시사점"
    },
    {
     "n": 3,
@@ -49,7 +50,7 @@
     "source": "openalex",
     "published": "2026-12-31",
     "keyword": "",
-    "topic": "design_curric",
+    "topic": "learning_sci",
     "kind": null,
     "entities": [],
     "summary": "인포그래픽 기반의 지리 학습은 초등학생의 공간적 사고력 향상과 장기 기억 유지에 매우 효과적인 교육 도구임을 준실험연구를 통해 입증합니다.",
@@ -57,8 +58,9 @@
     "ai": true,
     "authors": "Ali Ahmad Al‐Barakat, Omayya M. Al-Hassan 외 1명",
     "pdf": "https://doi.org/10.30892/gtg.68412-1893",
+    "topic_rule": "design_curric",
     "topic_src": "ai",
-    "title_ko": "이미지에서 이해로: 아동의 지리 공간적 사고 형성을 위한 효과적인 도구로서의 인포그래픽"
+    "title_ko": "이미지에서 이해로: 아동의 지리적 공간적 사고 형성을 위한 효과적인 도구로서의 인포그래픽"
    },
    {
     "n": 4,
@@ -76,7 +78,7 @@
     "authors": "Dương Thị Ngọc Ngân",
     "pdf": "https://doktori.bibl.u-szeged.hu/id/eprint/13116/1/2_Ngan_Duong_Dissertation.pdf",
     "topic_src": "ai",
-    "title_ko": "학습자 중심 교수법의 신념과 실제: 베트남 고등교육 강사를 대상으로 한 혼합연구방법 연구"
+    "title_ko": "학습자 중심 교육의 신념과 실천: 베트남 고등교육 교강사 대상 혼합연구"
    },
    {
     "n": 5,
@@ -94,7 +96,7 @@
     "authors": "Thirupathi Vennum, P Srinivas",
     "pdf": "https://www.englishjournal.net/archives/2026/vol8issue11/PartA/8-11-15-566.pdf",
     "topic_src": "ai",
-    "title_ko": "농촌 지역 중등 학습자의 쓰기 기술 발달을 위한 효과적인 학습 환경 조성"
+    "title_ko": "농촌 지역 중등 학습자의 작문 능력 발달을 위한 효과적인 학습 환경 조성"
    }
   ],
   "tech": []
@@ -136,7 +138,7 @@
  "enrich": {
   "hash": "639ebef23b45",
   "model": "gemini-3.5-flash-lite",
-  "topics": 0,
+  "topics": 2,
   "title_ko": 5,
   "summaries": 0
  }
