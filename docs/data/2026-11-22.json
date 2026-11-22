@@ -1,6 +1,6 @@
 {
  "date": "2026-11-22",
- "generated_at": "2026-11-22T19:20:22+09:00",
+ "generated_at": "2026-11-22T20:44:35+09:00",
  "sections": {
   "edu": [],
   "paper": [
@@ -20,7 +20,7 @@
     "authors": "Kasey Miller, Ketty Grishikashvili",
     "pdf": "https://papers.academic-conferences.org/index.php/icair/article/download/5362/5197",
     "topic_src": "ai",
-    "title_ko": "윤리적 프레임에서 실제적 성과로: 고등교육 초기 AI 상호작용의 신뢰성과 학습 효과 평가"
+    "title_ko": "윤리적 프레임워크에서 실제적 성과까지: 고등교육 초기 AI 상호작용의 신뢰성, 신뢰도 및 학습 효과 평가"
    },
    {
     "n": 2,
@@ -38,7 +38,7 @@
     "authors": "Tuyet Linh Vuong",
     "pdf": "https://doktori.bibl.u-szeged.hu/id/eprint/13258/1/DISSERTATION-%20Vuong%20Tuyet%20Linh.pdf",
     "topic_src": "ai",
-    "title_ko": "베트남 초등학교 3학년의 설명문 독해력 지도를 위한 상호교수법 적용"
+    "title_ko": "베트남 초등학교 3학년 설명문 독해 교육에서의 상호교수법 적용"
    },
    {
     "n": 3,
@@ -55,7 +55,7 @@
     "ai": true,
     "authors": "Juan",
     "pdf": "https://www.americaspg.com/article/4486/pdf/stream",
-    "title_ko": "AI 물결이 온다: 대학 강의실은 어떻게 재구상되어야 하는가?"
+    "title_ko": "AI 물결이 오고 있다: 대학 강의실은 어떻게 재구상되어야 하는가?"
    },
    {
     "n": 4,
