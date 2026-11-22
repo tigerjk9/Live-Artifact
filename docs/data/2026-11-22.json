@@ -1,6 +1,6 @@
 {
  "date": "2026-11-22",
- "generated_at": "2026-11-22T17:44:55+09:00",
+ "generated_at": "2026-11-22T18:41:20+09:00",
  "sections": {
   "edu": [],
   "paper": [
@@ -38,7 +38,7 @@
     "authors": "Tuyet Linh Vuong",
     "pdf": "https://doktori.bibl.u-szeged.hu/id/eprint/13258/1/DISSERTATION-%20Vuong%20Tuyet%20Linh.pdf",
     "topic_src": "ai",
-    "title_ko": "베트남 초등학교 3학년 설명문 독해 교육에 상호교수법 적용하기"
+    "title_ko": "베트남 초등학교 3학년의 설명문 독해력 지도를 위한 상호교수법 적용"
    },
    {
     "n": 3,
@@ -55,7 +55,7 @@
     "ai": true,
     "authors": "Juan",
     "pdf": "https://www.americaspg.com/article/4486/pdf/stream",
-    "title_ko": "AI 물결이 다가오고 있다: 대학 강의실은 어떻게 재상상되어야 하는가?"
+    "title_ko": "AI 물결이 온다: 대학 강의실은 어떻게 재구상되어야 하는가?"
    },
    {
     "n": 4,
@@ -74,7 +74,7 @@
     "pdf": "https://dj.univ-danubius.ro/index.php/DD/article/download/4272/3561",
     "topic_rule": "design_curric",
     "topic_src": "ai",
-    "title_ko": "스크린에이저 세대를 위한 교수학적 재설계"
+    "title_ko": "스크린에이지 세대를 위한 교수학적 재설계"
    },
    {
     "n": 5,
