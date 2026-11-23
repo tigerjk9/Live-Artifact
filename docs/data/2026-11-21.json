@@ -1,8 +1,172 @@
 {
  "date": "2026-11-21",
- "generated_at": "2026-11-21T20:29:47+09:00",
+ "generated_at": "2026-11-23T12:23:58+09:00",
  "sections": {
-  "edu": [],
+  "edu": [
+   {
+    "n": 1,
+    "title": "[특별기고] 광양교육, 교육혁신 선도지역으로 꽃피어라",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wRDJISzdjb3BKVkFiRzh3WEh2VVlkVE0xMm1SajMwalJQNXhYQzNXc1JUNkNHVV9aQmluOWNka1lfY0JIMVk0VW03STh5Wl9mS1l5YkhRRTRqU1drSXJ6TUZEckhuWmtZ?oc=5",
+    "source": "광양뉴스",
+    "published": "2026-11-20",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "광양교육이 교육혁신을 선도하는 지역으로 발전하기를 바라는 특별기고문이다.",
+    "implication": "지역의 교육혁신 사례를 프로젝트 수업이나 진로 교육에 연계하여 활용할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
+   },
+   {
+    "n": 2,
+    "title": "19일 서울 호텔리베라 청담에서 한국교육학술정보원(KERIS)·한국디지털교육협회 주최 '제2차 에듀테크 산업계 포럼'이 열리고 있다. 정제영 KERIS 원장이 개회사를 하고 있다. 박종진기자",
+    "url": "https://news.google.com/rss/articles/CBMi3AtBVV95cUxQMHFoenBEei1hbDJtNXdDNDc0TjZucnlGOWg2ejVlemt3YmhSQ2lfMmRGQUFzbk1iajVFTXBJenJObUZkQ1RlVlFmUHVaakpudUtUbHFsLWpBSURWSkJNczlDY1ZydHk2SS1NN01FdXYtdkhUcDBDdTNQdnBjTTJKdnJuSm9LNTVyVGZwZWg2Y3VxbHloTDMwVHhtcHhIUTlXb0pzcERXbjNPS1ZKaGVremhjRVEzSWZyRGJWUnlGdjQtRVdxWXVKNllVcFZCeFRaRkVQRDl5d3ZzZjJHbWYtS1lDRjZEWTlhbE9rUGdSSlZCU3RMb0lELUJlVW1ibzhuTjdwb0h1NlVPUklpNzNuMXJ6aUpGeWM1X1BYSnRtcldZQ1k1T3BDZENfWTJVRGl4LXBCWjFSM2c3eWpzbU5uajAtTXpPNXZReGp4VnF0RVRPYjRQcGxsMDNPR3hHTzdWeFpKWndwMXdmTEU5dm5Ca0huRnJWUkU1QkF1LU1RLTVmWm9FMlVXb19aZGNaaHBJUXprQ0VBVmVuN3FJbHhKX0Q5OHowcEFadG9XMGdGNTdoWlpmZ2QxazdNWWF6SjRKcFc4ZURVcC1JVmFkSFdOX1FycHJvY3cyVTJMd2F4MTVxZS0yLXM4blQxVnVtU09OVUhNdXhQSk5rYmlrNTV1Z1FRaGNrRGxaUkVTZ0F5LXFqYTE1NE94Q1Bxd1JNZm9xUFZHanozVzJnNUNtT0lnS0tIVDZMTXNwQzFjcDd2T0g1bWQ4REpNMUEzcXl4Tmx3ajVyWnpwZTZCcFlkd0lUajAydWJYMk5qcU11YjZLWU96dTRtQlZ5bUtwR1laOWI2RURFY2V3VVo5amdYS0s0M1E5YmczcmItS3NQdHFKcDVlaWUwVG4waHhfMzRWMHNqTGM0eWZzeHE5ZDA1WTdPWWlFNnNXeGgzcFpIWTRMRFkwR2hxM2RKR3BLSmNIaHlFSUNlbkU2RXljbjhWOHFHME5EZEQ0bDVSMUtQZDNFeVk2Mzg0WmRTQTVldVRjSlcxaW05NEVCYllsWjYxWktBODJWOUlaVmlybkl2WFFROUc4c2RkOW9RWHZaRVRYSmVheGhpVjJ3MzB6X2l6RS1heFBqek9NcTU5LXJyMFEyVUdzV19sZ3k3RlhDRlJIV3BScVhVN1F1UHRBa0VrMmgxNTVnN0FUWEVoZDlkbGRBS0FsSTRwck0tM0lIQVNweGh3UmY0OXAtSVd6Y1NGYThXWkd2WFVxZUlUaUJzQThuZ2pQNnNScHlpMW5pcU9FU3ZnTHh5S2hoZEdEX3dQSkdPU3dSRUxLenhmd3BnZ1BpT0FlcWptM2hjVml0VkxoN2JzaXhjLXlYNGZDVmVVeHA2M2JtNFp5S0xlSnF5UjI1SUlMNHNfQ0JLblNyRFB0TjJ2YjNMSlpraXhndDk3aF9VTUJCczJKdXVZTzZOa3pxTkFUM1B3TVB5cnJOZGtmQy0xUkZVTDViZk5uREVJOGNJcldPTjFwNllPYzhFMUo4SFN4alNwWU9tbXluTUxSeWNEWEVqcEU4cFNvV2JJN1lZZ0NlYmw3SjN1aXlsSV9WdTJ5YmNmSlV5bm9Mc2Z4QkRnQThZMDlWSUxSM1dqRmhnV1J2ZWdBQ2pGaFdxZzluRWRldVVUOVhvTmxfdXllS0hUMHlCTTJOZjFIazZCa2g2SDZHenZyM0hqRXF6ZlhBOUthYXlpRXlfZWhZVDhfQVQxbXVPRFprUGhpNmZWYmktUmVYaUhaRlM5OGkwUGNOdURtLW45R0YyY016em5GYWR2czlDc1FIWk1KejJBSlVkci1wMDQ1dVM4aWx6c1dXajhvc3ZDMTViaGJEM1EzVzdZNXBxSnpfSkRpel9MZzNEaU55SGZld29BZUhMN0VpbURnVjItLTZJemtKMWlhdUIwb3BQSjFkbi1fZnl4SVNGc0ZBM1p2S0VCdi1TWHphZ3BxOEhZdi1sWlp1N1k?oc=5",
+    "source": "전자신문",
+    "published": "2026-11-21",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "KERIS"
+    ],
+    "summary": "한국교육학술정보원과 한국디지털교육협회가 주최하는 제2차 에듀테크 산업계 포럼이 개최되었습니다.",
+    "implication": "최신 에듀테크 산업 동향을 파악하고 실제 수업에 적용할 수 있는 디지털 도구들을 탐색할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 3,
+    "title": "찾아가는 AI교육으로 청소년 디지털 격차 줄인다",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pZm8yQndLbFp3MGhHTjlEcl9JdTE0TjZ6bGJJTklnaGtjY203LVpvc2dMTWN1Wk5nRy0xMFdfTGViLUV3cEVFV0pCUkoxbXZ5RmJPaEg1dWVVNTVqSkFPOUJ2VFZ1djBid0E?oc=5",
+    "source": "더버터",
+    "published": "2026-11-20",
+    "keyword": "AI교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "찾아가는 AI 교육을 통해 청소년들의 디지털 격차를 줄일 수 있습니다.",
+    "implication": "외부 AI 교육 프로그램을 활용해 학생들의 디지털 접근성을 높일 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 4,
+    "title": "특수교육 현장 목소리 들은 이상일 시장…문화예술 특수학교도 논의",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTmowSlJBYnZDYUNma2VIbWNLQTJKY3lMTzhvR2NTeU9OMWFTaWh1OXUtZFBzbFhqckE3aWlJUmlVVTJ3WF82ekVSbENxaEttUFdJRkNja1dFUThQSmIxbFRqU0pkbmxiODBScDZZYWl1STlmZUhWVW0tUUN1aE82b0EzNFdRZENXR0E?oc=5",
+    "source": "글로벌이코노믹",
+    "published": "2026-11-20",
+    "keyword": "교육현장",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [
+     "특수교육"
+    ],
+    "summary": "이상일 시장이 특수교육 현장의 목소리를 듣고 문화예술 특수학교 설립을 논의했습니다.",
+    "implication": "문화예술 특수학교 논의를 계기로 학생들의 예술적 역량을 키우는 다양한 문화예술 수업을 시도할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
+   },
+   {
+    "n": 5,
+    "title": "충북교육연구정보원, 12월 3~8일 '교육정책연구박람회'",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wRWU1RWotNE42S1BoVEszd3NkYzYxbW9LMDZNaUluUm9EYnd4ZXMzSndxR2hHaEtfZlF2VDRlM0FzOS1fTmR3U3A5VjBnd1JmbzU5Q3pXOG5USjBCU3ltN1ZJTU5JVDR4bjA1Tkl1MlNzZGNSN2R3M9IBeEFVX3lxTE1wRWU1RWotNE42S1BoVEszd3NkYzYxbW9LMDZNaUluUm9EYnd4ZXMzSndxR2hHaEtfZlF2VDRlM0FzOS1fTmR3U3A5VjBnd1JmbzU5Q3pXOG5USjBCU3ltN1ZJTU5JVDR4bjA1Tkl1MlNzZGNSN2R3Mw?oc=5",
+    "source": "뉴시스",
+    "published": "2026-11-20",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충북교육청"
+    ],
+    "summary": "충북교육연구정보원은 12월 3일부터 8일까지 '교육정책연구박람회'를 개최합니다.",
+    "implication": "박람회에서 공유되는 우수한 교육정책 연구 자료를 참고하여 수업 개선 아이디어를 얻을 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 6,
+    "title": "대구교육 정책, 학교 현장의 실질적 변화로 이어져야!",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTHB1UUpuM3dKclQxd2oyMVpMX0xfSGlOZS1lcUR1OFNrYVNmdVd0cDQzWVRDY1JnREM0aDN2QlA5TG82d3YwUjRfQjFCOTZJLVpVSnBtT1R4R2NYLU1lQVd3ajVRUWhDTlIxWEthYVl5U3BtV3dsOVdna3VHTllTZGJQb213YklwZk4yUVg3cXlOd2p1YXJjem5lbHI5aVRRTDdzYQ?oc=5",
+    "source": "미디어투데이",
+    "published": "2026-11-20",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대구시교육청"
+    ],
+    "summary": "대구교육 정책이 학교 현장의 실질적인 변화로 이어져야 한다는 목소리가 제기되었습니다.",
+    "implication": "교사들은 정책의 취지를 살려 학생 중심의 실제적인 수업 활동을 설계하고 적용할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 7,
+    "title": "충북 연구학교·교사 연구 성과 한자리에…교육정책연구박람회",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EZHdYRmxNY1BmYXFlNUF1cjF3aTBVTV9HNVhSRld5VktYSnIxbS1iSXY4OHFvV3o0c0R3M1QxbXY3NnY2alZ4UHlTMG9ZWkRJczBYdmN1WjJLdTZvQ0JMTkdScVkwNFREU0HSAW5BVV95cUxPMzFOWXJieVVyN3FVaXA1eUtSbW5SbXFheTFyLXM1Q2hieG9qeko4cUdWS3A1Ymw3c3FQa0F0eWZENTl2czVlRjByQ21QYmpMVVBGc2ZrMG1aRHNhTmFRMTY3U3ZDQVZ3ZUFXa2xpdw?oc=5",
+    "source": "중부매일",
+    "published": "2026-11-20",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "충북에서 연구학교와 교사들의 연구 성과를 공유하는 교육정책연구박람회가 개최되었습니다.",
+    "implication": "다른 교사들의 검증된 연구 성과를 참고하여 내 수업에 맞는 새로운 지도 방법을 적용해 볼 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 8,
+    "title": "경기도의회 최미금 의원, 행정사무감사 “새 교육정책은 쏟아내면서 검증 장치는 없애나... 경기도형 연구학교 신규 지정 중단 재검토해야”",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAweHZFTTdaMHNHMjhjQV9JZjRWZGNxMkFJMDFfTnpMRkF3RzgzMlRoMV9UZDgtSzZoX2swcFloNXpDYjlwTkc0RlFTdF92SlRuV0locjh6ZzFFaDJXcC1xMmJ2dUZGOUY4Y3ZYMF8zR1VlUdIBckFVX3lxTFAweHZFTTdaMHNHMjhjQV9JZjRWZGNxMkFJMDFfTnpMRkF3RzgzMlRoMV9UZDgtSzZoX2swcFloNXpDYjlwTkc0RlFTdF92SlRuV0locjh6ZzFFaDJXcC1xMmJ2dUZGOUY4Y3ZYMF8zR1VlUQ?oc=5",
+    "source": "뉴스 따옴",
+    "published": "2026-11-20",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "경기도의회 최미금 의원은 검증 장치 없이 경기도형 연구학교 신규 지정을 중단하는 것을 재검토해야 한다고 지적했습니다.",
+    "implication": "잦은 교육정책 변화 속에서도 흔들리지 않고 우리 반 학생들에게 꼭 필요한 실제 수업 내용에 집중할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 9,
+    "title": "대구시의회, 교육정책 실효성 정조준…학생 안전·교육격차 해소 촉구",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5feDl3ZUZna0JjUllmT3B2eHUwUzBfTE1tQWFiaGIzcDVIR3hZamx0bl9QSS1oQTBmMHVsY0ZwUUdQX01ZZExyZHF2NA?oc=5",
+    "source": "아이뉴스24",
+    "published": "2026-11-20",
+    "keyword": "교육정책",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [],
+    "summary": "대구시의회는 교육정책의 실효성을 높이기 위해 학생 안전 확보와 교육격차 해소를 촉구했습니다.",
+    "implication": "학생들의 안전을 최우선으로 살피고 학습 격차를 줄이는 맞춤형 지도 방안을 고민해 볼 수 있습니다.",
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
+   },
+   {
+    "n": 10,
+    "title": "[교육정책 브리핑] 경기도교육청, 세계한국학교에 한국의 뿌리 가르친다",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fWlMzcVhhMnQ5RVE4Y3NCUnR4T183ZUZsZkpIR09GWmUwRU8weG5tRXk0LTE5UlZEaElVVzJEY1h1QmFibVV4ellYQ0U1amxuMjZBVlFSTWlUT1Y5d0tXVQ?oc=5",
+    "source": "NSP통신",
+    "published": "2026-11-20",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청이 세계한국학교에 한국의 뿌리를 알리는 교육 지원 정책을 추진합니다.",
+    "implication": "재외동포 학생들의 문화적 정체성 형성을 돕는 교육 자료를 수업에 활용할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   }
+  ],
   "paper": [
    {
     "n": 1,
@@ -22,7 +186,7 @@
     "authors": "Archie Reiniatie, Maizatullifah Miskan",
     "pdf": "https://zulfaqarjdset.upnm.edu.my/index.php/zjdset/article/download/196/181",
     "topic_src": "ai",
-    "title_ko": "교수 기초: 설문 기반 수요 분석을 통한 UPNM 의과대학 학술적 개발 요구 분석"
+    "title_ko": "교수 기반: 설문 기반 요구 분석을 통한 UPNM 의과대학 학술 개발 수요 분석"
    },
    {
     "n": 2,
@@ -31,7 +195,7 @@
     "source": "openalex",
     "published": "2027-03-15",
     "keyword": "",
-    "topic": "design_curric",
+    "topic": "language",
     "kind": null,
     "entities": [],
     "summary": "동남아시아의 영어 교육 모델을 비교 분석하여 중국의 지역별 교육 격차를 해소할 수 있는 맥락 중심의 맞춤형 영어 교수법 적응 프레임워크를 제안합니다.",
@@ -39,9 +203,8 @@
     "ai": true,
     "authors": "Yuqi TONG, Ke Chen 외 1명",
     "pdf": "https://iiej.net/iiej/article/view/82/69",
-    "topic_rule": "language",
     "topic_src": "ai",
-    "title_ko": "동남아시아 영어 교육 모델의 지역 및 국가별 관점과 중국 초·중등 영어 교육에의 시사점"
+    "title_ko": "동남아 영어 교육 모델의 지역·국가별 관점과 중국 초중등 영어 교육에의 시사점"
    },
    {
     "n": 3,
@@ -60,7 +223,7 @@
     "pdf": "https://doi.org/10.30892/gtg.68412-1893",
     "topic_rule": "design_curric",
     "topic_src": "ai",
-    "title_ko": "이미지에서 이해로: 아동의 지리적 공간적 사고 형성을 위한 효과적인 도구로서의 인포그래픽"
+    "title_ko": "이미지에서 이해로: 지리에서 아동의 공간적 사고 형성을 위한 효과적인 도구로서의 인포그래픽"
    },
    {
     "n": 4,
@@ -78,7 +241,7 @@
     "authors": "Dương Thị Ngọc Ngân",
     "pdf": "https://doktori.bibl.u-szeged.hu/id/eprint/13116/1/2_Ngan_Duong_Dissertation.pdf",
     "topic_src": "ai",
-    "title_ko": "학습자 중심 교수법의 신념과 실제: 베트남 고등교육 교원의 혼합연구방법 연구"
+    "title_ko": "학습자 중심 Teaching의 신념과 실제: 베트남 고등교육 강사를 대상으로 한 혼합연구방법 연구"
    },
    {
     "n": 5,
@@ -96,49 +259,238 @@
     "authors": "Thirupathi Vennum, P Srinivas",
     "pdf": "https://www.englishjournal.net/archives/2026/vol8issue11/PartA/8-11-15-566.pdf",
     "topic_src": "ai",
-    "title_ko": "농촌 지역 중등 학습자의 쓰기 능력 향상을 위한 효과적인 학습 환경 조성"
+    "title_ko": "농촌 지역 중등 학습자의 쓰기 기술 발전을 위한 효과적인 학습 환경 조성"
    }
   ],
-  "tech": []
+  "tech": [
+   {
+    "n": 1,
+    "title": "Google, Gemini API 에이전트용 온디맨드 도구 검색 미리보기 공개",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN2t2TEZFd3dlNlR4UUxXYzFFUk9iMlIxQnE2bWpJV09MUXYzWElzeEx1b01zd0E1VUJMRko1MDl6NEs2MjVTS29fUmdwa3ZOMC1qTDdDUEgtdGNsRnpsY0VuRTA4WUxSdkg2Zk4za3NMZ0g2UEZFSzE2ekRwZC1GLXM4cjJzcndTdnYyUVFEZzc?oc=5",
+    "source": "Unite.AI",
+    "published": "2026-11-19",
+    "keyword": "API",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Google",
+     "Gemini",
+     "에이전트"
+    ],
+    "summary": "구글의 온디맨드 도구 검색 기능 공개는 에이전트가 방대한 외부 도구를 효율적으로 활용하게 함으로써 자율형 AI의 실효성과 확장성을 한층 높일 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 2,
+    "title": "Meta의 오픈소스 AI 과학 서밋, 연구 프로젝트 소개",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdExKcnliRmh1a285UU1IQ3dqVnBoWnBhUHhSQVlESG1lV0xOeTJ0cGpoYUpKWjhweDM2VXZWNVFVSFIzUlJTU18yREFoekx3SzF6XzhRTzRpVDdpdkJwWVlJMC1QUVBCNGdHM3FGdjBra01rdHN6blh5YVlfSkNEZDNpaUc1dmVPSDRj?oc=5",
+    "source": "Mezha.net",
+    "published": "2026-11-20",
+    "keyword": "오픈소스",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Meta",
+     "오픈소스"
+    ],
+    "summary": "메타의 오픈소스 AI 과학 서밋 개최는 전 세계 연구자들의 협업을 가속화하며 오픈소스 기반의 과학적 혁신 생태계를 더욱 강화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "agent_dev",
+    "topic_src": "ai"
+   },
+   {
+    "n": 3,
+    "title": "세종사이버대 AI응용소프트웨어공학과 AI 에이전트/LLM/RAG/피지컬 AI 등 최신 기술 학습전자자료 제공",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FZUYzV2ZpUG9LdU1DUzRscW5DZmQ1YUp1VnJiUnlkWnE0dTNPejhkZUdidjRlOGVwYVVucXpoRUVEOUpOMjkyZWZyTGt0ZGpnRndKWktaUzg2enZwbEU5czVBRk1NX3p6c1ZnYg?oc=5",
+    "source": "베리타스알파",
+    "published": "2026-11-20",
+    "keyword": "LLM",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "에이전트",
+     "LLM"
+    ],
+    "summary": "사이버대학의 실무형 AI 교육 확대는 산업계가 요구하는 LLM 및 피지컬 AI 인력 갈증을 해소하는 데 기여할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 4,
+    "title": "뉴로퓨전, 글로벌 AI 미래 예측 벤치마크 550개 모델 중 1위… 구글·오픈AI 제쳤다",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5feTdtU0U1YWZVQ21HdG9ablo5YUZOd2dZOU14dUVHc0lsYkUzeDJtOGEyTHRoY21nWHhXY3pCenFIV1hFYm94cE1lWXZ6VlJtVTNLNmp6d0ZUQkJRa0JRd010bXZGR1Bs0gFsQVVfeXFMTkV4di1wcER5dHZXMlljQm1udUZtRTA1U0NTcDE4dERuckRuWXZOX3ZKOFl6cVlhRVFCRjNVM3YwVEZYamc2VWJTR1VPVVpPU2lGQW5pRFZXRVRHR2ttTENaZWdRaTZsVENJcEZQ?oc=5",
+    "source": "스타트업엔(StartupN)",
+    "published": "2026-11-20",
+    "keyword": "벤치마크",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "벤치마크",
+     "Google",
+     "OpenAI"
+    ],
+    "summary": "신생 스타트업 뉴로퓨전의 1위 등극은 거대 빅테크 중심의 AI 패권 경쟁이 틈새 전문 모델의 약진으로 다극화될 것임을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 5,
+    "title": "OpenAI, GPT-6.2 Astra의 추론 추출 방어 강화",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOHdLNmZQekhMcHFlTmNfQlhjRzNpdHBWaG9Sc2pwaFF4TXpvbWxVUWR5dm9WTEZDTkZ0alhjU3hTSC1aLXlvazFFbnhZRlJaTjFwYjM0dG9CeTdOQ2VyTVh2d1paMHZWdW1XbTZJaFpabmVPVFlHVDN0UVdiZzhSaDRLUkgySk8wT1dvU2Fybw?oc=5",
+    "source": "Unite.AI",
+    "published": "2026-11-20",
+    "keyword": "GPT",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "OpenAI의 추론 추출 방어 강화는 상용 AI 모델의 지식 재산권 보호와 보안 표준을 한 단계 높이는 계기가 될 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
+   },
+   {
+    "n": 6,
+    "title": "모레, LLM 추론 효율 높이는 프레임워크 ‘TIDE’ 공개",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kZTBSY012YXZzNnJXODR5UW54SDlnSzlzMGdJSU03eUxxYWUxR3NUU3F1dHhMU2MwQkR5QmlmQUxsRTdmSUhGYno1eW5PRmF0QzNDc1VwXzBtZXhLTFpCU2lrd055ZHpkNEE?oc=5",
+    "source": "AI타임스",
+    "published": "2026-11-20",
+    "keyword": "LLM",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "LLM"
+    ],
+    "summary": "이번 TIDE 프레임워크 공개는 LLM의 추론 비용과 효율성 문제를 해결하여 AI 서비스의 상용화를 크게 앞당길 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 7,
+    "title": "애플 'AI 에이전트' 뒤늦게 출시해도 메타와 오픈AI 위협 전망, 개인정보 보호와 하드웨어 생태계 장점",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE10YjhoNXZ2dTZNMG9ta0laSGhsa3NUUGEzVjJzSFNuS0JkMWdxRkZWZ2luV3JGb29PWVdMNjFRa2hhXzcyMkJNVzJZc2hSWjRBMzdlU2lsYnJUMWpiNjgzMVhsb3NNbFA1RmpXSzBHelQ4UzQ?oc=5",
+    "source": "비즈니스포스트",
+    "published": "2026-11-20",
+    "keyword": "오픈AI",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Apple",
+     "에이전트",
+     "Meta",
+     "OpenAI"
+    ],
+    "summary": "애플의 늦은 AI 에이전트 참전은 강력한 하드웨어 생태계와 개인정보 보호를 무기로 기존 빅테크들의 시장 구도를 재편할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "policy_safety",
+    "topic_src": "ai"
+   },
+   {
+    "n": 8,
+    "title": "인셉션, 머큐리 API 12월 종료…엔비디아 인수 협상 보도",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ROEZTUVRhamdoWWMwb0I0UzQxaVZSRXlNV3J4Wk9KWTNvc1dSSnlhaWNhYXVGWHVwSWRTSnU0ZHM5dWx0UzFTRU1RUW5ka0pyNWRQQQ?oc=5",
+    "source": "AI 매터스",
+    "published": "2026-11-20",
+    "keyword": "API",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA"
+    ],
+    "summary": "이번 인셉션의 API 종료 및 인수 협상 보도는 AI 인프라 시장에서 빅테크의 지배력이 더욱 공고해지는 전환점이 될 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 9,
+    "title": "Microsoft, Edge에 Aion Instruct와 Prompt API 도입",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYTNxVzZDa1F2RG44UVhDeEZVVm5GUFZkdmlWSW1lUXRLS2tway1hUjZaVEoxM3JtZll1ZGhvM0hnOEFjb1lfTlNVU0hTdk5vZzR4bW5yUWpUdHNWTGtIXzNqU1d5dmppa2VYQ2d2Q0hxUmhFUUMxbmZtbHJLRnZoc3hmUU5aV1BvY3VKWGY5V2J2VnY0b3BiWC11LWQ?oc=5",
+    "source": "Mezha.net",
+    "published": "2026-11-19",
+    "keyword": "API",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Microsoft",
+     "온디바이스 AI"
+    ],
+    "summary": "마이크로소프트의 엣지 브라우저 내 AI API 도입은 개발자가 클라우드 의존 없이 로컬에서 고성능 AI 기능을 직접 활용하는 엣지 AI 대중화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 10,
+    "title": "Reply.io, 영업 활동을 위한 오픈소스 AI 에이전트 실행 환경 출시",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWnNpZXNJZldiWHkzQm9VaUk0SlItalU3OERsWlJNYWdvYk9iZGVSdHpQc28tTDlJTXZvVnFta2NXVHVqaFNyVzUxM01mY0tqX2h6QXM5VTZSRXhmT1JMWjBKcjRQRUVHQVZyWVlaWVVaYkY0RWRsZjBNenluOTV2UnE5UQ?oc=5",
+    "source": "Unite.AI",
+    "published": "2026-11-19",
+    "keyword": "오픈소스",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "오픈소스",
+     "에이전트"
+    ],
+    "summary": "영업용 오픈소스 AI 에이전트 환경의 등장은 기업들이 맞춤형 자율형 AI를 통해 영업 자동화를 더욱 유연하고 고도화하는 계기가 될 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   }
+  ]
  },
  "fallback": {},
  "notes": {},
  "synthesis": {
-  "headline": "교수법 개선과 교육 격차 해소를 위한 연구 성과 발표",
+  "headline": "에듀테크와 AI 도구의 현장 도입 및 교육 정책 논의가 활발합니다",
   "threads": [
    {
-    "title": "교수 역량 및 교육 격차",
-    "body": "말레이시아 의대 교수진의 교육적 요구 분석 결과는 맞춤형 전문성 개발의 기초 자료로 활용됩니다. 이는 베트남 고등교육 교원들의 학습자 중심 교육 신념과 실제 실천 간의 격차를 해소하려는 연구와 맞닿아 있습니다.",
+    "title": "에듀테크와 AI 교육",
+    "body": "한국교육학술정보원의 에듀테크 포럼과 찾아가는 AI 교육 소식은 디지털 도구를 활용한 교육 혁신 방향을 보여줍니다. 이는 세종사이버대의 최신 AI 기술 학습 자료 제공과도 맞닿아 있습니다.",
     "refs": [
-     "paper-1",
-     "paper-4"
+     "edu-2",
+     "edu-3",
+     "tech-3"
     ]
    },
    {
-    "title": "맞춤형 영어 교수법과 환경 개선",
-    "body": "동남아시아 영어 교육 모델 분석은 중국의 지역별 교육 격차를 해소하기 위한 프레임워크를 제안합니다. 또한 농촌 지역 중등 학생들을 위한 통합 교수 모델은 영어 쓰기 장벽을 극복하고 교육 격차 해소에 기여합니다.",
+    "title": "교육 정책과 격차 해소",
+    "body": "대구시의회의 교육격차 해소 촉구와 충북의 교육정책연구박람회는 현장 중심 정책의 중요성을 시사합니다. 한편 논문에서는 인포그래픽을 활용한 지리 학습이 학생들의 공간적 사고력 향상에 효과적임을 입증합니다.",
     "refs": [
-     "paper-2",
-     "paper-5"
+     "edu-9",
+     "edu-7",
+     "paper-3"
     ]
    },
    {
-    "title": "시각 자료 활용 학습",
-    "body": "인포그래픽을 활용한 지리 학습은 초등학생의 공간적 사고력 향상에 효과적인 도구로 입증되었습니다. 이러한 시각적 도구의 활용은 다양한 교과 환경에서 학습자의 이해도를 높이는 데 기여할 수 있습니다.",
+    "title": "AI 기술 혁신과 적용",
+    "body": "구글의 에이전트용 온디맨드 도구 검색 미리보기 공개와 마이크로소프트의 엣지 브라우저 AI API 도입은 AI 기술의 실효성을 높입니다. 이러한 기술적 발전은 교육 현장에서 디지털 도구를 활용하는 기반이 됩니다.",
     "refs": [
-     "paper-3",
-     "paper-5"
+     "tech-1",
+     "tech-9",
+     "edu-2"
     ]
    }
   ],
-  "classroom": "우리 교실에서 학습자의 실제 참여를 높이기 위해 시각 자료나 맞춤형 교수법을 어떻게 적용할 수 있을지 고민해 보면 좋겠습니다.",
+  "classroom": "내일 수업에서는 최신 에듀테크 도구나 인포그래픽 자료를 활용해 학생들이 디지털 격차 없이 학습에 참여할 수 있는 방법을 고민해 보면 좋겠습니다.",
   "model": "gemini-3.5-flash-lite",
-  "items_hash": "a876628baf76"
+  "items_hash": "ccdf4d728aea"
  },
  "enrich": {
-  "hash": "639ebef23b45",
+  "hash": "3d5b5c940ed7",
   "model": "gemini-3.5-flash-lite",
-  "topics": 2,
+  "topics": 7,
   "title_ko": 5,
   "summaries": 0
  }

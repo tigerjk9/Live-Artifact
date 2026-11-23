@@ -1,0 +1,436 @@
+{
+ "key": "2026-W47",
+ "label": "2026년 11월 16일 ~ 22일",
+ "dates": [
+  "2026-11-16",
+  "2026-11-17",
+  "2026-11-18",
+  "2026-11-19",
+  "2026-11-20",
+  "2026-11-21",
+  "2026-11-22"
+ ],
+ "days_present": 7,
+ "counts": {
+  "edu": 30,
+  "paper": 35,
+  "tech": 26
+ },
+ "total": 91,
+ "prev_total": 161,
+ "top_entities": [
+  {
+   "name": "NVIDIA",
+   "kind": "org",
+   "n": 9,
+   "delta": -1
+  },
+  {
+   "name": "생성형 AI",
+   "kind": "tech",
+   "n": 8,
+   "delta": -4
+  },
+  {
+   "name": "에이전트",
+   "kind": "tech",
+   "n": 7,
+   "delta": -6
+  },
+  {
+   "name": "OpenAI",
+   "kind": "org",
+   "n": 7,
+   "delta": -4
+  },
+  {
+   "name": "개인화 학습",
+   "kind": "tech",
+   "n": 6,
+   "delta": -3
+  },
+  {
+   "name": "경기도교육청",
+   "kind": "edu_org",
+   "n": 5,
+   "delta": 3
+  },
+  {
+   "name": "GPU·데이터센터",
+   "kind": "tech",
+   "n": 4,
+   "delta": -1
+  },
+  {
+   "name": "전북교육청",
+   "kind": "edu_org",
+   "n": 3,
+   "delta": -1
+  },
+  {
+   "name": "Anthropic",
+   "kind": "org",
+   "n": 3,
+   "delta": -10
+  },
+  {
+   "name": "Meta",
+   "kind": "org",
+   "n": 3,
+   "delta": 1
+  },
+  {
+   "name": "특수교육",
+   "kind": "issue",
+   "n": 2,
+   "delta": 0
+  },
+  {
+   "name": "인천시교육청",
+   "kind": "edu_org",
+   "n": 2,
+   "delta": -2
+  }
+ ],
+ "rising": [
+  {
+   "name": "경기도교육청",
+   "kind": "edu_org",
+   "n": 5,
+   "delta": 3
+  }
+ ],
+ "topic_share": {
+  "edu": [
+   {
+    "id": "policy",
+    "label": "정책·행정",
+    "n": 14,
+    "pct": 47,
+    "delta": 10
+   },
+   {
+    "id": "ai_digital",
+    "label": "AI·디지털교육",
+    "n": 7,
+    "pct": 23,
+    "delta": 0
+   },
+   {
+    "id": "student_care",
+    "label": "학생·돌봄·안전",
+    "n": 4,
+    "pct": 13,
+    "delta": 10
+   },
+   {
+    "id": "higher_ed",
+    "label": "대학·입시·평생",
+    "n": 2,
+    "pct": 7,
+    "delta": -3
+   },
+   {
+    "id": "teacher",
+    "label": "교사·교권",
+    "n": 2,
+    "pct": 7,
+    "delta": 1
+   },
+   {
+    "id": "classroom",
+    "label": "수업·교육과정",
+    "n": 1,
+    "pct": 3,
+    "delta": -10
+   }
+  ],
+  "paper": [
+   {
+    "id": "personalized",
+    "label": "개인화·학습분석",
+    "n": 5,
+    "pct": 14,
+    "delta": -6
+   },
+   {
+    "id": "teacher_pd",
+    "label": "교사 전문성",
+    "n": 5,
+    "pct": 14,
+    "delta": -3
+   },
+   {
+    "id": "inclusion_sel",
+    "label": "포용·정서·웰빙",
+    "n": 4,
+    "pct": 11,
+    "delta": -3
+   },
+   {
+    "id": "design_curric",
+    "label": "교수설계·교육과정",
+    "n": 4,
+    "pct": 11,
+    "delta": 0
+   },
+   {
+    "id": "language",
+    "label": "언어·문해",
+    "n": 4,
+    "pct": 11,
+    "delta": 2
+   },
+   {
+    "id": "genai_tutor",
+    "label": "생성형 AI·튜터",
+    "n": 4,
+    "pct": 11,
+    "delta": 5
+   },
+   {
+    "id": "learning_sci",
+    "label": "학습과학·인지",
+    "n": 3,
+    "pct": 9,
+    "delta": 6
+   },
+   {
+    "id": "literacy_ethics",
+    "label": "AI 리터러시·윤리",
+    "n": 2,
+    "pct": 6,
+    "delta": 3
+   },
+   {
+    "id": "assessment",
+    "label": "평가·피드백",
+    "n": 2,
+    "pct": 6,
+    "delta": -3
+   },
+   {
+    "id": "stem_ct",
+    "label": "컴퓨팅·STEM",
+    "n": 2,
+    "pct": 6,
+    "delta": -3
+   }
+  ],
+  "tech": [
+   {
+    "id": "model",
+    "label": "모델·연구",
+    "n": 8,
+    "pct": 31,
+    "delta": 11
+   },
+   {
+    "id": "industry",
+    "label": "산업·투자·인프라",
+    "n": 5,
+    "pct": 19,
+    "delta": -2
+   },
+   {
+    "id": "agent_dev",
+    "label": "에이전트·개발도구",
+    "n": 4,
+    "pct": 15,
+    "delta": -1
+   },
+   {
+    "id": "policy_safety",
+    "label": "정책·윤리·안전",
+    "n": 4,
+    "pct": 15,
+    "delta": 3
+   },
+   {
+    "id": "product",
+    "label": "제품·서비스",
+    "n": 3,
+    "pct": 12,
+    "delta": -6
+   },
+   {
+    "id": "usecase",
+    "label": "활용·사례",
+    "n": 1,
+    "pct": 4,
+    "delta": -7
+   },
+   {
+    "id": "edu_ai",
+    "label": "교육 AI",
+    "n": 1,
+    "pct": 4,
+    "delta": 2
+   }
+  ]
+ },
+ "daily": [
+  {
+   "d": "2026-11-16",
+   "n": 25,
+   "head": "교육 현장의 AI 활용과 정책 변화, 그리고 기술 생태계의 도전",
+   "src": "ai"
+  },
+  {
+   "d": "2026-11-17",
+   "n": 25,
+   "head": "AI 시대의 교육 혁신과 현장 적용 방안이 주목받고 있습니다",
+   "src": "ai"
+  },
+  {
+   "d": "2026-11-18",
+   "n": 25,
+   "head": "교육 현장의 AI 활용과 제도적 지원 체계 본격화",
+   "src": "ai"
+  },
+  {
+   "d": "2026-11-19",
+   "n": 25,
+   "head": "AI 교육 협력과 도구 혁신이 교실의 실천 과제로 다가옵니다",
+   "src": "ai"
+  },
+  {
+   "d": "2026-11-20",
+   "n": 25,
+   "head": "교육계와 기술계 전반에서 AI 도입과 정책 정비가 활발하게 이어지고 있습니다",
+   "src": "ai"
+  },
+  {
+   "d": "2026-11-21",
+   "n": 25,
+   "head": "에듀테크와 AI 도구의 현장 도입 및 교육 정책 논의가 활발합니다",
+   "src": "ai"
+  },
+  {
+   "d": "2026-11-22",
+   "n": 5,
+   "head": "인공지능과 디지털 도구의 교육 현장 도입에 따른 교수법 혁신과 과제",
+   "src": "ai"
+  }
+ ],
+ "picks": {
+  "edu": [
+   {
+    "d": "2026-11-17",
+    "n": 7,
+    "t": "전북교육청, 교직원 생성형 AI ‘전북AI’ 새 단장",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14QlhiYThWaXF4emUzSHBoRkpaeG9wY181YlFLMC1ZcUhNZU5uRnVPLXRSLVVYZnFTLUhBX19fczlDX184S20zaHJqanNSU1E2V0E2LWhnX0dHaWE1a1lJ?oc=5",
+    "src": "전북미래교육신문"
+   },
+   {
+    "d": "2026-11-16",
+    "n": 4,
+    "t": "광주여대 초등특수교육과 'AI를 활용한 수학과 교육과정 재구성과 수업 설계' 특강 진행",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YR0dNQlJYVjhrX05wTmF0a1Z0bEh2ZFhmaVJGNW9IdFBKWGdWckZaX3NfQkdoZE5mZmk5ZEVrU3VvZ2ZJOW9XOXFSWGJ6RWdCN0Npejl6NzRPakVCRzNQbTdTUXBpLTVDU3RmXw?oc=5",
+    "src": "베리타스알파"
+   },
+   {
+    "d": "2026-11-16",
+    "n": 10,
+    "t": "AI 에이전트 시대, 인간과 디지털 노동자의 공존 방법",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tcVdaX2c2azRXbUVjQ3NFUnQzUWhyeGJNYXNMaEpFUndwOW4yS2lqUWdRaEZfc1d1djJEUHFlXzJHWVdYaWhZU3lhZlVGSkFhZGpCYWViLU96dkY4M3ZIa1Y5Nm40WGZqcmtRbDl0dWM?oc=5",
+    "src": "매일노동뉴스"
+   }
+  ],
+  "paper": [
+   {
+    "d": "2026-11-19",
+    "n": 2,
+    "t": "교육 분야 생성형 AI 메타조사: 동향, 과제 및 연구 방향",
+    "url": "https://www.semanticscholar.org/paper/b161e7983c8810679ecb39cf816c4902f4744389",
+    "src": "semantic_scholar"
+   },
+   {
+    "d": "2026-11-16",
+    "n": 5,
+    "t": "고등교육기관의 교육과정 및 교수법으로서 생성형 AI 도입: 사례 연구",
+    "url": "https://doi.org/10.3389/feduc.2026.1894035",
+    "src": "openalex"
+   },
+   {
+    "d": "2026-11-20",
+    "n": 1,
+    "t": "사회적 상호작용이 알고리즘이 될 때: AI 매개 교육, 상호문화 역량, 민주주의 교육의 위험성",
+    "url": "https://doi.org/10.3389/fpsyg.2026.1906935",
+    "src": "openalex"
+   }
+  ],
+  "tech": [
+   {
+    "d": "2026-11-17",
+    "n": 10,
+    "t": "LVMH’s Media Division announces strategic partnership with OpenAI",
+    "url": "https://openai.com/index/lvmh-media-division-partnership",
+    "src": "OpenAI Blog"
+   },
+   {
+    "d": "2026-11-16",
+    "n": 6,
+    "t": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
+    "url": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/",
+    "src": "The Decoder"
+   },
+   {
+    "d": "2026-11-17",
+    "n": 3,
+    "t": "알트먼 \"젠슨 황 없이도 AI 산업 괜찮을 것\"...복귀 지지는 유보",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217473",
+    "src": "AI Times"
+   }
+  ]
+ },
+ "generated_at": "2026-11-23T12:24:09+09:00",
+ "synthesis": {
+  "headline": "AI 에이전트 도입과 교육 혁신 논의가 이어진 한 주",
+  "threads": [
+   {
+    "title": "AI 시대의 교육 혁신",
+    "body": "교육 현장에서는 AI를 활용한 수업 설계와 교직원 업무 지원용 생성형 AI 개편이 추진되었습니다. 이와 함께 고등교육과 연구 분야에서도 AI를 교수법과 커리큘럼에 통합하려는 다양한 시도가 보고되었습니다.",
+    "refs": [
+     "2026-11-16:edu-4",
+     "2026-11-17:edu-7",
+     "2026-11-17:paper-1",
+     "2026-11-19:paper-2"
+    ]
+   },
+   {
+    "title": "에듀테크와 정책 점검",
+    "body": "에듀테크 산업계 포럼이 개최되어 기술 활용 방안이 논의되었고, 지방의회에서는 교육정책의 실효성과 연구학교 지정 등에 대한 전방위적 점검과 감사가 이루어졌습니다. 정책 성과지표를 계획 단계부터 설계해야 한다는 지적도 함께 제기되었습니다.",
+    "refs": [
+     "2026-11-16:edu-3",
+     "2026-11-17:edu-4",
+     "2026-11-21:edu-2",
+     "2026-11-21:edu-8"
+    ]
+   },
+   {
+    "title": "AI 에이전트와 기술 확장",
+    "body": "기술 분야에서는 AI 에이전트와 지식 관리, 영상 생성 및 추론 효율을 높이는 프레임워크가 활발히 공개되었습니다. 또한 온디맨드 도구 검색과 로봇 인지 능력을 극대화하는 모델들이 발표되며 생태계가 확장되고 있습니다.",
+    "refs": [
+     "2026-11-16:tech-2",
+     "2026-11-17:tech-5",
+     "2026-11-21:tech-1",
+     "2026-11-21:tech-6"
+    ]
+   },
+   {
+    "title": "학습자 중심의 교수법 연구",
+    "body": "논문 분야에서는 사회정서학습, 다언어 교실에서의 다중언어 사용, 그리고 학습자 중심 교육에 대한 연구가 다뤄졌습니다. 이를 통해 다양한 교육 환경에서 학생들의 참여와 이해도를 높이기 위한 구체적인 교수법적 대안들이 제시되었습니다.",
+    "refs": [
+     "2026-11-16:paper-1",
+     "2026-11-16:paper-4",
+     "2026-11-21:paper-4",
+     "2026-11-22:paper-2"
+    ]
+   }
+  ],
+  "classroom": "교실에서 AI 도구를 활용할 때 단순한 지식 전달을 넘어 학생들의 비판적 사고와 상호작용을 어떻게 이끌어낼지 고민해 봅시다.",
+  "model": "gemini-3.5-flash-lite",
+  "items_hash": "7e8909cec554"
+ }
+}
