@@ -1,0 +1,507 @@
+{
+ "date": "2026-11-23",
+ "generated_at": "2026-11-23T12:28:33+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "세종교총, 최교진 교육부 장관 사의 표명에 대한 논평",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PMXFlWWtmem1xbWttLTBQTFZTVGk5NnhHQWk3eENxOHVlRExUcnRqbzhzcE0xVDRyUFZacnMtY0YxREdQOXgwSV9ZaHN4N29iNXhhb0wyVGlJUkJYWnBQRzYyS0luYkNhVS1J?oc=5",
+    "source": "충청메시지",
+    "published": "2026-11-23",
+    "keyword": "교육현장",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "교원단체",
+     "교육부"
+    ],
+    "summary": "세종교총은 최교진 교육부 장관의 사의 표명에 대한 공식적인 논평을 발표했습니다.",
+    "implication": "교원 단체의 입장을 살펴보며 교육 정책의 변화 흐름을 수업 시간에 가볍게 이야기해 볼 수 있습니다.",
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
+   },
+   {
+    "n": 2,
+    "title": "[사설] AI 커닝이 대학에 던지는 경고",
+    "url": "https://news.unn.net/news/articleView.html?idxno=601176",
+    "source": "한국대학신문",
+    "published": "2026-11-23",
+    "keyword": "",
+    "topic": "higher_ed",
+    "kind": "opinion",
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "첨단 기술과 생성형 AI를 이용한 부정행위가 늘면서 기존 시험 방식의 공정성과 신뢰성이 크게 위협받고 있습니다.",
+    "implication": "암기 위주의 평가에서 벗어나, 학생들이 AI를 바르게 활용하며 직접 토론하고 탐구하는 과정 중심의 수업으로 전환할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "ai_digital",
+    "topic_src": "ai"
+   },
+   {
+    "n": 3,
+    "title": "인천 i-포럼 출범…학교 현장 목소리로 교육정책 만든다",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1feHVrVjl0UmFJSTBBcS1pSTZRa2ZNNzNNaU1xRzUtWDN5dTR5RE84WXNrV2R1NzJVQ3R5ZncteW0tdTZpZzVuVmY3R0MzeWx6em9RVTRpNDNzNDFWMU0tU0Zn?oc=5",
+    "source": "경기신문",
+    "published": "2026-11-22",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청이 학교 현장의 목소리를 반영해 교육정책을 수립하기 위한 '인천 i-포럼'을 출범했습니다.",
+    "implication": "교사들이 직접 교육정책 제안 과정에 참여하여 현장 중심의 실효성 있는 수업 지원 방안을 이끌어낼 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 4,
+    "title": "한국교육학술정보원, 에듀테크 중소기업과 손잡고 공교육 디지털 혁신 추진",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtNTIxVVE0Q1lCeTI3NmR2cmxPWGdKVUhhSG1JS0l1c19fWXpEZzFKZThjRmh0TmZEQ0QzTTJrN0NSNjkzMExFMzVfNnlQWExCY1E1Mml5d1pQT0V4Q1VIa3JoSWFLQUFRbWFfWnVB0gFzQVVfeXFMUDdSOVFKdUpTQ3liSnl6VndaeEJ5c25XYklZeld3Q1VVQ09KNkVfWjlQRUcxUHo2M044Y1N3Ym9Oa1JVSXBia0lodG5NdXNVb1hNcVRacHcyZ0dXd3lGTUJDdl96UW9tcVhraF9ibmtUcWdZaw?oc=5",
+    "source": "한국일보",
+    "published": "2026-11-23",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "KERIS"
+    ],
+    "summary": "한국교육학술정보원이 에듀테크 중소기업과 협력하여 공교육 디지털 혁신을 추진합니다.",
+    "implication": "검증된 에듀테크 도구를 활용하여 학생 수준별 맞춤형 디지털 수업을 진행할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 5,
+    "title": "최교진 떠난 교육부, 남은 대입은…교원단체 \"후임은 현장감각·추진력 갖춰야\"",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBMWxHaGtuVzJZWmdWZDluRXBsRkpPMlVFblBSVnh3bkdNZFI0RkFDMlRZdUM4SE42OWpFWjUzbTVfMGtkTkhDQ3EycFozbnlXLUQ1Rm1meGNkMVNiUDJV?oc=5",
+    "source": "전북미래교육신문",
+    "published": "2026-11-22",
+    "keyword": "현장교사",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "교육부",
+     "수능·대입",
+     "교원단체"
+    ],
+    "summary": "최교진 장관 퇴임 후 교육부는 남은 대입 현안을 앞두고 교원단체로부터 현장 감각과 추진력을 갖춘 후임 인선을 요구받고 있습니다.",
+    "implication": "교육부 수장 교체 시기에도 흔들림 없이 학생들의 대입 지도와 수업에 집중할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
+   },
+   {
+    "n": 6,
+    "title": "선문대, 전공 구분 없는 AI 교육혁신 본격 추진…2027학년도 교육과정 개편",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wQ3o2eVpQVC1rdTZrbElJenhhb2JFMERKdHVwc0VKSDFmMVUzTGFQREFvamNYaUprcUM0dm93TnhvZG5sNWprbnhrTmUxUjlfZWZ5RUFEakZJR0J5QmpvaHh1V1hvNFlkdVFr?oc=5",
+    "source": "아산데스크",
+    "published": "2026-11-22",
+    "keyword": "인공지능교육",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [],
+    "summary": "선문대가 2027학년도부터 전공과 무관하게 AI 교육혁신을 본격적으로 추진하기 위한 교육과정 개편에 나섭니다.",
+    "implication": "모든 학생의 AI 소양 함양을 위해 교과 간 경계를 넘어선 융합 수업을 미리 구상해 볼 수 있습니다.",
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
+   },
+   {
+    "n": 7,
+    "title": "대구광역시의회 이성오 위원장, 대구교육 정책, 학교 현장의 실질적 변화로 이어져야!",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51TWFOb0tUVWZFWWt5eXNqT3UtY1R3T0RMXzZmN3UwVDI2a2Z0SVBiWEpHc0FwODAwUmViODJpR1RMZEdZcklDeXp3VVo3cFNVWmNrTTBSOXMzb1BKRVhr?oc=5",
+    "source": "뉴스다",
+    "published": "2026-11-22",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대구시교육청"
+    ],
+    "summary": "이성오 대구시의회 위원장이 대구교육 정책이 학교 현장의 실질적 변화로 이어져야 한다고 강조했습니다.",
+    "implication": "교육 정책의 변화 방향을 살펴보며 우리 반 학생들에게 꼭 필요한 실천적 활동을 고민해 볼 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 8,
+    "title": "내달 3~8일 충북교육정책연구박람회 열려",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IdUcwOFhmMGFvbW9YdjRKaGtEemZrRVNLZzU0Zkhyejc3UkFlX04teUV6TE9QeTdEU0otd1lKekZ4S2FmVHFTQUZzc3pEeEZPbGV6d2hsZjhRU0NGLUtKRkhxOVVsenZqdnhsdVZESlk?oc=5",
+    "source": "충청일보",
+    "published": "2026-11-22",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충북교육청"
+    ],
+    "summary": "다음 달 3일부터 8일까지 충북교육정책연구박람회가 개최될 예정입니다.",
+    "implication": "박람회에서 공유되는 우수 교육 정책과 연구 자료를 참고해 새로운 수업 아이디어를 얻을 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 9,
+    "title": "구글 \"자율형 사이버 공격 시대 왔다\", AI 에이전트 해킹 경고",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15NXRpMVllY0JMZE9kYjNlNkc3Y2g4RnJLRHNvUFRwVFFJb1BSSWJxcHUtcU93bG9kdWNRSGpsU3BWYTQ4RUR3Rmo3cEliNmx2WGpqakJfSlRGdk95X1lLWjVEYm9MeUJvSzIyNFEtNUU?oc=5",
+    "source": "디지털포커스",
+    "published": "2026-11-22",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "Google",
+     "에이전트"
+    ],
+    "summary": "구글이 AI 에이전트를 악용한 자율형 사이버 공격 시대의 도래를 경고했습니다.",
+    "implication": "학생들과 AI 해킹의 위험성을 토론하며 올바른 기술 활용법을 지도할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 10,
+    "title": "대전시교육청, 이웃 학교 학생도 함께 배우는 AI 캠프…겨울방학까지 이어져",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13dHJZeUsyZ0V6OFdiQy1td0ktZDNzNG1BWUtXNDFYTGFRa3RiVGNDcTJjUjB0STQ2X3hwWk8wQW1IZGFOSW1fQmNTdUFFbFZKODR6a3F0SXpMZWNIQUdwWFdpRnBlSGNrWE9MTA?oc=5",
+    "source": "뉴스인뉴스",
+    "published": "2026-11-23",
+    "keyword": "인공지능교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "대전시교육청은 겨울방학까지 이웃 학교 학생들이 함께 참여하는 AI 캠프를 운영합니다.",
+    "implication": "인근 학교 학생들과 연계하여 협력 학습 중심의 인공지능 수업을 구성할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "From Ethical Framing to Practical Outcomes: Assessing Reliability, Trustworthiness, and Effects on Learning in Early AI Interactions in Higher Education",
+    "url": "https://doi.org/10.34190/icair.7.1.5362",
+    "source": "openalex",
+    "published": "2026-11-18",
+    "keyword": "Connectivism",
+    "topic": "literacy_ethics",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 고등교육에서 책임 있는 인공지능 활용을 지원하기 위한 준비 프레임워크를 제안하고, 실제 수업 사례 분석을 통해 체계적인 인공지능 통합이 학생 참여를 높이는 동시에 비판적 사고력 저하라는 과제를 해결해야 함을 교육계에 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Kasey Miller, Ketty Grishikashvili",
+    "pdf": "https://papers.academic-conferences.org/index.php/icair/article/download/5362/5197",
+    "dup_of": "2026-11-22",
+    "topic_src": "ai",
+    "title_ko": "고등교육 초기 AI 상호작용에서 신뢰성과 학습 효과 평가"
+   },
+   {
+    "n": 2,
+    "title": "Applying Reciprocal Teaching in Teaching Reading Comprehension of Informational Texts for 3rd Graders in Vietnam",
+    "url": "https://doktori.bibl.u-szeged.hu/id/eprint/13258/1/DISSERTATION-%20Vuong%20Tuyet%20Linh.pdf",
+    "source": "openalex",
+    "published": "2026-12-04",
+    "keyword": "",
+    "topic": "language",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 베트남 초등학교 3학년을 대상으로 상호교수법을 적용하여 설명문 독해력 향상 효과를 검증하고, 성공적인 현장 안착을 위한 교사 준비도의 중요성을 밝혀 향후 효과적인 독해 교육 개선 방안을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Tuyet Linh Vuong",
+    "pdf": "https://doktori.bibl.u-szeged.hu/id/eprint/13258/1/DISSERTATION-%20Vuong%20Tuyet%20Linh.pdf",
+    "dup_of": "2026-11-22",
+    "topic_src": "ai",
+    "title_ko": "베트남 초3 설명문 독해를 위한 상호교수법 적용"
+   },
+   {
+    "n": 3,
+    "title": "The AI Wave Is Coming: How Should University Classrooms Be Reimagined?",
+    "url": "https://doi.org/10.54216/ijaiet.060101",
+    "source": "openalex",
+    "published": "2027-01-01",
+    "keyword": "",
+    "topic": "design_curric",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 대학 교육에서 인공지능 활용의 현실적 한계를 극복하고 인간과 인공지능의 협업을 통한 실천적 교육 혁신 방안을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Juan",
+    "pdf": "https://www.americaspg.com/article/4486/pdf/stream",
+    "dup_of": "2026-11-22",
+    "title_ko": "AI 시대, 대학 강의실은 어떻게 재설계되어야 하는가?"
+   },
+   {
+    "n": 4,
+    "title": "Pedagogical Redesign for the Screenager Generation",
+    "url": "https://dj.univ-danubius.ro/index.php/DD/article/view/4272",
+    "source": "openalex",
+    "published": "2026-11-19",
+    "keyword": "edtech",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 인지 과학과 대규모 교육 데이터를 통합하여 과도한 디지털 기기 사용의 부작용을 분석하고, 주의력이 분산된 환경에서 학습 효과를 극대화하기 위한 여섯 가지 디지털 교수법 원칙을 제안함으로써 학교 현장의 교육적 혁신 방향을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Gheorghe Octavian Zamfirescu",
+    "pdf": "https://dj.univ-danubius.ro/index.php/DD/article/download/4272/3561",
+    "dup_of": "2026-11-22",
+    "topic_rule": "design_curric",
+    "topic_src": "ai",
+    "title_ko": "스크린에이지 세대를 위한 교수학적 재설계"
+   },
+   {
+    "n": 5,
+    "title": "Effectiveness of AI-Based Learning Tools in Improving Engineering Mathematics Understanding",
+    "url": "https://doi.org/10.33425/3066-1226.1193",
+    "source": "openalex",
+    "published": "2026-12-30",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 전통적 수업에 적응형 연습과 지능형 피드백을 제공하는 인공지능 기반 학습 도구를 결합하여 공학수학 교육에서 학생들의 개념 이해도와 문제 해결 능력을 향상시키고 교육 효과를 높일 수 있음을 입증합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Radhika G, Sriraja Vijaya Krishna G 외 1명",
+    "pdf": "https://sciencexcel.com/articles/9ssiVHUkazDrzzf2lUOQouu8HnTKXuvye4AaPpLn.pdf",
+    "dup_of": "2026-11-22",
+    "topic_rule": "stem_ct",
+    "topic_src": "ai",
+    "title_ko": "공학수학 이해도 향상을 위한 AI 기반 학습 도구 효과"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "오픈AI, 음성 모델 'GPT-라이브-1.1' 출시…대기 요금 60% 인하",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217655",
+    "source": "AI Times",
+    "published": "2026-11-22",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "이번 오픈AI의 음성 모델 출시와 대기 요금 대폭 인하는 AI 음성 기술의 대중화와 가격 경쟁을 본격적으로 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
+   },
+   {
+    "n": 2,
+    "title": "챗GPT·클로드, 모바일 앱 나란히 개편…AI 에이전트 기능 전면에",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217654",
+    "source": "AI Times",
+    "published": "2026-11-22",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Claude",
+     "에이전트"
+    ],
+    "summary": "챗GPT와 클로드의 모바일 앱 개편은 단순한 대화형 챗봇을 넘어선 AI 에이전트 시대의 본격적인 대중화 경쟁을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "dup_of": "2026-11-22",
+    "topic_src": "ai"
+   },
+   {
+    "n": 3,
+    "title": "[AI리더의 서가] The RLHF Book 한국어판",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217619",
+    "source": "AI Times",
+    "published": "2026-11-23",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제"
+    ],
+    "summary": "RLHF 도서의 국내 출간은 AI 모델의 인간 가치 정렬 기술 대중화를 앞당겨 국내 AI 산업의 신뢰성과 안전성 확보에 기여할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 4,
+    "title": "오픈AI \"AI가 연구 작업 절반 스스로 완료\"…7개월 만에 성공률 2배",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217657",
+    "source": "AI Times",
+    "published": "2026-11-22",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI"
+    ],
+    "summary": "오픈AI의 자율 연구 성공률 급증은 AI가 단순 도구를 넘어 실질적 R&D 주체로 진화하고 있음을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 5,
+    "title": "미국 AI 칩 규제에 중국 기업들 잇단 타격…WSJ \"엔비디아 금단 현상\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217660",
+    "source": "AI Times",
+    "published": "2026-11-22",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "GPU·데이터센터",
+     "NVIDIA"
+    ],
+    "summary": "미국의 지속적인 대중국 반도체 규제는 중국의 독자적 AI 기술 자립을 가속화하는 동시에, 글로벌 AI 공급망의 분절화를 더욱 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true,
+    "dup_of": "2026-11-22",
+    "topic_src": "ai"
+   },
+   {
+    "n": 6,
+    "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+    "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+    "source": "OpenAI Blog",
+    "published": "2026-11-19",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "오픈AI의 퍼포먼스 팩토리는 대규모 AI 서비스의 고속화와 비용 효율성을 동시에 달성하여 인공지능 대중화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "product",
+    "topic_src": "ai"
+   },
+   {
+    "n": 7,
+    "title": "AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace",
+    "url": "https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/",
+    "source": "The Decoder",
+    "published": "2026-11-22",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "코딩 AI",
+     "에이전트"
+    ],
+    "summary": "현재 AI 코딩 에이전트는 제한된 테스트 환경의 뛰어난 성능과 달리, 실제 업무 환경에서는 극히 낮은 성공률을 보여 현업 적용을 위해서는 복잡한 워크플로우와 실무 적응력 개선이 필수적임을 시사합니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 8,
+    "title": "OpenAI shares new prompting tips for GPT-6.2 Astra and Sol to fix brief answers and unnecessary questions",
+    "url": "https://the-decoder.com/openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions/",
+    "source": "The Decoder",
+    "published": "2026-11-21",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT",
+     "LLM"
+    ],
+    "summary": "이번 프롬프팅 팁 공개는 모델의 응답 품질 최적화를 통해 개발자의 프레임워크 의존도를 줄이고 LLM 활용 효율을 극대화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 9,
+    "title": "Anthropic Drove “the Entire Acceleration in AWS and Google Cloud,” per Gil Luria. That’s a Big Risk for Amazon and Alphabet",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdy15NW15Z1IxZk16aE9tbFI5NFBMRmRySzRkN2pWamVuNFBIVG1Ua2FncTZFdlRUQlpUcFVHS1N1eGFRb0QzazYxZlpqMTFQQ0VuSzhiV3FGVmItbU9ZdE5YaHYtNzZ5LU15TnlhS3M0RnFOeTZBVDhSQ29YOG5MOHBkSjFMNEtabjhvdnFCTU01TkdoOVhGcTcwc3hGMl9kUWd2NUZXeFZJbGZSTV9YT0NxVnhzd0VKY1FvaUhWY093ZnJiN0ZteWp4blpxeHhpczNFbFBPTkhxOEJmbjhMV1VR?oc=5",
+    "source": "TIKR.com",
+    "published": "2026-11-22",
+    "keyword": "Anthropic",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Amazon",
+     "Google"
+    ],
+    "summary": "앤스로픽 같은 소수의 거대 AI 기업에 대한 클라우드 매출 의존도 심화는 빅테크 기업들에게 향후 큰 사업적 리스크로 작용할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 10,
+    "title": "[AI스토리] 퍼플렉시티, '모니터 API' 출시…엔비디아 투자 업고 AI 에이전트 시장 공략",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwUmg1YjhOUGhEajdtX1RYS1ZPaVNXTERXM09Md0E5VlFDbDNaVEF5bWNfWHA4UTR4TUd1bDFIQWNDSUJsY3VmTzQxdjNXQ2dCSGk2RHdNcXAzSVhrRU1Yb3k0Q2MzQW8tWE1hamEyWmNmOWloWnlj?oc=5",
+    "source": "이코노미트리뷴",
+    "published": "2026-11-23",
+    "keyword": "API",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Perplexity",
+     "NVIDIA",
+     "에이전트"
+    ],
+    "summary": "퍼플렉시티의 모니터 API 표시는 AI가 단순 정보 검색을 넘어 실시간으로 자율 실행하는 에이전트 생태계로 진화하는 전환점이 될 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   }
+  ]
+ },
+ "fallback": {
+  "paper": "2026-11-22"
+ },
+ "notes": {},
+ "synthesis": {
+  "headline": "AI 에이전트 확산과 교육 현장의 과제",
+  "threads": [
+   {
+    "title": "AI 에이전트와 평가 공정성",
+    "body": "AI 에이전트와 생성형 기술이 대학 등 교육 현장의 부정행위와 보안 위협으로 대두됨에 따라, 기술 활용의 한계를 극복하고 인간과의 협업을 모색하는 교육적 혁신 방안이 요구되고 있습니다. 또한 모바일 앱 개편을 통해 AI 에이전트 기능이 전면에 나서면서 학교 현장에서도 올바른 기술 활용과 평가 방식의 전환이 시급해졌습니다.",
+    "refs": [
+     "edu-2",
+     "edu-9",
+     "paper-3",
+     "tech-2"
+    ]
+   },
+   {
+    "title": "공교육 디지털 혁신과 에듀테크",
+    "body": "한국교육학술정보원이 에듀테크 중소기업과 손잡고 공교육 디지털 혁신을 추진하며 학생 수준별 맞춤형 디지털 수업 기반을 마련하고 있습니다. 이와 함께 AI 기반 학습 도구가 공학수학 등 실제 수업에서 개념 이해도를 높이는 데 기여하고 있어 현장 적용 가능성이 커지고 있습니다.",
+    "refs": [
+     "edu-4",
+     "paper-5"
+    ]
+   }
+  ],
+  "classroom": "AI 기술의 급격한 발전 속에서 학생들이 암기 위주의 평가를 넘어 비판적 사고력을 기를 수 있는 수업 방식을 고민해 볼 수 있습니다.",
+  "model": "gemini-3.5-flash-lite",
+  "items_hash": "6c71eb08fe50"
+ },
+ "enrich": {
+  "hash": "1ac3af3540de",
+  "model": "gemini-3.5-flash-lite",
+  "topics": 8,
+  "title_ko": 5,
+  "summaries": 0
+ }
+}
