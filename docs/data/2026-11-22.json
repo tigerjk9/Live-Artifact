@@ -1,8 +1,176 @@
 {
  "date": "2026-11-22",
- "generated_at": "2026-11-22T20:44:35+09:00",
+ "generated_at": "2026-11-23T12:25:52+09:00",
  "sections": {
-  "edu": [],
+  "edu": [
+   {
+    "n": 1,
+    "title": "[홍산로 오피니언] 기본사회의 출발점은 교육, 점수 대신 선택권을 보장해야 한다",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ud3VFOWtZTk5UUmNPemY3U3ZTeGgzRUhNdVFaQzI4TTByMktHNm1DdFI3aXNzNFlPS3B6MTktOGhOQ1k5dVZDUXV4WWlEWHVwVHE0ZDNhUTVCSXZ6MEhv?oc=5",
+    "source": "전북미래교육신문",
+    "published": "2026-11-22",
+    "keyword": "생성형AI교육",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "기본사회 실현을 위해 교육에서 점수 중심 평가 대신 학생의 선택권을 보장해야 한다고 주장합니다.",
+    "implication": "학생 개개인의 흥미와 적성에 맞춘 과목 선택형 수업 디자인을 시도해 볼 수 있습니다.",
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
+   },
+   {
+    "n": 2,
+    "title": "19일 서울 호텔리베라 청담에서 한국교육학술정보원(KERIS)·한국디지털교육협회 주최 '제2차 에듀테크 산업계 포럼'이 열리고 있다. 정제영 KERIS 원장이 개회사를 하고 있다. 박종진기자",
+    "url": "https://news.google.com/rss/articles/CBMi3AtBVV95cUxQMHFoenBEei1hbDJtNXdDNDc0TjZucnlGOWg2ejVlemt3YmhSQ2lfMmRGQUFzbk1iajVFTXBJenJObUZkQ1RlVlFmUHVaakpudUtUbHFsLWpBSURWSkJNczlDY1ZydHk2SS1NN01FdXYtdkhUcDBDdTNQdnBjTTJKdnJuSm9LNTVyVGZwZWg2Y3VxbHloTDMwVHhtcHhIUTlXb0pzcERXbjNPS1ZKaGVremhjRVEzSWZyRGJWUnlGdjQtRVdxWXVKNllVcFZCeFRaRkVQRDl5d3ZzZjJHbWYtS1lDRjZEWTlhbE9rUGdSSlZCU3RMb0lELUJlVW1ibzhuTjdwb0h1NlVPUklpNzNuMXJ6aUpGeWM1X1BYSnRtcldZQ1k1T3BDZENfWTJVRGl4LXBCWjFSM2c3eWpzbU5uajAtTXpPNXZReGp4VnF0RVRPYjRQcGxsMDNPR3hHTzdWeFpKWndwMXdmTEU5dm5Ca0huRnJWUkU1QkF1LU1RLTVmWm9FMlVXb19aZGNaaHBJUXprQ0VBVmVuN3FJbHhKX0Q5OHowcEFadG9XMGdGNTdoWlpmZ2QxazdNWWF6SjRKcFc4ZURVcC1JVmFkSFdOX1FycHJvY3cyVTJMd2F4MTVxZS0yLXM4blQxVnVtU09OVUhNdXhQSk5rYmlrNTV1Z1FRaGNrRGxaUkVTZ0F5LXFqYTE1NE94Q1Bxd1JNZm9xUFZHanozVzJnNUNtT0lnS0tIVDZMTXNwQzFjcDd2T0g1bWQ4REpNMUEzcXl4Tmx3ajVyWnpwZTZCcFlkd0lUajAydWJYMk5qcU11YjZLWU96dTRtQlZ5bUtwR1laOWI2RURFY2V3VVo5amdYS0s0M1E5YmczcmItS3NQdHFKcDVlaWUwVG4waHhfMzRWMHNqTGM0eWZzeHE5ZDA1WTdPWWlFNnNXeGgzcFpIWTRMRFkwR2hxM2RKR3BLSmNIaHlFSUNlbkU2RXljbjhWOHFHME5EZEQ0bDVSMUtQZDNFeVk2Mzg0WmRTQTVldVRjSlcxaW05NEVCYllsWjYxWktBODJWOUlaVmlybkl2WFFROUc4c2RkOW9RWHZaRVRYSmVheGhpVjJ3MzB6X2l6RS1heFBqek9NcTU5LXJyMFEyVUdzV19sZ3k3RlhDRlJIV3BScVhVN1F1UHRBa0VrMmgxNTVnN0FUWEVoZDlkbGRBS0FsSTRwck0tM0lIQVNweGh3UmY0OXAtSVd6Y1NGYThXWkd2WFVxZUlUaUJzQThuZ2pQNnNScHlpMW5pcU9FU3ZnTHh5S2hoZEdEX3dQSkdPU3dSRUxLenhmd3BnZ1BpT0FlcWptM2hjVml0VkxoN2JzaXhjLXlYNGZDVmVVeHA2M2JtNFp5S0xlSnF5UjI1SUlMNHNfQ0JLblNyRFB0TjJ2YjNMSlpraXhndDk3aF9VTUJCczJKdXVZTzZOa3pxTkFUM1B3TVB5cnJOZGtmQy0xUkZVTDViZk5uREVJOGNJcldPTjFwNllPYzhFMUo4SFN4alNwWU9tbXluTUxSeWNEWEVqcEU4cFNvV2JJN1lZZ0NlYmw3SjN1aXlsSV9WdTJ5YmNmSlV5bm9Mc2Z4QkRnQThZMDlWSUxSM1dqRmhnV1J2ZWdBQ2pGaFdxZzluRWRldVVUOVhvTmxfdXllS0hUMHlCTTJOZjFIazZCa2g2SDZHenZyM0hqRXF6ZlhBOUthYXlpRXlfZWhZVDhfQVQxbXVPRFprUGhpNmZWYmktUmVYaUhaRlM5OGkwUGNOdURtLW45R0YyY016em5GYWR2czlDc1FIWk1KejJBSlVkci1wMDQ1dVM4aWx6c1dXajhvc3ZDMTViaGJEM1EzVzdZNXBxSnpfSkRpel9MZzNEaU55SGZld29BZUhMN0VpbURnVjItLTZJemtKMWlhdUIwb3BQSjFkbi1fZnl4SVNGc0ZBM1p2S0VCdi1TWHphZ3BxOEhZdi1sWlp1N1k?oc=5",
+    "source": "전자신문",
+    "published": "2026-11-21",
+    "keyword": "에듀테크",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "KERIS"
+    ],
+    "summary": "KERIS와 한국디지털교육협회가 주최하는 제2차 에듀테크 산업계 포럼이 서울에서 개최되었습니다.",
+    "implication": "최신 에듀테크 산업 동향을 파악하여 실제 교실 수업에 적합한 디지털 도구를 적용할 수 있습니다.",
+    "ai": true,
+    "dup_of": "2026-11-21",
+    "topic_src": "ai"
+   },
+   {
+    "n": 3,
+    "title": "[행정감사] 대구시의회 교육위원회, 행정사무감사 마무리…“교육정책, 학교 현장 변화로 이어져야”",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1NQWIwbnFkd2FrODQ3OUhwQ0hGSEJkWUtYZVdRQW00T09pMkdqLWpXNEdjQ3Y1eVhMcVk1ZWl0TGFIcjkyWXZQTDBLRV9KRllrQ2lRN2FCb0JYX0lkWWFmaVV4RktMeGhaRmln?oc=5",
+    "source": "웹플러스뉴스",
+    "published": "2026-11-22",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "국회"
+    ],
+    "summary": "대구시의회 교육위원회가 행정사무감사를 마치며 교육정책의 학교 현장 변화를 당부했습니다.",
+    "implication": "행정사무감사의 방향이 현장의 변화를 강조하므로, 실제 교실에서 체감할 수 있는 유연한 수업 변화를 시도할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 4,
+    "title": "청소년이 직접 만든 교육정책, 경기교육 변화 이끈다",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NVXZRaFFWTXBWMDZXdTVTQTMyUGdYTklrSzdLR1ZpWjZvcy1XV2F2ejZFYktXbG5aY2RYOV9EQWhpbU9oeUkwbFdDanRENmZkbHhxTTlOc1FzZw?oc=5",
+    "source": "브릿지경제",
+    "published": "2026-11-22",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "청소년들이 직접 제안한 교육정책이 경기도의 교육 변화를 이끄는 데 기여하고 있습니다.",
+    "implication": "학생들이 직접 교육정책을 제안하는 활동을 통해 민주시민 역량을 기르는 프로젝트 수업을 진행할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 5,
+    "title": "경기도교육청, 청소년 제안 교육정책 논의의 장 마련",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lUl83LVdXOEVZcGRIWG1rS2pCWWRPOG5NdDNTaGdMdnV5SUhhc1kzcDFBS2pWY3BiakF5WEZ1TTA3LW1QRzZ6TTNUN2VKZXVzWHlNSHBxRjlsOGZuQ3Vacl91QVhNWUwwalE3S1F3dzdXdw?oc=5",
+    "source": "디스커버리뉴스(DISCOVERYNEWS)",
+    "published": "2026-11-22",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청이 청소년들이 직접 제안한 교육정책을 논의하는 자리를 마련했습니다.",
+    "implication": "학생들이 직접 교육정책을 제안하는 활동을 수업과 연계하여 민주시민 역량을 기를 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 6,
+    "title": "\"AI·디지털로 음악 수업 혁신\" 강원도교육청 중등 교사 연수",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XRGR5QXNHZk8xdDlibFAtVUF2MGh1OHFhNkZ4RklzNXh5V2JZclhaYWlLU3B1SFpqTnVkSHNMU05TUjNxLTQyZ3RNOXpEZXB4NzFrVXNzdFhGdUluWWQ1RUZxOFI4cEYxZGVv?oc=5",
+    "source": "프레시안",
+    "published": "2026-11-21",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "강원교육청",
+     "교사 연수"
+    ],
+    "summary": "강원도교육청이 중등 교사를 대상으로 AI와 디지털 기술을 활용한 음악 수업 혁신 연수를 실시했습니다.",
+    "implication": "에듀테크 도구를 활용해 학생들의 창작과 참여 중심의 음악 수업을 설계할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 7,
+    "title": "수능 개편 논의 확산 서논술형 도입부터 폐지론까지",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPV0NyTE00WEhZbDdIMFF5Vi1lODk3QUUyMWd6bUNFYXlocWlPVXJ1eTdxU3B0YU1jWW1NbURZTGtrMGJETS1SaG5hRlBISW1Lb1hWUW9sTdIBXEFVX3lxTFBtQWtNU3hpMGJrNVpYSktZUHBtUGc4eHI2d01zN2h5THlUVHJoSDZNWEQ3eTA2VWlBZUZFazFsem9wTVF2SmUtMlBQaHczZnJGWVlHeFZUTUFTel9a?oc=5",
+    "source": "기독일보",
+    "published": "2026-11-22",
+    "keyword": "과정중심평가",
+    "topic": "higher_ed",
+    "kind": null,
+    "entities": [
+     "수능·대입"
+    ],
+    "summary": "서논술형 도입과 폐지론을 포함한 다양한 수능 개편 논의가 본격적으로 확산되고 있습니다.",
+    "implication": "학생들의 비판적 사고력을 기르기 위해 평소 수업에서 서논술형 평가 연습을 시도해 볼 수 있습니다.",
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
+   },
+   {
+    "n": 8,
+    "title": "앤트로픽 최대 25% 비중 편입… '미국에이전틱AI TOP2+' ETF 주목",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBTcVhWUU91cWJ4NG53V1NUbFVQTmVEWnd1dEhhb3hWR2RDajdDemdaaV9mNk9sOG1Qd0NjSHlYMF9WdU00T2laMENrYlRDZzJQZjBhcWJYWHBrbUotWVBF?oc=5",
+    "source": "MTN 머니투데이방송",
+    "published": "2026-11-21",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "Anthropic"
+    ],
+    "summary": "앤트로픽을 최대 25% 편입한 미국 에이전틱 AI 관련 신규 ETF가 주목받고 있습니다.",
+    "implication": "학생들과 함께 에이전틱 AI의 개념과 산업 전망을 조사하는 탐구 수업을 진행할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 9,
+    "title": "에이전틱AI부터 양자암호까지…라온시큐어, 차세대 보안 시장 선점 나서",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CbW9MOEk4UXM5N2NjQVh1MDhvT1FvZ1RhZzV6VDJWNEVSSFdoYjZlLWVVQURWcy0tN2JrYjB2cnNBY1cwYWc5VWkxZTZVV0F0NU1RWk5CYXNFalJkZGJ3ZEl3Z19Rd1lUMW9kUnNMTG45LUXSAXdBVV95cUxQeXhxRzBteTYtaEdqc2ViVVJncUw4UWI0XzEyVHVUVDhiZnQxRjBab29ubWxPQjB5WVU1ODExcWdXWGVwM3FCY2lwblZuSkFPZVNfM2haRE9rNXNPcndVQTdPbG9TNjJQQmJ0TjF1S0tlTWxrZXpGWQ?oc=5",
+    "source": "핀포인트뉴스",
+    "published": "2026-11-22",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "라온시큐어가 에이전틱 AI와 양자암호 기술을 활용해 차세대 보안 시장 선점에 나섭니다.",
+    "implication": "인공지능과 차세대 보안 기술의 융합 사례를 정보 및 진로 수업의 최신 기술 동기로 활용할 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 10,
+    "title": "BC카드, 피클과 AI 에이전트 결제 기술 검증 '맞손'",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NOXlQZjIxQjVlZlNDUUJMN3VydFB3SWdKUlVXZDAtOUFPLVVSdGtCZmpZUmMzQlgtbm1Jckcyc0hfUzYzU0RrUmdMVy1zMXlxaktWTnU1eVd3MkpoWmVqZ9IBeEFVX3lxTE1iX1dXcTJ0N3pMRkhhekhnd0xTcTJIdkthRmZrZDZsRW9tS3FpREdsT19leUlQYU9KdmVYR1BOWGVsaHlOQ3A3dGtYMXNaX1VYSlJFLTlVb1M5Rk9oc28zRHRsdzhoaG1nalpGSThhQXFjNjZwamQtVg?oc=5",
+    "source": "뉴시스",
+    "published": "2026-11-21",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "BC카드가 피클과 손잡고 AI 에이전트 기반의 결제 기술 검증을 추진합니다.",
+    "implication": "학생들과 AI 에이전트의 개념을 살펴보고 미래의 결제 방식 변화를 토의해 볼 수 있습니다.",
+    "ai": true
+   }
+  ],
   "paper": [
    {
     "n": 1,
@@ -20,7 +188,7 @@
     "authors": "Kasey Miller, Ketty Grishikashvili",
     "pdf": "https://papers.academic-conferences.org/index.php/icair/article/download/5362/5197",
     "topic_src": "ai",
-    "title_ko": "윤리적 프레임워크에서 실제적 성과까지: 고등교육 초기 AI 상호작용의 신뢰성, 신뢰도 및 학습 효과 평가"
+    "title_ko": "고등교육 초기 AI 상호작용에서의 윤리적 프레임워크와 학습 효과"
    },
    {
     "n": 2,
@@ -38,7 +206,7 @@
     "authors": "Tuyet Linh Vuong",
     "pdf": "https://doktori.bibl.u-szeged.hu/id/eprint/13258/1/DISSERTATION-%20Vuong%20Tuyet%20Linh.pdf",
     "topic_src": "ai",
-    "title_ko": "베트남 초등학교 3학년 설명문 독해 교육에서의 상호교수법 적용"
+    "title_ko": "베트남 초3 설명문 독해를 위한 상호교수법 적용"
    },
    {
     "n": 3,
@@ -47,7 +215,7 @@
     "source": "openalex",
     "published": "2027-01-01",
     "keyword": "",
-    "topic": "design_curric",
+    "topic": "genai_tutor",
     "kind": null,
     "entities": [],
     "summary": "이 논문은 대학 교육에서 인공지능 활용의 현실적 한계를 극복하고 인간과 인공지능의 협업을 통한 실천적 교육 혁신 방안을 제시합니다.",
@@ -55,7 +223,9 @@
     "ai": true,
     "authors": "Juan",
     "pdf": "https://www.americaspg.com/article/4486/pdf/stream",
-    "title_ko": "AI 물결이 오고 있다: 대학 강의실은 어떻게 재구상되어야 하는가?"
+    "topic_rule": "design_curric",
+    "topic_src": "ai",
+    "title_ko": "AI 시대, 대학 강의실은 어떻게 재설계되어야 하는가?"
    },
    {
     "n": 4,
@@ -64,7 +234,7 @@
     "source": "openalex",
     "published": "2026-11-19",
     "keyword": "edtech",
-    "topic": "learning_sci",
+    "topic": "design_curric",
     "kind": null,
     "entities": [],
     "summary": "이 논문은 인지 과학과 대규모 교육 데이터를 통합하여 과도한 디지털 기기 사용의 부작용을 분석하고, 주의력이 분산된 환경에서 학습 효과를 극대화하기 위한 여섯 가지 디지털 교수법 원칙을 제안함으로써 학교 현장의 교육적 혁신 방향을 제시합니다.",
@@ -72,9 +242,8 @@
     "ai": true,
     "authors": "Gheorghe Octavian Zamfirescu",
     "pdf": "https://dj.univ-danubius.ro/index.php/DD/article/download/4272/3561",
-    "topic_rule": "design_curric",
     "topic_src": "ai",
-    "title_ko": "스크린에이지 세대를 위한 교수학적 재설계"
+    "title_ko": "스크린에이지 세대를 위한 교수설계 재편"
    },
    {
     "n": 5,
@@ -93,42 +262,231 @@
     "pdf": "https://sciencexcel.com/articles/9ssiVHUkazDrzzf2lUOQouu8HnTKXuvye4AaPpLn.pdf",
     "topic_rule": "stem_ct",
     "topic_src": "ai",
-    "title_ko": "공학수학 이해도 향상을 위한 AI 기반 학습 도구의 효과성"
+    "title_ko": "공학수학 이해도 향상을 위한 AI 기반 학습 도구의 효과"
    }
   ],
-  "tech": []
+  "tech": [
+   {
+    "n": 1,
+    "title": "챗GPT·클로드, 모바일 앱 나란히 개편…AI 에이전트 기능 전면에",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217654",
+    "source": "AI Times",
+    "published": "2026-11-22",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "Claude",
+     "에이전트"
+    ],
+    "summary": "챗GPT와 클로드의 모바일 앱 개편은 단순한 대화형 챗봇을 넘어 자율적 수행 능력을 갖춘 AI 에이전트 중심의 모바일 생태계 주도권 경쟁을 본격화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 2,
+    "title": "미국 AI 칩 규제에 중국 기업들 잇단 타격…WSJ \"엔비디아 금단 현상\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217660",
+    "source": "AI Times",
+    "published": "2026-11-22",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "GPU·데이터센터",
+     "NVIDIA"
+    ],
+    "summary": "미국의 고성능 AI 칩 수출 규제는 중국의 단기적 기술 자립을 가속화하는 동시에, 글로벌 AI 시장의 기술 격차를 더욱 심화시킬 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "industry",
+    "topic_src": "ai"
+   },
+   {
+    "n": 3,
+    "title": "Andrew Ross Sorkin Doubts OpenAI Will Be “Worth More Than Anthropic.” That’s a Problem for Microsoft",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTG43UGw1Tlc5N3I2aE9laHY1ZVozQ3M0c3NqS29STkNzeS1xSlJxTFB4cDM5YnJId2ZNYlNfV3hoN1ZNTnl3NHRjME0tMEZrdVdkdkI3ZGFta0twRjVaTHFKcXc5RXBpZUswSlpkUFFDdjZyOFVmOFROZmtyLTdkeWlCaFNfOW1QUkVEcGt1cmY2R19pOXhhWTd2MjdHaG5UQ2FMcmUtWnpwaVFMVlpLMVppOGpDUld0NTI1UU5rVjlpQ09Zbzh5R2d4MkFoMy1uNU9PRw?oc=5",
+    "source": "TIKR.com",
+    "published": "2026-11-20",
+    "keyword": "Anthropic",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Anthropic",
+     "Microsoft"
+    ],
+    "summary": "앤드루 로스 소킨의 지적처럼 오픈AI의 가치 고평가 우려는 독점적 파트너인 마이크로소프트의 재무적 리스크를 가중시키고 AI 투자 생태계 전반의 수익성 검증을 촉발할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 4,
+    "title": "Anthropic IPO 전망: Claude는 무엇이며 Open AI와 어떻게 다른가?",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUHpyaS0wcWhqRlJ1NG9raHlfVUtmTkFodVl6R3NfbzVjZ19HM2NFek5LLVcxYVhIOXI0NThlcmNnRHFaQ0dzeC13UGdfTm8xYWZERTk2c3BrTzZoRk5icnZfZHg2LVhDdk1DdmhHNVBuTHdFMV9WYmhmZlNDZU5FdGFXZVdnOVlwemh4bVhNTlZFdkxMYXJWMTU4QmlMemoxU0pZanFFN19jN2dnUzd5b1V1M1VWZU9CdHVOSFVrMDAyTTRVa2tJcndvWXR5c21a?oc=5",
+    "source": "TradingKey",
+    "published": "2026-11-21",
+    "keyword": "오픈AI",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude",
+     "OpenAI",
+     "생성형 AI",
+     "AI 안전·규제"
+    ],
+    "summary": "앤스로픽의 향후 IPO 추진은 오픈에이아이 중심의 생성형 AI 시장에 건전한 경쟁 구도를 형성하며 기업용 보안과 안전성 중심의 생태계 다변화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 5,
+    "title": "ARK, Anthropic 매수·Nvidia 축소",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcTFJOVFzdWRrYVQtTFhMVTN0UXZQZFA1TjhGWmo1aFVtUWRfMWRpNk1sd1VVMXhxczhFSi02RUhodlhDajFDbHlPZkh3T21ZYnZrNlRpdkN3YlRwMG9YUmFzTTllSTVIWjdCZUE1ZTRfVXc3OUpTQ0l4OW1vNlNTSDEwYnlTMFdQaU01OUNDS1F0SHhHb2JvZw?oc=5",
+    "source": "데일리바이트(DAILY BYTE)",
+    "published": "2026-11-21",
+    "keyword": "Anthropic",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "NVIDIA"
+    ],
+    "summary": "ARK의 포트폴리오 조정은 AI 투자 중심축이 단순 하드웨어에서 차세대 파운데이션 모델과 응용 서비스 생태계로 이동하고 있음을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 6,
+    "title": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
+    "url": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
+    "source": "The Decoder",
+    "published": "2026-11-21",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude"
+    ],
+    "summary": "본 사건은 복잡한 수학적 난제 해결 과정에서 AI의 자율적 기여 가능성과 인간 전문가 집단 간의 경쟁이 본격화되었음을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 7,
+    "title": "AWS 이어 엔비디아·오픈AI까지 손잡나…SK, 신설법인 앞세워 GW급 AI 공략 By FinancialPost",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44QkRTTTJGQmJGVHNRLWlXQ3NuRmdTWE4wUzBMbENIX0lMaU9OOWVJY0dsTS1QOWZYbjBYRDVVcXR2cUZDNGVVclQ3VFBtX1phUjJ4dS1XZTNRMm1aYVNCTmk4WlVmQVQ2ekdZN09TVHQ?oc=5",
+    "source": "Investing.com 한국어",
+    "published": "2026-11-21",
+    "keyword": "오픈AI",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Amazon",
+     "NVIDIA",
+     "OpenAI",
+     "SK"
+    ],
+    "summary": "SK는 빅테크와의 협력을 통해 기가와트(GW)급 AI 인프라 시장을 선점하고 글로벌 생태계 주도권을 강화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 8,
+    "title": "\"AI 예측은 물리적 한계를 벗어나지 않는다\"…MIT, 혼돈계에서도 안정성 보장하는 머신러닝 기술 오픈소스로",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ydnJEOU1rdTlwdk1KTTJaRHd6U2pMbWZIMXhreVBLWF9KUHJSQlJ1VGJYTDd2TUhWbU5kNnU4OFBkS0xNZV9ib0JFVFc4THowRFRnN0Q4ZFl1VG5STm5wZXZwVG1EcXc?oc=5",
+    "source": "인공지능신문",
+    "published": "2026-11-21",
+    "keyword": "머신러닝",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "오픈소스",
+     "AI 안전·규제"
+    ],
+    "summary": "MIT의 이번 기술은 AI 예측의 물리적 한계를 극복하여 향후 고난도 산업 분야의 신뢰성과 안전성을 크게 높여줄 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "agent_dev",
+    "topic_src": "ai"
+   },
+   {
+    "n": 9,
+    "title": "OpenAI, GPT-6.2 Astra의 추론 추출 방어 강화",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOHdLNmZQekhMcHFlTmNfQlhjRzNpdHBWaG9Sc2pwaFF4TXpvbWxVUWR5dm9WTEZDTkZ0alhjU3hTSC1aLXlvazFFbnhZRlJaTjFwYjM0dG9CeTdOQ2VyTVh2d1paMHZWdW1XbTZJaFpabmVPVFlHVDN0UVdiZzhSaDRLUkgySk8wT1dvU2Fybw?oc=5",
+    "source": "Unite.AI",
+    "published": "2026-11-20",
+    "keyword": "GPT",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "오픈아이가 아스트라 모델의 추론 추출 방어를 강화함으로써 향후 AI 모델의 지식 재산권 보호와 보안 기술 경쟁이 한층 더 치열해질 것입니다.",
+    "implication": "",
+    "ai": true,
+    "dup_of": "2026-11-21",
+    "topic_src": "ai"
+   },
+   {
+    "n": 10,
+    "title": "Anthropic 연구원 \"AI로 리만 가설 증명했다\" 주장… 167년 수학 난제 풀리나?",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MQkVwQjcwdlBIUVd5T01GSEdFeXNSUEtTQUNDaHB1b0w1OGhwQXdlcEtxcmVydGpBNUJSNjdFR0psX3hlMm1mbzJTOGsyQzRsRFpHWXlfbVI5RkpRX3NrNU44d2hKanM2N2VmazJJX2JuSEpzck1RcXhVQU0xc3c?oc=5",
+    "source": "PANews",
+    "published": "2026-11-21",
+    "keyword": "Anthropic",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Anthropic"
+    ],
+    "summary": "이번 앤트로픽 연구원의 리만 가설 증명 주장은 AI가 단순한 연산 도구를 넘어 인류의 오랜 수학적 난제를 해결하는 지적 파트너로 진화했음을 증명하는 중대한 전환점이 될 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   }
+  ]
  },
  "fallback": {},
  "notes": {},
  "synthesis": {
-  "headline": "인공지능과 디지털 도구의 교육 현장 도입에 따른 교수법 혁신과 과제",
+  "headline": "AI 에이전트와 자율적 기술 혁신이 교육 현장과 수업 변화를 이끕니다",
   "threads": [
    {
-    "title": "AI 기반 학습 도구와 고등교육",
-    "body": "고등교육에서 책임 있는 인공지능 활용을 위한 프레임워크가 제안되는 가운데, AI 기반 학습 도구는 공학수학 등에서 학생의 개념 이해도를 높이는 데 기여하고 있습니다. 그러나 체계적인 통합 과정에서 비판적 사고력 저하라는 과제에 대한 고민도 함께 요구됩니다.",
+    "title": "AI 에이전트와 수업 혁신",
+    "body": "모바일 앱 개편을 통해 AI 에이전트 기능이 전면에 부각되면서, 강원도교육청의 중등 교사 연수처럼 학교 현장에서도 AI와 디지털 기술을 활용한 수업 혁신 시도가 이어지고 있습니다. 이러한 기술 발전은 실제 교육 과정에서 학생들의 참여를 높이는 도구로 활용될 수 있습니다.",
     "refs": [
-     "paper-1",
-     "paper-3",
-     "paper-5"
+     "edu-6",
+     "tech-1"
     ]
    },
    {
-    "title": "디지털 환경의 교수법 재설계",
-    "body": "과도한 디지털 기기 사용 환경에서 학습 효과를 높이기 위한 새로운 교수법 원칙이 제안되었습니다. 이는 베트남 초등학교의 독해력 향상을 위한 상호교수법 적용 연구와 함께, 다양한 교육 환경에서 교사의 준비도와 실천적 교수법 개선의 중요성을 보여줍니다.",
+    "title": "AI 난제 해결과 교육적 활용",
+    "body": "앤트로픽 연구원이 AI를 활용해 리만 가설을 증명하는 등 AI의 자율적 기여가 커지고 있으며, 이는 고등교육 수업에서 인공지능 통합과 비판적 사고력 함양이라는 교육적 과제로 연결됩니다. 교사들은 이러한 기술적 진보를 바탕으로 학생들과 함께 첨단 기술의 동기를 탐구하는 수업을 설계할 수 있습니다.",
     "refs": [
-     "paper-2",
-     "paper-4"
+     "paper-1",
+     "tech-10"
     ]
    }
   ],
-  "classroom": "디지털 및 인공지능 도구를 수업에 도입할 때 학생들의 비판적 사고력을 유지할 수 있는 방안을 함께 고민해 보면 좋겠습니다.",
+  "classroom": "교실에서 최신 AI 에이전트 기술의 발전과 그 한계를 학생들이 직접 조사하고 토의하는 활동을 설계해 볼 수 있습니다.",
   "model": "gemini-3.5-flash-lite",
-  "items_hash": "b92a996f2884"
+  "items_hash": "954aec33113a"
  },
  "enrich": {
-  "hash": "36b5c669ee0c",
+  "hash": "20f8282ab41a",
   "model": "gemini-3.5-flash-lite",
-  "topics": 2,
+  "topics": 6,
   "title_ko": 5,
   "summaries": 0
  }
