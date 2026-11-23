@@ -201,6 +201,7 @@ python scripts/fetch_and_generate.py                  # 오늘(폴백 허용) + 
 - 시각 확인: Chrome 확장이 없으면 `playwright`(파이썬) 헤드리스 스크린샷으로 대체 가능
 - 테스트: `pip install -r requirements.txt -r requirements-dev.txt && pytest -q` (네트워크 불필요, 0.5초). 파서·분류·렌더를 고치면 먼저 돌린다
 - 이 PC는 TLS 가로채기 때문에 `curl`/`requests`로 github.io에 직접 못 붙는다 — 라이브 확인은 Playwright(Chromium)로
+- 블로그 소개 글: `tigerjk9/tigerjk9.github.io`의 `_posts/2026-11-06-daily-intelligence-live-artifact.md`(커밋 `a173adb6`, 표지 `assets/live-artifact-daily-intelligence-thumb.jpg`), 주소 `/post/daily-intelligence-live-artifact/`. 네이버에는 2026-11-14에 교차 게시됐다(`scripts/naver_crosspost_state.json`). 11-05 제359호 기준의 다섯 화면, 누적 8,204건, 분류·종합 방식을 적어 두었으므로 화면이나 생성 방식을 바꾸면 이 글이 옛 설명으로 남는다. 블로그의 2026-05-03 `claude-live-artifact-automation`은 Claude 코워크의 Live Artifact 기능을 다룬 글이고 이 프로젝트와는 관계없다
 
 ## 트러블슈팅 — Gemini 요약 의존성
 

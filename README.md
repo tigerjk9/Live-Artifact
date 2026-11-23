@@ -143,6 +143,10 @@ Live-Artifact/
 
 </details>
 
+## 소개 글
+
+- [교육 뉴스·AI 논문·AI 기술 뉴스를 하루 한 지면에, 데일리 인텔리전스](https://tigerjk9.github.io/post/daily-intelligence-live-artifact/) — 닷커넥터 블로그, 2026-11-06. 2026-11-05 제359호를 기준으로 지면 구성과 다섯 화면, 만들어지는 방식을 소개합니다. 같은 글이 [네이버 블로그](https://blog.naver.com/dot_connector/224469882368)에도 있습니다(2026-11-14 게시).
+
 ## 데이터 소스
 
 - 교육 뉴스 → [Auto-Edu-news-Collector](https://github.com/tigerjk9/Auto-Edu-news-Collector)
