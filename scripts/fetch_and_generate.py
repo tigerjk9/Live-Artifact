@@ -999,8 +999,11 @@ def main() -> None:
     if dups:
         print(f"[DUP] {target}: 전날 지면과 겹치는 {dups}건 표시", file=sys.stderr)
 
-    # 4. Gemini 종합 + 항목 보강 (키가 있을 때만, 오늘만)
-    if not args.no_synthesis and target == today:
+    # 4. Gemini 종합 + 항목 보강 (키가 있을 때만). 오늘, 또는 --date로 지정해 다시 만드는 날.
+    #    지정 재생성을 빼면, 소스가 늦게 채워진 날의 종합이 빈 섹션 기준으로 굳는다
+    #    (2026-11-21·22: 교육·기술 0건일 때 논문만으로 만든 종합이 남아 있었다).
+    #    종합·보강 모두 항목 해시가 같으면 재호출하지 않으므로 반복 실행해도 비용이 늘지 않는다.
+    if not args.no_synthesis and (target == today or args.date):
         syn = synthesize(record)
         if syn:
             record["synthesis"] = syn
