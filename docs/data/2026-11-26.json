@@ -1,0 +1,509 @@
+{
+ "date": "2026-11-26",
+ "generated_at": "2026-11-26T19:02:00+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[라재주 칼럼] 한자 반대? 실용적 어휘교육이 필요한 때",
+    "url": "https://www.edupress.kr/news/articleView.html?idxno=30677",
+    "source": "에듀프레스",
+    "published": "2026-11-25",
+    "keyword": "",
+    "topic": "classroom",
+    "kind": "opinion",
+    "entities": [
+     "문해력"
+    ],
+    "summary": "학생들의 문해력 향상을 위해 소모적인 한자 논쟁보다는 교과 개념어에 한자 풀이를 곁들이는 실용적 어휘 교육이 필요하다.",
+    "implication": "교과서의 어려운 개념어를 설명할 때 한자의 뜻을 함께 제시하여 학생들이 직관적으로 이해할 수 있도록 지도할 수 있습니다.",
+    "ai": true,
+    "dup_of": "2026-11-25",
+    "topic_src": "ai"
+   },
+   {
+    "n": 2,
+    "title": "[기고] 선택형 교육과정을 말하면서 선수지식 공백은 비워 둔 고교-대학 연계",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kSWd2eGk4RFZycWVpMGp0c01jb0JKcUFDZFcxN1k0RUhfWFB2OGJXWnFDWFdVVTdfb1RkcS01bnEzNlpsZ09pTmR1Y0doOXJpaC03Rjl3UjRudmJDaW1qbjNfX0p0eVU?oc=5",
+    "source": "교육플러스",
+    "published": "2026-11-26",
+    "keyword": "교사기고",
+    "topic": "higher_ed",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "선택형 고교 교육과정 도입에도 불구하고 고교와 대학 간 선수지식 공백 문제가 해결되지 않고 있다.",
+    "implication": "학생들의 선수지식 수준을 진단하여 맞춤형 보충 학습을 설계하는 수업 전략을 적용할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
+   },
+   {
+    "n": 3,
+    "title": "충남교육청, 제주 IB학교서 교육혁신 해법 찾는다…학교장 리더십 강화",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WbkJVTlNWWmRjQ29CSWVpeHBhdFJsX3h6MmtKRkpxMnlYdTU4V3ZGTUg5OHBaTGdPTFZRcEhieDhIRHlTZTRTMkN3Qy1TalFKdW4tWFpQcl9FMEhEZGlrZzd2X1VscVhaQlA0?oc=5",
+    "source": "현대경제",
+    "published": "2026-11-26",
+    "keyword": "교육혁신",
+    "topic": "teacher",
+    "kind": null,
+    "entities": [
+     "충남교육청",
+     "IB"
+    ],
+    "summary": "충남교육청이 제주 IB 학교를 방문해 학교장의 리더십을 강화하고 교육혁신 방안을 모색합니다.",
+    "implication": "제주 IB 학교의 우수 사례를 참고하여 학생 중심 탐구 수업과 과정중심 평가를 교실 수업에 적용할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
+   },
+   {
+    "n": 4,
+    "title": "[기획] 미래교육 해답 찾기 나선 충남교육청 '전문적학습공동체'(8)",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WZDRlM2xsWXczei00Z2RGbjhjNUQ2eDhUNEFPRllwVi0zWEppSExqYzNxU0Rjalc3am5naFU5MVFEMmYxVnF2cXE4cU5JYXNvbWVqQ2dJU2tXN01XYm5hRDJnLVVRNll6am1N?oc=5",
+    "source": "디트NEWS24",
+    "published": "2026-11-26",
+    "keyword": "AI교육",
+    "topic": "teacher",
+    "kind": "feature",
+    "entities": [
+     "충남교육청",
+     "교사 연수"
+    ],
+    "summary": "충남교육청이 미래교육의 해답을 찾기 위해 전문적학습공동체 활성화 기획 보도를 진행하고 있습니다.",
+    "implication": "동료 교사들과 학습공동체를 구성하여 수업 자료를 공유하고 교수법을 함께 연구할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
+   },
+   {
+    "n": 5,
+    "title": "교육 현장 목소리로 교육정책 수립",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hbGZncXJoNFBPNUFIcWVGVGhGQU9DaEVDUzB1b1RjbHgtSlZrdERKbGNCcFF2Wi1VVFJ1VHZBdUViLXlrcEl1VTJ3cjJQaDBVeF84SjFUNmpqZHcyM1A4bEVNWUl4aFl6N0E?oc=5",
+    "source": "금강일보",
+    "published": "2026-11-25",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [],
+    "summary": "교육 정책 수립 시 교육 현장의 목소리를 적극 반영하겠다는 내용입니다.",
+    "implication": "교사의 실제 경험을 바탕으로 학생 맞춤형 수업 방안을 적극 제안할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 6,
+    "title": "AI 도구에서 AI 에이전트로… WFA, 마케터를 위한 에이전틱 AI 가이드 발간",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE10Wm5uU0FGWHpVVkdoa01vOGF3Qi1uak9uMDl6MHE3YnhvRmdpRmxpR0J1QXVZRFBtMmZSSUNZVjMtWVRpbTRJdjBhMndmMjBIeC1ldTZWT1hiZExoc1d5NlVWeFF0bGpxaDA4Qg?oc=5",
+    "source": "매드타임스",
+    "published": "2026-11-26",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "WFA가 단순 AI 도구를 넘어선 '에이전틱 AI'를 마케터용으로 소개하는 가이드를 발간했습니다.",
+    "implication": "교사들이 AI 에이전트의 개념을 이해하고 수업 준비나 학생 활동에 자율형 AI 도구를 적용해 볼 수 있습니다.",
+    "ai": true
+   },
+   {
+    "n": 7,
+    "title": "AI로 달라진 교실…전남광주 학교 수업 혁신 사례 한자리에",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Yam5HTGRlU0ZxOEhsQXhXVTBrUWN4RURkV1NBX1B5OE5UQXo0SGRKbUJlYzJjRmZncW5nbzVScUNNY2RycFpaXzh2RzQ3LUNHSXJ2NlhwQmYzcGdaUF80Y1NidGR4cHgtWUVrUkxrNA?oc=5",
+    "source": "진일보 | 전남일보",
+    "published": "2026-11-25",
+    "keyword": "AI디지털도구",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "전남광주 학교들이 인공지능(AI)을 활용해 수업을 혁신한 다양한 사례를 한자리에서 공유했습니다.",
+    "implication": "우수한 인공지능(AI) 수업 혁신 사례를 참고하여 우리 교실 수업에도 바로 적용해 볼 수 있습니다.",
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
+   },
+   {
+    "n": 8,
+    "title": "[단독] 교육부, ‘AI 윤리적 활용 가이드’ 12월 배포…“교육과정 개편 중간다리”",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SS0R6U1dDTjVFR2FFczlVc0RSdnJHVFhweFltamo5QzdCNy0zVTZTNDVoV2RqR3hyTzR6ZHg0Q2t1S2NrQjV2UUlXU3NyUWE0cklSR2MzSQ?oc=5",
+    "source": "서울신문",
+    "published": "2026-11-25",
+    "keyword": "생성형AI교육",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "교육부",
+     "AI 안전·규제"
+    ],
+    "summary": "교육부가 12월에 'AI 윤리적 활용 가이드'를 배포하며 교육과정 개편의 중간다리로 삼을 예정이다.",
+    "implication": "교사들은 이 가이드를 참고하여 윤리적 문제없이 안전하고 효과적인 AI 활용 수업을 설계할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 9,
+    "title": "2026 충북교육정책연구박람회, 미래교육의 청사진을 그리다 : 네이버 블로그",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVkF2dVRqdUZHVDBiWVB2ZUExMGNtNEhzbWlyRmRJT0h6Ym14dUh2TVRpT3ZjaF9WU1YtVXYzdDY4MzRxR0dacXlwbVZMZUpha2pvcFlsZmdUTmMxNWNYbU84MnBYNzFKaTQtRGt6NFEyQWVxMU5jRmlpWm5FbHdOU2pDU1JDaG5yUUhPYldjVQ?oc=5",
+    "source": "Naver Blog",
+    "published": "2026-11-25",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충북교육청",
+     "네이버"
+    ],
+    "summary": "2026 충북교육정책연구박람회가 개최되어 미래교육의 방향성과 청사진을 제시합니다.",
+    "implication": "박람회에서 공유되는 미래교육 정책 연구 결과를 참고하여 다각도의 수업 설계에 활용할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 10,
+    "title": "경기도교육청, 31개 시군 교육 현장 ‘의견 청취 완료’",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXR2dZRHEyNWxtU1FvWHRPZnpWWHIybVN5a095cEJBUXpEcTlVZUFmWTlPNmxuUGY2TlRzbFFjajF5SWlzNm44ODBnaXVsSzgzamhHQ240bUdBVi1iek1kSTVoVUVEUVZtRkZiQ3RGM0Y?oc=5",
+    "source": "인천일보",
+    "published": "2026-11-25",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청이 31개 시군의 교육 현장 의견 청취를 완료했습니다.",
+    "implication": "현장의 다양한 의견이 정책에 반영되므로, 교사들은 교육 활동 개선을 위한 현장 중심의 제안을 적극적으로 시도할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Transforming Pedagogy with GenAI-Supported Formative Assessment: Challenges for Teacher Education",
+    "url": "http://dx.doi.org/10.1111/bjet.70051",
+    "source": "eric",
+    "published": "2026-01-01",
+    "keyword": "agentic AI",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [
+     "생성형 AI",
+     "개인화 학습"
+    ],
+    "summary": "본 논문은 생성형 인공지능을 활용한 형성평가 도입 방안과 교사 교육의 과제를 분석하여, 교사의 전문적 판단력을 바탕으로 학생의 맞춤형 학습을 지원하는 적응적 교원 양성의 방향을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Mary Webb, Arthur Galamba",
+    "pdf": "http://dx.doi.org/10.1111/bjet.70051",
+    "topic_src": "ai",
+    "title_ko": "생성형 AI 기반 형성평가로 교육 혁신하기: 교사교육의 과제"
+   },
+   {
+    "n": 2,
+    "title": "General Education Teachers’ Lived Experiences of Using AI to Support Students with Learning Disabilities",
+    "url": "https://dc.etsu.edu/etd/4791",
+    "source": "openalex",
+    "published": "2026-12-01",
+    "keyword": "edtech",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [
+     "특수교육",
+     "개인화 학습"
+    ],
+    "summary": "본 연구는 현상학적 질적 연구 방법을 통해 일반 교사들이 자발적 효능감과 관리자의 지원을 바탕으로 인공지능을 활용해 학습장애 학생의 맞춤형 학습과 포용적 교육을 실천하는 과정을 탐구하고, 윤리적 활용 방안을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Leia Faith Davis",
+    "pdf": "https://dc.etsu.edu/context/etd/article/6355/viewcontent/DavisL112226f.pdf",
+    "topic_rule": "teacher_pd",
+    "topic_src": "ai",
+    "title_ko": "학습장애 학생을 지원하기 위한 AI 활용에 관한 일반교사들의 현상학적 경험"
+   },
+   {
+    "n": 3,
+    "title": "Reframing mentor teachers as curriculum designers in clinically rich teacher preparation",
+    "url": "https://doi.org/10.1108/sup-07-2026-0045",
+    "source": "openalex",
+    "published": "2026-11-25",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "현장 교사를 교육과정 설계자로 재정의한 이 연구는 다년간의 파트너십을 통한 실습 과제 공동 설계를 분석하여 이론과 실천의 연계를 강화하고 교원 양성 프로그램의 효과를 높이는 방안을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Cathy J. Siebert, Ellen Finney Pickett 외 1명",
+    "pdf": "https://www.emerald.com/sup/article-pdf/doi/10.1108/SUP-07-2026-0045/12002986/sup-07-2026-0045en.pdf",
+    "topic_src": "ai",
+    "title_ko": "임상 경험이 풍부한 교원 양성 과정에서 멘토 교사를 교육과정 설계자로 재정의하기"
+   },
+   {
+    "n": 4,
+    "title": "Translating Embodied Cognition for Embodied Learning in the Classroom",
+    "url": "https://www.semanticscholar.org/paper/5f6f69685321c4dfbd10d49a4e24b455507d3f23",
+    "source": "semantic_scholar",
+    "published": "2021-12-02",
+    "keyword": "",
+    "topic": "learning_sci",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 신체화 인지 이론을 교실 교육에 적용하기 위한 실천적 연구 모델과 4단계 실행 방안을 제시하여 교사들이 감각운동 기반 학습을 수업에 쉽게 활용하도록 돕습니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "S. Macrine, Jennifer M. B. Fugate",
+    "pdf": "https://www.frontiersin.org/articles/10.3389/feduc.2021.712626/pdf",
+    "topic_src": "ai",
+    "title_ko": "교실 내 신체화 학습을 위한 신체화 인지 이론의 적용"
+   },
+   {
+    "n": 5,
+    "title": "Educational Technology in India: The Field and Teacher&apos;s Sensemaking",
+    "url": "http://dx.doi.org/10.1177/0973184918803184",
+    "source": "eric",
+    "published": "2019-01-01",
+    "keyword": "edtech",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 신제도주의 이론을 활용해 인도 공교육에서 이루어지는 에듀테크 도입 현황을 거시적으로 조망하고, 교사들이 교실에서 에듀테크를 어떻게 수용하고 의미화하는지 분석하여 학생들의 학습 결과와 교수법 개선에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Miglani, Neha 외 2명",
+    "pdf": "http://dx.doi.org/10.1177/0973184918803184",
+    "title_ko": "인도의 에듀테크: 현장과 교사의 의미화 과정"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "오픈AI, 챗GPT·코덱스 사용량 통합…\"헤비 유저 한도 조기 소진 가능\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217800",
+    "source": "AI Times",
+    "published": "2026-11-26",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "오픈AI의 사용량 통합은 고도화된 AI 도구의 독점력을 강화하며, 개발자들의 비용 부담 증가로 이어질 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "agent_dev",
+    "topic_src": "ai"
+   },
+   {
+    "n": 2,
+    "title": "[더뉴론] 딥마인드는 일관성 있는 AI 답변 테스트를 시작. Anthropic과 OpenAI 직원들은 공개되지 않은 모델이 안전한지 의문을 제기. OpenAI의 GPT-6.2는 실험실에서 검증된 단백질 결합체를 설계했다. Claude 아티팩트는 이제 데스크톱 앱으로 설치된다. GPT-6.2 Ast",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5BQXFQdVpUUnQzcU04SUFsT25yM2llVEl1TmR0cWdzZ3loZk5lLTJhZFRuSFloQXZ1V19Wei1PR1Q?oc=5",
+    "source": "AI넷",
+    "published": "2026-11-25",
+    "keyword": "Anthropic",
+    "topic": "model",
+    "kind": "opinion",
+    "entities": [
+     "Google",
+     "Anthropic",
+     "OpenAI",
+     "ChatGPT",
+     "Claude",
+     "AI 안전·규제"
+    ],
+    "summary": "AI 업계는 신뢰성 검증과 안전성 확보를 최우선 과제로 삼으며, 생명과학과 데스크톱 환경으로 응용 범위를 본격적으로 확장하고 있습니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 3,
+    "title": "AI 투자 불안에 기술주 하락 지속…앤트로픽 장중 74달러까지 밀려",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217790",
+    "source": "AI Times",
+    "published": "2026-11-26",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "Anthropic"
+    ],
+    "summary": "AI 투자 열풍 대비 수익성 입증에 대한 시장의 조급증이 커지면서, 단기적인 기술주 변동성 확대와 함께 실질적 비즈니스 모델 증명이 AI 기업들의 핵심 과제로 부상할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 4,
+    "title": "[11월25일] \"AI의 의식, 문제는 만드는 법도 막는 법도 모른다는 것\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217759",
+    "source": "AI Times",
+    "published": "2026-11-26",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "AI 안전·규제"
+    ],
+    "summary": "AI의 의식 생성 원리를 통제하지 못하는 현 상황은 향후 기술 발전과 안전성 확보에 있어 심각한 규제 및 기술적 난제로 작용할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 5,
+    "title": "Anthropic, Claude의 도움을 받아 Messages API를 Rust로 마이그레이션한 과정 공개",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdklpY3F2YnIzbUVuLXd2ZzlkMDhTdXFhWjV0Ry1iby1keEdoV0EtSWZLcXhLa2JYTVBEMFNrNFExbnV1Y2pKSmNZZUJWd2Foc1RGdXBzU2RoOV96SXF1Nk1wNmhCOVRQSmRRNnRrTS00WWRDa09PTnFzeVN6MS13MVFxTk1Cc0IxNVZWU28wVzRoSlk?oc=5",
+    "source": "Unite.AI",
+    "published": "2026-11-25",
+    "keyword": "Anthropic",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "Claude"
+    ],
+    "summary": "AI가 기존 소프트웨어의 언어 전환을 주도하며 개발 생산성과 시스템 안정성을 혁신적으로 높이는 새로운 표준이 될 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 6,
+    "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+    "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+    "source": "OpenAI Blog",
+    "published": "2026-11-19",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "오픈아이에이의 성능 공정(Performance Factory) 모델은 AI 서비스의 고속화와 비용 절감을 동시에 달성하여 대규모 인공지능의 상용화와 대중화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "dup_of": "2026-11-23",
+    "topic_src": "ai"
+   },
+   {
+    "n": 7,
+    "title": "연구 실패까지 기억하는 AI 과학자…ETRI-UST, 연구 설계부터 논문 작성까지 자율 수행하는 ‘유라’ 오픈소스 공개",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhRzZ6YndHa3piNXV0MG80N1MxeUl2RkZleGlvZTZDeUpnN0V2Z3dqWXZoTkhMTFVETHVBdWF5QWdmdlpEVlR0T2otNGxKSkIwblNIbDFfekdmNXpqSWxjNVpNblNyY2c?oc=5",
+    "source": "인공지능신문",
+    "published": "2026-11-26",
+    "keyword": "인공지능",
+    "topic": "edu_ai",
+    "kind": null,
+    "entities": [
+     "오픈소스"
+    ],
+    "summary": "실패 데이터까지 학습해 자율적으로 연구를 수행하는 '유라'의 등장은 향후 과학기술 R&D의 속도와 효율성을 혁신적으로 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
+   },
+   {
+    "n": 8,
+    "title": "The Gemini app is now available on lower-memory Android devices.",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+    "source": "Google Blog - AI",
+    "published": "2026-11-18",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "Gemini",
+     "Google",
+     "온디바이스 AI"
+    ],
+    "summary": "구글의 저사양 기기 제미나이 지원은 온디바이스 AI의 대중화를 앞당겨 전 세계 안드로이드 생태계로 AI 사용자층을 급격히 확장할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "dup_of": "2026-11-23",
+    "topic_src": "ai"
+   },
+   {
+    "n": 9,
+    "title": "\"로봇이 움직이는 물체를 끝까지 추적한다\"…앨런인공지능연구소, 피지컬 AI 평가체계 ‘로보트랙’ 오픈소스로",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyampGbDlScVMydjhaYzY4QWY5VzFwSE5HSkI4RzIyY3JZM3ZmRjlwYjRiZlcwX0VlbTJnNXRieVBHLTk3b1ZYbWpzWmtfaFl1NE1JZHBDS0ZfUkJSUDBlWkljTERKN00?oc=5",
+    "source": "인공지능신문",
+    "published": "2026-11-25",
+    "keyword": "오픈AI",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "로봇·휴머노이드",
+     "오픈소스"
+    ],
+    "summary": "앨런인공지능연구소의 '로보트랙' 오픈소스 공개는 피지컬 AI의 정량적 평가 기준을 마련해 로봇 기술의 상용화와 생태계 성장을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "agent_dev",
+    "topic_src": "ai"
+   },
+   {
+    "n": 10,
+    "title": "현실적 기업 업무를 겨냥한 오픈클로의 AI 에이전트 벤치마크",
+    "url": "https://www.itworld.co.kr/article/4253429/현실적-기업-업무를-겨냥한-오픈클로의-ai-에이전트-벤.html",
+    "source": "ITWorld 코리아",
+    "published": "2026-11-26",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "에이전트",
+     "벤치마크"
+    ],
+    "summary": "오픈클로의 벤치마크 도입은 AI 에이전트의 실질적 업무 수행 능력을 객관적으로 평가하고 기업용 소프트웨어 시장의 경쟁을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {},
+ "synthesis": {
+  "headline": "교육 현장의 AI 활용 확산과 안전성 가이드 마련 논의",
+  "threads": [
+   {
+    "title": "AI 에이전트와 교실 수업",
+    "body": "전남광주 학교들이 AI를 활용한 수업 혁신 사례를 공유한 가운데, 교육부는 12월에 'AI 윤리적 활용 가이드'를 배포하여 안전하고 효과적인 수업 설계의 기준을 제시할 예정입니다. 또한 AI 에이전트 기술이 발전하면서 교사들은 이를 수업 준비나 학생 활동에 자율적으로 적용할 수 있는 기반이 마련되고 있습니다.",
+    "refs": [
+     "edu-6",
+     "edu-7",
+     "edu-8"
+    ]
+   },
+   {
+    "title": "인공지능 기반 맞춤형 학습 연구",
+    "body": "생성형 AI를 활용한 형성평가 도입과 교사 교육의 과제를 다룬 연구 논문은 교사의 전문적 판단력을 바탕으로 한 맞춤형 학습 지원 방향을 보여줍니다. 이는 일선 학교 현장에서 AI 기술을 통해 학습장애 학생을 포용하고 개별 맞춤형 교육을 실천하려는 현장 교사들의 경험과 맥을 같이 합니다.",
+    "refs": [
+     "paper-1",
+     "paper-2"
+    ]
+   },
+   {
+    "title": "AI 기술의 확장과 교육 적용",
+    "body": "저사양 안드로이스 기기에서도 제미나이를 사용할 수 있게 되는 등 AI 기술의 대중화가 가속화되고 있습니다. 이러한 기술적 진보는 교실 현장에서 학생들이 다양한 인공지능 도구에 접근하여 학습에 활용할 수 있는 환경을 넓혀줍니다.",
+    "refs": [
+     "tech-8",
+     "edu-7"
+    ]
+   }
+  ],
+  "classroom": "교실에서 인공지능 도구를 활용할 때 학생들의 윤리적 사용을 돕는 나만의 기준을 세워보면 어떨까요?",
+  "model": "gemini-3.5-flash-lite",
+  "items_hash": "ffff4509ad57"
+ },
+ "enrich": {
+  "hash": "34df11701f85",
+  "model": "gemini-3.5-flash-lite",
+  "topics": 8,
+  "title_ko": 5,
+  "summaries": 0
+ }
+}
