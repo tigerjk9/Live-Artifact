@@ -1,0 +1,505 @@
+{
+ "date": "2026-11-27",
+ "generated_at": "2026-11-27T19:05:38+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "[박준섭변호사 아침칼럼] AI 시대를 대비한 교육개혁은 멀리 있지 않고, 바로 지금 여기에 와 있습니다",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBRM2RWSVlQVHRYLUdrUWYwakoyU2tNRUt5MWxOT3JmbHFQT1d0bmg3UDZ4WEE5a2ZGSXhTNHZPOUZNSDFoOEMxMDRYdVJQMGtRX0tZMFEzaDNuamtGeTlrb2ZZbDdWX0xGVjRN?oc=5",
+    "source": "BBS불교방송",
+    "published": "2026-11-27",
+    "keyword": "AI교육",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "AI 시대를 대비한 교육개혁이 지금 당장 필요하다는 주장을 다루고 있습니다.",
+    "implication": "교사는 수업 시간에 다양한 AI 도구를 활용하여 학생들의 디지털 역량을 키워줄 수 있습니다.",
+    "ai": true,
+    "topic_rule": "ai_digital",
+    "topic_src": "ai"
+   },
+   {
+    "n": 2,
+    "title": "[사설] 무죄 확정 김석준 교육감, 부산교육 혁신 매진해야",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUHl2SWQ3bWh1RU9nS2ZXVGd3LThNeXQzcW14cnIwVUE3S3MyVXBGVGZhR0NFSmwtdzhNd0ZNcXVYQW5wbURxak5USmRRUkNVVXc1UG9yZEpqV1pTQ3ZUc284NGRCQjk2YjQ1NnQzQTRPRkRYQTdxeTVkTTlwTzJvX0d1U0RzdXVxbjRoa2pn?oc=5",
+    "source": "국제신문",
+    "published": "2026-11-26",
+    "keyword": "교육혁신",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [
+     "부산시교육청"
+    ],
+    "summary": "무죄가 확정된 김석준 부산교육감은 교육 혁신에 매진해야 한다는 사설이다.",
+    "implication": "교육감의 사법 리스크 해소를 계기로 교사들은 학생들의 기초학력 향상과 맞춤형 수업 지도에 더욱 집중할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 3,
+    "title": "[기고] AI 에이전트 시대, 브랜드는 선택받을 준비가 됐는가",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqcHhYOWZtOG9DTUJOOG4teEhuNnlZeXBWZGpEWjhDclVUb3NZUzFudWJmNTlaM1MtcENTSzhZVDNLZjVMWUlEOE5Vc01JUQ?oc=5",
+    "source": "매일경제",
+    "published": "2026-11-26",
+    "keyword": "에이전틱AI",
+    "topic": "teacher",
+    "kind": "opinion",
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "AI 에이전트 시대에 발맞추어 브랜드가 생존하고 선택받기 위한 전략적 준비를 촉구하는 글입니다.",
+    "implication": "학생들과 함께 AI 에이전트의 작동 원리를 탐구하고 미래 사회의 변화에 대응하는 비판적 사고 수업을 진행할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "ai_digital",
+    "topic_src": "ai"
+   },
+   {
+    "n": 4,
+    "title": "[충북교사노조 기획연재 기고] 20. 표류하는 교육 난파선, 새 교육부 장관에게 묻는 시대적 소명",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zQ1FmRTRWZ2NtMWlVLWF6bEdoYk5CMkJaeVp6N0hWVkZtNkZsV0REM1ZRdkd0alhERVVweE11QVYzVVJnMjdMZXoyWWJ0aDE1U1lRU1pzd0NiT1A2NUNoemFzdC1mc19TWDRHMWdB0gFuQVVfeXFMT3NDUWZFNFZnY20xaVUtYXpsR2hiTkIyQlp5Wno3SFZWRm02RmxXREQzVlF2R3RqWERFVXB4TXVBVjNVUmcyN0xlejJZYnRoMTVTWVFTWnN3Q2JPUDY1Q2h6YXN0LWZzX1NYNEcxZ0E?oc=5",
+    "source": "중부매일",
+    "published": "2026-11-26",
+    "keyword": "교사기고",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [
+     "교원단체",
+     "교육부"
+    ],
+    "summary": "충북교사노조의 기고를 통해 현재 교육계의 위기를 진단하고 새 교육부 장관의 소명을 촉구했습니다.",
+    "implication": "교사들은 교육 현장의 어려움을 공유하고 정책 개선을 위한 논의에 적극적으로 참여할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "teacher",
+    "topic_src": "ai"
+   },
+   {
+    "n": 5,
+    "title": "[사설] “지방 교육재정 붕괴” 현장 목소리 외면 말아야",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBad3lqdG1ucElQdHUyS1MzRzZiQTdxY1B2ZVQxWFlBSVdSU21HMWljVzRoQWg2U0RSVHg0VDhIam9KcEs3cTdBa2g2cFVSMXE5YzNiNXNLNmF6bW5ySWlBNFdNVkdfUlRFNkHSAW5BVV95cUxNRnVocHRGS1QwSl9XOWJQcnBUd3cwUkVhc0pKRjFXZldKT0p6OENTWjl6dUpHZ3Y3cEVRQjN3Y3B6bXp4SzFoSzAzRmxiaEpfUlozZ052OVJzS1MwMVpydDJ0X1JkVFkzLURqNXdRQQ?oc=5",
+    "source": "울산매일 - 울산최초, 최고의 조간신문",
+    "published": "2026-11-26",
+    "keyword": "교육현장",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "지방 교육재정 붕괴 위기를 호소하는 현장의 목소리를 외면하지 말고 대책을 마련해야 한다는 내용입니다.",
+    "implication": "예산 부족으로 인한 교육 현장의 어려움을 학생들과 함께 토론하며 경제와 사회 구조를 이해하는 기회로 활용할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 6,
+    "title": "[기고] 선택형 교육과정을 말하면서 선수지식 공백은 비워 둔 고교-대학 연계",
+    "url": "https://www.edpl.co.kr/news/articleView.html?idxno=22177",
+    "source": "교육플러스",
+    "published": "2026-11-26",
+    "keyword": "",
+    "topic": "higher_ed",
+    "kind": "opinion",
+    "entities": [
+     "고교학점제"
+    ],
+    "summary": "고교학점제 도입 이후 대학 신입생의 선수지식 공백과 기초학력 저하 문제가 심각하게 나타나고 있습니다.",
+    "implication": "선택과목 이수 현황과 학생의 학습 공백을 진단하여 대학 전공 수업과의 연계 방안을 미리 지도할 수 있습니다.",
+    "ai": true,
+    "dup_of": "2026-11-26",
+    "topic_rule": "classroom",
+    "topic_src": "ai"
+   },
+   {
+    "n": 7,
+    "title": "[홍산로 오피니언] 최은옥 장관 직무대행이 실패하지 않는 구원투수가 되려면",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84SEVWelQySE9BQWtvdFhnWjVWamtwakg5aHhsaVE0cFJxekdzVDRJRGM2SXk3QVB0TXZDdHJQWmtNYlRlWnhmSVdPbjF1NDJ3QWtMRVdlRzNPMmFWVzR6WA?oc=5",
+    "source": "전북미래교육신문",
+    "published": "2026-11-27",
+    "keyword": "현장교사",
+    "topic": "policy",
+    "kind": "opinion",
+    "entities": [],
+    "summary": "최은옥 장관 직무대행이 교육 현장의 위기를 극복하고 성공적인 정책을 이끌어갈지 주목된다.",
+    "implication": "교육 정책 변화에 따른 교실의 혼란을 줄이기 위해 수업과 평가 기준을 유연하게 조정할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
+   },
+   {
+    "n": 8,
+    "title": "한국교육학술정보원, UAE 교육부와 디지털교육 실무 협력 확대",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHMDI2NmFBd1JLTjJpWHc0U3d3RWoxNzBsekpGaE94ZmF0emxWUml0MEkzM0RrdFFlNjhCaWpOQXJyTU1kbEsyOWw4TVpKc1MxUWtMXzNjaDA0cUdjSkJKM0pIZFphQQ?oc=5",
+    "source": "한국대학신문",
+    "published": "2026-11-26",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "KERIS",
+     "교육부"
+    ],
+    "summary": "한국교육학술정보원이 UAE 교육부와 디지털 교육 분야의 실무 협력을 확대하기로 했습니다.",
+    "implication": "해외 교육 기관과의 협력 사례를 연계하여 글로벌 디지털 교육 환경에 대한 수업을 진행할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 9,
+    "title": "인천시교육청, AI·디지털 활용 진로교육 교사 역량 강화",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9jalRCdWV6NExOUGpDYnVndzRlUkJlYlBsYXpJajVhMVNWUDlJRDVjVVhOaTA2ZkFlRXctSHhXWDVkTjU1aVJmVktuVnRBbXBkS0VzWXA4aXRqNlZQVTROTDMwTUM?oc=5",
+    "source": "매일일보",
+    "published": "2026-11-27",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "인천시교육청"
+    ],
+    "summary": "인천시교육청이 교사들의 AI와 디지털 기술을 활용한 진로교육 역량 강화를 추진합니다.",
+    "implication": "최신 에듀테크 도구를 진로 상담과 수업에 적용하여 학생 맞춤형 지도를 할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 10,
+    "title": "대전교육청, AI·디지털 수업 혁신 성과 확산…미래교육 현장으로 확대",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvT2NSa1hhdXpYUWs4S25RR216b3ZRVmJieFlkeGllMFFiR3B0UjdacDloTk9xaF80UmlzYVlLRC1ZMnBwdDBSZlpidTBiZnp6UUE2WUlCNnVVMmJmRjBncXlMOUFFbkxsV2E3ZTJ3?oc=5",
+    "source": "뉴스홈(newshome)",
+    "published": "2026-11-27",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "대전교육청이 AI와 디지털 기반의 수업 혁신 성과를 발표하며 미래교육 현장으로 확산에 나섰습니다.",
+    "implication": "다양한 에듀테크 도구를 활용하여 학생 맞춤형 디지털 수업 디자인을 시도해 볼 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Değerlendirme ve Yerleştirme",
+    "url": "https://doi.org/10.53478/tuba.978-625-6110-89-2.ch12",
+    "source": "openalex",
+    "published": "2026-12-15",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 교육 측정 결과를 판단하는 다양한 평가 유형과 경제학적 매칭 이론 기반의 학생 배치 메커니즘을 체계적으로 분석하여 공정한 교육 정책 수립에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Sungur Gürel, Muhammet Yorulmaz",
+    "pdf": "https://doi.org/10.53478/tuba.978-625-6110-89-2.ch12",
+    "topic_src": "ai",
+    "title_ko": "평가 및 학생 배치: 측정 유형과 매칭 이론 분석"
+   },
+   {
+    "n": 2,
+    "title": "Investigating Special Education Teachers Perspectives and Recommendations on Privacy Education for Individuals with Intellectual Disabilities",
+    "url": "https://doi.org/10.23863/kalem.2026.364",
+    "source": "openalex",
+    "published": "2027-06-13",
+    "keyword": "",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [
+     "특수교육"
+    ],
+    "summary": "본 연구는 반정형 인터뷰와 귀납적 주제 분석을 통해 지적장애인의 프라이버시 교육에 대한 특수교사들의 인식을 탐구하고, 체계적인 교육 과정 통합과 가정 연계를 강조함으로써 향후 특수교육 현장의 실효성 있는 지침 마련에 기여합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Hatice Gürbüz, Özge ÜNLÜ",
+    "pdf": "https://doi.org/10.23863/kalem.2026.364",
+    "topic_rule": "teacher_pd",
+    "topic_src": "ai",
+    "title_ko": "지적장애인 프라이버시 교육에 대한 특수교사의 인식과 제언"
+   },
+   {
+    "n": 3,
+    "title": "The Role of the Mover Teacher and Non-Mover Teacher in Realizing Independent Learning in Merdeka Curriculum",
+    "url": "https://doi.org/10.63230/jitse.2.3.211",
+    "source": "openalex",
+    "published": "2027-04-27",
+    "keyword": "",
+    "topic": "teacher_pd",
+    "kind": null,
+    "entities": [],
+    "summary": "이 연구는 현상학적 분석 방법을 사용하여 메르데카 교육과정에서 '메르데카 교사'와 일반 교사들의 역할을 비교하고, 이들이 학습자 중심 교육과 학교 전반의 교육 혁신에 미치는 영향을 분석합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Renny Nur Afida, Haryono Haryono 외 1명",
+    "pdf": "https://journal.i-ros.org/index.php/JITSE/article/download/211/593",
+    "topic_src": "ai",
+    "title_ko": "메르데카 교육과정의 독립적 학습 실현에서 이동 교사와 일반 교사의 역할"
+   },
+   {
+    "n": 4,
+    "title": "Immersive Virtual Reality for Zero-Emission Education: Exploring Environmental Literacy and Analytical Skills among Elementary Students",
+    "url": "https://doi.org/10.46328/ijtes.9312",
+    "source": "openalex",
+    "published": "2027-01-01",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [],
+    "summary": "본 연구는 초등학생의 무탄소 교육을 위해 몰입형 가상현실을 활용하여 환경 소양과 분석적 사고력 향상 효과를 분석하고, 학교 현장에 필요한 실천적 지침을 제공합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Arnelia Dwi Yasa, Denna Delawanti Chrisyarani 외 1명",
+    "pdf": "https://ijtes.net/index.php/ijtes/article/download/9312/3311",
+    "topic_rule": "design_curric",
+    "topic_src": "ai",
+    "title_ko": "무탄소 교육을 위한 몰입형 가상현실: 초등학생의 환경 소양과 분석적 사고력 탐구"
+   },
+   {
+    "n": 5,
+    "title": "Perception–practice gap in Moodle use: a TAM–ISSM perspective",
+    "url": "https://doi.org/10.11591/ijere.v15i6.39972",
+    "source": "openalex",
+    "published": "2026-12-01",
+    "keyword": "edtech",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [],
+    "summary": "TAM과 ISSM을 결합한 종단적 조사를 통해 고등교육에서 학습관리시스템의 긍정적 수용이 실제 교육적 활용으로 이어지지 않는 인식-실천 격차를 규명하고, 교육 중심의 디지털 전환의 필요성을 강조합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Md. Nahid Hasan, Khadija Akter Onee 외 1명",
+    "pdf": "https://ijere.iaescore.com/index.php/IJERE/article/download/39972/15346",
+    "topic_rule": "literacy_ethics",
+    "topic_src": "ai",
+    "title_ko": "무들 사용의 인식-실천 격차: TAM-ISSM 관점"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "'GPT-6.2 아스트라', 218년 된 스케치북 작가 22분 만에 찾아",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217862",
+    "source": "AI Times",
+    "published": "2026-11-27",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "추론 모델"
+    ],
+    "summary": "차세대 AI의 압도적인 검색·추론 능력은 인류가 축적한 방대한 비정형 데이터의 가치를 극대화하며 문화·예술 및 역사적 연구 분야의 패러다임을 바꿀 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 2,
+    "title": "SK증권, LG CNS AIDC 매출 본격화로 내년 성장 가속화 전망",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217850",
+    "source": "AI Times",
+    "published": "2026-11-27",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "SK",
+     "LG",
+     "GPU·데이터센터"
+    ],
+    "summary": "LG CNS의 AIDC(AI 데이터센터) 매출 본격화는 AI 인프라 수요가 단순 성장을 넘어 본격적인 수익화 단계에 진입했음을 보여줍니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 3,
+    "title": "After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead",
+    "url": "https://the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead/",
+    "source": "The Decoder",
+    "published": "2026-11-26",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Anthropic",
+     "Google",
+     "Meta"
+    ],
+    "summary": "미국 선두 기업들의 데이터 접근 제한 속에서 중국 AI 개발사들이 구글과 메타로 선회하는 현상은 글로벌 AI 기술 생태계의 공급망 다변화와 경쟁 지형 변화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "agent_dev",
+    "topic_src": "ai"
+   },
+   {
+    "n": 4,
+    "title": "[다뉴론] 앤트로픽의 CEO는 사회의 의사결정을 인공지능에 맡기는 것을 거부. SpaceX는 궤도 AI 데이터 센터에 대한 FCC 승인을 획득. 📰OpenAI는 ChatGPT를 많이 사용하는 사용자는 더 빨리 사용량 제한에 도달할 수 있다고 경고했다. 클로드는 이제 MCP 서버에서",
+    "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1PVW0yc0ZsMFhLUERGNXlNQ0VFWlBkRlhRb1ZETEJ2X2pydEFTMDFVZGtTb0xLbXRMZGNEeWllM1c?oc=5",
+    "source": "AI넷",
+    "published": "2026-11-27",
+    "keyword": "오픈AI",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "GPU·데이터센터",
+     "OpenAI",
+     "ChatGPT",
+     "Claude",
+     "AI 안전·규제"
+    ],
+    "summary": "AI의 전력·인프라 확장과 활용도가 급증하는 동시에, 안전성과 자율성에 대한 통제의 필요성이 더욱 커지고 있습니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "industry",
+    "topic_src": "ai"
+   },
+   {
+    "n": 5,
+    "title": "AI, 피부 사진 한 장으로 건선 진단…챗GPT-5 정확도 93.1%",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wNXRGWlFNU2hxRVg3MWJxVnJ6TnJFRVBPc1RZUExfVEdEbHZsNWdIbGxZUDFQcHNMX2J1V1M0Y29ic0dpamZpVXpoWTA0Ri1sQS15U3IwWklKNVg2NFB4OXU3SDZhc3I0Vk5nSA?oc=5",
+    "source": "메디컬투데이",
+    "published": "2026-11-26",
+    "keyword": "GPT",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "ChatGPT"
+    ],
+    "summary": "의료용 AI의 진단 정확도가 상용화 수준에 도달함에 따라, 향후 원격 의료와 맞춤형 헬스케어 시장의 성장이 더욱 가속화될 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
+   },
+   {
+    "n": 6,
+    "title": "ChatGPT가 농사도 돕는다…봉화 청년농들 AI 활용법 배웠다",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4yZmIzU2RQUUllUDdYZHdPQkoxbll1RE1Ydmhjc0RVNWpuQjJVQWhzbFpNaEt5YTd2bnVBWmZZbTRyUmFDMENIWHZrUVBzSExOQUZlc2VxNENSSHM2bnVhRzlvMlNtWEl4LUxjY2tpdXN3QQ?oc=5",
+    "source": "www.reporternside.com",
+    "published": "2026-11-27",
+    "keyword": "활용법",
+    "topic": "usecase",
+    "kind": null,
+    "entities": [
+     "ChatGPT",
+     "생성형 AI"
+    ],
+    "summary": "생성형 AI의 활용이 농업 같은 전통 산업까지 확장되면서, AI 기술이 전 산업의 디지털 전환을 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 7,
+    "title": "벤타엑스·스톤브이스튜디오, 영화 '한산'에 AI 접목한 VR 콘텐츠 내년 출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217857",
+    "source": "AI Times",
+    "published": "2026-11-27",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "이번 협력은 생성형 AI 기술이 기존 영화 지식재산권(IP)을 고부가가치 가상현실(VR) 콘텐츠로 확장하는 성공적인 사업화 모델을 제시할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "product",
+    "topic_src": "ai"
+   },
+   {
+    "n": 8,
+    "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+    "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+    "source": "OpenAI Blog",
+    "published": "2026-11-19",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "OpenAI의 퍼포먼스 팩토리는 고성능 AI 서비스의 핵심 경쟁력이 모델 크기를 넘어 효율적인 인프라 최적화와 운영 속도에 있음을 증명합니다.",
+    "implication": "",
+    "ai": true,
+    "dup_of": "2026-11-24",
+    "topic_rule": "product",
+    "topic_src": "ai"
+   },
+   {
+    "n": 9,
+    "title": "AI 노스트라다무스 \"엔비디아·테슬라 가치 잃을것\"…대체 왜 - 머니투데이",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kLTBjZFRSZ1ZMR016VkQ4YXZpeHNrMmYyYVVvVVBqZ1ZMSGptTS1QNmJMSEJGekx2eXpUQ3l5MFJRbHNRY0cyRF84ZklHQUNuZzRjZTdLVTEwLTYwa3ZiUTI1dkwtSUxp0gFuQVVfeXFMT1c0emQtNjdVaVpTMzVYeFN3ZnEwOTBiZ0YxRGJNOC1qN3pRVUFUQVRxNllyYUFqMElTU0xnVFhVbG1Jd1MtaHNHLXlJSnVGTmlBZTA1SzBCR0RtQ1NFem03YkhmdHVpNEtab1BrcVE?oc=5",
+    "source": "구글 뉴스 AI",
+    "published": "2026-11-27",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA"
+    ],
+    "summary": "AI 패권 경쟁이 가속화되면서 현 시장 주도주의 쏠림 현상이 해소되고 하드웨어 중심에서 실질적 수익 창출이 가능한 소프트웨어 및 인프라 기업으로 시장 재편이 이루어질 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 10,
+    "title": "네이버·카카오, '실행형' AI 에이전트 내달 출시…피클 돌풍 잠재울까",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13Mk1INkNYcWlRSzdmYlc0alQtbjdVeTdRbnRqMVc3TzBVMUpTMFNzR2FjTURidzUySkhxaHM0TDNhTEk1UUk5OXRXTWFmQ1BZU0ZudmNUZzZTcXJiTFNrLVllT1hmWGlmZV9pRk93S2Y?oc=5",
+    "source": "구글 뉴스 AI",
+    "published": "2026-11-27",
+    "keyword": "",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "네이버",
+     "카카오",
+     "에이전트"
+    ],
+    "summary": "국내 빅테크의 실행형 AI 에이전트 표방은 단순 정보 검색을 넘어 실질적 생활 밀착형 서비스로 플랫폼 경쟁 패러다임을 전환할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "product",
+    "topic_src": "ai"
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {},
+ "synthesis": {
+  "headline": "AI와 에듀테크의 교실 도입이 가속화되는 교육 현장",
+  "threads": [
+   {
+    "title": "AI 기반 수업 혁신",
+    "body": "인천시교육청과 대전교육청 등이 AI·디지털 활용 교사 역량 강화와 수업 혁신에 나서는 가운데, 교사들은 최신 에듀테크 도구를 활용해 학생 맞춤형 디지털 수업 디자인을 시도할 수 있습니다. 또한 생성형 AI의 농업 등 산업계 활용이 확대되면서 기술 변화에 대응하는 융합 교육의 필요성이 커지고 있습니다.",
+    "refs": [
+     "edu-9",
+     "edu-10",
+     "tech-6"
+    ]
+   },
+   {
+    "title": "에듀테크와 디지털 교육 협력",
+    "body": "한국교육학술정보원이 UAE 교육부와 디지털교육 실무 협력을 확대하며 글로벌 디지털 교육 환경 조성에 나섰습니다. 이와 함께 몰입형 가상현실을 활용한 환경 소양 및 분석적 사고력 향상 연구 등 에듀테크를 접목한 교수법 연구가 학교 현장의 실천적 지침을 제공하고 있습니다.",
+    "refs": [
+     "edu-8",
+     "paper-4"
+    ]
+   }
+  ],
+  "classroom": "내일 수업에서는 다양한 에듀테크 도구를 활용해 학생들이 스스로 디지털 역량을 키울 수 있는 학습 방안을 고민해 볼 수 있습니다.",
+  "model": "gemini-3.5-flash-lite",
+  "items_hash": "dbbbbe25a7ff"
+ },
+ "enrich": {
+  "hash": "e707937f98c3",
+  "model": "gemini-3.5-flash-lite",
+  "topics": 14,
+  "title_ko": 5,
+  "summaries": 0
+ }
+}
