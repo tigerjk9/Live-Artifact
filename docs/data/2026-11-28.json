@@ -1,0 +1,514 @@
+{
+ "date": "2026-11-28",
+ "generated_at": "2026-11-28T18:24:21+09:00",
+ "sections": {
+  "edu": [
+   {
+    "n": 1,
+    "title": "중앙대, 생성형 AI 넘어 에이전틱 AI까지…실감미디어 혁신 모색",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HYWtBUEVyczgwYnBZcE5UUlpQc3I0a1FDa1Myd1N4WXpVU3F6VHRqdVlHNXVJWjdZU3FvdXI5QzhGUUVjcThwOVNqMV81a1lkNFBVN0h4dnMxT1dtNHJ1aWFZQU56ZXdLcUhJUTUxc9IBc0FVX3lxTE1HZ0RzYjRnSnYwSVBESTNPQi1yQU9uaUdqUjJ0dVBrU3dSdktreVE3c3FwR252c2VUU29UckxUQnRYY0xieG1HUEE2OEdZTzRUYkRsUHdNUkl0dTJncDFNZUF2U2xPRmVGbk95bTlQN0xVNjA?oc=5",
+    "source": "데일리포스트",
+    "published": "2026-11-27",
+    "keyword": "에이전틱AI",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "중앙대학교가 생성형 AI를 넘어 에이전틱 AI를 활용한 실감미디어 혁신 방안을 모색합니다.",
+    "implication": "학생들과 함께 에이전틱 AI의 자율적 문제 해결 과정을 실감미디어 수업에 적용해 볼 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 2,
+    "title": "충남교육청, 현장 질문중심수업으로 교사 역량 강화",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCWE1xQm5PY1lyRFVnb0VBb3VFQ053dm9RWFoxbF9Cdkkzc2RTVVZaMmp6OG5XbzBSWGFBSkRDbFVqLThpMFFwTF94VTRLa3BmcUZZa2U4Y0xDUQ?oc=5",
+    "source": "브릿지경제",
+    "published": "2026-11-28",
+    "keyword": "현장교사",
+    "topic": "classroom",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "충남교육청이 교사들의 역량을 강화하기 위해 현장 질문중심수업을 도입하여 지원합니다.",
+    "implication": "교과별 핵심 개념을 도출하는 학생 주도형 발문 기법을 수업에 바로 적용할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 3,
+    "title": "충남교육청, 현장 목소리 담은 ‘2027 유아교육’ 청사진 논의",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE03TXQxSTJZcFB0Qmh6R0VTdlJTdFBYLU5oRmcwQm5MLTF5c2hDM25IZFFOQUhEUUY1Nlg1ZF9kSWJGdURXRTNzRw?oc=5",
+    "source": "브레이크뉴스",
+    "published": "2026-11-27",
+    "keyword": "교육정책",
+    "topic": "student_care",
+    "kind": null,
+    "entities": [
+     "충남교육청"
+    ],
+    "summary": "충남교육청이 현장의 의견을 반영한 2027년 유아교육 발전 방안을 논의했습니다.",
+    "implication": "현장의견이 반영된 교육정책 방향을 미리 파악하고 향후 수업 계획에 연계할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "policy",
+    "topic_src": "ai"
+   },
+   {
+    "n": 4,
+    "title": "대전시교육청, 2026 대전미래교육박람회 개막... 27일까지",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkZnNZUmtBVWU4Q1VXcFF4VV9wNm1JLXhobjNsZF9UVmM3LVJIb0h3WTNHXzI4NExmQVJWXzdhRmlqelBSV1ZTTnFORXUyWHZVNWpBbWlTREpMeVVoUmExYVJuWTE1WEE1Zmc?oc=5",
+    "source": "비알뉴스",
+    "published": "2026-11-27",
+    "keyword": "에듀테크",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "대전시교육청"
+    ],
+    "summary": "대전시교육청이 2026 대전미래교육박람회를 개막하여 27일까지 개최합니다.",
+    "implication": "박람회에서 공유되는 미래교육 트렌드와 우수 사례를 참고하여 수업에 적용할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "classroom",
+    "topic_src": "ai"
+   },
+   {
+    "n": 5,
+    "title": "[현장영상] \"온디바이스 AI는 대책이 없다\"… 교육위원장, 교육부 보고 '빈칸' 조목조목 짚어",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9va01TcS1IVjNIUi1jUlJJYmNBa0NxbW5kakE1bnhhaTc1SGlIbW04akFnOWY5M2UwbEZNSzNlUUZtR3VpVlR3dGs4d25OWFBVTXpVNzB2ZkowNlFRMlp0eA?oc=5",
+    "source": "전북미래교육신문",
+    "published": "2026-11-27",
+    "keyword": "교육정책",
+    "topic": "ai_digital",
+    "kind": "feature",
+    "entities": [
+     "온디바이스 AI",
+     "국회",
+     "교육부"
+    ],
+    "summary": "교육위원장이 교육부의 온디바이스 AI 대책 부실을 강하게 질타했습니다.",
+    "implication": "AI 기기 오남용에 대비해 수업 중 디지털 기기 사용 규칙을 미리 정할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 6,
+    "title": "[현장영상] 수능 부정행위 474건, 1년 새 195건 늘어… 교육부 \"응시 제한 10년으로 상향\"",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fdVV6VG40RTJQZHhoZFppWU12Vm90UHZxd0t2QUp4cmFhVW5WeGYycXFyMHc2RUVTX2Jmc0hqcVh1VUNfZzVMSDN1N2dWa2RFUHpQX2hSY3RkeldBYjN3SA?oc=5",
+    "source": "전북미래교육신문",
+    "published": "2026-11-27",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": "feature",
+    "entities": [
+     "수능·대입",
+     "교육부"
+    ],
+    "summary": "수능 부정행위가 1년 만에 195건 늘어난 474건을 기록하자 교육부가 응시 제한을 10년으로 상향하기로 했다.",
+    "implication": "학생들과 시험의 공정성 및 부정행위의 심각성에 대해 토론하며 올바른 준법정신을 기르는 계기로 삼을 수 있습니다.",
+    "ai": true,
+    "topic_rule": "higher_ed",
+    "topic_src": "ai"
+   },
+   {
+    "n": 7,
+    "title": "쓰리알이노베이션·한국교원대, 에듀테크 산학협력…교육현장 기반 기술 실증 추진",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlazljSVVjVGpQZzc3bGxWVDVIU1V6SmFhNXVvMUc1eEpTaGhyaHMwd2Y3VHluak9KMEJWUXFLSHowTWVvR0J6cmZSR2ZGMHBQZTZZYk04cXctUHdJZWtBNVlJdlNEUm8?oc=5",
+    "source": "중소벤처기업신문",
+    "published": "2026-11-27",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "쓰리알이노베이션과 한국교원대가 에듀테크 산학협력을 맺고 교육현장 기반 기술 실증을 추진합니다.",
+    "implication": "교사들은 학교 현장에 최적화된 새로운 에듀테크 도구를 수업에 직접 활용할 수 있습니다.",
+    "ai": true,
+    "topic_rule": "teacher",
+    "topic_src": "ai"
+   },
+   {
+    "n": 8,
+    "title": "윤건영 충북교육감, “학생 제안이 실제 교육정책 변화로 이어져야”",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ETVRzc0MtR2pUZXlqRUl0UzJYUjF2b2kydEpxN1RrMGJSUlRsVkJXcEhKQl9oaHRrdUN6NUdGY0Fzdmx1cDJXOWp4aUdpMmw0dVE4ZDlvWkNqbDBoRklWektjRzFSY3VIZ2RteWNzSUdKalVw0gF0QVVfeXFMTkRNVHNzQy1HalRleWpFSXRTMlhSMXZvaTJ0SnE3VGswYlJSVGxWQldwSEpCX2hodGt1Q3o1R0ZjQXN2bHVwMlc5anhpR2kybDR1UThkOW9aQ2psMGhGSVZ6S2NHMVJjdUhnZG15Y3NJR0pqVXA?oc=5",
+    "source": "이뉴스투데이",
+    "published": "2026-11-27",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "충북교육청"
+    ],
+    "summary": "윤건영 충북교육감은 학생의 제안이 실제 교육정책의 변화로 이어져야 한다고 강조했습니다.",
+    "implication": "학생들의 아이디어를 수렴하여 수업 활동과 학급 운영에 반영해 볼 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 9,
+    "title": "[교육정책 브리핑] 경기도교육청, 학교 노동인권교육 실행력 높인다",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1azdmamdnaXVWTnFRNEgwbjJ6U1JJdXIxVFVJV0loLXBKaHJYLXJOdndoSjZvdjlXSzh4c2U0dHhzb0UxbUFTUGdOcXE1REtIM1dxNXU1dkRLd0ZwUHpHVA?oc=5",
+    "source": "NSP통신",
+    "published": "2026-11-27",
+    "keyword": "교육정책",
+    "topic": "policy",
+    "kind": null,
+    "entities": [
+     "경기도교육청"
+    ],
+    "summary": "경기도교육청이 학교 노동인권교육의 실행력을 높이기 위한 정책을 추진합니다.",
+    "implication": "교사들은 표준 노동인권 교육 자료와 사례 중심의 활동을 연계하여 수업을 구성할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 10,
+    "title": "강미애 교육감, 제물포 인공지능 융합교육센터 방문, 세종 인공지능 거점 조성 모색",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uWDMwTHpvMjZRRUdwTVZCVkFKRnVvYWFqd18tUXhfYVJOR0VheU5HcHVrR0JIYWJMbGFBQ1lPTHBkcFhQT2NxMkFrZjBEQm5tbFNwR2xQck9meG11dEFDci1OcFhQeXQ4R054Yw?oc=5",
+    "source": "메가충청뉴스",
+    "published": "2026-11-27",
+    "keyword": "디지털교육",
+    "topic": "ai_digital",
+    "kind": null,
+    "entities": [],
+    "summary": "강미애 교육감이 제물포 AI 융합교육센터를 방문하여 세종의 AI 거점 조성을 모색했습니다.",
+    "implication": "인공지능 융합 교육 사례를 참고하여 우리 반 수업에 AI 도구를 도입할 수 있습니다.",
+    "ai": true,
+    "topic_src": "ai"
+   }
+  ],
+  "paper": [
+   {
+    "n": 1,
+    "title": "Revolutionizing Classroom Instruction through AI-Powered Scaffolding",
+    "url": "http://doi.org/10.4018/979-8-3373-2948-2",
+    "source": "eric",
+    "published": "2026-01-01",
+    "keyword": "",
+    "topic": "personalized",
+    "kind": null,
+    "entities": [
+     "개인화 학습"
+    ],
+    "summary": "본 논문은 인공지능 기반 비계(Scaffolding)를 활용해 학생 수준에 맞춘 실시간 맞춤형 학습을 제공함으로써 전통적인 수업 방식을 혁신하고 교육적 성과를 향상시키는 방법을 다룹니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Scott F. Gregory, Editor",
+    "pdf": "http://doi.org/10.4018/979-8-3373-2948-2",
+    "topic_rule": "genai_tutor",
+    "topic_src": "ai",
+    "title_ko": "AI 기반 비계를 통한 교실 수업 혁신"
+   },
+   {
+    "n": 2,
+    "title": "Multidisciplinary Perspectives on Agentic AI in Educational Systems",
+    "url": "http://doi.org/10.4018/979-8-3373-4621-2",
+    "source": "eric",
+    "published": "2026-01-01",
+    "keyword": "educational AI",
+    "topic": "genai_tutor",
+    "kind": null,
+    "entities": [
+     "에이전트"
+    ],
+    "summary": "이 논문은 교육 시스템에 도입되는 자율적 인공지능의 긍정적 효과와 윤리적 과제를 다각도로 분석하여, 인간 중심의 교육 가치를 지키면서 기술을 효과적으로 통합할 수 있는 종합적 방안을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Munir Ahmad, Editor",
+    "pdf": "http://doi.org/10.4018/979-8-3373-4621-2",
+    "topic_rule": "literacy_ethics",
+    "topic_src": "ai",
+    "title_ko": "교육 시스템 내 에이전틱 AI에 대한 다학제적 관점"
+   },
+   {
+    "n": 3,
+    "title": "Generative AI-Enhanced Science Education from Early Childhood to Higher Education",
+    "url": "http://doi.org/10.4018/979-8-3373-9074-1",
+    "source": "eric",
+    "published": "2026-01-01",
+    "keyword": "",
+    "topic": "stem_ct",
+    "kind": null,
+    "entities": [
+     "생성형 AI"
+    ],
+    "summary": "생성형 인공지능은 유아부터 고등교육까지 개인별 맞춤형 지도와 적응형 피드백을 통해 과학 학습 방식을 혁신하고 과학 소양을 강화할 잠재력을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Michail Kalogiannakis, Editor 외 2명",
+    "pdf": "http://doi.org/10.4018/979-8-3373-9074-1",
+    "topic_rule": "genai_tutor",
+    "topic_src": "ai",
+    "title_ko": "유아교육부터 고등교육까지 생성형 AI 기반 과학교육"
+   },
+   {
+    "n": 4,
+    "title": "Conceptualizing an Adaptive and Data-Driven Equity-Oriented Pedagogy",
+    "url": "https://www.semanticscholar.org/paper/5d8bf7c89286aa743cc19f8fc7012b96f8c34e5c",
+    "source": "semantic_scholar",
+    "published": "2017-06-01",
+    "keyword": "",
+    "topic": "inclusion_sel",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 학습자 데이터를 기반으로 민주적, 멀티모달, 평가 중심 및 게임 기반 교수법을 융합하여 고등교육의 형평성과 포용성 장벽을 해소하는 새로운 적응형 교육학을 제안하고 그 효과성을 평가합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Andrew Estrada Phuong, Judy Nguyen 외 1명",
+    "pdf": "https://journals.psu.edu/td/article/download/911/377",
+    "topic_src": "ai",
+    "title_ko": "적응형 및 데이터 기반 형평성 지향 교수법 개념화"
+   },
+   {
+    "n": 5,
+    "title": "Assessing Technology and Digital Platforms for Data-Driven Mathematics teaching and learning in South African Schools",
+    "url": "https://www.semanticscholar.org/paper/9186ea989523d6293953af304dbeebbbe2cdd153",
+    "source": "semantic_scholar",
+    "published": "2023-11-30",
+    "keyword": "",
+    "topic": "assessment",
+    "kind": null,
+    "entities": [],
+    "summary": "이 논문은 구성주의와 기술수용모델을 바탕으로 디지털 플랫폼과 데이터 기반 교수법을 활용하여 남아프리카공화국의 수학 교육 격차를 해소하고 학생들의 학업 성취도를 향상시키는 방안을 제시합니다.",
+    "implication": "",
+    "ai": true,
+    "authors": "Nozuko Nqabeni, P. Nqabeni",
+    "pdf": "https://noyam.org/?sdm_process_download=1&download_id=10147",
+    "topic_rule": "stem_ct",
+    "topic_src": "ai",
+    "title_ko": "남아프리카공화국 학교의 데이터 기반 수학교육을 위한 기술 및 디지털 플랫폼 평가"
+   }
+  ],
+  "tech": [
+   {
+    "n": 1,
+    "title": "구글도 AI 수학 연구 경쟁 가세…소인수분해 34년 기록 경신 주장",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217867",
+    "source": "AI Times",
+    "published": "2026-11-27",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [
+     "Google"
+    ],
+    "summary": "구글의 이번 성장은 AI가 단순한 언어 생성을 넘어 과학·수학 분야의 난제 해결이라는 실질적 도구로 진화했음을 증명하는 중대한 전환점입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "industry",
+    "topic_src": "ai"
+   },
+   {
+    "n": 2,
+    "title": "애플, 미니맥스 AI 동반자 '토키' 앱스토어에서 삭제…아동 안전 논란",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217870",
+    "source": "AI Times",
+    "published": "2026-11-27",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "Apple",
+     "에이전트"
+    ],
+    "summary": "이번 앱스토어 삭제 조치는 AI 에이전트 서비스의 급성장 속에서 플랫폼 사업자가 아동 안전과 윤리적 검증을 생존을 위한 핵심 통제 기준으로 삼는 계기가 될 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 3,
+    "title": "After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead",
+    "url": "https://the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead/",
+    "source": "The Decoder",
+    "published": "2026-11-26",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "Anthropic",
+     "Google",
+     "Meta"
+    ],
+    "summary": "미국 선두 기업들의 데이터 접근 제한 속에서 중국 AI 개발사들이 구글과 메타로 선회하는 현상은 글로벌 AI 기술 생태계의 공급망 다변화와 경쟁 지형 변화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "dup_of": "2026-11-27",
+    "topic_rule": "agent_dev",
+    "topic_src": "ai"
+   },
+   {
+    "n": 4,
+    "title": "앤트로픽, AI 내부 뉴런 직접 분석…숨겨진 위험 행동 탐지 기술 연구",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217863",
+    "source": "AI Times",
+    "published": "2026-11-27",
+    "keyword": "",
+    "topic": "policy_safety",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "AI 안전·규제"
+    ],
+    "summary": "본 기술은 AI의 블랙박스 문제를 해결하여 향후 안전성 검증과 규제 대응의 표준을 제시할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 5,
+    "title": "래블업, 로컬AI PC 앱 '에이아이고 2.0' 출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217872",
+    "source": "AI Times",
+    "published": "2026-11-27",
+    "keyword": "",
+    "topic": "product",
+    "kind": null,
+    "entities": [
+     "온디바이스 AI"
+    ],
+    "summary": "이번 래블업의 '에이아이고 2.0' 표방은 클라우드 의존도를 낮추고 온디바이스 AI 대중화를 가속화하는 중요한 전환점이 될 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 6,
+    "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+    "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+    "source": "OpenAI Blog",
+    "published": "2026-11-19",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "OpenAI",
+     "ChatGPT"
+    ],
+    "summary": "오픈알아이의 성능 공장 구축은 단순 추론 속도 개선을 넘어, 고비용 AI 서비스의 수익성과 대중성을 동시에 확보하는 핵심 경쟁력이 될 것입니다.",
+    "implication": "",
+    "ai": true,
+    "dup_of": "2026-11-26",
+    "topic_rule": "product",
+    "topic_src": "ai"
+   },
+   {
+    "n": 7,
+    "title": "AI 노스트라다무스 \"엔비디아·테슬라 가치 잃을것\"…대체 왜 - 머니투데이",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kLTBjZFRSZ1ZMR016VkQ4YXZpeHNrMmYyYVVvVVBqZ1ZMSGptTS1QNmJMSEJGekx2eXpUQ3l5MFJRbHNRY0cyRF84ZklHQUNuZzRjZTdLVTEwLTYwa3ZiUTI1dkwtSUxp0gFuQVVfeXFMT1c0emQtNjdVaVpTMzVYeFN3ZnEwOTBiZ0YxRGJNOC1qN3pRVUFUQVRxNllyYUFqMElTU0xnVFhVbG1Jd1MtaHNHLXlJSnVGTmlBZTA1SzBCR0RtQ1NFem03YkhmdHVpNEtab1BrcVE?oc=5",
+    "source": "구글 뉴스 AI",
+    "published": "2026-11-28",
+    "keyword": "",
+    "topic": "industry",
+    "kind": null,
+    "entities": [
+     "NVIDIA"
+    ],
+    "summary": "AI 시장의 급격한 변동성 속에서 특정 빅테크에 편중된 가치 평가는 언제든 재편될 수 있으며, 이는 기술 생태계의 다변화를 가속화할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "dup_of": "2026-11-27",
+    "topic_src": "ai"
+   },
+   {
+    "n": 8,
+    "title": "[11월27일] 16세 고등학생도 AI로 수학 난제 해결 주장…이제는 검증이 문제",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217855",
+    "source": "AI Times",
+    "published": "2026-11-28",
+    "keyword": "",
+    "topic": "model",
+    "kind": null,
+    "entities": [],
+    "summary": "AI의 진입 장벽이 낮아짐에 따라 일반인의 고난도 연구 기회가 확대되는 동시에, 쏟아지는 결과물을 신속하고 정확하게 검증할 수 있는 시스템 구축이 산업계의 핵심 과제로 부상할 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "edu_ai",
+    "topic_src": "ai"
+   },
+   {
+    "n": 9,
+    "title": "[AI 리뷰] \"AI 에이전트 시대 개발 인프라 혁신\"…구글, 안드로이드 빌드 80분에서 2분으로 줄인 ‘ABFS’ 오픈소스 공개",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HZ1ZBbXFZN2h0RmlfdV9YQndkS1N4UG1kTDhBZjR0MjZMUHRoRzRMU2poTFo3dV83SUQ2UklCaXo5UjRZUzNQWHFBVGhZSC1reVBlQzRvMWRTVnZOUW5adFMzb2dpLWc?oc=5",
+    "source": "인공지능신문",
+    "published": "2026-11-27",
+    "keyword": "오픈AI",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "에이전트",
+     "Google",
+     "오픈소스"
+    ],
+    "summary": "구글의 ABFS 오픈소스 공개는 AI 에이전트 시대에 발맞춰 빌드 인프라의 속도를 극적으로 혁신함으로써 전체 개발 생태계의 생산성을 한 차원 끌어올릴 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_src": "ai"
+   },
+   {
+    "n": 10,
+    "title": "AI, 80% 코드 생성… 앤트로픽의 놀라운 개발 방식은? (+GPT, AI Agents, Claude, Rust)",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05dV9wSTY0OG9vTnVMdkM2ZGtBWGZJRFJWSkdiTTVYWW1SUmp5eHJYRDhhZ1QyUDY2TnFmVlIzRW4zOVZyVEJUb3dLTzNMSU95WEdLREJUZTAzTWtOam5ybkYzbjFPZHlCMXl2NzVR?oc=5",
+    "source": "민심뉴스",
+    "published": "2026-11-27",
+    "keyword": "Anthropic",
+    "topic": "agent_dev",
+    "kind": null,
+    "entities": [
+     "Anthropic",
+     "에이전트",
+     "Claude",
+     "코딩 AI"
+    ],
+    "summary": "AI가 전체 코드의 80%를 자율 생성하는 시대의 도래는 소프트웨어 개발의 패러다임을 코딩 중심에서 아키텍처와 검증 중심으로 완전히 전환시킬 것입니다.",
+    "implication": "",
+    "ai": true,
+    "topic_rule": "model",
+    "topic_src": "ai"
+   }
+  ]
+ },
+ "fallback": {},
+ "notes": {},
+ "synthesis": {
+  "headline": "교육계와 기술계 전반에서 에이전틱 AI와 맞춤형 학습 도입이 가속화됩니다.",
+  "threads": [
+   {
+    "title": "에이전틱 AI와 맞춤형 학습",
+    "body": "중앙대학교가 생성형 AI를 넘어 에이전틱 AI를 활용한 실감미디어 혁신 방안을 모색하는 가운데, 관련 연구 논문에서는 AI 기반 비계를 통해 학생 수준에 맞춘 실시간 맞춤형 학습을 제공하는 방안을 다룹니다. 이는 교실 수업에서 자율적 문제 해결 과정을 적용하는 기회가 됩니다.",
+    "refs": [
+     "edu-1",
+     "paper-1",
+     "paper-2"
+    ]
+   },
+   {
+    "title": "온디바이스 AI 대책과 지역 현장",
+    "body": "교육부의 온디바이스 AI 대책 부실에 대한 질타가 이어진 한편, 래블업은 로컬 AI PC 앱을 출시하며 클라우드 의존도를 낮추는 온디바이스 AI 대중화를 추진합니다. 교사들은 기기 오남용에 대비해 수업 중 디지털 기기 사용 규칙을 정할 필요가 있습니다.",
+    "refs": [
+     "edu-5",
+     "tech-5"
+    ]
+   },
+   {
+    "title": "AI의 수학·과학 연구 활용",
+    "body": "구글이 AI 수학 연구 경쟁에 가세하며 소인수분해 기록을 경신한 흐름은, 생성형 AI가 유아부터 고등교육까지 과학 학습 방식을 혁신하고 소양을 강화할 잠재력과 맞닿아 있습니다. 이러한 기술 발전은 학교 현장에서 새로운 학습 도구 활용의 가능성을 높여줍니다.",
+    "refs": [
+     "paper-3",
+     "tech-1"
+    ]
+   }
+  ],
+  "classroom": "교실 속 인공지능 도구 활용 시 발생할 수 있는 오남용을 예방하기 위해 디지털 기기 사용 규칙을 학생들과 함께 정해보면 어떨까요?",
+  "model": "gemini-3.5-flash-lite",
+  "items_hash": "36b0f254080c"
+ },
+ "enrich": {
+  "hash": "f516bfc9c5ea",
+  "model": "gemini-3.5-flash-lite",
+  "topics": 13,
+  "title_ko": 5,
+  "summaries": 0
+ }
+}
